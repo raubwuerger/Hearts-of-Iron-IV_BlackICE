@@ -1,0 +1,1288 @@
+28cm/50 SK (Early)\n4-gun Main Battery\n(2x Twin)
+28cm/50 SK (Early)\n6-gun Main Battery\n(3x Twin)
+28cm/50 SK (Early)\n8-gun Main Battery\n(4x Twin)
+28cm/50 SK (Early)\n10-gun Main Battery\n(5x Twin)
+28cm/50 SK (Early)\n12-gun Main Battery\n(6x Twin)
+28cm/50 SK (Early)\n6-gun Main Battery\n(2x Triple)
+28cm/50 SK (Early)\n9-gun Main Battery\n(3x Triple)
+28cm/50 SK (Early)\n12-gun Main Battery\n(4x Triple)
+28cm/50 SK (Early)\n8-gun Main Battery\n(2x Quad)
+28cm/50 SK (Early)\n12-gun Main Battery\n(3x Quad)
+28cm/50 SK (Early)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+28cm/50 SK (Early)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+28cm/50 SK (Early)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+28cm/52 SK C/28 (Interwar)\n4-gun Main Battery\n(2x Twin)
+28cm/52 SK C/28 (Interwar)\n6-gun Main Battery\n(3x Twin)
+28cm/52 SK C/28 (Interwar)\n8-gun Main Battery\n(4x Twin)
+28cm/52 SK C/28 (Interwar)\n10-gun Main Battery\n(5x Twin)
+28cm/52 SK C/28 (Interwar)\n12-gun Main Battery\n(6x Twin)
+28cm/52 SK C/28 (Interwar)\n6-gun Main Battery\n(2x Triple)
+28cm/52 SK C/28 (Interwar)\n9-gun Main Battery\n(3x Triple)
+28cm/52 SK C/28 (Interwar)\n12-gun Main Battery\n(4x Triple)
+28cm/52 SK C/28 (Interwar)\n8-gun Main Battery\n(2x Quad)
+28cm/52 SK C/28 (Interwar)\n12-gun Main Battery\n(3x Quad)
+28cm/52 SK C/28 (Interwar)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+28cm/52 SK C/28 (Interwar)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+28cm/52 SK C/28 (Interwar)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+28cm/54.5 SK C/34 (Advanced)\n4-gun Main Battery\n(2x Twin)
+28cm/54.5 SK C/34 (Advanced)\n6-gun Main Battery\n(3x Twin)
+28cm/54.5 SK C/34 (Advanced)\n8-gun Main Battery\n(4x Twin)
+28cm/54.5 SK C/34 (Advanced)\n10-gun Main Battery\n(5x Twin)
+28cm/54.5 SK C/34 (Advanced)\n12-gun Main Battery\n(6x Twin)
+28cm/54.5 SK C/34 (Advanced)\n6-gun Main Battery\n(2x Triple)
+28cm/54.5 SK C/34 (Advanced)\n9-gun Main Battery\n(3x Triple)
+28cm/54.5 SK C/34 (Advanced)\n12-gun Main Battery\n(4x Triple)
+28cm/54.5 SK C/34 (Advanced)\n8-gun Main Battery\n(2x Quad)
+28cm/54.5 SK C/34 (Advanced)\n12-gun Main Battery\n(3x Quad)
+28cm/54.5 SK C/34 (Advanced)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+28cm/54.5 SK C/34 (Advanced)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+28cm/54.5 SK C/34 (Advanced)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+30.5cm/50 SK (Early)\n4-gun Main Battery\n(2x Twin)
+30.5cm/50 SK (Early)\n6-gun Main Battery\n(3x Twin)
+30.5cm/50 SK (Early)\n8-gun Main Battery\n(4x Twin)
+30.5cm/50 SK (Early)\n10-gun Main Battery\n(5x Twin)
+30.5cm/50 SK (Early)\n12-gun Main Battery\n(6x Twin)
+30.5cm/50 SK (Early)\n6-gun Main Battery\n(2x Triple)
+30.5cm/50 SK (Early)\n9-gun Main Battery\n(3x Triple)
+30.5cm/50 SK (Early)\n12-gun Main Battery\n(4x Triple)
+30.5cm/50 SK (Early)\n8-gun Main Battery\n(2x Quad)
+30.5cm/50 SK (Early)\n12-gun Main Battery\n(3x Quad)
+30.5cm/50 SK (Early)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+30.5cm/50 SK (Early)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+30.5cm/50 SK (Early)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+30.5cm/50 (Interwar)\n4-gun Main Battery\n(2x Twin)
+30.5cm/50 (Interwar)\n6-gun Main Battery\n(3x Twin)
+30.5cm/50 (Interwar)\n8-gun Main Battery\n(4x Twin)
+30.5cm/50 (Interwar)\n10-gun Main Battery\n(5x Twin)
+30.5cm/50 (Interwar)\n12-gun Main Battery\n(6x Twin)
+30.5cm/50 (Interwar)\n6-gun Main Battery\n(2x Triple)
+30.5cm/50 (Interwar)\n9-gun Main Battery\n(3x Triple)
+30.5cm/50 (Interwar)\n12-gun Main Battery\n(4x Triple)
+30.5cm/50 (Interwar)\n8-gun Main Battery\n(2x Quad)
+30.5cm/50 (Interwar)\n12-gun Main Battery\n(3x Quad)
+30.5cm/50 (Interwar)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+30.5cm/50 (Interwar)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+30.5cm/50 (Interwar)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+30.5cm/56 SK C/39 (Advanced)\n4-gun Main Battery\n(2x Twin)
+30.5cm/56 SK C/39 (Advanced)\n6-gun Main Battery\n(3x Twin)
+30.5cm/56 SK C/39 (Advanced)\n8-gun Main Battery\n(4x Twin)
+30.5cm/56 SK C/39 (Advanced)\n10-gun Main Battery\n(5x Twin)
+30.5cm/56 SK C/39 (Advanced)\n12-gun Main Battery\n(6x Twin)
+30.5cm/56 SK C/39 (Advanced)\n6-gun Main Battery\n(2x Triple)
+30.5cm/56 SK C/39 (Advanced)\n9-gun Main Battery\n(3x Triple)
+30.5cm/56 SK C/39 (Advanced)\n12-gun Main Battery\n(4x Triple)
+30.5cm/56 SK C/39 (Advanced)\n8-gun Main Battery\n(2x Quad)
+30.5cm/56 SK C/39 (Advanced)\n12-gun Main Battery\n(3x Quad)
+30.5cm/56 SK C/39 (Advanced)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+30.5cm/56 SK C/39 (Advanced)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+30.5cm/56 SK C/39 (Advanced)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+33cm/45 (Early)\n4-gun Main Battery\n(2x Twin)
+33cm/45 (Early)\n6-gun Main Battery\n(3x Twin)
+33cm/45 (Early)\n8-gun Main Battery\n(4x Twin)
+33cm/45 (Early)\n10-gun Main Battery\n(5x Twin)
+33cm/45 (Early)\n12-gun Main Battery\n(6x Twin)
+33cm/45 (Early)\n6-gun Main Battery\n(2x Triple)
+33cm/45 (Early)\n9-gun Main Battery\n(3x Triple)
+33cm/45 (Early)\n12-gun Main Battery\n(4x Triple)
+33cm/45 (Early)\n8-gun Main Battery\n(2x Quad)
+33cm/45 (Early)\n12-gun Main Battery\n(3x Quad)
+33cm/45 (Early)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+33cm/45 (Early)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+33cm/45 (Early)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+33cm/50 (Interwar)\n4-gun Main Battery\n(2x Twin)
+33cm/50 (Interwar)\n6-gun Main Battery\n(3x Twin)
+33cm/50 (Interwar)\n8-gun Main Battery\n(4x Twin)
+33cm/50 (Interwar)\n10-gun Main Battery\n(5x Twin)
+33cm/50 (Interwar)\n12-gun Main Battery\n(6x Twin)
+33cm/50 (Interwar)\n6-gun Main Battery\n(2x Triple)
+33cm/50 (Interwar)\n9-gun Main Battery\n(3x Triple)
+33cm/50 (Interwar)\n12-gun Main Battery\n(4x Triple)
+33cm/50 (Interwar)\n8-gun Main Battery\n(2x Quad)
+33cm/50 (Interwar)\n12-gun Main Battery\n(3x Quad)
+33cm/50 (Interwar)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+33cm/50 (Interwar)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+33cm/50 (Interwar)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+33cm/52 (Advanced)\n4-gun Main Battery\n(2x Twin)
+33cm/52 (Advanced)\n6-gun Main Battery\n(3x Twin)
+33cm/52 (Advanced)\n8-gun Main Battery\n(4x Twin)
+33cm/52 (Advanced)\n10-gun Main Battery\n(5x Twin)
+33cm/52 (Advanced)\n12-gun Main Battery\n(6x Twin)
+33cm/52 (Advanced)\n6-gun Main Battery\n(2x Triple)
+33cm/52 (Advanced)\n9-gun Main Battery\n(3x Triple)
+33cm/52 (Advanced)\n12-gun Main Battery\n(4x Triple)
+33cm/52 (Advanced)\n8-gun Main Battery\n(2x Quad)
+33cm/52 (Advanced)\n12-gun Main Battery\n(3x Quad)
+33cm/52 (Advanced)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+33cm/52 (Advanced)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+33cm/52 (Advanced)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+35cm/45 SK (Early)\n4-gun Main Battery\n(2x Twin)
+35cm/45 SK (Early)\n6-gun Main Battery\n(3x Twin)
+35cm/45 SK (Early)\n8-gun Main Battery\n(4x Twin)
+35cm/45 SK (Early)\n10-gun Main Battery\n(5x Twin)
+35cm/45 SK (Early)\n12-gun Main Battery\n(6x Twin)
+35cm/45 SK (Early)\n6-gun Main Battery\n(2x Triple)
+35cm/45 SK (Early)\n9-gun Main Battery\n(3x Triple)
+35cm/45 SK (Early)\n12-gun Main Battery\n(4x Triple)
+35cm/45 SK (Early)\n8-gun Main Battery\n(2x Quad)
+35cm/45 SK (Early)\n12-gun Main Battery\n(3x Quad)
+35cm/45 SK (Early)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+35cm/45 SK (Early)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+35cm/45 SK (Early)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+35cm/50 (Interwar)\n4-gun Main Battery\n(2x Twin)
+35cm/50 (Interwar)\n6-gun Main Battery\n(3x Twin)
+35cm/50 (Interwar)\n8-gun Main Battery\n(4x Twin)
+35cm/50 (Interwar)\n10-gun Main Battery\n(5x Twin)
+35cm/50 (Interwar)\n12-gun Main Battery\n(6x Twin)
+35cm/50 (Interwar)\n6-gun Main Battery\n(2x Triple)
+35cm/50 (Interwar)\n9-gun Main Battery\n(3x Triple)
+35cm/50 (Interwar)\n12-gun Main Battery\n(4x Triple)
+35cm/50 (Interwar)\n8-gun Main Battery\n(2x Quad)
+35cm/50 (Interwar)\n12-gun Main Battery\n(3x Quad)
+35cm/50 (Interwar)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+35cm/50 (Interwar)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+35cm/50 (Interwar)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+35cm/52 (Advanced)\n4-gun Main Battery\n(2x Twin)
+35cm/52 (Advanced)\n6-gun Main Battery\n(3x Twin)
+35cm/52 (Advanced)\n8-gun Main Battery\n(4x Twin)
+35cm/52 (Advanced)\n10-gun Main Battery\n(5x Twin)
+35cm/52 (Advanced)\n12-gun Main Battery\n(6x Twin)
+35cm/52 (Advanced)\n6-gun Main Battery\n(2x Triple)
+35cm/52 (Advanced)\n9-gun Main Battery\n(3x Triple)
+35cm/52 (Advanced)\n12-gun Main Battery\n(4x Triple)
+35cm/52 (Advanced)\n8-gun Main Battery\n(2x Quad)
+35cm/52 (Advanced)\n12-gun Main Battery\n(3x Quad)
+35cm/52 (Advanced)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+35cm/52 (Advanced)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+35cm/52 (Advanced)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+38cm/45 SK (Early)\n4-gun Main Battery\n(2x Twin)
+38cm/45 SK (Early)\n6-gun Main Battery\n(3x Twin)
+38cm/45 SK (Early)\n8-gun Main Battery\n(4x Twin)
+38cm/45 SK (Early)\n10-gun Main Battery\n(5x Twin)
+38cm/45 SK (Early)\n12-gun Main Battery\n(6x Twin)
+38cm/45 SK (Early)\n6-gun Main Battery\n(2x Triple)
+38cm/45 SK (Early)\n9-gun Main Battery\n(3x Triple)
+38cm/45 SK (Early)\n12-gun Main Battery\n(4x Triple)
+38cm/45 SK (Early)\n8-gun Main Battery\n(2x Quad)
+38cm/45 SK (Early)\n12-gun Main Battery\n(3x Quad)
+38cm/45 SK (Early)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+38cm/45 SK (Early)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+38cm/45 SK (Early)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+38cm/52 SK C/34 (Interwar)\n4-gun Main Battery\n(2x Twin)
+38cm/52 SK C/34 (Interwar)\n6-gun Main Battery\n(3x Twin)
+38cm/52 SK C/34 (Interwar)\n8-gun Main Battery\n(4x Twin)
+38cm/52 SK C/34 (Interwar)\n10-gun Main Battery\n(5x Twin)
+38cm/52 SK C/34 (Interwar)\n12-gun Main Battery\n(6x Twin)
+38cm/52 SK C/34 (Interwar)\n6-gun Main Battery\n(2x Triple)
+38cm/52 SK C/34 (Interwar)\n9-gun Main Battery\n(3x Triple)
+38cm/52 SK C/34 (Interwar)\n12-gun Main Battery\n(4x Triple)
+38cm/52 SK C/34 (Interwar)\n8-gun Main Battery\n(2x Quad)
+38cm/52 SK C/34 (Interwar)\n12-gun Main Battery\n(3x Quad)
+38cm/52 SK C/34 (Interwar)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+38cm/52 SK C/34 (Interwar)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+38cm/52 SK C/34 (Interwar)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+38cm/52 (Advanced)\n4-gun Main Battery\n(2x Twin)
+38cm/52 (Advanced)\n6-gun Main Battery\n(3x Twin)
+38cm/52 (Advanced)\n8-gun Main Battery\n(4x Twin)
+38cm/52 (Advanced)\n10-gun Main Battery\n(5x Twin)
+38cm/52 (Advanced)\n12-gun Main Battery\n(6x Twin)
+38cm/52 (Advanced)\n6-gun Main Battery\n(2x Triple)
+38cm/52 (Advanced)\n9-gun Main Battery\n(3x Triple)
+38cm/52 (Advanced)\n12-gun Main Battery\n(4x Triple)
+38cm/52 (Advanced)\n8-gun Main Battery\n(2x Quad)
+38cm/52 (Advanced)\n12-gun Main Battery\n(3x Quad)
+38cm/52 (Advanced)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+38cm/52 (Advanced)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+38cm/52 (Advanced)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+42cm/45 SK (Early)\n4-gun Main Battery\n(2x Twin)
+42cm/45 SK (Early)\n6-gun Main Battery\n(3x Twin)
+42cm/45 SK (Early)\n8-gun Main Battery\n(4x Twin)
+42cm/45 SK (Early)\n10-gun Main Battery\n(5x Twin)
+42cm/45 SK (Early)\n12-gun Main Battery\n(6x Twin)
+42cm/45 SK (Early)\n6-gun Main Battery\n(2x Triple)
+42cm/45 SK (Early)\n9-gun Main Battery\n(3x Triple)
+42cm/45 SK (Early)\n12-gun Main Battery\n(4x Triple)
+42cm/45 SK (Early)\n8-gun Main Battery\n(2x Quad)
+42cm/45 SK (Early)\n12-gun Main Battery\n(3x Quad)
+42cm/45 SK (Early)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+42cm/45 SK (Early)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+42cm/45 SK (Early)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+40.6cm/52 SK C/34 (Interwar)\n4-gun Main Battery\n(2x Twin)
+40.6cm/52 SK C/34 (Interwar)\n6-gun Main Battery\n(3x Twin)
+40.6cm/52 SK C/34 (Interwar)\n8-gun Main Battery\n(4x Twin)
+40.6cm/52 SK C/34 (Interwar)\n10-gun Main Battery\n(5x Twin)
+40.6cm/52 SK C/34 (Interwar)\n12-gun Main Battery\n(6x Twin)
+40.6cm/52 SK C/34 (Interwar)\n6-gun Main Battery\n(2x Triple)
+40.6cm/52 SK C/34 (Interwar)\n9-gun Main Battery\n(3x Triple)
+40.6cm/52 SK C/34 (Interwar)\n12-gun Main Battery\n(4x Triple)
+40.6cm/52 SK C/34 (Interwar)\n8-gun Main Battery\n(2x Quad)
+40.6cm/52 SK C/34 (Interwar)\n12-gun Main Battery\n(3x Quad)
+40.6cm/52 SK C/34 (Interwar)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+40.6cm/52 SK C/34 (Interwar)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+40.6cm/52 SK C/34 (Interwar)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+42cm/48 SK C/40 (Advanced)\n4-gun Main Battery\n(2x Twin)
+42cm/48 SK C/40 (Advanced)\n6-gun Main Battery\n(3x Twin)
+42cm/48 SK C/40 (Advanced)\n8-gun Main Battery\n(4x Twin)
+42cm/48 SK C/40 (Advanced)\n10-gun Main Battery\n(5x Twin)
+42cm/48 SK C/40 (Advanced)\n12-gun Main Battery\n(6x Twin)
+42cm/48 SK C/40 (Advanced)\n6-gun Main Battery\n(2x Triple)
+42cm/48 SK C/40 (Advanced)\n9-gun Main Battery\n(3x Triple)
+42cm/48 SK C/40 (Advanced)\n12-gun Main Battery\n(4x Triple)
+42cm/48 SK C/40 (Advanced)\n8-gun Main Battery\n(2x Quad)
+42cm/48 SK C/40 (Advanced)\n12-gun Main Battery\n(3x Quad)
+42cm/48 SK C/40 (Advanced)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+42cm/48 SK C/40 (Advanced)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+42cm/48 SK C/40 (Advanced)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+45cm/48 (Interwar)\n4-gun Main Battery\n(2x Twin)
+45cm/48 (Interwar)\n6-gun Main Battery\n(3x Twin)
+45cm/48 (Interwar)\n8-gun Main Battery\n(4x Twin)
+45cm/48 (Interwar)\n10-gun Main Battery\n(5x Twin)
+45cm/48 (Interwar)\n12-gun Main Battery\n(6x Twin)
+45cm/48 (Interwar)\n6-gun Main Battery\n(2x Triple)
+45cm/48 (Interwar)\n9-gun Main Battery\n(3x Triple)
+45cm/48 (Interwar)\n12-gun Main Battery\n(4x Triple)
+45cm/48 (Interwar)\n8-gun Main Battery\n(2x Quad)
+45cm/48 (Interwar)\n12-gun Main Battery\n(3x Quad)
+45cm/48 (Interwar)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+45cm/48 (Interwar)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+45cm/48 (Interwar)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+45cm/52 (Advanced)\n4-gun Main Battery\n(2x Twin)
+45cm/52 (Advanced)\n6-gun Main Battery\n(3x Twin)
+45cm/52 (Advanced)\n8-gun Main Battery\n(4x Twin)
+45cm/52 (Advanced)\n10-gun Main Battery\n(5x Twin)
+45cm/52 (Advanced)\n12-gun Main Battery\n(6x Twin)
+45cm/52 (Advanced)\n6-gun Main Battery\n(2x Triple)
+45cm/52 (Advanced)\n9-gun Main Battery\n(3x Triple)
+45cm/52 (Advanced)\n12-gun Main Battery\n(4x Triple)
+45cm/52 (Advanced)\n8-gun Main Battery\n(2x Quad)
+45cm/52 (Advanced)\n12-gun Main Battery\n(3x Quad)
+45cm/52 (Advanced)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+45cm/52 (Advanced)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+45cm/52 (Advanced)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+51cm/50 (Interwar)\n4-gun Main Battery\n(2x Twin)
+51cm/50 (Interwar)\n6-gun Main Battery\n(3x Twin)
+51cm/50 (Interwar)\n8-gun Main Battery\n(4x Twin)
+51cm/50 (Interwar)\n10-gun Main Battery\n(5x Twin)
+51cm/50 (Interwar)\n12-gun Main Battery\n(6x Twin)
+51cm/50 (Interwar)\n6-gun Main Battery\n(2x Triple)
+51cm/50 (Interwar)\n9-gun Main Battery\n(3x Triple)
+51cm/50 (Interwar)\n12-gun Main Battery\n(4x Triple)
+51cm/50 (Interwar)\n8-gun Main Battery\n(2x Quad)
+51cm/50 (Interwar)\n12-gun Main Battery\n(3x Quad)
+51cm/50 (Interwar)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+51cm/50 (Interwar)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+51cm/50 (Interwar)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+53cm/52 (Advanced)\n4-gun Main Battery\n(2x Twin)
+53cm/52 (Advanced)\n6-gun Main Battery\n(3x Twin)
+53cm/52 (Advanced)\n8-gun Main Battery\n(4x Twin)
+53cm/52 (Advanced)\n10-gun Main Battery\n(5x Twin)
+53cm/52 (Advanced)\n12-gun Main Battery\n(6x Twin)
+53cm/52 (Advanced)\n6-gun Main Battery\n(2x Triple)
+53cm/52 (Advanced)\n9-gun Main Battery\n(3x Triple)
+53cm/52 (Advanced)\n12-gun Main Battery\n(4x Triple)
+53cm/52 (Advanced)\n8-gun Main Battery\n(2x Quad)
+53cm/52 (Advanced)\n12-gun Main Battery\n(3x Quad)
+53cm/52 (Advanced)\n8-gun Main Battery\n(2x Triple, 1x Twin)
+53cm/52 (Advanced)\n10-gun Main Battery\n(2x Triple, 2x Twin)
+53cm/52 (Advanced)\n10-gun Main Battery\n(2x Quad, 1x Twin)
+
+12.7cm/45 (Early)\n4-gun Main Battery
+12.7cm/45 (Early)\n6-gun Main Battery
+12.7cm/45 (Early)\n8-gun Main Battery
+12.7cm/45 (Early)\n9-gun Main Battery
+12.7cm/45 (Early)\n10-gun Main Battery
+12.7cm/45 (Early)\n12-gun Main Battery
+12.7cm/45 (Early)\n15-gun Main Battery
+12.7cm/45 SK C/34 (Interwar)\n4-gun Main Battery
+12.7cm/45 SK C/34 (Interwar)\n6-gun Main Battery
+12.7cm/45 SK C/34 (Interwar)\n8-gun Main Battery
+12.7cm/45 SK C/34 (Interwar)\n9-gun Main Battery
+12.7cm/45 SK C/34 (Interwar)\n10-gun Main Battery
+12.7cm/45 SK C/34 (Interwar)\n12-gun Main Battery
+12.7cm/45 SK C/34 (Interwar)\n15-gun Main Battery
+12.7cm/45 (Advanced)\n4-gun Main Battery
+12.7cm/45 (Advanced)\n6-gun Main Battery
+12.7cm/45 (Advanced)\n8-gun Main Battery
+12.7cm/45 (Advanced)\n9-gun Main Battery
+12.7cm/45 (Advanced)\n10-gun Main Battery
+12.7cm/45 (Advanced)\n12-gun Main Battery
+12.7cm/45 (Advanced)\n15-gun Main Battery
+14cm/45 (Early)\n4-gun Main Battery
+14cm/45 (Early)\n6-gun Main Battery
+14cm/45 (Early)\n8-gun Main Battery
+14cm/45 (Early)\n9-gun Main Battery
+14cm/45 (Early)\n10-gun Main Battery
+14cm/45 (Early)\n12-gun Main Battery
+14cm/45 (Early)\n15-gun Main Battery
+14cm/50 (Interwar)\n4-gun Main Battery
+14cm/50 (Interwar)\n6-gun Main Battery
+14cm/50 (Interwar)\n8-gun Main Battery
+14cm/50 (Interwar)\n9-gun Main Battery
+14cm/50 (Interwar)\n10-gun Main Battery
+14cm/50 (Interwar)\n12-gun Main Battery
+14cm/50 (Interwar)\n15-gun Main Battery
+14cm/52 (Advanced)\n4-gun Main Battery
+14cm/52 (Advanced)\n6-gun Main Battery
+14cm/52 (Advanced)\n8-gun Main Battery
+14cm/52 (Advanced)\n9-gun Main Battery
+14cm/52 (Advanced)\n10-gun Main Battery
+14cm/52 (Advanced)\n12-gun Main Battery
+14cm/52 (Advanced)\n15-gun Main Battery
+15cm/45 SK (Early)\n4-gun Main Battery
+15cm/45 SK (Early)\n6-gun Main Battery
+15cm/45 SK (Early)\n8-gun Main Battery
+15cm/45 SK (Early)\n9-gun Main Battery
+15cm/45 SK (Early)\n10-gun Main Battery
+15cm/45 SK (Early)\n12-gun Main Battery
+15cm/45 SK (Early)\n15-gun Main Battery
+15cm/60 SK C/25 (Interwar)\n4-gun Main Battery
+15cm/60 SK C/25 (Interwar)\n6-gun Main Battery
+15cm/60 SK C/25 (Interwar)\n8-gun Main Battery
+15cm/60 SK C/25 (Interwar)\n9-gun Main Battery
+15cm/60 SK C/25 (Interwar)\n10-gun Main Battery
+15cm/60 SK C/25 (Interwar)\n12-gun Main Battery
+15cm/60 SK C/25 (Interwar)\n15-gun Main Battery
+15cm/48 KC/36 (Advanced)\n4-gun Main Battery
+15cm/48 KC/36 (Advanced)\n6-gun Main Battery
+15cm/48 KC/36 (Advanced)\n8-gun Main Battery
+15cm/48 KC/36 (Advanced)\n9-gun Main Battery
+15cm/48 KC/36 (Advanced)\n10-gun Main Battery
+15cm/48 KC/36 (Advanced)\n12-gun Main Battery
+15cm/48 KC/36 (Advanced)\n15-gun Main Battery
+15cm/48 (Rapid Fire)\n4-gun Main Battery
+15cm/48 (Rapid Fire)\n6-gun Main Battery
+15cm/48 (Rapid Fire)\n8-gun Main Battery
+15cm/48 (Rapid Fire)\n9-gun Main Battery
+15cm/48 (Rapid Fire)\n10-gun Main Battery
+15cm/48 (Rapid Fire)\n12-gun Main Battery
+15cm/48 (Rapid Fire)\n15-gun Main Battery
+
+21cm/45 SK (Early)\n2-gun Main Battery
+21cm/45 SK (Early)\n4-gun Main Battery
+21cm/45 SK (Early)\n6-gun Main Battery
+21cm/45 SK (Early)\n8-gun Main Battery
+21cm/45 SK (Early)\n9-gun Main Battery
+21cm/45 SK (Early)\n10-gun Main Battery
+21cm/45 SK (Early)\n12-gun Main Battery
+20.3cm/60 SK C/34 (Interwar)\n2-gun Main Battery
+20.3cm/60 SK C/34 (Interwar)\n4-gun Main Battery
+20.3cm/60 SK C/34 (Interwar)\n6-gun Main Battery
+20.3cm/60 SK C/34 (Interwar)\n8-gun Main Battery
+20.3cm/60 SK C/34 (Interwar)\n9-gun Main Battery
+20.3cm/60 SK C/34 (Interwar)\n10-gun Main Battery
+20.3cm/60 SK C/34 (Interwar)\n12-gun Main Battery
+20.3cm/60 (Advanced)\n2-gun Main Battery
+20.3cm/60 (Advanced)\n4-gun Main Battery
+20.3cm/60 (Advanced)\n6-gun Main Battery
+20.3cm/60 (Advanced)\n8-gun Main Battery
+20.3cm/60 (Advanced)\n9-gun Main Battery
+20.3cm/60 (Advanced)\n10-gun Main Battery
+20.3cm/60 (Advanced)\n12-gun Main Battery
+20.3cm/60 (Rapid Fire)\n4-gun Main Battery
+20.3cm/60 (Rapid Fire)\n6-gun Main Battery
+20.3cm/60 (Rapid Fire)\n8-gun Main Battery
+20.3cm/60 (Rapid Fire)\n9-gun Main Battery
+20.3cm/60 (Rapid Fire)\n10-gun Main Battery
+20.3cm/60 (Rapid Fire)\n12-gun Main Battery
+
+12.7cm/45 SK C/41 (Interwar)\n6-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n8-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n10-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n12-gun Dual Purpose Battery
+12.7cm/45 (Advanced)\n6-gun Dual Purpose Battery
+12.7cm/45 (Advanced)\n8-gun Dual Purpose Battery
+12.7cm/45 (Advanced)\n10-gun Dual Purpose Battery
+12.7cm/45 (Advanced)\n12-gun Dual Purpose Battery
+14cm/50 (Interwar)\n6-gun Dual Purpose Battery
+14cm/50 (Interwar)\n8-gun Dual Purpose Battery
+14cm/50 (Interwar)\n10-gun Dual Purpose Battery
+14cm/50 (Interwar)\n12-gun Dual Purpose Battery
+14cm/52 (Advanced)\n6-gun Dual Purpose Battery
+14cm/52 (Advanced)\n8-gun Dual Purpose Battery
+14cm/52 (Advanced)\n10-gun Dual Purpose Battery
+14cm/52 (Advanced)\n12-gun Dual Purpose Battery
+15cm/48 (Advanced)\n6-gun Dual Purpose Battery
+15cm/48 (Advanced)\n8-gun Dual Purpose Battery
+15cm/48 (Advanced)\n10-gun Dual Purpose Battery
+15cm/48 (Advanced)\n12-gun Dual Purpose Battery
+15cm/48 (Rapid Fire)\n6-gun Dual Purpose Battery
+15cm/48 (Rapid Fire)\n8-gun Dual Purpose Battery
+15cm/48 (Rapid Fire)\n10-gun Dual Purpose Battery
+15cm/48 (Rapid Fire)\n12-gun Dual Purpose Battery
+
+28cm/50 SK (Early)\n4-gun Main Battery (2x Twin)
+28cm/50 SK (Early)\n6-gun Main Battery (3x Twin)
+28cm/50 SK (Early)\n8-gun Main Battery (4x Twin)
+28cm/50 SK (Early)\n6-gun Main Battery (2x Triple)
+28cm/50 SK (Early)\n9-gun Main Battery (3x Triple)
+28cm/50 SK (Early)\n8-gun Main Battery (2x Quad)
+28cm/52 SK C/28 (Interwar)\n4-gun Main Battery (2x Twin)
+28cm/52 SK C/28 (Interwar)\n6-gun Main Battery (3x Twin)
+28cm/52 SK C/28 (Interwar)\n8-gun Main Battery (4x Twin)
+28cm/52 SK C/28 (Interwar)\n6-gun Main Battery (2x Triple)
+28cm/52 SK C/28 (Interwar)\n9-gun Main Battery (3x Triple)
+28cm/52 SK C/28 (Interwar)\n8-gun Main Battery (2x Quad)
+28cm/54.5 SK C/34 (Advanced)\n4-gun Main Battery (2x Twin)
+28cm/54.5 SK C/34 (Advanced)\n6-gun Main Battery (3x Twin)
+28cm/54.5 SK C/34 (Advanced)\n8-gun Main Battery (4x Twin)
+28cm/54.5 SK C/34 (Advanced)\n6-gun Main Battery (2x Triple)
+28cm/54.5 SK C/34 (Advanced)\n9-gun Main Battery (3x Triple)
+28cm/54.5 SK C/34 (Advanced)\n8-gun Main Battery (2x Quad)
+30.5cm/50 SK (Early)\n4-gun Main Battery (2x Twin)
+30.5cm/50 SK (Early)\n6-gun Main Battery (3x Twin)
+30.5cm/50 SK (Early)\n8-gun Main Battery (4x Twin)
+30.5cm/50 SK (Early)\n6-gun Main Battery (2x Triple)
+30.5cm/50 SK (Early)\n9-gun Main Battery (3x Triple)
+30.5cm/50 SK (Early)\n8-gun Main Battery (2x Quad)
+30.5cm/50 (Interwar)\n4-gun Main Battery (2x Twin)
+30.5cm/50 (Interwar)\n6-gun Main Battery (3x Twin)
+30.5cm/50 (Interwar)\n8-gun Main Battery (4x Twin)
+30.5cm/50 (Interwar)\n6-gun Main Battery (2x Triple)
+30.5cm/50 (Interwar)\n9-gun Main Battery (3x Triple)
+30.5cm/50 (Interwar)\n8-gun Main Battery (2x Quad)
+30.5cm/56 SK C/39 (Advanced)\n4-gun Main Battery (2x Twin)
+30.5cm/56 SK C/39 (Advanced)\n6-gun Main Battery (3x Twin)
+30.5cm/56 SK C/39 (Advanced)\n8-gun Main Battery (4x Twin)
+30.5cm/56 SK C/39 (Advanced)\n6-gun Main Battery (2x Triple)
+30.5cm/56 SK C/39 (Advanced)\n9-gun Main Battery (3x Triple)
+30.5cm/56 SK C/39 (Advanced)\n8-gun Main Battery (2x Quad)
+
+8.8cm/45 SK (Early)\n1-gun Battery
+8.8cm/45 SK (Early)\n2-gun Battery
+8.8cm/45 SK (Early)\n3-gun Battery
+8.8cm/45 SK (Early)\n4-gun Battery
+8.8cm/45 SK (Early)\n5-gun Battery
+8.8cm/45 SK (Early)\n6-gun Battery
+8.8cm/45 SK (Early)\n8-gun Battery
+8.8cm/45 SK C/30 (Interwar)\n1-gun Battery
+8.8cm/45 SK C/30 (Interwar)\n2-gun Battery
+8.8cm/45 SK C/30 (Interwar)\n3-gun Battery
+8.8cm/45 SK C/30 (Interwar)\n4-gun Battery
+8.8cm/45 SK C/30 (Interwar)\n5-gun Battery
+8.8cm/45 SK C/30 (Interwar)\n6-gun Battery
+8.8cm/45 SK C/30 (Interwar)\n8-gun Battery
+8.8cm/76 (Advanced)\n1-gun Battery
+8.8cm/76 (Advanced)\n2-gun Battery
+8.8cm/76 (Advanced)\n3-gun Battery
+8.8cm/76 (Advanced)\n4-gun Battery
+8.8cm/76 (Advanced)\n5-gun Battery
+8.8cm/76 (Advanced)\n6-gun Battery
+8.8cm/76 (Advanced)\n8-gun Battery
+10.5cm/55 SK C/28 (Early)\n1-gun Battery
+10.5cm/55 SK C/28 (Early)\n2-gun Battery
+10.5cm/55 SK C/28 (Early)\n3-gun Battery
+10.5cm/55 SK C/28 (Early)\n4-gun Battery
+10.5cm/55 SK C/28 (Early)\n5-gun Battery
+10.5cm/55 SK C/28 (Early)\n6-gun Battery
+10.5cm/55 SK C/28 (Early)\n8-gun Battery
+10.5cm/45 SK C/32 (Interwar)\n1-gun Battery
+10.5cm/45 SK C/32 (Interwar)\n2-gun Battery
+10.5cm/45 SK C/32 (Interwar)\n3-gun Battery
+10.5cm/45 SK C/32 (Interwar)\n4-gun Battery
+10.5cm/45 SK C/32 (Interwar)\n5-gun Battery
+10.5cm/45 SK C/32 (Interwar)\n6-gun Battery
+10.5cm/45 SK C/32 (Interwar)\n8-gun Battery
+10.5cm/55 (Advanced)\n1-gun Battery
+10.5cm/55 (Advanced)\n2-gun Battery
+10.5cm/55 (Advanced)\n3-gun Battery
+10.5cm/55 (Advanced)\n4-gun Battery
+10.5cm/55 (Advanced)\n5-gun Battery
+10.5cm/55 (Advanced)\n6-gun Battery
+10.5cm/55 (Advanced)\n8-gun Battery
+12.7cm/45 (Early)\n1-gun Battery
+12.7cm/45 (Early)\n2-gun Battery
+12.7cm/45 (Early)\n3-gun Battery
+12.7cm/45 (Early)\n4-gun Battery
+12.7cm/45 (Early)\n5-gun Battery
+12.7cm/45 (Early)\n6-gun Battery
+12.7cm/45 (Early)\n8-gun Battery
+12.7cm/45 SK C/34 (Interwar)\n1-gun Battery
+12.7cm/45 SK C/34 (Interwar)\n2-gun Battery
+12.7cm/45 SK C/34 (Interwar)\n3-gun Battery
+12.7cm/45 SK C/34 (Interwar)\n4-gun Battery
+12.7cm/45 SK C/34 (Interwar)\n5-gun Battery
+12.7cm/45 SK C/34 (Interwar)\n6-gun Battery
+12.7cm/45 SK C/34 (Interwar)\n8-gun Battery
+12.7cm/45 (Advanced)\n1-gun Battery
+12.7cm/45 (Advanced)\n2-gun Battery
+12.7cm/45 (Advanced)\n3-gun Battery
+12.7cm/45 (Advanced)\n4-gun Battery
+12.7cm/45 (Advanced)\n5-gun Battery
+12.7cm/45 (Advanced)\n6-gun Battery
+12.7cm/45 (Advanced)\n8-gun Battery
+14cm/45 (Early)\n1-gun Battery
+14cm/45 (Early)\n2-gun Battery
+14cm/45 (Early)\n3-gun Battery
+14cm/45 (Early)\n4-gun Battery
+14cm/45 (Early)\n5-gun Battery
+14cm/45 (Early)\n6-gun Battery
+14cm/45 (Early)\n8-gun Battery
+14cm/50 (Interwar)\n1-gun Battery
+14cm/50 (Interwar)\n2-gun Battery
+14cm/50 (Interwar)\n3-gun Battery
+14cm/50 (Interwar)\n4-gun Battery
+14cm/50 (Interwar)\n5-gun Battery
+14cm/50 (Interwar)\n6-gun Battery
+14cm/50 (Interwar)\n8-gun Battery
+14cm/52 (Advanced)\n1-gun Battery
+14cm/52 (Advanced)\n2-gun Battery
+14cm/52 (Advanced)\n3-gun Battery
+14cm/52 (Advanced)\n4-gun Battery
+14cm/52 (Advanced)\n5-gun Battery
+14cm/52 (Advanced)\n6-gun Battery
+14cm/52 (Advanced)\n8-gun Battery
+15cm/45 SK (Early)\n1-gun Battery
+15cm/45 SK (Early)\n2-gun Battery
+15cm/45 SK (Early)\n3-gun Battery
+15cm/45 SK (Early)\n4-gun Battery
+15cm/45 SK (Early)\n5-gun Battery
+15cm/45 SK (Early)\n6-gun Battery
+15cm/60 SK C/25 (Interwar)\n1-gun Battery
+15cm/60 SK C/25 (Interwar)\n2-gun Battery
+15cm/60 SK C/25 (Interwar)\n3-gun Battery
+15cm/60 SK C/25 (Interwar)\n4-gun Battery
+15cm/60 SK C/25 (Interwar)\n5-gun Battery
+15cm/60 SK C/25 (Interwar)\n6-gun Battery
+15cm/48 KC/36 (Advanced)\n1-gun Battery
+15cm/48 KC/36 (Advanced)\n2-gun Battery
+15cm/48 KC/36 (Advanced)\n3-gun Battery
+15cm/48 KC/36 (Advanced)\n4-gun Battery
+15cm/48 KC/36 (Advanced)\n5-gun Battery
+15cm/48 KC/36 (Advanced)\n6-gun Battery
+
+14cm/45 (Early)\n1-gun Battery
+14cm/45 (Early)\n2-gun Battery
+14cm/45 (Early)\n3-gun Battery
+14cm/45 (Early)\n4-gun Battery
+14cm/45 (Early)\n5-gun Battery
+14cm/45 (Early)\n6-gun Battery
+14cm/45 (Early)\n8-gun Battery
+14cm/50 (Interwar)\n1-gun Battery
+14cm/50 (Interwar)\n2-gun Battery
+14cm/50 (Interwar)\n3-gun Battery
+14cm/50 (Interwar)\n4-gun Battery
+14cm/50 (Interwar)\n5-gun Battery
+14cm/50 (Interwar)\n6-gun Battery
+14cm/50 (Interwar)\n8-gun Battery
+14cm/52 (Advanced)\n1-gun Battery
+14cm/52 (Advanced)\n2-gun Battery
+14cm/52 (Advanced)\n3-gun Battery
+14cm/52 (Advanced)\n4-gun Battery
+14cm/52 (Advanced)\n5-gun Battery
+14cm/52 (Advanced)\n6-gun Battery
+14cm/52 (Advanced)\n8-gun Battery
+15cm/45 SK (Early)\n1-gun Battery
+15cm/45 SK (Early)\n2-gun Battery
+15cm/45 SK (Early)\n3-gun Battery
+15cm/45 SK (Early)\n4-gun Battery
+15cm/45 SK (Early)\n5-gun Battery
+15cm/45 SK (Early)\n6-gun Battery
+15cm/60 SK C/25 (Interwar)\n1-gun Battery
+15cm/60 SK C/25 (Interwar)\n2-gun Battery
+15cm/60 SK C/25 (Interwar)\n3-gun Battery
+15cm/60 SK C/25 (Interwar)\n4-gun Battery
+15cm/60 SK C/25 (Interwar)\n5-gun Battery
+15cm/60 SK C/25 (Interwar)\n6-gun Battery
+15cm/48 KC/36 (Advanced)\n1-gun Battery
+15cm/48 KC/36 (Advanced)\n2-gun Battery
+15cm/48 KC/36 (Advanced)\n3-gun Battery
+15cm/48 KC/36 (Advanced)\n4-gun Battery
+15cm/48 KC/36 (Advanced)\n5-gun Battery
+15cm/48 KC/36 (Advanced)\n6-gun Battery
+
+8.8cm/75 SK C/25 (Early)\n1-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n2-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n3-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n4-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n5-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n6-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n8-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n1-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n2-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n3-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n4-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n5-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n6-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n8-gun High-Angle Battery
+8.8cm/76 (Advanced)\n1-gun High-Angle Battery
+8.8cm/76 (Advanced)\n2-gun High-Angle Battery
+8.8cm/76 (Advanced)\n3-gun High-Angle Battery
+8.8cm/76 (Advanced)\n4-gun High-Angle Battery
+8.8cm/76 (Advanced)\n5-gun High-Angle Battery
+8.8cm/76 (Advanced)\n6-gun High-Angle Battery
+8.8cm/76 (Advanced)\n8-gun High-Angle Battery
+10.5cm/55 (Early)\n1-gun High-Angle Battery
+10.5cm/55 (Early)\n2-gun High-Angle Battery
+10.5cm/55 (Early)\n3-gun High-Angle Battery
+10.5cm/55 (Early)\n4-gun High-Angle Battery
+10.5cm/55 (Early)\n5-gun High-Angle Battery
+10.5cm/55 (Early)\n6-gun High-Angle Battery
+10.5cm/55 (Early)\n8-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n1-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n2-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n3-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n4-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n5-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n6-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n8-gun High-Angle Battery
+10.5cm/55 (Advanced)\n1-gun High-Angle Battery
+10.5cm/55 (Advanced)\n2-gun High-Angle Battery
+10.5cm/55 (Advanced)\n3-gun High-Angle Battery
+10.5cm/55 (Advanced)\n4-gun High-Angle Battery
+10.5cm/55 (Advanced)\n5-gun High-Angle Battery
+10.5cm/55 (Advanced)\n6-gun High-Angle Battery
+10.5cm/55 (Advanced)\n8-gun High-Angle Battery
+12.7cm/45 (Early)\n1-gun High-Angle Battery
+12.7cm/45 (Early)\n2-gun High-Angle Battery
+12.7cm/45 (Early)\n3-gun High-Angle Battery
+12.7cm/45 (Early)\n4-gun High-Angle Battery
+12.7cm/45 (Early)\n5-gun High-Angle Battery
+12.7cm/45 (Early)\n6-gun High-Angle Battery
+12.7cm/45 (Early)\n8-gun High-Angle Battery
+12.7cm/50 (Interwar)\n1-gun High-Angle Battery
+12.7cm/50 (Interwar)\n2-gun High-Angle Battery
+12.7cm/50 (Interwar)\n3-gun High-Angle Battery
+12.7cm/50 (Interwar)\n4-gun High-Angle Battery
+12.7cm/50 (Interwar)\n5-gun High-Angle Battery
+12.7cm/50 (Interwar)\n6-gun High-Angle Battery
+12.7cm/50 (Interwar)\n8-gun High-Angle Battery
+12.7cm/61 (Advanced)\n1-gun High-Angle Battery
+12.7cm/61 (Advanced)\n2-gun High-Angle Battery
+12.7cm/61 (Advanced)\n3-gun High-Angle Battery
+12.7cm/61 (Advanced)\n4-gun High-Angle Battery
+12.7cm/61 (Advanced)\n5-gun High-Angle Battery
+12.7cm/61 (Advanced)\n6-gun High-Angle Battery
+12.7cm/61 (Advanced)\n8-gun High-Angle Battery
+
+10.5cm/55 (Interwar)\n1-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n2-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n3-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n4-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n5-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n6-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n8-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n1-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n2-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n3-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n4-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n5-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n6-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n8-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n1-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n2-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n3-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n4-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n5-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n6-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n8-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n1-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n2-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n3-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n4-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n5-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n6-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n8-gun Dual Purpose Battery
+
+12.7cm/45 (Early)\n8-gun Secondary Battery
+12.7cm/45 (Early)\n12-gun Secondary Battery
+12.7cm/45 (Early)\n16-gun Secondary Battery
+12.7cm/45 (Early)\n20-gun Secondary Battery
+12.7cm/45 SK C/34 (Interwar)\n8-gun Secondary Battery
+12.7cm/45 SK C/34 (Interwar)\n12-gun Secondary Battery
+12.7cm/45 SK C/34 (Interwar)\n16-gun Secondary Battery
+12.7cm/45 SK C/34 (Interwar)\n20-gun Secondary Battery
+12.7cm/45 (Advanced)\n8-gun Secondary Battery
+12.7cm/45 (Advanced)\n12-gun Secondary Battery
+12.7cm/45 (Advanced)\n16-gun Secondary Battery
+12.7cm/45 (Advanced)\n20-gun Secondary Battery
+14cm/45 (Early)\n8-gun Secondary Battery
+14cm/45 (Early)\n12-gun Secondary Battery
+14cm/45 (Early)\n16-gun Secondary Battery
+14cm/45 (Early)\n20-gun Secondary Battery
+14cm/50 (Interwar)\n8-gun Secondary Battery
+14cm/50 (Interwar)\n12-gun Secondary Battery
+14cm/50 (Interwar)\n16-gun Secondary Battery
+14cm/50 (Interwar)\n20-gun Secondary Battery
+14cm/52 (Advanced)\n8-gun Secondary Battery
+14cm/52 (Advanced)\n12-gun Secondary Battery
+14cm/52 (Advanced)\n16-gun Secondary Battery
+14cm/52 (Advanced)\n20-gun Secondary Battery
+15cm/45 SK (Early)\n8-gun Secondary Battery
+15cm/45 SK (Early)\n12-gun Secondary Battery
+15cm/45 SK (Early)\n16-gun Secondary Battery
+15cm/45 SK (Early)\n20-gun Secondary Battery
+15cm/55 SK C/28 (Interwar)\n8-gun Secondary Battery
+15cm/55 SK C/28 (Interwar)\n12-gun Secondary Battery
+15cm/55 SK C/28 (Interwar)\n16-gun Secondary Battery
+15cm/55 SK C/28 (Interwar)\n20-gun Secondary Battery
+15cm/48 KC/36 (Advanced)\n8-gun Secondary Battery
+15cm/48 KC/36 (Advanced)\n12-gun Secondary Battery
+15cm/48 KC/36 (Advanced)\n16-gun Secondary Battery
+15cm/48 KC/36 (Advanced)\n20-gun Secondary Battery
+15cm/48 (Rapid Fire)\n8-gun Secondary Battery
+15cm/48 (Rapid Fire)\n12-gun Secondary Battery
+15cm/48 (Rapid Fire)\n16-gun Secondary Battery
+15cm/48 (Rapid Fire)\n20-gun Secondary Battery
+10.5cm/55 (Interwar)\n4-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n8-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n12-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n4-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n8-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n12-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n4-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n8-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n12-gun Dual Purpose Battery
+12.7cm/45 (Advanced)\n4-gun Dual Purpose Battery
+12.7cm/45 (Advanced)\n8-gun Dual Purpose Battery
+12.7cm/45 (Advanced)\n12-gun Dual Purpose Battery
+14cm/50 (Interwar)\n4-gun Dual Purpose Battery
+14cm/50 (Interwar)\n8-gun Dual Purpose Battery
+14cm/50 (Interwar)\n12-gun Dual Purpose Battery
+14cm/52 (Advanced)\n4-gun Dual Purpose Battery
+14cm/52 (Advanced)\n8-gun Dual Purpose Battery
+14cm/52 (Advanced)\n12-gun Dual Purpose Battery
+15cm/48 (Advanced)\n4-gun Dual Purpose Battery
+15cm/48 (Advanced)\n8-gun Dual Purpose Battery
+15cm/48 (Advanced)\n12-gun Dual Purpose Battery
+15cm/48 (Rapid Fire)\n4-gun Dual Purpose Battery
+15cm/48 (Rapid Fire)\n8-gun Dual Purpose Battery
+15cm/48 (Rapid Fire)\n12-gun Dual Purpose Battery
+21cm/45 SK (Early)\n6-gun Secondary Battery
+21cm/45 SK (Early)\n8-gun Secondary Battery
+21cm/45 SK (Early)\n10-gun Secondary Battery
+21cm/45 SK (Early)\n12-gun Secondary Battery
+20.3cm/60 SK C/34 (Interwar)\n6-gun Secondary Battery
+20.3cm/60 SK C/34 (Interwar)\n8-gun Secondary Battery
+20.3cm/60 SK C/34 (Interwar)\n10-gun Secondary Battery
+20.3cm/60 SK C/34 (Interwar)\n12-gun Secondary Battery
+20.3cm/60 (Advanced)\n6-gun Secondary Battery
+20.3cm/60 (Advanced)\n8-gun Secondary Battery
+20.3cm/60 (Advanced)\n10-gun Secondary Battery
+20.3cm/60 (Advanced)\n12-gun Secondary Battery
+
+8.8cm/75 SK C/25 (Early)\n4-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n8-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n12-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n16-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n4-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n8-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n12-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n16-gun High-Angle Battery
+8.8cm/76 (Advanced)\n4-gun High-Angle Battery
+8.8cm/76 (Advanced)\n8-gun High-Angle Battery
+8.8cm/76 (Advanced)\n12-gun High-Angle Battery
+8.8cm/76 (Advanced)\n16-gun High-Angle Battery
+10.5cm/55 SK C/28 (Early)\n4-gun High-Angle Battery
+10.5cm/55 SK C/28 (Early)\n8-gun High-Angle Battery
+10.5cm/55 SK C/28 (Early)\n12-gun High-Angle Battery
+10.5cm/55 SK C/28 (Early)\n16-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n4-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n8-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n12-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n16-gun High-Angle Battery
+10.5cm/55 (Advanced)\n4-gun High-Angle Battery
+10.5cm/55 (Advanced)\n8-gun High-Angle Battery
+10.5cm/55 (Advanced)\n12-gun High-Angle Battery
+10.5cm/55 (Advanced)\n16-gun High-Angle Battery
+12.7cm/45 (Early)\n4-gun High-Angle Battery
+12.7cm/45 (Early)\n8-gun High-Angle Battery
+12.7cm/45 (Early)\n12-gun High-Angle Battery
+12.7cm/45 (Early)\n16-gun High-Angle Battery
+12.7cm/50 (Interwar)\n4-gun High-Angle Battery
+12.7cm/50 (Interwar)\n8-gun High-Angle Battery
+12.7cm/50 (Interwar)\n12-gun High-Angle Battery
+12.7cm/50 (Interwar)\n16-gun High-Angle Battery
+12.7cm/61 (Advanced)\n4-gun High-Angle Battery
+12.7cm/61 (Advanced)\n8-gun High-Angle Battery
+12.7cm/61 (Advanced)\n12-gun High-Angle Battery
+12.7cm/61 (Advanced)\n16-gun High-Angle Battery
+10.5cm/55 (Interwar)\n4-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n8-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n12-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n4-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n8-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n12-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n4-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n8-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n12-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n4-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n8-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n12-gun Dual Purpose Battery
+14cm/50 (Interwar)\n4-gun Dual Purpose Battery
+14cm/50 (Interwar)\n8-gun Dual Purpose Battery
+14cm/50 (Interwar)\n12-gun Dual Purpose Battery
+14cm/52 (Advanced)\n4-gun Dual Purpose Battery
+14cm/52 (Advanced)\n8-gun Dual Purpose Battery
+14cm/52 (Advanced)\n12-gun Dual Purpose Battery
+15cm/48 (Advanced)\n4-gun Dual Purpose Battery
+15cm/48 (Advanced)\n8-gun Dual Purpose Battery
+15cm/48 (Advanced)\n12-gun Dual Purpose Battery
+15cm/48 (Rapid Fire)\n4-gun Dual Purpose Battery
+15cm/48 (Rapid Fire)\n8-gun Dual Purpose Battery
+15cm/48 (Rapid Fire)\n12-gun Dual Purpose Battery
+
+12.7cm/45 (Early)\n4-gun Secondary Battery
+12.7cm/45 (Early)\n8-gun Secondary Battery
+12.7cm/45 (Early)\n12-gun Secondary Battery
+12.7cm/45 SK C/34 (Interwar)\n4-gun Secondary Battery
+12.7cm/45 SK C/34 (Interwar)\n8-gun Secondary Battery
+12.7cm/45 SK C/34 (Interwar)\n12-gun Secondary Battery
+12.7cm/45 (Advanced)\n4-gun Secondary Battery
+12.7cm/45 (Advanced)\n8-gun Secondary Battery
+12.7cm/45 (Advanced)\n12-gun Secondary Battery
+14cm/45 (Early)\n4-gun Secondary Battery
+14cm/45 (Early)\n8-gun Secondary Battery
+14cm/45 (Early)\n12-gun Secondary Battery
+14cm/50 (Interwar)\n4-gun Secondary Battery
+14cm/50 (Interwar)\n8-gun Secondary Battery
+14cm/50 (Interwar)\n12-gun Secondary Battery
+14cm/52 (Advanced)\n4-gun Secondary Battery
+14cm/52 (Advanced)\n8-gun Secondary Battery
+14cm/52 (Advanced)\n12-gun Secondary Battery
+15cm/45 SK (Early)\n4-gun Secondary Battery
+15cm/45 SK (Early)\n8-gun Secondary Battery
+15cm/45 SK (Early)\n12-gun Secondary Battery
+15cm/55 SK C/28 (Interwar)\n4-gun Secondary Battery
+15cm/55 SK C/28 (Interwar)\n8-gun Secondary Battery
+15cm/55 SK C/28 (Interwar)\n12-gun Secondary Battery
+15cm/48 (Advanced)\n4-gun Secondary Battery
+15cm/48 (Advanced)\n8-gun Secondary Battery
+15cm/48 (Advanced)\n12-gun Secondary Battery
+8.8cm/75 SK C/25 (Early)\n4-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n8-gun High-Angle Battery
+8.8cm/75 SK C/25 (Early)\n12-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n4-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n8-gun High-Angle Battery
+8.8cm/76 SK C/32 (Interwar)\n12-gun High-Angle Battery
+8.8cm/76 (Advanced)\n4-gun High-Angle Battery
+8.8cm/76 (Advanced)\n8-gun High-Angle Battery
+8.8cm/76 (Advanced)\n12-gun High-Angle Battery
+10.5cm/55 SK C/28 (Early)\n4-gun High-Angle Battery
+10.5cm/55 SK C/28 (Early)\n8-gun High-Angle Battery
+10.5cm/55 SK C/28 (Early)\n12-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n4-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n8-gun High-Angle Battery
+10.5cm/65 SK C/33 (Interwar)\n12-gun High-Angle Battery
+10.5cm/55 (Advanced)\n4-gun High-Angle Battery
+10.5cm/55 (Advanced)\n8-gun High-Angle Battery
+10.5cm/55 (Advanced)\n12-gun High-Angle Battery
+12.7cm/45 (Early)\n4-gun High-Angle Battery
+12.7cm/45 (Early)\n8-gun High-Angle Battery
+12.7cm/45 (Early)\n12-gun High-Angle Battery
+12.7cm/50 (Interwar)\n4-gun High-Angle Battery
+12.7cm/50 (Interwar)\n8-gun High-Angle Battery
+12.7cm/50 (Interwar)\n12-gun High-Angle Battery
+12.7cm/61 (Advanced)\n4-gun High-Angle Battery
+12.7cm/61 (Advanced)\n8-gun High-Angle Battery
+12.7cm/61 (Advanced)\n12-gun High-Angle Battery
+10.5cm/55 (Interwar)\n4-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n8-gun Dual Purpose Battery
+10.5cm/55 (Interwar)\n12-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n4-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n8-gun Dual Purpose Battery
+10.5cm/55 (Advanced)\n12-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n4-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n8-gun Dual Purpose Battery
+12.7cm/45 SK C/41 (Interwar)\n12-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n4-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n8-gun Dual Purpose Battery
+12.7cm/61 (Advanced)\n12-gun Dual Purpose Battery
+
+Local Fire Control
+Central Fire & Rangefinder
+Director Fire
+Improved Director Fire
+Improved Director Fire & Mechanical Rangekeeper
+Advanced Director & Mechanical Rangekeeper
+Advanced Director & Ballistic Computer
+
+Basic AA Fire Control
+Improved AA Fire Control
+Tachymetric AA Fire Control
+Integrated AA Fire Control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEETAKT Radar
+FuMO 21/22 Radar
+FuMO 21/23/27 Radar
+FuMO 24/25/26 Radar
+FuMO 32/33/34 Radar
+Advanced Centimetric Radar
+FuMO 21/23/27 Radar & FuMO 23 Radar FC
+FuMO 24/25/26 Radar & FuMO 25 Radar FC
+FuMO 32/33/34 Radar & FuMO 213 Radar FC
+Advanced Centimetric Radar & Integrated Radar FC
+
+
+
+
+
+
+
+
+
+
+
+
+2cm/65 C/30 Cannon (Few)
+2cm/65 C/30 Cannon
+2cm/65 C/38 Cannon
+2cm/65 C/38/43 Cannon
+
+
+
+
+
+
+3.7cm/83 C/30 Cannon (Few)
+3.7cm/83 C/30 Cannon
+3.7cm/69 M42 Cannon
+3.7cm/69 M42 Cannon (Many)
+5.5cm/77 Autoloading Cannon
+
+
+
+
+
+
+
+Floatplane Catapult & Hangar
+Floatplane Catapult & Hangar (Improved)
+Floatplane Catapult & Hangar (Advanced)
+
+
+
+
+
+2x 50cm G7\nTorpedo Launcher\n(Early)
+4x 50cm G7\nTorpedo Launcher\n(Early)
+6x 50cm G7\nTorpedo Launcher\n(Early)
+8x 50cm G7\nTorpedo Launcher\n(Early)
+10x 50cm G7\nTorpedo Launcher\n(Early)
+2x 53.3cm G7a\nTorpedo Launcher\n(Improved)
+4x 53.3cm G7a\nTorpedo Launcher\n(Improved)
+6x 53.3cm G7a\nTorpedo Launcher\n(Improved)
+8x 53.3cm G7a\nTorpedo Launcher\n(Improved)
+10x 53.3cm G7a\nTorpedo Launcher\n(Improved)
+2x 53.3cm\nTorpedo Launcher\n(Advanced)
+4x 53.3cm\nTorpedo Launcher\n(Advanced)
+6x 53.3cm\nTorpedo Launcher\n(Advanced)
+8x 53.3cm\nTorpedo Launcher\n(Advanced)
+10x 53.3cm\nTorpedo Launcher\n(Advanced)
+2x 61cm\nTorpedo Launcher\n(Early)
+4x 61cm\nTorpedo Launcher\n(Early)
+6x 61cm\nTorpedo Launcher\n(Early)
+8x 61cm\nTorpedo Launcher\n(Early)
+10x 61cm\nTorpedo Launcher\n(Early)
+2x 61cm\nTorpedo Launcher\n(Improved)
+4x 61cm\nTorpedo Launcher\n(Improved)
+6x 61cm\nTorpedo Launcher\n(Improved)
+8x 61cm\nTorpedo Launcher\n(Improved)
+10x 61cm\nTorpedo Launcher\n(Improved)
+2x 61cm\nTorpedo Launcher\n(Advanced)
+4x 61cm\nTorpedo Launcher\n(Advanced)
+6x 61cm\nTorpedo Launcher\n(Advanced)
+8x 61cm\nTorpedo Launcher\n(Advanced)
+10x 61cm\nTorpedo Launcher\n(Advanced)
+
+2cm/65 C/30 Cannon (Few)
+2cm/65 C/30 Cannon
+2cm/65 C/38 Cannon
+2cm/65 C/38/43 Cannon
+
+
+
+
+
+
+3.7cm/83 C/30 Cannon (Few)
+3.7cm/83 C/30 Cannon
+3.7cm/69 M42 Cannon
+3.7cm/69 M42 Cannon (Many)
+5.5cm/77 Autoloading Cannon
+
+
+
+
+
+
+
+Floatplane Catapult & Hangar
+Floatplane Catapult & Hangar (Improved)
+Floatplane Catapult & Hangar (Advanced)
+
+
+
+
+
+Early Hydrophone
+GHG Hydrophone
+GHG Hydrophone & S-Gerat Sonar
+KDB Hydrophone & S-Gerat Sonar
+KDB Hydrophone & S-Gerat/SU-Apparat Sonar
+
+
+
+
+
+
+
+WBD DC Rack
+WBG DC Rack & Thrower
+WBH DC Rack & Thrower
+
+
+
+
+
+Minelaying Rails
+Minesweeping Gear
+
+
+
+
+2x 50cm G7\nTorpedo Launcher\n(Early)
+4x 50cm G7\nTorpedo Launcher\n(Early)
+6x 50cm G7\nTorpedo Launcher\n(Early)
+8x 50cm G7\nTorpedo Launcher\n(Early)
+10x 50cm G7\nTorpedo Launcher\n(Early)
+2x 53.3cm G7a\nTorpedo Launcher\n(Improved)
+4x 53.3cm G7a\nTorpedo Launcher\n(Improved)
+6x 53.3cm G7a\nTorpedo Launcher\n(Improved)
+8x 53.3cm G7a\nTorpedo Launcher\n(Improved)
+10x 53.3cm G7a\nTorpedo Launcher\n(Improved)
+2x 53.3cm\nTorpedo Launcher\n(Advanced)
+4x 53.3cm\nTorpedo Launcher\n(Advanced)
+6x 53.3cm\nTorpedo Launcher\n(Advanced)
+8x 53.3cm\nTorpedo Launcher\n(Advanced)
+10x 53.3cm\nTorpedo Launcher\n(Advanced)
+2x 61cm\nTorpedo Launcher\n(Early)
+4x 61cm\nTorpedo Launcher\n(Early)
+6x 61cm\nTorpedo Launcher\n(Early)
+8x 61cm\nTorpedo Launcher\n(Early)
+10x 61cm\nTorpedo Launcher\n(Early)
+2x 61cm\nTorpedo Launcher\n(Improved)
+4x 61cm\nTorpedo Launcher\n(Improved)
+6x 61cm\nTorpedo Launcher\n(Improved)
+8x 61cm\nTorpedo Launcher\n(Improved)
+10x 61cm\nTorpedo Launcher\n(Improved)
+2x 61cm\nTorpedo Launcher\n(Advanced)
+4x 61cm\nTorpedo Launcher\n(Advanced)
+6x 61cm\nTorpedo Launcher\n(Advanced)
+8x 61cm\nTorpedo Launcher\n(Advanced)
+10x 61cm\nTorpedo Launcher\n(Advanced)
+
+Early Hydrophone
+GHG Hydrophone
+GHG Hydrophone & S-Gerat Sonar
+KDB Hydrophone & S-Gerat Sonar
+KDB Hydrophone & S-Gerat/SU-Apparat Sonar
+
+
+
+
+
+
+
+2cm/65 C/30 Cannon (Few)
+2cm/65 C/30 Cannon
+2cm/65 C/38 Cannon
+2cm/65 C/38/43 Cannon
+
+
+
+
+
+
+3.7cm/83 C/30 Cannon (Few)
+3.7cm/83 C/30 Cannon
+3.7cm/69 M42 Cannon
+3.7cm/69 M42 Cannon (Many)
+5.5cm/77 Autoloading Cannon
+
+
+
+
+
+
+
+WBD DC Rack
+WBG DC Rack & Thrower
+WBH DC Rack & Thrower
+Anti-Submarine Mortar
+Anti-Submarine Mortar (Improved)
+
+
+
+
+
+
+
+Minelaying Rails
+Minesweeping Gear
+
+
+
+
+2x 50cm G7 Centerline\nTorpedo Launcher\n(Early)
+3x 50cm G7 Centerline\nTorpedo Launcher\n(Early)
+4x 50cm G7 Centerline\nTorpedo Launcher\n(Early)
+5x 50cm G7 Centerline\nTorpedo Launcher\n(Early)
+2x 53.3cm G7a Centerline\nTorpedo Launcher\n(Improved)
+3x 53.3cm G7a Centerline\nTorpedo Launcher\n(Improved)
+4x 53.3cm G7a Centerline\nTorpedo Launcher\n(Improved)
+5x 53.3cm G7a Centerline\nTorpedo Launcher\n(Improved)
+2x 53.3cm Centerline\nTorpedo Launcher\n(Advanced)
+3x 53.3cm Centerline\nTorpedo Launcher\n(Advanced)
+4x 53.3cm Centerline\nTorpedo Launcher\n(Advanced)
+5x 53.3cm Centerline\nTorpedo Launcher\n(Advanced)
+2x1 50cm G7 Side\nTorpedo Launcher\n(Early)
+2x2 50cm G7 Side\nTorpedo Launcher\n(Early)
+2x3 50cm G7 Side\nTorpedo Launcher\n(Early)
+2x4 50cm G7 Side\nTorpedo Launcher\n(Early)
+2x2 53.3cm G7a Side\nTorpedo Launcher\n(Improved)
+2x1 53.3cm G7a Side\nTorpedo Launcher\n(Improved)
+2x3 53.3cm G7a Side\nTorpedo Launcher\n(Improved)
+2x4 53.3cm G7a Side\nTorpedo Launcher\n(Improved)
+2x1 53.3cm Side\nTorpedo Launcher\n(Advanced)
+2x2 53.3cm Side\nTorpedo Launcher\n(Advanced)
+2x3 53.3cm Side\nTorpedo Launcher\n(Advanced)
+2x4 53.3cm Side\nTorpedo Launcher\n(Advanced)
+
+2x 61cm Centerline\nTorpedo Launcher\n(Early)
+3x 61cm Centerline\nTorpedo Launcher\n(Early)
+4x 61cm Centerline\nTorpedo Launcher\n(Early)
+5x 61cm Centerline\nTorpedo Launcher\n(Early)
+2x 61cm Centerline\nTorpedo Launcher\n(Improved)
+3x 61cm Centerline\nTorpedo Launcher\n(Improved)
+4x 61cm Centerline\nTorpedo Launcher\n(Improved)
+5x 61cm Centerline\nTorpedo Launcher\n(Improved)
+2x 61cm Centerline\nTorpedo Launcher\n(Advanced)
+3x 61cm Centerline\nTorpedo Launcher\n(Advanced)
+4x 61cm Centerline\nTorpedo Launcher\n(Advanced)
+5x 61cm Centerline\nTorpedo Launcher\n(Advanced)
+2x1 61cm Side\nTorpedo Launcher\n(Early)
+2x2 61cm Side\nTorpedo Launcher\n(Early)
+2x3 61cm Side\nTorpedo Launcher\n(Early)
+2x4 61cm Side\nTorpedo Launcher\n(Early)
+2x1 61cm Side\nTorpedo Launcher\n(Improved)
+2x2 61cm Side\nTorpedo Launcher\n(Improved)
+2x3 61cm Side\nTorpedo Launcher\n(Improved)
+2x4 61cm Side\nTorpedo Launcher\n(Improved)
+2x1 61cm Side\nTorpedo Launcher\n(Advanced)
+2x2 61cm Side\nTorpedo Launcher\n(Advanced)
+2x3 61cm Side\nTorpedo Launcher\n(Advanced)
+2x4 61cm Side\nTorpedo Launcher\n(Advanced)
+
+8cm/45 Deck Gun
+10.5cm/45 Deck Gun
+12.7cm/45 Deck Gun
+15cm/45 Deck Gun
+20cm/50 Gun
+
+
+
+
+
+
+
+1x 45cm\nTorpedo Tubes\n(Early)
+2x 45cm\nTorpedo Tubes\n(Early)
+3x 45cm\nTorpedo Tubes\n(Early)
+4x 45cm\nTorpedo Tubes\n(Early)
+5x 45cm\nTorpedo Tubes\n(Early)
+6x 45cm\nTorpedo Tubes\n(Early)
+8x 45cm\nTorpedo Tubes\n(Early)
+1x 45cm\nTorpedo Tubes\n(Improved)
+2x 45cm\nTorpedo Tubes\n(Improved)
+3x 45cm\nTorpedo Tubes\n(Improved)
+4x 45cm\nTorpedo Tubes\n(Improved)
+5x 45cm\nTorpedo Tubes\n(Improved)
+6x 45cm\nTorpedo Tubes\n(Improved)
+8x 45cm\nTorpedo Tubes\n(Improved)
+1x 45cm\nTorpedo Tubes\n(Advanced)
+2x 45cm\nTorpedo Tubes\n(Advanced)
+3x 45cm\nTorpedo Tubes\n(Advanced)
+4x 45cm\nTorpedo Tubes\n(Advanced)
+5x 45cm\nTorpedo Tubes\n(Advanced)
+6x 45cm\nTorpedo Tubes\n(Advanced)
+8x 45cm\nTorpedo Tubes\n(Advanced)
+
+1x 53.3cm\nTorpedo Tubes\n(Early)
+2x 53.3cm\nTorpedo Tubes\n(Early)
+3x 53.3cm\nTorpedo Tubes\n(Early)
+4x 53.3cm\nTorpedo Tubes\n(Early)
+5x 53.3cm\nTorpedo Tubes\n(Early)
+6x 53.3cm\nTorpedo Tubes\n(Early)
+8x 53.3cm\nTorpedo Tubes\n(Early)
+1x 53.3cm G7a/G7e\nTorpedo Tubes\n(Improved)
+2x 53.3cm G7a/G7e\nTorpedo Tubes\n(Improved)
+3x 53.3cm G7a/G7e\nTorpedo Tubes\n(Improved)
+4x 53.3cm G7a/G7e\nTorpedo Tubes\n(Improved)
+5x 53.3cm G7a/G7e\nTorpedo Tubes\n(Improved)
+6x 53.3cm G7a/G7e\nTorpedo Tubes\n(Improved)
+8x 53.3cm G7a/G7e\nTorpedo Tubes\n(Improved)
+1x 53.3cm G7e/T3\nTorpedo Tubes\n(Advanced)
+2x 53.3cm G7e/T3\nTorpedo Tubes\n(Advanced)
+3x 53.3cm G7e/T3\nTorpedo Tubes\n(Advanced)
+4x 53.3cm G7e/T3\nTorpedo Tubes\n(Advanced)
+5x 53.3cm G7e/T3\nTorpedo Tubes\n(Advanced)
+6x 53.3cm G7e/T3\nTorpedo Tubes\n(Advanced)
+8x 53.3cm G7e/T3\nTorpedo Tubes\n(Advanced)
+
+2cm/65 C/30 Cannon
+2cm/65 C/38 Cannon
+2cm/65 C/38 Cannon (Twin)
+
+
+
+
+
+3.7cm/83 C/30 Cannon
+3.7cm/69 M42 Cannon
+
+
+
+
+Early Hydrophone
+GHG Hydrophone
+GHG Hydrophone & S-Gerat Sonar
+KDB Hydrophone & S-Gerat Sonar
+KDB Hydrophone & S-Gerat/SU-Apparat Sonar
+
+FuMO 29 Radar
+FuMO 30 Radar
+FuMO 83 Radar
+FuMO 84 Radar
+Advanced Centimetric Radar
+
+
+
+
+
+
+
+No Submarine Stealth
+Early Submarine Stealth
+Improved Submarine Stealth
+Advanced Submarine Stealth
+
+Floatplane Launcher & Hangar
+Floatplane Launcher & Hangar (Improved)
+Floatplane Launcher & Hangar (Advanced)
+
+Schnorkel
+Schnorkel (Improved)
+
+Minelaying Gear
