@@ -1,0 +1,334 @@
+﻿l_german:
+ HSD_COST_TT:0	"[HSD_COST_COLOR] £navy_experience [?cost|0] §!"
+
+ Y_C:0	"§Y"
+ R_C:0	"§R"
+
+### United States
+
+ HSD_USA_CV_yorktown_name:0	"Yorktown"
+ HSD_USA_CV_yorktown_tooltip:0	"[!HSD_USA_CV_yorktown_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CV_yorktown_button_click]"
+ HSD_USA_CV_yorktown_desc:0	"HSD_USA_CV_yorktown_desc"
+
+ HSD_USA_CV_wasp_name:0	"Wasp"
+ HSD_USA_CV_wasp_tooltip:0	"[!HSD_USA_CV_wasp_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CV_wasp_button_click]"
+ HSD_USA_CV_wasp_desc:0	"HSD_USA_CV_wasp_desc"
+ #HSD_USA_CV_wasp_refit_name:0	"Refit 1941"
+ #HSD_USA_CV_wasp_refit_tooltip:0	"[!HSD_USA_CV_wasp_refit_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CV_wasp_refit_button_click]"
+ #HSD_USA_CV_wasp_refit_desc:0	"HSD_USA_CV_wasp_refit_desc"
+
+ HSD_USA_CV_essex_name:0	"Essex"
+ HSD_USA_CV_essex_tooltip:0	"[!HSD_USA_CV_essex_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CV_essex_button_click]"
+ HSD_USA_CV_essex_desc:0	"HSD_USA_CV_essex_desc"
+
+ HSD_USA_CV_midway_name:0	"Midway"
+ HSD_USA_CV_midway_tooltip:0	"[!HSD_USA_CV_midway_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CV_midway_button_click]"
+ HSD_USA_CV_midway_desc:0	"HSD_USA_CV_midway_desc"
+
+ HSD_USA_BB_north_carolina_name:0	"North Carolina"
+ HSD_USA_BB_north_carolina_tooltip:0	"[!HSD_USA_BB_north_carolina_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_BB_north_carolina_button_click]"
+ HSD_USA_BB_north_carolina_desc:0	"HSD_USA_BB_north_carolina_desc"
+
+ HSD_USA_BB_south_dakota_name:0	"South Dakota"
+ HSD_USA_BB_south_dakota_tooltip:0	"[!HSD_USA_BB_south_dakota_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_BB_south_dakota_button_click]"
+ HSD_USA_BB_south_dakota_desc:0	"HSD_USA_BB_south_dakota_desc"
+
+ HSD_USA_BB_iowa_name:0	"Iowa"
+ HSD_USA_BB_iowa_tooltip:0	"[!HSD_USA_BB_iowa_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_BB_iowa_button_click]"
+ HSD_USA_BB_iowa_desc:0	"HSD_USA_BB_iowa_desc"
+
+ HSD_USA_BB_montana_name:0	"Montana"
+ HSD_USA_BB_montana_tooltip:0	"[!HSD_USA_BB_montana_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_BB_montana_button_click]"
+ HSD_USA_BB_montana_desc:0	"HSD_USA_BB_montana_desc"
+
+ HSD_USA_CB_alaska_name:0	"Alaska"
+ HSD_USA_CB_alaska_tooltip:0	"[!HSD_USA_CB_alaska_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CB_alaska_button_click]"
+ HSD_USA_CB_alaska_desc:0	"HSD_USA_CB_alaska_desc"
+
+ HSD_USA_CA_wichita_name:0	"Wichita"
+ HSD_USA_CA_wichita_tooltip:0	"[!HSD_USA_CA_wichita_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CA_wichita_button_click]"
+ HSD_USA_CA_wichita_desc:0	"HSD_USA_CA_wichita_desc"
+
+ HSD_USA_CA_baltimore_name:0	"Baltimore"
+ HSD_USA_CA_baltimore_tooltip:0	"[!HSD_USA_CA_baltimore_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CA_baltimore_button_click]"
+ HSD_USA_CA_baltimore_desc:0	"HSD_USA_CA_baltimore_desc"
+
+ HSD_USA_CA_oregon_city_name:0	"Oregon City"
+ HSD_USA_CA_oregon_city_tooltip:0	"[!HSD_USA_CA_oregon_city_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CA_oregon_city_button_click]"
+ HSD_USA_CA_oregon_city_desc:0	"HSD_USA_CA_oregon_city_desc"
+
+ HSD_USA_CA_des_moines_name:0	"Des Moines"
+ HSD_USA_CA_des_moines_tooltip:0	"[!HSD_USA_CA_des_moines_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CA_des_moines_button_click]"
+ HSD_USA_CA_des_moines_desc:0	"HSD_USA_CA_des_moines_desc"
+
+ HSD_USA_CL_brooklyn_name:0	"Brooklyn"
+ HSD_USA_CL_brooklyn_tooltip:0	"[!HSD_USA_CL_brooklyn_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CL_brooklyn_button_click]"
+ HSD_USA_CL_brooklyn_desc:0	"HSD_USA_CL_brooklyn_desc"
+
+ HSD_USA_CL_stlouis_name:0	"St. Louis"
+ HSD_USA_CL_stlouis_tooltip:0	"[!HSD_USA_CL_stlouis_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CL_stlouis_button_click]"
+ HSD_USA_CL_stlouis_desc:0	"HSD_USA_CL_stlouis_desc"
+
+ HSD_USA_CL_atlanta_name:0	"Atlanta"
+ HSD_USA_CL_atlanta_tooltip:0	"[!HSD_USA_CL_atlanta_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CL_atlanta_button_click]"
+ HSD_USA_CL_atlanta_desc:0	"HSD_USA_CL_atlanta_desc"
+
+ HSD_USA_CL_cleveland_name:0	"Cleveland"
+ HSD_USA_CL_cleveland_tooltip:0	"[!HSD_USA_CL_cleveland_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CL_cleveland_button_click]"
+ HSD_USA_CL_cleveland_desc:0	"HSD_USA_CL_cleveland_desc"
+
+ HSD_USA_CL_fargo_name:0	"Fargo"
+ HSD_USA_CL_fargo_tooltip:0	"[!HSD_USA_CL_fargo_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CL_fargo_button_click]"
+ HSD_USA_CL_fargo_desc:0	"HSD_USA_CL_fargo_desc"
+
+ HSD_USA_CL_worcester_name:0	"Worcester"
+ HSD_USA_CL_worcester_tooltip:0	"[!HSD_USA_CL_worcester_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_USA_CL_worcester_button_click]"
+ HSD_USA_CL_worcester_desc:0	"HSD_USA_CL_worcester_desc"
+
+### United Kingdom
+
+ HSD_ENG_CV_ark_royal_name:0	"Ark Royal"
+ HSD_ENG_CV_ark_royal_tooltip:0	"[!HSD_ENG_CV_ark_royal_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CV_ark_royal_button_click]"
+ HSD_ENG_CV_ark_royal_desc:0	"HSD_ENG_CV_ark_royal_desc"
+
+ HSD_ENG_CV_illustrious_name:0	"Illustrious"
+ HSD_ENG_CV_illustrious_tooltip:0	"[!HSD_ENG_CV_illustrious_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CV_illustrious_button_click]"
+ HSD_ENG_CV_illustrious_desc:0	"HSD_ENG_CV_illustrious_desc"
+
+ HSD_ENG_CV_implacable_name:0	"Implacable"
+ HSD_ENG_CV_implacable_tooltip:0	"[!HSD_ENG_CV_implacable_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CV_implacable_button_click]"
+ HSD_ENG_CV_implacable_desc:0	"HSD_ENG_CV_implacable_desc"
+
+ HSD_ENG_CV_audacious_name:0	"Audacious"
+ HSD_ENG_CV_audacious_tooltip:0	"[!HSD_ENG_CV_audacious_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CV_audacious_button_click]"
+ HSD_ENG_CV_audacious_desc:0	"HSD_ENG_CV_audacious_desc"
+
+ HSD_ENG_CV_malta_name:0	"Malta"
+ HSD_ENG_CV_malta_tooltip:0	"[!HSD_ENG_CV_malta_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CV_malta_button_click]"
+ HSD_ENG_CV_malta_desc:0	"HSD_ENG_CV_malta_desc"
+
+ HSD_ENG_BB_king_george_v_name:0	"King George V"
+ HSD_ENG_BB_king_george_v_tooltip:0	"[!HSD_ENG_BB_king_george_v_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_BB_king_george_v_button_click]"
+ HSD_ENG_BB_king_george_v_desc:0	"HSD_ENG_BB_king_george_v_desc"
+
+ HSD_ENG_BB_lion_name:0	"Lion"
+ HSD_ENG_BB_lion_tooltip:0	"[!HSD_ENG_BB_lion_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_BB_lion_button_click]"
+ HSD_ENG_BB_lion_desc:0	"HSD_ENG_BB_lion_desc"
+
+ HSD_ENG_BB_vanguard_name:0	"Vanguard"
+ HSD_ENG_BB_vanguard_tooltip:0	"[!HSD_ENG_BB_vanguard_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_BB_vanguard_button_click]"
+ HSD_ENG_BB_vanguard_desc:0	"HSD_ENG_BB_vanguard_desc"
+
+ HSD_ENG_CA_benbow_name:0	"Benbow (1940 Cruiser A)"
+ HSD_ENG_CA_benbow_tooltip:0	"[!HSD_ENG_CA_benbow_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CA_benbow_button_click]"
+ HSD_ENG_CA_benbow_desc:0	"HSD_ENG_CA_benbow_desc"
+
+ HSD_ENG_CL_southampton_name:0	"Southampton"
+ HSD_ENG_CL_southampton_tooltip:0	"[!HSD_ENG_CL_southampton_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CL_southampton_button_click]"
+ HSD_ENG_CL_southampton_desc:0	"HSD_ENG_CL_southampton_desc"
+
+ HSD_ENG_CL_edinburgh_name:0	"Edinburgh"
+ HSD_ENG_CL_edinburgh_tooltip:0	"[!HSD_ENG_CL_edinburgh_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CL_edinburgh_button_click]"
+ HSD_ENG_CL_edinburgh_desc:0	"HSD_ENG_CL_edinburgh_desc"
+
+ HSD_ENG_CL_dido_name:0	"Dido"
+ HSD_ENG_CL_dido_tooltip:0	"[!HSD_ENG_CL_dido_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CL_dido_button_click]"
+ HSD_ENG_CL_dido_desc:0	"HSD_ENG_CL_dido_desc"
+
+ HSD_ENG_CL_fiji_name:0	"Fiji"
+ HSD_ENG_CL_fiji_tooltip:0	"[!HSD_ENG_CL_fiji_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CL_fiji_button_click]"
+ HSD_ENG_CL_fiji_desc:0	"HSD_ENG_CL_fiji_desc"
+
+ HSD_ENG_CL_swiftsure_name:0	"Swiftsure"
+ HSD_ENG_CL_swiftsure_tooltip:0	"[!HSD_ENG_CL_swiftsure_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ENG_CL_swiftsure_button_click]"
+ HSD_ENG_CL_swiftsure_desc:0	"HSD_ENG_CL_swiftsure_desc"
+
+### Japan
+
+ HSD_JAP_CV_soryu_name:0	"Soryu"
+ HSD_JAP_CV_soryu_tooltip:0	"[!HSD_JAP_CV_soryu_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CV_soryu_button_click]"
+ HSD_JAP_CV_soryu_desc:0	"HSD_JAP_CV_soryu_desc"
+
+ HSD_JAP_CV_hiryu_name:0	"Hiryu"
+ HSD_JAP_CV_hiryu_tooltip:0	"[!HSD_JAP_CV_hiryu_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CV_hiryu_button_click]"
+ HSD_JAP_CV_hiryu_desc:0	"HSD_JAP_CV_hiryu_desc"
+
+ HSD_JAP_CV_shokaku_name:0	"Shokaku"
+ HSD_JAP_CV_shokaku_tooltip:0	"[!HSD_JAP_CV_shokaku_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CV_shokaku_button_click]"
+ HSD_JAP_CV_shokaku_desc:0	"HSD_JAP_CV_shokaku_desc"
+
+ HSD_JAP_CV_junyo_name:0	"Junyo"
+ HSD_JAP_CV_junyo_tooltip:0	"[!HSD_JAP_CV_junyo_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CV_junyo_button_click]"
+ HSD_JAP_CV_junyo_desc:0	"HSD_JAP_CV_junyo_desc"
+
+ HSD_JAP_CV_shinano_name:0	"Shinano"
+ HSD_JAP_CV_shinano_tooltip:0	"[!HSD_JAP_CV_shinano_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CV_shinano_button_click]"
+ HSD_JAP_CV_shinano_desc:0	"HSD_JAP_CV_shinano_desc"
+
+ HSD_JAP_CV_taiho_name:0	"Taiho"
+ HSD_JAP_CV_taiho_tooltip:0	"[!HSD_JAP_CV_taiho_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CV_taiho_button_click]"
+ HSD_JAP_CV_taiho_desc:0	"HSD_JAP_CV_taiho_desc"
+
+ HSD_JAP_CV_unryu_name:0	"Unryu"
+ HSD_JAP_CV_unryu_tooltip:0	"[!HSD_JAP_CV_unryu_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CV_unryu_button_click]"
+ HSD_JAP_CV_unryu_desc:0	"HSD_JAP_CV_unryu_desc"
+
+ HSD_JAP_CV_kokuryu_name:0	"Kokuryu (G-14)"
+ HSD_JAP_CV_kokuryu_tooltip:0	"[!HSD_JAP_CV_kokuryu_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CV_kokuryu_button_click]"
+ HSD_JAP_CV_kokuryu_desc:0	"HSD_JAP_CV_kokuryu_desc"
+
+ HSD_JAP_BB_yamato_name:0	"Yamato"
+ HSD_JAP_BB_yamato_tooltip:0	"[!HSD_JAP_BB_yamato_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_BB_yamato_button_click]"
+ HSD_JAP_BB_yamato_desc:0	"HSD_JAP_BB_yamato_desc"
+
+ HSD_JAP_BB_settsu_name:0	"Settsu (A-150)"
+ HSD_JAP_BB_settsu_tooltip:0	"[!HSD_JAP_BB_settsu_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_BB_settsu_button_click]"
+ HSD_JAP_BB_settsu_desc:0	"HSD_JAP_BB_settsu_desc"
+
+ HSD_JAP_CB_fuji_name:0	"Fuji (B-65)"
+ HSD_JAP_CB_fuji_tooltip:0	"[!HSD_JAP_CB_fuji_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CB_fuji_button_click]"
+ HSD_JAP_CB_fuji_desc:0	"HSD_JAP_CB_fuji_desc"
+
+ HSD_JAP_CA_ibuki_name:0	"Ibuki"
+ HSD_JAP_CA_ibuki_tooltip:0	"[!HSD_JAP_CA_ibuki_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CA_ibuki_button_click]"
+ HSD_JAP_CA_ibuki_desc:0	"HSD_JAP_CA_ibuki_desc"
+
+ HSD_JAP_CL_agano_name:0	"Agano"
+ HSD_JAP_CL_agano_tooltip:0	"[!HSD_JAP_CL_agano_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CL_agano_button_click]"
+ HSD_JAP_CL_agano_desc:0	"HSD_JAP_CL_agano_desc"
+
+ HSD_JAP_CL_oyodo_name:0	"Oyodo"
+ HSD_JAP_CL_oyodo_tooltip:0	"[!HSD_JAP_CL_oyodo_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CL_oyodo_button_click]"
+ HSD_JAP_CL_oyodo_desc:0	"HSD_JAP_CL_oyodo_desc"
+
+ HSD_JAP_CL_sakai_name:0	"Sakai (C-44)"
+ HSD_JAP_CL_sakai_tooltip:0	"[!HSD_JAP_CL_sakai_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_JAP_CL_sakai_button_click]"
+ HSD_JAP_CL_sakai_desc:0	"HSD_JAP_CL_sakai_desc"
+
+### Italy
+
+ HSD_ITA_CV_aquila_name:0	"Aquila"
+ HSD_ITA_CV_aquila_tooltip:0	"[!HSD_ITA_CV_aquila_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ITA_CV_aquila_button_click]"
+ HSD_ITA_CV_aquila_desc:0	"HSD_ITA_CV_aquila_desc"
+
+ HSD_ITA_BB_vittorio_veneto_name:0	"Vittorio Veneto"
+ HSD_ITA_BB_vittorio_veneto_tooltip:0	"[!HSD_ITA_BB_vittorio_veneto_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ITA_BB_vittorio_veneto_button_click]"
+ HSD_ITA_BB_vittorio_veneto_desc:0	"HSD_ITA_BB_vittorio_veneto_desc"
+
+ HSD_ITA_BB_roma_name:0	"Roma"
+ HSD_ITA_BB_roma_tooltip:0	"[!HSD_ITA_BB_roma_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ITA_BB_roma_button_click]"
+ HSD_ITA_BB_roma_desc:0	"HSD_ITA_BB_roma_desc"
+
+ HSD_ITA_CL_duca_degli_abruzzi_name:0	"Duca degli Abruzzi"
+ HSD_ITA_CL_duca_degli_abruzzi_tooltip:0	"[!HSD_ITA_CL_duca_degli_abruzzi_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ITA_CL_duca_degli_abruzzi_button_click]"
+ HSD_ITA_CL_duca_degli_abruzzi_desc:0	"HSD_ITA_CL_duca_degli_abruzzi_desc"
+
+ HSD_ITA_CL_capitani_romani_name:0	"Capitani Romani"
+ HSD_ITA_CL_capitani_romani_tooltip:0	"[!HSD_ITA_CL_capitani_romani_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_ITA_CL_capitani_romani_button_click]"
+ HSD_ITA_CL_capitani_romani_desc:0	"HSD_ITA_CL_capitani_romani_desc"
+
+### Germany
+
+ HSD_GER_CV_graf_zeppelin_name:0	"Graf Zeppelin"
+ HSD_GER_CV_graf_zeppelin_tooltip:0	"[!HSD_GER_CV_graf_zeppelin_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_CV_graf_zeppelin_button_click]"
+ HSD_GER_CV_graf_zeppelin_desc:0	"HSD_GER_CV_graf_zeppelin_desc"
+
+ HSD_GER_CV_elbe_name:0	"Elbe"
+ HSD_GER_CV_elbe_tooltip:0	"[!HSD_GER_CV_elbe_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_CV_elbe_button_click]"
+ HSD_GER_CV_elbe_desc:0	"HSD_GER_CV_elbe_desc"
+
+ HSD_GER_CV_europa_name:0	"Europa"
+ HSD_GER_CV_europa_tooltip:0	"[!HSD_GER_CV_europa_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_CV_europa_button_click]"
+ HSD_GER_CV_europa_desc:0	"HSD_GER_CV_europa_desc"
+
+ HSD_GER_BB_scharnhorst_name:0	"Scharnhorst"
+ HSD_GER_BB_scharnhorst_tooltip:0	"[!HSD_GER_BB_scharnhorst_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_BB_scharnhorst_button_click]"
+ HSD_GER_BB_scharnhorst_desc:0	"HSD_GER_BB_scharnhorst_desc"
+
+ HSD_GER_BB_scharnhorst_38cm_name:0	"Scharnhorst (38cm)"
+ HSD_GER_BB_scharnhorst_38cm_tooltip:0	"[!HSD_GER_BB_scharnhorst_38cm_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_BB_scharnhorst_38cm_button_click]"
+ HSD_GER_BB_scharnhorst_38cm_desc:0	"HSD_GER_BB_scharnhorst_38cm_desc"
+
+ HSD_GER_BB_bismarck_name:0	"Bismarck"
+ HSD_GER_BB_bismarck_tooltip:0	"[!HSD_GER_BB_bismarck_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_BB_bismarck_button_click]"
+ HSD_GER_BB_bismarck_desc:0	"HSD_GER_BB_bismarck_desc"
+
+ HSD_GER_BB_hindenburg_name:0	"Hindenburg (H39)"
+ HSD_GER_BB_hindenburg_tooltip:0	"[!HSD_GER_BB_hindenburg_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_BB_hindenburg_button_click]"
+ HSD_GER_BB_hindenburg_desc:0	"HSD_GER_BB_hindenburg_desc"
+
+ HSD_GER_BC_derfflinger_name:0	"Derfflinger (O)"
+ HSD_GER_BC_derfflinger_tooltip:0	"[!HSD_GER_BC_derfflinger_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_BC_derfflinger_button_click]"
+ HSD_GER_BC_derfflinger_desc:0	"HSD_GER_BC_derfflinger_desc"
+
+ HSD_GER_BB_ulrich_von_hutten_name:0	"Ulrich von Hutten (H41)"
+ HSD_GER_BB_ulrich_von_hutten_tooltip:0	"[!HSD_GER_BB_ulrich_von_hutten_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_BB_ulrich_von_hutten_button_click]"
+ HSD_GER_BB_ulrich_von_hutten_desc:0	"HSD_GER_BB_ulrich_von_hutten_desc"
+
+ HSD_GER_PS_graf_spee_name:0	"Graf Spee"
+ HSD_GER_PS_graf_spee_tooltip:0	"[!HSD_GER_PS_graf_spee_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_PS_graf_spee_button_click]"
+ HSD_GER_PS_graf_spee_desc:0	"HSD_GER_PS_graf_spee_desc"
+
+ HSD_GER_PS_roon_name:0	"Roon (P)"
+ HSD_GER_PS_roon_tooltip:0	"[!HSD_GER_PS_roon_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_PS_roon_button_click]"
+ HSD_GER_PS_roon_desc:0	"HSD_GER_PS_roon_desc"
+
+ HSD_GER_CA_admiral_hipper_name:0	"Admiral Hipper"
+ HSD_GER_CA_admiral_hipper_tooltip:0	"[!HSD_CA_admiral_hipper_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_CA_admiral_hipper_button_click]"
+ HSD_GER_CA_admiral_hipper_desc:0	"HSD_CA_admiral_hipper_desc"
+
+ HSD_GER_CL_munchen_name:0	"München (M)"
+ HSD_GER_CL_munchen_tooltip:0	"[!HSD_GER_CL_munchen_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_CL_munchen_button_click]"
+ HSD_GER_CL_munchen_desc:0	"HSD_GER_CL_munchen_desc"
+
+ HSD_GER_CL_dresden_name:0	"Dresden (Spähkreuzer)"
+ HSD_GER_CL_dresden_tooltip:0	"[!HSD_GER_CL_dresden_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_GER_CL_dresden_button_click]"
+ HSD_GER_CL_dresden_desc:0	"HSD_GER_CL_dresden_desc"
+
+### France
+
+ HSD_FRA_CV_joffre_name:0	"Joffre"
+ HSD_FRA_CV_joffre_tooltip:0	"[!HSD_FRA_CV_joffre_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_FRA_CV_joffre_button_click]"
+ HSD_FRA_CV_joffre_desc:0	"HSD_FRA_CV_joffre_desc"
+
+ HSD_FRA_BB_richelieu_name:0	"Richelieu"
+ HSD_FRA_BB_richelieu_tooltip:0	"[!HSD_FRA_BB_richelieu_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_FRA_BB_richelieu_button_click]"
+ HSD_FRA_BB_richelieu_desc:0	"HSD_FRA_BB_richelieu_desc"
+
+ HSD_FRA_BB_alsace_name:0	"Alsace"
+ HSD_FRA_BB_alsace_tooltip:0	"[!HSD_FRA_BB_alsace_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_FRA_BB_alsace_button_click]"
+ HSD_FRA_BB_alsace_desc:0	"HSD_FRA_BB_alsace_desc"
+
+ HSD_FRA_CA_algerie_name:0	"Algérie"
+ HSD_FRA_CA_algerie_tooltip:0	"[!HSD_FRA_CA_algerie_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_FRA_CA_algerie_button_click]"
+ HSD_FRA_CA_algerie_desc:0	"HSD_FRA_CA_algerie_desc"
+
+ HSD_FRA_CA_saint_louis_name:0	"Saint-Louis"
+ HSD_FRA_CA_saint_louis_tooltip:0	"[!HSD_FRA_CA_saint_louis_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_FRA_CA_saint_louis_button_click]"
+ HSD_FRA_CA_saint_louis_desc:0	"HSD_FRA_CA_saint_louis_desc"
+
+ HSD_FRA_CL_la_galissonniere_name:0	"La Galissonnière"
+ HSD_FRA_CL_la_galissonniere_tooltip:0	"[!HSD_FRA_CL_la_galissonniere_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_FRA_CL_la_galissonniere_button_click]"
+ HSD_FRA_CL_la_galissonniere_desc:0	"HSD_FRA_CL_la_galissonniere_desc"
+
+ HSD_FRA_CL_de_grasse_name:0	"De Grasse"
+ HSD_FRA_CL_de_grasse_tooltip:0	"[!HSD_FRA_CL_de_grasse_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_FRA_CL_de_grasse_button_click]"
+ HSD_FRA_CL_de_grasse_desc:0	"HSD_FRA_CL_de_grasse_desc"
+
+### Soviet Union
+
+ HSD_SOV_BB_sovetskiy_soyuz_name:0	"Sovetskiy Soyuz (Pr.23)"
+ HSD_SOV_BB_sovetskiy_soyuz_tooltip:0	"[!HSD_SOV_BB_sovetskiy_soyuz_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_SOV_BB_sovetskiy_soyuz_button_click]"
+ HSD_SOV_BB_sovetskiy_soyuz_desc:0	"HSD_SOV_BB_sovetskiy_soyuz_desc"
+
+ HSD_SOV_CB_kronshtadt_name:0	"Kronshtadt (Pr.69)"
+ HSD_SOV_CB_kronshtadt_tooltip:0	"[!HSD_SOV_CB_kronshtadt_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_SOV_CB_kronshtadt_button_click]"
+ HSD_SOV_CB_kronshtadt_desc:0	"HSD_SOV_CB_kronshtadt_desc"
+
+ HSD_SOV_CA_stalingrad_name:0	"Stalingrad (Pr.82)"
+ HSD_SOV_CA_stalingrad_tooltip:0	"[!HSD_SOV_CA_stalingrad_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_SOV_CA_stalingrad_button_click]"
+ HSD_SOV_CA_stalingrad_desc:0	"HSD_SOV_CA_stalingrad_desc"
+
+ HSD_SOV_CL_chapaev_name:0	"Chapaev (Pr.68)"
+ HSD_SOV_CL_chapaev_tooltip:0	"[!HSD_SOV_CL_chapaev_button_click_enabled]\n§YEffects when selected§!:\n[!HSD_SOV_CL_chapaev_button_click]"
+ HSD_SOV_CL_chapaev_desc:0	"HSD_SOV_CL_chapaev_desc"

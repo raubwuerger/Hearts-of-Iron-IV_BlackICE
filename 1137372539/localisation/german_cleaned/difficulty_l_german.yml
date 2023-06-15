@@ -1,0 +1,13 @@
+﻿l_german:
+ custom_diff_strong:0	"Strengthen"
+ custom_diff_weak:0	"Weaken"
+ custom_diff_industrial:0	"Construction"
+ custom_diff_production:0	"Production"
+ custom_diff_army:0	"£army_experience  Army"
+ custom_diff_air:0	"£air_experience  Airforce"
+ custom_diff_navy:0	"£navy_experience  Navy"
+ custom_diff_fuel:0	"Fuel"
+ custom_diff_politics:0	"Political"
+
+
+### EOF ###
