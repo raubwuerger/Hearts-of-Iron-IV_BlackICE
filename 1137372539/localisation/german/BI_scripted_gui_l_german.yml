@@ -3,7 +3,7 @@
  empty_line:0 "\n "
  empty_line_x2:0 "\n\n"
  STATE_CATEGORY_DISPLAY:0 "§Y[From.From.GetStateCategory]§!"
- STATE_FUEL_USAGE_TT:0 "§YCivilian Fuel Use§!\nWie viel Brennstoff verbraucht die Bevölkerung dieses Staates pro Tag"
+ STATE_FUEL_USAGE_TT:0 "§YZiviler Treibstoffverbrauch§!\nWie viel Brennstoff verbraucht die Bevölkerung dieses Staates pro Tag"
  LOCAL_GARRISON_NEED_TT:0 "Wie viele §YEinheiten§! der §YGarnisonsvorlage§!, die diesem Staat zugewiesen sind, werden benötigt."
  CAT_WASTE:0 "Ödland"
  CAT_ENCLAVE:0 "Enklave"
@@ -23,8 +23,8 @@
  CAT_SMALL_MEGALOPOLIS:0 "Kleine Megalopolis"
  CAT_MEGALOPOLIS:0 "Megalopolis"
  CAT_HUGE_MEGALOPOLIS:0 "Riesige Megalopolis"
- AI_SUBJECT_BUILD_OPTIONS_TITLE:0 ""Kontrolle der Gebäude-Warteschlange des Subjekts" #AI_SUBJECT_BUILD_OPTIONS_ACTION_TITLE"
- AI_SUBJECT_BUILD_OPTIONS_ACTION_DESC:0 ""Ermöglicht verschiedene Entscheidungen, die es Ihnen erlauben, zu kontrollieren, welche Gebäude für dieses Subjekt gebaut werden." #Dieser Teil funktioniert nicht, wenn Sie die Diplo-Aktion öffnen, aber er funktioniert, wenn Sie mit dem Mauszeiger darüber fahren."
+ AI_SUBJECT_BUILD_OPTIONS_TITLE:0 "Kontrolle der Gebäude-Warteschlange des Subjekts" #AI_SUBJECT_BUILD_OPTIONS_ACTION_TITLE"
+ AI_SUBJECT_BUILD_OPTIONS_ACTION_DESC:0 "Ermöglicht verschiedene Entscheidungen, die es Ihnen erlauben, zu kontrollieren, welche Gebäude für dieses Subjekt gebaut werden." #Dieser Teil funktioniert nicht, wenn Sie die Diplo-Aktion öffnen, aber er funktioniert, wenn Sie mit dem Mauszeiger darüber fahren."
  ENABLE_VOLUNTEER:0 "Sie werden Freiwillige von uns in ihrem Land zulassen.\n"
  REGION_TT:0 "[This.GetRegion]:\n"
  REGION_TT_2:0 "[state.GetRegion]:\n"
@@ -140,7 +140,7 @@
  TOT_LEVEL:0 "§L - Modifikatoren §!:  §G0%§! - §YGesamtmobilisierung§!"
 
  EQUIPMENT_STATUS:0 "[Root.GetSelectedEquipment]"
- WIP_TT:0 ""Derzeit WIP. \n Öffnen Sie die Konsole und geben Sie \"set_global_flag wip\" und dann \"reload core.gui\" ein, um den Ausrüstungshandel zu aktivieren" #Equipment Import"
+ WIP_TT:0 "Derzeit WIP. \n Öffnen Sie die Konsole und geben Sie \"set_global_flag wip\" und dann \"reload core.gui\" ein, um den Ausrüstungshandel zu aktivieren" #Equipment Import"
 
  RUBBER_CONSUMED:0 "    - Verbrauchtes Gummi : [?rubber_consumed|-]\n"
  CHROMIUM_CONSUMED:0 "    - Chrom Verbraucht : [?chromium_consumed|-]\n"
@@ -151,7 +151,7 @@
 
  EXPORT_MAX:0 " (max.)"
 
- BICE_CONTROL_PANEL:0 ""Black ICE Control Panel öffnen" #vielleicht Control Center"
+ BICE_CONTROL_PANEL:0 "Black ICE Control Panel öffnen" #vielleicht Control Center"
  EXTEND_TOP_BAR:0 "Top Bar ausfahren"
  UNEXTEND_TOP_BAR:0 "Obere Leiste ausklappen"
 
@@ -586,9 +586,9 @@
  coastal_state:0 "Hat mindestens 1 §YKüstenstaat§! Staat"
 
 
- ####################################################### ""
- ################ RESEARCH SLOTS ""
- ####################################################### ""
+ #######################################################
+ ################ RESEARCH SLOTS
+ #######################################################
  SLOT_title:0 "§C[?temp_tt]. Research Slot§! - §Y[?target_state.GetName]§!: [GetResearchSlotEditOrGain]"
  SLOT_EDIT_TT:0 "\nDieser Forschungsslot wird in der Lage sein, die folgenden Ordner zu erforschen:\n"
  SLOT_GAIN_TT:0 "\nAdd §Y1 Research Centre§!\nDieser Forschungsslot wird in der Lage sein, die folgenden Ordner zu erforschen:\n"
@@ -994,7 +994,7 @@
  SS_division_703_TT:0 "§YAnforderungen:§!\n[!SS_division_703_click_enabled]\n[!SS_division_703_click]"
  SS_division_704_TT:0 "§YAnforderungen:§!\n[!SS_division_704_click_enabled]\n[!SS_division_704_click]"
 
- #Header ""
+ #Header
  SS_template_title_TT:0 "[Root.GetSSTooltipFix]§Wir erhalten das folgende §YTemplate§! für [?num_ss_division_spawn|Y0] §Y[Root.GetSSDivisionNumText]§! in:§!"
  SS_template_title2_TT:0 "[Root.GetSSTooltipFix]§Wir werden das folgende §YTemplate§! für [?num_ss_division_spawn|Y0] §Y[Root.GetSSDivisionNumText]§! in:§!"
  SSDivisionStateText0_TT:0 "§Y[?state.GetName]§!\n"
@@ -1005,7 +1005,7 @@
  SS_template_AND_TT:0 "§W und §!"
  SS_template_merge_TT:0 ", §Yconsolidated§!"
  SS_template_division_TT:0 "§CTemplate:§!\n"
- #Regiments ""
+ #Regiments
  SS_template_regiment_TT:0 "[Root.GetSSTooltipFix] [Root.GetSSTemplateLock]\nStarting Experience: [?start_experience_factor|Y%0]\nStarting Equipment: [?start_equipment_factor|Y%0]\n §YLine Regiments: §![Root.GetSSTooltipFixEffect]"
  SS_template_infantry_TT:0 "    §Y[?ss_infantry]x§! SS-Infanterie\n"
  SS_template_militia_TT:0 "    §Y[?militia]x§! Miliz\n"
@@ -1130,7 +1130,7 @@
  TOKEN_RESISTANCE_ICON:0 "Kontakt_Widerstand_Token "
 
  BI_DIVISION_DESIGNER_INFO_TT:0 "\nDivision Designer Hilfe: \n\n - Die Gefechtsbreite beträgt 75, plus 25 für jeden Angriff aus einer anderen Provinz\n\n - Unterstützungsbataillone beeinflussen die Geschwindigkeit, und für einige Unterstützungsbataillone sind verschiedene Versionen der Motorisierung verfügbar. \n\n-Härte in Unterdrückungsvorlagen reduziert Verluste durch Widerstand."
- BI_EQUIPMENT_LIST_INFO_TT:0 ""\n\nAusrüstungshilfe: \n\n - Ausrüstungskonvertierungen werden in den Ausrüstungsbeschreibungen erwähnt und müssen überholt sein, um konvertiert zu werden." ## EOF ##"
+ BI_EQUIPMENT_LIST_INFO_TT:0 "\n\nAusrüstungshilfe: \n\n - Ausrüstungskonvertierungen werden in den Ausrüstungsbeschreibungen erwähnt und müssen überholt sein, um konvertiert zu werden." ## EOF ##"
 
  max_tank_factory_5:0 "Max §YPanzerfabriken:§! §G+5§!"
  max_vehicle_factory_5:0 "Max §YFahrzeugfabriken:§! §G+5§!"
