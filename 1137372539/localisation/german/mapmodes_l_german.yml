@@ -6,7 +6,7 @@
    MAPMODE_AIR_STRENGTH_MAPMODE_NAME: "Luftstärke"
    MAPMODE_AIR_STRENGTH_MAPMODE_DESCRIPTION: "Zeigt die Absolute Luftstärke aller Länder"
    MAPMODE_NAVY_STRENGTH_MAPMODE: "Marinestärke Mapmode"
-   MAPMODE_NAVY_STRENGTH_MAPMODE_NAME: "Stärke der Marine"
+   MAPMODE_NAVY_STRENGTH_MAPMODE_NAME: "Marine-Stärke"
    MAPMODE_NAVY_STRENGTH_MAPMODE_DESCRIPTION: "Zeigt die absolute Marinestärke aller Länder"
 
    MAPMODE_AIRBASE_MAPMODE: "Luftstützpunkt Level Mapmode"
