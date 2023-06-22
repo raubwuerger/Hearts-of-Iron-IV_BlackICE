@@ -1,0 +1,1288 @@
+10in/45 Mk VI/VII (Early)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+10in/45 Mk VI/VII (Early)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+10in/45 Mk VI/VII (Early)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+10in/45 Mk VI/VII (Early)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+10in/45 Mk VI/VII (Early)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+10in/45 Mk VI/VII (Early)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+10in/45 Mk VI/VII (Early)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+10in/45 Mk VI/VII (Early)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+10in/45 Mk VI/VII (Early)\n8-Kanonen-Hauptbatterie\n(2x Quad)
+10in/45 Mk VI/VII (Early)\n12-Kanonen-Hauptbatterie\n(3x Quad)
+10in/45 Mk VI/VII (Early)\n8-Kanonen-Hauptbatterie\n(2x Triple, 1x Twin)
+10in/45 Mk VI/VII (Early)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+10in/45 Mk VI/VII (Early)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+11in/45 (Zwischenkrieg)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+11in/45 (Zwischenkriegszeit)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+11in/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+11in/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+11in/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+11in/45 (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+11in/45 (Zwischenkrieg)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+11in/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+11in/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+11in/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(3x Vierling)
+11in/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+11in/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+11in/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+11in/50 (Fortgeschrittene)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+11in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+11in/50 (Fortgeschrittene)\n8-Kanone Hauptbatterie\n(4x Zwilling)
+11in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+11in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+11in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+11in/50 (Fortgeschrittene)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+11in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+11in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+11in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(3x Vierfach)
+11in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+11in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+11in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+12in/50 Mk XI/XII (Early)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+12in/50 Mk XI/XII (Early)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+12in/50 Mk XI/XII (Early)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+12in/50 Mk XI/XII (Early)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+12in/50 Mk XI/XII (Early)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+12in/50 Mk XI/XII (Early)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+12in/50 Mk XI/XII (Early)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+12in/50 Mk XI/XII (Early)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+12in/50 Mk XI/XII (Early)\n8-Kanonen-Hauptbatterie\n(2x Quad)
+12in/50 Mk XI/XII (Early)\n12-Kanonen-Hauptbatterie\n(3x Quad)
+12in/50 Mk XI/XII (Early)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+12in/50 Mk XI/XII (Early)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+12in/50 Mk XI/XII (Early)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+12in/50 Mk XIV (Zwischenkrieg)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+12in/50 Mk XIV (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+12in/50 Mk XIV (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Quad)
+12in/50 Mk XIV (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(3x Quad)
+12in/50 Mk XIV (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+12in/50 (Advanced)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+12in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+12in/50 (Fortgeschrittene)\n8-Kanone Hauptbatterie\n(4x Zwilling)
+12in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+12in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+12in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+12in/50 (Fortgeschrittene)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+12in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+12in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+12in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(3x Vierfach)
+12in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+12in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+12in/50 (Advanced)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+13,5in/45 Mk V (Early)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+13,5in/45 Mk V (Early)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+13,5in/45 Mk V (Early)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+13,5in/45 Mk V (Early)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+13,5in/45 Mk V (Early)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+13,5in/45 Mk V (Early)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+13,5in/45 Mk V (Early)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+13,5in/45 Mk V (Early)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+13,5in/45 Mk V (Early)\n8-Kanonen-Hauptbatterie\n(2x Quad)
+13,5in/45 Mk V (Early)\n12-Kanonen-Hauptbatterie\n(3x Quad)
+13,5in/45 Mk V (Early)\n8-Kanonen-Hauptbatterie\n(2x Triple, 1x Twin)
+13,5in/45 Mk V (Early)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+13,5in/45 Mk V (Early)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+13,5in/45 (Zwischenkrieg)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+13,5 Zoll/45 (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+13,5 Zoll/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+13,5 Zoll/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+13,5 Zoll/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+13,5 Zoll/45 (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+13,5 Zoll/45 (Zwischenkrieg)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+13,5 Zoll/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+13,5 Zoll/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+13,5 Zoll/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(3x Vierling)
+13,5 Zoll/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+13,5 Zoll/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+13,5 Zoll/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Vierfach, 1x Zwilling)
+13,5 Zoll/50 (Fortgeschrittene)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+13,5 Zoll/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+13,5 Zoll/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+13,5 Zoll/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+13,5 Zoll/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+13,5 Zoll/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+13,5 Zoll/50 (Fortgeschrittene)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+13,5 Zoll/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+13,5 Zoll/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+13,5 Zoll/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(3x Vierfach)
+13,5 Zoll/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+13,5 Zoll/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+13,5in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Vierfach, 1x Zwilling)
+14in/45 Mark I/III (Early)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+14in/45 Mark I/III (Early)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+14in/45 Mark I/III (Early)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+14in/45 Mark I/III (Early)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+14in/45 Mark I/III (Early)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+14in/45 Mark I/III (Early)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+14in/45 Mark I/III (Early)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+14in/45 Mark I/III (Early)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+14in/45 Mark I/III (Early)\n8-Kanonen-Hauptbatterie\n(2x Quad)
+14in/45 Mark I/III (Early)\n12-Kanonen-Hauptbatterie\n(3x Quad)
+14in/45 Mark I/III (Early)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+14in/45 Mark I/III (Early)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+14in/45 Mark I/III (Early)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+14in/45 Mk VII (Zwischenkrieg)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+14in/45 Mk VII (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+14in/45 Mk VII (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+14in/45 Mk VII (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+14in/45 Mk VII (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+14in/45 Mk VII (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+14in/45 Mk VII (Zwischenkrieg)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+14in/45 Mk VII (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+14in/45 Mk VII (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Quad)
+14in/45 Mk VII (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(3x Vierling)
+14in/45 Mk VII (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+14in/45 Mk VII (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+14in/45 Mk VII (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+14in/50 (Advanced)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+14in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+14in/50 (Fortgeschrittene)\n8-Kanone Hauptbatterie\n(4x Zwilling)
+14in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+14in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+14in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+14in/50 (Fortgeschrittene)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+14in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+14in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+14in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(3x Vierfach)
+14in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+14in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+14in/50 (Advanced)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+15in/42 Mk I (Early)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+15in/42 Mk I (Early)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+15in/42 Mk I (Early)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+15in/42 Mk I (Early)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+15in/42 Mk I (Early)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+15in/42 Mk I (Early)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+15in/42 Mk I (Early)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+15in/42 Mk I (Early)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+15in/42 Mk I (Early)\n8-Kanonen-Hauptbatterie\n(2x Quad)
+15in/42 Mk I (Early)\n12-Kanonen-Hauptbatterie\n(3x Quad)
+15in/42 Mk I (Early)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+15in/42 Mk I (Early)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+15in/42 Mk I (Early)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+15in/45 Mk II (Zwischenkrieg)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+15in/45 Mk II (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+15in/45 Mk II (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+15in/45 Mk II (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+15in/45 Mk II (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+15in/45 Mk II (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+15in/45 Mk II (Zwischenkrieg)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+15in/45 Mk II (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+15in/45 Mk II (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Quad)
+15in/45 Mk II (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(3x Vierling)
+15in/45 Mk II (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+15in/45 Mk II (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+15in/45 Mk II (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+15in/50 (Advanced)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+15in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+15in/50 (Advanced)\n8-gun Hauptbatterie\n(4x Zwilling)
+15in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+15in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+15in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+15in/50 (Fortgeschrittene)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+15in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+15in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+15in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(3x Vierfach)
+15in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+15in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+15in/50 (Advanced)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+16in/45 Mk I (Early)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+16in/45 Mk I (Early)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+16in/45 Mk I (Early)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+16in/45 Mk I (Early)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+16in/45 Mk I (Early)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+16in/45 Mk I (Early)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+16in/45 Mk I (Early)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+16in/45 Mk I (Early)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+16in/45 Mk I (Early)\n8-Kanonen-Hauptbatterie\n(2x Quad)
+16in/45 Mk I (Early)\n12-Kanonen-Hauptbatterie\n(3x Quad)
+16in/45 Mk I (Early)\n8-Kanonen-Hauptbatterie\n(2x Triple, 1x Twin)
+16in/45 Mk I (Early)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+16in/45 Mk I (Early)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+16in/45 Mk II/III (Zwischenkrieg)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+16in/45 Mk II/III (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+16in/45 Mk II/III (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+16in/45 Mk II/III (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+16in/45 Mk II/III (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+16in/45 Mk II/III (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+16in/45 Mk II/III (Zwischenkrieg)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+16in/45 Mk II/III (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+16in/45 Mk II/III (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Quad)
+16in/45 Mk II/III (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(3x Vierling)
+16in/45 Mk II/III (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+16in/45 Mk II/III (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+16in/45 Mk II/III (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+16in/50 (Advanced)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+16in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+16in/50 (Fortgeschrittene)\n8-Kanone Hauptbatterie\n(4x Zwilling)
+16in/50 (Advanced)\n10-gun Hauptbatterie\n(5x Zwilling)
+16in/50 (Advanced)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+16in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+16in/50 (Fortgeschrittene)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+16in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+16in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+16in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(3x Vierfach)
+16in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+16in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+16in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+18in/45 (Zwischenkrieg)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+18in/45 (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+18in/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+18in/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+18in/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+18in/45 (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+18in/45 (Zwischenkrieg)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+18in/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+18in/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+18in/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(3x Vierling)
+18in/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+18in/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+18in/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+18in/50 (Fortgeschrittene)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+18in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+18in/50 (Advanced)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+18in/50 (Advanced)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+18in/50 (Advanced)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+18in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+18in/50 (Fortgeschrittene)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+18in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+18in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+18in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(3x Vierfach)
+18in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+18in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+18in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+20in/45 (Zwischenkrieg)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+20in/45 (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+20in/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(4x Zwilling)
+20in/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+20in/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+20in/45 (Zwischenkrieg)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+20in/45 (Zwischenkrieg)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+20in/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+20in/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+20in/45 (Zwischenkrieg)\n12-Kanonen-Hauptbatterie\n(3x Vierling)
+20in/45 (Zwischenkrieg)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+20in/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+20in/45 (Zwischenkrieg)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+20in/50 (Fortgeschrittene)\n4-Kanonen-Hauptbatterie\n(2x Zwilling)
+20in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(3x Zwilling)
+20in/50 (Fortgeschrittene)\n8-Kanone Hauptbatterie\n(4x Zwilling)
+20in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(5x Zwilling)
+20in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(6x Zwilling)
+20in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie\n(2x Dreifach)
+20in/50 (Fortgeschrittene)\n9-Kanonen-Hauptbatterie\n(3x Dreifach)
+20in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(4x Dreifach)
+20in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Vierfach)
+20in/50 (Fortgeschrittene)\n12-Kanonen-Hauptbatterie\n(3x Vierfach)
+20in/50 (Fortgeschrittene)\n8-Kanonen-Hauptbatterie\n(2x Dreifach, 1x Zwilling)
+20in/50 (Fortgeschrittene)\n10-Kanonen-Hauptbatterie\n(2x Dreifach, 2x Zwilling)
+20in/50 (Advanced)\n10-Kanonen-Hauptbatterie\n(2x Vierling, 1x Zwilling)
+
+4.7in/45 BL Mk I/II (Early)\n4-Kanonen-Hauptbatterie
+4,7in/45 BL Mk I/II (Early)\n6-Kanonen-Hauptbatterie
+4.7in/45 BL Mk I/II (Early)\n8-Kanonen-Hauptbatterie
+4.7in/45 BL Mk I/II (Early)\n9-Kanonen-Hauptbatterie
+4.7in/45 BL Mk I/II (Early)\n10-Kanonen-Hauptbatterie
+4.7in/45 BL Mk I/II (Early)\n12-Kanonen-Hauptbatterie
+4.7in/45 BL Mk I/II (Early)\n15-Kanonen-Hauptbatterie
+4.7in/45 QF Mk IX (Zwischenkrieg)\n4-Kanonen-Hauptbatterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n6-Kanonen-Hauptbatterie
+4.7in/45 QF Mk IX (Zwischenkrieg)\n8-Kanonen-Hauptbatterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n9-Kanonen-Hauptbatterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n10-Kanonen-Hauptbatterie
+4.7in/45 QF Mk IX (Zwischenkrieg)\n12-Kanonen-Hauptbatterie
+4.7in/45 QF Mk IX (Zwischenkrieg)\n15-Kanonen-Hauptbatterie
+4.7in/50 QF Mk XI (Advanced)\n4-Kanonen-Hauptbatterie
+4.7in/50 QF Mk XI (Advanced)\n6-Kanonen-Hauptbatterie
+4.7in/50 QF Mk XI (Advanced)\n8-Kanonen-Hauptbatterie
+4.7in/50 QF Mk XI (Advanced)\n9-Kanonen-Hauptbatterie
+4.7in/50 QF Mk XI (Advanced)\n10-Kanonen-Hauptbatterie
+4.7in/50 QF Mk XI (Advanced)\n12-Kanonen-Hauptbatterie
+4.7in/50 QF Mk XI (Advanced)\n15-Kanonen-Hauptbatterie
+5,5in/50 BL Mk I (Early)\n4-Kanonen-Hauptbatterie
+5,5in/50 BL Mk I (Early)\n6-Kanonen-Hauptbatterie
+5.5in/50 BL Mk I (Early)\n8-Kanonen-Hauptbatterie
+5.5in/50 BL Mk I (Early)\n9-Kanonen-Hauptbatterie
+5.5in/50 BL Mk I (Early)\n10-Kanonen-Hauptbatterie
+5,5in/50 BL Mk I (Early)\n12-Kanonen-Hauptbatterie
+5,5in/50 BL Mk I (Early)\n15-Kanonen-Hauptbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n4-Kanonen-Hauptbatterie
+5,25in/50 QF Mk I (Zwischenkrieg)\n6-Kanonen-Hauptbatterie
+5.25in/50 QF Mk I (Zwischenkriegszeit)\n8-Kanonen-Hauptbatterie
+5.25in/50 QF Mk I (Zwischenkriegszeit)\n9-Kanonen-Hauptbatterie
+5.25in/50 QF Mk I (Zwischenkriegszeit)\n10-Kanonen-Hauptbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n12-Kanonen-Hauptbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n15-Kanonen-Hauptbatterie
+5.25in/50 QF Mk IV (Advanced)\n4-Kanonen-Hauptbatterie
+5,25in/50 QF Mk IV (Advanced)\n6-Kanonen-Hauptbatterie
+5.25in/50 QF Mk IV (Advanced)\n8-Kanonen-Hauptbatterie
+5.25in/50 QF Mk IV (Advanced)\n9-Kanonen-Hauptbatterie
+5,25in/50 QF Mk IV (Advanced)\n10-Kanone Hauptbatterie
+5.25in/50 QF Mk IV (Advanced)\n12-Kanonen-Hauptbatterie
+5,25in/50 QF Mk IV (Advanced)\n15-Kanonen-Hauptbatterie
+6in/45 BL Mk XII (Early)\n4-Kanonen-Hauptbatterie
+6in/45 BL Mk XII (Early)\n6-Kanonen-Hauptbatterie
+6in/45 BL Mk XII (Early)\n8-Kanonen-Hauptbatterie
+6in/45 BL Mk XII (Early)\n9-Kanonen-Hauptbatterie
+6in/45 BL Mk XII (Early)\n10-Kanonen-Hauptbatterie
+6in/45 BL Mk XII (Early)\n12-Kanonen-Hauptbatterie
+6in/45 BL Mk XII (Early)\n15-Kanonen-Hauptbatterie
+6in/50 (Zwischenkrieg)\n4-Kanonen-Hauptbatterie
+6in/50 (Zwischenkriegszeit)\n6-Kanonen-Hauptbatterie
+6in/50 (Zwischenkriegszeit)\n8-Kanonen-Hauptbatterie
+6in/50 (Zwischenkriegszeit)\n9-Kanonen-Hauptbatterie
+6in/50 (Zwischenkriegszeit)\n10-Kanonen-Hauptbatterie
+6in/50 (Zwischenkriegszeit)\n12-Kanonen-Hauptbatterie
+6in/50 (Zwischenkriegszeit)\n15-Kanonen-Hauptbatterie
+6in/50 BL XXIII (Fortgeschrittene)\n4-Kanonen-Hauptbatterie
+6in/50 BL XXIII (Fortgeschrittene)\n6-Kanonen Hauptbatterie
+6in/50 BL XXIII (Advanced)\n8-Kanone Hauptbatterie
+6in/50 BL XXIII (Advanced)\n9-Kanone Hauptbatterie
+6in/50 BL XXIII (Advanced)\n10-Kanone Hauptbatterie
+6in/50 BL XXIII (Advanced)\n12-Kanone Hauptbatterie
+6in/50 BL XXIII (Fortgeschrittene)\n15-Kanone Hauptbatterie
+6in/50 (Schnellfeuer)\n4-Kanone Hauptbatterie
+6in/50 (Schnellfeuer)\n6-gun Hauptbatterie
+6in/50 (Schnellfeuer)\n8-gun Hauptbatterie
+6in/50 (Schnellfeuer)\n9-gun Hauptbatterie
+6in/50 (Schnellfeuer)\n10-gun Hauptbatterie
+6in/50 (Schnellfeuer)\n12-gun Hauptbatterie
+6in/50 (Schnellfeuer)\n15-Kanone Hauptbatterie
+
+7,5in/45 Mk VI (Early)\n2-Kanonen-Hauptbatterie
+7,5in/45 Mk VI (Early)\n4-Kanonen-Hauptbatterie
+7.5in/45 Mk VI (Early)\n6-Kanonen-Hauptbatterie
+7.5in/45 Mk VI (Early)\n8-Kanonen-Hauptbatterie
+7.5in/45 Mk VI (Early)\n9-Kanonen-Hauptbatterie
+7.5in/45 Mk VI (Early)\n10-Kanonen-Hauptbatterie
+7.5in/45 Mk VI (Early)\n12-Kanonen-Hauptbatterie
+8in/50 Mk VIII (Zwischenkrieg)\n2-Kanonen-Hauptbatterie
+8in/50 Mk VIII (Zwischenkriegszeit)\n4-Kanonen-Hauptbatterie
+8in/50 Mk VIII (Zwischenkriegszeit)\n6-Kanonen-Hauptbatterie
+8in/50 Mk VIII (Zwischenkriegszeit)\n8-Kanonen-Hauptbatterie
+8in/50 Mk VIII (Zwischenkriegszeit)\n9-Kanonen-Hauptbatterie
+8in/50 Mk VIII (Zwischenkriegszeit)\n10-Kanonen-Hauptbatterie
+8in/50 Mk VIII (Zwischenkriegszeit)\n12-Kanonen-Hauptbatterie
+8in/50 Mk IX/X (Fortgeschrittene)\n2-Kanonen-Hauptbatterie
+8in/50 Mk IX/X (Fortgeschrittene)\n4-Kanonen-Hauptbatterie
+8in/50 Mk IX/X (Advanced)\n6-Kanonen-Hauptbatterie
+8in/50 Mk IX/X (Advanced)\n8-Kanonen-Hauptbatterie
+8in/50 Mk IX/X (Advanced)\n9-Kanonen-Hauptbatterie
+8in/50 Mk IX/X (Advanced)\n10-Kanonen-Hauptbatterie
+8in/50 Mk IX/X (Fortgeschrittene)\n12-Kanone Hauptbatterie
+8in/50 (Schnellfeuer)\n4-Kanone Hauptbatterie
+8in/50 (Schnellfeuer)\n6-Kanonen-Hauptbatterie
+8in/50 (Schnellfeuer)\n8-gun Hauptbatterie
+8in/50 (Schnellfeuer)\n9-gun Hauptbatterie
+8in/50 (Schnellfeuer)\n10-gun Hauptbatterie
+8in/50 (Schnellfeuer)\n12-gun Hauptbatterie
+
+4.7in/45 (Zwischenkrieg)\n6-Kanonen-Zweckbatterie
+4.7in/45 (Zwischenkriegszeit)\n8-Kanonen-Zweckbatterie
+4.7in/45 (Zwischenkriegszeit)\n10-Kanonen-Zweckbatterie
+4.7in/45 (Zwischenkriegszeit)\n12-Kanonen-Zweckbatterie
+5in/50 (Advanced)\n6-gun Dual Purpose Battery
+5in/50 (Advanced)\n8-gun Dual Purpose Battery
+5in/50 (Advanced)\n10-gun Dual Purpose Battery
+5in/50 (Advanced)\n12-gun Dual Purpose Battery
+5.25in/50 QF Mk I (Zwischenkrieg)\n6-Kanonen-Zweckbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n8-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n10-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n12-Kanonen-Zweckbatterie
+5.25in/50 QF Mk IV (Fortgeschrittene)\n6-Kanonen-Zweckbatterie
+5.25in/50 QF Mk IV (Advanced)\n8-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk IV (Advanced)\n10-gun Dual Purpose Battery
+5,25in/50 QF Mk IV (Advanced)\n12-Kanonen-Zweizweckbatterie
+6in/50 QF Mk V (Advanced)\n6-Kanonen-Zweizweckbatterie
+6in/50 QF Mk V (Advanced)\n8-Kanonen-Zweizweckbatterie
+6in/50 QF Mk V (Advanced)\n10-Kanonen-Zweckbatterie
+6in/50 QF Mk V (Advanced)\n12-Kanonen-Zweizweckbatterie
+6in/50 QF Mk N5 (Rapid Fire)\n6-Kanonen-Zweizweckbatterie
+6in/50 QF Mk N5 (Schnellfeuer)\n8-Kanonen-Zweizweckbatterie
+6in/50 QF Mk N5 (Rapid Fire)\n10-gun Dual Purpose Battery
+6in/50 QF Mk N5 (Schnellfeuer)\n12-Kanonen-Zweizweckbatterie
+
+10in/45 Mk VI/VII (Early)\n4-Kanonen-Hauptbatterie (2x Twin)
+10in/45 Mk VI/VII (Early)\n6-Kanonen-Hauptbatterie (3x Zwilling)
+10in/45 Mk VI/VII (Early)\n8-Kanonen-Hauptbatterie (4x Zwilling)
+10in/45 Mk VI/VII (Early)\n6-Kanonen-Hauptbatterie (2x Dreifach)
+10in/45 Mk VI/VII (Early)\n9-Kanonen-Hauptbatterie (3x Dreifach)
+10in/45 Mk VI/VII (Early)\n8-Kanonen-Hauptbatterie (2x Quad)
+11in/45 (Zwischenkrieg)\n4-Kanonen-Hauptbatterie (2x Zwilling)
+11in/45 (Zwischenkriegszeit)\n6-Kanonen-Hauptbatterie (3x Zwilling)
+11in/45 (Zwischenkriegszeit)\n8-Kanonen-Hauptbatterie (4x Zwilling)
+11in/45 (Zwischenkriegszeit)\n6-Kanonen-Hauptbatterie (2x Dreifach)
+11in/45 (Zwischenkriegszeit)\n9-Kanonen-Hauptbatterie (3x Dreifach)
+11in/45 (Zwischenkriegszeit)\n8-Kanonen-Hauptbatterie (2x Vierfach)
+11in/50 (Advanced)\n4-Kanonen-Hauptbatterie (2x Twin)
+11in/50 (Fortgeschrittene)\n6-Kanonen-Hauptbatterie (3x Zwilling)
+11in/50 (Advanced)\n8-Kanonen-Hauptbatterie (4x Zwilling)
+11in/50 (Advanced)\n6-Kanonen-Hauptbatterie (2x Dreifach)
+11in/50 (Advanced)\n9-Kanonen-Hauptbatterie (3x Dreifach)
+11in/50 (Advanced)\n8-Kanonen-Hauptbatterie (2x Quad)
+12in/50 Mk XI/XII (Early)\n4-Kanonen-Hauptbatterie (2x Twin)
+12in/50 Mk XI/XII (Early)\n6-Kanonen-Hauptbatterie (3x Zwilling)
+12in/50 Mk XI/XII (Early)\n8-Kanonen-Hauptbatterie (4x Zwilling)
+12in/50 Mk XI/XII (Early)\n6-Kanonen-Hauptbatterie (2x Dreifach)
+12in/50 Mk XI/XII (Early)\n9-Kanonen-Hauptbatterie (3x Dreifach)
+12in/50 Mk XI/XII (Early)\n8-Kanonen-Hauptbatterie (2x Quad)
+12in/50 Mk XIV (Zwischenkrieg)\n4-Kanonen-Hauptbatterie (2x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n6-Kanonen-Hauptbatterie (3x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n8-Kanonen-Hauptbatterie (4x Zwilling)
+12in/50 Mk XIV (Zwischenkrieg)\n6-Kanonen-Hauptbatterie (2x Dreifach)
+12in/50 Mk XIV (Zwischenkrieg)\n9-Kanonen-Hauptbatterie (3x Dreifach)
+12in/50 Mk XIV (Zwischenkrieg)\n8-Kanonen-Hauptbatterie (2x Quad)
+12in/50 (Advanced)\n4-Kanonen-Hauptbatterie (2x Twin)
+12in/50 (Advanced)\n6-Kanonen-Hauptbatterie (3x Zwilling)
+12in/50 (Advanced)\n8-Kanonen-Hauptbatterie (4x Zwilling)
+12in/50 (Advanced)\n6-Kanonen-Hauptbatterie (2x Dreifach)
+12in/50 (Advanced)\n9-Kanonen-Hauptbatterie (3x Dreifach)
+12in/50 (Advanced)\n8-Kanonen-Hauptbatterie (2x Quad)
+
+12pdr QF Mk I/II (Early)\n1-Kanonen-Batterie
+12pdr QF Mk I/II (Early)\n2-Kanonen-Batterie
+12pdr QF Mk I/II (Early)\n3-Kanonen-Batterie
+12pdr QF Mk I/II (Early)\n4-Kanonen-Batterie
+12pdr QF Mk I/II (Early)\n5-Kanonen-Batterie
+12pdr QF Mk I/II (Early)\n6-Kanonen-Batterie
+12pdr QF Mk I/II (Early)\n8-Kanonen-Batterie
+12pdr QF Mk V (Zwischenkrieg)\n1-Kanonen-Batterie
+12pdr QF Mk V (Zwischenkriegszeit)\n2-Kanonen-Batterie
+12pdr QF Mk V (Zwischenkriegszeit)\n3-Kanonen-Batterie
+12pdr QF Mk V (Zwischenkriegszeit)\n4-Kanonen-Batterie
+12pdr QF Mk V (Zwischenkriegszeit)\n5-Kanonen-Batterie
+12pdr QF Mk V (Zwischenkriegszeit)\n6-Kanonen-Batterie
+12pdr QF Mk V (Zwischenkriegszeit)\n8-Kanonen-Batterie
+3in/50 (Advanced)\n1-Kanonen-Batterie
+3in/50 (Advanced)\n2-Kanonen-Batterie
+3in/50 (Advanced)\n3-Kanonen-Batterie
+Batterie 3in/50 (Advanced)\n4-gun Batterie
+Batterie 3in/50 (Advanced)\n5-gun Batterie
+Batterie 3in/50 (Advanced)\n6-gun Batterie
+3in/50 (Advanced)\n8-Kanonen-Batterie
+4in/45 QF Mk V (Early)\n1-Kanonen-Batterie
+4in/45 QF Mk V (Early)\n2-Kanonen-Batterie
+4in/45 QF Mk V (Early)\n3-Kanonen-Batterie
+4in/45 QF Mk V (Early)\n4-Kanonen-Batterie
+4in/45 QF Mk V (Early)\n5-Kanonen-Batterie
+4in/45 QF Mk V (Early)\n6-Kanonen-Batterie
+4in/45 QF Mk V (Early)\n8-Kanonen-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkrieg)\n1-Kanonen-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n2-Kanonen-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n3-Kanonen-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n4-Kanonen-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkrieg)\n5-Kanonen-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkrieg)\n6-Kanonen-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n8-Kanonen-Batterie
+4in/50 (Advanced)\n1-Kanonen-Batterie
+4in/50 (Advanced)\n2-Kanonen-Batterie
+4in/50 (Fortgeschrittene)\n3-Kanonen-Batterie
+Batterie 4in/50 (Advanced)\n4-gun Batterie
+Batterie 4in/50 (Advanced)\n5-gun Batterie
+Batterie 4in/50 (Advanced)\n6-gun Batterie
+4in/50 (Advanced)\n8-Kanonen-Batterie
+4.7in/45 BL Mk I/II (Early)\n1-Kanonenbatterie
+4.7in/45 BL Mk I/II (Early)\n2-Kanonen-Batterie
+4.7in/45 BL Mk I/II (Early)\n3-Kanonenbatterie
+4.7in/45 BL Mk I/II (Early)\n4-Kanonenbatterie
+4.7in/45 BL Mk I/II (Early)\n5-Kanonen-Batterie
+4.7in/45 BL Mk I/II (Early)\n6-Kanonen-Batterie
+4.7in/45 BL Mk I/II (Early)\n8-Kanonenbatterie
+4.7in/45 QF Mk IX (Zwischenkrieg)\n1-Kanonen-Batterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n2-Kanonen-Batterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n3-Kanonenbatterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n4-Kanonen-Batterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n5-Kanonen-Batterie
+4.7in/45 QF Mk IX (Zwischenkrieg)\n6-Kanonen-Batterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n8-Kanonen-Batterie
+4.7in/50 QF Mk XI (Fortgeschrittene)\n1-Kanonen-Batterie
+4.7in/50 QF Mk XI (Advanced)\n2-Kanonen-Batterie
+4.7in/50 QF Mk XI (Advanced)\n3-Kanonenbatterie
+4.7in/50 QF Mk XI (Advanced)\n4-Kanonenbatterie
+4.7in/50 QF Mk XI (Advanced)\n5-Kanonenbatterie
+4.7in/50 QF Mk XI (Advanced)\n6-Kanonenbatterie
+4.7in/50 QF Mk XI (Advanced)\n8-Kanonenbatterie
+Batterie 5,5in/50 BL Mk I (Early)\n1-Kanone
+5.5in/50 BL Mk I (Early)\n2-Kanonen-Batterie
+5.5in/50 BL Mk I (Early)\n3-Kanonen-Batterie
+Batterie 5.5in/50 BL Mk I (Early)\n4-gun Batterie
+Batterie 5.5in/50 BL Mk I (Early)\n5-gun Batterie
+Batterie 5.5in/50 BL Mk I (Early)\n6-gun Batterie
+5,5in/50 BL Mk I (Early)\n8-Kanonen-Batterie
+Batterie 5,25in/50 QF Mk I (Zwischenkrieg)\n1-Kanone
+5.25in/50 QF Mk I (Zwischenkrieg)\n2-Kanonen-Batterie
+5.25in/50 QF Mk I (Zwischenkriegszeit)\n3-Kanonenbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n4-Kanonen-Batterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n5-Kanonen-Batterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n6-Kanonen-Batterie
+5,25in/50 QF Mk I (Zwischenkrieg)\n8-Kanonen-Batterie
+5,25in/50 QF Mk IV (Fortgeschrittene)\n1-Kanonen-Batterie
+5.25in/50 QF Mk IV (Advanced)\n2-Kanonen-Batterie
+5.25in/50 QF Mk IV (Advanced)\n3-Kanonenbatterie
+Batterie 5,25in/50 QF Mk IV (Advanced)\n4-Kanone
+5.25in/50 QF Mk IV (Advanced)\n5-Kanonen-Batterie
+5.25in/50 QF Mk IV (Advanced)\n6-Kanonen-Batterie
+5,25in/50 QF Mk IV (Advanced)\n8-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n1-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n2-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n3-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n4-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n5-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n6-Kanonen-Batterie
+6in/50 (Zwischenkrieg)\n1-Kanonen-Batterie
+6in/50 (Zwischenkriegszeit)\n2-Kanonen-Batterie
+6in/50 (Zwischenkriegszeit)\n3-Kanonen-Batterie
+6in/50 (Zwischenkrieg)\n4-Kanonen-Batterie
+6in/50 (Zwischenkrieg)\n5-Kanonen-Batterie
+6in/50 (Zwischenkrieg)\n6-Kanonen-Batterie
+6in/50 BL XXIII (Fortgeschrittene)\n1-Kanonen-Batterie
+6in/50 BL XXIII (Fortgeschrittene)\n2-Kanonen-Batterie
+6in/50 BL XXIII (Advanced)\n3-Kanonen-Batterie
+6in/50 BL XXIII (Advanced)\n4-Kanonen-Batterie
+6in/50 BL XXIII (Advanced)\n5-Kanonen-Batterie
+6in/50 BL XXIII (Advanced)\n6-Kanonen-Batterie
+
+5,5in/50 BL Mk I (Early)\n1-Kanonen-Batterie
+5.5in/50 BL Mk I (Early)\n2-Kanonen-Batterie
+Batterie 5.5in/50 BL Mk I (Early)\n3-gun Batterie
+Batterie 5.5in/50 BL Mk I (Early)\n4-gun Batterie
+Batterie 5.5in/50 BL Mk I (Early)\n5-gun Batterie
+Batterie 5.5in/50 BL Mk I (Early)\n6-gun Batterie
+5,5in/50 BL Mk I (Early)\n8-Kanonen-Batterie
+Batterie 5,25in/50 QF Mk I (Zwischenkrieg)\n1-Kanone
+5.25in/50 QF Mk I (Zwischenkrieg)\n2-Kanonen-Batterie
+5.25in/50 QF Mk I (Zwischenkriegszeit)\n3-Kanonenbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n4-Kanonen-Batterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n5-Kanonen-Batterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n6-Kanonen-Batterie
+5,25in/50 QF Mk I (Zwischenkrieg)\n8-Kanonen-Batterie
+5,25in/50 QF Mk IV (Fortgeschrittene)\n1-Kanonen-Batterie
+5.25in/50 QF Mk IV (Advanced)\n2-Kanonen-Batterie
+5.25in/50 QF Mk IV (Advanced)\n3-Kanonenbatterie
+Batterie 5,25in/50 QF Mk IV (Advanced)\n4-Kanone
+5.25in/50 QF Mk IV (Advanced)\n5-Kanonen-Batterie
+5.25in/50 QF Mk IV (Advanced)\n6-Kanonen-Batterie
+5,25in/50 QF Mk IV (Advanced)\n8-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n1-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n2-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n3-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n4-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n5-Kanonen-Batterie
+6in/45 BL Mk XII (Early)\n6-Kanonen-Batterie
+6in/50 (Zwischenkrieg)\n1-Kanonen-Batterie
+6in/50 (Zwischenkriegszeit)\n2-Kanonen-Batterie
+6in/50 (Zwischenkriegszeit)\n3-Kanonen-Batterie
+6in/50 (Zwischenkrieg)\n4-Kanonen-Batterie
+6in/50 (Zwischenkrieg)\n5-Kanonen-Batterie
+6in/50 (Zwischenkrieg)\n6-Kanonen-Batterie
+6in/50 BL XXIII (Fortgeschrittene)\n1-Kanonen-Batterie
+6in/50 BL XXIII (Fortgeschrittene)\n2-Kanonen-Batterie
+6in/50 BL XXIII (Advanced)\n3-Kanonen-Batterie
+6in/50 BL XXIII (Advanced)\n4-Kanonen-Batterie
+6in/50 BL XXIII (Advanced)\n5-Kanonen-Batterie
+6in/50 BL XXIII (Advanced)\n6-Kanonen-Batterie
+
+12pdr QF Mk I/II/IV (Early)\n1-Kanonen-Batterie mit hohem Winkel
+12pdr QF Mk I/II/IV (Early)\n2-Kanonen-Batterie mit hohem Angriffswinkel
+12pdr QF Mk I/II/IV (Early)\n3-Kanonen-Hochwinkel-Batterie
+12pdr QF Mk I/II/IV (Early)\n4-Kanonen-Hochwinkel-Batterie
+12pdr QF Mk I/II/IV (Early)\n5-Kanonen-Hochwinkel-Batterie
+12pdr QF Mk I/II/IV (Early)\n6-Kanonen-Hochwinkel-Batterie
+12pdr QF Mk I/II/IV (Early)\n8-Kanonen-Hochwinkel-Batterie
+3in/50 (Zwischenkrieg)\n1-Kanone Hochwinkel-Batterie
+3in/50 (Zwischenkriegszeit)\n2-Kanonen-Hochwinkel-Batterie
+3in/50 (Zwischenkrieg)\n3-Kanone Hochwinkel-Batterie
+3in/50 (Zwischenkrieg)\n4-Kanone Hochwinkel-Batterie
+3in/50 (Zwischenkrieg)\n5-Kanone Hochwinkel-Batterie
+3in/50 (Zwischenkrieg)\n6-Kanone Hochwinkel-Batterie
+3in/50 (Zwischenkriegszeit)\n8-Kanone Hochwinkel-Batterie
+3in/50 (Fortgeschrittene)\n1-Kanone Hochwinkel-Batterie
+3in/50 (Fortgeschrittene)\n2-Kanone Hochwinkel-Batterie
+3in/50 (Fortgeschrittene)\n3-gun Hochwinkel-Batterie
+3in/50 (Fortgeschrittene)\n4-gun Hochwinkel-Batterie
+3in/50 (Fortgeschrittene)\n5-gun Hochwinkel-Batterie
+3in/50 (Advanced)\n6-gun Hochwinkel-Batterie
+3in/50 (Advanced)\n8-Kanone Hochwinkel-Batterie
+4in/45 QF Mk V (Early)\n1-Kanone Hochwinkel-Batterie
+4in/45 QF Mk V (Early)\n2-Kanone Hochwinkel-Batterie
+4in/45 QF Mk V (Early)\n3-Kanone Hochwinkel-Batterie
+4in/45 QF Mk V (Early)\n4-gun High-Angle Battery
+4in/45 QF Mk V (Early)\n5-gun High-Angle Battery
+4in/45 QF Mk V (Early)\n6-Kanone Hoch-Winkel-Batterie
+4in/45 QF Mk V (Early)\n8-Kanone Hoch-Winkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkrieg)\n1-Kanone Hoch-Winkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n2-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkrieg)\n3-Kanone Hoch-Winkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkrieg)\n4-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkrieg)\n5-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n6-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n8-Kanonen-Hochwinkel-Batterie
+4,5in/45 QF Mk V (Fortgeschrittene)\n1-Kanone Hoch-Winkel-Batterie
+4.5in/45 QF Mk V (Advanced)\n2-gun High-Angle Battery
+4.5in/45 QF Mk V (Advanced)\n3-gun High-Angle Batterie
+4.5in/45 QF Mk V (Advanced)\n4-gun Hochwinkel-Batterie
+4.5in/45 QF Mk V (Advanced)\n5-gun High-Angle Battery
+4.5in/45 QF Mk V (Advanced)\n6-gun High-Angle Battery
+4.5in/45 QF Mk V (Advanced)\n8-gun High-Angle-Batterie
+4.7in/40 QF VIII (Early)\n1-Kanonen-Hochwinkel-Batterie
+4.7in/40 QF VIII (Early)\n2-Kanonen-Hochwinkel-Batterie
+4.7in/40 QF VIII (Early)\n3-Kanone Hochwinkel-Batterie
+4.7in/40 QF VIII (Early)\n4-Kanone Hochwinkel-Batterie
+4.7in/40 QF VIII (Early)\n5-Kanone Hochwinkel-Batterie
+4.7in/40 QF VIII (Early)\n6-Kanone Hoch-Winkel-Batterie
+4.7in/40 QF VIII (Early)\n8-Kanone Hoch-Winkel-Batterie
+4.7in/45 (Zwischenkrieg)\n1-Kanone Hoch-Winkel-Batterie
+4.7in/45 (Zwischenkriegszeit)\n2-Kanonen-Hochwinkel-Batterie
+4.7in/45 (Zwischenkriegszeit)\n3-Kanone Hoch-Winkel-Batterie
+4.7in/45 (Zwischenkrieg)\n4-Kanone Hoch-Winkel-Batterie
+4.7in/45 (Zwischenkriegszeit)\n5-Kanonen-Hochwinkelbatterie
+4.7in/45 (Zwischenkriegszeit)\n6-Kanonen-Hochwinkelbatterie
+4.7in/45 (Zwischenkrieg)\n8-Kanonen-Hochwinkel-Batterie
+4.7in/50 (Fortgeschrittene)\n1-Kanonen-Hochwinkel-Batterie
+4.7in/50 (Advanced)\n2-Kanonen-Hochwinkel-Batterie
+4.7in/50 (Advanced)\n3-gun Hochwinkel-Batterie
+4.7in/50 (Advanced)\n4-gun Hochwinkel-Batterie
+4.7in/50 (Advanced)\n5-gun Hochwinkel-Batterie
+4.7in/50 (Advanced)\n6-gun Hochwinkel-Batterie
+4.7in/50 (Advanced)\n8-gun Hochwinkel-Batterie
+
+4.5in/45 QF Mk IV (Zwischenkrieg)\n1-Kanone Zweizweckbatterie
+4.5in/45 QF Mk IV (Zwischenkriegszeit)\n2-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk IV (Zwischenkrieg)\n3-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk IV (Zwischenkrieg)\n4-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk IV (Zwischenkrieg)\n5-Kanonen-Zweckbatterie
+4.5in/45 QF Mk IV (Zwischenkrieg)\n6-Kanonen-Zweckbatterie
+4.5in/45 QF Mk IV (Zwischenkrieg)\n8-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk V (Fortgeschrittene)\n1-Kanonen-Zweckbatterie
+4.5in/45 QF Mk V (Advanced)\n2-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk V (Advanced)\n3-gun Dual Purpose Battery
+4.5in/45 QF Mk V (Advanced)\n4-gun Dual Purpose Battery
+4.5in/45 QF Mk V (Advanced)\n5-gun Dual Purpose Battery
+4.5in/45 QF Mk V (Advanced)\n6-gun Dual Purpose Battery
+4.5in/45 QF Mk V (Advanced)\n8-gun Dual Purpose Battery
+4.7in/45 (Interwar)\n1-Kanonen-Zweizweckbatterie
+4.7in/45 (Zwischenkriegszeit)\n2-Kanonen-Zweckbatterie
+4.7in/45 (Zwischenkriegszeit)\n3-Kanonen-Zweckbatterie
+4.7in/45 (Zwischenkrieg)\n4-gun Dual Purpose Battery
+4.7in/45 (Zwischenkrieg)\n5-gun Dual Purpose Battery
+4.7in/45 (Zwischenkrieg)\n6-gun Dual Purpose Battery
+4.7in/45 (Zwischenkrieg)\n8-gun Dual Purpose Battery
+5in/50 (Advanced)\n1-Kanonen-Zweckbatterie
+5in/50 (Advanced)\n2-gun Dual Purpose Battery
+5in/50 (Advanced)\n3-gun Zweizweckbatterie
+5in/50 (Advanced)\n4-gun Zweizweckbatterie
+5in/50 (Advanced)\n5-gun Dual Purpose Battery
+5in/50 (Advanced)\n6-gun Dual Purpose Battery
+5in/50 (Advanced)\n8-gun Dual Purpose Battery
+
+4.7in/45 BL Mk I/II (Early)\n8-gun Sekundärbatterie
+4.7in/45 BL Mk I/II (Early)\n12-Kanonen-Sekundärbatterie
+4.7in/45 BL Mk I/II (Early)\n16-Kanonen-Sekundärbatterie
+4.7in/45 BL Mk I/II (Early)\n20-Kanonen-Sekundärbatterie
+4.7in/45 QF Mk IX (Zwischenkrieg)\n8-Kanonen-Sekundärbatterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n12-Kanonen-Sekundärbatterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n16-Kanonen-Sekundärbatterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n20-Kanonen-Sekundärbatterie
+4.7in/50 QF Mk XI (Advanced)\n8-Kanonen-Sekundärbatterie
+4.7in/50 QF Mk XI (Fortgeschrittene)\n12-Kanonen-Sekundärbatterie
+4.7in/50 QF Mk XI (Advanced)\n16-Kanonen-Sekundärbatterie
+4.7in/50 QF Mk XI (Advanced)\n20-Kanonen-Sekundärbatterie
+5,5in/50 BL Mk I (Early)\n8-Kanonen-Sekundärbatterie
+5,5in/50 BL Mk I (Early)\n12-Kanonen-Sekundärbatterie
+5.5in/50 BL Mk I (Early)\n16-Kanonen-Sekundärbatterie
+5,5in/50 BL Mk I (Early)\n20-Kanonen-Sekundärbatterie
+5,25in/50 QF Mk I (Zwischenkrieg)\n8-Kanonen-Sekundärbatterie
+5,25in/50 QF Mk I (Zwischenkrieg)\n12-Kanonen-Sekundärbatterie
+5.25in/50 QF Mk I (Zwischenkriegszeit)\n16-Kanonen-Sekundärbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n20-Kanonen-Sekundärbatterie
+5.25in/50 QF Mk IV (Advanced)\n8-Kanonen-Sekundärbatterie
+5.25in/50 QF Mk IV (Advanced)\n12-Kanonen-Sekundärbatterie
+5.25in/50 QF Mk IV (Advanced)\n16-Kanonen-Sekundärbatterie
+5,25in/50 QF Mk IV (Advanced)\n20-Kanonen-Sekundärbatterie
+6in/45 BL Mk XII (Early)\n8-Kanonen-Sekundärbatterie
+6in/45 BL Mk XII (Early)\n12-Kanonen-Sekundärbatterie
+6in/45 BL Mk XII (Early)\n16-Kanonen-Sekundärbatterie
+6in/45 BL Mk XII (Early)\n20-Kanonen-Sekundärbatterie
+6in/50 (Zwischenkrieg)\n8-Kanonen-Sekundärbatterie
+6in/50 (Zwischenkriegszeit)\n12-Kanonen-Sekundärbatterie
+6in/50 (Zwischenkriegszeit)\n16-Kanonen-Sekundärbatterie
+6in/50 (Zwischenkriegszeit)\n20-Kanonen-Sekundärbatterie
+6in/50 BL XXIII (Fortgeschrittene)\n8-Kanonen-Sekundärbatterie
+6in/50 BL XXIII (Fortgeschrittene)\n12-Kanonen-Sekundärbatterie
+6in/50 BL XXIII (Advanced)\n16-gun Secondary Battery
+6in/50 BL XXIII (Advanced)\n20-gun Secondary Battery
+6in/50 (Schnellfeuer)\n8-gun Secondary Battery
+6in/50 (Schnellfeuer)\n12-gun Secondary Battery
+6in/50 (Schnellfeuer)\n16-gun Secondary Battery
+6in/50 (Schnellfeuer)\n20-gun Secondary Battery
+4,5in/45 QF Mk I/III/IV (Zwischenkrieg)\n4-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk I/III/IV (Zwischenkrieg)\n8-Kanonen-Zweckbatterie
+4,5in/45 QF Mk I/III/IV (Zwischenkrieg)\n12-Kanonen-Zweizweckbatterie
+4in/50 (Advanced)\n4-Kanonen-Zweckbatterie
+4in/50 (Advanced)\n8-Kanonen-Zweizweckbatterie
+4in/50 (Advanced)\n12-gun Dual Purpose Battery
+4.7in/45 (Interwar)\n4-gun Dual Purpose Battery
+4.7in/45 (Zwischenkrieg)\n8-gun Dual Purpose Battery
+4.7in/45 (Zwischenkriegszeit)\n12-Kanonen-Zweckbatterie
+5in/50 (Advanced)\n4-Kanonen-Zweckbatterie
+5in/50 (Advanced)\n8-gun Dual Purpose Battery
+5in/50 (Advanced)\n12-gun Dual Purpose Battery
+5.25in/50 QF Mk I (Zwischenkrieg)\n4-Kanonen-Zweckbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n8-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n12-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk IV (Advanced)\n4-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk IV (Advanced)\n8-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk IV (Advanced)\n12-gun Dual Purpose Battery
+6in/50 QF Mk V (Advanced)\n4-Kanonen-Zweizweckbatterie
+6in/50 QF Mk V (Advanced)\n8-Kanonen-Zweizweckbatterie
+6in/50 QF Mk V (Advanced)\n12-Kanonen-Zweizweckbatterie
+6in/50 QF Mk N5 (Rapid Fire)\n4-Kanonen-Zweizweckbatterie
+6in/50 QF Mk N5 (Schnellfeuer)\n8-Kanonen-Zweizweckbatterie
+6in/50 QF Mk N5 (Schnellfeuer)\n12-Kanonen-Zweizweckbatterie
+7,5in/45 Mk VI (Early)\n6-Kanonen-Sekundärbatterie
+7,5in/45 Mk VI (Early)\n8-Kanonen-Sekundärbatterie
+7,5in/45 Mk VI (Early)\n10-Kanonen-Sekundärbatterie
+7,5in/45 Mk VI (Early)\n12-Kanonen-Sekundärbatterie
+8in/50 Mk VIII (Zwischenkrieg)\n6-Kanonen-Sekundärbatterie
+8in/50 Mk VIII (Zwischenkriegszeit)\n8-Kanonen-Sekundärbatterie
+8in/50 Mk VIII (Zwischenkriegszeit)\n10-Kanonen-Sekundärbatterie
+8in/50 Mk VIII (Zwischenkriegszeit)\n12-Kanonen-Sekundärbatterie
+8in/50 Mk IX/X (Fortgeschrittene)\n6-Kanonen-Sekundärbatterie
+8in/50 Mk IX/X (Fortgeschrittene)\n8-Kanonen-Sekundärbatterie
+8in/50 Mk IX/X (Advanced)\n10-Kanonen-Sekundärbatterie
+8in/50 Mk IX/X (Advanced)\n12-Kanonen-Sekundärbatterie
+
+12pdr QF Mk I/II/IV (Early)\n4-Kanonen-Batterie mit hohem Winkel
+12pdr QF Mk I/II/IV (Early)\n8-Kanonen-Hochwinkelbatterie
+12pdr QF Mk I/II/IV (Early)\n12-Kanonen-Hochwinkel-Batterie
+12pdr QF Mk I/II/IV (Early)\n16-Kanonen-Hochwinkelbatterie
+3in/50 (Zwischenkrieg)\n4-gun High-Angle Battery
+3in/50 (Zwischenkriegszeit)\n8-Kanonen-Hochwinkel-Batterie
+3in/50 (Zwischenkriegszeit)\n12-Kanonen-Hochwinkel-Batterie
+3in/50 (Zwischenkriegszeit)\n16-Kanonen-Hochwinkel-Batterie
+3in/50 (Fortgeschrittene)\n4-Kanonen-Hochwinkel-Batterie
+3in/50 (Fortgeschrittene)\n8-Kanonen-Hochwinkel-Batterie
+3in/50 (Fortgeschrittene)\n12-gun High-Angle Batterie
+3in/50 (Advanced)\n16-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk V (Early)\n4-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk V (Early)\n8-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk V (Early)\n12-gun High-Angle Battery
+4in/45 QF Mk V (Early)\n16-gun High-Angle Battery
+4in/45 QF Mk XVI/XXI (Zwischenkrieg)\n4-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n8-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n12-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkrieg)\n16-Kanonen-Hochwinkel-Batterie
+4,5in/45 QF Mk V (Fortgeschrittene)\n4-Kanonen-Hochwinkel-Batterie
+4.5in/45 QF Mk V (Advanced)\n8-Kanonen-Hochwinkel-Batterie
+4.5in/45 QF Mk V (Advanced)\n12-gun High-Angle Battery
+4.5in/45 QF Mk V (Advanced)\n16-gun High-Angle Battery
+4.7in/40 QF VIII (Early)\n4-Kanonen-Hochwinkelbatterie
+4.7in/40 QF VIII (Early)\n8-Kanonen-Hochwinkel-Batterie
+4.7in/40 QF VIII (Early)\n12-Kanone Hoch-Winkel-Batterie
+4.7in/40 QF VIII (Early)\n16-Kanone Hoch-Winkel-Batterie
+4.7in/45 (Zwischenkriegszeit)\n4-Kanonen-Hochwinkelbatterie
+4.7in/45 (Zwischenkriegszeit)\n8-Kanonen-Hochwinkel-Batterie
+4.7in/45 (Zwischenkriegszeit)\n12-Kanonen-Hochwinkel-Batterie
+4.7in/45 (Zwischenkriegszeit)\n16-Kanonen-Hochwinkel-Batterie
+4.7in/50 (Fortgeschrittene)\n4-Kanonen-Hochwinkel-Batterie
+4.7in/50 (Advanced)\n8-Kanonen-Hochwinkel-Batterie
+4.7in/50 (Advanced)\n12-gun High-Angle Batterie
+4.7in/50 (Advanced)\n16-gun High-Angle Batterie
+4.5in/45 QF Mk I/III (Zwischenkrieg)\n4-Kanonen-Zweckbatterie
+4.5in/45 QF Mk I/III (Zwischenkriegszeit)\n8-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk I/III (Zwischenkrieg)\n12-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk V (Fortgeschrittene)\n4-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk V (Advanced)\n8-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk V (Advanced)\n12-Kanonen-Zweizweckbatterie
+4.7in/45 (Interwar)\n4-Kanonen-Zweizweckbatterie
+4.7in/45 (Zwischenkriegszeit)\n8-Kanonen-Zweizweckbatterie
+4.7in/45 (Zwischenkriegszeit)\n12-Kanonen-Zweckbatterie
+5in/50 (Advanced)\n4-Kanonen-Zweckbatterie
+5in/50 (Advanced)\n8-gun Dual Purpose Battery
+5in/50 (Advanced)\n12-gun Dual Purpose Battery
+5.25in/50 QF Mk I (Zwischenkrieg)\n4-Kanonen-Zweckbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n8-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk I (Zwischenkrieg)\n12-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk IV (Advanced)\n4-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk IV (Advanced)\n8-Kanonen-Zweizweckbatterie
+5.25in/50 QF Mk IV (Advanced)\n12-gun Dual Purpose Battery
+6in/50 QF Mk V (Advanced)\n4-Kanonen-Zweizweckbatterie
+6in/50 QF Mk V (Advanced)\n8-Kanonen-Zweizweckbatterie
+6in/50 QF Mk V (Advanced)\n12-Kanonen-Zweizweckbatterie
+6in/50 QF Mk N5 (Rapid Fire)\n4-Kanonen-Zweizweckbatterie
+6in/50 QF Mk N5 (Schnellfeuer)\n8-Kanonen-Zweizweckbatterie
+6in/50 QF Mk N5 (Schnellfeuer)\n12-Kanonen-Zweizweckbatterie
+
+4.7in/45 BL Mk I/II (Early)\n4-Kanonen-Sekundärbatterie
+4.7in/45 BL Mk I/II (Early)\n8-Kanonen-Sekundärbatterie
+4.7in/45 BL Mk I/II (Early)\n12-Kanonen-Sekundärbatterie
+4.7in/45 QF Mk IX (Zwischenkrieg)\n4-Kanonen-Sekundärbatterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n8-Kanonen-Sekundärbatterie
+4.7in/45 QF Mk IX (Zwischenkriegszeit)\n12-Kanonen-Sekundärbatterie
+4.7in/50 QF Mk XI (Advanced)\n4-Kanonen-Sekundärbatterie
+4.7in/50 QF Mk XI (Advanced)\n8-Kanonen-Sekundärbatterie
+4.7in/50 QF Mk XI (Advanced)\n12-Kanonen-Sekundärbatterie
+5,5in/50 BL Mk I (Early)\n4-Kanonen-Sekundärbatterie
+5,5in/50 BL Mk I (Early)\n8-Kanonen-Sekundärbatterie
+5,5in/50 BL Mk I (Early)\n12-Kanonen-Sekundärbatterie
+5,25in/50 QF Mk I (Zwischenkrieg)\n4-Kanonen-Sekundärbatterie
+5.25in/50 QF Mk I (Zwischenkriegszeit)\n8-Kanonen-Sekundärbatterie
+5.25in/50 QF Mk I (Zwischenkriegszeit)\n12-Kanonen-Sekundärbatterie
+5.25in/50 QF Mk IV (Advanced)\n4-Kanonen-Sekundärbatterie
+5,25in/50 QF Mk IV (Advanced)\n8-Kanonen-Sekundärbatterie
+5,25in/50 QF Mk IV (Advanced)\n12-Kanonen-Sekundärbatterie
+6in/45 BL Mk XII (Early)\n4-Kanonen-Sekundärbatterie
+6in/45 BL Mk XII (Early)\n8-Kanonen-Sekundärbatterie
+6in/45 BL Mk XII (Early)\n12-Kanonen-Sekundärbatterie
+6in/50 (Zwischenkrieg)\n4-Kanonen-Sekundärbatterie
+6in/50 (Zwischenkriegszeit)\n8-Kanonen-Sekundärbatterie
+6in/50 (Zwischenkrieg)\n12-Kanonen-Sekundärbatterie
+6in/50 BL XXIII (Fortgeschrittene)\n4-Kanonen-Sekundärbatterie
+6in/50 BL XXIII (Fortgeschrittene)\n8-Kanonen-Sekundärbatterie
+6in/50 BL XXIII (Advanced)\n12-gun Secondary Battery
+12pdr QF Mk I/II/IV (Early)\n4-gun High-Angle Battery
+12pdr QF Mk I/II/IV (Early)\n8-Kanonen-Hochwinkelbatterie
+12pdr QF Mk I/II/IV (Early)\n12-Kanonen-Hochwinkelbatterie
+3in/50 (Zwischenkrieg)\n4-Kanonen-Hochwinkel-Batterie
+3in/50 (Zwischenkriegszeit)\n8-Kanonen-Hochwinkel-Batterie
+3in/50 (Zwischenkriegszeit)\n12-Kanonen-Hochwinkel-Batterie
+3in/50 (Fortgeschrittene)\n4-Kanonen-Hochwinkel-Batterie
+3in/50 (Fortgeschrittene)\n8-Kanonen-Hochwinkel-Batterie
+3in/50 (Advanced)\n12-gun Hochwinkel-Batterie
+4in/45 QF Mk V (Early)\n4-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk V (Early)\n8-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk V (Early)\n12-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkrieg)\n4-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n8-Kanonen-Hochwinkel-Batterie
+4in/45 QF Mk XVI/XXI (Zwischenkriegszeit)\n12-Kanonen-Hochwinkel-Batterie
+4,5in/45 QF Mk V (Fortgeschrittene)\n4-Kanonen-Hochwinkel-Batterie
+4.5in/45 QF Mk V (Advanced)\n8-Kanonen-Hochwinkel-Batterie
+4.5in/45 QF Mk V (Advanced)\n12-gun High-Angle Battery
+4.7in/40 QF VIII (Early)\n4-Kanonen-Hochwinkelbatterie
+4.7in/40 QF VIII (Early)\n8-Kanonen-Hochwinkel-Batterie
+4.7in/40 QF VIII (Early)\n12-Kanone Hoch-Winkel-Batterie
+4.7in/45 (Zwischenkriegszeit)\n4-Kanonen-Hochwinkelbatterie
+4.7in/45 (Zwischenkriegszeit)\n8-Kanonen-Hochwinkel-Batterie
+4.7in/45 (Zwischenkriegszeit)\n12-Kanonen-Batterie mit hohem Winkel
+4.7in/50 (Fortgeschrittene)\n4-Kanonen-Hochwinkelbatterie
+4.7in/50 (Advanced)\n8-Kanonen-Hochwinkel-Batterie
+4.7in/50 (Advanced)\n12-gun Hochwinkel-Batterie
+4.5in/45 QF Mk I/III (Zwischenkrieg)\n4-Kanonen-Zweckbatterie
+4.5in/45 QF Mk I/III (Zwischenkriegszeit)\n8-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk I/III (Zwischenkrieg)\n12-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk V (Fortgeschrittene)\n4-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk V (Advanced)\n8-Kanonen-Zweizweckbatterie
+4.5in/45 QF Mk V (Advanced)\n12-Kanonen-Zweizweckbatterie
+4.7in/45 (Interwar)\n4-Kanonen-Zweizweckbatterie
+4.7in/45 (Zwischenkriegszeit)\n8-Kanonen-Zweizweckbatterie
+4.7in/45 (Zwischenkriegszeit)\n12-Kanonen-Zweckbatterie
+5in/50 (Advanced)\n4-Kanonen-Zweckbatterie
+5in/50 (Advanced)\n8-gun Dual Purpose Battery
+5in/50 (Advanced)\n12-Kanonen-Zweckbatterie
+
+Lokale Feuerleitung
+Zentralfeuer & Entfernungsmesser
+Direkter Beschuss
+Verbesserte Feuerleitanlage
+Verbessertes Direktorfeuer & mechanischer Rangekeeper
+Fortgeschrittener Direktor & mechanischer Entfernungsmesser
+Fortgeschrittener Direktor & Ballistischer Computer
+
+Grundlegende AA-Feuerkontrolle
+Verbesserte AA-Feuerleitanlage
+Tachymetrische AA-Feuerleitanlage
+Integrierte Flak-Feuerleitanlage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Radar Typ 79
+Typ 79/272/273 Radar
+Typ 272/273/279 Radar
+Typ 272/273/279/281 Radar
+Typ 272/273/274/275 Radar
+Fortgeschrittenes zentimetrisches Radar
+Typ 272/273/279 Radar & Typ 279 Radar FC
+Typ 272/273/279/281 Radar und Typ 284/285 Radar FC
+Typ 272/273/274/275 Radar und Typ 274/275/276 Radar FC
+Fortgeschrittenes zentimetrisches Radar & Integriertes Radar FC
+
+
+
+
+
+
+
+
+
+
+
+
+7,7-mm-Maschinengewehre
+12,7-mm-Maschinengewehre
+20mm/70 Oerlikon Kanone
+20mm/70 Oerlikon Kanone (Zwillingsgeschütz)
+
+
+
+
+
+
+2pdr Mk II Kanone
+2pdr Mk VIII Kanone
+40mm/56 Bofors-Kanone
+40mm/56 Bofors-Kanone (mehrere)
+3in/50RF Autoloading Kanone
+
+
+
+
+
+
+
+Wasserflugzeug-Katapult & Hangar
+Wasserflugzeug-Katapult und -Hangar (Verbessert)
+Wasserflugzeug-Katapult und -Hangar (Fortgeschritten)
+
+
+
+
+
+2x 21in Mk IV/V\nTorpedo-Werfer\n(Früh)
+4x 21in Mk IV/V\nTorpedo-Werfer\n(Früh)
+6x 21in Mk IV/V\nTorpedo-Werfer\n(Early)
+8x 21in Mk IV/V\nTorpedo-Werfer\n(Early)
+10x 21in Mk IV/V\nTorpedo-Werfer\n(Früh)
+2x 21in Mk VIII/IX\nTorpedowerfer\n(Verbessert)
+4x 21in Mk VIII/IX\nTorpedowerfer\n(Verbessert)
+6x 21in Mk VIII/IX\nTorpedo-Werfer\n(Verbessert)
+8x 21in Mk VIII/IX\nTorpedo-Werfer\n(Verbessert)
+10x 21in Mk VIII/IX\nTorpedo-Werfer\n(Verbessert)
+2x 21in Mk XI\nTorpedo-Werfer\n(verbessert)
+4x 21in Mk XI\nTorpedo-Werfer\n(Fortgeschritten)
+6x 21in Mk XI\nTorpedo-Werfer\n(Fortgeschritten)
+8x 21in Mk XI\nTorpedo-Werfer\n(Fortgeschrittene)
+10x 21in Mk XI\nTorpedo-Werfer\n(Fortgeschrittene)
+2x 24in\nTorpedowerfer\n(Früh)
+4x 24in\nTorpedowerfer\n(Früh)
+6x 24in\nTorpedo-Werfer\n(Früh)
+8x 24in\nTorpedo-Werfer\n(Früh)
+10x 24in\nTorpedo-Werfer\n(Früh)
+2x 24in\nTorpedo-Werfer\n(Verbessert)
+4x 24in\nTorpedo-Werfer\n(Verbessert)
+6x 24in\nTorpedo-Werfer\n(Verbessert)
+8x 24in\nTorpedo-Werfer\n(Verbessert)
+10x 24in\nTorpedo-Werfer\n(Verbessert)
+2x 24in\nTorpedo-Werfer\n(Verbessert)
+4x 24in\nTorpedo-Werfer\n(Fortgeschritten)
+6x 24in\nTorpedo-Werfer\n(Fortgeschritten)
+8x 24in\nTorpedo-Werfer\n(Fortgeschrittene)
+10x 24in\nTorpedo-Werfer\n(Fortgeschrittene)
+
+7,7-mm-Maschinengewehre
+12,7-mm-Maschinengewehre
+20mm/70 Oerlikon Kanone
+20mm/70 Oerlikon Kanone (Zwillingsgeschütz)
+
+
+
+
+
+
+2pdr Mk II Kanone
+2pdr Mk VIII Kanone
+40mm/56 Bofors-Kanone
+40mm/56 Bofors-Kanone (mehrere)
+3in/50RF Autoloading Kanone
+
+
+
+
+
+
+
+Wasserflugzeug-Katapult & Hangar
+Wasserflugzeug-Katapult und -Hangar (Verbessert)
+Wasserflugzeug-Katapult und -Hangar (Fortgeschritten)
+
+
+
+
+
+Frühes Hydrophon
+Sonar Typ 112
+Typ 119/121 Sonar
+Typ 124/128 Sonar
+Typ 144/147 Sonar
+
+
+
+
+
+
+
+Typ D DC-Gestell
+Mark VII DC Gestell & Werfer
+Mark X DC-Zahnstange und -Werfer
+
+
+
+
+
+Minenverlegungsschienen
+Minenräumgerät
+
+
+
+
+2x 21in Mk IV/V\nTorpedo-Werfer\n(früh)
+4x 21in Mk IV/V\nTorpedowerfer\n(früh)
+6x 21in Mk IV/V\nTorpedo-Werfer\n(Early)
+8x 21in Mk IV/V\nTorpedo-Werfer\n(Early)
+10x 21in Mk IV/V\nTorpedo-Werfer\n(Früh)
+2x 21in Mk VIII/IX\nTorpedowerfer\n(Verbessert)
+4x 21in Mk VIII/IX\nTorpedowerfer\n(Verbessert)
+6x 21in Mk VIII/IX\nTorpedo-Werfer\n(Verbessert)
+8x 21in Mk VIII/IX\nTorpedo-Werfer\n(Verbessert)
+10x 21in Mk VIII/IX\nTorpedo-Werfer\n(Verbessert)
+2x 21in Mk XI\nTorpedo-Werfer\n(verbessert)
+4x 21in Mk XI\nTorpedo-Werfer\n(Fortgeschritten)
+6x 21in Mk XI\nTorpedo-Werfer\n(Fortgeschritten)
+8x 21in Mk XI\nTorpedo-Werfer\n(Fortgeschrittene)
+10x 21in Mk XI\nTorpedo-Werfer\n(Fortgeschrittene)
+2x 24in\nTorpedowerfer\n(Früh)
+4x 24in\nTorpedowerfer\n(Früh)
+6x 24in\nTorpedo-Werfer\n(Früh)
+8x 24in\nTorpedo-Werfer\n(Früh)
+10x 24in\nTorpedo-Werfer\n(Früh)
+2x 24in\nTorpedo-Werfer\n(Verbessert)
+4x 24in\nTorpedo-Werfer\n(Verbessert)
+6x 24in\nTorpedo-Werfer\n(Verbessert)
+8x 24in\nTorpedo-Werfer\n(Verbessert)
+10x 24in\nTorpedo-Werfer\n(Verbessert)
+2x 24in\nTorpedo-Werfer\n(Verbessert)
+4x 24in\nTorpedo-Werfer\n(Fortgeschritten)
+6x 24in\nTorpedo-Werfer\n(Fortgeschritten)
+8x 24in\nTorpedo-Werfer\n(Fortgeschrittene)
+10x 24in\nTorpedo-Werfer\n(Fortgeschrittene)
+
+Frühes Hydrophon
+Typ 112 Sonar
+Typ 119/121 Sonar
+Typ 124/128 Sonar
+Typ 144/147 Sonar
+
+
+
+
+
+
+
+7,7-mm-Maschinengewehre
+12,7-mm-Maschinengewehre
+20mm/70 Oerlikon Kanone
+20mm/70 Oerlikon Kanone (Zwillingsgeschütz)
+
+
+
+
+
+
+2pdr Mk II Kanone
+2pdr Mk VIII Kanone
+40mm/56 Bofors-Kanone
+40mm/56 Bofors-Kanone (mehrere)
+3in/50RF Autoloading-Kanone
+
+
+
+
+
+
+
+Typ D DC-Gestell
+Mark VII DC-Gestell und -Werfer
+Mark X DC-Zahnstange und -Werfer
+Hedgehod ASW Projektor
+Tintenfisch-ASW-Mörser
+
+
+
+
+
+
+
+Minenverlegungsschienen
+Minenräumgerät
+
+
+
+
+2x 21in Mk IV/V Centerline\nTorpedowerfer\n(früh)
+3x 21in Mk IV/V Centerline\nTorpedowerfer\n(Early)
+4x 21in Mk IV/V Centerline\nTorpedowerfer\n(Early)
+5x 21in Mk IV/V Centerline\nTorpedowerfer\n(Early)
+2x 21in Mk VIII/IX Centerline\nTorpedowerfer\n(Verbessert)
+3x 21in Mk VIII/IX Centerline\nTorpedowerfer\n(Verbessert)
+4x 21in Mk VIII/IX Centerline\nTorpedowerfer\n(Verbessert)
+5x 21in Mk VIII/IX Centerline\nTorpedowerfer\n(Verbessert)
+2x 21in Mk XI Centerline\nTorpedowerfer\n(Verbessert)
+3x 21in Mk XI Centerline\nTorpedo Launcher\n(Fortgeschritten)
+4x 21in Mk XI Centerline\nTorpedo Launcher\n(Advanced)
+5x 21in Mk XI Centerline\nTorpedo Launcher\n(Advanced)
+2x1 21in Mk IV/V Side\nTorpedo Launcher\n(Early)
+2x2 21in Mk IV/V Side\nTorpedo Launcher\n(Early)
+2x3 21in Mk IV/V Side\nTorpedo Launcher\n(Early)
+2x4 21in Mk IV/V Side\nTorpedo Launcher\n(Early)
+2x1 21in Mk VIII/IX Side\nTorpedo Launcher\n(Verbessert)
+2x2 21in Mk VIII/IX Side\nTorpedo Launcher\n(Verbessert)
+2x3 21in Mk VIII/IX Side\nTorpedo Launcher\n(Verbessert)
+2x4 21in Mk VIII/IX Side\nTorpedo Launcher\n(Verbessert)
+2x1 21in Mk XI Side\nTorpedo Launcher\n(Verbessert)
+2x2 21in Mk XI Side\nTorpedo Launcher\n(Fortgeschritten)
+2x3 21in Mk XI Side\nTorpedo Launcher\n(Advanced)
+2x4 21in Mk XI Side\nTorpedo Launcher\n(Advanced)
+
+2x 24in Centerline\nTorpedowerfer\n(Early)
+3x 24in Centerline\nTorpedo Launcher\n(Early)
+4x 24in Centerline\nTorpedo Launcher\n(Early)
+5x 24in Centerline\nTorpedo Launcher\n(Early)
+2x 24in Centerline\nTorpedo Launcher\n(Verbessert)
+3x 24in Centerline\nTorpedo Launcher\n(Verbessert)
+4x 24in Centerline\nTorpedo Launcher\n(Verbessert)
+5x 24in Centerline\nTorpedo Launcher\n(Verbessert)
+2x 24in Centerline\nTorpedo Launcher\n(Verbessert)
+3x 24in Centerline\nTorpedo Launcher\n(Fortgeschritten)
+4x 24in Centerline\nTorpedo Launcher\n(Fortgeschritten)
+5x 24 Zoll Mittellinie\nTorpedo-Werfer\n(Fortgeschrittene)
+2x1 24in Side\nTorpedo Launcher\n(Early)
+2x2 24in Side\nTorpedo Launcher\n(Early)
+2x3 24in Side\nTorpedo Launcher\n(Early)
+2x4 24in Side\nTorpedo Launcher\n(Early)
+2x1 24in Side\nTorpedo Launcher\n(Verbessert)
+2x2 24in Side\nTorpedo Launcher\n(Verbessert)
+2x3 24in Side\nTorpedo Launcher\n(Verbessert)
+2x4 24in Side\nTorpedo Launcher\n(Verbessert)
+2x1 24in Side\nTorpedo Launcher\n(Verbessert)
+2x2 24in Side\nTorpedo Launcher\n(Fortgeschritten)
+2x3 24in Side\nTorpedo Launcher\n(Fortgeschritten)
+2x4 24in Side\nTorpedo Launcher\n(Advanced)
+
+12pdr Deckgeschütz
+4in/40 Deckgeschütz
+4.7in/45 Decksgeschütz
+6in/45 Decksgeschütz
+8in/50 Geschütz
+
+
+
+
+
+
+
+1x 18in Mk VIII\nTorpedorohre\n(früh)
+2x 18in Mk VIII\nTorpedorohre\n(früh)
+3x 18in Mk VIII\nTorpedorohre\n(Früh)
+4x 18in Mk VIII Torpedorohre\n(Früh)
+5x 18in Mk VIII\nTorpedorohre\n(Früh)
+6x 18in Mk VIII\nTorpedorohre\n(Früh)
+8x 18in Mk VIII\nTorpedorohre\n(Früh)
+1x 18-Zoll-Torpedorohr\n(verbessert)
+2x 18in\nTorpedorohre\n(Verbessert)
+3x 18in\nTorpedorohre\n(Verbessert)
+4x 18in\nTorpedorohre\n(Verbessert)
+5x 18in\nTorpedorohre\n(Verbessert)
+6x 18in\nTorpedorohre\n(Verbessert)
+8x 18in\nTorpedorohre\n(Verbessert)
+1x 18in\nTorpedorohre\n(Verbessert)
+2x 18in\nTorpedorohre\n(Fortgeschritten)
+3x 18in\nTorpedo-Rohre\n(Fortgeschrittene)
+4x 18in\nTorpedorohre\n(Fortgeschrittene)
+5x 18in\nTorpedorohre\n(Fortgeschrittene)
+6x 18in\nTorpedorohre\n(Fortgeschrittene)
+8x 18in\nTorpedorohre\n(Fortgeschrittene)
+
+1x 21in Mk IV\nTorpedorohre\n(Früh)
+2x 21in Mk IV\nTorpedorohre\n(Früh)
+3x 21in Mk IV\nTorpedorohre\n(Früh)
+4x 21in Mk IV\nTorpedorohre\n(Früh)
+5x 21in Mk IV\nTorpedorohre\n(Früh)
+6x 21in Mk IV\nTorpedorohre\n(Früh)
+8x 21in Mk IV\nTorpedorohre\n(Früh)
+1x 21in MK VIII\nTorpedorohre\n(Verbessert)
+2x 21in MK VIII\nTorpedorohre\n(Verbessert)
+3x 21in MK VIII\nTorpedorohre\n(Verbessert)
+4x 21in MK VIII\nTorpedorohre\n(Verbessert)
+5x 21in MK VIII\nTorpedorohre\n(Verbessert)
+6x 21in MK VIII\nTorpedorohre\n(Verbessert)
+8x 21in MK VIII\nTorpedorohre\n(Verbessert)
+1x 21in Mk XII\nTorpedorohre\n(Verbessert)
+2x 21in Mk XII\nTorpedorohre\n(Verbessert)
+3x 21in Mk XII\nTorpedorohre\n(Fortgeschrittene)
+4x 21in Mk XII\nTorpedorohre\n(Fortgeschrittene)
+5x 21in Mk XII\nTorpedorohre\n(Fortgeschrittene)
+6x 21in Mk XII\nTorpedorohre\n(Fortgeschrittene)
+8x 21in Mk XII\nTorpedorohre\n(Fortgeschrittene)
+
+12,7mm Maschinengewehre
+20mm/70 Oerlikon Kanone
+20mm/70 Oerlikon Kanone (Zwillingsgeschütz)
+
+
+
+
+
+2pdr Mk VIII Kanone
+40mm/56 Bofors-Kanone
+
+
+
+
+Frühes Hydrophon
+Sonar Typ 116/118
+Typ 120/122 Sonar
+Typ 129/138 Sonar
+Typ 138/152 Sonar
+
+Typ 286 Radar
+Typ 286W Radar
+Typ 291 Radar
+Typ 267 Radar
+Fortgeschrittenes zentimetrisches Radar
+
+
+
+
+
+
+
+Keine U-Boot-Tarnkappe
+Frühe U-Boot-Tarnkappe
+Verbesserte U-Boot-Tarnkappe
+Fortgeschrittene U-Boot-Tarnkappe
+
+Wasserflugzeug-Werfer & Hangar
+Wasserflugzeug-Werfer & -Hangar (Verbessert)
+Wasserflugzeug-Werfer & -Hangar (Fortgeschritten)
+
+Schnorchel
+Schnorchel (Verbessert)
+
+Minenleger-Ausrüstung
