@@ -1619,7 +1619,7 @@
  hungary_flavor_partition.27.b:0 "Serbien überlassen"
 
  hungary_flavor_partition.28.t:0 "Ungarn bedroht Jugoslawien"
- hungary_flavor_partition.28.d:0 ""Unsere Diplomaten und Geheimdienstler haben berichtet, dass [HUN.GetNameDef] aktiv auf eine Konfrontation mit Jugoslawien drängt. Was auch immer ihre Ansprüche gegenüber Jugoslawien sind, sie wollen sie durchsetzen. Wir werden entscheiden müssen, wie ernst wir diese Nachricht nehmen, aber wir tun gut daran, uns vorzubereiten." hungary_flavor_partition.28.a:0 "Jugoslawien ist ein Staat der Sowjetunion."
+ hungary_flavor_partition.28.d:0 "Unsere Diplomaten und Geheimdienstler haben berichtet, dass [HUN.GetNameDef] aktiv auf eine Konfrontation mit Jugoslawien drängt. Was auch immer ihre Ansprüche gegenüber Jugoslawien sind, sie wollen sie durchsetzen. Wir werden entscheiden müssen, wie ernst wir diese Nachricht nehmen, aber wir tun gut daran, uns vorzubereiten." hungary_flavor_partition.28.a:0 "Jugoslawien ist ein Staat der Sowjetunion."
  hungary_flavor_partition.28.b:0 "Wir haben keine Sorge für diese"
 
  hungary_flavor_fed_elections.1.t:0 "Regionalwahlen in [HUN.GetName]"

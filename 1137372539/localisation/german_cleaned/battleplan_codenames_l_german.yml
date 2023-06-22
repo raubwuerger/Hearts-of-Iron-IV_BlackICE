@@ -1,10 +1,10 @@
 ﻿l_german:
 
  o_operation:0	"Operation"
- o_unternehmen:0	"Unternehmen"
+ o_unternehmen:0	"Company"
  o_storm:0	"Storm"
  o_fox:0	"Fox"
- ###Default Adjective
+ ###Default Adjective	""
  o_umbral:0	"Umbral"
  o_shadow:0	"Shadow"
  o_sunlight:0	"Sunlight"
@@ -39,7 +39,7 @@
  o_grey:0	"Grey"
  o_purple:0	"Purple"
  o_restless:0	"Restless"
- ###Default Noun
+ ###Default Noun	""
  o_scimitar:0	"Scimitar"
  o_sword:0	"Sword"
  o_spirit:0	"Spirit"
@@ -76,169 +76,169 @@
  o_lion:0	"Lion"
  o_tiger:0	"Tiger"
  o_shield:0	"Shield"
- ###German
- o_barbarossa:0	"Unternehmen Barbarossa"
- o_fall_blau:0	"Fall Blau"
- o_fall_rot:0	"Fall Rot"
- o_fall_gelb:0	"Fall Gelb"
- o_fall_braun:0	"Fall Braun"
- o_fall_weiss:0	"Fall Weiss"
- o_seelowe:0	"Unternehmen Seelöwe"
- o_weserubung:0	"Unternehmen Weserübung"
- o_fall_grun:0	"Fall Grün"
- o_merkur:0	"Unternehmen Merkur"
- o_marita:0	"Unternehmen Marita"
- o_herkules:0	"Unternehmen Herkules"
- o_silberfuchs:0	"Unternehmen Silberfuchs"
- o_blaufuchs:0	"Unternehmen Blaufuchs"
- o_polarfuchs:0	"Unternehmen Polarfuchs"
- o_platinfuchs:0	"Unternehmen Platinfuchs"
- o_taifun:0	"Unternehmen Taifun"
- o_zitadelle:0	"Unternehmen Zitadelle"
- o_herbstnebel:0	"Unternehmen Herbstnebel"
- o_buffel:0	"Unternehmen Büffel"
- o_sizilien:0	"Unternehmen Sizilien"
- o_birke:0	"Unternehmen Birke"
- o_tanne_ost:0	"Unternehmen Tanne Ost"
- o_tanne_west:0	"Unternehmen Tanne West"
+ ###German	""
+ o_barbarossa:0	"Company Barbarossa"
+ o_fall_blau:0	"Case Blue"
+ o_fall_rot:0	"Case Red"
+ o_fall_gelb:0	"Case Yellow"
+ o_fall_braun:0	"Case Brown"
+ o_fall_weiss:0	"Case White"
+ o_seelowe:0	"Company Sea Lion"
+ o_weserubung:0	"Company Weser Exercise"
+ o_fall_grun:0	"Case Green"
+ o_merkur:0	"Company Mercury"
+ o_marita:0	"Company Marita"
+ o_herkules:0	"Company Hercules"
+ o_silberfuchs:0	"Company Silver Fox"
+ o_blaufuchs:0	"Company Blue Fox"
+ o_polarfuchs:0	"Company Arctic fox"
+ o_platinfuchs:0	"Company Platinum Fox"
+ o_taifun:0	"Company Typhoon"
+ o_zitadelle:0	"Company Citadel"
+ o_herbstnebel:0	"Company Autumn Fog"
+ o_buffel:0	"Company Buffalo"
+ o_sizilien:0	"Company Sicily"
+ o_birke:0	"Company Birch"
+ o_tanne_ost:0	"Company Fir East"
+ o_tanne_west:0	"Company Fir West"
 
- o_wildente:0	"Wildente"
- o_biene:0	"Biene"
+ o_wildente:0	"Wild Duck"
+ o_biene:0	"Bee"
  o_gneisenau:0	"Gneisenau"
- o_granit:0	"Granit"
- o_stahl:0	"Stahl"
+ o_granit:0	"Granite"
+ o_stahl:0	"Steel"
  o_scharnhorst:0	"Scharnhorst"
- o_nebelubung:0	"Nebelübung"
- o_eisen:0	"Eisen"
- o_festung:0	"Festung"
- o_Geier:0	"Geier"
- o_habicht:0	"Habicht"
- o_luchs:0	"Luchs"
- o_morgenrote:0	"Morgenröte"
- o_grunpfeil:0	"Grünpfeil"
+ o_nebelubung:0	"Fog exercise"
+ o_eisen:0	"Iron"
+ o_festung:0	"Fortress"
+ o_Geier:0	"Vulture"
+ o_habicht:0	"Goshawk"
+ o_luchs:0	"Lynx"
+ o_morgenrote:0	"Dawn"
+ o_grunpfeil:0	"Green Arrow"
 
- o_ikarus:0	"Unternehmen Ikarus" #Iceland
- o_herbstreise:0	"Unternehmen Herbstreise" #Scotland
- o_kathleen:0	"Unternehmen Kathleen" #Ireland
+ o_ikarus:0	"Company Icarus" #Iceland"
+ o_herbstreise:0	"Company Autumn Journey" #Scotland"
+ o_kathleen:0	"Company Kathleen" #Ireland"
 
- o_brandung:0	"Unternehmen Brandung" #Nafrica
- o_skorpion:0	"Unternehmen Skorpion" #Nafrica
- o_aida:0	"Unternehmen Aida" #Nafrica
- o_capri:0	"Unternehmen Capri" #Nafrica
- o_theseus:0	"Unternehmen Theseus" #Nafrica
- o_ochsenkopf:0	"Unternehmen Ochsenkopf" #Nafrica
- o_venezie:0	"Unternehmen Venezie" #Nafrica
- o_fruhlingswind:0	"Unternehmen Frühlingswind" #Nafrica
- o_ausladung:0	"Unternehmen Ausladung"
- o_eilbote:0	"Unternehmen Eilbote"
- o_fliederblute:0	"Unternehmen Fliederblüte"
- o_kuckuksei:0	"Unternehmen Kuckuksei"
+ o_brandung:0	"Company Surf" #Nafrica"
+ o_skorpion:0	"Company Scorpio" #Nafrica"
+ o_aida:0	"Company Aida" #Nafrica"
+ o_capri:0	"Company Capri" #Nafrica"
+ o_theseus:0	"Company Theseus" #Nafrica"
+ o_ochsenkopf:0	"Company Ox Head" #Nafrica"
+ o_venezie:0	"Enterprise Venezie" #Nafrica"
+ o_fruhlingswind:0	"Enterprise Spring Wind" #Nafrica"
+ o_ausladung:0	"Company Discharge"
+ o_eilbote:0	"Company Courier"
+ o_fliederblute:0	"Company Lilac Blossom"
+ o_kuckuksei:0	"Company Cuckoo Egg"
 
- o_beowulf:0	"Unternehmen Beowulf" #baltics
- o_doppelkopf:0	"Unternehmen Doppelkopf" #baltics
- o_laura:0	"Unternehmen Laura" #baltics
- o_haifisch:0	"Haifisch"
- o_nordwind:0	"Nordwind"
- o_schlussjagd:0	"Schlussjagd"
- o_sturmflut:0	"Sturmflut"
- o_taube:0	"Taube"
+ o_beowulf:0	"Company Beowulf" #baltics"
+ o_doppelkopf:0	"Company Doppelkopf" #baltics"
+ o_laura:0	"Enterprise Laura" #baltics"
+ o_haifisch:0	"Shark"
+ o_nordwind:0	"Northwind"
+ o_schlussjagd:0	"Final Hunt"
+ o_sturmflut:0	"Storm tide"
+ o_taube:0	"Pigeon"
  o_siegfried:0	"Siegfried"
- o_westwind:0	"Westwind"
+ o_westwind:0	"West wind"
 
- o_edelweiss:0	"Unternehmen Edelweiss" #Caucasus
- o_attika:0	"Unternehmen Attika" #caucasus
- o_bussard:0	"Unternehmen Bussard" #Caucasus
- o_herbstlaub:0	"Unternehmen Herbstlaub" #caucasus
- o_herbstzeitlose:0	"Unternehmen Herbstzeitlose" #caucasus
- o_schamil:0	"Unternehmen Schamil" #caucasus
- o_clausewitz:0	"Unternehmen Clausewitz" #caucasus
- o_brunhild:0	"Unternehmen Brunhild"
- o_krimhilde:0	"Unternehmen Krimhilde"
- o_wikinger:0	"Unternehmen Wikinger"
+ o_edelweiss:0	"Enterprise Edelweiss" #Caucasus"
+ o_attika:0	"Company Attica" #caucasus"
+ o_bussard:0	"Company Buzzard" #caucasus"
+ o_herbstlaub:0	"Enterprise Autumn Leaves" #caucasus"
+ o_herbstzeitlose:0	"Company Autumn Crocus" #caucasus"
+ o_schamil:0	"Company Shamil" #caucasus"
+ o_clausewitz:0	"Company Clausewitz" #caucasus"
+ o_brunhild:0	"Company Brunhild"
+ o_krimhilde:0	"Company Krimhilde"
+ o_wikinger:0	"Company Viking"
 
- o_gisella:0	"Unternehmen Gisella" # Iberia
- o_ilona:0	"Unternehmen Ilona" #Iberia
- o_isabella:0	"Unternehmen Isabella" #Iberia
+ o_gisella:0	"Company Gisella" #Iberia"
+ o_ilona:0	"Company Ilona" #Iberia"
+ o_isabella:0	"Company Isabella" #Iberia"
 
- o_maus:0	"Maus"
+ o_maus:0	"Mouse"
  o_derfflinger:0	"Derfflinger"
- o_moorbrand:0	"Moorbrand"
- o_bettelstab:0	"Bettelstab"
+ o_moorbrand:0	"Bog fire"
+ o_bettelstab:0	"Beggar's Rod"
  o_blucher:0	"Blücher"
- o_braunschweig:0	"Braunschweig"
- o_bruckenschlag:0	"Brückenschlag"
- o_feuerzauber:0	"Unternehmen Feuerzauber" #Leningrad
- o_nordlicht:0	"Unternehmen Nordlicht" #Leningrad
- o_sumpf:0	"Unternehmen Sumpf" #Leningrad
+ o_braunschweig:0	"Brunswick"
+ o_bruckenschlag:0	"Bridging"
+ o_feuerzauber:0	"Enterprise fire magic" #Leningrad"
+ o_nordlicht:0	"Company Northern Lights" #Leningrad"
+ o_sumpf:0	"Enterprise swamp" #Leningrad"
  o_fredericus:0	"Fredericus"
- o_gertrud:0	"Unternehmen Gertrud" #turkey
- o_fischreiher:0	"Fischreiher"
- o_lichtschlag:0	"Lichtschlag"
- o_nordpol:0	"Nordpol"
- o_orkan:0	"Orkan"
- o_raubtier:0	"Raubtier"
- o_storfang:0	"Störfang"
- o_taubenschlag:0	"Taubenschlag"
- o_trappenjagd:0	"Trappenjagd"
- o_wiesengrund:0	"Wiesengrund"
- o_wintermarchen:0	"Wintermärchen"
- o_eisbar:0	"Eisbär"
- o_lehrgang:0	"Lehrgang"
+ o_gertrud:0	"Enterprise Gertrude" #turkey"
+ o_fischreiher:0	"Heron"
+ o_lichtschlag:0	"Lightning"
+ o_nordpol:0	"North Pole"
+ o_orkan:0	"hurricane"
+ o_raubtier:0	"Predator"
+ o_storfang:0	"Sturgeon fishing"
+ o_taubenschlag:0	"Pigeon loft"
+ o_trappenjagd:0	"Bustard hunting"
+ o_wiesengrund:0	"Meadow ground"
+ o_wintermarchen:0	"Winter fairy tale"
+ o_eisbar:0	"Polar bear"
+ o_lehrgang:0	"Course"
  o_leopard:0	"Leopard"
  o_michael:0	"Michael"
  o_poseidon:0	"Poseidon"
- o_zwischenspiel:0	"Zwischenspiel"
- o_wintergewitter:0	"Wintergewitter"
+ o_zwischenspiel:0	"Interlude"
+ o_wintergewitter:0	"Winter storm"
  o_aster:0	"Aster"
- o_blei:0	"Blei"
- o_blume:0	"Blume"
- o_fischfang:0	"Fischfang"
+ o_blei:0	"Lead"
+ o_blume:0	"Flower"
+ o_fischfang:0	"Fishing"
  o_ludwig:0	"Ludwig"
- o_luttich:0	"Lüttich"
+ o_luttich:0	"Liege"
  o_martin:0	"Martin"
- o_morgenwind:0	"Morgenwind"
- o_sonnenaufgang:0	"Sonnenaufgang"
+ o_morgenwind:0	"Morning wind"
+ o_sonnenaufgang:0	"Sunrise"
  o_konrad:0	"Konrad"
- o_fruhlingserwachen:0	"Unternehmen Frühlingserwachen" #hungary
- o_wacht_am_rhein:0	"Unternehmen Wacht am Rhein"
- o_schneeman:0	"Schneeman"
- o_sonnenwende:0	"Sonnenwende"
- o_sudwing:0	"Südwind"
+ o_fruhlingserwachen:0	"Company spring awakening" #hungary"
+ o_wacht_am_rhein:0	"Company watch on the Rhine"
+ o_schneeman:0	"Snowman"
+ o_sonnenwende:0	"Solstice"
+ o_sudwing:0	"Southwind"
 
- o_ostwind:0	"Ostwind" #fictional below
- o_wetzstein:0	"Wetzstein"
- o_oderubung:0	"Oderübung"
- o_donauubung:0	"Donauübung"
- o_osterspaziergang:0	"Osterspaziergang"
- o_reibeisen:0	"Reibeisen"
- o_einbaum:0	"Einbaum"
- o_apfelbaum:0	"Apfelbaum"
- o_fuchsjagd:0	"Fuchsjagd"
+ o_ostwind:0	"East wind" #fictional below"
+ o_wetzstein:0	"Whetstone"
+ o_oderubung:0	"Oder exercise"
+ o_donauubung:0	"Danube exercise"
+ o_osterspaziergang:0	"Easter walk"
+ o_reibeisen:0	"grater"
+ o_einbaum:0	"Dugout"
+ o_apfelbaum:0	"Apple tree"
+ o_fuchsjagd:0	"Fox hunt"
  o_bismarck:0	"Bismarck"
- o_dorffest:0	"Dorffest"
- o_gelandemarsch:0	"Geländemarsch"
- o_freiherr:0	"Freiherr"
- o_deichgraf:0	"Deichgraf"
- o_heimfahrt:0	"Heimfahrt"
- o_heimspiel:0	"Heimspiel"
- o_hasenjagd:0	"Hasenjagd"
- o_ingwer:0	"Ingwer"
- o_jahreswechsel:0	"Jahreswechsel"
- o_kannonenkugel:0	"Kannonenkugel"
- o_lastkahn:0	"Lastkahn"
- o_mondschein:0	"Mondschein"
- o_neuland:0	"Neuland"
- o_ofenrohr:0	"Ofenrohr"
- o_pistole:0	"Pistole"
- o_ruckreise:0	"Rückreise"
+ o_dorffest:0	"Village feast"
+ o_gelandemarsch:0	"Cross-country march"
+ o_freiherr:0	"Baron"
+ o_deichgraf:0	"Dike Count"
+ o_heimfahrt:0	"Homecoming"
+ o_heimspiel:0	"Home game"
+ o_hasenjagd:0	"Hare hunt"
+ o_ingwer:0	"Ginger"
+ o_jahreswechsel:0	"turn of the year"
+ o_kannonenkugel:0	"Cannonball"
+ o_lastkahn:0	"Barge"
+ o_mondschein:0	"Moonlight"
+ o_neuland:0	"New land"
+ o_ofenrohr:0	"Stovepipe"
+ o_pistole:0	"Pistol"
+ o_ruckreise:0	"Return journey"
  o_sandbank:0	"Sandbank"
- o_tankwart:0	"Tankwart"
+ o_tankwart:0	"Gas station attendant"
  o_vogelsang:0	"Vogelsang"
- o_winkel:0	"Winkel"
+ o_winkel:0	"Angle"
  o_zebra:0	"Zebra"
 
 
- ###Soviet Union
+ ###Soviet Union	""
  o_operatsiya:0	"Operatsiya"
  o_bagration:0	"Operatsiya Bagration"
  o_suvorov:0	"Operatsiya Suvorov"
@@ -253,13 +253,13 @@
  o_berlin_strategic_offensive:0	"Berlin"
  o_ring:0	"Operatsiya Koltso"
  o_saturn:0	"Operatsiya Saturn"
- o_uranus:0	"Operatsiya Uran"
+ o_uranus:0	"Operatsiya Uranium"
  o_samland:0	"Operatsiya Samland"
  o_mercury:0	"Operatsiya Merkuriy"
  o_venus:0	"Operatsiya Venus"
- o_neptune:0	"Operatsiya Neptun"
+ o_neptune:0	"Operatsiya Neptune"
  o_maly_saturn:0	"Operatsiya Maly Saturn"
- o_maly_neptun:0	"Operatsiya Maly Neptun"
+ o_maly_neptun:0	"Operatsiya Maly Neptune"
  o_kontsert:0	"Operatsiya Kontsert"
  o_rumyantsev:0	"Operatsiya Polkovodets Rumyantsev"
  o_strat_offensive_ru:0	"Strategic Offensive Operation"
@@ -268,7 +268,7 @@
  o_strat_offensive_default:0	"Offensive Operation"
  o_strat_defensive_default:0	"Defensive Order"
  o_strat_naval_default:0	"Landing Operation"
- ###Japan
+ ###Japan	""
  o_ichi:0	"Ichi"
  o_ni:0	"Ni"
  o_san:0	"San"
@@ -340,16 +340,16 @@
  o_mo:0	"M O"
  o_ry:0	"R Y"
  o_mi:0	"M I"
- ###USA
+ ###USA	""
  o_bold:0	"Bold"
  o_striking:0	"Striking"
  o_cobra:0	"Cobra"
 
- #USA historical
- o_musketeer:0	"Operation Musketeer" #Philippines
+ #USA historical	""
+ o_musketeer:0	"Operation Musketeer" #Philippines"
  o_diplomat:0	"Operation Diplomat"
 
- #South Pacific
+ #South Pacific	""
  o_cartwheel:0	"Operation Cartwheel"
  o_chronicle:0	"Operation Chronicle"
  o_postern:0	"Operation Postern"
@@ -358,35 +358,35 @@
  o_cleanslate:0	"Operation Cleanslate"
  o_cyclone:0	"Operation Cyclone"
  o_oboe:0	"Operation Oboe"
- o_watchtower:0	"Operation Watchtower" #Guadalcanal
+ o_watchtower:0	"Operation Watchtower" #Guadalcanal"
 
- #central pacific
- o_detachment:0	"Operation Detachment" #Iwo Jima
- o_flintlock:0	"Operation Flintlock" # marshall islands
- o_catchpole:0	"Operation Catchpole" #Eniwetok
- o_forager:0	"Operation Forager" #Marianas
- o_galvanic:0	"Operation Galvanic" #gilberts
- o_iceberg:0	"Operation Iceberg" #okinawa
- o_stalemate:0	"Operation Stalemate" #Peleliu
+ #central pacific	""
+ o_detachment:0	"Operation Detachment" #Iwo Jima"
+ o_flintlock:0	"Operation Flintlock" #marshall islands"
+ o_catchpole:0	"Operation Catchpole" #Eniwetok"
+ o_forager:0	"Operation Forager" #Marianas"
+ o_galvanic:0	"Operation Galvanic" #gilberts"
+ o_iceberg:0	"Operation Iceberg" #okinawa"
+ o_stalemate:0	"Operation Stalemate" #peleliu"
 
- o_downfall:0	"Operation Downfall" #invasion of Japan
+ o_downfall:0	"Operation Downfall" #invasion of Japan"
  o_olympic:0	"Operation Olympic"
  o_coronet:0	"Operation Coronet"
  o_majestic:0	"Operation Majestic"
 
- o_cottage:0	"Operation Cottage" #Alaska
+ o_cottage:0	"Operation Cottage" #Alaska"
  o_sandcrab:0	"Operation Sandcrab"
 
- o_causway:0	"Operation Causway" #Taiwan
+ o_causway:0	"Operation Causway" #Taiwan"
 
- o_avalanche:0	"Operation Avalanche" #Italy
+ o_avalanche:0	"Operation Avalanche" #Italy"
  o_giant:0	"Operation Giant"
  o_buffalo:0	"Operation Buffalo"
 
- o_anvil:0	"Operation Anvil" #south France
+ o_anvil:0	"Operation Anvil" #south France"
  o_dragoon:0	"Operation Dragoon"
 
- o_roundup:0	"Operation Roundup" #France
+ o_roundup:0	"Operation Roundup" #France"
  o_sledgehammer:0	"Operation Sledgehammer"
  o_overlord:0	"Operation Overlord"
 
@@ -394,12 +394,12 @@
  o_brushwood:0	"Operation Brushwood"
  o_goalpost:0	"Operation Goalpost"
 
- ###British
+ ###British	""
 
- #Historical
+ #Historical	""
  o_abstention:0	"Operation Abstention"
 
- o_acrobat:0	"Operation Acrobat" #Nafrica
+ o_acrobat:0	"Operation Acrobat #Nafrica"
  o_agreement:0	"Operation Agreement"
  o_daffodil:0	"Operation Daffodil"
  o_snowdrop:0	"Operation Snowdrop"
@@ -413,9 +413,9 @@
  o_pugilist:0	"Operation Pugilist"
  o_vulcan:0	"Operation Vulcan"
 
- o_torch:0	"Operation Torch" #Morroco
+ o_torch:0	"Operation Torch" #Morroco"
 
- o_jubilee:0	"Operation Jubilee" #France
+ o_jubilee:0	"Operation Jubilee" #France"
  o_bluecoat:0	"Operation Bluecoat"
  o_Astonia:0	"Operation Astonia"
  o_charnwood:0	"Operation Charnwood"
@@ -425,43 +425,43 @@
  o_pomegranate:0	"Operation Pomegranate"
  o_totalize:0	"Operation Totalize"
 
- o_plunder:0	"Operation Plunder" #Germany
+ o_plunder:0	"Operation Plunder #Germany"
  o_varsity:0	"Operation Varsity"
 
- o_accolade:0	"Operation Accolade" #East Med
+ o_accolade:0	"Operation Accolade" #East Med"
  o_exporter:0	"Operation Exporter"
  o_mandibles:0	"Operation Mandibles"
  o_manna:0	"Operation Manna"
 
- o_baytown:0	"Operation Baytown" #Italy
+ o_baytown:0	"Operation Baytown" #Italy"
  o_slapstick:0	"Operation Slapstick"
  o_chesterfield:0	"Operation Chesterfield"
  o_diadem:0	"Operation Diadem"
  o_encore:0	"Operation Encore"
- o_husky:0	"Operation Husky" # Sicily
+ o_husky:0	"Operation Husky" # Sicily"
  o_shingle:0	"Operation Shingle"
  o_olive:0	"Operation Olive"
 
- o_anakim:0	"Operation Anakim" #India/Burma
+ o_anakim:0	"Operation Anakim" #India/Burma"
  o_capital:0	"Operation Capital"
  o_dracula:0	"Operation Dracula"
  o_longcloth:0	"Operation Longcloth"
  o_talon:0	"Operation Talon"
  o_thursday:0	"Operation Thursday"
 
- o_krohcol:0	"Operation Krohcol" #Thailand
+ o_krohcol:0	"Operation Krohcol #Thailand"
  o_matador:0	"Operation Matador"
 
- o_countenance:0	"Operation Countenance" #Iran
+ o_countenance:0	"Operation Countenance" #Iran"
 
- o_zipper:0	"Operation Zipper" #Malaya
+ o_zipper:0	"Operation Zipper" #Malaya"
  o_broadsword:0	"Operation Broadsword"
 
- o_fork:0	"Operation Fork" #Iceland
- o_primrose:0	"Operation Primrose" #Norway
- o_r4:0	"R 4" #Norway
+ o_fork:0	"Operation Fork" #Iceland"
+ o_primrose:0	"Operation Primrose" #Norway"
+ o_r4:0	"R 4" #Norway"
 
- o_infatuate:0	"Operation Infatuate" #Netherlands
+ o_infatuate:0	"Operation Infatuate" #Netherlands"
  o_comet:0	"Operation Comet"
  o_market_garden:0	"Operation Market Garden"
 

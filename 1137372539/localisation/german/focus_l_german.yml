@@ -2366,7 +2366,7 @@
  SOV_deconstruct_docks:0 "Rückbau von Docks"
  SOV_end_quotas:0 "Kontingente abbauen"
  SOV_yasli:0 "Yasli I Detskiye Sady"
- SOV_yasli_desc:0"In order to alleviate the situation of working women who returned to work or production after maternity leave, it is necessary to expand the network of kindergartens by creating departmental institutions at factories and to organize a new type of institutions for children aged 8 months to 3 years called 'yasli'\n To streamline their activities, it is necessary to write a single guideline manual - 'Kindergarten Charter'" ""
+ SOV_yasli_desc:0 "In order to alleviate the situation of working women who returned to work or production after maternity leave, it is necessary to expand the network of kindergartens by creating departmental institutions at factories and to organize a new type of institutions for children aged 8 months to 3 years called 'yasli'\n To streamline their activities, it is necessary to write a single guideline manual - 'Kindergarten Charter'"
  SOV_rubber_production:0 "Herstellung von synthetischem Kautschuk"
  SOV_rubber_production_desc:0 "Die Nachfrage nach Kautschuk für Reifen steigt ständig, und der Preis für Naturkautschuk ist auf dem Markt sehr hoch. In den frühen 30er Jahren gelang es unseren Wissenschaftlern wie Sergej Lebedew, synthetischen Kautschuk zu entwickeln, und wir haben seine Produktion bereits aufgenommen. \Jetzt wurde eine verbesserte Formel für synthetischen Kautschuk entwickelt, dessen Eigenschaften denen von Naturkautschuk nicht mehr nachstehen. Es ist sehr wichtig, ihn so bald wie möglich in die Produktion einzuführen und die Zahl der Unternehmen, die ihn herstellen, zu erhöhen."
  winter_bonus_TT:0 "Im Winter werden wir folgende Produkte erhalten"
