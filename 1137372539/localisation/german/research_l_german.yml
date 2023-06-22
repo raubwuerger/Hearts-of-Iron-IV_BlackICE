@@ -3101,7 +3101,7 @@
  SMG_ASSAULT_RIFLE:0 ""
  germanair_1933:0 "1933\n1934\n1935"
  ww1_doctrine:0 "Weltkrieg 1 Techs"
- ww1_doctrine_research:0 "Forschung_Geschwindigkeit_texticon 1. Weltkrieg Technologien"
+ ww1_doctrine_research:0 "£research_speed_texticon 1. Weltkrieg Technologien"
 
  infantry_folder_research:0 "Tech_mod Infanteriewaffen Forschung"
  support_folder_research:0 "Tech_mod Forschung Unterstützungskompanien"
