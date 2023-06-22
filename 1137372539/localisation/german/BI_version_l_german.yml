@@ -3,7 +3,7 @@
 
  ### IMPORTANT ### ""
  #-Also adjust GetVersion in common/scripted_localisation/ ""
- BICE_version:0 "Schwarzes ICE v7.0"
+ BICE_version:0 "Black ICE v7.0"
  BICE_checksum:0 "Aktualisiert für Kompatibilität mit HOI IV v1.12 und 'By Blood Alone' DLC"
  #--------------------------------- ""
 
