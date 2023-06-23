@@ -1099,7 +1099,7 @@
  
  generic.20.t:0 "[Von.GetName] hat Erfahrung gesammelt"
  generic.20.d:0 "[From.GetRank] [From.GetName] hat in letzter Zeit genug Erfahrung gesammelt."
- "[From.GetRank] [From.GetName] has gained enough experience recently."
+ generic.20.d:0 "[From.GetRank]"[From.GetRank] [From.GetName] has gained enough experience recently."
  attack_skill_level_up_tt:0 "    £trait_attack Angriffsfertigkeit: [?FROM.attack_skill_gained|=+0]"
  defense_skill_level_up_tt:0 "    £trait_defense Verteidigungsfertigkeit: [?FROM.defense_skill_gained|=+0]"
  planning_skill_level_up_tt:0 "    £trait_planning Planning Skill: [?FROM.planning_skill_gained|=+0]"
