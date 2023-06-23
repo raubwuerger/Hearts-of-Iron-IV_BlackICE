@@ -404,13 +404,13 @@
  GER_croatian_puppet_desc:0 "$Deutschland.815.desc$"
  cp_atleast_75_pp_50:0 "£command_power §H75§!  £pol_power §H50§!"
  cp_atleast_75_pp_50_blocked:0 "£command_power §R75§!  £pol_power §R50§!"
- cp_atleast_75_pp_50_tooltip:0 "\Es kostet 75£command_power & §H50§!£pol_power, um dies auszuwählen."
+ cp_atleast_75_pp_50_tooltip:0 "\nEs kostet 75£command_power & §H50§!£pol_power, um dies auszuwählen."
  cp_atleast_25_pp_25:0 "£command_power §H25§!  £pol_power §H25§!"
  cp_atleast_25_pp_25_blocked:0 "£command_power §R25§!  £pol_power §R25§!"
- cp_atleast_25_pp_25_tooltip:0 "\Es kostet 25£command_power & §H25§!£pol_power, um dies auszuwählen."
+ cp_atleast_25_pp_25_tooltip:0 "\nEs kostet 25£command_power & §H25§!£pol_power, um dies auszuwählen."
  cp_atleast_5:0 "£Befehlskraft §H5§!"
  cp_atleast_5_blocked:0 "£Befehls_kraft §R5§!"
- cp_atleast_5_tooltip:0 "\Es kostet 5£Befehls_power, um dies auszuwählen."
+ cp_atleast_5_tooltip:0 "\nEs kostet 5£Befehls_power, um dies auszuwählen."
  cp_atleast_10:0 "£command_power §H10§!"
  cp_atleast_10_blocked:0 "£command_power §R10§!"
  cp_atleast_10_tooltip:0 "\nEs kostet 10£Befehlsstärke, um dies auszuwählen."
@@ -439,11 +439,11 @@
 
  army_xp_50:0 "£army_experience_large §H50§!"
  army_xp_50_blocked:0 "£army_experience_large §R50§!"
- army_xp_50_tooltip:0 "\Es kostet £army_experience_large 50, um dies auszuwählen."
+ army_xp_50_tooltip:0 "\nEs kostet £army_experience_large 50, um dies auszuwählen."
 
  cp_10_army_xp_5:0 "£command_power §H10§!  £army_experience_large §H5§!"
  cp_10_army_xp_5_blocked:0 "£command_power §R10§!  £army_experience_large §R5§!"
- cp_10_army_xp_5_tooltip:0 "\Es kostet £command_power 10 und £army_experience 5 um dies auszuwählen."
+ cp_10_army_xp_5_tooltip:0 "\nEs kostet £command_power 10 und £army_experience 5 um dies auszuwählen."
 
  air_xp_50:0 "£air_experience_large §H50§!"
  air_xp_50_blocked:0 "£Luft_Erfahrung_groß §R50§!"
@@ -479,7 +479,7 @@
 
  cp_10_army_learns:0 "£Kommando_Kraft §H10§!  £army_experience_large §H[?ROOT.army_learns]§!"
  cp_10_army_learns_blocked:0 "£command_power §R10§!  £army_experience_large §R[?ROOT.army_learns]§!"
- cp_10_army_learns_tooltip:0 "\Es kostet £command_power 10 und £army_experience [?ROOT.army_learns], um dies auszuwählen."
+ cp_10_army_learns_tooltip:0 "\nEs kostet £command_power 10 und £army_experience [?ROOT.army_learns], um dies auszuwählen."
 
  army_navy_air_xp:0 "£army_experience_large §H50§!  £air_navy_experience_large §H12§!"
  army_navy_air_xp_blocked:0 "£army_experience_large §R50§!  £air_navy_experience_large §R12§!"
@@ -1983,7 +1983,7 @@
  closed_economy_stats: "£Ressourcen_Texticon §Y0%§!   £stabilität_texticon §R-0.10%§!"
  tax_minimal_stats: "£stability_texticon §G+0.40%§!" #£gesetz_budget §Y+2§!
  tax_low_stats: "£stability_texticon §G+0.20%§!" #£law_budget §Y+5§!
-" #£law_budget  §Y+8§!
+ tax_average_stats: " " #£law_budget  §Y+8§!
  tax_high_stats: "£stability_texticon §R-0.20%§!" #£law_budget §Y+12§!
  tax_extreme_stats: "£stability_texticon §R-0.40%§!" #£gesetz_budget §Y+15§!
  press_free_stats: "£war_support_texticon §R-0.10%§!"
