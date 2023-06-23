@@ -1,0 +1,15 @@
+treibstoff_texticon	-> fuel_texticon
+Traktor -> tractor
+Armeeerfahrung -> army_experience
+Ressourcenstreifen -> resources_strip
+Sondereinheiten_texticon -> special_forces_texticon
+territoriale_Ausdehnung_texticon -> territorial_expansion_texticon
+verteidigung_texticon -> £defence_texticon
+Öl_texticon -> oil_texticon
+koordination_texticon -> coordination_texticon
+flotte_texticon -> fleet_texticon
+Baugeschwindigkeit_texticon -> construction_speed_texticon
+Reparaturgeschwindigkeit -> repairing
+Operative_mission_icons_small -> operative_mission_icons_small
+Heimatverteidigung_texticon -> home_defence_texticon
+Berg_texticon -> mountain_texticon
