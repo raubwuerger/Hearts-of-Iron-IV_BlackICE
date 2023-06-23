@@ -1,0 +1,1485 @@
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 42 and column 1468 in localisation/german/BI_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 75 and column 1557 in localisation/german/BI_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 75 and column 2002 in localisation/german/BI_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 30 and column 68 in localisation/german/BI_events_mer_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 40 and column 128 in localisation/german/BI_events_mer_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 79 and column 1109 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 79 and column 1384 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 79 and column 1628 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 85 and column 832 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 91 and column 813 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=49) at line 91 and column 1760 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 91 and column 2291 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 94 and column 912 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 94 and column 1383 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 94 and column 2513 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 97 and column 498 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 9 and column 526 in localisation/german/BiceE_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 74 and column 565 in localisation/german/BiceE_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 72 and column 94 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 408 and column 27 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 411 and column 31 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 422 and column 32 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 425 and column 44 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 426 and column 46 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 427 and column 46 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 563 and column 68 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 599 and column 104 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 1092 and column 45 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1364 and column 42 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1367 and column 55 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1369 and column 36 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 1431 and column 179 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 1463 and column 138 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 1512 and column 45 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=70) at line 1558 and column 132 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1848 and column 42 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1969 and column 45 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 3 and column 298 in localisation/german/bftb_decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=100) at line 445 and column 23 in localisation/german/bftb_decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1916 and column 39 in localisation/german/core_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 706 and column 107 in localisation/german/decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 708 and column 196 in localisation/german/decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 752 and column 97 in localisation/german/decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 780 and column 138 in localisation/german/diplomacy_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=71) at line 840 and column 27 in localisation/german/diplomacy_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=72) at line 29 and column 474 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 43 and column 557 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 87 and column 421 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 94 and column 270 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 177 and column 311 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 216 and column 254 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 242 and column 369 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 246 and column 316 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 280 and column 26 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 309 and column 331 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 317 and column 239 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 325 and column 312 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 448 and column 260 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 527 and column 283 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 548 and column 331 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 583 and column 191 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 601 and column 206 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 612 and column 473 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 680 and column 232 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 682 and column 295 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 685 and column 404 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 697 and column 344 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 697 and column 503 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 729 and column 141 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 748 and column 274 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 764 and column 203 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 771 and column 270 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 778 and column 179 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 782 and column 365 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 790 and column 408 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 797 and column 336 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 812 and column 254 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 816 and column 455 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 833 and column 270 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 897 and column 346 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 919 and column 323 in localisation/german/dod_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 909 and column 454 in localisation/german/equipment_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 4326 and column 357 in localisation/german/equipment_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 1365 and column 69 in localisation/german/equipment_l_german_Commonwealth.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 1449 and column 82 in localisation/german/equipment_l_german_Commonwealth.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 1512 and column 78 in localisation/german/equipment_l_german_Commonwealth.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 147 and column 704 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=79) at line 150 and column 823 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 153 and column 360 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 224 and column 409 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=79) at line 224 and column 1282 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 227 and column 589 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 227 and column 1136 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 230 and column 797 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=90) at line 230 and column 1804 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 274 and column 1150 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 274 and column 1726 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 278 and column 575 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=79) at line 281 and column 828 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 281 and column 1035 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=49) at line 284 and column 618 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 284 and column 1360 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=220) at line 284 and column 1881 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=49) at line 287 and column 677 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=220) at line 287 and column 1351 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=90) at line 290 and column 943 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 293 and column 793 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=90) at line 296 and column 1464 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 299 and column 484 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 299 and column 1068 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 301 and column 343 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 301 and column 895 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 304 and column 296 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 304 and column 990 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 307 and column 408 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 307 and column 1247 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 307 and column 1939 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 307 and column 2330 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 310 and column 364 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 310 and column 1104 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 313 and column 801 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 313 and column 1258 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 316 and column 556 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 316 and column 801 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 319 and column 394 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=220) at line 319 and column 799 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 322 and column 519 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 322 and column 934 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 327 and column 408 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 330 and column 378 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 336 and column 354 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 349 and column 78 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 353 and column 85 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 357 and column 75 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 377 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 382 and column 65 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 387 and column 73 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 397 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 402 and column 99 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 407 and column 85 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 436 and column 37 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 441 and column 73 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 451 and column 37 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 456 and column 85 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 464 and column 37 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 469 and column 70 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 474 and column 65 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 489 and column 73 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 509 and column 88 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 524 and column 84 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 529 and column 70 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 534 and column 79 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 544 and column 84 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 549 and column 84 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 554 and column 79 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 559 and column 84 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 569 and column 88 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 574 and column 88 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 602 and column 87 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 606 and column 70 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 615 and column 83 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 671 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 676 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 681 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 686 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 691 and column 79 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 1720 and column 443 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 1752 and column 403 in localisation/german/equipment_l_german_GER.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 271 and column 84 in localisation/german/equipment_l_german_ITA.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 115 and column 241 in localisation/german/equipment_l_german_JAP.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 358 and column 76 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 434 and column 86 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 470 and column 84 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 474 and column 83 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 478 and column 83 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 482 and column 72 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 486 and column 72 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 490 and column 68 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 494 and column 68 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 498 and column 77 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 502 and column 76 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 506 and column 76 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 510 and column 84 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 514 and column 84 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 518 and column 80 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 522 and column 76 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 526 and column 76 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 530 and column 84 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 534 and column 84 in localisation/german/equipment_l_german_SOV.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 467 and column 48 in localisation/german/equipment_l_german_USA.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 472 and column 66 in localisation/german/equipment_l_german_USA.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 529 and column 69 in localisation/german/equipment_l_german_USA.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 82 and column 460 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=91) at line 214 and column 291 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 258 and column 462 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 291 and column 336 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 297 and column 376 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 307 and column 331 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 399 and column 423 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 429 and column 199 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 594 and column 506 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=80) at line 594 and column 970 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 982 and column 430 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1097 and column 371 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1300 and column 946 in localisation/german/events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 14 and column 302 in localisation/german/faq_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 233 and column 39 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=163) at line 785 and column 38 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1856 and column 317 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 1949 and column 325 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 1990 and column 376 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 2004 and column 282 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 2084 and column 394 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 2180 and column 196 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 2224 and column 353 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 2298 and column 288 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 2371 and column 323 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 2549 and column 94 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 2615 and column 139 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=82) at line 3173 and column 844 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 3434 and column 342 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 4625 and column 479 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 4642 and column 286 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 4658 and column 303 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 4676 and column 297 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 4692 and column 485 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 5170 and column 90 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 6871 and column 33 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 8497 and column 188 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 8503 and column 227 in localisation/german/focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 544 and column 20 in localisation/german/hun_mod_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 3453 and column 613 in localisation/german/ideas_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 4926 and column 33 in localisation/german/ideas_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 216 and column 219 in localisation/german/ideas_mer_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=45) at line 59 and column 191 in localisation/german/loading_tips_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 253 and column 15 in localisation/german/mck_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 460 and column 16 in localisation/german/mck_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 477 and column 16 in localisation/german/mck_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 484 and column 16 in localisation/german/mck_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 555 and column 278 in localisation/german/mck_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 2185 and column 41 in localisation/german/modifiers_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 102 and column 382 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 131 and column 515 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 216 and column 454 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 228 and column 358 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 231 and column 414 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 323 and column 30 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 329 and column 327 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 372 and column 454 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 397 and column 518 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 408 and column 555 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 440 and column 363 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 562 and column 23 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 582 and column 414 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 672 and column 308 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 675 and column 480 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 1177 and column 350 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 1201 and column 351 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=80) at line 1237 and column 23 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=72) at line 1266 and column 23 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 1266 and column 323 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 1272 and column 23 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1381 and column 357 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1391 and column 328 in localisation/german/mtg_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 79 and column 171 in localisation/german/nrm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 193 and column 226 in localisation/german/production_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 2755 and column 269 in localisation/german/research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3542 and column 435 in localisation/german/research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3546 and column 384 in localisation/german/research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3548 and column 398 in localisation/german/research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3550 and column 383 in localisation/german/research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3550 and column 589 in localisation/german/research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3552 and column 386 in localisation/german/research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=45) at line 147 and column 1172 in localisation/german/sp_decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 20 and column 302 in localisation/german/tfv_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 64 and column 295 in localisation/german/tfv_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=91) at line 83 and column 176 in localisation/german/tfv_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 403 and column 560 in localisation/german/tfv_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 410 and column 402 in localisation/german/tfv_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 418 and column 343 in localisation/german/tfv_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=79) at line 436 and column 343 in localisation/german/tfv_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 455 and column 567 in localisation/german/tfv_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 93 and column 1533 in localisation/german/tibet_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 101 and column 709 in localisation/german/tibet_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=91) at line 915 and column 465 in localisation/german/traits_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 460 and column 467 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 461 and column 460 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 462 and column 460 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 536 and column 43 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 552 and column 42 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 559 and column 44 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 565 and column 44 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 577 and column 683 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=49) at line 582 and column 47 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 584 and column 45 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=49) at line 586 and column 45 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 588 and column 40 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=70) at line 592 and column 40 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 592 and column 161 in localisation/german/trm_research_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 192 and column 1092 in localisation/german/trm_tank_chassis_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 272 and column 71 in localisation/german/trm_tank_chassis_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 151 and column 432 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 292 and column 305 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 303 and column 405 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 458 and column 400 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 483 and column 271 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 487 and column 562 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 512 and column 171 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 519 and column 297 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 523 and column 346 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 527 and column 205 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 549 and column 369 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 584 and column 253 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 736 and column 528 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 875 and column 543 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 886 and column 230 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 892 and column 307 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 898 and column 380 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 946 and column 460 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=79) at line 966 and column 488 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 1130 and column 220 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1143 and column 281 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1144 and column 266 in localisation/german/wtt_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 83 and column 370 in localisation/german/wtt_ss_recruitment_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 87 and column 654 in localisation/german/wtt_ss_recruitment_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=71) at line 91 and column 254 in localisation/german/wtt_ss_recruitment_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 113 and column 455 in localisation/german/wtt_ss_recruitment_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 42 and column 1468 in localisation/german/BI_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 75 and column 1557 in localisation/german/BI_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 75 and column 2002 in localisation/german/BI_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 30 and column 68 in localisation/german/BI_events_mer_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 40 and column 128 in localisation/german/BI_events_mer_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 79 and column 1109 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 79 and column 1384 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 79 and column 1628 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 85 and column 832 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 91 and column 813 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=49) at line 91 and column 1760 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 91 and column 2291 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 94 and column 912 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 94 and column 1383 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 94 and column 2513 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 97 and column 498 in localisation/german/BI_version_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 9 and column 526 in localisation/german/BiceE_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 74 and column 565 in localisation/german/BiceE_events_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 72 and column 94 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 408 and column 27 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 411 and column 31 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 422 and column 32 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 425 and column 44 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 426 and column 46 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 427 and column 46 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 563 and column 68 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 599 and column 104 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 1092 and column 45 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1364 and column 42 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1367 and column 55 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1369 and column 36 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 1431 and column 179 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 1463 and column 138 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 1512 and column 45 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=70) at line 1558 and column 132 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1848 and column 42 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1969 and column 45 in localisation/german/bba_focus_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 3 and column 298 in localisation/german/bftb_decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=100) at line 445 and column 23 in localisation/german/bftb_decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1916 and column 39 in localisation/german/core_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 706 and column 107 in localisation/german/decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 708 and column 196 in localisation/german/decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 752 and column 97 in localisation/german/decisions_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 780 and column 138 in localisation/german/diplomacy_l_german.yml
+[15:18:10][pdx_localize.cpp:1186]: Illegal break character (utf32=71) at line 840 and column 27 in localisation/german/diplomacy_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=72) at line 29 and column 474 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 43 and column 557 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 87 and column 421 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 94 and column 270 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 177 and column 311 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 216 and column 254 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 242 and column 369 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 246 and column 316 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 280 and column 26 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 309 and column 331 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 317 and column 239 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 325 and column 312 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 448 and column 260 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 527 and column 283 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 548 and column 331 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 583 and column 191 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 601 and column 206 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 612 and column 473 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 680 and column 232 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 682 and column 295 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 685 and column 404 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 697 and column 344 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 697 and column 503 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 729 and column 141 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 748 and column 274 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 764 and column 203 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 771 and column 270 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 778 and column 179 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 782 and column 365 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 790 and column 408 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 797 and column 336 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 812 and column 254 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 816 and column 455 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 833 and column 270 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 897 and column 346 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 919 and column 323 in localisation/german/dod_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 909 and column 454 in localisation/german/equipment_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 4326 and column 357 in localisation/german/equipment_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 1365 and column 69 in localisation/german/equipment_l_german_Commonwealth.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 1449 and column 82 in localisation/german/equipment_l_german_Commonwealth.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 1512 and column 78 in localisation/german/equipment_l_german_Commonwealth.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 147 and column 704 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=79) at line 150 and column 823 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 153 and column 360 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 224 and column 409 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=79) at line 224 and column 1282 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 227 and column 589 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 227 and column 1136 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 230 and column 797 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=90) at line 230 and column 1804 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 274 and column 1150 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 274 and column 1726 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 278 and column 575 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=79) at line 281 and column 828 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 281 and column 1035 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=49) at line 284 and column 618 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 284 and column 1360 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=220) at line 284 and column 1881 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=49) at line 287 and column 677 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=220) at line 287 and column 1351 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=90) at line 290 and column 943 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 293 and column 793 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=90) at line 296 and column 1464 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 299 and column 484 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 299 and column 1068 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 301 and column 343 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 301 and column 895 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 304 and column 296 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 304 and column 990 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 307 and column 408 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 307 and column 1247 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 307 and column 1939 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 307 and column 2330 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 310 and column 364 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 310 and column 1104 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 313 and column 801 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 313 and column 1258 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 316 and column 556 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 316 and column 801 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 319 and column 394 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=220) at line 319 and column 799 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 322 and column 519 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 322 and column 934 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 327 and column 408 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 330 and column 378 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 336 and column 354 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 349 and column 78 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 353 and column 85 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 357 and column 75 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 377 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 382 and column 65 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 387 and column 73 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 397 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 402 and column 99 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 407 and column 85 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 436 and column 37 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 441 and column 73 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 451 and column 37 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 456 and column 85 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 464 and column 37 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 469 and column 70 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 474 and column 65 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 489 and column 73 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 509 and column 88 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 524 and column 84 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 529 and column 70 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 534 and column 79 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 544 and column 84 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 549 and column 84 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 554 and column 79 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 559 and column 84 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 569 and column 88 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 574 and column 88 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 602 and column 87 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 606 and column 70 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 615 and column 83 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 671 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 676 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 681 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 686 and column 82 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 691 and column 79 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 1720 and column 443 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 1752 and column 403 in localisation/german/equipment_l_german_GER.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 271 and column 84 in localisation/german/equipment_l_german_ITA.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 115 and column 241 in localisation/german/equipment_l_german_JAP.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 358 and column 76 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 434 and column 86 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 470 and column 84 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 474 and column 83 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 478 and column 83 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 482 and column 72 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 486 and column 72 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 490 and column 68 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 494 and column 68 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 498 and column 77 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 502 and column 76 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 506 and column 76 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 510 and column 84 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 514 and column 84 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 518 and column 80 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 522 and column 76 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 526 and column 76 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 530 and column 84 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 534 and column 84 in localisation/german/equipment_l_german_SOV.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 467 and column 48 in localisation/german/equipment_l_german_USA.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 472 and column 66 in localisation/german/equipment_l_german_USA.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 529 and column 69 in localisation/german/equipment_l_german_USA.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 82 and column 460 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=91) at line 214 and column 291 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 258 and column 462 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 291 and column 336 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 297 and column 376 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 307 and column 331 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 399 and column 423 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 429 and column 199 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 594 and column 506 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=80) at line 594 and column 970 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 982 and column 430 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1097 and column 371 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1300 and column 946 in localisation/german/events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 14 and column 302 in localisation/german/faq_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 233 and column 39 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=163) at line 785 and column 38 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1856 and column 317 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 1949 and column 325 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 1990 and column 376 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 2004 and column 282 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 2084 and column 394 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 2180 and column 196 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 2224 and column 353 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 2298 and column 288 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 2371 and column 323 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 2549 and column 94 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 2615 and column 139 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=82) at line 3173 and column 844 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 3434 and column 342 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 4625 and column 479 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 4642 and column 286 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 4658 and column 303 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 4676 and column 297 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 4692 and column 485 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 5170 and column 90 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 6871 and column 33 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 8497 and column 188 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 8503 and column 227 in localisation/german/focus_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 544 and column 20 in localisation/german/hun_mod_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 3453 and column 613 in localisation/german/ideas_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 4926 and column 33 in localisation/german/ideas_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 216 and column 219 in localisation/german/ideas_mer_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=45) at line 59 and column 191 in localisation/german/loading_tips_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 253 and column 15 in localisation/german/mck_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 460 and column 16 in localisation/german/mck_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 477 and column 16 in localisation/german/mck_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 484 and column 16 in localisation/german/mck_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=74) at line 555 and column 278 in localisation/german/mck_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 2185 and column 41 in localisation/german/modifiers_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 102 and column 382 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 131 and column 515 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 216 and column 454 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 228 and column 358 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 231 and column 414 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 323 and column 30 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 329 and column 327 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 372 and column 454 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 397 and column 518 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 408 and column 555 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 440 and column 363 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 562 and column 23 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 582 and column 414 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 672 and column 308 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 675 and column 480 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 1177 and column 350 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 1201 and column 351 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=80) at line 1237 and column 23 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=72) at line 1266 and column 23 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 1266 and column 323 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 1272 and column 23 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1381 and column 357 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1391 and column 328 in localisation/german/mtg_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 79 and column 171 in localisation/german/nrm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 193 and column 226 in localisation/german/production_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 2755 and column 269 in localisation/german/research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3542 and column 435 in localisation/german/research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3546 and column 384 in localisation/german/research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3548 and column 398 in localisation/german/research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3550 and column 383 in localisation/german/research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3550 and column 589 in localisation/german/research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 3552 and column 386 in localisation/german/research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=45) at line 147 and column 1172 in localisation/german/sp_decisions_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 20 and column 302 in localisation/german/tfv_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 64 and column 295 in localisation/german/tfv_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=91) at line 83 and column 176 in localisation/german/tfv_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 403 and column 560 in localisation/german/tfv_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 410 and column 402 in localisation/german/tfv_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 418 and column 343 in localisation/german/tfv_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=79) at line 436 and column 343 in localisation/german/tfv_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=75) at line 455 and column 567 in localisation/german/tfv_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 93 and column 1533 in localisation/german/tibet_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 101 and column 709 in localisation/german/tibet_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=91) at line 915 and column 465 in localisation/german/traits_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 460 and column 467 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 461 and column 460 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 462 and column 460 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 536 and column 43 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=65) at line 552 and column 42 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 559 and column 44 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 565 and column 44 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=32) at line 577 and column 683 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=49) at line 582 and column 47 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 584 and column 45 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=49) at line 586 and column 45 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 588 and column 40 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=70) at line 592 and column 40 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 592 and column 161 in localisation/german/trm_research_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=85) at line 192 and column 1092 in localisation/german/trm_tank_chassis_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 272 and column 71 in localisation/german/trm_tank_chassis_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 151 and column 432 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 292 and column 305 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 303 and column 405 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 458 and column 400 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 483 and column 271 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 487 and column 562 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 512 and column 171 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 519 and column 297 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 523 and column 346 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 527 and column 205 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 549 and column 369 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 584 and column 253 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 736 and column 528 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=69) at line 875 and column 543 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=66) at line 886 and column 230 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=87) at line 892 and column 307 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 898 and column 380 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=73) at line 946 and column 460 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=79) at line 966 and column 488 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 1130 and column 220 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=83) at line 1143 and column 281 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 1144 and column 266 in localisation/german/wtt_events_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=68) at line 83 and column 370 in localisation/german/wtt_ss_recruitment_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=77) at line 87 and column 654 in localisation/german/wtt_ss_recruitment_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=71) at line 91 and column 254 in localisation/german/wtt_ss_recruitment_l_german.yml
+[15:18:11][pdx_localize.cpp:1186]: Illegal break character (utf32=86) at line 113 and column 455 in localisation/german/wtt_ss_recruitment_l_german.yml
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'click_tech_tab_01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/menu/click_tech_tab.wav' in  file: sound/sound_bice.asset line: 6
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'click_diplomacy_tab_01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/menu/click_diplomacy_tab.wav' in  file: sound/sound_bice.asset line: 11
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'click_trade_tab_01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/menu/click_trade_tab.wav' in  file: sound/sound_bice.asset line: 16
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'click_construction_tab_01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/menu/click_construction_tab.wav' in  file: sound/sound_bice.asset line: 21
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'click_ledger_tab_01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/menu/click_ledger_tab.wav' in  file: sound/sound_bice.asset line: 26
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'click_training_tab_01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/menu/click_training_tab.wav' in  file: sound/sound_bice.asset line: 31
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'click_production_tab_01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/menu/click_production_tab.wav' in  file: sound/sound_bice.asset line: 36
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'rocket_artillery_unit_fire_01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/rocket_artillery_unit_fire_01.wav' in  file: sound/sound_bice.asset line: 70
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'distance_rocket_artillery_unit_fire_01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/distance_rocket_artillery_unit_fire_01.wav' in  file: sound/sound_bice.asset line: 76
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_rifle_support_attack01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_standing_state_01.wav' in  file: sound/sound_bice.asset line: 83
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_rifle_support_attack02' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_standing_state_02.wav' in  file: sound/sound_bice.asset line: 89
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_rifle_support_attack03' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_standing_state_03.wav' in  file: sound/sound_bice.asset line: 95
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_rifle_support_attack04' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_standing_state_04.wav' in  file: sound/sound_bice.asset line: 101
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_rifle_support_attack05' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_standing_state_05.wav' in  file: sound/sound_bice.asset line: 107
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_rifle_support_attack06' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_standing_state_06.wav' in  file: sound/sound_bice.asset line: 113
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_mg_support_attack01' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_mg_standing_state_01.wav' in  file: sound/sound_bice.asset line: 119
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_mg_support_attack02' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_mg_standing_state_02.wav' in  file: sound/sound_bice.asset line: 125
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_mg_support_attack03' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_mg_standing_state_03.wav' in  file: sound/sound_bice.asset line: 131
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_mg_support_attack04' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_mg_standing_state_04.wav' in  file: sound/sound_bice.asset line: 137
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_mg_support_attack05' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_mg_standing_state_05.wav' in  file: sound/sound_bice.asset line: 143
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_mg_support_attack06' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_mg_standing_state_06.wav' in  file: sound/sound_bice.asset line: 149
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_mg_support_attack07' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_mg_standing_state_07.wav' in  file: sound/sound_bice.asset line: 155
+[15:18:11][pdx_audio_sdl.cpp:961]: Sound with name 'infantry_mg_support_attack08' already added
+[15:18:11][assetfactory_audio.cpp:467]: Could not load sound file 'sound/animations/infantry_fire_mg_standing_state_08.wav' in  file: sound/sound_bice.asset line: 161
+[15:18:11][pdx_audio.cpp:337]: Missing sound: silence_buffer_1s
+[15:18:11][pdx_audio.cpp:337]: Missing sound: silence_buffer_1s
+[15:18:11][pdx_audio.cpp:337]: Missing sound: silence_buffer_1s
+[15:18:11][pdx_audio.cpp:337]: Missing sound: silence_buffer_1s
+[15:18:20][map.cpp:675]: MAP_ERROR: Palette in rivers.bmp is probably not correct
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: maus_training_soundeffect
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "maus_training_soundeffect"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: SOV_Scout_plane_idle
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "SOV_Scout_plane_idle"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: USA_scout_plane_idle
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "USA_scout_plane_idle"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GER_scout_plane_idle
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GER_scout_plane_idle"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: SOV_Scout_plane_idle
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "SOV_Scout_plane_idle"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: FRA_scout_plane_idle
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "FRA_scout_plane_idle"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: ITA_scout_plane_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "ITA_scout_plane_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: JAP_scout_plane_idle
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "JAP_scout_plane_idle"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: SPR_light_tank_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "SPR_light_tank_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: SPR_light_tank_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "SPR_light_tank_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: ENG_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "ENG_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: ENG_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "ENG_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: ENG_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "ENG_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: ENG_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "ENG_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: FRA_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "FRA_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: FRA_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "FRA_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: FRA_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "FRA_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: FRA_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "FRA_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: Generic_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "Generic_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: Generic_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "Generic_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: Generic_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "Generic_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: Generic_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "Generic_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GER_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GER_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GER_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GER_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GER_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GER_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GER_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GER_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: ITA_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "ITA_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: ITA_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "ITA_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: ITA_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "ITA_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: ITA_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "ITA_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: JAP_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "JAP_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: JAP_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "JAP_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: JAP_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "JAP_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: JAP_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "JAP_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: SOV_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "SOV_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: SOV_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "SOV_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: SOV_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "SOV_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: SOV_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "SOV_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: USA_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "USA_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: USA_car_01_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "USA_car_01_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: USA_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "USA_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: USA_car_03_Moving
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "USA_car_03_Moving"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GEN_train_equipment_3
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GEN_train_equipment_3"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GEN_railway_gun
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GEN_railway_gun"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GEN_floating_harbour
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GEN_floating_harbour"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GEN_train_equipment_3
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GEN_train_equipment_3"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GEN_railway_gun
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GEN_railway_gun"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_veryLarge
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_veryLarge"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_veryLarge
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_veryLarge"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_medium
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_medium"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_medium
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_medium"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_medium
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_medium"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_veryLarge
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_veryLarge"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_medium
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_medium"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_medium
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_medium"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_medium
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_medium"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GEN_train_equipment_2
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GEN_train_equipment_2"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_medium
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_medium"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GEN_train_equipment_1
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GEN_train_equipment_1"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_medium
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_medium"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: GEN_train_equipment_3
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "GEN_train_equipment_3"
+[15:18:22][pdx_audio.cpp:1039]: Missing sound effect: train_horn_veryLarge
+[15:18:22][pdx_entity.cpp:127]: Couldn't find sound effect: "train_horn_veryLarge"
+[15:18:22][equipment.cpp:1216]: Token trm_cavalry_tank_chassis_cze_lt35_1 in can_convert_from list for type trm_cavalry_tank_chassis_ger_pz35_1 does not correspond to any valid equipment type.
+[15:18:22][equipment.cpp:1216]: Token trm_cavalry_tank_chassis_cze_lt38_1 in can_convert_from list for type trm_cavalry_tank_chassis_ger_pz38_1 does not correspond to any valid equipment type.
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 14
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 26
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 38
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 50
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 62
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 74
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 86
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 98
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 108
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 117
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 127
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 138
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 149
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 159
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 169
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 182
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 194
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 206
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 218
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 230
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 241
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 253
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 265
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 277
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 290
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 302
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 314
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 327
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 340
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 350
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 359
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 372
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 384
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 393
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 402
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 411
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 421
+[15:18:25][musicmanager.cpp:158]: Error no music_station defined for songs in [file] music/bice_music.txt [location]  file: music/bice_music.txt line: 432
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:29][gameapplication.cpp:766]: The game has loc key collisions. Check logs/text.log for more details
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:18:35][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Pointer_Over_Target
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Cryptology_Decipher_Select_Target_Province
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_role_entry
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:21][pdx_audio.cpp:1039]: Missing sound effect: ui_award_collect_reward
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_reset
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_duplicate
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_auto
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_auto_upgrade
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_save
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_expand
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_equipment_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_panel_appear
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_select_3d_model
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_reset
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_duplicate
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_auto
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_auto_upgrade
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_save
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_reset
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_expand
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_equipment_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_decrease
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_increase
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_decrease
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_increase
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_panel_appear
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_reset
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_duplicate
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_auto
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_auto_upgrade
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_save
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_reset
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_equipment_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_tank_designer_panel_appear
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: ui_ship_designer_company_icon
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Build_Agency_Confirm
+[15:19:26][pdx_audio.cpp:1039]: Missing sound effect: Spy_Agency_Branch_Upgrade_Window_Show_Sound
