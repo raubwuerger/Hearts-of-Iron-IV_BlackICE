@@ -471,13 +471,13 @@
  upgrade_psycho_warfare_level_1:0 "§YLStufe 1:§!\nRekrutierungschance der feindlichen Nationalität: §G+5%§!\nPropaganda-Missionseffekte: §G+10%§!\nAuswirkungen der Ideologie-Mission: §G+10%§!"
  upgrade_psycho_warfare_level_2:0 "§YLStufe 2:§!\nRekrutierungschance der feindlichen Nationalität: §G+5%§!\nPropaganda-Missionseffekte: §G+10%§!\nAuswirkungen der Ideologie-Mission: §G+10%§!"
 
- upgrade_decryption_boost_level_1:0 "§YLStufe 1:§!\n£Krypto-Entschlüsselungsmacht: §G+15§!"
- upgrade_decryption_boost_level_2:0 "§YLStufe 2:§!\n£Crypto-Entschlüsselungskraft: §G+10§!"
- upgrade_decryption_boost_level_3:0 "§YLStufe 3:§!\n£crypto Entschlüsselungsstärke: §G+10§!"
+ upgrade_decryption_boost_level_1:0 "§YLStufe 1:§!\n£Krypto Entschlüsselungsleistung: §G+15§!"
+ upgrade_decryption_boost_level_2:0 "§YLStufe 2:§!\n£crypto Entschlüsselungsleistung: §G+10§!"
+ upgrade_decryption_boost_level_3:0 "§YLStufe 3:§!\n£crypto Entschlüsselungsleistung: §G+10§!"
 
- upgrade_decryption_boost_2_level_1:0 "§YLevel 1:§!\n£crypto Decryption Power: §G+25§!"
- upgrade_decryption_boost_2_level_2:0 "§YLevel 2:§!\n£crypto Decryption Power: §G+20§!"
- upgrade_decryption_boost_2_level_3:0 "§YLStufe 3:§!\n£crypto Entschlüsselungsstärke: §G+15§!"
+ upgrade_decryption_boost_2_level_1:0 "§YLevel 1:§!\n£crypto Entschlüsselungsleistung: §G+25§!"
+ upgrade_decryption_boost_2_level_2:0 "§YLevel 2:§!\n£crypto Entschlüsselungsleistung: §G+20§!"
+ upgrade_decryption_boost_2_level_3:0 "§YLStufe 3:§!\n£crypto Entschlüsselungsleistung: §G+15§!"
 
  upgrade_crypto_strength_level_1:0 "§YLevel 1:§!\n£crypto_defense Kryptologie-Level: §G+2§!"
  upgrade_crypto_strength_level_2:0 "§YLevel 2:§!\n£crypto_defense Kryptologie-Level: §G+2§!"

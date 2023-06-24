@@ -290,7 +290,7 @@
  ss_geb_prinz_eugen:0 " §RHas done:§!§Y SS-Freiwillige Gebirgsjäger-Division 'Prinz Eugen'§!\n"
 
  #GER NF "Kontrolliert mindestens einen der aufgeführten Staaten"
- waffen_ss_div_btn:0 "£unlocked_small Unlocks §YWaffen SS Division Builder§!"
+ waffen_ss_div_btn:0 "£unlocked_small Schaltet frei §YWaffen SS Divisionsdesigner§!"
  controls_at_least_one_tt:0 "Brigada Morskoi bilden"
  #SOVIET ""
  SOV_naval_infantry_sf:0 "Zivile Fabriken werden nun automatisch über den Ural hinaus verlegt, wenn der Staat von den Achsenmächten eingenommen wird. Die Verlegung einer Fabrik dauert bis zu 30 Tage."

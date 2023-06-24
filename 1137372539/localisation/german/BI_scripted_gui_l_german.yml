@@ -620,7 +620,7 @@
  BI_RESEARCH_CENTRE_STATE_TOOLTIP:0 "\nDieser £tech_mod §YForschungsplatz§! befindet sich in §Y[This.GetName]§!"
  RESEARCH_CENTRE_OVERLAY_TOOLTIP:0 "§YKlick§! um diesen £tech_mod §YForschungsplatz§! auszuwählen"
  RESEARCH_CENTRE_OVERLAY_TOOLTIP_DELAYED:0 "§YRechts-Klick§! zum Bewegen der Kamera über §Y[This.GetName]§!"
- RESEARCH_CENTRE_LOST_TOOLTIP:0 "§RWir haben die Kontrolle über [This.GetName] verloren und können diesen £tech_mod-Forschungssteckplatz nicht verwenden§!"
+ RESEARCH_CENTRE_LOST_TOOLTIP:0 "§RWir haben die Kontrolle über [This.GetName] verloren und können diesen £tech_mod Forschungssteckplatz nicht verwenden§!"
  BI_ALLOWED_RESEARCH_TOOLTIP:0 "\nDieser £tech_mod §YForschungsplatz§! kann die folgenden Technologieordner erforschen: [This.research_infantry_TT][This.research_support_TT][This.research_artillery_TT][This.research_tank_techs_TT][This.research_armor_TT][This.research_air_techs_army_TT][This.research_air_techs_navy_TT][This.research_air_techs_TT][This.research_naval_TT][This. research_naval_techs_TT][This.research_ww1_doctrine_TT][This.research_doctrine_TT][This.research_naval_doctrine_TT][This.research_air_doctrine_TT][This.research_electronics_TT][This.research_industry_TT][This.research_nuclear_TT][This.research_special_forces_TT]"
  BI_BASE_RESEARCH_TOOLTIP:0 "\nDieser £tech_mod §YForschungsplatz§! kann jede Technologie erforschen."
  RESEARCH_CENTRE_STATE_UNKNOWN:0 "Wir wissen nicht, ob es in §Y[This.GetName]§! ein £tech_mod §YForschungszentrum§! gibt."

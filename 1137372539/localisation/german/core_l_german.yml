@@ -476,7 +476,7 @@
  NAVAL_STRIKE_FORCE_STATUS_ENGAGING_ANOTHER:0 "£trigger_no£ beschäftigt mit einem anderen Angriff"
  NAVAL_STRIKE_FORCE_STATUS_IN_COMBAT:0 "£trigger_no£ bereits im Kampf"
  NAVAL_STRIKE_FORCE_STATUS_ENEMY_TOO_STRONG:0 "£trigger_no£ Ziel zu stark"
- NAVAL_STRIKE_FORCE_STATUS_NOT_READY:0 "Auslöser_nein£ nicht bereit"
+ NAVAL_STRIKE_FORCE_STATUS_NOT_READY:0 "£trigger_no£ nicht bereit"
  NAVAL_STRIKE_FORCE_STATUS_NOT_ENOUGH_INTEL:0 "Unbekannte Stärke des Feindes"
  NAVAL_STRIKE_FORCE_STATUS_VERY_LIKELY_TO_ENGAGE:0 "wird sehr wahrscheinlich angreifen"
  NAVAL_STRIKE_FORCE_STATUS_LIKELY_TO_ENGAGE:0 "wahrscheinlich angreifen"

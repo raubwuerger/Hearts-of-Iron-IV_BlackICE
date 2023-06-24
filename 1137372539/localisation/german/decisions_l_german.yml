@@ -713,10 +713,10 @@
  ROM_monarchists_name_text:0 "Kronenrat"
 
  fascism_party_icon:0 "£Fasern"
- communism_party_icon:0 "Hammer_Sichel"
- democratic_bloc_icon:0 "Demokratur"
- monarchism_party_icon:0 "Krone"
- agrarianism_party_icon:0 "Weizen"
+ communism_party_icon:0 "£Hammer_Sichel"
+ democratic_bloc_icon:0 "£Demokratur"
+ monarchism_party_icon:0 "£Krone"
+ agrarianism_party_icon:0 "£Weizen"
  neutrality_party_icon:0 "£Gleichgewichtswaage"
 
  party_loyalty_increase_small:0 "§GIncrease§! loyalty §gslightly§!"
