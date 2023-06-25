@@ -520,7 +520,7 @@
  expert_delegator_desc:1 "§Die Kunst des Delegierens erlaubt es diesem Anführer, mehrere Armeen effizient zu befehligen!"
  trait_bonus_all:0 "Alle Werte: $VAL|+=0$"
  trait_bonus_attack:0 "£attack_texticon Angriff: $VAL|+=0$"
- trait_bonus_defense:0 "£Verteidigung_texticon Verteidigung: $VAL|+=0$"
+ trait_bonus_defense:0 "£defence_texticon Verteidigung: $VAL|+=0$"
  trait_bonus_planning:0 "£Planung_max_texticon Planung: $VAL|+=0$"
  trait_bonus_logistics:0 "£logistik_texticon Logistik: $VAL|+=0$"
  trait_bonus_maneuvering:0 "£maneuver_texticon Manövrieren: $VAL|+=0$"

@@ -70,12 +70,12 @@
  recruitment_building_desc:0 "§YRekrutierungszentrum§! Baugeschwindigkeit"
  modifier_production_speed_recruitment_building_factor:0 "§YRecruitment Centre§! construction speed"
 
- shipyard_capital_building:0 "§YKapitalschiffswerft§!\n £trigger_no §RUnbuildable§! \n\nKapitalwerft stellt §YKapitalwerft-Kapazität§! bereit, die für den Bau von §YKapitalschiffen§! und §YTrägern§! benötigt wird\nGebäudezustand: §Y10§!\nProduktion im Staat: §Y+15§! £resources_strip|7"
- shipyard_capital_building_desc_long:0 "Capital Shipyard stellt §YCapital Shipyard Capacity§! bereit, die für den Bau von §YCapital Ships§! und §YCarriers§! benötigt wird: §Y10§!\nProduktion im Staat:"
- shipyard_capital_building_desc:0 "Capital Shipyard"
- shipyard_capital_building_plural:0 "Capital Shipyard stellt §YCapital Shipyard Capacity§! zur Verfügung, die für den Bau von §YCapital Ships§! und §YCarriers§! benötigt wird: §Y10§!\nProduktion im Staat:"
- shipyard_capital_building_plural_desc:0 "Hauptstadt-Werft"
- modifier_production_speed_shipyard_capital_building_factor:0 "Capital Shipyard"
+ shipyard_capital_building:0 "Großkampfschiff Schiffswerft"
+ shipyard_capital_building_desc_long:0 "Eine Großkampfschiff Schiffswerft \n £trigger_no §Rnicht baubar§! wird für §Großkampfschiffe§! und §YFlugzeugträger§! benötigt: §Y10§!\nProduktion im Staat:"
+ shipyard_capital_building_desc:0 "Eine Großkampfschiff Schiffswerft wird für §Großkampfschiffe§! und §YFlugzeugträger§! benötigt."
+ shipyard_capital_building_plural:0 "Großkampfschiff Schiffswerften"
+ shipyard_capital_building_plural_desc:0 "Großkampfschiff Schiffswerften werden für §Großkampfschiffe§! und §YFlugzeugträger§! benötigt: §Y10§!\nProduktion im Staat:"
+ modifier_production_speed_shipyard_capital_building_factor:0 "Großkampfschiff Schiffswerft"
 
  tank_assembly:0 "Tankmontagewerke"
  tank_assembly_plural:0 "Tankmontagewerke stellen §YTankproduktionskapazitäten§! bereit, die für den Bau von §YTanks§!, §YPanzerwagen§! und §YMechanisierten§! benötigt werden: §Y10§!\nProduktion im Staat:"
@@ -92,7 +92,7 @@
  tungsten_storage_desc:0 "Dieses Gebäude bietet dem Staat die Möglichkeit, Stahl zu lagern.\n\nMax Level: §Y1§!\nGebäudezustand: §Y0§!\nInfrastruktur-Effekt: §RNo§!\nLagerkapazität: §Y2000§!\nMax Storage Output: §Y6§!\n\n§Die Aktivierung kann bis zu 1 Woche dauern§!"
  steel_storage_desc:0 "Dieses Gebäude bietet dem Staat die Möglichkeit, Chrom zu lagern.\n\nMax Level: §Y1§!\nGebäudegesundheit: §Y0§!\nInfrastruktur-Effekt: §RNo§!\nSpeicherkapazität: §Y2000§!\nMax Storage Output: §Y6§!\n\n§Dauert bis zu 1 Woche bis zur Aktivierung§!"
  chromium_storage_desc:0 "Forschungszentrum"
- research_centre:0 "§YForschungszentrum§!\n £trigger_no §RUnbuildable§! \n\nForschungszentren versorgen deine Nation mit £tech_mod §YForschungsslots§! Diese können durch §YFocuses§! und §YEvents§! gewonnen werden. Der Verlust eines Staates mit einem §YForschungszentrum§! hat den Verlust eines £tech_mod §YForschungsplatz§! zur Folge. Die Eroberung eines fremden Forschungszentrums verschafft Ihnen keine zusätzlichen Slots, sondern einen Forschungsbonus."
+ research_centre:0 "§YForschungszentrum§!\n £trigger_no §Rnicht baubar§! \n\nForschungszentren versorgen deine Nation mit £tech_mod §YForschungsslots§! Diese können durch §YFocuses§! und §YEvents§! gewonnen werden. Der Verlust eines Staates mit einem §YForschungszentrum§! hat den Verlust eines £tech_mod §YForschungsplatz§! zur Folge. Die Eroberung eines fremden Forschungszentrums verschafft Ihnen keine zusätzlichen Slots, sondern einen Forschungsbonus."
  research_centre_desc_long:0 "Forschungszentren versorgen Ihre Nation mit £tech_mod §YForschungsslots§! Diese können durch §YFocuses§! und §YEvents§! gewonnen werden. Der Verlust eines Staates mit einem §YForschungszentrum§! hat den Verlust eines £tech_mod §YForschungsplatz§! zur Folge. Durch die Einnahme eines fremden Forschungszentrums erhält man keine zusätzlichen Slots, sondern einen Forschungsbonus."
  research_centre_desc:0 "Research Centres provide your Nation with £tech_mod §YResearch Slots§!. They can be gained by §YFocuses§! and §YEvents§!. Loosing a State with a §YResearch Centre§! will result in the loss of a £tech_mod §YResearch Slot§!. Capturing a foreign Research Centre does not provide you with additional slots, but a research bonus."
 

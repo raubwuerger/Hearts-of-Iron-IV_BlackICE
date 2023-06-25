@@ -1469,7 +1469,7 @@
  ITA_new_corporations_iri_tt:1 "$ITA_modify_ricostruzione_industrial_dynamic_modifier_ns_intro$ \n$modifier_production_speed_industrial_complex_factor$: §R-35.00%§! \n$MODIFIER_CONVERSION_COST_CIV_TO_MIL_FACTOR$: §G-15.00%§! \n\n"
  ITA_extraction_industry_iri_tt:0 "$ITA_modify_ricostruzione_industrial_dynamic_modifier_ns_intro$ \n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+10.00%§! \n\n"
  ITA_extraction_industry_military_industry_tt:0 "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G-15.00%§! \n\n"
- ITA_extraction_industry_oil_tt:0 "\n$ Fügt die Produktion von §Y2§!£Ressourcenstreifen|1 in jedem vollständig kontrollierten Staat hinzu, der bereits Öl produziert."
+ ITA_extraction_industry_oil_tt:0 "\n$ Fügt die Produktion von §Y2§!£resources_strip|1 in jedem vollständig kontrollierten Staat hinzu, der bereits Öl produziert."
  ITA_expand_the_royal_guard_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$modifier_army_sub_unit_cavalry_defence_factor$: §G+5.00%§! \n\n"
  ITA_has_disbanded_blackshirts_tt:0 "Hat die Schwarzhemden nicht aufgelöst"
  ITA_paramilitary_training_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$modifier_army_sub_unit_militia_attack_factor$: §G+5.00%§! \n$modifier_army_sub_unit_militia_defence_factor$: §G+5.00%§! \n\n"
