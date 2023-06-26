@@ -1,5 +1,1 @@
-mck_l_english.yml
 modifiers_l_english.yml
-politics_l_english.yml
-research_l_english.yml
-trm_research_l_english.yml
