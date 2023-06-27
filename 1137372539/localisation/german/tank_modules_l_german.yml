@@ -410,8 +410,8 @@
 
 
  GER_heavy_tank_equipment_0:0 "Versuchspanzerkampfwagen (schwer)"
- GER_light_tank_equipment_0:0 "Leichter Traktor"
- GER_medium_tank_equipment_0:0 "Mittlerer Traktor"
+ GER_light_tank_equipment_0:0 "Leichter £tractor"
+ GER_medium_tank_equipment_0:0 "Mittlerer £tractor"
 
  EQUIPMENT_AMPHIBIOUS:0 "Amphibischer Panzer"
 

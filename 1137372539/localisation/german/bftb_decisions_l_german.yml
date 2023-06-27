@@ -281,7 +281,7 @@
  TUR_pacify_kurdish_state_effect_tt: "Die £faction_tur_kurdish §YKurdish rebels§! in §Y[TUR_kurdish_state_event_target.GetName]§! wird befriedet werden."
  TUR_placate_kurdish_state_effect_tt: "Die £faction_tur_kurdischen §YKurdischen Rebellen§! in §Y[TUR_kurdish_state_event_target.GetName]§! werden besänftigt."
  TUR_kurdish_modifiers_trigger_tt:0 "Alle £faction_tur_kurdish §YKurdish§! Staaten sind entweder §Ycores§!, oder haben den Modifikator §YSeparatist Fatigue§!"
- TUR_no_current_integration_targets_available_tt:0 "Bevor ein £Fraktion_tur_kurdischer §YKurdischer§! Zustand entkernt werden kann, muss §YCompliance§! auf mindestens §Y70%§! erhöht werden, und §YResistance§! muss auf mindestens §Y30%§! gesenkt werden."
+ TUR_no_current_integration_targets_available_tt:0 "Bevor ein £faction_tur_kurdish §YKurdischer§! Zustand entkernt werden kann, muss §YCompliance§! auf mindestens §Y70%§! erhöht werden, und §YResistance§! muss auf mindestens §Y30%§! gesenkt werden."
  TUR_integrate_kurdish_state_effect_tt:0 "Der Staat £faction_tur_kurdish §YKurdish§! verliert seine Staatsmodifikatoren und wird ein Kern von §Y[TUR.GetNameDef]§!"
  TUR_counter_the_rebels_in_diyarbakir:0 "Gegen die Rebellen in Diyarbakır"
  TUR_counter_the_rebels_in_diyarbakir_desc:0 "Die Rebellen in Diyarbakır sind in der Regel weniger lästig als anderswo, was wahrscheinlich daran liegt, dass Diyarbakır einen relativ entwickelten Status hat."

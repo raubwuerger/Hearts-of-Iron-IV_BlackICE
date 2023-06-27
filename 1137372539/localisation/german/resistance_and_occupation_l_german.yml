@@ -9,7 +9,7 @@
  RESISTANCE_TARGET_MODIFIER_POP_VERY_LOW:0 "Sehr bevölkerungsarmer Staat: $VALUE|-%0$"
  RESISTANCE_TARGET_MODIFIER_PER_STABILITY_LOSS:0 "Geringe Stabilität: $WERT|-%0$"
  RESISTANCE_TARGET_MODIFIER_PER_COMPLIANCE:0 "Einhaltung: $WERT|-%0$"
- RESISTANCE_TARGET_MODIFIER_STATE_VP:0 "Staatliche Siegpunkte £victory_points£: $WERT|-%0$"
+ RESISTANCE_TARGET_MODIFIER_STATE_VP:0 "Staatliche £victory_points £victory_points£: $WERT|-%0$"
  RESISTANCE_TARGET_CAP_FOR_NON_COMPLIANCE:0 "Das Widerstandsziel ist von $CUR_TARGET|%0H$ auf $CAP|%0H$ gedeckelt und §HCompliance§! ist nötig, um es weiter zu reduzieren"
 
  RESISTANCE_DECAY_MODIFIER_HAS_CLAIM:0 "Controller hat Anspruch: $VALUE|+%0$"
@@ -24,13 +24,13 @@
  RESISTANCE_EFFECTS:1 "Effekte des Widerstands:"
  COMPLIANCE_EFFECTS:0 "Compliance-Effekte:"
 
- COMPLIANCE_STRENGTH:0 "£Besetzung_Kosten Konformitätsstärke: $TOT|%2+$"
+ COMPLIANCE_STRENGTH:0 "£occupation_costs Konformitätsstärke: $TOT|%2+$"
 
  COMPLIANCE_GROWTH_VALUE:0 "£occupation_costs Compliance Wachstum: §G$VALUE|3$%§!"
- COMPLIANCE_GROWTH_VALUE_CAPPED:0 "£Beschäftigung_Kosten Einhaltung Wachstum: §G$VALUE|3$%§! (Gekappt von §G$VALUE_NON_CAPPED|3$%§!)"
+ COMPLIANCE_GROWTH_VALUE_CAPPED:0 "£occupation_costs Einhaltung Wachstum: §G$VALUE|3$%§! (Gekappt von §G$VALUE_NON_CAPPED|3$%§!)"
 
  COMPLIANCE_DECAY_VALUE:0 "£occupation_costs Compliance Wachstum: §R$VALUE|3$%§!"
- COMPLIANCE_DECAY_VALUE_CAPPED:0 "£Besetzung_Kosten Einhaltung Wachstum: §R$VALUE|3$%§! (Gekappt von §R$VALUE_NON_CAPPED|3$%§!)"
+ COMPLIANCE_DECAY_VALUE_CAPPED:0 "£occupation_costs Einhaltung Wachstum: §R$VALUE|3$%§! (Gekappt von §R$VALUE_NON_CAPPED|3$%§!)"
 
  COMPLIANCE_GROWTH_HAS_CLAIM:0 "Kontrolleur hat Anspruch: $WERT|+%0$"
  COMPLIANCE_GROWTH_IS_AT_PEACE:0 "Kontrolleur hat Ruhe: $VALUE|+%0$"
@@ -135,7 +135,7 @@
  OCCUPATION_NO_GARRISON_NEEDED:0 "Keine Garnison erforderlich"
  OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION:0 "§Der Unterdrückungswert einer Garnisonsvorlage ist §H0§! Bitte wählen Sie eine andere.§!"
  GARRISON_ENTRY_MANPOWER_TOOLTIP:0 "Manpower pro Unterdrückung: $MANPOWER|*H$\nManpower pro Division: $MANPOWERDIV|*H$"
- GARRISON_ENTRY_IC_TOOLTIP:0 "Produktionskosten pro Unterdrückung: £production_cost£$IC|*H$\nProduktionskosten pro Abteilung: £production_cost£$ICDIV|*H$"
+ GARRISON_ENTRY_IC_TOOLTIP:0 "£production_cost pro Unterdrückung: £production_cost£$IC|*H$\n£production_cost pro Abteilung: £production_cost£$ICDIV|*H$"
  GARRISON_HARDNESS_TOOLTIP:0 "§HHärte§!\nDie Härte einer Vorlage verringert die Verluste bei der Widerstandsaktivität."
  LAW_BONUS_SCALED:0 "§RDieses Gesetz entfaltet seine volle Wirkung erst, wenn die Bedürfnisse der Garnison vollständig befriedigt sind."
 
