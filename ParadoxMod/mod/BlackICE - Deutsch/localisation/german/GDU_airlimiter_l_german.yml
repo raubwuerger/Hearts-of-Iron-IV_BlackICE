@@ -1,0 +1,7 @@
+﻿l_german:
+ gduairlimiter.1.t:0 "Luftwaffenstützpunkt zu groß!"
+ gduairlimiter.1.d:0 "Der Luftwaffenstützpunkt, das Radar oder die Küstenforts in [GDU_badairport1.GetName] sind zu groß, da sie über der Stufe 1 liegen. Die meisten kleinen Inseln dürfen nur eine Luftwaffenstützpunktgröße von 1 haben und kein Radar oder Forts zulassen.\n\nGrößere Inseln dürfen eine Luftwaffenstützpunktgröße von 2 und 1 Küstenfestung und 1 Radar haben.\n\n, Iwo Jima und Hawaii sind nicht begrenzt. Auch der Mittelmeerraum ist nicht begrenzt.\n\n Diese Änderung soll die Kriegsführung im Pazifik interessanter machen."
+ gduairlimiter.1.a:0 "Verstanden."
+ gduairlimiter.2.t:0 "Luftwaffenstützpunkt zu groß!"
+ gduairlimiter.2.d:0 "Der Luftwaffenstützpunkt, das Radar oder die Küstenforts in [GDU_badairport2.GetName] sind zu groß, da sie über der Stufe 2 liegen. Größere Inseln können eine Luftwaffenstützpunktgröße von 2 und 1 Küstenfort und 1 Radar haben, \n\nDie meisten kleinen Inseln können nur eine Luftwaffenstützpunktgröße von 1 haben und erlauben kein Radar oder Forts.\n\n Iwo Jim und Hawaii sind nicht begrenzt. Auch der Mittelmeerraum ist nicht begrenzt.\n\n Diese Änderung soll die Kriegsführung im Pazifik interessanter machen."
+ gduairlimiter.2.a:0 "Verstanden."

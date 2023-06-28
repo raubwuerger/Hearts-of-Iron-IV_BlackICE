@@ -1,0 +1,59 @@
+﻿l_german:
+
+  get_super_event_title:0 "-"
+  GFX_SPEVNT_George_V_Death:0 "Der Tod von Georg V."
+  GFX_SPEVNT_George_V_Death_TEXT:0 "Und er wandelte in all den Sünden seines Vaters, die er vor ihm getan hatte."
+
+  GFX_SPEVNT_Turkish_Civil_War:0 "Der türkische Bürgerkrieg"
+  GFX_SPEVNT_Turkish_Civil_War_TEXT:0 "Ein letzter Atemzug des kranken Mannes, der das Feuer der bürgerlichen Unzufriedenheit mit sich bringt."
+
+  GFX_SPEVNT_Polish_Uprising:0 "Der polnische Aufstand"
+  GFX_SPEVNT_Polish_Uprising_TEXT:0 "Ein Messer stößt in den Stiefel der Tyrannei, und das Blut, das aus dieser Wunde fließt, trägt die Freiheit. Polen ist noch nicht verloren."
+
+  SPEVNT_Anglo_Indian_War:0 "Der anglo-indische Krieg"
+  SPEVNT_Anglo_Indian_War_TEXT:0 "Ein Feigling, der etwas zu beweisen hat, ist oft gefährlicher als ein tapferer Mann, der nichts zu verlieren hat."
+
+  SPEVNT_Wuchang_Revolution:0 "Die chinesische Revolution"
+  SPEVNT_Wuchang_Revolution_TEXT:0 "Nach und nach zerfiel die alte Welt, und nicht ein einziges Mal dachte der Kaiser daran, dass einige der Stücke auf ihn fallen könnten."
+
+  SPEVNT_Irish_Secession_Crisis:0 "Die irische Sezessionskrise"
+  SPEVNT_Irish_Secession_Crisis_TEXT:0 "Es war besser, unter einem irischen Himmel zu sterben als in Suvla oder Sud el Bar und in den Ebenen von Royal Meath."
+
+  SPEVNT_Mexican_Revolution:0 "Die mexikanische Revolution"
+  SPEVNT_Mexican_Revolution_TEXT:0 "Das Volk marschierte vorwärts, die Fahnen hochgehalten, und das Fundament des Imperiums bebte unter ihm."
+
+  SPEVNT_Atom_Bomb:0 "Die Atombombe"
+  SPEVNT_Atom_Bomb_TEXT:0 "So stahl Prometheus den Göttern das Feuer, und für seine Vergehen wurde die Menschheit für immer verdammt."
+
+  SPEVNT_Second_Great_War:0 "Der 2. Große Krieg"
+  SPEVNT_Second_Great_War_TEXT:0 "Der lange Frieden liegt in Trümmern, und die Welt steht in Flammen. Jetzt ist die Zeit der Ungeheuer."
+
+  GFX_SPEVNT_Great_Balkan_War:0 "Der Große Balkankrieg"
+  GFX_SPEVNT_Great_Balkan_War_TEXT:0 "Uralte und moderne Blutfehden spitzen sich endlich zu."
+
+  SPEVNT_Brazil_Unification:0 "Brasilien wiedervereint"
+  SPEVNT_Brazil_Unification_TEXT:0 "Frieden in der Zukunft und Ruhm in der Vergangenheit. Ein geteiltes Haus steht wieder."
+
+  SPEVNT_Second_Great_War_LON_Victory:0 "Triumphierende Demokratie"
+  SPEVNT_Second_Great_War_LON_Victory_TEXT:0 "Die Belagerung der Zukunft ist gescheitert, und das Versprechen der Zukunft liegt vor uns."
+
+  SPEVNT_Second_Great_War_RP_Victory:0 "Der Untergang Europas"
+  SPEVNT_Second_Great_War_RP_Victory_TEXT:0 "Eine dunkle Wolke fällt über den Kontinent, die Sonne ist untergegangen, und die Fahnen hängen tot an ihren Masten."
+
+  SPEVNT_Russian_Civil_War:0 "Russischer Bürgerkrieg"
+  SPEVNT_Russian_Civil_War_TEXT:0 "Der russische Staat hat gegenüber den anderen den Vorteil, dass er direkt von Gott gelenkt wird, sonst ist es unmöglich zu verstehen, wie er existiert."
+
+  SPEVNT_Anglo_American_War:0 "Der anglo-amerikanische Krieg"
+  SPEVNT_Anglo_American_War_TEXT:0 "Es wird eine Zeit des Feuers und der Nacht kommen, wenn Feinde aufsteigen und Reiche fallen, wenn die Sterne selbst zu sterben beginnen. Diese Zeit ist bereits da."
+
+  SPEVNT_American_Revolution:0 "Amerikanische Revolution"
+  SPEVNT_American_Revolution_TEXT:0 "Washingtons Erbe wird durch Feuer und Stahl gerächt werden, wenn auch vielleicht nicht ganz so, wie er es erwartet hätte."
+
+  SPEVNT_Mexican_Unification:0 "Mexikanische Wiedervereinigung"
+  SPEVNT_Mexican_Unification_TEXT:0 "Oh, Vaterland, bevor deine Kinder wehrlos ihren Nacken unter das Joch beugen, mögen deine Felder mit Blut getränkt sein."
+
+  SPEVNT_National_Legionary_State:0 "Gründung des Nationalen Legionärsstaates"
+  SPEVNT_National_Legionary_State_TEXT:0 "Die Legion des Erzengels Michael ist die unangefochtene Macht im rumänischen Staat. Gemeinsam werden der Marschall und die Garde Rumänien nach einer neuen Vision umgestalten.\n Mit Gott, geh voran!"
+
+  SPEVNT_Operation_Barbarossa:0 "DER GROSSE PATRIOTISCHE KRIEG"
+  SPEVNT_Operation_Barbarossa_TEXT:0 "Die Sowjetunion steht nun vor einer großen Prüfung. Wir haben die Bedrohung durch den Faschismus gegen uns immer vorausgesehen und uns darauf vorbereitet. Jetzt müssen wir uns stählen, denn der Sturm ist da.\nZa Rodinu! Za Stalina!"
