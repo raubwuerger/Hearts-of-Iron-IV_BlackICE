@@ -1,6 +1,6 @@
 ﻿l_german:
  GRE_1936_election_category:0 "Die Wahl von 1936"
- GRE_1936_election_category_desc:0 "Die ersten Wahlen seit der Rückkehr Georgs II. auf den Thron sollen noch vor Ende des Monats stattfinden. Georg II. ist entschlossen, sich nicht noch einmal vom Thron stoßen zu lassen, und es heißt, er sei bereit, alles zu tun, um seine Herrschaft zu sichern. \Allerdings halten Teile unserer Armee immer noch heimlich zu dem populären Exilanten Eleftherios Venizelos, und sie könnten in der Lage sein, eine freie und faire Wahl für Griechenland durch den Einsatz einiger ziemlich... rabiater Taktiken zu sichern."
+ GRE_1936_election_category_desc:0 "Die ersten Wahlen seit der Rückkehr Georgs II. auf den Thron sollen noch vor Ende des Monats stattfinden. Georg II. ist entschlossen, sich nicht noch einmal vom Thron stoßen zu lassen, und es heißt, er sei bereit, alles zu tun, um seine Herrschaft zu sichern. \nllerdings halten Teile unserer Armee immer noch heimlich zu dem populären Exilanten Eleftherios Venizelos, und sie könnten in der Lage sein, eine freie und faire Wahl für Griechenland durch den Einsatz einiger ziemlich... rabiater Taktiken zu sichern."
  GRE_the_election_of_1936:0 "Die griechischen Parlamentswahlen von 1936"
  GRE_the_election_of_1936_desc:1 "Die ersten Wahlen seit der Rückkehr Georgs II. auf den Thron sollen noch vor Ende des Monats stattfinden. Georg II. ist entschlossen, sich nicht noch einmal vom Thron stoßen zu lassen, und es heißt, er sei bereit, alles Notwendige zu tun, um seine Herrschaft zu sichern."
  GRE_1936_election_tt:0 "Wenn König §YGeorge II§! nicht verhaftet wird, wird er sich in die Wahlen im Januar einmischen und sicherstellen, dass seine monarchistischen Anhänger ihr Regierungsmandat behalten.\n"
@@ -442,7 +442,7 @@
 
  BUL_internal_factions:0 "Fraktionsmanagement"
  BUL_internal_factions_desc:0 "Die bulgarische Gesellschaft und Politik ist in mehrere Fraktionen gespalten, mit denen sich die Regierung auseinandersetzen muss. Zu den wichtigsten gehören die [GetZvenoName], eine von Armeeoffizieren gegründete nationalistische Organisation, die [GetBsName], Sozialdemokraten, die breite Klassenbündnisse unterstützen, die [GetBznsName], die sich mit Fragen der Landwirtschaft befasst, und die [GetNsmName], eine rechtsextreme Organisation. [GetZvenoValues] [GetBsValues] [GetBznsValues] [GetNsmValues]"
- BUL_zveno_values:0 "\der [GetZvenoName]: [?BUL.BUL_zveno_loyalty|+0]\n§YPopularity§! der [GetZvenoName]: [?BUL.BUL_zveno_popularity|+0]"
+ BUL_zveno_values:0 "\ner [GetZvenoName]: [?BUL.BUL_zveno_loyalty|+0]\n§YPopularity§! der [GetZvenoName]: [?BUL.BUL_zveno_popularity|+0]"
  BUL_zveno_values_removed:0 ""
  BUL_bs_values:0 "\n\n§YLoyalität§! des [GetBsName]: [?BUL.BUL_bs_loyalty|+0]\n§YPopularity§! des [GetBsName]: [?BUL.BUL_bs_popularity|+0]"
  BUL_bs_values_removed:0 ""

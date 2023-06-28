@@ -703,9 +703,9 @@
  loyalty_status_integrated:0 "§gIntegriert§!"
  popularity_status_crushed:0 "$Loyalität_Status_zerschlagen$"
  ROM_iron_guard_TOOLTIP:0 "Die Legionärsbewegung £iron_guard ist eine ultranationalistische Organisation, die in der rumänischen Regierung Fuß fasst. Ihre Botschaften von der nationalen Wiedergeburt und der Vertreibung ausländischer Einflüsse scheinen bei der Bevölkerung Anklang zu finden. Ihr selbsternannter "Hauptmann", Corneliu Codreanu, befürwortet zwar eine friedlichere Machtübernahme, aber wer weiß, wozu sie im Ernstfall bereit sind."
- LOYALTY_TOOLTIP:0 "§YLoyalty§! steht für den Wunsch der Fraktion, mit der Regierung zusammenzuarbeiten. \Je höher die §YLoyalität§! ist, desto unwahrscheinlicher ist es, dass sich eine Fraktion mit der Regierung anlegt. \nBevor eine Fraktion in die Regierung integriert wird, müssen bestimmte Entscheidungen getroffen werden, um ihre Mitglieder mit der Regierung in Einklang zu bringen und ihre §YLoyalität§! zu erhöhen."
+ LOYALTY_TOOLTIP:0 "§YLoyalty§! steht für den Wunsch der Fraktion, mit der Regierung zusammenzuarbeiten. \ne höher die §YLoyalität§! ist, desto unwahrscheinlicher ist es, dass sich eine Fraktion mit der Regierung anlegt. \nBevor eine Fraktion in die Regierung integriert wird, müssen bestimmte Entscheidungen getroffen werden, um ihre Mitglieder mit der Regierung in Einklang zu bringen und ihre §YLoyalität§! zu erhöhen."
  ROM_iron_guard_loyalty_required_tt:0 "Die Legion und der König haben in letzter Zeit eine feindliche Beziehung entwickelt. Vielleicht ist es noch nicht zu spät, das wieder gutzumachen. Machen Sie die Legion §GLoyal§!, und sie kann in die Regierung integriert werden."
- POPULARITY_TOOLTIP:0 "§YPopularität§! steht für die Unterstützung, die eine Fraktion von bestimmten Teilen der Bevölkerung erhält (sei es das Militär, Proletarier, Bauern oder Rechtsradikale). \Je höher die §YPopularität§! ist, desto wahrscheinlicher ist es, dass sich eine Fraktion mit der Regierung anlegt. \nBevor eine Fraktion zerstört wird, ist es notwendig, bestimmte Entscheidungen zu treffen, um sie zu schwächen und ihre §YPopularität§! zu verringern."
+ POPULARITY_TOOLTIP:0 "§YPopularität§! steht für die Unterstützung, die eine Fraktion von bestimmten Teilen der Bevölkerung erhält (sei es das Militär, Proletarier, Bauern oder Rechtsradikale). \ne höher die §YPopularität§! ist, desto wahrscheinlicher ist es, dass sich eine Fraktion mit der Regierung anlegt. \nBevor eine Fraktion zerstört wird, ist es notwendig, bestimmte Entscheidungen zu treffen, um sie zu schwächen und ihre §YPopularität§! zu verringern."
 
  ROM_iron_guard_tt:0 "[GetIronGuardName]: "
  ROM_crown_council_tt:0 "[GetCrownCouncilName]: "
@@ -749,7 +749,7 @@
 
  political_actions:0 "Politische Handlungen"
 
- fascism_impenging_coup_size_tt:0 "[GetIronGuardName] Unterstützer beginnen einen Bürgerkrieg. \Die Größe des faschistischen Militärs im Bürgerkrieg basiert auf der Popularität der Faschisten."
+ fascism_impenging_coup_size_tt:0 "[GetIronGuardName] Unterstützer beginnen einen Bürgerkrieg. \nie Größe des faschistischen Militärs im Bürgerkrieg basiert auf der Popularität der Faschisten."
  raid_faction_supporters_tt:0 "Fraktionsbeliebtheit ist niedriger als §Y30§!"
  faction_joint_act_tt:1 "Faction Loyalität ist höher als §Y20§!"
  iron_guard_joint_act:0 "Gemeinsame Aktion mit der [GetIronGuardName]"
