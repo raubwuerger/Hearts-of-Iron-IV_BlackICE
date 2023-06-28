@@ -51,7 +51,7 @@
  group_mobile_title:0 "Mobile Bataillone"
  group_armor_title:0 "Gepanzerte Bataillone"
  group_support_title:1 "Unterstützungsbataillone" #Unterstützungskompanien"
- NEW_GROUP_ADDITIONAL_COST:0 "Neue Gruppe $VALUE|H0$£Armee_Erfahrung£"
+ NEW_GROUP_ADDITIONAL_COST:0 "Neue Gruppe $VALUE|H0$£army_experience£"
  GARRISONS:0 "Garnisonen"
  GARRISONS_DESC:0 "§TSetzen Sie Priorität für Ausrüstung für Garnisonen§!"
  GARRISONS_EMPTY:0 "§GKeine aktuellen Anfragen für Garnisonen§!"

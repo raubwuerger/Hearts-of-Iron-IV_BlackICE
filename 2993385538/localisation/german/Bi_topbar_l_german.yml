@@ -179,9 +179,9 @@ MAX_ARMY_EXPERIENCE_TOOLTIP:0 "§YMaximum Army Experience§!\n\nBase: §Y150.0§
 MAX_AIR_EXPERIENCE_TOOLTIP:0 "§YMaximum Air Experience§!\n\nBase: §Y150.0§! \n[!max_air_xp_bg_click]"
 MAX_NAVY_EXPERIENCE_TOOLTIP:0 "§YMaximum Navy Experience§!\n\nBase: §Y150.0§! \n[!max_navy_xp_bg_click]"
 
-MAX_ARMY_XP_DELAYED_TT:0 "Die maximale Armeeerfahrung zeigt die Menge an Armeeerfahrung an, die dein Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch die Verbesserung der §YOfficer Training Standards§! oder durch die Erforschung der §YCommand Doctrine§!-Technologien erhöht werden."
-MAX_AIR_XP_DELAYED_TT:0 "Maximale Lufterfahrung zeigt die Menge an Lufterfahrung an, die Ihr Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch Verbesserung der §YYOfficer Training Standards§! oder durch Erforschung der §YCommand Doctrine§!-Technologien erhöht werden."
-MAX_NAVY_XP_DELAYED_TT:0 "Maximale Marineerfahrung zeigt die Menge an Marineerfahrung an, die Ihr Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch die Verbesserung der §YOffiziersausbildungsstandards§! oder durch die Erforschung der Technologien §YBefehlsdoktrin§! oder §YNavaldoktrin§! erhöht werden."
+MAX_ARMY_XP_DELAYED_TT:0 "Die maximale £army_experiencezeigt die Menge an £army_experiencean, die dein Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch die Verbesserung der §YOfficer Training Standards§! oder durch die Erforschung der §YCommand Doctrine§!-Technologien erhöht werden."
+MAX_AIR_XP_DELAYED_TT:0 "Maximale £air_experience zeigt die Menge an £air_experience an, die Ihr Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch Verbesserung der §YYOfficer Training Standards§! oder durch Erforschung der §YCommand Doctrine§!-Technologien erhöht werden."
+MAX_NAVY_XP_DELAYED_TT:0 "Maximale £navy_experiencezeigt die Menge an £navy_experiencean, die Ihr Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch die Verbesserung der §YOffiziersausbildungsstandards§! oder durch die Erforschung der Technologien §YBefehlsdoktrin§! oder §YNavaldoktrin§! erhöht werden."
 
 BASE_TOPBAR_STABILITY_TOOLTIP:0 "§YClick§! zum Ändern der angezeigten Informationen:\n\n[GetTopbarStability1]\n[GetTopbarStability2]\n[GetTopbarStability3]"
 

@@ -85,7 +85,7 @@
  SM_AMBIENT_OBJECTS:0 "Umgebungsobjekte"
  SM_VOICE_VOLUME:0 "Stimme Lautstärke"
  SM_VSYNC:0 "VSync"
- SM_WEATHER:0 "Wetter"
+ SM_WEATHER:0 "£weather"
  SM_WATER_REFL:0 "Spiegelungen"
  SM_TEX_QUALITY:0 "Textur-Qualität"
  SM_TEX_QUALITY_LOW:0 "Niedrig"
