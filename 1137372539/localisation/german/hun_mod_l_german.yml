@@ -511,7 +511,7 @@
  hun_news.5.c:0 "Wird das ausreichen, um sie aufzuhalten?"
 
  hun_news.6.t:0 "[From.Name] wird kämpfen, um die Expansion von [HUN.GetAdjective] aufzuhalten."
- hun_news.6.d:0 "[Von.GetLeader] hat sein Versprechen eingelöst, der Aggressivität von [HUN.GetAdjective] entgegenzutreten. [Von.GetName] befindet sich jetzt im Krieg mit [HUN.GetName]."
+ hun_news.6.d:0 "[From.GetLeader] hat sein Versprechen eingelöst, der Aggressivität von [HUN.GetAdjective] entgegenzutreten. [From.GetName] befindet sich jetzt im Krieg mit [HUN.GetName]."
  hun_news.6.a:0 "Wir werden sie mit Maschinengewehren begrüßen."
  hun_news.6.b:0 "Zu den Waffen!"
  hun_news.6.c:0 "Es herrscht also Krieg."
@@ -599,7 +599,7 @@
  hun_news.22.a:0 "Wir haben damals die Ketten gesprengt, und wir dürfen sie nie wieder tragen!"
 
  hun_news.23.t:0 "[From.GetNameDef] tritt dem Donaubund bei"
- hun_news.23.d:0 "Wie erwartet, schließen sich weitere Länder aus eigenem Antrieb dem Donaubund an. [Von.GetNameDef] ist das neueste Mitglied dieser freien Vereinigung von Nationen."
+ hun_news.23.d:0 "Wie erwartet, schließen sich weitere Länder aus eigenem Antrieb dem Donaubund an. [From.GetNameDef] ist das neueste Mitglied dieser freien Vereinigung von Nationen."
  hun_news.23.a:0 "Eine willkommene Ergänzung für unser Bündnis."
 
  hun_news.24.t:0 "Der Donaubund"
@@ -733,8 +733,8 @@
  hungary_flavor_gen.8.d:0 "Nach dem Austritt aus der Visegrád-Gruppe müssen wir natürlich alle Verträge und Vereinbarungen, die mit der Mitgliedschaft verbunden waren, für ungültig erklären. Es wird lange dauern, aber wir werden endlich frei von den Grenzen der Union sein."
  hungary_flavor_gen.8.a:0 "Wir müssen das hinter uns lassen."
 
- hungary_flavor_gen.9.t:0 "[Von.GetName] verlässt die Visegrád-Gruppe"
- hungary_flavor_gen.9.d:0 "[Von.GetName] ist erst seit kurzer Zeit Mitglied der Visegrád-Fraktion und hat bereits beschlossen, diese zu verlassen. Sicherlich hatten sie ihre Gründe, und wir sind traurig, sie gehen zu sehen, aber wichtige Angelegenheiten erfordern unsere Aufmerksamkeit mit diesen Ereignissen, da wir unsere Verträge und Vereinbarungen mit ihnen in Übereinstimmung mit der Politik der Visegrád-Gruppe aufheben müssen."
+ hungary_flavor_gen.9.t:0 "[From.GetName] verlässt die Visegrád-Gruppe"
+ hungary_flavor_gen.9.d:0 "[From.GetName] ist erst seit kurzer Zeit Mitglied der Visegrád-Fraktion und hat bereits beschlossen, diese zu verlassen. Sicherlich hatten sie ihre Gründe, und wir sind traurig, sie gehen zu sehen, aber wichtige Angelegenheiten erfordern unsere Aufmerksamkeit mit diesen Ereignissen, da wir unsere Verträge und Vereinbarungen mit ihnen in Übereinstimmung mit der Politik der Visegrád-Gruppe aufheben müssen."
  hungary_flavor_gen.9.a:0 "Dies ist ein trauriger Tag für die Allianz."
 
  hungary_flavor_gen.10.t:0 "Der Visegrád-Technologiekreis"
@@ -941,7 +941,7 @@
  hungary_flavor_bul.1.b:0 "Neue Mittelmächte? Das ist doch Unsinn."
 
  hungary_flavor_bul.2.t:0 "Projekt zur industriellen Entwicklung von Burgas"
- hungary_flavor_bul.2.d:0 "[Von.GetName] hat beschlossen, uns durch die Finanzierung des Fabrikbaus in Burgas zu helfen. Die Fabriken sind in erster Linie für militärische Zwecke bestimmt, stehen aber unter unserer vollen Kontrolle. Dieser Akt der Großzügigkeit ist ein Beweis für den guten Willen von [Von.GetName]."
+ hungary_flavor_bul.2.d:0 "[From.GetName] hat beschlossen, uns durch die Finanzierung des Fabrikbaus in Burgas zu helfen. Die Fabriken sind in erster Linie für militärische Zwecke bestimmt, stehen aber unter unserer vollen Kontrolle. Dieser Akt der Großzügigkeit ist ein Beweis für den guten Willen von [From.GetName]."
  hungary_flavor_bul.2.a:0 "Ich wusste, dass es die richtige Entscheidung war, mich auf ihre Seite zu stellen."
 
  hungary_flavor_bul.3.t:0 "[HUN.GetName] setzt unsere Ansprüche auf die Dobrudscha durch"
@@ -1041,11 +1041,11 @@
  hungary_flavor_ger.3.a:0 "Natürlich werden wir das tun."
  hungary_flavor_ger.3.b:0 "Sie müssen ihren eigenen Weg finden."
 
- hungary_flavor_ger.4.t:0 "[Von.GetName] akzeptiert Fraktionsmitgliedschaft"
- hungary_flavor_ger.4.d:0 "Die Verhandlungen mit [Von.GetName] waren erfolgreich, und wir haben das Bündnis zwischen den beiden Ländern unterzeichnet. Das Feuer der Revolution wird nach diesem Tag umso heller brennen!"
+ hungary_flavor_ger.4.t:0 "[From.GetName] akzeptiert Fraktionsmitgliedschaft"
+ hungary_flavor_ger.4.d:0 "Die Verhandlungen mit [From.GetName] waren erfolgreich, und wir haben das Bündnis zwischen den beiden Ländern unterzeichnet. Das Feuer der Revolution wird nach diesem Tag umso heller brennen!"
  hungary_flavor_ger.4.a:0 "Vorwärts, Genossinnen und Genossen!"
 
- hungary_flavor_ger.5.t:0 "[Von.GetName] lehnt Fraktionsmitgliedschaft ab"
+ hungary_flavor_ger.5.t:0 "[From.GetName] lehnt Fraktionsmitgliedschaft ab"
  hungary_flavor_ger.5.d:0 "Trotz unserer Bemühungen konnten wir die [From.GetAdjective]-Führung nicht überzeugen, uns in die [From.GetFactionName] einzuladen."
  hungary_flavor_ger.5.a:0 "Sie müssen ihre Gründe haben."
 
@@ -1233,12 +1233,12 @@
  hungary_flavor_rom.2.a:0 "Gebt die Bukowina ab."
  hungary_flavor_rom.2.b:0 "Ablehnen."
 
- hungary_flavor_rom.3.t:0 "[Von.GetName] droht mit Krieg für Banat"
+ hungary_flavor_rom.3.t:0 "[From.GetName] droht mit Krieg für Banat"
  hungary_flavor_rom.3.d:0 "Nachdem Ungarn uns mit Gewalt zur Übergabe Siebenbürgens gezwungen hat, hat es nun ein Auge auf das Banat geworfen. Diese Provinz ist ethnisch überwiegend rumänisch, so dass sie keinen Anspruch darauf erheben können. Sie drohen uns mit einem Krieg, wenn wir uns nicht aus der Provinz zurückziehen."
  hungary_flavor_rom.3.a:0 "Ziehen Sie die Truppen aus dem Banat ab."
  hungary_flavor_rom.3.b:0 "Wir werden es verteidigen, wenn es sein muss."
 
- hungary_flavor_rom.4.t:0 "[Von.GetName] zieht sich zurück"
+ hungary_flavor_rom.4.t:0 "[From.GetName] zieht sich zurück"
  hungary_flavor_rom.4.d:0 "Unsere Tapferkeit wurde belohnt. Die Feiglinge in Ungarn haben einen Rückzieher gemacht, anstatt ihr Versprechen, dem Banat den Krieg zu erklären, einzulösen."
  hungary_flavor_rom.4.a:0 "Es war eine leere Drohung, wie erwartet."
 
@@ -1250,10 +1250,10 @@
  hungary_flavor_rom.5.tt:0 "Rumänien wird sich der Tschechoslowakei in der Kleinen Entente anschließen."
 
  hungary_flavor_rom.6.t:0 "[From.GetName] lehnt Forderungen ab"
- hungary_flavor_rom.6.d:0 "Auch wenn die Ablehnung unserer Forderungen nicht völlig unerwartet kommt, so ist sie doch ein Affront gegen unsere eigene Nation. [Von.GetName] hat sich geweigert, seine Besitzungen östlich der Theiß abzutreten, so dass es uns nun freisteht, einen Krieg darum zu erklären."
+ hungary_flavor_rom.6.d:0 "Auch wenn die Ablehnung unserer Forderungen nicht völlig unerwartet kommt, so ist sie doch ein Affront gegen unsere eigene Nation. [From.GetName] hat sich geweigert, seine Besitzungen östlich der Theiß abzutreten, so dass es uns nun freisteht, einen Krieg darum zu erklären."
  hungary_flavor_rom.6.a:0 "Wir werden dieses Land mit dem Blut ihrer Soldaten reinwaschen."
 
- hungary_flavor_rom.7.t:0 "[Von.GetName] gibt nach"
+ hungary_flavor_rom.7.t:0 "[From.GetName] gibt nach"
  hungary_flavor_rom.7.d:0 "Viele bezweifelten, dass die Forderungen irgendeine Auswirkung auf das Urteil der [From.GetAdjective]-Regierung haben würden, doch irgendwie gaben sie dennoch nach und zogen sich aus der Transtisza-Region zurück. Noch nie war es so einfach, Territorium zu gewinnen."
  hungary_flavor_rom.7.a:0 "Ruhm für Rumänien!"
 
@@ -1326,30 +1326,30 @@
  hungary_flavor_eng.3.b:0 "Sie werden mit Gewalt befreit werden."
  hungary_flavor_eng.3.tt:0 "Ein demokratisches Regime wird versuchen, in Ungarn an die Macht zu kommen, das sich uns gerne im Krieg gegen Deutschland anschließen wird.\n"
 
- hungary_flavor_eng.4.t:0 "[Von.GetName] bittet um Frieden"
- hungary_flavor_eng.4.d:0 "Wir haben die Aktionen von [Von.GetName] so sehr verurteilt, dass wir zu den Waffen griffen, um sie zu stoppen. Jetzt haben sie erreicht, was sie vorhatten, und wollen einen Friedensvertrag aushandeln. Sie würden alles Land behalten, das ihnen im Vertrag von Trianon weggenommen wurde, und die Feindseligkeiten würden eingestellt werden. Was ist unsere Antwort?"
+ hungary_flavor_eng.4.t:0 "[From.GetName] bittet um Frieden"
+ hungary_flavor_eng.4.d:0 "Wir haben die Aktionen von [From.GetName] so sehr verurteilt, dass wir zu den Waffen griffen, um sie zu stoppen. Jetzt haben sie erreicht, was sie vorhatten, und wollen einen Friedensvertrag aushandeln. Sie würden alles Land behalten, das ihnen im Vertrag von Trianon weggenommen wurde, und die Feindseligkeiten würden eingestellt werden. Was ist unsere Antwort?"
  hungary_flavor_eng.4.a:0 "Na gut. Wir müssen uns um andere Dinge kümmern."
  hungary_flavor_eng.4.b:0 "Wir werden ihnen das nicht durchgehen lassen."
 
  hungary_flavor_eng.5.t:0 "[From.GetName] bietet seine Hilfe gegen Rumänien an"
- hungary_flavor_eng.5.d:0 "Nach der Kriegserklärung Rumäniens sind Diplomaten von [From.GetAdjective] mit einem Vorschlag an uns herangetreten. [Von.GetName] ist bereit, Rumänien den Krieg zu erklären, wenn wir versprechen, dass sie am Ende des Krieges Siebenbürgen zurückbekommen. Einen aktiven Verbündeten in der Region zu haben, der Rumänien auf Trab hält, könnte sicherlich von Vorteil sein, aber das würde bedeuten, dass wir uns zum [From.GetAdjective]-Revisionismus bekennen."
+ hungary_flavor_eng.5.d:0 "Nach der Kriegserklärung Rumäniens sind Diplomaten von [From.GetAdjective] mit einem Vorschlag an uns herangetreten. [From.GetName] ist bereit, Rumänien den Krieg zu erklären, wenn wir versprechen, dass sie am Ende des Krieges Siebenbürgen zurückbekommen. Einen aktiven Verbündeten in der Region zu haben, der Rumänien auf Trab hält, könnte sicherlich von Vorteil sein, aber das würde bedeuten, dass wir uns zum [From.GetAdjective]-Revisionismus bekennen."
  hungary_flavor_eng.5.a:0 "Wir können jede Hilfe gebrauchen, die wir bekommen können."
  hungary_flavor_eng.5.b:0 "Wir werden keine Pakte mit dem Teufel schließen."
 
  yugoslavia.5.c:0 "Bitten Sie unsere Verbündeten um Hilfe."
 
  hungary_flavor_yug.1.t:0 "Ewige Freundschaft mit [From.GetName]"
- hungary_flavor_yug.1.d:0 "[Von.GetName] erhebt zwar immer noch territoriale Ansprüche auf ihre ehemaligen Gebiete in unserem Besitz, hat aber begonnen, Diplomaten und Botschafter zu entsenden, um die Beziehungen zwischen unseren Ländern zu regeln. Sie schlagen ein Abkommen über "Ewige Freundschaft" vor, das unsere Länder zu nichts verpflichten würde, aber es würde bedeuten, dass die feindlichen Beziehungen zwischen den beiden Nationen für immer beendet wären. Dieses Abkommen könnte in der Folge zu weiteren Beziehungen mit [Von.GetName] führen, wenn wir ihm zustimmen."
+ hungary_flavor_yug.1.d:0 "[From.GetName] erhebt zwar immer noch territoriale Ansprüche auf ihre ehemaligen Gebiete in unserem Besitz, hat aber begonnen, Diplomaten und Botschafter zu entsenden, um die Beziehungen zwischen unseren Ländern zu regeln. Sie schlagen ein Abkommen über "Ewige Freundschaft" vor, das unsere Länder zu nichts verpflichten würde, aber es würde bedeuten, dass die feindlichen Beziehungen zwischen den beiden Nationen für immer beendet wären. Dieses Abkommen könnte in der Folge zu weiteren Beziehungen mit [From.GetName] führen, wenn wir ihm zustimmen."
  hungary_flavor_yug.1.a:0 "Dann ist es Freundschaft."
  hungary_flavor_yug.1.b:0 "Niemals."
 
- hungary_flavor_yug.2.t:0 "Territoriale Verhandlungen mit [Von.GetName]"
- hungary_flavor_yug.2.d:0 "Nachdem wir uns im Vertrag der ewigen Freundschaft für eine Zusammenarbeit mit [Von.GetName] entschieden haben, haben sie eine Regelung der territorialen Streitigkeiten vorgeschlagen. Die Provinz Novi Sad ist größtenteils von Ungarn besiedelt, und sie wollen, dass wir sie ihnen als Gegenleistung für künftige Gefallen überlassen. Wir könnten davon profitieren, denn ein starker Verbündeter könnte uns in einem möglichen Konflikt in naher Zukunft helfen."
+ hungary_flavor_yug.2.t:0 "Territoriale Verhandlungen mit [From.GetName]"
+ hungary_flavor_yug.2.d:0 "Nachdem wir uns im Vertrag der ewigen Freundschaft für eine Zusammenarbeit mit [From.GetName] entschieden haben, haben sie eine Regelung der territorialen Streitigkeiten vorgeschlagen. Die Provinz Novi Sad ist größtenteils von Ungarn besiedelt, und sie wollen, dass wir sie ihnen als Gegenleistung für künftige Gefallen überlassen. Wir könnten davon profitieren, denn ein starker Verbündeter könnte uns in einem möglichen Konflikt in naher Zukunft helfen."
  hungary_flavor_yug.2.a:0 "Wir werden es abtreten, als Zeichen der Freundschaft."
  hungary_flavor_yug.2.b:0 "Das ist eine Grenze, die wir nicht überschreiten können."
 
- hungary_flavor_yug.3.t:0 "Bündnis mit [Von.GetName]"
- hungary_flavor_yug.3.d:0 "Der Vertrag der ewigen Freundschaft zwischen [Von.GetName] und Jugoslawien ist zwar ein Beweis für gute Beziehungen, aber nichts weiter als ein leeres Abkommen. Um unsere Beziehungen weiter zu stärken, hat [Von.GetName] ein richtiges Bündnis vorgeschlagen und uns in seine Fraktion eingeladen."
+ hungary_flavor_yug.3.t:0 "Bündnis mit [From.GetName]"
+ hungary_flavor_yug.3.d:0 "Der Vertrag der ewigen Freundschaft zwischen [From.GetName] und Jugoslawien ist zwar ein Beweis für gute Beziehungen, aber nichts weiter als ein leeres Abkommen. Um unsere Beziehungen weiter zu stärken, hat [From.GetName] ein richtiges Bündnis vorgeschlagen und uns in seine Fraktion eingeladen."
  hungary_flavor_yug.3.a:0 "Eine engere Zusammenarbeit liegt in unserem gemeinsamen Interesse."
  hungary_flavor_yug.3.b:0 "Wir werden uns zurückhalten."
 
@@ -1380,23 +1380,23 @@
  hungary_flavor_yug.8.d:0 "Unsere Verbündeten stehen zu uns! Wir werden der deutschen Invasion nicht allein entgegentreten. Slowenien gehört uns und wird es immer bleiben!"
  hungary_flavor_yug.8.a:0 "Wir müssen uns noch vorbereiten, um uns zu verteidigen."
 
- hungary_flavor_yug.9.t:0 "[Von.GetName] lässt uns im Stich"
+ hungary_flavor_yug.9.t:0 "[From.GetName] lässt uns im Stich"
  hungary_flavor_yug.9.d:0 "Unsere Fraktion hat das Bündnis, das wir hatten, entehrt. Wir haben jedoch keine Zeit, uns mit dieser unehrenhaften Tat zu befassen, denn wir müssen entscheiden, wie wir mit den deutschen Forderungen umgehen wollen. Werden wir uns ihrem Willen beugen und Slowenien ausliefern, oder werden wir versuchen, uns zu wehren, und hoffen, dass wir durchhalten können, bis Deutschland an die Großmächte um es herum fällt?"
  hungary_flavor_yug.9.a:0 "Wir haben keine andere Wahl, als uns zu fügen."
  hungary_flavor_yug.9.b:0 "Wir werden stehen und kämpfen, auch wenn wir allein sind!"
 
- hungary_flavor_tur.1.t:0 "Bündnis mit [Von.GetName]"
- hungary_flavor_tur.1.d:0 "[Von.GetName] baut ein neues Bündnis auf, um zu versuchen, die Fehler der Friedensverträge des Großen Krieges zu korrigieren. Da wir damals Verbündete waren, könnte es sich als vorteilhaft erweisen, sich ihnen anzuschließen, da wir so vielleicht auch etwas Land zurückgewinnen können."
+ hungary_flavor_tur.1.t:0 "Bündnis mit [From.GetName]"
+ hungary_flavor_tur.1.d:0 "[From.GetName] baut ein neues Bündnis auf, um zu versuchen, die Fehler der Friedensverträge des Großen Krieges zu korrigieren. Da wir damals Verbündete waren, könnte es sich als vorteilhaft erweisen, sich ihnen anzuschließen, da wir so vielleicht auch etwas Land zurückgewinnen können."
  hungary_flavor_tur.1.a:0 "Auf den Sieg mit [From.GetName]!"
  hungary_flavor_tur.1.b:0 "Wir werden nicht noch einmal auf der Verliererseite stehen."
 
- hungary_flavor_tur.2.t:0 "Truppenaustausch mit [Von.GetName]"
- hungary_flavor_tur.2.d:0 "[Von.GetName], unser neuer Verbündeter, hat vorgeschlagen, dass wir die Freundschaft zwischen unseren Ländern durch einen Truppenaustausch zwischen unseren Armeen ausbauen. Wir würden eine kleine Anzahl ihrer Truppen erhalten und ihnen im Gegenzug einige unserer eigenen schicken. Werden wir diesem Vorschlag zustimmen, oder ist es zu riskant, das Leben unserer Männer für die Freundschaft von [Von.GetName] aufs Spiel zu setzen?"
+ hungary_flavor_tur.2.t:0 "Truppenaustausch mit [From.GetName]"
+ hungary_flavor_tur.2.d:0 "[From.GetName], unser neuer Verbündeter, hat vorgeschlagen, dass wir die Freundschaft zwischen unseren Ländern durch einen Truppenaustausch zwischen unseren Armeen ausbauen. Wir würden eine kleine Anzahl ihrer Truppen erhalten und ihnen im Gegenzug einige unserer eigenen schicken. Werden wir diesem Vorschlag zustimmen, oder ist es zu riskant, das Leben unserer Männer für die Freundschaft von [From.GetName] aufs Spiel zu setzen?"
  hungary_flavor_tur.2.a:0 "Ihre Brigaden werden eine willkommene Ergänzung für unsere Armee sein."
  hungary_flavor_tur.2.b:0 "Wir können nicht das Leben der Türken für ihre Sache riskieren."
- hungary_flavor_tur.2.tt:0 "Wir werden 2 Infanteriedivisionen von [Von.GetName] erhalten.\n"
+ hungary_flavor_tur.2.tt:0 "Wir werden 2 Infanteriedivisionen von [From.GetName] erhalten.\n"
 
- hungary_flavor_tur.3.t:0 "[Von.GetName] bekräftigt unsere alten Ansprüche"
+ hungary_flavor_tur.3.t:0 "[From.GetName] bekräftigt unsere alten Ansprüche"
  hungary_flavor_tur.3.d:0 "Obwohl die Tage des Osmanischen Reiches nach dem Ersten Weltkrieg zu Ende gegangen zu sein schienen, scheinen unsere neuen Verbündeten darauf bedacht zu sein, die alte europäische Ordnung wiederherzustellen. [From.GetName] unterstützt offiziell unsere Ansprüche auf einige der Mittelmeerinseln und Syrien. Dies wird sicherlich jeder künftigen Expansion in diese Richtungen mehr Legitimität verleihen."
  hungary_flavor_tur.3.a:0 "Das macht uns mit Sicherheit stärker."
 
@@ -1405,8 +1405,8 @@
  hungary_flavor_alb.1.a:0 "Ihre Sache ist gerecht, wir werden uns ihnen anschließen."
  hungary_flavor_alb.1.b:0 "Nehmt das Land stillschweigend an, aber verbündet euch nicht mit ihnen."
 
- hungary_flavor_fin.1.t:0 "Bündnis [Von.GetAdjective]"
- hungary_flavor_fin.1.d:0 "Diplomaten von [Von.GetName] haben sich mit einem Bündnisangebot an uns gewandt. Wir könnten die Hilfe gegen die Sowjets gut gebrauchen, aber ihre Streitkräfte reichen vielleicht nicht aus, um sie aufzuhalten."
+ hungary_flavor_fin.1.t:0 "Bündnis [From.GetAdjective]"
+ hungary_flavor_fin.1.d:0 "Diplomaten von [From.GetName] haben sich mit einem Bündnisangebot an uns gewandt. Wir könnten die Hilfe gegen die Sowjets gut gebrauchen, aber ihre Streitkräfte reichen vielleicht nicht aus, um sie aufzuhalten."
  hungary_flavor_fin.1.a:0 "Wir brauchen ihre Hilfe."
  hungary_flavor_fin.1.b:0 "Wir können uns gut selbst verteidigen."
 
@@ -1416,7 +1416,7 @@
  hungary_flavor_gre.1.b:0 "Ablehnen."
 
  hungary_flavor_gre.2.t:0 "[From.GetName] bestätigt unsere alten Forderungen"
- hungary_flavor_gre.2.d:0 "Unser Verdacht war richtig. [Von.GetName] unterstützt jetzt unsere territorialen Ansprüche gegenüber der Türkei und behauptet, dass sie die jahrhundertealte "Megali-Idee" verwirklichen wollen. Dies wird uns unweigerlich in einen offenen Konflikt mit der Türkei bringen, aber wir können genauso gut kooperieren, wenn wir dadurch Territorium gewinnen können."
+ hungary_flavor_gre.2.d:0 "Unser Verdacht war richtig. [From.GetName] unterstützt jetzt unsere territorialen Ansprüche gegenüber der Türkei und behauptet, dass sie die jahrhundertealte "Megali-Idee" verwirklichen wollen. Dies wird uns unweigerlich in einen offenen Konflikt mit der Türkei bringen, aber wir können genauso gut kooperieren, wenn wir dadurch Territorium gewinnen können."
  hungary_flavor_gre.2.a:0 "Das macht uns mit Sicherheit stärker."
 
  hungary_flavor_sze.1.t:0 "Krieg gegen [HUN.GetNameDef]?"
@@ -2432,7 +2432,7 @@
  hungary_flavor.183.a:0 "Alles, was wir zu verlieren haben, sind unsere Fesseln!"
 
  hungary_flavor.184.t:0 "Danubische Arbeiter im Ausland in Aufruhr"
- hungary_flavor.184.d_fighting_bonus:0 "Die dänische Bevölkerung in [From.GetNameDef] befindet sich in offener Rebellion gegen die Regierung. Der [Von.GetLeader] zeigt kein Mitgefühl für ihre Sache, sondern unterdrückt die Aufständischen und versucht, ihren Bemühungen um die Befreiung der Arbeiterklasse ein Ende zu setzen. Diese Arbeiter haben uns um Hilfe gebeten, damit wir ihnen helfen, sich von ihren Unterdrückern zu befreien und unserer Föderation beizutreten. Wenn wir helfen würden, würden sie versuchen, die [From.GetAdjective]-Armee zu sabotieren und unsere Truppen zu unterstützen."
+ hungary_flavor.184.d_fighting_bonus:0 "Die dänische Bevölkerung in [From.GetNameDef] befindet sich in offener Rebellion gegen die Regierung. Der [From.GetLeader] zeigt kein Mitgefühl für ihre Sache, sondern unterdrückt die Aufständischen und versucht, ihren Bemühungen um die Befreiung der Arbeiterklasse ein Ende zu setzen. Diese Arbeiter haben uns um Hilfe gebeten, damit wir ihnen helfen, sich von ihren Unterdrückern zu befreien und unserer Föderation beizutreten. Wenn wir helfen würden, würden sie versuchen, die [From.GetAdjective]-Armee zu sabotieren und unsere Truppen zu unterstützen."
  hungary_flavor.184.d_manpower:0 "Die dänische Bevölkerung in [From.GetNameDef] befindet sich in offener Rebellion gegen die Regierung. [From.GetLeader] zeigt kein Mitgefühl für ihre Sache, sondern unterdrückt die Aufständischen und versucht, ihren Bemühungen um die Befreiung der Arbeiterklasse ein Ende zu setzen. Diese Arbeiter haben uns um Hilfe gebeten, damit wir ihnen helfen, sich von ihren Unterdrückern zu befreien und unserer Föderation beizutreten. Einige von ihnen sind in unser Land geflohen, bevor die Repressalien in [From.GetNameDef] begonnen haben, und haben sich bereit erklärt, in die Armee einzutreten, wenn wir ihnen bei der Befreiung ihrer Brüder helfen."
  hungary_flavor.184.a:0 "Wir müssen ihnen helfen, sich zu befreien!"
  hungary_flavor.184.b:0 "Sie sind auf sich selbst gestellt."

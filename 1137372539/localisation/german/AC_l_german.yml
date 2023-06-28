@@ -63,7 +63,7 @@
  AC_project_4_decision_desc:0 "[AC_GetProjectDesc4]"
 
  AC_project_4_target_decision:0 "[From.AC_GetProject4Factories]xCiv | §Y[From.AC_GetConstructionTypeProject4]§!  x[From.AC_GetProject4Amount] in [From.AC_GetProjectState4]"
- AC_project_4_target_decision_desc:0 "\nCountry: [From.GetName]\nZugeordnete Fabriken: [From.AC_GetProject4Factories]\nBuild Queue: [Von.AC_GetProject4Amount]\n\nDurch Auswahl dieser Entscheidung wird das Bauprojekt abgebrochen.\n\nRechtsklick, um den Zielzustand anzuzeigen."
+ AC_project_4_target_decision_desc:0 "\nCountry: [From.GetName]\nZugeordnete Fabriken: [From.AC_GetProject4Factories]\nBuild Queue: [From.AC_GetProject4Amount]\n\nDurch Auswahl dieser Entscheidung wird das Bauprojekt abgebrochen.\n\nRechtsklick, um den Zielzustand anzuzeigen."
 
  AC_construction_INF:0 "Infrastruktur\n\n§YPolitische Energiekosten pro Gebäude:§! §R5§!"
  AC_construction_AIR:0 "LuftwaffenstützpunktPolitische Energiekosten pro Gebäude:§! §R5§!"
