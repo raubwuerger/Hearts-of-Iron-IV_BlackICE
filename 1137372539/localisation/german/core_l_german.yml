@@ -869,7 +869,7 @@
  NO_ORG_GAIN_IN_COMBAT:0 "Es gibt keinen Organisationsgewinn während eines Kampfes."
  NO_ORG_GAIN_IN_NAVAL_INVASION:0 "Es gibt keinen Organisationsgewinn während einer Seeinvasion."
  ORG_OVER_SUPPLY_SOFT_CAP:0 "Die Organisation ist über dem Soft-Cap von $CAP|Y$, die Organisation wird jede Stunde um $LOSS|R$ reduziert."
- MAX_EXPERIENCE_TEXT:0 """ #Erfahrung ist auf $VAL|Y0$ gedeckelt."
+ MAX_EXPERIENCE_TEXT:0 " #Erfahrung ist auf $VAL|Y0$ gedeckelt."
  acquire_intel:0 "Erwerben Sie Intel"
  acquire_intel_desc:0 "$SPY|H$ versucht, Informationen in $TARGET|Y$ zu beschaffen."
  acquire_intel_general_desc:0 "Der Spion konzentriert sich auf das Sammeln von Informationen über das Land. Er wird militärische Truppen finden, die er sonst nicht gesehen hätte."
