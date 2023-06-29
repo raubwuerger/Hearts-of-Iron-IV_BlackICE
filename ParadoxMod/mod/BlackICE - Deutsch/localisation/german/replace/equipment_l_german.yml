@@ -24,11 +24,14 @@ POL_handheld_at_equipment_0:9 "Panzerabwehrgewehr wz.35 "Uruguay".  POL_handheld
 POL_SMG_equipment_0:9 "Thompson wz. 28"
 POL_SMG_equipment_0_short:9 "Thompson wz. 28"
 POL_SMG_equipment_0_desc:9 "Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt auf Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen zugunsten von Feuerkraft im Nahbereich opfern. "
-POL_SMG_equipment_1:9 "Maschinenpistole Modell 39.  POL_SMG_Ausrüstung_1_kurz:9 "Pm wz. 39"
+POL_SMG_equipment_1:9 "Maschinenpistole Modell 39."
+POL_SMG_Ausrüstung_1_kurz:9 "Pm wz. 39"
 POL_SMG_equipment_1_desc:9 "Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-POL_SMG_equipment_2:9 "Maschinengewehr \n-"STEN".  POL_SMG_Ausrüstung_2_kurz:9 "Pm STEN"
+POL_SMG_equipment_2:9 "Maschinengewehr \n-"STEN".  
+POL_SMG_Ausrüstung_2_kurz:9 "Pm STEN"
 POL_SMG_equipment_2_desc:9 "Mit SMG ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-POL_SMG_equipment_3:9 "Maschinenpistole \"Lightning".  POL_SMG_Ausrüstung_3_kurz:9 "Pm Blyskawica"
+POL_SMG_equipment_3:9 "Maschinenpistole \"Lightning\"".  
+POL_SMG_Ausrüstung_3_kurz:9 "Pm Blyskawica"
 POL_SMG_equipment_3_desc:9 "Mit SMG ausgerüstete Infanterieeinheiten mit Fokus auf den Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 
 POL_assault_rifle_equipment_0:9 "Sturmgewehr Lightning II"

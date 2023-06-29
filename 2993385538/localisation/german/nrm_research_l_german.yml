@@ -76,7 +76,7 @@
  advanced_hangar_desc:0 "Durch die Kombination der Merkmale eines offenen Hangardecks mit einem zusätzlichen gepanzerten Flugdeck können wir eine Konstruktion entwickeln, die einige der Vorteile von beiden bietet. Diese Art von Konstruktion ist nur für größere Träger geeignet."
 
  super_heavy_armor_plates:0 "Herstellung superschwerer Panzerung"
- super_heavy_armor_plates_desc:0 "Die Herstellung von Panzerung für Schlachtschiffe ab einer bestimmten Stärke erfordert noch mehr spezialisierte Anlagen und Verfahren. \Schaltet ~400mm, ~425mm und ~450mm Gürtelpanzerung frei."
+ super_heavy_armor_plates_desc:0 "Die Herstellung von Panzerung für Schlachtschiffe ab einer bestimmten Stärke erfordert noch mehr spezialisierte Anlagen und Verfahren. \nchaltet ~400mm, ~425mm und ~450mm Gürtelpanzerung frei."
  super_heavy_armor_plates_2:0 "Überschwere Panzerungsproduktion (Fortgeschritten)"
  basic_carrier_armor_scheme:0 "Verbessertes Trägerpanzerungsschema"
  basic_carrier_armor_scheme_desc:0 "Ein Panzerungsschema, das die Aufteilung zwischen Gürtel- und Deckspanzerung der Großkampfschiffe kopiert und einen gewissen Schutz gegen Splitter und Kleinkaliberwaffen bietet."

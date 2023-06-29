@@ -17,7 +17,7 @@
 
  EAI_config_target_modified_DECISIONS:0 "Modifizierte Länder"
  EAI_config_target_modified_DECISIONS_desc:0 "Diese Länder haben aktive Schwierigkeitseinstellungen."
- EAI_config_target_modified_DECISION:0 "[Von.GetName]"
+ EAI_config_target_modified_DECISION:0 "[From.GetName]"
 
  EAI_AVOID_BORDERS_DIPLOMACY_TITLE:0 "Truppen an unseren Grenzen verweigern"
  EAI_AVOID_BORDERS_DIPLOMACY_ACTION_TITLE:0 "Truppen an unseren Grenzen verweigern"
@@ -46,7 +46,7 @@
  EAI_diplomacy_stop_all_invasions_DECISION_desc:0 "Weist Ihre Verbündeten an, alle ihre Seeinvasionen zu stoppen."
  EAI_diplomacy_cancel_stop_all_invasions_DECISION:0 "Alliierte Invasionen zulassen"
  EAI_diplomacy_cancel_stop_all_invasions_DECISION_desc:0 "Erlaubt Ihren Verbündeten, Seeinvasionen durchzuführen."
- EAI_diplomacy_naval_invasion_target_DECISION:0 "Seeinvasionen gegen [Von.GetName] starten"
+ EAI_diplomacy_naval_invasion_target_DECISION:0 "Seeinvasionen gegen [From.GetName] starten"
  EAI_diplomacy_naval_invasion_target_DECISION_desc:0 "Ihre Verbündeten werden versuchen, dieses Land in den nächsten 6 Monaten zu erobern, wenn möglich."
  EAI_diplomacy_cancel_naval_invasion_target_DECISION:0 "Koordinierte Seeinvasion abbrechen"
  EAI_diplomacy_cancel_naval_invasion_target_DECISION_desc:0 "Bricht das aktuelle Ziel der Seeinvasion ab."
@@ -616,7 +616,7 @@
  EAI_DM_AA.10004.o1:0 "Ich sehe."
 
  EAI_DM_AA.10013.t:0 "[From.GetName] gibt eine Warnung aus"
- EAI_DM_AA.10013.d:0 "Der Anführer von [Von.GetNameDef], [Von.GetLeader], hat folgende Warnung an [Root.GetNameDef] ausgesprochen: Sollte [Root.GetNameDef] seinen Angriffskrieg bis an die Grenzen von [Von.GetNameDef] führen, wird dies als ernsthafte Bedrohung für das Volk von [Von.GetAdjective] angesehen, so dass [Von.GetNameDef] keine andere Wahl hat, als Verbündete zu suchen."
+ EAI_DM_AA.10013.d:0 "Der Anführer von [From.GetNameDef], [From.GetLeader], hat folgende Warnung an [Root.GetNameDef] ausgesprochen: Sollte [Root.GetNameDef] seinen Angriffskrieg bis an die Grenzen von [From.GetNameDef] führen, wird dies als ernsthafte Bedrohung für das Volk von [From.GetAdjective] angesehen, so dass [From.GetNameDef] keine andere Wahl hat, als Verbündete zu suchen."
  EAI_DM_AA.10013.o1:0 "Ich verstehe."
 
  EAI_DM_AA.10011.t:0 "[EAI_illegal_wargoal_invader.GetName] macht einen Rückzieher"
@@ -635,10 +635,10 @@
  EAI_DM.58.o2:0 "Behalten Sie es unter unserer strengen Verwaltung."
 
  EAI_DM.1000.t:0 "Experte AI"
- EAI_DM.1000.d:0 "[Von.GetName] rechtfertigt ein Kriegsziel gegen [Root.GetName] (25 Tage)."
+ EAI_DM.1000.d:0 "[From.GetName] rechtfertigt ein Kriegsziel gegen [Root.GetName] (25 Tage)."
 
  EAI.4.t:0 "Experten-KI"
- EAI.4.d:0 "Der Spieler, der [Von.GetNameDef] kontrolliert, hat das Konfigurationsereignis "Experten-KI" geöffnet."
+ EAI.4.d:0 "Der Spieler, der [From.GetNameDef] kontrolliert, hat das Konfigurationsereignis "Experten-KI" geöffnet."
 
  EAI.3.t:0 "Experten-KI"
  EAI.3.d:0 "Dies scheint ein Multiplayer-Spiel zu sein. Nur ein Spieler kann die Starteinstellungen konfigurieren. Du kannst jedoch wählen, ob du allen Spielern erlaubst, das erweiterte Konfigurationsfenster später im Spiel zu öffnen, oder ob du es nur auf dich selbst beschränken willst. Jedes Mal, wenn das Konfigurationsfenster geöffnet wird, wird jeder Spieler im Spiel benachrichtigt.\n\nWollen Sie in dieser Sitzung die Starteinstellungen der Experten-KI konfigurieren?"
