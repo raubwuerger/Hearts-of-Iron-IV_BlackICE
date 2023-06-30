@@ -38,7 +38,7 @@
  man.15.d:0 "[From.GetName] hat es abgelehnt, unsere Unabhängigkeit zu unterstützen. Sie erklärten, dass sie kein Interesse an der Vereinbarung hätten."
  man.15.a:0 "Wir müssen einen anderen Weg suchen."
  man.16.t:0 "[From.GetLeader] ruft zum Handeln auf"
- man.16.d:0 "Nachdem [From.GetName] erfolgreich die Demokratie in [From.GetName] eingeführt hat, ruft [From.GetLeader] uns nun dazu auf, die Japaner anzugreifen, um sie in die Freiheit zu führen."
+ man.16.d:0 "Nachdem erfolgreich die Demokratie in [From.GetName] eingeführt hat, ruft [From.GetLeader] uns nun dazu auf, die Japaner anzugreifen, um sie in die Freiheit zu führen."
  man.16.a:0 "Wenn nur die Diplomatie nicht funktioniert, dann werden wir zum Krieg greifen."
  man.16.b:0 "Wir haben bereits einen Plan im Kopf, sagt ihnen, sie sollen sich gedulden."
  man.16.c:0 "Lasst die Sonne untergehen!"
@@ -170,7 +170,7 @@
  man.59.d:0 "Abgesehen davon, dass er unser Angebot abgelehnt hat, hat sich [From.GetName] auch von unserer Oberherrschaft losgesagt."
  man.59.a:0 "Wie können sie es wagen!"
  man.60.t:0 "[From.GetName] annektiert"
- man.60.d:0 "Im Wissen, dass dies zum Wohle des [From.GetNameADJ] und des [Wurzel.GetNameADJ]-Volkes ist, hat [From.GetName] zugestimmt, dass [From.GetName] Teil von [Wurzel.GetNameDEF] wird."
+ man.60.d:0 "Im Wissen, dass dies zum Wohle des [From.GetNameADJ] und des [Root.GetNameADJ]-Volkes ist, hat [From.GetName] zugestimmt, dass [From.GetName] Teil von [Root.GetNameDEF] wird."
  man.60.a:0 "Ein glorreicher Tag."
  ## news ## ""
 

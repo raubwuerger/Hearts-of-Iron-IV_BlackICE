@@ -3158,7 +3158,7 @@
  increase_cost_warning:0 "Dies wird die Kosten der betroffenen Einheiten erhöhen.§!\n"
 
  terrain_attack_TT:0   "      Angriff: [GetTerrainAttackModifierPrefix][?attack|1+%]\n"
- terrain_defence_TT:0  "      Verteidigung: [GetTerrainVerteidigungModifikatorPräfix][?Verteidigung|1+%]\n"
+ terrain_defence_TT:0  "      Verteidigung: [GetTerrainDefenceModifierPrefix][?defence|1+%]\n"
  terrain_movement_TT:0 "      Bewegung: [GetTerrainMovementModifierPrefix][?movement|1+%]\n"
  PLUS_G:0 "§G+§!"
  PLUS_R:0 "§R+§!"

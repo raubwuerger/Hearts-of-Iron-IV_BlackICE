@@ -510,7 +510,7 @@
  hun_news.5.b:0 "Wir dürfen den Bruch des Friedens in Europa nicht dulden."
  hun_news.5.c:0 "Wird das ausreichen, um sie aufzuhalten?"
 
- hun_news.6.t:0 "[From.Name] wird kämpfen, um die Expansion von [HUN.GetAdjective] aufzuhalten."
+ hun_news.6.t:0 "[From.GetName] wird kämpfen, um die Expansion von [HUN.GetAdjective] aufzuhalten."
  hun_news.6.d:0 "[From.GetLeader] hat sein Versprechen eingelöst, der Aggressivität von [HUN.GetAdjective] entgegenzutreten. [From.GetName] befindet sich jetzt im Krieg mit [HUN.GetName]."
  hun_news.6.a:0 "Wir werden sie mit Maschinengewehren begrüßen."
  hun_news.6.b:0 "Zu den Waffen!"

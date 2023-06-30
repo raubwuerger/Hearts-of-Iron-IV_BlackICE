@@ -1194,7 +1194,7 @@
  baltic.5.a:0 "Den Bau fortsetzen"
  baltic.5.b:0 "Wir haben keinen Bedarf mehr für diese"
  baltic.7.t:0 "[From.GetName] Fordert [Root.GetAdjective] Teilnahme an der [From.GetFactionName]"
- baltic.7.d:0 "Mit der Unterzeichnung eines Freundschaftsvertrags zwischen unseren Nationen hat [From.GetName] darum gebeten, dass [Root.GetName] sich ihnen in ihrer [From.GetFactionName] anschließt, um sich gegen die wachsenden Bedrohungen, die unsere Nationen umgeben, zu vereinen. Ob kommunistisch oder faschistisch, [From.GetName] verspricht, sich für die Interessen von [Wurzel.GetAdjektiv] einzusetzen."
+ baltic.7.d:0 "Mit der Unterzeichnung eines Freundschaftsvertrags zwischen unseren Nationen hat [From.GetName] darum gebeten, dass [Root.GetName] sich ihnen in ihrer [From.GetFactionName] anschließt, um sich gegen die wachsenden Bedrohungen, die unsere Nationen umgeben, zu vereinen. Ob kommunistisch oder faschistisch, [From.GetName] verspricht, sich für die Interessen von [Root.GetAdjective] einzusetzen."
  baltic.7.a:0 "[Root.GetName] steht an der Seite seiner Brüder."
  baltic.7.b:0 "[Root.GetName] kann nur aus eigener Kraft überleben."
  baltic.8.t:0 "U-Boote der Kalev-Klasse fertiggestellt"
