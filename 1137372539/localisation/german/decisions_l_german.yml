@@ -740,7 +740,7 @@
  communism_loyalty_value:0 "\n\nLoyalität der [GetCommunismPartyNameAndIcon]: [?ROOT.communism_party_loyalty|G0]"
  democratic_bloc_loyalty_value:0 "\n\nLoyalität des [GetDemocraticBlocNameAndIcon]: [?ROOT.democratic_bloc_loyalty|G0]"
  agrarianism_loyalty_value:0 "\n\nLoyalität der [GetAgrarianismPartyNameAndIcon]: [?ROOT.agrarianism_party_loyalty|G0]"
- neutrality_loyalty_value:0 "\n\nLoyalität der [GetNeutralitätsParteinameUndSymbol]: [?ROOT.neutrality_party_loyalty|G0]"
+ neutrality_loyalty_value:0 "\n\nLoyalität der [GetNeutralityPartyNameAndIcon]: [?ROOT.neutrality_party_loyalty|G0]"
 
  GER_generals_faction_loyalty_value:0 "\n\nLoyalität des £iron_cross Offizierskorps: [?ROOT.GER_officer_loyalty|G0]"
  ROM_iron_guard_name_and_icon:0 "£iron_guard Legionärsbewegung"
@@ -896,7 +896,7 @@
  ROM_german_industrial_agreements_category_desc:0 "Aktuelle [GER.GetAdjective] Fabriken: [?ROM.ROM_german_industrial_investments|Y0]\nBasic Cap: [?ROM.ROM_industrial_investments_basic_cap|R0]\nComplete §YTrade Treaty With Germany§! focus to increase cap up to [?ROM.ROM_industrial_investments_medium_cap|G0].\nSchließen Sie sich dem §Y[GER.GetFactionName]§! an, um die Obergrenze auf [?ROM.ROM_industrial_investments_max_cap|G0] zu erhöhen."
  ROM_german_industrial_agreements_cap_basic_tt:0 "Aktuelle [GER.GetAdjective]-Fabriken: [?ROM.ROM_german_industrial_investments|Y0]/[?ROM.ROM_industrial_investments_basic_cap|R0].\nDer Abschluss des Fokus §YTrade Treaty With Germany§! erhöht die Cap bis zu [?ROM.ROM_industrial_investments_medium_cap|G0]."
  ROM_german_industrial_agreements_cap_approach_tt:0 "Aktuelle [GER.GetAdjective] Fabriken: [?ROM.ROM_german_industrial_investments|Y0]/[?ROM.ROM_industrial_investments_medium_cap|R0] (Hat den Fokus Handelsvertrag mit Deutschland§! abgeschlossen).\nDer Beitritt zum §Y[GER.GetFactionName]§! erhöht die Cap bis zu [?ROM.ROM_industrial_investments_max_cap|G0]."
- ROM_german_industrial_agreements_cap_faction_tt:0 "Aktuelle [GER.GetAdjective]-Fabriken: [??ROM.ROM_german_industrial_investments|Y0]/[?ROM.ROM_industrial_investments_max_cap|R0] (Ist in Fraktion mit [FROM.GetNameDef])."
+ ROM_german_industrial_agreements_cap_faction_tt:0 "Aktuelle [GER.GetAdjective]-Fabriken: [?ROM.ROM_german_industrial_investments|Y0]/[?ROM.ROM_industrial_investments_max_cap|R0] (Ist in Fraktion mit [FROM.GetNameDef])."
  ROM_french_industrial_agreements_category_value:0 "[?ROM.ROM_french_industrial_investments|Y0]"
  ROM_french_industrial_agreements_category_desc:0 "Aktuelle [FRA.GetAdjective] Fabriken: [?ROM.ROM_french_industrial_investments|Y0]\nBasic Cap: [?ROM.ROM_industrial_investments_basic_cap|R0]\nComplete §YForeign-Built Army§! focus to increase cap up to [?ROM.ROM_industrial_investments_medium_cap|G0].\nSchließe §Y[ENG.GetFactionName]§! ab, um die Cap auf [?ROM.ROM_industrial_investments_max_cap|G0] zu erhöhen."
  ROM_french_industrial_agreements_cap_basic_tt:0 "Aktuelle [FRA.GetAdjective]-Fabriken: [?ROM.ROM_french_industrial_investments|Y0]/[?ROM.ROM_industrial_investments_basic_cap|R0].\nDer Abschluss des Fokus §YApproach the United Kingdom§! erhöht die Cap bis zu [?ROM.ROM_industrial_investments_medium_cap|G0]."

@@ -209,7 +209,7 @@
  CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Großkampfschiffe Werftkapazität§! zur Verwendung.\n\nGesamtverbrauch: §Y[?resource_consumed@shipyard_capital]§!\n\nCapital Ship Equivalents Unused: §Y[?num_capital_shipyard_free|2]§!\n---------------\nCapital Shipyard Capacity stellt die großen Anlagen und Werften dar, die für die Produktion von Capital Ships und Carriers benötigt werden."
 
 
- AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?ressource@air_production] Luftproduktionskapazität§! zur Verfügung.\n\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\n\nTotal Air Assembly Plants: [?num_air_assembly|Y0]\nKapazität pro Anlage: [Root.GetAirAssemblyPlantCapacity]\n [!air_assembly_capacity_click]\n---------------\nAir Production Capacity stellt die Anlagen zur Herstellung und Montage von Flugzeugen dar."
+ AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Luftproduktionskapazität§! zur Verfügung.\n\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\n\nTotal Air Assembly Plants: [?num_air_assembly|Y0]\nKapazität pro Anlage: [Root.GetAirAssemblyPlantCapacity]\n [!air_assembly_capacity_click]\n---------------\nAir Production Capacity stellt die Anlagen zur Herstellung und Montage von Flugzeugen dar."
  TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verwendung.\n\nGesamtverbrauch: §Y[?resource_consumed@tank_production]§!\n\n\nTotal Tank Assembly Plants: [?num_tank_assembly|Y0]\nKapazität pro Werk: [Root.GetTankAssemblyPlantCapacity]\n [!tank_assembly_capacity_click]\n---------------\nTank Production Capacity stellt die Anlagen zur Herstellung und Montage von gepanzerten Fahrzeugen wie Panzern, gepanzerten Fahrzeugen und mechanisierten Fahrzeugen dar."
 
 
@@ -551,24 +551,24 @@
 
  SPECIAL_FORCES_COMP:0 "\nUnsere §YSpecial Forces§! bestehen aus:\n"
  SPECIAL_FORCES_MOUNTAINEER:0 "- [?num_battalions_with_type@mountaineers|Y0] Gebirgsjägerbataillone (Gewicht: [?weight|R1])\n"
- SPECIAL_FORCES_SS_MOUNTAINEER:0 "- [?num_battalions_with_type@ss_mountaineers|Y0] SS Gebirgsjägerbataillone (Gewicht: [?Gewicht|R1])\n"
- SPECIAL_FORCES_GURKHA:0 "- [?num_battalions_with_type@gurkha|Y0] Gurkha-Bataillone (Gewicht: [?Gewicht|R1])\n"
- SPECIAL_FORCES_MARINES:0 "- [?num_battalions_with_type@marine|Y0] Marinebataillone (Gewicht:[?Gewicht|R1])\n"
- SPECIAL_FORCES_MARINES_ASSAULT:0 "- [?num_battalions_with_type@marine_assault|Y0] Angriffsmarinebataillone (Gewicht:[?Gewicht|R1])\n"
+ SPECIAL_FORCES_SS_MOUNTAINEER:0 "- [?num_battalions_with_type@ss_mountaineers|Y0] SS Gebirgsjägerbataillone (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_GURKHA:0 "- [?num_battalions_with_type@gurkha|Y0] Gurkha-Bataillone (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_MARINES:0 "- [?num_battalions_with_type@marine|Y0] Marinebataillone (Gewicht:[?weight|R1])\n"
+ SPECIAL_FORCES_MARINES_ASSAULT:0 "- [?num_battalions_with_type@marine_assault|Y0] Angriffsmarinebataillone (Gewicht:[?weight|R1])\n"
 
- SPECIAL_FORCES_AMPH_MECH:0 "- [?num_battalions_with_type@amphibious_mechanized|Y0] Amtrac-Bataillone (Gewicht: [?Gewicht|R1])\n"
- SPECIAL_FORCES_AMPH_MECH_ASSAULT:0 "- [?num_battalions_with_type@amphibious_mechanized_assault|Y0] Angriffs-Amtrac-Bataillone (Gewicht: [?Gewicht|R1])\n"
+ SPECIAL_FORCES_AMPH_MECH:0 "- [?num_battalions_with_type@amphibious_mechanized|Y0] Amtrac-Bataillone (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_AMPH_MECH_ASSAULT:0 "- [?num_battalions_with_type@amphibious_mechanized_assault|Y0] Angriffs-Amtrac-Bataillone (Gewicht: [?weight|R1])\n"
 
- SPECIAL_FORCES_AMPH_MECH_US:0 "- [?num_battalions_with_type@american_amph_lv|Y0] LVT-Bataillone (Gewicht: [?Gewicht|R1])\n"
- SPECIAL_FORCES_AMPH_MECH_ASSAULT_US:0 "- [?num_battalions_with_type@american_amph_lv_assault|Y0] Angriffs-LVT-Bataillone (Gewicht: [?Gewicht|R1])\n"
- SPECIAL_FORCES_PARATROOPER:0 "- [?num_battalions_with_type@paratrooper|Y0] Fallschirmjägerbataillone (Gewicht: [?Gewicht|R1])\n"
- SPECIAL_FORCES_PARA_TANK:0 "- [?num_battalions_with_type@trm_para_airborne_armor|Y0] $trm_para_airborne_armor$ Bataillone (Gewicht: [?Gewicht|R1])\n"
- SPECIAL_FORCES_COMMANDO:0 "- [?num_battalions_with_type@commando|Y0] Kommando-Bataillone (Gewicht: [?Gewicht|R1])\n"
+ SPECIAL_FORCES_AMPH_MECH_US:0 "- [?num_battalions_with_type@american_amph_lv|Y0] LVT-Bataillone (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_AMPH_MECH_ASSAULT_US:0 "- [?num_battalions_with_type@american_amph_lv_assault|Y0] Angriffs-LVT-Bataillone (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_PARATROOPER:0 "- [?num_battalions_with_type@paratrooper|Y0] Fallschirmjägerbataillone (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_PARA_TANK:0 "- [?num_battalions_with_type@trm_para_airborne_armor|Y0] $trm_para_airborne_armor$ Bataillone (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_COMMANDO:0 "- [?num_battalions_with_type@commando|Y0] Kommando-Bataillone (Gewicht: [?weight|R1])\n"
 
- SPECIAL_FORCES_DIV_HQ_airborne:0 "- [?num_battalions_with_type@DIV_HQ_airborne|Y0] HeadQuartes Detachment [Airb.] (Gewicht: [?Gewicht|R1])\n"
- SPECIAL_FORCES_MOUNT_SUPPORT:0 "- [?num_battalions_with_type@mount_support|Y0] Bergsteiger-Unterstützung (Gewicht: [?Gewicht|R1])\n"
- SPECIAL_FORCES_AMPH_SUPPORT:0 "- [?num_battalions_with_type@amph_support|Y0] Amphibische Unterstützung (Gewicht: [?Gewicht|R1])\n"
- SPECIAL_FORCES_PARA_SUPPORT:0 "- [?num_battalions_with_type@para_support|Y0] Luftlandeunterstützung (Gewicht: [?Gewicht|R1])\n"
+ SPECIAL_FORCES_DIV_HQ_airborne:0 "- [?num_battalions_with_type@DIV_HQ_airborne|Y0] HeadQuartes Detachment [Airb.] (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_MOUNT_SUPPORT:0 "- [?num_battalions_with_type@mount_support|Y0] Bergsteiger-Unterstützung (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_AMPH_SUPPORT:0 "- [?num_battalions_with_type@amph_support|Y0] Amphibische Unterstützung (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_PARA_SUPPORT:0 "- [?num_battalions_with_type@para_support|Y0] Luftlandeunterstützung (Gewicht: [?weight|R1])\n"
  GET_NAME:0 "[This.GetName]"
  V_GET_NAME:0 "[?v.GetTokenKey]"
  V_GET_NAME_LOCALISED:0 "[?v.GetTokenLocalizedKey]"
