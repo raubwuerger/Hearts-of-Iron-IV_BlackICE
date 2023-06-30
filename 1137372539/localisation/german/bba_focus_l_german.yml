@@ -150,7 +150,7 @@
  ETH_cie_anarcho_communist:0 "[ETH.GetAdjective] Eisenbahnkollektiv"
  ETH_cie_stalinist:0 "[ETH.GetAdjective] Bahnvorstand"
  ETH_cie_fascist:0 "Ferrovie Imperiali Etiopiche"
- ETH_host_nation_name:0 "[ETH.Host_nation.GetNameWithFlag]"
+ ETH_host_nation_name:0 "[?ETH.host_nation.GetNameWithFlag]"
  ETH_host_nation_fallback_name:0 "Die Gastgebernation"
  ETH_second_italo_ethiopian_war_flag:0 "Der Zweite Italo-Ethiopische Krieg"
 
@@ -324,7 +324,7 @@
  ETH_volunteers_desc:0 "Überall auf der Welt blicken die unterdrückten Völker auf [ETH.GetName] als Symbol der Hoffnung im Kampf gegen die überwältigende imperialistische Aggression. Jetzt haben Menschen von jenseits unserer Grenzen begonnen, sich hinter [ETH.GetAdjective]-Bannern zu versammeln, um an unserer Seite zu kämpfen. Es scheint, dass es immer noch Menschen gibt, die nicht wollen, dass der Traum von Freiheit durch die Launen von [ITA.GetLeader] ausgelöscht wird."
  ETH_fait_accompli:0 "Fait Accompli"
  ETH_fait_accompli_desc:0 "Während viele annahmen, dass [ETH.GetName] zu einer Fußnote in der Geschichte des Kolonialismus werden würde, hat sie stattdessen die überwältigenden Chancen überwunden, indem sie nicht nur die Invasion von [ITA.GetAdjective] zurückgeschlagen, sondern [ITA.GetName] vollständig aus Ostafrika vertrieben hat. Jetzt müssen die [ITA.GetAdjective]s nur noch ihre Niederlage offiziell anerkennen."
- ETH_fait_accompli_tt:0 "§ITA.GetNameWithFlag]§! wird einen Frieden mit [ROOT.GetNameWithFlag]§! schließen und alle afrikanischen Staaten abtreten, die von [ROOT.GetNameDef] kontrolliert werden.\n "
+ ETH_fait_accompli_tt:0 "§[ITA.GetNameWithFlag]§! wird einen Frieden mit [ROOT.GetNameWithFlag]§! schließen und alle afrikanischen Staaten abtreten, die von [ROOT.GetNameDef] kontrolliert werden.\n "
  ETH_reclaiming_ethiopia:0 "Äthiopien zurückerobern"
  ETH_reclaiming_ethiopia_desc:0 "Wir bringen unsere Gastgeber allmählich dazu, [ETH.GetLeader] trotz der illegalen Besetzung durch [ITA.GetName] als den rechtmäßigen Herrscher von [ETH.GetName] anzuerkennen. Sie brauchen nur noch einen weiteren Anstoß, und wir können vielleicht endlich die lang erwartete Befreiungskampagne starten."
  ETH_reclaiming_ethiopia_not_exile_tt:0 "\nAuswirkungen, wenn keine Exilregierung:"

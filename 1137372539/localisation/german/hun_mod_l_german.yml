@@ -510,7 +510,7 @@
  hun_news.5.b:0 "Wir dürfen den Bruch des Friedens in Europa nicht dulden."
  hun_news.5.c:0 "Wird das ausreichen, um sie aufzuhalten?"
 
- hun_news.6.t:0 "[From.GetName] wird kämpfen, um die Expansion von [HUN.GetAdjective] aufzuhalten."
+ hun_news.6.t:0 "[From.Name] wird kämpfen, um die Expansion von [HUN.GetAdjective] aufzuhalten."
  hun_news.6.d:0 "[From.GetLeader] hat sein Versprechen eingelöst, der Aggressivität von [HUN.GetAdjective] entgegenzutreten. [From.GetName] befindet sich jetzt im Krieg mit [HUN.GetName]."
  hun_news.6.a:0 "Wir werden sie mit Maschinengewehren begrüßen."
  hun_news.6.b:0 "Zu den Waffen!"
@@ -1619,7 +1619,8 @@
  hungary_flavor_partition.27.b:0 "Serbien überlassen"
 
  hungary_flavor_partition.28.t:0 "Ungarn bedroht Jugoslawien"
- hungary_flavor_partition.28.d:0 "Unsere Diplomaten und Geheimdienstler haben berichtet, dass [HUN.GetNameDef] aktiv auf eine Konfrontation mit Jugoslawien drängt. Was auch immer ihre Ansprüche gegenüber Jugoslawien sind, sie wollen sie durchsetzen. Wir werden entscheiden müssen, wie ernst wir diese Nachricht nehmen, aber wir tun gut daran, uns vorzubereiten." hungary_flavor_partition.28.a:0 "Jugoslawien ist ein Staat der Sowjetunion."
+ hungary_flavor_partition.28.d:0 "Unsere Diplomaten und Geheimdienstler haben berichtet, dass [HUN.GetNameDef] aktiv auf eine Konfrontation mit Jugoslawien drängt. Was auch immer ihre Ansprüche gegenüber Jugoslawien sind, sie wollen sie durchsetzen. Wir werden entscheiden müssen, wie ernst wir diese Nachricht nehmen, aber wir tun gut daran, uns vorzubereiten."
+ hungary_flavor_partition.28.a:0 "Jugoslawien ist ein Staat der Sowjetunion."
  hungary_flavor_partition.28.b:0 "Wir haben keine Sorge für diese"
 
  hungary_flavor_fed_elections.1.t:0 "Regionalwahlen in [HUN.GetName]"
@@ -3594,7 +3595,7 @@
  HUN_war_on_fascism:0 "Krieg gegen den Faschismus"
  HUN_war_on_fascism_desc:0 "Wir sind jetzt gut vorbereitet auf den großen Krieg, der vor uns liegt. Der Krieg, um den Faschismus vom Antlitz der Erde zu tilgen."
  HUN_territorial_policy:0 "Territoriale Politik"
- HUN_territorial_policy_desc:0 "Nachdem wir das im Vertrag von Trianon verlorene Land erworben haben, müssen wir entscheiden, was wir damit tun wollen. Wenn wir wollen, dass es vollständig zu unserem Land gehört, müssen wir Schritte unternehmen, um es zu integrieren. §Ein Staat, der §Y[?HUN.hun_core_value]§! erreicht, wird uns erlauben, einen Anspruch darauf zu erheben. §Ccompliance§! ermöglicht es uns, den Kernwert zu erreichen. "
+ HUN_territorial_policy_desc:0 "Nachdem wir das im Vertrag von Trianon verlorene Land erworben haben, müssen wir entscheiden, was wir damit tun wollen. Wenn wir wollen, dass es vollständig zu unserem Land gehört, müssen wir Schritte unternehmen, um es zu integrieren. Ein Staat, der §Y[?HUN.hun_claim_value]§! erreicht, wird uns erlauben, einen Anspruch darauf zu erheben. Ein Staat welcher §Y[?HUN.hun_core_value]§! erreicht §Cermöglicht§! es uns, es zu unserer Kernprovinz zu machen. "
  HUN_integration_focus:0 "Schwerpunkt Integration"
  HUN_integration_focus_desc:0 "Um die Bevölkerung in den neu erworbenen Gebieten zu assimilieren, müssen wir sie zur Kooperation bewegen, sonst werden sie sich nie als Teil von uns fühlen. Friedliche Integration ist der richtige Weg."
  HUN_transyl:0 "Entfesseln Sie Transsilvanien"

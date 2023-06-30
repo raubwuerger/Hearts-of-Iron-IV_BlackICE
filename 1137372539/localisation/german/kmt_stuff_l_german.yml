@@ -168,7 +168,7 @@
  KMT_cadet_in_GER_mobile_warfare:0 "Armee-Kadett nach [GER.GetName] schicken"
  KMT_cadet_in_GER_mobile_warfare_recall:0 "Kadett in [GER.GetName] zurückrufen"
  KMT_cadet_in_GER_superior_firepower:0 "Heereskadett nach [GER.GetName] schicken"
- KMT_cadet_in_GER_superior_firepower_recall:0 "Kadett in [GER.GetName] zurückrufen Kadett in [GER.GetName]"
+ KMT_cadet_in_GER_superior_firepower_recall:0 "Kadett in [GER.GetName] zurückrufen"
  KMT_cadet_in_GER_grand_battleplan:0 "Heereskadett senden an [GER.GetName]"
  KMT_cadet_in_GER_grand_battleplan_recall:0 "Kadett abrufen in [GER.GetName]"
  KMT_cadet_in_GER_mass_assault:0 "Heereskadett senden an [GER.GetName]"

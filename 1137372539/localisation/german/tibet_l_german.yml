@@ -124,7 +124,7 @@
  himalaya_tibet.15.b:0 "Versuchen Sie zu verhandeln."
  himalaya_tibet.15.c:0 "Wählen Sie stattdessen den Kandidaten von Yabshi Phawpön!"
 
- himalaya_tibet.16.t:0 "Ein Bündnis mit [WTT_aktuelles_china_leader.GetNameDef]?"
+ himalaya_tibet.16.t:0 "Ein Bündnis mit [WTT_current_china_leader.GetNameDef]?"
  himalaya_tibet.16.desc:0 "Die Situation ist schwierig. Der Junge, den wir für den Dalai Lama halten, wird als Geisel gehalten, und wir könnten gezwungen sein, einem chinesischen Bündnis beizutreten."
  himalaya_tibet.16.a:0 "Das ist immer noch besser als eine chinesische Invasion!"
  himalaya_tibet.16.b:0 "Zugeständnisse machen, aber ein Militärbündnis vermeiden"
@@ -200,7 +200,7 @@
  himalaya_tibet.33.a:0 "Es ist richtig und angemessen für uns, ihn zu ehren"
  himalaya_tibet.33.b:0 "Verbietet alle Feiern und das Gerede über Götter"
  himalaya_tibet.34.t:0 "Abgesandte von [FROM.GetName] sind eingetroffen"
- himalaya_tibet.34.desc:0 "Mönche aus [From.GetName] sind eingetroffen und bringen Geschenke für den Dalai Lama"
+ himalaya_tibet.34.desc:0 "Mönche aus [FROM.GetName] sind eingetroffen und bringen Geschenke für den Dalai Lama"
  himalaya_tibet.34.a:0 "kataññ'omhi"
  himalaya_tibet.35.t:0 "Die Rückkehr des Dalai Lama"
  himalaya_tibet.35.desc:0 "Die üppige Prozession ist schon seit Tagen unterwegs. Jeden Morgen, nachdem er den Ort, an dem er geschlafen hatte, verlassen hatte, weihten die Einheimischen den Raum als Kapelle ein. Das heilige Kind reiste in einer goldenen Sänfte, begleitet von einem riesigen Gefolge und vielen Gläubigen, die sich der lebendigen Manifestation von Avalokiteshvara, dem Bodhisattva des Mitgefühls, nähern wollten. Viele unserer Bauern halten noch am buddhistischen Glauben fest und möchten einige Mönche mit einem kleinen Geschenk zum Gottkönig hoch in den Bergen schicken"

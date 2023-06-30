@@ -852,7 +852,7 @@
  prc.80.b:0 "Unterwerft Euch, bevor es zu spät ist."
  prc.80.a:0 "Wir werden nicht auf solch naive Tricks hereinfallen."
  prc.81.t:0 "[From.GetName] Unterwirft sich"
- prc.81.d:0 "Da er unserem Druck nicht länger standhalten konnte, hat [From.GetName] beschlossen, sich unserer Regierung zu unterwerfen."
+ prc.81.d:0 "Da er unserem Druck nicht länger standhalten konnte, hat [From.GetLeader] beschlossen, sich unserer Regierung zu unterwerfen."
  prc.81.a:0 "Eine weise Entscheidung."
  prc.82.t:0 "[From.GetName] Weigert sich zu unterwerfen"
  prc.82.d:0 "Trotz unseres starken Drucks und der Überredungskünste der bestochenen Beamten bleibt [From.GetLeader] standhaft. Er hat unserem Vertreter mitgeteilt, dass er sich niemals unserer tyrannischen Herrschaft unterwerfen wird."
