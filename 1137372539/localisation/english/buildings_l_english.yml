@@ -28,7 +28,7 @@
  anti_air_building_desc:0 "This building provides the state with protection from enemy bombers and ability to fire at attacking aircraft.\n\nMax Level: §Y5§!\nBuilding Health: §Y2§!\nDamage from Bombing: §G-90%§!\nState Air Defence: §G+1§!\nInfrastructure Effect: §RNo§!"
  synthetic_refinery:0 "Synthetic Refinery"
  synthetic_refinery_plural:0 "Synthetic Refineries"
- #synthetic_refinery_desc:0 "This building provides the state with +1 £resources_strip|3 and +2 £resources_strip|1."
+ #synthetic_refinery_desc:0 
  synthetic_refinery_desc:0 "This building provides the state with fuel production.\n\nMax Level: §Y4§!\nBuilding Health: §Y6§!\nInfrastructure Effect: §GYes§!"
  synthetic_refinery_amount:0 "$VALUE|Y0=$"
  synthetic_refinery_resource:0 "£resources_strip|$FRAME$"
