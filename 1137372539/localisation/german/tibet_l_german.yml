@@ -215,15 +215,15 @@
 
  apply_neames_guidelines_cost:0 "§H25§!£pol_power §H80§!£command_power"
  apply_neames_guidelines_cost_blocked:0 "§H25§!£pol_power §R80§!£command_power"
- apply_neames_guidelines_cost_tooltip:0 "Es kostet §H25§!£pol_power und 80£command_power, dies auszuwählen."
+ apply_neames_guidelines_cost_tooltip:0 "Es kostet §H25§!£pol_power und 80£command_power dies auszuwählen."
 
  professionalize_the_officers_cost:0 "§H50§!£pol_power §H80§!£command_power"
  professionalize_the_officers_cost_blocked:0 "§R50§!£pol_power §R80§!£command_power"
- professionalize_the_officers_cost_tooltip:0 "Es kostet 50£pol_power und 80£command_power, um dies auszuwählen."
+ professionalize_the_officers_cost_tooltip:0 "Es kostet 50£pol_power und 80£command_power um dies auszuwählen."
 
  revise_officers_fighting_techniques_cost:0 "§H50§!£pol_power §H80§!£command_power"
  revise_officers_fighting_techniques_cost_blocked:0 "§R50§!£pol_power §R80§!£command_power"
- revise_officers_fighting_techniques_cost_tooltip:0 "Es kostet 50£pol_power und 80£command_power, um dies zu wählen."
+ revise_officers_fighting_techniques_cost_tooltip:0 "Es kostet 50£pol_power und 80£command_power um dies zu wählen."
 
 
 

@@ -41,7 +41,7 @@
  EFFECT_EVERY_STATE_STARTS:0 "Jeder Staat"
  EFFECT_ADD_VP:0 "Addiere $WERT|H$£victory_points£ zu $PROVINZ|H$"
  EFFECT_SUBTRACT_VP:1 "Subtrahiere $VALUE|H$£victory_points£ von $PROVINCE|H$"
- EFFECT_SET_VP:0 "Setze £victory_points von $PROVINCE|H$ auf $VALUE|H$£victory_points£"
+ EFFECT_SET_VP:0 "Setze Siegespunkte von $PROVINCE|H$ auf $VALUE|H$£victory_points£"
  EFFECT_EVERY_OWNED_STATE_STARTS:0 "Jeder besessene Staat"
  EFFECT_EVERY_CONTROLLED_STATE_STARTS:0 "Jeder kontrollierte Staat"
  EFFECT_EVERY_CORE_STATE_STARTS:0 "Jeder Kernstaat"

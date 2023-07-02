@@ -1288,7 +1288,7 @@
  PRC_cost_50_cp_blocked:0 "£command_power §R50§!"
  PRC_cost_50_cp_tooltip:0 "Es kostet £command_power §H50§! um dies auszuwählen."
  PRC_cost_5_cp_and_15_pp:0 "£command_power §H5§!  £pol_power §H15§!"
- PRC_cost_5_cp_and_15_pp_blocked:0 "£Befehls_Stärke §R5§!  £pol_power §R15§!"
+ PRC_cost_5_cp_and_15_pp_blocked:0 "£command_power §R5§!  £pol_power §R15§!"
  PRC_cost_5_cp_and_15_pp_tooltip:0 "Es kostet £command_power §H5§! und £pol_power §H15§! um dies auszuwählen."
  PRC_plan_drafting_cd_tt:0 "§Y[This.GetPlanDraftingCDMissionName]§! ist nicht aktiv"
  PRC_plan_drafting_cd:0 "Bisherigen Plan auswerten"

@@ -12,7 +12,7 @@
  cat_anti_tank_research:0 "£tech_mod Panzerabwehr"
  infantry_tech_research:0 "£tech_mod Infanterie Forschung"
  night_vision_research:0 "£tech_mod Forschung zu Nachtsichtgeräten"
- cat_mechanized_equipment_research:0 "Forschung: Mechanisierte Forschung"
+ cat_mechanized_equipment_research:0 "£tech_mod Mechanisierte Forschung"
  mountaineers_tech_research:0 "£tech_mod Gebirgsjäger Forschung"
  GER_blitzkrieg:0 "Deutscher §YBlitzkrieg§!"
  GER_winter_equipment_I:0 "Winter-Ausrüstung"

@@ -3427,11 +3427,11 @@
  horthy_inheritance.102.d_otto:0 "Das Oberhaupt der Habsburger-Dynastie, Otto von Habsburg, ist heute zum König von [Root.GetName] gekrönt worden. In Budapest fand eine große königliche Parade statt, und die Nation feierte. Nach den langen Jahren der Regentschaft hat das Land endlich wieder einen König."
  horthy_inheritance.102.a:0 "Möge er lange regieren!"
 
- horthy_inheritance.110.t:0 "Viktor Emanuel nimmt die £crown an"
+ horthy_inheritance.110.t:0 "Viktor Emanuel nimmt die Krone an"
  horthy_inheritance.110.d:0 "Der König von Italien, Viktor Emanuel, hat unser Angebot angenommen, nach dem Tod des Regenten die Nachfolge Horthys als Staatsoberhaupt anzutreten."
  horthy_inheritance.110.a:0 "Wir werden die notwendigen Vorkehrungen treffen."
 
- horthy_inheritance.111.t:0 "Viktor Emanuel kann die ungarische £crown nicht annehmen"
+ horthy_inheritance.111.t:0 "Viktor Emanuel kann die ungarische Krone nicht annehmen"
  horthy_inheritance.111.d:0 "Die Antwort aus Italien ist eingetroffen. [ITA.GetLeader] hat unser Angebot im Namen von Viktor Emanuel höflich abgelehnt, mit der Begründung, dass der König Pflichten in Italien hat, die er nicht zugunsten von Ungarn aufgeben kann. Der König wird die Nachfolge von Horthy nicht antreten können."
  horthy_inheritance.111.a:0 "Lassen Sie uns also unsere Optionen überprüfen."
 
@@ -3439,11 +3439,11 @@
  horthy_inheritance.112.d:0 "Jetzt, da wir uns im Krieg mit [ITA.GetName] befinden, sind unsere Pläne, Viktor Emanuel nach dem unvermeidlichen Tod von Horthy auf den ungarischen Thron zu wählen, gescheitert."
  horthy_inheritance.112.a:0 "Wir werden dann jemand anderen wählen."
 
- horthy_inheritance.120.t:0 "Wilhelm von Hohenzollern nimmt die £crown an"
+ horthy_inheritance.120.t:0 "Wilhelm von Hohenzollern nimmt die Krone an"
  horthy_inheritance.120.d:0 "Der deutsche Kronprinz Wilhelm von Hohenzollern hat unser Angebot angenommen, nach dem Tod des Regenten die Nachfolge Horthys als Staatsoberhaupt anzutreten."
  horthy_inheritance.120.a:0 "Wir werden die notwendigen Vorkehrungen treffen."
 
- horthy_inheritance.121.t:0 "Wilhelm von Hohenzollern kann die ungarische £crown nicht annehmen"
+ horthy_inheritance.121.t:0 "Wilhelm von Hohenzollern kann die ungarische Krone nicht annehmen"
  horthy_inheritance.121.d:0 "Eine Antwort aus Deutschland ist eingetroffen. Sie trägt nicht die Unterschrift des Kronprinzen, sondern die eines Staatsbeamten, der in seinem Namen schreibt. In dem Antwortschreiben heißt es, dass Wilhelm das Angebot nicht annehmen kann, da er die Verpflichtung hat, zu bleiben und in diesen Zeiten des Konflikts für sein Vaterland zu kämpfen."
  horthy_inheritance.121.a:0 "Lassen Sie uns also unsere Optionen überprüfen."
 
@@ -3644,7 +3644,7 @@
  HUN_reinforce_turkish_claims:0 "Türkische Ansprüche verstärken"
  HUN_reinforce_turkish_claims_desc:0 "Das einst stolze Osmanische Reich war nach dem Großen Krieg gezwungen, die Kontrolle über die meisten seiner Gebiete außerhalb Anatoliens aufzugeben. Viele wünschen sich, dass diese Gebiete an die Türken, unsere Verbündeten, zurückgegeben werden, und wenn wir sie stärker machen, würde das wiederum unser Bündnis stärken. Wir werden ihre Ansprüche auf Syrien und das östliche Mittelmeer offiziell unterstützen."
  HUN_greek_alliance:0 "Griechisches Bündnis"
- HUN_greek_alliance_desc:0 "Die Türken haben unserem Volk im 16. und 17. Jahrhundert viel Leid zugefügt. Jahrhundert viel Leid zugefügt. Die Griechen litten unter einer noch längeren Besatzungszeit, und unsere Vergangenheit ist auch auf andere Weise miteinander verbunden. Die Stephans£crown wurde dem ungarischen König von einem byzantinischen Kaiser geschenkt, eine Gunst, die wir nun zurückzahlen wollen. Wir werden uns mit den Griechen verbünden und die türkischen Schurken vernichten!"
+ HUN_greek_alliance_desc:0 "Die Türken haben unserem Volk im 16. und 17. Jahrhundert viel Leid zugefügt. Jahrhundert viel Leid zugefügt. Die Griechen litten unter einer noch längeren Besatzungszeit, und unsere Vergangenheit ist auch auf andere Weise miteinander verbunden. Die Stephanskrone wurde dem ungarischen König von einem byzantinischen Kaiser geschenkt, eine Gunst, die wir nun zurückzahlen wollen. Wir werden uns mit den Griechen verbünden und die türkischen Schurken vernichten!"
  HUN_megali_idea:0 "Unterstützt die Megali-Idee"
  HUN_megali_idea_desc:0 "Seitdem die Griechen ihre Unabhängigkeit von den Osmanen erklärt haben, träumen sie davon, alle ethnisch und historisch griechischen Gebiete zu vereinen. Dieser Traum ist unter dem Namen "Megali-Idee" bekannt geworden und umfasst viele Gebiete, die noch immer unter türkischer Herrschaft stehen. Die meisten Griechen wurden im Zuge des Bevölkerungsaustauschs von 1923 aus Anatolien umgesiedelt, erheben aber nach wie vor Anspruch auf diese Gebiete."
  HUN_strike_turkey:0 "Die Türkei angreifen"
