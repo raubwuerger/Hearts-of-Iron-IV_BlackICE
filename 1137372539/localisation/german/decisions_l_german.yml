@@ -606,7 +606,7 @@
  SOV_2nd_civilian_factories:0 "Mehr als §Y[?sov.civ_target] $industrial_complex$§! im Besitz der Sowjetunion ([?num_owned_civilian_factories])"
  SOV_2nd_tractors:0 "Mehr als §Y[?sov.tractor_target]§! von der Sowjetunion produzierte £tractor"
  SOV_tractors:0 "Sowjetische Traktoren"
- SOV_tractors_desc:0 "Wir brauchen Traktoren\n Traktoranlagen [?tractor_plants|G0]\n Wöchentliche £tractor [?tractor_produktion|Y0]\n Gesamtproduktion von £tractor [?tractors_produced|C0]\n Verfügbarer £tractor [?tractor_stockpile|G0]"
+ SOV_tractors_desc:0 "Wir brauchen Traktoren\n Traktoranlagen [?tractor_plants|G0]\n Wöchentliche £tractor [?tractor_production|Y0]\n Gesamtproduktion von £tractor [?tractors_produced|C0]\n Verfügbarer £tractor [?tractor_stockpile|G0]"
  SOV_build_plant:0 "Traktorenwerke in Betrieb nehmen"
  SOV_distribute_tractors:0 "Traktoren an die Bauern verteilen"
  SOV_distribute_tractors_collective:0 "Verteilen Sie Traktoren an die Bauern"
