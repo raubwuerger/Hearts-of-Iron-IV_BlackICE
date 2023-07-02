@@ -924,7 +924,7 @@
  DIPLOMACY_STAGE_GOUP_POLITICAL_POWER_NEED:0 "Ein Staatsstreich benötigt £pol_power£$DAILY|1H$ täglich, bis er £pol_power£$TOTAL|0H$ insgesamt erreicht."
  ACTIVE_THREATS:0 "Aktive Bedrohungen:"
  POTENTIAL_ENEMIES:0 "Potenzielle Feinde:"
- DIPLOMACY_RELATION_IMPROVEMENT_SAME_IDEOLOGY_DESC:0 "Dies erfordert ebenfalls tägliche Kosten in Höhe von £pol_power$VALUE|1H$."
+ DIPLOMACY_RELATION_IMPROVEMENT_SAME_IDEOLOGY_DESC:0 "Dies erfordert ebenfalls tägliche Kosten in Höhe von £pol_power $VALUE|1H$."
  DIPLOMACY_RELATION_IMPROVEMENT_DEFAULT_DESC:0 "Dies erfordert ebenfalls tägliche Kosten von £pol_power $VALUE|1H$\nDa @$TAG1$$COUNTRY1|H$ und @$TAG2$$COUNTRY2|H$ unterschiedliche Ideologiegruppen haben, sind die Kosten für die Verbesserung der Beziehungen höher."
  DIPLOMACY_RELATION_IMPROVEMENT_INVALID:0 "Eines der Länder ist nicht gültig, keine Verbesserung der Beziehungen."
  DIPLOMACY_SEND_ATTACHE_COST_DESC:0 "Dies erfordert ebenfalls tägliche Kosten von £pol_power $VALUE|1H$."
