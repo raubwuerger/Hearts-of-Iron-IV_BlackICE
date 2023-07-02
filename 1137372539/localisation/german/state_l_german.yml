@@ -23,7 +23,7 @@
  STATE_CLAIM:0 "§T$COUNTRY|H$ hat einen Anspruch auf $STATE|H$.§!"
  STATE_POPULATION:3 "§HRecruitable Population§!: $AVAIL|*Y$/$MAXAVAIL|*Y$\n§HCivilian Population§!: $LOCKED|*Y$/$MAXLOCKED|*Y$\n"
  MONTHLY_BASE_GROWTH:0 "Basis: $VALUE|H%2$"
- STATE_POPULATION_GROWTH:0 "§HMonatliches Wachstum§!: $WERT|%2$ ( $AVAIL|*+$ rekrutierbar, $LOCKED|*+$ zivil )"
+ STATE_POPULATION_GROWTH:0 "§HMonatliches Wachstum§!: $VALUE|%2$ ( $AVAIL|*+$ rekrutierbar, $LOCKED|*+$ zivil )"
  LOCAL_MANPOWER_ACCESSIBLE_FACTOR:0 "Grundlegende Eignung für den Dienst: §R-$VAL|%$§!"
  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_FACTOR:0 "Grundlegende Eignung für den Dienst (Nicht-Kernzustand): §R-$VAL|%$§!"
  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_TOTAL:0 "Gesamt-Fit für den Dienst (Nicht-Kernzustand): §R-$VAL|%$§!"
