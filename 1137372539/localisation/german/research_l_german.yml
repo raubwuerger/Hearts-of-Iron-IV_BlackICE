@@ -18,7 +18,7 @@
  RESEARCH_IDEA_BONUS_ENTRY:0 "$IDEE$: $FAKTOR|G=0%$"
  RESEARCH_IDEA_PENALTY_ENTRY:0 "$IDEE$: $FAKTOR|R=0%$"
  RESEARCH_REPLACE_TITLE:0 "Ersetzen Forschung"
- RESEARCH_REPLACE_DESC:0 "Sind Sie sicher, dass Sie §Y$NEUE_TECH$§! anstelle von §Y$ALTE_TECH$§! mit §Y$FORTSCHRITT|%0$§! erforschen wollen?"
+ RESEARCH_REPLACE_DESC:0 "Sind Sie sicher, dass Sie §Y$NEUE_TECH$§! anstelle von §Y$ALTE_TECH$§! mit §Y$PROGRESS|%0$§! erforschen wollen?"
  RESEARCH_REPLACE_TRANSFER:0 "\n$SAVED|H0$ Tag(e) der zuvor gespeicherten Forschung werden auf die neue Technologie übertragen."
  RESEARCH_REPLACE_EXCLUSIVE_TITLE:0 "Ersetzen von sich gegenseitig ausschließender Forschung"
  RESEARCH_REPLACE_EXCLUSIVE_DESC:0 "Sind Sie sicher, dass Sie §Y$NEUE_TECH$§! anstelle von §Y$ALTE_TECH$§! und all seinen Untertechnologien erforschen wollen?"
