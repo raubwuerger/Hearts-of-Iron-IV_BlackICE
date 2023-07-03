@@ -116,7 +116,7 @@
  POLITICS_GOAL_LEADS_TO:0 "§Führt zu zukünftigen Zielen:§!"
  POLITICS_GOAL_LEADS_TO_ENTRY:0 "$ZIEL|Y$"
  MANAGE_GOVERNMENT_DESC:0 "Gesetze ändern, Minister einstellen oder entlassen und Unternehmen mit der Forschung beauftragen. Die meisten Aktionen hier kosten §YPolitische Macht§!"
- POLITICS_JUSTIFY_WARGOAL:0 "§T$Besitzer|H$ rechtfertigt $TYPE|H$ Kriegsziel gegen $TARGET|H$§!"
+ POLITICS_JUSTIFY_WARGOAL:0 "§T$OWNER|H$ rechtfertigt $TYPE|H$ Kriegsziel gegen $TARGET|H$§!"
  POLITICS_TIMEDACTIVITY_PROGRESS:0 ": $FORTSCHRITT|1Y%$"
  POLITICS_TIMEDACTIVITY_WARGOAL_PROGRESS:0 "§T$TYPE|H$ Fortschritt: $FORTSCHRITT|1H%$§!"
  POLITICS_TIMED_ACTIVITY_STATES:0 "$TYPE|H$ $STATES|H$ von $TARGET|H$"

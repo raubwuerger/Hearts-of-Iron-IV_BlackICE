@@ -666,7 +666,7 @@
  BUL_support_imro_militias_desc:0 "Wir müssen auf die Erfahrungen der mazedonischen Revolutionäre zurückgreifen und IMRO-Milizabteilungen bilden, die in unserer Armee dienen."
  BUL_support_imro_garrisons:0 "IMRO-Garnisonsaufgaben"
  BUL_support_imro_garrisons_desc:0 "IMRO-Mitglieder sind als Friedenssoldaten in ihrer eigenen Region besser geeignet, daher werden sie mit der Garnison unserer Besatzungszonen in ganz Mazedonien betraut."
- BUL_macedonian_revolutionary_organizations_foreign:1 "$BUL_mazedonische_revolutionäre_Organisationen$"
+ BUL_macedonian_revolutionary_organizations_foreign:1 "$BUL_macedonian_revolutionary_organizations$"
  BUL_macedonian_revolutionary_organizations_foreign_desc:0 "IMRO, eine pro-bulgarische Organisation, die schon viel zu lange auf dem Balkan ihr Unwesen treibt, wird jetzt von Bulgarien unterstützt und bewaffnet, um unser Land zu destabilisieren und bulgarische Gefühle in der Region zu verbreiten. Wir müssen dieser Organisation und ihrer Schreckensherrschaft ein für alle Mal ein Ende setzen."
  BUL_repress_imro_foreign:0 "Verfolgung von IMRO-Aktivisten"
  BUL_repress_imro_foreign_desc:0 "Wir werden jeden revolutionären Agitator oder Aktivisten, der innerhalb unserer Grenzen operiert, jagen und vor Gericht stellen."
