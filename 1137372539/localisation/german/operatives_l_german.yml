@@ -169,7 +169,7 @@
  OPERATIVE_MISSION_BOOST_IDEOLOGY_DESC:2 "§Gewinnen Sie die Unterstützung einer lokalen politischen Partei.§!\n§YTägliche Ideologieunterstützung: $BASE|1=$§!\n Basis: $BASE|1G$"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_VALID_TARGET:1 "§GKlicke§! um eine Ideologie auszuwählen und weise $CODENAME|H$ £operative_mission_icons_small|5£ Boost Ideology in $STATE|H$ zu"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_INVALID_TARGET:1 "Kann nicht zugewiesen werden, um die Ideologie in $STATE|H$\n\n$REASON|R$ zu stärken"
- OPERATIVE_MISSION_BOOST_IDEOLOGY_INITIATE_DESC:0 "Steigert die Unterstützung von $IDEOLOGIE|H$ um $VALUE|H$ pro Tag"
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_INITIATE_DESC:0 "Steigert die Unterstützung von $IDEOLOGY|H$ um $VALUE|H$ pro Tag"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_PARTY_DESC:0 "Steigere die Popularität von $PARTY|H$, die derzeit eine Unterstützung von $SUPPORT|H$ hat, um $VALUE|H$ pro Tag"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_OPERATIVE_ENTRY:0 "$OPERATIV|H$: $VALUE|H$"
  OPERATIVE_MISSION_CONTROL_TRADE_TITLE:0 "Handel kontrollieren"
