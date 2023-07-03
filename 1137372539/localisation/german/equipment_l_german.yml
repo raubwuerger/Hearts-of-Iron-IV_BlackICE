@@ -4387,7 +4387,7 @@
   REQUESTED_MANPOWER_DETAILS:0 "Die nächsten $NUM|Y$ Arbeitskräfte werden in $HR|Y$ Stunden eintreffen.\nVollständige Verstärkung ungefähr in $D|Y$ Tagen."
   NOT_ENOUGH_MANPOWER_TO_REINFORCE:0 "Nicht genug Arbeitskräfte zur Verstärkung."
   MANPOWER_REINFORCEMENT_NOT_POSSIBLE:0 "§RMannschaftsverstärkung ist am aktuellen Standort nicht möglich!"
-  ARCHETYPE_DESC_ENTRY:0 "    - $ZAHL|0$ $NAME|H$"
+  ARCHETYPE_DESC_ENTRY:0 "    - $COUNT|0$ $NAME|H$"
   OUTDATED_EQ:0 "Veraltete Ausrüstung anzeigen"
   guided_missile_equipment:0 "Lenkwaffe"
   guided_missile_equipment_1:0 "Basis-Lenkwaffe"
