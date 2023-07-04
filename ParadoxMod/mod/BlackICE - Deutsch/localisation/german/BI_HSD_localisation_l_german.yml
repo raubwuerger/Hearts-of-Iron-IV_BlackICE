@@ -108,7 +108,7 @@ HSD_ENG_CV_malta_tooltip:0 "[!HSD_ENG_CV_malta_button_click_enabled]\n§YAuswirk
 HSD_ENG_CV_malta_desc:0 "HSD_ENG_CV_malta_desc"
 
 HSD_ENG_BB_king_george_v_name:0 "König Georg V."
-HSD_ENG_BB_king_george_v_tooltip:0 "[!HSD_ENG_BB_König_George_v_button_click_enabled]\n§YAuswirkungen bei Auswahl§!:\n[!HSD_ENG_BB_König_George_v_button_click]"
+HSD_ENG_BB_king_george_v_tooltip:0 "[!HSD_ENG_BB_king_george_v_button_click_enabled]\n§YAuswirkungen bei Auswahl§!:\n[!HSD_ENG_BB_king_george_v_button_click]"
 HSD_ENG_BB_king_george_v_desc:0 "HSD_ENG_BB_König_George_v_desc"
 
 HSD_ENG_BB_lion_name:0 "Löwe"

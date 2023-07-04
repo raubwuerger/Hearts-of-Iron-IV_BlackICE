@@ -231,7 +231,7 @@
  EAI_config_GENERAL_11_text:0 "Achse: Nicht in Norwegen einmarschieren"
  EAI_config_GENERAL_11_tt:0 "Verhindert, dass die KI-Achse in Norwegen einmarschiert. Norwegen neigt dazu, der KI jede Menge Ärger zu bereiten. Dies verhindert auch, dass Finnland sich der Achse anschließt, was bedeutet, dass Deutschland und die UdSSR ihre gesamte Aufmerksamkeit auf die Hauptfront richten können."
 
- EAI_config_COUNTRY_window_headline:0 "[EAI_configuration_target.GetName]"
+ EAI_config_COUNTRY_window_headline:0 "[?EAI_configuration_target.GetName]"
  EAI_config_COUNTRY_window_desc:0 "§YWenn Sie diese Einstellungen aktivieren, werden die entsprechenden dynamischen Versionen für dieses Land deaktiviert. Eine dynamische Einstellung kann speziell für dieses Land deaktiviert werden, indem man die Einstellung OFF umschaltet."
  EAI_config_army_config_button_text:0 "Militärische Schwerpunkte konfigurieren"
  EAI_config_COUNTRY_exit_text:0 "Beenden"
@@ -309,7 +309,7 @@
  EAI_config_ARMY_L1b_dropdown_text:0 "[EAI_GetDoctrinePath]"
  EAI_config_ARMY_L1b-_text:0 "-"
  EAI_config_ARMY_L1ba_text:0 "[EAI_GetDoctrinePathLeft] - [EAI_GetDoctrinePathRight"
- EAI_config_ARMY_L1bb_text:0 "[EAI_GetDoctrinePathRight] - [EAI_GetDoctrinePathRight]"
+ EAI_config_ARMY_L1bb_text:0 "[EAI_GetDoctrinePathRight]"
  EAI_config_ARMY_L1baa_text:0 "Mobile Infanterie"
  EAI_config_ARMY_L1bab_text:0 "Blitzkrieg"
  EAI_config_ARMY_L1bba_text:0 "Luftlandeschlacht"
@@ -369,7 +369,7 @@
  EAI_config_ARMY_L4c_text:0 "Offensive"
 
  EAI_config_ARMY_L4b_dropdown_text:0 "[EAI_GetArmorWidth]"
- EAI_config_ARMY_L4b_tt:0 "§[EAI_GetArmorWidth] §LDies bestimmt die Breite der Panzerdivisionen dieses Landes!"
+ EAI_config_ARMY_L4b_tt:0 "§LDies bestimmt die Breite der Panzerdivisionen dieses Landes!"
  EAI_config_ARMY_L4b-_text:0 "-"
  EAI_config_ARMY_L4ba_text:0 "20 Breite"
  EAI_config_ARMY_L4bb_text:0 "26 Breite"
