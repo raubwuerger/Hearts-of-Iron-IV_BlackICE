@@ -563,8 +563,7 @@
  SPECIAL_FORCES_AMPH_MECH_ASSAULT_US:0 "- [?num_battalions_with_type@american_amph_lv_assault|Y0] Angriffs-LVT-Bataillone (Gewicht: [?weight|R1])\n"
  SPECIAL_FORCES_PARATROOPER:0 "- [?num_battalions_with_type@paratrooper|Y0] Fallschirmjägerbataillone (Gewicht: [?weight|R1])\n"
  SPECIAL_FORCES_PARA_TANK:0 "- [?num_battalions_with_type@trm_para_airborne_armor|Y0] $trm_para_airborne_armor$ Bataillone (Gewicht: [?weight|R1])\n"
- 
- SPECIAL_FORCES_COMMANDO:0 "- [?num_battalions_with_type@commando|Y0] Kommando-Bataillone (Gewicht: [?weight|R1])\n"
+  SPECIAL_FORCES_COMMANDO:0 "- [?num_battalions_with_type@commando|Y0] Kommando-Bataillone (Gewicht: [?weight|R1])\n"
 
  SPECIAL_FORCES_DIV_HQ_airborne:0 "- [?num_battalions_with_type@DIV_HQ_airborne|Y0] HeadQuartes Detachment [Airb.] (Gewicht: [?weight|R1])\n"
  SPECIAL_FORCES_MOUNT_SUPPORT:0 "- [?num_battalions_with_type@mount_support|Y0] Bergsteiger-Unterstützung (Gewicht: [?weight|R1])\n"
@@ -754,7 +753,7 @@
  SMALL_NAVY_TRIGGER:0 "\nKleine Marine: > §C75§!\n"
  NORMAL_NAVY_TRIGGER:0 "Normale Marine: > §C200§!\n"
  LARGE_NAVY_TRIGGER:0 "Große Marine: > §C350§!\n"
- HUGE_NAVY_TRIGGER:0 "Huge Navy: > §C500§!\n"
+ HUGE_NAVY_TRIGGER:0 "Sehr große Marine: > §C500§!\n"
 
  Doctrine_light_armor:0 "§YLight Armor§!\n"
  Doctrine_medium_armor:0 "§YMedium Armor§!\n"
@@ -1498,7 +1497,7 @@
  desert_3:0 "$desert_fox$ III"
  desert_4:0 "$desert_fox$ IV"
  desert_5:0 "$desert_fox$ V"
- desert_6:0 "desert_fox$ VI"
+ desert_6:0 "$desert_fox$ VI"
  desert_7:0 "$desert_fox$ VII"
  desert_8:0 "$desert_fox$ VIII"
  desert_9:0 "$desert_fox$ IX"
@@ -1507,12 +1506,12 @@
  hills_1:0 "$hill_fighter$ I"
  hills_2:0 "$hill_fighter$ II"
  hills_3:0 "$hill_fighter$ III"
- hills_4:0 "hill_fighter$ IV"
+ hills_4:0 "$hill_fighter$ IV"
  hills_5:0 "$hill_fighter$ V"
- hills_6:0 "hill_fighter$ VI"
+ hills_6:0 "$hill_fighter$ VI"
  hills_7:0 "$hill_fighter$ VII"
  hills_8:0 "$hill_fighter$ VIII"
- hills_9:0 "hill_fighter$ IX"
+ hills_9:0 "$hill_fighter$ IX"
  hills_10:0 "$hill_fighter$ X"
 
  swamp_1:0 "$swamp_fox$ I"
@@ -1556,7 +1555,7 @@
  forest_6:0 "$ranger$ VI"
  forest_7:0 "$ranger$ VII"
  forest_8:0 "$ranger$ VIII"
- forest_9:0 "ranger$ IX"
+ forest_9:0 "$ranger$ IX"
  forest_10:0 "$ranger$ X"
 
  jungle_1:0 "$jungle_rat$ I"
@@ -1581,7 +1580,7 @@
  winter_9:0 "$winter_specialist$ IX"
  winter_10:0 "$winter_specialist$ X"
 
- desert_1_desc:0 "$desert_fox_desc$"
+ desert_1_desc:0 "$desert_fox_desc_desc$"
  desert_2_desc:0 "$desert_fox_desc$"
  desert_3_desc:0 "$desert_fox_desc$"
  desert_4_desc:0 "$desert_fox_desc$"
@@ -2084,7 +2083,7 @@
  AIR_FORCE_COMMAND_SPIRIT_TT: "[!air_force_command_spirit_click]"
 
  professional_officer_corps_spirit_ww1_doctrine: "$ww1_doctrine_research$: [?0.05|%+=]"
- professional_officer_corps_spirit_land_doctrine: "$COUNTRY_doctrine_research$: [?0.05|%+=]"
+ professional_officer_corps_spirit_land_doctrine: "$land_doctrine_research$: [?0.05|%+=]"
 
  jeune_ecole_spirit_dd_tech_tt: "$dd_tech_research$: [?0.1|%+=]"
  jeune_ecole_spirit_naval_battery_light_tt: "$naval_battery_light_research$: [?0.05|%+=]"

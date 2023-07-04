@@ -1819,7 +1819,7 @@
  modifier_unit_cavalry_design_cost_factor:0 "Designkosten für Kavallerieeinheiten"
  modifier_unit_camelry_design_cost_factor:0 "Designkosten für Camelry-Einheiten"
  modifier_unit_destroyer_design_cost_factor:0 "Designkosten für Zerstörereinheiten"
- modifier_unit_engineer_design_cost_factor:0 "$Ingenieur$-Einheitskonstruktionskosten"
+ modifier_unit_engineer_design_cost_factor:0 "$engineer$-Einheitskonstruktionskosten"
  modifier_unit_engineer_mot_design_cost_factor:0 "$engineer_mot$ Stückkonstruktionskosten"
  modifier_unit_engineer_mech_design_cost_factor:0 "$engineer_mech$ Stückkonstruktionskosten"
  modifier_unit_engineer_arm_design_cost_factor:0 "$engineer_arm$ Stückkonstruktionskosten"

@@ -1437,7 +1437,7 @@
  GARRISON_CONF_RESISTANCE:0 "Versuchen Sie, den Widerstand zu verringern"
  GARRISON_CONF_RAIL:0 "Wache Nachschubknotenpunkte und Eisenbahn"
  AIR_WING_NAME_FALLBACK:0 "$NUMBER$. $TYPE$ Flügel"
- #AIR_WING_NAME_FALLBACK:0 
+ #AIR_WING_NAME_FALLBACK:0 "$COUNTRY$ $TYPE$ Air Wing $NUMBER$"
  AIR_WING_NAME_GER_FALLBACK:0 "$TYPE$ $NUMBER$"
  AIR_WING_NAME_GER_GENERIC:0 "$NAME$ $NR$"
  AIR_WING_NAME_USA_FALLBACK:0 "$NUMBER$. $TYPE$ Gruppe"
@@ -1485,7 +1485,7 @@
  CONFIRMCONSOLIDATE_EQUIPMENT_GAIN_CONSOLIDATE_TITLE:0 "Die folgenden Einheiten werden in den §HStockpile§!/§HManpower Pool§! zurückgegeben:"
  CONFIRMCONSOLIDATE_ARMY_INFO:0 "Die folgenden $NUM|H$ Divisionen werden auf volle Stärke verstärkt: $ARMIES|H$"
  CONFIRMCONSOLIDATE_ARMY_INFO_NOT_FULL:0 "$ARMY|H$ wird auf die folgende Stärke verstärkt:"
- CONFIRMCONSOLIDATE_GAIN_RESULT:0 "$COUNT|0H$/$MAX|0H$ $EQUIPMENT$"
+ CONFIRMCONSOLIDATE_GAIN_RESULT:0 "$AMOUNT|0H$/$MAX|0H$ $EQUIPMENT$"
  CONSOLIDATE:0 "Konsolidieren Sie"
  CONSOLIDATE_TOOLTIP:1 "Zusammenlegung von unterlegenen und beschädigten Einheiten. Die Erfahrung der konsolidierten Einheiten wird beibehalten. Manpower und Ausrüstung werden addiert."
  CONSOLIDATE_NOT_POSSIBLE:0 "Konsolidierung ist §Rnicht möglich§!"

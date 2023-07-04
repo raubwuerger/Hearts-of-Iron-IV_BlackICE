@@ -3881,7 +3881,7 @@ shipyardfactory20_desc:0 "$shipyard_desc$"
 
 
 subyardfactory0:0 "U-Boot-Werft (0)"
-subyardfactory0_desc:0 "$unterwerft_desc$"
+subyardfactory0_desc:0 "$subyard_desc$"
 subyardfactory1:0 "U-Boot-Werft (1)"
 subyardfactory1_desc:0 "$subyard_desc$"
 subyardfactory2:0 "U-Boot-Werft (2)"
