@@ -1485,7 +1485,7 @@
  FIN_medanti_tank_equipment_1_short:0 "45 PstK/42"
  FIN_medanti_tank_equipment_2:0 "75 PstK/97-38 \"Mulatti\"  
  FIN_medanti_tank_equipment_2_short:0"75 PstK/97-38 \"Mulatti\"  
- FIN_HVanti_Tank_Ausrüstung_1:0"88 PstK/43"
+ FIN_HVanti_tank_equipment_1:0 "88 PstK/43"
  FIN_HVanti_tank_equipment_1_short:0 "88 PstK/43"
  FIN_HVanti_tank_equipment_2:0 "128 PstK/44"
  FIN_HVanti_tank_equipment_2_short:0 "128 PstK/44"
