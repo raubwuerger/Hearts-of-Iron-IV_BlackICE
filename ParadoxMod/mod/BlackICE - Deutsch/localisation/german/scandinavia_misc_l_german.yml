@@ -600,7 +600,7 @@
  DEN_sea:0 "Schwerpunkt See"
  #########Custom tool tip ""
  importDEN:0 "Antrag auf Ausrüstung für 2 komplette Divisionen "
- DEN_facto_use_good_tt:0 "§Verringert§! die Anzahl der §YZivilen Fabriken§! die in die Wirtschaft investiert werden"
+ DEN_facto_use_good_tt:0 "§0erringert§! die Anzahl der §YZivilen Fabriken§! die in die Wirtschaft investiert werden"
  DEN_facto_use_bad_tt:0 "§RIncreases§! the Number of §YCivilian Factories§! invested into the economy"
  DEN_civ_build_good_tt:0 "§GIncreases§! §YZivile Fabriken§! Baugeschwindigkeit"
  DEN_civ_build_bad_tt:0 "§RDecreases§! §YCivilian Factory§! Bau-Geschwindigkeit"

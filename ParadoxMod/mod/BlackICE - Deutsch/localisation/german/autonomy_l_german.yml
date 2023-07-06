@@ -62,7 +62,7 @@
  EXILE_TEMPLATE_DESC:0 "Dies ist eine Exilvorlage von $COUNTRY_DEF|H$. Exilstreitkräfte beziehen Arbeitskräfte von der Exilregierung."
  CONSTRUCTION_MASTER_BUILDING_LEVELS:1 "$MASTER|UH$ baut derzeit $LVL|H$ Stufen von $BUILDING|H$ für uns."
  CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS:0 "Wir dürfen diese Baustufe nur um $LVL|R$ reduzieren."
- CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE:0 "§Es ist uns nicht erlaubt, das Niveau zu reduzieren oder diese Konstruktion aufzuheben!"
+ CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE:0 "§0s ist uns nicht erlaubt, das Niveau zu reduzieren oder diese Konstruktion aufzuheben!"
  CONSTRUCTION_INFO_MASTER:0 "Dieses Bauwerk wird auf dem Gebiet $WHO|H$ gebaut. Wenn wir nicht alle Fabriken nutzen, können sie mit ihren beitragen."
  CONSTRUCTION_INFO_SUBJECT:0 "Dieses Bauwerk wird für uns von der $WHO|H$ gebaut. Wenn sie nicht alle Fabriken nutzen, können wir mit unseren dazu beitragen."
 

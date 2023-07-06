@@ -36,7 +36,7 @@
  spawn_partisan_TT:0 "§RPartisanen§! werden sich erheben\n"
  BICE_buildings:0 "Spezialisierte Ausrüstungsfabrik fertiggestellt"
  speer_in_office:0 "Hat Albert Speer als §YPoltischen Berater§!"
- GER_balkan_dominance_TT:0 "Hat keine §Feinde§! auf dem §YBalkan§!"
+ GER_balkan_dominance_TT:0 "Hat keine §0einde§! auf dem §YBalkan§!"
  GER_pressure_sweden_TT:0 "Hat mindestens §Y1§! weitere §YStaaten§! neben Schweden"
  ITALY_PUPPET:0 "Jeder §YItalienische Staat§! mit mehr als §G1§! [GER.GetFlag]§YDeutsche Divisionen§! wird in die Hände eines neuen §YItalienischen Marionettenstaates§! übergehen."
  GETS_CONTROL:0 "Er wird Eigentümer und Kontrolleur der oben genannten Staaten\n"
@@ -367,7 +367,7 @@
  SHIPYARD_TT:0 "\n§L Schiffswerften: [?num_shipyard_total]/[Root.GetMaxShipyardNumber]"
  SUBYARD_TT:0 "\n§L Nebenwerften: [?num_subyard_total]/[Root.GetMaxSubyardNumber]"
 
- STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Lagerung§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n - Täglicher Zuwachs: [GetStorageInput] \n - Täglicher Output: [?storage_output@var:v|0-] ([?modifier@max_resource_storage_output|Y0] per Storage)\n\nMax Storage Capacity: [?max_storage@var:v|Y0]\n Capital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivile Fabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n\n [GetStorageEstimate]"
+ STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Lagerung§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n - Täglicher Zuwachs: [GetStorageInput] \n - Täglicher Output: [?storage_output@var:v|0-] ([?modifier@max_resource_storage_output|Y0] per Storage)\n\nMax. Lagerkapazität: [?max_storage@var:v|Y0]\n Capital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivile Fabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n\n [GetStorageEstimate]"
  STORAGE_TOPBAR_TOOLTIP_DELAYED:0 "[GetStorageSettingTT]"
 
  STORAGE_ESTIMATE_EMPTY_TEXT:0 "Wir schätzen, dass unsere Vorräte in [?m|R0] Tagen aufgebraucht sein werden"
@@ -896,7 +896,7 @@
  train_medium_or_lower:0 "Hat ein Kadettenausbildungsgesetz §YMedium Standards§! oder niedriger"
  edu_low_or_lower:0 "Hat ein Bildungsgesetz §YLow Investment§! oder niedriger"
 
- bonds_no_downgrade_TT:0 "\n§Kriegsanleihen können nicht herabgestuft werden, wenn sie einmal genommen wurden§!\n"
+ bonds_no_downgrade_TT:0 "\n§RKriegsanleihen können nicht herabgestuft werden, wenn sie einmal genommen wurden§!\n"
 
  SS_division_1_TT:0 "§YVoraussetzungen:§!\n[!SS_division_1_click_enabled]\n[!SS_division_1_click]"
  SS_division_2_TT:0 "§YAnforderungen:§!\n[!SS_division_2_click_enabled]\n[!SS_division_2_click]"
@@ -1164,7 +1164,7 @@
  COMPLIANCE_PROGRESS_TOOLTIP:0 "[?compliance|0]% [GetComplianceGrowthIcon]"
 
  SPECIAL_FACTORY_OPEN_TOOLTIP:0 "[ProductionTT1]"
- SPECIAL_FACTORY_OPEN_FALSE_TT:0 "Wir haben nicht §Viele Ausrüstungsfabriken!§!"
+ SPECIAL_FACTORY_OPEN_FALSE_TT:0 "Wir haben nicht §0iele Ausrüstungsfabriken!§!"
  INDUSTRY_OPEN_TOOLTIP:0 "[ProductionTT2]"
  EQUIPMENT_INTRO_OPEN_TOOLTIP:0 "[ProductionTT3]"
  HSD_UI_OPEN_TOOLTIP:0 "[ProductionTT4]"
@@ -1895,8 +1895,8 @@
 
  STEEL_REFINERY_ENTRY_TOOLTIP_DELAYED:0 "[!assign_steel_refinery_tooltip_delayed_click]"
  STEEL_REFINERY_ENTRY_DAMAGED_TOOLTIP_DELAYED:0 "Diese £civ_factory §YRefinery§! ist §Ramaged!§!"
- STEEL_REFINERY_ENTRY_INACTIVE_TOOLTIP_DELAYED:0 "Diese £civ_factory §YRefinery§! ist §Cinactive§! aufgrund von §Oinsufficient Resources§! Sie wird wieder aktiv, wenn wir genug haben."
- STEEL_REFINERY_ENTRY_ACTIVE_TOOLTIP_DELAYED:0 "Diese £civ_factory §YRefinery§! ist §Gactive.§!"
+ STEEL_REFINERY_ENTRY_INACTIVE_TOOLTIP_DELAYED:0 "Diese £civ_factory §YRaffinerie§! ist §Cinaktiv§! aufgrund von §Oungenügenden Ressourcen§! Sie wird wieder aktiv, wenn wir genug haben."
+ STEEL_REFINERY_ENTRY_ACTIVE_TOOLTIP_DELAYED:0 "Diese £civ_factory §YRaffinerie§! ist §Gaktive.§!"
 
 
  SELECT_LAW_TOOLTIP: "[!select_law_click] \n\n[!select_law_click_enabled]"

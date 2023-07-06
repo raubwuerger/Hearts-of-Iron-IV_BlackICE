@@ -217,7 +217,7 @@
  ETH_invite_foreign_prospectors_tt:1 "Schaltet §Y$ETH_prospect_for_resources$§! Entscheidungen in Northern [ROOT.GetName] frei. Erfordert §Y$excavation2$§! und mehr als §Y2§! verfügbare §YZivilfabriken§!, um Entscheidungen zum Schürfen zu treffen.\n\n"
  ETH_invite_foreign_industrialists:0 "Fremde einladen [ETH_GetInvestorName]"
  ETH_invite_foreign_industrialists_desc:0 "Wir haben unsere Infrastruktur und Industrie in den letzten Jahren massiv verbessert und die Nutzung der natürlichen Ressourcen weitaus effizienter gemacht. Wir könnten jedoch die Entwicklung unserer Industrie beschleunigen, wenn wir ausländische Experten und Industrielle einladen würden, in [ETH.GetName] tätig zu werden."
- ETH_invite_foreign_industrialists_tt:1 "Konstrukteure aus anderen Nationen werden verfügbar, wenn das Zielland eine §Yopinion von [ETH.GetFlag][ETH.GetNameDef] über§! §G75§!. \n\n§Ausgewählte Designer werden deaktiviert, wenn sich ihre Heimatnation im Krieg mit [ETH.GetNameDef] befindet!§! \n\nZu den möglichen Nationen gehören: §Y[ENG.GetFlag][ENG.GetName]§!, §Y[FRA.GetFlag][FRA.GetName]§!, §Y[GER.GetFlag][GER.GetName]§!, §Y[JAP.GetFlag][JAP.GetName]§!, §Y[CZE.GetFlag][CZE.GetName]§!, §Y[SWE.GetFlag][SWE.GetName]§!"
+ ETH_invite_foreign_industrialists_tt:1 "Konstrukteure aus anderen Nationen werden verfügbar, wenn das Zielland eine §Yopinion von [ETH.GetFlag][ETH.GetNameDef] über§! §G75§!. \n\n§0usgewählte Designer werden deaktiviert, wenn sich ihre Heimatnation im Krieg mit [ETH.GetNameDef] befindet!§! \n\nZu den möglichen Nationen gehören: §Y[ENG.GetFlag][ENG.GetName]§!, §Y[FRA.GetFlag][FRA.GetName]§!, §Y[GER.GetFlag][GER.GetName]§!, §Y[JAP.GetFlag][JAP.GetName]§!, §Y[CZE.GetFlag][CZE.GetName]§!, §Y[SWE.GetFlag][SWE.GetName]§!"
  ETH_the_second_italo-ethiopian_war:0 "Der Zweite Italo-Äthiopische Krieg"
  ETH_the_second_italo-ethiopian_war_desc:1 "Die Weihnachtsoffensive hat uns nicht den erhofften und notwendigen Sieg gebracht. Es ist an der Zeit, dass [ETH.GetLeader] die Hauptstadt verlässt und persönlich das Kommando über die Armeen übernimmt. Der Krieg gegen die Italiener muss zu Ende gebracht werden!"
  ETH_the_second_italo-ethiopian_war_tt:0 "§Y$ETH_haile_selassie$§! wird als Feldmarschall verfügbar"
@@ -399,7 +399,7 @@
  ETH_support_from_the_japanese_communists:0 "Japanischer Anarcho-Kommunismus"
  ETH_support_from_the_japanese_communists_desc:0 "Das [JAP.GetAdjective] und das [ETH.GetAdjective] Volk haben seit langem Respekt voreinander, da sie zu den wenigen gehören, die sich erfolgreich gegen die europäische Kolonialisierung gewehrt haben. Während wir in [ETH.GetNameDef] die feudale Epoche hinter uns lassen, gibt es in [JAP.GetNameDef] Menschen, die unsere Ideale teilen und uns bei der Schaffung eines anarcho-kommunistischen Gesellschaftsmodells helfen können."
  ETH_support_from_the_japanese_communists_tt:0 "§Y$IA_sakutaro_iwasa$§! und §Y$IA_sanshiro_ishikawa$§! werden als Berater verfügbar."
- ETH_support_from_the_japanese_communists_fascist_tt:0 "§Kann dazu führen, dass [JAP.GetFlag][JAP.GetName] ein Handelsembargo gegen [ETH.GetFlag][ETH.GetName]! ausspricht."
+ ETH_support_from_the_japanese_communists_fascist_tt:0 "§0ann dazu führen, dass [JAP.GetFlag][JAP.GetName] ein Handelsembargo gegen [ETH.GetFlag][ETH.GetName]! ausspricht."
  ETH_raise_from_the_ranks:0 "Aus den Rängen aufsteigen"
  ETH_raise_from_the_ranks_desc:0 "Die Aristokratie soll nicht länger das Kommando über die Streitkräfte haben. Viele unserer tapferen Soldaten haben sich als fähige Anführer erwiesen. Es ist an der Zeit, dass wir Tapferkeit und Fähigkeiten auf dem Schlachtfeld belohnen und nicht dynastische Verbindungen oder persönlichen Reichtum."
  ETH_raise_from_the_ranks_tt:1 "Fügen Sie §Yzwei§! neue Offiziere mit dem Rang eines §YGeneral§! hinzu."
@@ -410,7 +410,7 @@
  ETH_military_advisors_desc:0 "Obwohl sich viele unserer Offiziere an die Anforderungen der modernen Kriegsführung angepasst haben, ist es offensichtlich, dass sie größtenteils improvisieren müssen, so gut sie können. Wir könnten viel von unseren Kameraden im [SOV.GetAdjective] Militär lernen."
  ETH_military_advisors_tt:1 "\nenn die [SOV.GetFlag]§Y[SOV.GetName]§! zustimmt, wird [ETH.GetFlag]§Y[ETH.GetName]§! einen Feldmarschall (§Y$SOV_semyon_budyonny$§!) und einen General (§Y$SOV_vasily_kuznetsov$§!) bekommen."
  ETH_international_brigades_communist:0 "Internationale Brigaden"
- ETH_soviet_rejection_tt:0 "\n[SOV.GetFlag]§Y[SOV.GetNameDefCap]§! §Sie werden diesen Vorschlag wahrscheinlich ablehnen, wenn sie nicht mehr kommunistisch sind oder sich in einem Bürgerkrieg befinden!§!"
+ ETH_soviet_rejection_tt:0 "\n[SOV.GetFlag]§Y[SOV.GetNameDefCap]§! §0ie werden diesen Vorschlag wahrscheinlich ablehnen, wenn sie nicht mehr kommunistisch sind oder sich in einem Bürgerkrieg befinden!§!"
  ETH_international_brigades_communist_desc:0 "Es gibt viele Menschen auf der ganzen Welt, die mit unserem Kampf gegen die [ITA.GetAdjective]s sympathisieren. Wir sollten aus dieser Sympathie Kapital schlagen und ihnen die Möglichkeit bieten, an unserer Seite gegen den Faschismus zu Felde zu ziehen."
  ETH_peoples_army:0 "Die Volksarmee"
  ETH_peoples_army_desc:0 "Trotz unserer anfänglichen Schwäche in der modernen Kriegsführung ist es uns gelungen, die Invasion der [ITA.GetAdjective] durch den Einsatz unkonventioneller Taktiken zu verlangsamen. Wir können dies in unserer Militärdoktrin verankern und unsere Offiziere in der asymmetrischen Kriegsführung schulen."
@@ -1024,9 +1024,9 @@
 ITA_claims_on_turkey_bba_desc:1 "$ITA_claims_on_turkey_desc$"
  ITA_befriend_turkey:0 "Freunde dich mit der Türkei an"
  ITA_befriend_turkey_desc:1 "$ITA_turkey_friend_desc$"
- ITA_corpo_di_truppe_volontarie:0 „Corpo di Truppe Volontarie“
+ ITA_corpo_di_truppe_volontarie:0 "Corpo di Truppe Volontarie"
  ITA_corpo_di_truppe_volontarie_desc:1 "$ITA_support_nationalist_spain_desc$"
- ITA_spanish_italian_alliance:0 „Spanisch-Italienische Allianz“
+ ITA_spanish_italian_alliance:0 "Spanisch-Italienische Allianz"
  ITA_spanish_italian_alliance_desc:1 "$ITA_spanish_italian_faction_desc$"
  ITA_demand_balearic_islands_bba:0 „Nachfrage Balearen“
  ITA_demand_balearic_islands_bba_desc:1 "$ITA_demand_balearic_islands_desc$"
@@ -1104,7 +1104,7 @@ ITA_comandante_diavolo_somalia_tt:0 "Erstelle §Y2 $irregular_infantry$ Division
  generic_ROOT_gains_claim_tt:0 „§Y[ROOT.GetFlag][ROOT.GetNameDef]§! erhält Anspruch auf den Staat.“
  generic_ROOT_gains_wargoal_tt:0 „§Y[ROOT.GetFlag][ROOT.GetNameDef]§! erhält §Y$annex_everything$§! Kriegsziel gegen:\n“
  ITA_masters_of_the_aegean_claims_tt:1 „Erhält Anspruch auf §Yevery [GRE.GetAdjective] und [TUR.GetAdjective] Küstenstaaten im Mittelmeer§!, die noch nicht von [ROOT.GetFlag][ROOT.GetNameDef] oder unter [ROOT.GetFlag][ROOT .GetAdjective]-Steuerung. \nAktuelle Effekte:"
- ITA_masters_of_the_mediterranean_claims_tt:1 „Erhält Anspruch auf §Jeden Küstenstaat im Mittelmeer§!, der noch nicht durch [ROOT.GetFlag][ROOT.GetNameDef] oder unter [ROOT.GetFlag][ROOT.GetAdjective]-Kontrolle beansprucht wurde. \nAktuelle Auswirkungen:“
+ ITA_masters_of_the_mediterranean_claims_tt:1 „Erhält Anspruch auf §0eden Küstenstaat im Mittelmeer§!, der noch nicht durch [ROOT.GetFlag][ROOT.GetNameDef] oder unter [ROOT.GetFlag][ROOT.GetAdjective]-Kontrolle beansprucht wurde. \nAktuelle Auswirkungen:“
  ITA_support_albanian_irredentism_subject_effects_tt:0 "\nDie folgenden Effekte werden angewendet, wenn §Y[ALB.GetFlag][ALB.GetNameDefCap]§! ein §Ysubject§! von §Y[ROOT.GetFlag][ROOT.GetName]§! ist:"
  ITA_the_eastern_threat_claims_tt:0 „Erhält Anspruch auf §Yjeden Staat im Schwarzen Meer, der [SOV.GetFlag][SOV.GetNameDef]§! gehört. \nAktuelle Auswirkungen:“
  ITA_joint_military_programs_two_allies_tt:0 „Die Effekte werden verdoppelt, da §Y[ROOT.GetNameWithFlag]§! sowohl mit §Y[ENG.GetNameWithFlag]§! als auch mit §Y[FRA.GetNameWithFlag]§! in Fraktion ist.“
@@ -1429,7 +1429,7 @@ ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro:0 „§Y$ITA_rico
  ITA_new_industrialization_program_south_tt:0 "Nationale Süd-Designer werden verbessert."
  ITA_new_industrialization_program_generic_tt:0 "Wenn der Fokus '§Y$ITA_strengthen_northern_industry$§!' abgeschlossen ist, werden die nationalen Designer im Norden verbessert. \nenn der Fokus '§Y$ITA_modernize_the_mezzogiorno$§!' abgeschlossen ist, werden die nationalen Designer des Südens verbessert."
  ITA_anglo_italian_agreements_suez_tt:0 "Der Suezkanal ist für [ROOT.GetName] nicht gesperrt oder er ist für [ITA.GetName] seit mehr als §Y365§! Tagen gesperrt."
- ITA_anglo_italian_agreements_suez_unlocked_tt:0 "§Der Suezkanal wird nicht mehr für [ROOT.GetName]§! gesperrt."
+ ITA_anglo_italian_agreements_suez_unlocked_tt:0 "§0er Suezkanal wird nicht mehr für [ROOT.GetName]§! gesperrt."
  ITA_boost_the_grand_council_of_fascism_missiolinis_tt:0 "\nDie Möglichkeit für den Großen Rat des Faschismus, eine von Mussolini erteilte Mission durch eine neue zu ersetzen, wird freigeschaltet."
  ITA_to_live_as_a_lion_missiolinis_tt:0 "\nMissionen, die von Mussolini ausgegeben werden, haben eine kürzere Erfüllungszeit, gewähren aber höhere Belohnungen."
 
@@ -1488,7 +1488,7 @@ ITA_the_king_of_the_skies_military_industry_dm_tt:0 "$ITA_modify_military_indust
  ITA_catholic_action_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIER_ARMY_MORALE_FACTOR$: §G+5.0%§! \n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+10%§! \n\n"
  ITA_a_time_for_war_tt:0 "Gewinnt §Y$puppet_wargoal_focus$§! Kriegsziel gegen §Yevery country in Europe that is not majority Catholic§!"
  ITA_foreign_affairs_focus_lock_tt:0 "§RDer Fokus §Y$ITA_unite_the_opposition$§! und §Y$ITA_defy_the_duce$§! werden nach Abschluss dieses Fokus§! gesperrt."
- ITA_foreign_affairs_focus_locked_tt:0 "§Der Fokus §Y$ITA_foreign_affairs$§! wird nach Beendigung dieses Fokus§! gesperrt."
+ ITA_foreign_affairs_focus_locked_tt:0 "§0er Fokus §Y$ITA_foreign_affairs$§! wird nach Beendigung dieses Fokus§! gesperrt."
  ITA_cannot_release_pap_tt:1 "Kann §Y[PAP.GetNameDef]§! nicht mehr freigeben, nachdem dieser Fokus abgeschlossen wurde."
 
  ITA_pugno_alzato_wargoals_tt:0 "Erlangt §Y$topple_government$§! Kriegsziel gegen §Yjeden faschistischen Nachbarn oder jedes größere Land§!"
@@ -1520,8 +1520,8 @@ ITA_the_king_of_the_skies_military_industry_dm_tt:0 "$ITA_modify_military_indust
  ITA_new_colonial_policies_tt:0 "§YJede kontrollierte Kolonie in Afrika§! wird als §YPuppet§! freigegeben."
  ITA_enlist_the_bashkimi_kombetar_spawn_divs_tt:0 "Erstelle §Y4 Camicie Rosse§! Abteilungen in §Y[THIS.GetName]§!"
  ITA_cooperatives_for_intensive_exploitation_tt:0 "§YCompliance Growth§!, §YLocal Supply§! und §YLocal Resources§! werden in §Yjedem eigenen und kontrollierten Staat in Afrika, der Ressourcen§! erzeugt, erhöht."
- ITA_condemn_colonialism_tt:0 "§Jedes nicht verbündete Land mit Kolonien in Afrika§! erhält ein Ereignis, um seine Kolonien freizugeben oder die Folgen lokaler Revolten zu erleiden."
- ITA_planned_economy_subjects_ns_tt:0 "§Jedes unterworfene Land§!:"
+ ITA_condemn_colonialism_tt:0 "§0edes nicht verbündete Land mit Kolonien in Afrika§! erhält ein Ereignis, um seine Kolonien freizugeben oder die Folgen lokaler Revolten zu erleiden."
+ ITA_planned_economy_subjects_ns_tt:0 "§0edes unterworfene Land§!:"
  ITA_the_italian_confederation_effects_tt:0 "Füge §G1§! Gebäudefeld und §Y1 Zivilfabrik§! in ihrer Hauptstadt. \nCountry joins §Y[ROOT.GetFlag][ROOT.GetAdjective] Faction§!."
  ITA_the_fight_overseas_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIER_HEAT_ATTRITION_FACTOR$: §G-10.00%§! \n$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-5.0%§! \n$MODIFIER_ACCLIMATIZATION_HOT_CLIMATE_GAIN_FACTOR$: §G+15.0%§! \n\n"
  ITA_the_fight_overseas_rm_tt:0 "$ITA_modify_regia_marina_dynamic_modifier_ns_intro$ \n$MODIFIER_NAVAL_INVASION_CAPACITY$: §G+10§! \n$MODIFIER_NAVAL_INVASION_PREPARATION_SPEED$: §G+15.0%§! \n\n"
@@ -1562,7 +1562,7 @@ ITA_the_king_of_the_skies_military_industry_dm_tt:0 "$ITA_modify_military_indust
 
  ITA_il_vento_aureo:0 "Il Vento Aureo"
  ITA_il_vento_aureo_desc:0 "Lange wurde das Papsttum von fremden Mächten unterdrückt. Wir können jedoch unsere Luftwaffe und die Ausbildungsprogramme für Kampfflugzeuge so optimieren, dass wir viel billigere, aber mutigere Piloten einsetzen können, um unseren Feinden die goldene Herrschaft der katholischen Kirche aus der Luft zu bringen. Dies wird unser größtes Requiem sein!"
- form_greater_italy_tt:0 "Schaltet die Entscheidung frei: §Ausrufung von Groß-Italien§!"
+ form_greater_italy_tt:0 "Schaltet die Entscheidung frei: §0usrufung von Groß-Italien§!"
  ITA_papal_faction:0 "Die katholische Herrschaft"
  ITA_roman_faction:0 "Imperium Romanum"
  ITA_latin_initiatives:0 "Die Lateinische Initiative"
@@ -1972,7 +1972,7 @@ ITA_the_king_of_the_skies_military_industry_dm_tt:0 "$ITA_modify_military_indust
  SWI_press_for_vorarlberg_desc:0 "Da die [AUS.GetAdjective]-Regierung in Scherben liegt, müssen wir den demokratischen Willen von [848.GetName] erfüllen, der in ihrem Referendum von 1919 zum Ausdruck kam, und sie in unsere Demokratie integrieren. Es ist die Pflicht von [ROOT.GetNameDef], sie vor Faschismus und Autokratie zu schützen."
  SWI_pre_empt_anschluss:0 "Anschluss vorwegnehmen"
  SWI_pre_empt_anschluss_desc:0 "Es gibt Gerüchte, dass [GER.GetNameDef] [AUS.GetName] im Namen der [GER.GetAdjective]-Einheit annektieren will. Dies kann [ROOT.GetNAmeDef] nicht zulassen, da es [GER.GetNameDef] ermächtigen würde, die gleichen Ansprüche auf unsere deutschsprachigen Kantone zu erheben. Wir müssen uns beeilen und die Voraussetzungen für eine Verteidigung von ganz [AUS.GetName] schaffen."
- SWI_pre_empt_anschluss_tt:1 "§Sollte [AUS.GetNameDef] akzeptieren, werden wir Kerne auf ihre Kernstaaten gewinnen§! \n\n Die Wahrscheinlichkeit, dass sie akzeptieren, hängt von der §YGröße§! unserer Streitkräfte, ihrer §YMeinung§! über uns und davon ab, ob §Y[GER.GetNameDef] sich darauf vorbereitet§! [AUS.GetName] zu annektieren."
+ SWI_pre_empt_anschluss_tt:1 "§0ollte [AUS.GetNameDef] akzeptieren, werden wir Kerne auf ihre Kernstaaten gewinnen§! \n\n Die Wahrscheinlichkeit, dass sie akzeptieren, hängt von der §YGröße§! unserer Streitkräfte, ihrer §YMeinung§! über uns und davon ab, ob §Y[GER.GetNameDef] sich darauf vorbereitet§! [AUS.GetName] zu annektieren."
  SWI_demand_italian_alps:0 "Fordern Sie die italienischen Alpen"
  SWI_demand_italian_alps_desc:0 "Seit Jahrzehnten beansprucht [ITA.GetName] schamlos unsere [ITA.GetAdjective] sprechenden Kantone. Wenn sie dazu in der Lage sind, können wir sicherlich verlangen, dass ihre Alpen unserem demokratischen Regime beitreten, schließlich gehören sie zu [ROOT.GetNameDef], genauso wie das Tessin zu [ITA.GetNameDef] gehört."
  SWI_demand_french_alps:0 "Fordern Sie die französischen Alpen"
