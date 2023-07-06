@@ -1024,7 +1024,7 @@
 ITA_claims_on_turkey_bba_desc:1 "$ITA_claims_on_turkey_desc$"
  ITA_befriend_turkey:0 "Freunde dich mit der Türkei an"
  ITA_befriend_turkey_desc:1 "$ITA_turkey_friend_desc$"
- ITA_corpo_di_truppe_volontarie:0 „Corpo di Truppe Volontarie“
+ ITA_corpo_di_truppe_volontarie:0 "Corpo di Truppe Volontarie"
  ITA_corpo_di_truppe_volontarie_desc:1 "$ITA_support_nationalist_spain_desc$"
  ITA_spanish_italian_alliance:0 „Spanisch-Italienische Allianz“
  ITA_spanish_italian_alliance_desc:1 "$ITA_spanish_italian_faction_desc$"

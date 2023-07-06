@@ -25,7 +25,7 @@
  coastal_bunker_desc:0 "Dieses Gebäude fügt dem Angreifer im Seeinvasionskampf einen Angriffsmalus von $VALUE|+%0$ für jedes Fortlevel zu.\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y2§!"
  anti_air_building:0 "Luftabwehr"
  anti_air_building_plural:0 "Luftabwehr"
- anti_air_building_desc:0 "Dieses Gebäude bietet dem Staat Schutz vor feindlichen Bombern und die Möglichkeit, auf angreifende Flugzeuge zu schießen.\n\nMax. Stufe: §Y5§!\nGebäudezustand: §Y2§!\nSchaden durch Bombardierung: §G-90%§!\Statische Luftverteidigung: §G+1§!\nInfrastruktur-Effekt: §RNo§!"
+ anti_air_building_desc:0 "Dieses Gebäude bietet dem Staat Schutz vor feindlichen Bombern und die Möglichkeit, auf angreifende Flugzeuge zu schießen.\n\nMax. Stufe: §Y5§!\nGebäudezustand: §Y2§!\nSchaden durch Bombardierung: §G-90%§!\nStatische Luftverteidigung: §G+1§!\nInfrastruktur-Effekt: §RNo§!"
  synthetic_refinery:0 "Synthetische Raffinerie"
  synthetic_refinery_plural:0 "Synthetische Raffinerien"
  #synthetic_refinery_desc:0 
