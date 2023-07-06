@@ -349,7 +349,7 @@
  add_ruling_to_neu_tt:0 "Alle §Y[ROOT.GetRulingIdeology]§!-Unterstützungen zu §YNeutralität§! hinzufügen."
  if_they_accept_tt:0 "\n§YAuswirkungen, wenn sie akzeptieren:§!"
  if_they_refuse_tt:0 "\n§YAuswirkungen, wenn sie ablehnen:§!"
- THIS_IS_WIP_TT:0 "\n§§0AS IST NOCH IN ARBEIT§!"
+ THIS_IS_WIP_TT:0 "\n§§DAS IST NOCH IN ARBEIT§!"
  EFFECT_PROMOTE_CHARACTER:1 "$NAME$ wird Staatsoberhaupt"
  EFFECT_BUILD_RAILWAY:0 "Baue eine Ebene $LEVEL|Y$ Eisenbahn von $FROM|Y$ bis $TO|Y$."
  EFFECT_BUILD_RAILWAY_IN_STATE:0 "Baue eine Eisenbahn der Stufe $LEVEL|Y$ in $STATE|Y$."

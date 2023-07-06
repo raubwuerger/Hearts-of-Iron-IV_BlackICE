@@ -1562,7 +1562,7 @@ ITA_the_king_of_the_skies_military_industry_dm_tt:0 "$ITA_modify_military_indust
 
  ITA_il_vento_aureo:0 "Il Vento Aureo"
  ITA_il_vento_aureo_desc:0 "Lange wurde das Papsttum von fremden Mächten unterdrückt. Wir können jedoch unsere Luftwaffe und die Ausbildungsprogramme für Kampfflugzeuge so optimieren, dass wir viel billigere, aber mutigere Piloten einsetzen können, um unseren Feinden die goldene Herrschaft der katholischen Kirche aus der Luft zu bringen. Dies wird unser größtes Requiem sein!"
- form_greater_italy_tt:0 "Schaltet die Entscheidung frei: §0usrufung von Groß-Italien§!"
+ form_greater_italy_tt:0 "Schaltet die Entscheidung frei: §0Ausrufung von Groß-Italien§!"
  ITA_papal_faction:0 "Die katholische Herrschaft"
  ITA_roman_faction:0 "Imperium Romanum"
  ITA_latin_initiatives:0 "Die Lateinische Initiative"
@@ -1972,7 +1972,7 @@ ITA_the_king_of_the_skies_military_industry_dm_tt:0 "$ITA_modify_military_indust
  SWI_press_for_vorarlberg_desc:0 "Da die [AUS.GetAdjective]-Regierung in Scherben liegt, müssen wir den demokratischen Willen von [848.GetName] erfüllen, der in ihrem Referendum von 1919 zum Ausdruck kam, und sie in unsere Demokratie integrieren. Es ist die Pflicht von [ROOT.GetNameDef], sie vor Faschismus und Autokratie zu schützen."
  SWI_pre_empt_anschluss:0 "Anschluss vorwegnehmen"
  SWI_pre_empt_anschluss_desc:0 "Es gibt Gerüchte, dass [GER.GetNameDef] [AUS.GetName] im Namen der [GER.GetAdjective]-Einheit annektieren will. Dies kann [ROOT.GetNAmeDef] nicht zulassen, da es [GER.GetNameDef] ermächtigen würde, die gleichen Ansprüche auf unsere deutschsprachigen Kantone zu erheben. Wir müssen uns beeilen und die Voraussetzungen für eine Verteidigung von ganz [AUS.GetName] schaffen."
- SWI_pre_empt_anschluss_tt:1 "§0ollte [AUS.GetNameDef] akzeptieren, werden wir Kerne auf ihre Kernstaaten gewinnen§! \n\n Die Wahrscheinlichkeit, dass sie akzeptieren, hängt von der §YGröße§! unserer Streitkräfte, ihrer §YMeinung§! über uns und davon ab, ob §Y[GER.GetNameDef] sich darauf vorbereitet§! [AUS.GetName] zu annektieren."
+ SWI_pre_empt_anschluss_tt:1 "§0Sollte [AUS.GetNameDef] akzeptieren, werden wir Kerne auf ihre Kernstaaten gewinnen§! \n\n Die Wahrscheinlichkeit, dass sie akzeptieren, hängt von der §YGröße§! unserer Streitkräfte, ihrer §YMeinung§! über uns und davon ab, ob §Y[GER.GetNameDef] sich darauf vorbereitet§! [AUS.GetName] zu annektieren."
  SWI_demand_italian_alps:0 "Fordern Sie die italienischen Alpen"
  SWI_demand_italian_alps_desc:0 "Seit Jahrzehnten beansprucht [ITA.GetName] schamlos unsere [ITA.GetAdjective] sprechenden Kantone. Wenn sie dazu in der Lage sind, können wir sicherlich verlangen, dass ihre Alpen unserem demokratischen Regime beitreten, schließlich gehören sie zu [ROOT.GetNameDef], genauso wie das Tessin zu [ITA.GetNameDef] gehört."
  SWI_demand_french_alps:0 "Fordern Sie die französischen Alpen"

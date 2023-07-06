@@ -93,11 +93,11 @@
 
  AC_build_amount_green:0 "[?ROOT.AC_project_build_amount^-1]"
  AC_build_amount_red:0 "§R[?ROOT.AC_project_build_amount^-1]§!"
- AC_building_amount_increase_button_tt:0 "Wählen Sie aus, wie viele Gebäude des ausgewählten Typs Sie in diesem Staat bauen möchten.\n\n§0ie maximale Anzahl hängt von dem Gebäude, den freien Plätzen im Staat und Ihren Technologien ab.§!\n\n§0licken Sie mit der Umschalttaste, um 5 hinzuzufügen oder zu entfernen.§!"
+ AC_building_amount_increase_button_tt:0 "Wählen Sie aus, wie viele Gebäude des ausgewählten Typs Sie in diesem Staat bauen möchten.\n\n§Die maximale Anzahl hängt von dem Gebäude, den freien Plätzen im Staat und Ihren Technologien ab.§!\n\n§Klicken Sie mit der Umschalttaste, um 5 hinzuzufügen oder zu entfernen.§!"
 
  AC_assigned_factories_green:0 "[?ROOT.AC_project_assigned_factories^-1]"
  AC_assigned_factories_red:0 "§R[?ROOT.AC_project_assigned_factories^-1]§!"
- AC_assigned_factories_button_tt:0 "Wählen Sie aus, wie viele Ihrer zivilen Fabriken Sie diesem Bauprojekt zuweisen möchten.\n\n§YFabriken für Projekte verfügbar:§! §G[?Root.num_of_civilian_factories_available_for_projects]§!\n\n§0ift-click to add or remove 5.§!"
+ AC_assigned_factories_button_tt:0 "Wählen Sie aus, wie viele Ihrer zivilen Fabriken Sie diesem Bauprojekt zuweisen möchten.\n\n§YFabriken für Projekte verfügbar:§! §G[?Root.num_of_civilian_factories_available_for_projects]§!\n\n§Lift-click to add or remove 5.§!"
 
  AC_political_power_cost_tt:0 "§YPolitische Macht erforderlich:§! §R[?Root.AC_project_political_power_cost^-1]§!\n\n"
 
@@ -106,7 +106,7 @@
  AC_build_button_text:0 "[AC_GetBuildButtonText]"
  AC_start_project:0 "Projekt starten"
  AC_cancel_project:0 "Projekt abbrechen"
- AC_build_button_tt:0 "§0urch Drücken dieser Schaltfläche wird ein Bauprojekt in Ihrem Entscheidungs-Tab gestartet oder ein aktives Projekt in diesem Staat abgebrochen.§!\n\n[AC_GetGUIValues]§LConstruction speed takes up to 50% penalty based on distance from your capital to this state.§!\n\n§0ie können bis zu 5 Bauprojekte gleichzeitig aktiv haben. Die maximale Anzahl hängt vom Bonus für die Baugeschwindigkeit in Ihrem Land ab. (+1 Bauplatz pro 10% Bonus)\n\nProjekte werden automatisch abgebrochen, wenn kein Bauplatz mehr verfügbar ist oder der neue Kontrolleur des Staates nicht auf Ihrer Seite ist und Ihnen keine Baugenehmigung erteilt hat.\n\nAbgebrochene Projekte benötigen einen Tag, um wieder verfügbar zu werden.§!"
+ AC_build_button_tt:0 "§Durch Drücken dieser Schaltfläche wird ein Bauprojekt in Ihrem Entscheidungs-Tab gestartet oder ein aktives Projekt in diesem Staat abgebrochen.§!\n\n[AC_GetGUIValues]§LConstruction speed takes up to 50% penalty based on distance from your capital to this state.§!\n\n§Sie können bis zu 5 Bauprojekte gleichzeitig aktiv haben. Die maximale Anzahl hängt vom Bonus für die Baugeschwindigkeit in Ihrem Land ab. (+1 Bauplatz pro 10% Bonus)\n\nProjekte werden automatisch abgebrochen, wenn kein Bauplatz mehr verfügbar ist oder der neue Kontrolleur des Staates nicht auf Ihrer Seite ist und Ihnen keine Baugenehmigung erteilt hat.\n\nAbgebrochene Projekte benötigen einen Tag, um wieder verfügbar zu werden.§!"
  AC_gui_values:0 "§YPolitische Machtkosten:§! [?Root.AC_project_political_power_cost^-1]\n§YBaudauer:§! [?Root.AC_project_construction_duration^-1] Tage\n§YGesamte Bauzeit:§! [?Root.AC_project_total_construction_duration_display^-1] days\n§YConstruction speed penalty:§! [?Root.AC_project_construction_speed_display^-1]%\n\n"
 
  AC_assist_repair_button_text:0 "Assist Repair"
@@ -118,7 +118,7 @@
  AC_assist_repair_target_idea_desc:0 "Dieses Land erhält Reparaturhilfe von einem seiner Verbündeten."
 
  AC_assist_repair_decision:0 "§YReparaturhilfe§! in [?AC_assist_repair_target.GetName]"
- AC_assist_repair_decision_desc:0 "Wir helfen gerade einem Verbündeten bei Reparaturen.\n\n§0licken Sie mit der rechten Maustaste, um das Zielland zu sehen.§!"
+ AC_assist_repair_decision_desc:0 "Wir helfen gerade einem Verbündeten bei Reparaturen.\n\n§Klicken Sie mit der rechten Maustaste, um das Zielland zu sehen.§!"
 
  AC_assist_repair_CANCEL_decision:0 "Reparaturhilfe abbrechen"
  AC_assist_repair_CANCEL_decision_desc:0 "Abbrechen der Reparaturhilfe."

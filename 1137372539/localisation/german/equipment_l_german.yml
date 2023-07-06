@@ -4386,7 +4386,7 @@
   TIMED_ACTIVITY_HEADER:0 "Aktivitätsanforderung:"
   REQUESTED_REINFORCEMENT_COLLECTING:0 " - Warten auf §HHerstellung§ der Ausrüstung!:"
   REQUESTED_REINFORCEMENT_DELIVERY:0 " - Warten auf §H-Lieferung§ der Ausrüstung! ($PROG|H%$):"
-  REQUESTED_REINFORCEMENT_COLLECTING_BLOCKED:0 " - §0erstärkung blockiert: keine Lieferung vom Kapital§!"
+  REQUESTED_REINFORCEMENT_COLLECTING_BLOCKED:0 " - §Verstärkung blockiert: keine Lieferung vom Kapital§!"
   REQUESTED_REINFORCEMENT_COLLECTING_AND_DELIVERY:0 " - Warten auf §Hproduzierte§! und §Hgelieferte§! Ausrüstung:"
   REQUESTED_REINFORCEMENT_DELIVERY_NO_PROGRESS:0 " - Warten auf §Hlieferungen§!:"
   REQUESTED_REINFORCEMENT_COLLECTING_ENTRY:0 "   - $NUM|Y0$/$MAX|Y0$ von $NAME|Y$"
