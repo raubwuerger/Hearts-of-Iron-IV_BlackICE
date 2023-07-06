@@ -1,5 +1,5 @@
 ﻿l_german:
- LEDGER_IMPORTS:0 "§0infuhr von Ressourcen§!"
+ LEDGER_IMPORTS:0 "§Einfuhr von Ressourcen§!"
  LEDGER_IMPORT_ENTRY:0 "$COUNTRY$: $AMOUNT|0$"
  INTEL_LEDGER_TECH_COUNT:0 "Recherchiert: $COUNT$/$TOTAL$"
  INTEL_LEDGER_TECH_OLD_COUNT:0 "Recherchiert vor den letzten 6 Monaten: $COUNT$/$TOTAL$"
@@ -113,7 +113,7 @@
  INTEL_LEDGER_DEPLOYED_EQUIPMENT_RATIO_COUNT_WITH_CAP:0 "Eingesetzte Heeresvorräte: $AMOUNT|H$ (Benötigt Heeresinfos: $MIN|H.0%$)"
  NO_ARMY_INTEL_WITH_CAP:0 "Keine Intelligenz (Benötigt Heereswissen: $MIN|H.0%$)"
  INTEL_LEDGER_TEMPLATE_ARMY_COUNT:1 "Anzahl der Divisionen mit dieser Vorlage: $RANGE|H$"
- ARMY_LEDGER_TEMPLATE_DETAILS:0 "§0etails zur Vorlage:§!"
+ ARMY_LEDGER_TEMPLATE_DETAILS:0 "§Details zur Vorlage:§!"
  CURRENT_ARMY_INTEL:0 "Heereswissen: $AMOUNT|H.0%$"
  FUZZY_INTEL_RANGE_TOOLTIP:1 "  Weniger als $MIN|H.0%$ : Keine Information\n $MIN|H.0%$ - $MAX|H.0%$ : Ungefähre Information\n Mehr als $MAX|H.0%$ : Volle Information"
  TEMPLATE_ARMY_COUNT_TITLE:0 "Armee zählt:"
@@ -181,7 +181,7 @@
  CIV_LEDGER_THRESHOLD_CONVOYS_GRAPH:1 "Konvoizahl und Geschichte"
  CIV_LEDGER_THRESHOLD_BOMBERS_GRAPH:0 "Bomber History Graph\n Wenn Sie das §YClassified Intelligence Upgrade§ haben! \n können Sie den Agency-Status sehen"
 
- INTEL_THRESHOLD_HEADER_ARMY:0 "§0ilitärische Geheimdienstberichte:§!\n\n"
+ INTEL_THRESHOLD_HEADER_ARMY:0 "§Militärische Geheimdienstberichte:§!\n\n"
  ARMY_LEDGER_THRESHOLD_SUPPLY_TRANSFER_ROUTE:0 "Nachschubrouten auf der Karte"
  ARMY_LEDGER_THRESHOLD_SUPPLY_TRANSFER_ROUTE_TOOLTIP:1 "Nachschubrouten mit detaillierten Tooltips"
  ARMY_LEDGER_THRESHOLD_FUZZY_TOTAL_ARMY_COUNT:2 "Ungefähre Anzahl der Divisionen"

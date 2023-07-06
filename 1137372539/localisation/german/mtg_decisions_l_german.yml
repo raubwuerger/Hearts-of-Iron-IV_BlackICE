@@ -92,7 +92,7 @@
  USA_join_defensive_alliance_north_american_dominion:0 "Treten Sie der Koalition bei"
  USA_congress:1 "Kongress"
  USA_congress_desc:1 "Der Kongress hat seine eigenen Regeln und Vorstellungen. Wir müssen mit ihnen zusammenarbeiten, um etwas zu erreichen, aber es gibt Möglichkeiten, um sicherzustellen, dass wir einen sympathischen und unterstützenden Kongress haben, mit dem wir arbeiten können."
- USA_congress_senate_support_header:0 "§0nterstützung durch den Senat§!"
+ USA_congress_senate_support_header:0 "§Unterstützung durch den Senat§!"
  USA_congress_house_support_header:0 "§HHouse Support§!"
  USA_congress_senate_support_amount:0 "§G[?USA.senators_support]§! / §Y[?USA.senators_total]§!"
  USA_congress_house_support_amount:0 "§G[?USA.representatives_support]§! / §Y[?USA.representatives_total]§!"
