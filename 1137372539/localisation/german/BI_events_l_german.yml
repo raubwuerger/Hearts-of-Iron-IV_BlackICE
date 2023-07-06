@@ -4583,8 +4583,8 @@ KMT_civil_war_tt:0 "§0ies könnte China in einen weiteren Bürgerkrieg stürzen
 ## 6/11/2017 ## 
 KMT_CHI_NAME_TT:0 "\n[CHI.GetName] : \n"
 KMT_ZXL_NAME_TT:0 "\n[ZXL.GetName] : \n"
-## 29/12/2017 ## "§Befehlen Sie unseren Agenten, stattdessen Chiang auszuschalten!"
-xian.3.c:0 "§Befehlen Sie unseren Agenten, stattdessen Chiang auszuschalten!"
+## 29/12/2017 ## "§0Befehlen Sie unseren Agenten, stattdessen Chiang auszuschalten!"
+xian.3.c:0 "§0Befehlen Sie unseren Agenten, stattdessen Chiang auszuschalten!"
 KMT_xian_choose_to_kill_chiang_tt:0 "§CDiese Option ist verfügbar, weil Sie gerade den Fokus§! §YSupport Pro-Japanese Faction§!\n\n§0Wenn Sie diese Option wählen, beenden Sie sofort den§! §YSupport Pro-Japanese Faction§! §!\n\n"
 ## 1/11/2017 ## 
 KMT_xian_choose_to_kill_chiang_commie_tt:0 "§0Diese Option ist verfügbar, weil Sie sich für den kommunistischen Weg entschieden haben§!\n\n§0Wenn Sie diese Option wählen, beenden Sie sofort den§! §YDer Rote Coup§! §!\n\n"

@@ -205,7 +205,7 @@
  ARMY_LEDGER_THRESHOLD_IDEAS:0 "Heeresminister und Gesetze"
  ARMY_LEDGER_THRESHOLD_STAFF_AND_RESEARCH:0 "Militärstab und Forschung"
 
- INTEL_THRESHOLD_HEADER_NAVY:0 "§Geheimdienstberichte der Marine: §!\n\n"
+ INTEL_THRESHOLD_HEADER_NAVY:0 "§0Geheimdienstberichte der Marine: §!\n\n"
  NAVY_LEDGER_THRESHOLD_FUZZY_TOTAL_FLEET_COUNT:1 "Ungefähre Gesamtzahl der Flotten"
  NAVY_LEDGER_THRESHOLD_TOTAL_FLEET_COUNT:0 "Flottenzahl"
  NAVY_LEDGER_THRESHOLD_FULL_SUPREMACY:0 "Keine Strafen für die Vorherrschaft der Marine"
@@ -253,7 +253,7 @@
  AIR_LEDGER_THRESHOLD_IDEAS:0 "Luftminister und Gesetze"
  AIR_MAPICON_SHOW_ALL_AIR_PORTS:0 "Flughafenstandorte"
 
- LEDGER_CHART_TOTAL_FACTORY:0 "§Gesamt Fabriken:§! $NUM|H$"
+ LEDGER_CHART_TOTAL_FACTORY:0 "§0Gesamt Fabriken:§! $NUM|H$"
  LEDGER_CHART_DAMAGED_FACTORY:0 "§RDamaged Factories:§! $NUM|H$"
  LEDGER_CHART_PRODUCED_CONVOYS:0 "§GProduzierte Konvois:§! $NUM|H$ (bis heute $UNTIL_TODAY|H$)"
  LEDGER_CHART_DAMAGED_CONVOYS:0 "§RLost Convoys:§! $NUM|H$ (bis heute $UNTIL_TODAY|H$)"

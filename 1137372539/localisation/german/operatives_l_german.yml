@@ -166,7 +166,7 @@
  OPERATIVE_MISSION_BOOST_IDEOLOGY_ACTION:0 "Stärkung der Ideologie"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_TT:2 "$IDEOLOGY|H$ in $COUNTRY|H$ um $VALUE|H$ pro Tag verstärken"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_ASSIGNMENT_DESC:0 "§GKlick§! um geeignete Zielländer zu markieren. Dann §GKlick§! auf ein Land, um die zu fördernde Ideologie auszuwählen."
- OPERATIVE_MISSION_BOOST_IDEOLOGY_DESC:2 "§Gewinnen Sie die Unterstützung einer lokalen politischen Partei.§!\n§YTägliche Ideologieunterstützung: $BASE|1=$§!\n Basis: $BASE|1G$"
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_DESC:2 "§0Gewinnen Sie die Unterstützung einer lokalen politischen Partei.§!\n§YTägliche Ideologieunterstützung: $BASE|1=$§!\n Basis: $BASE|1G$"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_VALID_TARGET:1 "§GKlicke§! um eine Ideologie auszuwählen und weise $CODENAME|H$ £operative_mission_icons_small|5£ Boost Ideology in $STATE|H$ zu"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_INVALID_TARGET:1 "Kann nicht zugewiesen werden, um die Ideologie in $STATE|H$\n\n$REASON|R$ zu stärken"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_INITIATE_DESC:0 "Steigert die Unterstützung von $IDEOLOGY|H$ um $VALUE|H$ pro Tag"
