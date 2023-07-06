@@ -151,7 +151,7 @@
  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_TITLE:0 "Gegenspionage"
  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ACTION:0 "Verteidigung gegen subversive Angriffe"
  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_TT:0 "Verteidigung gegen subversive Angriffe in unserem Heimatland"
- OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ASSIGNMENT_DESC:1 "Mit §GClick§! werden die passenden Länder markiert. Dann §GKlick§! auf ein Land, um die Mission zu starten.\n§Rechtsklick§! um die Mission in unserem Heimatland zu starten."
+ OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ASSIGNMENT_DESC:1 "Mit §GClick§! werden die passenden Länder markiert. Dann §GKlick§! auf ein Land, um die Mission zu starten.\n§GRechtsklick§! um die Mission in unserem Heimatland zu starten."
  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_DESC:3 "§0Aufgabe im eigenen Land oder im Land eines Verbündeten, um ausländische Agenten von subversiven Aktionen abzuhalten.§!\n§!§0Beitrag zur Gegenspionage: $BASE|1=$§!\n Basis: $BASE|2+$"
  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_VALID_TARGET:0 "§GKlick§! um $CODENAME|H$ der £operative_mission_icons_small|3£ Gegenspionage in $COUNTRY|H$ zuzuordnen"
  OPERATIVE_MISSION_COUNTER_INTELLIGENCE_INVALID_TARGET:0 "§R$COUNTRY|H$ ist kein Verbündeter§!"

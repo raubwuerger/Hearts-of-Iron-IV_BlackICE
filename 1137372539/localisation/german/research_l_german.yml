@@ -4302,7 +4302,7 @@
  DEFENCE_IN_DEPTH_DOCTRINE_DESC:0 "Wenn wir Boden gegen Zeit tauschen, wird der Feind an unserer Verteidigung verbluten. Schlagen Sie zurück, sobald der Angriff abgewehrt ist."
  beachhead_consolidation_desc:0 "Wenn der Strand eingenommen ist, muss er gehalten werden."
  operational_landings_desc:0 "Eine amphibische Landung ist ein bedeutendes Unterfangen. Die Truppen müssen nach besten Kräften unterstützt werden."
- cat_brigade_doctrine_tt:0 "§Regimental Doctrine§!\n"
+ cat_brigade_doctrine_tt:0 "§0Regiments Doktrin§!\n"
  cat_operational_support_tt:0 "§COperational Support Doctrine§!\n"
  cat_depth_tt:0 "§CDefence-In-Depth-Doktrin§!\n"
  cat_prepared_defense_tt:0 "§CPerpared Defence Doctrine§!\n"
