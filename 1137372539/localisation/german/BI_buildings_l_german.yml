@@ -38,7 +38,7 @@
  uniform_factory:0 "Fabrik für Uniformen"
  uniform_factory_desc:0 "Jede Fabrik wird die §Produktionskosten§! von: §YUniform-Ausrüstung§!.\n\nMax Level: §Y4§!\nGebäudezustand: §Y2§!\nInfrastruktur-Effekt: §GJa§!\n\n§Dauert bis zu 1 Woche zur Aktivierung§!"
  uniform_factory_plural:0 "Einheitliche Fabriken"
- uniform_factory_plural_desc:0 "Jede Fabrik wird den §Abnutzungsgrad§! Ihrer §Landstreitkräfte§! verringern."
+ uniform_factory_plural_desc:0 "Jede Fabrik wird den §GAbnutzungsgrad§! Ihrer §Landstreitkräfte§! verringern."
  Ltaircraft_factory:0 "Fabrik für leichte Flugzeuge"
  Ltaircraft_factory_desc:0 "Jede Fabrik wird §die Produktionskosten§! von: §YSingle Engine Aircraft§!.\n\nMax Level: §Y4§!\nGebäudezustand: §Y2§!\nInfrastruktur-Effekt: §GJa§!\n\n§Dauert bis zu 1 Woche bis zur Aktivierung§!"
  Ltaircraft_factory_plural:0 "Leichtflugzeug-Fabriken"

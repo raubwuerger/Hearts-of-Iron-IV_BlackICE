@@ -257,7 +257,7 @@
  EAI_config_COUNTRY_2d_tt:0 "§Verzweifelte Verteidigung: Hoch\n\nVerzweifelte Verteidigungsboni im Minimum (>0% Kapitulationsfortschritt):§!\n\n§L-Division Rekrutierungszeit: -75% - -85%\n-Dockyard Output: +50%\n-Produktionseffizienz-Wachstum: +100%\n\nDarüber hinaus hat jede Land- und Luftausrüstung, die dem Land fehlt, eine mittlere Kostenreduzierung.§!\n\n§Desperate Defense bonuses at maximum (>50% surrender progress):§!\n\n§L-Division Recruitment Time: -85%\n-Dockyard Output: +100%\n-Produktionseffizienz-Wachstum: +200%\n\nAußerdem hat jede Land- und Luftausrüstung, die dem Land fehlt, eine hohe Kostenreduktion!"
 
  EAI_config_COUNTRY_3_headline:0 "Verstärkungen [EAI_GetReinforcements]"
- EAI_config_COUNTRY_3_tt:0 "Dieses Land kann kostenlose Divisionen und Ausrüstung erhalten, wenn es Verluste erleidet. Die Verstärkungen treffen ungefähr monatlich ein, solange das Land Anspruch darauf hat.\n\n Die Gesamtzahl der Divisionen, die empfangen werden können, hängt von der Größe des Landes ab. Ihr Standort ist vorzugsweise irgendwo hinter der aktiven Front, aber außerhalb der Sichtweite des Feindes.\n\nAusrüstung wird nur in Landausrüstungskategorien empfangen, in denen die KI Defizite hat.\n\n§Anzahl der erstellten Divisionen: [?Root.EAI_dd_unit_count]§!"
+ EAI_config_COUNTRY_3_tt:0 "Dieses Land kann kostenlose Divisionen und Ausrüstung erhalten, wenn es Verluste erleidet. Die Verstärkungen treffen ungefähr monatlich ein, solange das Land Anspruch darauf hat.\n\n Die Gesamtzahl der Divisionen, die empfangen werden können, hängt von der Größe des Landes ab. Ihr Standort ist vorzugsweise irgendwo hinter der aktiven Front, aber außerhalb der Sichtweite des Feindes.\n\nAusrüstung wird nur in Landausrüstungskategorien empfangen, in denen die KI Defizite hat.\n\n§YAnzahl der erstellten Divisionen: [?Root.EAI_dd_unit_count]§!"
  EAI_divisions_received:0 "([?Root.EAI_dd_unit_count])"
 
  EAI_config_COUNTRY_6_headline:0 "Planung/Verschanzung verstärken"
@@ -376,7 +376,7 @@
  EAI_config_ARMY_L4bc_text:0 "40 Breite"
 
  EAI_config_ARMY_L5_text:0 "Aufmarsch"
- EAI_config_ARMY_L5_tt:0 "§Attachment ist ein Divisionstyp, den dieses Land im Vergleich zu den Hauptrollen wie Infanterie-, Panzer- und Panzerabwehrdivisionen weniger baut.\n\nWenn dieses Land einen Panzerabwehrschwerpunkt hat, hängt die Art der Panzerabwehrdivisionen, die es bildet, von dieser Wahl ab.\n\nMit mittlerem oder schwerem Panzerattachment verwendet dieses Land in seinen Panzerabwehrdivisionen mittlere bzw. schwere Panzerjäger.\n\nMit motorisiertem oder leichtem Panzerattachment verwendet es reguläre Panzerabwehrbrigaden.§!"
+ EAI_config_ARMY_L5_tt:0 "§LAttachment ist ein Divisionstyp, den dieses Land im Vergleich zu den Hauptrollen wie Infanterie-, Panzer- und Panzerabwehrdivisionen weniger baut.\n\nWenn dieses Land einen Panzerabwehrschwerpunkt hat, hängt die Art der Panzerabwehrdivisionen, die es bildet, von dieser Wahl ab.\n\nMit mittlerem oder schwerem Panzerattachment verwendet dieses Land in seinen Panzerabwehrdivisionen mittlere bzw. schwere Panzerjäger.\n\nMit motorisiertem oder leichtem Panzerattachment verwendet es reguläre Panzerabwehrbrigaden.§!"
  EAI_config_ARMY_L5_tt2:0 "§RMedium/heavy armor attachment focuses are incompatible with medium/heavy armor focuses.§!"
  EAI_config_ARMY_L5_dropdown_text:0 "[EAI_GetArmorAttachment]"
  EAI_config_ARMY_L5-_text:0 "-"

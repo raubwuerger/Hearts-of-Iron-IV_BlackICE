@@ -291,7 +291,7 @@
  GER_Wolfsschanze_mission:0 "Aktuelles HQ : §YWolfsschanze§!"
  GER_Wolfsschanze_mission_desc:0 ""
  HQ_stay:0 "§Der Führer wird an seinem derzeitigen Standort bleiben."
- HQ_move:0 "§CDer Führer wird dieses HQ verlassen.§!\n\n§Auswirkungen, wenn das HQ nicht evakuiert wird und verloren geht:\n§Der Führer stirbt.\n\n§Da der Führer in der Nähe der Frontlinie ist, erhöht sich unsere Kriegsunterstützung.\n\nDer Tod des Führers wird dem Dritten Reich massiv schaden.§!\n\n"
+ HQ_move:0 "§CDer Führer wird dieses HQ verlassen.§!\n\n§YAuswirkungen, wenn das HQ nicht evakuiert wird und verloren geht:\n§Der Führer stirbt.\n\n§Da der Führer in der Nähe der Frontlinie ist, erhöht sich unsere Kriegsunterstützung.\n\nDer Tod des Führers wird dem Dritten Reich massiv schaden.§!\n\n"
  Berghof:0 "§CFührer§! in diesem Hauptquartier."
  Wolfsschanze_built:0 "§CDie Wolfsschanze ist nun als Führerhauptquartier freigeschaltet.§!\n"
  GER_Wolfsschanze_construction:0 "Errichten Sie die Wolfsschanze§!"
