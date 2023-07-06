@@ -2041,7 +2041,7 @@ ITA_the_king_of_the_skies_military_industry_dm_tt:0 "$ITA_modify_military_indust
  SWI_secret_pact_with_allies_TT:0 "Wenn wir uns in einem Krieg wiederfinden, werden wir uns sofort ihrer Fraktion anschließen."
  SWI_neutral_entente_faction:0 "Neutrale Entente"
  SWI_militias_turned_into_regulars:0 "Die Bürgermilizen wurden professionalisiert"
- SWI_old_switzerland_TT:0 "\n§Wenn der Krieg vorbei ist:§!\n"
+ SWI_old_switzerland_TT:0 "\n§0Wenn der Krieg vorbei ist:§!\n"
  SWI_viable_fascist_in_europe:0 "Lebensfähige europäische §YFaschistische Nation§! existiert"
 
  # Horn of Africa ""

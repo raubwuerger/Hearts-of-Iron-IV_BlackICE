@@ -281,7 +281,7 @@
  PRODUCTION_RAILWAY_GUN_NAME_LIST:0 "Eisenbahngeschütz-Namen"
  PRODUCTION_NAVAL_NAME_LIST_BUTTON_FALLBACK:0 "Schiffsnamen"
  PRODUCTION_RAILWAY_GUN_NAME_LIST_BUTTON_FALLBACK:0 "Eisenbahngeschütz-Namen"
- PRODUCTION_NAVAL_NAME_LIST_EMPTY_NOT_ALLOWED:0 "§Leere Namen sind nicht erlaubt!"
+ PRODUCTION_NAVAL_NAME_LIST_EMPTY_NOT_ALLOWED:0 "§0Leere Namen sind nicht erlaubt!"
  PRODUCTION_NAVAL_NAME_LIST_TOO_FEW_PRODUCED:0 "§Namen werden die Anzahl der Schiffe in der Produktionswarteschlange überschreiten."
  PRODUCTION_NAVAL_NAME_LIST_REMOVE:0 "§0lick§! auf §Name entfernen§!"
  PRODUCTION_NAVAL_NAME_LIST_NAME_RESERVED:0 "$NAME|H$ ist bereits in Gebrauch."

@@ -41,7 +41,7 @@
  CONSTRUCTION_HIGHEST_PRIORITY:0 "§GShift+Klick, um der Konstruktion §Höchste Priorität§!§ zu geben!"
  CONSTRUCTION_LOWEST_PRIORITY:0 "§GShift+Klick, um dem Bauwerk §Niedrigste Priorität§!§ zu geben!"
  CONSTRUCTION_INCREASE_AMOUNT_LABEL:0 "§TIncrease amount.§!"
- CONSTRUCTION_DECREASE_AMOUNT_LABEL:0 "§Betrag verringern§§!"
+ CONSTRUCTION_DECREASE_AMOUNT_LABEL:0 "§0Betrag verringern§§!"
  CONSTRUCTION_MAXIMIZE:0 "§GShift+Klick auf §Hmaximieren§!§!"
  CONSTRUCTION_MAPMODE_TOOLTIP_SHARED:0 "$NAME|H$ haben $USED_SLOTS|Y$ von $MAX_SLOTS|Y$ Bauslots benutzt.\n$LIST$"
  CONSTRUCTION_MAPMODE_TOOLTIP_SHARED_LIST_ENTRY:0 "$NAME|H$: $LEVEL$"

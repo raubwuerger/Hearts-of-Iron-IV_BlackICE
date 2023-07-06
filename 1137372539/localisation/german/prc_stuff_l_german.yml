@@ -126,7 +126,7 @@
  PRC_armament_reorganization_desc:0 "Wir müssen unsere Nation in der Produktion von Rüstungsgütern stärken."
  PRC_expand_taiyuan_arsenal:0 "Ausbau des Taiyuan-Arsenals"
  PRC_expand_taiyuan_arsenal_desc:0 "Das Taiyuan-Arsenal ist für seine Qualitätsproduktion bekannt. Wenn wir seine Produktion steigern können, werden wir davon stark profitieren."
- if_in_faction_with_chi:0 "§Wenn Ihr mit [CHI.GetName] im Bunde seid: §!"
+ if_in_faction_with_chi:0 "§0Wenn Ihr mit [CHI.GetName] im Bunde seid: §!"
  PRC_lure_them_in_strategy:0 "Anlocken-Strategie"
  PRC_lure_them_in_strategy_desc:0 "Mit dem riesigen Territorium unserer Nation und dem unwegsamen Gelände können wir es uns leisten, uns zurückzuziehen und Eindringlinge auf ein Schlachtfeld unserer Wahl zu locken. Sollen die Imperialisten doch versuchen, uns zu jagen! Sie werden an jeder Ecke auf einen Hinterhalt und bei jedem Schritt auf eine Sprengfalle stoßen!"
  PRC_industrialization_NW:0 "Lokale Industrialisierung: Nordwesten"

@@ -233,7 +233,7 @@
  NAVY_LEDGER_THRESHOLD_IDEAS:0 "Marineminister und -gesetze"
  NAVY_MAPICON_SHOW_ALL_NAVAL_PORTS:0 "Alle Hafenstandorte"
 
- INTEL_THRESHOLD_HEADER_AIRFORCE:0 "§Luftinformationsberichte: §!\n\n"
+ INTEL_THRESHOLD_HEADER_AIRFORCE:0 "§0Luftinformationsberichte: §!\n\n"
  AIR_LEDGER_THRESHOLD_FUZZY_TOTAL_AIRWING_COUNT:1 "Ungefähre Gesamtzahl der Luftflügel"
  AIR_LEDGER_THRESHOLD_TOTAL_AIRWING_COUNT:1 "Gesamtzahl der Flugzeuge"
  AIR_LEDGER_THRESHOLD_FUZZY_SPECIFIC_AIRWING_COUNT:1 "Ungefähre Anzahl der Flugzeuge nach Modell"

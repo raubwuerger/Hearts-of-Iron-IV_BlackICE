@@ -46,7 +46,7 @@
  MANPOWER_RAILWAY_GUN:0 "Eisenbahnwaffen-Dienstpersonal"
  MANPOWER_RAILWAY_GUN_DESC:0 "§This §HRailway Gun§! requires $AMOUNT|G$ of service manpower.§!"
  MANPOWER_AIRWING:0 "Air Wing Service Manpower"
- MANPOWER_AIRWING_DESC:0 "§TDieses §Luftgeschwader§! erfordert $AMOUNT|G$ an Dienstpersonal.§!"
+ MANPOWER_AIRWING_DESC:0 "§TDieses §0Luftgeschwader§! erfordert $AMOUNT|G$ an Dienstpersonal.§!"
  CONSCRIPTION_TOTAL_FACTOR_EXTRA_DESC:0 "\nEffective Total Manpower geändert auf $VAL|Y%0$ aufgrund von\n"
  EQUIPMENT_DIVISION:0 "Abteilung Ausrüstungsverhältnis"
  EQUIPMENT_DIVISION_DESC:0 "Zeigt an, wie die Abteilung mit der benötigten Ausrüstung ausgestattet ist."

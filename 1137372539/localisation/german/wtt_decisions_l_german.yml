@@ -330,7 +330,7 @@
  GER_request_polish_war_participation:0 "Polnische Kriegsteilnahme fordern"
  GER_request_polish_war_participation_desc:0 "Da wir uns im Krieg mit [SOV.GetName] befinden, verlangen wir, dass unsere Armeen durch [POL.GetAdjective]-Gebiet ziehen. Da wir geschworen haben, sie zu schützen, ist es nur natürlich, dass sie sich unserem Krieg anschließen."
  GER_reform_austro_hungarian_empire:1 "Neuformierung von Österreich-Ungarn"
- GER_reform_austro_hungarian_empire_tt:0 "Aufforderung an die anderen österreichisch-ungarischen Nachfolgestaaten, das Reich neu zu formieren.\n§Wenn sie annehmen, erbt ihr alle Kriege, in die sie verwickelt sind!§!\n"
+ GER_reform_austro_hungarian_empire_tt:0 "Aufforderung an die anderen österreichisch-ungarischen Nachfolgestaaten, das Reich neu zu formieren.\n§0Wenn sie annehmen, erbt ihr alle Kriege, in die sie verwickelt sind!§!\n"
  GER_reformed_austro_hungarian_empire:0 "Neuformierung des österreichisch-ungarischen Reiches"
  GER_barbarossa_mission:0 "Führerdirektive 21"
  emergency_factory_conversion_defensive:0 "Notumbau der Fabriken"

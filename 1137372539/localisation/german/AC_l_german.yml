@@ -97,11 +97,11 @@
 
  AC_assigned_factories_green:0 "[?ROOT.AC_project_assigned_factories^-1]"
  AC_assigned_factories_red:0 "§R[?ROOT.AC_project_assigned_factories^-1]§!"
- AC_assigned_factories_button_tt:0 "Wählen Sie aus, wie viele Ihrer zivilen Fabriken Sie diesem Bauprojekt zuweisen möchten.\n\n§YFabriken für Projekte verfügbar:§! §G[?Root.num_of_civilian_factories_available_for_projects]§!\n\n§Lift-click to add or remove 5.§!"
+ AC_assigned_factories_button_tt:0 "Wählen Sie aus, wie viele Ihrer zivilen Fabriken Sie diesem Bauprojekt zuweisen möchten.\n\n§YFabriken für Projekte verfügbar:§! §G[?Root.num_of_civilian_factories_available_for_projects]§!\n\n§0ift-click to add or remove 5.§!"
 
  AC_political_power_cost_tt:0 "§YPolitische Macht erforderlich:§! §R[?Root.AC_project_political_power_cost^-1]§!\n\n"
 
- AC_allied_construction_icon1_tt:0 "Verbündete Bauprojekte\n\n§Create a construction project in this state.§!"
+ AC_allied_construction_icon1_tt:0 "Verbündete Bauprojekte\n\n§CErstellen sie ein Bauprojekt in diesem Staat.§!"
 
  AC_build_button_text:0 "[AC_GetBuildButtonText]"
  AC_start_project:0 "Projekt starten"
