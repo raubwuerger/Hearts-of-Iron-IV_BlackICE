@@ -179,7 +179,7 @@ ENABLE_TASK_FORCE_AUTO_REINFORCEMENT:0 "§GKlick§! auf §HEnable§! die §HAuto
 DISABLE_TASK_FORCE_AUTO_REINFORCEMENT:0 "§GKlick§! zum §HDisable§! der §0utomatischen Verstärkung§! der ausgewählten Einsatzkräfte"
 TASK_FORCE_AUTO_REINFORCEMENT_DISABLED_FOR_DETACHED:0 "§0bgekoppelte Einsatzkräfte können keine§! §0utomatische Verstärkung§!"
 TASK_FORCE_AUTO_REINFORCEMENT_DESC:0 "Wenn die §HAutomatische Verstärkung§! eines Einsatzverbandes aktiviert ist, zieht er Schiffe aus den Reserveflotten seines Einsatzgebietes, um die eingestellten Anforderungen zu erfüllen.\nWenn sie aktiviert ist, werden die Anforderungen unter der tatsächlichen Anzahl von Schiffen im Einsatzverband angezeigt.\n\nDer Einsatzverband wird niemals automatisch Schiffe zurückgeben, wenn er mehr als die Anforderungen hat."
-CLICK_TO_SELECT_FLEET:0 "§0lick§! zur Auswahl der Flotte $NAME|H$"
+CLICK_TO_SELECT_FLEET:0 "§0Klick§! zur Auswahl der Flotte $NAME|H$"
 FLEET_NAMED:0 "$NAME|H$"
 TASK_FORCE_NAMED:0 "$NAME|H$"
 TASK_FORCE_MEMBER_OF_FLEET:0 "Mitglied der Flotte $FLEET|H$"

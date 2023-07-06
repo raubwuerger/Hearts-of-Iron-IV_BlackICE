@@ -642,7 +642,7 @@
  concealment_expert:0 "Tarnungsexperte"
  concealment_expert_desc:0 "§0ieser Offizier hat das von der Regierung vorgeschriebene Training absolviert, um nicht gesehen zu werden."
  mine_sweeper:0 "Minenräumer"
- mine_sweeper_desc:0 "§0edes Schiff kann einmal ein Minenräumer sein. Um mehrere Minen zu räumen, braucht es Geschicklichkeit."
+ mine_sweeper_desc:0 "§0Jedes Schiff kann einmal ein Minenräumer sein. Um mehrere Minen zu räumen, braucht es Geschicklichkeit."
  mine_layer:0 "Minenleger"
  mine_layer_desc:0 "§0as Abwerfen von hochexplosiven Minen, die Schiffe versenken sollen, von einem Schiff aus, auf dem du dich befindest, erfordert eine gewisse mentale Stärke. Dieser Offizier hat viel davon."
  cruiser_captain:0 "Kreuzerkapitän"

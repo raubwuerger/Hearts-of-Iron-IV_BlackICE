@@ -1239,7 +1239,7 @@
  do_335_fighter_equipment_1_short:0 "Do 335 A Schweres Jagdflugzeug"
  do_335_fighter_equipment_1_desc:0 "Die Dornier Do 335 geht auf den ersten Krieg zurück, als Claude Dornier mehrere Flugboote mit Tandemmotoren konstruiert hatte. Durch den Einsatz von Tandemmotoren konnte die Rollrate des Flugzeugs erhöht, das Gewicht auf der Mittellinie gehalten und der Luftwiderstand verringert werden. Die Dornier Do 335 war Teil der Richtlinie für das Emergency Fighter Program und wurde mit höchster Priorität produziert. Die Dornier Do 335 A war mit einer motormontierten 30mm MK 103 Kanone und zwei 20mm MG151/20 bewaffnet."
  do_335_fighter_equipment_2:0 "Dornier 335 B 'Pfeil'"
- do_335_fighter_equipment_2_short:0 "Schweres Jagdflugzeug Do 335 B"
+ do_335_fighter_equipment_2_short:0 "Do 335 B Schweres Jagdflugzeug"
  do_335_fighter_equipment_2_desc:0 "Für die Dornier Do 335 B wurden mehrere Varianten vorgeschlagen, die von längeren Tragflächen, zwei zusätzlichen 30-mm-Kanonen MK 103, zusätzlichen Treibstofftanks und besseren Motoren reichten. Keine dieser Varianten verließ die Konstruktionsbühne.\n\nVeraltete Dornier Do 335 As können zu Bs umgebaut werden."
  tech_do_335_fighter_equipment_1:0 "Do 335 A"
  tech_do_335_fighter_equipment_1_desc:0 "Die Do 335 ist ein schweres Jagdflugzeug."
