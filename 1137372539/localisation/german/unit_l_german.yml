@@ -211,7 +211,7 @@ TASK_FORCE_ACTIVITY_DESC_SPOTTING_ENEMY_TASK_FORCE:0 "Aufspüren $PROGRESS|H0$§
 TASK_FORCE_ACTIVITY_DESC_SPOTTING_ENEMY_TRANSFER:0 "$PROGRESS|H0$§H%§ aufspüren! Lokalisierung eines $FLAG$ §Hnaval transfer§! in $REGION|H$"
 TASK_FORCE_ACTIVITY_DESC_SPOTTING_ENEMY_CONVOY:0 "Aufspüren von $PROGRESS|H0$§H%§! Ortung eines $FLAG$ §H-Konvois§! in $REGION|H$"
 TASK_FORCE_ACTIVITY_DESC_STRIKE_FORCE_INTERCEPTING:0 "£going_to_combat Abfangen von $TARGET|H$"
-TASK_FORCE_FLEET_INFORMATION_HEADER:0 "§HFlotteninformationen§!\nMaximale Geschwindigkeit: $SPEED|H$\nMaximale Reichweite: $RANGE|H$\n"
+TASK_FORCE_FLEET_INFORMATION_HEADER:0 "§HFlotteninformationen§!\nMax. Geschwindigkeit: $SPEED|H$\nMaximale Reichweite: $RANGE|H$\n"
 TASK_FORCE_FLEET_INFORMATION_SLOWEST_SHIPS:0 "\n§HSlowest Ships§!\n"
 TASK_FORCE_FLEET_INFORMATION_SHORTEST_RANGES:0 "\n§0ürzeste Reichweiten§!\n"
 TASK_FORCE_FLEET_INFORMATION_DELAYED:0 "Um mehr über die einzelnen Schiffe zu erfahren, wählen Sie eine Task Force aus und klicken Sie dann auf das Porträt der Schiffsdetails."
