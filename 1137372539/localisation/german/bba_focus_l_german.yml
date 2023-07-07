@@ -1038,7 +1038,7 @@ ITA_claims_on_turkey_bba_desc:1 "$ITA_claims_on_turkey_desc$"
  ITA_austrian_guarantees_tt:1 "Für den Fall, dass Deutschland einen Anschluss versucht, erhält Italien die Möglichkeit einzugreifen."
  ITA_all_eth_initial_states_scribed_tt:0 "Alle ursprünglichen äthiopischen Staaten werden von §Y[ROOT.GetFlag][ROOT.GetNameDef]§! oder einem §Y[ROOT.GetAdjective]-Verbündeten§! kontrolliert."
  ITA_fronte_militare_clandestino_modifier_tt:0 "§Y$ITA_fronte_militare_clandestino_modifier$ (Italien)§! (§Y730§! Tage) hinzufügen, der Folgendes gewährt: \n $MODIFIER_RESISTANCE_GROWTH_ON_OUR_OCCUPIED_STATES$: §G+10%§! \n $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+ 15%§ ! \n\n"
- ITA_flotta_d_evasione_admiral_traits_tt:0 "Zwei zufällige Admirale erhalten die Eigenschaft §Y$bold$§!: \n- $MODIFIER_NAVAL_SPEED$: §G+10%§! \n- $MODIFIER_NAVAL_DAMAGE_FACTOR$: §G+5.00%§! \n\ N"
+ ITA_flotta_d_evasione_admiral_traits_tt:0 "Zwei zufällige Admirale erhalten die Eigenschaft §Y$bold$§!: \n- $MODIFIER_NAVAL_SPEED$: §G+10%§! \n- $MODIFIER_NAVAL_DAMAGE_FACTOR$: §G+5.00%§! \n\n"
  ITA_heroes_of_the_nation_general_traits_tt:0 "\nDrei zufällige Generäle erhalten die Eigenschaft §Y$war_hero$§!: \n- $MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR$: §G-50.0%§! \n- $MODIFIER_REASSIGNMENT_DURATION_FACTOR$: §R+50.0%§! \n \N"
  ITA_mussolini_becomes_field_marshal_tt:0 "$ITA_benito_mussolini$ wird Feldmarschall."
  
