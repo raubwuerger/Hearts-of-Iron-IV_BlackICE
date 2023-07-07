@@ -260,7 +260,7 @@
  jap.96.d:0 "Einige Schlüsselfiguren haben berichtet, dass ihre Telefone abgehört werden. Die meisten glauben, dass japanische Agenten dafür verantwortlich sind. Viele von ihnen sind dazu übergegangen, Briefe zu schreiben, anstatt zu telefonieren. Dies hat den Fortschritt der Bewegung drastisch verlangsamt."
  jap.96.a:0 "Sagen Sie ihnen, dass sie weiterhin das Telefon benutzen sollen."
  increase_jap_awareness2_tt:0 "§RMäßig das Bewusstsein der japanischen Regierung erhöhen\n§!"
- increase_jap_awareness3_tt:0 "§Steigern Sie den Bekanntheitsgrad der japanischen Regierung erheblich!"
+ increase_jap_awareness3_tt:0 "§0Steigern Sie den Bekanntheitsgrad der japanischen Regierung erheblich!"
  increase_jap_awareness4_tt:0 "§RDas Bewusstsein für die japanische Regierung drastisch erhöhen\n§!"
  jap.97.t:0 "Japanische Geheimpolizei"
  jap.97.d:0 "Die Japaner haben eine Geheimpolizei eingerichtet, nachdem sie von unseren Restaurationsbewegungen erfahren haben. Es gelingt uns, für einige Monate unter dem Radar zu bleiben. Wir haben jedoch die Nachricht erhalten, dass sie nun eine landesweite Razzia planen, um die Restaurationisten auszurotten. Hochrangige Mitglieder der Bewegung haben zu einer Zeit der Untätigkeit aufgerufen, um nicht entdeckt zu werden. Dies wird unseren Fortschritt sicherlich enorm verlangsamen, aber langfristig wird es von Vorteil sein."
@@ -444,7 +444,7 @@
  jap.152.a:0 "Interessant"
 
  ## 28/3/2018 ## ""
- KMT_nice_to_become_dog_tt:0 "\n§Es ist außergewöhnlich, dass wir in der Lage sind, der Hund von [From.GetName] zu werden§!\n"
+ KMT_nice_to_become_dog_tt:0 "\n§0Es ist außergewöhnlich, dass wir in der Lage sind, der Hund von [From.GetName] zu werden§!\n"
 
 
 
@@ -507,7 +507,7 @@
  ### focus ### ""
  MCK_more_opium_tt:0 "Die Verteilung von Opium in den besetzten Gebieten verringert den Kampfeswillen der Einheimischen ein wenig.\n"
  MCK_some_keibigun_tt:0 "5 Kenpeitai werden sich in Hsinking versammeln.\n"
- MCK_contact_white_tt:0 "§Die RFP könnte uns um Unterstützung bei der Vernichtung der Bolschewiken bitten, wenn wir erfolgreich unsere Unabhängigkeit erklärt haben."
+ MCK_contact_white_tt:0 "§0Die RFP könnte uns um Unterstützung bei der Vernichtung der Bolschewiken bitten, wenn wir erfolgreich unsere Unabhängigkeit erklärt haben."
  MCK_river_force_tt:0 "2 Marines werden sich in Hsinking versammeln."
  MCK_royal_guards_tt:0 "5 Royal Guards versammeln sich in Hsinking."
  MCK_militias_tt:0 "An verschiedenen Orten erheben sich Milizen."
@@ -661,7 +661,7 @@
  MCK_armament_effort_2:0 "Rüstungsanstrengungen II"
  MCK_armament_effort_2_desc:0 "Der Versuch, zivile Fabriken an die Produktion von militärischer Ausrüstung anzupassen, ist ineffizient. Wir sollten uns jetzt auf die Vorbereitung der militärischen Produktion konzentrieren."
  MCK_prospect_for_resources:0 "Aussicht auf Ressourcen"
- MCK_prospect_for_resources_desc:0 "Wenn wir autark sein wollen, müssen wir die Ressourcen unter unseren Füßen nutzen, um eine starke Wirtschaft aufrechtzuerhalten.\n §Je höher das Niveau der Ausgrabungstechnologie, desto mehr Ressourcen werden gewonnen werden"
+ MCK_prospect_for_resources_desc:0 "Wenn wir autark sein wollen, müssen wir die Ressourcen unter unseren Füßen nutzen, um eine starke Wirtschaft aufrechtzuerhalten.\n §0Je höher das Niveau der Ausgrabungstechnologie, desto mehr Ressourcen werden gewonnen werden"
  MCK_national_defence_forces:0 "Nationale Verteidigungskräfte"
  MCK_national_defence_forces_desc:0 "Obwohl wir in der gegenwärtigen Welt eine neutrale Haltung einnehmen, könnten andere dies nicht tun. Um unsere wertvolle Nation und das Volk zu schützen, ist ein starkes Militär erforderlich."
  MCK_extra_research_slot:0 "£tech_mod Extra Forschungsplatz"
@@ -757,9 +757,9 @@
  MCK_national_defence_forces_idea_plus:0 "Nationale Verteidigungsstreitkräfte"
  MCK_zongli_yamen:0 "Zongli Yamen"
  MCK_dongbei_partisan:0 "Dongbei Partisanen"
- MCK_dongbei_partisan_desc:0 "Seit der japanischen Besatzung haben kommunistische Partisanen im nördlichen Teil unserer Gebiete Stellung bezogen.\n\n§Zeitweise Schäden an Gebäuden und Infrastrukturen in den chinesischen Kernstaaten.§!"
+ MCK_dongbei_partisan_desc:0 "Seit der japanischen Besatzung haben kommunistische Partisanen im nördlichen Teil unserer Gebiete Stellung bezogen.\n\n§0Zeitweise Schäden an Gebäuden und Infrastrukturen in den chinesischen Kernstaaten.§!"
  MCK_dongbei_partisan_pacified:0 "Dongbei Partisanen"
- MCK_dongbei_partisan_pacified_desc:0 "Seit der japanischen Besatzung haben sich kommunistische Partisanen im nördlichen Teil unserer Gebiete festgesetzt.\n\n§Regelmäßige Schäden an Gebäuden und Infrastrukturen in den chinesischen Kernstaaten.§!\n\n§Mittlere Zeit bis zum Eintreten weiterer Schäden multipliziert mit x2.0§!"
+ MCK_dongbei_partisan_pacified_desc:0 "Seit der japanischen Besatzung haben sich kommunistische Partisanen im nördlichen Teil unserer Gebiete festgesetzt.\n\n§Regelmäßige Schäden an Gebäuden und Infrastrukturen in den chinesischen Kernstaaten.§!\n\n§0Mittlere Zeit bis zum Eintreten weiterer Schäden multipliziert mit x2.0§!"
  MCK_secret_recruitment_idea:0 "Geheime Rekrutierung"
  ## 5/1/2017 ## ""
  MCK_yoshisuke_aikawa_tfv:0 "Aikawa Yoshisuke"

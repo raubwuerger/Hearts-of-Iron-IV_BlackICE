@@ -163,7 +163,7 @@
  CHAT_WHISPER_TO:0 "An $NAME|H$"
  CHAT_SYSTEM:0 "System-Meldung"
  CHAT_ERROR_UNKNOWNUSER:0 "Unbekannter Benutzer."
- FE_CHANGE_SCENARIO_ONLY_SERVER:0 "§Darf nur vom Gastgeber geändert werden§!"
+ FE_CHANGE_SCENARIO_ONLY_SERVER:0 "§0Darf nur vom Gastgeber geändert werden§!"
  ACHIEVEMENTS_CHEATS:0 "Keine Cheats oder modifiziertes Spiel/Speichern"
  ACHIEVEMENTS_DIFFICULTY:0 "Normaler oder höherer Schwierigkeitsgrad"
  ACHIEVEMENTS_OK:0 "§HCan get Achievements!§!"

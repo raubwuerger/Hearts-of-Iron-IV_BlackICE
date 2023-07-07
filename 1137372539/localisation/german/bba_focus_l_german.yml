@@ -123,7 +123,7 @@
  ETH_expand_the_officer_corps:0 "Ausweitung des Offizierskorps"
  ETH_expand_the_officer_corps_desc:0 "Der Mangel an Leistungsprinzipien in den Streitkräften war in den letzten Jahren ihre größte Schwäche. Um sicherzustellen, dass die fähigsten Leute unsere Truppen anführen, müssen wir das Offizierskorps ausbauen und die Verdrängung derer ermöglichen, die ihren Rang durch Vetternwirtschaft erlangt haben."
  ETH_medal_gain_tt:0 "Erhöht die Anzahl der EP, die ein Divisionskommandeur erhält, wenn er eine Medaille erhält, um §G+75%§!"
- ETH_officer_promotion_boost_tt:0 "Alle zukünftigen §Offiziere§! die in den Rang eines §YGeneral§! befördert werden, erhalten §G+1 Angriff§! und §G+1 Verteidigung§!"
+ ETH_officer_promotion_boost_tt:0 "Alle zukünftigen §OOffiziere§! die in den Rang eines §YGeneral§! befördert werden, erhalten §G+1 Angriff§! und §G+1 Verteidigung§!"
  ETH_the_common_soldier:0 "Der einfache Soldat"
  ETH_the_common_soldier_desc:0 "Eine Armee ist nichts ohne die einfachen Soldaten, die jeden Tag ihr Leben aufs Spiel setzen, ohne eine Belohnung oder Anerkennung zu erwarten. Diese Helden sollten für ihren Beitrag zu unserer kollektiven Sicherheit verehrt werden."
  ETH_develop_the_capital_region:1 "Entwickeln [271.GetName]"

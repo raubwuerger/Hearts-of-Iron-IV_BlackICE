@@ -36,7 +36,7 @@
  spawn_partisan_TT:0 "§RPartisanen§! werden sich erheben\n"
  BICE_buildings:0 "Spezialisierte Ausrüstungsfabrik fertiggestellt"
  speer_in_office:0 "Hat Albert Speer als §YPoltischen Berater§!"
- GER_balkan_dominance_TT:0 "Hat keine §Feinde§! auf dem §YBalkan§!"
+ GER_balkan_dominance_TT:0 "Hat keine §0Feinde§! auf dem §YBalkan§!"
  GER_pressure_sweden_TT:0 "Hat mindestens §Y1§! weitere §YStaaten§! neben Schweden"
  ITALY_PUPPET:0 "Jeder §YItalienische Staat§! mit mehr als §G1§! [GER.GetFlag]§YDeutsche Divisionen§! wird in die Hände eines neuen §YItalienischen Marionettenstaates§! übergehen."
  GETS_CONTROL:0 "Er wird Eigentümer und Kontrolleur der oben genannten Staaten\n"
@@ -1164,7 +1164,7 @@
  COMPLIANCE_PROGRESS_TOOLTIP:0 "[?compliance|0]% [GetComplianceGrowthIcon]"
 
  SPECIAL_FACTORY_OPEN_TOOLTIP:0 "[ProductionTT1]"
- SPECIAL_FACTORY_OPEN_FALSE_TT:0 "Wir haben nicht §Viele Ausrüstungsfabriken!§!"
+ SPECIAL_FACTORY_OPEN_FALSE_TT:0 "Wir haben nicht §0Viele Ausrüstungsfabriken!§!"
  INDUSTRY_OPEN_TOOLTIP:0 "[ProductionTT2]"
  EQUIPMENT_INTRO_OPEN_TOOLTIP:0 "[ProductionTT3]"
  HSD_UI_OPEN_TOOLTIP:0 "[ProductionTT4]"
