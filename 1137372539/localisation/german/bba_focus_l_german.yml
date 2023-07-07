@@ -1028,19 +1028,19 @@ ITA_claims_on_turkey_bba_desc:1 "$ITA_claims_on_turkey_desc$"
  ITA_corpo_di_truppe_volontarie_desc:1 "$ITA_support_nationalist_spain_desc$"
  ITA_spanish_italian_alliance:0 "Spanisch-Italienische Allianz"
  ITA_spanish_italian_alliance_desc:1 "$ITA_spanish_italian_faction_desc$"
- ITA_demand_balearic_islands_bba:0 „Nachfrage Balearen“
+ ITA_demand_balearic_islands_bba:0 "Nachfrage Balearen"
  ITA_demand_balearic_islands_bba_desc:1 "$ITA_demand_balearic_islands_desc$"
- ITA_befriend_portugal:0 „Befreundet Portugal“
+ ITA_befriend_portugal:0 "Befreundet Portugal"
  ITA_befriend_portugal_desc:1 "$ITA_portugal_friend_desc$"
  banda_carita_tt:0 "Verhindert, dass Deutschland seinen Fokus abschließen kann §Y$GER_assassinate_mussolini$§!"
- ITA_demand_ticino:0 „Nachfrage Tessin“
- ITA_demand_ticino_desc:0 "Der Gebirgsstaat Schweiz beherbergt viele verschiedene Ethnien, aber unter ihnen sind die Italiener, die hauptsächlich in den südlichen Kantonen des Landes wie dem Tessin leben. Um einen großen italienischen Staat zu sichern, müssen wir dafür sorgen, dass alle unseres Volkes können in einem Land leben.“
- ITA_austrian_guarantees_tt:1 „Für den Fall, dass Deutschland einen Anschluss versucht, erhält Italien die Möglichkeit einzugreifen.“
- ITA_all_eth_initial_states_scribed_tt:0 „Alle ursprünglichen äthiopischen Staaten werden von §Y[ROOT.GetFlag][ROOT.GetNameDef]§! oder einem §Y[ROOT.GetAdjective]-Verbündeten§! kontrolliert.“
+ ITA_demand_ticino:0 "Nachfrage Tessin"
+ ITA_demand_ticino_desc:0 "Der Gebirgsstaat Schweiz beherbergt viele verschiedene Ethnien, aber unter ihnen sind die Italiener, die hauptsächlich in den südlichen Kantonen des Landes wie dem Tessin leben. Um einen großen italienischen Staat zu sichern, müssen wir dafür sorgen, dass alle unseres Volkes können in einem Land leben."
+ ITA_austrian_guarantees_tt:1 "Für den Fall, dass Deutschland einen Anschluss versucht, erhält Italien die Möglichkeit einzugreifen."
+ ITA_all_eth_initial_states_scribed_tt:0 "Alle ursprünglichen äthiopischen Staaten werden von §Y[ROOT.GetFlag][ROOT.GetNameDef]§! oder einem §Y[ROOT.GetAdjective]-Verbündeten§! kontrolliert."
  ITA_fronte_militare_clandestino_modifier_tt:0 "§Y$ITA_fronte_militare_clandestino_modifier$ (Italien)§! (§Y730§! Tage) hinzufügen, der Folgendes gewährt: \n $MODIFIER_RESISTANCE_GROWTH_ON_OUR_OCCUPIED_STATES$: §G+10%§! \n $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+ 15%§ ! \n\n"
  ITA_flotta_d_evasione_admiral_traits_tt:0 "Zwei zufällige Admirale erhalten die Eigenschaft §Y$bold$§!: \n- $MODIFIER_NAVAL_SPEED$: §G+10%§! \n- $MODIFIER_NAVAL_DAMAGE_FACTOR$: §G+5.00%§! \n\ N"
  ITA_heroes_of_the_nation_general_traits_tt:0 "\nDrei zufällige Generäle erhalten die Eigenschaft §Y$war_hero$§!: \n- $MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR$: §G-50.0%§! \n- $MODIFIER_REASSIGNMENT_DURATION_FACTOR$: §R+50.0%§! \n \N"
- ITA_mussolini_becomes_field_marshal_tt:0 „$ITA_benito_mussolini$ wird Feldmarschall.“
+ ITA_mussolini_becomes_field_marshal_tt:0 "$ITA_benito_mussolini$ wird Feldmarschall."
  
  ITA_the_italian_liberation_war:0 "Der italienische Befreiungskrieg"
  ITA_the_italian_liberation_war_desc:1 "Die Zeit ist gekommen, sich gegen die Faschisten zu erheben und ihr krankes Regime zu stürzen! Die antifaschistischen Partigiani aus ganz Italien sind bereit, in diesem nationalen Befreiungskrieg zu kämpfen und ihr Leben zu geben!"
@@ -1081,7 +1081,7 @@ ITA_claims_on_turkey_bba_desc:1 "$ITA_claims_on_turkey_desc$"
 ITA_independence_rsi:0 "$ITA_independence_rds$"
  ITA_independence_rsi_desc:1 "$ITA_independence_rds_desc$"
 
- ITA_regional_development_decision_unlocked_tt:0 „Schaltet Entscheidung frei: §YRegionale Entwicklung§!.“
+ ITA_regional_development_decision_unlocked_tt:0 "Schaltet Entscheidung frei: §YRegionale Entwicklung§!."
  ITA_via_della_vittoria_extra_states_tt:0 "\nFügt §Y1 $infrastructure$§! zu jedem nordafrikanischen Staat im Mittelmeer hinzu, der von §Y[ROOT.GetFlag][ROOT.GetNameDef]§! oder einem §Y[ITA.GetFlag][ITA.GetAdjective kontrolliert wird ] subject§!.\nAktuelle Auswirkungen:" ITA_strengthen_ascari_corps_create_units_tt:0 "Erzeugt §Y[ROOT.GetFlag][ROOT.GetAdjective]§! Einheiten in eigenen und kontrollierten Kolonien:"
  ITA_strengthen_ascari_corps_eritrea_tt:0 "Erstelle §Y1 $infantry$ Division§!, §Y1 $cavalry$ Division§! und §Y1 $camelry$ Division§!."
  ITA_strengthen_ascari_corps_libya_tt:0 "Erschaffe §Y1 $infantry$ Division§!, §Y1 $cavalry$ Division§! und §Y2 $camelry$ Divisionen§!."
@@ -1093,23 +1093,23 @@ ITA_independence_rsi:0 "$ITA_independence_rds$"
  ITA_comandante_diavolo_libya_tt:0 "Erschaffe §Y2 $cavalry$ Divisionen§! und §Y1 $camelry$ Division§!."
 ITA_comandante_diavolo_somalia_tt:0 "Erstelle §Y2 $irregular_infantry$ Divisionen§! und §Y1 $cavalry$ Division§!."
  ITA_comandante_diavolo_ethiopia_tt:0 "Erstelle §Y1 $irregular_infantry$ Division§!, §Y1 $cavalry$ Division§! und §Y1 $camelry$ Division§!."
- ITA_new_industrialisierung_program_factories_required_tt:0 "$TRIGGER_NUM_OF_TOTAL_CONTROLLED_FACTORIES_MORE_THAN$§Y[?ROOT.ITA_new_industrialisierung_program_factories_required]§! (Derzeit §[GetColorControlledFactoriesForNewIndustrialisierungProgram][?ROOT.num_of_scribed_fact ories]§!)“
+ ITA_new_industrialisierung_program_factories_required_tt:0 "$TRIGGER_NUM_OF_TOTAL_CONTROLLED_FACTORIES_MORE_THAN$§Y[?ROOT.ITA_new_industrialisierung_program_factories_required]§! (Derzeit §[GetColorControlledFactoriesForNewIndustrialisierungProgram][?ROOT.num_of_scribed_fact ories]§!)"
  ITA_milizia_marittima_di_artiglieria_coastal_forts_tt:0 "Fügt §Y2 $coastal_bunker$§! in jeder eigenen Provinz mit einer §Y$naval_base$§! hinzu. \nAktuelle Auswirkungen:"
- ITA_cooperation_programs_deal_sweden_tt:0 "([ROOT.GetFlag]§Y[ROOT.GetName]§!): Überträgt §Y2 Zerstörer der Curtatone-Klasse§! und §Y2 Zerstörer der Maestrale-Klasse§! an [SWE.GetFlag]§Y[SWE. GetName]§!.“
- ITA_flotta_d_evasione_dockyards_tt:1 "\nBestimmte Staaten in §YNordafrika§!, §YWestküste Iberiens§! und §YWestküste Frankreichs§! erhalten ebenfalls §Y1 $dockyard$§!, solange sie vollständig von §Y[ kontrolliert werden ROOT.GetFlag][ROOT.GetName]§! oder ein §Y[ROOT.GetAdjective]-Subjekt§!.“
- ITA_the_abyssinian_fiasco_completion_tt:2 „Kann automatisch abgeschlossen werden, nachdem die Missionen §Y$ITA_conquer_the_north_mission$§! und §Y$ITA_conquer_the_south_mission$§! fehlgeschlagen sind, herausgegeben von $ITA_benito_mussolini$ im Januar 1936.\n“
- ITA_solid_progress_completion_tt:1 „Wird automatisch abgeschlossen, nachdem die Missionen §Y$ITA_conquer_the_north_mission$§! und §Y$ITA_conquer_the_south_mission$§! erfolgreich abgeschlossen wurden, herausgegeben von $ITA_benito_mussolini$ im Januar 1936.\n“
- ITA_topple_amhara_rulers_event_chain_tt:0 "\nStartet die Ereigniskette §YLocal Rulers Approach Italian Officials§!, die es uns ermöglicht, die Einhaltung zu erhöhen oder in einigen äthiopischen Staaten ein italienisches Subjekt einzurichten, wenn wir dies wünschen.“
- ITA_a_colonial_empire_claims_tt:0 „Erhält Anspruch auf §Yevery [EGY.GetAdjective], [KEN.GetAdjective], [SUD.GetAdjective], [SOM.GetAdjective], [DJI.GetAdjective], [ETH.GetAdjective], [ERI.GetAdjective] oder [UGA.GetAdjective]-Gebiete§!, die noch nicht von [ROOT.GetFlag][ROOT.GetNameDef] beansprucht wurden oder unter der Kontrolle von [ROOT.GetFlag][ROOT.GetAdjective] stehen. \nAktuelle Auswirkungen:"
- generic_ROOT_gains_claim_tt:0 „§Y[ROOT.GetFlag][ROOT.GetNameDef]§! erhält Anspruch auf den Staat.“
- generic_ROOT_gains_wargoal_tt:0 „§Y[ROOT.GetFlag][ROOT.GetNameDef]§! erhält §Y$annex_everything$§! Kriegsziel gegen:\n“
- ITA_masters_of_the_aegean_claims_tt:1 „Erhält Anspruch auf §Yevery [GRE.GetAdjective] und [TUR.GetAdjective] Küstenstaaten im Mittelmeer§!, die noch nicht von [ROOT.GetFlag][ROOT.GetNameDef] oder unter [ROOT.GetFlag][ROOT .GetAdjective]-Steuerung. \nAktuelle Effekte:"
- ITA_masters_of_the_mediterranean_claims_tt:1 „Erhält Anspruch auf §0Jeden Küstenstaat im Mittelmeer§!, der noch nicht durch [ROOT.GetFlag][ROOT.GetNameDef] oder unter [ROOT.GetFlag][ROOT.GetAdjective]-Kontrolle beansprucht wurde. \nAktuelle Auswirkungen:“
+ ITA_cooperation_programs_deal_sweden_tt:0 "([ROOT.GetFlag]§Y[ROOT.GetName]§!): Überträgt §Y2 Zerstörer der Curtatone-Klasse§! und §Y2 Zerstörer der Maestrale-Klasse§! an [SWE.GetFlag]§Y[SWE. GetName]§!."
+ ITA_flotta_d_evasione_dockyards_tt:1 "\nBestimmte Staaten in §YNordafrika§!, §YWestküste Iberiens§! und §YWestküste Frankreichs§! erhalten ebenfalls §Y1 $dockyard$§!, solange sie vollständig von §Y[ kontrolliert werden ROOT.GetFlag][ROOT.GetName]§! oder ein §Y[ROOT.GetAdjective]-Subjekt§!."
+ ITA_the_abyssinian_fiasco_completion_tt:2 "Kann automatisch abgeschlossen werden, nachdem die Missionen §Y$ITA_conquer_the_north_mission$§! und §Y$ITA_conquer_the_south_mission$§! fehlgeschlagen sind, herausgegeben von $ITA_benito_mussolini$ im Januar 1936.\n"
+ ITA_solid_progress_completion_tt:1 "Wird automatisch abgeschlossen, nachdem die Missionen §Y$ITA_conquer_the_north_mission$§! und §Y$ITA_conquer_the_south_mission$§! erfolgreich abgeschlossen wurden, herausgegeben von $ITA_benito_mussolini$ im Januar 1936.\n"
+ ITA_topple_amhara_rulers_event_chain_tt:0 "\nStartet die Ereigniskette §YLocal Rulers Approach Italian Officials§!, die es uns ermöglicht, die Einhaltung zu erhöhen oder in einigen äthiopischen Staaten ein italienisches Subjekt einzurichten, wenn wir dies wünschen."
+ ITA_a_colonial_empire_claims_tt:0 "Erhält Anspruch auf §Yevery [EGY.GetAdjective], [KEN.GetAdjective], [SUD.GetAdjective], [SOM.GetAdjective], [DJI.GetAdjective], [ETH.GetAdjective], [ERI.GetAdjective] oder [UGA.GetAdjective]-Gebiete§!, die noch nicht von [ROOT.GetFlag][ROOT.GetNameDef] beansprucht wurden oder unter der Kontrolle von [ROOT.GetFlag][ROOT.GetAdjective] stehen. \nAktuelle Auswirkungen:"
+ generic_ROOT_gains_claim_tt:0 "§Y[ROOT.GetFlag][ROOT.GetNameDef]§! erhält Anspruch auf den Staat."
+ generic_ROOT_gains_wargoal_tt:0 "§Y[ROOT.GetFlag][ROOT.GetNameDef]§! erhält §Y$annex_everything$§! Kriegsziel gegen:\n"
+ ITA_masters_of_the_aegean_claims_tt:1 "Erhält Anspruch auf §Yevery [GRE.GetAdjective] und [TUR.GetAdjective] Küstenstaaten im Mittelmeer§!, die noch nicht von [ROOT.GetFlag][ROOT.GetNameDef] oder unter [ROOT.GetFlag][ROOT .GetAdjective]-Steuerung. \nAktuelle Effekte:"
+ ITA_masters_of_the_mediterranean_claims_tt:1 "Erhält Anspruch auf §0Jeden Küstenstaat im Mittelmeer§!, der noch nicht durch [ROOT.GetFlag][ROOT.GetNameDef] oder unter [ROOT.GetFlag][ROOT.GetAdjective]-Kontrolle beansprucht wurde. \nAktuelle Auswirkungen:"
  ITA_support_albanian_irredentism_subject_effects_tt:0 "\nDie folgenden Effekte werden angewendet, wenn §Y[ALB.GetFlag][ALB.GetNameDefCap]§! ein §Ysubject§! von §Y[ROOT.GetFlag][ROOT.GetName]§! ist:"
- ITA_the_eastern_threat_claims_tt:0 „Erhält Anspruch auf §Yjeden Staat im Schwarzen Meer, der [SOV.GetFlag][SOV.GetNameDef]§! gehört. \nAktuelle Auswirkungen:“
- ITA_joint_military_programs_two_allies_tt:0 „Die Effekte werden verdoppelt, da §Y[ROOT.GetNameWithFlag]§! sowohl mit §Y[ENG.GetNameWithFlag]§! als auch mit §Y[FRA.GetNameWithFlag]§! in Fraktion ist.“
- ITA_joint_military_programs_one_ally_tt:0 „Die Effekte werden verdoppelt, wenn §Y[ROOT.GetNameWithFlag]§! in einer Fraktion mit §Y[ENG.GetNameWithFlag]§! und §Y[FRA.GetNameWithFlag]§! ist.“
- ITA_war_with_france_claims_tt:0 „Erhält Anspruch auf §Yevery [FRA.GetAdjective] Kolonie§! in §Y$STRATEGICREGION_182$§!, §Y$STRATEGICREGION_126$§!, §Y$STRATEGICREGION_128$§!, §Y$STRATEGICREGION_28$§!, §Y$STRATEGICREGION_17$§! und §Y$STRATEGICREGION_216$§! oder Mittelmeerinsel, die noch nicht von [ROOT.GetFlag][ROOT.GetNameDef] beansprucht wurde. \nAktuelle Auswirkungen:"
+ ITA_the_eastern_threat_claims_tt:0 "Erhält Anspruch auf §Yjeden Staat im Schwarzen Meer, der [SOV.GetFlag][SOV.GetNameDef]§! gehört. \nAktuelle Auswirkungen:"
+ ITA_joint_military_programs_two_allies_tt:0 "Die Effekte werden verdoppelt, da §Y[ROOT.GetNameWithFlag]§! sowohl mit §Y[ENG.GetNameWithFlag]§! als auch mit §Y[FRA.GetNameWithFlag]§! in Fraktion ist."
+ ITA_joint_military_programs_one_ally_tt:0 "Die Effekte werden verdoppelt, wenn §Y[ROOT.GetNameWithFlag]§! in einer Fraktion mit §Y[ENG.GetNameWithFlag]§! und §Y[FRA.GetNameWithFlag]§! ist."
+ ITA_war_with_france_claims_tt:0 "Erhält Anspruch auf §Yevery [FRA.GetAdjective] Kolonie§! in §Y$STRATEGICREGION_182$§!, §Y$STRATEGICREGION_126$§!, §Y$STRATEGICREGION_128$§!, §Y$STRATEGICREGION_28$§!, §Y$STRATEGICREGION_17$§! und §Y$STRATEGICREGION_216$§! oder Mittelmeerinsel, die noch nicht von [ROOT.GetFlag][ROOT.GetNameDef] beansprucht wurde. \nAktuelle Auswirkungen:"
  ITA_war_with_the_uk_claims_tt:0 "Erhält Anspruch auf §Yevery [ENG.GetAdjective] Kolonie§! in §Y$STRATEGICREGION_182$§!, §Y$STRATEGICREGION_126$§!, §Y$STRATEGICREGION_128$§!, §Y$STRATEGICREGION_28$§!, §Y$STRATEGICREGION_17$§! und §Y$STRATEGICREGION_216$§! oder Mittelmeerinsel, die noch nicht von [ROOT.GetFlag][ROOT.GetNameDef] beansprucht wurde. \nAktuelle Auswirkungen:" 
  state_is_in_the_mediterranean_sea_tt:0 "Staat liegt im Mittelmeer"
  ITA_cooperation_programs_decisions_tt:0 "Schaltet §Y$ITA_naval_cooperation_programs_dec_cat$§§ frei! Beschlüsse zur Zusammenarbeit mit italienischen Verbündeten und deren Marinen."
@@ -1329,7 +1329,7 @@ ITA_comandante_diavolo_somalia_tt:0 "Erstelle §Y2 $irregular_infantry$ Division
  ITA_ascari:0 "Ascari"
  ITA_ascari_desc:1 "Reguläre Divisionen, die sich aus einheimischen Truppen aus Afrika zusammensetzen, haben sich als äußerst effizient erwiesen, wenn es darum geht, verschiedene Aufgaben zu erfüllen, nicht nur als Garnison oder Reserve, sondern auch bei militärischen Operationen in schwierigem Gelände, wo andere Divisionen Schwierigkeiten hätten."
 
-ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro:0 „§Y$ITA_ricostruzione_industriale_dynamic_modifier$§! ändern durch“
+ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro:0 "§Y$ITA_ricostruzione_industriale_dynamic_modifier$§! ändern durch"
  ITA_ricostruzione_industriale_cg_penalty_tt:0 "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+1.0%§! \n\n"
  ITA_steel_industry_in_terni_ricostruzione_industriale_tt:0 "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$modifier_production_speed_arms_factory_factor$: §G+2,50%§! \n\n"
  ITA_power_plants_in_terni_ricostruzione_industriale_tt:0 "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$modifier_production_speed_industrial_complex_factor$: §G+5.00%§! \n\n"
@@ -1419,12 +1419,12 @@ ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro:0 „§Y$ITA_rico
  ITA_battaglioni_d_assalto_tt:1 "Schaltet das Unterstützungsbataillon §Y$blackshirt_assault_battalion$§! frei."
  ITA_strengthen_the_blackshirts_template_tt:0 "Fügt §Y1 $artillery$ bataillon§! zur Camicie-Nere-Division-Vorlage hinzu. \n$
  ITA_blackshirts_div_cap_12_tt$"
- ITA_strengthen_the_blackshirts_spawn_divs_tt:0 „Erstelle §Y3 Camicie Nere§! Divisionen in §Y[THIS.GetName]§!.“
- ITA_blackshirts_div_cap_12_tt:0 „Vorlagenobergrenze von §YCamicie Nere§! durch §G+12§ ändern.“
- ITA_blackshirts_div_cap_8_tt:0 „Vorlagenobergrenze von §YCamicie Nere§! durch §G+8§ ändern.“
- ITA_albanian_fascist_militia_spawn_divs_tt:0 „Erstelle §Y3 Camicie Nere§! Divisionen in §Y[THIS.GetName]§!.“
- ITA_develop_ethiopia_tt:0 "Fügt §Y1 $infrastructure$§! und §G1§! Gebäudeslot in bis zu §Y3§! [ETH.GetAdjective]-Zuständen hinzu, die von §Y[ROOT.GetFlag][ROOT.GetNameDef]§! oder einem gesteuert werden §Y[ROOT.GetAdjective] subject§!.“
- ITA_develop_libya_tt:0 "Fügt §Y1 $infrastructure$§! und §G1§! Gebäudeslot in bis zu §Y3§! [LBA.GetAdjective]-Zuständen hinzu, die von §Y[ROOT.GetFlag][ROOT.GetNameDef]§! oder einem gesteuert werden §Y[ROOT.GetAdjective] subject§!.“ ITA_improved_infrastructure_in_state_flag:0 "Die Infrastruktur wurde in dem Staat durch den entsprechenden Fokus verbessert."
+ ITA_strengthen_the_blackshirts_spawn_divs_tt:0 "Erstelle §Y3 Camicie Nere§! Divisionen in §Y[THIS.GetName]§!."
+ ITA_blackshirts_div_cap_12_tt:0 "Vorlagenobergrenze von §YCamicie Nere§! durch §G+12§ ändern."
+ ITA_blackshirts_div_cap_8_tt:0 "Vorlagenobergrenze von §YCamicie Nere§! durch §G+8§ ändern."
+ ITA_albanian_fascist_militia_spawn_divs_tt:0 "Erstelle §Y3 Camicie Nere§! Divisionen in §Y[THIS.GetName]§!."
+ ITA_develop_ethiopia_tt:0 "Fügt §Y1 $infrastructure$§! und §G1§! Gebäudeslot in bis zu §Y3§! [ETH.GetAdjective]-Zuständen hinzu, die von §Y[ROOT.GetFlag][ROOT.GetNameDef]§! oder einem gesteuert werden §Y[ROOT.GetAdjective] subject§!."
+ ITA_develop_libya_tt:0 "Fügt §Y1 $infrastructure$§! und §G1§! Gebäudeslot in bis zu §Y3§! [LBA.GetAdjective]-Zuständen hinzu, die von §Y[ROOT.GetFlag][ROOT.GetNameDef]§! oder einem gesteuert werden §Y[ROOT.GetAdjective] subject§!." ITA_improved_infrastructure_in_state_flag:0 "Die Infrastruktur wurde in dem Staat durch den entsprechenden Fokus verbessert."
  ITA_new_industrialization_program_north_tt:0 "Nationale Nord-Designer werden verbessert."
  ITA_new_industrialization_program_south_tt:0 "Nationale Süd-Designer werden verbessert."
  ITA_new_industrialization_program_generic_tt:0 "Wenn der Fokus '§Y$ITA_strengthen_northern_industry$§!' abgeschlossen ist, werden die nationalen Designer im Norden verbessert. \nenn der Fokus '§Y$ITA_modernize_the_mezzogiorno$§!' abgeschlossen ist, werden die nationalen Designer des Südens verbessert."
@@ -1433,12 +1433,12 @@ ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro:0 „§Y$ITA_rico
  ITA_boost_the_grand_council_of_fascism_missiolinis_tt:0 "\nDie Möglichkeit für den Großen Rat des Faschismus, eine von Mussolini erteilte Mission durch eine neue zu ersetzen, wird freigeschaltet."
  ITA_to_live_as_a_lion_missiolinis_tt:0 "\nMissionen, die von Mussolini ausgegeben werden, haben eine kürzere Erfüllungszeit, gewähren aber höhere Belohnungen."
 
-ITA_fronte_militare_clandestino_spawn_divs_Friendly_rome_tt:0 „Erstelle §Y2 $infantry$§! Divisionen und §Y2 $militia$§! Divisionen in §Y[THIS.GetName]§!. \n\n“
- ITA_fronte_militare_clandestino_spawn_divs_hostile_rome_tt:0 „Erstelle §Y1 $infantry$§! Division und §Y1 $militia$§! Division in §Y[This.GetName]§!. \n\n“
- ITA_corpo_volontari_della_liberta_spawn_divs_tt:0 „Erstelle §Y2 $miliz$§! Divisionen in bis zu §Y5 vollständig kontrollierten Kernstaaten§!. \n\n“
- ITA_corpo_volontari_della_liberta_spawn_divs_capital_tt:0 „Erstelle §Y2 $infantry$§! Divisionen in §Y[THIS.GetName]§!. \n\n“
+ITA_fronte_militare_clandestino_spawn_divs_Friendly_rome_tt:0 "Erstelle §Y2 $infantry$§! Divisionen und §Y2 $militia$§! Divisionen in §Y[THIS.GetName]§!. \n\n"
+ ITA_fronte_militare_clandestino_spawn_divs_hostile_rome_tt:0 "Erstelle §Y1 $infantry$§! Division und §Y1 $militia$§! Division in §Y[This.GetName]§!. \n\n"
+ ITA_corpo_volontari_della_liberta_spawn_divs_tt:0 "Erstelle §Y2 $miliz$§! Divisionen in bis zu §Y5 vollständig kontrollierten Kernstaaten§!. \n\n"
+ ITA_corpo_volontari_della_liberta_spawn_divs_capital_tt:0 "Erstelle §Y2 $infantry$§! Divisionen in §Y[THIS.GetName]§!. \n\n"
  ITA_the_carabinieri_spawn_divs_tt:0 "Erstelle §Y5 $infantry$§! Divisionen in §Y[THIS.GetName]§!. \n\n"
- ITA_modify_partisan_state_modifier_intro:0 „Ändere §Y$ITA_fronte_militare_clandestino_modifier$§! durch“
+ ITA_modify_partisan_state_modifier_intro:0 "Ändere §Y$ITA_fronte_militare_clandestino_modifier$§! durch"
  ITA_in_our_controlled_states_cw:0 "in unseren kontrollierten [RDS.GetAdjective]-Staaten"
  ITA_gappisti_state_modifier_rds_tt:0 "$ITA_modify_partisan_state_modifier_intro$ \n$MODIFIER_RESISTANCE_TARGET_ON_OUR_OCCUPIED_STATES$: §G+10%§! \n$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS_ON_OUR_OCCUPIED_STATES$: §G+10%§! \n\n"
  ITA_gappisti_state_modifier_rsi_tt:0 "$ITA_modify_partisan_state_modifier_intro$ \nWiderstandsziel $ITA_in_our_controlled_states_cw$: §R+10%§! \nSchaden für unsere Garnisonen $ITA_in_our_controlled_states_cw$: §R+10%§! \n\n"
@@ -1456,9 +1456,9 @@ ITA_fronte_militare_clandestino_spawn_divs_Friendly_rome_tt:0 „Erstelle §Y2 $
  ITA_anti_partisan_measures_state_modifier_rds_tt:0 "$ITA_modify_partisan_state_modifier_intro$ \n$MODIFIER_REQUIRED_GARRISON_FACTOR$: §R-10%§! \n$MODIFIER_RESISTANCE_GROWTH_ON_OUR_OCCUPIED_STATES$: §R-5%§! \n\n"
  ITA_anti_partisan_measures_state_modifier_rsi_tt:0 "$ITA_modify_partisan_state_modifier_intro$ \n$MODIFIER_REQUIRED_GARRISON_FACTOR$: §G-10%§! \nWachstumsgeschwindigkeit des Widerstands $ITA_in_our_controlled_states_cw$: §G-5%§! \n\n"
  ITA_the_social_republic_prevails_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+10%§! \n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+5.0%§! \n\n"
- ITA_independence_bonus_tt:0 „Wenn §Y$independence_wargoal$§! der Krieg erklärt wird:“
- ITA_independence_overlord_fallback_tt:0 „[ROOT.GetAdjective] Overlord:\n“
- ITA_independence_overlord_fallback_accept_tt:0 „[ROOT.GetAdjective] Overlord entfernt Marionette aus [ROOT.GetName]. \nErhält §Y$ITA_granted_us_independence$§! (Meinung von §Yformer Overlord§! §Y50§!).“
+ ITA_independence_bonus_tt:0 "Wenn §Y$independence_wargoal$§! der Krieg erklärt wird:"
+ ITA_independence_overlord_fallback_tt:0 "[ROOT.GetAdjective] Overlord:\n"
+ ITA_independence_overlord_fallback_accept_tt:0 "[ROOT.GetAdjective] Overlord entfernt Marionette aus [ROOT.GetName]. \nErhält §Y$ITA_granted_us_independence$§! (Meinung von §Yformer Overlord§! §Y50§!)."
  ITA_independence_overlord_fallback_refuse_tt:0 "Erhält §Y$independence_wargoal$§! Kriegsziel gegen [ROOT.GetAdjective] Overlord. \nErhält §Y$ITA_refused_to_grant_us_independence$§! (Meinung von §Yformer overlord§! §Y-50§!)"
  
  ITA_by_blood_alone_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIER_ARMY_MORALE_FACTOR$: §G+5.0%§! \n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+5%§! \n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+5.0%§! \n\n"
@@ -1542,7 +1542,7 @@ ITA_the_king_of_the_skies_military_industry_dm_tt:0 "$ITA_modify_military_indust
  ITA_european_democracies_bonus_per_ally_tt:0 "\nGewinnt §G+2.00%§! Stabilität und §G+25§! Politische Macht für jedes unabhängige demokratische Land in der Fraktion von [ROOT.GetName] (max. §Y+10.00%§! Stabilität und §Y+125§! Politische Macht).\n\n"
  ITA_peace_preservation_guarantees_tt:0 "Garantiere jedem §YDemokratischen§! Europäisches Land unabhängig oder mit §Y[ROOT.GetNameWithFlag]§! verbündet:"
  ITA_peace_preservation_ns_tt:1 "\nGewinnt Nationaler Geist §Y$ITA_peace_keepers_of_europe$§!, der (Konsumgüterfabriken: §Y-0.5%§! für jedes Land garantiert (max §Y-5.00%§!), Kriegsunterstützung: §G+1%§! für jedes Land garantiert (max §Y+10.00%§!), Wöchentliche Arbeitskräfte: §G+100§! für jedes Land garantiert (max. §Y+1000§!))."
- ITA_scientific_cooperation_allies_ns_tt:0 „Füge Nationalgeist §Y$ITA_scientific_cooperation$§! zu §Y[ROOT.GetNameDef]§! und §Yevery [ROOT.GetAdjective] ally§! hinzu.“
+ ITA_scientific_cooperation_allies_ns_tt:0 "Füge Nationalgeist §Y$ITA_scientific_cooperation$§! zu §Y[ROOT.GetNameDef]§! und §Yevery [ROOT.GetAdjective] ally§! hinzu."
  ITA_secure_the_borders_forts_tt:0 "Fügt §Y2 $bunker$§! in jeder Provinz hinzu, die an ein nicht-freundliches Land grenzt. \nAktuelle Auswirkungen:"
  ITA_scientific_cooperation_research_sharing_group_tt:0 "Jedes verbündete Land tritt §Y$ITA_program_for_scientific_cooperation_name$§! bei."
  ITA_secure_the_borders_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+5.0%§! \n\n"
