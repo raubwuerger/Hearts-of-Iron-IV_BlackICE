@@ -16,7 +16,7 @@
  SWE_EQUIPMENT_VERSION_13:0 "S XIII"
  SWE_EQUIPMENT_VERSION_14:0 "S XIV"
  SWE_EQUIPMENT_VERSION_15:0 "S XV"
- POL_infantry_equipment_3:9 "Automatikgewehr wz. 43"
+ 
  ## LAND ASSETS ## "Kbsp wz. 43"
  ## IMMERSIVE EQUIPMENT NAMES ## ""
  ## Railguns ## "Panzerabwehrgewehr wz.35 "Uruguay".  POL_handheld_at_equipment_0_short:9 "Kb ppanc wz. 35"
@@ -57,9 +57,9 @@
  assault_rifle_equipment_0:0 "Sturmgewehr-Ausrüstung"
  assault_rifle_equipment_0_short:0 "Sturmgewehr-Eqp."
  assault_rifle_equipment_0_desc:0 "Sturmgewehre vereinen die Kraft von Gewehren, die Kompaktheit von Karabinern und die Feuergeschwindigkeit von Maschinenpistolen und sind somit ein guter Allrounder für Infanterieeinheiten."
- POL_motorized_equipment_1_desc:9 "Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastwagen lassen sich leicht für militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub umrüsten. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die ansonsten auf den Marsch angewiesen wären, erheblich gesteigert."
 
- POL_mechanized_equipment_1:9 "PZInż 222 Mechanisierte Ausrüstung"
+
+
   ## BICE ## "PZInż 222"
   ## Land Equipment ## "PZInż 342 Mechanisierte Ausrüstung"
   ########### Infantry equipment "PZInż 342"
@@ -125,12 +125,12 @@
   motorized_lia_equipment_03:0 "Leichte Fahrzeuge III"
   motorized_lia_equipment_03_short:0 "Leichter Wagen mod.39"
   motorized_lia_equipment_03_desc:0 "Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt werden."
- POL_tankette_equipment_0:9 "TK2 Panzerkampfwagen"
+
   ####### special infantry equipment "TK2"
   tech_engineers_bridges:0 "Tragbare Brücken und Sturmboote"
   tech_engineers_bridges_desc:0 "Ponton-Brücken und Sturmboote zum Überqueren von Flüssen"
   tech_engineers_bridges_short:0 "Brücken und Sturmboote"
- POL_tankette_equipment_2_short:9 "TK3"
+
   HMG_equipment:0 "Maschinengewehre"
   HMG_equipment_desc:0 "TKS"
   HMG_equipment_short:0 "Maschinengewehr"
@@ -1484,7 +1484,7 @@
  FIN_medanti_tank_equipment_1:0 "45 PstK/42"
  FIN_medanti_tank_equipment_1_short:0 "45 PstK/42"
  FIN_medanti_tank_equipment_2:0 "75 PstK/97-38 \"Mulatti\"  
- FIN_medanti_tank_equipment_2_short:0"75 PstK/97-38 \"Mulatti\"  
+ FIN_medanti_tank_equipment_2_short:0 "75 PstK/97-38 \"Mulatti\"  
  FIN_HVanti_tank_equipment_1:0 "88 PstK/43"
  FIN_HVanti_tank_equipment_1_short:0 "88 PstK/43"
  FIN_HVanti_tank_equipment_2:0 "128 PstK/44"
@@ -2521,7 +2521,7 @@
  HOL_mountain_artillery_equipment_0_short:0 "7,5 cm GebG 36"
  HOL_mountain_artillery_equipment_0_desc:0 "Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Bergen spezialisiert."
  HOL_medartillery_equipment_0:0 "15cm \"15 lang 17\"  
- HOL_medartillery_equipment_0_short:0"15cm \"15 lang 17\"  
+ HOL_medartillery_equipment_0_short:0 "15cm \"15 lang 17\"  
  HOL_medartillery_equipment_0_desc:0 "Neue Haubitzenkonstruktionen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
  HOL_superartillery_equipment_0:0 "24 cm lang 30 Küstenartillerie"
  HOL_superartillery_equipment_0_short:0 "24 cm lang 30"
@@ -4386,7 +4386,7 @@
   TIMED_ACTIVITY_HEADER:0 "Aktivitätsanforderung:"
   REQUESTED_REINFORCEMENT_COLLECTING:0 " - Warten auf §HHerstellung§ der Ausrüstung!:"
   REQUESTED_REINFORCEMENT_DELIVERY:0 " - Warten auf §H-Lieferung§ der Ausrüstung! ($PROG|H%$):"
-  REQUESTED_REINFORCEMENT_COLLECTING_BLOCKED:0 " - §0erstärkung blockiert: keine Lieferung vom Kapital§!"
+  REQUESTED_REINFORCEMENT_COLLECTING_BLOCKED:0 " - §0Verstärkung blockiert: keine Lieferung vom Kapital§!"
   REQUESTED_REINFORCEMENT_COLLECTING_AND_DELIVERY:0 " - Warten auf §Hproduzierte§! und §Hgelieferte§! Ausrüstung:"
   REQUESTED_REINFORCEMENT_DELIVERY_NO_PROGRESS:0 " - Warten auf §Hlieferungen§!:"
   REQUESTED_REINFORCEMENT_COLLECTING_ENTRY:0 "   - $NUM|Y0$/$MAX|Y0$ von $NAME|Y$"

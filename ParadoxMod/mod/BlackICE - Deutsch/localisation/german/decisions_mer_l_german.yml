@@ -15,7 +15,7 @@
  Arab_invite_bribe_desc:0 "Es scheint, dass [Root.GetName] an der Arabischen Liga interessiert ist, aber wir müssen den Deal irgendwie versüßen"
  Arab_research_standards:0 "Standardisierung der Forschung in [Root.GetName]"
  Arab_research_standards_desc:0 "wir müssen die Forschung in [Root.GetName] standardisieren, bevor wir Ideen austauschen können, sie haben uns natürlich großzügig erlaubt, die Kosten zu übernehmen"
- money_cost_farm:0 "Kosten 50 §Geld"
+ money_cost_farm:0 "Kosten 50 Geld"
  Arab_farming:0 "mehr Ackerland kaufen und erschließen"
  Arab_farming_tt:0 "Hat landwirtschaftliche Verbesserungen vorgenommen"
  #BMP ""

@@ -81,7 +81,7 @@
  RADAR_ONMAP_DAMAGED_TOOLTIP:0 "§HRadar-Station§! Ebene: $LVL|R$/$TOT|H$\nZugehörigkeit zu: $WHO|H$"
  RADAR_ONMAP_TOOLTIP_COVERAGE:0 "\n§HRegionen Abdeckung:§!"
  RADAR_ONMAP_TOOLTIP_COVERAGE_ENTRY:0 "\n $PERC|%$ in $REGION$"
- RADAR_ONMAP_TOOLTIP_SUPPRESS:0 "\nHalten Sie §GCtrl§! gedrückt, um §Runterdrücken§! diesen Tooltip."
+ RADAR_ONMAP_TOOLTIP_SUPPRESS:0 "\nHalten Sie §GCtrl§! gedrückt, um §0Runterdrücken§! diesen Tooltip."
  fuel_silo:0 "Brennstoff-Silo"
  fuel_silo_plural:0 "Treibstoff-Silos"
  fuel_silo_desc:0 "Dieses Gebäude bietet Ihrer Nation mehr Platz für die Lagerung von §HFuel§!.\n\nMax. Stufe: §Y2§!\nGebäudezustand: §Y5§!\nInfrastruktur-Effekt: §GJa§!"

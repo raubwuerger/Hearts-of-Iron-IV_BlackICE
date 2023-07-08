@@ -2,7 +2,7 @@
 
  ### EQUIPMENT MODULE ROLE PERMISSIONS ### ""
  MODULE_ALLOW_ROLE:1 "§GAllows§! die Rolle $ROLE|H$"
- MODULE_ALLOW_ROLE_BUT_OTHER_FORBID:0 "§GAllows§! die Rolle $ROLE|H$, aber $FORBIDDING_MODULE|H$ §Rforbids§! sie"
+ MODULE_ALLOW_ROLE_BUT_OTHER_FORBID:0 "§GErlaubt§! die Rolle $ROLE|H$, aber $FORBIDDING_MODULE|H$ §Rverbietet§! sie"
  MODULE_FORBID_ROLE:1 "§RVerbietet§! die Rolle $ROLE|H$"
 
  MODULE_ALLOWED_ROLE_IS_FORBIDDEN_BY_ANOTHER_MODULE:0 "Die Rolle $ROLE|H$ ist £trigger_yes£ durch das Modul $ALLOWING_MODULE|H$, aber ist £trigger_no£ durch das Modul $FORBIDDING_MODULE|H$.\n\n"

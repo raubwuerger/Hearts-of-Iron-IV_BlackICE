@@ -1,6 +1,6 @@
 ﻿l_german:
- ### Custom Effect tooltips "Diese Einheit muss nicht gebildet werden.\n§0iese Wahl wird die Ereigniskette beenden!!!§!\n"
- ### GERMANY "Es ist nicht nötig, diese Einheit jetzt zu bilden.\n§0ie können das Einheitentemplate selbst ändern, wenn Sie es für richtig halten.§!\n"
+ ### Custom Effect tooltips "Diese Einheit muss nicht gebildet werden.\n§0Diese Wahl wird die Ereigniskette beenden!!!§!\n"
+ ### GERMANY "Es ist nicht nötig, diese Einheit jetzt zu bilden.\n§0Sie können das Einheitentemplate selbst ändern, wenn Sie es für richtig halten.§!\n"
  GERnoneed_1:0 "No need to form this unit.\n§RThis choice will end the event-chain!!!§!\n"
  GERnoneed_2:0 "Militärische Ausrüstung, die in mehreren Lagerhäusern gefunden wurde, wurde beschlagnahmt und zu unserem Lagerbestand hinzugefügt."
 
@@ -270,7 +270,7 @@
  GER_SS_TK_Reiter_dec_tt:0 "Erzeugt Vorlage für Einheit:§Y Erweiterte SS TK-Reiter-standarte§!\n"
  GER_SS_TK_Reiter_tt:0 "Erstellt die Einheit:§Y SS TK-Reiter-standarte Expanded§!\n\n§RSidenote!!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nSie hat zusätzliche PP-Kosten: §R-10§!.\nSie erhält:\n**Ausrüstung max 20%\n**Erfahrungsstufe 14.\n"
  GER_SS_TK_Reiter_expand_1_dec_tt:0 "Erzeugt Vorlage für Einheit:§Y SS-Kavallerie-Regiment§!\n"
- GER_SS_TK_Reiter_exp_tt:0 "Aufteilung der SS TK-Reiter-standarte in 2 Regimenter:\n§Y 1. SS-Kavallerie-Regiment\n 2. SS Kavallerie-Regiment§!\n§0ieses Ereignis löscht die Einheiten 1./2, SS TK-Reiter-standarte.§!\n\n§RSidenote!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nSie hat zusätzliche PP-Kosten: §R-10§!.\nSie erhalten beide Einheiten:\n**Ausrüstung max 75%\n**Ausbildungsstufe 75%.\n"
+ GER_SS_TK_Reiter_exp_tt:0 "Aufteilung der SS TK-Reiter-standarte in 2 Regimenter:\n§Y 1. SS-Kavallerie-Regiment\n 2. SS Kavallerie-Regiment§!\n§0Dieses Ereignis löscht die Einheiten 1./2, SS TK-Reiter-standarte.§!\n\n§RSidenote!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nSie hat zusätzliche PP-Kosten: §R-10§!.\nSie erhalten beide Einheiten:\n**Ausrüstung max 75%\n**Ausbildungsstufe 75%.\n"
  GER_SS_Kavallerie_regt_dec_tt:0 "Erstellt eine Vorlage für die Einheit:§Y SS-Kavallerie Brigade§!\n"
  GER_SS_Kav_regt_tt:0 "Erstellt die Einheit:§Y SS-Kavallerie Brigade!\n\n§RSidenote!!!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nSie hat zusätzliche PP-Kosten: §R-10§!.\nSie erhält:\n**Ausrüstung max 85%\n**Ausbildungsstufe 85%.\n"
  GER_SS_Kavallerie_brigade_dec_tt:0 "Erzeugt Vorlagen für:§Y SS-Kavallerie-Division 'Florian Geyer' + SS-Kavallerie-Division§!"
