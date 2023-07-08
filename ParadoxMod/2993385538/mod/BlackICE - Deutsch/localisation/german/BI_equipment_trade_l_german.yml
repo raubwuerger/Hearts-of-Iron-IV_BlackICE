@@ -1,0 +1,13 @@
+﻿l_german:
+
+ EQT_ARCHETYPE_TITLE:0 "[?v.GetTokenLocalizedKey]" 
+ 
+ EQT_EQUIPMENT_TILE_TOOLTIP:0 "§Y[?v.GetTokenLocalizedKey]§! (1936)\n   §g[!equipment_name_click]§!\n\n    £stock_available_icon  Available: §Y[?num_equipment@var:v]§!\n    £civ_days_icon_small  Equipment Cost: §Y[?EQT_equipments_cost^i]§!\n\n"
+
+ EQT_EQUIPMENT_SPECIFIC_DESC:0 "Die Kosten entsprechen 100 Einheiten dieser Ausrüstung.\n\n§g[!connector_click]§!"
+  
+ EQT_EQUIPMENT_STOCK_MAX_TEXT:0 "/ [EQTGetStockK]" 
+ EQT_EQUIPMENT_PURCHASE_AMOUNT_TEXT:0 "[?EQT_equipments_purchase_amount^entry]"
+ EQT_EQUIPMENT_IC_COST_TEXT:0 " £civ_days_icon  [?EQT_equipments_final_cost^i]"
+ 
+ EQT_TOTAL_PURCHASE_COST_TEXT:0 "[?total_cost] £civ_days_icon"

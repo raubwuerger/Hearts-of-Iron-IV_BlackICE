@@ -1,0 +1,33 @@
+﻿l_german:
+
+
+#### COUNTRIE NAMES ####
+
+
+ FRI_conservatism:0 "Republik Indochina"
+ FRI_conservatism_ADJ:0 "Indochina"
+ FRI_conservatism_DEF:0 "Die Republik Indochina"
+ FRI_liberalism:0 "Republik Indochina"
+ FRI_liberalism_ADJ:0 "Indochinesisch"
+ FRI_liberalism_DEF:0 "Die Republik Indochina"
+ FRI_socialism:0 "Republik Indochina"
+ FRI_socialism_ADJ:0 "Indochinesisch"
+ FRI_socialism_DEF:0 "Die Republik Indochina"
+
+ TUN_conservatism:0 "Tunesische Republik"
+ TUN_conservatism_DEF:0 "Die Tunesische Republik"
+ TUN_liberalism:0 "Tunesische Republik"
+ TUN_liberalism_DEF:0 "Die Tunesische Republik"
+ TUN_socialism:0 "Tunesische Republik"
+ TUN_socialism_DEF:0 "Die Tunesische Republik"
+ TUN_conservatism_ADJ:0 "Tunesien"
+ TUN_liberalism_ADJ:0 "Tunesisch"
+ TUN_socialism_ADJ:0 "Tunesisch"
+
+
+
+
+ FRI_support_weapons:0 "FM Chauchat & Stokes Mörser"
+ FRI_support_weapons2:0 "Hotchkiss M1914 & Brandt Mle 1935"
+ FRI_support_weapons3:0 "FM 24/29 & Brandt Mle 27/31"
+ FRI_support_weapons4:0 "Hotchkiss M1922 & Brandt Mle 1942"
