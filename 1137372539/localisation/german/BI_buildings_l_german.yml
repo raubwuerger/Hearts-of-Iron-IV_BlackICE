@@ -70,12 +70,12 @@
  recruitment_building_desc:0 "Dieses Gebäude stellt dem Staat Mittel zur Verfügung, um die Wehrpflicht zuverlässiger durchzusetzen.\n\nMax Level: §Y1§!\nGebäude Gesundheit: §Y0§!\nInfrastruktur-Effekt: §RNo§!"
  modifier_production_speed_recruitment_building_factor:0 "§YRekrutierungszentrum§! Baugeschwindigkeit"
 
- shipyard_capital_building:0 "Hauptstadtwerft"
- shipyard_capital_building_desc_long:0 "§YKapitalschiffswerft§!\n £trigger_no §RUnbuildable§! \n\nKapitalwerft stellt §YKapitalwerft-Kapazität§! bereit, die für den Bau von §YKapitalschiffen§! und §YTrägern§! benötigt wird\nGebäudezustand: §Y10§!\nProduktion im Staat: §Y+15§! £resources_strip|7"
- shipyard_capital_building_desc:0 "Capital Shipyard stellt §YCapital Shipyard Capacity§! bereit, die für den Bau von §YCapital Ships§! und §YCarriers§! benötigt wird: §Y10§!\nProduktion im Staat:"
- shipyard_capital_building_plural:0 "Capital Shipyard"
- shipyard_capital_building_plural_desc:0 "Capital Shipyard stellt §YCapital Shipyard Capacity§! zur Verfügung, die für den Bau von §YCapital Ships§! und §YCarriers§! benötigt wird: §Y10§!\nProduktion im Staat:"
- modifier_production_speed_shipyard_capital_building_factor:0 "Hauptstadt-Werft"
+ shipyard_capital_building:0 "Großkampfschiffwerft"
+ shipyard_capital_building_desc_long:0 "§YGroßkampfschiffswerft§!\n £trigger_no §Rnicht konstruierbar§! \n\nGroßkampfschiffswerft stellt §YGroßkampfschiffswerft Kapazität§! bereit, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§! benötigt wird\nGebäudezustand: §Y10§!\nProduktion im Staat: §Y+15§! £resources_strip|7"
+ shipyard_capital_building_desc:0 "Großkampfschiffswerft stellt §YGroßkampfschiffswerft Kapazität§! bereit, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§! benötigt wird: §Y10§!\nProduktion im Staat:"
+ shipyard_capital_building_plural:0 "Großkampfschiffwerften"
+ shipyard_capital_building_plural_desc:0 "Großkampfschiffwerft stellt §YGroßkampfschiffwerft Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§! benötigt wird: §Y10§!\nProduktion im Staat:"
+ modifier_production_speed_shipyard_capital_building_factor:0 "Großkampfschiffwerft"
 
  tank_assembly:0 "Panzermontagewerk"
  tank_assembly_plural:0 "Panzermontagewerk"

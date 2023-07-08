@@ -4458,8 +4458,8 @@
  army_hq_tt:0 "\nJeder Einheitsführer:\n Ersetzt §Y$corps_hq$§! durch §Y$army_hq$§!, wirksame Änderung:\n $MODIFIER_ARMY_LEADER_MAX_ARMY_GROUP_SIZE$: §G+1§!\n"
  army_group_hq_tt:0 "\nJeder Einheitsführer:\n Ersetzt §Y$army_hq$§! durch §Y$army_group_hq$§!, wirksame Änderung:\n $MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_GROUP_SIZE$: §G+1§!\n"
 
- basic_hq:0 "Basic Interservice HQ"
- basic_hq_desc:0 "Basis-Interner Dienst HQ"
+ basic_hq:0 "Dienststellenübergreifendes HQ"
+ basic_hq_desc:0 "Dienststellenübergreifendes HQ"
  interservice_hq:0 "Verbessertes dienststellenübergreifendes HQ"
  interservice_hq_desc:0 "Die Koordinierung zwischen Infanterie, Panzern und Luftwaffe erfordert eine komplexe und leistungsfähige Kommando- und Kontrollstruktur."
  brigade_hq:0 "Verbessertes Brigade-Hauptquartier"

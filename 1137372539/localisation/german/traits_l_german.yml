@@ -290,7 +290,7 @@
  swamp_fox_desc:0 "§0Der Sumpf-Fuchs ist zwar etwas feucht, kennt sich aber in Sümpfen und Mooren gut aus!"
  trait_mountaineer:0 "Bergsteiger"
  trait_mountaineer_desc:0 "§0Ein hervorragender Bergsteiger und erfahren in der Kriegsführung in den Bergen!"
- trait_paratrooper:0 "Airborne Specialist"
+ trait_paratrooper:0 "Fallschirmjäger"
  trait_paratrooper_desc:0 "§0Experte für die Organisation und Durchführung von Luftangriffen."
  hill_fighter:0 "Hügelkämpfer"
  hill_fighter_desc:0 "§0Kann hervorragend in hügeligem Gelände kämpfen!"
