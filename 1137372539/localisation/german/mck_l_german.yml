@@ -799,7 +799,7 @@
  ## 25/8/2017 ## ""
  JAP_hakko_ichiu:0 "Hakko Ichiu"
  JAP_hakko_ichiu_desc:0 "Es heißt, dass der legendäre Kaiser Jinmu einst sagte: "Ich werde die acht Himmelsrichtungen umfassen und sie zu meinem Wohnsitz machen. Diese zweideutige Aussage wurde von einigen Japanern so interpretiert, dass Japan eines Tages die Welt beherrschen wird. Obwohl die militärischen Kreise innerhalb der Nation die gleiche Interpretation haben, ist ihre Auslegung im Vergleich zu anderen nicht besonders pazifistisch..."
-                                                                                #八紘を掩うて宇と為さん or 掩八紘而爲宇, from wikipedia ""
+
  unyielding_spirit_desc:0 "Das japanische Volk ist hochmotiviert und wird sich in einem Kampf nicht einfach geschlagen geben."
  ## 14/10/2017 ## ""
  KMT_SOV_JAP_neutrality:0 "Sowjetisch-japanische Neutralität"
@@ -1047,4 +1047,5 @@
  china.401.b:0 "Annektiert die Küstenlinie Chinas"
  china.401.c:0 "Wir nehmen alles ein!"
  china.402.t:0 "Annexion der Küste"
-china.402.d:0 "Angliederung der Küste"
+china.402.d:0 "Annexion der Küste"
+china.402.a:0 "Annexion der Küste"

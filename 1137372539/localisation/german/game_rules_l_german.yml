@@ -328,7 +328,7 @@
  RAJ_FRAGMENTATION_STATUS:0 "Indien Fragmentierung Status"
  RULE_OPTION_RAJ_FRAGMENTED:0 "Britisches Raj Fragmentiert"
  RULE_OPTION_RAJ_FRAGMENTED_DESC:0 "Alle freischaltbaren Nationen, die das Britische Raj bilden, werden bei Spielbeginn als freie und unabhängige Nationen freigeschaltet."
- RULE_OPTION_ENG_FRAGMENTED:0 "Vereinigtes Königreich Fragmentiert"
+ 
  RULE_GROUP_PEACE_SCORE:0 "Verteilung der Friedenspunkte"
  PEACE_SCORE_TO_OVERLORD:0 "Marionetten an Overlord"
  RULE_OPTION_PEACE_SCORE_TO_OVERLORD_YES_DESC:0 "Marionetten geben einen Teil ihres Friedenswerts an ihren Oberherrn ab. Das Verhältnis hängt von ihrer Autonomiestufe ab."
@@ -340,25 +340,14 @@
  RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_YES_DESC:0 "Gewinner mit weniger als 5% Kriegsbeteiligung geben ihre gesamte Punktzahl an andere Gewinner ab.\nGilt nicht, wenn kein Gewinner mindestens 10% Kriegsbeteiligung hat.\nGilt nicht für menschliche Spieler."
  RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_NO_DESC:0 "Alle Gewinner behalten alle Friedenspunkte, die sie während des Krieges verdient haben."
 
- #BICE "Verteilung der Friedenspunkte"
- PEACE_SCORE_TO_OVERLORD:0 "Puppen an Overlord"
+ #BICE
+
  ALLOW_UNIT_SPAWNS:0 "Historische Einheiten Spawns"
  RULE_OPTION_DISABLE_UNIT_SPAWNS:0 "Deaktivieren"
  RULE_OPTION_DISABLE_UNIT_SPAWNS_DESC:0 "Deaktivieren"
  RULE_OPTION_ALLOW_UNIT_SPAWNS:0 "Aktivieren"
  RULE_OPTION_ALLOW_UNIT_SPAWNS_DESC:0 "Aktiviert Ereignisse, die historische Einheiten für Deutschland und England spawnen. Für die Sowjetunion aktiviert es Ereignisse, die Wachdivisionen spawnen. Die meiste Arbeit wurde für Deutschland geleistet."
- PEACE_SCORE_RESET_LOW_SCORES:0 "Niedrige Punktzahlen umverteilen"
-panzeroo_mode:0 "Panzeroo-Modus"
-panzeroo_mode_no:0 "Deaktiviert"
-panzeroo_mode_no_DESC:0 "Nur das normale BICE-Spiel"
-RULE_OPTION_panzeroo_mode_on:0 "Aktiviert"
-RULE_OPTION_panzeroo_mode_on_DESC:0 "Ich könnte es Ihnen sagen, aber das würde den Spaß verderben"
-RULE_MINOR_AI_RESEARCH:0 "Kleine KI-Forschung"
-RULE_OPTION_SCRIPTED:0 "Geskriptete Forschung"
-RULE_OPTION_NORMAL_RESEARCH:0 "Normale Forschung"
-RULE_MINOR_AI_RESEARCH_DESC:0 "Unbedeutende neutrale oder kapitulierende KI-Nationen haben geskriptete Forschung für Leistungssteigerungen"
-RULE_MINOR_AI_RESEARCH_NORMAL_DESC:0 "KI-Forschung wie üblich"
-
+ 
 panzeroo_mode:0 "Panzeroo-Modus"
 panzeroo_mode_no:0 "Deaktiviert"
 panzeroo_mode_no_DESC:0 "Nur Ihr normales BICE-Spiel"
@@ -369,3 +358,5 @@ RULE_OPTION_SCRIPTED:0 "Geskriptete Forschung"
 RULE_OPTION_NORMAL_RESEARCH:0 "Normale Forschung"
 RULE_MINOR_AI_RESEARCH_DESC:0 "Unbedeutende neutrale oder kapitulierende KI-Nationen haben geskriptete Forschung für Leistungssteigerungen"
 RULE_MINOR_AI_RESEARCH_NORMAL_DESC:0 "KI-Forschung wie üblich"
+
+
