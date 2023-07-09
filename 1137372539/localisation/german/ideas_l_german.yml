@@ -947,7 +947,7 @@
  aircraft_manufacturer:0 "Flugzeugkonstrukteur"
  light_aircraft_manufacturer:1 "Designer für leichte Flugzeuge"
  heavy_aircraft_manufacturer:1 "Designer für schwere Flugzeuge"
- materiel_manufacturer:0 "Designer für Heeresausrüstung"
+ materiel_manufacturer:0 "Designer für Heeresausrüstungsmaterial"
  industry_concern:0 "Industrie Konzern"
  generic_construction_concern:0 "Bauwesen"
  generic_radio_developer:0 "Radio Konzern"

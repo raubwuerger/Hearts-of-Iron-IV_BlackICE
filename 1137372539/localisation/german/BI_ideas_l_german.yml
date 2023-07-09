@@ -1166,7 +1166,7 @@
 
  foreign_police_station:0 "Unsere Feinde haben unser Land eingenommen und unterdrücken unsere Bevölkerung, indem sie §RPolizeistationen§! in unseren Kernstaaten errichten. Zurzeit erhalten wir die folgenden Effekte:§!"
 
- output_factor:0 "§YFabrik§! und §YDeponie§! Output-Faktor"
+ output_factor:0 "§YFabrik§! und §YDeponie§! Ausstoß-Faktor"
  unity_base:0 "Basis"
  high_unity:0 "Hoher Einheitsfaktor"
  neighbouring_superior_enemy:0 "Benachbarter übermächtiger Feind"
