@@ -57,7 +57,7 @@
  TRIGGER_HAS_NOT_IDEA_FALLBACK:0 "Hat nicht $IDEA|H$"
  TRIGGER_HAS_IDEA_FALLBACK:0 "Hat $IDEA|H$ aktiv"
  TRIGGER_HAS_NOT_TECH:1 "Hat keine Technik $TECH|H$"
- TRIGGER_HAS_TECH:1 "Hat tech $TECH|H$"
+ TRIGGER_HAS_TECH:1 "Hat Technologie $TECH|H$"
  TRIGGER_HAS_NOT_ROLE_TEMPLATE:0 "Hat keine Vorlage für die Rolle $ROLE|H$"
  TRIGGER_HAS_ROLE_TEMPLATE:0 "Hat Vorlage für die Rolle $ROLE|H$"
  TRIGGER_HAS_NOT_ROLE_DIVISION:0 "Hat keine Abteilungen für die Rolle $ROLE|H$"

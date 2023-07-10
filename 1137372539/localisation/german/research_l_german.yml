@@ -347,7 +347,7 @@
  streamlined_line_desc:0 "Die Standardisierung und die starre Struktur des Fließbandes sind der Schlüssel zu dessen Effizienz und Sicherheit. Dies sollten die wichtigsten Aspekte sein, die wir in unserer industriellen Produktion entwickeln sollten."
  modern_machine_tools:0 "Moderne Werkzeugmaschinen"
  modern_machine_tools_desc:0 ""
- tool_maintenance:0 "Wartung der Werkzeuge"
+ tool_maintenance:0 "Erweiterte Werkzeuginstandsetzung"
  tool_maintenance_desc:0 ""
  worker_training:0 "Fertigkeiten und Ausbildung"
  worker_training_desc:0 ""
@@ -3182,7 +3182,7 @@
  paratrooper_tt:0 "£unit_paratrooper_icon_small Fallschirmjäger: §Y+[?temp]§! (Gesamtbedarf: [?total_paratrooper|Y0]) \n"
  paratrooper_reduce_tt:0 "£unit_paratrooper_icon_small Paratrooper: §Y-[?temp]§! (Gesamtreduktion: [?total_paratrooper|Y0]) \n"
  marine_tt:0 "£unit_marine_icon_small Marines: §Y+[?temp]§! (Gesamtbedarf: [?total_marine|Y0]) \n"
- mountaineers_tt:0 "£unit_mountaineers_icon_small Bergsteiger: §Y+[?temp]§! (Gesamtbedarf: [?total_mountaineer|Y0]) \n"
+ mountaineers_tt:0 "£unit_mountaineers_icon_small Gebirgsjäger: §Y+[?temp]§! (Gesamtbedarf: [?total_mountaineer|Y0]) \n"
  commando_tt:0 "£unit_commando_icon_small Commando: §Y+[?temp]§! (Gesamtbedarf: [?total_commando|Y0]) \n"
  nkvd_tt:0 "£unit_nkvd_icon_small NKVD: §Y+[?temp]§! (Gesamtbedarf: [?total_nkvd|Y0]) \n"
  special_forces_tt:0 "§YSpecial Forces§!§! (§Y+[?temp]§!) \n"
@@ -3226,7 +3226,7 @@
  ss_med_panzer_div_tt:0 "£unit_ss_panzer_iii_icon_small SS-Pz. III - IV - V: §Y+[?temp]§!  (Gesamtbedarf: [?total_ss_med_panzers|Y0]) \n"
  ss_hvy_panzer_div_tt:0 "£unit_ss_panzer_vi_icon_small SS Hvy-Panzers: §Y+[?temp]§!  (Gesamtbedarf: [?total_ss_hvy_panzers|Y0]) \n"
 
- mountaineers_tech:0 "Bergsteiger-Technologien"
+ mountaineers_tech:0 "Gebirgsjäger-Technologien"
 
  ### BICE ### ""
  cat_command_tt:0 "§CCommand Doctrine§!\n"

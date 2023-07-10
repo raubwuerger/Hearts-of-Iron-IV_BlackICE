@@ -186,7 +186,7 @@
  ## 9/2/2017 ## "
  PRC_remove_noresist_from_zxl_tt:0 "Entfernt die Eigenschaft §RThe General Who Did Not Resist§! von Zhang Xueliang.\n"
  prc_preserve:0 "Ermöglicht §HSelf-Preservation§!\nAlle Infanterie : \n Trickleback : §G+1%§!\n Erfahrungsverlust : §G-1.5%§!"
- PRC_mountain_training_tt:0 "Ermöglicht §HMountain Warfare§!\nAlle Infanterie : \n §HMountain§!\n Movement: §G+10%§!\n §HHügel§!\n Bewegung: §G+10%§!\n\n§HMarines\n Mountain§!\n Attack: §G+5%§!\n §HHills§!\n Attacke: §G+5%§!\n \n§HMBergsteiger\n Berg§!\n Angriff: §G+5%§!\n §HHills§!\n Attack: §G+5%§!\n \n§HParatroopers\n Mountain§!\n Attack: §G+5%§!\n §HHills§!\n Attacke: §G+5%§!\n\nGewinnen Sie 2 Elite-Bergsteiger-Divisionen.\n"
+ PRC_mountain_training_tt:0 "Ermöglicht §HMountain Warfare§!\nAlle Infanterie : \n §HMountain§!\n Movement: §G+10%§!\n §HHügel§!\n Bewegung: §G+10%§!\n\n§HMarines\n Mountain§!\n Attack: §G+5%§!\n §HHills§!\n Attacke: §G+5%§!\n \n§HMGebirgsjäger\n Berg§!\n Angriff: §G+5%§!\n §HHills§!\n Attack: §G+5%§!\n \n§HParatroopers\n Mountain§!\n Attack: §G+5%§!\n §HHills§!\n Attacke: §G+5%§!\n\nGewinnen Sie 2 Elite-Bergsteiger-Divisionen.\n"
  PRC_yhc_join:0 "§YYang Hucheng§! wird sich unserer Armee anschließen\n"
  PRC_resore_dbj_glory_tt:0 "Besitze und kontrolliere die folgenden Staaten:\n §YJehol§!\n §YLiaotung§!\n §YKirin§!\n §YLiaoning§!\n"
  PRC_create_wargoal_for_db_tt:0 "Erreiche ein Kriegsziel gegen den Besitzer oder den Oberherrn des Besitzers der folgenden Staaten :\n §YLiaotung§!\n §YLiaoning§!\n §YJehol§!\n §YKirin§!\n §YSungkiang§! \n §YHeilungkiang§!\n §YNord Xing'an§!\n §YEast Xing'an§!\n §YKanto-shu§!\n §YEast Hebei§!\n §YChahar§!\n §YSouth Chahar§!\n"

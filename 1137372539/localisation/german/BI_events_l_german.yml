@@ -7696,7 +7696,7 @@ tblra.14.a:0 "Ein trauriger Tag für die Benelux-Staaten"
  Organizing:0 "§RMobilisierung§!"
  
  Infantry_gun_TT:0 "\nWill introduce §G5§!  §YInfanteriegeschütze§! zu\n - §YInfanterie§!\n - §YMotorisiert§!\n - §YMechanisiert§!"
- Infantry_HMG_TT:0 "\nWill introduce §G12§!  §YMaschinengewehre§! einführen - §YInfanterie§!\n - §YGarnison§!\n - §YMotorisiert§!\n - §YMechanisiert§!\n Wird §G8§!  §YMaschinengewehre§! zu \n - §YBergsteiger§!\n - §YMarines§!"
+ Infantry_HMG_TT:0 "\nWill introduce §G12§!  §YMaschinengewehre§! einführen - §YInfanterie§!\n - §YGarnison§!\n - §YMotorisiert§!\n - §YMechanisiert§!\n Wird §G8§!  §YMaschinengewehre§! zu \n - §YGebirgsjäger§!\n - §YMarines§!"
  Infantry_Mortar_TT:0 "\nWill introduce §G10§!  §YMortar Teams§! zu \n - §YInfantry§!\n - §YSemi Motorized§!\n - §YMotorized§!\n - §YMechanized§!\n Wird §G7§!  §YMortar Teams§! zu \n - §YMountaineers§!\n - §YMarines§!"
  Infantry_Sniper_TT:0 "\nWill §G6§!  §YSniper Teams§! zu §Yall Infantry§!"
  AC_event.1.t:0 "Antrag auf Baugenehmigung"

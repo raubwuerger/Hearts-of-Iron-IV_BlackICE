@@ -200,17 +200,17 @@
  LTAIR_FACTORY_TOOLTIP:0 "\n§YLight Aircraft Factories§!\n\nMax Level: §Y[GetMaxLtAirNumber]§!\nAktueller Level: [?num_light_aircraft_factory_total|Y0]\nBeschädigt: [?num_light_aircraft_factory_damaged|0R]\n\n$EQUIPMENT_FACTORY_BONUS$[GetLtAirFactoryBonus]\nAktueller Produktionsschwerpunkt: §Y[GetSelectedLtAirFactoriesSubtypesTT]§!\n\n"
  HVAIR_FACTORY_TOOLTIP:0 "\n§YSchwere Luftfahrzeugfabriken§!\n\nMax Level: §Y[GetMaxHvAirNumber]§!\nAktueller Level: [?num_heavy_aircraft_factory_total|Y0]\nBeschädigt: [?num_heavy_aircraft_factory_damaged|0R]\n\n$EQUIPMENT_FACTORY_BONUS$[GetLtAirFactoryBonus]\nAktueller Produktionsschwerpunkt: §Y[GetSelectedHvAirFactoriesSubtypesTT]§!\n\n"
  JETAIR_FACTORY_TOOLTIP:0 "\n§YJet Aircraft Factories§!\n\nMax Level: §Y[GetMaxJetAirNumber]§!\nCurrent Level: [?num_jet_aircraft_factory_total|Y0]\nDamaged: [?num_jet_aircraft_factory_damaged|0R]\n\n$EQUIPMENT_FACTORY_BONUS$[GetLtAirFactoryBonus]\nAktueller Produktionsschwerpunkt: §Y[GetSelectedJetAirFactoriesSubtypesTT]§!\n\n"
- SHIPYARD_FACTORY_TOOLTIP:0 "\n§YShipyards§!\n\nMax Level: §Y[GetMaxShipyardNumber]§!\nAktueller Level: [?num_shipyard_total|Y0]\nBeschädigt: [?num_shipyard_damaged|0R]\n\n£nic_factory_output §YDockyard§! Ausgabe: [GetShipyardBonus] \n§YSubmarine§!: £production_cost IC Cost: [?num_shipyard|-=]§R%§!"
+ SHIPYARD_FACTORY_TOOLTIP:0 "\n§YShipyards§!\n\nMax Level: §Y[GetMaxShipyardNumber]§!\nAktueller Level: [?num_shipyard_total|Y0]\nBeschädigt: [?num_shipyard_damaged|0R]\n\n£nic_factory_output §YWerft§! Ausgabe: [GetShipyardBonus] \n§YSubmarine§!: £production_cost IC Cost: [?num_shipyard|-=]§R%§!"
  SUBYARD_FACTORY_TOOLTIP:0 "\n§YSubyards§!\n\nMax Level: §Y[GetMaxSubyardNumber]§!\nAktueller Level: [?num_subyard_total|Y0]\nBeschädigt: [?num_subyard_damaged|0R]\n\n$SUBYARD_FACTORY_EFFECT$"
- SHIPYARD_FACTORY_EFFECT:0 "£nic_factory_output §YDockyard§! Ausgabe: [GetShipyardBonus] \n§YSubmarine§!: £production_cost IC Cost: [?num_shipyard|-=]§R%§!"
- SUBYARD_FACTORY_EFFECT:0 "§YSubmarine§!: £production_cost IC Cost: §G-[GetSubyardBonus]§!"
+ SHIPYARD_FACTORY_EFFECT:0 "£nic_factory_output §YMarinewerft§! Produktion: [GetShipyardBonus] \n§YU-Boote§!: £production_cost IC Kosten: [?num_shipyard|-=]§R%§!"
+ SUBYARD_FACTORY_EFFECT:0 "§YU-Boote§!: £production_cost IC Kosten: §G-[GetSubyardBonus]§!"
  UNIFORM_FACTORY_EFFECT:0 "§YFelduniformen§!: £production_cost IC Kosten: §G-[GetUniformFactoryBonus]§!"
  EQUIPMENT_FACTORY_BONUS:0 "£production_cost IC Kostenreduzierung: "
- CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Großkampfschiffe Werftkapazität§! zur Verwendung.\n\nGesamtverbrauch: §Y[?resource_consumed@shipyard_capital]§!\n\nCapital Ship Equivalents Unused: §Y[?num_capital_shipyard_free|2]§!\n---------------\nCapital Shipyard Capacity stellt die großen Anlagen und Werften dar, die für die Produktion von Capital Ships und Carriers benötigt werden."
+ CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Großkampfschiffe Werftkapazität§! zur Verfügung.\n\nGesamtverbrauch: §Y[?resource_consumed@shipyard_capital]§!\n\nUngenutzte Kapazität: §Y[?num_capital_shipyard_free|2]§!\n---------------\nGroßkampfschiffskapazität stellt die großen Anlagen und Werften dar, die für die Produktion von Großkampfschiffen und Trägern benötigt werden."
 
 
- AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Luftproduktionskapazität§! zur Verfügung.\n\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\n\nTotal Air Assembly Plants: [?num_air_assembly|Y0]\nKapazität pro Anlage: [Root.GetAirAssemblyPlantCapacity]\n [!air_assembly_capacity_click]\n---------------\nAir Production Capacity stellt die Anlagen zur Herstellung und Montage von Flugzeugen dar."
- TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verwendung.\n\nGesamtverbrauch: §Y[?resource_consumed@tank_production]§!\n\n\nTotal Tank Assembly Plants: [?num_tank_assembly|Y0]\nKapazität pro Werk: [Root.GetTankAssemblyPlantCapacity]\n [!tank_assembly_capacity_click]\n---------------\nTank Production Capacity stellt die Anlagen zur Herstellung und Montage von gepanzerten Fahrzeugen wie Panzern, gepanzerten Fahrzeugen und mechanisierten Fahrzeugen dar."
+ AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Luftproduktionskapazität§! zur Verfügung.\n\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\n\nAnzahl Flugzeugproduktionsstädten: [?num_air_assembly|Y0]\nKapazität pro Anlage: [Root.GetAirAssemblyPlantCapacity]\n [!air_assembly_capacity_click]\n---------------\nLuftproduktionskapazität stellt die Anlagen zur Herstellung und Montage von Flugzeugen dar."
+ TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verfügung.\n\nGesamtverbrauch: §Y[?resource_consumed@tank_production]§!\n\n\nPanzerfabriken: [?num_tank_assembly|Y0]\nKapazität pro Werk: [Root.GetTankAssemblyPlantCapacity]\n [!tank_assembly_capacity_click]\n---------------\nPanzerproduktionskapazität stellt die Anlagen zur Herstellung und Montage von gepanzerten Fahrzeugen wie Panzern, gepanzerten Fahrzeugen und mechanisierten Fahrzeugen dar."
 
 
 
@@ -221,7 +221,7 @@
 
  BI_SELECT_SUBTYPE_TT:0 "§YKlick§! zur §YSpezialisierung§! der Produktion auf eine Gruppe von Ausrüstungen, was die £production_cost §YProduktionsbonus§! um §Y50%§! auf Kosten von £pol_power §YPolitical Power§! erhöht. Die Kosten steigen mit jedem Produktionsschwerpunkt."
  BI_EQUIPMENT_FACTORY_TOTAL_TT:0 "§YGesamtmenge§!\nWie viele §Y[?v.GetTokenLocalizedKey]§! wir insgesamt haben. Wenn wir mehr Gebäude als unser §YMaximum§! haben, haben die überschüssigen Gebäude keine Auswirkungen."
- BI_EQUIPMENT_FACTORY_MAXIMUM_TT:0 "§YMaximum Level§!\nWie viele §Y[?v.GetTokenLocalizedKey]§! wir haben können. Das Limit kann durch £tech_mod §YIndustry Technologies§! erhöht werden."
+ BI_EQUIPMENT_FACTORY_MAXIMUM_TT:0 "§YMaximum Level§!\nWie viele §Y[?v.GetTokenLocalizedKey]§! wir haben können. Das Limit kann durch £tech_mod §YIndustrietechnologien§! erhöht werden."
 
  BI_EQUIPMENT_TANK_FACTORY_SUBTYPE_BUTTON_TT:0 "Effekt von §Y[?v.GetTokenLocalizedKey]:§!\n\n[GetTankFactorySubtypeTooltipLists]"
  BI_EQUIPMENT_TRUCK_FACTORY_SUBTYPE_BUTTON_TT:0 "Effekt von §Y[?v.GetTokenLocalizedKey]:§!\n\n[GetTruckFactorySubtypeTooltipLists]"
@@ -354,7 +354,7 @@
  train_high_string:0 "£pol_idea Hohe Standards: §Y+12.5%§!\n"
  train_elite_string:0 "£pol_idea Elite Standards: §Y+20.0%§!\n"
 
- TOTAL_FAC_TT:0 "§YFabriken§!\nZivile Fabriken: [?num_of_civilian_factories|Y0]\n[Root.GetUsedCIC] §LAvailable Factories for Projects: [?num_of_civilian_factories_available_for_projects]§!\nMilitärische Fabriken: [?num_of_military_factories|Y0]\nNaval Dockyards: [?num_of_naval_factories|Y0]\n\n[Root.GetAssemblyAirTT][Root.GetAssemblyTankTT]\nTotal Equipment Factories: [?country_specialy|Y0][Root.GetEquipFacTT][Root.GetTruckTT][Root.GetArtyTT][Root.GetSmallarmsTT][Root.GetUniformTT][Root.GetShipTT][Root.GetSubTT]"
+ TOTAL_FAC_TT:0 "§YFabriken§!\nZivile Fabriken: [?num_of_civilian_factories|Y0]\n[Root.GetUsedCIC] §LAvailable Factories for Projects: [?num_of_civilian_factories_available_for_projects]§!\nMilitärische Fabriken: [?num_of_military_factories|Y0]\nMarinewerften: [?num_of_naval_factories|Y0]\n\n[Root.GetAssemblyAirTT][Root.GetAssemblyTankTT]\nTotal Equipment Factories: [?country_specialy|Y0][Root.GetEquipFacTT][Root.GetTruckTT][Root.GetArtyTT][Root.GetSmallarmsTT][Root.GetUniformTT][Root.GetShipTT][Root.GetSubTT]"
  NUM_AIR_ASS_TT:0 "Luftfahrzeugfabriken: [?num_air_assembly|Y0]\n"
  NUM_TANK_ASS_TT:0 "Panzerfabriken: [?num_tank_assembly|Y0]\n"
 
@@ -566,8 +566,8 @@
  SPECIAL_FORCES_COMMANDO:0 "- [?num_battalions_with_type@commando|Y0] Kommando-Bataillone (Gewicht: [?weight|R1])\n"
 
  SPECIAL_FORCES_DIV_HQ_airborne:0 "- [?num_battalions_with_type@DIV_HQ_airborne|Y0] HeadQuartes Detachment [Airb.] (Gewicht: [?weight|R1])\n"
- SPECIAL_FORCES_MOUNT_SUPPORT:0 "- [?num_battalions_with_type@mount_support|Y0] Bergsteiger-Unterstützung (Gewicht: [?weight|R1])\n"
- SPECIAL_FORCES_AMPH_SUPPORT:0 "- [?num_battalions_with_type@amph_support|Y0] Amphibische Unterstützung (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_MOUNT_SUPPORT:0 "- [?num_battalions_with_type@mount_support|Y0] Gebirgsjäger-Unterstützung (Gewicht: [?weight|R1])\n"
+ SPECIAL_FORCES_AMPH_SUPPORT:0 "- [?num_battalions_with_type@amph_support|Y0] Amphibische-Unterstützung (Gewicht: [?weight|R1])\n"
  SPECIAL_FORCES_PARA_SUPPORT:0 "- [?num_battalions_with_type@para_support|Y0] Luftlandeunterstützung (Gewicht: [?weight|R1])\n"
  GET_NAME:0 "[This.GetName]"
  V_GET_NAME:0 "[?v.GetTokenKey]"
@@ -718,7 +718,7 @@
  HEAVY_ANTI_TANK_WEIGHT:0 "Schwere Panzerabwehr: §Y2.00§!\n"
  ANTI_AIR_WEIGHT:0 "Luftabwehr: §Y1.00§!\n"
  HEAVY_ANTI_AIR_WEIGHT:0 "Schwere Luftabwehr: §Y2.00§!\n"
- MOUNTAINEER_WEIGHT:0 "Bergsteiger: §Y3.00§!\n"
+ MOUNTAINEER_WEIGHT:0 "Gebirgsjäger: §Y3.00§!\n"
  MARINE_WEIGHT:0 "Marine: §Y3.00§!\n"
  PARATROOPER_WEIGHT:0 "Fallschirmspringer: §Y3.00§!\n"
  CAVALRY_WEIGHT:0 "Kavallerie: §Y1.00§!\n"
@@ -871,8 +871,8 @@
  army_group_hq_xp_TT:0 "£tech_mod Verbessertes Heeresgruppen-Hauptquartier: §G+100.0§!\n"
  supreme_hq_xp_TT:0 "£tech_mod Verbessertes Oberstes Hauptquartier: §G+125.0§!\n"
 
- army_high_command_xp_TT:0 "£pol_idea Oberkommando der Armee: §G+15§!\n"
- air_high_command_xp_TT:0 "£pol_idea Oberkommando der Luftstreitkräfte: §G+15§!\n"
+ army_high_command_xp_TT:0 "£pol_idea Oberkommando des Heeres: §G+15§!\n"
+ air_high_command_xp_TT:0 "£pol_idea Oberkommando der Luftwaffe: §G+15§!\n"
  navy_high_command_xp_TT:0 "£pol_idea Oberkommando der Marine: §G+15§!\n"
 
  partial_economic_mobilisation_or_higher:0 "Hat Wirtschaftsgesetz §YTeilweise Mobilisierung§! oder höher"
@@ -1029,7 +1029,7 @@
  SS_template_light_assault_panzer_TT:0 "    §Y[?ss_light_assault_panzer]x§! SS Leichte Sturmpanzer Abteilung\n"
  SS_template_assault_panzer_TT:0 "    §Y[?ss_assault_panzer]x§! SS Panzer Artellerie Abteilung\n"
  SS_template_panzer_spaa_TT:0 "    §Y[?ss_panzer_spaa]x§! SS Panzer Flak Abteilung\n"
- SS_template_mountaineers_TT:0 "    §Y[?ss_mountaineers]x§! SS-Bergsteiger\n"
+ SS_template_mountaineers_TT:0 "    §Y[?ss_mountaineers]x§! SS-Gebirgsjäger\n"
  SS_template_mountain_artillery_brigade_TT:0 "    §Y[?ss_mountain_artillery_brigade]x§! SS Pack Artillery\n"
 
  SS_template_trm_ss_light_armor_TT:0 "    §Y[?trm_ss_light_armor]x§! SS Leichter Panzer\n"
