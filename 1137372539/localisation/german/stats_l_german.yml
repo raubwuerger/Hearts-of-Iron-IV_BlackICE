@@ -212,7 +212,7 @@
  STAT_COMMON_MAX_STRENGTH_VALUE:0 "$VALUE|H1$"
  STAT_COMMON_MAX_STRENGTH_DIFF:0 "$VALUE|=+1$"
  STAT_COMMON_BUILD_COST_IC:0 "£production_cost IC Kosten: "
- STAT_COMMON_BUILD_COST_IC_T:0 "§TConstruction cost: §!"
+ STAT_COMMON_BUILD_COST_IC_T:0 "§TKonstruktionskosten: §!"
  STAT_COMMON_BUILD_COST_IC_DESC:0 "§0Wie viel Fabrikausstoß eine Ausrüstungsgegenstand braucht. §H1§! Fabrik hat einen Fabrikausstoß von $SPEED|H$ pro Tag.§!"
  STAT_COMMON_BUILD_COST_IC_VALUE:0 "$VALUE|H2$"
  STAT_COMMON_BUILD_COST_IC_VALUE_EXTRA:1 "$VALUE|H1$ (+$EXTRA|H$ pro vorhandener $BUILDING|H$ Stufe)"

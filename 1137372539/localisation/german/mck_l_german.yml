@@ -618,7 +618,7 @@
  MCK_NAV_effort:0 "NAV-Bemühungen"
  MCK_NAV_effort_desc:0 "So wie sich die neue Seekriegsführung zum Teil unter der Wasseroberfläche abspielt, findet sie zum Teil in der Luft über dem Wasser statt."
  MCK_naval_effort:0 "Naval Effort"
- MCK_naval_effort_tt:0 "Nicht genug Bauplätze für §YNaval Dockyards§!"
+ MCK_naval_effort_tt:0 "Nicht genug Bauplätze für §YMarinewerften§!"
  MCK_naval_effort_desc:0 "Der Ausbau unserer Marine sollte unsere erste Priorität sein. Weisen Sie alle verfügbaren Ressourcen für neue Werften und die Erforschung von leichten Überwasserschiffen zu."
  MCK_flexible_navy:0 "Flexible Marine"
  MCK_flexible_navy_desc:0 "Wenn wir die Seekriegsführung neu erfinden, um den Fortschritten in der U-Boot-Technologie Rechnung zu tragen, können wir effizient gegen feindliche Konvois vorgehen."

@@ -7,7 +7,7 @@
  hospital_tech_research:0 "£tech_mod Feldlazarett Forschung"
  engineers_tech_research:0 "£tech_mod Ingenieure Forschung"
  military_police_tech_research:0 "£tech_mod Militärpolizei Forschung"
- excavation_tech_research:0 "£tech_mod Ausgrabungsforschung"
+ excavation_tech_research:0 "£tech_mod Bergbauforschung"
  ww1_land_doctrine_folder_research:0 "£army_experience WW1 Doktrinen"
  cat_anti_tank_research:0 "£tech_mod Panzerabwehr"
  infantry_tech_research:0 "£tech_mod Infanterie Forschung"
@@ -437,7 +437,7 @@
  ROM_terapia_ranbaxi_desc:0 "Rumänische Medizinische Gesellschaft"
  ROM_ior:0 "IOR"
  ROM_ior_desc:0 "Romanian Army Accessories Corporation"
- ROM_cugir_designer_upgrade_tt:0 "\nDer Abschluss des Schwerpunkts §YExpand Cugir Arms Factory§! wird diesen Designer aufwerten.\n"
+ ROM_cugir_designer_upgrade_tt:0 "\nDer Abschluss des Schwerpunkts §YErweitere Cugir Waffenfabrik§! wird diesen Designer aufwerten.\n"
  ROM_ior_designer_upgrade_tt:0 "\nSchwerpunkt abschließen §YIOR§! wird diesen Designer aufwerten.\n"
  ROM_artillery_designer_upgrade_tt:0 "\nSchwerpunkt abschließen §YArtillerie-Modernisierung§! wird diesen Designer aufwerten.\n"
  ROM_infantry_designer_upgrade_tt:0 "\nAbschluss des Schwerpunkts §YArms Industry Contracts§! wird diesen Designer aufwerten.\n"
@@ -1166,7 +1166,7 @@
 
  foreign_police_station:0 "Unsere Feinde haben unser Land eingenommen und unterdrücken unsere Bevölkerung, indem sie §RPolizeistationen§! in unseren Kernstaaten errichten. Zurzeit erhalten wir die folgenden Effekte:§!"
 
- output_factor:0 "§YFabrik§! und §YDeponie§! Output-Faktor"
+ output_factor:0 "§YFabrik§! und §YDeponie§! Ausstoß-Faktor"
  unity_base:0 "Basis"
  high_unity:0 "Hoher Einheitsfaktor"
  neighbouring_superior_enemy:0 "Benachbarter übermächtiger Feind"

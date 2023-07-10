@@ -11,11 +11,10 @@ History
 2023-07-02 		7.0.2-pre3 		Alle Variablen wurden korrigiert.
 2023-07-06 		7.0.2-pre4 		Die meisten Farbcodierungen wurden korrigiert.
 2023-07-08		7.0.2			Die erste vollständig übersetzte Version.
-2023-07-10		7.0.2.1			Über 200 kleinere Änderungen.
 
 Roadmap:
 
-7.0.2.x			Ich werde komische und oder falsche Übersetzungen korriegiern.
+7.0.2.1			Ich werde komische und oder falsche Übersetzungen korriegiern.
 				Das wird allersings eine Weile dauer da ich das nur beim Spielen herausfinden kann ... *g*
 				Gerne dürft ihr mir auch Übersetzungen posten welche eurer Meinung nach nicht korrekt sind.
 

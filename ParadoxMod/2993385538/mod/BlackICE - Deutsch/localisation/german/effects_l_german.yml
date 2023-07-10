@@ -87,7 +87,7 @@
  EFFECT_SCOPED_SOUND_DESC:0 "Spielt $SOUND_NAME$ für $COUNTRY|H$ ab."
  EFFECT_ADD_TECH_BONUS_AHEAD_ONLY:2 "£research_bonus_texticon $USES$$AHEAD|G.1$ Jahr Forschungsbonus für: $LIST|Y$."
  EFFECT_ADD_TECH_BONUS_BONUS_ONLY:0 "£research_bonus_texticon $USES$$BONUS|%0+$ Forschungsbonus für: $LIST|Y$."
- EFFECT_ADD_TECH_BONUS:1 "Verringert die Vorzeitigkeit um $AHEAD|.1G$ Jahre und gibt einen $BONUS|%0+$ Forschungsbonus bei Vorzeitigkeit. Gültig für die nächsten $USES|H$ Forschungen dieser Technologien: $LIST|H$."
+ EFFECT_ADD_TECH_BONUS:1 "Reduziert die Strafe bei verfrühter Erforschung um $AHEAD|.1G$ Jahre und gibt einen $BONUS|%0+$ Forschungsbonus. Gültig für die nächsten $USES|H$ Forschungen dieser Technologien: $LIST|H$."
  EFFECT_ADD_DOCTRINE_COST_REDUCTION:0 "£experience_neutral_texticon $USES$$REDUCTION|G%.0$ Kostenreduktion für: $LIST|Y$."
  EFFECT_DEMILITARIZED_ZONE:0 "Wird zu einer entmilitarisierten Zone."
  EFFECT_NOT_DEMILITARIZED_ZONE:0 "Wird nicht länger eine entmilitarisierte Zone sein."

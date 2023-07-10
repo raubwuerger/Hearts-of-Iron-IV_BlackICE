@@ -1000,7 +1000,7 @@
  BURMA_ROAD_OPEN:0 "Burma Road ist derzeit §Gactive§!"
  CHI_burma_road_level_up_TT:0 "\nErhöht die Stufe von §YBurma Road§! um §Y1§! und ermöglicht es, mehr Vorräte zu liefern.\n"
  CHI_burma_road_TT:0 "Schaltet die §YBurma Road§! frei, die uns mit militärischer Produktion von den Alliierten versorgt."
- add_spy:0 "Operateure erhöhen"
+ add_spy:0 "Agenten erhöhen"
  league_funding:0 "Erhöhung der Finanzierung des Völkerbundes"
  fund_the_league_tt:0 "Jeder Mitgliedsstaat der §OLeague Of Nations§! wird"
  #HUN ""

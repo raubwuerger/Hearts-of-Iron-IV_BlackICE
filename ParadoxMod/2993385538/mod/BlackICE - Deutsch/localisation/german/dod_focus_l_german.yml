@@ -628,7 +628,7 @@
  YUG_expand_the_serbian_shipyards_desc:1 "Obwohl es in der Region an Einrichtungen fehlt, die eine einfache Produktion größerer Kriegsschiffe ermöglichen, würde die Ansiedlung ausgedehnter Werften in der Region Montenegro sicherstellen, dass wir unabhängig von unserer künftigen Politik in Bezug auf die kroatische Autonomie die Kontrolle über sie behalten."
  YUG_coastal_defense:0 "Küstenverteidigung"
  YUG_coastal_defense_effect_tt1:0 "Hinzufügen von §Y2-Küstenforts§! an der Küste\n"
- YUG_coastal_defense_effect_tt2:0 "Hinzufügung von §Y1 Küstenforts§! zu §YNaval Base§!-Standorten\n"
+ YUG_coastal_defense_effect_tt2:0 "Hinzufügung von §Y1 Küstenforts§! zu §YMarinestützpunkt§!-Standorten\n"
  YUG_coastal_defense_desc:1 "Wir können nicht darauf hoffen, dass wir die Flotten unserer Gegner in der Adria angreifen können. Stattdessen müssen wir unsere Küsten vorbereiten, um mögliche Invasionsversuche der Flotten abzuwehren."
  YUG_expand_the_submarine_fleet:0 "Die U-Boot-Flotte ausbauen"
  YUG_expand_the_submarine_fleet_desc:1 "Anstatt den Feind mit unserer unterlegenen Marine frontal herauszufordern, sollten wir uns auf U-Boote konzentrieren, um den Feind zu bedrängen und seine Handelsschiffe ins Visier zu nehmen."

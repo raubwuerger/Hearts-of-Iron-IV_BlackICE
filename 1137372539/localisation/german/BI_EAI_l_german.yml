@@ -110,22 +110,22 @@
  EAI_config_STARTUP_2_tt:0 "Dies sind Schwierigkeitsvoreinstellungen, die verschiedene Schwierigkeitsgrade kombinieren. Diese Schwierigkeitseinstellungen sind völlig optional und nur ein kleiner Teil des gesamten Mods.\n\nWenn Sie einen höheren Schwierigkeitsgrad wünschen, sollten Sie die erweiterte Konfiguration verwenden und bestimmte Länder verstärken."
 
  EAI_config_STARTUP_2a:0 "Einfach"
- EAI_config_STARTUP_2a_tt:0 "§YSchwierigkeit: Easy§!\n\n§G-AI Resistance Reduction disabled (AI will use the gentlest occupation policy).\n\n-Improved AI Lend-Lease Logic disabled.§!\n\n§G-AI anti-aggression behavior disabled.§!"
+ EAI_config_STARTUP_2a_tt:0 "§YSchwierigkeit: Leicht§!\n\n§G-KI hat keine reduzierten Effekte von Widerstand (KI wird die sanfteste Besetzungspolitik anwenden).\n\n-Verbesserte KI Lend-Lease Logik ist deaktiviert.§!\n\n§G-KI Antiaggressionsverhalten deaktiviert.§!"
 
  EAI_config_STARTUP_2b:0 "Normal"
- EAI_config_STARTUP_2b_tt:0 "§YSchwierigkeit: Normal§!\n\n§R-AI nimmt 75% reduzierte Effekte von Widerstand.§!"
+ EAI_config_STARTUP_2b_tt:0 "§YSchwierigkeit: Normal§!\n\n§R-KI nimmt 75% reduzierte Effekte von Widerstand.§!"
 
  EAI_config_STARTUP_2c:0 "Schwer"
- EAI_config_STARTUP_2c_tt:0 "§YSchwierigkeit: Schwer§!\n\n§R-AI nimmt 75% reduzierte Auswirkungen von Widerstand.\n\n-Dynamischer Schwierigkeitsgrad: Länder in der Nähe, die sich mit Ihnen im Krieg befinden, erhalten moderate Boni.\n\n-25% KI-Zermürbung.§!"
+ EAI_config_STARTUP_2c_tt:0 "§YSchwierigkeit: Schwer§!\n\n§R-KI nimmt 75% reduzierte Auswirkungen von Widerstand.\n\n-Dynamischer Schwierigkeitsgrad: Länder in der Nähe, die sich mit Ihnen im Krieg befinden, erhalten moderate Boni.\n\n-25% KI-Zermürbung.§!"
 
  EAI_config_STARTUP_2d:0 "Sehr schwer"
- EAI_config_STARTUP_2d_tt:0 "§YSchwierigkeitsgrad: Sehr schwer§!\n\n§R-AI erleidet 75% reduzierte Auswirkungen von Widerstand.\n\n-Dynamischer Schwierigkeitsgrad: Länder in der Nähe, die sich mit Ihnen im Krieg befinden, erhalten moderate Boni.\n\n-Dynamische verzweifelte Verteidigung: Länder, die sich mit Ihnen im Krieg befinden, erhalten zunehmende Boni, je näher sie der Kapitulation kommen.\n\n-50% KI-Zermürbungsreduktion.§!"
+ EAI_config_STARTUP_2d_tt:0 "§YSchwierigkeitsgrad: Sehr schwer§!\n\n§R-KI erleidet 75% reduzierte Auswirkungen von Widerstand.\n\n-Dynamischer Schwierigkeitsgrad: Länder in der Nähe, die sich mit Ihnen im Krieg befinden, erhalten moderate Boni.\n\n-Dynamische verzweifelte Verteidigung: Länder, die sich mit Ihnen im Krieg befinden, erhalten zunehmende Boni, je näher sie der Kapitulation kommen.\n\n-50% KI-Zermürbungsreduktion.§!"
 
  EAI_config_STARTUP_2e:0 "Wahnsinnig"
- EAI_config_STARTUP_2e_tt:0 "§YSchwierigkeit: Wahnsinnig§!\n\n§R-AI nimmt 75% reduzierte Auswirkungen von Widerstand.\n\n-Dynamischer Schwierigkeitsgrad: Länder in der Nähe, die sich mit Ihnen im Krieg befinden, erhalten hohe Boni.\n\n-Dynamische verzweifelte Verteidigung: Länder, die sich mit Ihnen im Krieg befinden, erhalten steigende Boni, je näher sie der Kapitulation kommen.\n\n-75% KI-Zermürbung.§!"
+ EAI_config_STARTUP_2e_tt:0 "§YSchwierigkeit: Wahnsinnig§!\n\n§R-KI nimmt 75% reduzierte Auswirkungen von Widerstand.\n\n-Dynamischer Schwierigkeitsgrad: Länder in der Nähe, die sich mit Ihnen im Krieg befinden, erhalten hohe Boni.\n\n-Dynamische verzweifelte Verteidigung: Länder, die sich mit Ihnen im Krieg befinden, erhalten steigende Boni, je näher sie der Kapitulation kommen.\n\n-75% KI-Zermürbung.§!"
 
  EAI_config_STARTUP_2f:0 "Unmöglich"
- EAI_config_STARTUP_2f_tt:0 "§YSchwierigkeit: Unmöglich§!\n\n§R-AI nimmt 75% reduzierte Auswirkungen von Widerstand.\n\n-Dynamische Schwierigkeit: Länder in der Nähe, die sich mit Ihnen im Krieg befinden, erhalten massive Boni.\n\n-Dynamische verzweifelte Verteidigung: Länder, die sich mit Ihnen im Krieg befinden, erhalten zunehmende Boni, je näher sie der Kapitulation kommen.\n\n-Dynamische Verstärkungen: Länder, die sich mit Ihnen im Krieg befinden, können kostenlose Divisionen und Ausrüstung erhalten, wenn sie verlieren.\n\n-75% AI-Zermürbung.\n\n-AI-Länder erhalten kostenlose Konvois, wenn sie weniger als 50 zur Verfügung haben.§!"
+ EAI_config_STARTUP_2f_tt:0 "§YSchwierigkeit: Unmöglich§!\n\n§R-KI nimmt 75% reduzierte Auswirkungen von Widerstand.\n\n-Dynamische Schwierigkeit: Länder in der Nähe, die sich mit Ihnen im Krieg befinden, erhalten massive Boni.\n\n-Dynamische verzweifelte Verteidigung: Länder, die sich mit Ihnen im Krieg befinden, erhalten zunehmende Boni, je näher sie der Kapitulation kommen.\n\n-Dynamische Verstärkungen: Länder, die sich mit Ihnen im Krieg befinden, können kostenlose Divisionen und Ausrüstung erhalten, wenn sie verlieren.\n\n-75% AI-Zermürbung.\n\n-AI-Länder erhalten kostenlose Konvois, wenn sie weniger als 50 zur Verfügung haben.§!"
 
  EAI_config_STARTUP_advanced_button_text:0 "Erweiterte Konfiguration"
  EAI_config_STARTUP_advanced_button_tt:0 ""

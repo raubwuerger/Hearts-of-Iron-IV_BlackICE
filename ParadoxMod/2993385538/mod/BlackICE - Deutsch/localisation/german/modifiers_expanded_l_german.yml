@@ -1620,7 +1620,7 @@
  trait_GRE_marxist_acolyte_xp_gain_factor:0 "GRE Marxistischer Gefolgsmann Eigenschaft XP Zugewinn"
  trait_GRE_stauch_monarchist_xp_gain_factor:0 "GRE Stauch Monarchist Eigenschaft XP Zugewinn"
  trait_GRE_venezelist_loyalist_xp_gain_factor:0 "GRE Venezelist Loyalist Eigenschaft XP Zugewinn"
- trait_mountaineer_xp_gain_factor:0 "Bergsteiger Eigenschaft XP Zugewinn"
+ trait_mountaineer_xp_gain_factor:0 "Gebirgsjäger Eigenschaft XP Zugewinn"
  trait_reckless_xp_gain_factor:0 "Rücksichtslos Eigenschaft XP Zugewinn"
  trait_SPA_carlist_loyalties_xp_gain_factor:0 "SPA Carlistische Loyalität Eigenschaft XP Zugewinn"
  trait_SPA_falangist_loyalties_xp_gain_factor:0 "SPA Falangistische Loyalität Eigenschaft XP Zugewinn"

@@ -146,7 +146,7 @@
  SLO_committee_for_military_innovations_desc:0 "Die Entwicklung und Herstellung moderner Militärausrüstung ist eine schwierige Aufgabe, die in einer Institution zentralisiert werden muss. Diese Mitglieder wären in der Lage, den gesamten Prozess zu überwachen und hätten die Aufgabe, jedes Problem zwischen der Konzeption und der Produktion zu beseitigen."
 
  SLO_aviation_effort:0 "Organisieren Sie die Luftwaffe"
- SLO_aviation_effort_tt:0 "Nicht genug Bauplätze für §YAir Base§!"
+ SLO_aviation_effort_tt:0 "Nicht genug Bauplätze für §YLuftwaffenstützpunkt§!"
  SLO_aviation_effort_desc:0 "Jetzt, wo wir unsere Unabhängigkeit erlangt und einige Avia-Doppeldecker erhalten haben, müssen wir eine kleine Luftwaffe organisieren und mit der Planung ihrer zukünftigen Verwendung und ihres Modernisierungspotenzials beginnen."
  SLO_fighter_focus:0 "Schwerpunkt Jagdflugzeuge"
  SLO_fighter_focus_desc:0 "Die Luftkämpfe des Großen Krieges sind noch nicht vorbei. Wenn wir bei der Entwicklung von Kampfflugzeugen die Nase vorn haben, werden wir in Zukunft einen Vorteil haben."
@@ -168,7 +168,7 @@
  SLO_NAV_effort:0 "Torpedo-Bomber"
  SLO_NAV_effort_desc:0 "So wie die neue Seekriegsführung zum Teil unter der Wasseroberfläche stattfindet, findet sie zum Teil in der Luft über dem Wasser statt."
  SLO_naval_effort:0 "Marinebau vorbereiten"
- SLO_naval_effort_tt:0 "Nicht genug Bauplätze für §YNaval Dockyards§!"
+ SLO_naval_effort_tt:0 "Nicht genug Bauplätze für §YMarinewerften§!"
  SLO_naval_effort_desc:0 "Der Ausbau unserer Flotte sollte oberste Priorität haben. Weisen Sie alle verfügbaren Ressourcen für neue Werften und die Erforschung von leichten Überwasserschiffen zu."
  SLO_flexible_navy:0 "Flexible Marine"
  SLO_flexible_navy_desc:0 "Wenn wir die Seekriegsführung neu erfinden, um den Fortschritten in der U-Boot-Technologie Rechnung zu tragen, können wir effizient gegen feindliche Konvois vorgehen."

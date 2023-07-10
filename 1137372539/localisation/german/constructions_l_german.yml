@@ -83,7 +83,7 @@
  CONVERSION_SPEED_MODIFIERS:1 "Umrüstkosten geändert durch:"
  REFITTING_SPEED_MODIFIERS:1 "Umrüstgeschwindigkeit modifiziert durch:"
  REFITTING_COST_MODIFIERS:1 "Umrüstkosten modifiziert durch:"
- EQUIPMENT_CONVERSION_SPEED_MODIFIERS:0 "§HConversion speed modified by:§!"
+ EQUIPMENT_CONVERSION_SPEED_MODIFIERS:0 "§HUmrüstungsgeschwindigkeit geändert durch:§!"
  EQUIPMENT_CONVERSION_COST_MODIFIERS:0 "§HCUmrüstkosten geändert durch:§!"
  INFRASTRUCTURE_COST_EFFECT:1 "£GFX_infrastructure_texticon Zustand der Infrastruktur: x$VAL|2H$"
  INFRA_VAL:0 "£infrastructure_texticon $VAL|0%+=$"
