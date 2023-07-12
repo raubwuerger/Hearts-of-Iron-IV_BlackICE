@@ -1,8 +1,8 @@
 ﻿l_german:
  FACTION_LEADER:0 "Fraktionsführer: §Y$COUNTRY$§!"
  FACTION_MEMBER:0 "Fraktionsmitglied: §Y$COUNTRY$§!"
- FACTION_CREATED_UNDER_MASTER_TITLE:0 "Beitritt zur Master's Faction"
- FACTION_CREATED_UNDER_MASTER_MESSAGE:0 "Wir haben uns der $FACTION|H$-Fraktion unter unserem Meister angeschlossen"
+ FACTION_CREATED_UNDER_MASTER_TITLE:0 "Beitritt zur Master's Fraktion"
+ FACTION_CREATED_UNDER_MASTER_MESSAGE:0 "Wir haben uns der $Fraktion|H$-Fraktion unter unserem Meister angeschlossen"
  FACTION_NAME_GER_fascism:0 "Achse"
  FACTION_NAME_GER_none:0 "Achse"
  FACTION_NAME_IDEOLOGY_DEFAULT:0 "Unterstützer von $IDEOLOGY$"

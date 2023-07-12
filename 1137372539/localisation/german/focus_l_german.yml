@@ -3386,7 +3386,7 @@ FRA_not_in_crisis_tooltip:0 "Frankreich befindet sich nicht in einem §RCRIS!§!
  FRA_heavy_armor_div_tt:0 "Ihr erhaltet eine kostenlose §YHeavy Armor§!-Abteilungsvorlage.\n"
  FRA_sack_gamelin_tt:0 "Durch das Abschließen dieses Fokus wird §YMaurice Gamelin§! vom Kommando entfernt!"
  FRA_leaving_faction_warning:0 "\n§RDas Abschließen dieses Fokus kann dazu führen, dass Sie Ihre derzeitige Fraktion verlassen müssen!§!"
- FRA_little_entente_faction_req:0 "Ist nicht in einer Faction mit einer anderen §YMajor Nation§!"
+ FRA_little_entente_faction_req:0 "Ist nicht in einer Fraktion mit einer anderen §YMajor Nation§!"
  FRA_formed_little_entente:0 "Oder wir haben die §CLittle Entente§! gebildet und §YYJugoslawien§!, §YRumänien§! und §YPolen§! eingeladen."
  FRA_econ_warfare_focus:0 "Verlangen Sie, dass alle §CNeutralen Europäischen Nationen§! die §YDeutschland§! noch unterstützen, sofort jeden Handel einstellen. Die folgenden Nationen unterstützen Deutschland:"
  FRA_econ_warfare_focus_prereq:0 "§CNeutrale Europäische Nationen§! unterstützen §YDeutschland§!"

@@ -241,7 +241,7 @@
  EFFECT_BUFF_DEFAULT_TOOLTIP:0 "Verstärkt durch eine Fähigkeit."
  EFFECT_DESTROY_SHIPS:0 "Zerstört $COUNT|H$ $TYPE|H$§Hs§!"
  EFFECT_DESTROY_SHIPS_ALL:0 "Alle"
- EFFECT_PROMOTE_LEADER:0 "Wird zum §HFeldmarschall§ befördert!"
+ EFFECT_PROMOTE_LEADER:0 "Wird zum §HFeldmarschall§! befördert!"
  EFFECT_DEMOTE_LEADER:0 "Wird zu §HGeneral§ degradiert!"
  EFFECT_GAIN_XP:0 "Erlangt $VALUE|H$ Erfahrung"
  EFFECT_RETIRE_UNIT_LEADER:0 "Geht in den Ruhestand als $TITLE|H$"

@@ -11,7 +11,9 @@ History
 2023-07-02 		7.0.2-pre3 		Alle Variablen wurden korrigiert.
 2023-07-06 		7.0.2-pre4 		Die meisten Farbcodierungen wurden korrigiert.
 2023-07-08		7.0.2			Die erste vollständig übersetzte Version.
-2023-07-10		7.0.2.1			Über 200 kleinere Änderungen.
+2023-07-10		7.0.2.1 		Über 200 kleinere Änderungen.
+2023-07-12		7.0.2.2			Die Datei trm_tank_modules_l_german (3044 Zeilen) ist jetzt auch auf deutsch.
+								Und wieder mehr als 100 kleinere Änderungen.
 
 Roadmap:
 
@@ -20,5 +22,3 @@ Roadmap:
 				Gerne dürft ihr mir auch Übersetzungen posten welche eurer Meinung nach nicht korrekt sind.
 
 Alle 7.0.x-Versionen sind SaveGame kompatibel.
-
-

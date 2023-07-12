@@ -4,7 +4,7 @@
  ### IMPORTANT ### ""
  #-Also adjust GetVersion in common/scripted_localisation/ ""
  BICE_version:0 "Schwarzer ICE 7.0.2"
- BICE_checksum:0 ""4412" #Vergessen Sie nicht, das Git-Zeug vor dem Hochladen zu entfernen"
+ BICE_checksum:0 "4412"
  #--------------------------------- ""
 
  BICE_STARTUP_TITLE:0 "Black ICE v7.0"

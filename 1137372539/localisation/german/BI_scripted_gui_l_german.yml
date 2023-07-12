@@ -85,10 +85,10 @@
  allied_anger_desc:0 "Aktueller §RAllied Anger§!: [?GER.allied_anger|0R]"
  allied_anger_trait:0 ""
  #show_allied_anger:0 "[ENG.GetFlag]§YAllierter Zorn§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder des Commonwealth\n[Root.GetAA3] §R3§! - Politische Macht: §G+150§!\n§ [Root.GetAA5] §R5§! - Erhalte Basis-Kriegsunterstützung: §G+10%§! \n[Root.GetAA8] §R8§! - Ändern Sie das Wirtschaftsgesetz auf '§YEarly Mobilization§!'\n[Root.GetAA10] §R10§! - Erhalte Basis-Kriegsunterstützung: §G+10§!\n[Root.GetAA12] §R12§! - Reduziere die Modifikatoren von §YThe War to End All Wars§!\n[Root.GetAA15] §R15§! - Erhalte Basis-Mobilisierungsgeschwindigkeit: §G+15%§!\n[Root.GetAA16] §R16§! - Reduziert die Kosten für militärische Kommandos: §G-25%§!\n[Root.GetAA18] §R18§! - Ändere Mobilisierung auf '§YLimited§!'\n[Root.GetAA20] §R20§! - Meinung mit [GER.GetNameWithFlag] austauschen: §R-50§!\n[Root.GetAA24] §R24§! - Wirtschaftsgesetz ändern in '§YTeilmobilisierung§!'\n[Root.GetAA26] §R26§! - Ändere Wirtschaftsgesetz zu '§YKriegswirtschaft§!'\n[Root.GetAA28] §R28§! - Schafft zusätzliche Infanteriedivisionen in der Hauptstadt\n[Root.GetAA30] §R30§! - Erlangt Nationalgeist §YEnd of Appeasement§!"
- #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §YAllied Faction§!\nJeder zusätzliche §RAllied Anger§! erhöht die Boni um §G2%§!"
+ #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §YAllied Fraktion§!\nJeder zusätzliche §RAllied Anger§! erhöht die Boni um §G2%§!"
  show_allied_anger:0 "[!allied_anger_test_click]"
  allied_anger_TT_0:0 "§RAllied Anger§!\n"
- allied_anger_TT_1:0 "Gilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §Y[ENG.GetFactionName]§! Faction\n\n"
+ allied_anger_TT_1:0 "Gilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §Y[ENG.GetFactionName]§! Fraktion\n\n"
  allied_anger_TT_2:0 "Mit jeder Erhöhung nehmen die Boni proportional zu. Die Rechtfertigung eines Kriegsziels erhöht den Alliierten Zorn regelmäßig, und eine Kriegserklärung setzt den §RAlliierten Zorn§! für §Y180§! Tage auf die Maximalstufe.\n\n Derzeit erhält die §Y[ENG.GetFactionName]§! folgende Boni:\n\n"
  allied_anger_TT_3:0 "      / Keine"
 
@@ -1240,7 +1240,7 @@
  REQUEST_CONSTRUCTION_DIPLO_TOOLTIP_DELAYED:0 "[!request_construction_click]"
 
  ai_diplo_score_faction_tt:0 "Ist Fraktionsführer von §Y[From.GetNameDef]§!: $RIGHT|+0$\n"
- ai_diplo_score_in_faction_tt:0 "Ist in Faction mit §Y[From.GetNameDef]§!: $RIGHT|+0$\n"
+ ai_diplo_score_in_faction_tt:0 "Ist in Fraktion mit §Y[From.GetNameDef]§!: $RIGHT|+0$\n"
  ai_diplo_score_subject_tt:0 "§Y[From.GetNameDef]§! ist eine Marionette von §Y[Root.GetNameDef]§!: $RIGHT|+0$\n"
  ai_diplo_score_government_tt:0 "§Y[From.GetNameDef]§! hat die gleiche Ideologie: $RIGHT|+0$\n"
 

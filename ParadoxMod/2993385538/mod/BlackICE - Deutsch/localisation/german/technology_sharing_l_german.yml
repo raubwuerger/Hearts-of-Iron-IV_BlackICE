@@ -25,7 +25,7 @@
  LICENSED_PRODUCTION_RESEARCH_BONUS_VALUE_DESC:0 "Lizenzierte Produktion: $VALUE|+%0$\n"
  TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_DESC:0 "\n$NAME|H$ Mitgliedschaft bietet $VALUE|G%0$ Bonus (max $MAX|H%0$) von Ländern:"
  TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_COUNTRY:0 "\n@$TAG$$COUNTRY|H$"
- continuous_tech_share_group_name:0 "Faction-Forschung"
+ continuous_tech_share_group_name:0 "Fraktion-Forschung"
  continuous_tech_share_group_desc:0 "Reduzierte Forschungszeit durch Nationen in deiner Fraktion aufgrund deines aktiven Kontinuierlichen Fokus."
  NO_OTHER_SHARING_GROUPS:0 "Ist nicht Teil einer Technologie-Sharing-Gruppe"
  little_entente_research_group_desc:0 "Reduzierte Forschungszeit für Technologien, die von Ländern in der von Tschechien geführten Kleinen Entente erforscht werden."

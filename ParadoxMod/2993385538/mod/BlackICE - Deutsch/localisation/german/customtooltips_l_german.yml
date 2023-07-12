@@ -4,7 +4,7 @@
  GERnoneed_1:0 "No need to form this unit.\n§RThis choice will end the event-chain!!!§!\n"
  GERnoneed_2:0 "Militärische Ausrüstung, die in mehreren Lagerhäusern gefunden wurde, wurde beschlagnahmt und zu unserem Lagerbestand hinzugefügt."
 
- GER_czech_equipment:0 "Stocked military equipment found in several warehouses confiscated and added to our stockpile."
+ GER_czech_equipment:0 "In Depots gefundene militärische Ausrüstung wurde beschlagnahmt und unserem Lagerbestand hinzugefügt."
  GER_aw_1:0 "Aufrüstung der Einheiten:\n§Y1. Panzer-Division in Weimar§!\n§Y2. Panzer-Division in Würzburg§!\n§Y3. Panzer-Division in Wünsdorf§!\n"
  #GER Pz-Divisions "Ändern Sie die Vorlagen für Einheiten:\n§Y1. Panzer-Division§!\n§Y2. Panzer-Division§!\n§Y3. Panzer-Division§!\n"
  GER_123_Pz_Div_tt:0 "§R2. Die Panzer-Division§! muss sich aus allen Kämpfen zurückziehen, da sie reorganisiert werden soll."

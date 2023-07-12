@@ -645,7 +645,7 @@
  enigma.11.a:0 "Lasst ihn uns knacken"
  enigma.11.b:0 "Nein"
  enigma.12.t:0 "Enigma-Code geknackt!"
- enigma.12.d:0 "Unsere Kryptologen haben großartige Arbeit geleistet, wir können unsere Konvois jetzt besser gegen deutsche U-Boote verteidigen.\n\nWir erhalten unsere in den Knackversuch investierte Arbeitskraft zurück."
+ enigma.12.d:0 "Unsere Kryptologen haben großartige Arbeit geleistet, wir können unsere Konvois jetzt besser gegen deutsche U-Boote verteidigen.\n\nWir erhalten unsere in die Entschlüsselung investierte Arbeitskraft zurück."
  enigma.12.a:0 "Großartig"
  enigma.13.t:0 "Die USA teilen Enigma-Codes."
  enigma.13.d:0 "Die US-Kryptologen haben eine großartige Arbeit geleistet.  Wir können unsere Konvois jetzt besser gegen deutsche U-Boote verteidigen.  Danke an sie."
@@ -4585,7 +4585,7 @@
  KMT_ZXL_NAME_TT:0 "\n[ZXL.GetName] : \n"
  ## 29/12/2017 ## "§0Befehlen Sie unseren Agenten, stattdessen Chiang auszuschalten!"
  xian.3.c:0 "§0Befehlen Sie unseren Agenten, stattdessen Chiang auszuschalten!"
- KMT_xian_choose_to_kill_chiang_tt:0 "§CDiese Option ist verfügbar, weil Sie gerade den Fokus§! §YSupport Pro-Japanese Faction§!\n\n§0Wenn Sie diese Option wählen, beenden Sie sofort den§! §YSupport Pro-Japanese Faction§! §!\n\n"
+ KMT_xian_choose_to_kill_chiang_tt:0 "§CDiese Option ist verfügbar, weil Sie gerade den Fokus§! §YSupport Pro-Japanese Fraktion§!\n\n§0Wenn Sie diese Option wählen, beenden Sie sofort den§! §YSupport Pro-Japanese Fraktion§! §!\n\n"
  ## 1/11/2017 ## 
  KMT_xian_choose_to_kill_chiang_commie_tt:0 "§0Diese Option ist verfügbar, weil Sie sich für den kommunistischen Weg entschieden haben§!\n\n§0Wenn Sie diese Option wählen, beenden Sie sofort den§! §YDer Rote Coup§! §!\n\n"
  xian.14.c:0 "§0Nutzen Sie diese Gelegenheit. Versuchen Sie, mit Hilfe des Machtimpfstoffs die Kontrolle über die Regierung zu übernehmen.§!"

@@ -14,7 +14,7 @@
  MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR_DESC:1 "Ändert die Anzahl der gemeinsam genutzten Gebäudeplätze im Staat."
  MODIFIER_LOCAL_BUILDING_SLOTS:0 "£civ_factory Max. Fabriken im Bundesstaat"
  CAN_GUARANTEE_OTHER_IDEOLOGIES_NO:0 "Kann nur $IDE$-Nationen garantieren."
- MODIFIER_ORG_LOSS_WHEN_MOVING:0 "£org_loss_when_moving_texticon Organisationsverlust beim Umzug"
+ MODIFIER_ORG_LOSS_WHEN_MOVING:0 "£org_loss_when_moving_texticon Organisationsverlust beim Bewegen"
  MODIFIER_ORG_LOSS_WHEN_MOVING_DESC:0 "Ändert den Organisationsverlust, wenn eine Abteilung umzieht"
  MODIFIER_ORG_LOSS_AT_LOW_ORG_FACTOR:1 "£organization_texticon Organisationsverlust bei unter 25 %"
  MODIFIER_NONE:0 "Keiner"
