@@ -36,7 +36,7 @@
  tech_trm_armour_advanced:0 "Fortgeschrittene Panzerung"
  tech_trm_armour_advanced_desc:0 ""
 
- tech_trm_armour_addon:0 "Anbaupanzerung"
+ tech_trm_armour_addon:0 "Zusatzpanzerung"
  tech_trm_armour_addon_desc:0 "Zusatzpanzer sind im Wesentlichen zusätzliche Platten, die auf die Wanne oder den Turm eines Fahrzeugs montiert oder geschweißt werden. Sie können aus jedem Material bestehen, werden aber häufig aus Keramik oder laminierten Materialien hergestellt. Wie die reaktive Panzerung ist auch die Aufsatzpanzerung eine einfache und kostengünstige Möglichkeit, den Schutz älterer Fahrzeuge zu verbessern. Es ist zu beachten, dass bei gleicher Panzerungsqualität der Durchdringungswiderstand einer einzelnen Panzerplatte einer bestimmten Dicke größer ist als der von zwei Panzerplatten der gleichen Dicke zusammen."
 
  tech_trm_special_wet_ammo:0 "Nassmunitionsstapel"

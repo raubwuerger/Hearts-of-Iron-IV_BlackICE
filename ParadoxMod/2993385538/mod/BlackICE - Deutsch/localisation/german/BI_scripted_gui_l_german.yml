@@ -82,18 +82,18 @@
 
  #Allied Anger ""
  allied_anger:0 "§RAllierter Zorn§! [?GER.allied_anger|0R]"
- allied_anger_desc:0 "Aktueller §RAllied Anger§!: [?GER.allied_anger|0R]"
+ allied_anger_desc:0 "Aktueller §RZorn der Allierten§!: [?GER.allied_anger|0R]"
  allied_anger_trait:0 ""
  #show_allied_anger:0 "[ENG.GetFlag]§YAllierter Zorn§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder des Commonwealth\n[Root.GetAA3] §R3§! - Politische Macht: §G+150§!\n§ [Root.GetAA5] §R5§! - Erhalte Basis-Kriegsunterstützung: §G+10%§! \n[Root.GetAA8] §R8§! - Ändern Sie das Wirtschaftsgesetz auf '§YEarly Mobilization§!'\n[Root.GetAA10] §R10§! - Erhalte Basis-Kriegsunterstützung: §G+10§!\n[Root.GetAA12] §R12§! - Reduziere die Modifikatoren von §YThe War to End All Wars§!\n[Root.GetAA15] §R15§! - Erhalte Basis-Mobilisierungsgeschwindigkeit: §G+15%§!\n[Root.GetAA16] §R16§! - Reduziert die Kosten für militärische Kommandos: §G-25%§!\n[Root.GetAA18] §R18§! - Ändere Mobilisierung auf '§YLimited§!'\n[Root.GetAA20] §R20§! - Meinung mit [GER.GetNameWithFlag] austauschen: §R-50§!\n[Root.GetAA24] §R24§! - Wirtschaftsgesetz ändern in '§YTeilmobilisierung§!'\n[Root.GetAA26] §R26§! - Ändere Wirtschaftsgesetz zu '§YKriegswirtschaft§!'\n[Root.GetAA28] §R28§! - Schafft zusätzliche Infanteriedivisionen in der Hauptstadt\n[Root.GetAA30] §R30§! - Erlangt Nationalgeist §YEnd of Appeasement§!"
  #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §YAllied Fraktion§!\nJeder zusätzliche §RAllied Anger§! erhöht die Boni um §G2%§!"
  show_allied_anger:0 "[!allied_anger_test_click]"
- allied_anger_TT_0:0 "§RAllied Anger§!\n"
+ allied_anger_TT_0:0 "§RZorn der Allierten§!\n"
  allied_anger_TT_1:0 "Gilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §Y[ENG.GetFactionName]§! Fraktion\n\n"
  allied_anger_TT_2:0 "Mit jeder Erhöhung nehmen die Boni proportional zu. Die Rechtfertigung eines Kriegsziels erhöht den Alliierten Zorn regelmäßig, und eine Kriegserklärung setzt den §RAlliierten Zorn§! für §Y180§! Tage auf die Maximalstufe.\n\n Derzeit erhält die §Y[ENG.GetFactionName]§! folgende Boni:\n\n"
  allied_anger_TT_3:0 "      / Keine"
 
- ALLIED_ANGER_INCREASE_EXTRA_TT:0 "Aufgrund unserer §Yneuen Landerwerbungen§! erhöht sich der §RAllied Anger§! um §R[?anger|1] +[?extra_anger|1]§!"
- ALLIED_ANGER_INCREASE:0 "Der §RAllied Anger§! wird sich um §R+[?anger|1]§ erhöhen!"
+ ALLIED_ANGER_INCREASE_EXTRA_TT:0 "Aufgrund unserer §Yneuen Landerwerbungen§! erhöht sich der §RZorn der Allierten§! um §R[?anger|1] +[?extra_anger|1]§!"
+ ALLIED_ANGER_INCREASE:0 "Der §RZorn der Allierten§! wird sich um §R+[?anger|1]§ erhöhen!"
 
 
  TRIGGER_NO:0 "£trigger_no"
@@ -533,8 +533,8 @@
  line:0 "\n---------------------------"
 
  LOCAL_MAN_TT:0 "[!local_manpower_icon_click]"
- LOCAL_MANPOWER_TT:0 "§YLocal Manpower§!"
- LOCAL_SUPPLY_TT:0 "§YLocal Supplies§!"
+ LOCAL_MANPOWER_TT:0 "§YLokale Soldaten§!"
+ LOCAL_SUPPLY_TT:0 "§YLokaler Nachschub§!"
 
  lacking_consumer_goods:0 "Fehlende Konsumgüter"
  min_cons_goods_TT:0 "Min. Konsumgüterfabriken: [?min_cons_goods_mod|Y%0]\n"
@@ -574,16 +574,16 @@
  V_GET_NAME_LOCALISED:0 "[?v.GetTokenLocalizedKey]"
  SPECIAL_FORCES_OVER_LIMIT:0 "§RWir haben zu viele Spezialkräfte im Einsatz§!\n"
  SPECIAL_FORCES_MODIFIER_1:0 "§Y[Root.GetSpecialForcesOverLimit]§!\nDivisions Angriffsfaktor: [?modifier@special_forces_attack_factor|=+%] [Root.GetSpecialForcesOverLimitDebuff]\n"
- SPECIAL_FORCES_MODIFIER_2:0 "Division Defense Factor: [?modifier@special_forces_defence_factor|=+%] [Root.GetSpecialForcesOverLimitDebuff]\n"
- SPECIAL_FORCES_MODIFIER_3:0 "Trainingszeit-Faktor: [?modifier@special_forces_training_time_factor|=Y%]\n"
- SPECIAL_FORCES_MODIFIER_4:0 "Extra Nachschub Gnade: [?modifier@special_forces_no_supply_grace|=+1] Stunden\n"
+ SPECIAL_FORCES_MODIFIER_2:0 "Divisions Verteidigungsfaktor: [?modifier@special_forces_defence_factor|=+%] [Root.GetSpecialForcesOverLimitDebuff]\n"
+ SPECIAL_FORCES_MODIFIER_3:0 "Trainingszeit Faktor: [?modifier@special_forces_training_time_factor|=Y%]\n"
+ SPECIAL_FORCES_MODIFIER_4:0 "Extra Nachschublimit: [?modifier@special_forces_no_supply_grace|=+1] Stunden\n"
  SPECIAL_FORCES_MODIFIER_5:0 "Ohne Nachschub: [?modifier@special_forces_out_of_supply_factor|=+%]\n"
- SPECIAL_FORCES_MODIFIER_6:0 "Marines Extra Supply Grace: [?modifier@extra_marine_supply_grace|=+1] Stunden\n"
- SPECIAL_FORCES_MODIFIER_7:0 "Fallschirmjäger Extra Supply Grace: [?modifier@extra_paratrooper_supply_grace|=+1] Stunden\n"
- SPECIAL_FORCES_MODIFIER_8:0 "Paradrop-Effizienz: [?special_forces_para_debuff|=+%] ([?special_forces_para_debuff|=+%])\n"
+ SPECIAL_FORCES_MODIFIER_6:0 "Marine Aushalten ohne Nachschub: [?modifier@extra_marine_supply_grace|=+1] Stunden\n"
+ SPECIAL_FORCES_MODIFIER_7:0 "Fallschirmjäger Aushalten ohne Nachschub: [?modifier@extra_paratrooper_supply_grace|=+1] Stunden\n"
+ SPECIAL_FORCES_MODIFIER_8:0 "Fallschirmjäger Effizienz: [?special_forces_para_debuff|=+%] ([?special_forces_para_debuff|=+%])\n"
  mountainous_country:0 "Gebirgiges Land"
 
- coastal_state:0 "Hat mindestens 1 §YKüstenstaat§! Staat"
+ coastal_state:0 "Hat mindestens 1 §YKüstengebiet§!"
 
 
  #######################################################
@@ -1201,7 +1201,7 @@
  num_skill_4_trigger_TT:0 "Hat mindestens §Y5§! Einheitenanführer mit §Y4§! Geschicklichkeit oder höher"
  num_skill_3_trigger_TT:0 "Hat mindestens §Y5§! Einheitenanführer mit §Y3§! Skill oder höher"
  num_skill_2_trigger_TT:0 "Hat mindestens §Y5§! Truppenführer mit §Y2§! Fertigkeit oder höher"
- AI_MANPOWER_VARIABLES:0 "Eingesetzte Manpower: [?manpower_fielded]k\n Manpower Fielded Threshold: [?manpower_fielded_threshold]k\n\nManpower Total Threshold: [?manpower_total]k\nManpower Ratio: [?mp_ratio]\n\nManpower: [?manpower_k|0]k / [?manpower_total_threshold|0]k"
+ AI_MANPOWER_VARIABLES:0 "Eingesetzte Soldaten: [?manpower_fielded]k\n Max. einsetzbare Soldaten: [?manpower_fielded_threshold]k\n\nMaximal eingesetzte: [?manpower_total]k\nVerhältnis: [?mp_ratio]\n\nSoldaten: [?manpower_k|0]k / [?manpower_total_threshold|0]k"
 
  MOBILIZE_EVENT_TITLE:0 "Mobilisierung der Armee"
  MOBILIZE_EVENT_DESC:0 "Nachdem die Kriegsgefahr in letzter Zeit immer mehr zunimmt, mehren sich die Stimmen, die eine Generalmobilmachung des Militärs fordern. Das Oberkommando hat diesbezüglich alle notwendigen Vorbereitungen getroffen und erwartet Ihre Entscheidung."
@@ -1699,11 +1699,11 @@
  army_war_games_desc:0 ""
  navy_war_games_desc:0 ""
 
- TRAIT_ARMY_WAR_GAMES_TT:0 "Weisen Sie diese Eigenschaft zu, damit dieser Kommandant in der aktuellen Entscheidung §YArmy War Games§! ins Visier genommen wird."
- TRAIT_NAVY_WAR_GAMES_TT:0 "Weisen Sie diese Eigenschaft zu, damit dieser Befehlshaber in der aktuellen Entscheidung §YNavy War Games§! ins Visier genommen wird."
+ TRAIT_ARMY_WAR_GAMES_TT:0 "Weisen Sie diese Eigenschaft zu, damit dieser Kommandant in der aktuellen Entscheidung §YHeereskriegsspiele§! ins Visier genommen wird."
+ TRAIT_NAVY_WAR_GAMES_TT:0 "Weisen Sie diese Eigenschaft zu, damit dieser Befehlshaber in der aktuellen Entscheidung §YMarinekriegsspiele§! ins Visier genommen wird."
 
- has_army_games:0 "Läuft derzeit §YArmy War Games§!"
- has_navy_games:0 "Läuft derzeit §YNavy War Games§!"
+ has_army_games:0 "Läuft derzeit §YHeereskriegsspiele§!"
+ has_navy_games:0 "Läuft derzeit §YMarinekriegsspiele§!"
 
 
 
@@ -1723,33 +1723,33 @@
  AI_DIFF_CLEAR_ALL_MODIFIER_TOOLTIP:0 "§YKlick§! um §Rall§! Modifikatoren zu entfernen."
  AI_DIFF_ADD_MODIFIER_TOOLTIP:0 "§YKlicken Sie§! um weitere Modifikatoren hinzuzufügen."
 
- AI_DIFF_MOD_ARMY:0 "§YArmy§!"
- AI_DIFF_MOD_AIR:0 "§YAir§!"
- AI_DIFF_MOD_NAVY:0 "§YNavy§!"
+ AI_DIFF_MOD_ARMY:0 "§YHeer§!"
+ AI_DIFF_MOD_AIR:0 "§YLuftwaffe§!"
+ AI_DIFF_MOD_NAVY:0 "§YMarine§!"
  AI_DIFF_MOD_INDUSTRY:0 "§YIndustrie§!"
  AI_DIFF_MOD_SPECIAL:0 "§YAI Modifikatoren§!"
 
- AI_DIFF_DIV_SPAWN_VERY_LOW:0 "§YVery Low§!\n\nDie KI erhält jeden Monat eine sehr niedrige Menge an Einheiten, basierend auf dem Mangel an Einheiten, bis sie §Y75%§! ihrer Zielarmee erreicht hat."
- AI_DIFF_DIV_SPAWN_LOW:0 "§YLow§!\n\nDie KI erhält jeden Monat eine geringe Menge an Einheiten, bis sie §Y80%§! ihrer Zielarmee erreicht hat."
- AI_DIFF_DIV_SPAWN_MEDIUM:0 "§YMedium§!\n\nDie KI erhält aufgrund des Mangels an Einheiten jeden Monat eine beträchtliche Menge an Einheiten, bis sie §Y90%§! ihrer Ziel-Armeegröße erreicht hat."
+ AI_DIFF_DIV_SPAWN_VERY_LOW:0 "§YSehr leicht§!\n\nDie KI erhält jeden Monat eine sehr niedrige Menge an Einheiten, basierend auf dem Mangel an Einheiten, bis sie §Y75%§! ihrer Zielarmee erreicht hat."
+ AI_DIFF_DIV_SPAWN_LOW:0 "§YLeicht§!\n\nDie KI erhält jeden Monat eine geringe Menge an Einheiten, bis sie §Y80%§! ihrer Zielarmee erreicht hat."
+ AI_DIFF_DIV_SPAWN_MEDIUM:0 "§YMittel§!\n\nDie KI erhält aufgrund des Mangels an Einheiten jeden Monat eine beträchtliche Menge an Einheiten, bis sie §Y90%§! ihrer Ziel-Armeegröße erreicht hat."
  AI_DIFF_DIV_SPAWN_HIGH:0 "§YHoch§!\n\nDie KI erhält aufgrund des Mangels an Einheiten jeden Monat eine große Menge an Einheiten, bis sie §Y100%§! ihrer Zielarmee erreicht hat."
  AI_DIFF_DIV_SPAWN_VERY_HIGH:0 "§YSehr hoch§!\n\nDie KI erhält aufgrund des Mangels an Einheiten jeden Monat eine beträchtliche Menge an Einheiten, bis sie §Y100%§! ihrer Ziel-Armeegröße erreicht hat."
 
- AI_DIFF_EQ_SPAWN_VERY_LOW:0 "§YSehr Niedrig§!\n\nDie KI erhält jeden Monat §Y2%§! ihres Defizits und §Y0,2%§! der Ausrüstung in ihrer Armee."
- AI_DIFF_EQ_SPAWN_LOW:0 "§YLow§!\n\nDie KI erhält jeden Monat §Y4%§! ihres Defizits und §Y0,4%§! der Ausrüstung ihrer Armee."
- AI_DIFF_EQ_SPAWN_MEDIUM:0 "§YMedium§!\n\nDie KI erhält jeden Monat §Y6%§! ihres Defizits und §Y0,6%§! der Ausrüstung ihrer Armee."
+ AI_DIFF_EQ_SPAWN_VERY_LOW:0 "§YSehr leicht§!\n\nDie KI erhält jeden Monat §Y2%§! ihres Defizits und §Y0,2%§! der Ausrüstung in ihrer Armee."
+ AI_DIFF_EQ_SPAWN_LOW:0 "§YLeicht§!\n\nDie KI erhält jeden Monat §Y4%§! ihres Defizits und §Y0,4%§! der Ausrüstung ihrer Armee."
+ AI_DIFF_EQ_SPAWN_MEDIUM:0 "§YMittel§!\n\nDie KI erhält jeden Monat §Y6%§! ihres Defizits und §Y0,6%§! der Ausrüstung ihrer Armee."
  AI_DIFF_EQ_SPAWN_HIGH:0 "§YHoch§!\n\nDie KI erhält jeden Monat §Y8%§! ihres Defizits und §Y0,8%§! der Ausrüstung ihrer Armee."
  AI_DIFF_EQ_SPAWN_VERY_HIGH:0 "§YSehr hoch§!\n\nDie KI erhält jeden Monat §Y10%§! ihres Defizits und §Y1%§! der Ausrüstung ihrer Armee."
 
- AI_DIFF_CONVOY_SPAWN_VERY_LOW:0 "§YVery Low§!\n\nDie KI erhält jeden Monat eine sehr geringe Anzahl von Konvois, basierend auf ihrer Marineindustrie"
- AI_DIFF_CONVOY_SPAWN_LOW:0 "§YLow§!\n\nDie KI erhält jeden Monat eine geringe Anzahl von Konvois, basierend auf ihrer Marineindustrie"
- AI_DIFF_CONVOY_SPAWN_MEDIUM:0 "§YMedium§!\n\nDie KI erhält aufgrund ihrer Marineindustrie jeden Monat eine beträchtliche Anzahl von Konvois"
+ AI_DIFF_CONVOY_SPAWN_VERY_LOW:0 "§YSehr leicht§!\n\nDie KI erhält jeden Monat eine sehr geringe Anzahl von Konvois, basierend auf ihrer Marineindustrie"
+ AI_DIFF_CONVOY_SPAWN_LOW:0 "§YLeicht§!\n\nDie KI erhält jeden Monat eine geringe Anzahl von Konvois, basierend auf ihrer Marineindustrie"
+ AI_DIFF_CONVOY_SPAWN_MEDIUM:0 "§YMittel§!\n\nDie KI erhält aufgrund ihrer Marineindustrie jeden Monat eine beträchtliche Anzahl von Konvois"
  AI_DIFF_CONVOY_SPAWN_HIGH:0 "§YHoch§!\n\nDie KI erhält aufgrund ihrer Marineindustrie jeden Monat eine große Anzahl von Konvois"
  AI_DIFF_CONVOY_SPAWN_VERY_HIGH:0 "§YVery High§!\n\nDie KI erhält aufgrund ihrer Marineindustrie jeden Monat eine erhebliche Anzahl von Konvois"
 
- AI_DIFF_FUEL_SPAWN_VERY_LOW:0 "§YVery Low§!\n\nDie KI erhält jeden Monat §Y5%§! ihres Treibstoffdefizits."
- AI_DIFF_FUEL_SPAWN_LOW:0 "§YLow§!\n\nDie KI erhält jeden Monat §Y10%§! ihres Treibstoffdefizits."
- AI_DIFF_FUEL_SPAWN_MEDIUM:0 "§YMedium§!\n\nDie KI erhält jeden Monat §Y20%§! ihres Treibstoffdefizits."
+ AI_DIFF_FUEL_SPAWN_VERY_LOW:0 "§YSehr leicht§!\n\nDie KI erhält jeden Monat §Y5%§! ihres Treibstoffdefizits."
+ AI_DIFF_FUEL_SPAWN_LOW:0 "§YLeicht§!\n\nDie KI erhält jeden Monat §Y10%§! ihres Treibstoffdefizits."
+ AI_DIFF_FUEL_SPAWN_MEDIUM:0 "§YMittel§!\n\nDie KI erhält jeden Monat §Y20%§! ihres Treibstoffdefizits."
  AI_DIFF_FUEL_SPAWN_HIGH:0 "§YHoch§!\n\nDie KI erhält jeden Monat §Y30%§! ihres Treibstoffdefizits."
  AI_DIFF_FUEL_SPAWN_VERY_HIGH:0 "§YSehr hoch§!\n\nDie KI erhält jeden Monat §Y50%§! ihres Treibstoffdefizits."
 

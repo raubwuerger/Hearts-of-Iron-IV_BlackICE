@@ -1,1 +1,0 @@
-Diesen Ordner <mod> nach C:\Users\jha\Documents\Paradox Interactive\Hearts of Iron IV\ kopieren. Dann sollte auch von anderen PC's das hochladen des mods möglich sein.

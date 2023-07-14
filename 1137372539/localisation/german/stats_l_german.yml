@@ -14,7 +14,7 @@
  STAT_COMMON_MAX_ORG_VALUE:0 "$VALUE|H1$"
  STAT_COMMON_MAX_ORG_MOD_VALUE:0 "$VALUE|=+0$"
  STAT_COMMON_MAX_ORG_DIFF:0 "$VALUE|=+1$"
- STAT_ARMY_DEFAULT_MORALE:0 "Wiederherstellungsrate: "
+ STAT_ARMY_DEFAULT_MORALE:0 "Auffrischungsrate: "
  STAT_ARMY_DEFAULT_MORALE_DESC:0 "Wie viel zusätzliche Organisation kann stündlich wiedergewonnen werden, wenn sie nicht im Kampf ist."
  STAT_ARMY_DEFAULT_MORALE_VALUE:0 "$VALUE|H2$"
  STAT_ARMY_DEFAULT_MORALE_DIFF:0 "$VALUE|=+2$"

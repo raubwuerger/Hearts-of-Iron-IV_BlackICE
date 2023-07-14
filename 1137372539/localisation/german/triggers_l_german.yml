@@ -682,7 +682,7 @@
  TRIGGER_CONTEXT_LEADER:0 "$LEADER|H$($FLAG$)"
  TRIGGER_CAN_DECLARE_WAR_ON:0 "Kann einen Krieg gegen $COUNTRY|H$ erklären"
  TRIGGER_NOT_CAN_DECLARE_WAR_ON:0 "Kann nicht den Krieg gegen $COUNTRY|H$ erklären"
- TRIGGER_AGENCY_UPGRADE_NUMBER:0 "Geheimdienst-Upgrades"
+ TRIGGER_AGENCY_UPGRADE_NUMBER:0 "Geheimdienstverbesserungen"
  TRIGGER_FAKE_INTEL_DIVISIONS:0 "Gefälschte Geheimdiensteinheiten"
  TRIGGER_NUM_OF_OPERATIVES:0 "Agenten"
  TRIGGER_NUM_OPERATIVE_SLOTS:0 "Operative Slots"

@@ -4,7 +4,7 @@
  DRIFT_DIM_RETURN:0 "Trägheit der Partei: §R-$VAL$§!\n"
  POL_DAILY_CHANGE:0 "Tägliche Änderung: $VAL$"
  POL_OTHERS_DRIFT:0 "Aufgrund der Veränderungen bei anderen Parteien: $VAL$"
- POLITICS_NOELECTIONS:0 "Keine Wahlen" #Wahlen deaktiviert"
+ POLITICS_NOELECTIONS:0 "Keine Wahlen" #Wahlen deaktiviert
  POLITICS_NEXTELECTION:0 "Nächste Wahl"
  POLITICS_ELECTION_FREQUENCY:0 "Wahlen alle $MONTHS|H$ Jahre."
  POLITICS_HOLD_ELECTION:0 "Wahl abhalten in $COUNTRY$"

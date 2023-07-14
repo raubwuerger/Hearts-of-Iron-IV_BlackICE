@@ -1543,7 +1543,7 @@
  ITA_european_democracies_bonus_per_ally_tt:0 "\nGewinnt §G+2.00%§! Stabilität und §G+25§! Politische Macht für jedes unabhängige demokratische Land in der Fraktion von [ROOT.GetName] (max. §Y+10.00%§! Stabilität und §Y+125§! Politische Macht).\n\n"
  ITA_peace_preservation_guarantees_tt:0 "Garantiere jedem §YDemokratischen§! Europäisches Land unabhängig oder mit §Y[ROOT.GetNameWithFlag]§! verbündet:"
  ITA_peace_preservation_ns_tt:1 "\nGewinnt Nationaler Geist §Y$ITA_peace_keepers_of_europe$§!, der (Konsumgüterfabriken: §Y-0.5%§! für jedes Land garantiert (max §Y-5.00%§!), Kriegsunterstützung: §G+1%§! für jedes Land garantiert (max §Y+10.00%§!), Wöchentliche Arbeitskräfte: §G+100§! für jedes Land garantiert (max. §Y+1000§!))."
- ITA_scientific_cooperation_allies_ns_tt:0 "Füge Nationalgeist §Y$ITA_scientific_cooperation$§! zu §Y[ROOT.GetNameDef]§! und §Yevery [ROOT.GetAdjective] ally§! hinzu."
+ ITA_scientific_cooperation_allies_ns_tt:0 "Füge Nationalgeist §Y$ITA_scientific_cooperation$§! zu §Y[ROOT.GetNameDef]§! und §Yjedem [ROOT.GetAdjective] allierten§! hinzu."
  ITA_secure_the_borders_forts_tt:0 "Fügt §Y2 $bunker$§! in jeder Provinz hinzu, die an ein nicht-freundliches Land grenzt. \nAktuelle Auswirkungen:"
  ITA_scientific_cooperation_research_sharing_group_tt:0 "Jedes verbündete Land tritt §Y$ITA_program_for_scientific_cooperation_name$§! bei."
  ITA_secure_the_borders_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+5.0%§! \n\n"

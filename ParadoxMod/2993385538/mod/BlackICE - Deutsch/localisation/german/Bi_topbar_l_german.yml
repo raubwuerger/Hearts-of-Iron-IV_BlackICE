@@ -227,17 +227,17 @@
  TOPBAR_POLITICAL_FACTOR:0 "[?modifier@political_power_factor|0%]"
  
  
- TOPBAR_MANPOWER_TOOLTIP:0 "§YClick§! zum Ändern der angezeigten Informationen:\n\n[GetTopbarManpower1]\n[GetTopbarManpower2]\n[GetTopbarManpower3]\n[GetTopbarManpower4]"
- CONSCRIPTION_PROGRESS_TT:0 "Manpower-Mobilisierung ist §Y[?temp1|0]%§! abgeschlossen"
+ TOPBAR_MANPOWER_TOOLTIP:0 "§YKlick§! zum Ändern der angezeigten Informationen:\n\n[GetTopbarManpower1]\n[GetTopbarManpower2]\n[GetTopbarManpower3]\n[GetTopbarManpower4]"
+ CONSCRIPTION_PROGRESS_TT:0 "Mobilisierung ist §Y[?temp1|0]%§! abgeschlossen"
  TOPBAR_MANPOWER_CURRENT_TT:0 "Arbeitskräfte"
  TOPBAR_MANPOWER_FOREIGN_TT:0 "Ausländische Arbeitskräfte"
  TOPBAR_MANPOWER_TARGET_CONSCRIPTION_TT:0 "Ziel Einberufung"
  TOPBAR_MANPOWER_MOBILIZATION_SPEED_TT:0 "Mobilisierungsgeschwindigkeit"
  
- TOPBAR_MANPOWER_CURRENT_ACTIVE_TT:0 "§YManpower§!"
- TOPBAR_MANPOWER_FOREIGN_ACTIVE_TT:0 "§YTarget Conscription§!"
- TOPBAR_MANPOWER_TARGET_CONSCRIPTION_ACTIVE_TT:0 "§YForeign Manpower§!"
- TOPBAR_MANPOWER_MOBILIZATION_SPEED_ACTIVE_TT:0 "§YMobilization Speed§!"
+ TOPBAR_MANPOWER_CURRENT_ACTIVE_TT:0 "§YSoldaten§!"
+ TOPBAR_MANPOWER_FOREIGN_ACTIVE_TT:0 "§YEinberufungsziel§!"
+ TOPBAR_MANPOWER_TARGET_CONSCRIPTION_ACTIVE_TT:0 "§YAusländische Soldaten§!"
+ TOPBAR_MANPOWER_MOBILIZATION_SPEED_ACTIVE_TT:0 "§YMobilisierungsgeschwindigkeit§!"
  
  TOPBAR_MANPOWER_CURRENT:0 "[GetTopbarManpowerDecimals][GetTargetConscription]"
  TOPBAR_MANPOWER_FOREIGN:0 "[?foreign_manpower]"
