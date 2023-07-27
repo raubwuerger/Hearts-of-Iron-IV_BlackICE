@@ -734,7 +734,7 @@
  SUPERIOR_TACTICIAN_TRIGGER_TT:0 "Den Vorteil im Kampf haben"
  SPOTTER_TRIGGER_TT:0 "Den Feind aufspüren"
  FLY_SWATTER_TRIGGER_TT:0 "Feindliche Lufteinheiten bekämpfen"
- IRONSIDE_TRIGGER_TT:0 "Kommandieren oder Bekämpfen von §YCapital ships§!"
+ IRONSIDE_TRIGGER_TT:0 "Kommandieren oder Bekämpfen von §YGroßkampfschiffe§!"
  BLOCKADE_RUNNER_TRIGGER_TT:0 "Tapferer Rückzug im Angesicht einer überwältigenden Macht"
  AIR_CONTROLLER_TRIGGER_TT: "Hat §YCarrier Airwings" im Kampf"
  leider:0 "Leider"

@@ -210,7 +210,7 @@
  PRODUCTION_ARMOR_FILTER:0 "Gepanzerte Fahrzeuge"
  PRODUCTION_AIR_FILTER:0 "Flugzeuge"
  PRODUCTION_CAPITAL_SHIPS_FILTER:0 "Große Schiffe"
- PRODUCTION_SCREEN_SHIPS_FILTER:0 "Bildschirm-Schiffe"
+ PRODUCTION_SCREEN_SHIPS_FILTER:0 "Aufklärungs Schiffe"
  PRODUCTION_OTHER_SHIPS_FILTER:0 "Andere Schiffe"
  PRODUCTION_LACKING_RESOURCES_FILTER:0 "Erfüllte Ressourcen"
  PRODUCTION_STOCKPILING_FILTER:0 "Vorratshaltung"
@@ -232,7 +232,7 @@
  INTEL_ARMS_FACTORIES_USED_ON_ARMOR:0 "Geschätzte Militärische Fabriken für gepanzerte Fahrzeuge"
  INTEL_ARMS_FACTORIES_USED_ON_AIR:0 "Geschätzte Militärische Fabriken für Flugzeuge"
  INTEL_DOCKYARDS_USED_ON_CAPITAL:0 "Geschätzte Marinewerften für Großkampfschiffe"
- INTEL_DOCKYARDS_USED_ON_SCREEN:0 "Schätzung der Marinewerften, die Bildschirmschiffe verwenden"
+ INTEL_DOCKYARDS_USED_ON_SCREEN:0 "Schätzung der Marinewerften, die Aufklärungsschiffe verwenden"
  INTEL_DOCKYARDS_USED_ON_OTHER:0 "Geschätzte Marinewerften für andere Schiffe"
 
 

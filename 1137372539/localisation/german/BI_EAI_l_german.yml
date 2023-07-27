@@ -438,15 +438,15 @@
  EAI_config_ARMY_N1_dropdown_text:0 "[EAI_GetNavalDoctrine]"
  EAI_config_ARMY_N1-_text:0 "-"
  EAI_config_ARMY_N1a_text:0 "Flotte im Aufbau"
- EAI_config_ARMY_N1b_text:0 "Handelsverhinderung"
+ EAI_config_ARMY_N1b_text:0 "Handelskrieg"
  EAI_config_ARMY_N1c_text:0 "Basisangriff"
 
  EAI_config_ARMY_N2_text:0 "Zerstörer"
- EAI_config_ARMY_N2_tt:0 "§0Dies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf Bildschirmzerstörern!"
+ EAI_config_ARMY_N2_tt:0 "§0Dies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf Zerstörer!"
  EAI_config_ARMY_N2_dropdown_text:0 "[EAI_GetDDFocus]"
  EAI_config_ARMY_N2-_text:0 "-"
  EAI_config_ARMY_N2a_text:0 "Aus"
- EAI_config_ARMY_N2b_text:0 "Bildschirm-Zerstörer"
+ EAI_config_ARMY_N2b_text:0 "Aufklärungs-Zerstörer"
 
  EAI_config_ARMY_N2b_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf U-Boot-Zerstörern!"
  EAI_config_ARMY_N2b_dropdown_text:0 "[EAI_GetASWDDFocus]"

@@ -1150,10 +1150,10 @@
  current_civ_fuel_usage_rationed_petrol:0 "Benzin rationiert: §G-5%§!\n"
  fuel_usage:0 "Ziviler Kraftstoffverbrauch"
  civ_fuel_usage_TT:0 "\n§0Ziviler Brennstoffverbrauch§! steht in direktem Zusammenhang mit dem Prozentsatz der Fabriken, die §YVerbrauchsgüter§! herstellen.\n"
- low_civ_fuel_TT:0 "\nÄndert §YCivilian Fuel Consumption§! um §G-5%§!\n"
+ low_civ_fuel_TT:0 "\nÄndert §YZivilen Brennstoffverbrauch§! um §G-5%§!\n"
  very_low_civ_fuel_TT:0 "\nÄndert §YZivilen Brennstoffverbrauch§! um §G-15%§!\n"
- medium_civ_fuel_TT:0 "\nÄndert §YCivilian Fuel Consumption§! um §R20%§!\n"
- high_civ_fuel_TT:0 "\nÄndert §YCivilian Fuel Consumption§! um §R40%§!\n"
+ medium_civ_fuel_TT:0 "\nÄndert §YZivilen Brennstoffverbrauch§! um §R20%§!\n"
+ high_civ_fuel_TT:0 "\nÄndert §YZivilen Brennstoffverbrauch§! um §R40%§!\n"
 
  high_civ_fuel_usage_value:0 "§R+40%§!"
  medium_civ_fuel_usage_value:0 "§R+20%§!"
