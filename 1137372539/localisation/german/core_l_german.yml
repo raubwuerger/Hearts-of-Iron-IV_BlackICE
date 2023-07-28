@@ -1655,7 +1655,7 @@
  CONVOY_RAIDING_EFFICIENCY_IN_REGION:0 "Durchschnittliche Konvoiüberfall-Effizienz in der Region: $VALUE$"
  CONVOY_RAIDING_TASK_FORCE_EFFICIENCY_DESC:0 "$TASK_FORCE|H$ kann Konvois in bis zu $REGIONS|.1H$ ($EFFICIENCY|H$) verschiedenen Regionen effizient überfallen."
  FACTION_LEADER_CAPITULATED_HEADER:0 "Fraktionsführerschaft"
- FACTION_LEADER_CAPITULATED_WE_ARE_NEW_LEADER:0 "Nach der Kapitulation von $OLDLEADER|H$ sind wir nun der Anführer von $Fraktion|H$."
+ FACTION_LEADER_CAPITULATED_WE_ARE_NEW_LEADER:0 "Nach der Kapitulation von $OLDLEADER|H$ sind wir nun der Anführer von $FACTION|H$."
  RESEARCH_WITH_XP_TEXT:1 "$XP_TEXT$ ausgeben"
  RESEARCH_WITH_XP_TEXT_TOOLTIP:0 "Gib $XP_TEXT$ aus, um $NUM|+%.0$ Bonus bei der Forschung zu erhalten."
  RESEARCH_TECH_IS_ALREADY_BOOSTED_BY_XP:0 "Technologie wird bereits durch XP verstärkt"

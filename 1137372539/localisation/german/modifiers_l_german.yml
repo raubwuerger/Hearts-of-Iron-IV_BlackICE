@@ -1135,7 +1135,7 @@
  modifier_army_sub_unit_mechanized_speed_factor:0 "Geschwindigkeit des mechanisierten Bataillons"
 
  modifier_army_sub_unit_category_all_armor_attack_factor:0 "£attack_texticon Angriff des Panzerbataillons"
- modifier_army_sub_unit_category_all_armor_defence_factor:0 "£defence_texticon Rüstungsbataillonverteidigung"
+ modifier_army_sub_unit_category_all_armor_defence_factor:0 "£defence_texticon Verteidigung des Panzerbataillons"
  modifier_army_sub_unit_category_all_armor_speed_factor:0 "£attacker_speed_texticon Geschwindigkeit des Panzerbataillons"
 
  modifier_army_sub_unit_category_all_artillery_attack_factor:0 "Angriff des Artilleriebataillons"
