@@ -94,7 +94,7 @@
  CONVEYOR_CANCEL_DESC:0 "Sind Sie sicher, dass Sie die §RCancel§!-Produktion aller Deployment-Linien abbrechen wollen?"
  CONVEYOR_LINE_CANCEL_DESC:0 "§RCancel§! Produktion dieser Linie."
  CONVEYOR_LINE_CANCEL_ACCEPT_TITLE:0 "§RCancel§! Bereitstellungslinie"
- CONVEYOR_LINE_CANCEL_ACCEPT_SINGLE_DESC:0 "Sind Sie sicher, dass Sie §RCancel§! die Produktion dieser Bereitstellungslinie abbrechen wollen?\n (Die Bereitstellung wird auch §RRemoved§!)"
+ CONVEYOR_LINE_CANCEL_ACCEPT_SINGLE_DESC:0 "Sind Sie sicher, dass Sie §RCancel§! die Produktion dieser Bereitstellungslinie abbrechen wollen?\n (Die Bereitstellung wird auch §Rentfernt§!)"
  CONVEYOR_LINE_CANCEL_ACCEPT_DESC:0 "Sind Sie sicher, dass Sie §RCancel§! diese Bereitstellungslinie erstellen wollen?"
  CONVEYOR_GROUP_ASSIGN_DESC:0 "§GKlicken§! um den Einsatz einem Auftrag zuzuordnen.\n§GRechtsklick§! um die Auftragszuordnung zurückzusetzen."
  CONVEYOR_GROUP_CAN_NOT_ASSIGN_NO_ORDERS_DESC:0 "Der Einsatz muss mindestens einen Auftrag im Theater haben, um einer Gruppe zugeordnet werden zu können."

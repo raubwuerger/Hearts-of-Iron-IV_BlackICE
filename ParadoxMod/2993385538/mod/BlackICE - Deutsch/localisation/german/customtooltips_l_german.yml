@@ -1,7 +1,7 @@
 ﻿l_german:
  ### Custom Effect tooltips "Diese Einheit muss nicht gebildet werden.\n§0Diese Wahl wird die Ereigniskette beenden!!!§!\n"
  ### GERMANY "Es ist nicht nötig, diese Einheit jetzt zu bilden.\n§0Sie können das Einheitentemplate selbst ändern, wenn Sie es für richtig halten.§!\n"
- GERnoneed_1:0 "No need to form this unit.\n§RThis choice will end the event-chain!!!§!\n"
+ GERnoneed_1:0 "Diese Einheit muss nicht ausgebildet werden.\n§RDiese Auswahl beendet die Ereigniskette!!!§!\n"
  GERnoneed_2:0 "Militärische Ausrüstung, die in mehreren Lagerhäusern gefunden wurde, wurde beschlagnahmt und zu unserem Lagerbestand hinzugefügt."
 
  GER_czech_equipment:0 "In Depots gefundene militärische Ausrüstung wurde beschlagnahmt und unserem Lagerbestand hinzugefügt."
@@ -295,7 +295,7 @@
  #SOVIET ""
  SOV_naval_infantry_sf:0 "Zivile Fabriken werden nun automatisch über den Ural hinaus verlegt, wenn der Staat von den Achsenmächten eingenommen wird. Die Verlegung einer Fabrik dauert bis zu 30 Tage."
 
- SOV_scorched_earth_civ_tooltip:0 "Civilian factories will now be automatically transferred past the Urals if the state is captured by Axis forces. The Relocation of a factory takes up to 30 days."
+ SOV_scorched_earth_civ_tooltip:0 "Zivile Fabriken werden nun automatisch über den Ural hinaus verlegt, wenn der Staat von den Achsenmächten eingenommen wird. Die Verlegung einer Fabrik dauert bis zu 30 Tage."
 
  #Romania "Carol II. ist Staatsoberhaupt."
  ROM_soviet_accept:0 "$If the Soviet Union agrees to your proposal Romania becomes a puppet.$"

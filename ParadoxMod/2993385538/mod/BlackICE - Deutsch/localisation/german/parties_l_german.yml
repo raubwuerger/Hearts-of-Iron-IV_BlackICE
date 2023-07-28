@@ -1,22 +1,22 @@
 ﻿l_german:
  communism:0 "Kommunistisch"
  communism_noun:0 "Kommunismus"
- communism_desc:0 "Marxistisch-leninistischer sozialistischer Staat" #Marxistisch-leninistisches sozialistisches Regime/Republik"
+ communism_desc:0 "Marxistisch-leninistischer sozialistischer Staat" #Marxistisch-leninistisches sozialistisches Regime/Republik
  democratic:0 "Demokratisch"
  democratic_noun:0 "Demokratie"
  democratic_desc:0 "Demokratisches Regime"
- conservatism:0 "Konservativ" #Konservativ"
+ conservatism:0 "Konservativ" #Konservativ
  conservative:0 "Konservativ"
- conservatism_drift:0 "£boost_popularity_texticon Tägliche Unterstützung der Konservativen" #Drift zum Konservatismus"
+ conservatism_drift:0 "£boost_popularity_texticon Tägliche Unterstützung der Konservativen" #Drift zum Konservatismus
  conservatism_desc:0 "Konservative Demokratie"
  conservatism_noun:0 "Konservative Demokratie"
  liberal:0 "Liberal"
  liberalism_noun:0 "Liberale Demokratie"
- liberalism:0 "Liberal" #Liberalist"
- liberalism_drift:0 "£boost_popularity_texticon Tägliche Unterstützung der Liberalen" #Drift zum Liberalismus"
+ liberalism:0 "Liberal" #Liberalist
+ liberalism_drift:0 "£boost_popularity_texticon Tägliche Unterstützung der Liberalen" #Drift zum Liberalismus
  liberalism_desc:0 "Liberale Demokratie"
- socialism:0 "Sozialdemokratie" #Sozialistisch"
- socialism_drift:0 "£boost_popularity_texticon Daily Social-Democratic Support" #Drift towards Socialism #Daily Socialist Support"
+ socialism:0 "Sozialdemokratie" #Sozialistisch
+ socialism_drift:0 "£boost_popularity_texticon Daily Social-Democratic Support" #Drift towards Socialism #Daily Socialist Support
  socialism_desc:0 "Sozialdemokratie"
  socialism_noun:0 "Sozialdemokratie"
  agrarianism:0 "Agrarismus"
@@ -27,14 +27,14 @@
  fascism:0 "Faschistisch"
  fascism_noun:0 "Faschismus"
  fascism_desc:0 "Faschistisches Regime"
- neutrality:0 "Autoritär" #Authoritarist"
+ neutrality:0 "Autoritär" #Authoritarist
  neutrality_noun:0 "Autoritarismus"
- neutrality_desc:0 "Autoritäres Regime" #war blockfreies autoritäres Regime"
+ neutrality_desc:0 "Autoritäres Regime" #war blockfreies autoritäres Regime
  monarchism:0 "Monarchistisch"
- monarchism_noun:0 "Absolute Monarchie" #Monarchismus"
- monarchism_desc:0 "Absolute Monarchie" #Monarchistisches Regime"
+ monarchism_noun:0 "Absolute Monarchie" #Monarchismus
+ monarchism_desc:0 "Absolute Monarchie" #Monarchistisches Regime
  monarchism_drift:0 "£boost_popularity_texticon Tägliche Unterstützung für Monarchisten"
- #subideologies "
+ #subideologies
  classical_liberalism:0 "Klassischer Liberalismus"
  classical_liberalism_desc:0 "Der klassische Liberalismus ist eine politische Ideologie, die für bürgerliche Freiheiten eintritt und die wirtschaftlichen Freiheiten des freien Marktkapitalismus betont."
  social_conservatism:0 "Sozialer Konservatismus"
@@ -90,7 +90,7 @@
  british_fascism_desc:0 "Wenn unsere Krise eine der ersten und nicht eine der letzten gewesen wäre, wäre der Faschismus eine britische Erfindung. So wie es ist, ist es nicht unsere Aufgabe, den Faschismus zu erfinden, sondern für ihn in Großbritannien seinen höchsten Ausdruck und seine beste Entwicklung zu finden."
  gen_nazism:0 "Gemischte Regierung"
  gen_nazism_desc:0 "Eine seltsame Mischung aus militärischer und ziviler Regierung, wobei keine der beiden Seiten in der Lage ist, zusammenzuarbeiten."
- #new subideologies "
+ #new subideologies 
  centerright:0 "Mitte-Rechts"
  centerright_desc:0 "Mitte-Rechts-Politik, auch als gemäßigt-rechte Politik bezeichnet, ist eine Politik, die sich auf der rechten Seite des Links-Rechts-Spektrums befindet, aber näher an der Mitte ist als andere rechte Varianten."
  theocracie:0 "Theokratie"
@@ -150,9 +150,9 @@
  industrial_farmers:0 "Industrialisierung"
  agrarian_socialism:0 "Agrarsozialismus"
  pacifist:0 "Pazifismus"
-########################## "
-#### COUNTRY SPECIFIC #### "
-########################## "
+########################## 
+#### COUNTRY SPECIFIC #### 
+########################## 
  GER_fascism_party:0 "NSDAP"
  GER_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
  GER_communism_party:0 "KPD"
@@ -177,19 +177,19 @@
  WGR_socialism_party_long:0 "Sozialdemokratische Partei Deutschlands"
  WGR_conservatism_party:0 "CDU"
  WGR_conservatism_party_long:0 "Christlich Demokratische Union"
- WGR_liberalism_party:0 "FDP" #LDPD"
+ WGR_liberalism_party:0 "FDP" #LDPD
  WGR_liberalism_party_long:0 "Freie Demokratische Partei" #Liberal-Demokratische Partei Deutschlands
  WGR_neutrality_party:0 "DP"
  WGR_neutrality_party_long:0 "Deutsche Partei"
  WGR_monarchism_party:0 "Haus Hohenzollern #Hohenzollern-Dynastie"
- WGR_monarchism_party_long:0 "Haus Hohenzollern" #Hohenzollern-Dynastie"
+ WGR_monarchism_party_long:0 "Haus Hohenzollern" #Hohenzollern-Dynastie
  DDR_fascism_party:0 "DRP ."
- DDR_fascism_party_long:0 "Deutsche Rechtspartei" #Deutsche Reichspartei ab 21. Januar 1950"
- DDR_communism_party:0 "SED" #KPD"
+ DDR_fascism_party_long:0 "Deutsche Rechtspartei" #Deutsche Reichspartei ab 21. Januar 1950
+ DDR_communism_party:0 "SED" #KPD
  DDR_communism_party_long:0 "Sozialistische Einheitspartei Deutschlands" #Kommunistische Partei Deutschlands
  DDR_socialism_party:0 "SPD"
  DDR_socialism_party_long:0 "Sozialdemokratische Partei Deutschlands"
- DDR_conservatism_party:0 "CDU" #Z"
+ DDR_conservatism_party:0 "CDU" #Z
  DDR_conservatism_party_long:0 "Christlich Demokratische Union" #Zentrum
  DDR_liberalism_party:0 "LDPD"
  DDR_liberalism_party_long:0 "Liberal-Demokratische Partei Deutschlands"
@@ -294,7 +294,7 @@
  SOV_communism_party:0 "VKP(B)" #Allgemeine Kommunistische Partei, und nach 1952: KPSS
  SOV_communism_party_long:0 "Vsesoyuznaya Kommunisticheskaya Partiya (Bol'shevikov)" #Kommunistische Partei der gesamten Union, und nach 1952: Kommunisticheskaya Partiya Sovetskogo Soyuza"
  SOV_liberalism_party:0 "K-D"
- SOV_liberalism_party_long:0 "Konstitutsionno-Demokraticheskaya Partiya" #Trudoviks"
+ SOV_liberalism_party_long:0 "Konstitutsionno-Demokraticheskaya Partiya" #Trudoviks
  SOV_socialism_party:0 "PSR" #TG"
  SOV_socialism_party_long:0 "Partiya Sotsialistov-Revolyutsionerov" #Trudovaya Gruppa #Partei der sozialistischen Revolutionäre
  SOV_conservatism_party:0 "LDPSS" #LDPR"
@@ -381,9 +381,9 @@
  SPR_communism_party_long:0 "Partido Comunista de España"
  SPR_neutrality_party:0 "CEDA"
  SPR_neutrality_party_long:0 "Spanische Vereinigung für autonome Rechte (Confederación Española de Derechas Autónomas)"
- SPR_socialism_party:0 "PSOE" #vielleicht CNT-FAI"
+ SPR_socialism_party:0 "PSOE" #vielleicht CNT-FAI
  SPR_socialism_party_long:0 "Partido Socialista Obrero Español" #vielleicht Confederación Nacional del Trabajo - Federación Anarquista Ibérica
- SPR_liberalism_party:0 "PCD" #PCD #vielleicht PSOE"
+ SPR_liberalism_party:0 "PCD" #PCD #vielleicht PSOE
  SPR_liberalism_party_long:0 "Partido del Centro Democrático" #Partido del Centro Democrático #vielleicht Partido Socialista Obrero Español
  SPR_monarchism_party:0 "RE"
  SPR_monarchism_party_long:0 "Renovación Española"
@@ -707,19 +707,19 @@
  BEL_fascism_party:0 "Rex"
  BEL_fascism_party_long:0 "Parti Rexiste"
  #since there is no central language in switzerland, these should be in english
- SWI_communism_party:0 "CPS" #KPS"
+ SWI_communism_party:0 "CPS" #KPS
  SWI_communism_party_long:0 "Kommunistische Partei der Schweiz" #Kommunistische Partei der Schweiz
  SWI_socialism_party:0 "SP"
  SWI_socialism_party_long:0 "Sozialdemokratische Partei der Schweiz"
- SWI_liberalism_party:0 "FDP" #Bundesrat"
+ SWI_liberalism_party:0 "FDP" #Bundesrat
  SWI_liberalism_party_long:0 "Freisinnig-Demokratische Partei der Schweiz" #Bundesrat
- SWI_conservatism_party:0 "CPP" #CVP"
+ SWI_conservatism_party:0 "CPP" #CVP
  SWI_conservatism_party_long:0 "Konservative Volkspartei der Schweiz"
  SWI_agrarianism_party:0 "BGB"
  SWI_agrarianism_party_long:0 "Partei der Landwirte, Gewerbetreibenden und Freisinnigen"
  SWI_neutrality_party:0 "FDP"
  SWI_neutrality_party_long:0 "Freisinnig-Demokratische Partei"
- SWI_fascism_party:0 "NF" #NBS"
+ SWI_fascism_party:0 "NF" #NBS
  SWI_fascism_party_long:0 "Nationale Front" #Nationale Bewegung der Schweiz
  RAJ_neutrality_party:0 "INC"
  RAJ_neutrality_party_long:0 "Indischer Nationalkongress"
@@ -984,7 +984,7 @@
  BMP_monarchism_party_long:0 "Oberster Muslimischer Rat"
  BMP_socialism_party:0 "Mapai"
  BMP_socialism_party_long:0 "Mifleget Poalei Eretz Yisrael"
- ISR_neutrality_party:0 "Zentralrat" #Sfaradim"
+ ISR_neutrality_party:0 "Zentralrat" #Sfaradim
  ISR_neutrality_party_long:0 "Zentralrat" #Sfaradim VeEdot Mizrah
  ISR_communism_party:0 "Maki"
  ISR_communism_party_long:0 "HaMiflega HaKomunistit HaYisraelit"
@@ -1049,11 +1049,11 @@
  PAK_conservatism_party:0 "Ganatantri Dal"
  PAK_communism_party:0 "Sozialistische Partei Pakistans"
  PAK_neutrality_party:0 "Muslimische Liga"
- # Canada "
+ # Canada 
  CAN_national_unity_party:0 "NUP"
  CAN_national_unity_party_long:0 "Kanadische Nationale Sozialistische Einheitspartei"
 
- # Quebec "
+ # Quebec 
  QUE_fascism_party:0 "PNSC"
  QUE_fascism_party_long:0 "Parti National Social Chrétien"
  QUE_communism_party:0 "PCQ"
@@ -1063,7 +1063,7 @@
  QUE_neutrality_party:0 "PLQ"
  QUE_neutrality_party_long:0 "Parti Libéral du Québec"
 
- # Newfoundland "
+ # Newfoundland 
  NEW_fascism_party:0 "UNP"
  NEW_fascism_party_long:0 "Vereinigte Neufundland-Partei"
  NEW_communism_party:0 "FPU"
@@ -1072,7 +1072,7 @@
  NEW_conservatism_party_long:0 "Kommission der Regierung"
  NEW_neutrality_party:0 "NPP"
  NEW_neutrality_party_long:0 "Neufundländische Volkspartei"
- # Burma "
+ # Burma 
  BUR_fascism_party:0 "PP"
  BUR_fascism_party_long:0 "Volkspartei"
  BUR_communism_party:0 "CPB"
@@ -1082,7 +1082,7 @@
  BUR_neutrality_party:0 "GVP"
  BUR_neutrality_party_long:0 "Partei des Goldenen Tals"
 
- # France colonies parties "
+ # France colonies parties 
  FRI_communism_party:0 "CPV"
 
  FRI_neutrality_party:0 "Indochinesische Union"
@@ -1121,7 +1121,7 @@
  TUN_neutrality_party:0 "Junge Tunesier"
  TUN_fascism_party:0 "Néo-Destour"
 
- # BENELUX "
+ # BENELUX 
  VLA_neutrality_party:0 "Niet Uitgelijnd"
  VLA_neutrality_party_long:0 "Niet Uitgelijnd"
  VLA_communism_party:0 "VKP"
@@ -1137,7 +1137,7 @@
  WLL_conservatism_party:0 "Parti catholique"
  WLL_fascism_party:0 "Rex"
  WLL_fascism_party_long:0 "Rex"
- #### BICE #### "
+ #### BICE #### 
 
  imperial:0 "Kaiserliche"
  imperial_desc:0 "Eine kaiserliche Monarchie ist ein Reich, in dem der Kaiser oder die Kaiserin unkontrolliert von anderen politischen Mächten regiert. "
@@ -1147,12 +1147,12 @@
  emiratism_desc:0 "Ein Emirat oder eine islamische Monarchie ist eine Monarchie, die den Grundsätzen Allahs (arabisch für Gott) folgt. Einige sind Allah treu ergeben und befolgen die Lehren des Korans, aber andere nutzen den Namen "Allah" aus."
  popular:0 "Populismus"
  popular_desc:0 "Eine populistische Monarchie oder anders gesagt eine Wahlmonarchie ist eine Monarchie, in der das Volk den Monarchen wählt, aber in den meisten Fällen ist es das Parlament, das abstimmt, wodurch es für bestimmte Personen voreingenommen ist."
- regency:0 "Regentschaft" #vielleicht Regent?"
+ regency:0 "Regentschaft" #vielleicht Regent?
  regency_desc:0 "Ein Regent ist eine Person, die ernannt wird, um einen Staat zu regieren, weil der Monarch minderjährig, abwesend oder arbeitsunfähig ist. Die Herrschaft eines Regenten oder von Regenten wird als Regentschaft bezeichnet. Ein Regent oder ein Regentschaftsrat kann ad hoc oder in Übereinstimmung mit einer Verfassungsvorschrift gebildet werden. \"Regent" ist manchmal ein offizieller Titel."
  dual_monarchy:0 "Doppelmonarchie"
  dual_monarchy_desc:0 "Von einer Doppelmonarchie spricht man, wenn zwei getrennte Königreiche von demselben Monarchen regiert werden, dieselbe Außenpolitik verfolgen, in einer Zollunion zueinander stehen und über ein gemeinsames Militär verfügen, ansonsten aber selbstverwaltet sind."
 
- ## PRC ## "
+ ## PRC ## 
  PRC_communism_party:0 "KPCH"
  PRC_communism_party_long:0 "Kommunistische Partei Chinas"
  PRC_conservatism_party:0 "Demokratische Liga Chinas"
@@ -1162,7 +1162,7 @@
  PRC_neutrality_party_long:0 "Kuomintang"
  PRC_agrarianism_party:0 "Tufěi"
 
- #Vichy Stuff "
+ #Vichy Stuff 
  VIC_communism_party:0 "PCF"
  VIC_communism_party_long:0 "Parti Communiste Français"
  VIC_liberalism_party:0 "Radikale Partei"

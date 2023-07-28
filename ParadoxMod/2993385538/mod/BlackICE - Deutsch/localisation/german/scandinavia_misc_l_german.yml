@@ -472,7 +472,7 @@
  DEN_specialise_fleet_desc:0 "Die Tage der großen Flotten sind vorbei, außer für die größten Nationen, die ihre Flotten seit dem ersten Dreadnought immer weiter ausgebaut haben. Wenn unsere Flotte unter diesen Giganten eine Chance haben soll, wird uns nur ein kluger Einsatz den Sieg bringen."
  DEN_subs:0 "Fokus U-Boot"
  DEN_subs_desc:0 "Hit and Run und keine großen Seeschlachten sind die Zukunft, wenn wir die größeren Flotten unserer Feinde aufhalten und ihnen Schaden zufügen wollen."
- DEN_trade_inter:0 "Handelsverhinderung"
+ DEN_trade_inter:0 "Handelskrieg"
  DEN_trade_inter_desc:0 "Mit der zunehmenden Zahl von U-Booten in unseren Seestreitkräften werden neue Doktrinen schneller entwickelt und erprobt, als wir es uns erhoffen konnten."
  DEN_naval_officer:0 "Offiziersschule der Marine"
  DEN_new_fak:0 "Den Kongelige Militaire Høiskole Forschungssiedlung"

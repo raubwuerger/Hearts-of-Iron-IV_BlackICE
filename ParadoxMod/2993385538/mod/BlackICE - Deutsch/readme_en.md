@@ -15,6 +15,7 @@ History
 2023-07-12		7.0.2.2			The file trm_tank_modules_l_german (3044 lines) is now also in German.
 								And again more than 100 smaller changes.
 2023-07-14		7.0.2.3 		Over 150 minor changes.
+2023-07-28		7.0.2.4 		Over 300 minor changes.
 
 Roadmap:
 

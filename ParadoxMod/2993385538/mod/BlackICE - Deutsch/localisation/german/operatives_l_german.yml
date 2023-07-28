@@ -1,7 +1,7 @@
 ﻿l_german:
  INTELLIGENCEAGENCYVIEW_TITLE:0 "Nachrichtendienst"
  SPY_MASTER_STATUS_NONE:1 "Derzeit gibt es keinen §HSpy Master§!"
- SPY_MASTER_STATUS_OTHER:0 "$COUNTRY|H$ ist derzeit der Spy Master von $Fraktion|H$."
+ SPY_MASTER_STATUS_OTHER:0 "$COUNTRY|H$ ist derzeit der Spy Master von $FACTION|H$."
  SPY_MASTER_STATUS_YOU:0 "Sie sind Spy Master"
  BECOME_SPY_MASTER_BUTTON:0 "Spy Master werden"
  BECOME_SPY_MASTER_ALREADY_MASTER:0 "§0Sie sind bereits Spy Master§!"

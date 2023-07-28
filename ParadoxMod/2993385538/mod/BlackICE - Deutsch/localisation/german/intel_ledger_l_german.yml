@@ -100,7 +100,7 @@
  INTEL_LEDGER_FACTORIES_USED_IN_ARMOR:0 "Militärische Fabriken für die Produktion von gepanzerter Ausrüstung: $RANGE|H%.0$"
  INTEL_LEDGER_FACTORIES_USED_IN_AIR:0 "Militärische Fabriken für die Herstellung von Flugzeugen: $RANGE|H%.0$"
  INTEL_LEDGER_FACTORIES_USED_IN_CAPITAL_SHIPS:0 "Werften für die Produktion von Großraumschiffen: $RANGE|H%.0$"
- INTEL_LEDGER_FACTORIES_USED_IN_SCREEN_SHIPS:0 "Werften, die für die Produktion von Bildschirmschiffen verwendet werden: $RANGE|H%.0$"
+ INTEL_LEDGER_FACTORIES_USED_IN_SCREEN_SHIPS:0 "Werften, die für die Produktion von Aufklärungsschiffen verwendet werden: $RANGE|H%.0$"
  INTEL_LEDGER_FACTORIES_USED_IN_OTHER_SHIPS:0 "Werften für andere Schiffsproduktion: $RANGE|H%.0$"
  MIN_INTEL_REQUIRED_FOR_IDEAS:0 "Erforderliche Informationen für die Anzeige von Ministern und Gesetzen: $MIN|H.0%$"
  NO_CIV_INTEL_WITH_CAP:0 "Keine Informationen (Erfordert zivile Informationen: $MIN|H.0%$)"

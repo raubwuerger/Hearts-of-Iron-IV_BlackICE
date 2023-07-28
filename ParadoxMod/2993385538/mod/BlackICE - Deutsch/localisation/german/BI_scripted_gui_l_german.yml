@@ -134,7 +134,7 @@
  UNDISTURBED_ISOLATION_LEVEL:0 "§L - Modifikatoren§!  §R-90%§! - §YUndisturbed Isolation§!"
  ISOLATION_LEVEL:0 "§L - Modifiers §!:  §R75%§! - §YIsolation§!"
  CIVILIAN_LEVEL:0 "§L - Modifiers §!:  §R50%§! - §YZivile Wirtschaft§!"
- LOW_LEVEL:0 "§L - Modifiers §!:  §R25%§! - §YLow Economic Mobilization§!"
+ LOW_LEVEL:0 "§L - Modifiers §!:  §R25%§! - §YGeringe wirtschaftliche Mobilisierung§!"
  PARTIAL_LEVEL:0 "§L - Modifikatoren §!:  §R20%§! - §YPartielle wirtschaftliche Mobilisierung§!"
  WAR_LEVEL:0 "§L - Modifikatoren §!:  §R10%§! - §YKriegswirtschaft§!"
  TOT_LEVEL:0 "§L - Modifikatoren §!:  §G0%§! - §YGesamtmobilisierung§!"
@@ -219,7 +219,7 @@
  BI_EQUIPMENT_FACTORY_EFFECT_TT:0 "[!bonus_click]"
  BI_EQUIPMENT_FACTORY_SUBTYPE_BUTTON_TT:0 "[!equipment_factory_subtype_button_click]"
 
- BI_SELECT_SUBTYPE_TT:0 "§YKlick§! zur §YSpezialisierung§! der Produktion auf eine Gruppe von Ausrüstungen, was die £production_cost §YProduktionsbonus§! um §Y50%§! auf Kosten von £pol_power §YPolitical Power§! erhöht. Die Kosten steigen mit jedem Produktionsschwerpunkt."
+ BI_SELECT_SUBTYPE_TT:0 "§YKlick§! zur §YSpezialisierung§! der Produktion auf eine Gruppe von Ausrüstungen, was die £production_cost §YProduktionsbonus§! um §Y50%§! auf Kosten von £pol_power §Ypolitischer Macht§! erhöht. Die Kosten steigen mit jedem Produktionsschwerpunkt."
  BI_EQUIPMENT_FACTORY_TOTAL_TT:0 "§YGesamtmenge§!\nWie viele §Y[?v.GetTokenLocalizedKey]§! wir insgesamt haben. Wenn wir mehr Gebäude als unser §YMaximum§! haben, haben die überschüssigen Gebäude keine Auswirkungen."
  BI_EQUIPMENT_FACTORY_MAXIMUM_TT:0 "§YMaximum Level§!\nWie viele §Y[?v.GetTokenLocalizedKey]§! wir haben können. Das Limit kann durch £tech_mod §YIndustrietechnologien§! erhöht werden."
 
@@ -367,7 +367,7 @@
  SHIPYARD_TT:0 "\n§L Schiffswerften: [?num_shipyard_total]/[Root.GetMaxShipyardNumber]"
  SUBYARD_TT:0 "\n§L Nebenwerften: [?num_subyard_total]/[Root.GetMaxSubyardNumber]"
 
- STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Lagerung§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n - Täglicher Zuwachs: [GetStorageInput] \n - Täglicher Ausstoß: [?storage_output@var:v|0-] ([?modifier@max_resource_storage_output|Y0] per Storage)\n\nMax Storage Capacity: [?max_storage@var:v|Y0]\n Capital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivile Fabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n\n [GetStorageEstimate]"
+ STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Lagerung§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n - Täglicher Zuwachs: [GetStorageInput] \n - Täglicher Ausstoß: [?storage_output@var:v|0-] ([?modifier@max_resource_storage_output|Y0] je Lagergebäude)\n\nMax. Lagerkapazität: [?max_storage@var:v|Y0]\n Capital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivile Fabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n\n [GetStorageEstimate]"
  STORAGE_TOPBAR_TOOLTIP_DELAYED:0 "[GetStorageSettingTT]"
 
  STORAGE_ESTIMATE_EMPTY_TEXT:0 "Wir schätzen, dass unsere Vorräte in [?m|R0] Tagen aufgebraucht sein werden"
@@ -589,27 +589,27 @@
  #######################################################
  ################ RESEARCH SLOTS
  #######################################################
- SLOT_title:0 "§C[?temp_tt]. Research Slot§! - §Y[?target_state.GetName]§!: [GetResearchSlotEditOrGain]"
+ SLOT_title:0 "§C[?temp_tt]. Forschungsgebiet§! - §Y[?target_state.GetName]§!: [GetResearchSlotEditOrGain]"
  SLOT_EDIT_TT:0 "\nDieser Forschungsslot wird in der Lage sein, die folgenden Ordner zu erforschen:\n"
- SLOT_GAIN_TT:0 "\nAdd §Y1 Research Centre§!\nDieser Forschungsslot wird in der Lage sein, die folgenden Ordner zu erforschen:\n"
+ SLOT_GAIN_TT:0 "\nAdd §Y1 Forschungszentrum§!\nDieser Forschungsslot wird in der Lage sein, die folgenden Ordner zu erforschen:\n"
  SLOT_infantry_folder:0 "§YInfantry§!\n"
  SLOT_special_forces:0 "§YMilitärische Spezialkräft§!\n"
- SLOT_support_folder:0 "§YSupport§!\n"
+ SLOT_support_folder:0 "§YUnterstützung§!\n"
  SLOT_artillery_folder:0 "§YArtillerie§!\n"
- SLOT_tank_techs_folder:0 "§YTank Techs§!\n"
- SLOT_armor_folder:0 "§YArmor§!\n"
- SLOT_air_techs_folder:0 "§YAir Techs§!\n"
- SLOT_air_techs_folder_army:0 "§YArmy Air Techs§!\n"
- SLOT_air_techs_folder_navy:0 "§YNavy Air Techs§!\n"
- SLOT_naval_folder:0 "§YNaval§!\n"
- SLOT_naval_techs_folder:0 "§YNaval Techs§!\n"
- SLOT_industry_folder:0 "§YIndustry§!\n"
- SLOT_ww1_land_doctrine_folder:0 "§YWW1 Doctrines§!\n"
+ SLOT_tank_techs_folder:0 "§YPanzertechnologien§!\n"
+ SLOT_armor_folder:0 "§YPanzer§!\n"
+ SLOT_air_techs_folder:0 "§YLuftwaffentechnologien§!\n"
+ SLOT_air_techs_folder_army:0 "§YHeeresluftwaffentechnologien§!\n"
+ SLOT_air_techs_folder_navy:0 "§YMarineluftwaffentechnologien§!\n"
+ SLOT_naval_folder:0 "§YMarine§!\n"
+ SLOT_naval_techs_folder:0 "§YMarinetechnologien§!\n"
+ SLOT_industry_folder:0 "§YIndustrie§!\n"
+ SLOT_ww1_land_doctrine_folder:0 "§YWW1 Doktrinen§!\n"
  SLOT_land_doctrine_folder:0 "§YWW2 Doktrinen§!\n"
- SLOT_naval_doctrine_folder:0 "§YNaval Doctrines§!\n"
- SLOT_air_doctrine_folder:0 "§YAir Doctrines§!\n"
- SLOT_electronics_folder:0 "§YElectronics§!\n"
- SLOT_nuclear_folder:0 "§YNuclear Techs§!\n"
+ SLOT_naval_doctrine_folder:0 "§YMarine Doktrinen§!\n"
+ SLOT_air_doctrine_folder:0 "§YLuftwaffen Doktrinen§!\n"
+ SLOT_electronics_folder:0 "§YElektrotechnik§!\n"
+ SLOT_nuclear_folder:0 "§YNukleartechnologien§!\n"
 
  NEXT_RESEARCH_STATE_TOOLTIP:0 "Nächster Standort des Forschungszentrums: §Y[?BI_research_centre_list^0.GetName]§!"
  NEXT_RESEARCH_STATE_TOOLTIP_DELAYED:0 "Aufgrund des geeigneten Standorts wird §Y[?BI_research_centre_list^0.GetName]§! als Staat für unser nächstes £tech_mod §YResearch Centre§! ausgewählt, sofern in der Auswirkung nicht anders angegeben. [GetPossibleResearchCentreStates]"
@@ -1791,7 +1791,7 @@
 
  ai_advisor:0 "§G AI Advisor §!"
 
- INSTANTLY_REMOVED_AT_WAR:0 "\n§YInstantly removed if:§!\n£trigger_no At war"
+ INSTANTLY_REMOVED_AT_WAR:0 "\n§YSofort entfernt, wenn:§!\n£trigger_no im Krieg"
 
  IDEA_TOOLTIP:0 "[?v.GetTokenKey] V"
 

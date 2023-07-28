@@ -218,9 +218,9 @@
  TOPBAR_POLITICAL_GAIN_TT:0 "Tägliche politische Macht"
  TOPBAR_POLITICAL_FACTOR_TT:0 "Politische Macht Faktor"
  
- TOPBAR_POLITICAL_CURRENT_ACTIVE_TT:0 "§YPolitical Power§!"
- TOPBAR_POLITICAL_GAIN_ACTIVE_TT:0 "§YDaily Political Power§!"
- TOPBAR_POLITICAL_FACTOR_ACTIVE_TT:0 "§YPolitical Power Factor§!"
+ TOPBAR_POLITICAL_CURRENT_ACTIVE_TT:0 "§YPolitische Macht§!"
+ TOPBAR_POLITICAL_GAIN_ACTIVE_TT:0 "§YTägliche politische Macht§!"
+ TOPBAR_POLITICAL_FACTOR_ACTIVE_TT:0 "§YPolitischer Machtfaktor§!"
  
  TOPBAR_POLITICAL_CURRENT:0 "[GetTopbarPoliticalDecimals]"
  TOPBAR_POLITICAL_GAIN:0 "[?political_power_growth]"

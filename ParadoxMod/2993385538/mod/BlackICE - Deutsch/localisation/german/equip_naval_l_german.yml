@@ -703,7 +703,7 @@
  torpedo_boat:0 "Torpedoboot"
  torpedo_boat_desc:0 "Torpedoboote sind kleine Zerstörer mit insgesamt geringeren Fähigkeiten, die dieselben Aufgaben wie diese erfüllen."
  pocket_battleship:0 "Taschen-Schlachtschiff"
- pocket_battleship_desc:0 "Taschenkampfschiffe sind die deutsche Version eines fortschrittlichen und viel stärkeren schweren Kreuzers mit besserer Hauptbatterie, der jedoch seine schnelle Kreuzergeschwindigkeit beibehält. Ideal für Handelsverhinderungen."
+ pocket_battleship_desc:0 "Taschenkampfschiffe sind die deutsche Version eines fortschrittlichen und viel stärkeren schweren Kreuzers mit besserer Hauptbatterie, der jedoch seine schnelle Kreuzergeschwindigkeit beibehält. Ideal für den Handelskrieg."
  battle_cruiser:0 "Schlachtkreuzer"
  battle_cruiser_desc:0 "Ein großes kapitales Schiff, dessen Offensivfähigkeiten denen eines Schlachtschiffs ähneln, dessen schwächere Panzerung jedoch gegen eine höhere Geschwindigkeit eingetauscht wird. Ideal für Handelsverbote und Konvoi-Jagd."
  seplane_tender:0 "Wasserflugzeug-Tender"
