@@ -545,7 +545,7 @@
 
  MEFO_DONE_TT:0 "£trigger_yes §YMEFO§!"
 
- SPECIAL_FORCES_TT:0 "§YMilitärische Spezialkräft§!\nWir haben derzeit [?num_specialised|Y0] unserer [?special_forces_cap|Y0] erlaubten Spezialkräfte im Einsatz.\nDas Limit ist [?special_forces_ratio|Y%] unserer Heeresstärke ([?army_strength|Y0]), mit einem Minimum von [?modifier@special_forces_min|Y0]\n[Root.GetSpecialForcesComp][!special_forces_background_click]"
+ SPECIAL_FORCES_TT:0 "§YSpezialeinheiten§!\nWir haben derzeit [?num_specialised|Y0] unserer [?special_forces_cap|Y0] erlaubten Spezialkräfte im Einsatz.\nDas Limit ist [?special_forces_ratio|Y%] unserer Heeresstärke ([?army_strength|Y0]), mit einem Minimum von [?modifier@special_forces_min|Y0]\n[Root.GetSpecialForcesComp][!special_forces_background_click]"
  SPECIAL_FORCES_CAP_TT:0 "Militärische Spezialkräft Obergrenze: [?special_forces_ratio|Y%] \nBase: §Y7.0%§! \n[!sof_ratio_bar_click]"
  SPECIAL_FORCES_RATIO_TT:0 "Wir setzen derzeit [?num_specialised|Y0] unseres [?special_forces_cap|Y0] erlaubten Spezialkräftemaximus ein. §Y([GetSpecialForcesLimitRatio])§!"
 

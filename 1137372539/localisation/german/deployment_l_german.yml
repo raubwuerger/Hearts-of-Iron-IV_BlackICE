@@ -128,7 +128,7 @@
  DEPLOYMENT_LINE_CHOOSE_OTHER_NAME:0 "§HChoose another historical name.§!\n§GKlicken Sie auf§! um eine Liste aller noch verfügbaren historischen Namen zu öffnen. Es ist möglich, die Gruppe der Namen zu ändern, indem Sie die Vorlage bearbeiten."
  DEPLOYMENT_LINE_EDIT_NAME:0 "§0Klicken Sie auf§! und geben Sie ein, um einen eigenen Namen zu verwenden."
  DEPLOYMENT_LINE_OUT_OF_NAMES:0 "§GKeine historischen Namen mehr vorhanden§!"
- MISSING_SPECIAL_FORCES_CAP:0 "§RNot enough Militärische Spezialkräft cap§!"
+ MISSING_SPECIAL_FORCES_CAP:0 "§RObergrenze für Militärische Spezialkräft erreicht§!"
  EXCEEDING_DIVISION_CAP:0 "§Überschreitung der Obergrenze für die Vorlage der Division§!"
  TRAINING_HALTED:0 "Die Ausbildung wurde gestoppt\n"
  CANNOT_DELETE_SPECIAL_TEMPLATES:0 "Spezialvorlagen können nicht entfernt werden."

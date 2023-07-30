@@ -175,9 +175,9 @@
  GET_IDEA_ICON2:0 "£pol_idea"
  GET_TECH_ICON2:0 "£tech_mod"
  
- MAX_ARMY_EXPERIENCE_TOOLTIP:0 "§YMaximum Army Experience§!\n\nBase: §Y150.0§! \n[!max_army_xp_bg_click]"
- MAX_AIR_EXPERIENCE_TOOLTIP:0 "§YMaximum Air Experience§!\n\nBase: §Y150.0§! \n[!max_air_xp_bg_click]"
- MAX_NAVY_EXPERIENCE_TOOLTIP:0 "§YMaximum Navy Experience§!\n\nBase: §Y150.0§! \n[!max_navy_xp_bg_click]"
+ MAX_ARMY_EXPERIENCE_TOOLTIP:0 "§YMax. Armeeerfahrung§!\n\nBasis: §Y150.0§! \n[!max_army_xp_bg_click]"
+ MAX_AIR_EXPERIENCE_TOOLTIP:0 "§YMax. Luftwaffenerfahrung§!\n\nBasis: §Y150.0§! \n[!max_air_xp_bg_click]"
+ MAX_NAVY_EXPERIENCE_TOOLTIP:0 "§YMax. Marineerfahrung§!\n\nBasis: §Y150.0§! \n[!max_navy_xp_bg_click]"
  
  MAX_ARMY_XP_DELAYED_TT:0 "Die maximale Armeeerfahrung zeigt die Menge an Armeeerfahrung an, die dein Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch die Verbesserung der §YOfficer Training Standards§! oder durch die Erforschung der §YCommand Doctrine§!-Technologien erhöht werden."
  MAX_AIR_XP_DELAYED_TT:0 "Die Maximale Luftwaffenerfahrung zeigt die Menge an Luftwaffenerfahrung an, die Ihr Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch Verbesserung der §YYOfficer Training Standards§! oder durch Erforschung der §YCommand Doctrine§!-Technologien erhöht werden."
