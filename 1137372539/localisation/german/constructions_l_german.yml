@@ -57,7 +57,7 @@
  CONSTRUCTION_MAPMODE_BUILD_RAILWAY_BAD_START:0 "Kann §HEisenbahn§! nicht bauen. Eisenbahn muss an einem Versorgungsknoten oder einer anderen Eisenbahn beginnen."
  CONSTRUCTION_MAPMODE_BUILD_RAILWAY_CANCEL:0 "§0Rechtsklick§! zum Abbrechen des Baus"
  CONSTRUCTION_MAPMODE_CONVERT_PROVINCE_TOOLTIP:0 "Klicken Sie auf ein Symbol für eine zivile oder militärische Fabrik, um die Umwandlung zu starten."
- CONSTRUCTION_CONVERT_IC_TOOLTIP:0 "§YConvert§!\nZivile Fabrik in militärische Fabrik umwandeln und umgekehrt"
+ CONSTRUCTION_CONVERT_IC_TOOLTIP:0 "§YUmwandeln§!\nZivile Fabrik in militärische Fabrik umwandeln und umgekehrt"
  CONSTRUCTION_CONVERT_IC_TOOLTIP_DELAYED:0 "§0Klicken Sie auf, um diesen Modus auszuwählen, und klicken Sie dann auf die Schaltflächen in jedem Staat, um zu konvertieren."
  CONSTRUCTION_FACTORIES_LABEL:0 "#"
  CONSTRUCTION_FACTORIES_AMOUNT:1 "Anzahl der zivilen Fabriken"

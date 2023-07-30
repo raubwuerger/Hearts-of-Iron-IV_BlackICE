@@ -4625,7 +4625,7 @@
  train_equipment_desc:0 "Züge transportieren Vorräte von der Nachschubhauptstadt zu den Nachschubknotenpunkten, die mit der Eisenbahn verbunden sind."
  train_equipment_1:0 "Ziviler Zug"
  train_equipment_1_desc:0 "Diese Zuglokomotive wurde vom Militär aus dem regulären zivilen Güterverkehr übernommen und eignet sich gut für den Transport großer Mengen von Versorgungsgütern über lange Strecken. Ihre zivile Bauweise macht sie jedoch anfällig."
- train_equipment_2:0 "Kriegs-Sparzug"
+ train_equipment_2:0 "Kriegslokomotive"
  train_equipment_2_desc:0 "Eine vereinfachte Konstruktion, bei der viele Merkmale, die bei regulären Güterzügen üblich sind, aus Gründen der billigeren Produktion weggelassen wurden. Er ist immer noch genauso anfällig wie ein normaler Zug, kann aber leichter ersetzt werden."
  train_equipment_3:0 "Gepanzerter Zug"
  train_equipment_3_desc:0 "Eine Zuglokomotive, die von einer schweren Panzerung umgeben ist, um sie weniger anfällig für feindliche Angriffe zu machen. Er kann genauso viel Fracht transportieren wie alle anderen Modelle, ist aber teurer in der Herstellung."

@@ -678,7 +678,7 @@
  COMBAT_UNIT_ICON_UNDECIDED:0 "§TBattle§!"
  COMBAT_UNIT_ICON_DESC:0 "§T$UNIT|H$ befindet sich in einer Schlacht in $STATE|H$.§!"
  COMBAT_UNIT_ICON_TERRAIN:0 "§TTerrain: $TERRAIN|H$§!"
- category_light_infantry:0 "Bein-Infanterie"
+ category_light_infantry:0 "Leichte-Infanterie"
  TRANSPORT_WEIGHT_VAL:0 "$VAL$"
  TRANSPORT_WEIGHT_DESC:0 "Gesamtgewicht der Divisionen"
  category_all_infantry:0 "Alle Infanterie & Mot/Mech"

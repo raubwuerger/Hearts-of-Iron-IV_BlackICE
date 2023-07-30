@@ -1037,7 +1037,7 @@
  truce_desc:1 "$COUNTRY|UY$ hat Waffenstillstände mit anderen Nationen"
  truce_general_desc:1 "$COUNTRY|UY$ hat einen Waffenstillstand mit anderen Nationen"
  truce_general_extended_desc:1 "$COUNTRY1|UY$ hat einen Waffenstillstand mit $COUNTRY2|Y$"
- WARGOAL_MODIFIER_DESC:0 "Kriegsziel-Modifikatoren"
+ WARGOAL_MODIFIER_DESC:0 "Kriegsziel Modifikatoren"
  WARGOAL_COST_VOLUNTEERS_VALUE:1 "$COUNTRY|UY$ schickt Freiwillige zu unseren Feinden: $VALUE|G$"
  WARGOAL_COST_OUR_MODIFIER:1 "$COUNTRY|UY$ Modifikatoren: "
  WARGOAL_COST_THEIR_MODIFIER:1 "$COUNTRY|UY$ Modifikatoren: "
