@@ -418,7 +418,7 @@
  aggressive_assaulter:0 "Aggressiver Angreifer"
  aggressive_assaulter_short:0 "Aggressiver Angreifer"
  aggressive_assaulter_desc:1 "§0Die beste Verteidigung ist eine starke Offensive!!§"
- scavenger:0 "Scavenger"
+ scavenger:0 "Plünderer"
  scavenger_desc:1 "§0Sie plündern und reparieren eher erbeutete Ausrüstung, um sie für ihre eigenen Truppen zu verwenden."
  ambusher:0 "Hinterhaltler"
  ambusher_desc:1 "§0Kann gegnerische Truppen geschickt in einen Hinterhalt locken."

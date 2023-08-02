@@ -1153,8 +1153,8 @@
  HIDE_BUILD_SPEED_TT:0 "\n§YKlick§! zum Ausblenden von §YBaugeschwindigkeit§!"
 
  SS_POPPUP_TT:0 "\n[BI_GetSSpoppupTT]"
- NO_SS_POPPUPS_TT:0 "\n §YNO SS-poppups§!"
- SHOW_SS_POPPUPS_TT:0 "\n§YSHOW SS poppups wenn Einheit verfügbar§!"
+ NO_SS_POPPUPS_TT:0 "\n §YNO SS Benachrichtigung§!"
+ SHOW_SS_POPPUPS_TT:0 "\n§YSHOW SS Benachrichtigung wenn Einheit verfügbar§!"
 
  EIC_SWITCH_DISPLAY_TT:0 "\n[BI_GetEquipmentDisplayTT]"
  EIC_SWITCH_TO_BONUS_TT:0 "§YKlick§! zum Anzeigen der §YAnzahl§! der Ausrüstungsfabriken."

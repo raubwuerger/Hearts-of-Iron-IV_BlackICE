@@ -125,7 +125,7 @@
  FRA_mechanized_aa_0_short:0 "GMC CCKW 353 mit 40mm Bofors"
  FRA_mechanized_aa_0_desc:0 "AAA Halbkettenfahrzeug"
  ## Artillery ## ""
- FRA_spotter_planes_equipment_0:0 "Breguet 270 Serie Artillerie-Spotterflugzeug"
+ FRA_spotter_planes_equipment_0:0 "Breguet 270 Serie Artilleriebeobachterflugzeug"
  FRA_spotter_planes_equipment_0_short:0 "Breguet 274 Beobachterflugzeug"
  FRA_artytruck_equipment_0:0 "Renault AHR Schwerlastwagen"
  FRA_artytruck_equipment_0_short:0 "Renault AHR 5t Lastwagen"

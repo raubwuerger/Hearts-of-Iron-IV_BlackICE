@@ -4590,8 +4590,8 @@
  new_HQ_tt:0 "Ersetzt die 5 §YPferdeausrüstung§! die für HQ's benötigt werden durch 5 §YLeichte Fahrzeuge§!\n"
 
  SURRENDER_REDUCTION_TOOLTIP:0 "Kollaboration in $COUNTRY|H$ reduziert deren Kapitulationslevel um $VALUE|+%.0$"
- COLLABORATION_EFFECTS_TOOLTIP:0 "Du hast $COLLABORATION|+%.0$ Zusammenarbeit in $COUNTRY|H$. Dies reduziert deren Kapitulationslevel um $SURRENDER|+%.0$ und gibt $COMPLIANCE|+%.0$ Compliance, wenn der Feind kapituliert, was zum Freischalten weiterer Compliance-Modifikatoren verwendet wird."
- COLLABORATION_EFFECTS_OTHER_SIDE_TOOLTIP:0 "$OTHER_COUNTRY|H$ haben $COLLABORATION|+%.0$ Zusammenarbeit in $COUNTRY|H$. Dies reduziert $COUNTRY|H$'s Kapitulationslevel um $SURRENDER|+%.0$ und gibt $COMPLIANCE|+%.0$ Compliance, wenn der Feind kapituliert, was für die Freischaltung zusätzlicher Compliance-Modifikatoren verwendet wird."
+ COLLABORATION_EFFECTS_TOOLTIP:0 "Du hast $COLLABORATION|+%.0$ Zusammenarbeit in $COUNTRY|H$. Dies reduziert deren Kapitulationslevel um $SURRENDER|+%.0$ und gibt $COMPLIANCE|+%.0$ Zustimmung, wenn der Feind kapituliert, was zum Freischalten weiterer Zustimmungsmodifikatoren verwendet wird."
+ COLLABORATION_EFFECTS_OTHER_SIDE_TOOLTIP:0 "$OTHER_COUNTRY|H$ haben $COLLABORATION|+%.0$ Zusammenarbeit in $COUNTRY|H$. Dies reduziert $COUNTRY|H$'s Kapitulationslevel um $SURRENDER|+%.0$ und gibt $COMPLIANCE|+%.0$ Zustimmung, wenn der Feind kapituliert, was für die Freischaltung zusätzlicher Zustimmungsmodifikatoren verwendet wird."
  GER_winter_logistics:0 "Winter-Logistik"
  GER_winter_logistics_tt:0 "Gewährt \n §YAll Logistics Companies§! §G-2%§! Nachschubverwendung\n §R+10%§! benötigte Transporteinheiten"
 

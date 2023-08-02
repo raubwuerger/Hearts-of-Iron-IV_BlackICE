@@ -498,7 +498,7 @@
  ENG_tankette_equipment_3:0 "Panzerwagen"
  ENG_tankette_equipment_3_short:0 "Bren Gun Carrier Mk II"
  ENG_tankette_equipment_3_desc:0 ""
- ENG_spotter_planes_equipment_0:0 "Taylorcraft Auster Artillerie-Spotterflugzeuge"
+ ENG_spotter_planes_equipment_0:0 "Taylorcraft Auster Artilleriebeobachterflugzeuge"
  ENG_spotter_planes_equipment_0_short:0 "Auster Spotter"
  ENG_spotter_planes_equipment_0_desc:0 "Kleine Leichtflugzeuge, die zur Beobachtung und Korrektur von Artilleriefeuer eingesetzt werden."
  ########## UK artillery transport ""
