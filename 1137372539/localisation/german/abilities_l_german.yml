@@ -3,7 +3,7 @@
  ABILITY_TOOLTIP_NAME_CANCEL:0 "§RAbbruch: $NAME|H$§!"
  ABILITY_TOOLTIP_DETAILED_COST:0 "    - Grundkosten: $VALUE|H2$ (jeweils für $UNITS|H0$ Bataillone)"
  ABILITY_TOOLTIP_DETAILED_COST_FACTOR:0 "    - Fähigkeiten Kosten: $FACTOR|+%$"
- ABILITY_TOOLTIP_DAILY_COST:0 "Befehlsmacht Tägliche Kosten: $VALUE|H2$"
+ ABILITY_TOOLTIP_DAILY_COST:0 "4 Tägliche Kosten: $VALUE|H2$"
  ABILITY_TOOLTIP_ALLOCATION:0 "Befehlsmacht Zuteilung: $VALUE|H2$"
  ABILITY_TOOLTIP_NOT_ENOUGH_CP:0 "§RZu wenig Befehlsmacht.§!"
  ABILITY_TOOLTIP_IS_ALREADY_ACTIVE:0 "§RFähigkeit ist bereits aktiv!§!"

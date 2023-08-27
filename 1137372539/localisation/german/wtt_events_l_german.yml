@@ -1103,10 +1103,10 @@
  
  attack_skill_level_up_tt:0 "    £trait_attack Angriffsfertigkeit: [?FROM.attack_skill_gained|=+0]"
  defense_skill_level_up_tt:0 "    £trait_defense Verteidigungsfertigkeit: [?FROM.defense_skill_gained|=+0]"
- planning_skill_level_up_tt:0 "    £trait_planning Planning Skill: [?FROM.planning_skill_gained|=+0]"
- logistics_skill_level_up_tt:0 "    £trait_logistics Logistik-Fähigkeit: [?FROM.logistics_skill_gained|=+0]"
- maneuver_skill_level_up_tt:0 "    £trait_maneuvering Maneuver Skill: [?FROM.maneuver_skill_gained|=+0]"
- coordination_skill_level_up_tt:0 "    £trait_coordination Coordination Skill: [?FROM.coordination_skill_gained|=+0]"
+ planning_skill_level_up_tt:0 "    £trait_planning Planungsfertigkeit: [?FROM.planning_skill_gained|=+0]"
+ logistics_skill_level_up_tt:0 "    £trait_logistics Logistikfertigkeit: [?FROM.logistics_skill_gained|=+0]"
+ maneuver_skill_level_up_tt:0 "    £trait_maneuvering Manöverfähigkeit: [?FROM.maneuver_skill_gained|=+0]"
+ coordination_skill_level_up_tt:0 "    £trait_coordination Koordinationsfähigkeit: [?FROM.coordination_skill_gained|=+0]"
  
  
  generic.21.t:0 "[Unit_leader.GetName]"

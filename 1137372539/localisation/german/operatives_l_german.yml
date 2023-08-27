@@ -326,7 +326,7 @@
  OPERATIVE_INTELIGENCE_AGENCY_DEFENSE_MODIFIER_ENTRY:0 "$OPERATIVE|H$: $DEFENSE|+=0$"
  CLICK_DISBAND_OPERATIVE:0 "§GKlick§! um diesen Operator zu entlassen"
  CLICK_DISBAND_OPERATIVE_DESC:2 "Sobald der Operator entlassen wurde, kehrt er in den Rekrutierungspool zurück und gibt seinen Platz frei, um einen neuen Operator einzustellen."
- OPERATIVE_CAPTURED_BY:1 "§RCaptured by $CAPTURER|H$.§!"
+ OPERATIVE_CAPTURED_BY:1 "§RErobert von $CAPTURER|H$.§!"
  OPERATIVE_CAPTURED_DAYS_REMAINING:0 "§0Dieser Agent wird getötet, wenn er nicht innerhalb von $DAYS|H$ Tagen gerettet wird!"
  OPERATIVE_CAPTURED_DESC:1 "Der Agent wird festgehalten. Der Kerkermeister führt Verhöre durch, um Informationen über unser Land und unsere Operationen zu erhalten. Wenn er nicht rechtzeitig gerettet wird, wird er hingerichtet."
  OPERATIVE_HARMED_IN_MISSION:0 "§0Verletzt im Einsatz§!"
