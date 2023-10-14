@@ -16,6 +16,7 @@ History
 								Und wieder mehr als 100 kleinere Änderungen.
 2023-07-14		7.0.2.3			Über 150 kleinere Änderungen.
 2023-07-28		7.0.2.4			Über 300 kleinere Änderungen.
+2023-08-27		7.0.2.5			Über 500 kleinere Änderungen.
 
 Roadmap:
 

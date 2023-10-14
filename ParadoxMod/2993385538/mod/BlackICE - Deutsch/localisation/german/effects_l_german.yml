@@ -245,7 +245,7 @@
  EFFECT_DEMOTE_LEADER:0 "Wird zu §HGeneral§ degradiert!"
  EFFECT_GAIN_XP:0 "Erlangt $VALUE|H$ Erfahrung"
  EFFECT_RETIRE_UNIT_LEADER:0 "Geht in den Ruhestand als $TITLE|H$"
- EFFECT_ADD_COMMAND_POWER:0 "£command_power_texticon Befehlskraft: $VAL|=+1$."
+ EFFECT_ADD_COMMAND_POWER:0 "£command_power_texticon Befehlsmacht: $VAL|=+1$."
  EFFECT_EVERY_UNIT_LEADER_STARTS:0 "Jeder Einheitenführer"
  EFFECT_EVERY_ARMY_LEADER_STARTS:0 "Jeder Heerführer"
  EFFECT_EVERY_NAVY_LEADER_STARTS:0 "Jeder Marine-Anführer"

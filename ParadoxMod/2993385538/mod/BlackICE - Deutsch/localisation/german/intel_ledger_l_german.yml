@@ -34,7 +34,7 @@
  INTEL_STATIC_INFO:0 "(§HStatisch§!)"
 
  TARGET_MODIFIER_INTEL:0 "Zielmodifikatoren: $AMOUNT|.1+%%$"
- TARGET_MODIFIER_INTEL_FACTOR:2 "§HIntel-Modifikatoren werden mit $AMOUNT|+%%.1$§ faktorisiert!"
+ TARGET_MODIFIER_INTEL_FACTOR:2 "§HAufklärungs-Modifikatoren werden mit $AMOUNT|+%%.1$§ faktorisiert!"
 
  INTEL_FROM_ALLIES:0 "Von Verbündeten: $AMOUNT|.2+%%$"
  INTEL_FROM_DECRYPTION_TECH:0 "Von Entschlüsselung: $AMOUNT|.2+%%$"

@@ -16,6 +16,7 @@ History
 								And again more than 100 smaller changes.
 2023-07-14		7.0.2.3 		Over 150 minor changes.
 2023-07-28		7.0.2.4 		Over 300 minor changes.
+2023-08-27		7.0.2.5			Over 500 minor changes.
 
 Roadmap:
 
