@@ -26,6 +26,8 @@
  cancel_start_diplo:"[GetDiploStartStop]"
  foreign_minister_start_diplo:"Start Diplomatic Efforts"
  foreign_minister_cancel_diplo:"Stop Diplomatic Efforts"
+ enforce_rationing:0 "Enforce Rationing"
+ 
  ### Military Buildup
  SS_anger_TT:0 "SS §RAnger:§! [?SS_anger_temp|0-]\n"
  wehrmacht_anger_TT:0 "Wehrmacht §RAnger:§! [?wehrmacht_anger_temp|0-]\n"
@@ -408,7 +410,7 @@
  FM_promotion_39_desc:0 "Due to game-mechanics we have to promote Generals earlier to Field Marshal else they will not command any armygroup(Heeresgruppe)."
  
  ###BUL###
- develop_aluminium_mines_sofia:0 "Develop Sofia Aluminium Mines"
+ develop_aluminium_mines_sofia:0 "Develop Sofia Bauxite Mines"
  develop_chromium_mines_plovdiv:0 "Develop Plovdiv Chromium Mines"
  develop_tungsten_mines_plovdiv:0 "Develop Plovdiv Tungsten Mines"
  
@@ -540,7 +542,10 @@
  waging_war:0 "At War"
  SOV_honour_MR_pact:0 "Honour the Molotov - Ribbentrop Pact"
  SOV_honour_MR_pact_desc:0 "Honour the Molotov - Ribbentrop Pact"
+ SOV_2nd_steel_refineries:0 "More §YSteel Mills§! than [GER.GetNameWithFlag]. They have §Y[?GER.num_refinery@steel]§!\n §YOR§! more than §Y[?steel_ref_target]§! §YSteel Mills§!. Current Refinery Count: §Y[?SOV.num_refinery@steel]§!" 
  SOV_2nd_resource_steel:0 "More than §Y[?sov.steel_target]§! £resources_strip|5  extracted by the Soviet Union"
+ SOV_2nd_resource_coal:0 "More than §Y[?sov.coal_target]§! £resources_strip|8  extracted by the Soviet Union (before coal use for energy)"
+ SOV_2nd_resource_iron:0 "More than §Y[?sov.iron_target]§! £resources_strip|9  extracted by the Soviet Union"
  SOV_2nd_resource_oil:0 "More than §Y[?sov.oil_target]§! £oil_icon  extracted by the Soviet Union"
  SOV_JAP_border_clashes:0 "Border Clashes"
  SOV_JAP_border_clashes_desc:0 "The current Situation at the border is\n §R[SOV.GetName] Border Achievements = [?sov.border_strength]§! \n §Y[JAP.GetName] Border Achievements = [?jap.border_strength]§!"
@@ -668,7 +673,7 @@
  rethink_goverment:0 "Rethink Goverment Direction"
  rethink_goverment_desc:0 "Clearly people are unhappy with the current direction we have taken, its time to take a step back and rethink our positions"
  dummy_1:0 "Buildings"
- return_land:0 "Return land for Housing or Farming"
+ return_land:0 "Return Land for Housing"
  return_land_desc:0 "Giving back some state owned land will ensure popular support is ongoing"
  heroic_tales:0 "Heroic Tales"
  heroic_tales_desc:0 "Its important that news from the front stays positive and focuses on the bravery and courage that our soldiers possess"
@@ -1058,3 +1063,52 @@
  war_propaganda_bombing:0 "Bolster Spirits"
  war_propaganda_bombing_desc:0 "Though bombs fall all around us, our brave workers soldier on. It is by this spirit that we will be victorious."
  
+ ############### Foreign MIOs ###############
+ available_mio_tt: "§GAvailable§! as §YMilitary Industrial Organization§!: "
+ foreign_mio_decisions_category: "Invite Foreign Industries"
+ invite_GER_henschel_organization: "Invite §Y$GER_henschel_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_SOV_okmo_organization: "Invite §Y$SOV_okmo_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_ENG_vickers_armstrong_eng_organization: "Invite §Y$ENG_vickers_armstrong_eng_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_ITA_fiat_organization: "Invite §Y$ITA_fiat_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_SOV_nevskoye_design_bureau_organization: "Invite §Y$SOV_nevskoye_design_bureau_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_ENG_yarrow_shipbuilders_organization: "Invite §Y$ENG_yarrow_shipbuilders_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_ITA_crda_organization: "Invite §Y$ITA_crda_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_GER_heinkel_organization: "Invite §Y$GER_heinkel_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_ENG_fairey_aviation_organization: "Invite §Y$ENG_fairey_aviation_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_SOV_ilyushin_design_bureau_organization: "Invite §Y$SOV_ilyushin_design_bureau_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_GER_opel_organization: "Invite §Y$GER_opel_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_ENG_vauxhall_organization: "Invite §Y$ENG_vauxhall_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_ITA_lancia_organization: "Invite §Y$ITA_lancia_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_CZE_skoda_artillery_organization: "Invite §Y$CZE_skoda_artillery_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_FRA_mas_organization: "Invite §Y$FRA_mas_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_JAP_nissan_organization: "Invite §Y$JAP_nissan_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_CZE_ckd_organization: "Invite §Y$CZE_ckd_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_CZE_skoda_armor_organization: "Invite §Y$CZE_skoda_armor_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_FRA_renault_organization: "Invite §Y$FRA_renault_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_JAP_maizuru_naval_arsenal_organization: "Invite §Y$JAP_maizuru_naval_arsenal_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_JAP_mitsubishi_organization: "Invite §Y$JAP_mitsubishi_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_FRA_bloch_organization: "Invite §Y$FRA_bloch_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_GER_junkers_organization: "Invite §Y$GER_junkers_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_GER_mauser_organization: "Invite §Y$GER_mauser_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_ENG_john_brown_organization: "Invite §Y$ENG_john_brown_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+ invite_CZE_ckd_organization_organization: "Invite §Y$CZE_ckd_organization_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
+
+ ############### Generic Purchase Ship ################
+
+  generic_purchase_old_ships_category:0 "Naval Procurement"
+  generic_purchase_old_ships_category_desc:0 "With the world becoming increasingly unstable, we need to expand our naval power projection capabilities. Luckily for us, some of the major navies may be willing to part with their older vessels."
+  purchase_ships_eng:0 "[ENG.GetFlag] Purchase old [ENG.GetAdjective] Destroyers"
+  purchase_ships_sov:0 "[SOV.GetFlag] Purchase old [SOV.GetAdjective] Battleships"
+  purchase_ships_ger:0 "[GER.GetFlag] Purchase old [GER.GetAdjective] U-Boats"
+  purchase_ships_usa:0 "[USA.GetFlag] Purchase old [USA.GetAdjective] Destroyers"
+
+  #### Generic Refit Civilian Ships ####
+  generic_refit_civilian_ships_category: "Military Refit for Civilian Ships"
+  generic_refit_civilian_ships_category_desc: "Our fleet can not realistically hope to compete with the much larger naval forces that threaten us. We must hastily procure a bigger fleet by refitting civilian vessels for military purposes."
+  refit_to_destroyer: "Refit ships to Destroyers"
+  refit_to_cruiser: "Refit ships to Cruisers"
+  
+  #### Special Forces
+  diversify_special_forces: "Diversify Elite Forces"
+  diversify_special_forces_desc: "Our conventional forces simply aren't enough to combat the oncoming storm. We must innovate."
+  add_potential_special_forces_tree_tt: "Adds §H1§! free Special Forces §HBranch Specialism§!"

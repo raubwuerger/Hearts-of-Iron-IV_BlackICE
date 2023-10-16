@@ -1,4 +1,6 @@
-﻿l_english:
+﻿
+
+l_english:
  STATE_1:0 "Corsica"
  STATE_2:0 "Lazio"
  STATE_3:0 "Switzerland"
@@ -940,7 +942,7 @@
  STATE_931:0 "Northern Dobruja"
  STATE_932:0 "Krasnoyarsk"
  STATE_933:0 "Nakhodka"
- STATE_934:0 "Lesotho"
+ STATE_934:0 "Mazaruni"
  STATE_935:0 "Swaziland"
  STATE_936:0 "Amazonas"
  STATE_937:0 "Vaupes"
