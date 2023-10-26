@@ -491,3 +491,5 @@
  upgrade_underground_contacts_desc:0 "§0Es gibt viele Diplomaten, Bürokraten und Geschäftsleute, die mit unserer Sache (oder unserem Geld) sympathisieren."
  upgrade_security_department:0 "Geheimdienstliche Informationen"
  upgrade_security_department_tt:0 "\n Kann Spionageabteilungsverbesserungen auf §G80%§ einsehen! Zivile Informationen"
+
+ kill_trotsky:0 "Ermorden Sie Trotzki"

@@ -59,7 +59,7 @@
  allied_anger:0 "§Verbundener Zorn§! [?GER.allied_anger|0R]"
  allied_anger_desc:0 "Aktueller §RAliied Anger§!: [?GER.allied_anger|0R]"
  allied_anger_trait:0
- #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder des Commonwealth\n[Root.GetAA3] §R3§! - Politische Macht: §G+150§!\n§ [Root.GetAA5] §R5§! - Erhalten Sie Basiskriegsunterstützung: §G+10 %§! \n[Root.GetAA8] §R8§! - Wirtschaftsgesetz in „§YFrühe Mobilisierung§!“ ändern\n[Root.GetAA10] §R10§! - Erhalte Basiskriegsunterstützung: §G+10§!\n[Root.GetAA12] §R12§! - Modifikatoren von §YThe War to End All Wars§ reduzieren!\n[Root.GetAA15] §R15§! - Basismobilisierungsgeschwindigkeit erhöhen: §G+15 %§!\n[Root.GetAA16] §R16§! - Militärkommandokosten reduzieren: §G-25%§!\n[Root.GetAA18] §R18§! - Mobilisierung in „§YLimited§!“ ändern\n[Root.GetAA20] §R20§! - Handelsmeinung mit [GER.GetNameWithFlag]: §R-50§!\n[Root.GetAA24] §R24§! - Wirtschaftsgesetz in „§YTeilmobilisierung§!“ ändern\n[Root.GetAA26] §R26§! - Wirtschaftsgesetz in „§YWar Economy§!“ ändern\n[Root.GetAA28] §R28§! - Erstellt zusätzliche Infanteriedivisionen in der Hauptstadt\n[Root.GetAA30] §R30§! - Erhält Nationalgeist §YEnde der Beschwichtigung§!"
+ #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder des Commonwealth\n[Root.GetAA3] §R3§! - Politische Macht: §G+150§!\n§ [Root.GetAA5] §R5§! - Erhalten Sie Basiskriegsunterstützung: §G+10 %§! \n[Root.GetAA8] §R8§! - Wirtschaftsgesetz in "§YFrühe Mobilisierung§!" ändern\n[Root.GetAA10] §R10§! - Erhalte Basiskriegsunterstützung: §G+10§!\n[Root.GetAA12] §R12§! - Modifikatoren von §YThe War to End All Wars§ reduzieren!\n[Root.GetAA15] §R15§! - Basismobilisierungsgeschwindigkeit erhöhen: §G+15 %§!\n[Root.GetAA16] §R16§! - Militärkommandokosten reduzieren: §G-25%§!\n[Root.GetAA18] §R18§! - Mobilisierung in "§YLimited§!" ändern\n[Root.GetAA20] §R20§! - Handelsmeinung mit [GER.GetNameWithFlag]: §R-50§!\n[Root.GetAA24] §R24§! - Wirtschaftsgesetz in "§YTeilmobilisierung§!" ändern\n[Root.GetAA26] §R26§! - Wirtschaftsgesetz in "§YWar Economy§!" ändern\n[Root.GetAA28] §R28§! - Erstellt zusätzliche Infanteriedivisionen in der Hauptstadt\n[Root.GetAA30] §R30§! - Erhält Nationalgeist §YEnde der Beschwichtigung§!"
  #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §YAllied Faction§!\nJeder zusätzliche §RAliied Anger§! erhöht die Boni um §G2%§!"
  show_allied_anger:0 "[!allied_anger_test_click]"
  allied_anger_TT_0:0 "§Der Zorn der Alliierten§!\n"
@@ -107,9 +107,9 @@
  mobilize_now_TT:0 "[From.GetName] startet §RMobilizing§!\n"
 
  EQUIPMENT_STATUS:0 "[Root.GetSelectedEquipment]"
- WIP_TT:0 "„Derzeit in Bearbeitung. \n Öffnen Sie die Konsole und geben Sie „set_global_flag wip“ ein, dann „reload core.gui“, um den Ausrüstungshandel zu aktivieren.“ #Equipment Import"
+ WIP_TT:0 ""Derzeit in Bearbeitung. \n Öffnen Sie die Konsole und geben Sie "set_global_flag wip" ein, dann "reload core.gui", um den Ausrüstungshandel zu aktivieren." #Equipment Import"
 
- BICE_CONTROL_PANEL:0 "„Black ICE Control Panel öffnen“ #maybe Control Center"
+ BICE_CONTROL_PANEL:0 ""Black ICE Control Panel öffnen" #maybe Control Center"
  EXTEND_TOP_BAR:0 "Verlängern Sie die obere Leiste"
  UNEXTEND_TOP_BAR:0 "Obere Leiste ausfahren"
 
@@ -1018,7 +1018,7 @@
 
  CHANCE_OUTCOME_1:0 "£decision_icon_small Exploit §Y[?chance_target.GetName]§! Ergebnis"
  
- AI_TECH_LIST_TT:0 "Wir arbeiten an der Implementierung von KI-Tech-Listen, ähnlich einer Fokusliste, denen die KI bei ihrer Forschung folgen wird. Wir hoffen, dass dies die KI-Forschung auf ein anspruchsvolles Niveau bringt und gleichzeitig die KI dazu zwingt, die Forschungsplatzbeschränkungen zu nutzen.\n\n Wie können Sie uns nun helfen? Wenn Sie der Meinung sind, dass Ihre Forschungsauswahl gut ist, können Sie ein Spiel spielen und uns Ihre Forschungsauswahl senden! Zu diesem Zweck haben wir eine kleine Veranstaltung hinzugefügt, die die in Ihrem Land erforschten Technologien rettet, wenn Sie §YSave Techs§ ankreuzen! Wenn Sie auf §YDrucken§! klicken, werden sie in der Datei „documents/PDX/HOI4/logs/game.txt“ ausgedruckt."
+ AI_TECH_LIST_TT:0 "Wir arbeiten an der Implementierung von KI-Tech-Listen, ähnlich einer Fokusliste, denen die KI bei ihrer Forschung folgen wird. Wir hoffen, dass dies die KI-Forschung auf ein anspruchsvolles Niveau bringt und gleichzeitig die KI dazu zwingt, die Forschungsplatzbeschränkungen zu nutzen.\n\n Wie können Sie uns nun helfen? Wenn Sie der Meinung sind, dass Ihre Forschungsauswahl gut ist, können Sie ein Spiel spielen und uns Ihre Forschungsauswahl senden! Zu diesem Zweck haben wir eine kleine Veranstaltung hinzugefügt, die die in Ihrem Land erforschten Technologien rettet, wenn Sie §YSave Techs§ ankreuzen! Wenn Sie auf §YDrucken§! klicken, werden sie in der Datei "documents/PDX/HOI4/logs/game.txt" ausgedruckt."
  MAIN_MENU_STEAM_TEST_LINK:0 "§Chttps://steamcommunity.com/sharedfiles/filedetails/?id=1851181613§!"
  MAIN_MENU_DISCORD_LINK:0 "§Chttps://discord.gg/kYYbrAA§!"
  MAIN_MENU_GUIDE_LINK:0 "§Chttps://steamcommunity.com/sharedfiles/filedetails/?id=2366487639§!"
@@ -1798,7 +1798,7 @@
  STEEL_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0 "£resources_strip|5 §ROutput bei voller Energie: [?deficit_flat]§!"
 
  ASSIGNED_STEEL_REFINERIES_TOOLTIP:0 "§YRefineries§!\nWir haben insgesamt [?num_refinery@steel|Y0]£resources_strip|5 Raffinerien, von denen [?num_refinery_assigned@steel|Y0] zugewiesen sind.\n\n[?num_active_refinery@steel|Y1] Raffinerien sind §Oactive§!\n[?num_refinery_inactive@steel|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@steel|Y1] Raffinerien sind §Rdamaged§!"
- ALERT_STEEL_REFINERY_TOOLTIP: "§YKlick§! um die Anzeige von §Yunassigned Refineries§ umzuschalten! auf der Registerkarte „Handel“ klicken"
+ ALERT_STEEL_REFINERY_TOOLTIP: "§YKlick§! um die Anzeige von §Yunassigned Refineries§ umzuschalten! auf der Registerkarte "Handel" klicken"
 
  STEEL_REFINERY_ENTRY_TOOLTIP:0 "[!assign_steel_refinery_tooltip_click]"
 
@@ -2017,11 +2017,11 @@
  export_focus_stats: "£resources_texticon §Y40% - 60%§! £ore_resources_texticon §Y30% - 50%§! £food_resources_texticon §Y40% - 60%§!"
  limited_exports_stats: "£resources_texticon §Y15% - 35%§! £ore_resources_texticon §Y5% - 25%§! £food_resources_texticon §Y15% - 35%§!"
  closed_economy_stats: "£resources_texticon §Y0%§! £stability_texticon §R-0.10%§!"
- tax_minimal_stats: "„£stability_texticon §G+0.40%§!“ #£law_budget §Y+2§!"
- tax_low_stats: "„£stability_texticon §G+0.20%§!“ #£law_budget §Y+5§!"
+ tax_minimal_stats: ""£stability_texticon §G+0.40%§!" #£law_budget §Y+2§!"
+ tax_low_stats: ""£stability_texticon §G+0.20%§!" #£law_budget §Y+5§!"
  tax_average_stats: " #£law_budget §Y+8§!"
- tax_high_stats: "„£stability_texticon §R-0.20%§!“ #£law_budget §Y+12§!"
- tax_extreme_stats: "„£stability_texticon §R-0.40%§!“ #£law_budget §Y+15§!"
+ tax_high_stats: ""£stability_texticon §R-0.20%§!" #£law_budget §Y+12§!"
+ tax_extreme_stats: ""£stability_texticon §R-0.40%§!" #£law_budget §Y+15§!"
  press_free_stats: "£war_support_texticon §R-0.10%§!"
  press_regulated_stats: " "
  press_censored_stats: "£stability_texticon §G+0.10%§!"
@@ -2502,7 +2502,7 @@ RUBBER_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|3 §YRubber§! uns
  LACK_OF_FUEL_3_TOOLTIP: "[!lack_of_fuel_bg_click][!lack_of_fuel_3_click]"
 
  INVASION_WARNING_TEXT: "Kräfte von §Y[?ui_invader_country.GetNameWithFlag]§! haben erfolgreich eine §CMarineinvasion§ durchgeführt! bei [?ui_invaded_state.GetName]!"
- INVASION_WARNING_DISABLE: "Feindliche Invasionen werden in diesem Popup nicht mehr angezeigt. Dies kann in den Benachrichtigungseinstellungen im Reiter „Entscheidung“ wieder aktiviert werden"
+ INVASION_WARNING_DISABLE: "Feindliche Invasionen werden in diesem Popup nicht mehr angezeigt. Dies kann in den Benachrichtigungseinstellungen im Reiter "Entscheidung" wieder aktiviert werden"
 
  ai_global_map_radar_states_tooltip: "§RRred§!: voreingestellte Radarzustände\n§GGreen§!: Neue dynamische Radarzustände\n§CBlue§!: Radar durch Effekte/Fokus/Ereignis hinzugefügt"
  ai_global_map_front_states_tooltip: "§RRred§!: Frontstaaten\n§GGreen§!: nahegelegene Frontstaaten (100px)\n§CBlue§! Nahe gelegene Frontstaaten (150 Pixel)"
@@ -2522,7 +2522,7 @@ RUBBER_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|3 §YRubber§! uns
  MAIN_MENU_ENERGY: "Baue oder erobere §YKraftwerke§! und versorge sie mit §YKohle§! oder §YKraftstoff§! um §YEnergie§! zu erzeugen, die Ihre Branche zum Funktionieren benötigt. Wasserkraftwerke können nicht gebaut werden, können aber durch bestimmte Schwerpunkte oder Ereignisse erworben werden, sofern dies historisch möglich ist. Sie können die Energiesituation Ihres Landes im §CTrade Tab§!, im §CEnergy§! einsehen. Fenster."
  MAIN_MENU_REFINERY: "§YStahl, Aluminium, synthetischer Kraftstoff und synthetischer Gummi§! werden jetzt über §YRaffinerie§ hergestellt! Gebäude, versorgt entweder mit §YEisen, Kohle§! oder §YBauxit§! und §YEnergie§!. Weisen Sie Raffinerien für die Produktion zu und verwalten Sie Ressourcendefizite im §CTrade Tab§!, im §CConversion§! Fenster."
  MAIN_MENU_ENGINE_ARTILLERY: "Bisherige Ausrüstungsfabriken außer Schiffs- und Unterwerften werden durch §YEngine§ ersetzt! & §YArtilleriekapazität§!. Diese Gebäude generieren, ähnlich wie Panzer- und Flugzeugbaugruppen, Ressourcen für die Ausrüstungsproduktion. Eine Übersicht finden Sie im §CProduktions-Tab§!."
- MAIN_MENU_TECHNOLOGIES: "Auch am Technologiebaum gab es einige Änderungen. Die neue Registerkarte „Ressourcenherstellung“ besteht aus neu hinzugefügten Technologien, die Aspekte von Nahrungsmitteln, Energiemanagement und Raffinerien verbessern, während einige bereits bekannte Technologien wie Ausgrabung, Medizin und Kraftstofftechnologien ebenfalls hier zu finden sind."
+ MAIN_MENU_TECHNOLOGIES: "Auch am Technologiebaum gab es einige Änderungen. Die neue Registerkarte "Ressourcenherstellung" besteht aus neu hinzugefügten Technologien, die Aspekte von Nahrungsmitteln, Energiemanagement und Raffinerien verbessern, während einige bereits bekannte Technologien wie Ausgrabung, Medizin und Kraftstofftechnologien ebenfalls hier zu finden sind."
 
  MAIN_MENU_END: "Vielen Dank, dass Sie die Zusammenfassung gelesen haben. Wenn Sie noch Fragen haben, können Sie sich gerne über unseren offiziellen Discord-Server an uns wenden. \nWir hoffen, dass Ihnen die Herausforderungen der Branchenüberarbeitung und der Veröffentlichung von Arms Against Tyranny gefallen."
 

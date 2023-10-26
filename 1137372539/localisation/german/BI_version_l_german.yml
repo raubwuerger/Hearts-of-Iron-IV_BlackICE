@@ -5,11 +5,11 @@
 #-Also adjust GetVersion in common/scripted_localisation/ 
 BICE_mod_type: "§YMain Version§!"
  BICE_version:0 "v8.0.1"
- BICE_checksum:0 "„fa6f“ #Vergessen Sie nicht, das Git-Zeug vor dem Hochladen zu entfernen"
+ BICE_checksum:0 ""fa6f" #Vergessen Sie nicht, das Git-Zeug vor dem Hochladen zu entfernen"
 #--------------------------------- 
 
  BICE_STARTUP_TITLE:0 "v8.0"
- BICE_STARTUP_DESC:0 "Aktualisiert für Kompatibilität mit HOI IV v1.13.1 und dem DLC „Arms Against Tyranny“."
+ BICE_STARTUP_DESC:0 "Aktualisiert für Kompatibilität mit HOI IV v1.13.1 und dem DLC "Arms Against Tyranny"."
 BICE_STARTUP_GENERAL_DESC:0 ""
 
 BICE_checksum_and_desc:0 "Die folgende Prüfsumme sollte sein: ($BICE_checksum$)"
