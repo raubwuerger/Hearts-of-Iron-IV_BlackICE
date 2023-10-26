@@ -1,52 +1,53 @@
 ﻿l_german:
- #BICE version # ""
+#BICE version # 
 
- ### IMPORTANT ### ""
- #-Also adjust GetVersion in common/scripted_localisation/ ""
- BICE_version:0 "Schwarzer ICE 7.0.2"
- BICE_checksum:0 "4412"
- #--------------------------------- ""
+### IMPORTANT ### 
+#-Also adjust GetVersion in common/scripted_localisation/ 
+BICE_mod_type: "§YMain Version§!"
+ BICE_version:0 "v8.0.1"
+ BICE_checksum:0 "„fa6f“ #Vergessen Sie nicht, das Git-Zeug vor dem Hochladen zu entfernen"
+#--------------------------------- 
 
- BICE_STARTUP_TITLE:0 "Black ICE v7.0"
- BICE_STARTUP_DESC:0 "Aktualisiert für Kompatibilität mit HOI IV v1.12 und dem DLC "By Blood Alone"."
- BICE_STARTUP_GENERAL_DESC:0 ""
+ BICE_STARTUP_TITLE:0 "v8.0"
+ BICE_STARTUP_DESC:0 "Aktualisiert für Kompatibilität mit HOI IV v1.13.1 und dem DLC „Arms Against Tyranny“."
+BICE_STARTUP_GENERAL_DESC:0 ""
 
- BICE_checksum_and_desc:0 "Die Prüfsumme sollte sein: ($BICE_checksum$)"
- BICE_checksum_desc:0 "Prüfsumme sollte sein:"
+BICE_checksum_and_desc:0 "Die folgende Prüfsumme sollte sein: ($BICE_checksum$)"
+BICE_checksum_desc:0 "Prüfsumme sollte sein:"
 
- #LAND ""
+ #LAND 
  BICE_STARTUP_LAND_UPDATE_TITLE:0 "KI"
  BICE_STARTUP_LAND_UPDATE_DESC:0 " - Die KI-Luftproduktion wurde überarbeitet und ist jetzt durch die Obergrenze der Luftwaffe begrenzt. \n - Neue Marine-Invasions-KI, die eine viel bessere Risikoeinschätzung ermöglicht und es ihr ermöglicht, schwache Garnisonen dynamisch auszunutzen"
- #AIR ""
+ #AIR 
  BICE_STARTUP_AIR_UPDATE_TITLE:0 "Luftwechsel mit 1.12"
  BICE_STARTUP_AIR_UPDATE_DESC:0 "Mit 1,12 Airwings gibt es jetzt feste Größen von 50/25 Flugzeugen für Landairwings und 5 für Trägerairwings. Ein Flugzeugkonstrukteur ist geplant, aber vorerst bleiben Flugzeuge einzigartige Technologien."
  #Former_version_text:0 "Flugzeuge und Luftkämpfe wurden umfassend überarbeitet. Die Daten für jedes Flugzeug wurden überprüft und auf der Grundlage gemeinsamer Formeln für Feuerkraft, Verteidigung, Agilität und Kosten angepasst. Die Reichweiten-/Nutzlastdaten wurden basierend auf typischen Reichweiten bei bestimmten Lasten angepasst. Die Luftkampfwerte wurden überarbeitet, um zu höheren Einsatz- und Kampfverlusten zu führen. Air Tech Trees wurden überprüft, in einigen Fällen neu organisiert und aufgeräumt. Die folgenden neuen Flugzeugtypen wurden hinzugefügt; Leichter Jäger, Marine-Mehrzweckflugzeug, Marine-Abfangjäger, Träger-Mehrzweckflugzeug, Nachtjäger, Schwerer Marinebomber, Marinebomber (gelenkte Bomben). In Ländern ohne Transportflugzeugmodelle wurden Transportflugzeugmodelle hinzugefügt."
- #NAVAL ""
+ #NAVAL 
  BICE_STARTUP_NAVY_UPDATE_TITLE:0 "Andere Änderungen"
  BICE_STARTUP_NAVY_UPDATE_DESC:0 " - Überarbeitete Eigenschaften von Landanführern. \n - Änderungen am Ressourcenvorratsystem und an der Benutzeroberfläche"
- #Politics ""
+ #Politics 
  BICE_STARTUP_FOCUS_UPDATE_TITLE:0 "Bekannte Probleme für diese Version"
  BICE_STARTUP_FOCUS_UPDATE_DESC:0 "-Minderjährige haben (noch) keine Panzerbäume\n"
 
- #NATIONAL FOCUS ""
+ #NATIONAL FOCUS 
  #BICE_STARTUP_FOCUS_UPDATE_DESC:0 "Wir haben mehrere Probleme behoben und einige Nationenschwerpunkte für TUR, ENG, RAJ und HUN optimiert. Wir haben der generischen NF einige bessere Optionen für die menschliche Kontrolle über Mikronationen gegeben. Wir haben die Fokusboni für die kontinuierliche Luftproduktion reduziert."
 
- #EQUIPMENT ""
+ #EQUIPMENT 
  BICE_STARTUP_EQUIPMENT_UPDATE_TITLE:0 "AUSRÜSTUNG"
  BICE_STARTUP_EQUIPMENT_UPDATE_DESC:0 "Wir haben die Trainingszeit für Rüstungen standardisiert. Gitter zum Pz38(t) verschoben. Es wurden einige kleinere Stats-Anpassungen für die Rüstung vorgenommen. Mehrere Ereignisse für GER überarbeitet/korrigiert, z. B. 24. Pz-Div, 72. Inf-Div, 13. Pz-Div. Mehrere Fehler an der Ausrüstung für Feldlazarett, Wartungsunterstützung und Mot-Signal behoben. Reduzierte Schulungszeit für Netzwechselstrom. Ersetzte den Coelian für den Wirbelwing für die Pzgren-Div Gross-Deutschland. Sherman Firefly-Ereignisse wurden behoben. Transportdefinition für Panzerbataillone hinzugefügt. Die Starteinheitenvorlagen für SOV wurden geändert."
 
- #AI ""
+ #AI 
  BICE_STARTUP_AI_UPDATE_TITLE:0 "KI"
  BICE_STARTUP_AI_UPDATE_DESC:0 " -Neue Marine-Invasions-KI \n -Überarbeitete KI-Luftproduktion \n -Die KI ist jetzt bei der Produktion von Flugzeugen durch die Obergrenze für die Luftmontage begrenzt"
 
- #MISC ""
+ #MISC 
  BICE_STARTUP_MISC_UPDATE_TITLE:0 "SONSTIG"
  BICE_STARTUP_MISC_UPDATE_DESC:0 "Wir haben einige Leistungsoptimierungen für die ENG-Adressen-USA-Konferenz vorgenommen. Große Leistungsverbesserung. Mögliche Lösung für den Speicherfehler. FIELD_EXPERIENCE_SCALE, FIELD_EXPERIENCE_MAX_PER_DAY, AIR_WING_XP_LOSS_WHEN_KILLED in den Definitionen gesenkt. Wir haben versucht, das Problem mit dem Flackern der Karte zu beheben."
 
- #FUTURE ""
+ #FUTURE 
  BICE_STARTUP_FUTURE_UPDATE_TITLE:0 "Nächste Funktionen, an denen gearbeitet wird:"
  BICE_STARTUP_FUTURE_UPDATE_DESC:0 "\n Panzerbäume für Minderjährige \n Politik-Überarbeitung \n Flugzeugdesigner \n Commonwealth-Überarbeitung \n Industrie-Überarbeitung \n China-Überarbeitung \n Italienischer Waffenstillstands-Überarbeitung \n Verbessertes HSD (einschließlich DD/SS) \n 3D-Modelle für Land, Panzer und Marineeinheiten \n Leistungs- und KI-Verbesserungen"
- #### END STARTUP MENU #### ""
+ #### END STARTUP MENU #### 
 
  BI_P_DELETE_UNITS_TT:0 "Löscht die Einheiten aller ausgewählten Länder."
 
@@ -77,7 +78,7 @@
 
  TEST_TOOLTIP_HERE:0 "[BI_AI_GetInfantryIC] NAME"
  CLICK_NO_EFFECT_TT:0 "§YKlick§! Dies hat im Moment keine Auswirkungen."
- #COUNTRY DESC ""
+ #COUNTRY DESC 
 
  BI_GER_MM_TITLE:0 "Deutschland am Scheideweg"
  BI_GER_MM_DESC:0 "Es ist der 1. Januar 1936.\n\n In zwei Jahren jährt sich die Schande der Niederlage im Ersten Weltkrieg zum 20. Mal. Zwanzig Jahre Alleinschuld an einem von außen aufgezwungenen Krieg zur Verteidigung des Reiches! \n\nNach der Niederlage im Jahr 1918 stürzte das Deutsche Reich in eine instabile Demokratie, die sogenannte Weimarer Republik. So begannen die 20er Jahre mit einem Putsch (Kapp-Putsch), der die junge Demokratie bereits an den Rand des Zusammenbruchs führte, der nur durch den größten Generalstreik in der deutschen Geschichte abgewendet werden konnte. Schließlich machte sich 1923 ein gewisser Adolf Hitler daran, mit einem eigenen Putsch die Macht im Land zu übernehmen – und scheiterte kläglich. \n\nDie darauffolgende Zeit ist heute als die "Goldenen Zwanziger" bekannt – eine Zeit der Unbeschwertheit, des wirtschaftlichen Aufschwungs und der künstlerischen und kulturellen Blüte. Das Kino, große Partys und extravagante Mode begeisterten die Massen und ließen den verlorenen Krieg bei vielen fast vergessen. Dann kam 1929 die Weltwirtschaftskrise. \n\nAll die Ängste, Sorgen und Nöte, die überwältigenden Reparationsforderungen der Siegermächte des Ersten Weltkriegs rückten mit der Macht wieder auf die deutsche Agenda. Auch die Unterlegenheit des von den USA dominierten kapitalistischen Systems war für alle Deutschen offensichtlich. \n\nDer Untergang der jungen Weimarer Republik im Jahr 1933 und die Wahl Adolf Hitlers zum Reichskanzler waren nur logisch. Wo die anderen politischen Parteien durch Streit und Streit auf sich aufmerksam machten, bot die NSDAP einfache Lösungen für schwierige Fragen. \n\nUnd tatsächlich läuft es in Deutschland seit drei Jahren anders. Man spürt das allgegenwärtige Erwachen und die Hoffnung auf ein neues Zeitalter. In dieser kurzen Zeit führte die Kanzlerin Deutschland zur Vollbeschäftigung und warf die Fesseln des Versailler Vertrags fast vollständig ab. \n\nWir stehen vor einer neuen Epoche. Die Epoche des Tausendjährigen Reiches. In nicht ferner Zukunft werden Luftschiffe Deutschland und den Rest der Welt verbinden. Mit über 200 km/h rasen die Züge ihrem Ziel entgegen. Die im letzten Jahr gegründete deutsche Luftwaffe wird unsere Überlegenheit im militärischen Bereich unter Beweis stellen. Unsere Armee ist nicht mehr die leere Hülle, die sie einmal war – wir sitzen wieder am Tisch, als Weltmacht. \n\nIn weniger als zwei Monaten und später in diesem Jahr werden wir in der Lage sein, uns der Welt als friedliebende Nation als Gastgeber der Olympischen Winter- und Sommerspiele zu präsentieren. \n\nFriedensliebend. Natürlich. Nur diese kleinen, aber wichtigen Details der noch besetzten deutschen Gebiete müssen geklärt werden. Das besetzte Rheinland – inakzeptabel. Die vom künstlichen Staat Polen besetzten Gebiete im Osten sind ungeheuerlich. Und sollten nicht auch alle deutschsprachigen Menschen in einem Staat zusammengeführt werden? Werden in unserem Nachbarstaat nicht gerade in diesem Moment diejenigen schikaniert und bedroht, die genauso denken? Was wird mit unseren verlorenen Kolonien passieren? \n\nWer könnten Verbündete auf unserem Weg zum Ruhm sein? Italien mit Mussolini an der Spitze? Kann man ihm wirklich vertrauen? Andererseits wäre er ideologisch der logische Verbündete. Ungarn? Schließlich war Gyula Gömbös nach der Machtergreifung des Führers der erste ausländische Premierminister auf offiziellem Staatsbesuch und baute diese besondere Beziehung seitdem weiter aus."
@@ -100,10 +101,10 @@ BI_ENG_MM_TITLE:0 "Ein Imperium aufrechterhalten"
  BI_JAP_MM_TITLE:0 "Wohlstand für Asien"
  BI_JAP_MM_DESC:0 "Der Aufbau eines starken Militärs ist für die Verfolgung der strategischen Interessen Japans von wesentlicher Bedeutung. Japan war regelmäßig in Kriege und Territorialstreitigkeiten in Übersee verwickelt, verfolgte im Rahmen seines Bündnisses mit dem Vereinigten Königreich eine Expansionspolitik und suchte nach Gebieten in China, Korea und Sibirien . Nach dem Krieg gegen Russland in den Jahren 1904–1905 verstärkte sich der Nationalismus und löste eine neue Phase der kontinentalen Expansion aus. \n\nJapans Eintritt in den Ersten Weltkrieg war daher eher ein opportunistisches Manöver. Nachdem es die meisten seiner militärischen Aufstockungsbemühungen in der Folge unternommen hatte In der zweiten Hälfte des 19. Jahrhunderts beschränkte sich das Engagement des Landes auf den Krieg mit Deutschland um chinesische Gebiete und war nicht sehr kostspielig. Als Teil der siegreichen Alliierten ermöglichte es Japan jedoch, seinen Einfluss in Asien und im Pazifik auszuweiten. Gegen Ende Nach Kriegsende erfüllte Japan zunehmend Aufträge für seine europäischen Verbündeten, förderte die industrielle Diversifizierung des Landes und verwandelte Japan erstmals in einen Nettoexporteur von Waren.\n\nDie Nachkriegszeit bescherte Japan unmittelbar nach dem Krieg einen beispiellosen Wohlstand. Im Jahr 1918 war Japan nach den USA das zweitgrößte Gläubigerland der Welt. Es nahm an der Pariser Friedenskonferenz 1919 als eine der größten internationalen Militär- und Industriemächte der Welt teil und wurde in den ausgewählten Kreis der ständigen Mitglieder des Rates des Völkerbundes katapultiert. Eine solche Anerkennung brachte erhebliche wirtschaftliche Vorteile.\n\nAber die wirtschaftlichen Folgen der weltweiten Depression und der mit der Rückkehr zum Goldstandard verbundenen Aufwertung des Yen waren erheblich. In den Jahren 1930 und 1931 kam es zu einer heftigen Deflation und einem starken Rückgang der Wirtschaftstätigkeit – der Shōwa-Depression. Zwanzig Terroranschläge, vier Putschversuche und vier politische Attentate allein seit 1930 erzählen die Geschichte eines Landes am Abgrund und kennzeichnen die Erosion der zivilen Autorität und damit auch die strukturelle Integrität der staatlichen Machtstruktur Tokios.\n\nObwohl sich Japan davon erholte Da die Auswirkungen der Weltwirtschaftskrise viel schneller zu spüren sind als bei anderen Großmächten, ist die Unsicherheit, in welche Richtung sich das Land entwickeln wird, derzeit enorm. \n \"Asien den Asiaten\"? Oder wird es "Frieden und Wohlstand für alle" sein? \n\nZunehmende Spannungen mit den Warlords in China sowie dem alten Feind im Norden, der jetzt Sowjetunion heißt, lassen wenig Hoffnung auf ein friedliches nächstes Jahrzehnt aufkommen. Und dann sind da noch die Vereinigten Staaten, die seit der Einnahme der Mandschurei im Jahr 1931 eine zunehmend kühle Haltung gegenüber Japan entwickeln ..."
 
- # MISC # ""
+ # MISC # 
  TITLE_COMING_SOON:0 "COMING SOON"
 
- # WEB-links # ""
+ # WEB-links # 
  MENU_BICE_ARCHIVE:0 "Black ICE Version Archives (https://forum.paradoxplaza.com/forum/index.php?threads/version-archive-blackice.1062386/#post-24376573)"
  MENU_BICE_WIKI:0 "Black ICE Wiki (https://black-ice-hearts-of-iron-iv.wikia.com/)"
  MENU_BICE_FORUM:0 "Black ICE Forum (https://forum.paradoxplaza.com/forum/index.php?forums/blackice-user-mod.966/)"
