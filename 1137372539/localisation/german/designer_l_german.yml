@@ -1,7 +1,7 @@
 ﻿l_german:
 DESIGNER_LOCKED:0 "§RLocked§!"
-DESIGNER_ADD:0 "§GKlick zum Hinzufügen§!"
-DESIGNER_CHANGE:0 "§GKlick zum Ändern§!"
+DESIGNER_ADD:1 "§GKlick zum Hinzufügen§!"
+DESIGNER_CHANGE:1 "§GKlick zum Ändern§!"
  DESIGNER_CHANGE_REMOVE: "§Gshift+Klick§! zu entfernen"
  DESIGNER_DUPLICATE_TO_MODIFY:0 "§RDuplizieren der Vorlage zum Ändern§!"
  DESIGNER_BLOCKED: "Dieser Bataillon-Slot ist §gesperrt§!"

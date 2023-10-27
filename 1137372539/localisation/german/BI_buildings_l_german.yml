@@ -3,13 +3,16 @@
  steel_refinery:0 "Stahlwerk"
  steel_refinery_desc:0 "Dieses Gebäude wandelt Eisen in Stahl um.$steel_refinery_effect$"
  steel_refinery_plural:0 "Stahlwerke"
- Steel_refinery_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GYJa§!\n\nBasisproduktion im Staat: §Y+30§!£resources_strip|5 \n\ nEnergiebedarf: §R5§!£electricity_medium "
+ steel_refinery_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GYJa§!\n\nBasisproduktion im Staat: §Y+30§!£resources_strip|5 \n\ nEnergiebedarf: §R5§!£electricity_medium "
+
  aluminium_refinery:0 "Aluminiummühle"
  aluminium_refinery_plural:0 "Aluminiummühlen"
  aluminium_refinery_desc:0 "Dieses Gebäude wandelt Bauxit in Aluminium um.$aluminium_refinery_effect$"
  aluminium_refinery_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GYJa§!\n\nBasisproduktion im Staat: §Y+20§!£resources_strip|2 \n\ nEnergiebedarf: §R15§!£electricity_medium "
+
  synthetic_rubber_refinery:0 "Raffinerie für synthetischen Kautschuk"
  synthetic_rubber_refinery_desc:0 "Dieses Gebäude versorgt den Staat mit der Produktion von synthetischem Kautschuk.\n\nMax. Level: §Y4§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GYJa§!\n\nGrundproduktion im Staat: §Y+6§! £resources_strip|3 \n\nEnergiebedarf: §R15§!£electricity_medium"
+ synthetic_rubber_refinery_plural:0 "Raffinerien für synthetischen Kautschuk"
 
  police_station:0 "Polizeistation"
  police_station_desc:0 "Dieses Gebäude stellt dem Staat Mittel zur Verfügung, um Partisanenaktivitäten zu verhindern.\n\nMax Stufe: §Y1§!\nGebäudezustand: §Y0§!\nInfrastruktur-Effekt: §RNo§! \n\n$police_station_effect$"
@@ -18,14 +21,16 @@
  recruitment_building_desc:0 "Dieses Gebäude stellt dem Staat Mittel zur Verfügung, um die Wehrpflicht zuverlässiger durchzusetzen.\n\nMax. Stufe: §Y1§!\nGebäude Gesundheit: §Y0§!\nInfrastruktur-Effekt: §RNo§!"
  modifier_production_speed_recruitment_building_factor:0 "§YRekrutierungszentrum§! Baugeschwindigkeit"
 
- Speicher: "Ressourcenspeicher"
+ storage: "Ressourcenspeicher"
  storage_plural: "Ressourcenspeicher"
  storage_desc: "Dieses Gebäude bietet dem Staat die Möglichkeit, §YRessourcen§! zu speichern. Nach seiner Errichtung kann es einer §Y1§!-spezifischen Ressource zugewiesen werden.$storage_effect$"
  storage_effect: "\n\nMax. Level: §Y1§!\nGebäudezustand: §Y1§!\nInfrastruktureffekt: §GYes§!\n\nSpeicherkapazität: §Y+50§! Einheiten von §YImport§!"
+
  farm:0 "Industrieller Bauernhof"
  farm_plural:0 "Industriebetriebe"
  farm_desc:0 "Mechanisierte Landwirtschaft in größerem Maßstab, Steigerung der Produktion von §YLebensmitteln§!.$farm_effect$"
  farm_effect: "\n\nMax. Level: §Y1§!\nGebäudezustand: §Y0§!\nInfrastruktureffekt: §GYes§!\n\nBasisproduktion im Bundesstaat:"
+
  food_storage: "Lebensmittellagerung"
  food_storage_plural: "Lebensmittellager"
  food_storage_desc: "Dieses Gebäude bietet dem Staat die Möglichkeit, §YFood§! zu lagern.$food_storage_effect$"

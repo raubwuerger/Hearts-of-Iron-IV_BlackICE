@@ -161,6 +161,7 @@
  EFFECT_RECRUIT_CHARACTER:0 "Rekrutiere $NAME|H$"
  EFFECT_RETIRE_CHARACTER:0 "Scheidet $NAME|H$ aus $COUNTRY|Y$ aus"
  EFFECT_ADD_TIMED_IDEA:0 "Erhält '$IDEA|H$', der ($DESC$) für $DAYS|H$ Tage gewährt.\n"
+ EFFECT_TIMED_IDEA_TIME_VALUE: "$VALUE|0H$"
  TIMED_IDEA_DATE:0 "§HWird entfernt $DATE$§!."
  IDEA_EXPIRED_HEADER:0 "Idee ausgelaufen"
  IDEA_EXPIRED_DESC:0 "Wir bekommen die Effekte von $IDEA|H$ nicht mehr."
@@ -393,7 +394,6 @@
  EFFECT_SEND_EMBARGO:0 "verhängt ein Embargo gegen $COUNTRY|H$"
  EFFECT_BREAK_EMBARGO:0 "Bricht das Embargo mit $COUNTRY|H$"
  EFFECT_ADD_RANDOM_UNIT_TRAIT:0 "Fügt dem Divisionskommandeur eine zufällige gültige Anführereigenschaft hinzu"
-
  EFFECT_MIO_ADD_FUNDS: "Mittel: $VAL|=+0$"
  EFFECT_MIO_SET_FUNDS: "Mittel auf $VAL|H0$ setzen"
  EFFECT_MIO_ADD_SIZE_SINGULAR: "$VAL|=+0$ Größe gewinnen"

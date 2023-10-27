@@ -936,7 +936,7 @@
  MCK_artillery_equipment_1:0 "75mm Typ 10"
  MCK_artillery_equipment_1_short:0 "75mm Typ 10"
 
-    ##REORGANIZED CHINA (in focus_) ""
+ ##REORGANIZED CHINA (in focus_)
  MEN_establish_new_regime:0 "Etablierung des neuen Regimes"
  MEN_assert_military_control:0 "Militärische Kontrolle durchsetzen"
  MEN_strengthen_military_dictatorship:0 "Stärkung der Militärdiktatur"

@@ -58,7 +58,7 @@
  #Allied Anger
  allied_anger:0 "§Verbundener Zorn§! [?GER.allied_anger|0R]"
  allied_anger_desc:0 "Aktueller §RAliied Anger§!: [?GER.allied_anger|0R]"
- allied_anger_trait:0
+ allied_anger_trait:0 ""
  #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder des Commonwealth\n[Root.GetAA3] §R3§! - Politische Macht: §G+150§!\n§ [Root.GetAA5] §R5§! - Erhalten Sie Basiskriegsunterstützung: §G+10 %§! \n[Root.GetAA8] §R8§! - Wirtschaftsgesetz in "§YFrühe Mobilisierung§!" ändern\n[Root.GetAA10] §R10§! - Erhalte Basiskriegsunterstützung: §G+10§!\n[Root.GetAA12] §R12§! - Modifikatoren von §YThe War to End All Wars§ reduzieren!\n[Root.GetAA15] §R15§! - Basismobilisierungsgeschwindigkeit erhöhen: §G+15 %§!\n[Root.GetAA16] §R16§! - Militärkommandokosten reduzieren: §G-25%§!\n[Root.GetAA18] §R18§! - Mobilisierung in "§YLimited§!" ändern\n[Root.GetAA20] §R20§! - Handelsmeinung mit [GER.GetNameWithFlag]: §R-50§!\n[Root.GetAA24] §R24§! - Wirtschaftsgesetz in "§YTeilmobilisierung§!" ändern\n[Root.GetAA26] §R26§! - Wirtschaftsgesetz in "§YWar Economy§!" ändern\n[Root.GetAA28] §R28§! - Erstellt zusätzliche Infanteriedivisionen in der Hauptstadt\n[Root.GetAA30] §R30§! - Erhält Nationalgeist §YEnde der Beschwichtigung§!"
  #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §YAllied Faction§!\nJeder zusätzliche §RAliied Anger§! erhöht die Boni um §G2%§!"
  show_allied_anger:0 "[!allied_anger_test_click]"
@@ -116,19 +116,19 @@
  SHIPYARD_NR:0 "§G[?num_shipyard]§!"
  SUBYARD_NR:0 "§G[?num_subyard]§!"
  
- SHIPYARD_FACTORY_TOOLTIP:0 "\n§YShipyards§!\n\nMax. Level: §Y[GetMaxShipyardNumber]§!\nAktuelles Level: [?num_shipyard_total|Y0]\nBeschädigt: [?num_shipyard_damaged|0R]\n\n£nic_factory_output §YDockyard§! Ausgabe: [GetShipyardBonus] \n§YSubmarine§!: £produktion_kosten IC-Kosten: [?num_shipyard|-=]§R%§!"
+ SHIPYARD_FACTORY_TOOLTIP:0 "\n§YShipyards§!\n\nMax. Level: §Y[GetMaxShipyardNumber]§!\nAktuelles Level: [?num_shipyard_total|Y0]\nBeschädigt: [?num_shipyard_damaged|0R]\n\n£nic_factory_output §YDockyard§! Ausgabe: [GetShipyardBonus] \n§YSubmarine§!: £production_kosten IC-Kosten: [?num_shipyard|-=]§R%§!"
  SUBYARD_FACTORY_TOOLTIP:0 "\n§YSubyards§!\n\nMax. Level: §Y[GetMaxSubyardNumber]§!\nAktuelles Level: [?num_subyard_total|Y0]\nBeschädigt: [?num_subyard_damaged|0R]\n\n§YSubmarine§!: £Produktionskosten IC Kosten: §G-[GetSubyardBonus]§!"
 
  CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Kapazität der Großwerft§! zur Verwendung.\nInsgesamt genutzt: §Y[?resource_consumed@shipyard_capital]§![GetCapitalProductionFree]\n\nInsgesamt Capital Shipyards: [?num_capital_shipyard|Y0]\n Beschädigt: [?num_capital_shipyard_damaged|R0]\n\nKapazität pro Werft: [?modifier@shipyard_capital_capacity|Y0]\n [!shipyard_assembly_capacity_click]"
- AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_produktion] Luftproduktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@air_produktion]§!\n\nLuftmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@air_produktion_kapazität|Y0]\n [!air_assembly_capacity_click]"
- TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_produktion] Panzerproduktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@tank_produktion]§!\n\nGesamtzahl der Tankmontageanlagen: [?num_tank_assembly|Y0]\n Beschädigt: [?num_tank_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@tank_produktionskapazität|Y0]\n [!tank_assembly_capacity_click]"
- ENGINE_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@engine_produktion] Motorenproduktionskapazität§! zur Verwendung.\nInsgesamt genutzt: §Y[?resource_consumed@engine_produktion]§!\n\nInsgesamt Motorenmontagewerke: [?num_engine_assembly|Y0]\n Beschädigt: [?num_engine_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@engine_produktionskapazität|Y0]\n [!engine_assembly_capacity_click]"
- ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_produktion] Artillerie-Produktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_produktion]§!\n\nGesamtzahl der Artillerie-Montageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@artillery_produktion_kapazität|Y0]\n [!artillery_assembly_capacity_click]"
+ AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Luftproduktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\nLuftmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@air_production_kapazität|Y0]\n [!air_assembly_capacity_click]"
+ TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@tank_production]§!\n\nGesamtzahl der Tankmontageanlagen: [?num_tank_assembly|Y0]\n Beschädigt: [?num_tank_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@tank_productionskapazität|Y0]\n [!tank_assembly_capacity_click]"
+ ENGINE_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@engine_production] Motorenproduktionskapazität§! zur Verwendung.\nInsgesamt genutzt: §Y[?resource_consumed@engine_production]§!\n\nInsgesamt Motorenmontagewerke: [?num_engine_assembly|Y0]\n Beschädigt: [?num_engine_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@engine_productionskapazität|Y0]\n [!engine_assembly_capacity_click]"
+ ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_production] Artillerie-Produktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_production]§!\n\nGesamtzahl der Artillerie-Montageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@artillery_production_kapazität|Y0]\n [!artillery_assembly_capacity_click]"
  
  CAPITAL_SHIPYARD_PRODUCTION_FREE: "\nKapitalschiffäquivalente unbenutzt: §Y[?num_capital_shipyard_free|2]§!"
  
  STARTING_EFFICIENCY:0 "§G[Root.GetStartingEfficiency]§!"
- STARTING_EFFICIENCY_TOOLTIP:0 "\n§YProduktionseffizienz starten§!\nBasis: §Y10,00 %§!\n[!produktion_start_efficiency_icon_click]"
+ STARTING_EFFICIENCY_TOOLTIP:0 "\n§YProduktionseffizienz starten§!\nBasis: §Y10,00 %§!\n[!production_start_efficiency_icon_click]"
  STARTING_EFFICIENCY_ICON_TT:0 "§YFactory Start Efficiency Factor§!"
  LOCAL_RESOURCES_TEXT:0 "[?modifier@resources_factor|%0=+]"
  LOCAL_RESOURCES_TOOLTIP:0 "\n§YRessourcenextraktion§!\n [!local_resources_icon_click]"
@@ -942,6 +942,7 @@
  TOKEN_RESISTANCE_ICON:0 "£text_contact_resistance_token"
  
  BI_DIVISION_DESIGNER_INFO_TT:0 "\nDivision Designer-Hilfe: \n\n – Die Kampfbreite beträgt 75, plus 25 bei jedem Angriff aus einer anderen Provinz.\n\n – Unterstützungsbataillone wirken sich auf die Geschwindigkeit aus, und für einige Unterstützungsbataillone sind unterschiedliche Motorisierungsversionen verfügbar.\n\n -Härte in Unterdrückungsvorlagen reduziert Verluste durch Widerstand"
+ BI_EQUIPMENT_LIST_INFO_TT:0 "\nHilfe zur Ausrüstung: \n\n – Ausrüstungskonvertierungen werden in den Ausrüstungsbeschreibungen erwähnt und müssen veraltet sein, um konvertiert zu werden." ## EOF ##
 
  max_tank_factory_5:0 "Max §YPanzerfahrzeugfabrik:§! §G+5§!"
  max_vehicle_factory_5:0 "Max §YFahrzeugfabrik:§! §G+5§!"
@@ -1212,7 +1213,7 @@
  AGRARIAN_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YAgrarianism Drift.§! \n[?ruling|=+3] kommt von §YRuling Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
  AGRARIAN_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YAgrarianism Drift.§! \n[?ruling|-=3] kommt von §YOpposition Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
  
- subideology:0
+ subideology:0 ""
  
  nazism_TT:0 "[!nazism_click]"
  strasserism_TT:0 "[!strasserism_click]"
@@ -1500,8 +1501,8 @@
  
  army_war_games:0 "Anführer der Kriegsspiele"
  navy_war_games:0 "Anführer der Kriegsspiele"
- army_war_games_desc:0
- navy_war_games_desc:0
+ army_war_games_desc:0 ""
+ navy_war_games_desc:0 ""
  
  TRAIT_ARMY_WAR_GAMES_TT:0 "Weisen Sie diese Eigenschaft zu, damit dieser Kommandant in den aktuellen §YArmee-Kriegsspielen§ zum Ziel wird! Entscheidung."
  TRAIT_NAVY_WAR_GAMES_TT:0 "Weisen Sie diese Eigenschaft zu, damit dieser Kommandant in den aktuellen §YNavy War Games§ zum Ziel wird! Entscheidung."
@@ -1513,7 +1514,7 @@
  
  ai_diff:0 "Benutzerdefinierter Schwierigkeitsbonus"
  
- AI_DIFF_SETTING_NAME_TEXT:0 "[Typ1][Typ2][Typ3][Typ4][Typ5][Typ6][Typ7][Typ8][Typ9][Typ10][Typ11][Typ12][Typ13][Typ14][Typ15][Typ16][Typ17 ][Typ18][Typ19][Typ20]"
+ AI_DIFF_SETTING_NAME_TEXT:0 "[Type1][Type2][Type3][Type4][Type5][Type6][Type7][Type8][Type9][Type10][Type11][Type12][Type13][Type14][Type15][Type16][Type17 ][Type18][Type19][Type20]"
  AI_DIFF_SETTING_NAME_TEXT_EDIT:0 "§Y$AI_DIFF_SETTING_NAME_TEXT$§!"
  
  AI_DIFF_FLAG_TOOLTIP:0 "§YRechtsklick§! um §Y[This.GetName]§ zu entfernen! aus dieser Gruppe\n§YUmschalt-Klick§! um eine neue Gruppe für dieses Land zu erstellen"
@@ -1557,9 +1558,9 @@
  AI_DIFF_FUEL_SPAWN_HIGH:0 "§YHoch§!\n\nDie KI erhält §Y30%§! seines Treibstoffdefizits jeden Monat."
  AI_DIFF_FUEL_SPAWN_VERY_HIGH:0 "§YSehr hoch§!\n\nDie KI erhält §Y50 %§! seines Treibstoffdefizits jeden Monat."
   
- AI_DIFF_PRODUCTION_BAR_TEXT:0 "[!produktion_bar_click]"
- AI_DIFF_PRODUCTION_UP_TEXT:0 "[!produktion_up_click]"
- AI_DIFF_PRODUCTION_DOWN_TEXT:0 "[!produktion_down_click]"
+ AI_DIFF_PRODUCTION_BAR_TEXT:0 "[!production_bar_click]"
+ AI_DIFF_PRODUCTION_UP_TEXT:0 "[!production_up_click]"
+ AI_DIFF_PRODUCTION_DOWN_TEXT:0 "[!production_down_click]"
  
  AI_DIFF_CONSTRUCTION_BAR_TEXT:0 "[!construction_bar_click]"
  AI_DIFF_CONSTRUCTION_UP_TEXT:0 "[!construction_up_click]"
@@ -1637,7 +1638,7 @@
  
  BAUXITE_NEED_TOOLTIP: "Wir haben [?avb_bauxite|0Y] Einheiten §YBauxit§! zur Verwendung.\n\nAktueller Raffinerieverbrauch: [?bauxite_need|Y0]\nMaximaler Raffinerieverbrauch: [?bauxite_need_max_t|Y0]"
  IRON_NEED_TOOLTIP: "Wir haben [?avb_iron|0Y] Einheiten von §YIron§! zur Verwendung.\n\nAktueller Raffinerieverbrauch: [?iron_need|Y0]\nMaximaler Raffinerieverbrauch: [?iron_need_max_t|Y0]"
- COAL_NEED_TOOLTIP: "Wir haben [?avb_coal|0Y] Einheiten §YCoal§! zur Nutzung.\n\nAktueller Verbrauch: [?coal_need|Y0]\n -Raffinerien: [?conversion_use_@coal|Y0]\n -Züge: [?train_use@coal|Y0]\n\nMaximaler Raffinerieverbrauch: [? kohle_need_max_t|Y0]\n -Raffinerien: [?conversion_actual_use_@coal|Y0]\n -Züge: [?train_use_target@coal|Y0]"
+ COAL_NEED_TOOLTIP: "Wir haben [?avb_coal|0Y] Einheiten §YCoal§! zur Nutzung.\n\nAktueller Verbrauch: [?coal_need|Y0]\n -Raffinerien: [?conversion_use_@coal|Y0]\n -Züge: [?train_use@coal|Y0]\n\nMaximaler Raffinerieverbrauch: [? coal_need_max_t|Y0]\n -Raffinerien: [?conversion_actual_use_@coal|Y0]\n -Züge: [?train_use_target@coal|Y0]"
  FOOD_NEED_TOOLTIP: "Wir haben [?food_avb|0Y] Einheiten §YFood§! zur Verwendung.\n\nAktueller Lebensmittelverbrauch: [?t|Y0]\nBenötigt durch Produktionslinien: [?resource_consumed@food|Y0]"
  RESOURCE_C_M_TEXT:0 "C:\nM:"
  
@@ -1768,7 +1769,7 @@
  REFINERY_ENTRY_DAMAGED_TOOLTIP_DELAYED:0 "Diese £civ_factory §YRefinery§! ist §Rbeschädigt!§!\nEs kann immer noch mit §Y[?modifier@refinery_resilience|%0]§ betrieben werden! Effizienz."
  REFINERY_ENTRY_INACTIVE_TOOLTIP_DELAYED:0 "Diese £civ_factory §YRefinery§! ist §Cinaktiv§! wegen §Runzureichender Ressourcen§!. Es wird aktiv, wenn wir genug davon haben."
  REFINERY_ENTRY_ACTIVE_TOOLTIP_DELAYED:0 "Diese £civ_factory §YRefinery§! ist §Oaktiv§!."
- REFINERY_ENTRY_PARTIALLY_ACTIVE_TOOLTIP_DELAYED:0 "Diese £civ_factory §YRefinery§! ist nur §Cteilweise§! §Oaktiv§! wegen §Runzureichender Ressourcen§!. Es arbeitet mit einem Wirkungsgrad von [?eff|Y0 %]."
+ REFINERY_ENTRY_PARTIALLY_ACTIVE_TOOLTIP_DELAYED:0 "Diese £civ_factory §YRefinery§! ist nur §Cteilweise§! §Oaktiv§! wegen §Runzureichender Ressourcen§!. Es arbeitet mit einem Wirkungsgrad von [?eff|Y0%]."
  REFINERY_ENTRY_TARGET_TOOLTIP_DELAYED: "Diese £civ_factory §YRefinery§! ist §Ygeplant§! und wird §Yaktiv§! sobald wir mehr aufgebaut oder anderweitig gewonnen haben"
 
  REFINERY_INCREASE_ASSIGNED_TOOLTIP: "§YKlick§! um §Y+1§!\n§YUmschalt+Klick§! hinzuzufügen um §Y+5§!\n§YStrg+Klick§! hinzuzufügen um §Y+10§ hinzuzufügen!"
@@ -1858,7 +1859,7 @@
  ENERGY_PRODUCED_FUEL_TEXT: "[?energy_produced@fuel|Y=0]"
  ENERGY_PRODUCED_HYDRO_TEXT: "[?energy_produced@hydro|Y=0]"
 
- TOPBAR_ENERGY_TOOLTIP: "§YEnergy§!\n\n[GetTextForRatio]\n\nMaximale Kapazität: [GetEnergyCapacity]\n\nErzeugte Gesamtenergie: [?energy_produced|G0]\n Basis: §Y100§!\n[GetEnergyDemandBrokenDown]\n\nTotal Energie"
+ TOPBAR_ENERGY_TOOLTIP: "§YEnergy§!\n\n[GetTextForRatio]\n\nMax. Kapazität: [GetEnergyCapacity]\n\nErzeugte Gesamtenergie: [?energy_produced|G0]\n Basis: §Y100§!\n[GetEnergyDemandBrokenDown]\ n\nGesamtenergieverbrauch: [?energy_cost|R0]\n Zivil: [?energy_cost@energy_civilian|Y0]\n Militär: [?energy_cost@energy_military|Y0]\n Marine: [?energy_cost@energy_naval|Y0]\n Ressourcen: [?energy_cost@energy_conversion|Y0]" 
  GetEnergyDemandBrokenDown: "§OThermisch§! Pflanzen: [?t|Y0]\n §CHydro§! Pflanzen: [?h|Y0]"
  ENERGY_CONSUMPTION_TITLE: "Energieverbrauch"
  ENERGY_CONSUMPTION_TEXT: "§R-[?energy_cost|0]§!"
@@ -1885,7 +1886,7 @@
  energy: "Energie"
  energy_desc: "Energie ist das Lebenselixier der Wirtschaft Ihres Landes. Ohne Energie können Fabriken, Montagehallen, Werften und Raffinerien nicht funktionieren. Energie wird durch §YKraftwerke§! erzeugt, die entweder §OWärme§! sein können. oder §CHydro§! Typ. Ersteres läuft auf §OCoal§! oder §OKraftstoff§! während letzteres §CWater§! verwendet."
 
- ENERGY_MAX_PRODUCTION_TOOLIP: "Unsere [?num_power_plant|Y0] Kraftwerke haben die Kapazität, [?max_energy_produktion|G0] §YEnergy§ zu produzieren!"
+ ENERGY_MAX_PRODUCTION_TOOLIP: "Unsere [?num_power_plant|Y0] Kraftwerke haben die Kapazität, [?max_energy_production|G0] §YEnergy§ zu produzieren!"
  ENERGY_PRODUCTION_TOOLIP: "Wir produzieren derzeit [?energy_produced|Y0] §YEnergy§!"
  ENERGY_CONSUMPTION_TOOLTIP: "Wir benötigen derzeit [?energy_cost|R0] §YEnergy§!"
 
@@ -1896,11 +1897,11 @@
  ENERGY_OIL_CAPPED_TOOLTIP: "Unsere Energieanlagen sind für einen höheren %-Anteil £fuel_texticon §YFuel§ nicht geeignet! Wird in der §YEnergieerzeugung§ verwendet!"
  # production tab
  MILITARY_ENERGY_TEXT: "Energie: [GetEnergyCostMil]"
- MILITARY_ENERGY_TOOLTIP:
+ MILITARY_ENERGY_TOOLTIP: ""
  NAVAL_ENERGY_TEXT: "Energie: [GetEnergyCostNav]"
- NAVAL_ENERGY_TOOLTIP:
+ NAVAL_ENERGY_TOOLTIP: ""
  CIVILIAN_ENERGY_TEXT: "[GetEnergyCostCiv]"
- CIVILIAN_ENERGY_TOOLTIP:
+ CIVILIAN_ENERGY_TOOLTIP: ""
 
  ## FOOD
  TOPBAR_FOOD_TOOLTIP: "[!text_click]"
@@ -1911,7 +1912,7 @@
  RATIONS_DECREASE: "§Y[?food_days|1%]§!"
  RATIONS_INSUFFICIENT: "§R[?food_days|1%]§!"
  RATIONS_FULL: "§GVoll§!"
- RATIONS_EMPTY: "§R0|[?mangel_of_food|0%]§!"
+ RATIONS_EMPTY: "§R0|[?lack_of_food|0%]§!"
 
  ## LAWS
  SELECT_LAW_TOOLTIP: "[!select_law_click] \n\n[!select_law_click_enabled]"
@@ -1951,10 +1952,10 @@
  WAR_ECONOMY_EQUIPMENT_BONUS: "§YBegleitschiff:§! £Produktionskosten IC-Kosten: §G-15,00 %§!"
  TOTAL_ECONOMY_EQUIPMENT_BONUS: "§YBegleitschiff:§! £Produktionskosten IC-Kosten: §G-20,00 %§!"
 
- TARIFFS_NONE_RESEARCH_BONUS: "$industry_research$: §G+5%§!"
- TARIFFS_AVERAGE_RESEARCH_BONUS: "$industry_research$: §R-5%§!"
- TARIFFS_HIGH_RESEARCH_BONUS: "$industry_research$: §R-10%§!"
- TARIFFS_EXTREME_RESEARCH_BONUS: "$industry_research$: §R-15%§!"
+ TARIFFS_NONE_RESEARCH_BONUS:  "$industry_research$: §G+5%§!"
+ TARIFFS_AVERAGE_RESEARCH_BONUS:  "$industry_research$: §R-5%§!"
+ TARIFFS_HIGH_RESEARCH_BONUS:  "$industry_research$: §R-10%§!"
+ TARIFFS_EXTREME_RESEARCH_BONUS:  "$industry_research$: §R-15%§!"
 
  LAW_SWITCH_MODIFIER_DISPLAY: "[!switch_modifier_display_click]"
 
@@ -2010,7 +2011,7 @@
  fdi_banned_stats: "£stability_texticon §G+0,20%§!"
  tariffs_none_stats: " "
  tariffs_low_stats: " "
- #£law_budget  §Y+8§!
+ tariffs_average_stats: " "
  tariffs_high_stats: "£stability_texticon §R-0.10%§!"
  tariffs_extreme_stats: "£stability_texticon §R-0.20%§!"
  free_trade_stats: "£resources_texticon §Y60% - 80%§! £ore_resources_texticon §Y60% - 80%§! £food_resources_texticon §Y60% - 80%§!"
@@ -2458,7 +2459,7 @@ RUBBER_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|3 §YRubber§! uns
 
  LACK_OF_FOOD_TITLE: "§YMangel an Nahrung§!\n\nAktueller Wert: [?lack_of_food|-%]\nZielwert: [?lack_of_food_max|-%]"
  LACK_OF_FOOD_INCREASE: "   - Täglicher Gewinn: [?0.01|R%=]"
- LACK_OF_FOOD_DECREASE: "   - Täglicher Verfall: [?0,02|G%]"
+ LACK_OF_FOOD_DECREASE: "   - Täglicher Verfall: [?0.02|G%]"
  LACK_OF_FOOD_CURRENT_DEBUFF: "\n§YAktuelle Strafen:§!"
  LACK_OF_FOOD_DELAYED: "Wir brauchen eine positive §YRations§-Bilanz! auf Lager, sonst gilt §YLMangel an Lebensmitteln§! Die Strafe erhöht sich langsam je nach Schwere des Mangels."
 
@@ -2480,7 +2481,7 @@ RUBBER_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|3 §YRubber§! uns
  LACK_OF_FOOD_MORALE: "[?token:army_morale_factor.GetTokenLocalizedKey]: $RIGHT|+=%$"
  LACK_OF_FOOD_PROD: "[?token:industrial_capacity_factory_factor.GetTokenLocalizedKey]: $RIGHT|+=%$"
  LACK_OF_FOOD_PROD_N: "[?token:industrial_capacity_dockyard_factor.GetTokenLocalizedKey]: $RIGHT|+=%$"
- LACK_OF_FOOD_CONSTRUCTION: "[?token:produktion_speed_buildings_factor.GetTokenLocalizedKey]: $RIGHT|+=%$"
+ LACK_OF_FOOD_CONSTRUCTION: "[?token:production_speed_buildings_factor.GetTokenLocalizedKey]: $RIGHT|+=%$"
 
  export_offset: "Fix exportieren (ignorieren)"
  resource_production: "Zusätzliche Ressourcenproduktion"
@@ -2490,7 +2491,7 @@ RUBBER_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|3 §YRubber§! uns
 
  LACK_OF_FUEL_TITLE: "§YMangel an Treibstoff§!\n\nAktueller Wert: [?lack_of_fuel|%]\nZielwert: [?lack_of_fuel_target|%]"
  LACK_OF_FUEL_INCREASE: "   - Täglicher Gewinn: [?0.01|R%=]"
- LACK_OF_FUEL_DECREASE: "   - Täglicher Verfall: [?0,02|G%]"
+ LACK_OF_FUEL_DECREASE: "   - Täglicher Verfall: [?0.02|G%]"
  LACK_OF_FUEL_CURRENT_DEBUFF: "\n\n§YAktuelle Strafen:§!"
  LACK_OF_FUEL_DELAYED: "Wir brauchen mindestens §Y90§! Tage im Wert von §YKraftstoff§! auf Lager (§Y[?fuel_min|0]K§!), ansonsten gilt der §YFeuermangel§! Die Strafe erhöht sich langsam je nach Schwere des Mangels."
 

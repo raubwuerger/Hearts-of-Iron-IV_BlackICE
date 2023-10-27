@@ -245,7 +245,7 @@
   reconac_equipment:0 "Gepanzerte Fahrzeuge"
   reconac_equipment_short:0 "Gepanzerte Fahrzeuge"
   reconac_equipment_desc:0 "Gepanzerte Fahrzeuge, meist leicht gepanzert, für die Aufklärung"
-   ## foreign armor ### ""
+  ## foreign armor ###
   captured_light_tank_equipment:0 "Ausländische leichte Panzer"
   captured_light_tank_equipment_short:0 "Ausländische leichte Panzer"
   captured_light_tank_equipment_desc:0 " "
@@ -630,7 +630,7 @@
   modern_tank_aa_equipment_1:0 "Moderne SP-Luftabwehr"
   modern_tank_aa_equipment_1_short:0 "Moderne AA"
   modern_tank_aa_equipment_1_desc:0 "Mit einer Kombination aus Luftabwehrraketen und Schnellfeuerkanonen stellt die moderne Luftabwehrartillerie eine tödliche Bedrohung für Flugzeuge dar."
-   ## Axis Generic ARMOR ## ""
+   ## Axis Generic ARMOR ##
   gw_tank_equipment_axis:0 "Panzerwagen A7V."
   gw_tank_equipment_axis_short:0 "WW1 Panzer"
   gw_tank_equipment_axis_desc:0 "Die Panzer des Ersten Weltkriegs wurden vom Vereinigten Königreich und Frankreich getrennt und gleichzeitig entwickelt, um die festgefahrenen Grabenkämpfe an der Westfront zu durchbrechen. Der Name Panzer wurde von den Briten in der Anfangsphase ihrer Entwicklung als Sicherheitsmaßnahme eingeführt, um ihren Zweck zu verschleiern. Die frühen Panzer waren mit Maschinengewehren und kleinen Kanonen bewaffnet, bewegten sich langsam und waren nur so stark gepanzert, dass sie den Beschuss mit Handfeuerwaffen aufhalten konnten."

@@ -1091,7 +1091,7 @@
  finland.5.d:0 "Die [FROM.GetAdjective]-Regierung war nicht bereit, sich uns im Krieg gegen die Sowjetunion anzuschließen, aber die öffentliche Unterstützung unter unseren Nachbarn ist immer noch groß, und viele Freiwillige aus den anderen nordischen Ländern haben angeboten, sich unseren Reihen anzuschließen, um die Kriegsanstrengungen zu unterstützen. Wenn auch weniger als erhofft, so ist doch zumindest ein gewisses öffentliches Bewusstsein für die Bedrohung vorhanden, der wir ausgesetzt sind."
  finland.5.a:0 "Das ist das Mindeste, was man erwarten kann."
  finland.6.t:0 "[FROM.GetName] schließt sich unserem Krieg an"
- finland.6.d:0 "Unsere Bitte an die Regierung von [FROM.GetAdjective] um eine gemeinsame Verteidigung der Åland-Inseln wurde über Erwarten erfüllt. [FROM.GetName] hat sich uns im Krieg gegen die Sowjetunion angeschlossen und sich geweigert, angesichts einer so eklatanten Bedrohung neutral zu bleiben. Trotz interner Meinungsverschiedenheiten werden sie nun Seite an Seite mit uns kämpfen, um den Fortbestand der finnischen Souveränität zu sichern."
+ finland.6.d:0 "Unsere Bitte an die Regierung von [FROM.GetAdjective] um eine gemeinsame Verteidigung der Åland-Inseln wurde über Erwarten erfüllt. [GetName.FROM] hat sich uns im Krieg gegen die Sowjetunion angeschlossen und sich geweigert, angesichts einer so eklatanten Bedrohung neutral zu bleiben. Trotz interner Meinungsverschiedenheiten werden sie nun Seite an Seite mit uns kämpfen, um den Fortbestand der finnischen Souveränität zu sichern."
  finland.6.a:0 "Dieser Tag wird uns in Erinnerung bleiben."
  finland.7.t:0 "Friedensverhandlungen mit [SOV.GetNameDef]"
  finland.7.d:0 "[Root.GetAdjective] hat sich die Kommunistin Hella Wuolijoki an unsere Regierung gewandt und ihre Hilfe bei der Kontaktaufnahme mit dem [SOV.GetAdjective] Regime angeboten. Es wurde ein Treffen an einem geheimen Ort in Schweden anberaumt, bei dem uns angeboten wird, im Gegenzug für die fortgesetzte [Root.GetAdjective]-Souveränität Gebiete abzutreten. \nie finnischen Streitkräfte schwinden rapide, und frühere Versuche, eine Kommunikationslinie zu eröffnen, waren erfolglos. Dies könnte unsere einzige Hoffnung auf eine friedliche Lösung des Konflikts sein."
@@ -3485,7 +3485,7 @@
  germany.814.desc:0 "Das griechische Festland ist unter Kontrolle der Achsenmächte und die Regierung ist geflohen. [ITA.GetNameDef] betrachtet Griechenland als ihren historischen Anspruch und fordert die volle Kontrolle über das Land."
 
  germany.815.t:0 "Die Kroatienfrage"
- germany.815.desc:0 "Vor ihrer Zerstörung hat [YUG.GetNameDef] erfolglos versucht, die Ustaše-Bewegung zu unterdrücken. Die [YUG.GetNameDef] nennt sich selbst "Kroatische Revolutionäre Bewegung" und tritt für die Schaffung eines Großkroatiens ein. Sie sind bereit, eine Regierung zu bilden, die eng mit uns und [ITA.GetName] verbunden ist."
+ germany.815.desc:0 "Vor ihrer Zerstörung hat [YUG.GetNameDef] erfolglos versucht, die Ustaše-Bewegung zu unterdrücken. Sie nennt sich selbst "Kroatische Revolutionäre Bewegung" und tritt für die Schaffung eines Großkroatiens ein. Sie sind bereit, eine Regierung zu bilden, die eng mit uns und [ITA.GetName] verbunden ist."
 
  germany.816.t:0 "[ITA.GetLeader] unterstützt einen kroatischen Staat"
  germany.816.desc:0 "[ITA.GetLeader] hat erklärt, dass er die Gründung eines von Italien unterstützten kroatischen Staates befürwortet, in dem lokale Freiwillige der faschistischen Ustase-Bewegung eine Regierung bilden."

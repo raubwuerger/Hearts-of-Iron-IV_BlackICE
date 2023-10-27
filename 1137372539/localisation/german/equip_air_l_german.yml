@@ -63,7 +63,7 @@
  jet_mr_fighter:0 "Jet-Mehrzweckjäger"
  jet_mr_fighter_equipment:0 "Jet-Mehrzweckkampfflugzeuge"
  jet_mr_fighter_equipment_desc:0 "Mehrzweckjäger können Abfangjäger und Bodenangriffe fliegen."
- Sturzkampfbomber:1 "Luftnahunterstützung"
+ cas:1 "Luftnahunterstützung"
  as_equipment:1 "Luftnahunterstützung"
  as_equipment_desc:0 "Luftnahunterstützungsflugzeuge sind für die Unterstützung im Landkampf vorgesehen."
  cv_cas:1 "Träger-Sturzkampfbomber"
@@ -278,6 +278,7 @@
  mr_fighter_equipment_1944_desc:0 "Jagdflugzeuge, die als traditionelle Abfangjäger eingesetzt werden können, aber auch am Bodenkampf teilnehmen."
 
  quad_engine_bomber_equipment:0 "Schwerer Bomber"
+
  cas_equipment: "Luftnahunterstützung"
 
  twin_CAS:0 "Zweimotorige Sturzkampfbomber"

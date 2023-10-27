@@ -3,17 +3,18 @@
 
 ### IMPORTANT ### 
 #-Also adjust GetVersion in common/scripted_localisation/ 
-BICE_mod_type: "§YMain Version§!"
+ BICE_mod_type: "§YMain Version§!"
  BICE_version:0 "v8.0.1"
  BICE_checksum:0 ""fa6f" #Vergessen Sie nicht, das Git-Zeug vor dem Hochladen zu entfernen"
 #--------------------------------- 
 
+
  BICE_STARTUP_TITLE:0 "v8.0"
  BICE_STARTUP_DESC:0 "Aktualisiert für Kompatibilität mit HOI IV v1.13.1 und dem DLC "Arms Against Tyranny"."
-BICE_STARTUP_GENERAL_DESC:0 ""
+ BICE_STARTUP_GENERAL_DESC:0 ""
 
-BICE_checksum_and_desc:0 "Die folgende Prüfsumme sollte sein: ($BICE_checksum$)"
-BICE_checksum_desc:0 "Prüfsumme sollte sein:"
+ BICE_checksum_and_desc:0 "Die folgende Prüfsumme sollte sein: ($BICE_checksum$)"
+ BICE_checksum_desc:0 "Prüfsumme sollte sein:"
 
  #LAND 
  BICE_STARTUP_LAND_UPDATE_TITLE:0 "KI"
@@ -89,7 +90,7 @@ BICE_checksum_desc:0 "Prüfsumme sollte sein:"
  BI_FRA_MM_TITLE:0 "Liberté, égalité, fraternité"
  BI_FRA_MM_DESC:0 "La Grande Nation – das Synonym für die Französische Republik und auch eine treffende Beschreibung für die Nation selbst. Wir haben nicht nur unseren Erzfeind im Ersten Weltkrieg besiegt und die Schande von 1870/71 ausgelöscht, sondern es war damals auch so"
 
-BI_ENG_MM_TITLE:0 "Ein Imperium aufrechterhalten"
+ BI_ENG_MM_TITLE:0 "Ein Imperium aufrechterhalten"
  BI_ENG_MM_DESC:0 "Das Britische Empire. Allein der Name gebietet Respekt und bis zum heutigen Tag herrschen wir über weite Länder und eine Vielzahl unterschiedlicher Völker, vereint im Commonwealth.\n\nDer Große Krieg hat unsere Nation härter getroffen als viele andere und die folgenden Die Demobilisierung führte zu Spaltungen innerhalb der Nation. Es folgten Streiks und – im Vergleich zu anderen Ländern – keine "Roaring Twenties".\n\nUnsere Herrschaftsgebiete streben nach immer mehr Unabhängigkeit und ehemaligen Vollkolonien wie Kanada, Südafrika, Australien und Neuseeland sind nun nicht nur in der Innen-, sondern auch in der Außenpolitik unabhängig, so das Statut von Westminster aus dem Jahr 1931.\n\nDann gibt es noch den "Great Slump", der uns seit Anfang der 1930er Jahre beschäftigt und für dessen Auswirkungen wir sorgen Bisher konnte keine wirksame Lösung gefunden werden. Die Linke (Labour) und die Rechte (Konservative) streiten um die Wahlmittel und haben die Mitte (Liberale) inzwischen völlig zerschlagen.\n\nUnser Land steht also vor enormen Herausforderungen - und wir haben noch nicht einmal über die eigene Haustür hinausgeschaut. Auf dem Kontinent erstarkt ein alter Feind erneut. Nazi-Deutschland wird uns in nicht allzu ferner Zukunft auf die Probe stellen.\n\nWerden die britischen Flotten, die Royal Air Force und die stolzen Soldaten vor Ort wieder in der Lage sein, die Freiheit zu verteidigen? Können wir ein weiteres Auseinanderdriften der verbliebenen Kolonien verhindern? Wie entwickelt sich die Geschichte dieses großen Reiches?\n\nWem viel gegeben wird, dem wird auch viel abverlangt."
 
  BI_USA_MM_TITLE:0 "Der amerikanische Lebensstil"
@@ -100,6 +101,7 @@ BI_ENG_MM_TITLE:0 "Ein Imperium aufrechterhalten"
 
  BI_JAP_MM_TITLE:0 "Wohlstand für Asien"
  BI_JAP_MM_DESC:0 "Der Aufbau eines starken Militärs ist für die Verfolgung der strategischen Interessen Japans von wesentlicher Bedeutung. Japan war regelmäßig in Kriege und Territorialstreitigkeiten in Übersee verwickelt, verfolgte im Rahmen seines Bündnisses mit dem Vereinigten Königreich eine Expansionspolitik und suchte nach Gebieten in China, Korea und Sibirien . Nach dem Krieg gegen Russland in den Jahren 1904–1905 verstärkte sich der Nationalismus und löste eine neue Phase der kontinentalen Expansion aus. \n\nJapans Eintritt in den Ersten Weltkrieg war daher eher ein opportunistisches Manöver. Nachdem es die meisten seiner militärischen Aufstockungsbemühungen in der Folge unternommen hatte In der zweiten Hälfte des 19. Jahrhunderts beschränkte sich das Engagement des Landes auf den Krieg mit Deutschland um chinesische Gebiete und war nicht sehr kostspielig. Als Teil der siegreichen Alliierten ermöglichte es Japan jedoch, seinen Einfluss in Asien und im Pazifik auszuweiten. Gegen Ende Nach Kriegsende erfüllte Japan zunehmend Aufträge für seine europäischen Verbündeten, förderte die industrielle Diversifizierung des Landes und verwandelte Japan erstmals in einen Nettoexporteur von Waren.\n\nDie Nachkriegszeit bescherte Japan unmittelbar nach dem Krieg einen beispiellosen Wohlstand. Im Jahr 1918 war Japan nach den USA das zweitgrößte Gläubigerland der Welt. Es nahm an der Pariser Friedenskonferenz 1919 als eine der größten internationalen Militär- und Industriemächte der Welt teil und wurde in den ausgewählten Kreis der ständigen Mitglieder des Rates des Völkerbundes katapultiert. Eine solche Anerkennung brachte erhebliche wirtschaftliche Vorteile.\n\nAber die wirtschaftlichen Folgen der weltweiten Depression und der mit der Rückkehr zum Goldstandard verbundenen Aufwertung des Yen waren erheblich. In den Jahren 1930 und 1931 kam es zu einer heftigen Deflation und einem starken Rückgang der Wirtschaftstätigkeit – der Shōwa-Depression. Zwanzig Terroranschläge, vier Putschversuche und vier politische Attentate allein seit 1930 erzählen die Geschichte eines Landes am Abgrund und kennzeichnen die Erosion der zivilen Autorität und damit auch die strukturelle Integrität der staatlichen Machtstruktur Tokios.\n\nObwohl sich Japan davon erholte Da die Auswirkungen der Weltwirtschaftskrise viel schneller zu spüren sind als bei anderen Großmächten, ist die Unsicherheit, in welche Richtung sich das Land entwickeln wird, derzeit enorm. \n \"Asien den Asiaten\"? Oder wird es "Frieden und Wohlstand für alle" sein? \n\nZunehmende Spannungen mit den Warlords in China sowie dem alten Feind im Norden, der jetzt Sowjetunion heißt, lassen wenig Hoffnung auf ein friedliches nächstes Jahrzehnt aufkommen. Und dann sind da noch die Vereinigten Staaten, die seit der Einnahme der Mandschurei im Jahr 1931 eine zunehmend kühle Haltung gegenüber Japan entwickeln ..."
+
 
  # MISC # 
  TITLE_COMING_SOON:0 "COMING SOON"
