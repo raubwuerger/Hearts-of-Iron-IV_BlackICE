@@ -747,7 +747,7 @@ develop_montana_chromium_deposits:0 "Erschließung der Chromvorkommen in Montana
  CHI_close_burma_road:0 "Schließt die Burma Road"
  close_burma_road_explanation:0 "Sie werden den Zugang zu allen freien Militärfabriken verlieren, bis die Straße wieder geöffnet wird."
  CHI_close_ledo_road:0 "Schließt die Ledo Road"
- close_ledo_road_explanation:0 "Sie werden den Zugang zu allen freien Militärfabriken verlieren, bis die Straße wieder geöffnet wird.\n"
+ close_ledo_road_explanation:0 "Sie verlieren den Zugriff auf §Y[?THIS.CHI_ledo_road_current_level]§! Kostenlose Militärfabrik, bis die Straße wieder geöffnet wird.\n"
  CHI_close_hanoi_route:0 "Schließt die Hanoi-Route"
  close_hanoi_route_explanation:0 "Sie verlieren dauerhaft den Zugang zu §Y[?THIS.CHI_hanoi_route_current_level]§! freien Militärfabriken.\n"
  CHI_close_the_hump:0 "Den Buckel schließen"

@@ -120,10 +120,10 @@
  SUBYARD_FACTORY_TOOLTIP:0 "\n§YSubyards§!\n\nMax. Level: §Y[GetMaxSubyardNumber]§!\nAktuelles Level: [?num_subyard_total|Y0]\nBeschädigt: [?num_subyard_damaged|0R]\n\n§YSubmarine§!: £Produktionskosten IC Kosten: §G-[GetSubyardBonus]§!"
 
  CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Kapazität der Großwerft§! zur Verwendung.\nInsgesamt genutzt: §Y[?resource_consumed@shipyard_capital]§![GetCapitalProductionFree]\n\nInsgesamt Capital Shipyards: [?num_capital_shipyard|Y0]\n Beschädigt: [?num_capital_shipyard_damaged|R0]\n\nKapazität pro Werft: [?modifier@shipyard_capital_capacity|Y0]\n [!shipyard_assembly_capacity_click]"
- AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Luftproduktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\nLuftmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@air_production_kapazität|Y0]\n [!air_assembly_capacity_click]"
- TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@tank_production]§!\n\nGesamtzahl der Tankmontageanlagen: [?num_tank_assembly|Y0]\n Beschädigt: [?num_tank_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@tank_productionskapazität|Y0]\n [!tank_assembly_capacity_click]"
- ENGINE_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@engine_production] Motorenproduktionskapazität§! zur Verwendung.\nInsgesamt genutzt: §Y[?resource_consumed@engine_production]§!\n\nInsgesamt Motorenmontagewerke: [?num_engine_assembly|Y0]\n Beschädigt: [?num_engine_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@engine_productionskapazität|Y0]\n [!engine_assembly_capacity_click]"
- ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_production] Artillerie-Produktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_production]§!\n\nGesamtzahl der Artillerie-Montageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [? modifier@artillery_production_kapazität|Y0]\n [!artillery_assembly_capacity_click]"
+ AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Luftproduktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\nLuftmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@air_production_capacity|Y0]\n [!air_assembly_capacity_click]"
+ TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@tank_production]§!\n\nGesamtzahl der Tankmontageanlagen: [?num_tank_assembly|Y0]\n Beschädigt: [?num_tank_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@tank_production_capacity|Y0]\n [!tank_assembly_capacity_click]"
+ ENGINE_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@engine_production] Motorenproduktionskapazität§! zur Verwendung.\nInsgesamt genutzt: §Y[?resource_consumed@engine_production]§!\n\nInsgesamt Motorenmontagewerke: [?num_engine_assembly|Y0]\n Beschädigt: [?num_engine_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@engine_production_capacity|Y0]\n [!engine_assembly_capacity_click]"
+ ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_production] Artillerie-Produktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_production]§!\n\nGesamtzahl der Artillerie-Montageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@artillery_production_capacity|Y0]\n [!artillery_assembly_capacity_click]"
  
  CAPITAL_SHIPYARD_PRODUCTION_FREE: "\nKapitalschiffäquivalente unbenutzt: §Y[?num_capital_shipyard_free|2]§!"
  
@@ -152,7 +152,7 @@
  
  TOTAL_FAC_TT:0 "§YFabriken§!\nZivile Fabriken: [?num_of_civilian_factories|Y0]\n §LAVerfügbare Fabriken für Projekte: [?num_of_civilian_factories_available_for_projects]§!\nMilitärische Fabriken: [?num_of_military_factories|Y0]\nMarinewerften: [?num_of_naval_factories|Y0] \n \nLuftmontagewerke: [?num_air_assembly|Y0]\nPanzermontagewerke: [?num_tank_assembly|Y0]\nMotormontagewerke: [?num_engine_assembly|Y0]\nArtilleriemontagewerke: [?num_artillery_assembly|Y0]"
  
- STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Storage§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n – Täglicher Gewinn: [GetStorageInput] \n – Täglicher Output: [?storage_output@var :v|0-] ([?global.resource_cost@var:v|Y0] pro Speicher)\n\nMaximale Speicherkapazität: [?max_storage@var:v|Y0]\n Kapital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivile Fabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n Ressourcenproduktion: [?max_storage_resource@var:v|Y0]\n\n[GetStorageEstimate ]"
+ STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Storage§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n – Täglicher Gewinn: [GetStorageInput] \n – Täglicher Output: [?storage_output@var:v|0-] ([?global.resource_cost@var:v|Y0] pro Speicher)\n\nMaximale Speicherkapazität: [?max_storage@var:v|Y0]\n Kapital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivile Fabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n Ressourcenproduktion: [?max_storage_resource@var:v|Y0]\n\n[GetStorageEstimate]"
  STORAGE_TOPBAR_TOOLTIP_DELAYED:0 "[GetStorageSettingTT]"
   
  STORAGE_ESTIMATE_EMPTY_TEXT:0 "Wir gehen davon aus, dass unsere Vorräte in [?m|R0] Tagen aufgebraucht sein werden"
@@ -197,7 +197,7 @@
  operation_25:0 "Betrieb 25"
  
  GER_croatian_puppet:0 "Gründung der kroatischen Marionette"
- GER_croatian_puppet_desc:0 "$deutschland.815.desc$"
+ GER_croatian_puppet_desc:0 "$germany.815.desc$"
  cp_atleast_75_pp_50:0 "£command_power §H75§! £pol_power §H50§!"
  cp_atleast_75_pp_50_blocked:0 "£command_power §R75§! £pol_power §R50§!"
  cp_atleast_75_pp_50_tooltip:0 "\nEs kostet 75£command_power & §H50§!£pol_power, dies auszuwählen."
@@ -317,12 +317,12 @@
  ruling_TT:0 "[Root.GetRulingPartyStatus]"
  population_TT:0 "§YPopulation§!\nGesamtbevölkerung: §Y[Root.GetPopulationValue1]§!\nGesamtbevölkerung in Kernen: §Y[Root.GetPopulationValue2]§!"
  country_population_TT:0 "§YKernbevölkerung§!"
- states_TT:0 "Es gibt derzeit [?num_scribed_states|Y0] Zustände unter §Y[Root.GetAdjective]§! control.\n§Y[Root.GetNameWithFlag]:§! [Root.GetOwnedStates][Root.GetOwnedControlledStates][Root.GetOccupiedStates][Root.GetCoreStates]\n\n"
+ states_TT:0 "Es gibt derzeit [?num_controlled_states|Y0] Zustände unter §Y[Root.GetAdjective]§! control.\n§Y[Root.GetNameWithFlag]:§! [Root.GetOwnedStates][Root.GetOwnedControlledStates][Root.GetOccupiedStates][Root.GetCoreStates]\n\n"
  core_states_TT:0 "\n\nVon den gesamten [?num_core_states|0Y] [Root.GetAdjective] Kernen:[Root.GetOwnedCoreStates][Root.GetControlledCoreStates]"
  occupied_states_TT:0 "\n besetzt [?num_occupied_states|0Y] Staaten eines fremden Landes"
  owned_states_TT:0 "\n besitzt [?num_owned_states|0Y] Staaten"
  owned_core_states:0 "\n Wir besitzen [?num_owned_core_states|0Y] Staaten"
- controlled_core_states:0 "\n Wir kontrollieren [?num_scribed_core_states|0Y] Staaten"
+ controlled_core_states:0 "\n Wir kontrollieren [?num_controlled_core_states|0Y] Staaten"
 
  line:0 "\N---------------------------"
  
@@ -354,7 +354,7 @@
 
  MEFO_DONE_TT:0 "£trigger_yes §YMEFO§!"
 
- SPECIAL_FORCES_TT:0 "§YSpezialeinheiten§!\nWir setzen derzeit [?num_specialised|Y0] unseres [?special_forces_cap|Y0] zulässigen Spezialeinheitengewichts ein.\nDas Limit liegt bei [?special_forces_ratio|Y%] unserer Armeestärke ([?army_strength|Y0 ]), mit einem Minimum von [?modifier@special_forces_min|Y0]\n[Root.GetSpecialForcesComp][!special_forces_background_click]"
+ SPECIAL_FORCES_TT:0 "§YSpezialeinheiten§!\nWir setzen derzeit [?num_specialised|Y0] unseres [?special_forces_cap|Y0] zulässigen Spezialeinheitengewichts ein.\nDas Limit liegt bei [?special_forces_ratio|Y%] unserer Armeestärke ([?army_strength|Y0]), mit einem Minimum von [?modifier@special_forces_min|Y0]\n[Root.GetSpecialForcesComp][!special_forces_background_click]"
  SPECIAL_FORCES_CAP_TT:0 "Obergrenze für Spezialeinheiten: [?special_forces_ratio|Y%] \nBasis: §Y7,0%§! \n[!sof_ratio_bar_click]"
  SPECIAL_FORCES_RATIO_TT:0 "Wir setzen derzeit [?num_specialised|Y0] unseres [?special_forces_cap|Y0] zulässigen Spezialkräftegewichts ein. §Y([GetSpecialForcesLimitRatio])§!"
  
@@ -431,7 +431,7 @@
  RESEARCH_CENTRE_OVERLAY_TOOLTIP:0 "§YKlick§! um diesen £tech_mod §YResearch Slot§ auszuwählen!"
  RESEARCH_CENTRE_OVERLAY_TOOLTIP_DELAYED:0 "§YRechtsklick§! um die Kamera über §Y[This.GetName]§ zu bewegen!"
  RESEARCH_CENTRE_LOST_TOOLTIP:0 "§Wir haben die Kontrolle über [This.GetName] verloren und können diesen £tech_mod Research Slot nicht nutzen §!"
- BI_ALLOWED_RESEARCH_TOOLTIP:0 "\nDieser £tech_mod §YForschungsplatz§! kann die folgenden Technologieordner erforschen: [This.research_infantry_TT][This.research_support_TT][This.research_artillery_TT][This.research_tank_techs_TT][This.research_armor_TT][This.research_air_techs_army_TT][This.research_air_techs_navy_TT][This.research_air_techs_TT][This. Research_naval_TT][This.research_naval_techs_TT][This.research_ww1_doctrine_TT][This.research_doctrine_TT][This.research_naval_doctrine_TT][This.research_air_doctrine_TT][This.research_electronics_TT][This.research_industry_TT][This.research_raw_materials_TT][This.research_nucle ar_TT][Dies. [research_special_forces_TT]"
+ BI_ALLOWED_RESEARCH_TOOLTIP:0 "\nDieser £tech_mod §YForschungsplatz§! kann die folgenden Technologieordner erforschen: [This.research_infantry_TT][This.research_support_TT][This.research_artillery_TT][This.research_tank_techs_TT][This.research_armor_TT][This.research_air_techs_army_TT][This.research_air_techs_navy_TT][This.research_air_techs_TT][This.research_naval_TT][This.research_naval_techs_TT][This.research_ww1_doctrine_TT][This.research_doctrine_TT][This.research_naval_doctrine_TT][This.research_air_doctrine_TT][This.research_electronics_TT][This.research_industry_TT][This.research_raw_materials_TT][This.research_nuclear_TT][This.research_special_forces_TT]"
  BI_BASE_RESEARCH_TOOLTIP:0 "\nDieser £tech_mod §YForschungsplatz§! kann jede Technologie erforschen."
  RESEARCH_CENTRE_STATE_UNKNOWN:0 "Wir wissen nicht, ob es ein £tech_mod §YForschungszentrum§ gibt! in §Y[This.GetName]§!"
  research_allowed_infantry_TT:0 "\n\n £research_infantry Infanterie"
@@ -624,8 +624,8 @@
  economy_switch_name:0 "Änderung der Wirtschaftspolitik"
  economy_switch_queue_TT:0 "Nach der Änderung an §Y[Root.GetEconomySwitchTarget]§! Ist das erledigt, wechseln wir zu §Y[?economy_law.GetTokenLocalizedKey]§!"
  civilian_economy_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$civilian_economy$§!"
- low_economic_mobilisation_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$low_economic_mobilization$§!"
- partial_economic_mobilisation_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$partielle_ökonomische_mobilisierung$§!"
+ low_economic_mobilisation_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$low_economic_mobilisation$§!"
+ partial_economic_mobilisation_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$partial_economic_mobilisation$§!"
  war_economy_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$war_economy$§!"
  tot_economic_mobilisation_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$tot_economic_mobilisation$§!"
  
@@ -689,9 +689,9 @@
  
  partial_economic_mobilisation_or_higher:0 "Hat §Y$economy$: Teilmobilisierung§! oder höher"
  low_economic_mobilisation_or_higher:0 "Hat §Y$economy$: Frühmobilisierung§! oder höher"
- tax_high_or_higher:0 "Hat §Y$Steuern$: Hohe Steuern§! oder höher"
+ tax_high_or_higher:0 "Hat §Y$taxes$: Hohe Steuern§! oder höher"
  tax_average_or_higher:0 "Hat §Y$taxes$: Durchschnittliche Steuern§! oder höher"
- tariffs_average_or_higher:0 "Hat §Y$tarife$: Durchschnittliche Tarife§! oder höher"
+ tariffs_average_or_higher:0 "Hat §Y$tariffs$: Durchschnittliche Tarife§! oder höher"
  tax_low_or_higher:0 "Hat §Y$taxes$: Niedrige Steuern§! oder höher"
  age_15_or_higher:0 "Hax §Y$age_laws$: 18-45 Altersgruppe§! oder höher"
  age_12_or_higher:0 "Hat §Y$age_laws$: Altersgruppe 16-60§! oder höher"
@@ -706,7 +706,7 @@
  officer_train_high_or_higher:0 "Hat §Y$officer_training_standards$: Umfangreiche Offiziersausbildung§! oder höher"
  train_low_or_lower:0 "Hat §Y$cadet_training_standards$: Niedrige Standards§! oder niedriger"
  train_medium_or_lower:0 "Hat §Y$cadet_training_standards$: Mittlere Standards§! oder niedriger"
- edu_low_or_lower:0 "Hat §Y$Bildung$: Geringe Investition§! oder niedriger"
+ edu_low_or_lower:0 "Hat §Y$education$: Geringe Investition§! oder niedriger"
  
  bonds_no_downgrade_TT:0 "\n§RKriegsanleihen können nach Erhalt nicht herabgestuft werden§!\n"
  
@@ -967,12 +967,12 @@
  RESISTANCE_PROGRESS_TOOLTIP:0 "[?resistance|0]% / [?resistance_target|0]%"
  COMPLIANCE_PROGRESS_TOOLTIP:0 "[?compliance|0]% [GetComplianceGrowthIcon]"
  
- SPECIAL_FACTORY_OPEN_TOOLTIP:0 "[ProduktionTT1]"
+ SPECIAL_FACTORY_OPEN_TOOLTIP:0 "[ProductionTT1]"
  SPECIAL_FACTORY_OPEN_FALSE_TT:0 "Wir haben keine §Rany-Ausrüstungsfabriken!§!"
- INDUSTRY_OPEN_TOOLTIP:0 "[ProduktionTT2]"
- EQUIPMENT_INTRO_OPEN_TOOLTIP:0 "[ProduktionTT3]"
- HSD_UI_OPEN_TOOLTIP:0 "[ProduktionTT4]"
- HTD_UI_OPEN_TOOLTIP:0 "[ProduktionTT5]"
+ INDUSTRY_OPEN_TOOLTIP:0 "[ProductionTT2]"
+ EQUIPMENT_INTRO_OPEN_TOOLTIP:0 "[ProductionTT3]"
+ HSD_UI_OPEN_TOOLTIP:0 "[ProductionTT4]"
+ HTD_UI_OPEN_TOOLTIP:0 "[ProductionTT5]"
  
  SPECIAL_FACTORY_OPEN_TT:0 " §YKlick§! um Informationen für §YEquipment Factories§! anzuzeigen."
  GARRISON_NEED_TOOLTIP:0 "[?required_garrison_factor|%1]"
@@ -1058,7 +1058,7 @@
  ai_diplo_score_base_reluctance_tt:0 "Basisreluktanz: $RIGHT|+0$\n"
  ai_diplo_score_no_war_together_tt:0 "§Y[From.GetNameDef]§! befindet sich nicht in einem Krieg zusammen mit §Y[Root.GetNameDef]§!: $RIGHT|+0$\n"
  
- ai_diplo_positive_score_tt:0 "\nPositiv: [?positiv|G0]"
+ ai_diplo_positive_score_tt:0 "\nPositiv: [?positive|G0]"
  ai_diplo_negative_score_tt:0 "Negativ: [?negative|R0]"
  
  ai_diplo_score_desc_tt:0 "\nWir brauchen mindestens §Y1§! mehr §Gpositive§! als §Rnegativ§! Gründe für eine Annahme. Wir haben derzeit [?ai_score|Y0].\n\n"
@@ -1071,7 +1071,7 @@
  
  FOREIGN_ARMOR_NO_ENTRY_TT:0 "Wir haben keine §Ylizenzierten§! oder §Ycaptured§! Rüstungsausrüstung!"
  
- RULING_PARTY_DRIFT_TOOLTIP:0 "[GetRulingDrift/ideological_crusader][GetRulingDrift/great_compromiser][GetRulingDrift/interior_minister_trait][GetRulingDrift/goverment_support_democracy][GetRulingDrift/goverment_support_communism][GetRulingDrift/goverment_support_fascist][GetRulingDrift/assured_victory] [GetRulingDrift/return_land][GetRulingDrift/GER_got_FRA][GetRulingDrift/ROM_hungarian_nationalists] [GetRulingDrift/rural_development_minor][GetRulingDrift/economic_centralization][GetRulingDrift/generic_welfare][GetRulingDrift/Full_national_support][GetRulingDrift/media_scandal][GetRulingDrift/political_protests][GetRulingDrift/media_catastrophe][GetRulingDrift/deaths _at_protest][GetRulingDrift/prime_minister_assasinated][GetRulingDrift/medium_civ_fuel_usage] [GetRulingDrift/high_civ_fuel_usage][GetRulingDrift/tax_minimal][GetRulingDrift/tax_low][GetRulingDrift/free_trade][GetRulingDrift/export_focus]"
+ RULING_PARTY_DRIFT_TOOLTIP:0 "[GetRulingDrift/ideological_crusader][GetRulingDrift/great_compromiser][GetRulingDrift/interior_minister_trait][GetRulingDrift/goverment_support_democracy][GetRulingDrift/goverment_support_communism][GetRulingDrift/goverment_support_fascist][GetRulingDrift/assured_victory] [GetRulingDrift/return_land][GetRulingDrift/GER_got_FRA][GetRulingDrift/ROM_hungarian_nationalists] [GetRulingDrift/rural_development_minor][GetRulingDrift/economic_centralization][GetRulingDrift/generic_welfare][GetRulingDrift/Full_national_support][GetRulingDrift/media_scandal][GetRulingDrift/political_protests][GetRulingDrift/media_catastrophe][GetRulingDrift/deaths_at_protest][GetRulingDrift/prime_minister_assasinated][GetRulingDrift/medium_civ_fuel_usage] [GetRulingDrift/high_civ_fuel_usage][GetRulingDrift/tax_minimal][GetRulingDrift/tax_low][GetRulingDrift/free_trade][GetRulingDrift/export_focus]"
 
  AI_equipment_fix_1:0 "Diese Ausrüstung *sollte* ganz oben in der KI-Produktionswarteschlange stehen, um ein Problem mit der MIC-Zuweisung zu beheben."
  
@@ -1241,7 +1241,7 @@
  popular_TT:0 "[!popular_click]"
  theocracie_TT:0 "[!theocracie_click]"
  
- provisional_government_TT:0 "[!provisional_ Government_click]"
+ provisional_government_TT:0 "[!provisional_government_click]"
  military_dictatorship_TT:0 "[!military_dictatorship_click]"
  pseudo_fascism_TT:0 "[!pseudo_fascism_click]"
  vichy_TT:0 "[!vichy_click]"
@@ -1290,10 +1290,10 @@
  
  DESERT_XP_GAIN_TOOLTIP:0 "\n§YErfahrung:§! [?xp|0] / [?need]\n§YErfahrung gewonnen während:§!\n Kämpfe auf Gelände: §Y$desert$§!\n\n"
  SWAMP_XP_GAIN_TOOLTIP:0 "\n§YErfahrung:§! [?xp|0] / [?need]\n§YErfahrung gewonnen während:§!\n Kämpfe auf Gelände: §Y$marsh$§!\n\n"
- HILLS_XP_GAIN_TOOLTIP:0 "\n§YErfahrung:§! [?xp|0] / [?need]\n§YErfahrung gewonnen während:§!\n Kämpfe auf Gelände: §Y$Hügel$§!\n\n"
+ HILLS_XP_GAIN_TOOLTIP:0 "\n§YErfahrung:§! [?xp|0] / [?need]\n§YErfahrung gewonnen während:§!\n Kämpfe auf Gelände: §Y$hills$§!\n\n"
  MOUNTAIN_XP_GAIN_TOOLTIP:0 "\n§YErfahrung:§! [?xp|0] / [?need]\n§YErfahrung gewonnen während:§!\n Kämpfen auf Gelände: §Y$mountain$§!\n\n"
  URBAN_XP_GAIN_TOOLTIP:0 "\n§YErfahrung:§! [?xp|0] / [?need]\n§YErfahrung gewonnen während:§!\n Kämpfe auf Gelände: §Y$urban$§!\n\n"
- FOREST_XP_GAIN_TOOLTIP:0 "\n§YErfahrung:§! [?xp|0] / [?need]\n§YErfahrung gewonnen während:§!\n Kämpfe auf Gelände: §Y$Wald$§!\n\n"
+ FOREST_XP_GAIN_TOOLTIP:0 "\n§YErfahrung:§! [?xp|0] / [?need]\n§YErfahrung gewonnen während:§!\n Kämpfe auf Gelände: §Y$forest$§!\n\n"
  JUNGLE_XP_GAIN_TOOLTIP:0 "\n§YErfahrung:§! [?xp|0] / [?need]\n§YErfahrung gewonnen während:§!\n Kämpfen auf Gelände: §Y$jungle$§!\n\n"
  WINTER_XP_GAIN_TOOLTIP:0 "\n§YErfahrung:§! [?xp|0] / [?need]\n§YErfahrung gesammelt während:§!\n Kampf gegen das Klima: §Y$cold_climate$§!\n\n"
  terrain_level:0 "Gesamtstufen der Geländemerkmale:"
@@ -1514,7 +1514,7 @@
  
  ai_diff:0 "Benutzerdefinierter Schwierigkeitsbonus"
  
- AI_DIFF_SETTING_NAME_TEXT:0 "[Type1][Type2][Type3][Type4][Type5][Type6][Type7][Type8][Type9][Type10][Type11][Type12][Type13][Type14][Type15][Type16][Type17 ][Type18][Type19][Type20]"
+ AI_DIFF_SETTING_NAME_TEXT:0 "[Type1][Type2][Type3][Type4][Type5][Type6][Type7][Type8][Type9][Type10][Type11][Type12][Type13][Type14][Type15][Type16][Type17][Type18][Type19][Type20]"
  AI_DIFF_SETTING_NAME_TEXT_EDIT:0 "§Y$AI_DIFF_SETTING_NAME_TEXT$§!"
  
  AI_DIFF_FLAG_TOOLTIP:0 "§YRechtsklick§! um §Y[This.GetName]§ zu entfernen! aus dieser Gruppe\n§YUmschalt-Klick§! um eine neue Gruppe für dieses Land zu erstellen"
@@ -1638,7 +1638,7 @@
  
  BAUXITE_NEED_TOOLTIP: "Wir haben [?avb_bauxite|0Y] Einheiten §YBauxit§! zur Verwendung.\n\nAktueller Raffinerieverbrauch: [?bauxite_need|Y0]\nMaximaler Raffinerieverbrauch: [?bauxite_need_max_t|Y0]"
  IRON_NEED_TOOLTIP: "Wir haben [?avb_iron|0Y] Einheiten von §YIron§! zur Verwendung.\n\nAktueller Raffinerieverbrauch: [?iron_need|Y0]\nMaximaler Raffinerieverbrauch: [?iron_need_max_t|Y0]"
- COAL_NEED_TOOLTIP: "Wir haben [?avb_coal|0Y] Einheiten §YCoal§! zur Nutzung.\n\nAktueller Verbrauch: [?coal_need|Y0]\n -Raffinerien: [?conversion_use_@coal|Y0]\n -Züge: [?train_use@coal|Y0]\n\nMaximaler Raffinerieverbrauch: [? coal_need_max_t|Y0]\n -Raffinerien: [?conversion_actual_use_@coal|Y0]\n -Züge: [?train_use_target@coal|Y0]"
+ COAL_NEED_TOOLTIP: "Wir haben [?avb_coal|0Y] Einheiten §YCoal§! zur Nutzung.\n\nAktueller Verbrauch: [?coal_need|Y0]\n -Raffinerien: [?conversion_use_@coal|Y0]\n -Züge: [?train_use@coal|Y0]\n\nMaximaler Raffinerieverbrauch: [?coal_need_max_t|Y0]\n -Raffinerien: [?conversion_actual_use_@coal|Y0]\n -Züge: [?train_use_target@coal|Y0]"
  FOOD_NEED_TOOLTIP: "Wir haben [?food_avb|0Y] Einheiten §YFood§! zur Verwendung.\n\nAktueller Lebensmittelverbrauch: [?t|Y0]\nBenötigt durch Produktionslinien: [?resource_consumed@food|Y0]"
  RESOURCE_C_M_TEXT:0 "C:\nM:"
  
@@ -1905,9 +1905,9 @@
 
  ## FOOD
  TOPBAR_FOOD_TOOLTIP: "[!text_click]"
- RATIONS_TITLE: "§YRations§!\n\n[GetFoodDecayLoc]\n§YCivillian Consumption ([?modifier@food_need_civilian|=-%1g]) §!\n Kernbevölkerung: [?food_need_pop|Y0]\n Nicht-Kernbevölkerung: [ ?food_need_pop_occ|Y0]\n§YMilitärer Verbrauch ([?modifier@food_need_military|=-%1g])§!\n Streitkräfte: [?food_need_army|Y0]\n Garnison: [?food_need_garrison|Y0]\n Ausbildung: [?food_need_deployment|Y0]\n\n"
+ RATIONS_TITLE: "§YRations§!\n\n[GetFoodDecayLoc]\n§YCivillian Consumption ([?modifier@food_need_civilian|=-%1g]) §!\n Kernbevölkerung: [?food_need_pop|Y0]\n Nicht-Kernbevölkerung: [?food_need_pop_occ|Y0]\n§YMilitärer Verbrauch ([?modifier@food_need_military|=-%1g])§!\n Streitkräfte: [?food_need_army|Y0]\n Garnison: [?food_need_garrison|Y0]\n Ausbildung: [?food_need_deployment|Y0]\n\n"
  FOOD_DECAY: "Aktuelle Rationen: [?food|Y1]§YK§!\nMaximale Lagerkapazität: §Y[?food_max|1]K§!\n\nAktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip| 10))\nAktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nJeder Tag [?decay|%R1] ([?decay_flat|Y0]) unserer Rationen verfällt. \nWir schätzen, dass sich unser Vorrat ändern wird um: [?food_balance|+0]\n\nMit unserem aktuellen Guthaben schätzen wir, dass wir unseren §YLebensmittelvorrat§ füllen können! bis zu [?food_fill_target|%1Y]\n"
- FOOD_MITIGATION: "Aktuelle §Strafe wegen Lebensmittelmangels:§! [?lack_of_food|%R1]\n\nAktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\nAktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|= -%1])\nNotfallrationierung reduziert den Verbrauch um: [?mitigation_flat|Y0].\nWir schätzen, dass sich unser Vorrat ändern wird um: [?food_balance|+0]\n\nMit unserem aktuellen Kontostand gehen wir davon aus, dass wir tendenziell tendieren werden zu einem §YMangel an Nahrung§! Strafe von [?lack_of_food_max|%1-]\n"
+ FOOD_MITIGATION: "Aktuelle §Strafe wegen Lebensmittelmangels:§! [?lack_of_food|%R1]\n\nAktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\nAktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nNotfallrationierung reduziert den Verbrauch um: [?mitigation_flat|Y0].\nWir schätzen, dass sich unser Vorrat ändern wird um: [?food_balance|+0]\n\nMit unserem aktuellen Kontostand gehen wir davon aus, dass wir tendenziell tendieren werden zu einem §YMangel an Nahrung§! Strafe von [?lack_of_food_max|%1-]\n"
  RATIONS_INCREASE: "§G[?food_days|1%]§!"
  RATIONS_DECREASE: "§Y[?food_days|1%]§!"
  RATIONS_INSUFFICIENT: "§R[?food_days|1%]§!"
@@ -1942,7 +1942,7 @@
  LAW_HAS_ENOUGH_BUDGET: "Verfügbares £law_budget höher als [?selected_laws_budget_cost^i] ([?budget_free])"
 
  FOLLOWING_MODIFIER_SCALED:0 "\nDie folgenden §YModifikatoren§! werden um §Y[?factor|%1]:§ skaliert!"
- CADET_TRAINING_BONUS:0 "£organization_texticon Divisionsorganisation: [?bonus|1%+=] ([?t|+%1=])\n£organization_texticon Divisionswiederherstellungsrate: [?bonus|1%+=] ([?t|+%1 =])\n£organization_texticon Marineorganisation: [?bonus|1+=%] ([?t|+%1=])\n"
+ CADET_TRAINING_BONUS:0 "£organization_texticon Divisionsorganisation: [?bonus|1%+=] ([?t|+%1=])\n£organization_texticon Divisionswiederherstellungsrate: [?bonus|1%+=] ([?t|+%1=])\n£organization_texticon Marineorganisation: [?bonus|1+=%] ([?t|+%1=])\n"
 
  TAX_MINIMAL_EQUIPMENT_BONUS: "§YSchiffe transportieren:§! £Produktionskosten IC-Kosten: §R+10,00 %§!"
  TAX_LOW_EQUIPMENT_BONUS: "§YSchiffe transportieren:§! £Produktionskosten IC-Kosten: §R+5,00%§!"
@@ -2106,28 +2106,28 @@
  isolation: "$economy$: $isolation_name$"
  civilian_economy: "$economy$: $civilian_economy_name$"
  low_economic_mobilisation: "$economy$: $low_economic_mobilisation_name$"
- partial_economic_mobilisation: "$economy$: $partial_economic_mobilization_name$"
+ partial_economic_mobilisation: "$economy$: $partial_economic_mobilisation_name$"
  war_economy: "$economy$: $war_economy_name$"
  tot_economic_mobilisation: "$economy$: $tot_economic_mobilisation_name$"
- KMT_corrupted_government: "$economy$: $KMT_corrupted_ Government_name$"
- KMT_corrupted_government_lesser: "$economy$: $KMT_corrupted_ Government_lesser_name$"
- KMT_corrupted_government_wartime: "$economy$: $KMT_corrupted_ Government_wartime_name$"
- KMT_corrupted_government_wartime_lesser: "$economy$: $KMT_corrupted_ Government_wartime_lesser_name$"
+ KMT_corrupted_government: "$economy$: $KMT_corrupted_government_name$"
+ KMT_corrupted_government_lesser: "$economy$: $KMT_corrupted_government_lesser_name$"
+ KMT_corrupted_government_wartime: "$economy$: $KMT_corrupted_government_wartime_name$"
+ KMT_corrupted_government_wartime_lesser: "$economy$: $KMT_corrupted_government_wartime_lesser_name$"
  PRC_guerrilla_warfare: "$economy$: $PRC_guerrilla_warfare_name$"
  private_control: "$nationalization$: $private_control_name$"
- key_industries: "$nationalisierung$: $key_industries_name$"
+ key_industries: "$nationalization$: $key_industries_name$"
  major_industries: "$nationalization$: $major_industries_name$"
  planned_economy: "$nationalization$: $planned_economy_name$"
- stalin_economy: "$nationalisierung$: $stalin_economy_name$"
+ stalin_economy: "$nationalization$: $stalin_economy_name$"
  fdi_encouraged: "$fdi_regulations$: $fdi_encouraged_name$"
  fdi_allowed: "$fdi_regulations$: $fdi_allowed_name$"
  fdi_regulated: "$fdi_regulations$: $fdi_regulated_name$"
  fdi_banned: "$fdi_regulations$: $fdi_banned_name$"
- tariffs_none: "$tarifs$: $tarifs_none_name$"
- tariffs_low: "$tarifs$: $tarifs_low_name$"
- tariffs_average: "$tarifs$: $tarifs_average_name$"
- tariffs_high: "$tarifs$: $tarifs_high_name$"
- tariffs_extreme: "$tarifs$: $tarifs_extreme_name$"
+ tariffs_none: "$tariffs$: $tariffs_none_name$"
+ tariffs_low: "$tariffs$: $tariffs_low_name$"
+ tariffs_average: "$tariffs$: $tariffs_average_name$"
+ tariffs_high: "$tariffs$: $tariffs_high_name$"
+ tariffs_extreme: "$tariffs$: $tariffs_extreme_name$"
  free_trade: "$trade_laws$: $free_trade_name$"
  export_focus: "$trade_laws$: $export_focus_name$"
  limited_exports: "$trade_laws$: $limited_exports_name$"
@@ -2155,7 +2155,7 @@
  foreign_neutral: "$foreign_policy$: $foreign_neutral_name$"
  foreign_cooperative: "$foreign_policy$: $foreign_cooperative_name$"
  foreign_interventionism: "$foreign_policy$: $foreign_interventionism_name$"
- foreign_warmonger: "$foreign_policy$: $foreign_waronger_name$"
+ foreign_warmonger: "$foreign_policy$: $foreign_warmonger_name$"
  bonds_peace: "$bonds$: $bonds_peace_name$"
  bonds_basic: "$bonds$: $bonds_basic_name$"
  bonds_war_domestic: "$bonds$: $bonds_war_domestic_name$"
@@ -2170,7 +2170,7 @@
  cons_volunteer: "$conscription_law$: $cons_volunteer_name$"
  cons_one: "$conscription_law$: $cons_one_name$"
  cons_two: "$conscription_law$: $cons_two_name$"
- cons_three: "$conscription_law$: $cons_ three_name$"
+ cons_three: "$conscription_law$: $cons_three_name$"
  cons_expanded_draft: "$conscription_law$: $cons_expanded_draft_name$"
  cons_extensive_draft: "$conscription_law$: $cons_extensive_draft_name$"
  cons_barrel: "$conscription_law$: $cons_barrel_name$"
@@ -2421,7 +2421,7 @@ Naval_Energy_TT: "Marineenergieverbrauch\n\n[?t_u] Werften: [?t]\n[?t2_u] Großs
 
 ENERGY_CONVERSION_EFFICIENCY_TEXT_TT: "Ihre Raffinerien arbeiten mit einer Effizienz von [GetEnergyCostRes]. Sie können §Yerhöhen oder verringern§! Mit den Schaltflächen rechts können Sie die Priorität der Energiezuteilung festlegen."
 ENERGY_CONVERSION_INPUT_TEXT_TT: "So viel Energie benötigen Ihre Raffinerien zum §Yproduzieren§!, §Ysynthetisieren§! und §Ykonvertieren§! Ressourcen."
-ENERGY_CONVERSION_INPUT_TEXT_TT_DELAYED: "Ressourcenenergieverbrauch\n\n[?num_refinery_assigned@steel|Y0] von [?num_refinery@steel] Stahlraffinerien: [?energy_cost_@steel]\n[?num_refinery_assigned@aluminium|Y0] von [?num_refinery@aluminium] Aluminiumraffinerien: [?energy_cost_@aluminium]\n[?num_refinery_assigned@rubber|Y0] von [?num_refinery@rubber] Gummiraffinerien: [?energy_cost_@rubber]\n[?num_refinery_assigned@fuel|Y0] von [? num_refinery@fuel] Kraftstoffraffinerien: [?energy_cost_@fuel]"
+ENERGY_CONVERSION_INPUT_TEXT_TT_DELAYED: "Ressourcenenergieverbrauch\n\n[?num_refinery_assigned@steel|Y0] von [?num_refinery@steel] Stahlraffinerien: [?energy_cost_@steel]\n[?num_refinery_assigned@aluminium|Y0] von [?num_refinery@aluminium] Aluminiumraffinerien: [?energy_cost_@aluminium]\n[?num_refinery_assigned@rubber|Y0] von [?num_refinery@rubber] Gummiraffinerien: [?energy_cost_@rubber]\n[?num_refinery_assigned@fuel|Y0] von [?num_refinery@fuel] Kraftstoffraffinerien: [?energy_cost_@fuel]"
 
 prio_1: "Energiebemühungen können priorisiert und umgelenkt werden. Aufgaben mit höherer Priorität werden immer zuerst besetzt. Der Ersatz wird schrittweise an den Rest verteilt."
 prio_2: "Energiebemühungen können priorisiert und umgelenkt werden. Aufgaben mit höherer Priorität werden immer zuerst besetzt. Der Ersatz wird schrittweise an den Rest verteilt."

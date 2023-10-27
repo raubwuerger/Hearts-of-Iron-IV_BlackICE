@@ -1,9 +1,9 @@
 ﻿l_german:
  RESEARCH_BONUSES_TOOLTIP:0 "£tech_mod §YLimited technology bonuses:§!"
  RESEARCH_BONUSES_EMPTY_TOOLTIP:0 "Die §YLimited technology bonuses§! werden hier aufgelistet."
- RESEARCH_BONUS_SPEED_DESC:1 "§Y$COUNT$x§! $VALUE|G%0$ Forschungsgeschwindigkeit von $NAME|Y$"
- RESEARCH_BONUS_AHEAD_DESC:2 "§Y$COUNT$x§! $VALUE|G.1$ Jahre vor der Zeitreduktion von $NAME|Y$"
- RESEARCH_BONUS_SPEED_AHEAD_DESC:2 "§Y$COUNT$x§! $VALUE1|G%0$ Forschungsgeschwindigkeit und $VALUE2|G.1$ Jahre vorzeitige Reduktion von $NAME|Y$"
+ RESEARCH_BONUS_SPEED_DESC:1 "§Y$COUNT$x§! $VALUE|G%0$ Forschungsgeschwindigkeit von $NAME$"
+ RESEARCH_BONUS_AHEAD_DESC:2 "§Y$COUNT$x§! $VALUE|G.1$ Jahre vor der Zeitreduktion von $NAME$"
+ RESEARCH_BONUS_SPEED_AHEAD_DESC:2 "§Y$COUNT$x§! $VALUE1|G%0$ Forschungsgeschwindigkeit und $VALUE2|G.1$ Jahre vorzeitige Reduktion von $NAME$"
  RESEARCH_BONUS_SPEED_NO_COUNT_DESC:1 "Die Forschungsgeschwindigkeit wird um $VALUE|G%0$ erhöht"
  RESEARCH_BONUS_AHEAD_NO_COUNT_DESC:1 "Der Zeitvorsprung wird um $VALUE|.1G$ Jahre reduziert"
  RESEARCH_BONUS_SPEED_AHEAD_NO_COUNT_DESC:2 "Die Forschungsgeschwindigkeit wird um $VALUE|G%0$ erhöht und der Zeitvorteil um $VALUE2|G%0$ verringert"
