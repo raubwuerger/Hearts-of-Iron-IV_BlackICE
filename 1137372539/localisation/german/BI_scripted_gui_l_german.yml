@@ -1884,14 +1884,14 @@
  # energy tooltips
 
  energy: "Energie"
- energy_desc: "Energie ist das Lebenselixier der Wirtschaft Ihres Landes. Ohne Energie können Fabriken, Montagehallen, Werften und Raffinerien nicht funktionieren. Energie wird durch §YKraftwerke§! erzeugt, die entweder §OWärme§! sein können. oder §CHydro§! Typ. Ersteres läuft auf §OCoal§! oder §OKraftstoff§! während letzteres §CWater§! verwendet."
+ energy_desc: "Energie ist das Lebenselixier der Wirtschaft Ihres Landes. Ohne Energie können Fabriken, Montagehallen, Werften und Raffinerien nicht funktionieren. Energie wird durch §YKraftwerke§! erzeugt, die entweder §OWärme§! sein können. oder §CHydro§! Typ. Ersteres läuft auf §OKohle§! oder §OKraftstoff§! während letzteres §CWater§! verwendet."
 
  ENERGY_MAX_PRODUCTION_TOOLIP: "Unsere [?num_power_plant|Y0] Kraftwerke haben die Kapazität, [?max_energy_production|G0] §YEnergy§ zu produzieren!"
  ENERGY_PRODUCTION_TOOLIP: "Wir produzieren derzeit [?energy_produced|Y0] §YEnergy§!"
  ENERGY_CONSUMPTION_TOOLTIP: "Wir benötigen derzeit [?energy_cost|R0] §YEnergy§!"
 
- ENERGY_COAL_RATIO_TOOLTIP: "§YKlick§! um das Verhältnis von £resources_strip|8 §YCoal§ zu erhöhen! Wird in der §YEnergieerzeugung§ verwendet! um §Y5%§!"
- ENERGY_COAL_RATIO_TOOLTIP_DELAYED: "[?energy_ratio@coal|0%Y] unserer [?num_power_plant|Y0] Kraftwerke produzieren §YEnergie§! mit £resources_strip|8 §YCoal§!"
+ ENERGY_COAL_RATIO_TOOLTIP: "§YKlick§! um das Verhältnis von £resources_strip|8 §YKohle§ zu erhöhen! Wird in der §YEnergieerzeugung§ verwendet! um §Y5%§!"
+ ENERGY_COAL_RATIO_TOOLTIP_DELAYED: "[?energy_ratio@coal|0%Y] unserer [?num_power_plant|Y0] Kraftwerke produzieren §YEnergie§! mit £resources_strip|8 §YKohle§!"
  ENERGY_OIL_RATIO_TOOLTIP: "§YKlick§! um das Verhältnis von £fuel_texticon §YFuel§ zu erhöhen! Wird in der §YEnergieerzeugung§ verwendet! um §Y5%§!"
  ENERGY_OIL_RATIO_TOOLTIP_DELAYED: "[?energy_ratio@fuel|0%Y] unserer [?num_power_plant|Y0] Kraftwerke produzieren §YEnergie§! mit £fuel_texticon §YFuel§!\n\nUnsere Kraftwerke sind für maximal [?modifier@energy_fuel_fraction_cap|Y%1] £fuel_texticon §YFuel§ geeignet! Verwendung in §YEnergieerzeugung§!"
  ENERGY_OIL_CAPPED_TOOLTIP: "Unsere Energieanlagen sind für einen höheren %-Anteil £fuel_texticon §YFuel§ nicht geeignet! Wird in der §YEnergieerzeugung§ verwendet!"
@@ -2396,7 +2396,7 @@ ENERGY_INPUT_HYDRO_TEXT_TT: "Dies ist die Menge an Hydropflanzen. Sie verwenden 
 ENERGY_PRODUCED_COAL_TEXT_TT: "Mit Kohle erzeugte Energie"
 ENERGY_PRODUCED_FUEL_TEXT_TT: "Mit Kraftstoff erzeugte Energie"
 ENERGY_PRODUCTION_TEXT_TT: "Gesamte Energieproduktion"
-ENERGY_PRODUCTION_TITLE_TT: "Energie wird durch §YKraftwerke§ erzeugt! Das kann entweder §CHydro§! oder §OThermal§!. Letzterer Typ benötigt §YCoal§! oder §YKraftstoff§! zu bedienen."
+ENERGY_PRODUCTION_TITLE_TT: "Energie wird durch §YKraftwerke§ erzeugt! Das kann entweder §CHydro§! oder §OThermal§!. Letzterer Typ benötigt §YKohle§! oder §YKraftstoff§! zu bedienen."
 power_plant_icon_tt: "Das ist die Menge an §OThermal§! §YKraftwerke§! Sie besitzen derzeit. Sie können wie jedes andere Gebäude gebaut werden. Sie verbrauchen §YKohle§! oder §YKraftstoff§!. Die Ausgangskapazität ist bei beiden gleich."
 ENERGY_CONSUMPTION_TITLE_TT: "Ihr Land verbraucht ständig Energie. Von allen Aspekten der Wirtschaft benötigt, ohne ausreichende Energie, §YProduktion und Bauwesen§! kann ernsthaft beeinträchtigt werden."
 
@@ -2431,10 +2431,10 @@ prio_2_tt: "§YMmittlere Priorität§!"
 prio_3_tt: "§GHöchste Priorität§!"
 
 
-BI_steel_conversion_container_TT: "£resources_strip|5 §YSteel§! wird von £civ_factory §YStahlraffinierie§! hergestellt, die £resources_strip|9 §YIron§!, £resources_strip|8 §YCoal§! und £electricity_small §YEnergy§!."
+BI_steel_conversion_container_TT: "£resources_strip|5 §YSteel§! wird von £civ_factory §YStahlraffinierie§! hergestellt, die £resources_strip|9 §YIron§!, £resources_strip|8 §YKohle§! und £electricity_small §YEnergy§!."
 input_iron_text_tt: "So viel £resources_strip|9 §YIron§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung."
 input_chromium_text_tt: "So viele £resources_strip|6 §YAllieren von Metallen§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung. Verwendung von §Legieren von Metallen§! ist optional und erhöht den £resources_strip|5 §YSteel§! Ausgabe."
-input_coal_text_tt: "So viel £resources_strip|8 §YCoal§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung."
+input_coal_text_tt: "So viel £resources_strip|8 §YKohle§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung."
 energy_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung."
 output_text_tt: "So viel £resources_strip|5 §YSteel§! jede £civ_factory §YSteel Refinery§! kann mit vollem Durchsatz ausgegeben werden."
 output_alloy_text_tt: "So viel £resources_strip|5 §YSteel§! jede £civ_factory §YSteel Refinery§! Gewinne aus dieser Rezeptergänzung."
@@ -2446,8 +2446,8 @@ energy_aluminium_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ
 output_aluminium_text_tt: "So viel £resources_strip|2 §YAluminium§! jede £civ_factory §YAluminium Refinery§! kann mit vollem Durchsatz ausgegeben werden."
 ALUMINIUM_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|2 §YAluminium§! unsere £civ_factory [?num_refinery_assigned@aluminium|Y0] §YAluminium Refineries§! ausgeben."
 
-BI_synth_fuel_conversion_container_TT: "£civ_factory §YSynthetische Raffinerien§! kann synthetischen £fuel_state §YFuel§! erzeugen durch Umwandlung von Kohle in flüssige Kohlenwasserstoffe. Daher benötigen sie £resources_strip|8 §YCoal§! und £electricity_small §YEnergy§! zu bedienen."
-input_coal_fuel_text_tt: "So viel £resources_strip|8 §YCoal§! jede £civ_factory §YSynthetic Refinery§! Erforderlich für maximale Leistung."
+BI_synth_fuel_conversion_container_TT: "£civ_factory §YSynthetische Raffinerien§! kann synthetischen £fuel_state §YFuel§! erzeugen durch Umwandlung von Kohle in flüssige Kohlenwasserstoffe. Daher benötigen sie £resources_strip|8 §YKohle§! und £electricity_small §YEnergy§! zu bedienen."
+input_coal_fuel_text_tt: "So viel £resources_strip|8 §YKohle§! jede £civ_factory §YSynthetic Refinery§! Erforderlich für maximale Leistung."
 energy_synth_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ_factory §YSynthetic Refinery§! Erforderlich für maximale Leistung."
 output_synth_text_tt: "So viel £fuel_texticon §YFuel§! jede £civ_factory §YSynthetic Refinery§! kann mit vollem Durchsatz ausgegeben werden."
 FUEL_OUTPUT_TEXT_TT: "So viel §Ototal§! £fuel_texticon §YFuel§! unsere £civ_factory [?num_refinery_assigned@fuel|Y0] §YSynthetic Refineries§! ausgeben."
