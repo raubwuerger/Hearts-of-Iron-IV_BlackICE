@@ -1851,7 +1851,7 @@
  ENERGY_RATIO_COAL_TEXT: "[?energy_ratio@coal|%0]"
  ENERGY_RATIO_COAL_TEXT_TT: "§Y[?energy_ratio@coal|%0]§! unserer §YKraftwerke§! Benutze §YKohle§! Strom zu erzeugen. Sie können das Verhältnis an Ihre Ressourcenkapazität anpassen."
  ENERGY_RATIO_FUEL_TEXT: "[?energy_ratio@fuel|%0]"
- ENERGY_RATIO_FUEL_TEXT_TT: "§Y[?energy_ratio@fuel|%0]§! unserer §YKraftwerke§! Benutze §YFuel§! Strom zu erzeugen. Sie können das Verhältnis an Ihre Ressourcenkapazität anpassen."
+ ENERGY_RATIO_FUEL_TEXT_TT: "§Y[?energy_ratio@fuel|%0]§! unserer §YKraftwerke§! Benutze §YTreibstoff§! um Strom zu erzeugen. Sie können das Verhältnis an Ihre Ressourcenkapazität anpassen."
 
  ENERGY_PRODUCTION_TITLE: "Energie Produktion"
  ENERGY_PRODUCTION_TEXT: "[?energy_produced|Y=0]"
@@ -1892,9 +1892,9 @@
 
  ENERGY_COAL_RATIO_TOOLTIP: "§YKlick§! um das Verhältnis von £resources_strip|8 §YKohle§ zu erhöhen! Wird in der §YEnergieerzeugung§ verwendet! um §Y5%§!"
  ENERGY_COAL_RATIO_TOOLTIP_DELAYED: "[?energy_ratio@coal|0%Y] unserer [?num_power_plant|Y0] Kraftwerke produzieren §YEnergie§! mit £resources_strip|8 §YKohle§!"
- ENERGY_OIL_RATIO_TOOLTIP: "§YKlick§! um das Verhältnis von £fuel_texticon §YFuel§ zu erhöhen! Wird in der §YEnergieerzeugung§ verwendet! um §Y5%§!"
- ENERGY_OIL_RATIO_TOOLTIP_DELAYED: "[?energy_ratio@fuel|0%Y] unserer [?num_power_plant|Y0] Kraftwerke produzieren §YEnergie§! mit £fuel_texticon §YFuel§!\n\nUnsere Kraftwerke sind für maximal [?modifier@energy_fuel_fraction_cap|Y%1] £fuel_texticon §YFuel§ geeignet! Verwendung in §YEnergieerzeugung§!"
- ENERGY_OIL_CAPPED_TOOLTIP: "Unsere Energieanlagen sind für einen höheren %-Anteil £fuel_texticon §YFuel§ nicht geeignet! Wird in der §YEnergieerzeugung§ verwendet!"
+ ENERGY_OIL_RATIO_TOOLTIP: "§YKlick§! um das Verhältnis von £fuel_texticon §YTreibstoff§ zu erhöhen! Wird in der §YEnergieerzeugung§ verwendet! um §Y5%§!"
+ ENERGY_OIL_RATIO_TOOLTIP_DELAYED: "[?energy_ratio@fuel|0%Y] unserer [?num_power_plant|Y0] Kraftwerke produzieren §YEnergie§! mit £fuel_texticon §YTreibstoff§!\n\nUnsere Kraftwerke sind für maximal [?modifier@energy_fuel_fraction_cap|Y%1] £fuel_texticon §YTreibstoff§ geeignet! Verwendung in §YEnergieerzeugung§!"
+ ENERGY_OIL_CAPPED_TOOLTIP: "Unsere Energieanlagen sind für einen höheren %-Anteil £fuel_texticon §YTreibstoff§ nicht geeignet! Wird in der §YEnergieerzeugung§ verwendet!"
  # production tab
  MILITARY_ENERGY_TEXT: "Energie: [GetEnergyCostMil]"
  MILITARY_ENERGY_TOOLTIP: ""
@@ -2446,11 +2446,11 @@ energy_aluminium_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ
 output_aluminium_text_tt: "So viel £resources_strip|2 §YAluminium§! jede £civ_factory §YAluminium Refinery§! kann mit vollem Durchsatz ausgegeben werden."
 ALUMINIUM_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|2 §YAluminium§! unsere £civ_factory [?num_refinery_assigned@aluminium|Y0] §YAluminiumhütten§! ausgeben."
 
-BI_synth_fuel_conversion_container_TT: "£civ_factory §YSynthetische Raffinerien§! kann synthetischen £fuel_state §YFuel§! erzeugen durch Umwandlung von Kohle in flüssige Kohlenwasserstoffe. Daher benötigen sie £resources_strip|8 §YKohle§! und £electricity_small §YEnergy§! zu bedienen."
+BI_synth_fuel_conversion_container_TT: "£civ_factory §YSynthetische Raffinerien§! kann synthetischen £fuel_state §YTreibstoff§! erzeugen durch Umwandlung von Kohle in flüssige Kohlenwasserstoffe. Daher benötigen sie £resources_strip|8 §YKohle§! und £electricity_small §YEnergy§! zu bedienen."
 input_coal_fuel_text_tt: "So viel £resources_strip|8 §YKohle§! jede £civ_factory §YSynthetic Refinery§! Erforderlich für maximale Leistung."
 energy_synth_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ_factory §YSynthetic Refinery§! Erforderlich für maximale Leistung."
-output_synth_text_tt: "So viel £fuel_texticon §YFuel§! jede £civ_factory §YSynthetic Refinery§! kann mit vollem Durchsatz ausgegeben werden."
-FUEL_OUTPUT_TEXT_TT: "So viel §Ototal§! £fuel_texticon §YFuel§! unsere £civ_factory [?num_refinery_assigned@fuel|Y0] §YSynthetic Refineries§! ausgeben."
+output_synth_text_tt: "So viel £fuel_texticon §YTreibstoff§! jede £civ_factory §YSynthetic Refinery§! kann mit vollem Durchsatz ausgegeben werden."
+FUEL_OUTPUT_TEXT_TT: "So viel §Ototal§! £fuel_texticon §YTreibstoff§! unsere £civ_factory [?num_refinery_assigned@fuel|Y0] §YSynthetic Refineries§! ausgeben."
 
 BI_rubber_conversion_container_TT: "£civ_factory §YRubber Refineries§! kann synthetische £resources_strip|3 §YRubber§! produzieren. Sie benötigen £electricity_small §YEnergie§! zu bedienen."
 energy_rubber_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ_factory §YRubber Refinery§! Erforderlich für maximale Leistung."

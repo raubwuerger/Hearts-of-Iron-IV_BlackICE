@@ -109,7 +109,7 @@
  
  fuel_silo:0 "Kraftstoffsilo"
  fuel_silo_plural:0 "Kraftstoffsilos"
- fuel_silo_desc:0 "Dieses Gebäude bietet Ihrer Nation mehr Platz für die Bevorratung §HFuel§!.$fuel_silo_effect$"
+ fuel_silo_desc:0 "Dieses Gebäude bietet Ihrer Nation mehr Platz für die Bevorratung mit §HTreibstoff§!.$fuel_silo_effect$"
  fuel_silo_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y5§!\nInfrastruktureffekt: §GJa§!"
  
  supply_node:1 "Versorgungsknoten"

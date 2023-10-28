@@ -782,7 +782,7 @@ develop_montana_chromium_deposits:0 "Erschließung der Chromvorkommen in Montana
  crisis:0 "Krise"
  formable_nations:0 "Nation bilden"
  lack_of_fuel_mission:0 "Mangel an Treibstoff"
- lack_of_fuel_mission_TT:0 "Hat genug §YTreibstoff§! im Vorrat für §Y30§! Tage des zivilen Treibstoffverbrauchs (§Y[?required|0]K§!)"
+ lack_of_fuel_mission_TT:0 "Hat genug §YTreibstoff§! im Nachschub für §Y30§! Tage des zivilen Treibstoffverbrauchs (§Y[?required|0]K§!)"
  draft_dodging:0 "Entwurfsvermeidung"
  draft_dodging_2:0 "Umfassendes Draft Dodging"
  draft_dodging_3:0 "Weitverbreitetes Draft Dodging"
