@@ -68,7 +68,7 @@
  ROM_foster_domestic_industries_desc:0 "Wir müssen unsere heimische Industrie ausbauen, damit sie bei Bedarf leicht umgewandelt und für militärische Zwecke genutzt werden kann. Zu diesem Zweck hat einer unserer Wirtschaftsmagnaten einige recht interessante Ideen, die wir uns zunutze machen könnten..."
  ROM_invite_foreign_capital:0 "Ausländische Kaptalindustrie einladen"
  ROM_invite_foreign_capital_desc:0 "Anstatt Ressourcen für die Steigerung der Produktion unbewährter inländischer Konstruktionen aufzuwenden, würden wir mehr davon profitieren, wenn wir bewährte ausländische Konstruktionen in Lizenz produzieren würden."
- ROM_attract_foreign_capitals_dynamic_modifier_tt:0 "Gewinnt Nationalgeist §YAusländische Industrie§!, was (Politischer Machtzuwachs: §G+5%§!, Baugeschwindigkeit: §R-10%§!, Fabrikproduktion: §R-2%§!, £GFX_prod_eff_cap Produktionseffizienz-Obergrenze: §R-5%§!, £GFX_prod_eff Wachstum der Produktionseffizienz: §R-5%§!)"
+ ROM_attract_foreign_capitals_dynamic_modifier_tt:0 "Gewinnt Nationalgeist §YAusländische Industrie§!, was (Politischer Machtzuwachs: §G+5%§!, Baugeschwindigkeit: §R-10%§!, Fabrikproduktion: §R-2%§!, £GFX_prod_eff_cap Produktionseffizienz Obergrenze: §R-5%§!, £GFX_prod_eff Wachstum der Produktionseffizienz: §R-5%§!)"
 
  ROM_hunedoara_steel_works:0 "Hunedoara-Stahlwerk"
  ROM_hunedoara_steel_works_desc:0 "Um den Bedarf unserer Rüstungsproduktion zu decken, müssen die großen Stahlwerke in Transsilvanien modernisiert und drastisch erweitert werden."

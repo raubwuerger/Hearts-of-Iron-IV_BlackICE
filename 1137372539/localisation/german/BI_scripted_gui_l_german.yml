@@ -119,29 +119,29 @@
  SHIPYARD_FACTORY_TOOLTIP:0 "\n§YShipyards§!\n\nMax. Level: §Y[GetMaxShipyardNumber]§!\nAktuelles Level: [?num_shipyard_total|Y0]\nBeschädigt: [?num_shipyard_damaged|0R]\n\n£nic_factory_output §YDockyard§! Ausgabe: [GetShipyardBonus] \n§YSubmarine§!: £production_cost IC-Kosten: [?num_shipyard|-=]§R%§!"
  SUBYARD_FACTORY_TOOLTIP:0 "\n§YSubyards§!\n\nMax. Level: §Y[GetMaxSubyardNumber]§!\nAktuelles Level: [?num_subyard_total|Y0]\nBeschädigt: [?num_subyard_damaged|0R]\n\n§YSubmarine§!: £production_cost IC Kosten: §G-[GetSubyardBonus]§!"
 
- CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Kapazität der Großwerft§! zur Verwendung.\nInsgesamt genutzt: §Y[?resource_consumed@shipyard_capital]§![GetCapitalProductionFree]\n\nInsgesamt Capital Shipyards: [?num_capital_shipyard|Y0]\n Beschädigt: [?num_capital_shipyard_damaged|R0]\n\nKapazität pro Werft: [?modifier@shipyard_capital_capacity|Y0]\n [!shipyard_assembly_capacity_click]"
- AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Luftproduktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\nLuftmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@air_production_capacity|Y0]\n [!air_assembly_capacity_click]"
- TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@tank_production]§!\n\nGesamtzahl der Tankmontageanlagen: [?num_tank_assembly|Y0]\n Beschädigt: [?num_tank_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@tank_production_capacity|Y0]\n [!tank_assembly_capacity_click]"
- ENGINE_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@engine_production] Motorenproduktionskapazität§! zur Verwendung.\nInsgesamt genutzt: §Y[?resource_consumed@engine_production]§!\n\nInsgesamt Motorenmontagewerke: [?num_engine_assembly|Y0]\n Beschädigt: [?num_engine_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@engine_production_capacity|Y0]\n [!engine_assembly_capacity_click]"
- ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_production] Artillerie-Produktionskapazität§! zur Verwendung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_production]§!\n\nGesamtzahl der Artillerie-Montageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@artillery_production_capacity|Y0]\n [!artillery_assembly_capacity_click]"
+ CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Kapazität der Großwerft§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@shipyard_capital]§![GetCapitalProductionFree]\n\nInsgesamt Große Schiffswerften: [?num_capital_shipyard|Y0]\n Beschädigt: [?num_capital_shipyard_damaged|R0]\n\nKapazität pro Werft: [?modifier@shipyard_capital_capacity|Y0]\n [!shipyard_assembly_capacity_click]"
+ AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Luftproduktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\nLuftmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@air_production_capacity|Y0]\n [!air_assembly_capacity_click]"
+ TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@tank_production]§!\n\nGesamtzahl der Tankmontageanlagen: [?num_tank_assembly|Y0]\n Beschädigt: [?num_tank_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@tank_production_capacity|Y0]\n [!tank_assembly_capacity_click]"
+ ENGINE_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@engine_production] Motorenproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@engine_production]§!\n\nInsgesamt Motorenmontagewerke: [?num_engine_assembly|Y0]\n Beschädigt: [?num_engine_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@engine_production_capacity|Y0]\n [!engine_assembly_capacity_click]"
+ ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_production] Artillerie-Produktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_production]§!\n\nGesamtzahl der Artillerie-Montageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@artillery_production_capacity|Y0]\n [!artillery_assembly_capacity_click]"
  
  CAPITAL_SHIPYARD_PRODUCTION_FREE: "\nKapitalschiffäquivalente unbenutzt: §Y[?num_capital_shipyard_free|2]§!"
  
  STARTING_EFFICIENCY:0 "§G[Root.GetStartingEfficiency]§!"
- STARTING_EFFICIENCY_TOOLTIP:0 "\n§YProduktionseffizienz starten§!\nBasis: §Y10,00 %§!\n[!production_start_efficiency_icon_click]"
+ STARTING_EFFICIENCY_TOOLTIP:0 "\n§YProduktionseffizienz Grundwert§!\nBasis: §Y10,00 %§!\n[!production_start_efficiency_icon_click]"
  STARTING_EFFICIENCY_ICON_TT:0 "§YFactory Start Efficiency Factor§!"
  LOCAL_RESOURCES_TEXT:0 "[?modifier@resources_factor|%0=+]"
  LOCAL_RESOURCES_TOOLTIP:0 "\n§YRessourcenextraktion§!\n [!local_resources_icon_click]"
  
  EXTRA_RESOURCE_PRODUCTION_FACTOR_TEXT: "\n\n§YRessourcenspezifische Produktionsmodifikatoren:§!"
- OIL_PRODUCTION_FACTOR_TEXT: "£resources_strip|1 §YOil§! Produktionsfaktor: [?modifier@oil_resource_factor|+=2%]"
- RUBBER_PRODUCTION_FACTOR_TEXT: "£resources_strip|3 §YRubber§! Produktionsfaktor: [?modifier@rubber_resource_factor|+=2%]"
- TUNGSTEN_PRODUCTION_FACTOR_TEXT: "£resources_strip|4 §YTungsten§! Produktionsfaktor: [?modifier@tungsten_resource_factor|+=2%]"
- CHROMIUM_PRODUCTION_FACTOR_TEXT: "£resources_strip|6 §YALegieren von Metallen§! Produktionsfaktor: [?modifier@chromium_resource_factor|+=2%]"
+ OIL_PRODUCTION_FACTOR_TEXT: "£resources_strip|1 §YÖl§! Produktionsfaktor: [?modifier@oil_resource_factor|+=2%]"
+ RUBBER_PRODUCTION_FACTOR_TEXT: "£resources_strip|3 §YGummi§! Produktionsfaktor: [?modifier@rubber_resource_factor|+=2%]"
+ TUNGSTEN_PRODUCTION_FACTOR_TEXT: "£resources_strip|4 §YWolfram§! Produktionsfaktor: [?modifier@tungsten_resource_factor|+=2%]"
+ CHROMIUM_PRODUCTION_FACTOR_TEXT: "£resources_strip|6 §YALegieren§! Produktionsfaktor: [?modifier@chromium_resource_factor|+=2%]"
  BAUXITE_PRODUCTION_FACTOR_TEXT: "£resources_strip|7 §YBauxit§! Produktionsfaktor: [?modifier@bauxite_resource_factor|+=2%]"
- IRON_PRODUCTION_FACTOR_TEXT: "£resources_strip|9 §YIron§! Produktionsfaktor: [?modifier@iron_resource_factor|+=2%]"
- COAL_PRODUCTION_FACTOR_TEXT: "£resources_strip|8 §YCoal§! Produktionsfaktor: [?modifier@coal_resource_factor|+=2%]"
- FOOD_PRODUCTION_FACTOR_TEXT: "£resources_strip|10 §YFood§! Produktionsfaktor: [?modifier@food_resource_factor|+=2%]"
+ IRON_PRODUCTION_FACTOR_TEXT: "£resources_strip|9 §YEisen§! Produktionsfaktor: [?modifier@iron_resource_factor|+=2%]"
+ COAL_PRODUCTION_FACTOR_TEXT: "£resources_strip|8 §YKohle§! Produktionsfaktor: [?modifier@coal_resource_factor|+=2%]"
+ FOOD_PRODUCTION_FACTOR_TEXT: "£resources_strip|10 §YLebensmittel§! Produktionsfaktor: [?modifier@food_resource_factor|+=2%]"
  
  GLOBAL_TENSION_TT:0 "[?global.threat|W0%]"
  COUNTRY_TENSION_BI:0 "[?has_added_tension_amount|R1]§R%§!"
@@ -150,9 +150,9 @@
  
  ROOT_MANPOWER_QUEUE:0 "§Y[?amount_manpower_in_deployment_queue]§! £manpower_icon"
  
- TOTAL_FAC_TT:0 "§YFabriken§!\nZivile Fabriken: [?num_of_civilian_factories|Y0]\n §LAVerfügbare Fabriken für Projekte: [?num_of_civilian_factories_available_for_projects]§!\nMilitärische Fabriken: [?num_of_military_factories|Y0]\nMarinewerften: [?num_of_naval_factories|Y0] \n \nLuftmontagewerke: [?num_air_assembly|Y0]\nPanzermontagewerke: [?num_tank_assembly|Y0]\nMotormontagewerke: [?num_engine_assembly|Y0]\nArtilleriemontagewerke: [?num_artillery_assembly|Y0]"
+ TOTAL_FAC_TT:0 "§YFabriken§!\nZivilfabriken: [?num_of_civilian_factories|Y0]\n §LAVerfügbare Fabriken für Projekte: [?num_of_civilian_factories_available_for_projects]§!\nMilitärische Fabriken: [?num_of_military_factories|Y0]\nMarinewerften: [?num_of_naval_factories|Y0] \n \nLuftmontagewerke: [?num_air_assembly|Y0]\nPanzermontagewerke: [?num_tank_assembly|Y0]\nMotormontagewerke: [?num_engine_assembly|Y0]\nArtilleriemontagewerke: [?num_artillery_assembly|Y0]"
  
- STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Storage§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n – Täglicher Gewinn: [GetStorageInput] \n – Täglicher Output: [?storage_output@var:v|0-] ([?global.resource_cost@var:v|Y0] pro Speicher)\n\nMaximale Speicherkapazität: [?max_storage@var:v|Y0]\n Kapital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivile Fabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n Ressourcenproduktion: [?max_storage_resource@var:v|Y0]\n\n[GetStorageEstimate]"
+ STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Storage§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n – Täglicher Gewinn: [GetStorageInput] \n – Täglicher Output: [?storage_output@var:v|0-] ([?global.resource_cost@var:v|Y0] pro Speicher)\n\nMaximale Speicherkapazität: [?max_storage@var:v|Y0]\n Kapital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivilefabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n Ressourcenproduktion: [?max_storage_resource@var:v|Y0]\n\n[GetStorageEstimate]"
  STORAGE_TOPBAR_TOOLTIP_DELAYED:0 "[GetStorageSettingTT]"
   
  STORAGE_ESTIMATE_EMPTY_TEXT:0 "Wir gehen davon aus, dass unsere Vorräte in [?m|R0] Tagen aufgebraucht sein werden"
@@ -996,7 +996,7 @@
  radio_equipment_armor_group_tech:0 "Hat §YRadio Equipment§ eingeführt! zu §YRüstungsbataillone§!"
  radio_equipment_support_group_tech:0 "Hat §YRadio Equipment§ eingeführt! zu §YBataillone unterstützen§!"
  
- REFINERY_ALERT_TT:0 "§YUzugewiesene Raffinerien§!\nWir verfügen über genügend Ressourcen, um weitere £civ_factory §YRaffinerien§ zuzuweisen! um ein Defizit zu beheben oder unsere Importe zugunsten der inländischen Produktion zu senken.\n\n[?ui_refinery_potential@steel|+1] zusätzliche £resources_strip|5 §YSteel Refineries§! können zugewiesen werden\n[?ui_refinery_potential@aluminium|+1] zusätzliche £resources_strip|2 §YAluminium Refineries§! zugeordnet werden können"
+ REFINERY_ALERT_TT:0 "§YUzugewiesene Raffinerien§!\nWir verfügen über genügend Ressourcen, um weitere £civ_factory §YRaffinerien§ zuzuweisen! um ein Defizit zu beheben oder unsere Importe zugunsten der inländischen Produktion zu senken.\n\n[?ui_refinery_potential@steel|+1] zusätzliche £resources_strip|5 §YStahlraffinierie§! können zugewiesen werden\n[?ui_refinery_potential@aluminium|+1] zusätzliche £resources_strip|2 §YAluminium Refineries§! zugeordnet werden können"
  REFINERY_ALERT_DELAYED_TT: "§YRaffinerien zuweisen§! Klicken Sie im Handels-Tab auf §CUmwandlung§! Taste. §YRaffinerien§! werden ähnlich wie Militärfabriken zugeordnet."
  
  EQUIPMENT_INTRO_ALERT_TT:0 "§Geräteeinführung§!"
@@ -1152,9 +1152,9 @@
  INDUSTRY_EVAC_REMOVE_DURING_PROGRESS_REMOVE_TOOLTIP:0 "Verschiebt während dieser Entscheidungslaufzeit [?remove_during|Y%0] Gebäude, die derzeit folgende sind:"
  INDUSTRY_EVAC_REMOVE_AT_END_TOOLTIP:0 "\n§YAuswirkungen beim Entfernen:§!\n"
  
- INDUSTRY_EVAC_REMOVE_CIC_TOOLTIP:0 " [?From.CIC_during|G0] §YZivile Fabriken§!\n"
- INDUSTRY_EVAC_REMOVE_MIC_TOOLTIP:0 " [?From.MIC_during|G0] §YMitärische Fabriken§!\n"
- INDUSTRY_EVAC_REMOVE_TANK_TOOLTIP:0 " [?From.TANK_during|G0] §YTankfabriken§!\n"
+ INDUSTRY_EVAC_REMOVE_CIC_TOOLTIP:0 " [?From.CIC_during|G0] §YZivilefabriken§!\n"
+ INDUSTRY_EVAC_REMOVE_MIC_TOOLTIP:0 " [?From.MIC_during|G0] §YMitärfabriken§!\n"
+ INDUSTRY_EVAC_REMOVE_TANK_TOOLTIP:0 " [?From.TANK_during|G0] §YPanzerfabriken§!\n"
  INDUSTRY_EVAC_REMOVE_TRUCK_TOOLTIP:0 " [?From.TRUCK_during|G0] §YLkw-Fabriken§!\n"
  INDUSTRY_EVAC_REMOVE_ARTY_TOOLTIP:0 " [?From.ARTY_during|G0] §YArtilleriefabriken§!\n"
  INDUSTRY_EVAC_REMOVE_SMALL_TOOLTIP:0 " [?From.SMALL_during|G0] §YKleinwaffenfabriken§!\n"
@@ -1629,23 +1629,23 @@
  BAUXITE_OVERVIEW_TOOLTIP: "§YBauxit§!"
  IRON_OVERVIEW_TOOLTIP: "§YEisen§!"
  COAL_OVERVIEW_TOOLTIP: "§YKohle§!"
- FOOD_OVERVIEW_TOOLTIP: "§YEssen§!"
- STEEL_OVERVIEW_TOOLTIP: "§YSteel§!"
+ FOOD_OVERVIEW_TOOLTIP: "§YRationen§!"
+ STEEL_OVERVIEW_TOOLTIP: "§YStahl§!"
  TUNGSTEN_OVERVIEW_TOOLTIP: "§YWolfram§!"
  RUBBER_OVERVIEW_TOOLTIP: "§YGummi§!"
  ALUMINIUM_OVERVIEW_TOOLTIP: "§YAluminium§!"
- CHROMIUM_OVERVIEW_TOOLTIP: "§Legieren von Metallen§!"
+ CHROMIUM_OVERVIEW_TOOLTIP: "§Legieren§!"
  
- BAUXITE_NEED_TOOLTIP: "Wir haben [?avb_bauxite|0Y] Einheiten §YBauxit§! zur Verwendung.\n\nAktueller Raffinerieverbrauch: [?bauxite_need|Y0]\nMaximaler Raffinerieverbrauch: [?bauxite_need_max_t|Y0]"
- IRON_NEED_TOOLTIP: "Wir haben [?avb_iron|0Y] Einheiten von §YIron§! zur Verwendung.\n\nAktueller Raffinerieverbrauch: [?iron_need|Y0]\nMaximaler Raffinerieverbrauch: [?iron_need_max_t|Y0]"
- COAL_NEED_TOOLTIP: "Wir haben [?avb_coal|0Y] Einheiten §YCoal§! zur Nutzung.\n\nAktueller Verbrauch: [?coal_need|Y0]\n -Raffinerien: [?conversion_use_@coal|Y0]\n -Züge: [?train_use@coal|Y0]\n\nMaximaler Raffinerieverbrauch: [?coal_need_max_t|Y0]\n -Raffinerien: [?conversion_actual_use_@coal|Y0]\n -Züge: [?train_use_target@coal|Y0]"
- FOOD_NEED_TOOLTIP: "Wir haben [?food_avb|0Y] Einheiten §YFood§! zur Verwendung.\n\nAktueller Lebensmittelverbrauch: [?t|Y0]\nBenötigt durch Produktionslinien: [?resource_consumed@food|Y0]"
+ BAUXITE_NEED_TOOLTIP: "Wir haben [?avb_bauxite|0Y] Einheiten §YBauxit§! zur Verfügung.\n\nAktueller Raffinerieverbrauch: [?bauxite_need|Y0]\nMaximaler Raffinerieverbrauch: [?bauxite_need_max_t|Y0]"
+ IRON_NEED_TOOLTIP: "Wir haben [?avb_iron|0Y] Einheiten von §YEisen§! zur Verfügung.\n\nAktueller Raffinerieverbrauch: [?iron_need|Y0]\nMaximaler Raffinerieverbrauch: [?iron_need_max_t|Y0]"
+ COAL_NEED_TOOLTIP: "Wir haben [?avb_coal|0Y] Einheiten §YKohle§! zur Verfügung.\n\nAktueller Verbrauch: [?coal_need|Y0]\n -Raffinerien: [?conversion_use_@coal|Y0]\n -Züge: [?train_use@coal|Y0]\n\nMaximaler Raffinerieverbrauch: [?coal_need_max_t|Y0]\n -Raffinerien: [?conversion_actual_use_@coal|Y0]\n -Züge: [?train_use_target@coal|Y0]"
+ FOOD_NEED_TOOLTIP: "Wir haben [?food_avb|0Y] Einheiten §YRationen§! zur Verfügung.\n\nAktueller Lebensmittelverbrauch: [?t|Y0]\nBenötigt durch Produktionslinien: [?resource_consumed@food|Y0]"
  RESOURCE_C_M_TEXT:0 "C:\nM:"
  
  TRADE_TAB_LAW_TOOLTIP: "[!law_click]"
  MIN_EXPORT_TOOLTIP: "§Y£resources_texticon Veredelte Ressourcen auf den Markt§!\nWir exportieren derzeit [?modifier@min_export|Y%0] von §YRefined Resources§!\n\n £resources_strip|1 £resources_strip|2 £resources_strip|3 £resources_strip|4 £resources_strip|5 £resources_strip|6"
  MIN_ORE_EXPORT_TOOLTIP: "£ore_resources_texticon §YOre Ressourcen auf den Markt§!\nWir exportieren derzeit [?modifier@min_ore_export|Y%0] von §Yextrahierten Erzen§!\n\n £resources_strip|7 £resources_strip|8 £resources_strip|9"
- MIN_FOOD_EXPORT_TOOLTIP: "£food_resources_texticon §YFood to Market§!\nWir exportieren derzeit [?modifier@min_food_export|Y%0] von §YFood§!\n\n £resources_strip|10"
+ MIN_FOOD_EXPORT_TOOLTIP: "£food_resources_texticon §YRationen zum Markt§!\nWir exportieren derzeit [?modifier@min_food_export|Y%0] von §YRationen§!\n\n £resources_strip|10"
  GLOBAL_RESOURCE_EXPORT: "Global §Y[?v.GetTokenLocalizedKey]§! §YExporte§!"
  GLOBAL_RESOURCE_IMPORT: "Global §Y[?v.GetTokenLocalizedKey]§! §CImporte§!"
  
@@ -1740,7 +1740,7 @@
  STEEL_INPUT_CHROMIUM_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss an [?chromium_surplus|G0]£resources_strip|6 Legierungsmetallen, genug, um weitere [?num_possible|Y1] £civ_factory §YRefineries§ zu versorgen!"
 
 
- STEEL_INPUT_ADD_CHROMIUM_TOOLTIP: "[?max_num_alloy_refinery|Y0] aus unseren [?num_refinery@steel|Y0] §YSteel Refineries§! Verwenden Sie diesen Rezeptzusatz."
+ STEEL_INPUT_ADD_CHROMIUM_TOOLTIP: "[?max_num_alloy_refinery|Y0] aus unseren [?num_refinery@steel|Y0] §YStahlraffinierie§! Verwenden Sie diesen Rezeptzusatz."
 
  RUBBER_ENERGY_COST_TEXT:0 "[GetRubberEnergyColor]"
  RUBBER_ASSIGNED_REFINERIES_TEXT:0 "[?num_refinery_assigned@rubber] / [?num_refinery@rubber]"
@@ -1860,7 +1860,7 @@
  ENERGY_PRODUCED_HYDRO_TEXT: "[?energy_produced@hydro|Y=0]"
 
  TOPBAR_ENERGY_TOOLTIP: "§YEnergy§!\n\n[GetTextForRatio]\n\nMax. Kapazität: [GetEnergyCapacity]\n\nErzeugte Gesamtenergie: [?energy_produced|G0]\n Basis: §Y100§!\n[GetEnergyDemandBrokenDown]\ n\nGesamtenergieverbrauch: [?energy_cost|R0]\n Zivil: [?energy_cost@energy_civilian|Y0]\n Militär: [?energy_cost@energy_military|Y0]\n Marine: [?energy_cost@energy_naval|Y0]\n Ressourcen: [?energy_cost@energy_conversion|Y0]" 
- GetEnergyDemandBrokenDown: "§OThermisch§! Pflanzen: [?t|Y0]\n §CHydro§! Pflanzen: [?h|Y0]"
+ GetEnergyDemandBrokenDown: "§OThermische§! Anlagen: [?t|Y0]\n §CWasserkraftwerke§!: [?h|Y0]"
  ENERGY_CONSUMPTION_TITLE: "Energieverbrauch"
  ENERGY_CONSUMPTION_TEXT: "§R-[?energy_cost|0]§!"
 
@@ -1905,7 +1905,7 @@
 
  ## FOOD
  TOPBAR_FOOD_TOOLTIP: "[!text_click]"
- RATIONS_TITLE: "§YRations§!\n\n[GetFoodDecayLoc]\n§YCivillian Consumption ([?modifier@food_need_civilian|=-%1g]) §!\n Kernbevölkerung: [?food_need_pop|Y0]\n Nicht-Kernbevölkerung: [?food_need_pop_occ|Y0]\n§YMilitärer Verbrauch ([?modifier@food_need_military|=-%1g])§!\n Streitkräfte: [?food_need_army|Y0]\n Garnison: [?food_need_garrison|Y0]\n Ausbildung: [?food_need_deployment|Y0]\n\n"
+ RATIONS_TITLE: "§YLebensmittel§!\n\n[GetFoodDecayLoc]\n§YZiviler Verbrauch ([?modifier@food_need_civilian|=-%1g]) §!\n Kernbevölkerung: [?food_need_pop|Y0]\n Nicht-Kernbevölkerung: [?food_need_pop_occ|Y0]\n§YMilitärer Verbrauch ([?modifier@food_need_military|=-%1g])§!\n Streitkräfte: [?food_need_army|Y0]\n Garnison: [?food_need_garrison|Y0]\n Ausbildung: [?food_need_deployment|Y0]\n\n"
  FOOD_DECAY: "Aktuelle Rationen: [?food|Y1]§YK§!\nMaximale Lagerkapazität: §Y[?food_max|1]K§!\n\nAktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\nAktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nJeder Tag [?decay|%R1] ([?decay_flat|Y0]) unserer Rationen verfällt. \nWir schätzen, dass sich unser Vorrat ändern wird um: [?food_balance|+0]\n\nMit unserem aktuellen Guthaben schätzen wir, dass wir unseren §YLebensmittelvorrat§ füllen können! bis zu [?food_fill_target|%1Y]\n"
  FOOD_MITIGATION: "Aktuelle §Strafe wegen Lebensmittelmangels:§! [?lack_of_food|%R1]\n\nAktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\nAktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nNotfallrationierung reduziert den Verbrauch um: [?mitigation_flat|Y0].\nWir schätzen, dass sich unser Vorrat ändern wird um: [?food_balance|+0]\n\nMit unserem aktuellen Kontostand gehen wir davon aus, dass wir tendenziell tendieren werden zu einem §YMangel an Nahrung§! Strafe von [?lack_of_food_max|%1-]\n"
  RATIONS_INCREASE: "§G[?food_days|1%]§!"
@@ -2291,16 +2291,16 @@
  SWI_citizen_militia_1_name: "Schweizer Bürgermilizen"
  SWI_citizen_militia_2_name: "Erweiterte Schweizer Bürgermilizen"
  propaganda_recruits_name: "Propaganda-Rekruten"
- age_19_name: "19-25 Halterung"
- age_18_name: "19-30 Halterung"
- age_17_name: "18-35 Halterung"
- age_16_name: "18-40 Halterung"
- age_15_name: "18-45 Halterung"
- age_14_name: "17-50 Halterung"
- age_13_name: "17-55 Halterung"
- age_12_name: "16-60 Halterung"
- age_11_name: "14-65 Halterung"
- age_10_name: "12-70 Halterung"
+ age_19_name: "19-25 Alter"
+ age_18_name: "19-30 Alter"
+ age_17_name: "18-35 Alter"
+ age_16_name: "18-40 Alter"
+ age_15_name: "18-45 Alter"
+ age_14_name: "17-50 Alter"
+ age_13_name: "17-55 Alter"
+ age_12_name: "16-60 Alter"
+ age_11_name: "14-65 Alter"
+ age_10_name: "12-70 Alter"
  labor_none_name: "Nicht erlaubt"
  labor_allowed_name: "Frauen erlaubt"
  labor_encouraged_name: "Frauen ermutigt"
@@ -2403,7 +2403,7 @@ ENERGY_CONSUMPTION_TITLE_TT: "Ihr Land verbraucht ständig Energie. Von allen As
 ENERGY_CIVILIAN_EFFICIENCY_TEXT_TT: "Ihre zivilen Fabriken arbeiten mit einer Effizienz von [GetEnergyCostCiv]. Sie können §Yerhöhen oder verringern§! Mit den Schaltflächen rechts können Sie die Priorität der Energiezuteilung festlegen."
 ENERGY_CIVILIAN_INPUT_TEXT_TT: "So viel Energie benötigen Ihre zivilen Fabriken für den §YAufbau§!."
 ENERGY_CIVILIAN_INPUT_TEXT_TT_DELAYED: "[!civilian_1_click]"
-Civ_Energy_TT: "Ziviler Energieverbrauch\n\n[?t2] Zivile Fabriken: [?t]"
+Civ_Energy_TT: "Ziviler Energieverbrauch\n\n[?t2] Zivilefabriken: [?t]"
 
 
 ENERGY_MILITARY_EFFICIENCY_TEXT_TT: "Ihre Militärfabriken und -versammlungen arbeiten mit [GetEnergyCostMil]-Effizienz. Sie können §Yerhöhen oder verringern§! Mit den Schaltflächen rechts können Sie die Priorität der Energiezuteilung festlegen."
@@ -2431,14 +2431,14 @@ prio_2_tt: "§YMmittlere Priorität§!"
 prio_3_tt: "§GHöchste Priorität§!"
 
 
-BI_steel_conversion_container_TT: "£resources_strip|5 §YSteel§! wird von £civ_factory §YSteel Refineries§! hergestellt, die £resources_strip|9 §YIron§!, £resources_strip|8 §YCoal§! und £electricity_small §YEnergy§!."
+BI_steel_conversion_container_TT: "£resources_strip|5 §YSteel§! wird von £civ_factory §YStahlraffinierie§! hergestellt, die £resources_strip|9 §YIron§!, £resources_strip|8 §YCoal§! und £electricity_small §YEnergy§!."
 input_iron_text_tt: "So viel £resources_strip|9 §YIron§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung."
 input_chromium_text_tt: "So viele £resources_strip|6 §YAllieren von Metallen§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung. Verwendung von §Legieren von Metallen§! ist optional und erhöht den £resources_strip|5 §YSteel§! Ausgabe."
 input_coal_text_tt: "So viel £resources_strip|8 §YCoal§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung."
 energy_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung."
 output_text_tt: "So viel £resources_strip|5 §YSteel§! jede £civ_factory §YSteel Refinery§! kann mit vollem Durchsatz ausgegeben werden."
 output_alloy_text_tt: "So viel £resources_strip|5 §YSteel§! jede £civ_factory §YSteel Refinery§! Gewinne aus dieser Rezeptergänzung."
-STEEL_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|5 §YSteel§! unsere £civ_factory [?num_refinery_assigned@steel|Y0] §YSteel Refineries§! ausgeben."
+STEEL_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|5 §YSteel§! unsere £civ_factory [?num_refinery_assigned@steel|Y0] §YStahlraffinierie§! ausgeben."
 
 BI_aluminium_conversion_container_TT: "£resources_strip|2 §YAluminium§! wird von £civ_factory §YAluminium Refineries§! hergestellt, die £resources_strip|7 §YBauxit§! und £electricity_small §YEnergy§!."
 input_bauxite_text_tt: "So viel £resources_strip|7 §YBauxit§! jede £civ_factory §YAluminium Refinery§! Erforderlich für maximale Leistung."
@@ -2446,7 +2446,7 @@ energy_aluminium_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ
 output_aluminium_text_tt: "So viel £resources_strip|2 §YAluminium§! jede £civ_factory §YAluminium Refinery§! kann mit vollem Durchsatz ausgegeben werden."
 ALUMINIUM_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|2 §YAluminium§! unsere £civ_factory [?num_refinery_assigned@aluminium|Y0] §YAluminium Refineries§! ausgeben."
 
-BI_synth_fuel_conversion_container_TT: "£civ_factory §YSynthetische Raffinerien§! kann synthetischen £fuel_state §YFuel§ erzeugen! durch Umwandlung von Kohle in flüssige Kohlenwasserstoffe. Daher benötigen sie £resources_strip|8 §YCoal§! und £electricity_small §YEnergy§! zu bedienen."
+BI_synth_fuel_conversion_container_TT: "£civ_factory §YSynthetische Raffinerien§! kann synthetischen £fuel_state §YFuel§! erzeugen durch Umwandlung von Kohle in flüssige Kohlenwasserstoffe. Daher benötigen sie £resources_strip|8 §YCoal§! und £electricity_small §YEnergy§! zu bedienen."
 input_coal_fuel_text_tt: "So viel £resources_strip|8 §YCoal§! jede £civ_factory §YSynthetic Refinery§! Erforderlich für maximale Leistung."
 energy_synth_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ_factory §YSynthetic Refinery§! Erforderlich für maximale Leistung."
 output_synth_text_tt: "So viel £fuel_texticon §YFuel§! jede £civ_factory §YSynthetic Refinery§! kann mit vollem Durchsatz ausgegeben werden."
@@ -2461,7 +2461,7 @@ RUBBER_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|3 §YRubber§! uns
  LACK_OF_FOOD_INCREASE: "   - Täglicher Gewinn: [?0.01|R%=]"
  LACK_OF_FOOD_DECREASE: "   - Täglicher Verfall: [?0.02|G%]"
  LACK_OF_FOOD_CURRENT_DEBUFF: "\n§YAktuelle Strafen:§!"
- LACK_OF_FOOD_DELAYED: "Wir brauchen eine positive §YRations§-Bilanz! auf Lager, sonst gilt §YLMangel an Lebensmitteln§! Die Strafe erhöht sich langsam je nach Schwere des Mangels."
+ LACK_OF_FOOD_DELAYED: "Wir brauchen eine positive §YLebensmittelbilanz§!, sonst gilt §YLebensmittelmangel§! Die Strafe erhöht sich langsam je nach schwere der Mangel wird."
 
  LACK_OF_FOOD_MAX_DEBUFF_TEXT: "\n\n§YMaximale Strafen aus dieser Phase:§!"
 
@@ -2519,11 +2519,11 @@ RUBBER_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|3 §YRubber§! uns
 
 
  MAIN_MENU_OVERVIEW: "Begleitend zu den Änderungen des DLC führt dieses Update ein überarbeitetes Industriesystem ein. Dieses neue System besteht aus neuen Ressourcen, Technologien, Gebäuden und Mechaniken und ermöglicht eine immersivere Industriesimulation. Der Mangel an Ressourcen oder Verfeinerungskapazitäten kann Ihre Kriegsanstrengungen lahmlegen. Um dies zu vermeiden und Sie bei der neuen Version zu unterstützen, werfen wir einen kurzen Blick auf BICE Industry Rework."
- MAIN_MENU_FOOD: "§YFood§ sichern! durch Eroberung oder richten Sie stabile Importe ein, um automatisch §YRationen§! zu produzieren, die sowohl von Ihrer Bevölkerung als auch Ihren Streitkräften täglich verbraucht werden. Es ist ein beständiges Einkommen erforderlich, da jeden Tag ein Prozentsatz unserer angehäuften Rationen §Rverfall§! wird. Wenn die Rationen ausgehen, erhöht sich der §RMangel an Nahrungsmitteln§! Modifikator, angezeigt in der Registerkarte §CPolitisch§!."
+ MAIN_MENU_FOOD: "§YLebensmittel§! sichern durch Eroberung oder richten Sie stabile Importe ein, um automatisch §YLebensmittel§! zu produzieren, die sowohl von Ihrer Bevölkerung als auch Ihren Streitkräften täglich verbraucht werden. Es ist ein beständiges Einkommen erforderlich, da jeden Tag ein Prozentsatz unserer angehäuften Rationen §Rverfall§! wird. Wenn die Rationen ausgehen, erhöht sich der §RMangel an Lebensmitteln§! Modifikator, angezeigt in der Registerkarte §CPolitisch§!."
  MAIN_MENU_ENERGY: "Baue oder erobere §YKraftwerke§! und versorge sie mit §YKohle§! oder §YKraftstoff§! um §YEnergie§! zu erzeugen, die Ihre Branche zum Funktionieren benötigt. Wasserkraftwerke können nicht gebaut werden, können aber durch bestimmte Schwerpunkte oder Ereignisse erworben werden, sofern dies historisch möglich ist. Sie können die Energiesituation Ihres Landes im §CTrade Tab§!, im §CEnergy§! einsehen. Fenster."
- MAIN_MENU_REFINERY: "§YStahl, Aluminium, synthetischer Kraftstoff und synthetischer Gummi§! werden jetzt über §YRaffinerie§ hergestellt! Gebäude, versorgt entweder mit §YEisen, Kohle§! oder §YBauxit§! und §YEnergie§!. Weisen Sie Raffinerien für die Produktion zu und verwalten Sie Ressourcendefizite im §CTrade Tab§!, im §CConversion§! Fenster."
- MAIN_MENU_ENGINE_ARTILLERY: "Bisherige Ausrüstungsfabriken außer Schiffs- und Unterwerften werden durch §YEngine§ ersetzt! & §YArtilleriekapazität§!. Diese Gebäude generieren, ähnlich wie Panzer- und Flugzeugbaugruppen, Ressourcen für die Ausrüstungsproduktion. Eine Übersicht finden Sie im §CProduktions-Tab§!."
- MAIN_MENU_TECHNOLOGIES: "Auch am Technologiebaum gab es einige Änderungen. Die neue Registerkarte "Ressourcenherstellung" besteht aus neu hinzugefügten Technologien, die Aspekte von Nahrungsmitteln, Energiemanagement und Raffinerien verbessern, während einige bereits bekannte Technologien wie Ausgrabung, Medizin und Kraftstofftechnologien ebenfalls hier zu finden sind."
+ MAIN_MENU_REFINERY: "§YStahl, Aluminium, synthetischer Kraftstoff und synthetischer Gummi§! werden jetzt über §YRaffinerie§! hergestellt Gebäude, versorgt entweder mit §YEisen, Kohle§! oder §YBauxit§! und §YEnergie§!. Weisen Sie Raffinerien für die Produktion zu und verwalten Sie Ressourcendefizite im §CTrade Tab§!, im §CConversion§! Fenster."
+ MAIN_MENU_ENGINE_ARTILLERY: "Bisherige Ausrüstungsfabriken außer Schiffs- und U-Boot-Werften werden durch §YMaschinen§! ersetzt & §YArtilleriekapazität§!. Diese Gebäude generieren, ähnlich wie Panzer- und Flugzeugbaugruppen, Ressourcen für die Ausrüstungsproduktion. Eine Übersicht finden Sie im §CProduktions-Tab§!."
+ MAIN_MENU_TECHNOLOGIES: "Auch am Technologiebaum gab es einige Änderungen. Die neue Registerkarte "Ressourcenherstellung" besteht aus neu hinzugefügten Technologien, die Aspekte von Lebensmitteln, Energiemanagement und Raffinerien verbessern, während einige bereits bekannte Technologien wie Resourcenextraktion, Medizin und Kraftstofftechnologien ebenfalls hier zu finden sind."
 
  MAIN_MENU_END: "Vielen Dank, dass Sie die Zusammenfassung gelesen haben. Wenn Sie noch Fragen haben, können Sie sich gerne über unseren offiziellen Discord-Server an uns wenden. \nWir hoffen, dass Ihnen die Herausforderungen der Branchenüberarbeitung und der Veröffentlichung von Arms Against Tyranny gefallen."
 

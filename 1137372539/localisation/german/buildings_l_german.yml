@@ -30,7 +30,7 @@
  tank_assembly:0 "Panzermontagewerk"
  tank_assembly_plural:0 "Panzermontagewerke"
  tank_assembly_desc:0 "Panzermontagewerke bieten §YPanzerproduktionskapazität§!, die für den Bau von §YPanzern§!, §YPanzerwagen§! und §YMechanisierten§!$tank_assembly_effect$ erforderlich ist"
- tank_assembly_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GYJa§!\n\nGrundkapazität: §Y+7§!£resources_strip|20 \n\nEnergiebedarf : §R6§!£electricity_medium "
+ tank_assembly_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nGrundkapazität: §Y+7§!£resources_strip|20 \n\nEnergiebedarf : §R6§!£electricity_medium "
  
  air_assembly:0 "Luftmontagewerk"
  air_assembly_plural:0 "Luftmontageanlagen"
@@ -40,27 +40,27 @@
  engine_assembly:0 "Motorenfabrik"
  engine_assembly_plural:0 "Motorenfabriken"
  engine_assembly_desc:0 "Motorenfabriken stellen §YMotorproduktionskapazität§! bereit, die für den Bau von §YLkw§!, §YManisierten§!, §YPanzerwagen§!, §YPanzern§! und §YFlugzeugen§!$engine_assembly_effect$ erforderlich ist"
- engine_assembly_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GYJa§!\n\nGrundkapazität: §Y+7§!£resources_strip|22 \n\nEnergiebedarf : §R6§!£electricity_medium "
+ engine_assembly_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nGrundkapazität: §Y+7§!£resources_strip|22 \n\nEnergiebedarf : §R6§!£electricity_medium "
  
  artillery_assembly:0 "Artilleriegießerei"
  artillery_assembly_plural:0 "Artilleriegießereien"
  artillery_assembly_desc:0 "Artilleriegießereien stellen §YArtillerie-Produktionskapazität§! bereit, die für den Bau von §YArtillerie§!, §YPanzerabwehrkanonen§! und §YPanzern§!$artillery_assembly_effect$ erforderlich ist"
- artillery_assembly_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GYJa§!\n\nBasiskapazität: §Y+7§!£resources_strip|23 \n\nEnergiebedarf : §R6§!£electricity_medium "
+ artillery_assembly_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nBasiskapazität: §Y+7§!£resources_strip|23 \n\nEnergiebedarf : §R6§!£electricity_medium "
  
- shipyard_capital_building:0 "Hauptstadtwerft"
- shipyard_capital_building_plural:0 "Capital Shipyards"
- shipyard_capital_building_desc:0 "Capital Shipyard stellt §YCapital Shipyard-Kapazität§! zur Verfügung, die für den Bau von §YCapital Ships§! und §YCarriers§!$shipyard_capital_building_effect$ erforderlich ist"
+ shipyard_capital_building:0 "Große Schiffswerft"
+ shipyard_capital_building_plural:0 "Große Schiffswerften"
+ shipyard_capital_building_desc:0 "Eine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!$shipyard_capital_building_effect$ erforderlich ist"
  shipyard_capital_building_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\n\nGrundkapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \ n\nDieses Gebäude ist §Runbuildable.§!"
- shipyard_capital_building_overlay: "§YCapital Shipyard§!\nCapital Shipyard stellt §YCapital Shipyard-Kapazität§! zur Verfügung, die für den Bau von §YCapital Ships§! und §YCarriers§!\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\n\nBasiskapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \n\n£trigger_no Dieses Gebäude ist §Runbuildable.§!"
+ shipyard_capital_building_overlay: "§YGroße Schiffswerft§!\nEine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\n\nBasiskapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \n\n£trigger_no Dieses Gebäude ist §Runbuildable.§!"
  
  research_centre:0 "Forschungszentrum"
  research_centre_desc:0 "Forschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YFocuses§! und §YEvents§! gewonnen werden. Der Verlust eines Staates mit einem §YForschungszentrum§! führt zum Verlust eines £tech_mod §YForschungsplatz§!. \n\n£trigger_no Dieses Gebäude ist §Runbuildable.§!"
  research_centre_overlay:0 "§YForschungszentrum§!\n\nForschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YFocuses§! und §YEvents§! gewonnen werden. Verlust eines Staates mit einem §YForschungszentrum§ ! führt zum Verlust eines £tech_mod §Yresearch Slot§!. \n\n£trigger_no Dieses Gebäude ist §Runbuildable.§!"
  
- industrial_complex:0 "Zivile Fabrik"
- industrial_complex_plural:0 "Zivile Fabriken"
+ industrial_complex:0 "Zivilfabrik"
+ industrial_complex_plural:0 "Zivilfabriken"
  industrial_complex_desc:0 "Dieses Gebäude versorgt den Staat mit Industrie für die Produktion ziviler Güter oder den Bau neuer Gebäude. Kann bei Bedarf in eine Militärindustrie umgewandelt werden.$industrial_complex_effect$"
- industrial_complex_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y12§!\nInfrastruktureffekt: §GYJa§!\n\nEnergiebedarf: §R10§!£electricity_medium "
+ industrial_complex_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y12§!\nInfrastruktureffekt: §YJa§!\n\nEnergiebedarf: §R10§!£electricity_medium "
  
  air_base:0 "Luftwaffenstützpunkt"
  air_base_plural:0 "Luftwaffenstützpunkte"
@@ -90,7 +90,7 @@
  
  synthetic_refinery:0 "synthetic Raffinerie"
  synthetic_refinery_plural:0 "synthetic Raffinerien"
- synthetic_refinery_desc:0 "Dieses Gebäude versorgt den Staat mit Treibstoffproduktion.\n\nMax. Level: §Y4§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GYJa§!\n\nGrundproduktion im Staat: §Y+ 60§!£fuel_state \n\nEnergiebedarf: §R10§!£electricity_medium "
+ synthetic_refinery_desc:0 "Dieses Gebäude versorgt den Staat mit Treibstoffproduktion.\n\nMax. Level: §Y4§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §YJa§!\n\nGrundproduktion im Staat: §Y+ 60§!£fuel_state \n\nEnergiebedarf: §R10§!£electricity_medium "
  
  radar_station:0 "Radarstation"
  radar_station_plural:0 "Radarstationen"
@@ -110,9 +110,9 @@
  fuel_silo:0 "Kraftstoffsilo"
  fuel_silo_plural:0 "Kraftstoffsilos"
  fuel_silo_desc:0 "Dieses Gebäude bietet Ihrer Nation mehr Platz für die Bevorratung §HFuel§!.$fuel_silo_effect$"
- fuel_silo_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y5§!\nInfrastruktureffekt: §GYJa§!"
+ fuel_silo_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y5§!\nInfrastruktureffekt: §GJa§!"
  
- supply_node:1 "Supply Hub"
+ supply_node:1 "Versorgungsknoten"
  supply_node_desc:2 "Ein Versorgungsknotenpunkt ist ein Punkt entlang einer Eisenbahnstrecke außerhalb bestehender Städte, an dem Versorgung bezogen werden kann.$supply_node_effect$"
  supply_node_effect: "\n\nMax. Level: §Y1§!\nGebäudegesundheit: §Y10§!\nSchaden durch Bombenangriffe: §G-90%§!"
  

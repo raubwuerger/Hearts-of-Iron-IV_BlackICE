@@ -3,15 +3,15 @@
  steel_refinery:0 "Stahlwerk"
  steel_refinery_desc:0 "Dieses Gebäude wandelt Eisen in Stahl um.$steel_refinery_effect$"
  steel_refinery_plural:0 "Stahlwerke"
- steel_refinery_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GYJa§!\n\nBasisproduktion im Staat: §Y+30§!£resources_strip|5 \n\ nEnergiebedarf: §R5§!£electricity_medium "
+ steel_refinery_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GJa§!\n\nBasisproduktion im Staat: §Y+30§!£resources_strip|5 \n\ nEnergiebedarf: §R5§!£electricity_medium "
 
- aluminium_refinery:0 "Aluminiummühle"
- aluminium_refinery_plural:0 "Aluminiummühlen"
+ aluminium_refinery:0 "Aluminiumhütte"
+ aluminium_refinery_plural:0 "Aluminiumhütten"
  aluminium_refinery_desc:0 "Dieses Gebäude wandelt Bauxit in Aluminium um.$aluminium_refinery_effect$"
- aluminium_refinery_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GYJa§!\n\nBasisproduktion im Staat: §Y+20§!£resources_strip|2 \n\ nEnergiebedarf: §R15§!£electricity_medium "
+ aluminium_refinery_effect: "\n\nMax. Level: §Y20§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GJa§!\n\nBasisproduktion im Staat: §Y+20§!£resources_strip|2 \n\ nEnergiebedarf: §R15§!£electricity_medium "
 
  synthetic_rubber_refinery:0 "Raffinerie für synthetischen Kautschuk"
- synthetic_rubber_refinery_desc:0 "Dieses Gebäude versorgt den Staat mit der Produktion von synthetischem Kautschuk.\n\nMax. Level: §Y4§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GYJa§!\n\nGrundproduktion im Staat: §Y+6§! £resources_strip|3 \n\nEnergiebedarf: §R15§!£electricity_medium"
+ synthetic_rubber_refinery_desc:0 "Dieses Gebäude versorgt den Staat mit der Produktion von synthetischem Kautschuk.\n\nMax. Level: §Y4§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GJa§!\n\nGrundproduktion im Staat: §Y+6§! £resources_strip|3 \n\nEnergiebedarf: §R15§!£electricity_medium"
  synthetic_rubber_refinery_plural:0 "Raffinerien für synthetischen Kautschuk"
 
  police_station:0 "Polizeistation"
@@ -33,8 +33,8 @@
 
  food_storage: "Lebensmittellagerung"
  food_storage_plural: "Lebensmittellager"
- food_storage_desc: "Dieses Gebäude bietet dem Staat die Möglichkeit, §YFood§! zu lagern.$food_storage_effect$"
- food_storage_effect: "\n\nMax. Level: §Y4§!\nGebäudezustand: §Y1§!\nInfrastruktureffekt: §GYJa§!\n\nSpeicherkapazität (K): §Y+300,00§!"
+ food_storage_desc: "Dieses Gebäude bietet dem Staat die Möglichkeit, §YLebensmittel§! zu lagern.$food_storage_effect$"
+ food_storage_effect: "\n\nMax. Level: §Y4§!\nGebäudezustand: §Y1§!\nInfrastruktureffekt: §GJa§!\n\nSpeicherkapazität (K): §Y+300,00§!"
  
  power_plant: "Kraftwerk"
  power_plant_plural: "Kraftwerke"
