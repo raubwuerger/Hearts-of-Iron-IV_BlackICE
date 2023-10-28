@@ -996,7 +996,7 @@
  radio_equipment_armor_group_tech:0 "Hat §YRadio Equipment§ eingeführt! zu §YRüstungsbataillone§!"
  radio_equipment_support_group_tech:0 "Hat §YRadio Equipment§ eingeführt! zu §YBataillone unterstützen§!"
  
- REFINERY_ALERT_TT:0 "§YUzugewiesene Raffinerien§!\nWir verfügen über genügend Ressourcen, um weitere £civ_factory §YRaffinerien§ zuzuweisen! um ein Defizit zu beheben oder unsere Importe zugunsten der inländischen Produktion zu senken.\n\n[?ui_refinery_potential@steel|+1] zusätzliche £resources_strip|5 §YStahlraffinierie§! können zugewiesen werden\n[?ui_refinery_potential@aluminium|+1] zusätzliche £resources_strip|2 §YAluminium Refineries§! zugeordnet werden können"
+ REFINERY_ALERT_TT:0 "§YUzugewiesene Raffinerien§!\nWir verfügen über genügend Ressourcen, um weitere £civ_factory §YRaffinerien§ zuzuweisen! um ein Defizit zu beheben oder unsere Importe zugunsten der inländischen Produktion zu senken.\n\n[?ui_refinery_potential@steel|+1] zusätzliche £resources_strip|5 §YStahlraffinierie§! können zugewiesen werden\n[?ui_refinery_potential@aluminium|+1] zusätzliche £resources_strip|2 §YAluminiumhütten§! zugeordnet werden können"
  REFINERY_ALERT_DELAYED_TT: "§YRaffinerien zuweisen§! Klicken Sie im Handels-Tab auf §CUmwandlung§! Taste. §YRaffinerien§! werden ähnlich wie Militärfabriken zugeordnet."
  
  EQUIPMENT_INTRO_ALERT_TT:0 "§Geräteeinführung§!"
@@ -2440,11 +2440,11 @@ output_text_tt: "So viel £resources_strip|5 §YSteel§! jede £civ_factory §YS
 output_alloy_text_tt: "So viel £resources_strip|5 §YSteel§! jede £civ_factory §YSteel Refinery§! Gewinne aus dieser Rezeptergänzung."
 STEEL_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|5 §YSteel§! unsere £civ_factory [?num_refinery_assigned@steel|Y0] §YStahlraffinierie§! ausgeben."
 
-BI_aluminium_conversion_container_TT: "£resources_strip|2 §YAluminium§! wird von £civ_factory §YAluminium Refineries§! hergestellt, die £resources_strip|7 §YBauxit§! und £electricity_small §YEnergy§!."
+BI_aluminium_conversion_container_TT: "£resources_strip|2 §YAluminium§! wird von £civ_factory §YAluminiumhütten§! hergestellt, die £resources_strip|7 §YBauxit§! und £electricity_small §YEnergy§!."
 input_bauxite_text_tt: "So viel £resources_strip|7 §YBauxit§! jede £civ_factory §YAluminium Refinery§! Erforderlich für maximale Leistung."
 energy_aluminium_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ_factory §YAluminium Refinery§! Erforderlich für maximale Leistung."
 output_aluminium_text_tt: "So viel £resources_strip|2 §YAluminium§! jede £civ_factory §YAluminium Refinery§! kann mit vollem Durchsatz ausgegeben werden."
-ALUMINIUM_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|2 §YAluminium§! unsere £civ_factory [?num_refinery_assigned@aluminium|Y0] §YAluminium Refineries§! ausgeben."
+ALUMINIUM_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|2 §YAluminium§! unsere £civ_factory [?num_refinery_assigned@aluminium|Y0] §YAluminiumhütten§! ausgeben."
 
 BI_synth_fuel_conversion_container_TT: "£civ_factory §YSynthetische Raffinerien§! kann synthetischen £fuel_state §YFuel§! erzeugen durch Umwandlung von Kohle in flüssige Kohlenwasserstoffe. Daher benötigen sie £resources_strip|8 §YKohle§! und £electricity_small §YEnergy§! zu bedienen."
 input_coal_fuel_text_tt: "So viel £resources_strip|8 §YKohle§! jede £civ_factory §YSynthetic Refinery§! Erforderlich für maximale Leistung."
