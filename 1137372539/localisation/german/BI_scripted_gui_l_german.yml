@@ -1884,7 +1884,7 @@
  # energy tooltips
 
  energy: "Energie"
- energy_desc: "Energie ist das Lebenselixier der Wirtschaft Ihres Landes. Ohne Energie können Fabriken, Montagehallen, Werften und Raffinerien nicht funktionieren. Energie wird durch §YKraftwerke§! erzeugt, die entweder §OWärme§! sein können. oder §CHydro§! Typ. Ersteres läuft auf §OKohle§! oder §OKraftstoff§! während letzteres §CWater§! verwendet."
+ energy_desc: "Energie ist das Lebenselixier der Wirtschaft Ihres Landes. Ohne Energie können Fabriken, Montagehallen, Werften und Raffinerien nicht funktionieren. Energie wird durch §YKraftwerke§! erzeugt, die entweder §OWärme§! sein können, oder §CWasserkraftwerke§! Ersteres läuft mit §OKohle§! oder §OKraftstoff§! während letzteres §CWater§! verwendet."
 
  ENERGY_MAX_PRODUCTION_TOOLIP: "Unsere [?num_power_plant|Y0] Kraftwerke haben die Kapazität, [?max_energy_production|G0] §YEnergie§ zu produzieren!"
  ENERGY_PRODUCTION_TOOLIP: "Wir produzieren derzeit [?energy_produced|Y0] §YEnergie§!"
@@ -2396,8 +2396,8 @@ ENERGY_INPUT_HYDRO_TEXT_TT: "Dies ist die Menge an Hydropflanzen. Sie verwenden 
 ENERGY_PRODUCED_COAL_TEXT_TT: "Mit Kohle erzeugte Energie"
 ENERGY_PRODUCED_FUEL_TEXT_TT: "Mit Kraftstoff erzeugte Energie"
 ENERGY_PRODUCTION_TEXT_TT: "Gesamte Energieproduktion"
-ENERGY_PRODUCTION_TITLE_TT: "Energie wird durch §YKraftwerke§ erzeugt! Das kann entweder §CHydro§! oder §OThermal§!. Letzterer Typ benötigt §YKohle§! oder §YKraftstoff§! zu bedienen."
-power_plant_icon_tt: "Das ist die Menge an §OThermal§! §YKraftwerke§! Sie besitzen derzeit. Sie können wie jedes andere Gebäude gebaut werden. Sie verbrauchen §YKohle§! oder §YKraftstoff§!. Die Ausgangskapazität ist bei beiden gleich."
+ENERGY_PRODUCTION_TITLE_TT: "Energie wird durch §YKraftwerke§ erzeugt! Das kann entweder ein §CWasserkraftwerke§! oder ein §OThermisches§! sein. Letzteres benötigt §YKohle§! oder §YKraftstoff§!."
+power_plant_icon_tt: "Das ist die Menge an §OThermischen Kraftwerken§! welchse sie derzeit besitzen . Sie können wie jedes andere Gebäude gebaut werden. Sie verbrauchen §YKohle§! oder §YKraftstoff§!. Die Ausgangskapazität ist bei beiden gleich."
 ENERGY_CONSUMPTION_TITLE_TT: "Ihr Land verbraucht ständig Energie. Von allen Aspekten der Wirtschaft benötigt, ohne ausreichende Energie, §YProduktion und Bauwesen§! kann ernsthaft beeinträchtigt werden."
 
 ENERGY_CIVILIAN_EFFICIENCY_TEXT_TT: "Ihre zivilen Fabriken arbeiten mit einer Effizienz von [GetEnergyCostCiv]. Sie können §Yerhöhen oder verringern§! Mit den Schaltflächen rechts können Sie die Priorität der Energiezuteilung festlegen."
@@ -2433,7 +2433,7 @@ prio_3_tt: "§GHöchste Priorität§!"
 
 BI_steel_conversion_container_TT: "£resources_strip|5 §YStahl§! wird von £civ_factory §YStahlraffinierie§! hergestellt, die £resources_strip|9 §YIron§!, £resources_strip|8 §YKohle§! und £electricity_small §YEnergie§!."
 input_iron_text_tt: "So viel £resources_strip|9 §YIron§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung."
-input_chromium_text_tt: "So viele £resources_strip|6 §YAllieren von Metallen§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung. Verwendung von §Legieren von Metallen§! ist optional und erhöht den £resources_strip|5 §YStahl§! Ausgabe."
+input_chromium_text_tt: "So viele £resources_strip|6 §YAllieren von Metallen§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung. Verwendung von §Legierungen§! ist optional und erhöht den £resources_strip|5 §YStahl§! Ausgabe."
 input_coal_text_tt: "So viel £resources_strip|8 §YKohle§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung."
 energy_text_tt: "So viel £electricity_medium §YEnergie§! jede £civ_factory §YSteel Refinery§! Erforderlich für maximale Leistung."
 output_text_tt: "So viel £resources_strip|5 §YStahl§! jede £civ_factory §YSteel Refinery§! kann mit vollem Durchsatz ausgegeben werden."
