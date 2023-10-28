@@ -99,7 +99,7 @@
   INFRASTRUCTURE_COST_EFFECT:1 "£GFX_infrastructure_texticon Zustand der Infrastruktur: x$VAL|2H$"
   CIC_BANK_HEADER: "Wirtschaftlicher Kapazitätsüberschuss"
   CIC_BANK_HIGHLIGHT: "§HEWirtschaftskapazitätsüberschuss§!"
-  CIC_BANK_DESC: "Der $CIC_BANK_HEADER$ enthält §HIndustrial Capacity§! aus Verträgen im §HInternational Market§! oder anderen Quellen und trägt zu Ihrer Baugeschwindigkeit bei."
+  CIC_BANK_DESC: "Der $CIC_BANK_HEADER$ enthält §HIndustrielle Kapazität§! aus Verträgen im §HInternational Market§! oder anderen Quellen und trägt zu Ihrer Baugeschwindigkeit bei."
   CIC_BANK_CURRENT_VALUE: "Aktueller Wert: $VAL|2H$"
   CIC_BANK_CONSTRUCTION_CONTRIBUTION: "Aktuell Beitrag von $BOOST|2H$ /Tag auf $NUM|H$ Baulinien."
   CIC_BANK_CURRENTLY_EARNED_HEADER: "Aus aktiven Deals:"

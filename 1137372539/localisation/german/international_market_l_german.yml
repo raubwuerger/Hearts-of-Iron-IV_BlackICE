@@ -219,7 +219,7 @@ INTERNATIONAL_MARKET_NO_EQUIPMENT_TO_BUY: "Die Länder, in denen Sie §YMarktzug
 INTERNATIONAL_MARKET_NO_FILTERED_EQUIPMENT_TO_BUY: "Die Länder, in denen Sie §YMarktzugang§ haben! Wir verkaufen derzeit keine Geräte dieser Art."
 INTERNATIONAL_MARKET_NO_FILTERED_SUBSIDY_EQUIPMENT_TO_BUY: "Die Länder, in denen Sie §YMarktzugang§ haben! Sie verkaufen keine Ausrüstung, die mit Ihrer aktuellen Subvention kombiniert werden kann."
 INTERNATIONAL_MARKET_NO_ACCESS_EMPTY_STOCKIPLE: "Bevor Sie Ausrüstung verkaufen können, müssen Sie Ausrüstung zum Markt hinzufügen und §YMarktzugang§ anbieten! in ein anderes Land. Mit jemandem in derselben Fraktion zu sein, verschafft dir §YMarktzugang§! zu."
-INTERNATIONAL_MARKET_EMPTY_STOCKPILE: "Sie haben derzeit keine Ausrüstung auf dem Markt. Fügen Sie Geräte hinzu, damit Länder, die §YMarktzugang§ haben! Sie können sie für £civ_factory_output£ §YEconomic Capacity§! kaufen, wodurch Sie Gebäude schneller bauen können."
+INTERNATIONAL_MARKET_EMPTY_STOCKPILE: "Sie haben derzeit keine Ausrüstung auf dem Markt. Fügen Sie Geräte hinzu, damit Länder, die §YMarktzugang§ haben! Sie können sie für £civ_factory_output£ §YWirtschaftskraft§! kaufen, wodurch Sie Gebäude schneller bauen können."
 INTERNATIONAL_MARKET_NO_FILTERED_EMPTY_STOCKPILE: "Sie haben derzeit keine Geräte dieser Art auf dem Markt."
 INTERNATIONAL_MARKET_EQUIPMENT_FILTER_BUTTON_TOOLTIP: "§GKlick§! um nur diese Kategorie anzuzeigen ($AMOUNT|Y$ Übereinstimmung)."
 INTERNATIONAL_MARKET_EQUIPMENT_FILTER_BUTTON_SELECTED_TOOLTIP: "§GKlick§! um alle Kategorien anzuzeigen ($AMOUNT|Y$ Übereinstimmung)."
@@ -246,7 +246,7 @@ INTERNATIONAL_MARKET_CIV_AND_CONVOY_ALLOCATION_TOOLTIP_NOTHING_ALLOCATED: "Derze
 INTERNATIONAL_MARKET_CIV_AND_CONVOY_ALLOCATION_TOOLTIP_ALLOCATED: "$COUNTRY$: $ALLOCATION$"
 INTERNATIONAL_MARKET_CIV_AND_CONVOY_ALLOCATION_DELAYED_TOOLTIP: "Dies sind die zugewiesenen §YZivilianischen Fabriken§! und §YKonvois§! die derzeit für laufende Verträge genutzt werden."
 INTERNATIONAL_MARKET_CIC_BANK: "$CIC_BANK_HEADER$: £civ_factory_output£ $VALUE|0Y$"
-INTERNATIONAL_MARKET_ADD_TO_STOCKPILE_BUTTON_TOOLTIP: "Füge Ausrüstung aus deinem §YVorrat§ hinzu! zum Markt. Damit Länder, die §YMarktzugang§ haben! Sie können sie für £civ_factory_output£ §YEconomic Capacity§ kaufen!"
+INTERNATIONAL_MARKET_ADD_TO_STOCKPILE_BUTTON_TOOLTIP: "Füge Ausrüstung aus deinem §YVorrat§ hinzu! zum Markt. Damit Länder, die §YMarktzugang§ haben! Sie können sie für £civ_factory_output£ §YWirtschaftskraft§ kaufen!"
 INTERNATIONAL_MARKET_OPTIONS: "Marktoptionen"
 INTERNATIONAL_MARKET_NO_TRADE_ROUTE_FOR_CONTRACT: "§RSie haben keine gültige Handelsverbindung§! in dieses Land, sodass Sie keinen Vertrag mit ihnen abschließen können."
 
