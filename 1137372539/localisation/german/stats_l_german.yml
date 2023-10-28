@@ -218,7 +218,7 @@
  STAT_COMMON_BUILD_COST_IC_VALUE_EXTRA:1 "$VALUE|H1$ (+$EXTRA|H$ pro vorhandener $BUILDING|H$ Stufe)"
  STAT_COMMON_BUILD_COST_IC_DIFF:0 "$VALUE|=-2$"
  STAT_COMMON_BUILD_COST_IC_MOD_DIFF:0 "$VALUE|=-2%$"
- STAT_COMMON_MAXIMUM_SPEED:0 "Höchstgeschwind.: "
+ STAT_COMMON_MAXIMUM_SPEED:0 "Höchstgeschw.: "
  STAT_COMMON_MAXIMUM_SPEED_DESC:0 "Wie schnell sich diese Einheit unter optimalen Bedingungen im Gelände fortbewegen kann."
  STAT_COMMON_MAXIMUM_SPEED_AIR_DESC:0 "Wie schnell diese Einheit unter optimalen Bedingungen fliegen kann."
  STAT_COMMON_MAXIMUM_SPEED_VALUE:0 "$VALUE|*H2$ km/h"
@@ -347,12 +347,12 @@
  STAT_ARMY_EQUIPMENT_CAPTURE_FACTOR_VALUE:0 "$VALUE|H+0%$"
  STAT_ARMY_EQUIPMENT_CAPTURE_FACTOR_DIFF:0 "$VALUE|+0%$"
 
- STAT_ARMY_FUEL_CAPACITY:0 "£fuel_texticon Treibstoffkapazität: "
+ STAT_ARMY_FUEL_CAPACITY:0 "£fuel_texticon Kapazität: "
  STAT_ARMY_FUEL_CAPACITY_DESC:0 "Wie viel Treibstoff diese Einheit speichern kann. Eine höhere Treibstoffkapazität bedeutet, dass die Einheit länger mit voller Kapazität arbeiten kann, wenn ihr der Treibstoffvorrat fehlt."
  STAT_ARMY_FUEL_CAPACITY_VALUE:0 "$VALUE|H1$"
  STAT_ARMY_FUEL_CAPACITY_DIFF:0 "$VALUE|=+$"
 
- STAT_COMMON_FUEL_CONSUMPTION:0 "£fuel_texticon Treibstoffverbr.: "
+ STAT_COMMON_FUEL_CONSUMPTION:0 "£fuel_texticon Verbrauch: "
  STAT_COMMON_FUEL_CONSUMPTION_DESC:0 "Wie viel Treibstoff diese Einheit während ihres Betriebs verbraucht. Luft- und Seeeinheiten verbrauchen Treibstoff während aktiver Missionen oder während des Trainings. Landeinheiten mit Treibstoffverbrauch verbrauchen auch im Leerlauf Treibstoff, aber der Kampf, die Bewegung oder das Training erhöhen den Verbrauch weiter."
  STAT_COMMON_FUEL_CONSUMPTION_VALUE:0 "$VALUE|H3$"
  STAT_COMMON_FUEL_CONSUMPTION_DIFF:0 "$VALUE|=-3$"

@@ -925,7 +925,7 @@
   GOVERNMENT:0 "Regierung"
   RULING_PARTY:0 "Regierende Partei"
   ELECTIONS:0 "Wahlen"
-  FE_MISC_STATS:0 "Andere Statistiken"
+  FE_MISC_STATS:0 "Zus. Statistiken"
   FE_LOADING_HISTORY:0 "Geschichte aktualisieren..."
   IDEOLOGY:0 "Ideologie"
   LOADING_MAIN_MENU:0 "Laden des Hauptmenüs"
