@@ -50,12 +50,12 @@
  shipyard_capital_building:0 "Große Schiffswerft"
  shipyard_capital_building_plural:0 "Große Schiffswerften"
  shipyard_capital_building_desc:0 "Eine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!$shipyard_capital_building_effect$ erforderlich ist"
- shipyard_capital_building_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\n\nGrundkapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \ n\nDieses Gebäude ist §Runbuildable.§!"
- shipyard_capital_building_overlay: "§YGroße Schiffswerft§!\nEine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\n\nBasiskapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \n\n£trigger_no Dieses Gebäude ist §Runbuildable.§!"
+ shipyard_capital_building_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\n\nGrundkapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \ n\nDieses Gebäude ist §Rnicht baubar.§!"
+ shipyard_capital_building_overlay: "§YGroße Schiffswerft§!\nEine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\n\nBasiskapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
  
  research_centre:0 "Forschungszentrum"
- research_centre_desc:0 "Forschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YFocuses§! und §YEvents§! gewonnen werden. Der Verlust eines Staates mit einem §YForschungszentrum§! führt zum Verlust eines £tech_mod §YForschungsplatz§!. \n\n£trigger_no Dieses Gebäude ist §Runbuildable.§!"
- research_centre_overlay:0 "§YForschungszentrum§!\n\nForschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YFocuses§! und §YEvents§! gewonnen werden. Verlust eines Staates mit einem §YForschungszentrum§ ! führt zum Verlust eines £tech_mod §Yresearch Slot§!. \n\n£trigger_no Dieses Gebäude ist §Runbuildable.§!"
+ research_centre_desc:0 "Forschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YFocuses§! und §YEvents§! gewonnen werden. Der Verlust eines Staates mit einem §YForschungszentrum§! führt zum Verlust eines £tech_mod §YForschungsplatz§!. \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
+ research_centre_overlay:0 "§YForschungszentrum§!\n\nForschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YFocuses§! und §YEvents§! gewonnen werden. Verlust eines Staates mit einem §YForschungszentrum§ ! führt zum Verlust eines £tech_mod §Yresearch Slot§!. \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
  
  industrial_complex:0 "Zivilfabrik"
  industrial_complex_plural:0 "Zivilfabriken"

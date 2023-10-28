@@ -2392,7 +2392,7 @@
  role_infantry: "Infanterierolle"
 
 hydro_tt: "Mit Wasser erzeugte Energie"
-ENERGY_INPUT_HYDRO_TEXT_TT: "Dies ist die Menge an Hydropflanzen. Sie verwenden §CWater§! zur Stromerzeugung und sind daher die kostengünstigste Energiequelle. Sie können nicht normal gebaut werden."
+ENERGY_INPUT_HYDRO_TEXT_TT: "Dies ist die Menge an Wasserkrapftwerken. Sie verwenden §CWasser§! zur Stromerzeugung und sind daher die kostengünstigste Energiequelle. Sie können nicht normal gebaut werden."
 ENERGY_PRODUCED_COAL_TEXT_TT: "Mit Kohle erzeugte Energie"
 ENERGY_PRODUCED_FUEL_TEXT_TT: "Mit Kraftstoff erzeugte Energie"
 ENERGY_PRODUCTION_TEXT_TT: "Gesamte Energieproduktion"
