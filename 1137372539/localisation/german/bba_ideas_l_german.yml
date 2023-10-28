@@ -183,7 +183,7 @@
  ITA_modern_musculus_dynamic_modifier_tt:0 "§Y$super_heavy_tank_chassis$§!: $production_cost_tt$ §G-20.00%§! \n§Y$super_heavy_tank_chassis$§!: Panzerung: §G+10%§! \N"
  ITA_caligulas_pride_dynamic_modifier_tt:0 "§Y$ship_hull_super_heavy_1$§!: $production_cost_tt$ §G-15.00%§! \n§Y$ship_hull_super_heavy_1$§!: Panzerung: §G+10%§! \N"
  ITA_the_king_of_the_skies_dynamic_modifier_tt:0 "§Y$large_plane_airframe$§!: $production_cost_tt$ §G-15.00%§! \n§Y$large_plane_airframe$§!: Zuverlässigkeit: §G+10%§! \N"
- production_cost_tt:0 "£produktion_kosten Produktionskosten:"
+ production_cost_tt:0 "£production_cost Produktionskosten:"
 
  ITA_offensive_in_ethiopia:0 "Offensive in Äthiopien"
  ITA_offensive_in_ethiopia_desc:1 "Unsere Armeen sind entschlossen, den Feind zurückzudrängen – egal, was dazu nötig ist!"

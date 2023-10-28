@@ -653,7 +653,7 @@
  war_plan_orange:0 "Kriegsplan Orange"
  nine_powers_investments:0 "Investitionsmöglichkeiten"
  monroe_doctrine_interventionism:0 "Geschichte des Interventionismus"
- GUARANTEEE_COST2:0 "Wir garantieren derzeit $COUNT|Y$ Nationen, und $NAME|Y$ zu garantieren wird dann $COST|Y$£pol_power£ kosten, da jede Garantie die Kosten erhöht.\n"
+ GUARANTEEE_COST2:0 "Wir garantieren derzeit $COUNT|Y$ Nationen, und $NAME|Y$ zu garantieren wird dann $COST|Y$£pol_power kosten, da jede Garantie die Kosten erhöht.\n"
  WARGOAL_COST_AT_WAR_WITH_MAJOR:1 "$COUNTRY|UY$ befindet sich in einem großen Krieg: $VALUE$"
  MISSING_PP:1 "Brauchen £pol_power §Y$PP|0$§! mehr politische Macht."
  GU_NOT_THEY_ARE_TOO_POWERFUL:0 "Sie sind zu mächtig im Vergleich zu uns, und unsere Garantie würde nicht ernst genommen werden."
@@ -1522,7 +1522,7 @@
 
  DIPLOMACY_REQUEST_EQUIPMENT_PURCHASE_TITLE: "Kaufanfrage"
  DIPLOMACY_REQUEST_EQUIPMENT_PURCHASE_DESCRIPTION: "$REQUESTER|H$ möchte kaufen:\n$EQUIPMENT$\n\n$DELIVERIES$\n$FINISHDATEDESC$\n\nWir erhalten insgesamt: £civ_factory_output£$TOTAL_PAYMENT|0Y$"
- DIPLOMACY_REQUEST_EQUIPMENT_PURCHASE_DESCRIPTION_WE_WILL_GET: "Wir erhalten £civ_factory_output£$DELIVERY_PAYMENT|0Y$/Lieferung"
+ DIPLOMACY_REQUEST_EQUIPMENT_PURCHASE_DESCRIPTION_WE_WILL_GET: "Wir erhalten £civ_factory_output $DELIVERY_PAYMENT|0Y$/Lieferung"
  DIPLOMACY_REQUEST_EQUIPMENT_PURCHASE_ACTION_DESC: "[TODO] Ausrüstung zum Kauf anfordern."
  DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_TITLE: "[TODO] Ausrüstungskauf stornieren"
  DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_ACTION_DESC: "[TODO] Ausrüstung zum Kauf stornieren."
