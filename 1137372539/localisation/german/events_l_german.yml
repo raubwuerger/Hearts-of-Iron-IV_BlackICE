@@ -2497,7 +2497,7 @@
  news.265.b:0 "Mal sehen, ob die Franzosen vernünftig sind."
  news.265.c:0 "Die Franzosen sind am Ende."
  news.265.d:0 "Ein weiterer unblutiger Sieg für den Kommunismus."
- news.270.t:0 "Die Geburt der [NZL.GetAdjective] Rüstung"
+ news.270.t:0 "Die Geburt der [NZL.GetAdjective] Panzer"
  news.270.desc:0 "Der neue Bob-Semple-Panzer der neuseeländischen Verteidigungsstreitkräfte rumpelt die Hauptstraße der Hauptstadt hinunter und ist ein wahrer Beweis für den Einfallsreichtum und den Kampfgeist des [NZL.GetAdjective]-Volkes. Bewaffnet mit sechs Maschinengewehren und gepanzert mit einer mit ziemlicher Sicherheit kugelsicheren Eisenpanzerung, wird er mit ziemlicher Sicherheit das größte Hindernis darstellen, das ein Angreifer zu überwinden hat. \ninige so genannte Experten verweisen auf die mangelnde Leistungsfähigkeit und die schwache Bewaffnung des Fahrzeugs als Gründe, warum es nicht gebaut werden sollte, aber wie Premierminister [NZL.GetLeader] bei der offiziellen Abnahme des Fahrzeugs sagte, ist die rechtzeitige Verteidigung des Reiches von solcher Bedeutung, dass eine perfekte Ausrüstung weder erwartet noch verlangt werden kann."
  news.270.a:0 "Das nennen Sie also einen Panzer!"
  news.270.b:0 "Sie nennen dieses Ding einen WAS?"

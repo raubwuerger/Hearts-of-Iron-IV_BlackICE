@@ -4490,7 +4490,7 @@
  #tank ""
  mavag:0 "MÁVAG"
  mavag_desc:0 "Die Königliche Ungarische Staatsfabrik für Eisen, Stahl und Maschinen (Magyar Királyi Állami Vas-, Acél- és Gépgyárak), die für die Produktion der Toldi-Panzer verantwortlich war, gehörte zu den bedeutendsten Industrieunternehmen der damaligen Zeit.\n"
- mw_armor:0 "M.W. Rüstung"
+ mw_armor:0 "M.W. Panzer"
  mw_armor_desc:0 "Abteilung der Manfred-Weiss-Metallwerke, die sich mit der Entwicklung und Herstellung von Panzern befasst.\n"
  CZE_skoda_armor_HUN:0 "Skoda Panzer"
  CZE_skoda_armor_HUN_desc:0 "Skoda war während des Krieges für die Herstellung eines Großteils der tschechoslowakischen Panzer verantwortlich.\n"

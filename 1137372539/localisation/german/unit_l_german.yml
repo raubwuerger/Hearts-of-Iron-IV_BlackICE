@@ -1667,32 +1667,32 @@ Cavalry_tank_axis_desc:0 "Schnelle Panzer, die Breschen in der Linie ausnutzen s
  
  german_captured_light_armor:0 "Ausländische Leihpanzer"
  german_captured_light_armor_desc:0 "Captured/ Lend Lease Leichte Panzer können zur Aufstellung ausländischer leichter Panzerbataillone verwendet werden"
- german_captured_armor:0 "Ausländische Rüstung"
- german_captured_armor_desc:0 "Erbeutete/gepachtete Rüstung kann zur Aufstellung ausländischer Panzerbataillone verwendet werden"
+ german_captured_armor:0 "Ausländische Panzer"
+ german_captured_armor_desc:0 "Erbeutete/gepachtete Panzer kann zur Aufstellung ausländischer Panzerbataillone verwendet werden"
  
  italian_captured_light_armor:0 "Ausländische Leihpanzer"
  italian_captured_light_armor_desc:0 "Captured/ Lend Lease Leichte Panzer können zur Aufstellung ausländischer leichter Panzerbataillone verwendet werden"
- italian_captured_armor:0 "Ausländische Rüstung"
- italian_captured_armor_desc:0 "Erbeutete/gepachtete Rüstung kann zur Aufstellung ausländischer Panzerbataillone verwendet werden"
+ italian_captured_armor:0 "Ausländische Panzer"
+ italian_captured_armor_desc:0 "Erbeutete/gepachtete Panzer kann zur Aufstellung ausländischer Panzerbataillone verwendet werden"
  
  japanese_captured_light_armor:0 "Ausländische Leihpanzer"
  japanese_captured_light_armor_desc:0 "Captured/ Lend Lease Leichte Panzer können zur Aufstellung ausländischer leichter Panzerbataillone verwendet werden"
- japanese_captured_armor:0 "Ausländische Rüstung"
- japanese_captured_armor_desc:0 "Erbeutete/gepachtete Rüstung kann zur Aufstellung ausländischer Panzerbataillone verwendet werden"
+ japanese_captured_armor:0 "Ausländische Panzer"
+ japanese_captured_armor_desc:0 "Erbeutete/gepachtete Panzer kann zur Aufstellung ausländischer Panzerbataillone verwendet werden"
  
  usa_captured_light_armor:0 "Ausländische Leihpanzer"
  usa_captured_light_armor_desc:0 "Captured/ Lend Lease Leichte Panzer können zur Aufstellung ausländischer leichter Panzerbataillone verwendet werden"
- usa_captured_armor:0 "Ausländische Rüstung"
- usa_captured_armor_desc:0 "Erbeutete/gepachtete Rüstung kann zur Aufstellung ausländischer Panzerbataillone verwendet werden"
+ usa_captured_armor:0 "Ausländische Panzer"
+ usa_captured_armor_desc:0 "Erbeutete/gepachtete Panzer kann zur Aufstellung ausländischer Panzerbataillone verwendet werden"
  
  british_captured_light_armor:0 "Ausländische Leihpanzer"
  british_captured_light_armor_desc:0 "Captured/ Lend Lease Leichte Panzer können zur Aufstellung ausländischer leichter Panzerbataillone verwendet werden"
  british_captured_armor:0 "Ausländische Panzerung"
  british_captured_armor_desc:0 "Erbeutete/vermietete Panzer können zur Aufstellung ausländischer Panzerbataillone verwendet werden."
  
- french_captured_light_armor:0 "Ausländische Leichte Panzerung"
+ french_captured_light_armor:0 "Ausländische Leichte Panzer"
  french_captured_light_armor_desc:0 "Captured/ Lend Lease Leichte Panzerung kann zur Bildung ausländischer leichter Panzerbataillone verwendet werden"
- french_captured_armor:0 "Ausländische Rüstung"
+ french_captured_armor:0 "Ausländische Panzer"
  french_captured_armor_desc:0 "Erbeutete/vermietete Panzer können zur Aufstellung ausländischer Panzerbataillone verwendet werden."
  
  soviet_captured_light_armor:0 "Ausländischer Panzer Lt"

@@ -126,7 +126,7 @@
  TRIGGER_AI_WANTS_DIVISIONS_MORE_THAN:0 "Möchte mehr Abteilungen als $AMOUNT|H.0$"
  TRIGGER_AI_WANTS_DIVISIONS_LESS_THAN:0 "Möchte weniger Abteilungen als $AMOUNT|H.0$"
  TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_MORE_THAN:0 "$COUNTRY2|H$ hat schätzungsweise eine maximale Panzerung von $VALUE|H$ oder mehr, basierend auf Informationen"
- TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_LESS_THAN:0 "$COUNTRY2|H$ hat schätzungsweise eine maximale Rüstung von $VALUE|H$ oder weniger, basierend auf Informationen"
+ TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_LESS_THAN:0 "$COUNTRY2|H$ hat schätzungsweise eine maximale Panzerung von $VALUE|H$ oder weniger, basierend auf Informationen"
  TRIGGER_ESTIMATED_MAX_PIERCING_INTEL_MORE_THAN:0 "$COUNTRY2|H$ hat schätzungsweise eine maximale Durchschlagskraft von $VALUE|H$ oder mehr, basierend auf Informationen"
  TRIGGER_ESTIMATED_MAX_PIERCING_INTEL_LESS_THAN:0 "$COUNTRY2|H$ hat nach Schätzungen eine maximale Durchschlagskraft von $VALUE|H$ oder weniger, basierend auf Informationen"
  TRIGGER_STRENGTH_RATIO_MORE_THAN:1 "Geschätztes Verhältnis der Armeestärke von $VALUE|H0%$ oder mehr im Vergleich zu $COUNTRY2$"

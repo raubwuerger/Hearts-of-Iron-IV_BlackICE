@@ -877,7 +877,7 @@
   ROM_purchase_aircraft_only_fighter_available:0 ""
   ROM_purchase_infantry_equipment:0 "Kaufen Sie [FROM.GetAdjective] Infanteriewaffen"
   ROM_purchase_supporting_equipment:0 "Kaufen Sie [FROM.GetAdjective] Unterstützungsausrüstung"
-  ROM_purchase_armor:0 "Kaufen [FROM.GetAdjective] Rüstung"
+  ROM_purchase_armor:0 "Kaufen [FROM.GetAdjective] Panzern"
   ROM_purchase_military_vehicles:0 "Kaufen [FROM.GetAdjective] Militärfahrzeuge"
   ROM_purchase_aircraft:0 "Erwerb [FROM.GetAdjective] Flugzeuge"
   ROM_purchase_ships:0 "Kauf [FROM.GetAdjective] Schiffe"

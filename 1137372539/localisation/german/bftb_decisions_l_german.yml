@@ -778,7 +778,7 @@
  BUL_purchase_aircraft_everything_available:0 ", [?BUL_quantity_purchased_naval_bomber] §YNaval Bombers§! oder [?BUL_quantity_purchased_tactical_bomber] §YTactical Bombers§!"
  BUL_purchase_aircraft_only_fighter_available:0 ""
  BUL_purchase_infantry_equipment:0 "Kaufen Sie [FROM.GetAdjective] Infanterie-Ausrüstung"
- BUL_purchase_armor:0 "Kaufen Sie [FROM.GetAdjective] Rüstung"
+ BUL_purchase_armor:0 "Kaufen Sie [FROM.GetAdjective] Panzer"
  BUL_purchase_military_vehicles:0 "Kaufen [FROM.GetAdjective] Militärfahrzeuge"
  BUL_purchase_aircraft:0 "Kaufen [FROM.GetAdjective] Flugzeuge"
  BUL_purchase_ships:0 "Kaufen [FROM.GetAdjective] Schiffe"

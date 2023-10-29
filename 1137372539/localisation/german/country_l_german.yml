@@ -71,7 +71,7 @@
   COMMAND_POWER:0 "Befehlsgewalt"
   COMMAND_POWER_DESC:0 "§Kommandogewalt§! wird für verschiedene militärische Operationen und die Beförderung von Generälen verwendet. Sie kann für einmalige Operationen ausgegeben oder für kontinuierliche Operationen eingesetzt werden. Das Wachstum und die maximale Kapazität der §HCommand Power§! kann durch verschiedene Doktrinen und Nationalgeister erhöht werden."
   CURRENT_COMMAND_POWER_TOPBAR:0 "§Current Command Power: $VALUE|G1$§!"
-  COMMAND_POWER_GAIN:0 "§Täglicher Zuwachs: $VALUE|Y2$§!"
+  COMMAND_POWER_GAIN:0 "§TTäglicher Zuwachs: $VALUE|Y2$§!"
   MAX_COMMAND_POWER_TEXT:1 "Aktueller Höchstwert: $VALUE|Y0$"
   COMMAND_POWER_ALLOCATED:1 "Zugewiesen: $VALUE|R1$"
   COMMAND_POWER_ALLOCATION:0 "Zugewiesen:"
