@@ -317,7 +317,7 @@
  ruling_TT:0 "[Root.GetRulingPartyStatus]"
  population_TT:0 "§YPopulation§!\nGesamtbevölkerung: §Y[Root.GetPopulationValue1]§!\nGesamtbevölkerung in Kernen: §Y[Root.GetPopulationValue2]§!"
  country_population_TT:0 "§YKernbevölkerung§!"
- states_TT:0 "Es gibt derzeit [?num_controlled_states|Y0] Zustände unter §Y[Root.GetAdjective]§! control.\n§Y[Root.GetNameWithFlag]:§! [Root.GetOwnedStates][Root.GetOwnedControlledStates][Root.GetOccupiedStates][Root.GetCoreStates]\n\n"
+ states_TT:0 "Wir haben derzeit [?num_controlled_states|Y0] Regionen unter §Y[Root.GetAdjective]§! Kontrolle.\n§Y[Root.GetNameWithFlag]:§! [Root.GetOwnedStates][Root.GetOwnedControlledStates][Root.GetOccupiedStates][Root.GetCoreStates]\n\n"
  core_states_TT:0 "\n\nVon den gesamten [?num_core_states|0Y] [Root.GetAdjective] Kernen:[Root.GetOwnedCoreStates][Root.GetControlledCoreStates]"
  occupied_states_TT:0 "\n besetzt [?num_occupied_states|0Y] Staaten eines fremden Landes"
  owned_states_TT:0 "\n besitzt [?num_owned_states|0Y] Staaten"
@@ -1189,29 +1189,29 @@
  MONARCHIST_PARTY_DRIFT_TOOLTIP:0 "[GetMonarchistPartyDriftTT]"
  NEUTRAL_PARTY_DRIFT_TOOLTIP:0 "[GetNeutralPartyDriftTT]"
  
- FASCIST_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YFascist Drift.§! \n[?ruling|=+3] kommt von §YRuling Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
- FASCIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YFascist Drift.§! \n[?ruling|-=3] kommt von §YOpposition Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ FASCIST_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YFaschistischen Strömungen.§! \n[?ruling|=+3] kommt von §YRegierungspartei Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ FASCIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YFaschistischen Strömungen.§! \n[?ruling|-=3] kommt von §YOppositionellen Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
  
- COMMUNIST_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YCommunist Drift.§! \n[?ruling|=+3] kommt von §YRuling Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
- COMMUNIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YCommunist Drift.§! \n[?ruling|-=3] kommt von §YOpposition Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ COMMUNIST_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YKommunistischen Strömungen.§! \n[?ruling|=+3] kommt von §YRegierungspartei Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ COMMUNIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YKommunistischen Strömungen.§! \n[?ruling|-=3] kommt von §YOppositionellen Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
  
- MONARCHIST_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YMonarchist Drift.§! \n[?ruling|=+3] kommt von §YRuling Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
- MONARCHIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YMonarchist Drift.§! \n[?ruling|-=3] kommt von §YOpposition Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ MONARCHIST_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YMonarchistischen Strömungen.§! \n[?ruling|=+3] kommt von §YRegierungspartei Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ MONARCHIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YMonarchistischen Strömungen.§! \n[?ruling|-=3] kommt von §YOppositionellen Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
  
- NEUTRAL_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YAuthoritarian Drift.§! \n[?ruling|=+3] kommt von §YRuling Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
- NEUTRAL_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YAuthoritarian Drift.§! \n[?ruling|-=3] kommt von §YOpposition Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ NEUTRAL_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YAutoritären Strömungen.§! \n[?ruling|=+3] kommt von §YRegierungspartei Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ NEUTRAL_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YAutoritären Strömungen.§! \n[?ruling|-=3] kommt von §YOppositionellen Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
  
- CONSERVATIVE_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YConservatism Drift.§! \n[?ruling|=+3] kommt von §YRuling Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
- CONSERVATIVE_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YConservatism Drift.§! \n[?ruling|-=3] kommt von §YOpposition Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ CONSERVATIVE_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YKonservatien Strömungen.§! \n[?ruling|=+3] kommt von §YRegierungspartei Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ CONSERVATIVE_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YKonservatien Strömungen.§! \n[?ruling|-=3] kommt von §YOppositionellen Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
  
- LIBERAL_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YLiberalism Drift.§! \n[?ruling|=+3] kommt von §YRuling Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
- LIBERAL_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YLiberalism Drift.§! \n[?ruling|-=3] kommt von §YOpposition Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ LIBERAL_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YLiberalen Strömungen.§! \n[?ruling|=+3] kommt von §YRegierungspartei Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ LIBERAL_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YLiberalen Strömungen.§! \n[?ruling|-=3] kommt von §YOppositionellen Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
  
- SOCIALIST_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YSocialism Drift.§! \n[?ruling|=+3] kommt von §YRuling Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
- SOCIALIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YSocialism Drift.§! \n[?ruling|-=3] kommt von §YOpposition Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ SOCIALIST_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YSozialistischen Strömungen.§! \n[?ruling|=+3] kommt von §YRegierungspartei Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ SOCIALIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YSozialistischen Strömungen.§! \n[?ruling|-=3] kommt von §YOppositionellen Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
  
- AGRARIAN_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YAgrarianism Drift.§! \n[?ruling|=+3] kommt von §YRuling Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
- AGRARIAN_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YAgrarianism Drift.§! \n[?ruling|-=3] kommt von §YOpposition Party Drift.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ AGRARIAN_PARTY_DRIFT_TT:0 "[?drift|=+3] kommt von §YAgrarischen Strömungen.§! \n[?ruling|=+3] kommt von §YRegierungspartei Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
+ AGRARIAN_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] kommt von §YAgrarischen Strömungen.§! \n[?ruling|-=3] kommt von §YOppositionellen Strömungen.§! \n\nDiese Werte sind aufgrund der Skalierung nicht die endgültigen Werte."
  
  subideology:0 ""
  
