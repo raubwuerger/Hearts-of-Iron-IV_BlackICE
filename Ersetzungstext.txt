@@ -1,4 +1,4 @@
-Strahlflugzeug
-Schwerer Sturzkampfbomber
-Strahlgetriebener Sturzkampfbomber
-Sturzkampfflugzeug
+Repair priority
+Allow to split§
+Repair now!
+Submarines§
