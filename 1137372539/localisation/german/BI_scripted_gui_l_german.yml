@@ -56,19 +56,19 @@
  space_TT:0 "    \N"
 
  #Allied Anger
- allied_anger:0 "§Verbundener Zorn§! [?GER.allied_anger|0R]"
+ allied_anger:0 "§4Verbundener Zorn§! [?GER.allied_anger|0R]"
  allied_anger_desc:0 "Aktueller §RAliied Anger§!: [?GER.allied_anger|0R]"
  allied_anger_trait:0 ""
  #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder des Commonwealth\n[Root.GetAA3] §R3§! - Politische Macht: §G+150§!\n§ [Root.GetAA5] §R5§! - Erhalten Sie Basiskriegsunterstützung: §G+10 %§! \n[Root.GetAA8] §R8§! - Wirtschaftsgesetz in "§YFrühe Mobilisierung§!" ändern\n[Root.GetAA10] §R10§! - Erhalte Basiskriegsunterstützung: §G+10§!\n[Root.GetAA12] §R12§! - Modifikatoren von §YThe War to End All Wars§ reduzieren!\n[Root.GetAA15] §R15§! - Basismobilisierungsgeschwindigkeit erhöhen: §G+15 %§!\n[Root.GetAA16] §R16§! - Militärkommandokosten reduzieren: §G-25%§!\n[Root.GetAA18] §R18§! - Mobilisierung in "§YLimited§!" ändern\n[Root.GetAA20] §R20§! - Handelsmeinung mit [GER.GetNameWithFlag]: §R-50§!\n[Root.GetAA24] §R24§! - Wirtschaftsgesetz in "§YTeilmobilisierung§!" ändern\n[Root.GetAA26] §R26§! - Wirtschaftsgesetz in "§YWar Economy§!" ändern\n[Root.GetAA28] §R28§! - Erstellt zusätzliche Infanteriedivisionen in der Hauptstadt\n[Root.GetAA30] §R30§! - Erhält Nationalgeist §YEnde der Beschwichtigung§!"
  #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §YAllied Faction§!\nJeder zusätzliche §RAliied Anger§! erhöht die Boni um §G2%§!"
  show_allied_anger:0 "[!allied_anger_test_click]"
- allied_anger_TT_0:0 "§Der Zorn der Alliierten§!\n"
+ allied_anger_TT_0:0 "§4Der Zorn der Alliierten§!\n"
  allied_anger_TT_1:0 "Gilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §Y[ENG.GetFactionName]§! Fraktion\n\n"
- allied_anger_TT_2:0 "Mit jeder Erhöhung erhöhen sich die Boni proportional. Die Rechtfertigung eines Kriegsziels wird die Wut der Alliierten regelmäßig erhöhen, und eine Kriegserklärung wird die §Zorn der Alliierten§ erhöhen! auf max. Level für §Y180§! Tage.\n\n Derzeit ist §Y[ENG.GetFactionName]§! Erhalte die folgenden Boni:\n\n"
+ allied_anger_TT_2:0 "Mit jeder Erhöhung erhöhen sich die Boni proportional. Die Rechtfertigung eines Kriegsziels wird die Wut der Alliierten regelmäßig erhöhen, und eine Kriegserklärung wird die §4Zorn der Alliierten§ erhöhen! auf max. Level für §Y180§! Tage.\n\n Derzeit ist §Y[ENG.GetFactionName]§! Erhalte die folgenden Boni:\n\n"
  allied_anger_TT_3:0 "      /  Keiner"
 
- ALLIED_ANGER_INCREASE_EXTRA_TT:0 "Aufgrund unserer §Jüngsten Grundstückserwerbe§! der §Verbundene Zorn§! erhöht sich um §R[?anger|1] +[?extra_anger|1]§!"
- ALLIED_ANGER_INCREASE:0 "§Verbundener Zorn§! wird um §R+[?anger|1]§ erhöht!"
+ ALLIED_ANGER_INCREASE_EXTRA_TT:0 "Aufgrund unserer §4Jüngsten Grundstückserwerbe§! der §4Verbundene Zorn§! erhöht sich um §R[?anger|1] +[?extra_anger|1]§!"
+ ALLIED_ANGER_INCREASE:0 "§4Verbundener Zorn§! wird um §R+[?anger|1]§ erhöht!"
 
 
  TRIGGER_NO:0 "£trigger_no"
@@ -150,7 +150,7 @@
  
  ROOT_MANPOWER_QUEUE:0 "§Y[?amount_manpower_in_deployment_queue]§! £manpower_icon"
  
- TOTAL_FAC_TT:0 "§YFabriken§!\nZivilfabriken: [?num_of_civilian_factories|Y0]\n §LAVerfügbare Fabriken für Projekte: [?num_of_civilian_factories_available_for_projects]§!\nMilitärische Fabriken: [?num_of_military_factories|Y0]\nMarinewerften: [?num_of_naval_factories|Y0] \n \nLuftmontagewerke: [?num_air_assembly|Y0]\nPanzermontagewerke: [?num_tank_assembly|Y0]\nMotormontagewerke: [?num_engine_assembly|Y0]\nArtilleriemontagewerke: [?num_artillery_assembly|Y0]"
+ TOTAL_FAC_TT:0 "§YFabriken§!\nZivilfabriken: [?num_of_civilian_factories|Y0]\n §LVerfügbare Fabriken für Projekte: [?num_of_civilian_factories_available_for_projects]§!\nMilitärische Fabriken: [?num_of_military_factories|Y0]\nMarinewerften: [?num_of_naval_factories|Y0] \n \nLuftmontagewerke: [?num_air_assembly|Y0]\nPanzermontagewerke: [?num_tank_assembly|Y0]\nMotormontagewerke: [?num_engine_assembly|Y0]\nArtilleriemontagewerke: [?num_artillery_assembly|Y0]"
  
  STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Lagerbestand§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n – Täglicher Gewinn: [GetStorageInput] \n – Täglicher Output: [?storage_output@var:v|0-] ([?global.resource_cost@var:v|Y0] pro Speicher)\n\nMaximale Speicherkapazität: [?max_storage@var:v|Y0]\n Kapital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivilefabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n Ressourcenproduktion: [?max_storage_resource@var:v|Y0]\n\n[GetStorageEstimate]"
  STORAGE_TOPBAR_TOOLTIP_DELAYED:0 "[GetStorageSettingTT]"
@@ -639,7 +639,7 @@
 
  mobilization_switch:0 " Ändert derzeit §YMobilisierung der Armee§!\n"
  mobilization_switch_name:0 "Mobilisierung der Armee"
- mobilization_switch_TT:0 "\nÄnderung der §Militärischen Mobilisierung§! zu §Y[Root.GetMobilisationSwitchTarget]§![Root.GetMobilisationSwitchIcon]\n\nGesamtfortschritt: [?mobilization_switch_total_progress|Y1]/[?mobilization_switch_progress_required|Y1]\n\nTäglicher Fortschritt: [?mobilization_switch_progress_daily|Y2]\nBasis: § Y1.0§!"
+ mobilization_switch_TT:0 "\nÄnderung der §4Militärischen Mobilisierung§! zu §Y[Root.GetMobilisationSwitchTarget]§![Root.GetMobilisationSwitchIcon]\n\nGesamtfortschritt: [?mobilization_switch_total_progress|Y1]/[?mobilization_switch_progress_required|Y1]\n\nTäglicher Fortschritt: [?mobilization_switch_progress_daily|Y2]\nBasis: § Y1.0§!"
  MOBILIZATION_SWITCH_PROGRESS_TRIGGER:0 "\nErforderlicher Gesamtfortschritt: [?mobilization_switch_progress_required]\n"
  MOBILIZATION_SWITCH_STAGE_TRIGGER:0 "Aktueller Stufenfortschritt erforderlich: [?mobilization_switch_stage_trigger]\n"
  MOBILIZATION_SWITCH_DAILY_PROGRESS:0 "Täglicher Fortschritt: [?mobilization_switch_progress_daily]\n[Root.GetArmyMob/officer_training_standards]"
@@ -1700,11 +1700,11 @@
  ALUMINIUM_INPUT_TEXT_TRUE:0 "£resources_strip|7 [?conversion_use_@bauxite]"
  ALUMINIUM_INPUT_TEXT_FALSE:0 "£resources_strip|7 [?conversion_use_@bauxite|R0]"
  ALUMINIUM_INPUT_TOOLTIP:0 "[!bauxite_input_text_click]"
- ALUMINIUM_INPUT_TARGET_TOOLTIP:0 "Unsere [?num_refinery_assigned@aluminium|Y0] zugewiesenen £civ_factory §YRefineries§! erfordern [?target_input|Y0] £resources_strip|7 Bauxit"
- ALUMINIUM_INPUT_DEFICIT_TOOLTIP:0 "\n§RRerfordert [?deficit|0Y] zusätzliche £resources_strip|7 Bauxit für volle Effizienz!§!"
- ALUMINIUM_INPUT_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss an [?surplus|G0]£resources_strip|7 Bauxit, genug, um eine zusätzliche [?num_possible|Y1] £civ_factory §YRefineries§ zu versorgen!"
+ ALUMINIUM_INPUT_TARGET_TOOLTIP:0 "Unsere [?num_refinery_assigned@aluminium|Y0] zugewiesenen £civ_factory §YRaffinerien§! erfordern [?target_input|Y0] £resources_strip|7 Bauxit"
+ ALUMINIUM_INPUT_DEFICIT_TOOLTIP:0 "\n§RErfordert [?deficit|0Y] zusätzliche £resources_strip|7 Bauxit für volle Effizienz!§!"
+ ALUMINIUM_INPUT_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss an [?surplus|G0]£resources_strip|7 Bauxit, genug, um eine zusätzliche [?num_possible|Y1] £civ_factory §YRaffinerien§ zu versorgen!"
  ALUMINIUM_INPUT_TOOLTIP_DELAYED: "[GetBauxiteRefStatus]"
- ALUMINIUM_INPUT_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@aluminium|Y1] £civ_factory §YRefineries§! sind §Cinaktiv§! wegen §Spülung§! Ressourcen."
+ ALUMINIUM_INPUT_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@aluminium|Y1] £civ_factory §YRaffinerien§! sind §Cinaktiv§! wegen §4Spülung§! Ressourcen."
  ALUMINIUM_OUTPUT_TEXT:0 "£resources_strip|2 [?resource_output_@aluminium]"
 
  STEEL_ENERGY_COST_TEXT:0 "[GetSteelEnergyColor]"
@@ -1713,21 +1713,21 @@
  STEEL_INPUT_IRON_TEXT_TRUE:0 "£resources_strip|9 [?conversion_use_@iron]"
  STEEL_INPUT_IRON_TEXT_FALSE:0 "£resources_strip|9 [?conversion_use_@iron|R0]"
  STEEL_INPUT_IRON_TOOLTIP:0 "[!input_iron_text_click]"
- STEEL_INPUT_IRON_TARGET_TOOLTIP:0 "Unsere [?num_refinery_assigned@steel|Y0] zugewiesenen £civ_factory §YRefineries§! benötige [?target_input|Y0] £resources_strip|9 Eisen"
- STEEL_INPUT_IRON_DEFICIT_TOOLTIP:0 "\n§RRerfordert [?iron_deficit|0Y] zusätzliche £resources_strip|9 Eisen für volle Effizienz!§!"
- STEEL_INPUT_IRON_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss an [?iron_surplus|G0]£resources_strip|9 Eisen, genug, um weitere [?num_possible|Y1] £civ_factory §YRefineries§ zu versorgen!"
+ STEEL_INPUT_IRON_TARGET_TOOLTIP:0 "Unsere [?num_refinery_assigned@steel|Y0] zugewiesenen £civ_factory §YRaffinerien§! benötige [?target_input|Y0] £resources_strip|9 Eisen"
+ STEEL_INPUT_IRON_DEFICIT_TOOLTIP:0 "\n§RErfordert [?iron_deficit|0Y] zusätzliche £resources_strip|9 Eisen für volle Effizienz!§!"
+ STEEL_INPUT_IRON_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss an [?iron_surplus|G0]£resources_strip|9 Eisen, genug, um weitere [?num_possible|Y1] £civ_factory §YRaffinerien§ zu versorgen!"
  STEEL_INPUT_IRON_TOOLTIP_DELAYED: "[GetIronRefStatus]"
- STEEL_INPUT_IRON_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@steel|Y1] £civ_factory §YRefineries§! sind §Cinaktiv§! wegen §Spülung§! Ressourcen."
+ STEEL_INPUT_IRON_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@steel|Y1] £civ_factory §YRaffinerien§! sind §Cinaktiv§! wegen §4Spülung§! Ressourcen."
 
  STEEL_INPUT_COAL_TEXT:0 "[GetCoalInput]"
  STEEL_INPUT_COAL_TEXT_TRUE:0 "£resources_strip|8 [?conversion_use_@coal]"
  STEEL_INPUT_COAL_TEXT_FALSE:0 "£resources_strip|8 [?conversion_use_@coal|R0]"
  STEEL_INPUT_COAL_TOOLTIP:0 "[!input_coal_text_click]"
- STEEL_INPUT_COAL_TARGET_TOOLTIP:0 "Unsere [?num_refinery_assigned@steel|Y0] zugewiesenen £civ_factory §YRefineries§! benötige [?target_input|Y0] £resources_strip|8 Kohle"
- STEEL_INPUT_COAL_DEFICIT_TOOLTIP:0 "\n§RRerfordert [?coal_deficit|0Y] zusätzliche £resources_strip|8 Kohle für volle Effizienz!§!"
- STEEL_INPUT_COAL_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss von [?coal_surplus|G0]£resources_strip|8 Kohle, genug, um eine zusätzliche [?num_possible|Y1] £civ_factory §YRefineries§ zu versorgen!"
+ STEEL_INPUT_COAL_TARGET_TOOLTIP:0 "Unsere [?num_refinery_assigned@steel|Y0] zugewiesenen £civ_factory §YRaffinerien§! benötige [?target_input|Y0] £resources_strip|8 Kohle"
+ STEEL_INPUT_COAL_DEFICIT_TOOLTIP:0 "\n§RErfordert [?coal_deficit|0Y] zusätzliche £resources_strip|8 Kohle für volle Effizienz!§!"
+ STEEL_INPUT_COAL_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss von [?coal_surplus|G0]£resources_strip|8 Kohle, genug, um eine zusätzliche [?num_possible|Y1] £civ_factory §YRaffinerien§ zu versorgen!"
  STEEL_INPUT_COAL_TOOLTIP_DELAYED: "[GetCoalRefStatus]"
- STEEL_INPUT_COAL_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@steel|Y1] £civ_factory §YRefineries§! sind §Cinaktiv§! wegen §Spülung§! Ressourcen."
+ STEEL_INPUT_COAL_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@steel|Y1] £civ_factory §YRaffinerien§! sind §Cinaktiv§! wegen §4Spülung§! Ressourcen."
  STEEL_OUTPUT_TEXT:0 "£resources_strip|5 [?resource_output_@steel]"
 
  STEEL_INPUT_CHROMIUM_TEXT:0 "[GetChromiumInput]"
@@ -1735,9 +1735,9 @@
  STEEL_INPUT_CHROMIUM_TEXT_FALSE:0 "£resources_strip|6 [?alloy_input_actual|R0]"
 
  STEEL_INPUT_CHROMIUM_TOOLTIP:0 "[!input_chromium_text_click]"
- STEEL_INPUT_CHROMIUM_TARGET_TOOLTIP:0 "Unsere [?num_alloy_ref|Y0] zugewiesenen £civ_factory §YRefineries§! erfordert [?target_input|Y0] £resources_strip|6 Legierungsmetalle"
- STEEL_INPUT_CHROMIUM_DEFICIT_TOOLTIP:0 "\n§RRerfordert [?chromium_deficit|0Y] zusätzliche £resources_strip|6 Legierungsmetalle für volle Effizienz!§!"
- STEEL_INPUT_CHROMIUM_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss an [?chromium_surplus|G0]£resources_strip|6 Legierungsmetallen, genug, um weitere [?num_possible|Y1] £civ_factory §YRefineries§ zu versorgen!"
+ STEEL_INPUT_CHROMIUM_TARGET_TOOLTIP:0 "Unsere [?num_alloy_ref|Y0] zugewiesenen £civ_factory §YRaffinerien§! erfordert [?target_input|Y0] £resources_strip|6 Legierungsmetalle"
+ STEEL_INPUT_CHROMIUM_DEFICIT_TOOLTIP:0 "\n§RErfordert [?chromium_deficit|0Y] zusätzliche £resources_strip|6 Legierungsmetalle für volle Effizienz!§!"
+ STEEL_INPUT_CHROMIUM_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss an [?chromium_surplus|G0]£resources_strip|6 Legierungsmetallen, genug, um weitere [?num_possible|Y1] £civ_factory §YRaffinerien§ zu versorgen!"
 
 
  STEEL_INPUT_ADD_CHROMIUM_TOOLTIP: "[?max_num_alloy_refinery|Y0] aus unseren [?num_refinery@steel|Y0] §YStahlraffinierie§! Verwenden Sie diesen Rezeptzusatz."
@@ -1756,11 +1756,11 @@
  FUEL_INPUT_TEXT_TRUE:0 "£resources_strip|8 [?conversion_use_fuel@coal]"
  FUEL_INPUT_TEXT_FALSE:0 "£resources_strip|8 [?conversion_use_fuel@coal|R0]"
  FUEL_INPUT_TOOLTIP:0 "[!fuel_input_text_click]"
- FUEL_INPUT_TARGET_TOOLTIP:0 "Unsere [?num_refinery_assigned@fuel|Y0] zugewiesenen £civ_factory §YRefineries§! benötige [?target_input|Y0] £resources_strip|8 Kohle"
- FUEL_INPUT_DEFICIT_TOOLTIP:0 "\n§RRerfordert [?fuel_coal_deficit|0Y] zusätzliche £resources_strip|8 Kohle für volle Effizienz!§!"
- FUEL_INPUT_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss von [?coal_surplus|G0]£resources_strip|8 Kohle, genug, um eine zusätzliche [?num_possible|Y1] £civ_factory §YRefineries§ zu versorgen!"
+ FUEL_INPUT_TARGET_TOOLTIP:0 "Unsere [?num_refinery_assigned@fuel|Y0] zugewiesenen £civ_factory §YRaffinerien§! benötige [?target_input|Y0] £resources_strip|8 Kohle"
+ FUEL_INPUT_DEFICIT_TOOLTIP:0 "\n§RErfordert [?fuel_coal_deficit|0Y] zusätzliche £resources_strip|8 Kohle für volle Effizienz!§!"
+ FUEL_INPUT_SURPLUS_TOOLTIP: "\nWir haben einen Überschuss von [?coal_surplus|G0]£resources_strip|8 Kohle, genug, um eine zusätzliche [?num_possible|Y1] £civ_factory §YRaffinerien§ zu versorgen!"
  FUEL_INPUT_TOOLTIP_DELAYED: "[GetFuelRefStatus]"
- FUEL_INPUT_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@fuel|Y1] £civ_factory §YRefineries§! sind §Cinaktiv§! wegen §Spülung§! Ressourcen."
+ FUEL_INPUT_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@fuel|Y1] £civ_factory §YRaffinerien§! sind §Cinaktiv§! wegen §4Spülung§! Ressourcen."
 
  FUEL_OUTPUT_TEXT:0 "£fuel_state [?resource_output_@fuel]"
 
@@ -1777,15 +1777,15 @@
 
  ALUMINIUM_ENERGY_COST_TOOLTIP:0 "[!aluminium_energy_cost_tooltip_click]"
  ALUMINIUM_ENERGY_COST_BASE_TOOLTIP:0 "§YEnergie§!\nDiese Umwandlung erfordert £electricity_medium §Y[?energy_paid]/[?energy_cost_@aluminium]§! §YEnergie§!."
- ALUMINIUM_ENERGY_COST_DEFICIT_TOOLTIP:0 "\n§RRerfordert [?energy_deficit_@aluminium] zusätzliche Energie!§!"
- ALUMINIUM_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0 "§RCurrent Efficiency: [?deficit_ratio|%]§!"
- ALUMINIUM_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0 "£resources_strip|2 §ROutput bei voller Energie: [?deficit_flat]§!"
+ ALUMINIUM_ENERGY_COST_DEFICIT_TOOLTIP:0 "\n§RErfordert [?energy_deficit_@aluminium] zusätzliche Energie!§!"
+ ALUMINIUM_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0 "§RYRefineries: [?deficit_ratio|%]§!"
+ ALUMINIUM_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0 "£resources_strip|2 §RProduktion bei voller Energie: [?deficit_flat]§!"
 
- ASSIGNED_ALUMINIUM_REFINERIES_TOOLTIP:0 "§YRaffinerien§!\nWir haben insgesamt [?num_refinery@aluminium|Y0]£resources_strip|2 Raffinerien, von denen [?num_refinery_assigned@aluminium|Y0] zugewiesen sind.\n\n[?num_active_refinery@aluminium|Y1] Raffinerien sind §Oactive§!\n[?num_refinery_inactive@aluminium|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@aluminium|Y1] Raffinerien sind §Rdamaged§!"
+ ASSIGNED_ALUMINIUM_REFINERIES_TOOLTIP:0 "§YRaffinerien§!\nWir haben insgesamt [?num_refinery@aluminium|Y0]£resources_strip|2 Raffinerien, von denen [?num_refinery_assigned@aluminium|Y0] zugewiesen sind.\n\n[?num_active_refinery@aluminium|Y1] Raffinerien sind §OAktive§!\n[?num_refinery_inactive@aluminium|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@aluminium|Y1] Raffinerien sind §Rdamaged§!"
 
  ALUMINIUM_REFINERY_ENTRY_TOOLTIP:0 "[!assign_aluminium_refinery_tooltip_click]"
 
- ALUMINIUM_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YKlick§! um £civ_factory [GetRefineryEntryAssignedColorA]/[?ROOT.num_refinery@aluminium|Y0] §YRefineries§ zuzuweisen! zu dieser Konvertierung, die Folgendes erfordert: \n$ALUMINIUM_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
+ ALUMINIUM_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YKlick§! um £civ_factory [GetRefineryEntryAssignedColorA]/[?ROOT.num_refinery@aluminium|Y0] §YRaffinerien§ zuzuweisen! zu dieser Konvertierung, die Folgendes erfordert: \n$ALUMINIUM_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
  ALUMINIUM_REFINERY_ENTRY_REQUIRED_TOOLTIP:0 "\n£electricity_medium Energie: [?energy_need]\n£resources_strip|7 Bauxit: [?bauxite_need] | Verbleibend: [?bauxite_left|+=0] $ALUMINIUM_REFINERY_ENTRY_RESULT_TOOLTIP$"
  ALUMINIUM_REFINERY_ENTRY_RESULT_TOOLTIP:0 "\n\num die folgende Ressource zu produzieren:\n\n£resources_strip|2 Aluminium: [?aluminium_output|+=G0]"
 
@@ -1794,32 +1794,32 @@
 
  STEEL_ENERGY_COST_TOOLTIP:0 "[!steel_energy_cost_tooltip_click]"
  STEEL_ENERGY_COST_BASE_TOOLTIP:0 "§YEnergie§!\nDiese Umwandlung erfordert £electricity_medium §Y[?energy_paid]/[?energy_cost_@steel]§! §YEnergie§!."
- STEEL_ENERGY_COST_DEFICIT_TOOLTIP:0 "\n§RRerfordert [?energy_deficit_@steel] zusätzliche Energie!§!"
- STEEL_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0 "§RCurrent Efficiency: [?deficit_ratio|%]§!"
+ STEEL_ENERGY_COST_DEFICIT_TOOLTIP:0 "\n§RErfordert [?energy_deficit_@steel] zusätzliche Energie!§!"
+ STEEL_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0 "§RAktuelle Effizienz: [?deficit_ratio|%]§!"
  STEEL_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0 "£resources_strip|5 §ROutput bei voller Energie: [?deficit_flat]§!"
 
- ASSIGNED_STEEL_REFINERIES_TOOLTIP:0 "§YRefineries§!\nWir haben insgesamt [?num_refinery@steel|Y0]£resources_strip|5 Raffinerien, von denen [?num_refinery_assigned@steel|Y0] zugewiesen sind.\n\n[?num_active_refinery@steel|Y1] Raffinerien sind §Oactive§!\n[?num_refinery_inactive@steel|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@steel|Y1] Raffinerien sind §Rdamaged§!"
+ ASSIGNED_STEEL_REFINERIES_TOOLTIP:0 "§YRaffinerien§!\nWir haben insgesamt [?num_refinery@steel|Y0]£resources_strip|5 Raffinerien, von denen [?num_refinery_assigned@steel|Y0] zugewiesen sind.\n\n[?num_active_refinery@steel|Y1] Raffinerien sind §OAktive§!\n[?num_refinery_inactive@steel|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@steel|Y1] Raffinerien sind §Rdamaged§!"
  ALERT_STEEL_REFINERY_TOOLTIP: "§YKlick§! um die Anzeige von §Yunassigned Refineries§ umzuschalten! auf der Registerkarte "Handel" klicken"
 
  STEEL_REFINERY_ENTRY_TOOLTIP:0 "[!assign_steel_refinery_tooltip_click]"
 
- STEEL_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YKlick§! um £civ_factory [GetRefineryEntryAssignedColorS]/[?ROOT.num_refinery@steel|Y0] §YRefineries§ zuzuweisen! zu dieser Konvertierung, die Folgendes erfordert: \n$STEEL_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
+ STEEL_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YKlick§! um £civ_factory [GetRefineryEntryAssignedColorS]/[?ROOT.num_refinery@steel|Y0] §YRaffinerien§ zuzuweisen! zu dieser Konvertierung, die Folgendes erfordert: \n$STEEL_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
  STEEL_REFINERY_ENTRY_REQUIRED_TOOLTIP:0 "\n£electricity_medium Energie: [?energy_need]\n£resources_strip|9 Eisen: [?iron_need] | Verbleibend: [?iron_left|+=0]\n£resources_strip|8 Kohle: [?coal_need] | Verbleibend: [?coal_left|+=0] $STEEL_REFINERY_ENTRY_RESULT_TOOLTIP$"
- STEEL_REFINERY_ENTRY_RESULT_TOOLTIP:0 "\n\num die folgende Ressource zu produzieren:\n\n£resources_strip|5 Stahl: [?steel_output|+=G0]"
+ STEEL_REFINERY_ENTRY_RESULT_TOOLTIP:0 "\n\nUm die folgende Ressource zu produzieren:\n\n£resources_strip|5 Stahl: [?steel_output|+=G0]"
 
  STEEL_REFINERY_ENTRY_TOOLTIP_DELAYED:0 "[!assign_steel_refinery_tooltip_delayed_click]"
 
  RUBBER_ENERGY_COST_TOOLTIP:0 "[!rubber_energy_cost_tooltip_click]"
  RUBBER_ENERGY_COST_BASE_TOOLTIP:0 "§YEnergie§!\nDiese Umwandlung erfordert £electricity_medium §Y[?energy_paid]/[?energy_cost_@rubber]§! §YEnergie§!."
- RUBBER_ENERGY_COST_DEFICIT_TOOLTIP:0 "\n§RRerfordert [?energy_deficit_@rubber] zusätzliche Energie!§!"
- RUBBER_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0 "§RCurrent Efficiency: [?deficit_ratio|%]§!"
+ RUBBER_ENERGY_COST_DEFICIT_TOOLTIP:0 "\n§RErfordert [?energy_deficit_@rubber] zusätzliche Energie!§!"
+ RUBBER_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0 "§RAktuelle Effizienz: [?deficit_ratio|%]§!"
  RUBBER_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0 "£resources_strip|2 §ROutput bei voller Energie: [?deficit_flat]§!"
 
- ASSIGNED_RUBBER_REFINERIES_TOOLTIP:0 "§YRefineries§!\nWir haben insgesamt [?num_refinery@rubber|Y0]£resources_strip|3 Raffinerien, von denen [?num_refinery_assigned@rubber|Y0] zugewiesen sind.\n\n[?num_active_refinery@rubber|Y1] Raffinerien sind §Oactive§!\n[?num_refinery_inactive@rubber|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@rubber|Y1] Raffinerien sind §Rdamaged§!"
+ ASSIGNED_RUBBER_REFINERIES_TOOLTIP:0 "§YRaffinerien§!\nWir haben insgesamt [?num_refinery@rubber|Y0]£resources_strip|3 Raffinerien, von denen [?num_refinery_assigned@rubber|Y0] zugewiesen sind.\n\n[?num_active_refinery@rubber|Y1] Raffinerien sind §OAktive§!\n[?num_refinery_inactive@rubber|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@rubber|Y1] Raffinerien sind §Rdamaged§!"
 
  RUBBER_REFINERY_ENTRY_TOOLTIP:0 "[!assign_rubber_refinery_tooltip_click]"
 
- RUBBER_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YKlick§! um £civ_factory [GetRefineryEntryAssignedColorR]/[?ROOT.num_refinery@rubber|Y0] §YRefineries§ zuzuweisen! zu dieser Konvertierung, die Folgendes erfordert: \n$RUBBER_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
+ RUBBER_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YKlick§! um £civ_factory [GetRefineryEntryAssignedColorR]/[?ROOT.num_refinery@rubber|Y0] §YRaffinerien§ zuzuweisen! zu dieser Konvertierung, die Folgendes erfordert: \n$RUBBER_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
  RUBBER_REFINERY_ENTRY_REQUIRED_TOOLTIP:0 "\n£electricity_medium Energie: [?energy_need] $RUBBER_REFINERY_ENTRY_RESULT_TOOLTIP$"
  RUBBER_REFINERY_ENTRY_RESULT_TOOLTIP:0 "\n\num die folgende Ressource zu produzieren:\n\n£resources_strip|3 Gummi: [?rubber_output|+=G0]"
 
@@ -1828,15 +1828,15 @@
 
  FUEL_ENERGY_COST_TOOLTIP:0 "[!fuel_energy_cost_tooltip_click]"
  FUEL_ENERGY_COST_BASE_TOOLTIP:0 "§YEnergie§!\nDiese Umwandlung erfordert £electricity_medium §Y[?energy_paid]/[?energy_cost_@fuel]§! §YEnergie§!."
- FUEL_ENERGY_COST_DEFICIT_TOOLTIP:0 "\n§RRerfordert [?energy_deficit_@fuel] zusätzliche Energie!§!"
- FUEL_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0 "§RCurrent Efficiency: [?deficit_ratio|%]§!"
+ FUEL_ENERGY_COST_DEFICIT_TOOLTIP:0 "\n§RErfordert [?energy_deficit_@fuel] zusätzliche Energie!§!"
+ FUEL_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0 "§RAktuelle Effizienz: [?deficit_ratio|%]§!"
  FUEL_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0 "£resources_strip|2 §ROutput bei voller Energie: [?deficit_flat]§!"
 
- ASSIGNED_FUEL_REFINERIES_TOOLTIP:0 "§YRaffinerien§!\nWir haben insgesamt [?num_refinery@fuel|Y0]£fuel_state Raffinerien, von denen [?num_refinery_assigned@fuel|Y0] zugewiesen sind.\n\n[?num_active_refinery@fuel|Y1] Raffinerien sind § Oactive§!\n[?num_refinery_inactive@fuel|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@fuel|Y1] Raffinerien sind §Rdamaged§!"
+ ASSIGNED_FUEL_REFINERIES_TOOLTIP:0 "§YRaffinerien§!\nWir haben insgesamt [?num_refinery@fuel|Y0]£fuel_state Raffinerien, von denen [?num_refinery_assigned@fuel|Y0] zugewiesen sind.\n\n[?num_active_refinery@fuel|Y1] Raffinerien sind §OAktive§!\n[?num_refinery_inactive@fuel|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@fuel|Y1] Raffinerien sind §Rdamaged§!"
 
  FUEL_REFINERY_ENTRY_TOOLTIP:0 "[!assign_fuel_refinery_tooltip_click]"
 
- FUEL_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YKlick§! um £civ_factory [GetRefineryEntryAssignedColorF]/[?ROOT.num_refinery@fuel|Y0] §YRefineries§ zuzuweisen! zu dieser Konvertierung, die Folgendes erfordert: \n$FUEL_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
+ FUEL_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YKlick§! um £civ_factory [GetRefineryEntryAssignedColorF]/[?ROOT.num_refinery@fuel|Y0] §YRaffinerien§ zuzuweisen! zu dieser Konvertierung, die Folgendes erfordert: \n$FUEL_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
  FUEL_REFINERY_ENTRY_REQUIRED_TOOLTIP:0 "\n£electricity_medium Energie: [?energy_need]\n£resources_strip|8 Kohle: [?fuel_coal_need] | Verbleibend: [?fuel_coal_left|+=0] $FUEL_REFINERY_ENTRY_RESULT_TOOLTIP$"
  FUEL_REFINERY_ENTRY_RESULT_TOOLTIP:0 "\n\num die folgende Ressource zu produzieren:\n\n£fuel_state Treibstoff: [?fuel_output|+=G0]"
 
@@ -1907,7 +1907,7 @@
  TOPBAR_FOOD_TOOLTIP: "[!text_click]"
  RATIONS_TITLE: "§YLebensmittel§!\n\n[GetFoodDecayLoc]\n§YZiviler Verbrauch ([?modifier@food_need_civilian|=-%1g]) §!\n Kernbevölkerung: [?food_need_pop|Y0]\n Nicht-Kernbevölkerung: [?food_need_pop_occ|Y0]\n§YMilitärer Verbrauch ([?modifier@food_need_military|=-%1g])§!\n Streitkräfte: [?food_need_army|Y0]\n Garnison: [?food_need_garrison|Y0]\n Ausbildung: [?food_need_deployment|Y0]\n\n"
  FOOD_DECAY: "Aktuelle Rationen: [?food|Y1]§YK§!\nMaximale Lagerkapazität: §Y[?food_max|1]K§!\n\nAktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\nAktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nJeder Tag [?decay|%R1] ([?decay_flat|Y0]) unserer Rationen verfällt. \nWir schätzen, dass sich unser Vorrat ändern wird um: [?food_balance|+0]\n\nMit unserem aktuellen Guthaben schätzen wir, dass wir unseren §YLebensmittelvorrat§ füllen können! bis zu [?food_fill_target|%1Y]\n"
- FOOD_MITIGATION: "Aktuelle §Strafe wegen Lebensmittelmangels:§! [?lack_of_food|%R1]\n\nAktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\nAktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nNotfallrationierung reduziert den Verbrauch um: [?mitigation_flat|Y0].\nWir schätzen, dass sich unser Vorrat ändern wird um: [?food_balance|+0]\n\nMit unserem aktuellen Kontostand gehen wir davon aus, dass wir tendenziell tendieren werden zu einem §YMangel an Nahrung§! Strafe von [?lack_of_food_max|%1-]\n"
+ FOOD_MITIGATION: "Aktuelle §4Strafe wegen Lebensmittelmangels:§! [?lack_of_food|%R1]\n\nAktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\nAktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nNotfallrationierung reduziert den Verbrauch um: [?mitigation_flat|Y0].\nWir schätzen, dass sich unser Vorrat ändern wird um: [?food_balance|+0]\n\nMit unserem aktuellen Kontostand gehen wir davon aus, dass wir tendenziell tendieren werden zu einem §YMangel an Nahrung§! Strafe von [?lack_of_food_max|%1-]\n"
  RATIONS_INCREASE: "§G[?food_days|1%]§!"
  RATIONS_DECREASE: "§Y[?food_days|1%]§!"
  RATIONS_INSUFFICIENT: "§R[?food_days|1%]§!"
@@ -2493,7 +2493,7 @@ RUBBER_OUTPUT_TEXT_TT: "So viel §Ototal§! £resources_strip|3 §YGummi§! unse
  LACK_OF_FUEL_INCREASE: "   - Täglicher Gewinn: [?0.01|R%=]"
  LACK_OF_FUEL_DECREASE: "   - Täglicher Verfall: [?0.02|G%]"
  LACK_OF_FUEL_CURRENT_DEBUFF: "\n\n§YAktuelle Strafen:§!"
- LACK_OF_FUEL_DELAYED: "Wir brauchen mindestens §Y90§! Tage im Wert von §YKraftstoff§! auf Lager (§Y[?fuel_min|0]K§!), ansonsten gilt der §YFeuermangel§! Die Strafe erhöht sich langsam je nach Schwere des Mangels."
+ LACK_OF_FUEL_DELAYED: "Wir brauchen mindestens §Y90§! Tage im Wert von §YKraftstoff§! auf Lager (§Y[?fuel_min|0]K§!), ansonsten führt es zu §YKraftstoffmangel§!. Die Strafe erhöht sich langsam je nach Schwere des Mangels."
 
  LACK_OF_FUEL_MAX_DEBUFF_TEXT: "\n\n§YMaximale Strafen aus dieser Phase:§!"
 

@@ -19,12 +19,12 @@
  
  shipyard:0 "Werft"
  shipyard_plural:0 "Werften"
- shipyard_desc:0 "Jede Werft wird §die Produktionskosten§! von: §YMilitärischen Überwasserschiffen§! und §YKonvois§! senken.$shipyard_effect$"
+ shipyard_desc:0 "Jede Werft wird §Cdie Produktionskosten§! von: §YMilitärischen Überwasserschiffen§! und §YKonvois§! senken.$shipyard_effect$"
  shipyard_effect: "\n\nMax. Level: §Y4§!\nGebäudezustand: §Y2§!\nInfrastruktureffekt: §GYes§!\n\nEnergiebedarf: §R6§!£electricity_medium "
  
  subyard:0 "U-Boot-Werft"
  subyard_plural:0 "U-Boot-Werften"
- subyard_desc:1 "Jede U-Boot-Werft wird §die Produktionskosten§! von: §YSubmarines§! senken.$subyard_effect$"
+ subyard_desc:1 "Jede U-Boot-Werft wird §Cdie Produktionskosten§! von: §YU-Booten§! um senken.$subyard_effect$"
  subyard_effect: "\n\nMax. Level: §Y4§!\nGebäudezustand: §Y2§!\nInfrastruktureffekt: §GYes§!\n\nEnergiebedarf: §R6§!£electricity_medium "
  
  tank_assembly:0 "Panzermontagewerk"
