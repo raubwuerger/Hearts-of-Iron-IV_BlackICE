@@ -1,0 +1,7 @@
+Strahlflugzeug
+Schwerer Sturzkampfbomber
+Strahlgetriebener Sturzkampfbomber
+Sturzkampfflugzeug
+will not be available anymore
+Fuel stockpile capacity
+waste_management
