@@ -1799,7 +1799,7 @@
  STEEL_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0 "£resources_strip|5 §ROutput bei voller Energie: [?deficit_flat]§!"
 
  ASSIGNED_STEEL_REFINERIES_TOOLTIP:0 "§YRaffinerien§!\nWir haben insgesamt [?num_refinery@steel|Y0]£resources_strip|5 Raffinerien, von denen [?num_refinery_assigned@steel|Y0] zugewiesen sind.\n\n[?num_active_refinery@steel|Y1] Raffinerien sind §OAktive§!\n[?num_refinery_inactive@steel|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@steel|Y1] Raffinerien sind §Rdamaged§!"
- ALERT_STEEL_REFINERY_TOOLTIP: "§YKlick§! um die Anzeige von §Yunassigned Refineries§ umzuschalten! auf der Registerkarte "Handel" klicken"
+ ALERT_STEEL_REFINERY_TOOLTIP: "§YKlick§! um die Anzeige von §Ynicht zugewiesenen Raffinierien§ umzuschalten! auf der Registerkarte "Handel" klicken"
 
  STEEL_REFINERY_ENTRY_TOOLTIP:0 "[!assign_steel_refinery_tooltip_click]"
 

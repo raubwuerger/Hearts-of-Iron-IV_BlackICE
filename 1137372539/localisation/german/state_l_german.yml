@@ -47,7 +47,7 @@
  UNLOCKED_SLOTS_STATE_EXTRA:0 "Zusätzliche Slots in diesem Staat: $NUM|Y$"
  PROVINCE_STATE_CATERGORY_TOOLTIP:1 "Zustandskategorie: $CATEGORY|Y$"
  PROVINCE_STATE_IMPASSABLE:1 "Unpassierbar: §RDivisionen dürfen nicht einreisen§!"
- wasteland:0 "Lvl 0: §YWasteland§!"
+ wasteland:0 "Lvl 0: §YBrachland§!"
  small_city:0 "Lvl 6: §YKleine Stadtregion§!"
  city:0 "Lvl 7: §YMittelgroße Stadtregion§!"
  large_city:0 "Lvl 8: §YLarge Urban Region§!"
