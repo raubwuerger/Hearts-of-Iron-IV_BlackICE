@@ -50,7 +50,7 @@
  shipyard_capital_building:0 "Große Schiffswerft"
  shipyard_capital_building_plural:0 "Große Schiffswerften"
  shipyard_capital_building_desc:0 "Eine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!$shipyard_capital_building_effect$ erforderlich ist"
- shipyard_capital_building_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\n\nGrundkapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \ n\nDieses Gebäude ist §Rnicht baubar.§!"
+ shipyard_capital_building_effect: "\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\n\nGrundkapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \n\nDieses Gebäude ist §Rnicht baubar.§!"
  shipyard_capital_building_overlay: "§YGroße Schiffswerft§!\nEine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!\n\nMax. Level: §Y10§!\nGebäudezustand: §Y10§!\n\nBasiskapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
  
  research_centre:0 "Forschungszentrum"

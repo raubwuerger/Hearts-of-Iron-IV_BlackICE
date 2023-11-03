@@ -85,7 +85,7 @@
  AC_construction_ARTY:0 "Artilleriefabrik\n\n§YPolitische Machtkosten pro Gebäude:§! §R12.5§!"
  AC_construction_SMALLARMS:0 "Fabrik für Kleinwaffen\n\n§YPolitische Machtkosten pro Gebäude:§! §R12.5§!"
  AC_construction_UNIFORM:0 "Uniformfabrik\n\n§YPolitische Machtkosten pro Gebäude:§! §R12.5§!"
- AC_construction_JETAIR:0 "Jet Aircraft Factory\n\n§YPolitische Machtkosten pro Gebäude:§! §R12.5§!"
+ AC_construction_JETAIR:0 "Fabrik für Strahlflugzeug\n\n§YPolitische Machtkosten pro Gebäude:§! §R12.5§!"
  AC_construction_LTAIR:0 "Leichtflugzeugfabrik\n\n§YPolitische Machtkosten pro Gebäude:§! §R12.5§!"
  AC_construction_HVAIR:0 "Schwere Flugzeugfabrik\n\n§YPolitische Machtkosten pro Gebäude:§! §R12.5§!"
  AC_construction_SHIP:0 "Schiffswerft\n\n§YPolitische Machtkosten pro Gebäude:§! §R12.5§!"

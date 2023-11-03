@@ -1527,7 +1527,7 @@
  DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_TITLE: "[TODO] Ausrüstungskauf stornieren"
  DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_ACTION_DESC: "[TODO] Ausrüstung zum Kauf stornieren."
  DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_MESSAGE_TITLE: "$CONTRACT_TYPE|U$ storniert"
- DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_MESSAGE_DESC: "Das $COUNTRY|H$ hat unseren $CONTRACT_TYPE$ gekündigt. Der Vertrag wurde $PROGRESS|%H$ abgeschlossen.\n\nWir haben erhalten:\n$RECEIVED$\n\nWir haben geliefert:\n$DELIVERED$\ n\nAn uns zurückgesendet:\n$RETURNED$"
+ DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_MESSAGE_DESC: "Das $COUNTRY|H$ hat unseren $CONTRACT_TYPE$ gekündigt. Der Vertrag wurde $PROGRESS|%H$ abgeschlossen.\n\nWir haben erhalten:\n$RECEIVED$\n\nWir haben geliefert:\n$DELIVERED$\n\nAn uns zurückgesendet:\n$RETURNED$"
  DIPLOMACY_REQUEST_INTERNATIONAL_MARKET_ACCESS_RIGHTS_TITLE: "Marktzugang aushandeln"
  DIPLOMACY_REQUEST_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC: "Gewähren Sie gegenseitig Marktzugang zu der Ausrüstung, die dem Internationalen Markt hinzugefügt wird.\n\nWenn Sie derselben Fraktion angehören, erhalten Sie automatisch Marktzugang. Der Zugang zum Markt eines Fraktionsführers gewährt auch Zugang zum Markt aller Mitglieder."
  DIPLOMACY_REQUEST_INTERNATIONAL_MARKET_ACCESS_RIGHTS_DESC: "Der Marktzugang würde es uns ermöglichen, Ausrüstung auf dem Markt des jeweils anderen zu kaufen."

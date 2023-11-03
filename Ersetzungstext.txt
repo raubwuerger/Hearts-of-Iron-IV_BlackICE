@@ -1,24 +1,4 @@
-"" # Erfahrung
-Alle Armeeen, die automatisch Removed und all Aufträge werden Lost sein!
-Long live the 
-More owned factories
-Filled
-Resources per Factory to produce
-Dienstpersonal
-change
-Upgrades
-Convert from stockpile
-outdated equipment
-captured equipment
-Unassign army
-offmap
-Civilian Factory
-
 Strahlflugzeug
 Schwerer Sturzkampfbomber
 Strahlgetriebener Sturzkampfbomber
 Sturzkampfflugzeug
-will not be available anymore
-Fuel stockpile capacity
-waste_management
-Der oben genannte Speicher wird auf Gummi eingestellt

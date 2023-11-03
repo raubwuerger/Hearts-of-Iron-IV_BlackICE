@@ -3209,7 +3209,7 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  div_hq_tt:0 "£unit_HQ_icon_small Alle Divisions-HQs: §Y+[?temp]§! (Gesamtbedarf: [?total_div_hq|Y0]) \n"
  engineer_tt:0 "§YEngineer§! \n"
  combat_engineer_tt:0 "§YCombat Engineer§!§! \n"
- recon_tt:0 "£unit_armored_car_icon_small Non-Tank Recon: §Y+[?temp]§! (Gesamtbedarf: [?total_recon|Y0]) \n"
+ recon_tt:0 "£unit_armored_car_icon_small Leicht gepanzerte Aufklärungsfahrzeuge: §Y+[?temp]§! (Gesamtbedarf: [?total_recon|Y0]) \n"
  logistics_unit_tt:0 "§YLogistikunternehmen§!§! \n"
 
  light_spart_div_tt:0 "£unit_light_sp_artillery_brigade_icon_small Light SP-ART: §Y+[?temp]§!  (Gesamtbedarf: [?total_light_spart|Y0]) \n"

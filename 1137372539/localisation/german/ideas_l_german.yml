@@ -3809,14 +3809,14 @@
  jetaircraftfactory:0 "Düsenflugzeugfabrik ([?num_jet_aircraft_factory])"
  jetaircraftfactory_desc:0 "$Jetaircraft_factory_desc$"
  
- jetaircraftfactory_light:0 "Düsenflugzeug-Fabrik ([?num_jet_aircraft_factory])"
+ jetaircraftfactory_light:0 "Düsenflugzeug Fabrik ([?num_jet_aircraft_factory])"
  jetaircraftfactory_light_desc:0 "$Jetaircraft_factory_desc$"
- jetaircraftfactory_heavy:0 "Jet Aircraft Factory ([?num_jet_aircraft_factory])"
+ jetaircraftfactory_heavy:0 "Düsenflugzeug Fabrik ([?num_jet_aircraft_factory])"
  jetaircraftfactory_heavy_desc:0 "$Jetaircraft_factory_desc$"
  
- balanced_jet_production:0 "Produktionsschwerpunkt Balanced Aircraft"
- light_jet_production:0 "Produktionsschwerpunkt Leichtflugzeuge"
- heavy_jet_production:0 "Schwerer Jet Produktionsschwerpunkt"
+ balanced_jet_production:0 "Produktionsschwerpunkt gemischte Düsenflugzeuge"
+ light_jet_production:0 "Produktionsschwerpunkt leichte Düsenflugzeuge"
+ heavy_jet_production:0 "Produktionsschwerpunkt schwerer Düsenflugzeuge"
  
  ltaircraftfactory:0 "Leichtflugzeugfabrik ([?num_light_aircraft_factory])"
  ltaircraftfactory_desc:0 "$Ltaircraft_factory_desc$"
