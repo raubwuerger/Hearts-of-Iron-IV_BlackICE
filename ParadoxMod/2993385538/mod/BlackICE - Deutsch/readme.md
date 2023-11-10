@@ -1,4 +1,4 @@
-Übersetzung für den BlackICE mod (BlackICE Historical Immersion Mod - 7.0.2)
+Übersetzung für den BlackICE mod (BlackICE Historical Immersion Mod - 8.0.1)
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1137372539
 
@@ -18,10 +18,15 @@ History
 2023-07-28		7.0.2.4			Über 300 kleinere Änderungen.
 2023-08-27		7.0.2.5			Über 500 kleinere Änderungen.
 
+2023-10-28		8.0.1-pre1		Anpassungen an Version 8.0.1
+2023-10-30		8.0.1-pre2		Über 500 kleinere Änderungen.
+2023-11-03		8.0.1-pre3		Über 400 kleinere Änderungen.
+2023-11-10		8.0.1			Über 350 kleinere Änderungen.
+
 Roadmap:
 
-7.0.2.x			Ich werde komische und oder falsche Übersetzungen koriegiern.
+8.0.1.x			Ich werde komische und oder falsche Übersetzungen koriegiern.
 				Das wird allerdings eine Weile dauern da ich das nur beim Spielen herausfinden kann ... *g*
 				Gerne dürft ihr mir auch Übersetzungen posten welche eurer Meinung nach nicht korrekt sind.
 
-Alle 7.0.x-Versionen sind SaveGame kompatibel.
+Alle 8.0.x-Versionen sind SaveGame kompatibel.

@@ -1,7 +1,7 @@
-version="7.0.2"
+version="8.0.1"
 tags={
 	"Translation"
 }
 name="BlackICE - Deutsch"
-supported_version="1.12.13"
+supported_version="1.13.3"
 remote_file_id="2993385538"

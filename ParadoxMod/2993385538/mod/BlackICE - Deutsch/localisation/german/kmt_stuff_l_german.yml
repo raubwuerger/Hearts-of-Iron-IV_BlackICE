@@ -211,7 +211,7 @@
 
 
  ## 22/9/2016 ## ""
- kmt_scale_with_excav_tech:0 "Die Wirkung dieses Fokus skaliert mit §YExcavation Techs§!.\n"
+ kmt_scale_with_excav_tech:0 "Die Wirkung dieses Fokus skaliert mit §YAbbautechnologien§!.\n"
  ## 10/10/2016 ## ""
  kmt_mbf_go_lead_xsm:0 "Ma Bufang wird nun deine Armee verlassen und die Ma's anführen."
  kmt_nw_insurgence_tt:0 "Entweder Sie, §YXi Bei San Ma§! oder §YPRC§! kontrollieren §YGansu§!, §YNingxia§! und §YQinghai§!."
@@ -720,13 +720,9 @@
  ## 1/1/2017 ## ""
  KMT_chinese_matter:0 "Chinesische Angelegenheit"
  ## 1/12/2017 ## ""
- KMT_corrupted_government:0 "Korrumpierte Wirtschaft"
- KMT_corrupted_government_lesser:0 "Korrumpierte Wirtschaft"
- KMT_corrupted_government_wartime:0 "Korrumpierte Wirtschaft"
  ## 22/1/2017 ## ""
  KMT_continue_the_national_revolution:0 "Die nationale Revolution fortsetzen"
  ## 27/1/2017 ## ""
- KMT_corrupted_government_wartime_lesser:0 "Korrumpierte Wirtschaft"
  ## 29/1/2017 ## ""
  KMT_chongqing_steel:0 "Das 29. Arsenal"
  KMT_central_wireless:0 "Zentrale Gesellschaft für drahtlose Ausrüstung"

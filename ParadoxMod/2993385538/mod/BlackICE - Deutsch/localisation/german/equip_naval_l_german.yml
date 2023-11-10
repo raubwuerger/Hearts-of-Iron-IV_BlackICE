@@ -1,5 +1,5 @@
 ﻿l_german:
-    ### VANILLA ### ""
+ ### VANILLA ###
  ship_hull_submarine_1_desc:0 "U-Boote sind getarnte Schiffe, die unverteidigte Konvois ausschalten können. Die frühen Modelle aus dem Ersten Weltkrieg ebneten den Weg für neue Methoden der Seekriegsführung."
  ship_hull_submarine_2_desc:0 "Die neuen U-Boote sind besser bewaffnet und stabiler, um die Fortschritte in der Seetaktik zu nutzen, und haben eine größere Reichweite, so dass sie auch weit entfernte Konvoirouten angreifen können."
  ship_hull_submarine_3_desc:0 "Die Rolle des U-Boots in der Flotte außerhalb von Geleitzugangriffen steht noch zur Debatte. Ein ausgewogenes Verhältnis zwischen Geschwindigkeit, Reichweite und Bewaffnung wird der Schlüssel zu dem erforderlichen Modell sein."
@@ -430,7 +430,7 @@
  YUG_destroyer_4_desc:0 "Die Split war ein schwerer Zerstörer, der in Jugoslawien in Dienst gestellt und fertiggestellt wurde. Er lief 1943 vom Stapel, wurde aber erst 1958 fertiggestellt und erhielt einen geänderten Entwurf. Der ursprüngliche Entwurf hatte eine Verdrängung von 2.400 Tonnen und war mit fünf 140/56 Skoda-Kanonen als Hauptbewaffnung ausgestattet. Trotz ihrer Größe hatte sie eine ausgezeichnete Geschwindigkeit."
  YUG_light_cruiser_1:0 "Dalmacija-Klasse"
  YUG_light_cruiser_1_desc:0 "Der alte deutsche Kreuzer SMS Niobe wurde 1925 an die junge Königliche Jugoslawische Marine verkauft und umfassend umgebaut. Ausgestattet mit moderner Flak und den schwersten Geschützen der Marine, diente die Dalmacija in erster Linie als Kanonenschulschiff."
-    ##### VANILLA END ##### ""
+ ##### VANILLA END ##### 
  ## NAVAL ASSETS ## ""
  torpedo_equipment:0 "Torpedos"
 

@@ -797,7 +797,7 @@
  lagg_3_gun_upgrade:0 "Geschütze"
  lagg_3_gun_upgrade_desc:0 "Aufrüstung der Maschinengewehre auf 12,7 mm. Spätere Aufrüstungen ermöglichen den Ersatz der 20-mm-Kanone durch eine 23-mm-Kanone, eine 37-mm-Kanone und die Rückführung von Waffen, die aus Gewichtsgründen entfernt wurden."
  lagg_3_equipment_2:0 "Lawotschkin-Gorbunow-Gudkow 3 Serie 66"
- lagg_3_equipment_2_short:0 "LaGG-3-66 Jagdflugzeug"
+ lagg_3_equipment_2_short:0 "LaGG-3-66 Mehrzweckflugzeug"
  lagg_3_equipment_2_desc:0 "Die LaGG-3-66 ist eine späte Produktionsversion der LaGG-3 mit verbesserter Leistung und der Möglichkeit zum Bodenangriff. Sie ist ein Kampfflugzeug."
  lagg_5_equipment:0 "La-5"
  lagg_5_equipment_desc:0 "Die La-5 ist eine verbesserte Version der LaGG-3. Sie ist ein Kampfflugzeug."

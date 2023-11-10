@@ -527,7 +527,7 @@
  VICTORY_POINTS_9228:0 "Mariehamn"
  VICTORY_POINTS_11105:0 "Helsinki"
  VICTORY_POINTS_11141:0 "Kuopio"
- VICTORY_POINTS_11142:0 "Zapoljarniy"
+ VICTORY_POINTS_11142:0 "Zapolyarny"
  VICTORY_POINTS_11164:0 "Kemi"
  VICTORY_POINTS_11211:0 "Hanko"
  
@@ -559,10 +559,10 @@
  VICTORY_POINTS_362:0 "Danzig"
  VICTORY_POINTS_400:0 "Suwalken"
  VICTORY_POINTS_402:0 "Minsk"
- VICTORY_POINTS_406:0 "Maladsetschna"
+ VICTORY_POINTS_406:0 "Molodechno"
  VICTORY_POINTS_442:0 "Tarnow"
- VICTORY_POINTS_513:0 "Luzk"
- VICTORY_POINTS_3320:0 "Wilno"
+ VICTORY_POINTS_513:0 "Lutsk"
+ VICTORY_POINTS_3320:0 "Vilnius"
  VICTORY_POINTS_3392:0 "Brzesc Litewski"
  VICTORY_POINTS_3393:0 "Grodno"
  VICTORY_POINTS_3410:0 "Krosno"
@@ -575,24 +575,24 @@
  VICTORY_POINTS_6280:0 "Pinsk"
  VICTORY_POINTS_6321:0 "Allenstein"
  VICTORY_POINTS_6347:0 "Osterode"
- VICTORY_POINTS_6359:0 "Baranawitschy"
+ VICTORY_POINTS_6359:0 "Baranovichi"
  VICTORY_POINTS_6401:0 "Graudenz"
- VICTORY_POINTS_6460:0 "Stryj"
+ VICTORY_POINTS_6460:0 "Stryi"
  VICTORY_POINTS_6464:0 "Kattowitz"
- VICTORY_POINTS_6522:0 "Rzezow"
+ VICTORY_POINTS_6522:0 "Rzeszow"
  VICTORY_POINTS_6558:0 "Posen"
  VICTORY_POINTS_9263:0 "Gdingen"
  VICTORY_POINTS_9274:0 "Lida"
  VICTORY_POINTS_9427:0 "Krakau"
  VICTORY_POINTS_9452:0 "Chelm"
  VICTORY_POINTS_9508:0 "Lodz"
- VICTORY_POINTS_9520:0 "Kowel"
+ VICTORY_POINTS_9520:0 "Kovel"
  VICTORY_POINTS_9546:0 "Kalisch"
  VICTORY_POINTS_11274:0 "Lomza"
  VICTORY_POINTS_11301:0 "Bialystok"
  VICTORY_POINTS_11399:0 "Lublin"
  VICTORY_POINTS_11428:0 "Petrikau"
- VICTORY_POINTS_11479:0 "Lwow"
+ VICTORY_POINTS_11479:0 "Lviv"
  VICTORY_POINTS_11492:0 "Plock"
  ###TSCHECHIEN-SLOWAKEI###
  VICTORY_POINTS_424:0 "Marienbad"
@@ -708,7 +708,7 @@
  ####Sonderzeichen: ăâşŞţŢ
  VICTORY_POINTS_414:0 "Soroca"
  VICTORY_POINTS_565:0 "Făleşti"
- VICTORY_POINTS_577:0 "Sadagura" ##Sadhora auf Ukrainisch##
+ VICTORY_POINTS_577:0 "Sadhora" ##Sadhora auf Ukrainisch##
  VICTORY_POINTS_637:0 "Drăgăşani"
  VICTORY_POINTS_646:0 "Sânnicolau-Stute"
  VICTORY_POINTS_657:0 "Constanţa" ##von unsortierten SP verschoben##
@@ -762,14 +762,14 @@
  VICTORY_POINTS_6709:0 "Făgăraş"
  VICTORY_POINTS_6711:0 "Cluj" ##umbenannt in Cluj-Napoca am 16. Oktober 1974##
  VICTORY_POINTS_6714:0 "Zalău"
- VICTORY_POINTS_6727:0 "Cetatea Albă" ##Bilhorod-Dnistrovsky auf Ukrainisch?##
+ VICTORY_POINTS_6727:0 "Bilhorod-Dnistrovskyi" ##Bilhorod-Dnistrovsky auf Ukrainisch?##
  VICTORY_POINTS_6729:0 "Bârlad"
  VICTORY_POINTS_6731:0 "Bistriţa"
  VICTORY_POINTS_6743:0 "Volintiri" ##sollte in Bessarabien sein, nicht in Budjak, und Tighina/Bender heißen##
  VICTORY_POINTS_6747:0 "Vaslui"
  VICTORY_POINTS_6761:0 "Suceava"
  VICTORY_POINTS_9614:0 "Silistra"
- VICTORY_POINTS_9548:0 "Cernăuţi" ##Chernivtsi auf Ukrainisch##
+ VICTORY_POINTS_9548:0 "Chernivtsi" ##Chernivtsi auf Ukrainisch##
  VICTORY_POINTS_9606:0 "Timișoara"
  VICTORY_POINTS_9617:0 "Bukarest"
  VICTORY_POINTS_9619:0 "Deva"
@@ -1004,10 +1004,10 @@
  VICTORY_POINTS_2152:0 "Asunción"
  VICTORY_POINTS_10980:0 "Rio de Janeiro"
  VICTORY_POINTS_5107:0 "Fortaleza"
- VICTORY_POINTS_5168:0 "Récife"
+ VICTORY_POINTS_5168:0 "Recife"
  VICTORY_POINTS_10447:0 "Porto Alegre"
  VICTORY_POINTS_10513:0 "Sao Paulo"
- VICTORY_POINTS_10946:0 "São Salvador"
+ VICTORY_POINTS_10946:0 "Salvador"
  VICTORY_POINTS_12853:0 "Belém"
  VICTORY_POINTS_10362:0 "Montevideo"
  VICTORY_POINTS_12364:0 "Buenos Aires"
