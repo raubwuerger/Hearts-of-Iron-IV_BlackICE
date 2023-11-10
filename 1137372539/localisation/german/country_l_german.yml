@@ -31,7 +31,7 @@
   MANPOWER_CURRENT:0 "Mannstärke insgesamt: $TOTAL|^2H$\n$PERC|2%H$ der verfügbaren rekrutierbaren eigenen Bevölkerung ($ELIGIBLE|^H$)"
   MANPOWER_CURRENT_MOBILIZATION:0 "Totale Mannstärke: $TOTAL|^2H$\n$PERC|2%H$ (ca. $MOB|+3H%$ wird pro Tag mobilisiert) der verfügbaren eigenen Bevölkerung ($ELIGIBLE|^H$)"
   MANPOWER_NON_CORE:0 "$NC_PERC|3%H$ an rekrutierbarer fremder Bevölkerung verfügbar ($NC_ELIGIBLE|^H$)"
-  MANPOWER_GROWTH:0 "§YMonatliches Wachstum in den Staaten§!\nRekrutierbar: $RECRUITABLE|^G$\nZivilisten: $CIVILIAN|^G$"
+  MANPOWER_GROWTH:0 "§YMonatliches Wachstum in den Provinzen§!\nRekrutierbar: $RECRUITABLE|^G$\nZivilisten: $CIVILIAN|^G$"
   MANPOWER_VALUE:3 "$USAGE$\n\n$CURRENT$\n$GROWTH$"
   MANPOWER_DESC:0 "Rekrutierbare Soldaten in diesem Land. Erlass strengerer Wehrpflicht oder Altersgesetze zur Erhöhung."
   MANPOWER_DIVISION:0 "Division Mannstärke"

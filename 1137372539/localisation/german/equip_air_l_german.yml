@@ -246,7 +246,7 @@
  rocket_interceptor_equipment_3_desc:0 "Wir haben endlich die meisten Probleme mit den Raketentriebwerken behoben, und der Rocket Interceptor ist jetzt ein solider Nahbereichsverteidiger für Einrichtungen."
  rocket_interceptor_equipment_3_short:0 "Raketenabfangjäger 1944"
  rocket_suicide_equipment_1:0 "Suicide Strike Craft"
- rocket_suicide_equipment_1_short:0 "Selbstmord-Flugzeug"
+ rocket_suicide_equipment_1_short:0 "Kamikaze-Flugzeug"
  rocket_suicide_equipment_1_desc:0 "Bereiten Sie sich auf eine holprige Fahrt vor."
  interceptor_equipment:0 "Abfangjäger"
  interceptor_equipment_1936:0 "Abfangjäger 1936"
@@ -308,7 +308,7 @@
  fast_bomber_equipment_1944_short:0 "Schneller Bomber 1944"
  fast_bomber_equipment_1944_desc:0 "Schnelle Bomber sind auf leichte Nutzlast und hohe Geschwindigkeit ausgelegt. Der Feind wird nicht wissen, was sie sind."
 
- suicide_craft_equipment:0 "Selbstmordflugzeug"
+ suicide_craft_equipment:0 "Kamikazeflugzeug"
  lt_bomber_equipment:0 "Leichter Bomber"
  lt_bomber_equipment_1936:0 "Leichter Bomber 1936"
  lt_bomber_equipment_1936_short:0 "Leichter Bomber 1936"

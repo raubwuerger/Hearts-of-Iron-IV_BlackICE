@@ -123,7 +123,7 @@
  AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Luftproduktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\nLuftmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@air_production_capacity|Y0]\n [!air_assembly_capacity_click]"
  TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@tank_production]§!\n\nGesamtzahl der Panzermontageanlagen: [?num_tank_assembly|Y0]\n Beschädigt: [?num_tank_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@tank_production_capacity|Y0]\n [!tank_assembly_capacity_click]"
  ENGINE_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@engine_production] Motorenproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@engine_production]§!\n\nInsgesamt Motorenmontagewerke: [?num_engine_assembly|Y0]\n Beschädigt: [?num_engine_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@engine_production_capacity|Y0]\n [!engine_assembly_capacity_click]"
- ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_production] Artillerie-Produktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_production]§!\n\nGesamtzahl der Artillerie-Montageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@artillery_production_capacity|Y0]\n [!artillery_assembly_capacity_click]"
+ ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_production] Artillerieproduktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_production]§!\n\nGesamtzahl der Artillerie-Montageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@artillery_production_capacity|Y0]\n [!artillery_assembly_capacity_click]"
  
  CAPITAL_SHIPYARD_PRODUCTION_FREE: "\nKapitalschiffäquivalente unbenutzt: §Y[?num_capital_shipyard_free|2]§!"
  
@@ -152,7 +152,7 @@
  
  TOTAL_FAC_TT:0 "§YFabriken§!\nZivilfabriken: [?num_of_civilian_factories|Y0]\n §LVerfügbare Fabriken für Projekte: [?num_of_civilian_factories_available_for_projects]§!\nMilitärische Fabriken: [?num_of_military_factories|Y0]\nMarinewerften: [?num_of_naval_factories|Y0] \n \nLuftmontagewerke: [?num_air_assembly|Y0]\nPanzermontagewerke: [?num_tank_assembly|Y0]\nMotormontagewerke: [?num_engine_assembly|Y0]\nArtilleriemontagewerke: [?num_artillery_assembly|Y0]"
  
- STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Lagerbestand§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n – Täglicher Gewinn: [GetStorageInput] \n – Täglicher Output: [?storage_output@var:v|0-] ([?global.resource_cost@var:v|Y0] pro Speicher)\n\nMaximale Lagerkapazität: [?max_storage@var:v|Y0]\n Kapital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivilefabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n Ressourcenproduktion: [?max_storage_resource@var:v|Y0]\n\n[GetStorageEstimate]"
+ STORAGE_TOPBAR_TEXT:0 "§Y[?v.GetTokenLocalizedKey] Lagerbestand§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n – Tägliche Aufstockung: [GetStorageInput] \n – Tägliche Ausgabe: [?storage_output@var:v|0-] ([?global.resource_cost@var:v|Y0] pro Speicher)\n\nMaximale Lagerkapazität: [?max_storage@var:v|Y0]\n Kapital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivilefabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n Ressourcenproduktion: [?max_storage_resource@var:v|Y0]\n\n[GetStorageEstimate]"
  STORAGE_TOPBAR_TOOLTIP_DELAYED:0 "[GetStorageSettingTT]"
   
  STORAGE_ESTIMATE_EMPTY_TEXT:0 "Wir gehen davon aus, dass unsere Lagerbestände in [?m|R0] Tagen aufgebraucht sein werden"
@@ -1008,7 +1008,7 @@
  num_skill_4_trigger_TT:0 "Hat mindestens §Y5§! Einheitenführer mit §Y4§! Fähigkeit oder höher"
  num_skill_3_trigger_TT:0 "Hat mindestens §Y5§! Einheitenführer mit §Y3§! Fähigkeit oder höher"
  num_skill_2_trigger_TT:0 "Hat mindestens §Y5§! Einheitenführer mit §Y2§! Fähigkeit oder höher"
- AI_MANPOWER_VARIABLES:0 "Eingesetzte Mannstärke: [?manpower_fielded]k\n Eingesetzte Mannstärke Grenzwert: [?manpower_fielded_threshold]k\n\nGesamt Mannstärke Grenzwert: [?manpower_total]k\Mannstärke Verhältnis: [?mp_ratio]\n\Mannstärke: [?manpower_k|0] k / [?manpower_total_threshold|0]k"
+ AI_MANPOWER_VARIABLES:0 "Eingesetzte Mannstärke: [?manpower_fielded]k\n Eingesetzte Mannstärke Grenzwert: [?manpower_fielded_threshold]k\n\nGesamt Mannstärke Grenzwert: [?manpower_total]k\nMannstärke Verhältnis: [?mp_ratio]\n\nMannstärke: [?manpower_k|0] k / [?manpower_total_threshold|0]k"
  
  MOBILIZE_EVENT_TITLE:0 "Mobilisierung der Armee"
  MOBILIZE_EVENT_DESC:0 "Nachdem die Kriegsgefahr in letzter Zeit immer schneller zugenommen hat, mehren sich die Stimmen, die sich für eine allgemeine Mobilisierung des Militärs aussprechen. Das Oberkommando hat diesbezüglich alle notwendigen Vorbereitungen getroffen und wartet auf Ihre Entscheidung."
@@ -1643,9 +1643,9 @@
  RESOURCE_C_M_TEXT:0 "C:\nM:"
  
  TRADE_TAB_LAW_TOOLTIP: "[!law_click]"
- MIN_EXPORT_TOOLTIP: "§Y£resources_texticon Veredelte Ressourcen auf den Markt§!\nWir exportieren derzeit [?modifier@min_export|Y%0] von §YRefined Resources§!\n\n £resources_strip|1 £resources_strip|2 £resources_strip|3 £resources_strip|4 £resources_strip|5 £resources_strip|6"
- MIN_ORE_EXPORT_TOOLTIP: "£ore_resources_texticon §YOre Ressourcen auf den Markt§!\nWir exportieren derzeit [?modifier@min_ore_export|Y%0] von §Yextrahierten Erzen§!\n\n £resources_strip|7 £resources_strip|8 £resources_strip|9"
- MIN_FOOD_EXPORT_TOOLTIP: "£food_resources_texticon §YRationen zum Markt§!\nWir exportieren derzeit [?modifier@min_food_export|Y%0] von §YRationen§!\n\n £resources_strip|10"
+ MIN_EXPORT_TOOLTIP: "§Y£resources_texticon Verarbeitete Ressourcen für den Markt§!\nWir exportieren derzeit [?modifier@min_export|Y%0] unserer §Yverarbeiteten Resourcen§!\n\n £resources_strip|1 £resources_strip|2 £resources_strip|3 £resources_strip|4 £resources_strip|5 £resources_strip|6"
+ MIN_ORE_EXPORT_TOOLTIP: "£ore_resources_texticon §YErze für den Markt§!\nWir exportieren derzeit [?modifier@min_ore_export|Y%0] unserer §YErze§!\n\n £resources_strip|7 £resources_strip|8 £resources_strip|9"
+ MIN_FOOD_EXPORT_TOOLTIP: "£food_resources_texticon §YLebensmittel für den Markt§!\nWir exportieren derzeit [?modifier@min_food_export|Y%0] unserer §YLebensmittel§!\n\n £resources_strip|10"
  GLOBAL_RESOURCE_EXPORT: "Global §Y[?v.GetTokenLocalizedKey]§! §YExporte§!"
  GLOBAL_RESOURCE_IMPORT: "Global §Y[?v.GetTokenLocalizedKey]§! §CImporte§!"
  
@@ -1853,7 +1853,7 @@
  ENERGY_RATIO_FUEL_TEXT: "[?energy_ratio@fuel|%0]"
  ENERGY_RATIO_FUEL_TEXT_TT: "§Y[?energy_ratio@fuel|%0]§! unserer §YKraftwerke§! Benutze §YTreibstoff§! um Strom zu erzeugen. Sie können das Verhältnis an Ihre Ressourcenkapazität anpassen."
 
- ENERGY_PRODUCTION_TITLE: "Energie Produktion"  
+ ENERGY_PRODUCTION_TITLE: "Energieproduktion"  
  ENERGY_PRODUCTION_TEXT: "[?energy_produced|Y=0]"
  ENERGY_PRODUCED_COAL_TEXT: "[?energy_produced@coal|Y=0]"
  ENERGY_PRODUCED_FUEL_TEXT: "[?energy_produced@fuel|Y=0]"
@@ -2485,8 +2485,8 @@ RUBBER_OUTPUT_TEXT_TT: "So viel £resources_strip|3 §YGummi§! können unsere �
 
  export_offset: "Fix exportieren (ignorieren)"
  resource_production: "Zusätzliche Ressourcenproduktion"
- assembly_production: "Assembly-Ausgabe"
- energy_production: "Energie Produktion"
+ assembly_production: "Montageproduktion"
+ energy_production: "Energieproduktion"
  steel_alloy: "Stahl aus Legierungsmetallen"
 
  LACK_OF_FUEL_TITLE: "§YMangel an Treibstoff§!\n\nAktueller Wert: [?lack_of_fuel|%]\nZielwert: [?lack_of_fuel_target|%]"
