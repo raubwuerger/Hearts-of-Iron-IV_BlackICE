@@ -331,7 +331,7 @@
  INCOMING_LEND_LEASE_INFANTRY_BUTTON_DISABLED:0 "§0Uns sind keine Infanterie- und Artillerieausrüstungen bekannt, die für den Export verfügbar sind§!"
  LEND_LEASE_AIRCRAFT_BUTTON:0 "§0Lease Aircraft§!"
  LEND_LEASE_AIRCRAFT_BUTTON_DISABLED:0 "§0Wir produzieren keine Flugzeugausrüstung und haben auch keine auf Lager§!"
- INCOMING_LEND_LEASE_AIRCRAFT_BUTTON_DISABLED:0 "§0Wir kennen keine Flugzeugausrüstungen, die für den Export verfügbar sind§!"
+ INCOMING_LEND_LEASE_AIRCRAFT_BUTTON_DISABLED:0 "§0Wir haben keine Flugzeugausrüstungen, die für den Export verfügbar sind§!"
  LEND_LEASE_NAVAL_BUTTON:0 "§0Lend-Lease Konvois§!"
  LEND_LEASE_NAVAL_BUTTON_DISABLED:0 "§0Wir produzieren keine Konvoi-Ausrüstung und haben auch keine auf Lager§!"
  INCOMING_LEND_LEASE_NAVAL_BUTTON_DISABLED:0 "§0Wir wissen nicht, ob Convoys-Ausrüstung für den Export verfügbar ist§!"

@@ -1024,9 +1024,9 @@
 
  #REORGANIZED China (In ideas_) ""
  MEN_new_regime:0 "Etablierung des neuen Regimes"
- MEN_reduced_excavation:0 "Ineffiziente Extraktion"
- MEN_reduced_excavation1:0 "Ineffiziente Extraktion"
- MEN_reduced_excavation2:0 "Ineffiziente Extraktion"
+ MEN_reduced_excavation:0 "Ineffizienter Abbau"
+ MEN_reduced_excavation1:0 "Ineffiziente Abbau I"
+ MEN_reduced_excavation2:0 "Ineffiziente Abbau II"
  MEN_mining_advancements:0 "Verbesserte Extraktionsmethoden"
  MEN_post_war_recovery:0 "Wiederaufbau nach dem Krieg"
  MEN_core_drain:0 "Widerstand ausrotten"

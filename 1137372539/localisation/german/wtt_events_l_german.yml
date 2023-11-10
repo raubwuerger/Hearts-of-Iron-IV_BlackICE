@@ -672,7 +672,7 @@
  wtt_japan.118.t:0 "[From.GetName] Erbittet Unterstützung"
  wtt_japan.118.desc:0 "[From.GetNameDefCap] ist derzeit in einen zerstörerischen Bürgerkrieg verwickelt und hat Schwierigkeiten, mit der militärischen Stärke des Feindes mitzuhalten. Ihre Übergangsregierung ist nun an unsere Vertreter mit dem Angebot herangetreten, die südliche Halbinsel Sachalin gegen die militärische Unterstützung einzutauschen, die sie so dringend benötigen."
  wtt_japan.118.a:0 "Eine ausgezeichnete Idee!"
- wtt_japan_118_TT:0 "Diese Freiwilligen werden dem Arbeitskräftepool wieder zugeführt, wenn §Y[From.GetName]§! den Bürgerkrieg gewinnt."
+ wtt_japan_118_TT:0 "Diese Freiwilligen werden dem Mannschaftskräftepool wieder zugeführt, wenn §Y[From.GetName]§! den Bürgerkrieg gewinnt."
  wtt_japan.118.b:0 "Das ist kein guter Handel für uns."
  wtt_japan.119.t:0 "[From.GetName] Akzeptiert den Handel"
  wtt_japan.119.desc:0 "[From.GetNameDefCap] hat unser Angebot angenommen, die Süd-Sachalin-Halbinsel gegen militärische Unterstützung einzutauschen. Sie haben einige Divisionen von 'Freiwilligen' entsandt, um uns im Kampf zu unterstützen!"

@@ -583,7 +583,7 @@
  TRIGGER_FIGHTING_NOT_ON_TERRAIN:0 "Nicht im Gelände kämpfend: $TYPE|H$"
  TRIGGER_IS_CAPITAL:0 "Ist ein Hauptstadtstaat"
  TRIGGER_IS_NOT_CAPITAL:0 "Ist kein Hauptstadtstaat"
- TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE:0 "Arbeitskräfte in der Einsatzwarteschlange"
+ TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE:0 "Mannschaften in der Einsatzwarteschlange"
  TRIGGER_ARMY_MANPOWER_IN_STATE_OF_TYPE:0 "in $STATE|H$ eingesetzte Kräfte von $TYPE|H$ Divisionen."
  TRIGGER_ARMY_MANPOWER_IN_STATE:0 "Mannstärke in $STATE|H$ eingesetzt."
  TRIGGER_STOCKPILE_RATIO_LESS_THAN:0 "Hat weniger als $VALUE|%0Y$ an einsatzfähigem $EQUIPMENT$ im Vorrat."

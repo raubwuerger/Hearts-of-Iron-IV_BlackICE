@@ -555,7 +555,7 @@
  military_dictatorship_decision:0 "Militärdiktatur in [From.GetNameDef]"
  military_dictatorship_decision_desc:0 "Es gibt viele schwache Glieder in der [From.GetAdjective]-Regierung, die wir beseitigen müssen. Es wird berichtet, dass Atheisten, Gewerkschaftler und sogar Liberale im [From.GetLeader]-Ministerium sitzen."
  MTG_naval_treaties:0 "Flottenverträge"
- MTG_naval_treaties_desc:1 "Um die Ausgaben zu begrenzen und ein weiteres, für beide Seiten ruinöses Wettrüsten zu vermeiden, haben die großen Seemächte der Welt eine Reihe von Verträgen unterzeichnet, die die Gesamtgröße ihrer Flotten und die Größe der einzelnen Schiffe begrenzen. Als Unterzeichner dieser Verträge unterliegen wir bestimmten Beschränkungen, aber solange unsere Gegner diese ebenfalls einhalten, sollte das Gleichgewicht der Kräfte gewahrt bleiben.\n\nWir sind derzeit [GetStrengthRatioBritain] [GetRelevantNavalTreatyNation] in der Capital Ship Strength."
+ MTG_naval_treaties_desc:1 "Um die Ausgaben zu begrenzen und ein weiteres, für beide Seiten ruinöses Wettrüsten zu vermeiden, haben die großen Seemächte der Welt eine Reihe von Verträgen unterzeichnet, die die Gesamtgröße ihrer Flotten und die Größe der einzelnen Schiffe begrenzen. Als Unterzeichner dieser Verträge unterliegen wir bestimmten Beschränkungen, aber solange unsere Gegner diese ebenfalls einhalten, sollte das Gleichgewicht der Kräfte gewahrt bleiben.\n\nWir sind derzeit [GetStrengthRatioBritain] [GetRelevantNavalTreatyNation] in der Großkampfschiffswertung."
  ENG_Naval_treaty_nation:0 "@ENG Großbritannien"
  USA_Naval_treaty_nation:0 "@USA [USA.GetName]"
  Naval_treaty_over_100:0 "über"

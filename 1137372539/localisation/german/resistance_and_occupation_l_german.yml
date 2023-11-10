@@ -228,7 +228,7 @@
  OCCUPATION_SHOW_NO_RESISTING_COUNTRIES:1 "Nicht-widerständige Länder anzeigen ($NUM$)"
  DEFAULT_LAW_SELECTION:0 "Standard-Gesetz"
  FOREIGN_SUPPORT:0 "Ausländische Unterstützung"
- FOREIGN_SUPPORT_TOOLTIP:0 "Von anderen Ländern bereitgestellte Arbeitskräfte."
+ FOREIGN_SUPPORT_TOOLTIP:0 "Von anderen Ländern bereitgestellte Mannschaften."
  FOREIGN_SUPPORT_IN_GARRISON:0 "$NUMBER|H*$ in Garnisonen:"
  FOREIGN_SUPPORT_IN_RESERVE:0 "$NUMBER|H*$ in Reserve:"
 

@@ -371,7 +371,7 @@
  CRYPTO_NO_DECRYPTION:0 "Wir haben zur Zeit keine Entschlüsselungsmöglichkeiten. Rüsten Sie die Kryptologieabteilung auf, um feindliche Chiffren knacken zu können."
  CRYPTO_DECRYPTION_SPEED_DESC:4 "Unser Land verfügt über $POWER|0H$£crypto£ §HDecryption Power§! pro Tag."
  CRYPTO_DECRYPTION_SPEED_DESC_MULTIPLE_COUNTRY_INFO:1 "Wenn mehrere Chiffren gleichzeitig entschlüsselt werden, wird unsere Entschlüsselungskapazität unter ihnen aufgeteilt."
- CRYPTO_DEFENSE_LEVEL_DESC:1 "Das §HCryptology Level§! unseres Landes ist $LEVEL|H$ und es hat $STRENGTH|0H$£crypto_defense£ §HCryptology Strength§!.\n\n§HCryptology Strength§! bestimmt, wie lange Feinde brauchen, um die Chiffre Ihres Landes zu knacken."
+ CRYPTO_DEFENSE_LEVEL_DESC:1 "Das §HKryptologie Stufe§! unseres Landes ist $LEVEL|H$ und es hat $STRENGTH|0H$£crypto_defense£ §HKryptologiestärke§!.\n\n§HKryptologiestärke§! bestimmt, wie lange Feinde brauchen, um die Chiffre Ihres Landes zu knacken."
  CRYPTO_FULLY_DECRYPTED_PASSIVE_MODIFIERS_DESC:0 "Die feindliche Chiffre ist vollständig entschlüsselt. Wir erhalten die folgenden passiven Boni gegen den Feind:\n"
  CRYPTO_NOT_FULLY_DECRYPTED_PASSIVE_MODIFIERS_DESC:0 "Sobald die feindliche Chiffre vollständig entschlüsselt ist, erhalten wir folgende passive Boni gegen den Feind:\n"
  CRYPTO_CLICK_TO_START_DECRYPTION:0 "§GKlick§! zum Starten der Entschlüsselung"
