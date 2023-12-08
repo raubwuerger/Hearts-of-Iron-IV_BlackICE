@@ -14,3 +14,9 @@ Effect	-> Effekte
 Power Plant -> Kraftwerk
 More owned factories then 
 egieren ... Legierungsmetalle werden
+Logistik-Detachement
+No need
+Mobilize now
+Excavation
+Other
+Understood -> Verstanden
