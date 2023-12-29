@@ -1,0 +1,79 @@
+﻿l_english:
+
+########### BICE #############
+mio_cat_eq_all_artillery: "All Artillery"
+mio_cat_eq_all_anti_tank: "All Anti-Tank Guns"
+mio_cat_eq_all_anti_air: "All Anti-Air Guns"
+mio_cat_eq_radio_recon: "All Support and Auxiliary Equipment"
+mio_cat_eq_all_special_forces: "All Special Forces Equipment"
+mio_cat_eq_all_infantry_weapons: "All Infantry Weapons"
+mio_cat_eq_all_mechanized: "All Mechanized Equipment"
+mio_cat_eq_transport: "All Motorized and Transport Equipment"
+
+
+##################################
+#### Infantry Weapons         ####
+##################################
+generic_mio_trait_personal_grenades: "Personal Grenades"
+generic_mio_trait_bullet_design: "Bullet Designers"
+generic_mio_trait_fast_reload: "Clip Magazines"
+generic_mio_trait_gas_chamber: "Blowback Designs"
+generic_mio_trait_fire_rate: "Improved Fire Rate"
+generic_mio_trait_drum_feed: "Drum Feed"
+mio_header_mg: "Machine-Guns"
+generic_mio_trait_panoramic_sight: "Panoramic Sights"
+generic_mio_trait_barrel_cooling: "Barrel Cooling"
+generic_mio_trait_scopes: "Improved Scopes"
+mio_header_special: "Specialised Equipment"
+generic_mio_trait_bicyles: "Bicyles"
+generic_mio_trait_waterproofing: "Waterproofing"
+generic_mio_trait_heat_resistance: "Desert Adaption"
+generic_mio_trait_cold_resistance: "Thermal Protection"
+generic_mio_trait_rations: "Specialised Rations"
+generic_mio_trait_anti_tank_rounds: "Hollow Tipped Bullets"
+
+
+###################
+####### USA #######
+###################
+USA_generic_infantry_equipment_organization: "$springfield_armory$"
+USA_generic_motorized_mechanized_organization: "$ford_motor_company$"
+USA_generic_artillery_organization: "$rock_island_arsenal$"
+
+###################
+###### JAPAN ######
+###################
+JAP_generic_infantry_equipment_organization: "$tokyo_arsenal$"
+JAP_generic_artillery_organization: "$osaka_army_arsenal$"
+JAP_generic_motorized_mechanized_organization: "$nissan$"
+
+######################
+#### SOVIET UNION ####
+######################
+SOV_generic_infantry_equipment_organization: "$tula_arms_plant$"
+SOV_generic_artillery_organization: "$grabin_design_bureau$"
+SOV_generic_motorized_mechanized_organization: "$gaz$"
+
+########################
+#### UNITED KINGDOM ####
+########################
+ENG_generic_infantry_equipment_organization: "$rsaf_enfield$"
+ENG_generic_artillery_organization: "$royal_arsenal$"
+ENG_generic_motorized_mechanized_organization: "$vauxhall$"
+
+################
+#### FRANCE ####
+################
+FRA_generic_infantry_equipment_organization: "$mas$"
+FRA_generic_artillery_organization: "$schneider$"
+FRA_generic_motorized_mechanized_organization: "$somua$"
+FRA_generic_support_equipment_organizationhotchkiss: "$hotchkiss$"
+
+#################
+#### GERMANY ####
+#################
+GER_generic_infantry_equipment_organization: "$mauser$"
+GER_generic_artillery_organization: "$rheinmetall$"
+GER_generic_motorized_mechanized_organization: "$opel$"
+GER_generic_support_equipment_organizationhotchkiss: "$Hugo_Boss$"
+
