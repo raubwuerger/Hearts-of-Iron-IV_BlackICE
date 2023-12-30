@@ -85,8 +85,6 @@
  EQ_MOD_CAT_trm_weapon_art_ger_150_TITLE:0 "15cm Artillery"
  EQ_MOD_CAT_trm_weapon_art_ger_150_long_TITLE:0 "15cm Artillery"
  
- EQ_MOD_CAT_trm_weapon_mg_cze_TITLE:0 "Machinegun"
- 
  EQ_MOD_CAT_trm_weapon_mg_sov_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_sov_x2_TITLE:0 "2x Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_sov_heavy_TITLE:0 "Heavy Machinegun"
@@ -139,6 +137,7 @@
 
  
  EQ_MOD_CAT_trm_weapon_mg_eng_TITLE:0 "Machinegun"
+ EQ_MOD_CAT_trm_weapon_mg_eng_light_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_eng_heavy_TITLE:0 "Heavy Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_eng_heavy15_TITLE:0 "Heavy Machinegun"
  EQ_MOD_CAT_trm_weapon_c_eng_40_TITLE:0 "40mm Cannon"
@@ -232,6 +231,38 @@
  EQ_MOD_CAT_trm_weapon_c_fra_75_TITLE:0 "75mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_fra_75_long_TITLE:0 "75mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_fra_90_TITLE:0 "90mm Cannon"
+
+ EQ_MOD_CAT_trm_weapon_mg_cze_TITLE:0 "Machinegun"
+ EQ_MOD_CAT_trm_weapon_mg_cze_x2_TITLE:0 "2x Machinegun"
+ EQ_MOD_CAT_trm_weapon_c_cze_37_TITLE:0 "37mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_cze_47_TITLE:0 "47mm Cannon"
+
+ EQ_MOD_CAT_trm_weapon_mg_swe_TITLE:0 "Machinegun"
+ EQ_MOD_CAT_trm_weapon_mg_swe_x2_TITLE:0 "2x Machinegun"
+ EQ_MOD_CAT_trm_weapon_c_swe_37_TITLE:0 "37mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_swe_57_TITLE:0 "57mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_swe_75_cs_TITLE:0 "75mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_swe_75_TITLE:0 "75mm Cannon"
+
+ EQ_MOD_CAT_trm_weapon_mg_hun_TITLE:0 "Machinegun"
+ EQ_MOD_CAT_trm_weapon_c_hun_20_TITLE:0 "20mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_hun_40_TITLE:0 "40mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_hun_40_long_TITLE:0 "40mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_hun_75_cs_TITLE:0 "75mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_hun_75_TITLE:0 "75mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_hun_105_cs_TITLE:0 "105mm Cannon"
+
+ EQ_MOD_CAT_trm_weapon_mg_pol_TITLE:0 "Machinegun"
+ EQ_MOD_CAT_trm_weapon_c_pol_20_TITLE:0 "20mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_pol_37_TITLE:0 "37mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_pol_47_TITLE:0 "47mm Cannon"
+
+ EQ_MOD_CAT_trm_weapon_mg_gen_TITLE:0 "Machinegun"
+ EQ_MOD_CAT_trm_weapon_mg_gen_heavy_TITLE:0 "Heavy Machinegun"
+ EQ_MOD_CAT_trm_weapon_c_gen_20_TITLE:0 "20mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_gen_37_TITLE:0 "37mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_gen_47_TITLE:0 "47mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_gen_75_TITLE:0 "75mm Cannon"
 
  EQ_MOD_CAT_trm_ammo_ac_ger_20_TITLE:0 "2cm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_ger_37_TITLE:0 "3.7cm Ammunition"
@@ -349,6 +380,20 @@
  EQ_MOD_CAT_trm_ammo_c_jap_75_type5_semi_TITLE:0 "75mm Type 5 II Ammunition"
  EQ_MOD_CAT_trm_ammo_c_jap_88_type99_TITLE:0 "88mm Type 99 Ammunition"
  
+ EQ_MOD_CAT_trm_ammo_c_hun_75_TITLE:0 "75mm Ammunition"
+ EQ_MOD_CAT_trm_ammo_c_hun_105_TITLE:0 "105mm Ammunition"
+
+ EQ_MOD_CAT_trm_ammo_c_hun_75_41m_TITLE:0 "75mm 41M Ammunition"
+ EQ_MOD_CAT_trm_ammo_c_hun_105_40m_TITLE:0 "105mm 40/43M Ammunition"
+
+ EQ_MOD_CAT_trm_ammo_c_gen_37_TITLE:0 "37mm Ammunition"
+ EQ_MOD_CAT_trm_ammo_c_gen_47_TITLE:0 "47mm Ammunition"
+ EQ_MOD_CAT_trm_ammo_c_gen_75_TITLE:0 "75mm Ammunition"
+
+ EQ_MOD_CAT_trm_ammo_c_gen_37_cannon_TITLE:0 "37mm Ammunition"
+ EQ_MOD_CAT_trm_ammo_c_gen_47_cannon_TITLE:0 "47mm Ammunition"
+ EQ_MOD_CAT_trm_ammo_c_gen_75_cannon_TITLE:0 "75mm Ammunition"
+ 
  EQ_MOD_CAT_trm_weapon_coax_mg_TITLE:0 "Coaxial Machineguns"
  EQ_MOD_CAT_trm_weapon_coax_c_TITLE:0 "Coaxial Cannons"
  EQ_MOD_CAT_trm_weapon_hull_mg_TITLE:0 "Hull Machineguns"
@@ -359,9 +404,6 @@
  EQ_MOD_CAT_trm_weapon_coax_c_ger_37_TITLE:0 "3.7cm Coaxial Cannon"
  EQ_MOD_CAT_trm_weapon_coax_c_ger_75_short_TITLE:0 "7.5cm Coaxial Cannon"
  EQ_MOD_CAT_trm_weapon_hull_mg_ger_TITLE:0 "Hull Machinegun"
- 
- EQ_MOD_CAT_trm_weapon_coax_mg_cze_TITLE:0 "Coaxial Machinegun"
- EQ_MOD_CAT_trm_weapon_hull_mg_cze_TITLE:0 "Hull Machinegun"
  
  EQ_MOD_CAT_trm_weapon_coax_mg_sov_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_coax_mg_sov_heavy_TITLE:0 "Coaxial Heavy Machinegun"
@@ -383,6 +425,7 @@
  
  EQ_MOD_CAT_trm_weapon_coax_mg_eng_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_eng_TITLE:0 "Hull Machinegun"
+ EQ_MOD_CAT_trm_weapon_hull_mg_eng_light_TITLE:0 "Hull Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_c_eng_40_TITLE:0 "40mm Hull Cannon"
  EQ_MOD_CAT_trm_weapon_hull_c_eng_75_cs_TITLE:0 "76mm Hull Cannon"
  
@@ -402,6 +445,21 @@
  EQ_MOD_CAT_trm_weapon_hull_mg_jap_TITLE:0 "Hull Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_jap_heavy_TITLE:0 "Hull Heavy Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_c_jap_37_TITLE:0 "37mm Hull Cannon"
+
+ EQ_MOD_CAT_trm_weapon_coax_mg_cze_TITLE:0 "Coaxial Machinegun"
+ EQ_MOD_CAT_trm_weapon_hull_mg_cze_TITLE:0 "Hull Machinegun"
+
+ EQ_MOD_CAT_trm_weapon_coax_mg_swe_TITLE:0 "Coaxial Machinegun"
+ EQ_MOD_CAT_trm_weapon_hull_mg_swe_TITLE:0 "Hull Machinegun"
+
+ EQ_MOD_CAT_trm_weapon_coax_mg_hun_TITLE:0 "Coaxial Machinegun"
+ EQ_MOD_CAT_trm_weapon_hull_mg_hun_TITLE:0 "Hull Machinegun"
+
+ EQ_MOD_CAT_trm_weapon_coax_mg_pol_TITLE:0 "Coaxial Machinegun"
+ EQ_MOD_CAT_trm_weapon_hull_mg_pol_TITLE:0 "Hull Machinegun"
+
+ EQ_MOD_CAT_trm_weapon_coax_mg_gen_TITLE:0 "Coaxial Machinegun"
+ EQ_MOD_CAT_trm_weapon_hull_mg_gen_TITLE:0 "Hull Machinegun"
 
  EQ_MOD_CAT_trm_engine_G_TITLE:0 "Gasoline Engines"
  EQ_MOD_CAT_trm_engine_D_TITLE:0 "Diesel Engines"
@@ -708,6 +766,7 @@
  EQ_MOD_CAT_trm_special_offset_mg_usa_TITLE:0 "Side/Rear Machinegun"
  EQ_MOD_CAT_trm_special_offset_mg_fra_TITLE:0 "Side/Rear Machinegun"
  EQ_MOD_CAT_trm_special_offset_mg_eng_TITLE:0 "Side/Rear Machinegun"
+ EQ_MOD_CAT_trm_special_offset_mg_eng_light_TITLE:0 "Side/Rear Machinegun"
  EQ_MOD_CAT_trm_special_offset_mg_jap_TITLE:0 "Side/Rear Machinegun"
  EQ_MOD_CAT_trm_special_offset_mg_sov_heavy_TITLE:0 "Side/Rear Heavy Machinegun"
  EQ_MOD_CAT_trm_special_turret_mg_ger_TITLE:0 "Machinegun Turrets"
@@ -847,11 +906,6 @@
  trm_weapon_art_ger_150_sfh18:0 "15cm L/30 sFH 18"
  trm_weapon_art_ger_150_sfh18_desc:0 "Module: Main Armament\nType: Artillery"
  
- 
- trm_weapon_mg_cze_zb53:0 "7.92mm ZB-53"
- GER_trm_weapon_mg_cze_zb53:0 "7.92mm MG 37(t)"
- 
- 
  trm_weapon_mg_sov_dt:0 "7.62mm DT"
  trm_weapon_mg_sov_dt_x2:0 "7.62mm DT\nx2"
 
@@ -971,6 +1025,7 @@
  
  trm_weapon_mg_eng_vickers:0 "7.7mm Vickers"
  trm_weapon_mg_eng_besa:0 "7.92mm BESA"
+ trm_weapon_mg_eng_bren:0 "7.7mm Bren"
 
  trm_weapon_mg_eng_vickers_heavy:0 "12.7mm Vickers"
 
@@ -1100,6 +1155,63 @@
 
  trm_weapon_aa_ac_jap_20_type2:0 "20mm/70 Type 2 AA"
  trm_weapon_aa_ac_jap_20_type2_x2:0 "20mm/70 Type 2 AA x2"
+
+ 
+ trm_weapon_mg_cze_zb26:0 "7.92mm ZB-26"
+ trm_weapon_mg_cze_zb26_x2:0 "7.92mm ZB-26 x2"
+ trm_weapon_mg_cze_zb53:0 "7.92mm ZB-53"
+ trm_weapon_mg_cze_zb53_x2:0 "7.92mm ZB-53 x2"
+ GER_trm_weapon_mg_cze_zb53:0 "7.92mm MG 37(t)"
+ GER_trm_weapon_mg_cze_zb53_x2:0 "7.92mm MG 37(t) x2"
+
+ trm_weapon_c_cze_37_vz34:0 "3.7cm/40 vz. 34"
+ trm_weapon_c_cze_37_vz38:0 "3.7cm/48 vz. 38"
+ trm_weapon_c_cze_47_vz38:0 "4.7cm/43 vz. 38"
+ GER_trm_weapon_c_cze_37_vz34:0 "3.7cm L/40 KwK 34(t)"
+ GER_trm_weapon_c_cze_37_vz38:0 "3.7cm L/48 KwK 38(t)"
+ GER_trm_weapon_c_cze_47_vz38:0 "4.7cm L/43 PaK 38(t)"
+
+
+ trm_weapon_mg_swe_m1429:0 "6.5mm Ksp m/14-29"
+ trm_weapon_mg_swe_m1429_x2:0 "6.5mm Ksp m/14-29 x2"
+ trm_weapon_mg_swe_m36:0 "8mm Ksp m/36"
+ trm_weapon_mg_swe_m36_x2:0 "8mm Ksp m/36 x2"
+ trm_weapon_mg_swe_m39:0 "7.62mm Ksp m/39"
+
+ trm_weapon_c_swe_37_m34:0 "37mm/45 m/34"
+ trm_weapon_c_swe_37_m38:0 "37mm/45 m/38"
+ trm_weapon_c_swe_57_m43:0 "57mm/47 m/43"
+ trm_weapon_c_swe_75_m02:0 "75mm/24 m/02"
+ trm_weapon_c_swe_75_m41:0 "75mm/31 m/41"
+
+
+ trm_weapon_mg_hun_3437m:0 "8mm 34/37M"
+ trm_weapon_mg_hun_3440m:0 "8mm 34/40M"
+
+ trm_weapon_c_hun_20_36m:0 "20mm 36M"
+ trm_weapon_c_hun_40_37m:0 "40mm 37/42M"
+ trm_weapon_c_hun_40_41m:0 "40mm 41M"
+ trm_weapon_c_hun_75_41m:0 "75mm 41M"
+ trm_weapon_c_hun_75_43m:0 "75mm 43M"
+ trm_weapon_c_hun_105_40m:0 "105mm 40/43M"
+ 
+ trm_weapon_aa_ac_hun_40_bofors:0 "40mm 36M AA"
+
+
+ trm_weapon_mg_pol_wz30:0 "7.92mm Ckm wz.30"
+
+ trm_weapon_c_pol_20_wz38:0 "20mm Nkm wz.38"
+ trm_weapon_c_pol_37_wz37:0 "37mm/45 wz.37"
+ trm_weapon_c_pol_47_wz39:0 "47mm/55 wz.39"
+
+
+ trm_weapon_mg_gen_lmg:0 "Machinegun"
+ trm_weapon_mg_gen_hmg:0 "Heavy Machinegun"
+
+ trm_weapon_c_gen_20_atr:0 "20mm AT-Rifle"
+ trm_weapon_c_gen_37_cannon:0 "37mm Cannon"
+ trm_weapon_c_gen_47_cannon:0 "47mm Cannon"
+ trm_weapon_c_gen_75_cannon:0 "75mm Cannon"
 
  # Ammunition
 
@@ -1234,6 +1346,14 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
  trm_ammo_c_jap_88_type99:0 "88mm/45 Type 99 APCR"
 
 
+ trm_ammo_c_hun_75_41m:0 "75mm 41M HEAT"
+ trm_ammo_c_hun_105_40m:0 "105mm 40/43M HEAT"
+
+
+ trm_ammo_c_gen_37_cannon:0 "37mm Cannon APCR"
+ trm_ammo_c_gen_47_cannon:0 "47mm Cannon APCR"
+ trm_ammo_c_gen_75_cannon:0 "75mm Cannon HEAT"
+
  # Coaxial Guns
 
  trm_weapon_coax_mg_ger_mg13:0 "7.92mm MG 13"
@@ -1243,10 +1363,6 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
  trm_weapon_coax_c_ger_37_kwk36:0 "3.7cm L/45 KwK 36"
  trm_weapon_coax_c_ger_75_kwk37:0 "7.5cm L/36.5 KwK 44"
  trm_weapon_coax_c_ger_75_kwk37_desc:0 ""
- 
- 
- trm_weapon_coax_mg_cze_zb53:0 "7.92mm ZB-53"
- GER_trm_weapon_coax_mg_cze_zb53:0 "7.92mm MG 37(t)"
  
  
  trm_weapon_coax_mg_sov_dt:0 "7.62mm DT"
@@ -1277,13 +1393,30 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
  trm_weapon_coax_mg_jap_type91:0 "6.5mm Type 91"
  trm_weapon_coax_mg_jap_type97:0 "7.7mm Type 97"
 
+ 
+ trm_weapon_coax_mg_cze_zb26:0 "7.92mm ZB-26"
+ trm_weapon_coax_mg_cze_zb53:0 "7.92mm ZB-53"
+ GER_trm_weapon_coax_mg_cze_zb53:0 "7.92mm MG 37(t)"
+
+
+ trm_weapon_coax_mg_swe_m1429:0 "6.5mm Ksp m/14-29"
+ trm_weapon_coax_mg_swe_m36:0 "8mm Ksp m/36"
+ trm_weapon_coax_mg_swe_m39:0 "7.62mm Ksp m/39"
+
+
+ trm_weapon_coax_mg_hun_3437m:0 "8mm 34/37M"
+ trm_weapon_coax_mg_hun_3440m:0 "8mm 34/40M"
+
+
+ trm_weapon_coax_mg_pol_wz30:0 "7.92mm Ckm wz.30"
+
+
+ trm_weapon_coax_mg_gen_lmg:0 "Machinegun"
+
  # Hull Guns
 
  trm_weapon_hull_mg_ger_mg13:0 "7.92mm MG 13"
  trm_weapon_hull_mg_ger_mg34:0 "7.92mm MG 34"
- 
- trm_weapon_hull_mg_cze_zb53:0 "7.92mm ZB-53"
- GER_trm_weapon_hull_mg_cze_zb53:0 "7.92mm MG 37(t)"
  
  
  trm_weapon_hull_mg_sov_dt:0 "7.62mm DT"
@@ -1310,6 +1443,7 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
 
  trm_weapon_hull_mg_eng_vickers:0 "7.7mm Vickers"
  trm_weapon_hull_mg_eng_besa:0 "7.92mm BESA"
+ trm_weapon_hull_mg_eng_bren:0 "7.7mm Bren"
 
  trm_weapon_hull_c_eng_40_2pdr:0 "40mm QF 2-pdr"
  trm_weapon_hull_c_eng_75_mk2:0 "3in/25 QF Howitzer Mk II"
@@ -1334,6 +1468,27 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
  trm_weapon_hull_c_jap_37_type94:0 "37mm/37 Type 94"
  trm_weapon_hull_c_jap_37_type100:0 "37mm/46 Type 100"
  trm_weapon_hull_c_jap_37_type1:0 "37mm/50 Type 1"
+
+ 
+ trm_weapon_hull_mg_cze_zb26:0 "7.92mm ZB-26"
+ trm_weapon_hull_mg_cze_zb53:0 "7.92mm ZB-53"
+ GER_trm_weapon_hull_mg_cze_zb53:0 "7.92mm MG 37(t)"
+
+
+ trm_weapon_hull_mg_swe_m1429:0 "6.5mm Ksp m/14-29"
+ trm_weapon_hull_mg_swe_m36:0 "8mm Ksp m/36"
+ trm_weapon_hull_mg_swe_m39:0 "7.62mm Ksp m/39"
+
+
+ trm_weapon_hull_mg_hun_3437m:0 "8mm 34/37M"
+ trm_weapon_hull_mg_hun_3440m:0 "8mm 34/40M"
+
+
+ trm_weapon_hull_mg_pol_wz30:0 "7.92mm Ckm wz.30"
+
+
+ trm_weapon_hull_mg_gen_lmg:0 "Machinegun"
+
 
  # Engine
 
@@ -2105,6 +2260,7 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
 
  trm_special_offset_mg_eng_vickers:0 "7.7mm Vickers (Side/Rear)"
  trm_special_offset_mg_eng_besa:0 "7.92mm BESA (Side/Rear)"
+trm_special_offset_mg_eng_bren:0"7.7mmBren(Side/Rear)" 
  
  trm_special_offset_mg_jap_type91:0 "6.5mm Type 91 (Side/Rear)"
  trm_special_offset_mg_jap_type97:0 "7.7mm Type 97 (Side/Rear)"
@@ -2171,9 +2327,9 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
  EQ_MOD_CAT_trm_cavalry_tank_ger_panzer2_turret_TITLE:0 "PzKpfw II Turret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_panzer2_superstructure_open_TITLE:0 "PzKpfw II Superstructure"
  
- EQ_MOD_CAT_trm_cavalry_tank_cze_pz35_turret_TITLE:0 "PzKpfw 35(t) Turret"
+ EQ_MOD_CAT_trm_cavalry_tank_cze_pz35_turret_TITLE:0 "PzKpfw 35(t) CzechTurret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz35_turret_2man_TITLE:0 "PzKpfw 35(t) German Turret"
- EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_turret_TITLE:0 "PzKpfw 38(t) Turret"
+ EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_turret_TITLE:0 "PzKpfw 38(t) Czech Turret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_turret_2man_TITLE:0 "PzKpfw 38(t) German Turret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_casemate_TITLE:0 "PzKpfw 38(t) Casemate"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_casemate_late_TITLE:0 "PzKpfw 38(d) Casemate"
@@ -2185,11 +2341,11 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
  trm_cavalry_tank_ger_panzer2_superstructure_open_1:0 "PzKpfw II Superstructure - Cavalry Tank"
  trm_cavalry_tank_ger_panzer2_superstructure_open_1_desc:0 "Allows: 3.7cm KwKs /  4.2cm PaK 41 / 4.7cm PaK 38(t) / 5cm KwKs (all) / 7.5cm KwKs 40"
  
- trm_cavalry_tank_ger_pz35_turret_1:0 "PzKpfw 35(t) Turret (Manual)"
+ trm_cavalry_tank_ger_pz35_turret_1:0 "PzKpfw 35(t) Czech Turret (Manual)"
  trm_cavalry_tank_ger_pz35_turret_1_desc:0 "Allows: 3.7cm KwKs / 2cm KwKs / 2.8cm L/62 sPzB 41"
  trm_cavalry_tank_ger_pz35_turret_2:0 "PzKpfw 35(t) German Turret (Manual)"
  trm_cavalry_tank_ger_pz35_turret_2_desc:0 "Allows: 3.7cm KwKs / 2cm KwKs / 2.8cm L/62 sPzB 41"
- trm_cavalry_tank_ger_pz38_turret_1:0 "PzKpfw 38(t) Turret (Manual)"
+ trm_cavalry_tank_ger_pz38_turret_1:0 "PzKpfw 38(t) Czech Turret (Manual)"
  trm_cavalry_tank_ger_pz38_turret_1_desc:0 "Allows: 3.7cm KwKs / 2cm KwKs / 2.8cm L/62 sPzB 41"
  trm_cavalry_tank_ger_pz38_turret_2:0 "PzKpfw 38(t) German Turret (Manual)"
  trm_cavalry_tank_ger_pz38_turret_2_desc:0 "Allows: 3.7cm KwKs / 2cm KwKs / 2.8cm L/62 sPzB 41"
@@ -3035,10 +3191,121 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
  trm_heavy_tank_fra_tracteurb_turret_1:0 "Tracteur B Turret (Powered)"
  trm_heavy_tank_fra_arl44_turret_1:0 "ARL 44 Turret (Powered)"
  
+ # Turret/Superstructure GENERIC
+ 
+ EQ_MOD_CAT_trm_tankette_tank_gen_1936_casemate_TITLE:0 "Tankette 1936 Casemate"
+ EQ_MOD_CAT_trm_tankette_tank_gen_1939_turret_TITLE:0 "Tankette 1939 Turret"
+
+ EQ_MOD_CAT_trm_light_tank_gen_1941_turret_TITLE:0 "Light Tank 1941 Turret"
+ 
+ EQ_MOD_CAT_trm_medium_tank_gen_1943_turret_TITLE:0 "Medium Tank 1943 Turret"
+ 
+ trm_tankette_tank_gen_1936_casemate_1:0 "Tankette 1936 Casemate"
+ trm_tankette_tank_gen_1939_turret_1:0 "Tankette 1939 Turret (Manual)"
+ 
+ trm_light_tank_gen_1941_turret_1:0 "Light Tank 1941 Turret (Manual)"
+ 
+ trm_medium_tank_gen_1943_turret_1:0 "Medium Tank 1943 Turret (Manual)"
+
  # Turret/Superstructure CZE
  
+ EQ_MOD_CAT_trm_tankette_tank_cze_t33_casemate_TITLE:0 "Tancik vz.33 Casemate"
+ 
+ EQ_MOD_CAT_trm_cavalry_tank_cze_lt34_turret_TITLE:0 "LT vz.34 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_cze_lt35_turret_TITLE:0 "LT vz.35 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_cze_lt38_turret_TITLE:0 "LT vz.38 Turret"
  
+ EQ_MOD_CAT_trm_medium_tank_cze_st39_turret_TITLE:0 "ST vz.39 Turret"
+ 
+ trm_tankette_tank_cze_t33_casemate_1:0 "Tancik vz.33 Casemate"
+ 
+ trm_cavalry_tank_cze_lt34_turret_1:0 "LT vz.34 Turret (Manual)"
  trm_cavalry_tank_cze_lt35_turret_1:0 "LT vz.35 Turret (Manual)"
  trm_cavalry_tank_cze_lt38_turret_1:0 "LT vz.38 Turret (Manual)"
+ 
+ trm_medium_tank_cze_st39_turret_1:0 "ST vz.39 Turret (Manual)"
+ 
+ GER_trm_cavalry_tank_cze_lt35_turret_1:0 "PzKpfw 35(t) Czech Turret (Manual)"
+ GER_trm_cavalry_tank_cze_lt38_turret_1:0 "PzKpfw 38(t) Czech Turret (Manual)"
+ 
+ # Turret/Superstructure HUN
+
+ EQ_MOD_CAT_trm_light_tank_hun_toldi_turret_TITLE:0 "Toldi Turret"
+ EQ_MOD_CAT_trm_light_tank_hun_toldi_turret_late_TITLE:0 "Toldi Turret"
+ EQ_MOD_CAT_trm_light_tank_hun_toldi_superstructure_open_TITLE:0 "Toldi Superstructure"
+
+ EQ_MOD_CAT_trm_medium_tank_hun_turan_turret_TITLE:0 "Turan Turret"
+ EQ_MOD_CAT_trm_medium_tank_hun_turan_turret_cs_TITLE:0 "Turan Turret"
+ EQ_MOD_CAT_trm_medium_tank_hun_turan_turret_late_TITLE:0 "Turan Turret"
+ EQ_MOD_CAT_trm_medium_tank_hun_turan_casemate_TITLE:0 "Turan Casemate"
+
+ EQ_MOD_CAT_trm_light_tank_hun_nimrod_aa_TITLE:0 "Nimrod AA Turret"
+
+ trm_light_tank_hun_toldi_turret_1:0 "Toldi I Turret (Manual)"
+ trm_light_tank_hun_toldi_turret_2:0 "Toldi IIA Turret (Manual)"
+ trm_light_tank_hun_toldi_superstructure_open_1:0 "Toldi Superstructure"
+
+ trm_medium_tank_hun_turan_turret_1:0 "Turan Turret (Manual)"
+ trm_medium_tank_hun_turan_turret_2:0 "Turan II Turret (Manual)"
+ trm_medium_tank_hun_turan_turret_3:0 "Turan III Turret (Manual)"
+ trm_medium_tank_hun_turan_casemate_1:0 "Turan Casemate"
+
+ trm_light_tank_hun_nimrod_aa_1:0 "Nimrod AA Turret"
+ 
+ # Turret/Superstructure SWE
+ 
+ EQ_MOD_CAT_trm_cavalry_tank_swe_m31_turret:0 "Strv m/31 Turret"
+ EQ_MOD_CAT_trm_cavalry_tank_swe_m41_turret:0 "Strv m/41 Turret"
+ EQ_MOD_CAT_trm_cavalry_tank_swe_m41_casemate:0 "Strv m/41 Casemate"
+
+ EQ_MOD_CAT_trm_tankette_tank_swe_m37_turret:0 "Strv m/37 Turret"
+ 
+ EQ_MOD_CAT_trm_light_tank_swe_m21_turret:0 "Strv m/21 Turret"
+ EQ_MOD_CAT_trm_light_tank_swe_m38_turret:0 "Strv m/38 Turret"
+
+ EQ_MOD_CAT_trm_medium_tank_swe_m42_turret:0 "Strv m/42 Turret"
+
+ trm_cavalry_tank_swe_m31_turret_1:0 "Strv m/31 Turret (Manual)"
+ trm_cavalry_tank_swe_m41_turret_1:0 "Strv m/41 Turret (Manual)"
+ trm_cavalry_tank_swe_m41_casemate_1:0 "Strv m/41 Casemate"
+ 
+ trm_tankette_tank_swe_m37_turret_1:0 "Strv m/37 Turret (Manual)"
+
+ trm_light_tank_swe_m21_turret_1:0 "Strv m/21 Turret (Manual)"
+ trm_light_tank_swe_m21_turret_2:0 "Strv m/21-29 Turret (Manual)"
+ trm_light_tank_swe_m38_turret_1:0 "Strv m/38 Turret (Manual)"
+
+ trm_medium_tank_swe_m42_turret_1:0 "Strv m/42 Turret (Manual)"
+
+ # Turret/Superstructure POL
+ 
+ EQ_MOD_CAT_trm_tankette_tank_pol_tk_casemate_TITLE:0 "TK Casemate"
+
+ EQ_MOD_CAT_trm_tankette_tank_pol_4tp_turret_TITLE:0 "4TP Turret"
+
+ EQ_MOD_CAT_trm_light_tank_pol_7tp_turret_TITLE:0 "7TP Turret"
+ EQ_MOD_CAT_trm_light_tank_pol_7tp_turret_gun_TITLE:0 "7TP Turret"
+ EQ_MOD_CAT_trm_light_tank_pol_9tp_turret_TITLE:0 "9TP Turret"
+
+ EQ_MOD_CAT_trm_cavalry_tank_pol_10tp_turret_TITLE:0 "10TP Turret"
+ EQ_MOD_CAT_trm_cavalry_tank_pol_14tp_turret_TITLE:0 "14TP Turret"
+
+ trm_tankette_tank_pol_tk_casemate_1:0 "TK Casemate"
+
+ trm_tankette_tank_pol_4tp_turret_1:0 "4TP Turret (Manual)"
+
+ trm_light_tank_pol_7tp_turret_1:0 "7TP Twin MG Turrets (Manual)"
+ trm_light_tank_pol_7tp_turret_2:0 "7TP Turret (Manual)"
+ trm_light_tank_pol_9tp_turret_1:0 "9TP Turret (Manual)"
+
+ trm_cavalry_tank_pol_10tp_turret_1:0 "10TP Turret (Manual)"
+ trm_cavalry_tank_pol_14tp_turret_1:0 "14TP Turret (Manual)"
+
+ # Turret/Superstructure NZL
+ 
+ EQ_MOD_CAT_trm_infantry_tank_nzl_bob_turret_TITLE:0 "Bob Semple Turret"
+ EQ_MOD_CAT_trm_infantry_tank_nzl_bob_turret_gun_TITLE:0 "Bob Semple Turret"
+
+ trm_infantry_tank_nzl_bob_turret_1:0 "Bob Semple Turret (Manual)"
+ trm_infantry_tank_nzl_bob_turret_2:0 "Bob Semple Improved Turret (Manual)"
+

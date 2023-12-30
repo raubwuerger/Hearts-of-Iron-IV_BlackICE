@@ -2527,4 +2527,119 @@ RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubb
  
  MAIN_MENU_END: "Thank you for reading the summary, if you have any questions left unanswered feel free to reach out to us on our Official Discord server. \nWe hope you enjoy the challenges of the Industry Rework and the release of Arms Against Tyranny."
  
+ 
+ 
+ role_infantry_title: "Infantry Division"
+ role_assault_infantry_title: "Assault Infantry Division"
+ role_garrison_title: "Garrison Division"
+ role_light_infantry_title: "Light Infantry Division"
+ role_heavy_infantry_title: "Heavy Infantry Division"
+ role_cavalry_title: "Cavalry Division"
+ role_motorized_title: "Motorized Division"
+ role_light_armor_title: "Light Armor Division"
+ role_light_armor_alt_title: "Light Armor Division (alt)"
+ role_medium_armor_title: "Medium Armor Division"
+ role_medium_armor_alt_title: "Medium Armor Division (alt)"
+ role_heavy_armor_title: "Heavy Armor Division"
+ role_heavy_armor_alt_title: "Heavy Armor Division (alt)"
+ role_marines_title: "Marines Division"
+ role_mountaineers_title: "Mountaineers Division"
+ role_militia_title: "Militia Division"
+ 
+ 
+ role_infantry: "infantry"
+ role_assault_infantry: "assault_infantry"
+ role_garrison: "garrison"
+ role_light_infantry: "light_infantry"
+ role_heavy_infantry: "heavy_infantry"
+ role_cavalry: "cavalry"
+ role_motorized: "motorized"
+ role_light_armor: "light_armor"
+ role_light_armor_alt: "light_armor_alt"
+ role_medium_armor: "medium_armor"
+ role_medium_armor_alt: "medium_armor_alt"
+ role_heavy_armor: "heavy_armor"
+ role_heavy_armor_alt: "heavy_armor_alt"
+ role_marines: "marines"
+ role_mountaineers: "mountaineers"
+ role_militia: "militia"
+	
+ ## ai decisions
+ ai_GER_help_in_the_east: "Request assistance in the East"
+ GER_open_help_in_the_east: "Open §YRequest assistance in the East§!"
+ GER_close_help_in_the_east: "Close §YRequest assistance in the East§!"
+ GER_request_help_in_the_east: "Request assistance from [From.GetName]"
+ GER_cancel_help_in_the_east: "§OCancel§! assistance from [From.GetName]"
+ 
+ GER_request_help_in_the_east_tt: "§Y[From.GetNameDef]§! will send divisions to assist us in our offensive against the [SOV.GetName]"
+ GER_cancel_help_in_the_east_tt: "§Y[From.GetNameDef]§! will recall their units"
+ GER_close_help_in_the_east_tt: "This will only hide the decisions, the current settings will still apply"
+ 
+ ai_ENG_help_in_east_africa: "Request assistance against Italian East Africa"
+ ENG_cancel_help_against_ETH_from_SAF: "South Africa: Decline help against IEA"
+ ENG_cancel_help_against_ETH_from_SAF_tt: "§Y[SAF.GetNameDef]§! will not assist us against §YItalian East Africa§!"
+ ENG_request_help_against_ETH_from_SAF: "South Africa: Request help against IEA"
+ ENG_request_help_against_ETH_from_SAF_tt: "§Y[SAF.GetNameDef]§! will assist us against §YItalian East Africa§!"
+ ENG_cancel_help_against_ETH_from_RAJ: "British Raj: Decline help against IEA"
+ ENG_cancel_help_against_ETH_from_RAJ_tt: "§Y[RAJ.GetNameDef]§! will not assist us against §YItalian East Africa§!"
+ 
+ ALERT_TOOLTIP_DELAYED: "[!alert_icon_click]"
+ 
+ alert_food_deficit: "§YLack of Food§!"
+ alert_food_deficit_desc: "\n§YCurrent Penalties from Lack of Food:§!"
+ 
+ alert_energy_lack_capacity: "§YLack of Power Plants§!"
+ alert_energy_lack_capacity_desc: "We do not have sufficient capacity to produce enough §YEnergy§! for our current demand. Construct additional §YPower Plants§! to alleviate the issue."
+ alert_energy_lack_capacity_need: "\nWe need [?need|Y0] additional §YPower Plants§! to fill our current needs."
+ alert_energy_lack_capacity_penalties: "\n§YCurrent Penalties from Lack of Energy:§!"
+ 
+ alert_energy_lack_resource: "§YLack of Resources for Energy Production§!"
+ alert_energy_lack_resource_desc: "We do not have sufficient resources for our §YPower Plants§! to produce §YEnergy§!.\n\n"
+ alert_energy_lack_resource_coal: "£resources_strip|8 Required Coal: [?energy_input@coal]/[?energy_input_real@coal]"
+ alert_energy_lack_resource_fuel: "£fuel_state|1 Required Fuel: 0/[?req|0]"
+ 
+ alert_fuel_deficit: "§YLack of Fuel§!"
+ alert_fuel_deficit_desc: "\n§YCurrent Penalties from Lack of Fuel:§!"
+ 
+ industrial_complex_tooltip: "§Y[?token:industrial_complex.GetTokenLocalizedKey]§!\n[!industrial_complex_click]"
+ arms_factory_tooltip: "§Y[?token:arms_factory.GetTokenLocalizedKey]§!\n[!arms_factory_click]"
+ dockyard_tooltip: "§Y[?token:dockyard.GetTokenLocalizedKey]§!\n[!dockyard_click]"
+ shipyard_tooltip: "§Y[?token:shipyard.GetTokenLocalizedKey]§!\n[!shipyard_click]"
+ subyard_tooltip: "§Y[?token:subyard.GetTokenLocalizedKey]§!\n[!subyard_click]"
+ artillery_assembly_tooltip: "§Y[?token:artillery_assembly.GetTokenLocalizedKey]§!\n[!artillery_assembly_click]"
+ engine_assembly_tooltip: "§Y[?token:engine_assembly.GetTokenLocalizedKey]§!\n[!engine_assembly_click]"
+ air_assembly_tooltip: "§Y[?token:air_assembly.GetTokenLocalizedKey]§!\n[!air_assembly_click]"
+ tank_assembly_tooltip: "§Y[?token:tank_assembly.GetTokenLocalizedKey]§!\n[!tank_assembly_click]"
+ steel_refinery_tooltip: "§Y[?token:steel_refinery.GetTokenLocalizedKey]§!\n[!steel_refinery_click]"
+ aluminium_refinery_tooltip: "§Y[?token:aluminium_refinery.GetTokenLocalizedKey]§!\n[!aluminium_refinery_click]"
+ rubber_refinery_tooltip: "§Y[?token:synthetic_rubber_refinery.GetTokenLocalizedKey]§!\n[!rubber_refinery_click]"
+ fuel_refinery_tooltip: "§Y[?token:synthetic_refinery.GetTokenLocalizedKey]§!\n[!fuel_refinery_click]"
+ power_plant_tooltip: "§Y[?token:power_plant.GetTokenLocalizedKey]§!\n[!power_plant_click]"
+ hydro_power_tooltip: "§Y[?token:hydro_power.GetTokenLocalizedKey]§!\n[!hydro_power_click]"
+ shipyard_capital_building_tooltip: "§Y[?token:shipyard_capital_building.GetTokenLocalizedKey]§!\n[!shipyard_capital_building_click]"
+ 
+ building_unbuildable_tooltip: "\n£trigger_no This building is §Runbuildable.§!"
+ building_cost_tooltip: "\nConstruction cost: £civ_factory_output [?global.building_cost@var:building|Y0]"
+ building_conversion_tooltip: "Conversion cost: £civ_factory_output [?conversion|Y0]"
+ building_energy_tooltip: "\nEnergy Need: [?need|R1]£electricity_medium "
+ building_delayed_tooltip: "§GClick to select this building and then click on a State to start a construction.§!"
+ 
+ artillery_assembly_resource: "\nArtillery Production Capacity: §Y+[?modifier@artillery_production_capacity]§!£resources_strip|23 \n"
+ engine_assembly_resource: "\nEngine Production Capacity: §Y+[?modifier@engine_production_capacity]§!£resources_strip|22 \n"
+ air_assembly_resource: "\nAir Production Capacity: §Y+[?modifier@air_production_capacity]§!£resources_strip|21 \n"
+ tank_assembly_resource: "\nTank Production Capacity: §Y+[?modifier@tank_production_capacity]§!£resources_strip|20 \n"
+ capital_assembly_resource:   "\nCapital Shipyard Capacity: §Y+[?modifier@shipyard_capital_capacity]§!£resources_strip|24 \n"
+ 
+ steel_refinery_resource: "\nProduction in State: [?output|Y0=]£resources_strip|5 \n"
+ aluminium_refinery_resource: "\nProduction in State: [?output|Y0=]£resources_strip|2 \n"
+ fuel_refinery_resource: "\nProduction in State: [?output|Y0=]£fuel_state \n"
+ rubber_refinery_resource: "\nProduction in State: [?output|Y0=]£resources_strip|3 \n"
+ 
+ power_plant_resource: "\n£electricity_medium Energy Production Capacity: [?output|Y=0]"
+ hydro_power_resource: "\n£electricity_medium Energy Production: [?output|Y=0]"
+ 
+ phase_block_desc: "[GetTag] [dirty] test"
+ 
+ manpower_disband_TT: "§OUnit Upgrade§!: When this upgrade is activated, the current unit (if it exists) is disbanded, returning its manpower to your pool. A new, upgraded unit is then created, utilizing the available manpower. The net manpower result will depend on the differences between both units manpower."
+ 
  ########## EOT #############
