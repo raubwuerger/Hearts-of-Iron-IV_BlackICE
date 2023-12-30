@@ -137,7 +137,7 @@
  OIL_PRODUCTION_FACTOR_TEXT: "£resources_strip|1 §YÖl§! Produktionsfaktor: [?modifier@oil_resource_factor|+=2%]"
  RUBBER_PRODUCTION_FACTOR_TEXT: "£resources_strip|3 §YGummi§! Produktionsfaktor: [?modifier@rubber_resource_factor|+=2%]"
  TUNGSTEN_PRODUCTION_FACTOR_TEXT: "£resources_strip|4 §YWolfram§! Produktionsfaktor: [?modifier@tungsten_resource_factor|+=2%]"
- CHROMIUM_PRODUCTION_FACTOR_TEXT: "£resources_strip|6 §YALegieren§! Produktionsfaktor: [?modifier@chromium_resource_factor|+=2%]"
+ CHROMIUM_PRODUCTION_FACTOR_TEXT: "£resources_strip|6 §YALegierungen§! Produktionsfaktor: [?modifier@chromium_resource_factor|+=2%]"
  BAUXITE_PRODUCTION_FACTOR_TEXT: "£resources_strip|7 §YBauxit§! Produktionsfaktor: [?modifier@bauxite_resource_factor|+=2%]"
  IRON_PRODUCTION_FACTOR_TEXT: "£resources_strip|9 §YEisen§! Produktionsfaktor: [?modifier@iron_resource_factor|+=2%]"
  COAL_PRODUCTION_FACTOR_TEXT: "£resources_strip|8 §YKohle§! Produktionsfaktor: [?modifier@coal_resource_factor|+=2%]"
@@ -1634,7 +1634,7 @@
  TUNGSTEN_OVERVIEW_TOOLTIP: "§YWolfram§!"
  RUBBER_OVERVIEW_TOOLTIP: "§YGummi§!"
  ALUMINIUM_OVERVIEW_TOOLTIP: "§YAluminium§!"
- CHROMIUM_OVERVIEW_TOOLTIP: "§Legieren§!"
+ CHROMIUM_OVERVIEW_TOOLTIP: "§YLegierungen§!"
  
  BAUXITE_NEED_TOOLTIP: "Wir haben [?avb_bauxite|0Y] Einheiten §YBauxit§! zur Verfügung.\n\nAktueller Raffinerieverbrauch: [?bauxite_need|Y0]\nMaximaler Raffinerieverbrauch: [?bauxite_need_max_t|Y0]"
  IRON_NEED_TOOLTIP: "Wir haben [?avb_iron|0Y] Einheiten von §YEisen§! zur Verfügung.\n\nAktueller Raffinerieverbrauch: [?iron_need|Y0]\nMaximaler Raffinerieverbrauch: [?iron_need_max_t|Y0]"

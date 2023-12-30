@@ -310,7 +310,7 @@ PRODUCTION_RESOURCE_PENALTY_WITH_MIO: "§TMangel an Ressourcen: $AMOUNT|R2%$§! 
  PRODUCTION_LINE_CONVERT_RES_NEED_ENTRY:1 "\n £resources_strip|$FRAME$: ($NEW|Y0$ - $OLD|G0$) = $SUM|R0$"
  PRODUCTION_LINE_SHIP_NAME_ALLOCATE:0 "Dieser Name ist noch keinem anderen Schiff zugewiesen. §GKlicke§! auf die Schaltfläche Hinzufügen, um diesen Namen dieser Produktionswarteschlange zuzuordnen."
  PRODUCTION_LINE_RAILWAY_GUN_NAME_ALLOCATE:0 "Dieser Name ist noch keinem anderen Eisenbahngeschütz zugewiesen. §GKlick§! Hinzufügen, um diesen Namen dieser Produktionswarteschlange zuzuordnen."
- LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL_SIMPLE:0 "§HLicense production§!: $VALUE|+%$"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL_SIMPLE:0 "§HLizenzproduktion§!: $VALUE|+%$"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL:0 "§HLizenz Produktionsgeschwindigkeit§!\nGesamt: $VALUE|+%$\nAusfall:"
  LICENSED_EQUIPMENT_TECH_SPEED_REDUCTION:1 "\n§YTechnologieunterschied§!:\n Basis: $BASE|+%$\n Geänderte Summe: $TOTAL|+%$"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_MODIFIER:1 "\n§YProduktionsmodifikatoren§!:\n Basis: §Yx0.60§!\n Geänderte Summe: $TOTAL|+%$"

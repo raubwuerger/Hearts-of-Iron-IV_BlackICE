@@ -2,30 +2,3 @@ Strahlflugzeug
 Schwerer Sturzkampfbomber
 Strahlgetriebener Sturzkampfbomber
 Sturzkampfflugzeug
-
-Die Niederlande ist Verbündete beigetreten
-
-Seepferdchen
-Eisenmann
-als unseren ally ... -> Allierten
-Zerstreute Industrie -> Verteilte
-Verstreute Industrie -> Dislozierte Industrie
-Effect	-> Effekte
-Power Plant -> Kraftwerk
-More owned factories then 
-egieren ... Legierungsmetalle werden
-Logistik-Detachement
-No need
-Mobilize now
-Excavation
-Other
-Understood -> Verstanden
-egieren ... Legierungsmetalle werden
-Effects when removed
-Hat keine enemies auf --> 
-vacuum sealed food
-Consumption
-Production
-Max Production
-Dockyard
-Sind sie sicher, dass sie Activate ihre aktiven

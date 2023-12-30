@@ -203,8 +203,8 @@
  RESISTANCE_ACTIVITY_LIST_TITLE:0 "Einer der folgenden Effekte tritt ein, wenn der Widerstand in die Garnisonen eindringt:"
  RESISTANCE_ACTIVITY_LIST_ENTRY:0 "  $NAME$: $CHANCE|%.0H$"
 
- OCCUPATION_NOT_ALL_COUNTRIES_CAN_HAVE_THIS_LAW:0 "§0Dieses Standardgesetz ist für einige der besetzten Gebiete ungültig. Sie werden standardmäßig auf No Garrison§ gesetzt!"
- OCCUPATION_INVALID_DEFAULT_LAW:0 "§RDas von Ihnen gewählte Standardgesetz ist für dieses besetzte Gebiet ungültig und es wird standardmäßig auf No Garrison§ gesetzt!"
+ OCCUPATION_NOT_ALL_COUNTRIES_CAN_HAVE_THIS_LAW:0 "Dieses Standardgesetz ist für einige der besetzten Gebiete ungültig. Sie werden standardmäßig auf §0kein Garnison§ gesetzt!"
+ OCCUPATION_INVALID_DEFAULT_LAW:0 "Das von Ihnen gewählte Standardgesetz ist für dieses besetzte Gebiet ungültig und es wird standardmäßig auf §0kein Garnison§ gesetzt!"
 
  DEFAULT_LAW_ENTRY:0 "Standard verwenden ($LAW_NAME$)"
  LAW_IS_OVERRIDDEN_TOOLTIP:0 "Die folgenden Gebiete setzen dieses Gesetz außer Kraft:"
