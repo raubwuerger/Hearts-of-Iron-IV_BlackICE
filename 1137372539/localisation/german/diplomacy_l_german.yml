@@ -497,7 +497,7 @@
  DR_STRATEGY_RELUCTANCE:0 "§Y$US|U$§! hat strategische Gründe, abzulehnen: "
  DR_MAJOR:1 "§Y$US|U$§! ist eine bedeutende Nation: "
  DR_IDEOLOGICAL_ACCEPTANCE:1 "§Y$US|U$§! wird wahrscheinlich den Druck von $IDEOLOGY|Y$ akzeptieren: "
- DR_LICENSE_ACCEPTANCE:1 "§Y$THEM|U$§! ist eher bereit, §YLicense Production Requests§! von §Y$US$§! zu akzeptieren: "
+ DR_LICENSE_ACCEPTANCE:1 "§Y$THEM|U$§! ist eher bereit, §YLizenzproduktionsanfragen§! von §Y$US$§! zu akzeptieren: "
  DR_STRATEGIC_HOSTILITY:1 "§Y$US|U$§! hat strategische Gründe, §Y$THEM$§! feindlich gegenüberzustehen: "
  DR_STRATEGIC_NOT_HOSTILITY:0 "§Y$US|U$§! hat strategische Gründe, §Y$THEM$§! gegenüber neutral zu bleiben: "
  DR_STRATEGIC_FRIENDSHIP:1 "§Y$US|U$§! hat strategische Gründe, freundlich zu §Y$THEM$§! zu sein: "

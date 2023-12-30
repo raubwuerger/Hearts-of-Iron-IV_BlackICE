@@ -1,7 +1,7 @@
 ﻿l_german:
 
  ### EQUIPMENT MODULE ROLE PERMISSIONS ### ""
- MODULE_ALLOW_ROLE:1 "§GAllows§! die Rolle $ROLE|H$"
+ MODULE_ALLOW_ROLE:1 "§GErlaubt§! die Rolle $ROLE|H$"
  MODULE_ALLOW_ROLE_BUT_OTHER_FORBID:0 "§GErlaubt§! die Rolle $ROLE|H$, aber $FORBIDDING_MODULE|H$ §Rverbietet§! sie"
  MODULE_FORBID_ROLE:1 "§RVerbietet§! die Rolle $ROLE|H$"
 

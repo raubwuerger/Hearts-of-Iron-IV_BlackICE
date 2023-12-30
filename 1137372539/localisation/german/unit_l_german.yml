@@ -887,14 +887,14 @@
  engineer_arm:0 "Pionierkompanie [Arm]"
  engineer_arm_desc:0 "Der Bau von Befestigungen und die Überwindung von Hindernissen machen die Pioniere im Feld unverzichtbar. Durch die vielseitige Einsetzbarkeit unserer Pioniere können wir sie in den verschiedensten Situationen einsetzen, in denen sie gebraucht werden."
  
- logistics_company_car:0 "Logistik-Detachement [Car]"
+ logistics_company_car:0 "Logistik-Abteilung [Car]"
  logistics_company_car_desc:0 "Kümmert sich um die Planung, Anforderung und Verteilung von Ressourcen für die Division."
- logistics_company_mot:0 "Logistik-Detachement [Mot.]"
+ logistics_company_mot:0 "Logistik-Abteilung [Mot.]"
  logistics_company_mot_desc:0 "Übernimmt die Planung, Anforderung und Verteilung von Ressourcen für die Division."
  logistics_company_mech:0 "Logistik-Abteilung [Mech.]"
  logistics_company_mech_desc:0 "Übernimmt die Planung, Anforderung und Verteilung von Ressourcen für die Division."
  
- mountain_support:0 "Gebirgsunterstützungs-Detachement"
+ mountain_support:0 "Gebirgsunterstützungs-Abteilung"
  mountain_support_desc:0 ""
  
  anti_tank_mot:0 "Unterstützung Panzerabwehr [Mot]"
@@ -1026,7 +1026,7 @@
  # Pz VII ""
  panzer_vii:0 "Deutscher überschwerer Panzer"
  GER_panzer_vii:0 "Überschwerer Panzer"
- panzer_vii_desc:0 "Sehr schweres Panzer-Detachement"
+ panzer_vii_desc:0 "Sehr schwere Panzer-Abteilung"
  # new tanks and variants ""
  ### Heavy Panzer ### ""
  #heavy_panzer:0 "Schwere Panzer-Abt."
