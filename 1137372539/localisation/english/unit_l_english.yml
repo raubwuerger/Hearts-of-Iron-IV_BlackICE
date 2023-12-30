@@ -422,9 +422,9 @@
  trm_light_amphibious_armor_recon:0 "Amphibious Light Tank Recon"
  
  trm_para_armor:0 "Airborne Tank"
- trm_para_airbone_armor:0 "Airborne Tank (Glider)"
+ trm_para_airborne_armor:0 "Airborne Tank (Glider)"
  trm_para_armor_recon:0 "Airborne Tank Recon"
- trm_para_airbone_armor_recon:0 "Airborne Tank Recon (Glider)"
+ trm_para_airborne_armor_recon:0 "Airborne Tank Recon (Glider)"
  
  trm_amphibious_armor:0 "Amphibious Tank"
  trm_amphibious_armor_recon:0 "Amphibious Tank Recon"

@@ -310,6 +310,7 @@
  EFFECT_SET_OOB:0 "Registriere Schlachtreihenfolge-Datei $NAME|H$, die beim Spielstart geladen wird."
  EFFECT_SET_KEYED_OOB:0 "Registriere Schlachtreihenfolge-Datei $NAME|H$ mit Schlüssel $KEY|H$, die beim Spielstart geladen werden soll."
  EFFECT_GIVE_RESOURCE_RIGHTS:0 "Gib $RECEIVER|H$ Rechte auf die Ressourcen in $STATE|H$"
+ EFFECT_GIVE_SPECIFIC_RESOURCE_RIGHTS:0 "Geben Sie $RECEIVER|H$ die Rechte an $RESOURCES|H$ in $STATE|H$"
  EFFECT_REMOVE_RESOURCE_RIGHTS:0 "Entferne die Rechte für die Ressourcen in $STATE|H$"
  EFFECT_END_EXILE:0 "Wiedereinsetzen von $COUNTRY|H$"
  EFFECT_INHERIT_TECHNOLOGY:0 "£tech_mod Erhalte dieselben Technologien wie $COUNTRY|H$"

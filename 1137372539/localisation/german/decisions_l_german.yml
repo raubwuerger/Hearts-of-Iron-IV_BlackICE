@@ -264,8 +264,6 @@
   GER_enigma_mission:0 "Enigma-Codebücher aktualisieren"
   GER_enigma_mission_desc:0 "Jeden Monat müssen wir neue Codebücher für unsere Streitkräfte im Feld verschicken. Wenn wir das nicht tun, können unsere Gegner möglicherweise unsere Geheimcodes knacken"
   enigma_cracked:0 "Enigma-Code geknackt!"
-  ENG_sov_aid:0 "Hilfe an die Sowjets schicken"
-  ENG_sov_shippment:0 "Lieferung von Teilen und Vorräten an die Sowjets"
   ENG_enigma_mission:0 "Schwachstelle im Enigma-Code"
   ENG_enigma_mission_desc:0 "Unsere Spitzenwissenschaftler haben ein Muster in den von den deutschen Streitkräften verwendeten Enigma-Codes entdeckt. Wenn wir schnell handeln, können wir versuchen, dieses Muster zu nutzen, um einen Teil des Codes zu entschlüsseln."
   GER_scrap_destroyer_enable:0 "Abwrackung von Zerstörern ermöglichen"
@@ -353,7 +351,15 @@
   mortar_trade_running:0 "Bereits handeln mit §YMortar Ausrüstung§!"
   artillery_trade_running:0 "Bereits im Handel mit §YArtillerie-Ausrüstung§!"
   
-  
+ #### ENG ####
+ ENG_sov_aid: "Sende Hilfe an die Sowjets"
+ ENG_sov_shippment: "Senden Sie Teile und Vorräte an die Sowjets"
+ CW_AIR_PLAN: "The PLAN"
+ CW_AIR_PLAN_desc: "Aktuelle Trainingsstatistiken\n Jede Basis kann 100 Flugzeuge gleichzeitig ausbilden und jedes Flugzeug kann 10 Piloten ausbilden. Die Ausbildung eines durchschnittlichen Piloten dauert etwa 12 Wochen. \n Derzeit gibt es [?ENG.pilots_trained|G0] durch unser Programm \n Piloten insgesamt bereit für die Ausbildung [?ENG.pilots_available|G0]\n Trainerflugzeuge bereit [?ENG.trainers_available|Y0]\n Luftwaffenstützpunkte insgesamt [?ENG.training_bases|C0]\n\n Jede Woche fügen wir hinzu\n n [?trainer_produktion|G0] Flugzeuge \n [?pilots|G0] Piloten"
+ increase_trainer_production: "Steigerung der Produktion von Schulflugzeugen"
+ decrease_trainer_production: "Reduzierung der Produktion von Schulflugzeugen"
+ send_fresh_pilots: "Senden Sie Piloten zur Ausbildung im PLAN"
+ 
   JAP_pearl:0 "Operation KI"
   JAP_pearl_desc:0 "Die Amerikaner provozieren uns weiterhin, indem sie unseren Handel einschränken und unsere Gegner finanzieren. Jetzt hat unsere Intelligenz Informationen über eine Gelegenheit geliefert, das Biest anzugreifen, lasst uns einen Großangriff starten und ihnen die Macht der IJN zeigen"
   JAP_train_burma:0 "Ausbildung birmanischer Unabhängigkeitsguerillas"
@@ -416,6 +422,11 @@
   
   ###BUL### ""
   
+ ###CAN###
+ develop_mazaruni_bauxite_deposits:0 "Entwickeln Sie Mazaruni-Bauxit-Minen"
+ tommys_march:0 "March the Tommy's"
+ tommys_march_desc:0 "Unsere Truppen sind schlecht diszipliniert und noch weniger ausgebildet, ein bisschen Laufen in voller Uniform sollte ausreichen"
+ 
   ###IRE### ""
   IRE_arrest_ira:0 "Verhaftung von IRA-Mitgliedern"
   IRE_arrest_ira_desc:0 "Schicken Sie die Polizei los, um ein paar Köpfe zu zerbrechen."
@@ -549,6 +560,7 @@
   SOV_2nd_resource_oil:0 "Mehr als §Y[?sov.oil_target]§! £oil_icon von der Sowjetunion gefördert"
   SOV_JAP_border_clashes:0 "Zusammenstöße an der Grenze"
   SOV_JAP_border_clashes_desc:0 "Die aktuelle Situation an der Grenze ist\n §R[SOV.GetName] Border Achievements = [?sov.border_strength]§! \n §Y[JAP.GetName] Grenzerfolge = [?jap.border_strength]§!"
+  border_skirmish: "Tapferkeit an der Grenze"
   border_strength_reset_TT:0 "Setzt Grenzerfolge auf 4 zurück"
   prepare_border_conflict_soviets:0 "Bereite Grenzkonflikt in §Y[From.GetName]§ vor!"
   prepare_border_conflict_jap:0 "Bereite Grenzkonflikt in §Y[From.GetName]§ vor!"
@@ -557,9 +569,10 @@
   border_conflict_soviets:0 "Bereite Grenzkonflikt in §Y[From.GetName]§ vor!"
   border_conflict_jap:0 "Grenzkonflikt bei §Y[From.GetName]§ vorbereiten!"
   border_conflict_puppet:0 "Bereit für Grenzkonflikt bei §Y[From.GetName]§!"
-  border_peace_tt:0 "Hat mindestens §Ydouble§! die §YBorder Achievements§! im Vergleich zu unserem Feind"
-  border_nab_tt:0 "Hat mindestens §Y2 Grenzerfüllungen§!"
+  border_peace_tt:0 "Hat mindestens §Ydoppelt so viele§! die §YHistorische Grenzerfolge§! im Vergleich zu unserem Feind"
+  border_nab_tt:0 "Hat mindestens §Y2 Grenzerfolge§!"
   border_mine_tt:0 "Hat mindestens §Y5 Grenzerfolge§!"
+  SOV_JAP_medal_tt: "Hat mindestens §Y10 Grenzerfolge§!"
   BICE_escalate_incident_to_border_conflict_puppet:0 "Kleines Scharmützel an der Grenze [?attacker_state.GetName] - [?defender_state.GetName]"
   BICE_escalate_incident_to_border_conflict_small:0 "Kleines Scharmützel an der Grenze [?attacker_state.GetName] - [?defender_state.GetName]"
   BICE_escalate_incident_to_border_conflict_small_desc:0 "Wir haben die Möglichkeit, die Grenze an einem Punkt leicht zu unseren Gunsten zu verändern. Eine kleine Einheit von nicht mehr als 50 Soldaten sollte uns helfen, unser Ziel zu erreichen."
@@ -573,8 +586,9 @@
   SOV_JAP_mines:0 "Minen beschlagnahmen"
   SOV_JAP_raid:0 "Lokale Vorräte plündern"
   SOV_JAP_land:0 "Verschieben Sie die Grenzen"
+  SOV_JAP_citation: "Loben Sie die Truppen"
   
-  SOV_JAP_raid_tt:0 "Mindestens §Y3 Border Achievements§!"
+  SOV_JAP_raid_tt:0 "Mindestens §Y3 Grenzerfolge§!"
   SOV_JAP_land_tt:0 "Mindestens §Y25 Grenzerfolge§!"
   
   border_increased_TT:0 "Erhöht §YGrenz-Errungenschaften§! um $RIGHT|0$"
@@ -598,17 +612,18 @@
   Foreign_investors3:0 "Eisenbahn-Investitionen"
   Foreign_investors3_desc:0 "Zeit, Ackerland für bessere Schienenwege zu roden"
   Foreign_investment:0 "Aktuelle Auslandsinvestitionen"
-  SOV_moscov_build:0 "Fabriken insgesamt > [?sov.moscov_build]"
-  SOV_lenin_build:0 "Fabriken gesamt > [?sov.leningrad_build]"
-  SOV_kiev_build:0 "Fabriken gesamt > [?sov.kiev_area_build]"
-  SOV_minsk_build:0 "Fabriken gesamt > [?sov.minsk_build]"
-  SOV_stalingrad_build:0 "Fabriken gesamt > [?sov.stalingrad_build]"
-  SOV_crimea_build:0 "Fabriken gesamt > [?sov.crimea_build]"
-  SOV_kharkov_build:0 "Fabriken gesamt > [?sov.kharkov_build]"
-  SOV_saratov_build:0 "Fabriken gesamt > [?sov.saratov_build]"
-  SOV_gorki_build:0 "Fabriken gesamt > [?sov.gorki_build]"
-  SOV_bryansk_build:0 "Fabriken insgesamt > [?sov.bryansk_build]"
+  SOV_moscov_build:0 "Fabriken insgesamt > [?sov.moscov_build] ([?buildings|0])"
+  SOV_lenin_build:0 "Fabriken gesamt > [?sov.leningrad_build] ([?buildings|0])"
+  SOV_kiev_build:0 "Fabriken gesamt > [?sov.kiev_area_build] ([?buildings|0])"
+  SOV_minsk_build:0 "Fabriken gesamt > [?sov.minsk_build] ([?buildings|0])"
+  SOV_stalingrad_build:0 "Fabriken gesamt > [?sov.stalingrad_build] ([?buildings|0])"
+  SOV_crimea_build:0 "Fabriken gesamt > [?sov.crimea_build] ([?buildings|0])"
+  SOV_kharkov_build:0 "Fabriken gesamt > [?sov.kharkov_build] ([?buildings|0])"
+  SOV_saratov_build:0 "Fabriken gesamt > [?sov.saratov_build] ([?buildings|0])"
+  SOV_gorki_build:0 "Fabriken gesamt > [?sov.gorki_build] ([?buildings|0])"
+  SOV_bryansk_build:0 "Fabriken insgesamt > [?sov.bryansk_build] ([?buildings|0])"
   SOV_2nd_civilian_factories:0 "Mehr als §Y[?sov.civ_target] $industrial_complex$§! im Besitz der Sowjetunion ([?num_owned_civilian_factories])"
+  SOV_2nd_rations_stored:0 "Mehr als §Y[?sov.food_target] Rationen§! von der Sowjetunion gelagert (§Y[?sov.food]§! aktuell)"
   SOV_2nd_tractors:0 "Mehr als §Y[?sov.tractor_target]§! von der Sowjetunion produzierte £tractor"
   SOV_tractors:0 "Sowjetische Traktoren"
   SOV_tractors_desc:0 "Wir brauchen Traktoren\n Traktorenfabriken [?tractor_plants|G0]\n Wöchentliche £tractor [?tractor_production|Y0]\n Insgesamt produzierte £tractor [?tractors_produced|C0]\n Verfügbare £tractor [?tractor_stockpile|G0]"
@@ -1055,6 +1070,9 @@
   
   goga_new_election:0 "Goga lanciert eine neue Wahl"
   legalize_iron_guard:0 "Legalisieren Sie [GetIronGuardName]"
+ #IRE
+ IRE_army_organisation:0 "Irische Verteidigungsarmee"
+ IRE_army_organisation_desc:0 "Die Streitkräfte Irlands befanden sich 1936 in einem traurigen Zustand. Seit dem Bürgerkrieg von 1922–23 demobilisiert und seit der gescheiterten Heeresmeuterei von 1924 gezielt reduziert, besteht die Armee nicht mehr als ein paar Frontbataillone mit mehreren weiteren zweitklassigen Territorialbataillonen in Reserve. Die Armee ist in vier Kommandos unterteilt: das Ost-, das Süd-, das West- und das Curragh-Kommando, die alle für die Verteidigung der ihnen zugewiesenen Gebiete verantwortlich sind. Das Curragh-Kommando besteht aus den fortschrittlicheren Waffengattungen der Armee, darunter dem mechanisierten Kavalleriekorps und der Luftabwehrartillerie. Mit nur einem Geschwader Doppeldecker ist das Aer Corps nach wie vor sträflich unterfinanziert und unterausgerüstet wie sein Gegenstück am Boden, während es keine Marine gibt, die die Küsten des Staates schützt."
   
   war_propaganda_casualties:0 "Heldentum anmahnen"
   war_propaganda_casualties_desc:0 "Auch wenn die Zahl der Todesopfer unter unseren Flieger-Assen steigt, muss unserem Volk beigebracht werden, dass Helden nur im Kampf geschmiedet werden."

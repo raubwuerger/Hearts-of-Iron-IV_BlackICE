@@ -1,5 +1,10 @@
 ﻿l_german:
- ### VANILLA ###
+    ### TYPES ###
+ screen_ship:0 "Aufklärungsschiffe"
+ capital_ship:0 "Großkampfschiffe"
+ carrier:0 "Träger"
+ submarine:0 "U-Boot"
+    ### HULLS ###
  ship_hull_submarine_1_desc:0 "U-Boote sind getarnte Schiffe, die unverteidigte Konvois ausschalten können. Die frühen Modelle aus dem Ersten Weltkrieg ebneten den Weg für neue Methoden der Seekriegsführung."
  ship_hull_submarine_2_desc:0 "Die neuen U-Boote sind besser bewaffnet und stabiler, um die Fortschritte in der Seetaktik zu nutzen, und haben eine größere Reichweite, so dass sie auch weit entfernte Konvoirouten angreifen können."
  ship_hull_submarine_3_desc:0 "Die Rolle des U-Boots in der Flotte außerhalb von Geleitzugangriffen steht noch zur Debatte. Ein ausgewogenes Verhältnis zwischen Geschwindigkeit, Reichweite und Bewaffnung wird der Schlüssel zu dem erforderlichen Modell sein."

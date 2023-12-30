@@ -205,6 +205,8 @@ ship_designer_capital_ship:0 "$EQUIPMENT_CAPITAL_SHIP$"
 ship_designer_screen:0 "$EQUIPMENT_SCREEN$"
 ship_designer_carrier:0 "$EQUIPMENT_CARRIER$"
 
+tank_designer_armor:0 "Panzer"
+tank_designer_armor_role_disallowed:0 "Entfernen Sie das Modul, das den Wechsel der Rolle $tank_designer_armor|H$ verhindert."
 tank_designer_tankette_tank_chassis:0 "Tanker"
 tank_designer_tankette_tank_chassis_role_disallowed:0 "Entferne das Modul, das der Rolle $tank_designer_tankette_tank_chassis|H$ verbietet, zu ihr zu wechseln."
 tank_designer_light_tank_chassis:0 "Leichter Panzer"

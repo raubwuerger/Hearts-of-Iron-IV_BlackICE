@@ -298,7 +298,7 @@
  ENG_motion_of_no_confidence_desc:1 "The current government has failed in its attempts to defuse the looming world crisis. Any further attempts to do so now are just signs of weakness. We require stronger leadership so that we may weather the coming storm."
  ENG_no_further_appeasement:1 "No Further Appeasement"
  ENG_no_further_appeasement_desc:1 "Appeasement has failed, and to continue this policy now is folly. It is clear our enemies will not back down, and insist on demanding more and more. We must stop them now, before we give them even more advantages."
- ENG_no_further_appeasement_tt:1 "Set the rule: £trigger_yes Can justify and declare war on country with the same ideology group.\nSet the rule: £trigger_yes Can puppet a country.\n"
+ ENG_no_further_appeasement_tt:1 "Set the rule: £trigger_yes£Can justify and declare war on country with the same ideology group.\nSet the rule: £trigger_yes£Can puppet a country.\n"
  ENG_kickstart_the_war_industry:1 "Kickstart the War Industry"
  ENG_kickstart_the_war_industry_desc:1 "Time is of the essence, and we cannot wait for a natural growth of our war industry. We must make a large investment for the quick construction of additional factories, if we are to be ready for war."
  ENG_secure_the_oil_imports:1 "Secure the Oil Imports"

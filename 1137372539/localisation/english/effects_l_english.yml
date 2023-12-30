@@ -310,6 +310,7 @@
  EFFECT_SET_OOB:0 "Register Order of Battle file $NAME|H$ to be loaded at game start."
  EFFECT_SET_KEYED_OOB:0 "Register Order of Battle file $NAME|H$ with key $KEY|H$ to be loaded at game start."
  EFFECT_GIVE_RESOURCE_RIGHTS:0 "Give $RECEIVER|H$ rights to the resources in $STATE|H$"
+ EFFECT_GIVE_SPECIFIC_RESOURCE_RIGHTS:0 "Give $RECEIVER|H$ the rights to $RESOURCES|H$ in $STATE|H$"
  EFFECT_REMOVE_RESOURCE_RIGHTS:0 "Remove rights to the resources in $STATE|H$"
  EFFECT_END_EXILE:0 "Reinstate $COUNTRY|H$"
  EFFECT_INHERIT_TECHNOLOGY:0 "£tech_mod Get same technologies as $COUNTRY|H$"

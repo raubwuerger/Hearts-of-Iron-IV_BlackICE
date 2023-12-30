@@ -298,7 +298,7 @@
  ENG_motion_of_no_confidence_desc:1 "Die derzeitige Regierung hat bei ihren Versuchen, die sich abzeichnende Weltkrise zu entschärfen, versagt. Jeder weitere Versuch, dies jetzt zu tun, ist nur ein Zeichen von Schwäche. Wir brauchen eine stärkere Führung, damit wir den kommenden Sturm überstehen können."
  ENG_no_further_appeasement:1 "Kein weiteres Appeasement"
  ENG_no_further_appeasement_desc:1 "Appeasement ist gescheitert, und diese Politik jetzt fortzusetzen ist töricht. Es ist klar, dass unsere Feinde nicht nachgeben werden und darauf bestehen, immer mehr und mehr zu fordern. Wir müssen sie jetzt stoppen, bevor wir ihnen noch mehr Vorteile verschaffen."
- ENG_no_further_appeasement_tt:1 "Legen Sie die Regel fest: £trigger_yes Kann ein Land mit der gleichen Ideologiegruppe rechtfertigen und ihm den Krieg erklären.\nLegen Sie die Regel fest: £trigger_yes Kann ein Land marionettieren.\n"
+ ENG_no_further_appeasement_tt:1 "Legen Sie die Regel fest: £trigger_yes£Kann ein Land mit der gleichen Ideologiegruppe rechtfertigen und ihm den Krieg erklären.\nLegen Sie die Regel fest: £trigger_yes Kann ein Land marionettieren.\n"
  ENG_kickstart_the_war_industry:1 "Die Kriegsindustrie ankurbeln"
  ENG_kickstart_the_war_industry_desc:1 "Die Zeit ist von entscheidender Bedeutung, und wir können nicht auf ein natürliches Wachstum unserer Kriegsindustrie warten. Wir müssen eine große Investition für den schnellen Bau zusätzlicher Fabriken tätigen, wenn wir für den Krieg bereit sein wollen."
  ENG_secure_the_oil_imports:1 "Sichern Sie die Ölimporte"

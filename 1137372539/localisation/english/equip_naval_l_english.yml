@@ -1,5 +1,10 @@
 ﻿l_english:
-    ### VANILLA ###
+    ### TYPES ###
+ screen_ship:0 "Screen Ships"
+ capital_ship:0 "Capital Ships"
+ carrier:0 "Carriers"
+ submarine:0 "Submarines"
+    ### HULLS ###
  ship_hull_submarine_1_desc:0 "Submarines are stealthy vessels designed to take out undefended convoys. The early models from the Great War pave the way for new methods of naval warfare."
  ship_hull_submarine_2_desc:0 "Better armed and more stable, new submarine designs are made to take advantage of advancements in naval tactics and have longer range, being able to attack distant convoy routes."
  ship_hull_submarine_3_desc:0 "The role of the submarine in the fleet outside of convoy attacks is still under debate. Achieving a balance between combination of speed, range and weaponry will be key to the necessary model."

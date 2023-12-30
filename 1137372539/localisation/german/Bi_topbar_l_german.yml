@@ -82,7 +82,7 @@
  topbar_food_need_text: "§R[?food_needed|3]K§!"
  topbar_food_need_tt: "Lebensmittelkonsum"
  topbar_consumer_goods: "Konsumgüter"
- topbar_consumer_goods_text: "[?modifier@consumer_goods_factor|Y%1]"
+ topbar_consumer_goods_text: "[?modifier@consumer_goods_expected_value|Y%1]"
  topbar_consumer_goods_tt: "Konsumgüterfaktor"
  topbar_min_consumer_goods: "Min. Konsumgüter"
  topbar_min_consumer_goods_text: "[?modifier@min_consumer_goods_factor|Y%1]"

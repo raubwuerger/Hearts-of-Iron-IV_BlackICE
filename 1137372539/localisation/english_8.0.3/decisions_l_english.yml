@@ -243,8 +243,6 @@
  resource_prospecting_3_times_TT:0 "\nThis decision can be done §Y3§! times.\n"
  resource_prospecting_4_times_TT:0 "\nThis decision can be done §Y4§! times.\n"
  resource_prospecting_5_times_TT:0 "\nThis decision can be done §Y5§! times.\n"
- resource_prospecting_8_times_TT: "\nThis decision can be done §Y8§! times.\n"
- resource_prospecting_9_times_TT: "\nThis decision can be done §Y9§! times.\n"
  #### Waffen SS ####
  Himmler_occult_TT:0 "\n\n§gHimmler is building an occult around him. We can't let him become too powerful.§!\n\n"
  himmler_occult:0 "Himmler's Occult"

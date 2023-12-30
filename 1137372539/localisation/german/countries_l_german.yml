@@ -324,6 +324,10 @@
  VIC_liberalism_ADJ:0 "Vichy-Französisch"
  VIC_socialism_ADJ:0 "Vichy-Französisch"
  VIC_monarchism_ADJ:0 "Vichy-Französisch"
+ VIX_fascism:0 „Kolonien von Vichy-Frankreich“
+ VIX_fascism_DEF:0 „Kolonien von Vichy-Frankreich“
+ VIX_neutrality:0 „Kolonien von Vichy-Frankreich“
+ VIX_neutrality_DEF:0 „Kolonien von Vichy-Frankreich“ 
  FRA_fascism:0 "Französischer Staat"
  FRA_fascism_DEF:0 "Der französische Staat"
  FRA_conservatism:0 "Französische Republik" 
@@ -1041,11 +1045,11 @@
  IRE_fascism:0 "Staat Irland" 
  IRE_fascism_DEF:0 "Staat Irland" 
  IRE_socialism:0 "Irland"
- IRE_socialism_DEF:0 "Irland"
- IRE_conservatism:0 "Irland"
- IRE_conservatism_DEF:0 "Irland"
- IRE_liberalism:0 "Irland"
- IRE_liberalism_DEF:0 "Irland"
+ IRE_socialism_DEF:0 "Éire"
+ IRE_conservatism:0 "Irischer Freistaat"
+ IRE_conservatism_DEF:0 "Der Freistaat Irland"
+ IRE_liberalism:0 "Irischer Freistaat"
+ IRE_liberalism_DEF:0 "Der Freistaat Irland"
  IRE_neutrality:0 "Irischer Freistaat"
  IRE_neutrality_DEF:0 "Irischer Freistaat"
  IRE_communism:0 "Irische Arbeitergewerkschaft"
@@ -1724,8 +1728,8 @@
  URG_socialism_DEF:0 "Uruguay"
  URG_liberalism:0 "Uruguay"
  URG_liberalism_DEF:0 "Uruguay"
- URG_neutrality:0 "Colegiado Uruguay"
- URG_neutrality_DEF:0 "Colegiado Uruguay"
+ URG_neutrality:0 "Uruguay"
+ URG_neutrality_DEF:0 "Uruguay"
  URG_communism:0 "Sozialistische Republik Uruguay"
  URG_communism_DEF:0 "Die Sozialistische Republik Uruguay"
  URG_fascism_ADJ:0 "Uruguayisch"

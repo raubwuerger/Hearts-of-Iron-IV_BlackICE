@@ -264,8 +264,6 @@
  GER_enigma_mission:0 "Update Enigma Codebooks"
  GER_enigma_mission_desc:0 "Every month we must send out new codebooks for our forces in the field, failure to do so will allow our opponents to possibly crack our secret codes"
  enigma_cracked:0 "Enigma Code Cracked!"
- ENG_sov_aid:0 "Send Aid to Soviets"
- ENG_sov_shippment:0 "Ship Parts and Supplies to the Soviets"
  ENG_enigma_mission:0 "Weakness in the Enigma Code"
  ENG_enigma_mission_desc:0 "Our top scientists have noticed a pattern emerging in the Enigma codes used by the German forces, If we act quickly we can attempt to use this to decrypt some of the code"
  GER_scrap_destroyer_enable:0 "Enable Destroyer Scrapping"
@@ -353,6 +351,14 @@
  mortar_trade_running:0 "Already trading §YMortar Equipment§!"
  artillery_trade_running:0 "Already trading §YArtillery Equipment§!"
  
+ #### ENG ####
+ ENG_sov_aid: "Send Aid to Soviets"
+ ENG_sov_shippment: "Ship Parts and Supplies to the Soviets"
+ CW_AIR_PLAN: "The PLAN"
+ CW_AIR_PLAN_desc: "Current Training stats\n Each base can train 100 planes at a time and each plane can train 10 pilots, it takes around 12 weeks for the average pilot to be trained \n There are currently [?ENG.pilots_trained|G0] by our program \n Total Pilots ready for training [?ENG.pilots_available|G0]\n Trainer Planes Ready [?ENG.trainers_available|Y0]\n Total Air Bases  [?ENG.training_bases|C0]\n\n Each Week we add\n   [?trainer_production|G0] planes \n   [?pilots|G0] Pilots"
+ increase_trainer_production: "Increase Production of Trainer Aircraft"
+ decrease_trainer_production: "Decrease Production of Trainer Aircraft"
+ send_fresh_pilots: "Send Pilots to be trained in the PLAN"
  
  JAP_pearl:0 "Operation AI"
  JAP_pearl_desc:0 "The American's continue to provoke us by restricting our trade and funding our opponents, now our intellegence has provided information of an opportunity to strike at the beast, let us launch a full scale attack and show them the might of the IJN"
@@ -416,6 +422,11 @@
  
  ###BUL###
 
+ ###CAN###
+ develop_mazaruni_bauxite_deposits:0 "Develop Mazaruni Bauxite Mines"
+ tommys_march:0 "March the Tommy's"
+ tommys_march_desc:0 "Our troops are poorly disiplined and even less trained, a bit of walking in full uniform should do the trick"
+ 
  ###IRE###
  IRE_arrest_ira:0 "Arrest IRA Members"
  IRE_arrest_ira_desc:0 "Send in the police to crack a few heads"
@@ -548,7 +559,8 @@
  SOV_2nd_resource_iron:0 "More than §Y[?sov.iron_target]§! £resources_strip|9  extracted by the Soviet Union"
  SOV_2nd_resource_oil:0 "More than §Y[?sov.oil_target]§! £oil_icon  extracted by the Soviet Union"
  SOV_JAP_border_clashes:0 "Border Clashes"
- SOV_JAP_border_clashes_desc:0 "The current Situation at the border is\n §R[SOV.GetName] Border Achievements = [?sov.border_strength]§! \n §Y[JAP.GetName] Border Achievements = [?jap.border_strength]§!"
+ SOV_JAP_border_clashes_desc:0 "The current Situation at the border is\n §R[SOV.GetName] Border Achievements = [?sov.border_strength]§!  Historical Achievements: [?sov.border_high] \n §Y[JAP.GetName] Border Achievements = [?jap.border_strength]§!   Historical Achievements: [?jap.border_high]§!"
+ border_skirmish: "Valour at the Border"
  border_strength_reset_TT:0 "Resets Border Achievements to 4"
  prepare_border_conflict_soviets:0 "Prepare Border Conflict in §Y[From.GetName]§!"
  prepare_border_conflict_jap:0 "Prepare Border Conflict in §Y[From.GetName]§!"
@@ -557,9 +569,10 @@
  border_conflict_soviets:0 "Ready Border Conflict at §Y[From.GetName]§!"
  border_conflict_jap:0 "Ready Border Conflict at §Y[From.GetName]§!"
  border_conflict_puppet:0 "Ready Border Conflict at §Y[From.GetName]§!"
- border_peace_tt:0 "Has atleast §Ydouble§! the §YBorder Achievements§! compared to our enemy"
+ border_peace_tt:0 "Has atleast §Ydouble§! the §YHistorical BorderAchievements§! compared to our enemy"
  border_nab_tt:0 "Has atleast §Y2 Border Achievements§!"
  border_mine_tt:0 "Has atleast §Y5 Border Achievements§!"
+ SOV_JAP_medal_tt: "Has atleast §Y10 Border Achievements§!"
  BICE_escalate_incident_to_border_conflict_puppet:0 "Small Skirmish at the [?attacker_state.GetName] - [?defender_state.GetName] border"
  BICE_escalate_incident_to_border_conflict_small:0 "Small Skirmish at the [?attacker_state.GetName] - [?defender_state.GetName] border"
  BICE_escalate_incident_to_border_conflict_small_desc:0 "We have the opportunity to change the border slightly in our favor at one point. A small unit of no more than 50 soldiers should help us reach our goal."
@@ -573,6 +586,7 @@
  SOV_JAP_mines:0 "Seize Mines"
  SOV_JAP_raid:0 "Raid local supplies"
  SOV_JAP_land:0 "Shift the Borders"
+ SOV_JAP_citation: "Commend the Troops"
  
  SOV_JAP_raid_tt:0 "At least §Y3 Border Achievements§!"
  SOV_JAP_land_tt:0 "At least §Y25 Border Achievements§!"
@@ -598,17 +612,18 @@
  Foreign_investors3:0 "Rail Investment"
  Foreign_investors3_desc:0 "Time to clear some farmland for better railways"
  Foreign_investment:0 "Current Foreign Investment"
- SOV_moscov_build:0 "Total Factories > [?sov.moscov_build]"
- SOV_lenin_build:0 "Total Factories > [?sov.leningrad_build]"
- SOV_kiev_build:0 "Total Factories > [?sov.kiev_area_build]"
- SOV_minsk_build:0 "Total Factories > [?sov.minsk_build]"
- SOV_stalingrad_build:0 "Total Factories > [?sov.stalingrad_build]"
- SOV_crimea_build:0 "Total Factories > [?sov.crimea_build]"
- SOV_kharkov_build:0 "Total Factories > [?sov.kharkov_build]"
- SOV_saratov_build:0 "Total Factories > [?sov.saratov_build]"
- SOV_gorki_build:0 "Total Factories > [?sov.gorki_build]"
- SOV_bryansk_build:0 "Total Factories > [?sov.bryansk_build]"
+ SOV_moscov_build:0 "Total Factories > [?sov.moscov_build] ([?buildings|0])"
+ SOV_lenin_build:0 "Total Factories > [?sov.leningrad_build] ([?buildings|0])"
+ SOV_kiev_build:0 "Total Factories > [?sov.kiev_area_build] ([?buildings|0])"
+ SOV_minsk_build:0 "Total Factories > [?sov.minsk_build] ([?buildings|0])"
+ SOV_stalingrad_build:0 "Total Factories > [?sov.stalingrad_build] ([?buildings|0])"
+ SOV_crimea_build:0 "Total Factories > [?sov.crimea_build] ([?buildings|0])"
+ SOV_kharkov_build:0 "Total Factories > [?sov.kharkov_build] ([?buildings|0])"
+ SOV_saratov_build:0 "Total Factories > [?sov.saratov_build] ([?buildings|0])"
+ SOV_gorki_build:0 "Total Factories > [?sov.gorki_build] ([?buildings|0])"
+ SOV_bryansk_build:0 "Total Factories > [?sov.bryansk_build] ([?buildings|0])"
  SOV_2nd_civilian_factories:0 "More than §Y[?sov.civ_target] $industrial_complex$§! owned by the Soviet Union ([?num_owned_civilian_factories])"
+ SOV_2nd_rations_stored: "More than §Y[?sov.food_target] Rations§! stored by the Soviet Union (§Y[?sov.food]§! currently)"
  SOV_2nd_tractors:0 "More than §Y[?sov.tractor_target]§! £tractor  produced by the Soviet Union"
  SOV_tractors:0 "Soviet Tractors"
  SOV_tractors_desc:0 "We need Tractors\n Tractor Plants [?tractor_plants|G0]\n Weekly £tractor  Production [?tractor_production|Y0]\n Total £tractor  Produced [?tractors_produced|C0]\n £tractor  Available [?tractor_stockpile|G0]"
@@ -1055,6 +1070,9 @@
 
  goga_new_election:0 "Goga Launches a new Election"
  legalize_iron_guard:0 "Legalize [GetIronGuardName]"
+ #IRE
+ IRE_army_organisation:0 "Irish Defence Forces"
+ IRE_army_organisation_desc:0 "The Defence Forces of Ireland in 1936 was in a sorry state. Demobilised since the Civil War of 1922-23 and purposefully reduced since the failed Army Mutiny of 1924, the Army is no more than a couple front-line battalions, with several more territorial second-rate battalions in reserve. The Army is organised into four commands: the East, South, West and Curragh Commands, all of which are responsible for the defence of their assigned areas. The Curragh Command is comprised of the more advanced arms of the Army, including the mechanised Cavalry Corps and the Anti-Air Artillery. With only one squadron of bi-planes, the Aer Corps remains criminally under-funded and under-equipped like its ground counterpart, all the while no sort of Navy exists to protect the shores of the State."
  
  war_propaganda_casualties:0 "Exhort Heroism"
  war_propaganda_casualties_desc:0 "Although the death toll of our flying aces rises, our people must be taught that only in battle are heroes forged."

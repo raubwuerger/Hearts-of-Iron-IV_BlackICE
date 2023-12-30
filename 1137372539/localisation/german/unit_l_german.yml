@@ -422,9 +422,9 @@
  trm_light_amphibious_armor_recon:0 "Leichter amphibischer Aufklärungspanzer"
  
  trm_para_armor:0 "Luftlande-Panzer"
- trm_para_airbone_armor:0 "Luftlandepanzer (Gleiter)"
+ trm_para_airborne_armor:0 "Luftlandepanzer (Gleiter)"
  trm_para_armor_recon:0 "Luftlandepanzer-Aufklärung"
- trm_para_airbone_armor_recon:0 "Luftlandepanzer-Aufklärung (Gleiter)"
+ trm_para_airborne_armor_recon:0 "Luftlandepanzer-Aufklärung (Gleiter)"
  
  trm_amphibious_armor:0 "Amphibischer Panzer"
  trm_amphibious_armor_recon:0 "Amphibischer Panzer (Aufklärung)"
