@@ -1653,7 +1653,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  
  BAUXITE_NEED_TOOLTIP: "Wir haben [?avb_bauxite|0Y] Einheiten §YBauxit§! zur Verfügung.\n\nAktueller Raffinerieverbrauch: [?bauxite_need|Y0]\nMaximaler Raffinerieverbrauch: [?bauxite_need_max_t|Y0]"
  IRON_NEED_TOOLTIP: "Wir haben [?avb_iron|0Y] Einheiten von §YEisen§! zur Verfügung.\n\nAktueller Raffinerieverbrauch: [?iron_need|Y0]\nMaximaler Raffinerieverbrauch: [?iron_need_max_t|Y0]"
- COAL_NEED_TOOLTIP: "Wir haben [?avb_coal|0Y] Einheiten §YKohle§! zur Nutzung.\n\nAktueller Verbrauch: [?coal_need|Y0]\n -Stahlraffinerien: [?conversion_use_@coal|Y0]\n -Kraftstoff Raffinerien: [?conversion_use_fuel@coal|Y0]\n -Züge: [?train_use@coal|Y0]\n\nMaximaler Verbrauch: [?coal_need_max_t|Y0]\n -Stahlraffinerien: [?conversion_actual_use_@coal|Y0]\ n -Kraftstoffraffinerien: [?conversion_actual_use_fuel@coal|Y0]\n -Züge: [?train_use_target@coal|Y0]"
+ COAL_NEED_TOOLTIP: "Wir haben [?avb_coal|0Y] Einheiten §YKohle§! zur Nutzung.\n\nAktueller Verbrauch: [?coal_need|Y0]\n -Stahlraffinerien: [?conversion_use_@coal|Y0]\n -Kraftstoff Raffinerien: [?conversion_use_fuel@coal|Y0]\n -Züge: [?train_use@coal|Y0]\n\nMaximaler Verbrauch: [?coal_need_max_t|Y0]\n -Stahlraffinerien: [?conversion_actual_use_@coal|Y0]\n -Kraftstoffraffinerien: [?conversion_actual_use_fuel@coal|Y0]\n -Züge: [?train_use_target@coal|Y0]"
  FOOD_NEED_TOOLTIP: "Wir haben [?food_avb|0Y] Einheiten §YLebensmittel§! zur Verwendung.\n\nAktueller Lebensmittelverbrauch: [?food_need_now|Y0]"
  RESOURCE_C_M_TEXT:0 "C:\nM:"
  

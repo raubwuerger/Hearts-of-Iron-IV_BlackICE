@@ -9,7 +9,9 @@
  #---------------------------------
  
 
- BICE_STARTUP_DESC:0 "Updated for compatibility with HOI IV v1.13.6 and 'Arms Against Tyranny' DLC" BICE_STARTUP_GENERAL_DESC:0 ""
+ BICE_STARTUP_DESC:0 "Updated for compatibility with HOI IV v1.13.6 and 'Arms Against Tyranny' DLC" 
+ 
+ BICE_STARTUP_GENERAL_DESC:0 ""
  
  BICE_checksum_and_desc:0 "Checksum below should be: ($BICE_checksum$)" 
  BICE_checksum_desc:0 "Checksum should be:"
