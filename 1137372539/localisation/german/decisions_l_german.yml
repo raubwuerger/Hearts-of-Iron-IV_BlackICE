@@ -355,7 +355,7 @@
  ENG_sov_aid: "Sende Hilfe an die Sowjets"
  ENG_sov_shippment: "Senden Sie Teile und Vorräte an die Sowjets"
  CW_AIR_PLAN: "The PLAN"
- CW_AIR_PLAN_desc: "Aktuelle Trainingsstatistiken\n Jede Basis kann 100 Flugzeuge gleichzeitig ausbilden und jedes Flugzeug kann 10 Piloten ausbilden. Die Ausbildung eines durchschnittlichen Piloten dauert etwa 12 Wochen. \n Derzeit gibt es [?ENG.pilots_trained|G0] durch unser Programm \n Piloten insgesamt bereit für die Ausbildung [?ENG.pilots_available|G0]\n Trainerflugzeuge bereit [?ENG.trainers_available|Y0]\n Luftwaffenstützpunkte insgesamt [?ENG.training_bases|C0]\n\n Jede Woche fügen wir hinzu\n n [?trainer_produktion|G0] Flugzeuge \n [?pilots|G0] Piloten"
+ CW_AIR_PLAN_desc: "Aktuelle Trainingsstatistiken\n Jede Basis kann 100 Flugzeuge gleichzeitig ausbilden und jedes Flugzeug kann 10 Piloten ausbilden. Die Ausbildung eines durchschnittlichen Piloten dauert etwa 12 Wochen. \n Derzeit gibt es [?ENG.pilots_trained|G0] durch unser Programm \n Piloten insgesamt bereit für die Ausbildung [?ENG.pilots_available|G0]\n Trainerflugzeuge bereit [?ENG.trainers_available|Y0]\n Luftwaffenstützpunkte insgesamt [?ENG.training_bases|C0]\n\n Jede Woche fügen wir hinzu\n n [?trainer_production|G0] Flugzeuge \n [?pilots|G0] Piloten"
  increase_trainer_production: "Steigerung der Produktion von Schulflugzeugen"
  decrease_trainer_production: "Reduzierung der Produktion von Schulflugzeugen"
  send_fresh_pilots: "Senden Sie Piloten zur Ausbildung im PLAN"

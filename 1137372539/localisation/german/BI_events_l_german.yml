@@ -4084,7 +4084,7 @@
  kmt.562.d:0 "Einige unserer Generäle haben uns zugunsten der Angebote von [From.GetRulingParty] verlassen."
  kmt.562.a:0 "Das sieht nicht gut aus."
  kmt.563.t:0 "Ehemalige Kommunisten schließen sich unserem Militär an"
- kmt.563.d:0 "Unsere Angebote haben eine beträchtliche Anzahl militärischer Talente aus der hochautonomen kommunistischen Verwaltung in [From.Capital.Name] angezogen."
+ kmt.563.d:0 "Unsere Angebote haben eine beträchtliche Anzahl militärischer Talente aus der hochautonomen kommunistischen Verwaltung in [From.Capital.GetName] angezogen."
  kmt.563.a:0 "Dadurch können weitere Pläne problemlos umgesetzt werden."
  kmt.564.t:0 "Zu ersetzende lokale Beamte"
  kmt.564.d:0 "Die [From.GetRulingParty] hat einige Beamte geschickt, um unsere lokale Verwaltung zu ersetzen. Wenn wir dies zulassen, wird unsere Autonomie beendet."
