@@ -3528,7 +3528,7 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  WW1_air_control_desc:0 "Der umfangreiche Einsatz des Flugzeugs hat es modernen Armeen ermöglicht, das Schlachtfeld mit beispielloser Effizienz und Präzision zu beobachten und zu überwachen. Es ist an der Zeit, Flugzeuge zu entwickeln und Piloten auszubilden, um feindliche Flugzeuge zu zerstören."
  WW1_air_bomb:0 "Spezielle Bombenangriffseinheiten"
  WW1_air_bomb_desc:0 "Die Schaffung von Bombenangriffseinheiten aus Spezialflugzeugen und Waffen wird strategische Massenangriffe auf die Städte, die Industrie und den Versorgungsapparat eines feindlichen Landes ermöglichen."
- WW1_air_ground:0 "Fighter Strafing"
+ WW1_air_ground:0 "Präzise Bodenangriffe"
  WW1_air_ground_desc:0 "Durch die Anbringung schwerer Kanonen und Sprengstoffe an einem Flugzeug mit neuen Zieltechniken und -technologien können Kampfpiloten feindliche Bodentruppen präziser angreifen als Artillerie."
  WW1_air_naval:0 "Torpedobombardierung"
  WW1_air_naval_desc:0 "Torpedoboote werden aufgrund ihrer Wirksamkeit bei der Zerstörung großer Kriegsschiffe häufig in der Marine eingesetzt. Durch die Konstruktion von Flugzeugen zum Transport solcher Torpedos können Armee- und Marineflugzeuge feindliche Marinen effektiver angreifen und belästigen."
