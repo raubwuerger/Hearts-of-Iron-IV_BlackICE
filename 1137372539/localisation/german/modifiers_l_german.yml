@@ -1081,7 +1081,7 @@
  modifier_production_speed_air_assembly_factor_desc:0 "Ändert die Baugeschwindigkeit der Flugzeugmontageanlage"
  modifier_production_speed_engine_assembly_factor:0 "£construction_speed_texticon §YMotorenfabrik§! Baugeschwindigkeit"
  modifier_production_speed_engine_assembly_factor_desc:0 "Ändert die Geschwindigkeit der Baugeschwindigkeit der Motorenfabrik"
- modifier_production_speed_artillery_assembly_factor:0 "£construction_speed_texticon §YArtillery Foundry§! Baugeschwindigkeit"
+ modifier_production_speed_artillery_assembly_factor:0 "£construction_speed_texticon §YArtilleriegießerei§! Baugeschwindigkeit"
  modifier_production_speed_artillery_assembly_factor_desc:0 "Ändert die Baugeschwindigkeit der Artilleriegießerei"
  modifier_production_speed_farm_factor:0"£construction_speed_texticon §YIndustriebauernhof§! Baugeschwindigkeit"
  modifier_production_speed_farm_factor_desc:0"Ändert die Geschwindigkeit des Baus einer Industriefarm"

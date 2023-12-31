@@ -2,3 +2,5 @@ Strahlflugzeug
 Schwerer Sturzkampfbomber
 Strahlgetriebener Sturzkampfbomber
 Sturzkampfflugzeug
+
+Luft-Kraftstoffverbrauch
