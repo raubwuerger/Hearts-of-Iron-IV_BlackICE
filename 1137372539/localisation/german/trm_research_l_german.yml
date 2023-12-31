@@ -8,6 +8,13 @@
  trm_armour_ita_folder:0 "Italienische Panzer"
  trm_armour_usa_folder:0 "Amerikanische Panzer"
 
+ trm_armour_minor_swe_folder:0 "Schwedische Panzer"
+ trm_armour_minor_hun_folder:0 "Ungarische Panzer"
+ trm_armour_minor_pol_folder:0 "Polnische Panzer"
+ trm_armour_minor_cze_folder:0 "Tschechische Panzer"
+ 
+ trm_armour_minor_generic_folder:0 "Kleine Panzer"
+
  # SUPPORT TECHS ""
  tech_trm_tank_recon:0 "Gepanzerte Aufklärungskompanien"
  tech_trm_tank_recon_early:0 "Leichte Panzer-Aufklärungskompanien"
@@ -52,41 +59,53 @@
  tech_trm_special_smoke_discharger:0 "Rauchabwurfanlage"
  tech_trm_special_smoke_discharger_desc:0 "Einige Panzer sind mit fest installierten Granatwerfern mit kurzer Reichweite ausgestattet, die zur Verteidigung dienen. Diese Geräte feuerten in der Regel Rauchgranaten ab, um das Fahrzeug hinter einer Rauchwand zu verbergen, konnten aber auch mit Spreu, Leuchtraketen oder Antipersonengranaten bestückt werden, um Angriffe der Infanterie abzuwehren. Auf Fahrzeugen montierte Rauchgranatenwerfer wurden auch als Nebelwerfer bezeichnet."
 
- tech_trm_armour_construction_cast_partial_eng:0 "Teilweise gegossene Konstruktion"
+ tech_trm_armour_construction_cast_partial_eng:0 "Teilgegossene Konstruktion"
  tech_trm_armour_construction_cast_partial_eng_desc:0 "Bei der Gusskonstruktion wird ein einzelnes Stück Panzerung aus einer Form geformt. Mit dieser Methode lassen sich komplexere Formen herstellen, insbesondere abgerundete Panzerungen. Gusspanzer boten viele Vorteile - sie waren oft weich (d. h. nicht spröde) und dennoch stark und hart, und sie waren schneller als das Schweißen. Die Nachteile waren, dass sie ressourcenkostenintensiv waren, da mehr Stahl als bei anderen Konstruktionsmethoden benötigt wurde, und dass sie sehr qualifizierte Arbeitskräfte und viel Know-how erforderten, um Qualitätspanzer zu gießen."
 
- tech_trm_armour_construction_cast_partial_ger:0 "Teilweise gegossene Konstruktion"
+ tech_trm_armour_construction_cast_partial_ger:0 "Teilgegossene Konstruktion"
  tech_trm_armour_construction_cast_partial_ger_desc:0 "Beim Guss handelt es sich um ein einzelnes Stück einer Panzerung, das aus einer Form geformt wird. Mit dieser Methode lassen sich komplexere Formen herstellen, insbesondere abgerundete Panzerungen. Das Gießen eines gepanzerten Fahrzeugs bot viele Vorteile - gegossene Panzerung war oft weich (d. h. nicht spröde) und dennoch stark und hart, und sie war schneller als das Schweißen. Die Nachteile waren, dass sie ressourcenkostenintensiv war, da mehr Stahl als bei anderen Konstruktionsmethoden benötigt wurde, und dass sie sehr qualifizierte Arbeitskräfte und viel Know-how erforderte, um hochwertige Panzerung zu gießen."
 
- tech_trm_armour_construction_cast_partial_ita:0 "Teilweise gegossene Konstruktion"
+ tech_trm_armour_construction_cast_partial_ita:0 "Teilgegossene Konstruktion"
  tech_trm_armour_construction_cast_partial_ita_desc:0 "Beim Guss handelt es sich um ein einzelnes Stück einer Panzerung, das aus einer Form geformt wird. Mit dieser Methode lassen sich komplexere Formen herstellen, insbesondere abgerundete Panzerungen. Das Gießen eines gepanzerten Fahrzeugs bot viele Vorteile - gegossene Panzerung war oft weich (d. h. nicht spröde) und dennoch stark und hart, und sie war schneller als das Schweißen. Die Nachteile waren, dass sie ressourcenkostenintensiv war, da mehr Stahl als bei anderen Konstruktionsmethoden benötigt wurde, und dass sie sehr qualifizierte Arbeitskräfte und viel Know-how erforderte, um hochwertige Panzerung zu gießen."
 
- tech_trm_armour_construction_cast_partial_jap:0 "Teilweise gegossene Konstruktion"
+ tech_trm_armour_construction_cast_partial_jap:0 "Teilgegossene Konstruktion"
  tech_trm_armour_construction_cast_partial_jap_desc:0 "Beim Guss handelt es sich um ein einzelnes Stück einer Panzerung, das aus einer Form geformt wird. Mit dieser Methode lassen sich komplexere Formen herstellen, insbesondere abgerundete Panzerungen. Das Gießen eines gepanzerten Fahrzeugs bot viele Vorteile - gegossene Panzerung war oft weich (d. h. nicht spröde) und dennoch stark und hart, und sie war schneller als das Schweißen. Die Nachteile waren, dass sie ressourcenkostenintensiv war, da mehr Stahl als bei anderen Konstruktionsmethoden benötigt wurde, und dass sie sehr qualifizierte Arbeitskräfte und viel Know-how erforderte, um hochwertige Panzerung zu gießen."
 
- tech_trm_armour_construction_cast_partial_sov:0 "Teilweise gegossene Konstruktion"
+ tech_trm_armour_construction_cast_partial_sov:0 "Teilgegossene Konstruktion"
  tech_trm_armour_construction_cast_partial_sov_desc:0 "Beim Guss handelt es sich um ein einzelnes Stück einer Panzerung, das aus einer Form geformt wird. Mit dieser Methode lassen sich komplexere Formen herstellen, insbesondere abgerundete Panzerungen. Das Gießen eines gepanzerten Fahrzeugs bot viele Vorteile - gegossene Panzerung war oft weich (d. h. nicht spröde) und dennoch stark und hart, und sie war schneller als das Schweißen. Die Nachteile waren, dass sie ressourcenkostenintensiv war, da mehr Stahl als bei anderen Konstruktionsmethoden benötigt wurde, und dass sie sehr qualifizierte Arbeitskräfte und viel Know-how erforderte, um hochwertige Panzerung zu gießen."
 
- tech_trm_armour_construction_cast_partial_usa:0 "Teilweise gegossene Konstruktion"
+ tech_trm_armour_construction_cast_partial_usa:0 "Teilgegossene Konstruktion"
  tech_trm_armour_construction_cast_partial_usa_desc:0 "Beim Guss handelt es sich um ein einzelnes Stück einer Panzerung, das aus einer Form geformt wird. Mit dieser Methode lassen sich komplexere Formen herstellen, insbesondere abgerundete Panzerungen. Gusspanzer boten viele Vorteile - sie waren oft weich (d. h. nicht spröde) und dennoch stark und hart, und sie waren schneller als das Schweißen. Die Nachteile waren, dass sie teuer waren, da mehr Stahl als bei anderen Konstruktionsmethoden benötigt wurde, und dass sie sehr qualifizierte Arbeitskräfte und viel Know-how erforderten, um Qualitätspanzer zu gießen."
 
+ tech_trm_armour_construction_cast_partial_swe:0 "Teilgegossene Konstruktion"
+ tech_trm_armour_construction_cast_partial_swe_desc:0 "Beim Gießen handelte es sich praktisch um ein einzelnes Stück Panzerung, das aus einer Form geformt wurde. Mit dieser Methode können komplexere Formen hergestellt werden, insbesondere abgerundete Panzerungen. Das Gießen von Rüstungen bot viele Vorteile – sie waren oft weich ( d. h. nicht spröde) und immer noch stark und hart und gleichzeitig schneller als Schweißen.\n\nDie Nachteile bestanden darin, dass es ressourcenintensiv war, da es mehr Stahl als andere Konstruktionsmethoden benötigte und sehr qualifizierte Arbeitskräfte und viel Know-how erforderte, um Qualität zu gießen Panzerung.\n\nAnfangs wurden Gussstücke nur für die Herstellung von Teilen von Wannen oder Türmen verwendet."
+ 
+ tech_trm_armour_construction_cast_partial_hun:0 "Teilgegossene Konstruktion"
+ tech_trm_armour_construction_cast_partial_hun_desc:0 "Beim Gießen handelte es sich praktisch um ein einzelnes Stück Panzerung, das aus einer Form geformt wurde. Mit dieser Methode können komplexere Formen hergestellt werden, insbesondere abgerundete Panzerungen. Das Gießen von Rüstungen bot viele Vorteile – sie waren oft weich ( d. h. nicht spröde) und immer noch stark und hart und gleichzeitig schneller als Schweißen.\n\nDie Nachteile bestanden darin, dass es ressourcenintensiv war, da es mehr Stahl als andere Konstruktionsmethoden benötigte und sehr qualifizierte Arbeitskräfte und viel Know-how erforderte, um Qualität zu gießen Panzerung.\n\nAnfangs wurden Gussstücke nur für die Herstellung von Teilen von Wannen oder Türmen verwendet."
+
  tech_trm_armour_construction_cast_eng:0 "Gegossene Konstruktion"
- tech_trm_armour_construction_cast_eng_desc:0 "Vollständige Fähigkeit zum Gießen der Hauptteile eines Panzers."
+ tech_trm_armour_construction_cast_eng_desc:0 "Fähigkeit zum vollständigen Gießen der Hauptteile eines Panzers."
 
- tech_trm_armour_construction_cast_ger:0 "Guss-Konstruktion"
- tech_trm_armour_construction_cast_ger_desc:0 "Vollständige Gussfähigkeit der Hauptteile eines Panzers."
+ tech_trm_armour_construction_cast_ger:0 "Gegossene Konstruktion"
+ tech_trm_armour_construction_cast_ger_desc:0 "Fähigkeit zum vollständigen Gießen der Hauptteile eines Panzers."
 
- tech_trm_armour_construction_cast_ita:0 "Guss-Konstruktion"
- tech_trm_armour_construction_cast_ita_desc:0 "Vollständige Gussfähigkeit der Hauptteile eines Panzers."
+ tech_trm_armour_construction_cast_ita:0 "Gegossene Konstruktion"
+ tech_trm_armour_construction_cast_ita_desc:0 "Fähigkeit zum vollständigen Gießen der Hauptteile eines Panzers."
 
- tech_trm_armour_construction_cast_jap:0 "Guss-Konstruktion"
- tech_trm_armour_construction_cast_jap_desc:0 "Vollständige Gussfähigkeit der Hauptteile eines Panzers."
+ tech_trm_armour_construction_cast_jap:0 "Gegossene Konstruktion"
+ tech_trm_armour_construction_cast_jap_desc:0 "Fähigkeit zum vollständigen Gießen der Hauptteile eines Panzers."
 
- tech_trm_armour_construction_cast_sov:0 "Guss-Konstruktion"
- tech_trm_armour_construction_cast_sov_desc:0 "Vollständige Gussfähigkeit der Hauptteile eines Panzers."
+ tech_trm_armour_construction_cast_sov:0 "Gegossene Konstruktion"
+ tech_trm_armour_construction_cast_sov_desc:0 "Fähigkeit zum vollständigen Gießen der Hauptteile eines Panzers."
 
- tech_trm_armour_construction_cast_usa:0 "Guss-Konstruktion"
- tech_trm_armour_construction_cast_usa_desc:0 "Vollständige Fähigkeit zum Gießen der Hauptteile eines Panzers."
+ tech_trm_armour_construction_cast_usa:0 "Gegossene Konstruktion"
+ tech_trm_armour_construction_cast_usa_desc:0 "Fähigkeit zum vollständigen Gießen der Hauptteile eines Panzers."
+
+ tech_trm_armour_construction_cast_swe:0 "Gegossene Konstruktion"
+ tech_trm_armour_construction_cast_swe_desc:0 "Fähigkeit zum vollständigen Gießen der Hauptteile eines Panzers."
+ 
+ tech_trm_armour_construction_cast_hun:0 "Gegossene Konstruktion"
+ tech_trm_armour_construction_cast_hun_desc:0 "Fähigkeit zum vollständigen Gießen der Hauptteile eines Panzers."
 
  tech_trm_armour_construction_cast_improved_eng:0 "Verbessertes Gießen"
  tech_trm_armour_construction_cast_improved_eng_desc:0 "Bessere Gießtechniken."
@@ -95,39 +114,51 @@
  tech_trm_armour_construction_cast_improved_fra_desc:0 "Bessere Gießtechniken."
 
  tech_trm_armour_construction_cast_improved_ger:0 "Verbessertes Gießen"
- tech_trm_armour_construction_cast_improved_ger_desc:0 "Bessere Wurftechniken."
+ tech_trm_armour_construction_cast_improved_ger_desc:0 "Bessere Gießtechniken."
 
- tech_trm_armour_construction_cast_improved_ita:0 "Verbessertes Casting"
- tech_trm_armour_construction_cast_improved_ita_desc:0 "Bessere Wurftechniken."
+ tech_trm_armour_construction_cast_improved_ita:0 "Verbessertes Gießen"
+ tech_trm_armour_construction_cast_improved_ita_desc:0 "Bessere Gießtechniken."
 
- tech_trm_armour_construction_cast_improved_jap:0 "Verbessertes Casting"
- tech_trm_armour_construction_cast_improved_jap_desc:0 "Bessere Wurftechniken."
+ tech_trm_armour_construction_cast_improved_jap:0 "Verbessertes Gießen"
+ tech_trm_armour_construction_cast_improved_jap_desc:0 "Bessere Gießtechniken."
 
- tech_trm_armour_construction_cast_improved_sov:0 "Verbessertes Casting"
- tech_trm_armour_construction_cast_improved_sov_desc:0 "Bessere Wurftechniken."
+ tech_trm_armour_construction_cast_improved_sov:0 "Verbessertes Gießen"
+ tech_trm_armour_construction_cast_improved_sov_desc:0 "Bessere Gießtechniken."
 
- tech_trm_armour_construction_cast_improved_usa:0 "Verbessertes Casting"
+ tech_trm_armour_construction_cast_improved_usa:0 "Verbessertes Gießen"
  tech_trm_armour_construction_cast_improved_usa_desc:0 "Bessere Gießtechniken."
+
+ tech_trm_armour_construction_cast_improved_swe:0 "Verbessertes Gießen"
+ tech_trm_armour_construction_cast_improved_swe_desc:0 "Bessere Gießtechniken."
+ 
+ tech_trm_armour_construction_cast_improved_hun:0 "Verbessertes Gießen"
+ tech_trm_armour_construction_cast_improved_hun_desc:0 "Bessere Gießtechniken."
 
  tech_trm_armour_construction_cast_round_eng:0 "Abgerundete Türme gießen"
  tech_trm_armour_construction_cast_round_eng_desc:0 "Abgerundete Geschütztürme waren die letzte Stufe in der Entwicklung der Geschützturmtechnologie des Zweiten Weltkriegs. Die stark abgerundete Oberfläche aus Stahlguss bedeutete, dass die Winkel auf der gesamten Oberfläche stark variierten, was die Wahrscheinlichkeit erhöhte, dass ein AP-Geschoss vollen Kalibers vom Fahrzeug abprallte. Außerdem war der Turm dadurch leichter und unauffälliger, so dass er schwerer zu treffen war. Der größte Nachteil war der geringere Platz im Inneren für Ausrüstung und Besatzung."
 
- tech_trm_armour_construction_cast_round_fra:0 "Abgerundeter Geschützturm Guss"
+ tech_trm_armour_construction_cast_round_fra:0 "Abgerundeter Guss-Geschützturm"
  tech_trm_armour_construction_cast_round_fra_desc:0 "Abgerundete Geschütztürme waren die letzte Entwicklungsstufe der Geschützturmtechnologie des Zweiten Weltkriegs. Die stark abgerundete Oberfläche aus Stahlguss bedeutete, dass die Winkel auf der gesamten Oberfläche stark variierten, was die Wahrscheinlichkeit erhöhte, dass ein AP-Geschoss vollen Kalibers vom Fahrzeug abprallte. Außerdem war der Turm dadurch leichter und unauffälliger, so dass er schwerer zu treffen war. Der größte Nachteil war der geringere Platz im Inneren für Ausrüstung und Besatzung."
- tech_trm_armour_construction_cast_round_ger:0 "Abgerundeter Geschützturm Guss"
+ tech_trm_armour_construction_cast_round_ger:0 "Abgerundeter Guss-Geschützturm"
  tech_trm_armour_construction_cast_round_ger_desc:0 "Abgerundete Geschütztürme waren die letzte Entwicklungsstufe der Geschützturmtechnologie des Zweiten Weltkriegs. Die stark abgerundete Oberfläche aus Stahlguss bedeutete, dass die Winkel auf der gesamten Oberfläche stark variierten, was die Wahrscheinlichkeit erhöhte, dass ein AP-Geschoss vollen Kalibers vom Fahrzeug abprallte. Außerdem war der Turm dadurch leichter und unauffälliger, so dass er schwerer zu treffen war. Der größte Nachteil war der geringere Platz im Inneren für Ausrüstung und Besatzung."
 
- tech_trm_armour_construction_cast_round_ita:0 "Abgerundeter Geschützturm Guss"
+ tech_trm_armour_construction_cast_round_ita:0 "Abgerundeter Guss-Geschützturm"
  tech_trm_armour_construction_cast_round_ita_desc:0 "Abgerundete Geschütztürme waren die letzte Entwicklungsstufe der Geschützturmtechnologie des Zweiten Weltkriegs. Die stark abgerundete Oberfläche aus Stahlguss bedeutete, dass die Winkel auf der gesamten Oberfläche stark variierten, was die Wahrscheinlichkeit erhöhte, dass ein AP-Geschoss vollen Kalibers vom Fahrzeug abprallte. Außerdem war der Turm dadurch leichter und unauffälliger, so dass er schwerer zu treffen war. Der größte Nachteil war der geringere Platz im Inneren für Ausrüstung und Besatzung."
 
- tech_trm_armour_construction_cast_round_jap:0 "Abgerundeter Geschützturm Guss"
+ tech_trm_armour_construction_cast_round_jap:0 "Abgerundeter Guss-Geschützturm"
  tech_trm_armour_construction_cast_round_jap_desc:0 "Abgerundete Geschütztürme waren die letzte Entwicklungsstufe der Geschützturmtechnologie des Zweiten Weltkriegs. Die stark abgerundete Oberfläche aus Stahlguss bedeutete, dass die Winkel auf der gesamten Oberfläche stark variierten, was die Wahrscheinlichkeit erhöhte, dass ein AP-Geschoss vollen Kalibers vom Fahrzeug abprallte. Außerdem war der Turm dadurch leichter und unauffälliger, so dass er schwerer zu treffen war. Der größte Nachteil war der geringere Platz im Inneren für Ausrüstung und Besatzung."
 
- tech_trm_armour_construction_cast_round_sov:0 "Abgerundeter Geschützturm Guss"
+ tech_trm_armour_construction_cast_round_sov:0 "Abgerundeter Guss-Geschützturm"
  tech_trm_armour_construction_cast_round_sov_desc:0 "Abgerundete Geschütztürme waren die letzte Entwicklungsstufe der Geschützturmtechnologie des Zweiten Weltkriegs. Die stark abgerundete Oberfläche aus Stahlguss bedeutete, dass die Winkel auf der gesamten Oberfläche stark variierten, was die Wahrscheinlichkeit erhöhte, dass ein AP-Geschoss vollen Kalibers vom Fahrzeug abprallte. Außerdem war der Turm dadurch leichter und unauffälliger, so dass er schwerer zu treffen war. Der größte Nachteil war der geringere Platz im Inneren für Ausrüstung und Besatzung."
 
- tech_trm_armour_construction_cast_round_usa:0 "Abgerundeter Geschützturm Guss"
+ tech_trm_armour_construction_cast_round_usa:0 "Abgerundeter Guss-Geschützturm"
  tech_trm_armour_construction_cast_round_usa_desc:0 "Abgerundete Geschütztürme waren die letzte Entwicklungsstufe der Geschützturmtechnologie des Zweiten Weltkriegs. Die stark abgerundete Oberfläche aus Stahlguss bedeutete, dass die Winkel auf der gesamten Oberfläche stark variierten, was die Wahrscheinlichkeit erhöhte, dass ein AP-Geschoss vollen Kalibers vom Fahrzeug abprallte. Außerdem war der Turm dadurch leichter und unauffälliger, so dass er schwerer zu treffen war. Der größte Nachteil war der geringere Platz im Inneren für Ausrüstung und Besatzung."
+
+tech_trm_armour_construction_cast_round_swe:0 "Abgerundeter Guss-Geschützturm"
+ tech_trm_armour_construction_cast_round_swe_desc:0 "Abgerundete Türme waren die letzte Stufe in der Entwicklung der Turmtechnologie im Zweiten Weltkrieg. Durch die Verwendung von Stahlguss sorgte die stark abgerundete Oberfläche dafür, dass die Spielwinkel über die gesamte Oberfläche stark variierten, wodurch die Wahrscheinlichkeit maximiert wurde, dass eine vollkalibrige AP-Patrone abprallen würde Dadurch wurde der Turm leichter und hatte ein niedriges Profil, was bedeutete, dass er schwerer zu treffen war. Sein Hauptnachteil war der geringere Innenraum für Ausrüstung oder Besatzung."
+ 
+ tech_trm_armour_construction_cast_round_hun:0 "Abgerundeter Guss-Geschützturm"
+ tech_trm_armour_construction_cast_round_hun_desc:0 "Abgerundete Türme waren die letzte Stufe in der Entwicklung der Turmtechnologie im Zweiten Weltkrieg. Durch die Verwendung von Stahlguss sorgte die stark abgerundete Oberfläche dafür, dass die Spielwinkel über die gesamte Oberfläche stark variierten, wodurch die Wahrscheinlichkeit maximiert wurde, dass ein vollkalibriges AP-Geschoss abprallen würde Dadurch wurde der Turm leichter und hatte ein niedriges Profil, was bedeutete, dass er schwerer zu treffen war. Sein Hauptnachteil war der geringere Innenraum für Ausrüstung oder Besatzung."
 
  tech_trm_armour_construction_welded_eng:0 "Geschweißte Konstruktion"
  tech_trm_armour_construction_welded_eng_desc:0 "Der Übergang vom Nieten zum Schweißen begann 1934, als modifizierte Versionen der sowjetischen Panzer BT und T-26 mit Hilfe der aus Deutschland übernommenen Schweißtechnik hergestellt wurden, wo das Schweißen ebenfalls ab 1934 eingesetzt wurde. Andere Länder folgten sechs oder sieben Jahre später, und so wurde das Schweißen zur Standardmethode für die Herstellung der meisten gepanzerten Fahrzeuge. Die Vorteile des Schweißens liegen darin, dass es ein leichtes und relativ schnelles Verfahren zum Verbinden von Panzern ist - die Toleranz und die Fehlertoleranz sind ebenfalls höher - und außerdem kann man eine gröbere Schweißnaht anbringen, um Lücken auszugleichen. Die Qualitätskontrolle war extrem schnell, und Probleme ließen sich leicht erkennen.\n\n Der größte und wahrscheinlich einzige Nachteil war, dass es im Vergleich zu anderen Techniken viel Geschick und Know-how erforderte. So konnten Frauen beispielsweise Tanks mit Nieten herstellen, aber beim Schweißen war dies unmöglich."
@@ -141,6 +172,9 @@
  tech_trm_armour_construction_welded_usa:0 "Geschweißte Konstruktion"
  tech_trm_armour_construction_welded_usa_desc:0 "Der Übergang vom Nieten zum Schweißen begann 1934, als modifizierte Versionen der sowjetischen Panzer BT und T-26 mit der aus Deutschland übernommenen Schweißtechnik hergestellt wurden. Andere Länder folgten sechs oder sieben Jahre später, und so wurde das Schweißen zur Standardmethode für die Herstellung der meisten gepanzerten Fahrzeuge. Die Vorteile des Schweißens liegen darin, dass es ein leichtes und relativ schnelles Verfahren zum Verbinden von Panzern ist - die Toleranz und die Fehlertoleranz sind ebenfalls höher - und außerdem kann man eine gröbere Schweißnaht anbringen, um Lücken auszugleichen. Die Qualitätskontrolle war extrem schnell, und Probleme ließen sich leicht erkennen.\n\n Der größte und wahrscheinlich einzige Nachteil war, dass es im Vergleich zu anderen Techniken viel Geschick und Know-how erforderte. So konnten Frauen beispielsweise Panzer mit Nieten herstellen, aber beim Schweißen war dies unmöglich."
 
+ tech_trm_armour_construction_welded_hun:0 "Geschweißte Konstruktion"
+ tech_trm_armour_construction_welded_hun_desc:0 "Der Wechsel vom Nieten zum Schweißen begann im Jahr 1934, als modifizierte Versionen der sowjetischen BT- und T-26-Panzer mit der aus Deutschland übernommenen Schweißtechnologie hergestellt wurden, wo auch Schweißen eingesetzt wurde, sobald mit der Panzerproduktion begonnen wurde 1934. Andere Länder folgten sechs oder sieben Jahre später und wurden zum Standardverfahren für die Herstellung der meisten gepanzerten Fahrzeuge.\n\nDer Vorteil des Schweißens besteht darin, dass es ein geringes Gewicht und eine relativ schnelle Möglichkeit zum Verbinden von Panzerungen bietet – die Toleranz und die Fehlerquote ist auch höher – und außerdem kann man eine gröbere Schweißnaht anbringen, um Lücken auszugleichen. Die Qualitätskontrolle verlief extrem schnell und Probleme konnten leicht erkannt werden.\n\nDer größte und wahrscheinlich einzige Nachteil war, dass es viel Geschick und Know-how erforderte im Vergleich zu anderen Techniken. Beispielsweise konnten Frauen Tanks durch Nieten herstellen, aber beim Schweißen war dies unmöglich."
+
  tech_trm_armour_design_light_sloped_eng:0 "Leichte Schrägpanzerung"
  tech_trm_armour_design_light_sloped_eng_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Menge an Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für die Besatzung und die Ausrüstung benötigten Platz im Panzer erheblich verringert."
 
@@ -153,51 +187,63 @@
  tech_trm_armour_design_partial_sloped_usa:0 "Teilweise geneigte Panzerung"
  tech_trm_armour_design_partial_sloped_usa_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Menge an Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für die Besatzung und die Ausrüstung benötigten Platz im Panzer erheblich verringert."
 
+tech_trm_armour_design_partial_sloped_swe:0 "Teilweise geneigte Panzerung"
+ tech_trm_armour_design_partial_sloped_swe_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Menge an Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für die Besatzung und die Ausrüstung benötigten Platz im Panzer erheblich verringert."
+ 
+ tech_trm_armour_design_partial_sloped_hun:0 "Teilweise geneigte Panzerung"
+ tech_trm_armour_design_partial_sloped_hun_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Menge an Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für die Besatzung und die Ausrüstung benötigten Platz im Panzer erheblich verringert."
+
  tech_trm_armour_design_rounded_fra:0 "Abgerundete Panzerung"
  tech_trm_armour_design_rounded_fra_desc:0 "Mit einer abgerundeten Panzerung sind Sie gegen jeden Winkel besser geschützt (obwohl sie immer noch für die wahrscheinlichsten Winkel optimiert ist). Sie haben jedoch den Nachteil, dass immer die Möglichkeit besteht, dass ein Geschoss senkrecht zur abgerundeten Oberfläche auftrifft. Für Kugeln kann dies ein Problem darstellen, aber Explosionen werden in der Regel trotzdem abgelenkt, da sie eine große Fläche angreifen. Ein potenzieller Vorteil abgerundeter Panzerungsoberflächen besteht darin, dass Bögen die Kraft besser über eine Fläche verteilen als eine flache Oberfläche."
- tech_trm_armour_design_sloped_eng:0 "Schräge Panzerung"
+ tech_trm_armour_design_sloped_eng:0 "Abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_eng_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für die Besatzung und die Ausrüstung benötigten Platz im Panzer erheblich verringert."
 
- tech_trm_armour_design_sloped_fra:0 "Schräge Panzerung"
+ tech_trm_armour_design_sloped_fra:0 "Abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_fra_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für die Besatzung und die Ausrüstung benötigten Platz im Panzer erheblich verringert."
 
- tech_trm_armour_design_sloped_ger:0 "Schräge Panzerung"
+ tech_trm_armour_design_sloped_ger:0 "Abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_ger_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für die Besatzung und die Ausrüstung benötigten Platz im Panzer erheblich verringert."
 
- tech_trm_armour_design_sloped_ita:0 "Schräge Panzerung"
+ tech_trm_armour_design_sloped_ita:0 "Abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_ita_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für die Besatzung und die Ausrüstung benötigten Platz im Panzer erheblich verringert."
 
- tech_trm_armour_design_sloped_jap:0 "Schräge Panzerung"
+ tech_trm_armour_design_sloped_jap:0 "Abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_jap_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für die Besatzung und die Ausrüstung benötigten Platz im Panzer erheblich verringert."
 
- tech_trm_armour_design_sloped_sov:0 "Schräge Panzerung"
+ tech_trm_armour_design_sloped_sov:0 "Abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_sov_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für die Besatzung und die Ausrüstung benötigten Platz im Panzer erheblich verringert."
 
- tech_trm_armour_design_sloped_usa:0 "Schräge Panzerung"
+ tech_trm_armour_design_sloped_usa:0 "Abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_usa_desc:0 "Wenn eine Panzerplatte im Verhältnis zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerdicke bzw. die Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte. Darüber hinaus erhöht sich die Chance, ein eintreffendes Geschoss abzulenken oder zu verformen und ein Fahrzeug wirksamer zu schützen.\n\n Wie alles andere hat auch die schräge Panzerung zwei wesentliche Nachteile. Erstens verringert sich die Höhe der Platte, wenn sie abgewinkelt ist. Das hat zur Folge, dass die abgewinkelte Platte größer sein muss als eine flache, was zu einem höheren Gewicht führt. Der zweite große Nachteil ist, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei einer stark geneigten Panzerung den für die Besatzung und die Ausrüstung benötigten Platz im Inneren des Panzers erheblich verringert."
 
- tech_trm_armour_design_sloped_high_eng:0 "Hochgradig geneigte Panzerung"
+tech_trm_armour_design_sloped_swe:0 "Abgeschrägte Panzerung"
+ tech_trm_armour_design_sloped_swe_desc:0 "Wenn eine Panzerplatte relativ zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerungsdicke oder Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Menge Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte . Darüber hinaus erhöht es die Wahrscheinlichkeit, dass ein ankommendes Geschoss abgelenkt oder deformiert wird, und schützt ein Fahrzeug effizienter.\n\nWie alles hat geneigte Panzerung zwei Hauptnachteile. Erstens verringert sich die Höhe einer Platte, wenn sie angewinkelt wird. Als Infolgedessen muss die abgewinkelte Platte größer sein als eine flache, was zu mehr Gewicht führt. Der zweite große Nachteil besteht darin, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für Besatzung und Ausrüstung benötigten Platz im Panzer erheblich verringert."
+ 
+ tech_trm_armour_design_sloped_hun:0 "Abgeschrägte Panzerung"
+ tech_trm_armour_design_sloped_hun_desc:0 "Wenn eine Panzerplatte relativ zum Angriffswinkel geneigt ist, erhöht sich die relative Panzerungsdicke oder Sichtlinie. Der panzerbrechende Schuss muss daher eine größere Menge Panzerung durchdringen als die tatsächliche Dicke der Panzerplatte . Darüber hinaus erhöht es die Wahrscheinlichkeit, dass ein ankommendes Geschoss abgelenkt oder deformiert wird, und schützt ein Fahrzeug effizienter.\n\nWie alles hat geneigte Panzerung zwei Hauptnachteile. Erstens verringert sich die Höhe einer Platte, wenn sie angewinkelt wird. Als Infolgedessen muss die abgewinkelte Platte größer sein als eine flache, was zu mehr Gewicht führt. Der zweite große Nachteil besteht darin, dass eine abgewinkelte Panzerung zwar den Schutz erhöht, aber bei starker Neigung den für Besatzung und Ausrüstung benötigten Platz im Panzer erheblich verringert."
+
+ tech_trm_armour_design_sloped_high_eng:0 "Hochgradig abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_high_eng_desc:0 "Maximale Neigung."
 
- tech_trm_armour_design_sloped_high_fra:0 "Hochgradig geneigte Panzerung"
- tech_trm_armour_design_sloped_high_fra_desc:0 "Maximaler Neigungswinkel."
+ tech_trm_armour_design_sloped_high_fra:0 "Hochgradig abgeschrägte Panzerung"
+ tech_trm_armour_design_sloped_high_fra_desc:0 "Maximale Neigung."
 
- tech_trm_armour_design_sloped_high_ita:0 "Hochgradig geneigte Panzerung"
+ tech_trm_armour_design_sloped_high_ita:0 "Hochgradig abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_high_ita_desc:0 "Maximale Neigung."
 
- tech_trm_armour_design_sloped_high_jap:0 "Stark abgeschrägte Panzerkonstruktion"
+ tech_trm_armour_design_sloped_high_jap:0 "Hochgradig abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_high_jap_desc:0 "Maximale Neigung."
 
- tech_trm_armour_design_sloped_high_usa:0 "Stark abgeschrägte Panzerkonstruktion"
+ tech_trm_armour_design_sloped_high_usa:0 "Hochgradig abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_high_usa_desc:0 "Maximale Neigung."
 
- tech_trm_armour_design_sloped_heavy_sov:0 "Stark abgeschrägte Panzerung"
- tech_trm_armour_design_sloped_heavy_sov_desc:0 "Erhöhter Winkel der schrägen Panzerung."
+ tech_trm_armour_design_sloped_heavy_sov:0 "Hochgradig abgeschrägte Panzerung"
+ tech_trm_armour_design_sloped_heavy_sov_desc:0 "Maximale Neigung."
 
- tech_trm_armour_design_sloped_pike_sov:0 "Hochgradig geneigte Panzerung"
+ tech_trm_armour_design_sloped_pike_sov:0 "Hochgradig abgeschrägte Panzerung"
  tech_trm_armour_design_sloped_pike_sov_desc:0 "Maximale Neigung."
 
-  tech_trm_engine_diesel_basic_eng:0 "Basis-Dieselmotoren"
+  tech_trm_engine_diesel_basic_eng:0 "Einfache Dieselmotoren"
  tech_trm_engine_diesel_basic_eng_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment (bessere Geländegängigkeit) als Benzinmotoren. Auf der anderen Seite sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinmotoren etwas einschränkt."
  tech_trm_engine_diesel_basic_ger:0 "Einfache Dieselmotoren"
  tech_trm_engine_diesel_basic_ger_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment (bessere Geländegängigkeit) als Benzinmotoren. Auf der anderen Seite sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinmotoren leicht einschränkt."
@@ -205,13 +251,19 @@
  tech_trm_engine_diesel_basic_ita_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment (bessere Geländegängigkeit) als Benzinmotoren. Auf der anderen Seite sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinmotoren leicht einschränkt."
  tech_trm_engine_diesel_basic_usa:0 "Einfache Dieselmotoren"
  tech_trm_engine_diesel_basic_usa_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment (bessere Geländegängigkeit) als Benzinmotoren. Auf der anderen Seite sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinmotoren leicht einschränkt."
- tech_trm_engine_diesel_interwar_eng:0 "Dieselmotoren der Zwischenkriegszeit"
- tech_trm_engine_diesel_interwar_fra:0 "Dieselmotoren der Zwischenkriegszeit"
+ tech_trm_engine_diesel_basic_swe:0 "Einfache Dieselmotoren"
+ tech_trm_engine_diesel_basic_swe_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment (bessere Geländeleistung) als Benzinmotoren. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was geringfügig ist verringert ihre Manövrierfähigkeit im Vergleich zu Benzin."
+ tech_trm_engine_diesel_basic_hun:0 "Einfache Dieselmotoren"
+ tech_trm_engine_diesel_basic_hun_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment (bessere Geländeleistung) als Benzinmotoren. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was geringfügig ist verringert ihre Manövrierfähigkeit im Vergleich zu Benzin."
+ tech_trm_engine_diesel_interwar_eng:0 "Zwischenkriegs-Dieselmotoren"
+ tech_trm_engine_diesel_interwar_fra:0 "Zwischenkriegs-Dieselmotoren"
  tech_trm_engine_diesel_interwar_ger:0 "Zwischenkriegs-Dieselmotoren"
  tech_trm_engine_diesel_interwar_ita:0 "Zwischenkriegs-Dieselmotoren"
  tech_trm_engine_diesel_interwar_jap:0 "Zwischenkriegs-Dieselmotoren"
  tech_trm_engine_diesel_interwar_sov:0 "Zwischenkriegs-Dieselmotoren"
  tech_trm_engine_diesel_interwar_usa:0 "Zwischenkriegs-Dieselmotoren"
+ tech_trm_engine_diesel_interwar_swe:0 "Zwischenkriegs-Dieselmotoren"
+ tech_trm_engine_diesel_interwar_hun:0 "Zwischenkriegs-Dieselmotoren"
  tech_trm_engine_diesel_improved_eng:0 "Verbesserte Dieselmotoren"
  tech_trm_engine_diesel_improved_fra:0 "Verbesserte Dieselmotoren"
  tech_trm_engine_diesel_improved_ger:0 "Verbesserte Dieselmotoren"
@@ -219,6 +271,8 @@
  tech_trm_engine_diesel_improved_jap:0 "Verbesserte Dieselmotoren"
  tech_trm_engine_diesel_improved_sov:0 "Verbesserte Dieselmotoren"
  tech_trm_engine_diesel_improved_usa:0 "Verbesserte Dieselmotoren"
+ tech_trm_engine_diesel_improved_swe:0 "Verbesserte Dieselmotoren"
+ tech_trm_engine_diesel_improved_hun:0 "Verbesserte Dieselmotoren"
  tech_trm_engine_diesel_advanced_eng:0 "Verbesserte Dieselmotoren"
  tech_trm_engine_diesel_advanced_fra:0 "Fortgeschrittene Dieselmotoren"
  tech_trm_engine_diesel_advanced_ger:0 "Fortgeschrittene Dieselmotoren"
@@ -226,14 +280,18 @@
  tech_trm_engine_diesel_advanced_jap:0 "Fortgeschrittene Dieselmotoren"
  tech_trm_engine_diesel_advanced_sov:0 "Fortgeschrittene Dieselmotoren"
  tech_trm_engine_diesel_advanced_usa:0 "Fortschrittliche Dieselmotoren"
-
- tech_trm_engine_diesel_interwar_eng_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen bessere Geländeeigenschaften verleiht. Auf der anderen Seite sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinmotoren etwas einschränkt."
- tech_trm_engine_diesel_interwar_fra_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Auf der anderen Seite sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
+ tech_trm_engine_diesel_advanced_swe:0 "Fortschrittliche Dieselmotoren"
+ tech_trm_engine_diesel_advanced_hun:0 "Fortschrittliche Dieselmotoren"
+ 
+ tech_trm_engine_diesel_interwar_eng_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
+ tech_trm_engine_diesel_interwar_fra_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_interwar_ger_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_interwar_ita_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_interwar_jap_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_interwar_sov_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_interwar_usa_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
+ tech_trm_engine_diesel_interwar_swe_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
+ tech_trm_engine_diesel_interwar_hun_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
 
  tech_trm_engine_diesel_improved_eng_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_improved_fra_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
@@ -242,6 +300,8 @@
  tech_trm_engine_diesel_improved_jap_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_improved_sov_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_improved_usa_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
+ tech_trm_engine_diesel_improved_swe_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
+ tech_trm_engine_diesel_improved_hun_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
 
  tech_trm_engine_diesel_advanced_eng_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_advanced_fra_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
@@ -249,33 +309,41 @@
  tech_trm_engine_diesel_advanced_ita_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_advanced_jap_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
  tech_trm_engine_diesel_advanced_sov_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
- tech_trm_engine_diesel_advanced_usa_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Auf der anderen Seite sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinmotoren leicht einschränkt."
+ tech_trm_engine_diesel_advanced_usa_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
+ tech_trm_engine_diesel_advanced_swe_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
+ tech_trm_engine_diesel_advanced_hun_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Andererseits sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinern etwas einschränkt."
 
  tech_trm_engine_diesel_advanced_late_sov:0 "Große fortschrittliche Dieselmotoren"
  tech_trm_engine_diesel_advanced_late_sov_desc:0 "Dieselmotoren sind zuverlässiger, verbrauchen weniger Kraftstoff und haben ein höheres Drehmoment als Benzinmotoren, was ihnen eine bessere Geländegängigkeit verleiht. Auf der anderen Seite sind sie teurer in der Herstellung und haben eine geringere Beschleunigung und Höchstgeschwindigkeit, was ihre Manövrierfähigkeit im Vergleich zu Benzinmotoren etwas einschränkt."
 
- tech_trm_engine_gasoline_basic_eng:0 "Basis-Benzinmotoren"
- tech_trm_engine_gasoline_basic_fra:0 "Basis-Benzinmotoren"
- tech_trm_engine_gasoline_basic_ger:0 "Basis-Benzinmotoren"
- tech_trm_engine_gasoline_basic_ita:0 "Grundlegende Benzinmotoren"
- tech_trm_engine_gasoline_basic_jap:0 "Grundlegende Benzinmotoren"
- tech_trm_engine_gasoline_basic_sov:0 "Grundlegende Benzinmotoren"
- tech_trm_engine_gasoline_basic_usa:0 "Basis-Benzinmotoren"
+ tech_trm_engine_gasoline_basic_eng:0 "Einfache Benzinmotoren"
+ tech_trm_engine_gasoline_basic_fra:0 "Einfache Benzinmotoren"
+ tech_trm_engine_gasoline_basic_ger:0 "Einfache Benzinmotoren"
+ tech_trm_engine_gasoline_basic_ita:0 "Einfache Benzinmotoren"
+ tech_trm_engine_gasoline_basic_jap:0 "Einfache Benzinmotoren"
+ tech_trm_engine_gasoline_basic_sov:0 "Einfache Benzinmotoren"
+ tech_trm_engine_gasoline_basic_usa:0 "Einfache Benzinmotoren"
+ tech_trm_engine_gasoline_basic_swe:0 "Einfache Benzinmotoren"
+ tech_trm_engine_gasoline_basic_hun:0 "Einfache Benzinmotoren"
 
- tech_trm_engine_gasoline_basic_eng_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Höchstgeschwindigkeit als Dieselmotoren (und bieten eine bessere Manövrierfähigkeit als Dieselmotoren) und sind außerdem billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit verschlechtert."
+ tech_trm_engine_gasoline_basic_eng_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_basic_fra_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_basic_ger_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_basic_ita_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_basic_jap_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_basic_sov_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_basic_usa_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit verschlechtert."
+ tech_trm_engine_gasoline_basic_swe_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
+ tech_trm_engine_gasoline_basic_hun_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
 
  tech_trm_engine_gasoline_interwar_eng:0 "Zwischenkriegs-Benzinmotoren"
  tech_trm_engine_gasoline_interwar_fra:0 "Zwischenkriegs-Benzinmotoren"
  tech_trm_engine_gasoline_interwar_ger:0 "Zwischenkriegs-Benzinmotoren"
  tech_trm_engine_gasoline_interwar_ita:0 "Zwischenkriegs-Benzinmotoren"
  tech_trm_engine_gasoline_interwar_jap:0 "Zwischenkriegs-Benzinmotoren"
- tech_trm_engine_gasoline_interwar_usa:0 "Verbesserte Benzinmotoren"
+ tech_trm_engine_gasoline_interwar_usa:0 "Zwischenkriegs-Benzinmotoren"
+ tech_trm_engine_gasoline_interwar_swe:0 "Zwischenkriegs-Benzinmotoren"
+ tech_trm_engine_gasoline_interwar_hun:0 "Zwischenkriegs-Benzinmotoren"
  tech_trm_engine_gasoline_improved_eng:0 "Verbesserte Benzinmotoren"
  tech_trm_engine_gasoline_improved_fra:0 "Verbesserte Benzinmotoren"
  tech_trm_engine_gasoline_improved_ger:0 "Verbesserte Benzinmotoren"
@@ -283,6 +351,8 @@
  tech_trm_engine_gasoline_improved_jap:0 "Verbesserte Benzinmotoren"
  tech_trm_engine_gasoline_improved_sov:0 "Verbesserte Benzinmotoren"
  tech_trm_engine_gasoline_improved_usa:0 "Verbesserte Benzinmotoren"
+ tech_trm_engine_gasoline_improved_swe:0 "Verbesserte Benzinmotoren"
+ tech_trm_engine_gasoline_improved_hun:0 "Verbesserte Benzinmotoren"
  tech_trm_engine_gasoline_advanced_eng:0 "Verbesserte Benzinmotoren"
  tech_trm_engine_gasoline_advanced_fra:0 "Fortgeschrittene Benzinmotoren"
  tech_trm_engine_gasoline_advanced_ger:0 "Fortgeschrittene Benzinmotoren"
@@ -290,13 +360,17 @@
  tech_trm_engine_gasoline_advanced_jap:0 "Fortgeschrittene Benzinmotoren"
  tech_trm_engine_gasoline_advanced_sov:0 "Fortgeschrittene Benzinmotoren"
  tech_trm_engine_gasoline_advanced_usa:0 "Fortschrittliche Benzinmotoren"
+ tech_trm_engine_gasoline_advanced_swe:0 "Fortschrittliche Benzinmotoren"
+ tech_trm_engine_gasoline_advanced_hun:0 "Fortschrittliche Benzinmotoren"
 
- tech_trm_engine_gasoline_interwar_eng_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Höchstgeschwindigkeit als Dieselmotoren (und bieten eine bessere Manövrierfähigkeit als Dieselmotoren) und sind zudem billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit verschlechtert."
+ tech_trm_engine_gasoline_interwar_eng_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_interwar_fra_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_interwar_ger_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_interwar_ita_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_interwar_jap_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_interwar_usa_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
+ tech_trm_engine_gasoline_interwar_swe_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
+ tech_trm_engine_gasoline_interwar_hun_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
 
 
  tech_trm_engine_gasoline_improved_eng_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
@@ -306,6 +380,8 @@
  tech_trm_engine_gasoline_improved_jap_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_improved_sov_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_improved_usa_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
+ tech_trm_engine_gasoline_improved_swe_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
+ tech_trm_engine_gasoline_improved_hun_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
 
 
  tech_trm_engine_gasoline_advanced_eng_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
@@ -315,6 +391,8 @@
  tech_trm_engine_gasoline_advanced_jap_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_advanced_sov_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit beeinträchtigt."
  tech_trm_engine_gasoline_advanced_usa_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit verschlechtert."
+ tech_trm_engine_gasoline_advanced_swe_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit verschlechtert."
+ tech_trm_engine_gasoline_advanced_hun_desc:0 "Benzinmotoren haben eine höhere Beschleunigung und eine höhere Spitzenleistung als Dieselmotoren (und sind damit wendiger als Dieselmotoren), sind aber auch billiger in der Herstellung. Allerdings sind sie weniger zuverlässig, verbrauchen mehr Kraftstoff und haben ein geringeres Drehmoment, was ihre Geländegängigkeit verschlechtert."
 
  tech_trm_engine_radial_basic_usa:0 "Einfache Radial-Benzinmotoren"
  tech_trm_engine_radial_basic_usa_desc:0 "Radialmotoren waren angepasste Flugzeugmotoren für den Einsatz in Panzern. Sie wurden mit Benzin betrieben, waren luftgekühlt und hatten ein hohes Leistungsgewicht. Sie waren die schnellsten aller Motortypen, wenn es um Höchstgeschwindigkeit und Beschleunigung ging. Andererseits verbrauchten sie den meisten Kraftstoff, was ihre Geländegängigkeit beeinträchtigte, und ihre Zuverlässigkeit war die schlechteste von allen Motortypen. Ein weiterer Nachteil war, dass sie groß waren, was bedeutete, dass die Panzer ein hohes Profil hatten und daher nicht in der Lage waren, ihre überlegene Geschwindigkeit für die taktische Manövrierfähigkeit voll auszunutzen.\n\nDurch die Möglichkeit, Flugmotoren zu verwenden, standen den USA in frühen Entwicklungsstadien sehr leistungsstarke Motoren zur Verfügung."
@@ -334,26 +412,31 @@
  tech_trm_ergonomics_improved_usa_desc:0 "Verbesserte Ergonomie"
  tech_trm_ergonomics_standard_sov_desc:0 "Standard-Ergonomie"
 
- tech_trm_gearbox_standard_eng:0 "Standard-Getriebe"
- tech_trm_gearbox_standard_fra:0 "Standard-Getriebe"
- tech_trm_gearbox_standard_ita:0 "Standard-Getriebe"
- tech_trm_gearbox_standard_jap:0 "Standard-Getriebe"
- tech_trm_gearbox_standard_sov:0 "Standard-Getriebe"
- tech_trm_gearbox_standard_usa:0 "Standard-Getriebe"
- tech_trm_gearbox_advanced_eng:0 "Erweitertes Getriebe"
- tech_trm_gearbox_advanced_fra:0 "Erweitertes Getriebe"
+ tech_trm_gearbox_standard_eng:0 "Standardgetriebe"
+ tech_trm_gearbox_standard_fra:0 "Standardgetriebe"
+ tech_trm_gearbox_standard_ita:0 "Standardgetriebe"
+ tech_trm_gearbox_standard_jap:0 "Standardgetriebe"
+ tech_trm_gearbox_standard_sov:0 "Standardgetriebe"
+ tech_trm_gearbox_standard_usa:0 "Standardgetriebe"
+ tech_trm_gearbox_standard_swe:0 "Standardgetriebe"
+ tech_trm_gearbox_standard_hun:0 "Standardgetriebe"
+ tech_trm_gearbox_advanced_eng:0 "Fortschrittliches Getriebe"
+ tech_trm_gearbox_advanced_fra:0 "Fortschrittliches Getriebe"
  tech_trm_gearbox_advanced_ger:0 "Fortschrittliches Getriebe"
  tech_trm_gearbox_advanced_ita:0 "Fortgeschrittenes Getriebe"
- tech_trm_gearbox_advanced_jap:0 "Erweitertes Getriebe"
+ tech_trm_gearbox_advanced_jap:0 "Fortschrittliches Getriebe"
  tech_trm_gearbox_advanced_sov:0 "Fortgeschrittenes Getriebe"
  tech_trm_gearbox_advanced_usa:0 "Fortgeschrittenes Getriebe"
+ tech_trm_gearbox_advanced_swe:0 "Fortschrittliches Getriebe"
+ tech_trm_gearbox_advanced_hun:0 "Fortschrittliches Getriebe"
  tech_trm_special_cupola_eng:0 "Kommandantenkuppel"
  tech_trm_special_cupola_fra:0 "Kommandantenkuppel"
  tech_trm_special_cupola_ita:0 "Kommandantenkuppel"
- tech_trm_special_cupola_sov:0 "Commander-Kuppel"
- tech_trm_special_deep_wading_eng:0 "Deep Wading Kit"
+ tech_trm_special_cupola_sov:0 "Kommandantenkuppel"
+ tech_trm_special_cupola_swe:0 "Kommandantenkuppel"
+ tech_trm_special_deep_wading_eng:0 "Tiefwasserausrüstung"
  tech_trm_special_deep_wading_eng_desc:0 "Verwendbar für:\n -Centaur (A27L)\n -Cromwell (A27M)\n -Churchill (A22/A43)\n\nTiefes Waten oder tiefes Durchwaten ist eine Technik, die von einigen schweren halbamphibischen Fahrzeugen verwendet wird, um mehrere Meter tiefes Wasser zu durchqueren - das Fahrzeug fährt auf dem Flussbett//Seebett//Seegrund und verwendet Schirme oder ein Rohr (einen Schnorchel), das zur Luftzufuhr über die Wasseroberfläche reicht."
- tech_trm_special_deep_wading_usa:0 "Deep Wading Kit"
+ tech_trm_special_deep_wading_usa:0 "Tiefwasserausrüstung"
  tech_trm_special_deep_wading_usa_desc:0 "Verwendbar auf dem M5 Light. Tiefes Waten oder tiefes Durchwaten ist eine Technik, die von einigen schweren halbamphibischen Fahrzeugen verwendet wird, um mehrere Meter tiefes Wasser zu durchqueren. Im Wesentlichen erlaubt sie es einem Panzer, teilweise oder vollständig unter Wasser auf dem Meeresboden zu fahren, anstatt zu schwimmen, und zwar mit Hilfe von Schirmen oder einem Rohr (einem Schnorchel), das zur Luftversorgung über die Wasseroberfläche reicht. "
  tech_trm_special_duplex_drive_eng:0 "Duplex-Antrieb"
  tech_trm_special_duplex_drive_eng_desc:0 "Duplex Drive Tanks oder \"Donald-Duck-Tanks\" funktionierten, indem um den Tank herum ein \"Schwimmschirm\" errichtet wurde, der ihn schwimmen ließ, und hatten zwei Propeller, die vom Motor des Panzers angetrieben wurden, um sie im Wasser anzutreiben, wodurch das Fahrzeug bei ruhigem Wetter eine Geschwindigkeit von vier Knoten erreichen konnte. \n\n Wenn der DD-Panzer das Ufer erreicht, wird die Schwimmschürze abgesenkt und das gepanzerte Fahrzeug erhält seine irdischen Eigenschaften zurück, um die Infanterie bei einer Landung oder einer Flussüberquerung so nah wie möglich zu unterstützen. Die bei der Landung in der Normandie und bei der Überquerung des Rheins eingesetzten Duplex Drive Panzer ermöglichen einen Brückenkopf mit hoher Feuerkraft, ohne auf externe Mittel (Schiffe, Häfen ...) zurückgreifen zu müssen, die möglicherweise nicht verfügbar sind."
@@ -395,14 +478,16 @@
  tech_trm_suspension_horstmann_modified_eng:0 "Modifizierte Horstmann-Federung"
  tech_trm_suspension_horstmann_modified_eng_desc:0 "Die Horstmann-Aufhängung war eine Art der Drehgestellaufhängung. Zwei Räder sind an einem gemeinsamen Rahmen in einer L-förmigen Schwinge montiert, die von einem Umlenkhebel mit einer zwischen den beiden Endpunkten laufenden Schraubenfeder ausgeht. Die Anordnung ist so, dass die Feder gegen die Schwinge des anderen Rades gedrückt wird, wenn sich ein Rad nach oben bewegt.\n\n Der Hauptnachteil des Horstmann-Systems war, dass es schwere Gewichte nicht sehr gut verkraften konnte. Dies wurde hauptsächlich durch die Einführung von zwei weiteren Federn in den Rahmen behoben."
 
- tech_trm_suspension_torsion_eng:0 "Torsionsstabaufhängung"
- tech_trm_suspension_torsion_fra:0 "Torsionsstabfederung"
- tech_trm_suspension_torsion_ger:0 "Torsionsstabaufhängung"
- tech_trm_suspension_torsion_ita:0 "Torsionsstabaufhängung"
- tech_trm_suspension_torsion_jap:0 "Torsionsstabfederung"
- tech_trm_suspension_torsion_sov:0 "Torsionsstabaufhängung"
- tech_trm_suspension_torsion_usa:0 "Torsionsstabaufhängung"
-
+ tech_trm_suspension_torsion_eng:0 "Drehstabfederung"
+ tech_trm_suspension_torsion_fra:0 "Drehstabfederung"
+ tech_trm_suspension_torsion_ger:0 "Drehstabfederung"
+ tech_trm_suspension_torsion_ita:0 "Drehstabfederung"
+ tech_trm_suspension_torsion_jap:0 "Drehstabfederung"
+ tech_trm_suspension_torsion_sov:0 "Drehstabfederung"
+ tech_trm_suspension_torsion_usa:0 "Drehstabfederung"
+ tech_trm_suspension_torsion_swe:0 "Drehstabfederung"
+ tech_trm_suspension_torsion_hun:0 "Drehstabfederung"
+ 
  tech_trm_suspension_torsion_eng_desc:0 "Bei Torsionsstäben wird eine lange Stange aus Stahl durch eine Drehkraft verdreht, um eine "Federwirkung" zu erzielen. Ein Ende des langen Metallstabs ist fest mit dem Fahrzeugchassis verbunden; das andere Ende endet in einem Hebel, der am Rad befestigt ist. Die vertikale Bewegung des Rades bewirkt eine Verdrehung des Stabes um seine Achse, der der Torsionswiderstand des Stabes entgegenwirkt.\n\n Der Einbau von Torsionsstäben quer über den Boden von Panzerwannen macht diese zwar gut geschützt und ermöglicht eine geringere Breite des Tanks, erhöht aber auch ihre Höhe. Dies ist an sich unerwünscht und kann auch das Gewicht der Panzer erheblich erhöhen, insbesondere wenn sie stark gepanzert sind."
  tech_trm_suspension_torsion_fra_desc:0 "Bei Torsionsstäben wird ein langer Stahlstab durch eine Drehkraft verdreht, um eine "Federwirkung" zu erzielen. Ein Ende des langen Metallstabs ist fest mit dem Fahrzeugchassis verbunden; das andere Ende endet in einem Hebel, der am Rad befestigt ist. Die vertikale Bewegung des Rades bewirkt eine Drehung des Stabes um seine Achse, der der Torsionswiderstand des Stabes entgegenwirkt.\n\n Der Einbau von Torsionsstäben quer über den Boden von Panzerwannen macht diese zwar gut geschützt und ermöglicht eine geringere Breite des Tanks, erhöht aber auch ihre Höhe. Dies ist an sich unerwünscht und kann auch das Gewicht der Panzer erheblich erhöhen, insbesondere wenn sie stark gepanzert sind."
  tech_trm_suspension_torsion_ger_desc:0 "Bei Torsionsstäben wird ein langer Stahlstab durch eine Drehkraft verdreht, um eine "Federwirkung" zu erzielen. Ein Ende des langen Metallstabs ist fest mit dem Fahrzeugchassis verbunden; das andere Ende endet in einem Hebel, der am Rad befestigt ist. Die vertikale Bewegung des Rades bewirkt eine Drehung des Stabes um seine Achse, der der Torsionswiderstand des Stabes entgegenwirkt.\n\n Der Einbau von Torsionsstäben quer über den Boden von Panzerwannen macht diese zwar gut geschützt und ermöglicht eine geringere Breite des Tanks, erhöht aber auch ihre Höhe. Dies ist an sich unerwünscht und kann auch das Gewicht der Panzer erheblich erhöhen, insbesondere wenn sie stark gepanzert sind."
@@ -444,18 +529,20 @@
  tech_trm_tank_construction_streamlined_usa_desc:0 "Rationalisierung bezieht sich auf die Verbesserung der Effizienz eines bestimmten Prozesses. Dies kann durch Automatisierung, Vereinfachung von Aufgaben oder Eliminierung unnötiger Schritte unter Einsatz moderner Techniken und Technologien geschehen."
 
 
- tech_trm_transmission_differential_ita:0 "Differenzielle Übertragung"
- tech_trm_transmission_differential_jap:0 "Differential-Übertragung"
- tech_trm_transmission_differential_sov:0 "Differential-Übertragung"
-
+ tech_trm_transmission_differential_ita:0 "Differentialgetriebe"
+ tech_trm_transmission_differential_jap:0 "Differentialgetriebe"
+ tech_trm_transmission_differential_sov:0 "Differentialgetriebe"
+ tech_trm_transmission_differential_swe:0 "Differentialgetriebe"
+ tech_trm_transmission_differential_hun:0 "Differentialgetriebe"
+ 
  tech_trm_transmission_differential_ita_desc:0 "Bei dieser Technik wird ein Standard-Differential zwischen den Gleisen verwendet, wobei der Antrieb auf den Käfig wirkt, genau wie bei einem Auto. Der Vorteil dieses Systems gegenüber der Kupplungsbremse besteht darin, dass die Durchschnittsgeschwindigkeit des Fahrzeugs beibehalten wird, d. h. wenn man nach links lenkt, beschleunigt die rechte Spur entsprechend.\nachteilig ist, dass scharfe Kurven nicht möglich sind und die Anzahl der möglichen Kurvenradien je nach Anzahl der Gänge sehr begrenzt ist."
  tech_trm_transmission_differential_jap_desc:0 "Bei dieser Technik wird ein Standard-Differential zwischen den Gleisen verwendet, wobei der Antrieb auf den Käfig wirkt, genau wie bei einem Auto. Der Vorteil dieses Systems gegenüber der Kupplungsbremse besteht darin, dass die Durchschnittsgeschwindigkeit des Fahrzeugs konstant bleibt, d. h. wenn man nach links lenkt, beschleunigt die rechte Spur entsprechend.\n\nachteilig ist, dass scharfe Kurven nicht möglich sind und die Anzahl der möglichen Kurvenradien je nach Anzahl der Gänge sehr begrenzt ist."
  tech_trm_transmission_differential_sov_desc:0 "Bei dieser Technik wird ein Standard-Differential zwischen den Gleisen verwendet, wobei der Antrieb auf den Käfig wirkt, genau wie bei einem Auto. Der Vorteil dieses Systems gegenüber der Kupplungsbremse besteht darin, dass die Durchschnittsgeschwindigkeit des Fahrzeugs erhalten bleibt, d. h. wenn man nach links lenkt, beschleunigt die rechte Spur entsprechend.\nachteilig ist, dass scharfe Kurven nicht möglich sind und die Anzahl der möglichen Kurvenradien je nach Anzahl der Gänge sehr begrenzt ist."
 
 
  tech_trm_transmission_double_differential_eng:0 "Doppeldifferentialgetriebe"
- tech_trm_transmission_double_differential_ger:0 "Doppeldifferenzial-Getriebe"
- tech_trm_transmission_double_differential_usa:0 "Doppeldifferenzial-Getriebe"
+ tech_trm_transmission_double_differential_ger:0 "Doppeldifferentialgetriebe"
+ tech_trm_transmission_double_differential_usa:0 "Doppeldifferentialgetriebe"
 
  tech_trm_transmission_double_differential_eng_desc:0 "Das komplexere Doppeldifferentialsystem ähnelt im Grundkonzept dem einfachen Differentialgetriebe, da es die Geschwindigkeit der Raupen durch die Steuerung der Rotation der Laufrollen kontrolliert. In diesem Fall werden jedoch zwei vollständige Differentiale verwendet, eines für jede Spur, und die Tragrollen werden nicht durch eine Bremse, sondern durch eine zweite Antriebswelle, die Lenkwelle, gesteuert.\n\nieses Getriebe war das bestmögliche Getriebe des Zweiten Weltkriegs, weil es eine einzigartige Eigenschaft hatte: Wenn sich die Antriebswelle im Leerlauf befand, sorgte die Lenkwelle für eine Drehung, wobei eine Spur vorwärts und die andere rückwärts lief, was eine außergewöhnliche Manövrierfähigkeit auf engem Raum ermöglichte.\n\n Im Vereinigten Königreich entwickelte sich dieses System 1939 rasch zum Triple Differential (im Prinzip ein ähnliches Konzept, mit einem zusätzlichen Differential), auch bekannt als Merritt-Brown-Getriebe. Ab 1941 wurde es in allen Churchill-Panzern verwendet, gefolgt von den Centaur- und Cromwell-Panzern."
  tech_trm_transmission_double_differential_ger_desc:0 "Das komplexere Doppeldifferentialsystem ähnelt dem einfachen Differential im Grundkonzept, da es die Geschwindigkeit der Ketten durch die Steuerung der Rotation der Laufrollen kontrolliert. In diesem Fall werden jedoch zwei vollständige Differentiale verwendet, eines für jede Kette, und die Laufrollen werden nicht durch eine Bremse, sondern durch eine zweite Antriebswelle, die Lenkwelle, gesteuert.\n\nieses Getriebe war das bestmögliche Getriebe des Zweiten Weltkriegs, weil es eine einzigartige Eigenschaft hatte: Wenn sich die Antriebswelle im Leerlauf befand, sorgte die Lenkwelle für eine Drehung, wobei eine Spur vorwärts und die andere rückwärts lief, was eine außergewöhnliche Manövrierfähigkeit auf engem Raum ermöglichte.\n\n In Deutschland war es als Maybach-Doppeldifferential bekannt, das berühmt für den Tiger E verwendet wurde."
@@ -464,7 +551,9 @@
  tech_trm_transmission_twin_transmission_ger:0 "Zwillingsgetriebe"
  tech_trm_transmission_twin_transmission_ita:0 "Zwillingsgetriebe"
  tech_trm_transmission_twin_transmission_sov:0 "Zwillingsgetriebe"
-
+ tech_trm_transmission_twin_transmission_swe:0 "Zwillingsgetriebe"
+ tech_trm_transmission_twin_transmission_hun:0 "Zwillingsgetriebe"
+ 
  tech_trm_transmission_twin_transmission_ger_desc:0 "Bei diesem System, das auch als Getriebelenkung bezeichnet wird, wird jede Spur von einem funktionell getrennten Mehrganggetriebe angetrieben. Abgesehen davon, dass es etwas aufwändiger ist, hat es gegenüber dem Kupplungs- und Bremssystem nur den Nachteil, dass es nicht so enge Kurven fahren kann. Dies erwies sich als kostspielige, aber sehr leistungsfähige Lösung, die nur noch vom Doppeldifferentialgetriebe übertroffen wird."
  tech_trm_transmission_twin_transmission_ita_desc:0 "Bei diesem System, das auch als Getriebelenkung bezeichnet wird, wird jede Spur von einem funktionell getrennten Mehrganggetriebe angetrieben. Abgesehen davon, dass es etwas aufwändiger ist, hat es gegenüber dem Kupplungs- und Bremssystem nur den Nachteil, dass es nicht so enge Kurven fahren kann. Es erwies sich als kostspielige, aber sehr leistungsfähige Lösung, die nur noch vom Doppeldifferentialgetriebe übertroffen wird."
  tech_trm_transmission_twin_transmission_sov_desc:0 "Bei diesem System, das auch als Getriebelenkung bezeichnet wird, wird jede Spur von einem funktionell getrennten Mehrganggetriebe angetrieben. Die Lenkung erfolgt durch Umschalten der Gänge auf einer Spur und nicht auf der anderen. Abgesehen davon, dass es etwas aufwendiger ist, hat es gegenüber dem Kupplungs-Brems-System nur den Nachteil, dass es nicht so enge Kurven fahren kann."
@@ -837,3 +926,34 @@
  tech_trm_ammo_ita_apcr_small:0 "APCR-Munition (20mm)"
  tech_trm_ammo_ita_apcr_large:0 "APCR-Munition (75mm/90mm)"
  tech_trm_ammo_ita_heat:0 "HEAT-Munition"
+
+ #SWE
+ tech_trm_swe_armour:1 "Schwedische Panzer"
+ 
+ tech_trm_cavalry_tank_swe_m41_casemate_1:0 "Strv m/41 Casemate"
+ 
+ tech_trm_weapon_mg_swe_m36:0 "8mm Ksp m/36"
+ tech_trm_weapon_mg_swe_m39:0 "7,62 mm Ksp m/39"
+ tech_trm_weapon_c_swe_37_m38:0 "37mm/45 m/38"
+ tech_trm_weapon_c_swe_57_m43:0 "57mm/47 m/43"
+ tech_trm_weapon_c_swe_75_m02:0 "75mm/24 m/02"
+ tech_trm_weapon_c_swe_75_m41:0 "75mm/31 m/41"
+ 
+
+ # HUN
+ tech_trm_hun_armour:1 "Ungarische Panzer"
+ 
+ tech_trm_light_tank_hun_toldi_turret_2:0 "Toldi 40mm Turm"
+ tech_trm_light_tank_hun_toldi_superstructure_open_1:0 "Toldi-Überbau"
+ tech_trm_medium_tank_hun_turan_turret_3:0 "Turan III Turm"
+ tech_trm_medium_tank_hun_turan_casemate_1:0 "Turan-Kasematte"
+ 
+ tech_trm_weapon_mg_hun_3440m:0 "8mm 34/40M"
+ tech_trm_weapon_c_hun_40_37m:0 "40mm 37/42M"
+ tech_trm_weapon_c_hun_40_41m:0 "40mm 41M"
+ tech_trm_weapon_c_hun_75_41m:0 "75mm 41M"
+ tech_trm_weapon_c_hun_75_43m:0 "75mm 43M"
+ tech_trm_weapon_c_hun_105_40m:0 "105mm 40/43M"
+ tech_trm_weapon_aa_ac_hun_40_bofors:0 "40mm 36M AA"
+ 
+ tech_trm_ammo_hun_heat:0 "HEAT-Munition"

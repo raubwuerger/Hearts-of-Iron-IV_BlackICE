@@ -52,7 +52,7 @@
  TRIGGER_COMPETENT:0 "Durchschnittliche Eigenschaft des Einheitenführers: Kompetent oder besser"
  TRIGGER_DECENT:0 "Durchschnittliche Eigenschaft des Einheitenführers: Ordentlich oder besser"
  SOV_POL_PEACE:0 "Die §YSowjetunion§! und das §YDeutsche Reich§! haben beide ihre im Molotow-Ribbentrop-Pakt gegebenen Versprechen gehalten, indem sie §YPolen§! und die §YSowjetunion§! gespalten haben. hat weitere Feindseligkeiten gegen §YPoland§ festgelegt! und seine Verbündeten."
- european_dominance:0 "Hat die totale Kontrolle über §REuropa§!"
+ european_dominance:0 "Hat die totale Kontrolle über alle kriegführenden Parteien auf dem §Reuropäischen Festland§! mit Ausnahme der §YSowjetunion§!"
  space_TT:0 "    \N"
 
  #Allied Anger
@@ -131,9 +131,10 @@
  STARTING_EFFICIENCY_TOOLTIP:0 "\n§YProduktionseffizienz Grundwert§!\nBasis: §Y10,00 %§!\n[!production_start_efficiency_icon_click]"
  STARTING_EFFICIENCY_ICON_TT:0 "§YProduktionsstarteffizienz Faktor§!"
  LOCAL_RESOURCES_TEXT:0 "[?modifier@resources_factor|%0=+]"
- LOCAL_RESOURCES_TOOLTIP:0 "\n§YRessourcenextraktion§!\n [!local_resources_icon_click]"
+ LOCAL_RESOURCES_TOOLTIP:0 "\n§YRessourcenextraktion§!\n \n§gGilt nicht für Aluminium, Stahl und Lebensmittel.§!\n[!local_resources_icon_click]"
  
- EXTRA_RESOURCE_PRODUCTION_FACTOR_TEXT: "\n\n§YRessourcenspezifische Produktionsmodifikatoren:§!"
+ EXTRA_RESOURCE_PRODUCTION_FACTOR_TEXT: "\n§YRessourcenspezifische Extraktionsmodifikatoren:§!"
+ EXTRA_RESOURCE_PRODUCTION_FLAT_TEXT: "\n§YAAbsolute Änderungen aufgrund von Extraktionsmodifikatoren:§!"
  OIL_PRODUCTION_FACTOR_TEXT: "£resources_strip|1 §YÖl§! Produktionsfaktor: [?modifier@oil_resource_factor|+=2%]"
  RUBBER_PRODUCTION_FACTOR_TEXT: "£resources_strip|3 §YGummi§! Produktionsfaktor: [?modifier@rubber_resource_factor|+=2%]"
  TUNGSTEN_PRODUCTION_FACTOR_TEXT: "£resources_strip|4 §YWolfram§! Produktionsfaktor: [?modifier@tungsten_resource_factor|+=2%]"
@@ -143,6 +144,15 @@
  COAL_PRODUCTION_FACTOR_TEXT: "£resources_strip|8 §YKohle§! Produktionsfaktor: [?modifier@coal_resource_factor|+=2%]"
  FOOD_PRODUCTION_FACTOR_TEXT: "£resources_strip|10 §YLebensmittel§! Produktionsfaktor: [?modifier@food_resource_factor|+=2%]"
  
+OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
+ RUBBER_PRODUCTION_TEXT: "£resources_strip|3 Gummi: [?t|+=0]"
+ TUNGSTEN_PRODUCTION_TEXT: "£resources_strip|4 Wolfram: [?t|+=0]"
+ CHROMIUM_PRODUCTION_TEXT: "£resources_strip|6 Legierungsmetalle: [?t|+=0]"
+ BAUXITE_PRODUCTION_TEXT: "£resources_strip|7 Bauxit: [?t|+=0]"
+ IRON_PRODUCTION_TEXT: "£resources_strip|9 Eisen: [?t|+=0]"
+ COAL_PRODUCTION_TEXT: "£resources_strip|8 Kohle: [?t|+=0]"
+ FOOD_PRODUCTION_TEXT: "£resources_strip|10 Lebensmittel: [?t|+=0]"
+
  GLOBAL_TENSION_TT:0 "[?global.threat|W0%]"
  COUNTRY_TENSION_BI:0 "[?has_added_tension_amount|R1]§R%§!"
 
@@ -329,7 +339,9 @@
  STATE_SHOW_BUILDING_LIST: "§YKlick§! um die Gebäude in diesem Zustand in einer §YListe§ anzuzeigen!"
  STATE_SHOW_BUILDING_SLOT: "§YKlick§! um die Gebäude in diesem Zustand in §YSpalten§ anzuzeigen!"
  
- STATE_LIST_ENTRY_TOOLTIP: "[?building_level@var:v|0Y] §Y[?v.GetTokenLocalizedKey]§!"
+ STATE_LIST_ENTRY_TOOLTIP: "[!level_click]"
+ STATE_LIST_ENTRY_TOOLTIP_SINGLE: "[?building_level@var:v|0Y] §Y[?v.GetTokenLocalizedKey]§!"
+ STATE_LIST_ENTRY_TOOLTIP_PLURAL: "[?building_level@var:v|0Y] §Y[?v.GetTokenLocalizedKey]§!"
  STATE_LIST_ENTRY_TOOLTIP_DELAYED: "[!building_picture_click]"
  STATE_LIST_ENTRY_DAMAGE_TOOLTIP: "[?d_ratio|R%0] sind §Rbeschädigt§! ([?damaged_building_level@var:v|R0] Gebäude)"
  
@@ -911,6 +923,8 @@
  SS_template_heavy_artillery_TT:0 "    §Y1x§! Schweres Artilleriebataillon\n"
  SS_template_rocket_artillery_TT:0 "    §Y1x§! Raketenartillerie-Bataillon\n"
  SS_template_recon_cav_TT:0 "    §Y1x§! Kavallerie-Aufklärungsbataillon\n"
+ SS_template_trm_light_sp_anti_air_support_TT:0 " §Y1x§! Leichtes Luftabwehrbataillon auf Selbstfahrlafette\n"
+ SS_template_trm_medium_sp_anti_air_support_TT:0 " §Y1x§! Mittleres Luftabwehrbataillon auf Selbstfahrlafette\n"
  #End
  SSDivisionStateText:0 ", §Y[?state_1.GetName]§! und §Y[?state_2.GetName]§!"
  GetSSDivisionChangeNumText:0 " und neu organisiert in [?num_ss_division_spawn|Y0] §Y[Root.GetSSDivisionNumText]§! unter Verwendung der folgenden Vorlage:"
@@ -973,7 +987,8 @@
  EQUIPMENT_INTRO_OPEN_TOOLTIP:0 "[ProductionTT3]"
  HSD_UI_OPEN_TOOLTIP:0 "[ProductionTT4]"
  HTD_UI_OPEN_TOOLTIP:0 "[ProductionTT5]"
- 
+ HTD_YEAR_TOOLTIP: "[?v]"
+  
  SPECIAL_FACTORY_OPEN_TT:0 " §YKlick§! um Informationen für §YEquipment Factories§! anzuzeigen."
  GARRISON_NEED_TOOLTIP:0 "[?required_garrison_factor|%1]"
  INDUSTRY_OPEN_TT:0 "§YKlick§! um Informationen zu §YWaffenproduktion§! anzuzeigen."
@@ -1178,7 +1193,7 @@
  ai_build_tt_subyard:0 "[!subyard_click_enabled]"
   
  HTD_variant_tooltip:0 "§Y[?v.GetTokenLocalizedKey]§!\n\n§YVoraussetzungen:§!\n[!tech_click_enabled]\n\n§YEffekte bei Auswahl:§!\n[!tech_click]"
- HTD_xp_cost_tooltip:0 "£army_experience_large [GetHDTXPColor]"
+ HTD_xp_cost_tooltip:0 "      [GetHDTXPColor]"
  
  FASCIST_PARTY_DRIFT_TOOLTIP:0 "[GetFascistPartyDriftTT]"
  COMMUNIST_PARTY_DRIFT_TOOLTIP:0 "[GetCommunistPartyDriftTT]"
@@ -1638,8 +1653,8 @@
  
  BAUXITE_NEED_TOOLTIP: "Wir haben [?avb_bauxite|0Y] Einheiten §YBauxit§! zur Verfügung.\n\nAktueller Raffinerieverbrauch: [?bauxite_need|Y0]\nMaximaler Raffinerieverbrauch: [?bauxite_need_max_t|Y0]"
  IRON_NEED_TOOLTIP: "Wir haben [?avb_iron|0Y] Einheiten von §YEisen§! zur Verfügung.\n\nAktueller Raffinerieverbrauch: [?iron_need|Y0]\nMaximaler Raffinerieverbrauch: [?iron_need_max_t|Y0]"
- COAL_NEED_TOOLTIP: "Wir haben [?avb_coal|0Y] Einheiten §YKohle§! zur Verfügung.\n\nAktueller Verbrauch: [?coal_need|Y0]\n -Raffinerien: [?conversion_use_@coal|Y0]\n -Züge: [?train_use@coal|Y0]\n\nMaximaler Raffinerieverbrauch: [?coal_need_max_t|Y0]\n -Raffinerien: [?conversion_actual_use_@coal|Y0]\n -Züge: [?train_use_target@coal|Y0]"
- FOOD_NEED_TOOLTIP: "Wir haben [?food_avb|0Y] Einheiten §YRationen§! zur Verfügung.\n\nAktueller Lebensmittelverbrauch: [?t|Y0]\nBenötigt durch Produktionslinien: [?resource_consumed@food|Y0]"
+ COAL_NEED_TOOLTIP: "Wir haben [?avb_coal|0Y] Einheiten §YKohle§! zur Nutzung.\n\nAktueller Verbrauch: [?coal_need|Y0]\n -Stahlraffinerien: [?conversion_use_@coal|Y0]\n -Kraftstoff Raffinerien: [?conversion_use_fuel@coal|Y0]\n -Züge: [?train_use@coal|Y0]\n\nMaximaler Verbrauch: [?coal_need_max_t|Y0]\n -Stahlraffinerien: [?conversion_actual_use_@coal|Y0]\ n -Kraftstoffraffinerien: [?conversion_actual_use_fuel@coal|Y0]\n -Züge: [?train_use_target@coal|Y0]"
+ FOOD_NEED_TOOLTIP: "Wir haben [?food_avb|0Y] Einheiten §YLebensmittel§! zur Verwendung.\n\nAktueller Lebensmittelverbrauch: [?food_need_now|Y0]"
  RESOURCE_C_M_TEXT:0 "C:\nM:"
  
  TRADE_TAB_LAW_TOOLTIP: "[!law_click]"
@@ -1859,13 +1874,13 @@
  ENERGY_PRODUCED_FUEL_TEXT: "[?energy_produced@fuel|Y=0]"
  ENERGY_PRODUCED_HYDRO_TEXT: "[?energy_produced@hydro|Y=0]"
 
- TOPBAR_ENERGY_TOOLTIP: "§YEnergie§!\n\n[GetTextForRatio]\n\nMax. Kapazität: [GetEnergyCapacity]\n\nErzeugte Gesamtenergie: [?energy_produced|G0]\n Basis: §Y100§!\n[GetEnergyDemandBrokenDown]\n\nGesamtenergieverbrauch: [?energy_cost|R0]\n Zivil: [?energy_cost@energy_civilian|Y0]\n Militär: [?energy_cost@energy_military|Y0]\n Marine: [?energy_cost@energy_naval|Y0]\n Ressourcen: [?energy_cost@energy_conversion|Y0]" 
- GetEnergyDemandBrokenDown: " §OVerbrennungsanlagen§!: [?t|Y0]\n §CWasserkraftwerke§!: [?h|Y0]"
+ TOPBAR_ENERGY_TOOLTIP: "§YEnergie§!\n\n[GetTextForRatio]\n\nMax. Kapazität: [?max_energy_produktion|G0]\n\nErzeugte Gesamtenergie: [?energy_produced|G0]\n Basis: §Y200§!\n[GetEnergyDemandBrokenDown]\n\nGesamtenergieverbrauch: [?energy_cost|R0]\n Zivil: [?energy_cost@energy_civilian|Y0]\n Militär: [?energy_cost@energy_military|Y0]\n Marine: [?energy_cost@energy_naval|Y0 ]\n Ressourcen: [?energy_cost@energy_conversion|Y0]" 
+ GetEnergyDemandBrokenDown: §OKraftwerke§!: [?t|Y0]\n §CWasserkraftwerke§!: [?h|Y0]"
  ENERGY_CONSUMPTION_TITLE: "Energieverbrauch"
  ENERGY_CONSUMPTION_TEXT: "§R-[?energy_cost|0]§!"
 
- NotEnoughEnergy: "Sie liegen derzeit [?x|1R%] über Ihrer Kapazität!."
- EnoughEnergy: "Wir haben derzeit eine Energiekapazitätsauslatung von [GetColorEnergy], was einer Reserve von [?d|G%1] entspricht. Die Berechnung basiert auf unserer angenommenen maximalen Produktionskapazität."
+ NotEnoughEnergy: "Sie liegen derzeit [?x|1R%] über Ihrer Kapazität! ([?t|R0])"
+ EnoughEnergy: "Sie haben derzeit die verbrauchte Energiekapazität von [GetColorEnergy] erreicht, was eine freie Energiekapazität von [?d|G%1] ([?t|G0]) ermöglicht."
  ExactlyMatched: "Sie sind voll ausgelastet, es gibt weder freie noch unbefriedigte Nachfrage."
  ENERGY_CIVILIAN_INPUT_TEXT: "§R-[?energy_cost@energy_civilian|0]§!"
  ENERGY_CIVILIAN_EFFICIENCY_TEXT: "[GetEnergyCostCiv]"
@@ -1886,9 +1901,41 @@
  energy: "Energie"
  energy_desc: "Energie ist das Lebenselixier der Wirtschaft Ihres Landes. Ohne Energie können Fabriken, Montagehallen, Werften und Raffinerien nicht funktionieren. Energie wird durch §YKraftwerke§! erzeugt, die entweder §OVerbrennungskraftwerke§!, oder §CWasserkraftwerke§! sein können. Ersteres läuft mit §OKohle§! oder §OKraftstoff§! während letzteres §CWasser§! verwendet."
 
- ENERGY_MAX_PRODUCTION_TOOLIP: "Unsere [?num_power_plant|Y0] Kraftwerke haben die Kapazität, [?max_energy_production|G0] §YEnergie§ zu produzieren!"
- ENERGY_PRODUCTION_TOOLIP: "Wir produzieren derzeit [?energy_produced|Y0] §YEnergie§!"
- ENERGY_CONSUMPTION_TOOLTIP: "Wir benötigen derzeit [?energy_cost|R0] §YEnergie§!"
+ ENERGY_SURPLUS_TOOLIP: "[!available_produktion_click]"
+ ENERGY_SURPLUS_BASE: "§YMax Energieproduktion§!\nAktueller Wert: [?max_energy_produktion|G0]\n Basis: §Y+200§!"
+ ENERGY_SURPLUS_POWER_PLANT: " [?num_power_plant|0] Kraftwerke: [?t|Y0=]"
+ ENERGY_SURPLUS_HYDRO_POWER: " [?num_hydro_power|0] Wasserkraftwerke: [?t|Y0=]"
+ ENERGY_SURPLUS_SUPLUS: "\nMit unserer aktuellen Produktion von [?energy_produced|Y0]£electricity_medium haben wir einen §YÜberschuss§! von [?surplus|G0], was [?surplus_factor|G%0] unserer gesamten Energieproduktionskapazität entspricht."
+ ENERGY_SURPLUS_SUPLUS_BAD: "\nMit unserer aktuellen Produktion von [?energy_produced|Y0]£electricity_medium haben wir einen §YÜberschuss§! von [?überschuss|R0]."
+ ENERGY_PRODUCTION_TOOLIP: "[!produktion_click]"
+ ENERGY_PRODUCTION_BASE: "§YAktuelle Energieproduktion§!\nAktueller Wert: [?energy_produced|Y0]\n Basis: §Y+200§!"
+ ENERGY_PRODUCTION_POWER_PLANT: "Kraftwerke: [?t|Y=0]"
+ ENERGY_PRODUCTION_COAL: "Aus [?energy_input@coal] Kohle: [?energy_produced@coal|Y0]"
+ ENERGY_PRODUCTION_FUEL: "Von [?t|0] Kraftstoff: [?energy_produced@fuel|Y0]"
+ ENERGY_PRODUCTION_HYDRO_POWER: " Wasserkraftwerke: [?energy_produced@hydro|Y=0]"
+ ENERGY_PRODUCTION_DESC: "\nDie Energieproduktion passt sich automatisch an unseren Energiebedarf an, was derzeit dazu führt, dass [?produktionsfaktor|Y0 %] unserer gesamten Produktionskapazität genutzt wird."
+ ENERGY_PRODUCTION_DESC_BAD: "\nDie Energieproduktion passt sich automatisch an unseren Energiebedarf an, was derzeit dazu führt, dass [?produktionsfaktor|R0 %] unserer gesamten Produktionskapazität genutzt wird.\n\nWir benötigen [?need|Y0] zusätzliche §YKraftwerke§! für unseren aktuellen Bedarf decken."
+ ENERGY_CONSUMPTION_TOOLTIP: "[!deficit_click]"
+ ENERGY_CONSUMPTION_NONE: "§YEnergiedefizit§!\n\nWir haben derzeit §Gno§! Energiedefizit."
+ ENERGY_CONSUMPTION_BASE: "§YEnergiedefizit§!\n\nMit unserem aktuellen §REEnergiebedarf§! von [?energy_cost|R0] erleben wir einen §RStrommangel!§!"
+ 
+ ENERGY_COAL_INPUT_TOOLTIP: "[!coal_input_text_click]"
+ ENERGY_COAL_INPUT_BASE: "Wir verwenden derzeit [?energy_input@coal|Y0] £resources_strip|8 Kohle, um [?energy_produced@coal|Y0]£electricity_medium §YEnergie§ zu produzieren!"
+ ENERGY_COAL_INPUT_DEFICIT: "\n§RRerfordert [?t|Y0] zusätzliche £resources_strip|8 Kohle für volle Effizienz! §!"
+ ENERGY_COAL_INPUT_TOOLTIP_DELAYED: "[!coal_input_text_right_click]"
+ ENERGY_FROM_COAL_TOOLTIP: "§G1§! Einheit von £resources_strip|8 Kohle ist in der Lage, [?energy_from_coal|Y0]£electricity_medium §YEnergie§ zu erzeugen!"
+
+ ENERGY_FUEL_INPUT_TOOLTIP: "[!fuel_input_text_click]"
+ ENERGY_FUEL_INPUT_BASE: "Wir verwenden derzeit [?input|Y0] £fuel_texticon Kraftstoff, um [?energy_produced@fuel|Y0]£electricity_medium §YEnergie§ zu erzeugen!"
+ ENERGY_FUEL_INPUT_DEFICIT: "\n§RRerfordert §Y[?t|0]K§! zusätzlichen £fuel_texticon Kraftstoff im Lager (mindestens 5 % gefüllt) für volle Effizienz! §!"
+ ENERGY_FUEL_INPUT_TOOLTIP_DELAYED: "[!fuel_input_text_right_click]"
+ ENERGY_FROM_FUEL_TOOLTIP: "§G24§! Einheiten von £fuel_texticon Kraftstoff ist in der Lage, [?energy_from_fuel|Y0]£electricity_medium §YEnergie§ zu erzeugen!"
+
+ ENERGY_HYDRO_INPUT_TOOLTIP: "[!hydro_input_text_click]"
+ ENERGY_HYDRO_INPUT_BASE: "Wir betreiben derzeit [?num_hydro_power|Y0] £energy_hydro_icon Wasserkraftwerke und produzieren [?energy_produced@hydro|Y0]£electricity_medium §YEnergie§!"
+ ENERGY_HYDRO_INPUT_DEFICIT: "\n§RRerfordert §Y[?t|0]K§! zusätzlichen £energy_hydro_icon Kraftstoff im Lager (mindestens 5 % gefüllt) für volle Effizienz! §!"
+ ENERGY_HYDRO_INPUT_TOOLTIP_DELAYED: "[!hydro_input_text_right_click]"
+ ENERGY_FROM_HYDRO_TOOLTIP: "§G1§! Wasserkraftwerke können ohne Anforderungen [?Energie_aus_Wasser|Y0]£Strom_Medium §YEnergie§! erzeugen, können aber nicht normal gebaut werden."
 
  ENERGY_COAL_RATIO_TOOLTIP: "§YKlick§! um das Verhältnis von £resources_strip|8 §YKohle§ zu erhöhen! Wird in der §YEnergieerzeugung§ verwendet! um §Y5%§!"
  ENERGY_COAL_RATIO_TOOLTIP_DELAYED: "[?energy_ratio@coal|0%Y] unserer [?num_power_plant|Y0] Kraftwerke produzieren §YEnergie§! mit £resources_strip|8 §YKohle§!"
@@ -1904,7 +1951,7 @@
  CIVILIAN_ENERGY_TOOLTIP: ""
 
  ## FOOD
- TOPBAR_FOOD_TOOLTIP: "[!text_click]"
+ TOPBAR_FOOD_TOOLTIP: "[!text_click][dirty]"
  RATIONS_TITLE: "§YLebensmittel§!\n\n[GetFoodDecayLoc]\n§YZiviler Verbrauch ([?modifier@food_need_civilian|=-%1g]) §!\n Eigene Bevölkerung: [?food_need_pop|Y0]\n Fremde Bevölkerung: [?food_need_pop_occ|Y0]\n§YMilitärer Verbrauch ([?modifier@food_need_military|=-%1g])§!\n Streitkräfte: [?food_need_army|Y0]\n Garnison: [?food_need_garrison|Y0]\n Ausbildung: [?food_need_deployment|Y0]\n\n"
  FOOD_DECAY: "Aktuelle Lebensmittel: [?food|Y1]§YK§!\nMaximale Lagerkapazität: §Y[?food_max|1]K§!\n\nAktueller Tageszugewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\nAktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nJeden Tag verfällt [?decay|%R1] ([?decay_flat|Y0]) unserer Lebensmittel. \nWir schätzen, dass sich unser Vorrat verändern wird: [?food_balance|+0]\n\nWir schätzen, das wird unseren §YLebensmittelvorrat§! bei dem aktuellen Zugewinn, auf bis zu [?food_fill_target|%1Y] auffüllen können.\n"
  FOOD_MITIGATION: "Aktuelle §4Strafe wegen Lebensmittelmangels:§! [?lack_of_food|%R1]\n\nAktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\nAktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nNotfallrationierung reduziert den Verbrauch um: [?mitigation_flat|Y0].\nWir schätzen, dass sich unser Vorrat ändern wird um: [?food_balance|+0]\n\nMit unserem aktuellen Kontostand gehen wir davon aus, dass wir tendenziell tendieren werden zu einem §YMangel an Nahrung§! Strafe von [?lack_of_food_max|%1-]\n"
@@ -2389,21 +2436,19 @@
 
  industry_liasons_spirit_air_equipment_tt: "$air_equipment_research$: [?0.03|%+=]"
 
- role_infantry: "Infanterierolle"
-
 hydro_tt: "Mit Wasser erzeugte Energie"
 ENERGY_INPUT_HYDRO_TEXT_TT: "Dies ist die Menge an Wasserkrapftwerken. Sie verwenden §CWasser§! zur Stromerzeugung und sind daher die kostengünstigste Energiequelle. Sie können nicht normal gebaut werden."
 ENERGY_PRODUCED_COAL_TEXT_TT: "Mit Kohle erzeugte Energie"
 ENERGY_PRODUCED_FUEL_TEXT_TT: "Mit Kraftstoff erzeugte Energie"
 ENERGY_PRODUCTION_TEXT_TT: "Gesamte Energieproduktion"
 ENERGY_PRODUCTION_TITLE_TT: "Energie wird durch §YKraftwerke§ erzeugt! Das kann entweder ein §CWasserkraftwerke§! oder ein §OThermisches§! sein. Letzteres benötigt §YKohle§! oder §YKraftstoff§!."
-power_plant_icon_tt: "Das ist die Menge an §OThermischen Kraftwerken§! welchse sie derzeit besitzen . Sie können wie jedes andere Gebäude gebaut werden. Sie verbrauchen §YKohle§! oder §YKraftstoff§!. Die Ausgangskapazität ist bei beiden gleich."
+power_plant_icon_tt: "Das ist die Menge an §OThermischen Kraftwerken§! welchse sie derzeit besitzen . Sie können wie jedes andere Gebäude gebaut werden. Sie verbrauchen §YKohle§! oder §YKraftstoff§!. \n\nEnergieproduktionskapazität pro §YKraftwerk§!: [GetPowerPlantCapacity]£electricity_medium."
 ENERGY_CONSUMPTION_TITLE_TT: "Ihr Land verbraucht ständig Energie. Von allen Aspekten der Wirtschaft benötigt, ohne ausreichende Energie, §YProduktion und Bauwesen§! kann ernsthaft beeinträchtigt werden."
 
 ENERGY_CIVILIAN_EFFICIENCY_TEXT_TT: "Ihre zivilen Fabriken arbeiten mit einer Effizienz von [GetEnergyCostCiv]. Sie können §Yerhöhen oder verringern§! Mit den Schaltflächen rechts können Sie die Priorität der Energiezuteilung festlegen."
 ENERGY_CIVILIAN_INPUT_TEXT_TT: "So viel Energie benötigen Ihre zivilen Fabriken für den §YAufbau§!."
 ENERGY_CIVILIAN_INPUT_TEXT_TT_DELAYED: "[!civilian_1_click]"
-Civ_Energy_TT: "Ziviler Energieverbrauch\n\n[?t2] Zivilefabriken: [?t]"
+Civ_Energy_TT: "Ziviler Energieverbrauch\n\n[?t2|0] Zivilefabriken: [?t|0]"
 
 
 ENERGY_MILITARY_EFFICIENCY_TEXT_TT: "Ihre Militärfabriken und -versammlungen arbeiten mit [GetEnergyCostMil]-Effizienz. Sie können §Yerhöhen oder verringern§! Mit den Schaltflächen rechts können Sie die Priorität der Energiezuteilung festlegen."
@@ -2483,12 +2528,15 @@ RUBBER_OUTPUT_TEXT_TT: "So viel £resources_strip|3 §YGummi§! können unsere �
  LACK_OF_FOOD_PROD_N: "[?token:industrial_capacity_dockyard_factor.GetTokenLocalizedKey]: $RIGHT|+=%$"
  LACK_OF_FOOD_CONSTRUCTION: "[?token:production_speed_buildings_factor.GetTokenLocalizedKey]: $RIGHT|+=%$"
 
- export_offset: "Fix exportieren (ignorieren)"
+ export_offset: "§gExport-Fix (ignorieren, trifft eigentlich nicht zu)§!"
  resource_production: "Zusätzliche Ressourcenproduktion"
  assembly_production: "Montageproduktion"
  energy_production: "Energieproduktion"
  steel_alloy: "Stahl aus Legierungsmetallen"
-
+ lack_of_food: "Lebensmittelmangel"
+ lack_of_energy: "Energiemangel"
+ lack_of_fuel: "Kraftstoffmangel"
+ 
  LACK_OF_FUEL_TITLE: "§YMangel an Treibstoff§!\n\nAktueller Wert: [?lack_of_fuel|%]\nZielwert: [?lack_of_fuel_target|%]"
  LACK_OF_FUEL_INCREASE: "   - Täglicher Gewinn: [?0.01|R%=]"
  LACK_OF_FUEL_DECREASE: "   - Täglicher Verfall: [?0.02|G%]"

@@ -324,10 +324,10 @@
  VIC_liberalism_ADJ:0 "Vichy-Französisch"
  VIC_socialism_ADJ:0 "Vichy-Französisch"
  VIC_monarchism_ADJ:0 "Vichy-Französisch"
- VIX_fascism:0 „Kolonien von Vichy-Frankreich“
- VIX_fascism_DEF:0 „Kolonien von Vichy-Frankreich“
- VIX_neutrality:0 „Kolonien von Vichy-Frankreich“
- VIX_neutrality_DEF:0 „Kolonien von Vichy-Frankreich“ 
+ VIX_fascism:0 "Kolonien von Vichy-Frankreich"
+ VIX_fascism_DEF:0 "Kolonien von Vichy-Frankreich"
+ VIX_neutrality:0 "Kolonien von Vichy-Frankreich"
+ VIX_neutrality_DEF:0 "Kolonien von Vichy-Frankreich" 
  FRA_fascism:0 "Französischer Staat"
  FRA_fascism_DEF:0 "Der französische Staat"
  FRA_conservatism:0 "Französische Republik" 
