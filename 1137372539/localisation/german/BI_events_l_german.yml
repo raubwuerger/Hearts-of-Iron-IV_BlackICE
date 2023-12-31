@@ -809,7 +809,8 @@
  canada.2.b:0 "Zeit für eine Veränderung"
  canada.3.t:0 "Bloody Sunday"
  canada.3.d:0 ""
- canada.3.a:0 "Oh nein"canada.4.t:0 "König trifft Hitler"
+ canada.3.a:0 "Oh nein"
+ canada.4.t:0 "König trifft Hitler"
  canada.4.d:0 "Im Juni 1937 traf der kanadische Premierminister Mackenzie King als einziger nordamerikanischer Regierungschef mit dem deutschen Bundeskanzler Adolf Hitler zusammen.  Ziel des Besuchs war es, die zunehmende Aggressivität Deutschlands zu beurteilen. King unterstützte wie die meisten anderen europäischen und nordamerikanischen Staats- und Regierungschefs die Politik des "Appeasement" gegenüber der deutschen Aggression."
  canada.4.a:0 "Appeasement wird funktionieren."
  canada.4.b:0 "Dieser Mann ist böse."
@@ -1846,7 +1847,8 @@
  ireland.15.b:0 "Was ist mit der Armee?"
  ireland.15.c:0 "Was ist mit Nordirland?"
  ireland.15.e:0 "Okay!"
- ireland.15.f:0 "Der Unabhängigkeitskrieg brach im Januar 1919 nach dem Soloheadbeg-Hinterhalt in der Grafschaft Tipperary aus. Am selben Tag erklärte ein selbsternanntes republikanisches Parlament, Dáil Éireann, die Unabhängigkeit Irlands und gründete ein irisches Parlament Regierung unter Éamon de Valera, Präsident der Exekutive. Es folgte ein blutiger Guerillakrieg, der von tödlichen Hinterhalten, einem effektiven irischen Geheimdienst unter Michael Collins und schockierenden Repressalien durch britische Streitkräfte geprägt war – darunter die Massenerschießung von Zivilisten in Dublin und das Niederbrennen der Innenstadt von Cork Stadt. Solche Aktionen stärkten nur die Entschlossenheit des irischen Volkes gegen die rücksichtslosen britischen Oberherren.\n Die britischen Geheimdienstnetzwerke in Dublin wurden durch die Aktionen von Michael Collins, dem irischen Geheimdienstdirektor, und vielen tausend im Land stationierten britischen Truppen erheblich behindert Ohne irgendeine Lösung der Situation wurde im Juli 1921 der Waffenstillstand unterzeichnet, der den Krieg beendete.\n Die folgenden Verhandlungen mit Großbritannien waren für Irland kein großer Erfolg. Angesichts der Gefahr eines größeren Krieges unterzeichneten die irischen Delegierten in London einen Kompromissfrieden: Irland würde eine Herrschaft unter britischer Herrschaft werden und alle irischen Beamten würden dem britischen Monarchen den Treueid schwören. news.3138.t:0 "Belfast Blitz"
+ ireland.15.f:0 "Der Unabhängigkeitskrieg brach im Januar 1919 nach dem Soloheadbeg-Hinterhalt in der Grafschaft Tipperary aus. Am selben Tag erklärte ein selbsternanntes republikanisches Parlament, Dáil Éireann, die Unabhängigkeit Irlands und gründete ein irisches Parlament Regierung unter Éamon de Valera, Präsident der Exekutive. Es folgte ein blutiger Guerillakrieg, der von tödlichen Hinterhalten, einem effektiven irischen Geheimdienst unter Michael Collins und schockierenden Repressalien durch britische Streitkräfte geprägt war – darunter die Massenerschießung von Zivilisten in Dublin und das Niederbrennen der Innenstadt von Cork Stadt. Solche Aktionen stärkten nur die Entschlossenheit des irischen Volkes gegen die rücksichtslosen britischen Oberherren.\n Die britischen Geheimdienstnetzwerke in Dublin wurden durch die Aktionen von Michael Collins, dem irischen Geheimdienstdirektor, und vielen tausend im Land stationierten britischen Truppen erheblich behindert Ohne irgendeine Lösung der Situation wurde im Juli 1921 der Waffenstillstand unterzeichnet, der den Krieg beendete.\n Die folgenden Verhandlungen mit Großbritannien waren für Irland kein großer Erfolg. Angesichts der Gefahr eines größeren Krieges unterzeichneten die irischen Delegierten in London einen Kompromissfrieden: Irland würde eine Herrschaft unter britischer Herrschaft werden und alle irischen Beamten würden dem britischen Monarchen den Treueid schwören. 
+ news.3138.t:0 "Belfast Blitz"
  news.3138.d:0 "Deutsche Bomber haben die nordirische Stadt Belfast in drei Angriffen angegriffen, die nun als "Belfast Blitz" bezeichnet werden. Etwa 1000 Menschen sind dabei ums Leben gekommen, weitere 1500 wurden verletzt. Südirische Feuerwehrleute haben sich in den Kampf eingeschaltet, um ihren irischen Brüdern zu helfen. Die offizielle Erklärung der Republik lautet, dass "die Menschen in Belfast auch Iren sind". "
  news.3138.a:0 "Was für eine Schande"
  news.3138.b:0 "Sie sind unser Volk."
@@ -2012,7 +2014,8 @@
  soviet.28.b:0 "Stalin unterstützen"
  soviet.36.t: "Ehre den MR PACT"
  soviet.36.d: "Deutschland hat mit der Invasion in Polen begonnen. Um unseren Molotov-Ribbentrop-Pakt wirklich einzuhalten, sollten wir bei der Invasion helfen, sobald unsere Streitkräfte bereit sind\n (Sie haben eine Entscheidung, die Sie treffen können, um die Invasion zu beginnen, Wenn Sie dies nicht tun, erhöhen sich Ihre Säuberungsstrafen später erheblich.)
- soviet.36.a: "Zu den Waffen" soviet.48.c:0 "Trotzki kehrt zurück!"
+ soviet.36.a: "Zu den Waffen" 
+ soviet.48.c:0 "Trotzki kehrt zurück!"
  soviet.48.c_tt:0 "Macht euch bereit, denn Trotzki versucht, die Macht zu übernehmen. §4Ein massiver Bürgerkrieg wird bald ausbrechen§!"
  soviet.48.d:0 "Der Kommunismus in einem Land ist gescheitert. Brauchen wir Trotzki? "
  soviet.48.d_tt:0 "§YA Ein Bürgerkrieg wird ausbrechen, wenn Trotzki zurückkehrt§!"
@@ -2429,10 +2432,7 @@
  soviets.38.t:0 "Lebensmittelknappheit"
  soviets.38.a:0 "Verstärkte Kollektivierung"
  soviets.38.b:0 "Holt sie aus der Schüssel"
- 
- 
- 
- 
+  
  
  
  ### PAN ###

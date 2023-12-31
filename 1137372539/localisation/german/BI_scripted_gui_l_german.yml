@@ -1875,7 +1875,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  ENERGY_PRODUCED_HYDRO_TEXT: "[?energy_produced@hydro|Y=0]"
 
  TOPBAR_ENERGY_TOOLTIP: "§YEnergie§!\n\n[GetTextForRatio]\n\nMax. Kapazität: [?max_energy_produktion|G0]\n\nErzeugte Gesamtenergie: [?energy_produced|G0]\n Basis: §Y200§!\n[GetEnergyDemandBrokenDown]\n\nGesamtenergieverbrauch: [?energy_cost|R0]\n Zivil: [?energy_cost@energy_civilian|Y0]\n Militär: [?energy_cost@energy_military|Y0]\n Marine: [?energy_cost@energy_naval|Y0 ]\n Ressourcen: [?energy_cost@energy_conversion|Y0]" 
- GetEnergyDemandBrokenDown: §OKraftwerke§!: [?t|Y0]\n §CWasserkraftwerke§!: [?h|Y0]"
+ GetEnergyDemandBrokenDown: "   §OKraftwerke§!: [?t|Y0]\n §CWasserkraftwerke§!: [?h|Y0]"
  ENERGY_CONSUMPTION_TITLE: "Energieverbrauch"
  ENERGY_CONSUMPTION_TEXT: "§R-[?energy_cost|0]§!"
 
@@ -2574,7 +2574,10 @@ RUBBER_OUTPUT_TEXT_TT: "So viel £resources_strip|3 §YGummi§! können unsere �
  MAIN_MENU_TECHNOLOGIES: "Auch am Technologiebaum gab es einige Änderungen. Die neue Registerkarte "Ressourcenherstellung" besteht aus neu hinzugefügten Technologien, die Aspekte von Lebensmitteln, Energiemanagement und Raffinerien verbessern, während einige bereits bekannte Technologien wie Resourcenextraktion, Medizin und Kraftstofftechnologien ebenfalls hier zu finden sind."
 
  MAIN_MENU_END: "Vielen Dank, dass Sie die Zusammenfassung gelesen haben. Wenn Sie noch Fragen haben, können Sie sich gerne über unseren offiziellen Discord-Server an uns wenden. \nWir hoffen, dass Ihnen die Herausforderungen der Branchenüberarbeitung und der Veröffentlichung von Arms Against Tyranny gefallen."
-role_infantry_title: "Infanteriedivision"
+
+
+
+ role_infantry_title: "Infanteriedivision"
  role_assault_infantry_title: "Angriffs-Infanteriedivision"
  role_garrison_title: "Garnisonsdivision"
  Role_light_infantry_title: "Leichte Infanteriedivision"
