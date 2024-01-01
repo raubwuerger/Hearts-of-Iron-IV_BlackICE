@@ -877,7 +877,7 @@
  MODIFIER_MINES_PLANTING_BY_AIR_FACTOR_DESC:0 "Beeinflusst die Gesamteffizienz des Marine-Minenlegens durch Luftgeschwader."
  MODIFIER_MINES_SWEEPING_BY_AIR_FACTOR:1 "£minesweeping_texticon Effizienz bei der Minenräumung aus der Luft"
  MODIFIER_MINES_SWEEPING_BY_AIR_FACTOR_DESC:0 "Beeinflusst die Gesamteffizienz der Marine-Minenräumung durch Luftgeschwader."
- MODIFIER_NAVAL_MINES_EFFECT_REDUCTION:0 "£minesweeping_texticon Vermeidung von Seeminen"
+ MODIFIER_NAVAL_MINES_EFFECT_REDUCTION:0 "£minesweeping_texticon Beseitigen von Seeminen"
  MODIFIER_NAVAL_MINES_EFFECT_REDUCTION_DESC:0 "Reduziert die Strafen durch die von den Feinden gelegten Minen."
  MODIFIER_NAVAL_MINES_DAMAGE_FACTOR:0 "£minelaying_texticon Schäden durch Seeminen"
  MODIFIER_NAVAL_MINES_DAMAGE_FACTOR_DESC:0 "Zusätzlicher Schaden durch unsere Marineminen."

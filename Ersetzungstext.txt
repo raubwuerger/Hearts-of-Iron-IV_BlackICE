@@ -4,3 +4,7 @@ Strahlgetriebener Sturzkampfbomber
 Sturzkampfflugzeug
 
 Luft-Kraftstoffverbrauch
+Resources
+Production Efficiency
+Production Modifiers
+(rot)Rechtsklick
