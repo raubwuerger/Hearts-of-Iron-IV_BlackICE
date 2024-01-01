@@ -8,3 +8,5 @@ Resources
 Production Efficiency
 Production Modifiers
 (rot)Rechtsklick
+Command Power Befehlsgewalt Kommandogewalt
+Tagesverdienst
