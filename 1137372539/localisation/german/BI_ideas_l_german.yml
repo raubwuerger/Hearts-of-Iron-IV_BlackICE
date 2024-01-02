@@ -371,7 +371,7 @@
 
  #Opinion Modifiers ""
  same_type_group:0 "Demokratisch"
- early_ENG_GER_relations:0 "Gute deutsch-englische Beziehungen"
+ Früh_ENG_GER_relations:0 "Gute deutsch-englische Beziehungen"
  hun_pact_against_us:0 "Pakt gegen die ungarische Expansion"
  hun_worse_pact_against_us:0 "Schlechter Pakt gegen die ungarische Expansion"
  anti_hungary:0 "Gegen die ungarische Expansion"
@@ -939,7 +939,7 @@
  JAP_learn_from_the_gaijin_idea:0 "Lerne von den Gaijin"
  JAP_learn_from_the_gaijin_idea_desc:0 "Selbst vom Feind kann man lernen."
  JAP_bicycles_idea:0 "Fahrräder"
- JAP_Kaigun_shinko_doctrine:0 "Kaigun Shinko"
+ JAP_Kaigun_shinko_doctrine:0 "KaiShinko"
  JAP_island_hopping1:0 "Wir haben den Pazifikkrieg verloren"
  JAP_island_hopping2:0 "Das Ende ist nah"
  JAP_island_hopping3:0 "Alle Hoffnung ist verloren"
@@ -1187,7 +1187,7 @@
 
  foreign_police_station:0 "Unsere Feinde haben unser Land eingenommen und unterdrücken unsere Bevölkerung, indem sie §RPolizeistationen§! in unseren Kernstaaten errichten. Zurzeit erhalten wir die folgenden Effekte:§!"
 
- output_factor:0 "§YFabrik§! und §YDeponie§! Ausstoß-Faktor"
+ output_factor:0 "§YFabrik§! und §YLager§! Ausstoß-Faktor"
  unity_base:0 "Basis"
  high_unity:0 "Hoher Einheitsfaktor"
  neighbouring_superior_enemy:0 "Benachbarter übermächtiger Feind"
