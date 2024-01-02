@@ -1240,7 +1240,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  taisei_yokusankai_TT:0 "[!taisei_yokusankai_click]"
  british_fascism_TT:0 "[!british_fascism_click]"
  
- Früh_maoism_TT:0 "[!Früh_maoism_click]"
+ early_maoism_TT:0 "[!early_maoism_click]"
  late_maoism_TT:0 "[!late_maoism_click]"
  marxism_TT:0 "[!marxism_click]"
  leninism_TT:0 "[!leninism_click]"
