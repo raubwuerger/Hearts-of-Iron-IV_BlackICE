@@ -88,8 +88,8 @@
  anti_air_building_desc:0 "Dieses Gebäude bietet dem Staat Schutz vor feindlichen Bombern und die Möglichkeit, auf angreifende Flugzeuge zu schießen.$anti_air_building_effect$"
  anti_air_building_effect: "\n\nMax. Stufe: §Y6§!\nGebäudegesundheit: §Y2§!\nSchaden durch Bombenangriffe: §G-90%§!"
  
- synthetic_refinery:0 "synthetic Raffinerie"
- synthetic_refinery_plural:0 "synthetic Raffinerien"
+ synthetic_refinery:0 "Synthetische Raffinerie"
+ synthetic_refinery_plural:0 "Synthetische Raffinerien"
  synthetic_refinery_desc:0 "Dieses Gebäude versorgt den Staat mit Treibstoffproduktion.\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §YJa§!\n\nGrundproduktion im Staat: §Y+ 60§!£fuel_state \n\nEnergiebedarf: §R10§!£electricity_medium "
  
  radar_station:0 "Radarstation"

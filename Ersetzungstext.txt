@@ -3,10 +3,8 @@ Schwerer Sturzkampfbomber
 Strahlgetriebener Sturzkampfbomber
 Sturzkampfflugzeug
 
-Luft-Kraftstoffverbrauch
 Resources
 Production Efficiency
 Production Modifiers
 (rot)Rechtsklick
-Command Power Befehlsgewalt Kommandogewalt
-Tagesverdienst
+Command Power Befehlsgewalt Kommandogewalt Befehlsmacht
