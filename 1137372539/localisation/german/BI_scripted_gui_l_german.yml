@@ -854,7 +854,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  SS_template_assault_panzer_TT:0 "    §Y[?ss_assault_panzer]x§! SS-Panzer-Artellerie-Abteilung\n"
  SS_template_panzer_spaa_TT:0 "    §Y[?ss_panzer_spaa]x§! SS-Panzerflak-Abteilung\n"
  SS_template_mountaineers_TT:0 "    §Y[?ss_mountaineers]x§! SS-Bergsteiger\n"
- SS_template_mountain_artillery_brigade_TT:0 "    §Y[?ss_mountain_artillery_brigade]x§! SS-Packartillerie\n"
+ SS_template_mountain_artillery_brigade_TT:0 "    §Y[?ss_mountain_artillery_brigade]x§! SS-Leichtgeschütz\n"
  
  SS_template_trm_ss_light_armor_TT:0 "    §Y[?trm_ss_light_armor]x§! Leichter SS-Panzer\n"
  SS_template_trm_ss_light_cs_armor_TT:0 "    §Y[?trm_ss_light_cs_armor]x§! SS Leichter CS-Panzer\n"
