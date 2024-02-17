@@ -602,9 +602,9 @@
  tech_trm_medium_tank_ger_panzer4_aa_1_desc:1 ""
  tech_trm_medium_tank_ger_panzer4_casemate_1:1 "PzKpfw IV Kasematte"
  tech_trm_medium_tank_ger_panzer4_casemate_1_desc:1 "In Bezug auf gepanzerte Kampffahrzeuge bezieht sich die Kasemattenbauweise auf Fahrzeuge, bei denen die Hauptkanone direkt in der Wanne montiert ist und der bei Panzern übliche Drehturm fehlt. Eine solche Konstruktion macht das Fahrzeug im Allgemeinen mechanisch einfacher, weniger kostspielig in der Konstruktion, leichter im Gewicht und niedriger im Profil. Das eingesparte Gewicht kann genutzt werden, um eine schwerere, leistungsfähigere Kanone zu montieren oder alternativ den Panzerschutz des Fahrzeugs im Vergleich zu normalen Panzern mit Turm zu erhöhen. Im Gefecht muss die Besatzung jedoch das gesamte Fahrzeug drehen, wenn sich ein feindliches Ziel außerhalb des begrenzten Geschützkreises des Fahrzeugs befindet. Dies kann sich in Gefechtssituationen als sehr nachteilig erweisen.\n\nIm Zweiten Weltkrieg wurden gepanzerte Kampffahrzeuge vom Typ Kasematte sowohl von der deutschen Wehrmacht als auch von der Roten Armee der Sowjetunion in großem Umfang eingesetzt. Sie wurden hauptsächlich als Panzerjäger und Sturmgeschütze eingesetzt."
- tech_trm_medium_tank_ger_panzer4_turret_3:1 "PzKpfw IV J Drehturm (Handbuch)"
+ tech_trm_medium_tank_ger_panzer4_turret_3:1 "PzKpfw IV J Drehturm (manuell)"
  tech_trm_medium_tank_ger_panzer4_turret_3_desc:1 ""
- tech_trm_medium_tank_ger_panzer4_turret_4:1 "PzKpfw IV Schmalturm-Turm"
+ tech_trm_medium_tank_ger_panzer4_turret_4:1 "PzKpfw IV Schmalturm"
  tech_trm_medium_tank_ger_panzer4_turret_4_desc:1 "Im Jahr 1944 schlug Krupp einen vereinfachten Turm für den Pz IV vor. Das neue Turmdesign hatte eine sechsseitige Form, eine flache Geschützhaube, keine Sicht- oder Pistolenöffnungen, keine Kommandantenkuppel, zwei Luken im Turmdach und eine vereinfachte Luke an der linken Turmseite. Der Schutz der Panzerung wurde deutlich erhöht. Der Hauptzweck dieses Turms war es, genügend Platz für die Montage der KwK 42 L/70 zu schaffen und das Gesamtgewicht zu reduzieren."
  tech_trm_medium_advanced_tank_ger_panther_casemate_1:1 "Panther-Kasematte"
  tech_trm_medium_advanced_tank_ger_panther_casemate_1_desc:1 "Im Zusammenhang mit gepanzerten Kampffahrzeugen bezieht sich die Kasemattenbauweise auf Fahrzeuge, deren Hauptkanone direkt in der Wanne montiert ist und die keinen drehbaren Turm haben, wie er bei Panzern üblich ist. Eine solche Konstruktion macht das Fahrzeug im Allgemeinen mechanisch einfacher, weniger kostspielig in der Konstruktion, leichter im Gewicht und niedriger im Profil. Das eingesparte Gewicht kann genutzt werden, um eine schwerere, leistungsfähigere Kanone zu montieren oder alternativ den Panzerschutz des Fahrzeugs im Vergleich zu normalen Panzern mit Turm zu erhöhen. Im Gefecht muss die Besatzung jedoch das gesamte Fahrzeug drehen, wenn sich ein feindliches Ziel außerhalb des begrenzten Geschützkreises des Fahrzeugs befindet. Dies kann sich in Gefechtssituationen als sehr nachteilig erweisen.\n\nIm Zweiten Weltkrieg wurden gepanzerte Kampffahrzeuge vom Typ Kasematte sowohl von der deutschen Wehrmacht als auch von der Roten Armee der Sowjetunion in großem Umfang eingesetzt. Sie wurden hauptsächlich als Panzerjäger und Sturmgeschütze eingesetzt."
@@ -709,7 +709,7 @@
  # JAPAN ""
  tech_trm_japan_armour:1 "Japanische Panzer"
 
- trm_medium_tank_chassis_jap_apc_type4_1_desc:1 "Typ - Mittlerer Panzerzerstörer"
+ trm_medium_tank_chassis_jap_apc_type4_1_desc:1 "Typ - Mittlerer Jagdpanzer"
 
  tech_trm_light_tank_jap_type95_turret_2:0 "Typ 95 CS Geschützturm"
  tech_trm_light_tank_jap_type95_superstructure_open_1:0 "Typ 95 Aufbau"
@@ -797,7 +797,7 @@
  # USA ""
  tech_trm_us_armour:1 "Amerikanische Panzer"
 
- trm_cavalry_tank_chassis_usa_m18_1_desc:1 "Typ - Kavallerie-Panzer-Zerstörer oder Kavallerie-CS-Panzer"
+ trm_cavalry_tank_chassis_usa_m18_1_desc:1 "Typ - Kavallerie-Panzer-Zerstörer oder Kavallerie-Unterstützungspanzer"
 
  tech_trm_cavalry_tank_usa_m1_turret_2:0 "M1 Combat Car Turret"
  tech_trm_cavalry_tank_usa_m18_turret_open_2:0 "M18 90mm offener Turm"
@@ -848,7 +848,7 @@
  # SOV ""
  tech_trm_soviet_armour:1 "Sowjetische Panzer"
 
- trm_light_tank_chassis_sov_komsomolets_1_desc:1 "Typ - Leichter Panzerzerstörer"
+ trm_light_tank_chassis_sov_komsomolets_1_desc:1 "Typ - Leichter Jagdpanzer"
 
  tech_trm_light_tank_sov_t70_aa_open_1:0 "T-70 Offene Flak-Lafette"
  tech_trm_light_tank_sov_t70_superstructure_open_1:0 "T-70 Aufbau"

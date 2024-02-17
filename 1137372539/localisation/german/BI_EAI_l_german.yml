@@ -340,8 +340,8 @@
  EAI_config_ARMY_L02_dropdown_text:0 "[EAI_GetAntiTankDesign]"
  EAI_config_ARMY_L02-_text:0 "-"
  EAI_config_ARMY_L02a_text:0 "Linienpanzerabwehr"
- EAI_config_ARMY_L02b_text:0 "Leichter Panzerzerstörer"
- EAI_config_ARMY_L02c_text:0 "Mittlerer Panzerzerstörer"
+ EAI_config_ARMY_L02b_text:0 "Leichter Jagdpanzer"
+ EAI_config_ARMY_L02c_text:0 "Mittlerer Jagdpanzer"
 
  EAI_config_ARMY_L02b_tt:0 "§0Dies bestimmt die Breite der Schablone für den Frontpanzer dieses Landes!"
  EAI_config_ARMY_L02b_dropdown_text:0 "[EAI_GetAntiTankWidth]"
@@ -568,25 +568,25 @@
 
  EAI_light_armor_text:0 "Leichte Panzerung"
  EAI_stockpile_larm_equipment_text:0 "Panzer"
- EAI_stockpile_ltd_equipment_text:0 "Panzerzerstörer"
+ EAI_stockpile_ltd_equipment_text:0 "Jagdpanzer"
  EAI_stockpile_lspart_equipment_text:0 "Sp. Artillerie"
  EAI_stockpile_lspaa_equipment_text:0 "Sp. Luftabwehr"
 
  EAI_medium_armor_text:0 "Mittlere Panzerung"
  EAI_stockpile_marm_equipment_text:0 "Panzer"
- EAI_stockpile_mtd_equipment_text:0 "Panzerzerstörer"
+ EAI_stockpile_mtd_equipment_text:0 "Jagdpanzer"
  EAI_stockpile_mspart_equipment_text:0 "Sp. Artillerie"
  EAI_stockpile_mspaa_equipment_text:0 "Sp. Luftabwehr"
 
  EAI_heavy_armor_text:0 "Schwere Panzerung"
  EAI_stockpile_harm_equipment_text:0 "Panzer"
- EAI_stockpile_htd_equipment_text:0 "Panzerzerstörer"
+ EAI_stockpile_htd_equipment_text:0 "Jagdpanzer"
  EAI_stockpile_hspart_equipment_text:0 "Sp. Artillerie"
  EAI_stockpile_hspaa_equipment_text:0 "Sp. Luftabwehr"
 
  EAI_modern_armor_text:0 "Moderne Panzerung"
  EAI_stockpile_modarm_equipment_text:0 "Panzer"
- EAI_stockpile_modtd_equipment_text:0 "Panzerzerstörer"
+ EAI_stockpile_modtd_equipment_text:0 "Jagdpanzer"
  EAI_stockpile_modspart_equipment_text:0 "Sp. Artillerie"
  EAI_stockpile_modspaa_equipment_text:0 "Sp. Luftabwehr"
 

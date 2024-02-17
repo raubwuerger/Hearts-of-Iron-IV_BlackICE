@@ -10,22 +10,22 @@
  arms_factory:0 "Militärfabrik"
  arms_factory_plural:0 "Militärfabriken"
  arms_factory_desc:0 "Dieses Gebäude versorgt den Staat mit Industrie für die Produktion neuer militärischer Ausrüstung. Kann bei Bedarf in zivile Industrie umgewandelt werden.$arms_factory_effect$"
- arms_factory_effect: "\n\nMax. Stufe: §Y20§!\nGebäudezustand: §Y9§!\nInfrastruktureffekt: §GYes§!\n\nEnergiebedarf: §R10§!£electricity_medium "
+ arms_factory_effect: "\n\nMax. Stufe: §Y20§!\nGebäudezustand: §Y9§!\nInfrastruktureffekt: §GJa§!\n\nEnergiebedarf: §R10§!£electricity_medium "
  
  dockyard:0 "Marinewerft"
  dockyard_plural:0 "Marinewerften"
  dockyard_desc:0 "Dieses Gebäude versorgt den Staat mit Industrie für den Bau neuer Schiffe.$dockyard_effect$"
- dockyard_effect: "\n\nMax. Stufe: §Y20§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GYes§!\n\nEnergiebedarf: §R15§!£electricity_medium "
+ dockyard_effect: "\n\nMax. Stufe: §Y20§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GJa§!\n\nEnergiebedarf: §R15§!£electricity_medium "
  
  shipyard:0 "Werft"
  shipyard_plural:0 "Werften"
  shipyard_desc:0 "Jede Werft wird §Cdie Produktionskosten§! von: §YMilitärischen Überwasserschiffen§! und §YKonvois§! senken.$shipyard_effect$"
- shipyard_effect: "\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y2§!\nInfrastruktureffekt: §GYes§!\n\nEnergiebedarf: §R6§!£electricity_medium "
+ shipyard_effect: "\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y2§!\nInfrastruktureffekt: §GJa§!\n\nEnergiebedarf: §R6§!£electricity_medium "
  
  subyard:0 "U-Boot-Werft"
  subyard_plural:0 "U-Boot-Werften"
  subyard_desc:1 "Jede U-Boot-Werft wird §Cdie Produktionskosten§! von: §YU-Booten§! um senken.$subyard_effect$"
- subyard_effect: "\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y2§!\nInfrastruktureffekt: §GYes§!\n\nEnergiebedarf: §R6§!£electricity_medium "
+ subyard_effect: "\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y2§!\nInfrastruktureffekt: §GJa§!\n\nEnergiebedarf: §R6§!£electricity_medium "
  
  tank_assembly:0 "Panzermontagewerk"
  tank_assembly_plural:0 "Panzermontagewerke"
@@ -35,7 +35,7 @@
  air_assembly:0 "Luftmontagewerk"
  air_assembly_plural:0 "Luftmontageanlagen"
  air_assembly_desc:0 "Luftmontageanlagen stellen §YLuftproduktionskapazität§! bereit, die für den Bau von §YFlugzeugen§!$air_assembly_effect$ erforderlich ist"
- air_assembly_effect: "\n\nMaximales Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GYes§!\n\nBasiskapazität: §Y+7§!£resources_strip|21 \n\nEnergiebedarf : §R6§!£electricity_medium "
+ air_assembly_effect: "\n\nMaximales Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nBasiskapazität: §Y+7§!£resources_strip|21 \n\nEnergiebedarf : §R6§!£electricity_medium "
  
  engine_assembly:0 "Motorenfabrik"
  engine_assembly_plural:0 "Motorenfabriken"
@@ -100,12 +100,12 @@
  rocket_site:0 "Raketenstandort"
  rocket_site_plural:0 "Raketenstandorte"
  rocket_site_desc:0 "Dieses Gebäude bietet dem Staat die Möglichkeit, produzierte Raketen zu stationieren.$rocket_site_effect$"
- rocket_site_effect: "\n\nMax. Stufe: §Y5§!\nGebäudezustand: §Y2§!\nRaketenabschusskapazität: §G100§!\nRaketenproduktion: §G5§!\nInfrastruktureffekt: §GYes§!"
+ rocket_site_effect: "\n\nMax. Stufe: §Y5§!\nGebäudezustand: §Y2§!\nRaketenabschusskapazität: §G100§!\nRaketenproduktion: §G5§!\nInfrastruktureffekt: §GJa§!"
  
  nuclear_reactor:0 "Kernreaktor"
  nuclear_reactor_plural:0 "Kernreaktoren"
  nuclear_reactor_desc:0 "Dieses Gebäude versorgt den Staat mit der Produktion von angereichertem Uran für den Einsatz in Atomwaffen.$nuclear_reactor_effect$"
- nuclear_reactor_effect: "\n\nMax. Stufe: §Y2§!\nGebäudezustand: §Y6§!\nKernproduktion: §G1§!\nInfrastruktureffekt: §GYes§!"
+ nuclear_reactor_effect: "\n\nMax. Stufe: §Y2§!\nGebäudezustand: §Y6§!\nKernproduktion: §G1§!\nInfrastruktureffekt: §GJa§!"
  
  fuel_silo:0 "Kraftstoffsilo"
  fuel_silo_plural:0 "Kraftstoffsilos"

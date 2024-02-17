@@ -15,21 +15,21 @@
  synthetic_rubber_refinery_plural:0 "Raffinerien für synthetischen Kautschuk"
 
  police_station:0 "Polizeistation"
- police_station_desc:0 "Dieses Gebäude stellt dem Staat Mittel zur Verfügung, um Partisanenaktivitäten zu verhindern.\n\nMax Stufe: §Y1§!\nGebäudezustand: §Y0§!\nInfrastruktur-Effekt: §RNo§! \n\n$police_station_effect$"
+ police_station_desc:0 "Dieses Gebäude stellt dem Staat Mittel zur Verfügung, um Partisanenaktivitäten zu verhindern.\n\nMax Stufe: §Y1§!\nGebäudezustand: §Y0§!\nInfrastruktur-Effekt: §RNein§! \n\n$police_station_effect$"
  police_station_effect:0 "Widerstands-Wachstumsgeschwindigkeit: §G-10%§! \nErforderliche Garnisonen: §G-5%§!"
  recruitment_building:0 "Rekrutierungszentrum"
- recruitment_building_desc:0 "Dieses Gebäude stellt dem Staat Mittel zur Verfügung, um die Wehrpflicht zuverlässiger durchzusetzen.\n\nMax. Stufe: §Y1§!\nGebäude Gesundheit: §Y0§!\nInfrastruktur-Effekt: §RNo§!"
+ recruitment_building_desc:0 "Dieses Gebäude stellt dem Staat Mittel zur Verfügung, um die Wehrpflicht zuverlässiger durchzusetzen.\n\nMax. Stufe: §Y1§!\nGebäude Gesundheit: §Y0§!\nInfrastruktur-Effekt: §RNein§!"
  modifier_production_speed_recruitment_building_factor:0 "§YRekrutierungszentrum§! Baugeschwindigkeit"
 
  storage: "Ressourcenspeicher"
  storage_plural: "Ressourcenspeicher"
  storage_desc: "Dieses Gebäude bietet dem Staat die Möglichkeit, §YRessourcen§! zu speichern. Nach seiner Errichtung kann es einer §Y1§!-spezifischen Ressource zugewiesen werden.$storage_effect$"
- storage_effect: "\n\nMax. Stufe: §Y1§!\nGebäudezustand: §Y1§!\nInfrastruktureffekt: §GYes§!\n\nLagerkapazität: §Y+50§! Einheiten von §YImport§!"
+ storage_effect: "\n\nMax. Stufe: §Y1§!\nGebäudezustand: §Y1§!\nInfrastruktureffekt: §GJa§!\n\nLagerkapazität: §Y+50§! Einheiten von §YImport§!"
 
  farm:0 "Industrieller Bauernhof"
  farm_plural:0 "Industriebetriebe"
  farm_desc:0 "Mechanisierte Landwirtschaft in größerem Maßstab, Steigerung der Produktion von §YLebensmitteln§!.$farm_effect$"
- farm_effect: "\n\nMax. Stufe: §Y1§!\nGebäudezustand: §Y0§!\nInfrastruktureffekt: §GYes§!\n\nBasisproduktion im Bundesstaat:"
+ farm_effect: "\n\nMax. Stufe: §Y1§!\nGebäudezustand: §Y0§!\nInfrastruktureffekt: §GJa§!\n\nBasisproduktion im Bundesstaat:"
 
  food_storage: "Lebensmittellagerung"
  food_storage_plural: "Lebensmittellager"
@@ -39,7 +39,7 @@
  power_plant: "Kraftwerk"
  power_plant_plural: "Kraftwerke"
  power_plant_desc: "Wärmekraftwerke erzeugen §YEnergie§! durch den Verbrauch von §YKohle§! oder §YKraftstoff§!.$power_plant_effect$"
- power_plant_effect: "\n\nMax. Stufe: §Y20§!\nGebäudezustand: §Y4§!\nInfrastruktureffekt: §GYes§!\n\n £electricity_medium Energieproduktionskapazität: §Y+120§!"
+ power_plant_effect: "\n\nMax. Stufe: §Y20§!\nGebäudezustand: §Y4§!\nInfrastruktureffekt: §GJa§!\n\n £electricity_medium Energieproduktionskapazität: §Y+120§!"
  
  hydro_power:0 "Wasserkraftwerk"
  hydro_power_plural:0 "Wasserkraftwerke"

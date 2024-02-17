@@ -136,7 +136,7 @@
  OCCUPATION_NO_GARRISON_NEEDED:0 "Keine Garnison erforderlich"
  OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION:0 "§0Der Unterdrückungswert einer Garnisonsvorlage ist §H0§! Bitte wählen Sie eine andere.§!"
  GARRISON_ENTRY_MANPOWER_TOOLTIP:0 "Soldaten pro Unterdrückung: $MANPOWER|*H$\nSoldaten pro Division: $MANPOWERDIV|*H$"
- GARRISON_ENTRY_IC_TOOLTIP:0 "Produktionskosten pro Unterdrückung: £production_cost£$IC|*H$\nProductionskosten pro Division: £production_cost£$ICDIV|*H$"
+ GARRISON_ENTRY_IC_TOOLTIP:0 "Produktionskosten pro Unterdrückung: £production_cost£$IC|*H$\nProduktionskosten pro Division: £production_cost£$ICDIV|*H$"
  GARRISON_HARDNESS_TOOLTIP:0 "§HHärte§!\nDie Härte einer Vorlage verringert die Verluste bei der Widerstandsaktivität."
  LAW_BONUS_SCALED:0 "§RDieses Gesetz entfaltet seine volle Wirkung erst, wenn die Bedürfnisse der Garnison vollständig befriedigt sind."
 
