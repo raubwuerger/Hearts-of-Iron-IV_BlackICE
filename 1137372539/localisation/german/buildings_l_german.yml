@@ -32,9 +32,9 @@
  tank_assembly_desc:0 "Panzermontagewerke bieten §YPanzerproduktionskapazität§!, die für den Bau von §YPanzern§!, §YPanzerwagen§! und §YMechanisierten§!$tank_assembly_effect$ erforderlich ist"
  tank_assembly_effect: "\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nGrundkapazität: §Y+7§!£resources_strip|20 \n\nEnergiebedarf : §R6§!£electricity_medium "
  
- air_assembly:0 "Luftmontagewerk"
- air_assembly_plural:0 "Luftmontageanlagen"
- air_assembly_desc:0 "Flugzeugmontageanlagen stellen §YFlugzeugproduktionskapazität§! bereit, die für den Bau von §YFlugzeugen§!$air_assembly_effect$ erforderlich ist"
+ air_assembly:0 "Flugzeugmontagewerk"
+ air_assembly_plural:0 "Flugzeugmontagewerke"
+ air_assembly_desc:0 "Flugzeugmontagewerk stellen §YFlugzeugproduktionskapazität§! bereit, die für den Bau von §YFlugzeugen§!$air_assembly_effect$ erforderlich ist"
  air_assembly_effect: "\n\nMaximales Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nBasiskapazität: §Y+7§!£resources_strip|21 \n\nEnergiebedarf : §R6§!£electricity_medium "
  
  engine_assembly:0 "Motorenfabrik"
@@ -83,8 +83,8 @@
  coastal_bunker_desc:0 "Dieses Gebäude fügt dem Angreifer im Seeinvasionskampf einen Angriffsmalus von $VALUE|+%0$ für jede Festungsstufe zu.$coastal_bunker_effect$"
  coastal_bunker_effect: "\n\nMax. Stufe: §Y10§!\nGebäudegesundheit: §Y4§!\nSchaden durch Bombenangriffe: §G-80%§!"
  
- anti_air_building:0 "Anti-Luft"
- anti_air_building_plural:0 "Luftabwehr"
+ anti_air_building:0 "Statische Luftabwehr"
+ anti_air_building_plural:0 "Statische Luftabwehr"
  anti_air_building_desc:0 "Dieses Gebäude bietet dem Staat Schutz vor feindlichen Bombern und die Möglichkeit, auf angreifende Flugzeuge zu schießen.$anti_air_building_effect$"
  anti_air_building_effect: "\n\nMax. Stufe: §Y6§!\nGebäudegesundheit: §Y2§!\nSchaden durch Bombenangriffe: §G-90%§!"
  
@@ -120,9 +120,9 @@
  rail_way_desc:2 "Eisenbahnen werden verwendet, um Versorgungszentren miteinander zu verbinden, um eine Versorgung weit entfernt von Ihrer Hauptstadt zu ermöglichen.$rail_way_effect$"
  rail_way_effect: "\n\nMax. Stufe: §Y5§!\nGebäudegesundheit: §Y3§!\nSchaden durch Bombenangriffe: §G-75%§!"
 
- pillbox:0 "Pillbox-Verteidigung"
- pillbox_plural:0 "Pillbox-Verteidigung"
- pillbox_desc:0 "Dieses Gebäude fügt dem Angreifer im Kampf einen Angriffsmalus von $VALUE|+%0$ für jede Pillbox zu. Angriffe aus mehreren Richtungen verringern den Pillbox-Effekt. Es ist nur 1 Pillbox-Stufe verfügbar.$pillbox_effect$"
+ pillbox:0 "Unterstand"
+ pillbox_plural:0 "Unterstände"
+ pillbox_desc:0 "Dieses Gebäude fügt dem Angreifer im Kampf einen Angriffsmalus von $VALUE|+%0$ für jeden Unterstand zu. Angriffe aus mehreren Richtungen verringern den Unterstandeffekt. Es ist nur 1 Unterstandsstufe verfügbar.$pillbox_effect$"
  pillbox_effect: "\n\nMax. Stufe: §Y1§!\nGebäudegesundheit: §Y4§!\nSchaden durch Bombenangriffe: §G-80%§!"
  
  BUILDING_BOMBED:0 "$BUILDING$ bombardiert!"

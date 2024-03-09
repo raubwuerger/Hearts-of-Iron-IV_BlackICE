@@ -544,7 +544,7 @@
 
  EAI_artillery_text:0 "Artillerie"
  EAI_stockpile_artillery_equipment_text:0 "Leutnant Artillerie"
- EAI_stockpile_mountain_artillery_equipment_text:0 "Pack. Artillerie"
+ EAI_stockpile_mountain_artillery_equipment_text:0 "Gebirgsgeschütz"
  EAI_stockpile_medartillery_equipment_text:0 "Med. Artillerie"
  EAI_stockpile_Hvartillery_equipment_text:0 "Hv. Artillerie"
  EAI_stockpile_superartillery_equipment_text:0 "Küsten-Artillerie"

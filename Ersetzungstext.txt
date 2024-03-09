@@ -6,5 +6,5 @@ Sturzkampfflugzeug
 Hide§
 Show§
 
-Dezimetrisches -> Dezimeter
-Zentrimetisches -> Zentimeter Radar
+Dezimetrisches -> Dezimeterwellen
+Zentrimetisches -> Zentimeterwellen Radar
