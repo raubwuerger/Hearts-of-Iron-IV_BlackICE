@@ -34,7 +34,7 @@
  
  air_assembly:0 "Luftmontagewerk"
  air_assembly_plural:0 "Luftmontageanlagen"
- air_assembly_desc:0 "Luftmontageanlagen stellen §YLuftproduktionskapazität§! bereit, die für den Bau von §YFlugzeugen§!$air_assembly_effect$ erforderlich ist"
+ air_assembly_desc:0 "Flugzeugmontageanlagen stellen §YFlugzeugproduktionskapazität§! bereit, die für den Bau von §YFlugzeugen§!$air_assembly_effect$ erforderlich ist"
  air_assembly_effect: "\n\nMaximales Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nBasiskapazität: §Y+7§!£resources_strip|21 \n\nEnergiebedarf : §R6§!£electricity_medium "
  
  engine_assembly:0 "Motorenfabrik"

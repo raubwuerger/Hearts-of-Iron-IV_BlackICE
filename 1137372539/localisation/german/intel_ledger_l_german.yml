@@ -4,7 +4,7 @@
  INTEL_LEDGER_TECH_COUNT:0 "Recherchiert: $COUNT$/$TOTAL$"
  INTEL_LEDGER_TECH_OLD_COUNT:0 "Recherchiert vor den letzten 6 Monaten: $COUNT$/$TOTAL$"
  INTEL_LEDGER_TECH_CURRENT_COUNT:0 "Recherchiert: $COUNT$"
- NOT_ENOUGH_INTEL_TO_SHOW_TREE:0 "§RNot enough intel to show tree§!"
+ NOT_ENOUGH_INTEL_TO_SHOW_TREE:0 "§RNicht genug Geheimdienstinformationen um Forschungsbaum anzuzeigen§!"
  CLICK_TO_SHOW_TREE:0 "§HKlicke, um den Forschungsbaum mit aktuellen und alten Forschungen anzuzeigen§!"
  CLICK_TO_SHOW_OLD_TREE:0 "§HKlicke, um den Forschungsbaum mit aktuellen Forschungen anzuzeigen§!"
  TOTAL_INTEL_CIVILIAN:0 "§HZivile Geheimdienstinformationen:§! $AMOUNT|.1%%+$"

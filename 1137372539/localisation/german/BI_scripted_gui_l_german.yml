@@ -120,8 +120,8 @@
  SUBYARD_FACTORY_TOOLTIP:0 "\n§YU-Bootwerften§!\n\nMax. Stufe: §Y[GetMaxSubyardNumber]§!\nAktuelles Level: [?num_subyard_total|Y0]\nBeschädigt: [?num_subyard_damaged|0R]\n\n§YSubmarine§!: £production_cost IC Kosten: §G-[GetSubyardBonus]§!"
 
  CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Kapazität der Großwerft§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@shipyard_capital]§![GetCapitalProductionFree]\n\nInsgesamt Große Schiffswerften: [?num_capital_shipyard|Y0]\n Beschädigt: [?num_capital_shipyard_damaged|R0]\n\nKapazität pro Werft: [?modifier@shipyard_capital_capacity|Y0]\n [!shipyard_assembly_capacity_click]"
- AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Luftproduktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@air_production]§!\n\nLuftmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@air_production_capacity|Y0]\n [!air_assembly_capacity_click]"
- TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@tank_production]§!\n\nGesamtzahl der Panzermontageanlagen: [?num_tank_assembly|Y0]\n Beschädigt: [?num_tank_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@tank_production_capacity|Y0]\n [!tank_assembly_capacity_click]"
+ AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Flugzeugproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@air_production]§!\n\nLuftmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@air_production_capacity|Y0]\n [!air_assembly_capacity_click]"
+ TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@tank_production]§!\n\nGesamtzahl der Panzermontageanlagen: [?num_tank_assembly|Y0]\n Beschädigt: [?num_tank_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@tank_production_capacity|Y0]\n [!tank_assembly_capacity_click]"
  ENGINE_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@engine_production] Motorenproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@engine_production]§!\n\nInsgesamt Motorenmontagewerke: [?num_engine_assembly|Y0]\n Beschädigt: [?num_engine_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@engine_production_capacity|Y0]\n [!engine_assembly_capacity_click]"
  ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_production] Artillerieproduktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_production]§!\n\nGesamtzahl der Artillerie-Montageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@artillery_production_capacity|Y0]\n [!artillery_assembly_capacity_click]"
  
@@ -1921,19 +1921,19 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  
  ENERGY_COAL_INPUT_TOOLTIP: "[!coal_input_text_click]"
  ENERGY_COAL_INPUT_BASE: "Wir verwenden derzeit [?energy_input@coal|Y0] £resources_strip|8 Kohle, um [?energy_produced@coal|Y0]£electricity_medium §YEnergie§ zu produzieren!"
- ENERGY_COAL_INPUT_DEFICIT: "\n§RRerfordert [?t|Y0] zusätzliche £resources_strip|8 Kohle für volle Effizienz! §!"
+ ENERGY_COAL_INPUT_DEFICIT: "\n§Rerfordert [?t|Y0] zusätzliche £resources_strip|8 Kohle für volle Effizienz! §!"
  ENERGY_COAL_INPUT_TOOLTIP_DELAYED: "[!coal_input_text_right_click]"
  ENERGY_FROM_COAL_TOOLTIP: "§G1§! Einheit von £resources_strip|8 Kohle ist in der Lage, [?energy_from_coal|Y0]£electricity_medium §YEnergie§ zu erzeugen!"
 
  ENERGY_FUEL_INPUT_TOOLTIP: "[!fuel_input_text_click]"
  ENERGY_FUEL_INPUT_BASE: "Wir verwenden derzeit [?input|Y0] £fuel_texticon Kraftstoff, um [?energy_produced@fuel|Y0]£electricity_medium §YEnergie§ zu erzeugen!"
- ENERGY_FUEL_INPUT_DEFICIT: "\n§RRerfordert §Y[?t|0]K§! zusätzlichen £fuel_texticon Kraftstoff im Lager (mindestens 5 % gefüllt) für volle Effizienz! §!"
+ ENERGY_FUEL_INPUT_DEFICIT: "\n§Rerfordert §Y[?t|0]K§! zusätzlichen £fuel_texticon Kraftstoff im Lager (mindestens 5 % gefüllt) für volle Effizienz! §!"
  ENERGY_FUEL_INPUT_TOOLTIP_DELAYED: "[!fuel_input_text_right_click]"
  ENERGY_FROM_FUEL_TOOLTIP: "§G24§! Einheiten von £fuel_texticon Kraftstoff ist in der Lage, [?energy_from_fuel|Y0]£electricity_medium §YEnergie§ zu erzeugen!"
 
  ENERGY_HYDRO_INPUT_TOOLTIP: "[!hydro_input_text_click]"
  ENERGY_HYDRO_INPUT_BASE: "Wir betreiben derzeit [?num_hydro_power|Y0] £energy_hydro_icon Wasserkraftwerke und produzieren [?energy_produced@hydro|Y0]£electricity_medium §YEnergie§!"
- ENERGY_HYDRO_INPUT_DEFICIT: "\n§RRerfordert §Y[?t|0]K§! zusätzlichen £energy_hydro_icon Kraftstoff im Lager (mindestens 5 % gefüllt) für volle Effizienz! §!"
+ ENERGY_HYDRO_INPUT_DEFICIT: "\n§Rerfordert §Y[?t|0]K§! zusätzlichen £energy_hydro_icon Kraftstoff im Lager (mindestens 5 % gefüllt) für volle Effizienz! §!"
  ENERGY_HYDRO_INPUT_TOOLTIP_DELAYED: "[!hydro_input_text_right_click]"
  ENERGY_FROM_HYDRO_TOOLTIP: "§G1§! Wasserkraftwerke können ohne Anforderungen [?energy_from_hydro|Y0]£Strom_Medium §YEnergie§! erzeugen, können aber nicht normal gebaut werden."
 
@@ -2672,11 +2672,11 @@ RUBBER_OUTPUT_TEXT_TT: "So viel £resources_strip|3 §YGummi§! können unsere �
  building_energy_tooltip: "\nEnergiebedarf: [?need|R1]£electricity_medium "
  building_delayed_tooltip: "§GKlicken Sie, um dieses Gebäude auszuwählen, und klicken Sie dann auf ein Bundesland, um mit dem Bau zu beginnen.§!"
  
- artillery_assembly_resource: "\nArtillerie-Produktionskapazität: §Y+[?modifier@artillery_production_capacity]§!£resources_strip|23 \n"
+ artillery_assembly_resource: "\nArtilleriproduktionskapazität: §Y+[?modifier@artillery_production_capacity]§!£resources_strip|23 \n"
  engine_assembly_resource: "\nMotorproduktionskapazität: §Y+[?modifier@engine_production_capacity]§!£resources_strip|22 \n"
- air_assembly_resource: "\nLuftproduktionskapazität: §Y+[?modifier@air_production_capacity]§!£resources_strip|21 \n"
- tank_assembly_resource: "\nTank-Produktionskapazität: §Y+[?modifier@tank_production_capacity]§!£resources_strip|20 \n"
- Capital_assembly_resource: "\nKapazität der Capital Shipyard: §Y+[?modifier@shipyard_capital_capacity]§!£resources_strip|24 \n"
+ air_assembly_resource: "\nFlugzeugproduktionskapazität: §Y+[?modifier@air_production_capacity]§!£resources_strip|21 \n"
+ tank_assembly_resource: "\nPanzerproduktionskapazität: §Y+[?modifier@tank_production_capacity]§!£resources_strip|20 \n"
+ Capital_assembly_resource: "\nGroßkampfschiffsproduktionskapazität: §Y+[?modifier@shipyard_capital_capacity]§!£resources_strip|24 \n"
  
  Steel_refinery_resource: "\nProduktion im Status: [?output|Y0=]£resources_strip|5 \n"
  aluminium_refinery_resource: "\nProduktion im Status: [?output|Y0=]£resources_strip|2 \n"

@@ -2219,13 +2219,13 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
  trm_special_zimmerit:0 "Zimmerit-Beschichtung"
  trm_special_zimmerit_desc:0 "Modulsteckplatz: Spezialfunktionen"
  
- trm_special_schurzen:0 "Schurzen Panzerschürzen"
+ trm_special_schurzen:0 "Panzerschürzen"
  trm_special_schurzen_desc:0 "Modulplatz: Spezialfunktionen"
  
- trm_special_armour_front:0 "Frontalapplikationspanzer"
+ trm_special_armour_front:0 "Zusätzliche Frontpanzerung"
  trm_special_armour_front_desc:0 "Modulplatz: Spezialfunktionen"
  
- trm_special_armour_side:0 "Aufgesetzte Seitenpanzerung"
+ trm_special_armour_side:0 "Zusätzliche Seitenpanzerung"
  trm_special_armour_side_desc:0 "Modulplatz: Spezialfunktionen"
 
  trm_special_simple_construction:0 "Vereinfachte Konstruktion"

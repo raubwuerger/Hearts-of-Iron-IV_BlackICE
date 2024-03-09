@@ -2,3 +2,9 @@ Strahlflugzeug
 Schwerer Sturzkampfbomber
 Strahlgetriebener Sturzkampfbomber
 Sturzkampfflugzeug
+
+Hide§
+Show§
+
+Dezimetrisches -> Dezimeter
+Zentrimetisches -> Zentimeter Radar
