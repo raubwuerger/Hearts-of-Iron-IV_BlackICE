@@ -9,3 +9,7 @@ Show§
 Dezimetrisches -> Dezimeterwellen
 Zentrimetisches -> Zentimeterwellen Radar
 Screening -> Sicherungs
+§YBattleline
+§YCarrier Group§!
+§YBattle
+§Yarmored
