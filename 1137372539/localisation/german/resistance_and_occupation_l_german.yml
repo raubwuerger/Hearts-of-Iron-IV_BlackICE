@@ -46,7 +46,7 @@
  LOCAL_COMPLIANCE:0 "Lokale Konformität"
 
  ADDITIONAL_RECRUITABLE_POPULATION_ENTRY:0 "£manpower_texticon Zusätzliche rekrutierbare Bevölkerung: $VALUE|+%3$"
- RECRUITABLE_POPULATION_ENTRY:0 "£manpower_texticon Rekrutierbare Bevölkerung Faktor: $VALUE|+%0$"
+ RECRUITABLE_POPULATION_ENTRY:0 "Aufgrund der folgenden Modifikatoren um $VALUE|+%0$ angepasst:"
 
  RESISTANCE_TARGET_FLOW:0 "£political_violence_texticon Widerstandsausbreitung von $STATE|H$: $FLOW|-%1$"
  RESISTANCE_DISABLED_INFO:1 "Der Widerstand wird derzeit erfolgreich unterdrückt und kann nicht weiter wachsen, bis §HResistance Target§! das $LIMIT|%0H$ erreicht"

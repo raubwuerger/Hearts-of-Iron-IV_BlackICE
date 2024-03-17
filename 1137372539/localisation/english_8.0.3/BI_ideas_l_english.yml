@@ -862,7 +862,10 @@
 
  civil_war:0 "Civil War"
 
- land_doctrine_level:0 "Land Doctrine Level"
+ land_doctrine_level:0 "Land Doctrine"
+ air_doctrine_level:0 "Air Doctrine"
+ navy_doctrine_level:0 "Naval Doctrine"
+ ww1_doctrine_level:0 "WW1 Doctrine"
  land_level_1:0 "Land Doctrine Level 1"
  land_level_2:0 "Land Doctrine Level 2"
  land_level_3:0 "Land Doctrine Level 3"

@@ -4266,6 +4266,7 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  dispersed_industry_category_tt:0 "§CVerteilte Industrietechnologien§!\n"
  electronics_tt:0 "§CElektronik§!\n"
  mot_rockets_tt:0 "§CMot. Raketenartillerie Technologien§!\n"
+ horse_tech_tt: "§CKavallerietechnologien§!"
  artillery_tt:0 "§CArtillerietechnologien§!\n"
  light_artillery: "Leichte Artillerietechnologien"
  med_artillery: "Mittlere Artillerietechnologien"
@@ -4436,7 +4437,7 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  ambush_tactics:0 "Taktik des Hinterhalts"
  ambush_tactics_desc:0 "Indem wir unsere Streitkräfte in Erwartung des Feindes sorgfältig positionieren, können wir das Überraschungsmoment perfekt ausnutzen und ihn töten, bevor er überhaupt weiß, was ihn getroffen hat."
  unconventional_warfare:0 "Unkonventionelle Kriegsführung"
- unconventional_warfare_tt:0 "Reduziert die Menge an §CInfanterieausrüstung§! & §CFelduniformen§! um §G5%§! in der folgenden\n§YInfanterie§! \n§YLeichtinfanterie§!\nund um §G10%§! in der folgenden\n§YKavallerie§!§! \n§YIrregulars§!§! \n§YMiliz§!§! \n"
+ unconventional_warfare_tt:0 "Reduziert die Menge an §CInfanterieausrüstung§! & §CFelduniformen§! um §G5%§! in der folgenden\n§YInfanterie§! \n§YLeichtinfanterie§!\nund um §G10%§! in der folgenden\n§YKavallerie§! \n§YIrregulars§! \n§YMiliz§! \n"
  unconventional_warfare_desc:0 "Die Verbesserung der Kampffähigkeiten von irregulären Militäreinheiten sowie von solchen, die als veraltet gelten, wird unsere Feinde unweigerlich in ein falsches Gefühl der Sicherheit versetzen, da sie die wahren Fähigkeiten unserer irregulären Truppen nicht kennen."
  local_knowledge:0 "Lokale Kenntnisse"
  local_knowledge_desc:0 "Wenn unsere Soldaten mit den örtlichen Gegebenheiten unseres Landes vertraut gemacht werden, können sie sich besser positionieren, indem sie die verschiedenen geografischen Gegebenheiten ihrer aktuellen Position nutzen."
@@ -4546,22 +4547,6 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  tank_techs_folder:0 "Panzer-Technologien"
  tank_techs_folder_desc:0 "Technologien im Zusammenhang mit motorisierten und gepanzerten Truppen"
 
- foreign_lt_armor_TT:0 "\nGefangene leichte Panzer werden automatisch in fremde leichte Panzer umgewandelt.\n\nVon allen gefangenen leichten Panzern"
- foreign_med_armor_TT:0 "\nGefangene mittlere und schwere Panzer werden automatisch in fremde mittlere Panzer umgewandelt.\n\nAlle erbeuteten mittleren und schweren Panzer"
-
- foreign_lt_armor_1:0 "\n[?Root.modifier@production_speed_foreign_light_armor_1_factor|%0] sind §Y"
- foreign_lt_armor_2:0 "§!\n[?Root.modifier@production_speed_foreign_light_armor_2_factor|%0] sind §Y"
- foreign_lt_armor_3:0 "§!\n[?Root.modifier@production_speed_foreign_light_armor_3_factor|%0] sind §Y"
- foreign_lt_armor_4:0 "§!\n[?Root.modifier@production_speed_foreign_light_armor_4_factor|%0] sind §Y"
- foreign_lt_armor_5:0 "§!\n[?Root.modifier@production_speed_foreign_light_armor_5_factor|%0] sind §Y"
- foreign_lt_armor_end:0 "§!\n"
-
- foreign_med_armor_1:0 "\n[?Root.modifier@production_speed_foreign_light_armor_1_factor|%0] sind §Y"
- foreign_med_armor_2:0 "§!\n[?Root.modifier@production_speed_foreign_medium_armor_2_factor|%0] sind §Y"
- foreign_med_armor_3:0 "§!\n[?Root.modifier@production_speed_foreign_medium_armor_3_factor|%0] sind §Y"
- foreign_med_armor_4:0 "§!\n[?Root.modifier@production_speed_foreign_medium_armor_4_factor|%0] sind §Y"
- foreign_med_armor_5:0 "§!\n[?Root.modifier@production_speed_foreign_medium_armor_5_factor|%0] sind §Y"
-
  infantry_overlay_folder:0 "Forschung Eingeschränkt"
  support_overlay_folder:0 "Forschung Eingeschränkt"
  tank_techs_overlay_folder:0 "Forschung Eingeschränkt"
@@ -4669,6 +4654,7 @@ improved_power_grid_iii_output:0 "Ländlicher Netzausbau"
 improved_power_grid_iv_output:0 "Industrieller Netzausbau"
 
 
+LAND_DOCTRINE_WW1_REQIREMENT: "£trigger_no Erfordert §YWW1 Doktrinen§! erforscht ([?modifier@ww1_doctrine_level]/67)"
  YEAR_1910:0 "\n\n\n\n\n\n\n\n1910"
  YEAR_1915:0 "\n\n\n\n\n\n\n1915"
  YEAR_1917:0 "\n\n\n\n\n\n\n1917"

@@ -4266,6 +4266,7 @@
  dispersed_industry_category_tt:0 "§CDispersed Industry Technologies§!\n"
  electronics_tt:0 "§CElectronics§!\n"
  mot_rockets_tt:0 "§CMot. Rocket Artillery Techs§!\n"
+ horse_tech_tt: "§CHorse Techs§!"
  artillery_tt:0 "§CArtillery Techs§!\n"
  light_artillery: "Light Artillery Techs"
  med_artillery: "Medium Artillery Techs"
@@ -4436,7 +4437,7 @@
  ambush_tactics:0 "Ambush Tactics"
  ambush_tactics_desc:0 "By carefully positioning our forces in anticipation of the enemy, we can make perfect use of the element of surprise and kill them before they even realise what hit 'em."
  unconventional_warfare:0 "Unconventional Warfare"
- unconventional_warfare_tt:0 "Reduces the amount of §CInfantry Equipment§! & §CField Uniforms§! by §G5%§! in the following\n§YInfantry§! \n§YLight Infantry§!\nand by §G10%§! in the following\n§YCavalry§!§! \n§YIrregulars§!§! \n§YMilitia§!§! \n"
+ unconventional_warfare_tt:0 "Reduces the amount of §CInfantry Equipment§! & §CField Uniforms§! by §G5%§! in the following\n§YInfantry§! \n§YLight Infantry§!\nand by §G10%§! in the following\n§YCavalry§! \n§YIrregulars§! \n§YMilitia§! \n"
  unconventional_warfare_desc:0 "Improving the combat prowess of irregular military units, as well as of those considered obsolescent, will invariably lead our enemies into a false sense of security, not knowing the true capabilities of our irregulars."
  local_knowledge:0 "Local Knowledge"
  local_knowledge_desc:0 "Familiarising our soldiers with our country's local features will result in better positioning by taking advantage of the various geographical surroundings around their current position."
@@ -4546,22 +4547,6 @@
  tank_techs_folder:0 "Tank Technologies"
  tank_techs_folder_desc:0 "Technologies related to motorized and armoured forces"
 
- foreign_lt_armor_TT:0 "\nCaptured Light Tanks get converted into Foreign Light Armor automatically.\n\nOf all Captured Light Tanks"
- foreign_med_armor_TT:0 "\nCaptured Medium and Heavy Tanks get converted into Foreign Medium Armor automatically.\n\nOf all Captured Medium and Heavy Tanks"
-
- foreign_lt_armor_1:0 "\n[?Root.modifier@production_speed_foreign_light_armor_1_factor|%0] are §Y"
- foreign_lt_armor_2:0 "§!\n[?Root.modifier@production_speed_foreign_light_armor_2_factor|%0] are §Y"
- foreign_lt_armor_3:0 "§!\n[?Root.modifier@production_speed_foreign_light_armor_3_factor|%0] are §Y"
- foreign_lt_armor_4:0 "§!\n[?Root.modifier@production_speed_foreign_light_armor_4_factor|%0] are §Y"
- foreign_lt_armor_5:0 "§!\n[?Root.modifier@production_speed_foreign_light_armor_5_factor|%0] are §Y"
- foreign_lt_armor_end:0 "§!\n"
-
- foreign_med_armor_1:0 "\n[?Root.modifier@production_speed_foreign_light_armor_1_factor|%0] are §Y"
- foreign_med_armor_2:0 "§!\n[?Root.modifier@production_speed_foreign_medium_armor_2_factor|%0] are §Y"
- foreign_med_armor_3:0 "§!\n[?Root.modifier@production_speed_foreign_medium_armor_3_factor|%0] are §Y"
- foreign_med_armor_4:0 "§!\n[?Root.modifier@production_speed_foreign_medium_armor_4_factor|%0] are §Y"
- foreign_med_armor_5:0 "§!\n[?Root.modifier@production_speed_foreign_medium_armor_5_factor|%0] are §Y"
-
  infantry_overlay_folder:0 "Research Restricted"
  support_overlay_folder:0 "Research Restricted"
  tank_techs_overlay_folder:0 "Research Restricted"
@@ -4669,6 +4654,7 @@ improved_power_grid_iii_output:0 "Rural Grid Expansion"
 improved_power_grid_iv_output:0 "Industrial Grid Expansion" 
 
 
+ LAND_DOCTRINE_WW1_REQIREMENT: "£trigger_no Requires §YWW1 Doctrines§! researched ([?modifier@ww1_doctrine_level]/67)"
  YEAR_1910:0 "\n\n\n\n\n\n\n1910"
  YEAR_1915:0 "\n\n\n\n\n\n\n1915"
  YEAR_1917:0 "\n\n\n\n\n\n\n1917"

@@ -515,6 +515,7 @@
  DR_TRADE_INFLUENCE: "§Y$US|U$§! Handelseinfluss über §Y$THEM$§!:"
  DR_TRADE_EMBARGO: "§Y$THEM$§! wurde von §Y$US$§! gesperrt:"
  DR_MARKET_CONTRACT_DURATION: "Vertragsdauer:"
+ DR_HAS_NON_AGGRESSION_PACT: "§Y$THEM$§! hat Nichtangriffspakte mit §Y$US$§!:"
  DR_MARKET_NO_TRADE_ROUTE: "Keine gültige Handelsroute zwischen Ländern:"
  DR_MARKET_TRADE_POS_DESIRE: "§Y$US$§! ist bereit, mit §Y$THEM$§! zu handeln:"
  DR_MARKET_TRADE_NEG_DESIRE: "§Y$US$§! ist nicht bereit, mit §Y$THEM$§! zu handeln:"

@@ -123,7 +123,9 @@
  MIN_INTEL_REQUIRED_FOR_EQUIPMENT_ARCHETYPES:0 "Erforderliche Informationen für Ausrüstungsarchetypen: $MIN|H.0%$"
  MIN_INTEL_REQUIRED_FOR_EQUIPMENT_TYPES:0 "Erforderliche Information für die detaillierte Ausrüstungsliste: $MIN|H.0%$"
  MIN_INTEL_REQUIRED_FOR_EQUIPMENT_DESIGN_DETAILS:0 "Erforderliche Informationen für Ausrüstungsdetails: $MIN|H.0%$"
- LEDGER_STOCKPILE_AMOUNT_TOOLTIP:0 "Menge des Vorrats: $RANGE|H$"
+ LEDGER_TOTAL_STOCKPILE_AMOUNT_TOOLTIP: "Gesamt: $RANGE|H$"
+ LEDGER_STOCKPILE_AMOUNT_TOOLTIP:1 " - Vorratsmenge: $RANGE|H$"
+ LEDGER_MARKET_STOCKPILE_AMOUNT_TOOLTIP: " – Internationaler Marktbetrag: $RANGE|H$" 
  LEDGER_DESIGN_DETAILS_TITLE:0 "Entwurfsdetails:"
 
  CURRENT_NAVY_INTEL:0 "Marine-Informationen: $AMOUNT|H.0%$"

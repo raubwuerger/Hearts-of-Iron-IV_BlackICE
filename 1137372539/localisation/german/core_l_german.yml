@@ -1949,7 +1949,7 @@
   REMOVE: "Entfernen"
   TECH_DISALLOWED_BECAUSE: "§RDieser Zweig erfordert:§! "
   SUBUNIT_PER_BATTALION_MODIFIER_DESC: "\n§LBattalions-Modifikatoren und ihre aufgelisteten Statistiken multipliziert mit der Anzahl der Zielbataillone in der Division.§! "
-
+  DIVISION_VIEW_HAS_MEDALS:0 "Diese Abteilung kann mit einer §HMedaille§! ausgezeichnet werden.\n§GKlicken Sie hier, um die Medaillenansicht zu öffnen.§!"
   #### BICE ### ""
   ---_liberalism:0 "ein beliebiges liberalistisches Land"
   ---_conservatism:0 "ein beliebiges konservatives Land"

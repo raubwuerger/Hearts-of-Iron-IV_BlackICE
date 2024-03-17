@@ -15,7 +15,7 @@
   WAR_SUPPORT_TENSION:0 "Weltweite Spannungen: $VALUE|+=2%$"
   WAR_SUPPORT_BEING_BOMBED:0 "Feindliche Bombardierung: $VALUE|+=2%$"
   WAR_SUPPORT_INTERCEPTION:0 "Abfangen: $VALUE|+=2%$"
-  WAR_SUPPORT_HEROES_BEING_KILLED:1 "Getötete Kriegshelden: $VALUE|+=2%$"
+  WAR_SUPPORT_HEROES_BEING_KILLED:1 "Verluste: $VALUE|+=2%$"
   WAR_SUPPORT_CONVOYS_BEING_RAIDED:1 "Konvois überfallen: $VALUE|+=2%$"
   WAR_SUPPORT_PROPAGANDA:0 "£operative_mission_icons_small|8£ Fremde Propaganda: $VALUE|+=2%$"
   POLITICAL_POWER:0 "Politische Macht"

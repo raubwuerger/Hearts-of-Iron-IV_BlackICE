@@ -219,7 +219,7 @@ INTERNATIONAL_MARKET_NO_EQUIPMENT_TO_BUY: "The country(s) you have §YMarket Acc
 INTERNATIONAL_MARKET_NO_FILTERED_EQUIPMENT_TO_BUY: "The country(s) you have §YMarket Access§! to aren't selling any equipment of this type right now."
 INTERNATIONAL_MARKET_NO_FILTERED_SUBSIDY_EQUIPMENT_TO_BUY: "The country(s) you have  §YMarket Access§! to aren't selling any equipment that can be matched with your current Subsidy."
 INTERNATIONAL_MARKET_NO_ACCESS_EMPTY_STOCKIPLE: "Before you can sell equipment you need to add equipment to the market and offer §YMarket Access§! to another country. Being in the same faction with someone gives you §YMarket Access§! too."
-INTERNATIONAL_MARKET_EMPTY_STOCKPILE: "You don't have any equipment on the market right now. Add equipment so that countries who have §YMarket Access§! to you can buy them for £civ_factory_output£ §YEconomic Capacity§!, which will help you contstruct buildings faster."
+INTERNATIONAL_MARKET_EMPTY_STOCKPILE: "You don't have any equipment on the market right now. Add equipment so that countries who have §YMarket Access§! to you can buy them for £civ_factory_output£ §YEconomic Capacity§!, which will help you construct buildings faster."
 INTERNATIONAL_MARKET_NO_FILTERED_EMPTY_STOCKPILE: "You don't have any equipment of this type on the market right now."
 INTERNATIONAL_MARKET_EQUIPMENT_FILTER_BUTTON_TOOLTIP: "§GClick§! to only show this category ($AMOUNT|Y$ match)."
 INTERNATIONAL_MARKET_EQUIPMENT_FILTER_BUTTON_SELECTED_TOOLTIP: "§GClick§! to show all categories ($AMOUNT|Y$ match)."

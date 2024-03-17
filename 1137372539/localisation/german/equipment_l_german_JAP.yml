@@ -222,7 +222,8 @@
  JAP_HVanti_air_equipment_1_desc:1 "Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, das selbst die schnellsten und höchsten feindlichen Flugzeuge bekämpfen kann."
  JAP_HVanti_air_equipment_2:0 "Typ 99 8,8cm Flakgeschütz"
  JAP_HVanti_air_equipment_2_desc:0 "Geschütze größeren Kalibers zur Bekämpfung schwerer Panzer mit schräger Panzerung."
- JAP_HVanti_air_equipment_3:0 "Typ 3 12cm Flakgeschütz"
+ JAP_HVanti_air_equipment_3:0 "75-mm-Flugabwehrkanone Typ 4"
+ JAP_HVanti_air_equipment_3_short:0 "75mm Typ 4"
  JAP_HVanti_air_equipment_3_desc:0 "Durch die Kombination verschiedener neuer Munitionstechnologien mit Geschützen mit höherer Mündungsgeschwindigkeit sind diese Panzerabwehrkanonen auf jede neue Panzerung unserer Feinde vorbereitet."
 
  JAP_motorized_rocket_equipment_1:0 "Shisei Yon-shiki"

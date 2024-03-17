@@ -32,3 +32,50 @@
    anti_air_mapmode_tooltip_delayed: ""
    research_center_mapmode_tooltip: "[FROM.research_center_mapmode_tt]"
    research_center_mapmode_tooltip_delayed: ""
+   
+   ai_map_mode_tooltip: "AIRBASE Score: [?FROM.ai_airbase_slot_score]"
+   front_state_mapmode_tooltip: "§RRed§! = Front State\n§bBlack§! = 100 pixel to front\n§GGreen§! = 150 pixel to front"
+   
+   front_region_mapmode_tooltip: "SCORE: [?FROM.ai_airbase_slot_score] | Mult: [?FROM.ai_airbase_slot_score_mult] | Distance: [?FROM.distance_to_front]\n[GetRegionDeployedPlanes] | Capacity: [?air_capacity] | Ratio: [?ratio|%]"
+    
+   ai_building_slot_score_tooltip: "[GetAIMapmodeTooltip]"
+   ai_default_slot_score_tooltip: "ai_default_slot_score: [?FROM.ai_default_slot_score]"
+   ai_airbase_slot_score_tooltips: "ai_airbase_slot_score: [?FROM.ai_airbase_slot_score] | Mult: [?FROM.ai_airbase_slot_score_mult] | Distance: [?FROM.distance_to_front] \n[GetRegionDeployedPlanes] | Capacity: [?air_capacity] | Ratio: [?ratio|%]"
+   ai_resource_slot_score_tooltip: "ai_resource_slot_score: [?FROM.ai_resource_slot_score]"
+   ai_radar_slot_score_tooltip: "ai_radar_slot_score: [?FROM.ai_radar_slot_score]"
+   ai_new_radar_slot_score_tooltip: "ai_new_radar_slot_score: [?FROM.ai_new_radar_slot_score]\n  num_own_states: [?FROM.ai_new_radar_num_own_states]\n  num_allied_states: [?FROM.ai_new_radar_num_allied_states]\n  num_neutral_states: [?FROM.ai_new_radar_num_neutral_state]\n  num_enemy_states: [?FROM.ai_new_radar_num_enemy_states]\n  num_potential_enemy_states: [?FROM.ai_new_radar_num_potential_enemy_states]"
+   
+   ai_resource_built_tooltip: "Infra built: [?FROM.ai_built@infrastructure] | Current: [?FROM.building_level@infrastructure]"
+   ai_airbase_built_tooltip: "Airbase built: [?FROM.ai_built@air_base] | Current: [?FROM.building_level@air_base]"
+   ai_radar_built_tooltip: "Radar built: [?FROM.ai_built@radar_station] | Current: [?FROM.building_level@radar_station]"
+   ai_building_built_tooltip: "All built: [GetAIBuiltAll]\n industrial_complex: [?FROM.ai_built@industrial_complex]\n arms_factory: [?FROM.ai_built@arms_factory]\n dockyard: [?FROM.ai_built@dockyard]\n air_assembly: [?FROM.ai_built@air_assembly]\n power_plant: [?FROM.ai_built@power_plant]\n steel_refinery: [?FROM.ai_built@steel_refinery]\n aluminium_refinery: [?FROM.ai_built@aluminium_refinery]"
+   
+   ai_building_built_score_tooltip: "[?FROM.ai_built@air_base] BUILT | [?FROM.building_level@air_base] CURRENT LEVEL"
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

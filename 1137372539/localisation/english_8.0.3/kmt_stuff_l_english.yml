@@ -1774,6 +1774,7 @@
  KMT_reorganising_military:0 "Reorganizing the Military"
  
  CHI_integrate_warlords:0 "Integrate [FROM.GetName]"
+ PRC_integrate_SHX:0 "Integrate [FROM.GetName]"
  CHI_integrate_warlords_cost:0 "£command_power §H20§!"
  CHI_integrate_warlords_cost_blocked:0 "£command_power §R20§!"
  CHI_is_annexing_warlord:0 "Is integrating a Warlord"

@@ -243,6 +243,8 @@
  resource_prospecting_3_times_TT:0 "\nThis decision can be done §Y3§! times.\n"
  resource_prospecting_4_times_TT:0 "\nThis decision can be done §Y4§! times.\n"
  resource_prospecting_5_times_TT:0 "\nThis decision can be done §Y5§! times.\n"
+ resource_prospecting_8_times_TT: "\nThis decision can be done §Y8§! times.\n"
+ resource_prospecting_9_times_TT: "\nThis decision can be done §Y9§! times.\n"
  #### Waffen SS ####
  Himmler_occult_TT:0 "\n\n§gHimmler is building an occult around him. We can't let him become too powerful.§!\n\n"
  himmler_occult:0 "Himmler's Occult"
@@ -353,12 +355,27 @@
  
  #### ENG ####
  ENG_sov_aid: "Send Aid to Soviets"
+ ENG_dont_allow_vichy_ai: "Disallow AI Allies to attack Vichy France"
+ ENG_allow_vichy_ai: "Allow AI Allies to attack Vichy France"
  ENG_sov_shippment: "Ship Parts and Supplies to the Soviets"
  CW_AIR_PLAN: "The PLAN"
- CW_AIR_PLAN_desc: "Current Training stats\n Each base can train 100 planes at a time and each plane can train 10 pilots, it takes around 12 weeks for the average pilot to be trained \n There are currently [?ENG.pilots_trained|G0] by our program \n Total Pilots ready for training [?ENG.pilots_available|G0]\n Trainer Planes Ready [?ENG.trainers_available|Y0]\n Total Air Bases  [?ENG.training_bases|C0]\n\n Each Week we add\n   [?trainer_production|G0] planes \n   [?pilots|G0] Pilots"
+ CW_AIR_PLAN_desc: "Each §YTraining Aircraft§! can train §Y10§! Pilots at a time. It takes roughly 12 Weeks for a Pilot to finish his training. The Training has a §RCost§!, but provides us with a bonus to our §Yair capabilities§!."
+ CW_AIR_PLAN_TEXT_1: "Available Pilots for Training: [?ENG.pilots_available|G0]\n    Weekly Change: [GetPLANPilotChange]\n    Lost to accidents: [?ENG.planes_lost|R0]"
+ CW_AIR_PLAN_TEXT_2: "Available Training Aircaft: [?ENG.trainers_available|Y0]/[?ENG.training_bases|Y0]\n    Weekly Change: [GetPLANTrainerChange]\n    Lost to accidents: [?ENG.planes_lost|R0]"
+ CW_AIR_PLAN_TEXT_3: "[?ENG.pilots_trained|G0] Pilots have successfully finished training thus far"
+ CW_BONUS_TT: "[!bonus_click]"
+ CW_COST_TT: "[!cost_click]"
+ CW_COST_TITLE: "§YCurrent Air Training Cost§!"
+ CW_NEXT_BONUS: "§Y\n\nWe will get the following effect with more than [?plan_target|C0] Pilots:§!"
+ CW_INITIAL_UNLOCK: "£trigger_no Requires Focus §YCommonwealth Joint Air Training§!"
  increase_trainer_production: "Increase Production of Trainer Aircraft"
+ increase_trainer_production_TT: "Modifies §Y$CW_air_plan_costs$§! by:\n$country_resource_cost_air_production$: §R+3§!\n$country_resource_cost_engine_production$: §R+2§!"
  decrease_trainer_production: "Decrease Production of Trainer Aircraft"
+ decrease_trainer_production_TT: "Modifies §Y$CW_air_plan_costs$§! by:\n$country_resource_cost_air_production$: §G-3§!\n$country_resource_cost_engine_production$: §G-2§!"
+ TRAINER_PRODUCTION_CHANGE: "Changes §YTraining Aircraft Production§! by $RIGHT|0+=$"
+ send_fresh_pilots_TT: "Available Pilots for Training: §G+1000§!"
  send_fresh_pilots: "Send Pilots to be trained in the PLAN"
+ CW_air_plan_costs: "Commonwealth Joint Air Training Costs"
  
  JAP_pearl:0 "Operation AI"
  JAP_pearl_desc:0 "The American's continue to provoke us by restricting our trade and funding our opponents, now our intellegence has provided information of an opportunity to strike at the beast, let us launch a full scale attack and show them the might of the IJN"
@@ -555,9 +572,10 @@
  SOV_honour_MR_pact_desc:0 "Honour the Molotov - Ribbentrop Pact"
  SOV_2nd_steel_refineries:0 "More §YSteel Mills§! than [GER.GetNameWithFlag]. They have §Y[?GER.num_refinery@steel]§!\n §YOR§! more than §Y[?steel_ref_target]§! §YSteel Mills§!. Current Refinery Count: §Y[?SOV.num_refinery@steel]§!" 
  SOV_2nd_resource_steel:0 "More than §Y[?sov.steel_target]§! £resources_strip|5  extracted by the Soviet Union"
- SOV_2nd_resource_coal:0 "More than §Y[?sov.coal_target]§! £resources_strip|8  extracted by the Soviet Union (before coal use for energy)"
- SOV_2nd_resource_iron:0 "More than §Y[?sov.iron_target]§! £resources_strip|9  extracted by the Soviet Union"
- SOV_2nd_resource_oil:0 "More than §Y[?sov.oil_target]§! £oil_icon  extracted by the Soviet Union"
+ SOV_2nd_resource_coal:0 "More than §Y[?sov.coal_target]§! £resources_strip|8  extracted by the Soviet Union ([?num_coal|0]; before coal use for energy)"
+ SOV_2nd_resource_iron:0 "More than §Y[?sov.iron_target]§! £resources_strip|9  extracted by the Soviet Union ([?num_iron|0])"
+ SOV_2nd_resource_oil:0 "More than §Y[?sov.oil_target]§! £oil_icon  extracted by the Soviet Union ([?resource_produced@oil|0])"
+ SOV_2nd_resource_fuel: "More than §Y[?sov.fuel_target_in_k|0]K§! £fuel_state in Storage ([?fuel_k|0]K)"
  SOV_JAP_border_clashes:0 "Border Clashes"
  SOV_JAP_border_clashes_desc:0 "The current Situation at the border is\n §R[SOV.GetName] Border Achievements = [?sov.border_strength]§!  Historical Achievements: [?sov.border_high] \n §Y[JAP.GetName] Border Achievements = [?jap.border_strength]§!   Historical Achievements: [?jap.border_high]§!"
  border_skirmish: "Valour at the Border"
@@ -612,19 +630,20 @@
  Foreign_investors3:0 "Rail Investment"
  Foreign_investors3_desc:0 "Time to clear some farmland for better railways"
  Foreign_investment:0 "Current Foreign Investment"
- SOV_moscov_build:0 "Total Factories > [?sov.moscov_build] ([?buildings|0])"
- SOV_lenin_build:0 "Total Factories > [?sov.leningrad_build] ([?buildings|0])"
- SOV_kiev_build:0 "Total Factories > [?sov.kiev_area_build] ([?buildings|0])"
- SOV_minsk_build:0 "Total Factories > [?sov.minsk_build] ([?buildings|0])"
- SOV_stalingrad_build:0 "Total Factories > [?sov.stalingrad_build] ([?buildings|0])"
- SOV_crimea_build:0 "Total Factories > [?sov.crimea_build] ([?buildings|0])"
- SOV_kharkov_build:0 "Total Factories > [?sov.kharkov_build] ([?buildings|0])"
- SOV_saratov_build:0 "Total Factories > [?sov.saratov_build] ([?buildings|0])"
- SOV_gorki_build:0 "Total Factories > [?sov.gorki_build] ([?buildings|0])"
- SOV_bryansk_build:0 "Total Factories > [?sov.bryansk_build] ([?buildings|0])"
+ SOV_moscov_build:0 "Total Factories & Refineries > [?sov.moscov_build] ([?buildings|0])"
+ SOV_lenin_build:0 "Total Factories & Refineries > [?sov.leningrad_build] ([?buildings|0])"
+ SOV_kiev_build:0 "§YKiev & Kiev Industrial Area:§!\n  Total Factories & Refineries > [?sov.kiev_area_build] ([?buildings|0])"
+ SOV_minsk_build:0 "Total Factories & Refineries > [?sov.minsk_build] ([?buildings|0])"
+ SOV_stalingrad_build:0 "Total Factories & Refineries > [?sov.stalingrad_build] ([?buildings|0])"
+ SOV_crimea_build:0 "Total Factories & Refineries > [?sov.crimea_build] ([?buildings|0])"
+ SOV_kharkov_build:0 "Total Factories & Refineries > [?sov.kharkov_build] ([?buildings|0])"
+ SOV_saratov_build:0 "Total Factories & Refineries > [?sov.saratov_build] ([?buildings|0])"
+ SOV_gorki_build:0 "Total Factories & Refineries > [?sov.gorki_build] ([?buildings|0])"
+ SOV_bryansk_build:0 "Total Factories & Refineries > [?sov.bryansk_build] ([?buildings|0])"
  SOV_2nd_civilian_factories:0 "More than §Y[?sov.civ_target] $industrial_complex$§! owned by the Soviet Union ([?num_owned_civilian_factories])"
- SOV_2nd_rations_stored: "More than §Y[?sov.food_target] Rations§! stored by the Soviet Union (§Y[?sov.food]§! currently)"
- SOV_2nd_tractors:0 "More than §Y[?sov.tractor_target]§! £tractor  produced by the Soviet Union"
+ SOV_2nd_rations_stored: "More than §Y[?sov.food_target]K Rations§! stored by the Soviet Union ([?sov.food|0]K)"
+ SOV_2nd_tractors:0 "More than §Y[?sov.tractor_target]§! £tractor  produced by the Soviet Union ([?tractors_produced|0])"
+ SOV_great_patriotic_war: "Great Patriotic War"
  SOV_tractors:0 "Soviet Tractors"
  SOV_tractors_desc:0 "We need Tractors\n Tractor Plants [?tractor_plants|G0]\n Weekly £tractor  Production [?tractor_production|Y0]\n Total £tractor  Produced [?tractors_produced|C0]\n £tractor  Available [?tractor_stockpile|G0]"
  SOV_build_plant:0 "Commission Tractor Plant"
@@ -1130,3 +1149,17 @@
   diversify_special_forces: "Diversify Elite Forces"
   diversify_special_forces_desc: "Our conventional forces simply aren't enough to combat the oncoming storm. We must innovate."
   add_potential_special_forces_tree_tt: "Adds §H1§! free Special Forces §HBranch Specialism§!"
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
