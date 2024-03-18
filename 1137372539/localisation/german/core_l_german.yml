@@ -1342,7 +1342,7 @@
   NAVY_REPAIR_NOW:3 "§HJetzt reparieren!§!\nDer Einsatztrupp kehrt für Reparaturen zu einem nahe gelegenen Marinestützpunkt zurück.\n§GKlick§! zum Senden. Er kehrt zur aktuellen Aufgabe zurück, nachdem er vollständig repariert wurde.\n§GStrg+Klick§! zum Senden. Danach bleibt es im Marinestützpunkt."
   SHIP_REPAIR_NOW:3 "§HJetzt reparieren!§!\nDas Schiff löst sich als separater Einsatzverband ab und kehrt zur Reparatur in einen nahegelegenen Marinestützpunkt zurück.\nDas Schiff kehrt zu seinem aktuellen Einsatzverband zurück, sobald es vollständig repariert ist.\n§GClick§! zum Ablösen.\n§GShift+Click§! um mehrere Schiffe zu markieren und sie als einen Einsatzverband abzulösen, wenn Sie §GShift§! loslassen."
   SHIP_REPAIR_NOW_WITHOUT_DETACHING:0 "§HJetzt reparieren!§!\n§GClick§! zum Hinzufügen von Schiffen zur Reparaturwarteschlange."
-  SHIP_REFIT_TOOLTIP:0 "§HRefit Ships§!\n Rüstet die ausgewählten Schiffe auf ein anderes kompatibles Schiffsdesign um."
+  SHIP_REFIT_TOOLTIP:0 "§HSchiff umrüsten§!\n Rüstet die ausgewählten Schiffe auf ein anderes kompatibles Schiffsdesign um."
   SHIP_REFIT_NO_SHIPS_TOOLTIP:0 "§4Es sind derzeit keine Schiffe ausgewählt!"
   SHIP_REFIT_NO_COMPATIBLE_DESIGNS_TOOLTIP:0 "§REs gibt keine verfügbaren Schiffsdesigns, die als Umrüstungsziele für alle derzeit ausgewählten Schiffe in Frage kommen.§!"
   SHIP_REFIT_UPGRADE_TOOLTIP:0 "§HSchiff aufrüsten§!\nDieses Schiff auf ein verbessertes Design umrüsten."

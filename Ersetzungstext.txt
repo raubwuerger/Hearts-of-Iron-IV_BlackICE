@@ -3,9 +3,4 @@ Schwerer Sturzkampfbomber
 Strahlgetriebener Sturzkampfbomber
 Sturzkampfflugzeug
 
-Hide§
-Show§
 
-Dezimetrisches -> Dezimeterwellen
-Zentrimetisches -> Zentimeterwellen Radar
-Screening -> Sicherungs

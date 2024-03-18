@@ -48,9 +48,11 @@ generic_mio_trait_anti_tank_rounds: "Hohlspitzgeschoss"
 ####### USA #######
 ###################
 
+
 ###################
 ###### JAPAN ######
 ###################
+
 
 ######################
 #### SOVIET UNION ####
@@ -64,9 +66,12 @@ generic_mio_trait_anti_tank_rounds: "Hohlspitzgeschoss"
 #### FRANCE ####
 ################
 
+FRA_hotchkiss_organization: "$hotchkiss$"
+
 #################
 #### GERMANY ####
 #################
+
 GER_hugo_boss_organization: "$Hugo_Boss$"
 
 ##################

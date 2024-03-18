@@ -526,7 +526,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  HV_FIGHTER_EQUIPMENT_WEIGHT:0 "Schweres Jagdflugzeug: §Y1.2§!\n"
  NIGHT_FIGHTER_EQUIPMENT_WEIGHT:0 "Nachtjäger: §Y1.2§!\n"
  CAS_EQUIPMENT_WEIGHT:0 "Sturzkampfbomber: §Y1.0§!\n"
- Zwilling_CAS_EQUIPMENT_WEIGHT:0 "Schwere Sturzkampfbomber: §Y1.2§!\n"
+ TWIN_CAS_EQUIPMENT_WEIGHT:0 "Schwere Sturzkampfbomber: §Y1.2§!\n"
  
  NAV_BOMB_EQUIPMENT_WEIGHT:0 "Marinebomber: §Y1.5§!\n"
  HV_NAV_BOMB_EQUIPMENT_WEIGHT:0 "Schwerer Marinebomber: §Y1.5§!\n"
@@ -1560,6 +1560,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  #----- INDUSTRY REWORK
  
  #trade tab
+
  BAUXITE_OVERVIEW_TOOLTIP: "§YBauxit§!"
  IRON_OVERVIEW_TOOLTIP: "§YEisen§!"
  COAL_OVERVIEW_TOOLTIP: "§YKohle§!"

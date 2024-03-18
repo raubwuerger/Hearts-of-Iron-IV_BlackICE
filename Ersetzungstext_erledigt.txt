@@ -32,6 +32,13 @@ Motorized§
 Artillery§
 Hide§
 Show§
+Guns§
+Hauptstadtschiffe§
+Ships§
+Cruisers§
+Notify§
+notified§
 
 Dezimetrisches -> Dezimeterwellen
 Zentrimetisches -> Zentimeterwellen Radar
+Screening -> Sicherungs
