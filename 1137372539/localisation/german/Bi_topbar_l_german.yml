@@ -28,6 +28,7 @@
  TOPBAR_WAR_SUPPORT_CURRENT:0 "[GetTopbarWarSupportDecimals]"
  TOPBAR_POLITICAL_CURRENT:0 "[GetTopbarPoliticalDecimals]"
  TOPBAR_MANPOWER_CURRENT:0 "[GetTopbarManpowerDecimals][GetTargetConscription]"
+ CONSCRIPTION_PROGRESS_TT: "Mobilisierung von [? previous_conscription_target|%Y] auf [?target_cons|%Y] Wehrpflichtprozentsatz. Unsere Mobilisierung läuft mit [?modifier@mobilization_speed|%+=] Effizienz und ist §G[?temp1]%§! abgeschlossen . "
  
  topbar_empty_tt: "Dieser oberen Leiste sind keine Informationen zugewiesen. Klicken Sie, um eine zuzuweisen."
  topbar_stability_text: "[?modifier@stability_factor|%+=0]"

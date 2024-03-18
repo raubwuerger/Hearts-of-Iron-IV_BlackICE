@@ -229,7 +229,7 @@ tank_designer_amphibious_role_disallowed:0 "Füge ein Modul hinzu, das es der Ro
 tank_designer_anti_air:0 "Luftabwehr"
 tank_designer_anti_air_role_disallowed:0 "Füge ein Modul hinzu, das es der Rolle §HAnti-Air§! ermöglicht, zu ihr zu wechseln."
 tank_designer_artillery:0 "Artillerie"
-tank_designer_artillery_role_disallowed:0 "Füge ein Modul hinzu, das es der Rolle §HArtillery§! ermöglicht, zu ihr zu wechseln."
+tank_designer_artillery_role_disallowed:0 "Füge ein Modul hinzu, das es der Rolle §HArtillerie§! ermöglicht, zu ihr zu wechseln."
 tank_designer_anti_tank:0 "Panzer-Zerstörer"
 tank_designer_anti_tank_role_disallowed:0 "Füge ein Modul hinzu, das es der Rolle §HTank Destroyer§! ermöglicht, zu ihr zu wechseln."
 tank_designer_rocket:0 "Sturmgeschütz"

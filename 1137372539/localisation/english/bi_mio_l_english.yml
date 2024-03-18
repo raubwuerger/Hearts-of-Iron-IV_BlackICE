@@ -11,6 +11,17 @@ mio_cat_eq_all_mechanized: "All Mechanized Equipment"
 mio_cat_eq_transport: "All Motorized and Transport Equipment"
 
 
+#### Horse Organisation ###
+generic_horsey_organization: "Horse Ranch"
+mio_header_horse: "Horses"
+mio_header_wagon: "Wagons & Carts"
+generic_mio_trait_breeding: "Selective Breeding"
+generic_mio_trait_training: "Stable Training"
+generic_mio_trait_hot_training: "Heat Adapation"
+generic_mio_trait_cold_training: "Horse Blankets"
+generic_mio_trait_prefab: "Prefabricated Wagons"
+generic_mio_trait_sturdy: "Sturdy Materials"
+generic_mio_trait_lightweight: "Light Weight Materials"
 ##################################
 #### Infantry Weapons         ####
 ##################################
@@ -36,44 +47,62 @@ generic_mio_trait_anti_tank_rounds: "Hollow Tipped Bullets"
 ###################
 ####### USA #######
 ###################
-USA_generic_infantry_equipment_organization: "$springfield_armory$"
-USA_generic_motorized_mechanized_organization: "$ford_motor_company$"
-USA_generic_artillery_organization: "$rock_island_arsenal$"
+
 
 ###################
 ###### JAPAN ######
 ###################
-JAP_generic_infantry_equipment_organization: "$tokyo_arsenal$"
-JAP_generic_artillery_organization: "$osaka_army_arsenal$"
-JAP_generic_motorized_mechanized_organization: "$nissan$"
+
 
 ######################
 #### SOVIET UNION ####
 ######################
-SOV_generic_infantry_equipment_organization: "$tula_arms_plant$"
-SOV_generic_artillery_organization: "$grabin_design_bureau$"
-SOV_generic_motorized_mechanized_organization: "$gaz$"
 
 ########################
 #### UNITED KINGDOM ####
 ########################
-ENG_generic_infantry_equipment_organization: "$rsaf_enfield$"
-ENG_generic_artillery_organization: "$royal_arsenal$"
-ENG_generic_motorized_mechanized_organization: "$vauxhall$"
 
 ################
 #### FRANCE ####
 ################
-FRA_generic_infantry_equipment_organization: "$mas$"
-FRA_generic_artillery_organization: "$schneider$"
-FRA_generic_motorized_mechanized_organization: "$somua$"
-FRA_generic_support_equipment_organizationhotchkiss: "$hotchkiss$"
+
+FRA_hotchkiss_organization: "$hotchkiss$"
 
 #################
 #### GERMANY ####
 #################
-GER_generic_infantry_equipment_organization: "$mauser$"
-GER_generic_artillery_organization: "$rheinmetall$"
-GER_generic_motorized_mechanized_organization: "$opel$"
-GER_generic_support_equipment_organizationhotchkiss: "$Hugo_Boss$"
+
+GER_hugo_boss_organization: "$Hugo_Boss$"
+
+###################
+###### ITALY ######
+###################
+
+
+###################
+#### AUSTRALIA ####
+###################
+
+AST_generic_artillery_organization: "$maribyrnong_artillery_manufacturer$"
+AST_generic_motorized_mechanized_organization: "$rover_motorized_equipment_manufacturer$"
+
+### AUS ###
+AUS_generic_artillery_organization: "$AUS_hirtenberger$"
+
+### BEL ###
+BEL_generic_artillery_organization: "$frc_BEL$"
+
+### BRA ###
+BRA_generic_infantry_equipment_organization: "$ITAJUBA$"
+
+### BUL ###
+BUL_generic_motorized_mechanized_organization: "$chavdar$"
+
+### TIB ###
+TIB_generic_infantry_equipment_organization: "$drabshi_lekhoung_arsenal_section$"
+
+### TUN ###
+TUN_generic_infantry_equipment_organization: "$TUN_infantry_equipment_manufacturer$"
+TUN_generic_motorized_mechanized_organization: "$TUN_motorized_equipment_manufacturer$"
+TUN_generic_artillery_organization: "$TUN_artillery_manufacturer$"
 

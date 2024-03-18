@@ -45,11 +45,11 @@
  AIR_INTEL_WING_COUNT:0 "Gesamtanzahl der Flugzeuge: $COUNT$"
 
  NO_INTEL:1 "Nicht genug Informationen"
- NAVAL_MISSION_INTEL_RANGE:0 "Es gibt $RANGE|H$ Taskforces, die der Mission $MISSION|H$ in dieser Region zugewiesen sind."
- NAVAL_MISSION_INTEL:0 "Es gibt $COUNT|H$ Taskforces, die der Mission $MISSION|H$ in dieser Region zugewiesen sind und von denen sich derzeit $ACTIVE|H$ in der Region befinden und die Mission aktiv durchführen."
- NAVAL_MISSION_INTEL_ALL_ASSIGNED:0 "Es gibt $COUNT|H$ Taskforces, die der Mission $MISSION|H$ in dieser Region zugewiesen sind und die Mission aktiv ausführen."
+ NAVAL_MISSION_INTEL_RANGE:0 "Es gibt $RANGE|H$ Kampfgruppen, die der Mission $MISSION|H$ in dieser Region zugewiesen sind."
+ NAVAL_MISSION_INTEL:0 "Es gibt $COUNT|H$ Kampfgruppen, die der Mission $MISSION|H$ in dieser Region zugewiesen sind und von denen sich derzeit $ACTIVE|H$ in der Region befinden und die Mission aktiv durchführen."
+ NAVAL_MISSION_INTEL_ALL_ASSIGNED:0 "Es gibt $COUNT|H$ Kampfgruppen, die der Mission $MISSION|H$ in dieser Region zugewiesen sind und die Mission aktiv ausführen."
  AIR_MISSION_INTEL_RANGE:0 "Es gibt $RANGE|H$ Flugzeuge, die der Mission $MISSION|H$ in dieser Region zugewiesen sind."
- NAVAL_BASE_TASKFORCE_COUNT:0 "In diesem Marinestützpunkt sind $COUNT|H$ Taskforces angedockt."
+ NAVAL_BASE_TASKFORCE_COUNT:0 "In diesem Marinestützpunkt sind $COUNT|H$ Kampfgruppen angedockt."
 
  ARMY_LEDGER_ARMIES:1 "Abteilungen"
  ARMY_LEDGER_EQUIPMENT:0 "Vorrat"

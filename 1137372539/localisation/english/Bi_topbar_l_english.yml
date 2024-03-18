@@ -28,6 +28,7 @@
  TOPBAR_WAR_SUPPORT_CURRENT:0 "[GetTopbarWarSupportDecimals]"
  TOPBAR_POLITICAL_CURRENT:0 "[GetTopbarPoliticalDecimals]"
  TOPBAR_MANPOWER_CURRENT:0 "[GetTopbarManpowerDecimals][GetTargetConscription]"
+CONSCRIPTION_PROGRESS_TT:"Mobilizingfrom[?previous_conscription_target|%Y]to[?target_cons|%Y]conscriptionpercentage.OurMobilizationrunsat[?modifier@mobilization_speed|%+=]efficiencyandis§G[?temp1]%§!complete." 
  
  topbar_empty_tt: "This topbar has no assigned information. Click to assign one"
  topbar_stability_text: "[?modifier@stability_factor|%+=0]"

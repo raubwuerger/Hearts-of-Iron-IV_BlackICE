@@ -99,8 +99,8 @@ POL_artytruck_equipment_0_short:9 "C2P"
 
 POL_artillery_equipment_0:9 "75mm Kanone wz. 1897"
 POL_artillery_equipment_0_short:9 "75mm Kanone wz. 1897"
-POL_artillery_equipment_1:9 "75mm Feldkanone wz. 38 ST"
-POL_artillery_equipment_1_short:9 "75mm Feldkanone wz. 38"
+POL_artillery_equipment_1:9 "105mm wz.29"
+POL_artillery_equipment_1_short:9 "105mm wz.29"
 
 POL_medartillery_equipment_0:9 "105mm Langstrecken-Feldkanone wz. 29"
 POL_medartillery_equipment_0_short:9 "105mm Feldkanone wz. 29"

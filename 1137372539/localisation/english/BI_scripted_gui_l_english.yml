@@ -320,6 +320,24 @@
 
  hide_sidebar:0 "§YClick§! to minimize the Sidebar."
 
+ party_banned_tt: "While banned a political party receives §Y50%§! less daily support.\n"
+
+ party_drift_tooltip: "§Y[?v.GetTokenLocalizedKey] Drift§!\nCurrent Daily Drift: [?total|3+=]\n[!drift_click]\n\nThese values are not final due to scaling and changes in other parties."
+ party_drift_opposition_tooltip: "§Y[?v.GetTokenLocalizedKey] Drift§!\nCurrent Daily Drift: [?total|3-=]\n[!drift_opp_click]\n\nThese values are not final due to scaling and changes in other parties."
+ 
+ party_drift_drift_tooltip: "   [?drift|=+3] comes from §Y[?v.GetTokenLocalizedKey] Drift.§!"
+ party_drift_ruling_tooltip: "   [?ruling|=+3] comes from §YRuling Party Drift.§!"
+ party_drift_advisor_tooltip: "   [?num_advisor@var:v|=+3] comes from §YAdvisors ideology.§!"
+ 
+ party_drift_drift_opposition_tooltip: "   [?drift|=-3] comes from §Y[?v.GetTokenLocalizedKey] Drift.§!"
+ party_drift_ruling_opposition_tooltip: "   [?ruling|=-3] comes from §YOpposition Party Drift.§!"
+ party_drift_advisor_opposition_tooltip: "   [?num_advisor@var:v|=-3] comes from §YAdvisors ideology.§!"
+ 
+ party_banned_tooltip: "   [?banned_drift@var:v|3-=] comes from this party being §Obanned§!"
+ party_banned_tooltip_text: "\nThis party has been §Rbanned!§! Its daily popularity gain is decreased by §Y50.00%§!"
+ 
+ party_change_tooltip: "In the last month §Y[?v.GetTokenLocalizedKey] Popularity§! has changed by [?last_change@var:v|3+=]"
+ party_change_opposition_tooltip: "In the last month §Y[?v.GetTokenLocalizedKey] Popularity§! has changed by [?last_change@var:v|3-=]"
  ruling_increase:0 "§G[?Root.party_popularity@ruling_party|0]%§!"
  ruling_decrease:0 "§R[?Root.party_popularity@ruling_party|0]%§!"
  ruling_increase_TT:0 "The §Y[Root.GetRulingParty]§! is §Gincreasing§! in Popularity"
@@ -333,6 +351,7 @@
  owned_states_TT:0 "\n owns [?num_owned_states|0Y] States"
  owned_core_states:0 "\n we own [?num_owned_core_states|0Y] States"
  controlled_core_states:0 "\n we control [?num_controlled_core_states|0Y] States"
+ population_food_tt: "Each day our Population consumes §YRations§!, which is automatically produced from spare £resources_strip|10 §YFood§!. \n    Core Population: [?food_need_pop|0R]\n    Non-Core Population: [?food_need_pop_occ|0R]"
 
  line:0 "\n---------------------------"
  
@@ -438,12 +457,15 @@
  NEXT_RESEARCH_STATE_POSSIBLE_STATES:0 "Other potential states include §Y[?BI_research_centre_list^1.GetName]§! and §Y[?BI_research_centre_list^2.GetName]§!."
  RESEARCH_IDEA_GROUPS_TOOLTIP:0 "§YNational Spirits§!, §YLaws§! and §YMinisters§! which affect our £tech_mod research speed in a specific field will be listed here.\nWhen our country is part of a §YResearch Sharing§! group the bonuses will be listed here as well."
  
+ RESEARCH_SPEED: "Research speed:"
+ LIMITED_RESEARCH_BONUS: "Limited bonuses:"
  allowed_research_TT:0 "[This.research_infantry][This.research_support][This.research_artillery][This.research_tank_techs][This.research_armor][This.research_air_techs_army][This.research_air_techs_navy][This.research_air_techs][This.research_naval][This.research_naval_techs][This.research_ww1_doctrine][This.research_doctrine][This.research_naval_doctrine][This.research_air_doctrine][This.research_electronics][This.research_industry][This.research_raw_materials][This.research_nuclear][This.research_special_forces]"
  BI_RESEARCH_CENTRE_STATE_TOOLTIP:0 "\nThis £tech_mod §YResearch Slot§! is located in §Y[This.GetName]§!"
  RESEARCH_CENTRE_OVERLAY_TOOLTIP:0 "§YClick§! to select this £tech_mod §YResearch Slot§!"
- RESEARCH_CENTRE_OVERLAY_TOOLTIP_DELAYED:0 "§YRight-Click§! to move the camera over §Y[This.GetName]§!"
+ RESEARCH_CENTRE_OVERLAY_TOOLTIP_DELAYED:0 "§YRight-Click§! to move the camera over §Y[This.GetName]§!, where this Research Slot is located"
  RESEARCH_CENTRE_LOST_TOOLTIP:0 "§RWe have lost control of [This.GetName] and can not use this £tech_mod Research Slot §!"
  BI_ALLOWED_RESEARCH_TOOLTIP:0 "\nThis £tech_mod §YResearch Slot§! can research the following technology folders: [This.research_infantry_TT][This.research_support_TT][This.research_artillery_TT][This.research_tank_techs_TT][This.research_armor_TT][This.research_air_techs_army_TT][This.research_air_techs_navy_TT][This.research_air_techs_TT][This.research_naval_TT][This.research_naval_techs_TT][This.research_ww1_doctrine_TT][This.research_doctrine_TT][This.research_naval_doctrine_TT][This.research_air_doctrine_TT][This.research_electronics_TT][This.research_industry_TT][This.research_raw_materials_TT][This.research_nuclear_TT][This.research_special_forces_TT]"
+ BI_ALLOWED_RESEARCH_LIST:0 "[This.research_infantry_TT][This.research_support_TT][This.research_artillery_TT][This.research_tank_techs_TT][This.research_armor_TT][This.research_air_techs_army_TT][This.research_air_techs_navy_TT][This.research_air_techs_TT][This.research_naval_TT][This.research_naval_techs_TT][This.research_ww1_doctrine_TT][This.research_doctrine_TT][This.research_naval_doctrine_TT][This.research_air_doctrine_TT][This.research_electronics_TT][This.research_industry_TT][This.research_raw_materials_TT][This.research_nuclear_TT][This.research_special_forces_TT]"
  BI_BASE_RESEARCH_TOOLTIP:0 "\nThis £tech_mod §YResearch Slot§! can research any technology."
  RESEARCH_CENTRE_STATE_UNKNOWN:0 "We do not know if there is a £tech_mod §YResearch Centre§! in §Y[This.GetName]§!"
  research_allowed_infantry_TT:0 "\n\n £research_infantry Infantry"
@@ -1011,7 +1033,7 @@
  radio_equipment_armor_group_tech:0 "Has introduced §YRadio Equipment§! to §YArmor Battalions§!"
  radio_equipment_support_group_tech:0 "Has introduced §YRadio Equipment§! to §YSupport Battalions§!"
  
- REFINERY_ALERT_TT:0 "§YUnassigned Refineries§!\nWe have sufficient resources to assign more £civ_factory §YRefineries§! to fix a deficit, or to lower our imports in favor of domestic production.\n\n[?ui_refinery_potential@steel|+1] additional £resources_strip|5 §YSteel Refineries§! can be assigned\n[?ui_refinery_potential@aluminium|+1] additional £resources_strip|2 §YAluminium Refineries§! can be assigned"
+ REFINERY_ALERT_TT:0 "§YUnassigned Refineries§!\nWe have sufficient resources to assign more £refinery §YRefineries§! to fix a deficit, or to lower our imports in favor of domestic production.\n\n[?ui_refinery_potential@steel|+1] additional £resources_strip|5 §YSteel Refineries§! can be assigned\n[?ui_refinery_potential@aluminium|+1] additional £resources_strip|2 §YAluminium Refineries§! can be assigned"
  REFINERY_ALERT_DELAYED_TT: "§YAssign Refineries§! in the trade tab by clicking on the §CConversion§! button. §YRefineries§! are assigned similar to Military Factories."
  
  EQUIPMENT_INTRO_ALERT_TT:0 "§YEquipment Introduction§!"
@@ -1051,6 +1073,7 @@
  
  LOGISTICS_MAX_PRODUCTION_EFFICIENCY:0 "The £prod_eff_cap §YProduction Efficiency Cap§! of our §YProduction Lines§! is §Y[GetProductionEfficiencyCap]§!"
  FIELD_STRENGTH_INFO_TT:0 "Current Field Strength: [?field_strength|Y%0]"
+ STOCK_RATIO_INFO_TT: "Current Stockpile Ratio: [?stock_ratio|Y%0]"
  
  TRANSFER_STATE_DIPLO_TOOLTIP:0 "Ask to transfer control of a state currently occupied by them"
  TRANSFER_STATE_DIPLO_TOOLTIP_DELAYED:0 "[!transfer_state_diplo_click]"
@@ -1194,110 +1217,6 @@
   
  HTD_variant_tooltip:0 "§Y[?v.GetTokenLocalizedKey]§!\n\n§YPrerequisites:§!\n[!tech_click_enabled]\n\n§YEffects when selected:§!\n[!tech_click]"
  HTD_xp_cost_tooltip:0 "      [GetHDTXPColor]"
- 
- FASCIST_PARTY_DRIFT_TOOLTIP:0 "[GetFascistPartyDriftTT]"
- COMMUNIST_PARTY_DRIFT_TOOLTIP:0 "[GetCommunistPartyDriftTT]"
- CONSERVATIVE_PARTY_DRIFT_TOOLTIP:0 "[GetConservativePartyDriftTT]"
- LIBERAL_PARTY_DRIFT_TOOLTIP:0 "[GetLiberalPartyDriftTT]"
- SOCIALIST_PARTY_DRIFT_TOOLTIP:0 "[GetSocialistPartyDriftTT]"
- AGRARIAN_PARTY_DRIFT_TOOLTIP:0 "[GetAgrarianPartyDriftTT]"
- MONARCHIST_PARTY_DRIFT_TOOLTIP:0 "[GetMonarchistPartyDriftTT]"
- NEUTRAL_PARTY_DRIFT_TOOLTIP:0 "[GetNeutralPartyDriftTT]"
- 
- FASCIST_PARTY_DRIFT_TT:0 "[?drift|=+3] comes from §YFascist Drift.§! \n[?ruling|=+3] comes from §YRuling Party Drift.§! \n\nThese values are not the final values due to scaling."
- FASCIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] comes from §YFascist Drift.§! \n[?ruling|-=3] comes from §YOpposition Party Drift.§! \n\nThese values are not the final values due to scaling."
- 
- COMMUNIST_PARTY_DRIFT_TT:0 "[?drift|=+3] comes from §YCommunist Drift.§! \n[?ruling|=+3] comes from §YRuling Party Drift.§! \n\nThese values are not the final values due to scaling."
- COMMUNIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] comes from §YCommunist Drift.§! \n[?ruling|-=3] comes from §YOpposition Party Drift.§! \n\nThese values are not the final values due to scaling."
- 
- MONARCHIST_PARTY_DRIFT_TT:0 "[?drift|=+3] comes from §YMonarchist Drift.§! \n[?ruling|=+3] comes from §YRuling Party Drift.§! \n\nThese values are not the final values due to scaling."
- MONARCHIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] comes from §YMonarchist Drift.§! \n[?ruling|-=3] comes from §YOpposition Party Drift.§! \n\nThese values are not the final values due to scaling."
- 
- NEUTRAL_PARTY_DRIFT_TT:0 "[?drift|=+3] comes from §YAuthoritarian Drift.§! \n[?ruling|=+3] comes from §YRuling Party Drift.§! \n\nThese values are not the final values due to scaling."
- NEUTRAL_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] comes from §YAuthoritarian Drift.§! \n[?ruling|-=3] comes from §YOpposition Party Drift.§! \n\nThese values are not the final values due to scaling."
- 
- CONSERVATIVE_PARTY_DRIFT_TT:0 "[?drift|=+3] comes from §YConservatism Drift.§! \n[?ruling|=+3] comes from §YRuling Party Drift.§! \n\nThese values are not the final values due to scaling."
- CONSERVATIVE_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] comes from §YConservatism Drift.§! \n[?ruling|-=3] comes from §YOpposition Party Drift.§! \n\nThese values are not the final values due to scaling."
- 
- LIBERAL_PARTY_DRIFT_TT:0 "[?drift|=+3] comes from §YLiberalism Drift.§! \n[?ruling|=+3] comes from §YRuling Party Drift.§! \n\nThese values are not the final values due to scaling."
- LIBERAL_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] comes from §YLiberalism Drift.§! \n[?ruling|-=3] comes from §YOpposition Party Drift.§! \n\nThese values are not the final values due to scaling."
- 
- SOCIALIST_PARTY_DRIFT_TT:0 "[?drift|=+3] comes from §YSocialism Drift.§! \n[?ruling|=+3] comes from §YRuling Party Drift.§! \n\nThese values are not the final values due to scaling."
- SOCIALIST_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] comes from §YSocialism Drift.§! \n[?ruling|-=3] comes from §YOpposition Party Drift.§! \n\nThese values are not the final values due to scaling."
- 
- AGRARIAN_PARTY_DRIFT_TT:0 "[?drift|=+3] comes from §YAgrarianism Drift.§! \n[?ruling|=+3] comes from §YRuling Party Drift.§! \n\nThese values are not the final values due to scaling."
- AGRARIAN_OPP_PARTY_DRIFT_TT:0 "[?drift|-=3] comes from §YAgrarianism Drift.§! \n[?ruling|-=3] comes from §YOpposition Party Drift.§! \n\nThese values are not the final values due to scaling."
- 
- subideology:0 ""
- 
- nazism_TT:0 "[!nazism_click]"
- strasserism_TT:0 "[!strasserism_click]"
- fascism_ideology_TT:0 "[!fascism_ideology_click]"
- legionnairism_TT:0 "[!legionnairism_click]"
- falangism_TT:0 "[!falangism_click]"
- french_fascism_TT:0 "[!french_fascism_click]"
- rexism_TT:0 "[!rexism_click]"
- taisei_yokusankai_TT:0 "[!taisei_yokusankai_click]"
- british_fascism_TT:0 "[!british_fascism_click]"
- 
- early_maoism_TT:0 "[!early_maoism_click]"
- late_maoism_TT:0 "[!late_maoism_click]"
- marxism_TT:0 "[!marxism_click]"
- leninism_TT:0 "[!leninism_click]"
- trotskyism_TT:0 "[!trotskyism_click]"
- stalinism_TT:0 "[!stalinism_click]"
- titoism_TT:0 "[!titoism_click]"
- national_communism_TT:0 "[!national_communism_click]"
- anti_revisionism_TT:0 "[!anti_revisionism_click]"
- 
- absolutism_TT:0 "[!absolutism_click]"
- emiratism_TT:0 "[!emiratism_click]"
- imperial_TT:0 "[!imperial_click]"
- popular_TT:0 "[!popular_click]"
- theocracie_TT:0 "[!theocracie_click]"
- 
- provisional_government_TT:0 "[!provisional_government_click]"
- military_dictatorship_TT:0 "[!military_dictatorship_click]"
- pseudo_fascism_TT:0 "[!pseudo_fascism_click]"
- vichy_TT:0 "[!vichy_click]"
- pan_arabism_TT:0 "[!pan_arabism_click]" 
- despotism_TT:0 "[!despotism_click]" 
- oligarchism_TT:0 "[!oligarchism_click]"
- moderatism_TT:0 "[!moderatism_click]"
- the_peoples_tutelage_TT:0 "[!the_peoples_tutelage_click]"
- corporatism_TT:0 "[!corporatism_click]"
- lon_mandate_TT:0 "[!lon_mandate_click]"
- reactionism_TT:0 "[!reactionism_click]"
- 
- moderate_TT:0 "[!moderate_click]"
- classical_liberalism_TT:0 "[!classical_liberalism_click]"
- social_conservatism_TT:0 "[!social_conservatism_click]"
- nationalistic_TT:0 "[!nationalistic_click]"
- rep_party_us_TT:0 "[!rep_party_us_click]"
- 
- centrism_TT:0 "[!centrism_click]"
- centerright_TT:0 "[!centerright_click]"
- libertarianism_TT:0 "[!libertarianism_click]"
- social_liberalism_TT:0 "[!social_liberalism_click]"
- progressivism_TT:0 "[!progressivism_click]"
- dem_party_us_TT:0 "[!dem_party_us_click]"
- populism_TT:0 "[!populism_click]"
- national_liberalism_TT:0 "[!national_liberalism_click]"
- 
- social_democracy_TT:0 "[!social_democracy_click]"
- syndicalism_TT:0 "[!syndicalism_click]"
- kemalism_TT:0 "[!kemalism_click]"
- anarcho_syndicalism_TT:0 "[!anarcho_syndicalism_click]"
- anarcho_socialism_TT:0 "[!anarcho_socialism_click]"
- 
- farmers_party_TT:0 "[!farmers_party_click]"
- peasant_party_TT:0 "[!peasant_party_click]"
- industrial_farmers_TT:0 "[!industrial_farmers_click]"
- agrarian_socialism_TT:0 "[!agrarian_socialism_click]"
- pacifist_TT:0 "[!pacifist_click]"
- 
- ban_fascism_TT:0 "§YPrerequisites:§!\n[!ban_fascism_click_enabled]\n§YEffects when selected:§!\n[!ban_fascism_click]"
- 
  
  TRAIT_XP_LEVEL_TOOLTIP:0 "§YCurrent Effects from Level [?lvl]/10:"
  TRAIT_XP_EFFECT_TOOLTIP:0 "§!    £movement_texticon  Movement: §G+[?movement]%§!\n    £attack_texticon Attack: §G+[?attack]%§!\n    £defence_texticon Defense: §G+[?defense]%§!"
@@ -1553,13 +1472,13 @@
  AI_DIFF_DIV_SPAWN_LOW:0 "§YLow§!\n\nThe AI will receive a low amount of units each month based on lack of units until it has §Y80%§! of its target army size."
  AI_DIFF_DIV_SPAWN_MEDIUM:0 "§YMedium§!\n\nThe AI will receive a sizeable amount of units each month  based on lack of units until it has §Y90%§! of its target army size."
  AI_DIFF_DIV_SPAWN_HIGH:0 "§YHigh§!\n\nThe AI will receive a large amount of units each month based on lack of units until it has §Y100%§! of its target army size."
- AI_DIFF_DIV_SPAWN_VERY_HIGH:0 "§YVery High§!\n\nThe AI will receive a significant amount of units each month based on lack of units until it has §Y100%§! of its target army size."
+ AI_DIFF_DIV_SPAWN_VERY_HIGH:0 "§YVery High§!\n\nThe AI will receive a significant amount of units each month based on lack of units until it has §Y120%§! of its target army size."
   
- AI_DIFF_EQ_SPAWN_VERY_LOW:0 "§YVery Low§!\n\nThe AI will receive §Y2%§! of its deficit and §Y0.2%§! of the equipment in its army each month."
- AI_DIFF_EQ_SPAWN_LOW:0 "§YLow§!\n\nThe AI will receive §Y4%§! of its deficit and §Y0.4%§! of the equipment in its army each month."
- AI_DIFF_EQ_SPAWN_MEDIUM:0 "§YMedium§!\n\nThe AI will receive §Y6%§! of its deficit and §Y0.6%§! of the equipment in its army each month."
- AI_DIFF_EQ_SPAWN_HIGH:0 "§YHigh§!\n\nThe AI will receive §Y8%§! of its deficit and §Y0.8%§! of the equipment in its army each month."
- AI_DIFF_EQ_SPAWN_VERY_HIGH:0 "§YVery High§!\n\nThe AI will receive §Y10%§! of its deficit and §Y1%§! of the equipment in its army each month."
+ AI_DIFF_EQ_SPAWN_VERY_LOW:0 "§YVery Low§!\n\nThe AI will receive §Y5%§! of its deficit and §Y0.2%§! of the equipment in its army each month."
+ AI_DIFF_EQ_SPAWN_LOW:0 "§YLow§!\n\nThe AI will receive §Y10%§! of its deficit and §Y0.4%§! of the equipment in its army each month."
+ AI_DIFF_EQ_SPAWN_MEDIUM:0 "§YMedium§!\n\nThe AI will receive §Y15%§! of its deficit and §Y0.6%§! of the equipment in its army each month."
+ AI_DIFF_EQ_SPAWN_HIGH:0 "§YHigh§!\n\nThe AI will receive §Y20%§! of its deficit and §Y0.8%§! of the equipment in its army each month."
+ AI_DIFF_EQ_SPAWN_VERY_HIGH:0 "§YVery High§!\n\nThe AI will receive §Y30%§! of its deficit and §Y1%§! of the equipment in its army each month."
  
  AI_DIFF_CONVOY_SPAWN_VERY_LOW:0 "§YVery Low§!\n\nThe AI will receive a very low amount of convoys each month based on its Naval Industry"
  AI_DIFF_CONVOY_SPAWN_LOW:0 "§YLow§!\n\nThe AI will receive a low amount of convoys each month based on its Naval Industry"
@@ -1634,6 +1553,7 @@
  AI_INFRASTRUCTURE_CONSTRUCTION:0 "§GACTIVE §!([?ai_num_ic_infrastructure|Y0] IC)\nin [?ai_construction/infrastructure.GetName]"
  AI_AIR_ASSEMBLY_CONSTRUCTION:0 "§GACTIVE §!([?ai_num_ic_air_assembly|Y0] IC)\nin [?ai_construction/air_assembly.GetName]"
  
+ AI_BUILDING_TRIGGER_TOOLTIP: "[!trigger_icon_click_enabled]"
  
  
  
@@ -1715,11 +1635,11 @@
  ALUMINIUM_INPUT_TEXT_TRUE:0 "£resources_strip|7 [?conversion_use_@bauxite]"
  ALUMINIUM_INPUT_TEXT_FALSE:0 "£resources_strip|7 [?conversion_use_@bauxite|R0]"
  ALUMINIUM_INPUT_TOOLTIP:0 "[!bauxite_input_text_click]"
- ALUMINIUM_INPUT_TARGET_TOOLTIP:0 "Our [?num_refinery_assigned@aluminium|Y0] assigned £civ_factory §YRefineries§! require [?target_input|Y0] £resources_strip|7 Bauxite"
+ ALUMINIUM_INPUT_TARGET_TOOLTIP:0 "Our [?num_refinery_assigned@aluminium|Y0] assigned £refinery §YRefineries§! require [?target_input|Y0] £resources_strip|7 Bauxite"
  ALUMINIUM_INPUT_DEFICIT_TOOLTIP:0 "\n§RRequires [?deficit|0Y] additional £resources_strip|7 Bauxite for full efficiency!§!"
- ALUMINIUM_INPUT_SURPLUS_TOOLTIP: "\nWe have a surplus of [?surplus|G0]£resources_strip|7 Bauxite, enough to supply an additional [?num_possible|Y1] £civ_factory §YRefineries§!"
+ ALUMINIUM_INPUT_SURPLUS_TOOLTIP: "\nWe have a surplus of [?surplus|G0]£resources_strip|7 Bauxite, enough to supply an additional [?num_possible|Y1] £refinery §YRefineries§!"
  ALUMINIUM_INPUT_TOOLTIP_DELAYED: "[GetBauxiteRefStatus]"
- ALUMINIUM_INPUT_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@aluminium|Y1] £civ_factory §YRefineries§! are §Cinactive§! due to §Rinsufficient§! resources."
+ ALUMINIUM_INPUT_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@aluminium|Y1] £refinery §YRefineries§! are §Cinactive§! due to §Rinsufficient§! resources."
  ALUMINIUM_OUTPUT_TEXT:0 "£resources_strip|2 [?resource_output_@aluminium]"
  
  STEEL_ENERGY_COST_TEXT:0 "[GetSteelEnergyColor]"
@@ -1728,21 +1648,21 @@
  STEEL_INPUT_IRON_TEXT_TRUE:0 "£resources_strip|9 [?conversion_use_@iron]"
  STEEL_INPUT_IRON_TEXT_FALSE:0 "£resources_strip|9 [?conversion_use_@iron|R0]"
  STEEL_INPUT_IRON_TOOLTIP:0 "[!input_iron_text_click]"
- STEEL_INPUT_IRON_TARGET_TOOLTIP:0 "Our [?num_refinery_assigned@steel|Y0] assigned £civ_factory §YRefineries§! require [?target_input|Y0] £resources_strip|9 Iron"
+ STEEL_INPUT_IRON_TARGET_TOOLTIP:0 "Our [?num_refinery_assigned@steel|Y0] assigned £refinery §YRefineries§! require [?target_input|Y0] £resources_strip|9 Iron"
  STEEL_INPUT_IRON_DEFICIT_TOOLTIP:0 "\n§RRequires [?iron_deficit|0Y] additional £resources_strip|9 Iron for full efficiency!§!"
- STEEL_INPUT_IRON_SURPLUS_TOOLTIP: "\nWe have a surplus of [?iron_surplus|G0]£resources_strip|9 Iron, enough to supply an additional [?num_possible|Y1] £civ_factory §YRefineries§!"
+ STEEL_INPUT_IRON_SURPLUS_TOOLTIP: "\nWe have a surplus of [?iron_surplus|G0]£resources_strip|9 Iron, enough to supply an additional [?num_possible|Y1] £refinery §YRefineries§!"
  STEEL_INPUT_IRON_TOOLTIP_DELAYED: "[GetIronRefStatus]"
- STEEL_INPUT_IRON_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@steel|Y1] £civ_factory §YRefineries§! are §Cinactive§! due to §Rinsufficient§! resources."
+ STEEL_INPUT_IRON_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@steel|Y1] £refinery §YRefineries§! are §Cinactive§! due to §Rinsufficient§! resources."
  
  STEEL_INPUT_COAL_TEXT:0 "[GetCoalInput]"
  STEEL_INPUT_COAL_TEXT_TRUE:0 "£resources_strip|8 [?conversion_use_@coal]"
  STEEL_INPUT_COAL_TEXT_FALSE:0 "£resources_strip|8 [?conversion_use_@coal|R0]"
  STEEL_INPUT_COAL_TOOLTIP:0 "[!input_coal_text_click]"
- STEEL_INPUT_COAL_TARGET_TOOLTIP:0 "Our [?num_refinery_assigned@steel|Y0] assigned £civ_factory §YRefineries§! require [?target_input|Y0] £resources_strip|8 Coal"
+ STEEL_INPUT_COAL_TARGET_TOOLTIP:0 "Our [?num_refinery_assigned@steel|Y0] assigned £refinery §YRefineries§! require [?target_input|Y0] £resources_strip|8 Coal"
  STEEL_INPUT_COAL_DEFICIT_TOOLTIP:0 "\n§RRequires [?coal_deficit|0Y] additional £resources_strip|8 Coal for full efficiency!§!"
- STEEL_INPUT_COAL_SURPLUS_TOOLTIP: "\nWe have a surplus of [?coal_surplus|G0]£resources_strip|8 Coal, enough to supply an additional [?num_possible|Y1] £civ_factory §YRefineries§!"
+ STEEL_INPUT_COAL_SURPLUS_TOOLTIP: "\nWe have a surplus of [?coal_surplus|G0]£resources_strip|8 Coal, enough to supply an additional [?num_possible|Y1] £refinery §YRefineries§!"
  STEEL_INPUT_COAL_TOOLTIP_DELAYED: "[GetCoalRefStatus]"
- STEEL_INPUT_COAL_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@steel|Y1] £civ_factory §YRefineries§! are §Cinactive§! due to §Rinsufficient§! resources."
+ STEEL_INPUT_COAL_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@steel|Y1] £refinery §YRefineries§! are §Cinactive§! due to §Rinsufficient§! resources."
  STEEL_OUTPUT_TEXT:0 "£resources_strip|5 [?resource_output_@steel]"
  
  STEEL_INPUT_CHROMIUM_TEXT:0 "[GetChromiumInput]"
@@ -1750,9 +1670,9 @@
  STEEL_INPUT_CHROMIUM_TEXT_FALSE:0 "£resources_strip|6 [?alloy_input_actual|R0]"
  
  STEEL_INPUT_CHROMIUM_TOOLTIP:0 "[!input_chromium_text_click]"
- STEEL_INPUT_CHROMIUM_TARGET_TOOLTIP:0 "Our [?num_alloy_ref|Y0] assigned £civ_factory §YRefineries§! require [?target_input|Y0] £resources_strip|6 Alloying Metals"
+ STEEL_INPUT_CHROMIUM_TARGET_TOOLTIP:0 "Our [?num_alloy_ref|Y0] assigned £refinery §YRefineries§! require [?target_input|Y0] £resources_strip|6 Alloying Metals"
  STEEL_INPUT_CHROMIUM_DEFICIT_TOOLTIP:0 "\n§RRequires [?chromium_deficit|0Y] additional £resources_strip|6 Alloying Metals for full efficiency!§!"
- STEEL_INPUT_CHROMIUM_SURPLUS_TOOLTIP: "\nWe have a surplus of [?chromium_surplus|G0]£resources_strip|6 Alloying Metals, enough to supply an additional [?num_possible|Y1] £civ_factory §YRefineries§!"
+ STEEL_INPUT_CHROMIUM_SURPLUS_TOOLTIP: "\nWe have a surplus of [?chromium_surplus|G0]£resources_strip|6 Alloying Metals, enough to supply an additional [?num_possible|Y1] £refinery §YRefineries§!"
  
  
  STEEL_INPUT_ADD_CHROMIUM_TOOLTIP: "[?max_num_alloy_refinery|Y0] out of our [?num_refinery@steel|Y0] §YSteel Refineries§! use this recipe addition."
@@ -1771,21 +1691,21 @@
  FUEL_INPUT_TEXT_TRUE:0 "£resources_strip|8 [?conversion_use_fuel@coal]"
  FUEL_INPUT_TEXT_FALSE:0 "£resources_strip|8 [?conversion_use_fuel@coal|R0]"
  FUEL_INPUT_TOOLTIP:0 "[!fuel_input_text_click]"
- FUEL_INPUT_TARGET_TOOLTIP:0 "Our [?num_refinery_assigned@fuel|Y0] assigned £civ_factory §YRefineries§! require [?target_input|Y0] £resources_strip|8 Coal"
+ FUEL_INPUT_TARGET_TOOLTIP:0 "Our [?num_refinery_assigned@fuel|Y0] assigned £refinery §YRefineries§! require [?target_input|Y0] £resources_strip|8 Coal"
  FUEL_INPUT_DEFICIT_TOOLTIP:0 "\n§RRequires [?fuel_coal_deficit|0Y] additional £resources_strip|8 Coal for full efficiency!§!"
- FUEL_INPUT_SURPLUS_TOOLTIP: "\nWe have a surplus of [?coal_surplus|G0]£resources_strip|8 Coal, enough to supply an additional [?num_possible|Y1] £civ_factory §YRefineries§!"
+ FUEL_INPUT_SURPLUS_TOOLTIP: "\nWe have a surplus of [?coal_surplus|G0]£resources_strip|8 Coal, enough to supply an additional [?num_possible|Y1] £refinery §YRefineries§!"
  FUEL_INPUT_TOOLTIP_DELAYED: "[GetFuelRefStatus]"
- FUEL_INPUT_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@fuel|Y1] £civ_factory §YRefineries§! are §Cinactive§! due to §Rinsufficient§! resources."
+ FUEL_INPUT_TOOLTIP_DELAYED_DEFICIT: "\n[?num_refinery_inactive@fuel|Y1] £refinery §YRefineries§! are §Cinactive§! due to §Rinsufficient§! resources."
  
  FUEL_OUTPUT_TEXT:0 "£fuel_state [?resource_output_@fuel]"
  
  
  ##--- TOOLTIPS
- REFINERY_ENTRY_DAMAGED_TOOLTIP_DELAYED:0 "This £civ_factory §YRefinery§! is §Rdamaged!§!\nIt is still capable of operating at §Y[?modifier@refinery_resilience|%0]§! efficiency."
- REFINERY_ENTRY_INACTIVE_TOOLTIP_DELAYED:0 "This £civ_factory §YRefinery§! is §Cinactive§! due to §Rinsufficient resources§!. It will become active when we have enough."
- REFINERY_ENTRY_ACTIVE_TOOLTIP_DELAYED:0 "This £civ_factory §YRefinery§! is §Oactive§!."
- REFINERY_ENTRY_PARTIALLY_ACTIVE_TOOLTIP_DELAYED:0 "This £civ_factory §YRefinery§! is only §Cpartially§! §Oactive§! due to §Rinsufficient resources§!. It is operating at [?eff|Y0%] efficiency."
- REFINERY_ENTRY_TARGET_TOOLTIP_DELAYED: "This £civ_factory §YRefinery§! is §Yscheduled§! and will become §Yactive§! once we have built or otherwise gained more"
+ REFINERY_ENTRY_DAMAGED_TOOLTIP_DELAYED:0 "This £refinery §YRefinery§! is §Rdamaged!§!\nIt is still capable of operating at §Y[?modifier@refinery_resilience|%0]§! efficiency."
+ REFINERY_ENTRY_INACTIVE_TOOLTIP_DELAYED:0 "This £refinery §YRefinery§! is §Cinactive§! due to §Rinsufficient resources§!. It will become active when we have enough."
+ REFINERY_ENTRY_ACTIVE_TOOLTIP_DELAYED:0 "This £refinery §YRefinery§! is §Oactive§!."
+ REFINERY_ENTRY_PARTIALLY_ACTIVE_TOOLTIP_DELAYED:0 "This £refinery §YRefinery§! is only §Cpartially§! §Oactive§! due to §Rinsufficient resources§!. It is operating at [?eff|Y0%] efficiency."
+ REFINERY_ENTRY_TARGET_TOOLTIP_DELAYED: "This £refinery §YRefinery§! is §Yscheduled§! and will become §Yactive§! once we have built or otherwise gained more"
  
  REFINERY_INCREASE_ASSIGNED_TOOLTIP: "§YClick§! to add §Y+1§!\n§YShift + Click§! to add §Y+5§!\n§YCtrl + Click§! to add §Y+10§!"
  REFINERY_DECREASE_ASSIGNED_TOOLTIP: "§YClick§! to subtract §Y1§!\n§YShift + Click§! to subtract §Y5§!\n§YCtrl + Click§! to subtract §Y10§!"
@@ -1800,7 +1720,7 @@
  
  ALUMINIUM_REFINERY_ENTRY_TOOLTIP:0 "[!assign_aluminium_refinery_tooltip_click]"
  
- ALUMINIUM_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YClick§! to assign £civ_factory [GetRefineryEntryAssignedColorA]/[?ROOT.num_refinery@aluminium|Y0] §YRefineries§! to this conversion, which requires the following: \n$ALUMINIUM_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
+ ALUMINIUM_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YClick§! to assign £refinery [GetRefineryEntryAssignedColorA]/[?ROOT.num_refinery@aluminium|Y0] §YRefineries§! to this conversion, which requires the following: \n$ALUMINIUM_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
  ALUMINIUM_REFINERY_ENTRY_REQUIRED_TOOLTIP:0 "\n£electricity_medium Energy: [?energy_need]\n£resources_strip|7 Bauxite: [?bauxite_need] | Remaining: [?bauxite_left|+=0] $ALUMINIUM_REFINERY_ENTRY_RESULT_TOOLTIP$"
  ALUMINIUM_REFINERY_ENTRY_RESULT_TOOLTIP:0 "\n\nto produce the following Resource:\n\n£resources_strip|2 Aluminium: [?aluminium_output|+=G0]"
  
@@ -1818,7 +1738,7 @@
  
  STEEL_REFINERY_ENTRY_TOOLTIP:0 "[!assign_steel_refinery_tooltip_click]"
  
- STEEL_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YClick§! to assign £civ_factory [GetRefineryEntryAssignedColorS]/[?ROOT.num_refinery@steel|Y0] §YRefineries§! to this conversion, which requires the following: \n$STEEL_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
+ STEEL_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YClick§! to assign £refinery [GetRefineryEntryAssignedColorS]/[?ROOT.num_refinery@steel|Y0] §YRefineries§! to this conversion, which requires the following: \n$STEEL_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
  STEEL_REFINERY_ENTRY_REQUIRED_TOOLTIP:0 "\n£electricity_medium Energy: [?energy_need]\n£resources_strip|9 Iron: [?iron_need] | Remaining: [?iron_left|+=0]\n£resources_strip|8 Coal: [?coal_need] | Remaining: [?coal_left|+=0] $STEEL_REFINERY_ENTRY_RESULT_TOOLTIP$"
  STEEL_REFINERY_ENTRY_RESULT_TOOLTIP:0 "\n\nto produce the following Resource:\n\n£resources_strip|5 Steel: [?steel_output|+=G0]"
  
@@ -1834,7 +1754,7 @@
  
  RUBBER_REFINERY_ENTRY_TOOLTIP:0 "[!assign_rubber_refinery_tooltip_click]"
  
- RUBBER_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YClick§! to assign £civ_factory [GetRefineryEntryAssignedColorR]/[?ROOT.num_refinery@rubber|Y0] §YRefineries§! to this conversion, which requires the following: \n$RUBBER_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
+ RUBBER_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YClick§! to assign £refinery [GetRefineryEntryAssignedColorR]/[?ROOT.num_refinery@rubber|Y0] §YRefineries§! to this conversion, which requires the following: \n$RUBBER_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
  RUBBER_REFINERY_ENTRY_REQUIRED_TOOLTIP:0 "\n£electricity_medium Energy: [?energy_need] $RUBBER_REFINERY_ENTRY_RESULT_TOOLTIP$"
  RUBBER_REFINERY_ENTRY_RESULT_TOOLTIP:0 "\n\nto produce the following Resource:\n\n£resources_strip|3 Rubber: [?rubber_output|+=G0]"
  
@@ -1851,7 +1771,7 @@
  
  FUEL_REFINERY_ENTRY_TOOLTIP:0 "[!assign_fuel_refinery_tooltip_click]"
  
- FUEL_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YClick§! to assign £civ_factory [GetRefineryEntryAssignedColorF]/[?ROOT.num_refinery@fuel|Y0] §YRefineries§! to this conversion, which requires the following: \n$FUEL_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
+ FUEL_REFINERY_ENTRY_TITLE_TOOLTIP:0 "§YClick§! to assign £refinery [GetRefineryEntryAssignedColorF]/[?ROOT.num_refinery@fuel|Y0] §YRefineries§! to this conversion, which requires the following: \n$FUEL_REFINERY_ENTRY_REQUIRED_TOOLTIP$"
  FUEL_REFINERY_ENTRY_REQUIRED_TOOLTIP:0 "\n£electricity_medium Energy: [?energy_need]\n£resources_strip|8 Coal: [?fuel_coal_need] | Remaining: [?fuel_coal_left|+=0] $FUEL_REFINERY_ENTRY_RESULT_TOOLTIP$"
  FUEL_REFINERY_ENTRY_RESULT_TOOLTIP:0 "\n\nto produce the following Resource:\n\n£fuel_state Fuel: [?fuel_output|+=G0]"
  
@@ -1953,8 +1873,8 @@
  ## FOOD
  TOPBAR_FOOD_TOOLTIP: "[!text_click][dirty]"
  RATIONS_TITLE: "§YRations§!\n\n[GetFoodDecayLoc]\n§YCivillian Consumption ([?modifier@food_need_civilian|=-%1g]) §!\n Core population: [?food_need_pop|Y0]\n Non-core population: [?food_need_pop_occ|Y0]\n§YMilitary Consumption ([?modifier@food_need_military|=-%1g])§!\n Armed Forces: [?food_need_army|Y0]\n Garrison: [?food_need_garrison|Y0]\n Training: [?food_need_deployment|Y0]\n\n"
- FOOD_DECAY: "Current Rations: [?food|Y1]§YK§!\nMax Storage Capacity: §Y[?food_max|1]K§!\n\nCurrent Daily Gain: [?income|0Y] ([?amount_food]£resources_strip|10))\nCurrent Daily Consumption: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nEach day [?decay|%R1] ([?decay_flat|Y0]) of our rations decay.\nWe estimate that our Stockpile will change by: [?food_balance|+0]\n\nWith our current balance, we estimate that we can fill our §YFood Storage§! up to [?food_fill_target|%1Y]\n"
- FOOD_MITIGATION: "Current §YLack of Food Penalty:§! [?lack_of_food|%R1]\n\nCurrent Daily Gain: [?income|0Y] ([?amount_food]£resources_strip|10))\nCurrent Daily Consumption: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\nEmergency Rationing reduces consumption by: [?mitigation_flat|Y0].\nWe estimate that our Stockpile will change by: [?food_balance|+0]\n\nWith our current balance, we estimate that we will tend to a §YLack of Food§! penalty of [?lack_of_food_max|%1-]\n"
+ FOOD_DECAY: "Current Rations: [?food|Y1]§YK§!\nMax Storage Capacity: §Y[?food_max|1]K§!\n\nCurrent Daily Change: [?food_balance|+=0]\n    -Current Daily Gain: [?income|0Y] ([?amount_food]£resources_strip|10))\n    -Current Daily Consumption: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\n    -Each day [?decay|%R1] ([?decay_flat|Y0]) of our rations decay.\n\nWith our current balance, we estimate that we can fill our §YFood Storage§! up to [?food_fill_target|%1Y]\n"
+ FOOD_MITIGATION: "Current §YLack of Food Penalty:§! [?lack_of_food|%R1]\n\nCurrent Daily Change: [?food_balance|+=0]\n    -Current Daily Gain: [?income|0Y] ([?amount_food]£resources_strip|10))\n    -Current Daily Consumption: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\n    -Emergency Rationing reduces consumption by: [?mitigation_flat|Y0].\n\nWith our current balance, we estimate that we will tend to a §YLack of Food§! penalty of [?lack_of_food_max|%1-]\n"
  RATIONS_INCREASE: "§G[?food_days|1%]§!"
  RATIONS_DECREASE: "§Y[?food_days|1%]§!"
  RATIONS_INSUFFICIENT: "§R[?food_days|1%]§!"
@@ -2476,31 +2396,31 @@ prio_2_tt: "§YMiddle priority§!"
 prio_3_tt: "§GHighest priority§!"
 
 
-BI_steel_conversion_container_TT: "£resources_strip|5 §YSteel§! is produced by £civ_factory §YSteel Refineries§!, which demand £resources_strip|9 §YIron§!, £resources_strip|8 §YCoal§! and £electricity_small §YEnergy§!."
-input_iron_text_tt: "This is how much £resources_strip|9 §YIron§! each £civ_factory §YSteel Refinery§! requires for max output."
-input_chromium_text_tt: "This is how many £resources_strip|6 §YAlloying Metals§! each £civ_factory §YSteel Refinery§! requires for max output. Using §YAlloying Metals§! is optional and increases the £resources_strip|5 §YSteel§! Output."
-input_coal_text_tt: "This is how much £resources_strip|8 §YCoal§! each £civ_factory §YSteel Refinery§! requires for max output."
-energy_text_tt: "This is how much £electricity_medium §YEnergy§! each £civ_factory §YSteel Refinery§! requires for max output."
-output_text_tt: "This is how much £resources_strip|5 §YSteel§! each £civ_factory §YSteel Refinery§! can output at full throughput."
-output_alloy_text_tt: "This is how much £resources_strip|5 §YSteel§! each £civ_factory §YSteel Refinery§! gains from this recipe addition."
-STEEL_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|5 §YSteel§! our £civ_factory [?num_refinery_assigned@steel|Y0] §YSteel Refineries§! are outputting."
+BI_steel_conversion_container_TT: "£resources_strip|5 §YSteel§! is produced by £refinery §YSteel Refineries§!, which demand £resources_strip|9 §YIron§!, £resources_strip|8 §YCoal§! and £electricity_small §YEnergy§!."
+input_iron_text_tt: "This is how much £resources_strip|9 §YIron§! each £refinery §YSteel Refinery§! requires for max output."
+input_chromium_text_tt: "This is how many £resources_strip|6 §YAlloying Metals§! each £refinery §YSteel Refinery§! requires for max output. Using §YAlloying Metals§! is optional and increases the £resources_strip|5 §YSteel§! Output."
+input_coal_text_tt: "This is how much £resources_strip|8 §YCoal§! each £refinery §YSteel Refinery§! requires for max output."
+energy_text_tt: "This is how much £electricity_medium §YEnergy§! each £refinery §YSteel Refinery§! requires for max output."
+output_text_tt: "This is how much £resources_strip|5 §YSteel§! each £refinery §YSteel Refinery§! can output at full throughput."
+output_alloy_text_tt: "This is how much £resources_strip|5 §YSteel§! each £refinery §YSteel Refinery§! gains from this recipe addition."
+STEEL_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|5 §YSteel§! our £refinery [?num_refinery_assigned@steel|Y0] §YSteel Refineries§! are outputting."
 
-BI_aluminium_conversion_container_TT: "£resources_strip|2 §YAluminium§! is produced by £civ_factory §YAluminium Refineries§!, which demand £resources_strip|7 §YBauxite§! and £electricity_small §YEnergy§!."
-input_bauxite_text_tt: "This is how much £resources_strip|7 §YBauxite§! each £civ_factory §YAluminium Refinery§! requires for max output."
-energy_aluminium_text_tt: "This is how much £electricity_medium §YEnergy§! each £civ_factory §YAluminium Refinery§! requires for max output."
-output_aluminium_text_tt: "This is how much £resources_strip|2 §YAluminium§! each £civ_factory §YAluminium Refinery§! can output at full throughput."
-ALUMINIUM_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|2 §YAluminium§! our £civ_factory [?num_refinery_assigned@aluminium|Y0] §YAluminium Refineries§! are outputting."
+BI_aluminium_conversion_container_TT: "£resources_strip|2 §YAluminium§! is produced by £refinery §YAluminium Refineries§!, which demand £resources_strip|7 §YBauxite§! and £electricity_small §YEnergy§!."
+input_bauxite_text_tt: "This is how much £resources_strip|7 §YBauxite§! each £refinery §YAluminium Refinery§! requires for max output."
+energy_aluminium_text_tt: "This is how much £electricity_medium §YEnergy§! each £refinery §YAluminium Refinery§! requires for max output."
+output_aluminium_text_tt: "This is how much £resources_strip|2 §YAluminium§! each £refinery §YAluminium Refinery§! can output at full throughput."
+ALUMINIUM_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|2 §YAluminium§! our £refinery [?num_refinery_assigned@aluminium|Y0] §YAluminium Refineries§! are outputting."
 
-BI_synth_fuel_conversion_container_TT: "£civ_factory §YSynthetic Refineries§! can produce synthetic £fuel_state §YFuel§! by converting coal into liquid hydrocarbons. As such, they require £resources_strip|8 §YCoal§! and £electricity_small §YEnergy§! to operate."
-input_coal_fuel_text_tt: "This is how much £resources_strip|8 §YCoal§! each £civ_factory §YSynthetic Refinery§! requires for max output."
-energy_synth_text_tt: "This is how much £electricity_medium §YEnergy§! each £civ_factory §YSynthetic Refinery§! requires for max output."
-output_synth_text_tt: "This is how much £fuel_texticon §YFuel§! each £civ_factory §YSynthetic Refinery§! can output at full throughput."
-FUEL_OUTPUT_TEXT_TT: "This is how much §Ototal§! £fuel_texticon §YFuel§! our £civ_factory [?num_refinery_assigned@fuel|Y0] §YSynthetic Refineries§! are outputting."
+BI_synth_fuel_conversion_container_TT: "£refinery §YSynthetic Refineries§! can produce synthetic £fuel_state §YFuel§! by converting coal into liquid hydrocarbons. As such, they require £resources_strip|8 §YCoal§! and £electricity_small §YEnergy§! to operate."
+input_coal_fuel_text_tt: "This is how much £resources_strip|8 §YCoal§! each £refinery §YSynthetic Refinery§! requires for max output."
+energy_synth_text_tt: "This is how much £electricity_medium §YEnergy§! each £refinery §YSynthetic Refinery§! requires for max output."
+output_synth_text_tt: "This is how much £fuel_texticon §YFuel§! each £refinery §YSynthetic Refinery§! can output at full throughput."
+FUEL_OUTPUT_TEXT_TT: "This is how much §Ototal§! £fuel_texticon §YFuel§! our £refinery [?num_refinery_assigned@fuel|Y0] §YSynthetic Refineries§! are outputting."
 
-BI_rubber_conversion_container_TT: "£civ_factory §YRubber Refineries§! can produce synthetic £resources_strip|3 §YRubber§!. They require £electricity_small §YEnergy§! to operate."
-energy_rubber_text_tt: "This is how much £electricity_medium §YEnergy§! each £civ_factory §YRubber Refinery§! requires for max output."
-output_rubber_text_tt: "This is how much £resources_strip|3 §YRubber§! each £civ_factory §YRubber Refinery§! can output at full throughput."
-RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubber§! our £civ_factory [?num_refinery_assigned@rubber|Y0] §YRubber Refineries§! are outputting."
+BI_rubber_conversion_container_TT: "£refinery §YRubber Refineries§! can produce synthetic £resources_strip|3 §YRubber§!. They require £electricity_small §YEnergy§! to operate."
+energy_rubber_text_tt: "This is how much £electricity_medium §YEnergy§! each £refinery §YRubber Refinery§! requires for max output."
+output_rubber_text_tt: "This is how much £resources_strip|3 §YRubber§! each £refinery §YRubber Refinery§! can output at full throughput."
+RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubber§! our £refinery [?num_refinery_assigned@rubber|Y0] §YRubber Refineries§! are outputting."
 
  LACK_OF_FOOD_TITLE: "§YLack of Food§!\n\nCurrent Value: [?lack_of_food|-%]\nTarget Value: [?lack_of_food_max|-%]"
  LACK_OF_FOOD_INCREASE: "   - Daily Gain: [?0.01|R%=]"
@@ -2571,7 +2491,7 @@ RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubb
  MAIN_MENU_ENERGY: "Construct or conquer §YPower Plants§! and supply them with §YCoal§! or §YFuel§! to create §YEnergy§!, required by your industry to function. Hydro Plants are not buildable, but gainable through certain focuses or events where historically applicable. You can view your country's Energy Situation in the §CTrade Tab§!, in the §CEnergy§! window."
  MAIN_MENU_REFINERY: "§YSteel, Aluminium, Synthetic Fuel & Synthetic Rubber§! are now produced via §YRefinery§! buildings, supplied with either §YIron, Coal§! or §YBauxite§! and §YEnergy§!. Assign Refineries for production and manage resource deficits in the §CTrade Tab§!, in the §CConversion§! window."
  MAIN_MENU_ENGINE_ARTILLERY: "Previous Equipment Factories apart from Ship- & Subyards are replaced with §YEngine§! & §YArtillery Capacity§!. These buildings, similar to Tank and Plane Assemblies, generate resources for equipment production. You can see an overview in the §CProduction Tab§!."
- MAIN_MENU_TECHNOLOGIES: "The tech tree also saw some changse. The new "Resource Manufacturing" Tab consists of newly added technologies which improve aspects of food, energy management and refineries, while some already knowns techs like excavation, medicine and fuel technologies will also be found here."
+ MAIN_MENU_TECHNOLOGIES: "The tech tree also saw some changes. The new "Resource Manufacturing" Tab consists of newly added technologies which improve aspects of food, energy management and refineries, while some already knowns techs like excavation, medicine and fuel technologies will also be found here."
  
  MAIN_MENU_END: "Thank you for reading the summary, if you have any questions left unanswered feel free to reach out to us on our Official Discord server. \nWe hope you enjoy the challenges of the Industry Rework and the release of Arms Against Tyranny."
  
@@ -2667,7 +2587,8 @@ RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubb
  shipyard_capital_building_tooltip: "§Y[?token:shipyard_capital_building.GetTokenLocalizedKey]§!\n[!shipyard_capital_building_click]"
  
  building_unbuildable_tooltip: "\n£trigger_no This building is §Runbuildable.§!"
- building_cost_tooltip: "\nConstruction cost: £civ_factory_output [?global.building_cost@var:building|Y0]"
+ building_requirement_tooltip: "§RRequires Technology ([?tech.GetTokenLocalizedKey])§!"
+ building_cost_tooltip: "\nConstruction cost: £civ_factory_output [?global.building_cost@var:building|Y0]" # (Days: [?days|0])
  building_conversion_tooltip: "Conversion cost: £civ_factory_output [?conversion|Y0]"
  building_energy_tooltip: "\nEnergy Need: [?need|R1]£electricity_medium "
  building_delayed_tooltip: "§GClick to select this building and then click on a State to start a construction.§!"
@@ -2690,4 +2611,31 @@ RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubb
  
  manpower_disband_TT: "§OUnit Upgrade§!: When this upgrade is activated, the current unit (if it exists) is disbanded, returning its manpower to your pool. A new, upgraded unit is then created, utilizing the available manpower. The net manpower result will depend on the differences between both units manpower."
  
+ OUTCOME_DETERMINED_TT: "\nThe Outcome for the following will be determined once we select this decision, but the effect will be awarded when the decisions is removed."
+		
+ COMMUNIST_INFLUENCE_INCREASE: "Changes §YCommunist§! influence by $RIGHT|+=0$"
+ ANARCHIST_INFLUENCE_INCREASE: "Changes §YAnarchist§! influence by $RIGHT|+=0$"
+ LIBERAL_INFLUENCE_INCREASE: "Changes §YLiberal§! influence by $RIGHT|+=0$"
+
+ UI_OVERLAY_UPDATE_TEXT: "Please click here to initialize the UI"
+
+ REQUIRE_LAR: "£trigger_no Has §YLa Resistance§!"
+
+ ALL_SHORTCUT_TEXT: "Press £a   for equipments in this list to §YSelect All§!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
  ########## EOT #############
