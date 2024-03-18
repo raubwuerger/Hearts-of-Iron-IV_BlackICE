@@ -222,7 +222,8 @@
  JAP_HVanti_air_equipment_1_desc:1 "An advanced mobile flak gun with greater reach and firing capacity, to combat even the fastest and highest-flying enemy aircraft."
  JAP_HVanti_air_equipment_2:0 "Type 99 8.8cm AA Gun"
  JAP_HVanti_air_equipment_2_desc:0 "Larger caliber guns to combat heavier tanks with sloped armor."
- JAP_HVanti_air_equipment_3:0 "Type 3 12cm AA Gun"
+ JAP_HVanti_air_equipment_3:0 "75mm Type 4 AA Gun"
+ JAP_HVanti_air_equipment_3_short:0 "75mm Type 4"
  JAP_HVanti_air_equipment_3_desc:0 "Combining different kinds of new ammunition technology with guns with higher muzzle velocities, these anti-tank guns are prepared for whatever new armor our enemies may develop."
 
  JAP_motorized_rocket_equipment_1:0 "Shisei yon-shiki"

@@ -131,7 +131,7 @@
  STARTING_EFFICIENCY_TOOLTIP:0 "\n§YStarting Production Efficiency§!\nBase: §Y10.00%§!\n[!production_start_efficiency_icon_click]"
  STARTING_EFFICIENCY_ICON_TT:0 "§YFactory Start Efficiency Factor§!"
  LOCAL_RESOURCES_TEXT:0 "[?modifier@resources_factor|%0=+]"
- LOCAL_RESOURCES_TOOLTIP:0 "\n§YResource Extraction§!\n§gDoesnotapplytoAluminium,Steel&Food.§!\n [!local_resources_icon_click]"
+ LOCAL_RESOURCES_TOOLTIP:0 "\n§YResource Extraction§!\n§gDoes not apply to Aluminium, Steel & Food.§!\n[!local_resources_icon_click]"
  
  EXTRA_RESOURCE_PRODUCTION_FACTOR_TEXT: "\n§YResource specific extraction modifiers:§!"
  EXTRA_RESOURCE_PRODUCTION_FLAT_TEXT: "\n§YAbsolute changes due to extraction modifiers:§!"
@@ -824,8 +824,8 @@
  SSDivisionStateText0_TT:0 "§Y[?state.GetName]§!\n"
  SSDivisionStateText1_TT:0 "§Y[?state.GetName] - [?state_1.GetName]§!\n"
  SSDivisionStateText2_TT:0 "§Y[?state.GetName] - [?state_1.GetName] - [?state_2.GetName]§!"
- SS_template_locked_TT:0 "\n £locked_small Is locked: §RJa§!"
- SS_template_unlocked_TT:0 "\n £unlocked_small Is locked: §GNein§!"
+ SS_template_locked_TT:0 "\n £locked_small Is locked: §RYes§!"
+ SS_template_unlocked_TT:0 "\n £unlocked_small Is locked: §GNo§!"
  SS_template_AND_TT:0 "§W and §!"
  SS_template_merge_TT:0 ", §Yconsolidated§!"
  SS_template_division_TT:0 "§CTemplate:§!\n"
@@ -922,7 +922,7 @@
  SS_template_recon_ac_TT:0 "    §Y1x§! Armored Car Recon Battalion\n" 
  SS_template_heavy_artillery_TT:0 "    §Y1x§! Heavy Artillery Battalion\n"
  SS_template_rocket_artillery_TT:0 "    §Y1x§! Rocket Artillery Battalion\n"
- SS_template_recon_cav_TT:0 "    §Y1x§! Cavalry Recon Battalion\n" 
+ SS_template_recon_cav_TT:0 "    §Y1x§! Cavalry Recon Battalion\n"
  SS_template_trm_light_sp_anti_air_support_TT:0 "    §Y1x§! Light Self Propelled Anti Air Battalion\n"
  SS_template_trm_medium_sp_anti_air_support_TT:0 "    §Y1x§! Medium Self Propelled Anti Air Battalion\n"
  #End
@@ -1875,7 +1875,7 @@
  ENERGY_PRODUCED_HYDRO_TEXT: "[?energy_produced@hydro|Y=0]"
  
  TOPBAR_ENERGY_TOOLTIP: "§YEnergy§!\n\n[GetTextForRatio]\n\nMax Capacity: [?max_energy_production|G0]\n\nTotal Energy Produced: [?energy_produced|G0]\n     Base: §Y200§!\n[GetEnergyDemandBrokenDown]\n\nTotal Energy Consumed: [?energy_cost|R0]\n   Civilian: [?energy_cost@energy_civilian|Y0]\n   Military: [?energy_cost@energy_military|Y0]\n   Naval:   [?energy_cost@energy_naval|Y0]\n   Resources: [?energy_cost@energy_conversion|Y0]"
- GetEnergyDemandBrokenDown: "   §OThermal§! Plants: [?t|Y0]\n   §CHydro§! Plants: [?h|Y0]"
+ GetEnergyDemandBrokenDown: "     §OThermal§! Plants: [?t|Y0]\n     §CHydro§! Plants: [?h|Y0]"
  ENERGY_CONSUMPTION_TITLE: "Energy Consumption"
  ENERGY_CONSUMPTION_TEXT: "§R-[?energy_cost|0]§!"
 
@@ -1900,7 +1900,7 @@
  
  energy: "Energy"
  energy_desc: "Energy is the lifeblood of your nation's economy. Without energy, factories, assemblies, dockyards and refineries cannot operate. Energy is produced by §YPower Plants§!, which can be either §OThermal§! or §CHydro§! type. The former runs on §OCoal§! or §OFuel§! while the latter uses §CWater§!."
- 
+   
  ENERGY_SURPLUS_TOOLIP: "[!available_production_click]"
  ENERGY_SURPLUS_BASE: "§YMax Energy Production§!\nCurrent value: [?max_energy_production|G0]\n    Base: §Y+200§!"
  ENERGY_SURPLUS_POWER_PLANT: "    [?num_power_plant|0] Power Plants: [?t|Y0=]"
@@ -1936,7 +1936,7 @@
  ENERGY_HYDRO_INPUT_DEFICIT: "\n§RRequires §Y[?t|0]K§! additional £energy_hydro_icon Fuel in Storage (atleast 5% filled) for full efficiency! §!"
  ENERGY_HYDRO_INPUT_TOOLTIP_DELAYED: "[!hydro_input_text_right_click]"
  ENERGY_FROM_HYDRO_TOOLTIP: "§G1§! Hydroelectric Plant is capable of producing [?energy_from_hydro|Y0]£electricity_medium §YEnergy§! without any requirements, but they can not be built normally."
- 
+
  ENERGY_COAL_RATIO_TOOLTIP: "§YClick§! to increase the ratio of £resources_strip|8 §YCoal§! used in §YEnergy Production§! by §Y5%§!"
  ENERGY_COAL_RATIO_TOOLTIP_DELAYED: "[?energy_ratio@coal|0%Y] of our [?num_power_plant|Y0] Power Plants are producing §YEnergy§! with £resources_strip|8 §YCoal§!"
  ENERGY_OIL_RATIO_TOOLTIP: "§YClick§! to increase the ratio of £fuel_texticon §YFuel§! used in §YEnergy Production§! by §Y5%§!"
@@ -2528,7 +2528,7 @@ RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubb
  LACK_OF_FOOD_PROD_N: "[?token:industrial_capacity_dockyard_factor.GetTokenLocalizedKey]: $RIGHT|+=%$"
  LACK_OF_FOOD_CONSTRUCTION: "[?token:production_speed_buildings_factor.GetTokenLocalizedKey]: $RIGHT|+=%$" 
  
- export_offset: "§gExport fix (ignore,doesnotactuallyapply)§!"
+ export_offset: "§gExport fix (ignore, does not actually apply)§!"
  resource_production: "Extra Resource Production"
  assembly_production: "Assembly Output"
  energy_production: "Energy Production"

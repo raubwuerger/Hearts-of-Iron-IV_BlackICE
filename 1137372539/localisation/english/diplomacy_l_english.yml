@@ -514,6 +514,7 @@
  DR_OPINION_DIPLOMATIC_PRESSURE:1 "£operative_mission_icons_small|7£ Diplomatic Pressure: "
  DR_TRADE_INFLUENCE: "§Y$US|U$§! trade influence over §Y$THEM$§!: "
  DR_TRADE_EMBARGO: "§Y$THEM$§! has been embargoed by §Y$US$§!: "
+ DR_HAS_NON_AGGRESSION_PACT: "§Y$THEM$§! has non-aggression pacts with §Y$US$§!: "
  DR_MARKET_CONTRACT_DURATION: "Length of contract: "
  DR_MARKET_NO_TRADE_ROUTE: "No valid trade route between countries: "
  DR_MARKET_TRADE_POS_DESIRE: "§Y$US$§! is willing to trade with §Y$THEM$§!: "

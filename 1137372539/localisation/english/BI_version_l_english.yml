@@ -4,16 +4,14 @@
  ### IMPORTANT ### 
  #-Also adjust GetVersion in common/scripted_localisation/
  BICE_mod_type: "§YMain Version§!" #either Main Version or Test Version
- BICE_version:0 "v8.0.5"
+ BICE_version:0 "v8.1.0"
  BICE_checksum:0 "75fa" #don't forget to remove the git stuff before uploading
  #---------------------------------
  
 
- BICE_STARTUP_DESC:0 "Updated for compatibility with HOI IV v1.13.6 and 'Arms Against Tyranny' DLC" 
+ BICE_STARTUP_DESC:0 "Updated for compatibility with HOI IV v1.13.6 and 'Arms Against Tyranny' DLC" BICE_STARTUP_GENERAL_DESC:0 ""
  
- BICE_STARTUP_GENERAL_DESC:0 ""
- 
- BICE_checksum_and_desc:0 "Checksum below should be: ($BICE_checksum$)" 
+ BICE_checksum_and_desc:0 "Click to see correct checksum" 
  BICE_checksum_desc:0 "Checksum should be:"
  
  #LAND

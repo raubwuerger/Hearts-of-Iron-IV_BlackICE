@@ -46,7 +46,7 @@
  LOCAL_COMPLIANCE:0 "Local Compliance"
  
  ADDITIONAL_RECRUITABLE_POPULATION_ENTRY:0 "£manpower_texticon  Additional Recruitable Population: $VALUE|+%3$"
- RECRUITABLE_POPULATION_ENTRY:0 "£manpower_texticon  Recruitable Population Factor: $VALUE|+%0$"
+ RECRUITABLE_POPULATION_ENTRY:0 "Adjusted by $VALUE|+%0$ due to the following modifiers:"
  
  RESISTANCE_TARGET_FLOW:0 "£political_violence_texticon  Resistance spread from $STATE|H$: $FLOW|-%1$"
  RESISTANCE_DISABLED_INFO:1 "Resistance is currently being supressed successfully and won't be able to grow further unless §HResistance Target§! reaches $LIMIT|%0H$"
@@ -94,8 +94,8 @@
  OCCUPATION_BAR_CORE_RESISTANCE_TOOLTIP:0 "Average resistance of all core states of $COUNTRY|H$ controlled by you is $RESISTANCE|1%%H$."
  OCCUPATION_BAR_CORE_COMPLIANCE_TOOLTIP:0 "Average compliance of all core states of $COUNTRY|H$ controlled by you is $COMPLIANCE|1%%H$."
  
- resource_is_sabotaged:0 "Resource sabotaged"
- building_is_sabotaged:0 "Building sabotaged"
+ resource_is_sabotaged:0 "Resource Sabotaged"
+ building_is_sabotaged:0 "Building Sabotaged"
  infrastructure_is_sabotaged:0 "Infrastructure Sabotaged"
  industrial_complex_is_sabotaged:0 "Civilian Factory Sabotaged"
  arms_factory_is_sabotaged:0 "Military Factory Sabotaged"
