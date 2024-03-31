@@ -471,14 +471,14 @@
  PRC_chen_duxiu:0 "Chen Duxiu"
  ## 9/2/2017 ## "
  PRC_winter_training_idea:0 "Wintertraining"
- PRC_he_zhuguo:0 "He Zhuguo" #何柱國"
- PRC_mazhanshan:0 "Ma Zhanshan" #馬占山"
- PRC_yang_hu_cheng:0 "Yang Hucheng" #楊虎城"
- PRC_xu_lanzhou:0 "Xu Lanzhou" #許蘭州"
- PRC_wang_tehan:0 "Wang Tiehan" #王鐵漢"
+ PRC_he_zhuguo:0 "He Zhuguo" #何柱國
+ PRC_mazhanshan:0 "Ma Zhanshan" #馬占山
+ PRC_yang_hu_cheng:0 "Yang Hucheng" #楊虎城
+ PRC_xu_lanzhou:0 "Xu Lanzhou" #許蘭州
+ PRC_wang_tehan:0 "Wang Tiehan" #王鐵漢
  PRC_dong_biwu:0 "Dong Biwu"
  PRC_liu_shaoqi:0 "Liu Shaoqi"
- ## 10/2/2017 ## "
+ ## 10/2/2017 ##
  PRC_revanchism:0 "Revanchismus"
  PRC_anti_jap_sentiment:0 "Anti-japanische Stimmung"
  PRC_expanded_guerrillas:0 "Ausgedehnte Guerilla-Operation"
@@ -503,17 +503,17 @@
  PRC_eastern_blitzkrieg:0 "Orientalischer Blitzkrieg"
  PRC_jap_advisors:0 "Japanischer Militärberater"
  PRC_jap_style_command:0 "Lose Kommandostruktur"
- ## 17/2/2017 ## "
+ ## 17/2/2017 ##
  PRC_sov_advisor:0 "Sowjetische Militärberater"
  PRC_secret_police:0 "Geheimpolizei"
  PRC_anti_jap_sentiment_desc:0 "§YWird verstärkt, wenn Krieg mit Japan geführt wird§!"
  PRC_revanchism_desc:0 "§0Erlischt, wenn kein Krieg mit Japan geführt wird§!"
  PRC_zxl_navy:0 "Zhang Xueliang"
  PRC_zxl_air:0 "Zhang Xueliang"
- PRC_liu_duo_quan:0 "Liu Duoquan" #劉多荃"
- PRC_yu_xue_zhong:0 "Yu Xuezhong" #于學忠"
- PRC_li_bo_hai:0 "Li Bohai" #李渤海"
- PRC_deng_bao_shan:0 "Deng Baoshan" #鄧寶珊"
+ PRC_liu_duo_quan:0 "Liu Duoquan" #劉多荃
+ PRC_yu_xue_zhong:0 "Yu Xuezhong" #于學忠
+ PRC_li_bo_hai:0 "Li Bohai" #李渤海
+ PRC_deng_bao_shan:0 "Deng Baoshan" #鄧寶珊
  ## 19/2/2017 ## "
  PRC_wuhan_ins_corp:0 "Wuhan Eisen- und Stahlgesellschaft"
  PRC_faw_group:0 "FAW-Gruppe"

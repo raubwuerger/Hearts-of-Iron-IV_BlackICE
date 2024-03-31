@@ -4163,8 +4163,8 @@
  
  
  ## Belgium tblra ## ""
- BEL_charles_bastin:0 "Jules Bastin" # Als Parteinamen aus irgendeinem Grund nicht berücksichtigt"
- BEL_jules_bastin:0 "Jules Bastin" # Als Parteinamen aus irgendeinem Grund nicht berücksichtigt"
+ BEL_charles_bastin:0 "Jules Bastin" # Als Parteinamen aus irgendeinem Grund nicht berücksichtigt
+ BEL_jules_bastin:0 "Jules Bastin" # Als Parteinamen aus irgendeinem Grund nicht berücksichtigt
  tblra_leopold3:0 "Leopold III."
  tblra_leopold3_captive:0 "Leopold III. ist in Gefangenschaft"
  tblra_charles_regent:0 "Prinzregent Karl"

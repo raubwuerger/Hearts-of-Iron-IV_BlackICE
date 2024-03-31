@@ -278,13 +278,13 @@
  FRA_fascism_party3_long:0 "Comité secret d'action révolutionnaire"
  FRA_monarchism_party:0 "Action Française"
  RUS_communism_party:0 "VKP(B)" #Allgemeine Kommunistische Partei, und nach 1952: KPSS
- RUS_communism_party_long:0 "Vsesoyuznaya Kommunisticheskaya Partiya (Bol'shevikov)" #All-Union Communist Party, und nach 1952: Kommunisticheskaya Partiya Sovetskogo Soyuza"
+ RUS_communism_party_long:0 "Vsesoyuznaya Kommunisticheskaya Partiya (Bol'shevikov')" #All-Union Communist Party, und nach 1952: Kommunisticheskaya Partiya Sovetskogo Soyuza
  RUS_liberalism_party:0 "K-D"
  RUS_liberalism_party_long:0 "Konstitutsionno-Demokraticheskaya Partiya" #Trudoviks
- RUS_socialism_party:0 "PSR" #TG"
+ RUS_socialism_party:0 "PSR" #TG
  RUS_socialism_party_long:0 "Partiya Sotsialistov-Revolyutsionerov" #Trudovaya Gruppa #Partei der sozialistischen Revolutionäre
- RUS_conservatism_party:0 "LDPR" #LDPSS"
- RUS_conservatism_party_long:0 "Liberal'no-Demokraticheskaya Partiya Rossii" #Konstitutionelle Demokratische Partei #Liberal'no-Demokraticheskaya Partiya Sovetskogo Soyuza"
+ RUS_conservatism_party:0 "LDPR" #LDPSS
+ RUS_conservatism_party_long:0 "Liberal'no-Demokraticheskaya Partiya Rossii" #Konstitutionelle Demokratische Partei #Liberal'no-Demokraticheskaya Partiya Sovetskogo Soyuza
  RUS_fascism_party:0 "RFP ."
  RUS_fascism_party_long:0 "Rossiyskaya Fashistskaya Partiya" #Russische Faschistische Partei #das ist die Partei mit Sitz in Japan/Manchurien
  RUS_neutrality_party:0 "SRN"
@@ -292,13 +292,13 @@
  RUS_monarchism_party:0 "MPR"
  RUS_monarchism_party_long:0 "Monarkhicheskaya Partiya Rossii"
  SOV_communism_party:0 "VKP(B)" #Allgemeine Kommunistische Partei, und nach 1952: KPSS
- SOV_communism_party_long:0 "Vsesoyuznaya Kommunisticheskaya Partiya (Bol'shevikov)" #Kommunistische Partei der gesamten Union, und nach 1952: Kommunisticheskaya Partiya Sovetskogo Soyuza"
+ SOV_communism_party_long:0 "Vsesoyuznaya Kommunisticheskaya Partiya (Bol'shevikov')" #Kommunistische Partei der gesamten Union, und nach 1952: Kommunisticheskaya Partiya Sovetskogo Soyuza
  SOV_liberalism_party:0 "K-D"
  SOV_liberalism_party_long:0 "Konstitutsionno-Demokraticheskaya Partiya" #Trudoviks
- SOV_socialism_party:0 "PSR" #TG"
+ SOV_socialism_party:0 "PSR" #TG
  SOV_socialism_party_long:0 "Partiya Sotsialistov-Revolyutsionerov" #Trudovaya Gruppa #Partei der sozialistischen Revolutionäre
- SOV_conservatism_party:0 "LDPSS" #LDPR"
- SOV_conservatism_party_long:0 "Liberal'no-Demokraticheskaya Partiya Sovetskogo Soyuza" #Konstitutionelle Demokratische Partei #Liberal'no-Demokraticheskaya Partiya Rossii"
+ SOV_conservatism_party:0 "LDPSS" #LDPR
+ SOV_conservatism_party_long:0 "Liberal'no-Demokraticheskaya Partiya Sovetskogo Soyuza" #Konstitutionelle Demokratische Partei #Liberal'no-Demokraticheskaya Partiya Rossii
  SOV_fascism_party:0 "RFP ."
  SOV_fascism_party_long:0 "Rossiyskaya Fashistskaya Partiya" #Russische Faschistische Partei #das ist die Partei mit Sitz in Japan/Manchurien
  SOV_neutrality_party:0 "SRN"

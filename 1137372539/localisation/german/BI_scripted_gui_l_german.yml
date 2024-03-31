@@ -107,9 +107,9 @@
  mobilize_now_TT:0 "[From.GetName] startet §RMobilizing§!\n"
 
  EQUIPMENT_STATUS:0 "[Root.GetSelectedEquipment]"
- WIP_TT:0 ""Derzeit in Bearbeitung. \n Öffnen Sie die Konsole und geben Sie "set_global_flag wip" ein, dann "reload core.gui", um den Ausrüstungshandel zu aktivieren." #Equipment Import"
+ WIP_TT:0 "Derzeit in Bearbeitung. \n Öffnen Sie die Konsole und geben Sie 'set_global_flag wip' ein, dann 'reload core.gui', um den Ausrüstungshandel zu aktivieren." #Equipment Import
 
- BICE_CONTROL_PANEL:0 ""Black ICE Control Panel öffnen" #maybe Control Center"
+ BICE_CONTROL_PANEL:0 "Black ICE Control Panel öffnen" #maybe Control Center
  EXTEND_TOP_BAR:0 "Verlängern Sie die obere Leiste"
  UNEXTEND_TOP_BAR:0 "Obere Leiste ausfahren"
 
@@ -120,10 +120,10 @@
  SUBYARD_FACTORY_TOOLTIP:0 "\n§YU-Bootwerften§!\n\nMax. Stufe: §Y[GetMaxSubyardNumber]§!\nAktuelles Level: [?num_subyard_total|Y0]\nBeschädigt: [?num_subyard_damaged|0R]\n\n§YSubmarine§!: £production_cost IC Kosten: §G-[GetSubyardBonus]§!"
 
  CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Kapazität der Großwerft§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@shipyard_capital]§![GetCapitalProductionFree]\n\nInsgesamt Große Schiffswerften: [?num_capital_shipyard|Y0]\n Beschädigt: [?num_capital_shipyard_damaged|R0]\n\nKapazität pro Werft: [?modifier@shipyard_capital_capacity|Y0]\n [!shipyard_assembly_capacity_click]"
- AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Flugzeugproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@air_production]§!\n\nLuftmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@air_production_capacity|Y0]\n [!air_assembly_capacity_click]"
+ AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Flugzeugproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@air_production]§!\n\nFlugzeugmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@air_production_capacity|Y0]\n [!air_assembly_capacity_click]"
  TANK_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@tank_production] Panzerproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@tank_production]§!\n\nGesamtzahl der Panzermontageanlagen: [?num_tank_assembly|Y0]\n Beschädigt: [?num_tank_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@tank_production_capacity|Y0]\n [!tank_assembly_capacity_click]"
  ENGINE_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@engine_production] Motorenproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@engine_production]§!\n\nInsgesamt Motorenmontagewerke: [?num_engine_assembly|Y0]\n Beschädigt: [?num_engine_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@engine_production_capacity|Y0]\n [!engine_assembly_capacity_click]"
- ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_production] Artillerieproduktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_production]§!\n\nGesamtzahl der Artillerie-Montageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@artillery_production_capacity|Y0]\n [!artillery_assembly_capacity_click]"
+ ARTILLERY_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@artillery_production] Artillerieproduktionskapazität§! zur Verfügung.\nGesamtverbrauch: §Y[?resource_consumed@artillery_production]§!\n\nGesamtzahl der Artilleriemontageanlagen: [?num_artillery_assembly|Y0]\n Beschädigt: [?num_artillery_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@artillery_production_capacity|Y0]\n [!artillery_assembly_capacity_click]"
  
  CAPITAL_SHIPYARD_PRODUCTION_FREE: "\nKapitalschiffäquivalente unbenutzt: §Y[?num_capital_shipyard_free|2]§!"
  
@@ -654,14 +654,14 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  LAW_SWITCH_ICON_UP_LARGE:0 "£increase_texticon_large"
  LAW_SWITCH_ICON_DOWN_LARGE:0 "£decrease_texticon_large"
  
- economy_switch:0 " Ändert derzeit §YWirtschaftspolitik§!\n"
+ economy_switch:0 "Ändert derzeit §YWirtschaftspolitik§!\n"
  economy_switch_name:0 "Änderung der Wirtschaftspolitik"
  economy_switch_queue_TT:0 "Nach der Änderung an §Y[Root.GetEconomySwitchTarget]§! Ist das erledigt, wechseln wir zu §Y[?economy_law.GetTokenLocalizedKey]§!"
- civilian_economy_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$civilian_economy$§!"
- low_economic_mobilisation_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$low_economic_mobilisation$§!"
- partial_economic_mobilisation_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$partial_economic_mobilisation$§!"
- war_economy_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$war_economy$§!"
- tot_economic_mobilisation_switch:0 "Ändert die §Wirtschaftspolitik§! zu §Y$tot_economic_mobilisation$§!"
+ civilian_economy_switch:0 "Ändert die §YWirtschaftspolitik§! zu §Y$civilian_economy$§!"
+ low_economic_mobilisation_switch:0 "Ändert die §YWirtschaftspolitik§! zu §Y$low_economic_mobilisation$§!"
+ partial_economic_mobilisation_switch:0 "Ändert die §YWirtschaftspolitik§! zu §Y$partial_economic_mobilisation$§!"
+ war_economy_switch:0 "Ändert die §YWirtschaftspolitik§! zu §Y$war_economy$§!"
+ tot_economic_mobilisation_switch:0 "Ändert die §YWirtschaftspolitik§! zu §Y$tot_economic_mobilisation$§!"
  
  ECONOMY_SWITCH_PROGRESS_TRIGGER:0 "\nErforderlicher Gesamtfortschritt: [?economy_switch_progress_required]\n"
  ECONOMY_SWITCH_STAGE_TRIGGER:0 "Aktueller Phasenfortschritt erforderlich: [?economy_switch_stage_trigger]\n"
@@ -1985,11 +1985,11 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  export_focus_stats: "£resources_texticon §Y40% - 60%§! £ore_resources_texticon §Y30% - 50%§! £food_resources_texticon §Y40% - 60%§!"
  limited_exports_stats: "£resources_texticon §Y15% - 35%§! £ore_resources_texticon §Y5% - 25%§! £food_resources_texticon §Y15% - 35%§!"
  closed_economy_stats: "£resources_texticon §Y0%§! £stability_texticon §R-0.10%§!"
- tax_minimal_stats: ""£stability_texticon §G+0.40%§!" #£law_budget §Y+2§!"
- tax_low_stats: ""£stability_texticon §G+0.20%§!" #£law_budget §Y+5§!"
- tax_average_stats: " #£law_budget §Y+8§!"
- tax_high_stats: ""£stability_texticon §R-0.20%§!" #£law_budget §Y+12§!"
- tax_extreme_stats: ""£stability_texticon §R-0.40%§!" #£law_budget §Y+15§!"
+ tax_minimal_stats: "£stability_texticon §G+0.40%§!" #£law_budget §Y+2§!
+ tax_low_stats: "£stability_texticon §G+0.20%§!" #£law_budget §Y+5§!
+ tax_average_stats: "#£law_budget §Y+8§!"
+ tax_high_stats: "£stability_texticon §R-0.20%§!" #£law_budget §Y+12§!
+ tax_extreme_stats: "£stability_texticon §R-0.40%§!" #£law_budget §Y+15§!
  press_free_stats: "£war_support_texticon §R-0.10%§!"
  press_regulated_stats: " "
  press_censored_stats: "£stability_texticon §G+0.10%§!"
@@ -2609,7 +2609,7 @@ RUBBER_OUTPUT_TEXT_TT: "So viel £resources_strip|3 §YGummi§! können unsere �
  
  phase_block_desc: "[GetTag] [dirty] Test"
  
- manpower_disband_TT: "§OEinheitenaufrüstung§!: Wenn dieses Upgrade aktiviert wird, wird die aktuelle Einheit (falls vorhanden) aufgelöst und ihre Arbeitskräfte in Ihren Pool zurückgeführt. Anschließend wird eine neue, verbesserte Einheit erstellt, die die verfügbaren Arbeitskräfte nutzt. Die Netto-Manpower Das Ergebnis wird von den Unterschieden zwischen der Personalstärke beider Einheiten abhängen.
+ manpower_disband_TT: "§OEinheitenaufrüstung§!: Wenn dieses Upgrade aktiviert wird, wird die aktuelle Einheit (falls vorhanden) aufgelöst und ihre Soldaten in den Pool zurückgeführt. Anschließend wird eine neue, verbesserte Einheit erstellt, welche die verfügbaren Soldaten wieder nutzt. Die Netto-Manpower Das Ergebnis wird von den Unterschieden zwischen der Personalstärke beider Einheiten abhängen.
 
  OUTCOME_DETERMINED_TT: "\nDas Ergebnis für Folgendes wird bestimmt, sobald wir diese Entscheidung getroffen haben, aber der Effekt wird gewährt, wenn die Entscheidungen entfernt werden."
 

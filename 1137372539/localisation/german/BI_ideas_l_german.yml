@@ -248,10 +248,10 @@
  sub_ideology_social_conservatism:0 "Herrschende Ideologie: Sozialkonservatismus"
  sub_ideology_classical_liberalism:0 "Herrschende Ideologie: Klassischer Liberalismus"
  sub_ideology_moderate:0 "Herrschende Ideologie: Gemäßigt"
- HUN_austria_manpower:0 "Tschechoslowakische Arbeitskräfte"
+ HUN_austria_manpower:0 "Tschechoslowakische Rekruten"
  HUN_austria_manpower_desc:0 "Wir können nun Soldaten aus der tschechoslowakischen Bevölkerung rekrutieren, wenn auch in begrenztem Umfang."
- HUN_combined_manpower:0 "Kombinierte Arbeitskräfte"
- HUN_combined_manpower_desc:0 "Wir haben nun begrenzten Zugriff auf die Arbeitskräftepools von Österreich und der Tschechoslowakei."
+ HUN_combined_manpower:0 "Kombinierte Rekruten"
+ HUN_combined_manpower_desc:0 "Wir haben nun begrenzten Zugriff auf die Rekrutenpools von Österreich und der Tschechoslowakei."
  deaths_at_protest:0 "Schief gelaufener Protest"
  rubber_strike:0 "Streik der Gummiarbeiter"
  steel_strike:0 "Stahlarbeiterstreik"
@@ -434,17 +434,17 @@
  montgomery_sc:0 "Bernard Montgomery"
  brooke_sc:0 "Sir Alan Brooke"
  alexander_sc:0 "Harold Alexander"
- chiang_sc:0 "Chiang Kai-Shek" #Idee GFX benötigt"
- mao_sc:0 "Mao Zedong" #GFX benötigt"
- zhu_de_sc:0 "Zhu De" #GFX benötigt"
+ chiang_sc:0 "Chiang Kai-Shek" #Idee GFX benötigt
+ mao_sc:0 "Mao Zedong" #GFX benötigt
+ zhu_de_sc:0 "Zhu De" #GFX benötigt
  de_gaulle_sc:0 "Charles de Gaulle"
- de_tassigny_sc:0 "Jean de Lattre de Tassigny" #GFX benötigt"
+ de_tassigny_sc:0 "Jean de Lattre de Tassigny" #GFX benötigt
  gamelin_sc:0 "Maurice Gamelin"
  tojo_sc:0 "Hideki Tojo"
  sugiyama_sc:0 "Hajime Sugiyama"
  yamamoto_sc:0 "Isoroku Yamamoto"
  zhukov_sc:0 "Georgy Zhukov"
- stalin_sc:0 "Joseph Stalin" #GFX benötigt"
+ stalin_sc:0 "Joseph Stalin" #GFX benötigt
  timoshenko_sc:0 "Semjon Timoschenko"
  norman_thomas:0 "Norman Thomas"
  gus_hall:0 "Gus Hall"
@@ -693,7 +693,7 @@
  union_leader:0 "Gewerkschaftsführer"
 
 
- Manpower_draft:0 "Einberufung von Arbeitskräften"
+ Manpower_draft:0 "Einberufung von Rekruten"
  ENG_commando_raid:0 "Kommandoüberfall"
 
  #Canada
@@ -825,14 +825,14 @@
  ITA_backstabber:0 "Backstabber"
  ITA_controls_malta:0 "Wir halten Malta!"
  ## Monarchy/Republic law set ""
- monarchy_republic:0 "Monarchie/Republik" ##vielleicht Regierungsform??##"
+ monarchy_republic:0 "Monarchie/Republik" ##vielleicht Regierungsform??##
  constitutional_monarchy:0 "Monarchie" ##vielleicht nur Monarchie??##"
  constitutional_monarchy_desc:0 "Eine Monarchie ist eine Regierungsform, in der eine Gruppe, im Allgemeinen eine Familie, die eine Dynastie repräsentiert, die nationale Identität des Landes verkörpert und deren Oberhaupt, der Monarch, die Rolle der Souveränität ausübt."
- constitutional_monarchy2:0 "Konstitutionelle Monarchie" ##vielleicht instabile/unbegründete/unkonstitutionelle Monarchie??##"
+ constitutional_monarchy2:0 "Konstitutionelle Monarchie" ##vielleicht instabile/unbegründete/unkonstitutionelle Monarchie??##
  constitutional_monarchy2_desc:0 "Eine Monarchie ist eine Regierungsform, in der eine Gruppe, im Allgemeinen eine Familie, die eine Dynastie repräsentiert, die nationale Identität des Landes verkörpert und deren Oberhaupt, der Monarch, die Rolle der Souveränität ausübt."
- constitutional_republic:0 "Republik" ##vielleicht nur Republik??##"
+ constitutional_republic:0 "Republik" ##vielleicht nur Republik??##
  constitutional_republic_desc:0 "Eine Republik ist eine Regierungsform, in der das Land als "öffentliche Angelegenheit" und nicht als Privatangelegenheit oder Eigentum der Monarchen betrachtet wird."
- constitutional_republic2:0 "Konstitutionelle Republik" ##vielleicht instabile/unbegründete/unkonstitutionelle Republik??##"
+ constitutional_republic2:0 "Konstitutionelle Republik" ##vielleicht instabile/unbegründete/unkonstitutionelle Republik??##
  constitutional_republic2_desc:0 "Eine Republik ist eine Regierungsform, in der das Land als "öffentliche Angelegenheit" und nicht als Privatangelegenheit oder Eigentum von Monarchen betrachtet wird."
  crowned_republic:0 "Gekrönte Republik"
  crowned_republic_desc:0 "Eine Regierungsform, bei der der Monarch (und seine Familie) eine offizielle zeremonielle Einrichtung ohne politische Macht ist."

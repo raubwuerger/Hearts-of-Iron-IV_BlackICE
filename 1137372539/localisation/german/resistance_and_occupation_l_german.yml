@@ -85,7 +85,7 @@
  COMPLIANCE_GAIN_IS_SCALED:0 "Skaliert um $RATIO|R.0%$ wegen unzureichender Garnison!"
 
  OCCUPIED_COUNTRY_CORE_COUNT_TOOLTIP:0 "Das Land hat insgesamt $NUM_CORES|H$ Kernstaaten und du kontrollierst $NUM_CONTROLLED_CORES|H$ dieser Staaten."
- OCCUPIED_COUNTRY_MANPOWER_TOOLTIP:0 "Es gibt $NUM_TOTAL_MANPOWER|*H$ Bevölkerung in den Staaten, die du kontrollierst und mit deinem aktuellen Gesetz und anderen Modifikatoren kannst du auf $RATIO|.2H%$ ($NUM_ACCESSED_MANPOWER|*H$) dieser Arbeitskräfte zugreifen."
+ OCCUPIED_COUNTRY_MANPOWER_TOOLTIP:0 "Es gibt $NUM_TOTAL_MANPOWER|*H$ Bevölkerung in den Staaten, die du kontrollierst und mit deinem aktuellen Gesetz und anderen Modifikatoren kannst du auf $RATIO|.2H%$ ($NUM_ACCESSED_MANPOWER|*H$) dieser Rekruten zugreifen."
  OCCUPIED_COUNTRY_RESOURCES_TOOLTIP:0 "Es gibt $NUM_TOTAL_RESOURCES|0H$ Ressourcen ($RESOURCES$) in den Staaten, die du kontrollierst und mit deinem aktuellen Gesetz und anderen Modifikatoren kannst du auf $RATIO|.2H%$ ($NUM_ACCESSED_RESOURCES|1H$) dieser Ressourcen zugreifen."
  OCCUPIED_COUNTRY_INDUSTRIAL_CAPACITY_TOOLTIP:0 "Es gibt $NUM_TOTAL_FACTORIES|0H$ Fabriken ($NUM_TOTAL_CIV_FACTORIES|.0$£civ_factory£ $NUM_TOTAL_MIL_FACTORIES|.0$£mil_factory£) in den Staaten, die du kontrollierst und mit deinem aktuellen Gesetz und anderen Modifikatoren kannst du auf $RATIO|.2H%$ ($NUM_ACCESSED_FACTORIES|1H$) dieser Fabriken zugreifen."
  OCCUPIED_COUNTRY_NO_MANPOWER_TOOLTIP:0 "Die Staaten, die Sie kontrollieren, haben keine Bevölkerung."
@@ -239,7 +239,7 @@
  #OCCUPATION_STATE_OCCUPATION_INFO:0 "Der Staat hat einen Widerstand von $COUNTRY|H$"
  #OCCUPATION_STATE_OCCUPATION_INFO_NO_RESISTANCE:0 "Es gibt keinen Widerstand in dem Staat"
  non_core_controller:0 "Nicht-Kernkontrolleur"
- non_core_controller_desc:0 "Ein Staat, der von einem Nicht-Kernland kontrolliert wird"
+ non_core_controller_desc:0 "Ein Staat, der von einem Nicht Kernland kontrolliert wird"
  recent_state_change: "Hat kürlich den Besitzer gewechselt"
 
  #BI ""

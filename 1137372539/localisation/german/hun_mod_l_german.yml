@@ -52,8 +52,8 @@
  italian_royalty:0 "Italienisches Königshaus"
  german_royalty:0 "Deutsches Königshaus"
 
- HUN_austrian_manpower:0 "Österreichische Arbeitskräfte"
- HUN_czech_manpower:0 "Tschechische Arbeitskräfte"
+ HUN_austrian_manpower:0 "Österreichische Rekruten"
+ HUN_czech_manpower:0 "Tschechische Rekruten"
  HUN_indigenous_designs:0 "Einheimische Designs"
  HUN_invite_foreign_investors:0 "Ausländische Investoren einladen"
  HUN_naval_warfare:0 "Seekriegsführung"
@@ -1121,8 +1121,8 @@
  hungary_flavor_ger.20.a:0 "Wir nehmen den Vorschlag an."
  hungary_flavor_ger.20.b:0 "Das geht gegen unsere Interessen."
 
- hungary_flavor_ger.21.t:0 "Ungarn bietet rekrutierbare Arbeitskräfte für das Burgenland an"
- hungary_flavor_ger.21.d:0 "Ein interessanter Vorschlag kam heute aus Ungarn. Sie wollen unsere Armee mit eigenen Männern unterstützen und im Gegenzug müssten wir das Burgenland an sie abtreten. Das Burgenland ist historisch gesehen ungarisch, obwohl die meisten seiner Bewohner Österreicher sind. Da unser Krieg nicht so reibungslos verläuft, wie wir es erwartet haben, könnten wir die zusätzlichen Arbeitskräfte gut gebrauchen. Was sollen wir ihnen sagen?"
+ hungary_flavor_ger.21.t:0 "Ungarn bietet rekrutierbare Rekruten für das Burgenland an"
+ hungary_flavor_ger.21.d:0 "Ein interessanter Vorschlag kam heute aus Ungarn. Sie wollen unsere Armee mit eigenen Männern unterstützen und im Gegenzug müssten wir das Burgenland an sie abtreten. Das Burgenland ist historisch gesehen ungarisch, obwohl die meisten seiner Bewohner Österreicher sind. Da unser Krieg nicht so reibungslos verläuft, wie wir es erwartet haben, könnten wir die zusätzlichen Rekruten gut gebrauchen. Was sollen wir ihnen sagen?"
  hungary_flavor_ger.21.a:0 "Sie können diesen kleinen Streifen Land haben. Wir brauchen ihre Männer."
  hungary_flavor_ger.21.b:0 "[Root.GetName] ist nicht auf fremde Hilfe angewiesen!"
 
@@ -3615,7 +3615,7 @@
  HUN_hungary_first:0 "Ungarn zuerst"
  HUN_hungary_first_desc:0 "Wir sind allein in unserem Kampf um die Rückgewinnung unseres verlorenen Territoriums. Die Zeit hat bewiesen, dass niemand daran interessiert ist, den Vertrag von Trianon zu revidieren, also müssen wir die Sache selbst in die Hand nehmen und uns Verbündete suchen, oder wir stellen uns allein jedem, der sich uns widersetzt."
  HUN_conscription_reforms:0 "Reformen der Wehrpflicht"
- HUN_conscription_reforms_desc:0 "Eine direkte Ausweitung der Wehrpflicht könnte zu öffentlicher Empörung führen, aber wenn wir vorsichtig mit den Gesetzen jonglieren, könnten wir immer noch einen größeren Pool an Arbeitskräften gewinnen. Hier ein wenig nachgeben, dort ein wenig wegnehmen, und schon ist das Ganze so fragwürdig, dass es die meisten Menschen verwirrt."
+ HUN_conscription_reforms_desc:0 "Eine direkte Ausweitung der Wehrpflicht könnte zu öffentlicher Empörung führen, aber wenn wir vorsichtig mit den Gesetzen jonglieren, könnten wir immer noch einen größeren Pool an Rekruten gewinnen. Hier ein wenig nachgeben, dort ein wenig wegnehmen, und schon ist das Ganze so fragwürdig, dass es die meisten Menschen verwirrt."
  HUN_revisionist_education:0 "Revisionistische Bildung"
  HUN_revisionist_education_desc:0 "Unser Bildungssystem muss sich die Ideen des Revisionismus zu eigen machen und den Geist an die jüngeren Generationen weitergeben. Der frühere Ruhm Ungarns soll in den Schulen gelehrt werden, um den Kindern den Nationalstolz in ihr Innerstes zu pflanzen. Der Bildungsminister Kuno von Klebelsberg hat einen detaillierten Plan zur Reform des Bildungssystems ausgearbeitet."
  HUN_budapest_research_group:0 "Forschungsgruppe Budapest"
@@ -4766,11 +4766,11 @@
  HUN_will_become_responsible_for_curbing_hungarian_expansion:0 "Wir werden für die Überwachung der [HUN.GetAdjective]-Expansion verantwortlich sein.\n"
  HUN_their_opinion_of_us_will_deteriorate:0 "Ihre Meinung über uns wird sich verschlechtern.\n"
  HUN_states_in_bohemia_moravia_will_provide_more_manpower:0 "Die Staaten in §YBohemia-Moravia§! werden mehr Personal bereitstellen.\n"
- HUN_states_in_slovakia_will_provide_more_manpower:0 "Die Staaten in §YSlowakei§! werden mehr Arbeitskräfte bereitstellen.\n"
- HUN_states_in_galicia_lodomeria_will_provide_more_manpower:0 "Die Staaten in §YGalizien-Lodomerien§! werden mehr Arbeitskräfte bereitstellen.\n"
- HUN_states_in_transylvania_will_provide_more_manpower:0 "Die Staaten in §YTransylvania§! werden mehr Arbeitskräfte bereitstellen.\n"
- HUN_states_in_croatia_bosnia_will_provide_more_manpower:0 "Die Staaten in §YKroatien-Bosnien§! werden mehr Arbeitskräfte bereitstellen.\n"
- HUN_states_in_carinthia_venetia_will_provide_more_manpower:0 "Die Staaten in §YKärnten-Venetien§! werden mehr Arbeitskräfte zur Verfügung stellen.\n"
+ HUN_states_in_slovakia_will_provide_more_manpower:0 "Die Staaten in §YSlowakei§! werden mehr Rekruten bereitstellen.\n"
+ HUN_states_in_galicia_lodomeria_will_provide_more_manpower:0 "Die Staaten in §YGalizien-Lodomerien§! werden mehr Rekruten bereitstellen.\n"
+ HUN_states_in_transylvania_will_provide_more_manpower:0 "Die Staaten in §YTransylvania§! werden mehr Rekruten bereitstellen.\n"
+ HUN_states_in_croatia_bosnia_will_provide_more_manpower:0 "Die Staaten in §YKroatien-Bosnien§! werden mehr Rekruten bereitstellen.\n"
+ HUN_states_in_carinthia_venetia_will_provide_more_manpower:0 "Die Staaten in §YKärnten-Venetien§! werden mehr Rekruten zur Verfügung stellen.\n"
  HUN_will_be_able_to_select_states:0 "Wir werden auswählen können, welche Regionen in der Föderation Staaten werden können.\n"
 
 

@@ -1487,13 +1487,13 @@
  usa.75.d:0 "Ai"
  usa.75.t:0 "Ai"
 
- usa.99.t:0 ""Axis Invasion!" #Ereignis für ENG"
+ usa.99.t:0 "Axis Invasion!" #Ereignis für ENG
  usa.99.desc:0 "Zum ersten Mal seit über 140 Jahren haben feindliche Truppen den Kanal überquert und einen Brückenkopf an unserer Küste errichtet. Unsere Generäle sind noch dabei, die Lage einzuschätzen, um den Ernst der Lage zu erkennen, aber sie sind auf jeden Fall entschlossen, die Invasion zurückzuschlagen. Können wir uns aus eigener Kraft gegen die Achsenmächte verteidigen, wenn sich herausstellt, dass es sich um mehr als einen einfachen Sondierungsangriff handelt?"
 
- usa.100.t:0 ""Invasion der britischen Inseln durch die Achsenmächte!" #Ereignis für die USA"
+ usa.100.t:0 "Invasion der britischen Inseln durch die Achsenmächte!" #Ereignis für die USA
  usa.100.desc:0 "In den Morgenstunden des [?global.date.GetDateStringNoHour] haben feindliche Truppen zum ersten Mal nach über 140 Jahren den Ärmelkanal überquert und einen Brückenkopf auf den britischen Inseln errichtet. Der britische Premierminister, [ENG.GetLeader], hat die Vereinigten Staaten aufgefordert, ihnen in ihrem Überlebenskampf gegen diese Achse des Bösen zu helfen, und um militärische Unterstützung gebeten."
 
- usa.101.t:0 ""Vereinigte Staaten treten in den Krieg ein!" #news event if US accepts"
+ usa.101.t:0 "Vereinigte Staaten treten in den Krieg ein!" #news event if US accepts
  usa.101.desc:0 "Nachdem Truppen der Achsenmächte die britischen Inseln betreten haben, hat der Premierminister [ENG.GetLeader] die Vereinigten Staaten aufgefordert, Großbritannien bei der Verteidigung gegen die Achsenmächte zu unterstützen. Nach einer Dringlichkeitssitzung des Kongresses hat Präsident [USA.GetLeader] öffentlich verkündet, dass die USA Großbritannien in seinem Kampf unterstützen und sich seinem Verteidigungskrieg anschließen werden, um die Achsenmächte endgültig zu stoppen."
 
 
