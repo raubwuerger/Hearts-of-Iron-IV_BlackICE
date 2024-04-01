@@ -42,3 +42,12 @@ notified§
 Dezimetrisches -> Dezimeterwellen
 Zentrimetisches -> Zentimeterwellen Radar
 Screening -> Sicherungs
+defensive§
+offensive§
+Arbeitskräft			-> Verfügbare Rekruten
+is produziert
+SP Anti-Air
+Anti-Air
+Cannot
+[Cav.]
+Air Wing

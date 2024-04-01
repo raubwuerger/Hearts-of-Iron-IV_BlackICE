@@ -171,7 +171,7 @@
  SOV_medium_tank_aa_equipment_axis_2:0 "T-90 AA SPAA"
  SOV_medium_tank_aa_equipment_axis_2_short:0 "T-90 AA SPAA"
  SOV_medium_tank_aa_equipment_axis_2_desc:0 "Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
- SOV_medium_tank_aa_equipment_axis_3:0 "Medium SP Anti-Air III"
+ SOV_medium_tank_aa_equipment_axis_3:0 "Medium Luftabwehrgeschütz auf Selbstfahrlafette III"
  SOV_medium_tank_aa_equipment_axis_3_short:0 "Med. SPAA III"
  SOV_medium_tank_aa_equipment_axis_3_desc:0 "Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
 

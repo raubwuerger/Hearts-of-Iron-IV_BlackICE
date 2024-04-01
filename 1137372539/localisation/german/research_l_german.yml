@@ -1835,7 +1835,7 @@
  tech_kr_asw_mortars_dd_desc:0 "Ein großes Manko des Sonars war, dass der Kontakt verloren ging, wenn das angreifende Schiff über das Ziel hinausfuhr, so dass das U-Boot ein Zeitfenster hatte, in dem es manövrieren konnte, um dem bevorstehenden Wasserbombenangriff zu entgehen.  Die Erfindung von U-Boot-Mörsern wie Hedgehog und Mousetrap ermöglichte es den Begleitschiffen, auf Ziele vor ihnen zu feuern, und stellte eine wichtige Ergänzung der U-Boot-Bekämpfung dar."
  tech_kr_advanced_sonar_dd:0 "Fortschrittliches Sonar"
  tech_kr_advanced_sonar_dd_desc:0 "Diese Geräte sind die fortschrittlichsten Sonargeräte, die in dieser Zeit entwickelt wurden. Sie sind besser in der Lage, getauchte Angreifer aufzuspüren, und sind wichtig, um den immer besser werdenden U-Boot-Konstruktionen zu begegnen."
- ### Ships Anti-Air DD ""
+ ### Ships Luftabwehrgeschütz DD ""
  tech_kr_Interwar_AA_dd:0 "Zwischenkriegsschiff FLAK"
  tech_kr_Interwar_AA_dd_desc:0 "Während die Seestreitkräfte bereits vor dem Ende des Ersten Weltkriegs damit begonnen hatten, ihre Schiffe mit Flugabwehrkanonen auszustatten, weiteten viele Seestreitkräfte in den 1920er Jahren ihre Investitionen in die Flugabwehr aus und entwickelten schnell feuernde Waffen mittleren Kalibers, die in erster Linie zur Bekämpfung von Flugzeugen gedacht waren."
  tech_kr_Late_1930s_AA_dd:0 "Vorkriegsschiff FLAK"
@@ -1879,7 +1879,7 @@
  tech_kr_cl_advanced_torpedoes:0 "Fortschrittliche Torpedos"
  tech_kr_cl_advanced_torpedoes_desc:0 "Verbesserungen bei der Zuverlässigkeit, der Zielgenauigkeit (einschließlich rudimentärer Zielsuchgeräte) und in anderen Bereichen machten die Torpedos, die gegen Ende des Krieges in Dienst gestellt wurden, in der Tat sehr gefährlich."
 
- ### Ships Anti-Air CL ""
+ ### Ships Luftabwehrgeschütz CL ""
  tech_kr_Interwar_AA_cl:0 "Zwischenkriegsschiff FLAK"
  tech_kr_Interwar_AA_cl_desc:0 "Zwar hatten die Seestreitkräfte schon vor dem Ende des Ersten Weltkriegs damit begonnen, ihre Schiffe mit Flugabwehrkanonen auszustatten, doch in den 1920er Jahren investierten viele Seestreitkräfte verstärkt in die Flugabwehr und entwickelten schnell feuernde Waffen mittleren Kalibers, die in erster Linie zur Bekämpfung von Flugzeugen gedacht waren."
  tech_kr_Late_1930s_AA_cl:0 "Vorkriegsschiff FLAK"
@@ -1931,7 +1931,7 @@
  tech_kr_ca_advanced_torpedoes:0 "Fortschrittliche Torpedos"
  tech_kr_ca_advanced_torpedoes_desc:0 "Verbesserungen bei der Zuverlässigkeit, der Zielgenauigkeit (einschließlich rudimentärer Zielsuchgeräte) und in anderen Bereichen machten die Torpedos, die gegen Ende des Krieges in Dienst gestellt wurden, in der Tat sehr gefährlich."
 
- ### Ships Anti-Air CA ""
+ ### Ships Luftabwehrgeschütz CA ""
  tech_kr_Interwar_AA_ca:0 "Zwischenkriegsschiff FLAK"
  tech_kr_Interwar_AA_ca_desc:0 "Zwar hatten die Seestreitkräfte schon vor dem Ende des Ersten Weltkriegs damit begonnen, ihre Schiffe mit Flugabwehrkanonen auszustatten, doch in den 1920er Jahren investierten viele Seestreitkräfte verstärkt in die Flugabwehr und entwickelten schnell feuernde Waffen mittleren Kalibers, die in erster Linie zur Bekämpfung von Flugzeugen gedacht waren."
  tech_kr_Late_1930s_AA_ca:0 "Vorkriegsschiff FLAK"
@@ -1981,7 +1981,7 @@
  tech_kr_bc_advanced_torpedoes:0 "Fortschrittliche Torpedos"
  tech_kr_bc_advanced_torpedoes_desc:0 "Verbesserungen bei der Zuverlässigkeit, der Zielgenauigkeit (einschließlich rudimentärer Zielsuchgeräte) und in anderen Bereichen machten die Torpedos, die gegen Ende des Krieges in Dienst gestellt wurden, in der Tat sehr gefährlich."
 
- ### Ships Anti-Air BC ""
+ ### Ships Luftabwehrgeschütz BC ""
  tech_kr_Interwar_AA_bc:0 "Zwischenkriegsschiff FLAK"
  tech_kr_Interwar_AA_bc_desc:0 "Zwar hatten die Seestreitkräfte schon vor dem Ende des Ersten Weltkriegs damit begonnen, ihre Schiffe mit Flugabwehrkanonen auszustatten, doch in den 1920er Jahren investierten viele Seestreitkräfte verstärkt in die Flugabwehr und entwickelten schnell feuernde Waffen mittleren Kalibers, die in erster Linie zur Bekämpfung von Flugzeugen gedacht waren."
  tech_kr_Late_1930s_AA_bc:0 "Vorkriegsschiff FLAK"
@@ -2003,13 +2003,13 @@
  tech_kr_advanced_fc_radar_bc:0 "Radar zur Feuerleitung gegen Luftangriffe"
  tech_kr_advanced_fc_radar_bc_desc:0 "Weitere Verbesserungen des Radars führten dazu, dass es die Zielerfassung für die Flugabwehrwaffen der Schiffe unterstützte und so ein wesentlich präziseres Flakfeuer gegen ankommende Flugzeuge ermöglichte."
 
- ### Ships Anti-Air BB ""
+ ### Ships Luftabwehrgeschütz BB ""
  tech_kr_Interwar_AA_bb:0 "Zwischenkriegsschiff FLAK"
  tech_kr_Interwar_AA_bb_desc:0 "Während die Seestreitkräfte bereits vor dem Ende des Ersten Weltkriegs damit begonnen hatten, ihre Schiffe mit Flugabwehrkanonen auszustatten, weiteten viele Seestreitkräfte ihre Investitionen in die Flugabwehr in den 1920er Jahren aus und entwickelten schnell feuernde Waffen mittleren Kalibers, die in erster Linie zur Bekämpfung von Flugzeugen gedacht waren."
  tech_kr_Late_1930s_AA_bb:0 "Vorkriegsschiff FLAK"
  tech_kr_Late_1930s_AA_bb_desc:0 "Mit der Weiterentwicklung der Flugzeuge verbesserten die Seestreitkräfte ihre Flugabwehrsysteme (auch wenn sich bei Kriegsausbruch herausstellte, dass sie der Aufgabe nicht gewachsen waren), indem sie Systeme mit höherer Geschwindigkeit und mehreren Läufen sowie frühe Feuerleitsysteme zur Luftabwehr einsetzten."
 
- ### Ships Anti-Air SHBB ""
+ ### Ships Luftabwehrgeschütz SHBB ""
  tech_kr_early_War_AA_shbb:0 "Erweiterung der FLAK-Schiffe während des Krieges"
  tech_kr_early_War_AA_shbb_desc:0 "Die Erfahrungen des Krieges machten deutlich, dass auf bestehenden und neuen Schiffen mehr Flugabwehrsysteme installiert werden mussten, um der Bedrohung durch Flugzeuge zu begegnen."
  tech_kr_Late_War_AA_shbb:0 "Fortschrittliche Schiffs-FLAK-Systeme"
@@ -2035,7 +2035,7 @@
  tech_kr_cv:0 "Graf-Zeppelin-Klasse"
  tech_kr_cv2:0 "Europa-Klasse"
 
- ### Ships Anti-Air CV ""
+ ### Ships Luftabwehrgeschütz CV ""
  tech_kr_early_War_AA_cv:0 "Kriegsschiff FLAK-Ausbau"
  tech_kr_early_War_AA_cv_desc:0 "Die Erfahrungen des Krieges machten deutlich, dass eine größere Anzahl von Flugabwehrsystemen auf bestehenden und neuen Schiffen erforderlich war, um der Bedrohung durch Flugzeuge zu begegnen."
  tech_kr_Late_War_AA_cv:0 "Fortschrittliche Schiffs-FLAK-Systeme"
@@ -3135,7 +3135,7 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  mortar_new_equipment_tt:0 "\nErmöglicht die Einführung von §YMörserausrüstung§! über die §YProduktionsregisterkarte§! bei den folgenden Bataillonen:"
  inf_at_new_equipment_tt:0 "\nErmöglicht die Einführung von §YHandheld-Panzerabwehrausrüstung§! über die §YProduktionsregisterkarte§! bei den folgenden Bataillonen:"
  plane_spotter_new_equipment_tt:0 "\nErmöglicht die Einführung von §YArtillerie-Aufklärungsflugzeugen§! über die §YProduktionsregisterkarte§! in den folgenden Bataillonen:"
- heavy_aa_new_equipment_tt:0 "\nErhöht die Anzahl der §YHeavy Anti-Air§! in den folgenden Bataillonen:"
+ heavy_aa_new_equipment_tt:0 "\nErhöht die Anzahl der §YHeavy Luftabwehrgeschütz§! in den folgenden Bataillonen:"
  inf_eqp_remove_equipment_tt:0 "\nVerringert die Menge an §YInfanterieausrüstung§! in den folgenden Bataillonen:"
  inf_smg_new_equipment_tt:0 "\nErhöht die Menge an §YAngriffsausrüstung§! in den folgenden Bataillonen: \nErhöht die Menge an §YAngriffsausrüstung§! in den folgenden Bataillonen:"
 
@@ -3215,7 +3215,7 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  light_spart_div_tt:0 "£unit_light_sp_artillery_brigade_icon_small Light SP-ART: §Y+[?temp]§!  (Gesamtbedarf: [?total_light_spart|Y0]) \n"
  medium_spart_div_tt:0 "£unit_medium_sp_artillery_brigade_icon_small Medium SP-ART: §Y+[?temp]§!  (Gesamtbedarf: [?total_medium_spart|Y0]) \n"
 
- heavy_antiair_tt:0 "£unit_anti_air_heavy_icon_small Schwere Anti-Air: §Y+[?temp]§!  (Gesamtbedarf: [?total_heavy_aa|Y0]) \n"
+ heavy_antiair_tt:0 "£unit_anti_air_heavy_icon_small Schwere Luftabwehrgeschütz: §Y+[?temp]§!  (Gesamtbedarf: [?total_heavy_aa|Y0]) \n"
 
  tanks_tt:0 "£unit_medium_armor_icon_small Panzer: §Y+[?temp]§! (Gesamtbedarf: [?total_tanks|Y0]) \n"
 

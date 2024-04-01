@@ -604,7 +604,7 @@ STRIKE_MIN:0 " §GNever§!"
 STRIKE_LOW:0 " §GLow§!"
 STRIKE_MEDIUM:0 " §HMedium§!"
 STRIKE_HIGH:0 " §RHigh§!"
-remove_labor_laws:0 "§YFemale Labor Regulations§!\n schließt sofort ab"
+remove_labor_laws:0 "Schließt §YArbeitsvorschriften für Frauen§!\n sofort ab"
 
 institute_press_censorship:0 "Institut Pressezensur"
 institute_press_censorship_desc:0 "Dies sind gefährliche Zeiten, und wir können nicht zulassen, dass abweichende Stimmen unser Land zerreißen. Die Einschränkung der Pressefreiheit ist notwendig, um sicherzustellen, dass die Wahrheit laut und deutlich gehört wird."

@@ -67,7 +67,7 @@
 
  AC_construction_INF:0 "Infrastruktur\n\n§YPolitische Machtkosten pro Gebäude:§! §R5§!"
  AC_construction_AIR:0 "LuftwaffenstützpunktPolitische Machtkosten pro Gebäude:§! §R5§!"
- AC_construction_AA:0 "Anti-Air\n\n§YPolitische Machtkosten pro Gebäude:§! §R2.5§!"
+ AC_construction_AA:0 "Luftabwehrgeschütz\n\n§YPolitische Machtkosten pro Gebäude:§! §R2.5§!"
  AC_construction_RAD:0 "Radar\n\n§YPolitische Machtkosten pro Gebäude:§! §R7.5§!"
  AC_construction_MIC:0 "Militärfabrik\n\n§YPolitische Machtkosten pro Gebäude:§! §R10§!"
  AC_construction_CIC:0 "Zivilefabriken\n\n§YPolitische Machtkosten pro Gebäude:§! §R15§!"

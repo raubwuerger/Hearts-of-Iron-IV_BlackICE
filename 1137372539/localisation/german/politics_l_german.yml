@@ -130,7 +130,7 @@
  IDEA_WINDOW_TITLE:0 "$GROUP$"
  IDEA_WINDOW_ADD:0 "Wähle $GROUP|Y$"
  IDEA_WINDOW_SWITCH:0 "Ersetze §Y$IDEA$?§!"
- IDEA_WINDOW_CANNOT_SWITCH:0 "§RCannot replace $IDEA$!§!"
+ IDEA_WINDOW_CANNOT_SWITCH:0 "§RKann nicht ersetzt werden $IDEA$!§!"
  POLITICS_NATIONAL_SPIRIT:0 "Nationaler Geist"
  POLITICS_NO_IDEAS_FOR_COUNTRY:0 "Dein Land hat keine $GROUP|H$"
  POLITICS_NO_MORE_IDEAS_FOR_COUNTRY:0 "Dein Land hat keine andere $GROUP|H$"

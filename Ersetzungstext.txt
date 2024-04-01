@@ -4,3 +4,20 @@ Strahlgetriebener Sturzkampfbomber
 Sturzkampfflugzeug
 
 
+Luftmontageanlagen 		-> Flugzeugmontageanlagen
+LKW Werkstatt			-> Kleine Mototorenmontageanlage
+Panzer Werkstatt		-> Kleine Panzermontagehalle
+Artiller Werkstatt		-> Kleine Artilleriegießerei
+Kampfflugzeug Werkstatt	-> Kleine Flugzeugmontageanlagen
+
+nicht zum Kernland Mannschaften 			-> Freiwillige
+Air Wing
+
+
+Medium
+light
+Advanced
+Medium
+Heavy
+Self
+Remove§

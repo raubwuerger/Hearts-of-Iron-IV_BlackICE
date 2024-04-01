@@ -64,7 +64,7 @@
  trm_medium_advanced_tank_destroyer_chassis:0 "Fortgeschrittener Mittlerer Jagdpanzer"
  trm_medium_advanced_tank_assault_gun_chassis:0 "Fortgeschrittenes mittleres Sturmgeschütz"
  trm_medium_advanced_tank_artillery_chassis:0 "Fortgeschrittene Mittlere Selbstfahrende Artillerie"
- trm_medium_advanced_tank_aa_chassis:0 "Advanced Medium Self-Propelled Anti-Air"
+ trm_medium_advanced_tank_aa_chassis:0 "Advanced Medium Self-Propelled Luftabwehrgeschütz"
  trm_medium_advanced_tank_amphibious_chassis:0 "Amphibischer Fortgeschrittener Mittlerer Panzer"
 
  trm_infantry_tank_chassis:0 "Infanterie-Panzer"
@@ -134,7 +134,7 @@
  trm_medium_advanced_tank_destroyer_chassis_desc:0 "Typ - Fortgeschrittener Mittlerer Jagdpanzer"
  trm_medium_advanced_tank_assault_gun_chassis_desc:0 "Typ - Fortgeschrittenes mittleres Sturmgeschütz"
  trm_medium_advanced_tank_artillery_chassis_desc:0 "Typ - Fortgeschrittene mittlere Panzerartillerie mit Eigenantrieb"
- trm_medium_advanced_tank_aa_chassis_desc:0 "Typ - Advanced Medium Self-Propelled Anti-Air"
+ trm_medium_advanced_tank_aa_chassis_desc:0 "Typ - Advanced Medium Self-Propelled Luftabwehrgeschütz"
  trm_medium_advanced_tank_amphibious_chassis_desc:0 "Typ - Amphibischer Fortgeschrittener Mittlerer Panzer"
 
  trm_infantry_tank_chassis_desc:0 "Typ - Infanterie-Panzer"
