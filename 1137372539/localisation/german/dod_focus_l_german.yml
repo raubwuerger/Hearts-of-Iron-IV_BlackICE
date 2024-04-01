@@ -255,7 +255,7 @@
  ROM_coastal_defense_navy:0 "Küstenverteidigungsflotte"
  ROM_coastal_defense_navy_desc:0 "Mit unseren begrenzten Ressourcen können wir nicht mehr anstreben, als unsere Küsten zu sichern. Alle Anstrengungen müssen auf dieses Ziel ausgerichtet werden."
  ROM_coastal_defense_ships:0 "Küstenverteidigungsschiffe"
- ROM_coastal_defense_ships_tech_tt:0 "Ermöglicht §HCoastal Defense Ships§!\n§HHeavy Cruisers§!\n Panzerung: §G+20%§!\n Feuerkraft der Marine: §G+10%§!\n Produktionskosten: §G-10%§!"
+ ROM_coastal_defense_ships_tech_tt:0 "Ermöglicht §HKüstenverteidigungsschiffe§!\n§Hschwere Kreuzer§!\n Panzerung: §G+20%§!\n Feuerkraft der Marine: §G+10%§!\n Produktionskosten: §G-10%§!"
  ROM_coastal_defense_ships_desc:0 "Für Schiffe, die sich besonders für die Küstenverteidigung eignen, müssen neue Entwürfe entwickelt werden."
  ROM_modern_destroyers:0 "Moderne Zerstörer"
  ROM_modern_destroyers_desc:0 "Zerstörer sind das Rückgrat jeder Marine, und unsere ist da keine Ausnahme. Das Rückgrat unserer Marine muss an die heutigen Standards angepasst werden."

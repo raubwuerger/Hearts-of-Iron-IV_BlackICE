@@ -423,7 +423,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  SPECIAL_FORCES_MODIFIER_8:0 "Paradrop-Effizienz: [?special_forces_para_debuff|=+%] ([?special_forces_para_debuff|=+%])\n"
  mountainous_country:0 "Gebirgiges Land"
  
- coastal_state:0 "Hat mindestens 1 §YCoastal§! Zustand"
+ coastal_state:0 "Hat mindestens 1 §YKüstenprovinz§!"
 
 
  #######################################################

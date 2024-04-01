@@ -51,3 +51,7 @@ Anti-Air
 Cannot
 [Cav.]
 Air Wing
+Heavy
+Ausrüstung für Luft
+Coastal
+Ships§

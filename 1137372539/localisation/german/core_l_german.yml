@@ -444,7 +444,7 @@
   NAVAL_MISSION_NAME_MINES_PLANTING:0 "Minenverlegung"
   NAVAL_MISSION_NAME_MINES_PLANTING_DESC:2 "Befehlen Sie einem Einsatzkommando, in den ausgewählten Regionen Seeminen zu legen. Die höchste mögliche Strafe für Ihre Feinde ist:\n"
   NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SHORE_BOMBARDMENT:0 "£mapicon_unit_invalid_orders£ Geringe Küstenbombardierungsfähigkeiten"
-  NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SHORE_BOMBARDMENT_DESC:0 "Der Einsatzverband wird aufgrund seiner geringen Küstenbombardierungsfähigkeiten nicht in der Lage sein, Divisionen an der Küstenlinie im Kampf effizient zu unterstützen. Erwägen Sie die Aufnahme von Schiffen mit §YHeavy Gun Attack§! in den Einsatzverband."
+  NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SHORE_BOMBARDMENT_DESC:0 "Der Einsatzverband wird aufgrund seiner geringen Küstenbombardierungsfähigkeiten nicht in der Lage sein, Divisionen an der Küstenlinie im Kampf effizient zu unterstützen. Erwägen Sie die Aufnahme von Schiffen mit §Ygroßkalibrigen Geschützen§! in den Einsatzverband."
   NAVAL_MISSION_MISSED_REQUIREMENT_WARN_DEPTH_CHARGES:0 "£mapicon_unit_invalid_orders£ Geringe Anzahl von §YDepth Charges§!"
   NAVAL_MISSION_MISSED_REQUIREMENT_WARN_DEPTH_CHARGES_DESC:0 "Es ist unwahrscheinlich, dass der Einsatzverband U-Boote beschädigen kann. Erwäge, Schiffe mit mehr §HDepth Charges§! hinzuzufügen."
   NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SUB_SURFACE_DETECTION:0 "£mapicon_unit_invalid_orders£ Geringe U-Boot-Erkennung"

@@ -3437,7 +3437,7 @@ FRA_not_in_crisis_tooltip:0 "Frankreich befindet sich nicht in einem §RCRIS!§!
  FRA_britain_alliance_tt:0 "§YFrankreich§! und das §YVereinigte Königreich§! sind beide unabhängig, in Frieden und haben eine §YDemokratische Regierung§!"
  FRA_britain_alliance_refused_tt:0 "Da wir uns entschieden haben, in den Spanischen Bürgerkrieg zu intervenieren, wird die Sicherung eines Bündnisses mit dem §YVereinigten Königreich§! nun voraussetzen, dass wir zumindest §G50§! positive Beziehungen zu ihnen haben.\n"
  FRA_research_treaty_uk:0 "§RDieses Forschungszentrum wird im §YVereinigten Königreich§! gespawnt werden."
- FRA_heavy_armor_div_tt:0 "Ihr erhaltet eine kostenlose §YHeavy Armor§!-Abteilungsvorlage.\n"
+ FRA_heavy_armor_div_tt:0 "Ihr erhaltet eine kostenlose Designvorlage für §Yschwere Panzer§!.\n"
  FRA_sack_gamelin_tt:0 "Durch das Abschließen dieses Fokus wird §YMaurice Gamelin§! vom Kommando entfernt!"
  FRA_leaving_faction_warning:0 "\n§RDas Abschließen dieses Fokus kann dazu führen, dass Sie Ihre derzeitige Fraktion verlassen müssen!§!"
  FRA_little_entente_faction_req:0 "Ist nicht in einer Fraktion mit einer anderen §YMajor Nation§!"

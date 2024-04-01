@@ -11,13 +11,25 @@ Artiller Werkstatt		-> Kleine Artilleriegießerei
 Kampfflugzeug Werkstatt	-> Kleine Flugzeugmontageanlagen
 
 nicht zum Kernland Mannschaften 			-> Freiwillige
-Air Wing
+
 
 
 Medium
 light
 Advanced
 Medium
-Heavy
 Self
 Remove§
+Never§
+Low§
+Medium§
+High§
+Guards
+
+Defense
+Cruisers§
+Attack
+Fighter
+Dare-To-Die Corps
+
+Intel		-> Spionage
