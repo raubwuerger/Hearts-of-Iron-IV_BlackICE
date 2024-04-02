@@ -47,7 +47,7 @@
  fighter_alt_equipment_desc:0 "Leichte Kampfflugzeuge sind schnell und wendig und können viele Aufgaben erfüllen. Vom Kampf um die Luftüberlegenheit über den Schutz Ihrer Bomber bis zum Abfangen gegnerischer Bomber."
  fighter_navy:0 "Marine-Jagdflugzeug"
  fighter_navy_equipment:0 "Marine-Jagdflugzeug"
- fighter_navy_equipment_desc:0 "Navy Fighter sind schnell und wendig und können viele Aufgaben erfüllen. Vom Kampf um die Luftüberlegenheit über den Schutz Ihrer Bomber bis hin zum Abfangen der gegnerischen Bomber."
+ fighter_navy_equipment_desc:0 "Marinejagdflugzeuge sind schnell und wendig und können viele Aufgaben erfüllen. Vom Kampf um die Luftüberlegenheit über den Schutz Ihrer Bomber bis hin zum Abfangen der gegnerischen Bomber."
  interceptor_navy:0 "Navy Abfangjäger"
  interceptor_navy_equipment:0 "Abfangjäger der Marine"
  interceptor_navy_equipment_desc:0 "Abfangjäger sind Kampfflugzeuge, die fast ausschließlich feindliche Flugzeuge angreifen sollen."
@@ -261,20 +261,20 @@
  interceptor_equipment_1944_short:0 "Abfangjäger 1944"
  interceptor_equipment_1944_desc:0 "Abfangjäger sind Kampfflugzeuge, die fast ausschließlich gegnerische Flugzeuge angreifen sollen."
 
- mr_fighter:0 "Mehrzweck-Jagdflugzeug"
- mr_fighter_equipment:0 "Mehrzweck-Jagdflugzeug"
- mr_fighter_equipment_desc:0 "Multi-Role Fighter sind Abfangjäger und können Bodenangriffe fliegen."
+ mr_fighter:0 "Mehrzweckjagdflugzeug"
+ mr_fighter_equipment:0 "Mehrzweckjagdflugzeug"
+ mr_fighter_equipment_desc:0 "Mehrzweckjagdflugzeug sind Abfangjäger und können Bodenangriffe fliegen."
 
- mr_fighter_equipment_1936:0 "Mehrrollen-Jagdflugzeug 1936"
- mr_fighter_equipment_1936_short:0 "Mehrrollen-Jagdflugzeug 1936"
+ mr_fighter_equipment_1936:0 "Mehrzweckjagdflugzeug 1936"
+ mr_fighter_equipment_1936_short:0 "Mehrzweckjagdflugzeug 1936"
  mr_fighter_equipment_1936_desc:0 "Jäger, die als herkömmliche Abfangjäger eingesetzt werden können, aber auch im Bodenkampf eingesetzt werden können."
 
- mr_fighter_equipment_1940:0 "Mehrrollen-Jäger 1940"
- mr_fighter_equipment_1940_short:0 "Mehrrollen-Jagdflugzeug 1940"
+ mr_fighter_equipment_1940:0 "Mehrzweckjagdflugzeug 1940"
+ mr_fighter_equipment_1940_short:0 "Mehrzweckjagdflugzeug 1940"
  mr_fighter_equipment_1940_desc:0 "Kampfflugzeuge, die als traditionelle Abfangjäger eingesetzt werden können und auch am Bodenkampf teilnehmen."
 
- mr_fighter_equipment_1944:0 "Mehrrollen-Jäger 1944"
- mr_fighter_equipment_1944_short:0 "Mehrrollen-Jagdflugzeug 1944"
+ mr_fighter_equipment_1944:0 "Mehrzweckjagdflugzeug 1944"
+ mr_fighter_equipment_1944_short:0 "Mehrzweckjagdflugzeug 1944"
  mr_fighter_equipment_1944_desc:0 "Jagdflugzeuge, die als traditionelle Abfangjäger eingesetzt werden können, aber auch am Bodenkampf teilnehmen."
 
  quad_engine_bomber_equipment:0 "Schwerer Bomber"

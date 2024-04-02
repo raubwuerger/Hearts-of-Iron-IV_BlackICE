@@ -55,3 +55,23 @@ Heavy
 Ausrüstung für Luft
 Coastal
 Ships§
+Remove§
+Medium§
+Medium
+High§
+Deploy§
+Cancel§
+Fighter
+Never§
+Low§
+Cruisers§
+Attack
+Defense
+Dare-To-Die Corps
+randomized§
+Mehrrollen
+Intel		-> Spionage
+ruhendem Spionagenetzwerk
+Spionagenetzwerkstärke
+Geheimdienstinformationen
+Pseudespionageeinheiten

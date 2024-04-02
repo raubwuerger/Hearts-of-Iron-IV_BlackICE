@@ -12,24 +12,5 @@ Kampfflugzeug Werkstatt	-> Kleine Flugzeugmontageanlagen
 
 nicht zum Kernland Mannschaften 			-> Freiwillige
 
-
-
-Medium
-light
-Advanced
-Medium
-Self
-Remove§
-Never§
-Low§
-Medium§
-High§
 Guards
 
-Defense
-Cruisers§
-Attack
-Fighter
-Dare-To-Die Corps
-
-Intel		-> Spionage

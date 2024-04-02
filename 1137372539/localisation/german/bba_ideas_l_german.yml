@@ -172,7 +172,7 @@
  ITA_military_industry_dynamic_modifier_research_tt:0 "$armor_research$: §R-15%§! \n$infantry_weapons_research$: §R-15%§! \n$artillery_research$: §R-15%§! \n$air_equipment_research$: §R-15%§! \n$naval_equipment_research$: §R-15%§! \N"
  ITA_military_industry_dynamic_modifier_arty_tt:1 "§Y$artillery_equipment$§!: $production_cost_tt$ §G-10.00%§! \n§Y$anti_tank_equipment$§!: $production_cost_tt$ §G-10.00%§! \n§Y$anti_air_equipment$§!: $production_cost_tt$ §G-10.00%§! \N"
  ITA_military_industry_dynamic_modifier_tankettes_tt:1 "§Y$light_tank_chassis$§!: $production_cost_tt$ §G-5.00%§! \n§Y$light_tank_chassis$§!: Zuverlässigkeit: §G+5.00%§! \N"
- ITA_self_propelled_guns_dynamic_modifier_tt:0 "§YLeicht§!, §YMittel§! und §YSchwere SP-Artillerie§!: $production_cost_tt$ §G-5.00%§! \n§YLight§!, §YMedium§! und §YSchwerer Jagdpanzer§!: $production_cost_tt$ §G-5.00%§! \N"
+ ITA_self_propelled_guns_dynamic_modifier_tt:0 "§YLeicht§!, §YMittel§! und §YSchwere Artillerie auf Selbstfahrlafette§!: $production_cost_tt$ §G-5.00%§! \n§YLeichte§!, §Ymittlere§! und §Yschwerer Jagdpanzer§!: $production_cost_tt$ §G-5.00%§! \N"
  ITA_ferrea_mole_ferreo_cuore_dynamic_modifier_tt:0 "§YAlle Panzerung§!: \n$MODIFIER_DEFENCE$: §G+5%§! \n$MODIFIER_BREAKTHROUGH$: §G+5%§!"
  ITA_standardization_dynamic_modifier_tt:0 "§YAlle Flugzeugausrüstung§!: $production_cost_tt$ §G-5.00%§!\n"
  ITA_specialization_dynamic_modifier_tt:0 "§YAlle Flugzeugausrüstung§!: $production_cost_tt$ §R+5,00%§!\n"

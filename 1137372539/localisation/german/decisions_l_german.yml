@@ -903,7 +903,7 @@
   ROM_purchase_armor_heavy_available:0 " oder [?ROM_quantity_purchased_heavy_armor] §YSchwere Panzer§!"
   ROM_purchase_armor_everything_available:0 ", [?ROM_quantity_purchased_medium_armor] §YMittlere Panzer§! oder [?ROM_quantity_purchased_heavy_armor] §YSchwere Panzer§!"
   ROM_purchase_armor_only_light_available:0 ""
-  ROM_purchase_aircraft_tt:0 "\nWir wählen zwischen dem Kauf von [?ROM_quantity_purchased_fighter] §YFighters§![GetAvailableAircraftToPurchase], basierend auf [FROM.GetAdjective]-Forschung.\n"
+  ROM_purchase_aircraft_tt:0 "\nWir wählen zwischen dem Kauf von [?ROM_quantity_purchased_fighter] §YJägern§![GetAvailableAircraftToPurchase], basierend auf [FROM.GetAdjective]-Forschung.\n"
   ROM_purchase_aircraft_naval_bomber_available:0 " oder [?ROM_quantity_purchased_naval_bomber] §YNaval Bombers§!"
   ROM_purchase_aircraft_tactical_bomber_available:0 " oder [?ROM_quantity_purchased_tactical_bomber] §YTactical Bombers§!"
   ROM_purchase_aircraft_everything_available:0 ", [?ROM_quantity_purchased_naval_bomber] §YNaval Bombers§! oder [?ROM_quantity_purchased_tactical_bomber] §YTactical Bombers§!"

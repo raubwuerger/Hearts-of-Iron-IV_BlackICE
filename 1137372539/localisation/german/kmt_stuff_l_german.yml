@@ -314,7 +314,7 @@
  KMT_science_effort_desc:0 "Die 1928 gegründete Academia Sinica beaufsichtigt und koordiniert die wissenschaftliche, sozialwissenschaftliche und humanistische Forschung in allen staatlich geförderten Forschungsinstituten und Universitäten der Republik China. Im Gegensatz zu anderen staatlich geförderten Forschungsinstituten ist die Academia Sinica direkt dem Präsidenten unterstellt."
  ## 5/2/2017 ## ""
  ## 9/2/2017 ## ""
- kmt_dtdc_tt:0 "Ermöglicht §HDare-To-Die Corps§!.\nAll Leg Infantry : \n Defense : §G+15%§!\n Armor Piercing : §G+5%§!\n Erfahrene Soldatenverluste : §R+3%§!"
+ kmt_dtdc_tt:0 "Ermöglicht §HDen Tod Wagen Abteilungen§!.\nAlle Fussoldaten : \n Verteidigung : §G+15%§!\n Panzerungsdurchschlag : §G+5%§!\n Erfahrene Soldatenverluste : §R+3%§!"
  ## 13/2/2017 ## ""
  KMT_north_plan_tt:0 "Einer der folgenden Staaten :\n §YSouth Chahar§!\n §YChahar§!\n §YEast Herbei§!\n §YJehol§!\n §YLiaotung§!\n §YLiaoning§!\n §YKirin§!\n §YSongkiang§!\n §YHeilungkiang§!      §YNorth Xing'an§!      §YEast Xing'an§!\n ist nicht im Besitz von [Root.GetName], und ihr Besitzer muss in Frieden mit [Root.GetName] sein."
  KMT_north_plan_bypass_tt:0 "Alle der folgenden Staaten :\n §YSouth Chahar§!\n §YChahar§!\n §YEast Herbei§!\n §YJehol§!\n §YLiaotung§!\n §YLiaoning§!\n §YKirin§!\n §YSongkiang§!\n §YHeilungkiang§!      §YNorth Xing'an§!      §YEast Xing'an§!\n sind im Besitz von [Root.GetName]"

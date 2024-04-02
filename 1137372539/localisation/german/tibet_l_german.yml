@@ -210,8 +210,8 @@
 
  ENG_TIB_guarantee_pact_signed:0 "Britische Garantien für Tibet"
 
- TIB_professionalize_the_officers_effect_tooltip: "§GRemove§! die Eigenschaft §YOld Guard§! für alle militärischen Führer\n"
- TIB_revise_officers_fighting_techniques_effect_tooltip: "§GRemove§! the trait §YBad Staffer§! for all military leaders\n"
+ TIB_professionalize_the_officers_effect_tooltip: "§GEntfernt§! die Eigenschaft §Yalte Garde§! für alle militärischen Führer\n"
+ TIB_revise_officers_fighting_techniques_effect_tooltip: "§GEntfernt§! die Eigenschaft §Yschlecter Generalstabsoffizier§! für alle militärischen Führer\n"
 
  apply_neames_guidelines_cost:0 "§H25§!£pol_power §H80§!£command_power"
  apply_neames_guidelines_cost_blocked:0 "§H25§!£pol_power §R80§!£command_power"

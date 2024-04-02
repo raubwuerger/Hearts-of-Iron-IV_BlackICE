@@ -422,7 +422,7 @@ italian_med_spaa_equipment_desc:0 "Selbstfahrende Flugabwehrwaffe"
 ITA_italian_med_spaa_equipment_1:0 "M15/42 Contraereo"
 italian_med_spaa_equipment_1:0 "Selbstfahrende Anti-Luft"
 italian_med_spaa_equipment_1_short:0 "M15/42 Contraereo"
-italian_med_spaa_equipment_1_desc:0 "Einheit Typ: Self-Propelled Luftabwehrgeschütz \nCan convert from: M15/42 \n\nItalian Self-Propelled AA project."
+italian_med_spaa_equipment_1_desc:0 "Einheit Typ: Luftabwehrgeschütz auf Selbstfahrlafette \nKann umgerüstet werden von: M15/42 \n\nItalian Self-Propelled AA project."
 
 tech_italian_medium_armor_equipment_4:0 "Carro Armato M15/42"
 tech_italian_medium_armor_equipment_4_short:0 "M15/42"
