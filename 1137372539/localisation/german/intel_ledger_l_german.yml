@@ -1,5 +1,5 @@
 ﻿l_german:
- LEDGER_IMPORTS:0 "§0Einfuhr von Ressourcen§!"
+ LEDGER_IMPORTS:0 "§HEinfuhr von Ressourcen§!"
  LEDGER_IMPORT_ENTRY:0 "$COUNTRY$: $AMOUNT|0$"
  INTEL_LEDGER_TECH_COUNT:0 "Recherchiert: $COUNT$/$TOTAL$"
  INTEL_LEDGER_TECH_OLD_COUNT:0 "Recherchiert vor den letzten 6 Monaten: $COUNT$/$TOTAL$"
@@ -34,7 +34,7 @@
  INTEL_STATIC_INFO:0 "(§HStatisch§!)"
 
  TARGET_MODIFIER_INTEL:0 "Zielmodifikatoren: $AMOUNT|.1+%%$"
- TARGET_MODIFIER_INTEL_FACTOR:2 "§HAufklärungs-Modifikatoren werden mit $AMOUNT|+%%.1$§ faktorisiert!"
+ TARGET_MODIFIER_INTEL_FACTOR:2 "§HAufklärungs-Modifikatoren werden mit $AMOUNT|+%%.1$ faktorisiert§!"
 
  INTEL_FROM_ALLIES:0 "Von Verbündeten: $AMOUNT|.2+%%$"
  INTEL_FROM_DECRYPTION_TECH:0 "Von Entschlüsselung: $AMOUNT|.2+%%$"
@@ -113,7 +113,7 @@
  INTEL_LEDGER_DEPLOYED_EQUIPMENT_RATIO_COUNT_WITH_CAP:0 "Eingesetzte Heeresvorräte: $AMOUNT|H$ (Benötigt Heeresinfos: $MIN|H.0%$)"
  NO_ARMY_INTEL_WITH_CAP:0 "Keine Geheimdienstinformationen (Benötigt Heereswissen: $MIN|H.0%$)"
  INTEL_LEDGER_TEMPLATE_ARMY_COUNT:1 "Anzahl der Divisionen mit dieser Vorlage: $RANGE|H$"
- ARMY_LEDGER_TEMPLATE_DETAILS:0 "§0Details zur Vorlage:§!"
+ ARMY_LEDGER_TEMPLATE_DETAILS:0 "§HDetails zur Vorlage:§!"
  CURRENT_ARMY_INTEL:0 "Heereswissen: $AMOUNT|H.0%$"
  FUZZY_INTEL_RANGE_TOOLTIP:1 "  Weniger als $MIN|H.0%$ : Keine Information\n $MIN|H.0%$ - $MAX|H.0%$ : Ungefähre Information\n Mehr als $MAX|H.0%$ : Volle Information"
  TEMPLATE_ARMY_COUNT_TITLE:0 "Armee zählt:"
@@ -183,7 +183,7 @@
  CIV_LEDGER_THRESHOLD_CONVOYS_GRAPH:1 "Konvoizahl und Geschichte"
  CIV_LEDGER_THRESHOLD_BOMBERS_GRAPH:0 "Bombergraph\n Wenn Sie die §YSpionageaufwertung Verschlussache§! haben, \n können Sie den Geheimdienststatus sehen"
 
- INTEL_THRESHOLD_HEADER_ARMY:0 "§0Militärische Geheimdienstberichte:§!\n\n"
+ INTEL_THRESHOLD_HEADER_ARMY:0 "§HMilitärische Geheimdienstberichte:§!\n\n"
  ARMY_LEDGER_THRESHOLD_SUPPLY_TRANSFER_ROUTE:0 "Nachschubrouten auf der Karte"
  ARMY_LEDGER_THRESHOLD_SUPPLY_TRANSFER_ROUTE_TOOLTIP:1 "Nachschubrouten mit detaillierten Tooltips"
  ARMY_LEDGER_THRESHOLD_FUZZY_TOTAL_ARMY_COUNT:2 "Ungefähre Anzahl der Divisionen"
@@ -207,7 +207,7 @@
  ARMY_LEDGER_THRESHOLD_IDEAS:0 "Heeresminister und Gesetze"
  ARMY_LEDGER_THRESHOLD_STAFF_AND_RESEARCH:0 "Militärstab und Forschung"
 
- INTEL_THRESHOLD_HEADER_NAVY:0 "§0Geheimdienstberichte der Marine: §!\n\n"
+ INTEL_THRESHOLD_HEADER_NAVY:0 "§HGeheimdienstberichte der Marine: §!\n\n"
  NAVY_LEDGER_THRESHOLD_FUZZY_TOTAL_FLEET_COUNT:1 "Ungefähre Gesamtzahl der Flotten"
  NAVY_LEDGER_THRESHOLD_TOTAL_FLEET_COUNT:0 "Flottenzahl"
  NAVY_LEDGER_THRESHOLD_FULL_SUPREMACY:0 "Keine Strafen für die Vorherrschaft der Marine"
@@ -235,7 +235,7 @@
  NAVY_LEDGER_THRESHOLD_IDEAS:0 "Marineminister und -gesetze"
  NAVY_MAPICON_SHOW_ALL_NAVAL_PORTS:0 "Alle Hafenstandorte"
 
- INTEL_THRESHOLD_HEADER_AIRFORCE:0 "§0Luftinformationsberichte: §!\n\n"
+ INTEL_THRESHOLD_HEADER_AIRFORCE:0 "§HLuftinformationsberichte: §!\n\n"
  AIR_LEDGER_THRESHOLD_FUZZY_TOTAL_AIRWING_COUNT:1 "Ungefähre Gesamtzahl der Luftflügel"
  AIR_LEDGER_THRESHOLD_TOTAL_AIRWING_COUNT:1 "Gesamtzahl der Flugzeuge"
  AIR_LEDGER_THRESHOLD_FUZZY_SPECIFIC_AIRWING_COUNT:1 "Ungefähre Anzahl der Flugzeuge nach Modell"
@@ -255,7 +255,7 @@
  AIR_LEDGER_THRESHOLD_IDEAS:0 "Luftminister und Gesetze"
  AIR_MAPICON_SHOW_ALL_AIR_PORTS:0 "Flughafenstandorte"
 
- LEDGER_CHART_TOTAL_FACTORY:0 "§0Gesamt Fabriken:§! $NUM|H$"
+ LEDGER_CHART_TOTAL_FACTORY:0 "§GGesamt Fabriken:§! $NUM|H$"
  LEDGER_CHART_DAMAGED_FACTORY:0 "§RBeschädigte Fabriken:§! $NUM|H$"
  LEDGER_CHART_PRODUCED_CONVOYS:0 "§GProduzierte Konvois:§! $NUM|H$ (bis heute $UNTIL_TODAY|H$)"
  LEDGER_CHART_DAMAGED_CONVOYS:0 "§RVersenkte Konvois:§! $NUM|H$ (bis heute $UNTIL_TODAY|H$)"
