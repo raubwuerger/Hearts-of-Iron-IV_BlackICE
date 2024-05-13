@@ -1,7 +1,7 @@
 ﻿ l_german:
 ### BICE TOPBAR ###
  NO_INFO_SELECTED:0 "Keine Info zur Anzeige ausgewählt"
- TOPBAR_ADD_TOOLTIP:0 "§YKlicken§!, um ein konfigurierbares §YTopbar-Fenster§ hinzuzufügen!"
+ TOPBAR_ADD_TOOLTIP:0 "§YKlicken§!, um ein konfigurierbares §YTopbar-Fenster§! hinzuzufügen!"
  
  GET_IDEA_ICON:0 "£pol_idea"
  GET_TECH_ICON:0 "£tech_mod"
@@ -14,8 +14,8 @@
  MAX_NAVY_EXPERIENCE_TOOLTIP:0 "§YMaximale Marineerfahrung§!\n\nBasis: §Y150,0§! \n[!max_navy_xp_bg_click]"
 
  MAX_ARMY_XP_DELAYED_TT:0 "Die maximale Heereserfahrung zeigt die Menge an Erfahrung an, die Ihr Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch Verbesserung der §YOffizierausbildungsstandards§! oder durch Erforschung der §YBefehlsdoktrin§!-Technologien erhöht werden."
- MAX_AIR_XP_DELAYED_TT:0 "Maximale Luftwaffenerfahrung zeigt die Menge an Eahrung an, die Ihr Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch Verbesserung der §YOffizierausbildungsstandards§! oder durch Erforschung der §YBefehlsdoktrin§!-Technologien erhöht werden."
- MAX_NAVY_XP_DELAYED_TT:0 "Die maximale Marine-Erfahrung zeigt die Menge an Marine-Erfahrung an, die Ihr Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch die Verbesserung der §YOffizierausbildungsstandards§!, durch Erforschung der §YBefehlsdoktrin§! oder der §YNaval-Doktrin§ erhöht werden! Technologien."
+ MAX_AIR_XP_DELAYED_TT:0 "Die maximale Luftwaffenerfahrung zeigt die Menge an Eahrung an, die Ihr Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch Verbesserung der §YOffizierausbildungsstandards§! oder durch Erforschung der §YBefehlsdoktrin§!-Technologien erhöht werden."
+ MAX_NAVY_XP_DELAYED_TT:0 "Die maximale Marineerfahrung zeigt die Menge an Erfahrung an, die Ihr Land zu einem bestimmten Zeitpunkt speichern kann. Sie kann durch die Verbesserung der §YOffizierausbildungsstandards§!, durch Erforschung der §YBefehlsdoktrin§! oder der §YMarinedoktrin§!-Technologien erhöht werden."
  TOPBAR_CIV_FUEL_TOOLTIP:0 "Unser täglicher ziviler Treibstoffverbrauch beträgt [?daily_fuel|0Y]\n\n[!civ_fuel_background_click]"
  
  BASE_TOPBAR_STABILITY_TOOLTIP:0 "§YKlicken§!, um angezeigte Informationen zu ändern:\n\n[GetTopbarStability1]\n[GetTopbarStability2]\n[GetTopbarStability3]"

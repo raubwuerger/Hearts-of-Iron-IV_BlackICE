@@ -66,7 +66,7 @@
  AC_project_4_target_decision_desc:0 "\nCountry: [From.GetName]\nZugeordnete Fabriken: [From.AC_GetProject4Factories]\nBuild Queue: [From.AC_GetProject4Amount]\n\nDurch Auswahl dieser Entscheidung wird das Bauprojekt abgebrochen.\n\nRechtsklick, um den Zielzustand anzuzeigen."
 
  AC_construction_INF:0 "Infrastruktur\n\n§YPolitische Machtkosten pro Gebäude:§! §R5§!"
- AC_construction_AIR:0 "LuftwaffenstützpunktPolitische Machtkosten pro Gebäude:§! §R5§!"
+ AC_construction_AIR:0 "Luftwaffenstützpunkt\n\n§YPolitische Machtkosten pro Gebäude:§! §R5§!"
  AC_construction_AA:0 "Luftabwehrgeschütz\n\n§YPolitische Machtkosten pro Gebäude:§! §R2.5§!"
  AC_construction_RAD:0 "Radar\n\n§YPolitische Machtkosten pro Gebäude:§! §R7.5§!"
  AC_construction_MIC:0 "Militärfabrik\n\n§YPolitische Machtkosten pro Gebäude:§! §R10§!"
@@ -93,7 +93,7 @@
 
  AC_build_amount_green:0 "[?ROOT.AC_project_build_amount^-1]"
  AC_build_amount_red:0 "§R[?ROOT.AC_project_build_amount^-1]§!"
- AC_building_amount_increase_button_tt:0 "Wählen Sie aus, wie viele Gebäude des ausgewählten Typs Sie in diesem Staat bauen möchten.\n\n§0Die maximale Anzahl hängt von dem Gebäude, den freien Plätzen im Staat und Ihren Technologien ab.§!\n\n§0Klicken Sie mit der Umschalttaste, um 5 hinzuzufügen oder zu entfernen.§!"
+ AC_building_amount_increase_button_tt:0 "Wählen Sie aus, wie viele Gebäude des ausgewählten Typs Sie in diesem Staat bauen möchten.\n\n§LDie maximale Anzahl hängt von dem Gebäude, den freien Plätzen im Staat und Ihren Technologien ab.§!\n\n§LKlicken Sie mit der Umschalttaste, um 5 hinzuzufügen oder zu entfernen.§!"
 
  AC_assigned_factories_green:0 "[?ROOT.AC_project_assigned_factories^-1]"
  AC_assigned_factories_red:0 "§R[?ROOT.AC_project_assigned_factories^-1]§!"
@@ -101,16 +101,16 @@
 
  AC_political_power_cost_tt:0 "§YPolitische Macht erforderlich:§! §R[?Root.AC_project_political_power_cost^-1]§!\n\n"
 
- AC_allied_construction_icon1_tt:0 "Verbündete Bauprojekte\n\n§CErstellen sie ein Bauprojekt in diesem Staat.§!"
+ AC_allied_construction_icon1_tt:0 "Verbündete Bauprojekte\n\n§LErstellen sie ein Bauprojekt in diesem Staat.§!"
 
  AC_build_button_text:0 "[AC_GetBuildButtonText]"
  AC_start_project:0 "Projekt starten"
  AC_cancel_project:0 "Projekt abbrechen"
- AC_build_button_tt:0 "§0Durch Drücken dieser Schaltfläche wird ein Bauprojekt in Ihrem Entscheidungs-Tab gestartet oder ein aktives Projekt in diesem Staat abgebrochen.§!\n\n[AC_GetGUIValues]§LAbhängig von der Entfernung zwischen Ihrer Hauptstadt und diesem Staat wird die Baugeschwindigkeit um bis zu 50 % verringert.§!\n\n§0Sie können bis zu 5 Bauprojekte gleichzeitig aktiv haben. Die maximale Anzahl hängt vom Bonus für die Baugeschwindigkeit in Ihrem Land ab. (+1 Bauplatz pro 10% Bonus)\n\nProjekte werden automatisch abgebrochen, wenn kein Bauplatz mehr verfügbar ist oder der neue Kontrolleur des Staates nicht auf Ihrer Seite ist und Ihnen keine Baugenehmigung erteilt hat.\n\nAbgebrochene Projekte benötigen einen Tag, um wieder verfügbar zu werden.§!"
+ AC_build_button_tt:0 "§GDurch Drücken dieser Schaltfläche wird ein Bauprojekt in Ihrem Entscheidungs-Tab gestartet oder ein aktives Projekt in diesem Staat abgebrochen.§!\n\n[AC_GetGUIValues]§LAbhängig von der Entfernung zwischen Ihrer Hauptstadt und diesem Staat wird die Baugeschwindigkeit um bis zu 50 % verringert.§!\n\n§LSie können bis zu 5 Bauprojekte gleichzeitig aktiv haben. Die maximale Anzahl hängt vom Bonus für die Baugeschwindigkeit in Ihrem Land ab. (+1 Bauplatz pro 10% Bonus)\n\nProjekte werden automatisch abgebrochen, wenn kein Bauplatz mehr verfügbar ist oder der neue Kontrolleur des Staates nicht auf Ihrer Seite ist und Ihnen keine Baugenehmigung erteilt hat.\n\nAbgebrochene Projekte benötigen einen Tag, um wieder verfügbar zu werden.§!"
  AC_gui_values:0 "§YPolitische Machtkosten:§! [?Root.AC_project_political_power_cost^-1]\n§YBaudauer:§! [?Root.AC_project_construction_duration^-1] Tage\n§YGesamte Bauzeit:§! [?Root.AC_project_total_construction_duration_display^-1] days\n§YConstruction speed penalty:§! [?Root.AC_project_construction_speed_display^-1]%\n\n"
 
  AC_assist_repair_button_text:0 "Assist Repair"
- AC_assist_repair_button_tt:0 "Unterstütze dieses Land beim Bau von Reparaturen.\n\n§YPolitischer Machtgewinn täglich:§! §R-1§!\n\n§YDauer:§!§! §G180 Tage\n\n§YSie können jeweils nur einem Land bei den Reparaturen helfen.\n\nSie können die Reparaturhilfe jederzeit durch Anklicken dieser Schaltfläche oder über die Registerkarte Entscheidungen abbrechen. Es gibt eine eintägige Abkühlungszeit, bevor Sie sie wieder aktivieren können."
+ AC_assist_repair_button_tt:0 "Unterstütze dieses Land beim Bau von Reparaturen.\n\n§YPolitischer Machtgewinn täglich:§! §R-1§!\n\n§YDauer:§! §G180 Tage\n\n§LSie können jeweils nur einem Land bei den Reparaturen helfen.\n\nSie können die Reparaturhilfe jederzeit durch Anklicken dieser Schaltfläche oder über die Registerkarte Entscheidungen abbrechen. Es gibt eine eintägige Abkühlungszeit, bevor Sie sie wieder aktivieren können.§!"
 
  AC_construction_opinion:0 "Bauprojekte"
 
@@ -118,7 +118,7 @@
  AC_assist_repair_target_idea_desc:0 "Dieses Land erhält Reparaturhilfe von einem seiner Verbündeten."
 
  AC_assist_repair_decision:0 "§YReparaturhilfe§! in [?AC_assist_repair_target.GetName]"
- AC_assist_repair_decision_desc:0 "Wir helfen gerade einem Verbündeten bei Reparaturen.\n\n§0Klicken Sie mit der rechten Maustaste, um das Zielland zu sehen.§!"
+ AC_assist_repair_decision_desc:0 "Wir helfen gerade einem Verbündeten bei Reparaturen.\n\n§LKlicken Sie mit der rechten Maustaste, um das Zielland zu sehen.§!"
 
  AC_assist_repair_CANCEL_decision:0 "Reparaturhilfe abbrechen"
  AC_assist_repair_CANCEL_decision_desc:0 "Abbrechen der Reparaturhilfe."

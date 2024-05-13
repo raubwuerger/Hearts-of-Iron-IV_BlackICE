@@ -51,8 +51,8 @@
 
  BI_P_DELETE_UNITS_TT:0 "Löscht die Einheiten aller ausgewählten Länder."
 
- BI_P_DISABLE_UNIT_PRODUCTION_TT:0 "Deaktiviert §YDivisionserstellung§ vollständig! für die ausgewählten Länder."
- BI_P_REDUCED_RESEARCH_TT:0 "Legt §YForschungsplätze§ fest! für die ausgewählten Länder zu §Y2§!"
+ BI_P_DISABLE_UNIT_PRODUCTION_TT:0 "Deaktiviert §YDivisionserstellung§! vollständig für die ausgewählten Länder."
+ BI_P_REDUCED_RESEARCH_TT:0 "Legt §YForschungsplätze§! fest für die ausgewählten Länder zu §Y2§!"
  BI_P_DISABLE_EAI_TT:0 "Dadurch werden einige leistungsintensive EAI-Ereignisse deaktiviert, die im Hintergrund ausgeführt werden. Es wird nur vorgeschlagen, dies für Länder zu ermöglichen, die sich nicht im Krieg befinden und auch nie befinden werden oder die völlig nutzlos sind, beispielsweise Tunesien. Es betrifft eine Vielzahl von Dingen, von KI-Vorlagen bis hin zu Ministern, Ausstattungsvarianten und Technologien."
  BI_P_RIGHT_CLICK_TT:0 "§YRechtsklick§! um alle Länder auszuwählen, die diese Option verwenden."
 
