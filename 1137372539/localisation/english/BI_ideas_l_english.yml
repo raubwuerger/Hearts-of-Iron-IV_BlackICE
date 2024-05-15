@@ -1188,7 +1188,7 @@ AST_the_jellicoe_plan_idea:0 "The Jellicoe Plan"
  ruling_party_modifier:0 "Daily Ruling Party Support"
  opposition_party_modifier:0 "Daily Opposition Parties Support"
 
- foreign_police_station:0 "Enemy Police Station\n§!Our enemies have taken our land and are suppressing our population by constructing §RPolice Stations§! on our core states. Currently we get the following effects:§!"
+ foreign_police_station:0 "Enemy Police Station\n§ROur enemies have taken our land and are suppressing our population by constructing §RPolice Stations§! on our core states. Currently we get the following effects:§!"
 
  output_factor:0 "§YFactory§! and §YDockyard§! Output Factor"
  unity_base:0 "Base"
