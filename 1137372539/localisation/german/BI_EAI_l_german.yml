@@ -361,7 +361,7 @@
  EAI_config_ARMY_L3c_text:0 "Schwerer Rüstungsfokus"
 
  EAI_config_ARMY_L4_text:0 "Panzerungsdesign"
- EAI_config_ARMY_L4_tt:0 "§LDies bestimmt, welche Art von Panzerdivision dieses Land entwirft.\n\n-Zähigkeit: mehr Panzer, Durchbruch, Panzerung.\n\n-Offensive: mehr Artillerie, weicher Angriff."
+ EAI_config_ARMY_L4_tt:0 "§LDies bestimmt, welche Art von Panzerdivision dieses Land entwirft.\n\n-Zähigkeit: mehr Panzer, Durchbruch, Panzerung.\n\n-Offensive: mehr Artillerie, weicher Angriff.§!"
  EAI_config_ARMY_L4_dropdown_text:0 "[EAI_GetArmorDesign]"
  EAI_config_ARMY_L4-_text:0 "-"
  EAI_config_ARMY_L4a_text:0 "Zähigkeit"
