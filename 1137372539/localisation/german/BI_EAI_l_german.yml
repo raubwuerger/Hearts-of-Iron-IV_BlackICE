@@ -94,7 +94,7 @@
  EAI_config_STARTUP_1_tt:0 "Dies beeinflusst die Arten von Armeen, Flotten und Flugzeugen, die die KI erforscht und baut."
 
  EAI_config_STARTUP_1a:0 "Normal"
- EAI_config_STARTUP_1a_tt:0 "§YMode: Normal§!\n\n§LDer Standardmodus. Er ist nicht so wettbewerbsorientiert wie der Herausforderungsmodus, wenn es um Minimalmaximierung geht, hat aber mehr Freiheit bei der Wahl verschiedener Strategien in jedem Spiel und hält sich möglicherweise nicht immer an strikte Meta-Einteilungen§!"
+ EAI_config_STARTUP_1a_tt:0 "§YModus: Normal§!\n\n§LDer Standardmodus. Er ist nicht so wettbewerbsorientiert wie der Herausforderungsmodus, wenn es um Minimalmaximierung geht, hat aber mehr Freiheit bei der Wahl verschiedener Strategien in jedem Spiel und hält sich möglicherweise nicht immer an strikte Meta-Einteilungen§!"
 
  EAI_config_STARTUP_1b:0 "Herausfordernd"
  EAI_config_STARTUP_1b_tt:0 "§YModus: Herausfordernd§!\n\n§LFür diejenigen, die wollen, dass sich die KI auf wettbewerbsfähigere Builds konzentriert. Er konzentriert sich auf effektivere Strategien als auf Abwechslung, wie z.B.: 40w-Infanterie, effektive Doktrinen, weniger Schablonentypen, Flugzeuge und Schiffe, die gebaut werden, um ihre Forschung und XP mehr zu fokussieren.§!"
@@ -103,9 +103,9 @@
  EAI_config_STARTUP_1c_tt:0 "§YModus: Historisch§!\n\n§LFür diejenigen, die wollen, dass die KI Metastrategien wie 40er-Divisionen vermeidet und wollen, dass die KI (insbesondere Majors) Einheiten historischer und vorhersehbarer baut. Erwarten Sie keine echte historische Genauigkeit.§!"
 
  EAI_config_STARTUP_1d:0 "Zufällig"
- EAI_config_STARTUP_1d_tt:0 "§YMode: Random§!\n\n§LAnything goes. Für den Fall, dass Sie sich von der KI überraschen lassen wollen.§!"
+ EAI_config_STARTUP_1d_tt:0 "§YModus: Random§!\n\n§LAlles ist möglich. Für den Fall, dass Sie sich von der KI überraschen lassen wollen.§!"
 
- EAI_config_STARTUP_2_headline:0 "Difficulty"
+ EAI_config_STARTUP_2_headline:0 "Schwierigkeitsgrad"
  EAI_config_STARTUP_2_dropdown_text:0 "[EAI_GetStartupDifficulty]"
  EAI_config_STARTUP_2_tt:0 "Dies sind Schwierigkeitsvoreinstellungen, die verschiedene Schwierigkeitsgrade kombinieren. Diese Schwierigkeitseinstellungen sind völlig optional und nur ein kleiner Teil des gesamten Mods.\n\nWenn Sie einen höheren Schwierigkeitsgrad wünschen, sollten Sie die erweiterte Konfiguration verwenden und bestimmte Länder verstärken."
 
@@ -139,9 +139,9 @@
  EAI_config_category_button2_tt:0 "Allgemeine KI-Einstellungen ändern das KI-Verhalten oder die Spielbalance auf verschiedene Weise."
 
  EAI_config_DIFFUCULTY_help_tt:0 "[EAI_GetDifficultyHelpPage]"
- EAI_config_DIFFUCULTY_help_1_tt:0 "Anleitung zu den Schwierigkeitseinstellungen (Seite 1/3)\n\n§YWarum hat diese Mod so viele Schwierigkeitseinstellungen? Weil die KI eine Menge spezifischer Schwächen hat, die kompensiert werden müssen, wenn man ein ausgeglichenes Spiel haben will (vorausgesetzt, man ist gut im Spiel und vor allem, wenn man ein großes Land spielen will). Außerdem sind manche Einstellungen für Sie vielleicht eindringlicher als andere.\n\nWas sind§! §Ydynamische§! §Lsettings? Das bedeutet, dass die Mod den Ländern diese Boni je nach Spielverlauf zuweist, anstatt allen KI-Ländern einen permanenten Bonus zu geben. Dynamische Einstellungen werden für KI-Länder aktiviert, die sich mit Ihnen (einem Spieler) im Krieg befinden und sich in unmittelbarer Nähe zu Ihnen oder Ihren Verbündeten befinden. §Länderspezifische§! §LEinstellungen hingegen sind immer aktiv und es spielt keine Rolle, ob die KI gegen eine andere KI oder einen Spieler kämpft.\n\nWas ist der§! §YBonus§! §0Einstellung und wie unterscheidet sie sich von den Vanilla-Schieberegler-Boni? Diese Einstellung ist hauptsächlich dazu gedacht, die Industrie der KI anzukurbeln, um die enormen Ausrüstungsverluste zu kompensieren, die die KI in Kriegen erleidet. Der wichtigste Teil dieses Bonus ist eine Kostenreduzierung für alle Land- und Luftausrüstungen, die der KI fehlen, die weit höher ist als jeder Schiebereglerbonus. Das bedeutet, dass die KI es leichter hat, nur die Ausrüstung zu produzieren, die sie wirklich braucht, aber keine unrealistischen Vorräte an Dingen anlegt, die sie nicht braucht. §YVerzweifelte Verteidigung§!§? Mit dieser Einstellung werden die Boni für die KI schrittweise erhöht, je näher sie der Kapitulation kommt, wodurch die Produktion von Ausrüstung gesteigert und die Rekrutierungszeit der Divisionen verkürzt wird. Ähnlich wie bei der Einstellung "Bonus" erhöht "Verzweifelte Verteidigung" auch die Ausrüstungsproduktion für Ausrüstung, bei der die KI Defizite hat."
- EAI_config_DIFFUCULTY_help_2_tt:0 "Anleitung zu den Schwierigkeitseinstellungen (Seite 2/3)\n\n§YBonus vs. Verzweifelte Verteidigung?§! §LEs liegt an Ihnen, ob Sie eine oder beide Einstellungen wählen. Der Hauptunterschied besteht darin, dass die Einstellung "Bonus" für die KI ständig aktiv ist, während "Verzweifelte Verteidigung" nur aktiviert wird, wenn die KI in der Defensive ist. Beachte, dass sich die Reduzierung der Ausrüstungskosten nicht stapelt, wenn du beide Einstellungen verwendest, es wird nur der höchste der beiden Modifikatoren verwendet. §YVerstärkungen§!§L? Es schafft Ausrüstung UND Divisionen für die KI, anstatt nur Boni zu geben. Dies ist eine extremere Schwierigkeitseinstellung als die oben genannten und sollte nur verwendet werden, wenn die anderen Einstellungen nicht ausreichen.§!"
- EAI_config_DIFFUCULTY_help_3_tt:0 "Leitfaden für Schwierigkeitseinstellungen (Seite 3/3)\n\n§YWarum sollte die KI§! §Ykostenlose Konvois§!§L? Weil es sehr einfach ist, die Konvois der KI so weit zu zerstören, dass sie völlig erstarrt, weil sie ihre Einheiten nicht einmal dorthin transportieren kann, wo sie gebraucht werden.\n\nWarum sollte man§! §YPlanungs-/Verschanzungsgeschwindigkeit§!§L? Wenn es eine Sache gibt, die die KI liebt, dann ist es das ständige Umschichten von Einheiten. Das bedeutet, dass sie oft die Verschanzung ihrer Einheiten ruiniert oder nicht lange genug stehen bleibt, um einen Planungsbonus zu erhalten, was für Sie einen großen Nachteil darstellt.\n\nWarum§! §YKI-Zermürbung§!§L verringern? Der KI ist es egal, ob sie ihre Divisionen auf Bergen oder in Sümpfen parkt, und ihr ständiges Umschichten der Divisionen sorgt dafür, dass sie eine enorme Menge an Zermürbung erleidet.§!"
+ EAI_config_DIFFUCULTY_help_1_tt:0 "Leitfaden für Schwierigkeitseinstellungen (Seite 1/3)\n\n§LWarum hat diese Mod so viele Schwierigkeitseinstellungen? Weil die KI viele spezifische Schwächen hat, die kompensiert werden müssen, wenn man ein ausgeglichenes Spiel haben will (vorausgesetzt, man ist gut im Spiel und vor allem, wenn man ein großes Land spielen will). Außerdem sind einige Einstellungen für Sie vielleicht eindringlicher als andere.\n\nWas sind§! §Ydynamische§! §LEinstellungen? Das bedeutet, dass die Mod den Ländern diese Boni je nach Spielverlauf gewährt, anstatt allen KI-Ländern einen permanenten Bonus zu geben. Dynamische Einstellungen werden für KI-Länder aktiviert, die sich mit Ihnen (einem Spieler) im Krieg befinden und sich in unmittelbarer Nähe zu Ihnen oder Ihren Verbündeten befinden.§! §YLänderspezifische§! §LEinstellungen hingegen sind immer aktiv und es spielt keine Rolle, ob die KI gegen eine andere KI oder einen Spieler kämpft.\n\nWas ist der§! §YBonus§! §LEinstellung und wie unterscheidet sie sich von den Vanilla-Schieberegler-Boni? Diese Einstellung ist hauptsächlich dazu gedacht, die Industrie der KI anzukurbeln, um die enormen Ausrüstungsverluste zu kompensieren, die die KI in Kriegen erleidet. Der wichtigste Teil dieses Bonus ist eine Kostenreduzierung für alle Land- und Luftausrüstungen, die der KI fehlen, die weit höher ist als jeder Schiebereglerbonus. Das bedeutet, dass die KI es leichter hat, nur die Ausrüstung zu produzieren, die sie wirklich braucht, aber keine unrealistischen Vorräte an Dingen anlegt, die sie nicht braucht.§! §YVerzweifelte Verteidigung§!§L? Mit dieser Einstellung werden die Boni für die KI schrittweise erhöht, je näher sie der Kapitulation kommt, wodurch die Ausrüstungsproduktion gesteigert und die Rekrutierungszeit der Divisionen verringert wird. Ähnlich wie bei der Einstellung "Bonus" erhöht "Verzweifelte Verteidigung" auch die Ausrüstungsproduktion für Ausrüstung, bei der die KI Defizite hat.§!"
+ EAI_config_DIFFUCULTY_help_2_tt:0 "Leitfaden für Schwierigkeitseinstellungen (Seite 2/3)\n\n§YBonus vs. Verzweifelte Verteidigung?§! §LEs bleibt Ihnen überlassen, ob Sie eine oder beide Einstellungen wählen. Der Hauptunterschied besteht darin, dass die Einstellung "Bonus" für die KI ständig aktiv ist, während "Verzweifelte Verteidigung" nur aktiviert wird, wenn die KI in der Defensive ist. Beachte, dass sich die Reduzierung der Ausrüstungskosten nicht stapelt, wenn du beide Einstellungen verwendest, es wird nur der höchste der beiden Modifikatoren verwendet.§! §YVerstärkungen§!§L? Es schafft Ausrüstung UND Divisionen für die KI, anstatt nur Boni zu geben. Dies ist eine extremere Schwierigkeitseinstellung als die oben genannten, und man sollte sie nur verwenden, wenn die anderen Einstellungen nicht ausreichen.§!
+ EAI_config_DIFFUCULTY_help_3_tt:0 "Leitfaden für Schwierigkeitseinstellungen (Seite 3/3)\n\n§LWarum sollte die KI§! §Ykostenlose Konvois§!§L? Weil es sehr einfach ist, die Konvois der KI so weit zu zerstören, dass sie völlig erstarrt, weil sie ihre Einheiten nicht einmal dorthin transportieren kann, wo sie gebraucht werden.\n\nWarum sollte man§! §YPlanungs-/Verschanzungsgeschwindigkeit§!§L? Wenn es eine Sache gibt, die die KI liebt, dann ist es das ständige Umschichten von Einheiten. Das bedeutet, dass sie oft die Verschanzung ihrer Einheiten ruiniert oder nicht lange genug stehen bleibt, um einen Planungsbonus zu erhalten, was für Sie einen großen Nachteil darstellt.\n\nWarum§! §YKI-Zermürbung§!§L verringern? Der KI ist es egal, ob sie ihre Divisionen auf Bergen oder in Sümpfen parkt, und ihr ständiges Umschichten der Divisionen sorgt dafür, dass sie eine enorme Menge an Zermürbung erleidet.§!"
 
  EAI_config_DIFFICULTY_1_headline:0 "Dynamischer Bonus"
  EAI_config_DIFFICULTY_1_tt:0 "In der Nähe befindliche KI-Länder, die sich im Krieg mit einem Spieler befinden, erhalten einen Bonus.\n\n§RDiese Einstellung kann in der Länderkonfiguration für bestimmte Länder deaktiviert oder außer Kraft gesetzt werden.§!"
@@ -190,9 +190,9 @@
  EAI_config_GENERAL_1b_text:0 "Herausfordernd"
  EAI_config_GENERAL_1b_tt:0 "§YHerausfordernd:§! Für diejenigen, die wollen, dass sich die KI auf wettbewerbsfähigere Builds konzentriert. Sie konzentriert sich eher auf effektivere Strategien als auf Vielfalt, wie z. B.: 40w-Infanterie, effektive Doktrinen, weniger Schablonentypen, Flugzeuge und Schiffe, die gebaut werden, um ihre Forschung und XP stärker zu konzentrieren."
  EAI_config_GENERAL_1c_text:0 "Historisch"
- EAI_config_GENERAL_1c_tt:0 "§YHistorical:§! Für diejenigen, die wollen, dass die KI Metastrategien wie 40er-Divisionen vermeidet, und die wollen, dass die KI (insbesondere Majors) Einheiten historischer und vorhersehbarer baut. Erwarten Sie keine echte historische Genauigkeit."
+ EAI_config_GENERAL_1c_tt:0 "§YYHistorisch:§! Für diejenigen, die wollen, dass die KI Metastrategien wie 40er-Divisionen vermeidet, und die wollen, dass die KI (insbesondere Majors) Einheiten historischer und vorhersehbarer baut. Erwarten Sie keine echte historische Genauigkeit."
  EAI_config_GENERAL_1d_text:0 "Zufällig"
- EAI_config_GENERAL_1d_tt:0 "§YRandom:§! Alles ist möglich. Für den Fall, dass Sie sich von der KI überraschen lassen wollen."
+ EAI_config_GENERAL_1d_tt:0 "§YZufällig:§! Alles ist möglich. Für den Fall, dass Sie sich von der KI überraschen lassen wollen."
 
  EAI_config_GENERAL_global_army_config_tt:0 "Konfigurieren Sie militärische Schwerpunkte für alle KI-Länder, die derzeit keine Schwerpunkte haben.\n\n §YWenn Sie dies nach Spielbeginn ändern, hat das kaum Auswirkungen. Sie können die Schwerpunkte eines Landes immer noch über die Länderkonfiguration neu konfigurieren.§!"
 
@@ -250,11 +250,11 @@
  EAI_config_COUNTRY_2_tt:0 "Dieses Land erhält einen steigenden Bonusmodifikator, je näher es an der Kapitulation ist."
  EAI_config_COUNTRY_2a_text:0 "Aus"
  EAI_config_COUNTRY_2b_text:0 "Niedrig"
- EAI_config_COUNTRY_2b_tt:0 "§YVerzweifelte Verteidigung: Niedrig\n\nBoni für verzweifelte Verteidigung bei Minimum (>0% Kapitulationsfortschritt):§!\n\n§L-Divisionsrekrutierungszeit: -66% - -75%\n-Werftausstoß: +5%\n-Produktionseffizienz Steigerung: +10%\n\nAußerdem hat jede Land- und Luftausrüstung, an der es diesem Land mangelt, eine geringe Kostenreduzierung.§!\n\n§YVerzweifelte Verteidigung Boni auf Maximum (>90% surrender progress):§!\n\n§L-Division Recruitment Time: -85%\n-Werftausstoß: +50%\n-Produktionseffizienz-Wachstum: +100%\n\nDarüber hinaus wird jede Land- und Luftausrüstung, die dem Land fehlt, mit einer mittleren Kostenreduzierung versehen.§!"
+ EAI_config_COUNTRY_2b_tt:0 "§YVerzweifelte Verteidigung: Niedrig\n\nBoni für verzweifelte Verteidigung bei Minimum (>0% Kapitulationsfortschritt):§!\n\n§LDivisionsrekrutierungszeit: -66% - -75%\n-Werftausstoß: +5%\n-Produktionseffizienz Steigerung: +10%\n\nAußerdem hat jede Land- und Luftausrüstung, an der es diesem Land mangelt, eine geringe Kostenreduzierung.§!\n\n§YVerzweifelte Verteidigung Boni auf Maximum (>90% surrender progress):§!\n\n§L-Division Recruitment Time: -85%\n-Werftausstoß: +50%\n-Produktionseffizienz-Wachstum: +100%\n\nDarüber hinaus wird jede Land- und Luftausrüstung, die dem Land fehlt, mit einer mittleren Kostenreduzierung versehen.§!"
  EAI_config_COUNTRY_2c_text:0 "Mittel"
- EAI_config_COUNTRY_2c_tt:0 "§YVerzweifelte Verteidigung: Mittel §YVerzweifelte Verteidigung Boni auf Maximum (>0% Kapitulationsfortschritt):§!\n\n§L-Divisionsrekrutierungszeit: -66% - -85%\n-Werftausstoß: +5%\n-Produktionseffizienz Steigerung: +10%\n\nAußerdem hat jede Land- und Luftausrüstung, an der es diesem Land mangelt, eine geringe Kostenreduzierung.§!\n\n§YVerzweifelte Verteidigung Boni auf Maximum (>50% surrender progress):§!\n\n§L-Division Recruitment Time: -85%\n-Werftausstoß: +100%\n-Produktionseffizienz-Wachstum: +200%\n\nAußerdem hat jede Land- und Luftausrüstung, die dem Land fehlt, eine hohe Kostenreduktion.§!"
+ EAI_config_COUNTRY_2c_tt:0 "§YVerzweifelte Verteidigung: Mittel §YVerzweifelte Verteidigung Boni auf Maximum (>0% Kapitulationsfortschritt):§!\n\n§LDivisionsrekrutierungszeit: -66% - -85%\n-Werftausstoß: +5%\n-Produktionseffizienz Steigerung: +10%\n\nAußerdem hat jede Land- und Luftausrüstung, an der es diesem Land mangelt, eine geringe Kostenreduzierung.§!\n\n§YVerzweifelte Verteidigung Boni auf Maximum (>50% surrender progress):§!\n\n§L-Division Recruitment Time: -85%\n-Werftausstoß: +100%\n-Produktionseffizienz-Wachstum: +200%\n\nAußerdem hat jede Land- und Luftausrüstung, die dem Land fehlt, eine hohe Kostenreduktion.§!"
  EAI_config_COUNTRY_2d_text:0 "Hoch"
- EAI_config_COUNTRY_2d_tt:0 "§YVerzweifelte Verteidigung: Hoch\n\nVerzweifelte Verteidigungsboni im Minimum (>0% Kapitulationsfortschritt):§!\n\n§L-Divisionsrekrutierungszeit: -75% - -85%\n-Werftausstoß: +50%\n-Produktionseffizienz Steigerung: +100%\n\nDarüber hinaus hat jede Land- und Luftausrüstung, die dem Land fehlt, eine mittlere Kostenreduzierung.§!\n\n§YVerzweifelte Verteidigung Boni auf Maximum (>50% surrender progress):§!\n\n§Y Abteilung Rekrutierungszeit: -85%\n-Werftausstoß: +100%\n-Produktionseffizienz-Wachstum: +200%\n\nAußerdem hat jede Land- und Luftausrüstung, die dem Land fehlt, eine hohe Kostenreduktion!"
+ EAI_config_COUNTRY_2d_tt:0 "§YVerzweifelte Verteidigung: Hoch\n\nVerzweifelte Verteidigungsboni im Minimum (>0% Kapitulationsfortschritt):§!\n\n§LDivisionsrekrutierungszeit: -75% - -85%\n-Werftausstoß: +50%\n-Produktionseffizienz Steigerung: +100%\n\nDarüber hinaus hat jede Land- und Luftausrüstung, die dem Land fehlt, eine mittlere Kostenreduzierung.§!\n\n§YVerzweifelte Verteidigung Boni auf Maximum (>50% surrender progress):§!\n\n§L-Division Recruitment Time: -85%\n-Werftausstoß: +100%\n-Produktionseffizienz-Wachstum: +200%\n\nAußerdem hat jede Land- und Luftausrüstung, die dem Land fehlt, eine hohe Kostenreduktion!"
 
  EAI_config_COUNTRY_3_headline:0 "Verstärkungen [EAI_GetReinforcements]"
  EAI_config_COUNTRY_3_tt:0 "Dieses Land kann kostenlose Divisionen und Ausrüstung erhalten, wenn es Verluste erleidet. Die Verstärkungen treffen ungefähr monatlich ein, solange das Land Anspruch darauf hat.\n\n Die Gesamtzahl der Divisionen, die empfangen werden können, hängt von der Größe des Landes ab. Ihr Standort ist vorzugsweise irgendwo hinter der aktiven Front, aber außerhalb der Sichtweite des Feindes.\n\nAusrüstung wird nur in Heeresrüstungskategorien eingesetzt, in denen die KI Defizite hat.\n\n§YAnzahl der erstellten Divisionen: [?Root.EAI_dd_unit_count]§!"
@@ -336,14 +336,14 @@
  EAI_config_ARMY_L2bc_text:0 "40 Breite"
  EAI_config_ARMY_L2bd_text:0 "10 Breite"
 
- EAI_config_ARMY_L02_tt:0 "§LDies bestimmt die Musterzusammensetzung der wichtigsten Panzerabwehrdivisionen dieses Landes!§!"
+ EAI_config_ARMY_L02_tt:0 "§LDies bestimmt die Musterzusammensetzung der wichtigsten Panzerabwehrdivisionen dieses Landes§!"
  EAI_config_ARMY_L02_dropdown_text:0 "[EAI_GetAntiTankDesign]"
  EAI_config_ARMY_L02-_text:0 "-"
  EAI_config_ARMY_L02a_text:0 "Linienpanzerabwehr"
  EAI_config_ARMY_L02b_text:0 "Leichter Jagdpanzer"
  EAI_config_ARMY_L02c_text:0 "Mittlerer Jagdpanzer"
 
- EAI_config_ARMY_L02b_tt:0 "§LDies bestimmt die Breite der Schablone für den Frontpanzer dieses Landes!§!"
+ EAI_config_ARMY_L02b_tt:0 "§LDies bestimmt die Breite der Schablone für den Frontpanzer dieses Landes§!"
  EAI_config_ARMY_L02b_dropdown_text:0 "[EAI_GetAntiTankWidth]"
  EAI_config_ARMY_L02b-_text:0 "-"
  EAI_config_ARMY_L02ba_text:0 "20 Breite"
@@ -361,7 +361,7 @@
  EAI_config_ARMY_L3c_text:0 "Schwerer Rüstungsfokus"
 
  EAI_config_ARMY_L4_text:0 "Panzerungsdesign"
- EAI_config_ARMY_L4_tt:0 "§LDies bestimmt, welche Art von Panzerdivision dieses Land entwirft.\n\n-Zähigkeit: mehr Panzer, Durchbruch, Panzerung.\n\n-Offensive: mehr Artillerie, weicher Angriff.§!"
+ EAI_config_ARMY_L4_tt:0 "§LDies bestimmt, welche Art von Panzerdivision dieses Land entwirft.\n\n-Zähigkeit: mehr Panzer, Durchbruch, Panzerung.\n\n-Offensive: mehr Artillerie, weicher Angriff."
  EAI_config_ARMY_L4_dropdown_text:0 "[EAI_GetArmorDesign]"
  EAI_config_ARMY_L4-_text:0 "-"
  EAI_config_ARMY_L4a_text:0 "Zähigkeit"
@@ -369,7 +369,7 @@
  EAI_config_ARMY_L4c_text:0 "Offensive"
 
  EAI_config_ARMY_L4b_dropdown_text:0 "[EAI_GetArmorWidth]"
- EAI_config_ARMY_L4b_tt:0 "§LDies bestimmt die Frontbreite der Panzerdivisionen dieses Landes!§!"
+ EAI_config_ARMY_L4b_tt:0 "§LDies bestimmt die Frontbreite der Panzerdivisionen dieses Landes§!"
  EAI_config_ARMY_L4b-_text:0 "-"
  EAI_config_ARMY_L4ba_text:0 "20 Breite"
  EAI_config_ARMY_L4bb_text:0 "26 Breite"
@@ -386,7 +386,7 @@
  EAI_config_ARMY_L5d_text:0 "Schwere Panzeraufsatz"
 
  EAI_config_ARMY_L6_text:0 "Spezialkräfte"
- EAI_config_ARMY_L6_tt:0 "§LSpezialkräfte Focus$!§!"
+ EAI_config_ARMY_L6_tt:0 "§LSpezialkräfte Focus§!"
  EAI_config_ARMY_L6_dropdown_text:0 "[EAI_GetSpecOps]"
  EAI_config_ARMY_L6-_text:0 "-"
  EAI_config_ARMY_L6a_text:0 "Keine Spezialkräfte"
@@ -396,7 +396,7 @@
  EAI_config_ARMY_air_category_headline:0 "Luftwaffe"
 
  EAI_config_ARMY_A1_text:0 "Luftwaffen Doktrin"
- EAI_config_ARMY_A1_tt:0 "§YDie Luftwaffen Doktrin kann nicht mehr geändert werden, wenn das Land einmal mit der Erforschung begonnen hat!§!"
+ EAI_config_ARMY_A1_tt:0 "§YDie Luftwaffen Doktrin kann nicht mehr geändert werden, wenn das Land einmal mit der Erforschung begonnen hat§!"
  EAI_config_ARMY_A1_dropdown_text:0 "[EAI_GetAirDoctrine]"
  EAI_config_ARMY_A1-_text:0 "-"
  EAI_config_ARMY_A1a_text:0 "Strategische Zerstörung"
@@ -411,7 +411,7 @@
  EAI_config_ARMY_A2b_text:0 "Taktische Bomber"
 
  EAI_config_ARMY_A3_text:0 "Schwere Kampfflugzeuge"
- EAI_config_ARMY_A3_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt des Landes auf schweren Jägern!§!"
+ EAI_config_ARMY_A3_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt des Landes auf schweren Jägern§!"
  EAI_config_ARMY_A3_dropdown_text:0 "[EAI_GetHFighterFocus]"
  EAI_config_ARMY_A3-_text:0 "-"
  EAI_config_ARMY_A3a_text:0 "Aus"
@@ -442,13 +442,13 @@
  EAI_config_ARMY_N1c_text:0 "Basisangriff"
 
  EAI_config_ARMY_N2_text:0 "Zerstörer"
- EAI_config_ARMY_N2_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf Zerstörer!§!"
+ EAI_config_ARMY_N2_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf Zerstörer.§!"
  EAI_config_ARMY_N2_dropdown_text:0 "[EAI_GetDDFocus]"
  EAI_config_ARMY_N2-_text:0 "-"
  EAI_config_ARMY_N2a_text:0 "Aus"
  EAI_config_ARMY_N2b_text:0 "Aufklärungs-Zerstörer"
 
- EAI_config_ARMY_N2b_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf U-Boot-Zerstörern!§!"
+ EAI_config_ARMY_N2b_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf U-Boot-Zerstörern.§!"
  EAI_config_ARMY_N2b_dropdown_text:0 "[EAI_GetASWDDFocus]"
  EAI_config_ARMY_N2b-_text:0 "-"
  EAI_config_ARMY_N2ba_text:0 "Aus"
@@ -468,14 +468,14 @@
  EAI_config_ARMY_N3bb_text:0 "ASW Leichter Kreuzer"
 
  EAI_config_ARMY_N4_text:0 "Schwere Kreuzer"
- EAI_config_ARMY_N4_tt:0 "§LHiermit wird der Forschungs- und Produktionsschwerpunkt des Landes auf schwere Kreuzer festgelegt!§!"
+ EAI_config_ARMY_N4_tt:0 "§LHiermit wird der Forschungs- und Produktionsschwerpunkt des Landes auf schwere Kreuzer festgelegt.§!"
  EAI_config_ARMY_N4_dropdown_text:0 "[EAI_GetCAFocus]"
  EAI_config_ARMY_N4-_text:0 "-"
  EAI_config_ARMY_N4a_text:0 "Aus"
  EAI_config_ARMY_N4b_text:0 "Ein"
 
  EAI_config_ARMY_N5_text:0 "Schlachtkreuzer"
- EAI_config_ARMY_N5_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf Schlachtkreuzern!§!"
+ EAI_config_ARMY_N5_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf Schlachtkreuzern.§!"
  EAI_config_ARMY_N5_dropdown_text:0 "[EAI_GetBCFocus]"
  EAI_config_ARMY_N5-_text:0 "-"
  EAI_config_ARMY_N5a_text:0 "Aus"
@@ -490,7 +490,7 @@
  EAI_config_ARMY_N6c_text:0 "Superschweres Schlachtschiff"
 
  EAI_config_ARMY_N7_text:0 "Flugzeugträger"
- EAI_config_ARMY_N7_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf Flugzeugträger!§!"
+ EAI_config_ARMY_N7_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf Flugzeugträger.§!"
  EAI_config_ARMY_N7_dropdown_text:0 "[EAI_GetCVFocus]"
  EAI_config_ARMY_N7-_text:0 "-"
  EAI_config_ARMY_N7a_text:0 "Aus"
@@ -498,7 +498,7 @@
  EAI_config_ARMY_N7c_text:0 "Leichter Flugzeugträger"
 
  EAI_config_ARMY_N8_text:0 "U-Boote"
- EAI_config_ARMY_N8_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf U-Booten!§!"
+ EAI_config_ARMY_N8_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf U-Booten.§!"
  EAI_config_ARMY_N8_dropdown_text:0 "[EAI_GetSSFocus]"
  EAI_config_ARMY_N8-_text:0 "-"
  EAI_config_ARMY_N8a_text:0 "Aus"

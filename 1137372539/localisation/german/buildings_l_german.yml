@@ -24,43 +24,43 @@
  
  subyard:0 "U-Boot-Werft"
  subyard_plural:0 "U-Boot-Werften"
- subyard_desc:1 "Jede U-Boot-Werft wird §Cdie Produktionskosten§! von: §YU-Booten§! um senken.$subyard_effect$"
- subyard_effect: "\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y2§!\nInfrastruktureffekt: §GJa§!\n\nEnergiebedarf: §R6§!£electricity_medium "
+ subyard_desc:1 "Jede U-Boot-Werft wird §Gdie Produktionskosten§! von: §YU-Booten§! um senken.$subyard_effect$"
+ subyard_effect: "\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y2§!\nInfrastruktureffekt: §GJa§!"
  
  tank_assembly:0 "Panzermontagewerk"
  tank_assembly_plural:0 "Panzermontagewerke"
  tank_assembly_desc:0 "Panzermontagewerke bieten §YPanzerproduktionskapazität§!, die für den Bau von §YPanzern§!, §YPanzerwagen§! und §YMechanisierten§!$tank_assembly_effect$ erforderlich ist"
- tank_assembly_effect: "\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nGrundkapazität: §Y+7§!£resources_strip|20 \n\nEnergiebedarf : §R6§!£electricity_medium "
+ tank_assembly_effect: "\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!"
  
  air_assembly:0 "Flugzeugmontagewerk"
  air_assembly_plural:0 "Flugzeugmontagewerke"
  air_assembly_desc:0 "Flugzeugmontagewerk stellen §YFlugzeugproduktionskapazität§! bereit, die für den Bau von §YFlugzeugen§!$air_assembly_effect$ erforderlich ist"
- air_assembly_effect: "\n\nMaximales Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nBasiskapazität: §Y+7§!£resources_strip|21 \n\nEnergiebedarf : §R6§!£electricity_medium "
+ air_assembly_effect: "\n\nMaximales Level: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!"
  
  engine_assembly:0 "Motorenfabrik"
  engine_assembly_plural:0 "Motorenfabriken"
  engine_assembly_desc:0 "Motorenfabriken stellen §YMotorproduktionskapazität§! bereit, die für den Bau von §YLkw§!, §YManisierten§!, §YPanzerwagen§!, §YPanzern§! und §YFlugzeugen§!$engine_assembly_effect$ erforderlich ist"
- engine_assembly_effect: "\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nGrundkapazität: §Y+7§!£resources_strip|22 \n\nEnergiebedarf : §R6§!£electricity_medium "
+ engine_assembly_effect: "\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!"
  
  artillery_assembly:0 "Artilleriegießerei"
  artillery_assembly_plural:0 "Artilleriegießereien"
  artillery_assembly_desc:0 "Artilleriegießereien stellen §YArtillerie-Produktionskapazität§! bereit, die für den Bau von §YArtillerie§!, §YPanzerabwehrkanonen§! und §YPanzern§!$artillery_assembly_effect$ erforderlich ist"
- artillery_assembly_effect: "\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!\n\nBasiskapazität: §Y+7§!£resources_strip|23 \n\nEnergiebedarf : §R6§!£electricity_medium "
+ artillery_assembly_effect: "\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!"
  
  shipyard_capital_building:0 "Große Schiffswerft"
  shipyard_capital_building_plural:0 "Große Schiffswerften"
  shipyard_capital_building_desc:0 "Eine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!$shipyard_capital_building_effect$ erforderlich ist"
- shipyard_capital_building_effect: "\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!\n\nGrundkapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \n\nDieses Gebäude ist §Rnicht baubar.§!"
- shipyard_capital_building_overlay: "§YGroße Schiffswerft§!\nEine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!\n\nBasiskapazität: §Y+15§! £resources_strip|24 \n\nEnergiebedarf: §R6§!£electricity_medium \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
+ shipyard_capital_building_effect: "\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!"
+ shipyard_capital_building_overlay: "§YGroße Schiffswerft§!\nEine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!"
  
  research_centre:0 "Forschungszentrum"
  research_centre_desc:0 "Forschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YFocuses§! und §YEvents§! gewonnen werden. Der Verlust eines Staates mit einem §YForschungszentrum§! führt zum Verlust eines £tech_mod §YForschungsplatz§!. \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
- research_centre_overlay:0 "§YForschungszentrum§!\n\nForschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YFocuses§! und §YEvents§! gewonnen werden. Verlust eines Staates mit einem §YForschungszentrum§ ! führt zum Verlust eines £tech_mod §Yresearch Slot§!. \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
+ research_centre_overlay:0 "§YForschungszentrum§!\n\nForschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YFocuses§! und §YEvents§! gewonnen werden. Verlust eines Staates mit einem §YForschungszentrum§! führt zum Verlust eines £tech_mod §Yresearch Slot§!. \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
  
  industrial_complex:0 "Zivilfabrik"
  industrial_complex_plural:0 "Zivilfabriken"
  industrial_complex_desc:0 "Dieses Gebäude versorgt den Staat mit Industrie für die Produktion ziviler Güter oder den Bau neuer Gebäude. Kann bei Bedarf in eine Militärindustrie umgewandelt werden.$industrial_complex_effect$"
- industrial_complex_effect: "\n\nMax. Stufe: §Y20§!\nGebäudezustand: §Y12§!\nInfrastruktureffekt: §YJa§!\n\nEnergiebedarf: §R10§!£electricity_medium "
+ industrial_complex_effect: "\n\nMax. Stufe: §Y20§!\nGebäudezustand: §Y12§!\nInfrastruktureffekt: §GJa§!"
  
  air_base:0 "Luftwaffenstützpunkt"
  air_base_plural:0 "Luftwaffenstützpunkte"
@@ -90,7 +90,7 @@
  
  synthetic_refinery:0 "Synthetische Raffinerie"
  synthetic_refinery_plural:0 "Synthetische Raffinerien"
- synthetic_refinery_desc:0 "Dieses Gebäude versorgt den Staat mit Treibstoff.\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §YJa§!\n\nGrundproduktion im Staat: §Y+ 60§!£fuel_state \n\nEnergiebedarf: §R10§!£electricity_medium "
+ synthetic_refinery_desc:0 "Dieses Gebäude versorgt den Staat mit Treibstoff.\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GJa§!"
  
  radar_station:0 "Radarstation"
  radar_station_plural:0 "Radarstationen"

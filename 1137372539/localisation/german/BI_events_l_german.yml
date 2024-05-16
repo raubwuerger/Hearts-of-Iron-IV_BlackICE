@@ -7849,7 +7849,7 @@ lon_join:0 "Ist der §OLeague Of Nations§ beigetreten!"
  foreign_minister.17.d:0 "Während eines Einsatzes hat sich unser Außenminister mit einem privaten Unternehmen getroffen und ein kleines Geschäft mit Rohstoffen abgeschlossen."
  foreign_minister.18.t:0 "[ROOT.GetNameADJ] Das Ansehen auf der Weltbühne steigt"
  foreign_minister.18.d:0 "Unser Außenminister hat es geschafft, auf einer Konferenz das bestmögliche Licht auf unsere derzeitige Situation zu werfen, was dazu geführt hat, dass viele Bürger nach Hause zurückkehren."
-Foreign_minister.19.t: "Rede vor dem LON"\
+ Foreign_minister.19.t: "Rede vor dem LON"\
  Foreign_minister.19.d: "Unser Außenminister hat die Gelegenheit, vor dem Völkerbund zu sprechen. Was sollen wir hervorheben?"
  Foreign_minister.19.a: "Lobt die Sanktionen der Liga"
  lon_war_support: "Jeder Mitgliedsstaat des LON erhält §G2%§! §YKriegsunterstützung§!"
@@ -7861,7 +7861,8 @@ Foreign_minister.19.t: "Rede vor dem LON"\
  Foreign_minister.20.a: "Genehmige den Verkauf"
  Foreign_minister.20.b: "Ablehnen"
  food_sold_tt: "Entfernt: $RIGHT|-0$§RK§! £food_resources_texticon aus dem Vorrat"
- food_given_tt: "Fügt hinzu: $RIGHT|+0$§GK§! £food_resources_texticon zum Vorrat" foreign_minister_buy_normal:0 "Kleiner Transport"
+ food_given_tt: "Fügt hinzu: $RIGHT|+0$§GK§! £food_resources_texticon zum Vorrat" 
+ foreign_minister_buy_normal:0 "Kleiner Transport"
  foreign_minister_buy_good:0 "Großer Beutezug"
  foreign_minister_sell_normal:0 "Waffenverkauf"
  foreign_minister_sell_good:0 "Good Weapons Sale"
