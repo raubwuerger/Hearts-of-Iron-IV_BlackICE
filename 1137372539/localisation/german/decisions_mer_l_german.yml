@@ -53,7 +53,7 @@
   BMP_brit_aid:0 "Briten unterstützen derzeit"
   #Axis ""
   axis_arab_operatives:0 "Einrichtung einer Taskforce für den Nahen Osten"
-  axis_arab_operatives_desc:0 "Unsere Präsenz in den arabischen Ländern ist gering und die Imperialen kontrollieren fast das gesamte Öl, unsere neue Taskforce wird versuchen, dies zu ändern (§0iese Entscheidung wird einen Pfad der Wünsche eröffnen, der einen Versuch ermöglicht, die Macht in den arabischen Staaten zu erlangen§!)"
+  axis_arab_operatives_desc:0 "Unsere Präsenz in den arabischen Ländern ist gering und die Imperialen kontrollieren fast das gesamte Öl, unsere neue Taskforce wird versuchen, dies zu ändern (§HDiese Entscheidung wird einen Pfad der Wünsche eröffnen, der einen Versuch ermöglicht, die Macht in den arabischen Staaten zu erlangen§!)"
   axis_arab_infiltrate:0 "Senden Sie Agenten aus, um [From.GetName] zu infiltrieren."
   axis_arab_infiltrate_desc:0 "Unsere geschulten Agenten werden sich in die Gesellschaft von [From.GetName] eingliedern"
   axis_arab_training:0 "Bieten Sie dem Militär von [From.GetName] eine Ausbildung an"

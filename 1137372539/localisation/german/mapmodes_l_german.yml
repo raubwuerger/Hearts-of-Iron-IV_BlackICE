@@ -34,7 +34,7 @@
    research_center_mapmode_tooltip_delayed: ""
    
    ai_map_mode_tooltip: "AIRBASE-Score: [?FROM.ai_airbase_slot_score]"
-   front_state_mapmode_tooltip: "§RRed§! = Front State\n§bBlack§! = 100 Pixel nach vorne\n§GGreen§! = 150 Pixel nach vorne"
+   front_state_mapmode_tooltip: "§RRot§! = Front State\n§bSchwarz§! = 100 Pixel nach vorne\n§GGrün§! = 150 Pixel nach vorne"
    
    front_region_mapmode_tooltip: "SCORE: [?FROM.ai_airbase_slot_score] | Mult: [?FROM.ai_airbase_slot_score_mult] | Entfernung: [?FROM.distance_to_front]\n[GetRegionDeployedPlanes] | Kapazität: [?air_capacity] | Verhältnis: [?ratio|%] "
     

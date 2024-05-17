@@ -10,7 +10,7 @@
  amnesty:0 "Allgemeine Amnestie"
  amnesty_desc:0 "Einer der wichtigsten Aspekte unseres Programms ist die Amnestie für die Gefangenen der Revolution von 1934. Sie mag nicht die beste sein, aber sie wird uns die Unterstützung der PSOE sichern."
  SPR_republican_struggle:0 "Republikanischer Machtkampf"
- SPR_republican_struggle_desc:0 "Unsere Armee ist zwischen Anarchisten und Kommunisten gespalten, mit einer kleinen liberalen Fraktion. Wir müssen uns in diesem Szenario vorsichtig bewegen, wenn wir eine Bedrohung für die Rebellen darstellen wollen.\n§0Wenn eine der Fraktionen 100 Unterstützer erreicht, wird sie die Macht ergreifen!§! \n\n§Rkommunistischer Einfluss in der Armee: [?Root.com_inf]§!\n§RAnarchistischer Einfluss in der Armee: [?Root.ana_inf]§!\n§RLiberaler Einfluss in der Armee: [?Root.lib_inf]§!"
+ SPR_republican_struggle_desc:0 "Unsere Armee ist zwischen Anarchisten und Kommunisten gespalten, mit einer kleinen liberalen Fraktion. Wir müssen uns in diesem Szenario vorsichtig bewegen, wenn wir eine Bedrohung für die Rebellen darstellen wollen.\n§YWenn eine der Fraktionen 100 Unterstützer erreicht, wird sie die Macht ergreifen!§! \n\n§Rkommunistischer Einfluss in der Armee: [?Root.com_inf]§!\n§RAnarchistischer Einfluss in der Armee: [?Root.ana_inf]§!\n§RLiberaler Einfluss in der Armee: [?Root.lib_inf]§!"
  expand_quinto:0 "Quinto Regimiento ausbauen"
  expand_quinto_desc:0 "Das kommunistische fünfte Regiment ( Quinto Regimiento ) ist eine der besten Einheiten, die uns zur Verfügung stehen. Wir sollten es ausbauen!"
  distribute_sov:0 "Verteilen Sie sowjetische Waffen"
