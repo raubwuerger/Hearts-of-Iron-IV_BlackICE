@@ -35,10 +35,10 @@
  FOCUS_OWNED_NEEDED: "Der Erwerb einer §Yeigenen§! Region hat Vorrang vor §Y[This.GetName]§!"
  FOCUS_HOME_AREA_NEEDED: "Der Erwerb eines §YHeimgebiet§! hat Vorrang vor §Y[This.GetName]§!"
  
- FOCUS_DOCKYARD_COASTAL_NEEDED: "Beim Erwerb einer §YKüstenregion§! wird dieser Fokus §Y[?add] $dockyard$§ hinzufügen!"
- FOCUS_ARMS_FACTORY_STATE_NEEDED: "Erwerbe eine §YRegion§!, um diesen Fokus zu haben, füge §Y[?add] $arms_factory$§ hinzu!"
- FOCUS_INDUSTRIAL_COMPLEX_STATE_NEEDED: "Beim Erwerb einer §YRegion§! wird dieser Fokus §Y[?add] $industrial_complex$§ hinzufügen!"
- FOCUS_INFRASTRUCTURE_STATE_NEEDED: "Beim Erwerb einer §YRegion§! wird dieser Fokus §Y[?add] $infrastructure$§ hinzufügen!"
+ FOCUS_DOCKYARD_COASTAL_NEEDED: "Beim Erwerb einer §YKüstenregion§! wird dieser Fokus §Y[?add] $dockyard$§ hinzufügen§!"
+ FOCUS_ARMS_FACTORY_STATE_NEEDED: "Erwerbe eine §YRegion§!, um diesen Fokus zu haben, füge §Y[?add] $arms_factory$§ hinzu§!"
+ FOCUS_INDUSTRIAL_COMPLEX_STATE_NEEDED: "Beim Erwerb einer §YRegion§! wird dieser Fokus §Y[?add] $industrial_complex$ hinzufügen§!"
+ FOCUS_INFRASTRUCTURE_STATE_NEEDED: "Beim Erwerb einer §YRegion§! wird dieser Fokus §Y[?add] $infrastructure$ hinzufügen§!"
  
- FOCUS_BUILDING_STATE_NEEDED: "Beim Erwerb einer §YRegion§! wird dieser Fokus §Y[?add] [?building.GetTokenLocalizedKey]§ hinzufügen!"
- FOCUS_BUILDING_COASTAL_NEEDED: "Beim Erwerb einer §YKüstenregion§! wird dieser Fokus §Y[?add] [?building.GetTokenLocalizedKey]§ hinzufügen!"
+ FOCUS_BUILDING_STATE_NEEDED: "Beim Erwerb einer §YRegion§! wird dieser Fokus §Y[?add] [?building.GetTokenLocalizedKey] hinzufügen§!"
+ FOCUS_BUILDING_COASTAL_NEEDED: "Beim Erwerb einer §YKüstenregion§! wird dieser Fokus §Y[?add] [?building.GetTokenLocalizedKey] hinzufügen§!"
