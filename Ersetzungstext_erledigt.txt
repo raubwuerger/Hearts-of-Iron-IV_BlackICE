@@ -116,3 +116,4 @@ Armor
 Tank
 nicht zum Kernland Mannschaften 			-> Freiwillige
 [Car]					-> [Kw]
+Spearhead				-> Stoßkeil
