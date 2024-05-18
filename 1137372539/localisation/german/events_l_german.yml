@@ -3717,7 +3717,7 @@
  ### NEWS SS events ### ""
  news_ss.1.t:0 "Wach-Bataillon 'LSSAH'"
  news_ss.1.desc:0 "Die Leibstandarte SS Adolf Hitler (LSSAH) wurde im September 1933 als persönliche Leibwächterformation Adolf Hitlers gegründet. Im November 1933 erhielt sie den Titel Leibstandarte Adolf Hitler (LAH). Am 13. April 1934 wurde das Regiment auf Befehl Himmlers in Leibstandarte SS Adolf Hitler (LSSAH) umbenannt. Im Jahr 1939 wurde die LSSAH eine eigenständige Einheit der Waffen-SS neben der SS-TV und der SS-VT.\n\nIn Recruit & Deploy können Sie §BWachbataillon 'LSSAH'§! wählen."
- news_ss.1.a:0 "Verfügbar für Deployment"
+ news_ss.1.a:0 "Verfügbar für Aufstellung"
  news_ss.2.t:0 "Totenkopf Standarte 1-2-3"
  news_ss.2.desc:0 "Die Totenkopf Standarte 1-2-3 waren die ersten SS-Wacheinheiten, die das erste Gefängnissystem in Nazi-Deutschland betrieben. Nach 1934 wurde Eicke zum Kommandeur der SS-Totenkopfverbände (SS-TV) ernannt, der SS-Formation, die für den Betrieb der Gefängnisse unter der Aufsicht der SS und Himmlers verantwortlich war. Die SS-TV, die als "Totenkopfverbände" bekannt war, bestand zunächst aus mehreren Bataillonen, die jeweils in einem der großen deutschen Gefängnisse stationiert waren.\n\n In Recruit & Deploy können Sie §BSS-Totenkopfverbände§! wählen."
  news_ss.3.t:0 "SS-Standarte 'GERMANIA' und 'DEUTSCHLAND'"

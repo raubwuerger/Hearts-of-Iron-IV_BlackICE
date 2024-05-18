@@ -351,7 +351,7 @@ japanese_medium_cs_tank_equipment_1_desc:0 "Einheitstyp: Mittlerer Unterstützun
 JAP_japanese_medium_cs_tank_equipment_2:0 "Typ 97 Chi-Ha (120 mm)"
 japanese_medium_cs_tank_equipment_2:0 "Mittlerer Unterstützungspanzer"
 japanese_medium_cs_tank_equipment_2_short:0 "Typ 97 Shinhoto Chi-Ha (120 mm)"
-japanese_medium_cs_tank_equipment_2_desc:0 "Einheitstyp: Der Short Barrel 120 mm Tank war eine Variante des Typ 97 Shinhoto Chi-Ha, die gegen Ende des Krieges für die Kaiserlich Japanische Marine produziert wurde. Man wollte einen Kanonenpanzer ähnlich dem Typ 2 Ho-I zur Nahunterstützung, aber mit größerer Feuerkraft. Die standardmäßige 47-mm-Hauptpanzerwurde durch eine kurzläufige 12-cm-(120-mm-)zur U-Boot-Bekämpfung ersetzt und mit einer Mündungsbremse versehen. Außerdem wurde an der Rückseite des Shinhoto Chi-Ha-Turms ein kleines Staufach angebracht. Es wurden nur etwa ein Dutzend Exemplare für den Einsatz bei den japanischen Spezialeinheiten der Marine hergestellt."
+japanese_medium_cs_tank_equipment_2_desc:0 "Einheitstyp: Der Kurzrohr 120 mm Panzer war eine Variante des Typ 97 Shinhoto Chi-Ha, die gegen Ende des Krieges für die Kaiserlich Japanische Marine produziert wurde. Man wollte einen Kanonenpanzer ähnlich dem Typ 2 Ho-I zur Nahunterstützung, aber mit größerer Feuerkraft. Die standardmäßige 47-mm-Hauptpanzerwurde durch eine kurzläufige 12-cm-(120-mm-)zur U-Boot-Bekämpfung ersetzt und mit einer Mündungsbremse versehen. Außerdem wurde an der Rückseite des Shinhoto Chi-Ha-Turms ein kleines Staufach angebracht. Es wurden nur etwa ein Dutzend Exemplare für den Einsatz bei den japanischen Spezialeinheiten der Marine hergestellt."
 
 #### archetype description ### ""
 japanese_light_tank_equipment:0 "Leichte Panzer"

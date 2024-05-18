@@ -135,7 +135,7 @@ l_german:
  COMBAT_LAST_LESS_THAN_DAY:0 "Wir schätzen, dass der Kampf weniger als einen Tag dauern wird."
  COMBAT_UNDECIDED:0 "§YDas Ergebnis ist derzeit noch offen§!"
  UNIT_COMBAT_WIDTH:0 "Kampfbreite"
- COMBAT_SIDE_SUMMARY:0 "$MANPOWER|*1Y$ Manpower, $VEHICLES|Y$ Fahrzeuge, $ARTILLERY|Y$ Artillerie"
+ COMBAT_SIDE_SUMMARY:0 "$MANPOWER|*1Y$ Soldaten, $VEHICLES|Y$ Fahrzeuge, $ARTILLERY|Y$ Artillerie"
  COMBAT_RESERVES:1 "Reserven sind Divisionen, die noch nicht am Kampf teilnehmen konnten.\n\nWenn die Kampfbreite ausreicht, wird jede Kampfstunde eine einzelne Division aus den Reserven ausgewählt, um zu versuchen, sich anzuschließen.\n\ nDivisionen mit vergleichsweise hoher Verstärkungsquote in den Reserven werden eher ausgewählt."
  BATTLE_REINFORCE_CHANCE2:1 "Chance, die Frontlinie zu verstärken, wenn ausgewählt: $VALUE|2G%$\n"
  COMREIC_NOT_FIGHT:0 "Nicht in der Verfassung, um zu kämpfen."

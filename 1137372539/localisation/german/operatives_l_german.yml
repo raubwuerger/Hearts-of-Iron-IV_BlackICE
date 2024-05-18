@@ -387,7 +387,7 @@
  CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_DESC:1 "$COUNTRY|H$ hat unsere Chiffren entschlüsselt und damit begonnen, die aus dem Lesen unserer Nachrichten gewonnenen Informationen den Feldkommandeuren zur Verfügung zu stellen. Sie werden für $NUMDAYS|H$ Tage verschiedene Kampfboni gegen uns erhalten."
  CRYPTO_DELETE_DECRYPTION:0 "§0Entschlüsselung löschen§!"
  CRYPTO_DELETE_TITLE:0 "Entschlüsselung löschen"
- CRYPTO_DELETE_DESC:1 "Sind Sie sicher, dass Sie §RDelete§! den Entschlüsselungsfortschritt gegen $COUNTRY|H$ löschen wollen?"
+ CRYPTO_DELETE_DESC:1 "Sind Sie sicher, dass Sie den Entschlüsselungsfortschritt gegen $COUNTRY|H$ §Rverfallen lassen§! wollen?"
  CRYPTO_ACTIVATE_TITLE:0 "Entschlüsselung aktivieren"
  CRYPTO_ACTIVATE_DESC:0 "Sind Sie sicher, dass Sie Ihre aktiven Entschlüsselungsboni gegen $COUNTRY|H$ §Haktivieren§! wollen? Sie werden benachrichtigt, dass wir ihre Chiffren entschlüsselt haben und werden sie ändern, wodurch die aktiven Boni beendet werden."
  DECRPYPTION_BONUSES_AIR_TOOLTIP:0 "§HGebrochene feindliche Chiffren§!\n\nSie erhalten folgende Boni gegen $COUNTRIES|H$:"

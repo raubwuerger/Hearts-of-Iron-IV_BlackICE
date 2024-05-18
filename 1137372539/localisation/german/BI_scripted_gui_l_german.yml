@@ -1011,10 +1011,10 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  HTD_UI_OPEN_TOOLTIP:0 "[ProductionTT5]"
  HTD_YEAR_TOOLTIP: "[?v]"
   
- SPECIAL_FACTORY_OPEN_TT:0 " §YKlick§! um Informationen für §YEquipment Factories§! anzuzeigen."
+ SPECIAL_FACTORY_OPEN_TT:0 " §YKlick§! um Informationen für §YAusrüstungsfabriken§! anzuzeigen."
  GARRISON_NEED_TOOLTIP:0 "[?required_garrison_factor|%1]"
  INDUSTRY_OPEN_TT:0 "§YKlick§! um Informationen zu §YWaffenproduktion§! anzuzeigen."
- EQUIPMENT_INTRO_OPEN_TT:0 "§YKlick§! um die §YEquipment-Einführung§! anzusehen! Fenster"
+ EQUIPMENT_INTRO_OPEN_TT:0 "§YKlick§! um die §YAusrüstungseinführung§! anzusehen! Fenster"
  HSD_UI_OPEN_TT:0 "§YKlick§! um §YHistorische Schiffsentwürfe§! anzusehen!"
  HTD_UI_OPEN_TT:0 "§YKlick§! um §YHistorische Panzerdesigns§! anzusehen!"
   
@@ -2498,24 +2498,24 @@ RUBBER_OUTPUT_TEXT_TT: "Die §OGesamtmenge§! an £resources_strip|3 §YGummi§!
 
 
  role_infantry_title: "Infanteriedivision"
- role_assault_infantry_title: "Angriffs-Infanteriedivision"
- role_garrison_title: "Garnisonsdivision"
+ role_assault_infantry_title: "Angriffsinfanteriedivision"
+ role_garrison_title: "Garnison"
  Role_light_infantry_title: "Leichte Infanteriedivision"
  role_heavy_infantry_title: "Schwere Infanteriedivision"
  role_cavalry_title: "Kavalleriedivision"
  role_motorized_title: "Motorisierte Division"
- Role_light_armor_title: "Leichte Rüstungsdivision"
- Role_light_armor_alt_title: "Leichte Rüstungsdivision (alt)"
- Role_medium_armor_title: "Mittlere Rüstungsdivision"
- Role_medium_armor_alt_title: "Mittlere Rüstungsdivision (alt)"
- role_heavy_armor_title: "Schwerpanzerdivision"
+ Role_light_armor_title: "Leichte Panzerdivision"
+ Role_light_armor_alt_title: "Leichte Panzerdivision (alt)"
+ Role_medium_armor_title: "Mittlere Panzerdivision"
+ Role_medium_armor_alt_title: "Mittlere Panzerdivision (alt)"
+ role_heavy_armor_title: "Schwere Panzerdivision"
  Role_heavy_armor_alt_title: "Schwere Panzerdivision (alt)"
- role_marines_title: "Marine-Division"
- Role_mountaineers_title: "Mountaineers Division"
+ role_marines_title: "Marinedivision"
+ Role_mountaineers_title: "Gebirgsjägerdivision"
  role_militia_title: "Milizdivision"
  
  
- role_infantry: "Infanterie"
+ role_infantry: "infantry"
  Role_assault_infantry: "assault_infantry"
  role_garrison: "Garnison"
  Role_light_infantry: "light_infantry"
@@ -2534,10 +2534,10 @@ RUBBER_OUTPUT_TEXT_TT: "Die §OGesamtmenge§! an £resources_strip|3 §YGummi§!
 
  ## KI-Entscheidungen
  ai_GER_help_in_the_east: "Hilfe im Osten anfordern"
- GER_open_help_in_the_east: "Offen §YHilfe im Osten anfordern§!"
+ GER_open_help_in_the_east: "Öffnen §YHilfe im Osten anfordern§!"
  GER_close_help_in_the_east: "Schließen §YHilfe im Osten anfordern§!"
  GER_request_help_in_the_east: "Bitte um Hilfe von [From.GetName]"
- GER_cancel_help_in_the_east: "§OAbbruch§! Hilfe von [From.GetName]"
+ GER_cancel_help_in_the_east: "§OStornieren§! Sie die Hilfe von [From.GetName]"
  
  GER_request_help_in_the_east_tt: "§Y[From.GetNameDef]§! wird Divisionen schicken, um uns bei unserer Offensive gegen [SOV.GetName] zu unterstützen."
  GER_cancel_help_in_the_east_tt: "§Y[From.GetNameDef]§! wird ihre Einheiten zurückrufen"
@@ -2609,7 +2609,7 @@ RUBBER_OUTPUT_TEXT_TT: "Die §OGesamtmenge§! an £resources_strip|3 §YGummi§!
  
  phase_block_desc: "[GetTag] [dirty] Test"
  
- manpower_disband_TT: "§OEinheitenaufrüstung§!: Wenn dieses Upgrade aktiviert wird, wird die aktuelle Einheit (falls vorhanden) aufgelöst und ihre Soldaten in den Pool zurückgeführt. Anschließend wird eine neue, verbesserte Einheit erstellt, welche die verfügbaren Soldaten wieder nutzt. Die Netto-Manpower Das Ergebnis wird von den Unterschieden zwischen der Personalstärke beider Einheiten abhängen.
+ manpower_disband_TT: "§OEinheitenaufrüstung§!: Wenn dieses Upgrade aktiviert wird, wird die aktuelle Einheit (falls vorhanden) aufgelöst und ihre Soldaten in den Pool zurückgeführt. Anschließend wird eine neue, aufgerüstete Einheit gebildet, die die verfügbaren Soldaten nutzt. Die benötigte Mannstärken hängt von den Unterschieden zwischen den Mannstärken beider Einheiten ab.
 
  OUTCOME_DETERMINED_TT: "\nDas Ergebnis für Folgendes wird bestimmt, sobald wir diese Entscheidung getroffen haben, aber der Effekt wird gewährt, wenn die Entscheidungen entfernt werden."
 

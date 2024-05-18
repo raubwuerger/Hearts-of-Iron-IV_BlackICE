@@ -323,7 +323,7 @@
  LEND_LEASE_DETAILS_NEXT_DELIVERY_DATE:0 "\nNächste Lieferung erwartet in $DAY|Y$ Tagen."
  LEND_LEASE_DETAILS_NEXT_DELIVERY_ASAP:0 "\nNächste Lieferung erwartet in §Yany time§!."
  LEND_LEASE_DETAILS_EQUIPMENT_SUNK:0 "\nAusrüstung versenkt seit $DATE|Y$:"
- LEND_LEASE_VEHICLES_BUTTON:0 "§TLend lease Armored Vehicles§!"
+ LEND_LEASE_VEHICLES_BUTTON:0 "§TLeih und Pacht gepanzerte Fahrzeuge§!"
  LEND_LEASE_VEHICLES_BUTTON_DISABLED:0 "§TWir produzieren keine gepanzerten Fahrzeuge und haben auch keine auf Lager§!"
  INCOMING_LEND_LEASE_VEHICLES_BUTTON_DISABLED:0 "§TUns ist keine Ausrüstung für gepanzerte Fahrzeuge bekannt, die für den Export verfügbar wäre§!"
  LEND_LEASE_INFANTRY_BUTTON:0 "§TLeasen Sie Infanterie- und Artillerieausrüstung§!"

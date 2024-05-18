@@ -9,27 +9,3 @@ LKW Werkstatt			-> Kleine Mototorenmontageanlage
 Panzer Werkstatt		-> Kleine Panzermontagehalle
 Artiller Werkstatt		-> Kleine Artilleriegießerei
 Kampfflugzeug Werkstatt	-> Kleine Flugzeugmontageanlagen
-
-nicht zum Kernland Mannschaften 			-> Freiwillige
-
-Guards
-
-Research Slot 			->	Forschungsplatz
-Radio Equipment			->	Funkausrüstung
-Easy					->	Leicht
-
-
-damaged					-> beschädigt
-Green					-> grün
-Black					-> 
-Red						->	Rot
-required
-Railway Connection
-Equipment Captured§
-Manpower
-In Combat
-By Attrition			-> Durch Abnutzung
-Equipment
-days
-Combat
-Disengage				-> Abrücken

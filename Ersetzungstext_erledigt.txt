@@ -75,3 +75,44 @@ ruhendem Spionagenetzwerk
 Spionagenetzwerkstärke
 Geheimdienstinformationen
 Pseudespionageeinheiten
+Disengage				-> Abrücken
+Plains
+Forest
+Jungle
+Hills
+Mountain
+Desert
+Marsh
+River
+Urban
+Fortifications
+Rüstungsdi
+damaged					-> beschädigt
+Green					-> grün
+Black					-> 
+Red						->	Rot
+required
+Railway Connection
+Equipment Captured§
+Disruption
+Delete
+Manpower
+By Attrition			-> Durch Abnutzung
+Combat
+River Connection		-> 
+Unable
+days
+Move Capital Hub here	-> 
+Naval Invasion
+Research Slot 			->	Forschungsplatz
+Radio Equipment			->	Funkausrüstung
+Easy					->	Leicht
+
+Deployment
+Washington Naval Treaty	-> Washingtoner Flottenvertrag
+Air Base				-> Luftwaffenstützpunkt[Arm]
+[Arm]
+Armor
+Tank
+nicht zum Kernland Mannschaften 			-> Freiwillige
+[Car]					-> [Kw]
