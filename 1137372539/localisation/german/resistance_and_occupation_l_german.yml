@@ -49,7 +49,7 @@
  RECRUITABLE_POPULATION_ENTRY:0 "Aufgrund der folgenden Modifikatoren um $VALUE|+%0$ angepasst:"
 
  RESISTANCE_TARGET_FLOW:0 "£political_violence_texticon Widerstandsausbreitung von $STATE|H$: $FLOW|-%1$"
- RESISTANCE_DISABLED_INFO:1 "Der Widerstand wird derzeit erfolgreich unterdrückt und kann nicht weiter wachsen, bis §HResistance Target§! das $LIMIT|%0H$ erreicht"
+ RESISTANCE_DISABLED_INFO:1 "Der Widerstand wird derzeit erfolgreich unterdrückt und kann nicht weiter wachsen, bis §HWiderstandsziel§! das $LIMIT|%0H$ erreicht"
 
  OCCUPATION_POLICY_AVAILABLE:0 "Verfügbar:"
  OCCUPATION_POLICY_STATE_MODIFIER:0 "Zustandsmodifikator:"
@@ -148,7 +148,7 @@
  GARRISON_LOG_ACTIVITY_SUCCES:0 "Aktivität nicht gestoppt: $ACTIVITY|R$"
 
  OCCUPATION_CHANGE_DEFAULT_LAW_TOOLTIP:0 "Standard-Garrison-Gesetz ändern"
- OCCUPATION_RESISTANCE_TAB_TOOLTIP:0 "Zeige §HResistance§! auf der Karte."
+ OCCUPATION_RESISTANCE_TAB_TOOLTIP:0 "Zeige §HWiderstand§! auf der Karte."
  OCCUPATION_COMPLIANCE_TAB_TOOLTIP:0 "Zeige §HZustimmung§! auf der Karte."
  OCCUPATION_ZOOM_TO_STATE_TOOLTIP:0 "§GKlick§! zum Zoomen auf besetzte(n) Staat(en)"
 

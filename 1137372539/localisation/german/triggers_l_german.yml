@@ -642,7 +642,7 @@
  TRIGGER_CORE_RESISTANCE:0 "Durchschnittlicher Widerstand in §H$OCCUPPIED$§!"
  TRIGGER_CORE_COMPLIANCE:0 "Durchschnittliche Einhaltung in §H$OCCUPPIED$§!"
  TRIGGER_HAS_RESISTANCE:0 "Hat Widerstand"
- TRIGGER_HAS_NOT_RESISTANCE:0 "Hat keine Resistenz"
+ TRIGGER_HAS_NOT_RESISTANCE:0 "Hat keinen Widerstand"
  TRIGGER_HAS_ACTIVE_RESISTANCE:0 "Hat aktiven Widerstand"
  TRIGGER_HAS_NOT_ACTIVE_RESISTANCE:0 "Hat keinen aktiven Widerstand"
  TRIGGER_HAS_WAR_OCCUPIED_TAG_IS:0 "Besetztes Land ist @$TAG$$COUNTRY|H$"

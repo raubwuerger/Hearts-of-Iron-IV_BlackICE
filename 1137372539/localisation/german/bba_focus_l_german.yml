@@ -610,7 +610,7 @@
  ETH_cooperation_sud_tt:0 "Gewinnen Sie einen sudanesischen politischen Berater:\n§Y$economic_organizer$:§! \n Konsumgüterfabriken: §G-5%§!\n Stabilität: §G+5%§!"
  ETH_cooperation_som_tt:0 "Gewinnen Sie einen somalischen politischen Berater:\n§Y$economic_organizer$:§! \n Konsumgüterfabriken: §G-5%§!\n Stabilität: §G+5%§!"
 
- ETH_cooperation_gugsa_tt:0 "§Y$ETH_domenico_mondelli$§! wird als §YChief of Airforce§! verfügbar: \n§Y$air_chief_ground_support_1$§!"
+ ETH_cooperation_gugsa_tt:0 "§Y$ETH_domenico_mondelli$§! wird als §YOberbefehlshabers der Luftwaffe§! verfügbar: \n§Y$air_chief_ground_support_1$§!"
  ETH_cooperation_gojjam:0 "Zusammenarbeit mit den Sudanesen"
  ETH_cooperation_jimma:0 "Zusammenarbeit mit den Arabern"
  ETH_cooperation_gugsa:0 "Zusammenarbeit mit den Eritreern"
@@ -641,8 +641,8 @@
  ETH_outsourced_production:0 "Ausgelagerte Produktion"
  ETH_outsourced_production_desc:0 "Unsere Industrie ist nach wie vor klein und unerfahren, wenn es um die Herstellung von Kriegswerkzeugen geht. Da wir nun aber fest im Einflussbereich von [ITA.GetAdjective] sind, können wir das Beste aus der Situation machen, indem wir unsere Produktionsbedürfnisse auslagern und das Fachwissen der dortigen Waffenhersteller nutzen."
  ETH_outsourced_production_tt:0 "Fordern Sie [ITA.GetFlag]§Y[ITA.GetAdjective]§! die Designer der Armee oder der Luftwaffe an:"
- ETH_outsourced_production_air_tt:0 "Luftwaffen-Designer:"
- ETH_outsourced_production_army_tt:0 "\nArmy Designers:"
+ ETH_outsourced_production_air_tt:0 "Luftwaffendesigner:"
+ ETH_outsourced_production_army_tt:0 "\nArmeedesigners:"
  ETH_outsourced_production_factories_tt:1 "\n Wenn [ITA.GetFlag]§Y[ITA.GetNameDef]§! zustimmt, erhält [ETH.GetFlag]§Y[ETH.GetNameDef]§! den §Y4 Militärfabriken§!."
  ETH_together_for_victory:0 "Gemeinsam für den Sieg"
 

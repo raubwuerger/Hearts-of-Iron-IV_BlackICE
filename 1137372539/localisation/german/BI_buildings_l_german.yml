@@ -23,8 +23,8 @@
 
  storage: "Ressourcenspeicher"
  storage_plural: "Ressourcenspeicher"
- storage_desc: "Dieses Gebäude bietet dem Staat die Möglichkeit, §YRessourcen§! zu speichern. Nach seiner Errichtung kann es einer §Y1§!-spezifischen Ressource zugewiesen werden.$storage_effect$"
- storage_effect: "\n\nMax. Stufe: §Y1§!\nGebäudezustand: §Y1§!\nInfrastruktureffekt: §GJa§!\n\nLagerkapazität: §Y+50§! Einheiten von §YImport§!"
+ storage_desc: "Dieses Gebäude bietet dem Staat die Möglichkeit, §YRessourcen§! zu speichern. Nach seiner Errichtung kann es §Yeiner§! spezifischen Ressource zugewiesen werden.$storage_effect$"
+ storage_effect: "\n\nMax. Stufe: §Y1§!\nGebäudezustand: §Y1§!\nInfrastruktureffekt: §GJa§!\n\nLagerkapazität: §Y+50§! Einheiten aus §YÜberproduktion§!"
 
  farm:0 "Industrieller Bauernhof"
  farm_plural:0 "Industriebetriebe"
@@ -34,7 +34,7 @@
  food_storage: "Lebensmittellagerung"
  food_storage_plural: "Lebensmittellager"
  food_storage_desc: "Dieses Gebäude bietet dem Staat die Möglichkeit, §YLebensmittel§! zu lagern.$food_storage_effect$"
- food_storage_effect: "\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y1§!\nInfrastruktureffekt: §GJa§!\n\nLagerkapazität (K): §Y+300,00§!"
+ food_storage_effect: "\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y1§!\nInfrastruktureffekt: §GJa§!\n\nLagerkapazität: §Y+300,00§!"
  
  power_plant: "Kraftwerk"
  power_plant_plural: "Kraftwerke"

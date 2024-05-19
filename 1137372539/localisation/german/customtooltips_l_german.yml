@@ -80,12 +80,12 @@
   
  #GER Leichte Divisions
  GER_1_L_DIV_tt:0 "Bilden Sie die Einheit:\n§Y1. Leichte Division in Wuppertal§!"
- GER_1_L_Div_Pz35_tt: "Neuausrüsten der Einheit: §Y1. Leichte Divsion§!.\n§Ändern Sie die Divisionsvorlage auf:§! §CL-Div 1 Pz35t§!\n\n§RHinweiß!§!\nNachdem die Vorlage geändert wurde, können Sie die nicht verwendete Vorlage §YLDiv 1§!\n löschen."
+ GER_1_L_Div_Pz35_tt: "Neuausrüsten der Einheit: §Y1. Leichte Divsion§!.\n§RÄndern Sie die Divisionsvorlage auf:§! §CL-Div 1 Pz35t§!\n\n§RHinweiß!§!\nNachdem die Vorlage geändert wurde, können Sie die nicht verwendete Vorlage §YLDiv 1§!\n löschen."
  GER_1_L_DIV_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 1. Leichte Division§!\n"
   
  GER_2_L_DIV_tt:0 "Bilden Sie die Einheit:\n§Y2. Leichte Division in Gera§!\n"
  GER_2_L_DIV_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 2. Leichte Division§!\n"
- GER_2_LDIV_Pz38_tt: "Neuausrüsten der Einheit: §Y2. Leichte Divsion§!.\n§RÄndern der Divisionsvorlage zu:§! §CL-Div 2 Pz38t§!\n\n§RHinweiß!§!\nNachdem die Vorlage geändert wurde, können Sie die nicht verwendete Vorlage löschen §YLDiv 2§!\n." "Bilden Sie die Einheit:\n§Y3. Leichte Division in Cottbus§!\n"
+ GER_2_LDIV_Pz38_tt: "Neuausrüsten der Einheit: §Y2. Leichte Divsion§!.\n§RÄndern der Divisionsvorlage zu:§! §CL-Div 2 Pz38t§!\n\n§RHinweiß!§!\nNachdem die Vorlage geändert wurde, können Sie die nicht verwendete Vorlage löschen §YLDiv 2§!\n." "\nFormieren Sie die Einheit:\n§Y3. Leichte Division in Cottbus§!\n"
   
  GER_3_L_DIV_tt:0 "Bilden Sie die Einheit:\n§Y3. Leichte Division in Cottbus§!\n"
  GER_3_L_DIV_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 3. Leichte Division§!\n"

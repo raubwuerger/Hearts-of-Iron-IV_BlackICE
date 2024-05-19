@@ -276,7 +276,7 @@
  EFFECT_ENABLE_ALL_TEMPLATE_EDITING:1 "Aktivieren Sie die Bearbeitung aller Vorlagen dieses Landes und die Ausbildung oder Auflösung von Einheiten, die zu diesem Land gehören."
  EFFECT_DELETE_UNIT_TEMPLATE_AND_UNITS:1 "Lösche $NAME|H$-Vorlage und entferne alle Einheiten, die mit dieser Vorlage erstellt wurden."
  EFFECT_DISBAND_UNIT_TEMPLATE_AND_UNITS:1 "Lösche $NAME|H$-Vorlage und löse alle Einheiten auf, die mit dieser Vorlage erstellt wurden."
- EFFECT_SET_TEMPLATE_DIVISION_CAP:0 "Setzt das Template-Cap von $NAME|H$ auf $CAP|H$."
+ EFFECT_SET_TEMPLATE_DIVISION_CAP:0 "Setzt die Vorlagenobergrenze von $NAME|H$ auf $CAP|H$."
  EFFECT_CLEAR_TEMPLATE_DIVISION_CAP:0 "Löscht die Schablonenobergrenze von $NAME|H$."
  EFFECT_SET_TEMPLATE_FORCE_ALLOW_RECRUITING:0 "Setzt die Vorlage force-allow-recruiting von $NAME|H$ auf $ALLOW|H$."
  EFFECT_DELETE_UNITS:1 "Entfernt alle Einheiten, die mit der Vorlage $NAME|H$ erstellt wurden."

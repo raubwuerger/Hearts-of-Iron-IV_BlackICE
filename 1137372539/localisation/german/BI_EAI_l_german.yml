@@ -328,7 +328,7 @@
  EAI_config_ARMY_L2b_text:0 "Ausgewogen"
  EAI_config_ARMY_L2c_text:0 "Offense"
 
- EAI_config_ARMY_L2b_tt:0 "§LDies bestimmt die Template-Breite der Frontinfanterie dieses Landes sowie der meisten anderen Divisionstypen außer Panzern.§!"
+ EAI_config_ARMY_L2b_tt:0 "§LDies bestimmt die Vorlagenbreite der Frontinfanterie dieses Landes sowie der meisten anderen Divisionstypen außer Panzern.§!"
  EAI_config_ARMY_L2b_dropdown_text:0 "[EAI_GetInfantryWidth]"
  EAI_config_ARMY_L2b-_text:0 "-"
  EAI_config_ARMY_L2ba_text:0 "20 Breite"
