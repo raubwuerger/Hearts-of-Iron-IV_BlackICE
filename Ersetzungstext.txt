@@ -9,3 +9,7 @@ LKW Werkstatt			-> Kleine Mototorenmontageanlage
 Panzer Werkstatt		-> Kleine Panzermontagehalle
 Artiller Werkstatt		-> Kleine Artilleriegießerei
 Kampfflugzeug Werkstatt	-> Kleine Flugzeugmontageanlagen
+
+Right
+Left
+Click

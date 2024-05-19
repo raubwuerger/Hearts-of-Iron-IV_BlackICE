@@ -117,3 +117,11 @@ Tank
 nicht zum Kernland Mannschaften 			-> Freiwillige
 [Car]					-> [Kw]
 Spearhead				-> Stoßkeil
+Reliance
+Templates
+Lend-Leased
+Chief of Army
+Chief of Navy
+Core
+The General Who Did Not Resist
+Resistance

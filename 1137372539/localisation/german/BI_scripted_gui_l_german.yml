@@ -977,7 +977,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  TOKEN_NAVY_ICON:0 "£text_infiltrate_navy_token"
  TOKEN_RESISTANCE_ICON:0 "£text_contact_resistance_token"
  
- BI_DIVISION_DESIGNER_INFO_TT:0 "\nDivision Designer-Hilfe: \n\n – Die Kampfbreite beträgt 75, plus 25 bei jedem Angriff aus einer anderen Provinz.\n\n – Unterstützungsbataillone wirken sich auf die Geschwindigkeit aus, und für einige Unterstützungsbataillone sind unterschiedliche Motorisierungsversionen verfügbar.\n\n -Härte in Unterdrückungsvorlagen reduziert Verluste durch Widerstand"
+ BI_DIVISION_DESIGNER_INFO_TT:0 "\nDivisionsdesigner-Hilfe: \n\n – Die Kampfbreite beträgt 75, plus 25 bei jedem Angriff aus einer anderen Provinz.\n\n – Unterstützungsbataillone wirken sich auf die Geschwindigkeit aus, und für einige Unterstützungsbataillone sind unterschiedliche Motorisierungsversionen verfügbar.\n\n -Härte in Unterdrückungsvorlagen reduziert Verluste durch Widerstand"
  BI_EQUIPMENT_LIST_INFO_TT:0 "\nHilfe zur Ausrüstung: \n\n – Ausrüstungskonvertierungen werden in den Ausrüstungsbeschreibungen erwähnt und müssen veraltet sein, um konvertiert zu werden." ## EOF ##
 
  max_tank_factory_5:0 "Max §YPanzerfabrik:§! §G+5§!"
