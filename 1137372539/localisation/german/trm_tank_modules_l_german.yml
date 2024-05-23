@@ -1415,7 +1415,6 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
 
 
  # Rumpfkanonen
-
  trm_weapon_hull_mg_ger_mg13:0 "7,92mm MG 13"
  trm_weapon_hull_mg_ger_mg34:0 "7,92mm MG 34"
  

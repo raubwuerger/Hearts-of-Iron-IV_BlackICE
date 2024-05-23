@@ -13,3 +13,13 @@ Kampfflugzeug Werkstatt	-> Kleine Flugzeugmontageanlagen
 Right
 Left
 Click
+
+operative_seducer
+Understood
+Instandhaltungsunternehmen II
+Capital, Carrier
+
+Umlaufbahn			-> Fraktion, Allianz
+
+"Das Vereini König" hat sich "Die Republik Polen" als Feind im Deutsch-Polnischen Krieg  angeschlossen.
+"Das Vereini König" hat sich "Die Republik Polen" als Allierter im Krieg gegen Deutschland  angeschlossen.

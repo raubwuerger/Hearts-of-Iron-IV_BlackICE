@@ -2553,21 +2553,21 @@ RUBBER_OUTPUT_TEXT_TT: "Die §OGesamtmenge§! an £resources_strip|3 §YGummi§!
  
  ALERT_TOOLTIP_DELAYED: "[!alert_icon_click]"
  
- alarm_food_deficit: "§YLan Nahrungsmangel§!"
- alarm_food_deficit_desc: "\n§YAktuelle Strafen aufgrund von Nahrungsmangel:§!"
+ alert_food_deficit: "§YNahrungsmangel§!"
+ alert_food_deficit_desc: "\n§YAktuelle Strafen aufgrund von Nahrungsmangel:§!"
  
- alarm_energy_lack_capacity: "§YLan Kraftwerke§!"
- alarm_energy_lack_capacity_desc: "Wir haben nicht genügend Kapazität, um genügend §YEnergie§! für unseren aktuellen Bedarf zu produzieren. Bauen Sie zusätzliche §YKraftwerke§!, um das Problem zu lindern."
- alarm_energy_lack_capacity_need: "\nWir benötigen [?need|Y0] zusätzliche §YKraftwerke§!, um unseren aktuellen Bedarf zu decken."
- alarm_energy_lack_capacity_penalties: "\n§YAktuelle Strafen aufgrund von Energiemangel:§!"
+ alert_energy_lack_capacity: "§YStrommangel§!"
+ alert_energy_lack_capacity_desc: "Wir haben nicht die Kapazität, um genügend §YStrom§! für unseren aktuellen Bedarf zu produzieren. Bauen Sie zusätzliche §YKraftwerke§!, um das Problem zu lindern."
+ alert_energy_lack_capacity_need: "\nWir benötigen [?need|Y0] zusätzliche §YKraftwerke§!, um unseren aktuellen Bedarf zu decken."
+ alert_energy_lack_capacity_penalties: "\n§YAktuelle Strafen aufgrund von Energiemangel:§!"
  
- alarm_energy_lack_resource: "§YLan Ressourcen für die Energieerzeugung§!"
- alarm_energy_lack_resource_desc: "Wir haben nicht genügend Ressourcen für unsere §YKraftwerke§!, um §YEnergie§! zu produzieren.\n\n"
- Alert_energy_lack_resource_coal: "£resources_strip|8 Erforderliche Kohle: [?energy_input@coal]/[?energy_input_real@coal]"
- Alert_energy_lack_resource_fuel: "£fuel_state|1 Erforderlicher Kraftstoff: 0/[?req|0]"
+ alert_energy_lack_resource: "§YRessourcenmangel für die Stromzeugung§!"
+ alert_energy_lack_resource_desc: "Wir haben nicht genügend Ressourcen für unsere §YKraftwerke§!, um §YEnergie§! zu produzieren.\n\n"
+ alert_energy_lack_resource_coal: "£resources_strip|8 Erforderliche Kohle: [?energy_input@coal]/[?energy_input_real@coal]"
+ alert_energy_lack_resource_fuel: "£fuel_state|1 Erforderlicher Kraftstoff: 0/[?req|0]"
  
- alarm_fuel_deficit: "§YLan Treibstoffmangel§!"
- alarm_fuel_deficit_desc: "\n§YAktuelle Strafen wegen Treibstoffmangel:§!"
+ alert_fuel_deficit: "§YTreibstoffmangel§!"
+ alert_fuel_deficit_desc: "\n§YAktuelle Strafen wegen Treibstoffmangel:§!"
  
  industrial_complex_tooltip: "§Y[?token:industrial_complex.GetTokenLocalizedKey]§!\n[!industrial_complex_click]"
  arms_factory_tooltip: "§Y[?token:arms_factory.GetTokenLocalizedKey]§!\n[!arms_factory_click]"

@@ -2448,7 +2448,7 @@
  air_purged_effect: "[!air_purged_click]"
  navy_purged_effect: "[!navy_purged_click]"
  
- initial_purge_on_war_tt: "Säuberung der §YRoten Armee§! und der §YRoten Luftwaffe§! werden zu §Raktive!§!"
+ initiate_purge_on_war_tt: "Säuberung der §YRoten Armee§! und der §YRoten Luftwaffe§! werden zu §Raktive!§!"
  dude_the_purges_get_even_worse: "Säuberung der §YRoten Armee§! wird noch schlimmer!"
 
  officers_ready_tt:0 "Durchschnittliche §Y$officers_purged$§! Modifikatoren höher als §Y-25%§! ([?temp|+%0])"
@@ -5352,7 +5352,7 @@ AST_UAP:5 "Fünf Jahre gute Regierung"
  AST_png_gold: "Luftbrücken aus Goldminen erweitern"
  AST_port_moresby: "Port Moresby entwickeln"
  AST_recover_rabaul: "Rabaul neu aufbauen"
- destroy_state: "Zerstörter Zustand"
+ destroyed_state: "Zerstörter Zustand"
  AST_CSIR_development:5 "£tech_mod CSIR-Entwicklung"
  AST_CSIR_development_desc:5 "Die Comonwealth Science and Industrial Research Agency hat hart daran gearbeitet, die australische Industrie ins 20. Jahrhundert zu bringen. Auch wenn wir zunächst hinterherhinkten, können wir Abhilfe schaffen, indem wir die Finanzierung weiter erhöhen. CSIR-Wissenschaftler sind sich sicher, dass sie immer mehr erreichen können." sofortige Ergebnisse."
  AST_return_to_duntroon:5 "£tech_mod Rückkehr nach Duntroon"

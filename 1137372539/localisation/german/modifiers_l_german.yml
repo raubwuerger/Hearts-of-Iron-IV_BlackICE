@@ -542,8 +542,8 @@
  MODIFIER_LAND_NIGHT_ATTACK_DESC:0 "Wie viel können wir Strafen in der Nacht ausgleichen?"
  MODIFIER_POCKET_PENALTY:0 "£pocket_texticon Einkreisungsstrafe"
  MODIFIER_POCKET_PENALTY_DESC:0 "Fähigkeit, auch dann noch zu funktionieren, wenn man umgeben ist."
- MODIFIER_NO_SUPPLY_GRACE:0 "£supply_grace_texticon Division Supplies"
- MODIFIER_NO_SUPPLY_GRACE_DESC:0 "Maximale Versorgungsstunden pro Stunde, die eine Abteilung lagern kann."
+ MODIFIER_NO_SUPPLY_GRACE:0 "£supply_grace_texticon Divisionsnachschub"
+ MODIFIER_NO_SUPPLY_GRACE_DESC:0 "Maximaler Nachschub in Stunden, den eine Abteilung speichern kann.."
  MODIFIER_UNDER_AIR_SUPERIORITY_BONUS:0 "£army_air_superiority_texticon Luftüberlegenheitsbonus"
  MODIFIER_UNDER_AIR_SUPERIORITY_BONUS_DESC:0 "Bodentruppen, die sich keine Sorgen um den Himmel machen müssen, kämpfen besser."
  MODIFIER_STAT_CARRIER_SORTIE_EFFICIENCY:0 "£sortie_efficiency_texticon Ausfalleffizienz"
@@ -1250,8 +1250,8 @@
  modifier_experience_gain_conscripts_combat_factor:0 "£experience_neutral_texticon Erfahrungsgewinn von Wehrpflichtigen im Kampf"
  modifier_experience_gain_irregulars_unit_combat_factor:0 "£experience_neutral_texticon Unregelmäßiger Erfahrungsgewinn im Kampf"
 
- carrier_experience_bonus_max:1 "Aus Carrier-Erfahrung"
- carrier_experience_malus_min:1 "Aus Carrier-Erfahrung"
+ carrier_experience_bonus_max:1 "Von Trägererfahrung"
+ carrier_experience_malus_min:1 "Von Trägererfahrung"
 
  MODIFIER_RESISTANCE_TARGET:0 "£political_violence_texticon  Widerstandsziel"
  MODIFIER_RESISTANCE_TARGET_ON_OUR_OCCUPIED_STATES:1 "£political_violence_texticon  Widerstandsziel in unseren vom Feind besetzten Staaten"

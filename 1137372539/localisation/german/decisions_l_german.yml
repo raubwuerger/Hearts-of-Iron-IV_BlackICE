@@ -371,11 +371,12 @@
  increase_trainer_production: "Steigerung der Produktion von Schulflugzeugen"
  increase_trainer_production_TT: "Ändert §Y$CW_air_plan_costs$§! von:\n$country_resource_cost_air_produktion$: §R+3§!\n$country_resource_cost_engine_produktion$: §R+2§!"
  decrease_trainer_production: "Reduzierung der Produktion von Schulflugzeugen"
- verringert_trainer_produktion_TT: "Ändert §Y$CW_air_plan_costs$§! um:\n$country_resource_cost_air_produktion$: §G-3§!\n$country_resource_cost_engine_produktion$: §G-2§!"
+ decrease_trainer_production_TT: "Ändert §Y$CW_air_plan_costs$§! um:\n$country_resource_cost_air_produktion$: §G-3§!\n$country_resource_cost_engine_produktion$: §G-2§!"
  TRAINER_PRODUCTION_CHANGE: "Ändert §YTraining Aircraft Production§! um $RIGHT|0+=$"
  send_fresh_pilots_TT: "Verfügbare Piloten für die Ausbildung: §G+1000§!"
  send_fresh_pilots: "Senden Sie Piloten zur Ausbildung im PLAN"
  CW_air_plan_costs: "Commonwealth Joint Air Training Costs" 
+
   JAP_pearl:0 "Operation KI"
   JAP_pearl_desc:0 "Die Amerikaner provozieren uns weiterhin, indem sie unseren Handel einschränken und unsere Gegner finanzieren. Jetzt hat unsere Intelligenz Informationen über eine Gelegenheit geliefert, das Biest anzugreifen, lasst uns einen Großangriff starten und ihnen die Macht der IJN zeigen"
   JAP_train_burma:0 "Ausbildung birmanischer Unabhängigkeitsguerillas"

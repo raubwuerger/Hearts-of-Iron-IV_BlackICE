@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
 	<paths>
-		<left>C:\Projects\HoI4-BlackICE_de\1137372539\localisation\german\keys</left>
-		<right>C:\Projects\HoI4-BlackICE_de\1137372539\localisation\english\keys</right>
+		<left>C:\Projects\Hearts-of-Iron-IV_BlackICE\1137372539\localisation\german\keys</left>
+		<right>C:\Projects\Hearts-of-Iron-IV_BlackICE\1137372539\localisation\english\keys</right>
 		<filter>*.*</filter>
 		<subfolders>0</subfolders>
 		<left-readonly>0</left-readonly>

@@ -2863,7 +2863,13 @@
  SWI_federal_assembly:0 "Bundesversammlung"
  SWI_max_leo_keller:1 "Max Leo Keller"
 
-GER_adolf_hitler_party: "£Faschismus Adolf Hitler"
+
+
+
+
+
+
+ GER_adolf_hitler_party: "£Faschismus Adolf Hitler"
  GER_adolf_hitler_party_alt: "£fascism_alt Adolf Hitler"
  GER_rudolf_hess_party: "£Faschismus Rudolf Hess"
  GER_rudolf_hess_party_alt: "£fascism_alt Rudolf Hess"

@@ -41,8 +41,8 @@
    ai_building_slot_score_tooltip: "[GetAIMapmodeTooltip]"
    ai_default_slot_score_tooltip: "ai_default_slot_score: [?FROM.ai_default_slot_score]"
    ai_airbase_slot_score_tooltips: "ai_airbase_slot_score: [?FROM.ai_airbase_slot_score] | Mult: [?FROM.ai_airbase_slot_score_mult] | Entfernung: [?FROM.distance_to_front] \n[GetRegionDeployedPlanes] | Kapazität: [?air_capacity] | Verhältnis: [?ratio|%] "
-   ai_resource_slot_slot_score_tooltip: "ai_resource_slot_score: [?FROM.ai_resource_slot_score]"
-   ai_radar_slot_slot_score_tooltip: "ai_radar_slot_score: [?FROM.ai_radar_slot_score]"
+   ai_resource_slot_score_tooltip: "ai_resource_slot_score: [?FROM.ai_resource_slot_score]"
+   ai_radar_slot_score_tooltip: "ai_radar_slot_score: [?FROM.ai_radar_slot_score]"
    ai_new_radar_slot_score_tooltip: "ai_new_radar_slot_score: [?FROM.ai_new_radar_slot_score]\n num_own_states: [?FROM.ai_new_radar_num_own_states]\n num_allied_states: [?FROM.ai_new_radar_num_allied_states]\n num_neutral_state s: [?FROM.ai_new_radar_num_neutral_state]\n num_enemy_states: [?FROM.ai_new_radar_num_enemy_states ]\n num_potential_enemy_states: [?FROM.ai_new_radar_num_potential_enemy_states]"
    
    ai_resource_built_tooltip: "Infra gebaut: [?FROM.ai_built@infrastructure] | Aktuell: [?FROM.building_level@infrastructure]"
