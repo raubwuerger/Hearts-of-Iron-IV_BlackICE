@@ -100,7 +100,7 @@
  CREATE_ARMY_GROUP_WITH_NO_UNIT_SELECTED_TOOLTIP:0 "§RWählen Sie Armeen aus, bevor Sie eine Heeresgruppe erstellen!§!"
  CREATE_GROUP_WITH_UNITS_SELECTED_TOOLTIP:1 "§GKlicken Sie, um eine neue Armee zu erstellen und ausgewählte Divisionen zuzuweisen§!"
  CREATE_ARMY_GROUP_WITH_UNITS_SELECTED_TOOLTIP:0 "§GKlicken Sie, um eine neue Heeresgruppe zu erstellen und ausgewählte Armeen zuzuweisen§!"
- SELECT_GROUP_TOOLTIP:0 "§GClick§! zum Auswählen"
+ SELECT_GROUP_TOOLTIP:0 "§GKlick§! zum Auswählen"
  ATTACH_AIRWING_TO_GROUP_TOOLTIP:0 "§GRechtsklick§!, um Airwings an die Armee anzuschließen"
  WING_CAN_NOT_ATTACH_ALREADY:0 "§RAAlle Luftgeschwader sind bereits an die Armee angeschlossen!§!"
  WING_CAN_NOT_ATTACH_ARMY_GROUP:0 "§RLuftflügel können nur an Armeen angebracht werden§!"

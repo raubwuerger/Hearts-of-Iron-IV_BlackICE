@@ -80,7 +80,7 @@
   CONSTRUCTION_FACTORIES_MARKET_DETAIL_HEADER: "Aus aktiven Verträgen: "
   CONSTRUCTION_FACTORIES_MARKET_DETAIL: "$COUNTRY$ ($NUM_CONTRACTS|H$): $NUM_FACTORIES|H$ "
   CONSTRUCTION_GO_TO_MARKET_BUTTON: "Markt "
-  CONSTRUCTION_GO_TO_MARKET_BUTTON_DESC: "§GClick§!, um den §HInternationalen Markt§! zu öffnen."
+  CONSTRUCTION_GO_TO_MARKET_BUTTON_DESC: "§GKlick§!, um den §HInternationalen Markt§! zu öffnen."
   CONSTRUCTION_SPEED:0 "Baugeschwindigkeit: $SPEED|Y$"
   CONSTRUCTION_CIC_BANK_VALUE: "$VALUE|0H$ "
   REPAIR_SPEED:0 "Täglich reparierte Gesundheit: $SPEED|1Y%$"

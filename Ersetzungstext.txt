@@ -10,16 +10,10 @@ Panzer Werkstatt		-> Kleine Panzermontagehalle
 Artiller Werkstatt		-> Kleine Artilleriegießerei
 Kampfflugzeug Werkstatt	-> Kleine Flugzeugmontageanlagen
 
-Right
-Left
-Click
+LAND_COMBAT_CAS_INFO_TOOLTIP
+LAND_COMBAT_CAS_INFO_TOOLTIP_DETAIL
 
-operative_seducer
+Units organization is to low to advance
 Understood
-Instandhaltungsunternehmen II
-Capital, Carrier
-
-Umlaufbahn			-> Fraktion, Allianz
-
-"Das Vereini König" hat sich "Die Republik Polen" als Feind im Deutsch-Polnischen Krieg  angeschlossen.
-"Das Vereini König" hat sich "Die Republik Polen" als Allierter im Krieg gegen Deutschland  angeschlossen.
+Long live the Thoused year Reich
+Tanks

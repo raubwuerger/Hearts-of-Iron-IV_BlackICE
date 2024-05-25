@@ -1706,7 +1706,7 @@
  germany.804.a:0 "Die Slowakei wird ein Staat mit deutscher Unterstützung sein."
  germany.804.b:0 "Das Schicksal der Slowakei hängt von [HUN.GetNameDef]"
  germany.804.c:0 "Lasst sie auf sich allein gestellt"
- germany.804.tt:0 "§Y[SLO.GetNameDef]§! wird entweder §Oannexed§! oder §Osubjugated§! von §Y[HUN.GetNameDef]§!"
+ germany.804.tt:0 "§Y[SLO.GetNameDef]§! wird entweder §Oannektiert§! oder §Ounterworfen§! von §Y[HUN.GetNameDef]§!"
  GER_mg_42:0 "Universal-Maschinengewehr Modell 42"
  GER_mg_42_desc:0 ""
  is_justifying_wargoal:0 "[Root.GetFlag]§Y[Root.GetName]§!: Ist die Rechtfertigung des Kriegsziels"
@@ -1715,7 +1715,7 @@
  germany.805.d:0 "[GER.GetLeader] hat den tschechoslowakischen Präsidenten Emil Hácha für heute Abend nach Berlin eingeladen. Nach einer ungewöhnlich langen Wartezeit begann das Treffen, bei dem [GER.GetLeader] gleich seine wahren Absichten zur Auflösung und Angliederung des tschechischen Staates an das Deutsche Reich offenbarte. [GER.GetLeader] drohte dem tschechischen Präsidenten mit einem Luftangriff auf die tschechische Hauptstadt Prag, falls [CZE.GetLeader] der tschechoslowakischen Armee nicht befehle, dem bevorstehenden Einmarsch keinen Widerstand zu leisten. Als er die Forderungen von [GER.GetLeader] hörte, erlitt Hacha einen Zusammenbruch und musste von einem Sanitäter behandelt werden, nach seiner Genesung konnte er Befehle nach Prag senden."
  germany.805.a:0 "Es wird Teil des Reiches sein."
  germany.805.b:0 "Es wird ein Marionettenstaat sein."
- #germany.806:0 "VERSTECKTES Ereignis"
+ #germany.806:0 
  germany.807.t:0 "Marinestützpunkte in Frankreich"
  germany.807.d:0 "Durch den Bau dieser Basen könnten wir uns einen Vorteil gegenüber unserem Feind England im Seekrieg verschaffen."
  germany.807.a:0 "Sehr nützlich!"

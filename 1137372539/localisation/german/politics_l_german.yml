@@ -148,7 +148,7 @@
  RELEASE_NATION:1 "Nation freigeben"
  RETURN_TERRITORY:1 "Rückkehr Territorium"
  RELEASE_NATION_STATES:0 "§TWählt $COUNTRY|H$ in $LIST|H$§!"
- RELEASE_NATION_STATES_DESC:0 "§GRight-click§! um zum ersten §HKernland§! zu gelangen"
+ RELEASE_NATION_STATES_DESC:0 "§GRechts-click§! um zum ersten §HKernland§! zu gelangen"
  RETURN_TERRITORY_STATES:0 "§TRückt $LIST|H$ zu $COUNTRY|H$§!"
  REPLACE_IDEA:0 "Ersetze $IDEA$"
  POLITICS_PAUSED_NO_POLITICAL_POWER:0 "§RDiese Aktion ist derzeit wegen mangelnder politischer Macht ausgesetzt§!"

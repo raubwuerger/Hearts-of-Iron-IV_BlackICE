@@ -154,7 +154,7 @@
  BUILDING_SLOT_REMOVE_CONSTRUCTION_LEVEL:0 "Eine Bauebene des Gebäudes entfernen."
  BUILDING_SLOT_REMOVE_CONVERSION_LEVEL:0 "Gebäudeumwandlung rückgängig machen."
  BUILDING_SLOT_REMOVE_COOLDOWN:0 "In Kriegszeiten ist es nur möglich, Gebäude alle $DAYS|Y$ Tage zu entfernen. Die nächste Entfernung kann am $DATE|Y$ erfolgen."
- CLICK_TO_CONVERT:1 "§GClick§! zum Konvertieren in $BUILDING|Y$"
+ CLICK_TO_CONVERT:1 "§GKlick§! zum Konvertieren in $BUILDING|Y$"
  INSERT_CONVERSION:0 "§GStrg+Klick§! zum Konvertieren und Platzieren am Anfang der Warteschlange.\n§GAlt+Klick§! zum Konvertieren und Platzieren am Ende der Warteschlange."
  INSERT_CONSTRUCTION:0 "§GStrg+Klick§! zum Bauen und Platzieren am Anfang der Warteschlange.\n§GAlt+Klick§! zum Bauen und Platzieren am Ende der Warteschlange."
  BUILDING_CURRENT_MAX_LEVEL:0 "Maximales Level für $BUILDING|Y$: $MAXLEVEL|Y$"
