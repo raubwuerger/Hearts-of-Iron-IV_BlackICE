@@ -138,3 +138,8 @@ Umlaufbahn			-> Fraktion, Allianz
 enemies
 Entrenched
 Basis-Maximum
+
+submarine
+Dockyard
+
+Effects of Refitting

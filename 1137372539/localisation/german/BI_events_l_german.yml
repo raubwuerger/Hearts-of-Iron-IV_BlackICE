@@ -1690,7 +1690,7 @@
  germany.713.c:0 "Wir werden neutral bleiben"
  
  germany_55_SLO:0 "\n\n§CAuswirkungen bezüglich [SLO.GetFlag][SLO.GetName]§!:"
- germany_55_CZE:0 "\n§CEffects concerning [CZE.GetFlag]Czech State§!:"
+ germany_55_CZE:0 "\n§CAuswirkungen bezüglich [CZE.GetFlag]Tschechei§!:"
  
  germany.802.t:0 "Fallschirmjäger"
  germany.802.desc:0 "Wir stellen unsere erste Fallschirmjägerdivision auf! Wir haben es mit viel Mühe geschafft! Also setzt sie weise ein!"

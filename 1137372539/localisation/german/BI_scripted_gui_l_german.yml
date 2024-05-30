@@ -7,8 +7,7 @@
  REGION_TT_2:0 "[state.GetRegion]:\n"
  TOOLTIP_TEST:0 "TOOLTIP-TEST"
  add_2000_storage:0 "Erhöht §YLagerkapazität§! nach §G2000§!"
- government_projects:0 "Hat ein §YRegierungsprojekt§! läuft"
- take_time_TT:0 "\nDie Umsetzung dieser Gesetzesänderung wird etwa [?temp_var|Y0] Tage dauern. Aktiviert eine Entscheidung.\n\n"
+ government_projects:0 "Hat ein §YRegierungsprojekt§! läuft" take_time_TT:0 "\nDie Umsetzung dieser Gesetzesänderung wird etwa [?temp_var|Y0] Tage dauern. Aktiviert eine Entscheidung.\n\n"
  spawn_partisan_TT:0 "§RPartisanen§! wird aufstehen\n"
  BICE_buildings:0 "Spezialausrüstungsfabrik fertiggestellt"
  speer_in_office:0 "Hat Albert Speer als §YPolitischen Berater§!"
@@ -116,8 +115,8 @@
  SHIPYARD_NR:0 "§G[?num_shipyard]§!"
  SUBYARD_NR:0 "§G[?num_subyard]§!"
  
- SHIPYARD_FACTORY_TOOLTIP:0 "\n§YMarinewerften§!\n\nMax. Stufe: §Y[GetMaxShipyardNumber]§!\nAktuelles Level: [?num_shipyard_total|Y0]\nBeschädigt: [?num_shipyard_damaged|0R]\n\n£nic_factory_output §YDockyard§! Ausgabe: [GetShipyardBonus] \n§YSubmarine§!: £production_cost IC-Kosten: [?num_shipyard|-=]§R%§!"
- SUBYARD_FACTORY_TOOLTIP:0 "\n§YU-Bootwerften§!\n\nMax. Stufe: §Y[GetMaxSubyardNumber]§!\nAktuelles Level: [?num_subyard_total|Y0]\nBeschädigt: [?num_subyard_damaged|0R]\n\n§YSubmarine§!: £production_cost IC Kosten: §G-[GetSubyardBonus]§!"
+ SHIPYARD_FACTORY_TOOLTIP:0 "\n§YMarinewerften§!\n\nMax. Stufe: §Y[GetMaxShipyardNumber]§!\nAktuelles Level: [?num_shipyard_total|Y0]\nBeschädigt: [?num_shipyard_damaged|0R]\n\n£nic_factory_output §YWerften§! Ausgabe: [GetShipyardBonus] \n§YU-Boot§!: £production_cost IC-Kosten: [?num_shipyard|-=]§R%§!"
+ SUBYARD_FACTORY_TOOLTIP:0 "\n§YU-Bootwerften§!\n\nMax. Stufe: §Y[GetMaxSubyardNumber]§!\nAktuelles Level: [?num_subyard_total|Y0]\nBeschädigt: [?num_subyard_damaged|0R]\n\n§YU-Boot§!: £production_cost IC Kosten: §G-[GetSubyardBonus]§!"
 
  CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Kapazität der Großwerft§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@shipyard_capital]§![GetCapitalProductionFree]\n\nInsgesamt Große Schiffswerften: [?num_capital_shipyard|Y0]\n Beschädigt: [?num_capital_shipyard_damaged|R0]\n\nKapazität pro Werft: [?modifier@shipyard_capital_capacity|Y0]\n [!shipyard_assembly_capacity_click]"
  AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Flugzeugproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@air_production]§!\n\nFlugzeugmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@air_production_capacity|Y0]\n [!air_assembly_capacity_click]"

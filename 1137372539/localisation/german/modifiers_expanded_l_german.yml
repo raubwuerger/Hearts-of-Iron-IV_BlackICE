@@ -386,7 +386,7 @@
  decryption_factor:0"$MODIFIER_DECRYPTION_FACTOR$"
  industrial_capacity_factor:0"$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$"
  industrial_capacity_factor_desc:0"$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR_DESC$"
- industrial_capacity_dockyard_factor:0"£dockyard_output_texticon §YDockyard§! Ausstoßfaktor"
+ industrial_capacity_dockyard_factor:0"£dockyard_output_texticon §YWerfte§! Ausstoßfaktor"
  industrial_capacity_dockyard_factor_desc:0"$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR_DESC$"
  industry_air_damage_factor:0"$MODIFIER_INDUSTRY_AIR_DAMAGE_FACTOR$"
  industry_air_damage_factor_desc:0"$MODIFIER_INDUSTRY_AIR_DAMAGE_FACTOR_DESC$"

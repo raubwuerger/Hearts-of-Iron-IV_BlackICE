@@ -48,6 +48,6 @@
    ai_resource_built_tooltip: "Infra gebaut: [?FROM.ai_built@infrastructure] | Aktuell: [?FROM.building_level@infrastructure]"
    ai_airbase_built_tooltip: "Luftwaffenstützpunkt gebaut: [?FROM.ai_built@air_base] | Aktuell: [?FROM.building_level@air_base]"
    ai_radar_built_tooltip: "Radar gebaut: [?FROM.ai_built@radar_station] | Aktuell: [?FROM.building_level@radar_station]"
-   ai_building_built_tooltip: "Alle gebaut: [GetAIBuiltAll]\n industrial_complex: [?FROM.ai_built@industrial_complex]\n arms_factory: [?FROM.ai_built@arms_factory]\n Dockyard: [?FROM.ai_built@dockyard]\n air_assembly: [ ?FROM.ai_built@air_assembly]\n Kraftwerk: [?FROM.ai_built@power_plant]\n Stahlraffinerie: [?FROM.ai_built@steel_refinery]\n Aluminiumraffinerie: [?FROM.ai_built@aluminium_refinery]"
+   ai_building_built_tooltip: "Alle gebaut: [GetAIBuiltAll]\n industrial_complex: [?FROM.ai_built@industrial_complex]\n arms_factory: [?FROM.ai_built@arms_factory]\n Werft: [?FROM.ai_built@dockyard]\n air_assembly: [ ?FROM.ai_built@air_assembly]\n Kraftwerk: [?FROM.ai_built@power_plant]\n Stahlraffinerie: [?FROM.ai_built@steel_refinery]\n Aluminiumraffinerie: [?FROM.ai_built@aluminium_refinery]"
    
    ai_building_built_score_tooltip: "[?FROM.ai_built@air_base] GEBAUT | [?FROM.building_level@air_base] AKTUELLES LEVEL"

@@ -1672,7 +1672,7 @@
   FINISHED:0 "Erledigt"
   NAVAL_ACCESS:0 "Zugriff"
   SUPREMACY_DETAILS:0 "§HÜberlegenheit der Marine§! errechnet sich aus der Summe der Gesamtüberlegenheit der befreundeten Schiffe in der Region gegenüber der feindlichen Gesamtüberlegenheit.\n\nDie Gesamtüberlegenheit einer Marine hängt davon ab, welche Art von Mission sie durchführt, wie effektiv sie in der Region ist, wie viele Schiffe sie hat und wie groß diese sind.\n\n"
-  REPAIR_ASSIGNMENT_INFO:0 "Dies ist die maximale Anzahl von §HDockyards§!, die für Schiffsreparaturen eingesetzt werden können."
+  REPAIR_ASSIGNMENT_INFO:0 "Dies ist die maximale Anzahl von §HWerften§!, die für Schiffsreparaturen eingesetzt werden können."
   TOO_MANY_SHIPS_TO_REPAIR:0 "§RDie Kapazität der Marinebasis ist zu gering, um alle Schiffe in der Warteschlange zu reparieren.§!"
   TOO_MANY_SHIPS_TO_REPAIR_NO_DOCKYARDS:0 "§RSie haben nicht genug Werften für Reparaturen zugewiesen, um die volle Kapazität der Marinebasis zu nutzen§!"
   SHIPS_THAT_AR_BEING_REPAIRED_IN_ALLY_INFO:0 "Schiffe, die im Marinestützpunkt eines anderen Verbündeten repariert werden, nutzen dessen Werften für Reparaturen."
