@@ -21,3 +21,8 @@ Tanks
 
 Attitude
 Monarchists
+size
+Es gibt keine Ahnung davon
+Einheiten von Deutsch Luftlandetruppen
+Effect		-> Effekt
+Empire Exhibition
