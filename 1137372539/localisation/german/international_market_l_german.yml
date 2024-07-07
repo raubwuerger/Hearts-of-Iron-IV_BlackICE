@@ -6,7 +6,7 @@ INTERNATIONAL_MARKET_SUBSIDIES_OVERVIEW_DESCRIPTION: "Wählen Sie die §YMarktf�
 INTERNATIONAL_MARKET_SUBSIDIES_OVERVIEW_TOGGLE: "Subventionen ($AMOUNT|Y$)"
 INTERNATIONAL_MARKET_SUBSIDIES_OVERVIEW_TOGGLE_NO_SUBSIDIES_TT: "Du §Rnicht§! §YMarktsubventionen§! haben."
 INTERNATIONAL_MARKET_SUBSIDIES_OVERVIEW_TOGGLE_SUBSIDIES_TT: "Ihnen stehen $AMOUNT|Y$ §YMarktsubventionen§! zur Verfügung."
-INTERNATIONAL_MARKET_SUBSIDIES_OVERVIEW_TOGGLE_USAGE_TT: "Sie können die §YEWirtschaftsleistung§! reduzieren die von Ihnen erwartete Produktion und die Menge der Lieferungen im Rahmen eines Vertrags unter Verwendung von §YMarktsubventionen§!. Es können nur §YMarktförderungen§! beantragt werden auf Verträge, bei denen die §YMarktsubventionen§! gilt für alle Geräte im Vertrag."
+INTERNATIONAL_MARKET_SUBSIDIES_OVERVIEW_TOGGLE_USAGE_TT: "Sie können die §YWirtschaftsleistung§! reduzieren die von Ihnen erwartete Produktion und die Menge der Lieferungen im Rahmen eines Vertrags unter Verwendung von §YMarktsubventionen§!. Es können nur §YMarktförderungen§! beantragt werden auf Verträge, bei denen die §YMarktsubventionen§! gilt für alle Geräte im Vertrag."
 INTERNATIONAL_MARKET_SUBSIDIES_ENTRY_NAME: "$ARCHETYPE|Y$"
 INTERNATIONAL_MARKET_SUBSIDIES_OVERVIEW_ENTRY_NAME_NOT_SELECTABLE: "$ARCHETYPE|g$"
 INTERNATIONAL_MARKET_SUBSIDIES_OVERVIEW_ENTRY_CIC: "£civ_factory_output£ $AMOUNT|Y$"

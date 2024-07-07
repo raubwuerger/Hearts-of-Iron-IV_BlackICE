@@ -130,7 +130,7 @@
  COMBAT_COMBAT_WIDTH_DESC:0 "§HKampfbreite§!\n Legt fest, wie viele Divisionen auf jeder Seite am Kampf teilnehmen können. Wie viel Breite eine Division einnimmt, hängt davon ab, wie sie gestaltet wurde. Durch Angriffe aus mehreren Richtungen können Sie die erhöhen verfügbare Gesamtbreite."
  COMBAT_PROGRESS_DESC:0 "Zeigt das aktuelle Kräfteverhältnis zwischen Angreifer und Verteidiger in diesem Kampf."
  COMBAT_WE_ARE_WINNING:0 "§GWir gewinnen gerade!§!"
- COMBAT_WE_ARE_LOSING:0 "§RWwir verlieren gerade!§!"
+ COMBAT_WE_ARE_LOSING:0 "§RWir verlieren gerade!§!"
  COMBAT_LAST_MORE_THAN_DAY:0 "Wir schätzen, dass der Kampf noch weitere $DAYS|Y$ Tage dauern wird."
  COMBAT_LAST_LESS_THAN_DAY:0 "Wir schätzen, dass der Kampf weniger als einen Tag dauern wird."
  COMBAT_UNDECIDED:0 "§YDas Ergebnis ist derzeit noch offen§!"

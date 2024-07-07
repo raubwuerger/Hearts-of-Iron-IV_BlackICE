@@ -821,7 +821,7 @@
   UNITS_HAS_INVALID_TRANSPORT_WARNING:0 "§RTransport zum Ziel nicht möglich§!"
   UNITS_HAS_INVALID_MOVE_WARNING:0 "§RKann sich nicht zur nächsten Zielprovinz bewegen§!"
   UNITS_HAS_INVALID_RETREAT_WARNING:0 "§RNicht in der Lage, sich in die Zielprovinz zurückzuziehen§!"
-  UNITS_HAS_LOW_SUPPLY_MOVE_WARNING:0 "§RWenn die Einheit sich weiterbewegen würde, würde sie in der nächsten Provinz mehr Vorräte benötigen, als sie aufnehmen kann.\nEin expliziter Bewegungsbefehl kann die Einheit zwingen, sie trotzdem zu bewegen§!"
+  UNITS_HAS_LOW_SUPPLY_MOVE_WARNING:0 "§RWenn die Einheit sich weiterbewegen würde, würde sie in der nächsten Provinz mehr Vorräte benötigen, als dort vorhanden sind.\nEin expliziter Bewegungsbefehl kann die Einheit zwingen, sie trotzdem zu bewegen§!"
   UNITS_UNWILLING_ATTACK_WARNING:0 "§RDie Einheit hält einen Angriff für zu gefährlich.\nEin expliziter Bewegungsbefehl kann die Einheit dazu zwingen, ihn trotzdem auszuführen.§!"
   UNITS_INVALID_ATTACK_WARNING:0 "§RZielprovinz kann nicht angegriffen werden§!"
   UNITS_NO_POSSIBLE_ATTACK_WARNING:0 "§REs konnte kein gültiges Angriffsziel gefunden werden§!"
