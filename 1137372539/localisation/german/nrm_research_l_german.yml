@@ -279,9 +279,9 @@
  nrm_battery_improved_dp_5h_desc:0 "Schaltet ~139-mm-Mehrzweckgeschütze frei. \n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§! und §CTräger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
 
  nrm_battery_advanced_4:0 "Erweiterte 70-115mm Batterie"
- nrm_battery_advanced_4_desc:0 "Schaltet ~100mm Geschütze und ~75mm und ~100mm Hochwinkelkanonen frei.\n\nUsable as;\n\n§RHauptbatterie§! für §CZerstörer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!, §CKreuzer§!, §CTräger§! und §CLeichte Träger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
+ nrm_battery_advanced_4_desc:0 "Schaltet ~100mm Geschütze und ~75mm und ~100mm Steilfeuerkanonen frei.\n\nUsable as;\n\n§RHauptbatterie§! für §CZerstörer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!, §CKreuzer§!, §CTräger§! und §CLeichte Träger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
  nrm_battery_advanced_5:0 "Erweiterte 115-130mm Batterie"
- nrm_battery_advanced_5_desc:0 "Schaltet ~127mm Geschütze und ~127mm Hochwinkelkanonen frei.\n\nUsable as;\n\n§RHauptbatterie§! für §CZerstörer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!, §CKreuzer§!, §CTräger§! und §CLeichte Träger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
+ nrm_battery_advanced_5_desc:0 "Schaltet ~127mm Geschütze und ~127mm Steilfeuerkanonen frei.\n\nUsable as;\n\n§RHauptbatterie§! für §CZerstörer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!, §CKreuzer§!, §CTräger§! und §CLeichte Träger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
  nrm_battery_advanced_5h:0 "Erweiterte 130-145mm Batterie"
  nrm_battery_advanced_5h_desc:0 "Schaltet ~139mm Geschütze frei.\n\nVerwendbar als;\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!"
  nrm_battery_advanced_6:0 "Erweiterte 145-160mm Batterie"
