@@ -61,6 +61,23 @@ Mengen an Rüstungsgütern befreit/erobert
 
 Die Weltspannung wird um 0.2% erhöht
 
+Blockade-Läufer
+Experte für grüne Gewässer
+Ironside
+Auskuppeln
+Hochwinkel -> Steilfeuer
+S-Gerat -> S-Gerät
+der Schlachtflotte -> Der Schlachtflotte
+tzung von Kreuzern
+hrer von Kreuzerflo
+im Einsatz Doktrin -> Im Einsatz 
+
+Eine niedrige Positionierung hat folgende Auswirkungen:
+Angriff
+Überprüfung???
+Luftabwehr
+U-Boot-Sichtbarkeit -> U-Boot Sichtbarkeit
+
 The heat Wave of 1936
 Oh dear ...
 
@@ -92,3 +109,4 @@ Nach der Rückkehr Österreichs zum Reich haben wir nun eine gemeinsame Grenze m
 
 The following stats have been increased.
 
+Earthquake
