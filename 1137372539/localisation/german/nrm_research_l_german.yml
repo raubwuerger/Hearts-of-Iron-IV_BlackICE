@@ -454,9 +454,9 @@
  nrm_integrated_convoy_defence_desc:0 ""
 
  ##Submarine Doctrine ""
- nrm_submarine_tactics_early:0 "Frühzeitige U-Boot-Taktik"
+ nrm_submarine_tactics_early:0 "Frühzeitige U-Boot Taktik"
  nrm_submarine_tactics_early_desc:0 "Die Ausbildung unserer U-Boot-Besatzungen in der Positionierung ihres Bootes ermöglicht es ihnen, im günstigsten Moment Schaden anzurichten, wenn die Geleitzüge noch in einiger Entfernung sind. Eine bessere Positionierung bedeutet auch, dass unsere U-Boote nach einem erfolgreichen Angriff mit größerer Wahrscheinlichkeit entkommen können."
- nrm_submarine_raiding:0 "U-Boot-Angriffe"
+ nrm_submarine_raiding:0 "U-Boot Angriffe"
  nrm_submarine_raiding_desc:0 "Indem wir unsere U-Boote entlang bekannter Schifffahrtskorridore auf der Lauer liegen lassen, können wir feindliche Schiffe aus dem Hinterhalt angreifen, während sie gleichzeitig schwerer zu entdecken sind."
  nrm_submarine_torpedo_tactics:0 "U-Boot-Torpedo-Taktik"
  nrm_submarine_torpedo_tactics_desc:0 "Der Einsatz von Torpedos auf größere Entfernungen erfordert einiges an Geschick und Training, bedeutet aber auch, dass unsere Besatzungen aus größeren Entfernungen angreifen können, was die Entdeckungswahrscheinlichkeit senkt und mehr Möglichkeiten für Mehrfachangriffe bietet."

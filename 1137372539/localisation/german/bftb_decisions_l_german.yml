@@ -119,7 +119,7 @@
  GRE_faction_hostile_effects:0 "\n§YAuswirkungen:§! §RStabilität: -15%§!"
  GRE_faction_inconsequential:0 "Inkonsequent"
  GRE_befriend_monarchists:0 "Freundet euch mit den Monarchisten der £faction_gre_monarchist an"
- GRE_crush_monarchists:0 "Zerschlagt die Monarchisten der £faction_gre_monarchist Monarchists"
+ GRE_crush_monarchists:0 "Zerschlagt die £faction_gre_monarchist Monarchisten"
  GRE_recruit_monarchist_general:0 "Rekrutiere £faction_gre_monarchist Monarchisten General"
  GRE_befriend_republicans:0 "Befreunde dich mit den £faction_gre_venezelist Republikanern"
  GRE_crush_republicans:0 "Zerschlage die £faction_gre_venezelist Republikaner"

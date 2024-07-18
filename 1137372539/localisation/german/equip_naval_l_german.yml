@@ -682,7 +682,7 @@
  aviation_cruiser:0 "Luftfahrtkreuzer"
  aviation_cruiser_desc:0 "Ein großer gepanzerter Kreuzer mit hoher Geschwindigkeit und guter Hauptbatterie und Luftabwehr, der größere Großkampfschiffe eskortieren kann. Einige schwere Kreuzer führen auch einige Wasserflugzeuge zur Flottenaufklärung und -erkundung mit sich und verfügen daher über eine höhere Aufklärungsrate über und unter Wasser."
  destroyer:0 "Zerstörer"
- destroyer_desc:0 "Der Zerstörer ist ein kleines Abschirmschiff, das billig und schnell zu produzieren ist. Zerstörer eskortieren Großkampfschiffe in die Schlacht, schützen Konvois vor U-Boot-Angriffen und ihre Torpedos können sogar größere Großkampfschiffe bedrohen, wenn sie nah genug herankommen."
+ destroyer_desc:0 "Der Zerstörer ist ein kleines Abschirmschiff, das billig und schnell zu produzieren ist. Zerstörer eskortieren Großkampfschiffe in die Schlacht, schützen Konvois vor U-Boot Angriffen und ihre Torpedos können sogar größere Großkampfschiffe bedrohen, wenn sie nah genug herankommen."
  destroyer_escort:0 "Zerstörer-Eskorte"
  destroyer_escort_desc:0 "Ein kleinerer Verwandter des Zerstörers, optimiert für niedrige Kosten und U-Boot-Einsätze. Im Gegensatz zu den kleineren Eskorten verfügt er jedoch noch über angemessene Kampffähigkeiten."
  escort:0 "Eskorte"

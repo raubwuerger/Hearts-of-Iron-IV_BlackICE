@@ -155,3 +155,6 @@ Ironside
 ie Olympischen Sommerspiele von 1936
 ie rechtsnationalistische Fraktion hat weite Teile Spaniens
 S-Gerat -> S-Gerät
+Monarchists
+Effect		-> Effekt
+Ein Sieg, an den sich alle von

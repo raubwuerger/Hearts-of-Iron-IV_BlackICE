@@ -264,7 +264,7 @@
  GER_rocket_artillery_equipment_2_short:0 "30cm Nebelwerfer 42"
  GER_rocket_artillery_equipment_2_desc:0 "Drehstabilisierte Raketen, die die Reichweite leichterer Artilleriebatterien erhöhen."
  ############# German Infantry Weapons ""
- GER_garrison_equipment_0:0 "Garnison-Wartungsgeräte"
+ GER_garrison_equipment_0:0 "Garnisonsausrüstung"
  GER_garrison_equipment_0_short:0 "Garnisonsausrüstung (Gewehr 98)"
  GER_assault_rifle:0 "Sturmgewehr 44"
  GER_assault_rifle_short:0 "StG 44"

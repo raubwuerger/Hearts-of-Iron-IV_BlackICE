@@ -20,11 +20,10 @@ Tanks
 
 
 Attitude
-Monarchists
+
 size
-Es gibt keine Ahnung davon
+
 Einheiten von Deutsch Luftlandetruppen
-Effect		-> Effekt
 Empire Exhibition
 
 Jugoslawien Wettbewerb für Kampfflugzeuge
@@ -109,3 +108,18 @@ Deutsch Druck in Richtung Benelux
 ... Mit der Unterstützung von Französisch und Britisch weigern sich diese jedoch, 
 
 dismiss
+
+Lokale Lieferungen
+Abnutzung von Lieferwagen
+
+
+mit dem Hauptquartier
+Kriegsführung
+ben
+Verbindung
+für Stabsoffiziere
+ndemodellierung Informationen
+
+Einheiten, die sich in der Startposition eines Plans befinden
+
+Dont bother me with this
