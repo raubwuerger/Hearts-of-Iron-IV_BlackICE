@@ -1121,8 +1121,8 @@
  USA_nrm_support_destroyer_ASW_1:0 "Mk6 DC-Gestell"
  USA_nrm_support_destroyer_ASW_2:0 "Mk7 DC Rack & Werfer"
  USA_nrm_support_destroyer_ASW_3:0 "Mk8/9 DC-Zahnstange & Werfer"
- USA_nrm_support_destroyer_ASWP_1:0 "Mk10/11 ASW-Projektor"
- USA_nrm_support_destroyer_ASWP_2:0 "Tintenfisch ASW-Mörser"
+ USA_nrm_support_destroyer_ASWP_1:0 "Mk10/11 U-Jagd-Projektor"
+ USA_nrm_support_destroyer_ASWP_2:0 "Tintenfisch U-Jagd-Mörser"
 
  USA_nrm_support_destroyer_ASW_1_desc:0 ""
  USA_nrm_support_destroyer_ASW_2_desc:0 ""
@@ -1286,7 +1286,7 @@
  USA_nrm_submarine_SNK_1:0 "Schnorchel"
  USA_nrm_submarine_SNK_2:0 "Schnorchel (Verbessert)"
 
- USA_nrm_submarine_ML_1:0 "Minenleger-Ausrüstung"
+ USA_nrm_submarine_ML_1:0 "Minenlegerausrüstung"
 
  USA_nrm_submarine_FP_1_desc:0 ""
  USA_nrm_submarine_FP_2_desc:0 ""

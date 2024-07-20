@@ -1121,8 +1121,8 @@
  NZL_nrm_support_destroyer_ASW_1:0 "Typ D DC-Gestell"
  NZL_nrm_support_destroyer_ASW_2:0 "Mark VII DC-Gestell und -Werfer"
  NZL_nrm_support_destroyer_ASW_3:0 "Mark X DC-Zahnstange und -Werfer"
- NZL_nrm_support_destroyer_ASWP_1:0 "Hedgehod ASW Projektor"
- NZL_nrm_support_destroyer_ASWP_2:0 "Tintenfisch-ASW-Mörser"
+ NZL_nrm_support_destroyer_ASWP_1:0 "Hedgehod U-Jagd Projektor"
+ NZL_nrm_support_destroyer_ASWP_2:0 "Tintenfisch-U-Jagd-Mörser"
 
  NZL_nrm_support_destroyer_ASW_1_desc:0 ""
  NZL_nrm_support_destroyer_ASW_2_desc:0 ""
@@ -1286,7 +1286,7 @@
  NZL_nrm_submarine_SNK_1:0 "Schnorchel"
  NZL_nrm_submarine_SNK_2:0 "Schnorchel (Verbessert)"
 
- NZL_nrm_submarine_ML_1:0 "Minenleger-Ausrüstung"
+ NZL_nrm_submarine_ML_1:0 "Minenlegerausrüstung"
 
  NZL_nrm_submarine_FP_1_desc:0 ""
  NZL_nrm_submarine_FP_2_desc:0 ""

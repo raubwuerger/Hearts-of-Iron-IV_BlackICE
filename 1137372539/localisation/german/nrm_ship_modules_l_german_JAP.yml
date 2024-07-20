@@ -1121,8 +1121,8 @@
  JAP_nrm_support_destroyer_ASW_1:0 "Typ 91 DC-Gestell"
  JAP_nrm_support_destroyer_ASW_2:0 "Typ 95 DC Zahnstange & Werfer"
  JAP_nrm_support_destroyer_ASW_3:0 "Typ 2 DC-Gestell und -Werfer"
- JAP_nrm_support_destroyer_ASWP_1:0 "8cm ASW Mörser"
- JAP_nrm_support_destroyer_ASWP_2:0 "15-cm-ASW-Raketenmörser"
+ JAP_nrm_support_destroyer_ASWP_1:0 "8cm U-Jagd Mörser"
+ JAP_nrm_support_destroyer_ASWP_2:0 "15-cm-U-Jagd-Raketenmörser"
 
  JAP_nrm_support_destroyer_ASW_1_desc:0 ""
  JAP_nrm_support_destroyer_ASW_2_desc:0 ""
@@ -1286,7 +1286,7 @@
  JAP_nrm_submarine_SNK_1:0 "Schnorchel"
  JAP_nrm_submarine_SNK_2:0 "Schnorchel (Verbessert)"
 
- JAP_nrm_submarine_ML_1:0 "Minenleger-Ausrüstung"
+ JAP_nrm_submarine_ML_1:0 "Minenlegerausrüstung"
 
  JAP_nrm_submarine_FP_1_desc:0 ""
  JAP_nrm_submarine_FP_2_desc:0 ""

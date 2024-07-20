@@ -55,11 +55,11 @@
  space_TT:0 "    \N"
 
  #Allied Anger
- allied_anger:0 "§RVerbundener Zorn§! [?GER.allied_anger|0R]"
- allied_anger_desc:0 "Aktueller §RAliied Anger§!: [?GER.allied_anger|0R]"
+ allied_anger:0 "§RAllierter Zorn§! [?GER.allied_anger|0R]"
+ allied_anger_desc:0 "Aktueller §RAllierter Zorn§!: [?GER.allied_anger|0R]"
  allied_anger_trait:0 ""
- #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder des Commonwealth\n[Root.GetAA3] §R3§! - Politische Macht: §G+150§!\n§ [Root.GetAA5] §R5§! - Erhalten Sie Basiskriegsunterstützung: §G+10 %§! \n[Root.GetAA8] §R8§! - Wirtschaftsgesetz in "§YFrühe Mobilisierung§!" ändern\n[Root.GetAA10] §R10§! - Erhalte Basiskriegsunterstützung: §G+10§!\n[Root.GetAA12] §R12§! - Modifikatoren von §YThe War to End All Wars§! reduzieren!\n[Root.GetAA15] §R15§! - Basismobilisierungsgeschwindigkeit erhöhen: §G+15 %§!\n[Root.GetAA16] §R16§! - Militärkommandokosten reduzieren: §G-25%§!\n[Root.GetAA18] §R18§! - Mobilisierung in "§YLimited§!" ändern\n[Root.GetAA20] §R20§! - Handelsmeinung mit [GER.GetNameWithFlag]: §R-50§!\n[Root.GetAA24] §R24§! - Wirtschaftsgesetz in "§YTeilmobilisierung§!" ändern\n[Root.GetAA26] §R26§! - Wirtschaftsgesetz in "§YWar Economy§!" ändern\n[Root.GetAA28] §R28§! - Erstellt zusätzliche Infanteriedivisionen in der Hauptstadt\n[Root.GetAA30] §R30§! - Erhält Nationalgeist §YEnde der Beschwichtigung§!"
- #show_allied_anger:0 "[ENG.GetFlag]§YAllied Anger§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §YAllied Faction§!\nJeder zusätzliche §RAliied Anger§! erhöht die Boni um §G2%§!"
+ #show_allied_anger:0 "[ENG.GetFlag]§YAlliierter Zorn§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder des Commonwealth\n[Root.GetAA3] §R3§! - Politische Macht: §G+150§!\n§ [Root.GetAA5] §R5§! - Erhalten Sie Basiskriegsunterstützung: §G+10 %§! \n[Root.GetAA8] §R8§! - Wirtschaftsgesetz in "§YFrühe Mobilisierung§!" ändern\n[Root.GetAA10] §R10§! - Erhalte Basiskriegsunterstützung: §G+10§!\n[Root.GetAA12] §R12§! - Modifikatoren von §YThe War to End All Wars§! reduzieren!\n[Root.GetAA15] §R15§! - Basismobilisierungsgeschwindigkeit erhöhen: §G+15 %§!\n[Root.GetAA16] §R16§! - Militärkommandokosten reduzieren: §G-25%§!\n[Root.GetAA18] §R18§! - Mobilisierung in "§YLimited§!" ändern\n[Root.GetAA20] §R20§! - Handelsmeinung mit [GER.GetNameWithFlag]: §R-50§!\n[Root.GetAA24] §R24§! - Wirtschaftsgesetz in "§YTeilmobilisierung§!" ändern\n[Root.GetAA26] §R26§! - Wirtschaftsgesetz in "§YWar Economy§!" ändern\n[Root.GetAA28] §R28§! - Erstellt zusätzliche Infanteriedivisionen in der Hauptstadt\n[Root.GetAA30] §R30§! - Erhält Nationalgeist §YEnde der Beschwichtigung§!"
+ #show_allied_anger:0 "[ENG.GetFlag]§YAlliierter Zorn§!\nGilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §YAllied Faction§!\nJeder zusätzliche §RAliied Anger§! erhöht die Boni um §G2%§!"
  show_allied_anger:0 "[!allied_anger_test_click]"
  allied_anger_TT_0:0 "§RDer Zorn der Alliierten§!\n"
  allied_anger_TT_1:0 "Gilt für alle [?ENG.num_faction_members|Y0] Mitglieder der §Y[ENG.GetFactionName]§! Fraktion\n\n"
@@ -67,7 +67,7 @@
  allied_anger_TT_3:0 "      /  Keiner"
 
  ALLIED_ANGER_INCREASE_EXTRA_TT:0 "Aufgrund unserer §YJüngsten Grundstückserwerbe§! der §RVerbundene Zorn§! erhöht sich um §R[?anger|1] +[?extra_anger|1]§!"
- ALLIED_ANGER_INCREASE:0 "§RVerbundener Zorn§! wird um §R+[?anger|1]§! erhöht"
+ ALLIED_ANGER_INCREASE:0 "§RAllierter Zorn§! wird um §R+[?anger|1]§! erhöht"
 
 
  TRIGGER_NO:0 "£trigger_no"
@@ -984,11 +984,11 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  max_artillery_factory_5:0 "Max §YArtilleriefabrik:§! §G+5§!"
  max_smallarms_factory_5:0 "Max §YSKleinwaffenfabrik:§! §G+5§!"
  max_uniform_factory_5:0 "Max §YUniformfabrik:§! §G+5§!"
- max_light_aircraft_factory_5:0 "Max §YKleinflugzeug-Fabrik:§! §G+5§!"
- max_heavy_aircraft_factory_5:0 "Max §YSchwerflugzeug-Fabrik:§! §G+5§!"
- max_jet_aircraft_factory_5:0 "Max §YStrahlflugzeug-fabrik:§! §G+5§!"
- max_shipyard_5:0 "Max §YWerft:§! §G+5§!"
- max_subyard_5:0 "Max §YU-:§! §G+5§!"
+ max_light_aircraft_factory_5:0 "Max §YKleinflugzeugfabrik:§! §G+5§!"
+ max_heavy_aircraft_factory_5:0 "Max §YBomberfabrik:§! §G+5§!"
+ max_jet_aircraft_factory_5:0 "Max §YStrahlflugzeugfabrik:§! §G+5§!"
+ max_shipyard_5:0 "Max. §YWerften:§! §G+5§!"
+ max_subyard_5:0 "Max. §YU-Boot Werften:§! §G+5§!"
  
  RESOURCE_CONSTRUCTIONS:0 "§YRessourcengebäude§!"
  MISC_CONSTRUCTIONS:0 "§YVerschiedene Gebäude§!"
@@ -1418,7 +1418,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  HIGH_COMMAND_AIR_LIMIT_TOOLTIP:0 "£chief_and_theorist_strip|4 §ROberkommando der Luftwaffe§!\n[!high_command_air_limit_click]"
  HIGH_COMMAND_NAVY_LIMIT_TOOLTIP:0 "£chief_and_theorist_strip|2 §COberkommando der Marin§!\n[!high_command_navy_limit_click]"
   
- THEORIST_ARMY_LIMIT_TOOLTIP:0 "£chief_and_theorist_strip|3 §GAHeerestheoretiker§!\n[!theorist_army_limit_click]"
+ THEORIST_ARMY_LIMIT_TOOLTIP:0 "£chief_and_theorist_strip|3 §GHeerestheoretiker§!\n[!theorist_army_limit_click]"
  THEORIST_AIR_LIMIT_TOOLTIP:0 "£chief_and_theorist_strip|4 §RLuftwaffentheoretiker§!\n[!theorist_air_limit_click]"
  THEORIST_NAVY_LIMIT_TOOLTIP:0 "£chief_and_theorist_strip|2 §CMarinetheoretiker§!\n[!theorist_navy_limit_click]"
   

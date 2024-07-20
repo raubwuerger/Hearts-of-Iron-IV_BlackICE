@@ -452,7 +452,7 @@
  EAI_config_ARMY_N2b_dropdown_text:0 "[EAI_GetASWDDFocus]"
  EAI_config_ARMY_N2b-_text:0 "-"
  EAI_config_ARMY_N2ba_text:0 "Aus"
- EAI_config_ARMY_N2bb_text:0 "ASW-Zerstörer"
+ EAI_config_ARMY_N2bb_text:0 "U-Jagd-Zerstörer"
 
  EAI_config_ARMY_N3_text:0 "Leichte Kreuzer"
  EAI_config_ARMY_N3_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt des Landes auf leichte Kreuzer.§!"
@@ -465,7 +465,7 @@
  EAI_config_ARMY_N3b_dropdown_text:0 "[EAI_GetASWCLFocus]"
  EAI_config_ARMY_N3b-_text:0 "-"
  EAI_config_ARMY_N3ba_text:0 "Aus"
- EAI_config_ARMY_N3bb_text:0 "ASW Leichter Kreuzer"
+ EAI_config_ARMY_N3bb_text:0 "U-Jagd Leichter Kreuzer"
 
  EAI_config_ARMY_N4_text:0 "Schwere Kreuzer"
  EAI_config_ARMY_N4_tt:0 "§LHiermit wird der Forschungs- und Produktionsschwerpunkt des Landes auf schwere Kreuzer festgelegt.§!"

@@ -1121,8 +1121,8 @@
  SAF_nrm_support_destroyer_ASW_1:0 "Typ D DC-Gestell"
  SAF_nrm_support_destroyer_ASW_2:0 "Mark VII DC-Gestell und -Werfer"
  SAF_nrm_support_destroyer_ASW_3:0 "Mark X DC-Zahnstange und -Werfer"
- SAF_nrm_support_destroyer_ASWP_1:0 "Hedgehod ASW Projektor"
- SAF_nrm_support_destroyer_ASWP_2:0 "Tintenfisch-ASW-Mörser"
+ SAF_nrm_support_destroyer_ASWP_1:0 "Hedgehod U-Jagd Projektor"
+ SAF_nrm_support_destroyer_ASWP_2:0 "Tintenfisch-U-Jagd-Mörser"
 
  SAF_nrm_support_destroyer_ASW_1_desc:0 ""
  SAF_nrm_support_destroyer_ASW_2_desc:0 ""
@@ -1286,7 +1286,7 @@
  SAF_nrm_submarine_SNK_1:0 "Schnorchel"
  SAF_nrm_submarine_SNK_2:0 "Schnorchel (Verbessert)"
 
- SAF_nrm_submarine_ML_1:0 "Minenleger-Ausrüstung"
+ SAF_nrm_submarine_ML_1:0 "Minenlegerausrüstung"
 
  SAF_nrm_submarine_FP_1_desc:0 ""
  SAF_nrm_submarine_FP_2_desc:0 ""

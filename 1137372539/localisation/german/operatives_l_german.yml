@@ -414,7 +414,7 @@
  OPERATIVE_RESUME_MISSION_AFTER_OPERATION_TOOLTIP:0 "Legt fest, ob der Operator die ihm zugewiesene Mission bei Beginn der Operation fortsetzen wird."
  OPERATIVE_RESUME_MISSION_AFTER_OPERATION_INDICATOR_TOOLTIP:0 "Dieser Operator wird die Mission fortsetzen, der er bei Beginn der Operation zugewiesen war."
  OPERATIVE_DISBAND_TITLE:0 "Operator entlassen"
- OPERATIVE_DISBAND_DESC:0 "Sind Sie sicher, dass Sie diesen Agenten §RDismiss§! entlassen wollen? Es wird einige Zeit dauern, bis Sie einen neuen Agenten rekrutieren können."
+ OPERATIVE_DISBAND_DESC:0 "Sind Sie sicher, dass Sie diesen Agenten §Rentlassen§! wollen? Es wird einige Zeit dauern, bis Sie einen neuen Agenten rekrutieren können."
 
  #BICE ""
  upgrade_economy_civilian_level_1:0 "§YStufe 1:§!\nZiviler Nachrichtendienst: §G+10%§!"

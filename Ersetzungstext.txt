@@ -1,125 +1,25 @@
-Strahlflugzeug
-Schwerer Sturzkampfbomber
-Strahlgetriebener Sturzkampfbomber
-Sturzkampfflugzeug
-
-
-Luftmontageanlagen 		-> Flugzeugmontageanlagen
-LKW Werkstatt			-> Kleine Mototorenmontageanlage
-Panzer Werkstatt		-> Kleine Panzermontagehalle
-Artiller Werkstatt		-> Kleine Artilleriegießerei
-Kampfflugzeug Werkstatt	-> Kleine Flugzeugmontageanlagen
-
-LAND_COMBAT_CAS_INFO_TOOLTIP
-LAND_COMBAT_CAS_INFO_TOOLTIP_DETAIL
-
 Units organization is to low to advance
 Understood
 Long live the Thoused year Reich
-Tanks
 
-
-Attitude
-
-size
-
-Einheiten von Deutsch Luftlandetruppen
 Empire Exhibition
 
-Jugoslawien Wettbewerb für Kampfflugzeuge
-
-Die Jugoslawien Air Force ... Auftrag
-
-Verbundener Zorn -> Allierter Zorn/Empörung
-
-achdem sie in der Deutschlandhalle
-
-Die folgenden Waffen-SS Einheiten können diesen Monat aufgestellt werden
-
-Kontrollorien sie den Waffen-SS Aufstellungsreiter
-
-Das Königreich Rumänien will Deutsch-Schiffe kaufen ... wohlbewusst
-
-Unter Berufung auf die während des Ersten Weltkrieges ... Frankreich ist der Verbündete beigetreten.
-
-AHeerestheoretiker
-
-Die rasant ansteigende französische Währung
-Du nicht Marktsubventionen haben.
-
-Die Die Unterzeichnung des französisch-türkischen
-überschüssigen Lebensmittel an Königreich Bulgarien
-
 Understood
-
-eine Invasion vorbereiten
-
-Ihre unterdrückten deutschen Bewohner // Unsere
-
-Mengen an Rüstungsgütern befreit/erobert
-
-Die Weltspannung wird um 0.2% erhöht
-
-Auskuppeln
-der Schlachtflotte -> Der Schlachtflotte
-tzung von Kreuzern
-hrer von Kreuzerflo
-im Einsatz Doktrin -> Im Einsatz 
-
-Eine niedrige Positionierung hat folgende Auswirkungen:
-Angriff
-Überprüfung???
-Luftabwehr
-U-Boot-Sichtbarkeit -> U-Boot Sichtbarkeit
 
 The heat Wave of 1936
 Oh dear ...
 
-Er wird vermisst werden. Tod Walter Wevers
-
-Säuberung der Führung der Union der Sozial
-rische Mobilmachung: Stehendes Heer
-iplomaten befürchten //Marco Polo
-
-Die IRA überfiel das Magazine Fort, ... 07-1937
-
-Polen kapituliert
-Deutsch-Kräfte im ganzen Land
-Die Polnisch-Regierung hat sich dazu
-
-Als Folge der Kriegserklärung von Sowjetunion an Republik Finnland
 #~ none of these units can be reassigned from their current orders
-
-
-Dafür erhält sie volle Straffreiheit für sie seine 
-Dank siees umfangreiches Wissens
-
-
-605 Metern
-
-Nach der Rückkehr Österreichs zum Reich haben wir nun eine gemeinsame Grenze mit Das Königreich Jugoslawien
 
 The following stats have been increased.
 
 Earthquake
 
-Deutsch Druck in Richtung Benelux
-
-... Mit der Unterstützung von Französisch und Britisch weigern sich diese jedoch, 
-
-dismiss
-
-Lokale Lieferungen
-Abnutzung von Lieferwagen
-
-
-mit dem Hauptquartier
-Kriegsführung
-ben
-Verbindung
-für Stabsoffiziere
-ndemodellierung Informationen
-
-Einheiten, die sich in der Startposition eines Plans befinden
-
 Dont bother me with this
+
+That seems appropriate
+Give them only Ljubljana and Central Dalmatia
+Give them only Montenegro and Prizren
+Everything will be under German control
+
+It is Hungarian land

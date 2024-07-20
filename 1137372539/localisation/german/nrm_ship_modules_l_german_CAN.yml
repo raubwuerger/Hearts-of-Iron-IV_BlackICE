@@ -1121,8 +1121,8 @@
  CAN_nrm_support_destroyer_ASW_1:0 "Typ D DC-Gestell"
  CAN_nrm_support_destroyer_ASW_2:0 "Mark VII DC-Gestell und -Werfer"
  CAN_nrm_support_destroyer_ASW_3:0 "Mark X DC-Zahnstange und -Werfer"
- CAN_nrm_support_destroyer_ASWP_1:0 "Hedgehod ASW Projektor"
- CAN_nrm_support_destroyer_ASWP_2:0 "Tintenfisch-ASW-Mörser"
+ CAN_nrm_support_destroyer_ASWP_1:0 "Hedgehod U-Jagd Projektor"
+ CAN_nrm_support_destroyer_ASWP_2:0 "Tintenfisch-U-Jagd-Mörser"
 
  CAN_nrm_support_destroyer_ASW_1_desc:0 ""
  CAN_nrm_support_destroyer_ASW_2_desc:0 ""
@@ -1286,7 +1286,7 @@
  CAN_nrm_submarine_SNK_1:0 "Schnorchel"
  CAN_nrm_submarine_SNK_2:0 "Schnorchel (Verbessert)"
 
- CAN_nrm_submarine_ML_1:0 "Minenleger-Ausrüstung"
+ CAN_nrm_submarine_ML_1:0 "Minenlegerausrüstung"
 
  CAN_nrm_submarine_FP_1_desc:0 ""
  CAN_nrm_submarine_FP_2_desc:0 ""

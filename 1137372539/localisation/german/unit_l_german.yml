@@ -668,7 +668,7 @@
  PLAN_PREPARATION:0 "Angriffsbonus für Planvorbereitung: $VALUE|0Y%$ (Max: $MAX|0Y%$)"
  PLAN_PREPARATION_FACTOR:0 "Angriffsbonus der Planvorbereitung multipliziert mit: $VALUE|0+%$"
  PLAN_PREPARATION_CHANGE:0 "Die Vorbereitung erhöht sich jeden Tag um $VALUE|1Y%$."
- PLAN_PREPARATION_DESC:0 "Einheiten, die sich in der Startposition eines Plans befinden, erhalten einen Vorbereitungsbonus. Sobald sie anfangen, mit dem Plan zu kämpfen oder sich von ihm wegbewegen, sinkt dieser Bonus wieder."
+ PLAN_PREPARATION_DESC:0 "Einheiten, die sich mit einem Schlachtplan vorbereiten, erhalten einen Vorbereitungsbonus. Sobald der Plan ausgeführt wird, sinkt dieser Bonus wieder."
  SELECT_HALF_DIVISIONS:0 "§TWählen Sie die Hälfte der aktuellen Divisionen aus§!"
  HOLD_DIVISIONS:0 "§THalte die Divisionen§!"
  MOUNT_BUTTON_SINGLE_LOAD_DESC:0 "Division auf das Transportschiff laden."

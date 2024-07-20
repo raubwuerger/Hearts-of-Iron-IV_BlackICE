@@ -342,7 +342,7 @@
  POSITIONING_SURFACE_DETECTION_SUPERIORITY:0 "Oberflächenerkennungsbonus: $NUM|+%$"
  POSITIONING_RECENTLY_JOINED_SHIPS:0 "Neue Schiffe dem Kampf beigetreten: $NUM|+%$"
  POSITIONING_SHIP_RATIO_PENALTY:0 "Größere Flotte: $NUM|+%$"
- POSITIONING_PENALTY_INFO:1 "Eine niedrige Positionierung hat folgende Auswirkungen:"
+ POSITIONING_PENALTY_INFO:1 "Eine schlechte Positionierung hat folgende Auswirkungen:"
  AA_MODIFIER:0 "Luftabwehr: $NUM|+%$"
  SCREENING_VALUE:0 "Überprüfung: $NUM|+%$"
  POSITIONING_VALUE:0 "Positionierung: $NUM|+%$"

@@ -102,7 +102,7 @@
  germany.48.a:0 "Das könnte sich zu unserem Vorteil auswirken."
  germany.49.d:0 "In München haben Gespräche zwischen den Staats- und Regierungschefs Deutschlands, Großbritanniens, Frankreichs und Italiens stattgefunden, um die Zukunft der Tschechoslowakei zu erörtern. Sowohl die Briten als auch die Franzosen haben unsere Ansprüche auf das Sudetenland als legitim anerkannt, und ihre früheren Unterstützungsangebote an die Tschechen wurden zurückgenommen.\n\nTrotz der Ausweglosigkeit ihrer Lage weigern sich die starrköpfigen Tschechen, ihr Gebiet aufzugeben! Wir werden es mit Gewalt einnehmen müssen. Es wurde ein Invasionsplan vorbereitet, der dieses abscheuliche Experiment von Versailles vom Angesicht der Erde tilgen wird!"
  germany.49.a:0 "Die Tschechen müssen vernichtet werden."
- germany.50.d:0 "In München haben Gespräche zwischen den Führern Deutschlands, Großbritanniens, Frankreichs und Italiens stattgefunden, um die Zukunft der Tschechoslowakei zu erörtern. Sowohl die Briten als auch die Franzosen haben unsere Ansprüche auf das Sudetenland als rechtmäßig anerkannt, und ihre früheren Unterstützungsangebote an die Tschechen wurden zurückgenommen.\n\nDie Tschechen haben die Hoffnungslosigkeit ihrer Lage erkannt und die Sudetengebiete an uns abgetreten. Ihre unterdrückten deutschen Bewohner werden endlich ins Vaterland geholt!"
+ germany.50.d:0 "In München haben Gespräche zwischen den Führern Deutschlands, Großbritanniens, Frankreichs und Italiens stattgefunden, um die Zukunft der Tschechoslowakei zu erörtern. Sowohl die Briten als auch die Franzosen haben unsere Ansprüche auf das Sudetenland als rechtmäßig anerkannt, und ihre früheren Unterstützungsangebote an die Tschechen wurden zurückgenommen.\n\nDie Tschechen haben die Hoffnungslosigkeit ihrer Lage erkannt und die Sudetengebiete an uns abgetreten. Unsere unterdrückten Landsleute werden endlich ins Vaterland geholt!"
  germany.50.a:0 "Dies ist ein historischer Tag für Deutschland."
  germany.51.t:0 "Erster Wiener Preis"
  germany.51.d:0 "Die Tschechoslowakei ist ein Krebsgeschwür im Herzen Europas, und endlich haben sich die Deutschen entschlossen, entschieden gegen sie vorzugehen. Das Sudetenland ist bereits an Deutschland abgetreten worden, und nun soll als Folge des Münchner Abkommens auch das tschechoslowakische Gebiet, das rechtmäßig zu Ungarn gehört, an uns zurückgegeben werden."
@@ -118,7 +118,7 @@
  germany.54.d:0 "Die Tschechen haben irgendwie den Mut aufgebracht, sich gegen unsere Besetzung ihres Landes zu wehren. Ihre beste Verteidigung befand sich im Sudetenland, das jetzt unter unserer Kontrolle steht, so dass dies ein schneller Feldzug sein dürfte."
  germany.54.a:0 "Prag wird bald uns gehören."
 
- germany.55.d:0 "Das Ende der Tschechoslowakei ist nahe, und unsere Streitkräfte marschieren in diesem Augenblick in Prag ein. Mit der Kapitulation des tschechoslowakischen Militärs haben wir große Mengen an Rüstungsgütern befreit. Vor allem ihre Panzer dürften unseren Streitkräften gute Dienste leisten.\n\nBöhmen wird als Protektorat an Deutschland angegliedert werden, aber was soll aus der Slowakei werden? Sie liegt jetzt sowohl in unserer als auch in der ungarischen Interessensphäre."
+ germany.55.d:0 "Das Ende der Tschechoslowakei ist nahe, und unsere Streitkräfte marschieren in diesem Augenblick in Prag ein. Mit der Kapitulation des tschechoslowakischen Militärs haben wir große Mengen an Rüstungsgütern erobert. Vor allem ihre Panzer dürften unseren Streitkräften gute Dienste leisten.\n\nBöhmen wird als Protektorat an Deutschland angegliedert werden, aber was soll aus der Slowakei werden? Sie liegt jetzt sowohl in unserer als auch in der ungarischen Interessensphäre."
 
 
 
@@ -1498,7 +1498,7 @@
 
 
  news.1.t:0 "Zwischenfall an der Marco-Polo-Brücke"
- news.1.d:0 "Japanische und chinesische Streitkräfte haben sich ein ergebnisloses Gefecht um die strategisch wichtige Marco-Polo-Brücke südwestlich von Peking geliefert. \n\n[CHI.GetNameDef] hat die Forderungen von [JAP.GetNameDef] nach einer Entschuldigung und territorialen Zugeständnissen zurückgewiesen und stattdessen behauptet, dass die "Sollbruchstelle" der japanischen Aggression erreicht worden sei. \niplomaten befürchten, dass die instabile Situation jederzeit zu einem Krieg führen könnte."
+ news.1.d:0 "Japanische und chinesische Streitkräfte haben sich ein ergebnisloses Gefecht um die strategisch wichtige Marco-Polo-Brücke südwestlich von Peking geliefert. \n\n[CHI.GetNameDef] hat die Forderungen von [JAP.GetNameDef] nach einer Entschuldigung und territorialen Zugeständnissen zurückgewiesen und stattdessen behauptet, dass die "Sollbruchstelle" der japanischen Aggression erreicht worden sei. \nDiplomaten befürchten, dass die instabile Situation jederzeit zu einem Krieg führen könnte."
  news.1.a:1 "In der Tat interessante Zeiten."
  news.1.b:0 "Wir werden es den Chinesen zeigen!"
  news.1.c:0 "Das ist richtig! Nicht einen Zentimeter!"
@@ -1507,7 +1507,7 @@
  news.2.b:0 "Das wird uns zufriedenstellen... vorerst."
  news.2.c:0 "Wir hatten keine andere Wahl."
  news.5.t:0 "[JAP.GetNameDefCap] Fordert Französisch-Indochina"
- news.5.d:0 "Unter Ausnutzung der französischen Schwäche angesichts des Kampfes in Europa hat [JAP.GetNameDef] die neue Regierung dazu gezwungen, die Kontrolle über ihre Kolonie in Indochina aufzugeben! \nie japanischen Truppen haben bereits alle wichtigen Stützpunkte in der Region besetzt, und Experten befürchten, dass die Kolonie als Ausgangspunkt für künftige Militärexpeditionen genutzt werden könnte."
+ news.5.d:0 "Unter Ausnutzung der französischen Schwäche angesichts des Kampfes in Europa hat [JAP.GetNameDef] die neue Regierung dazu gezwungen, die Kontrolle über ihre Kolonie in Indochina aufzugeben! \nDie japanischen Truppen haben bereits alle wichtigen Stützpunkte in der Region besetzt, und Experten befürchten, dass die Kolonie als Ausgangspunkt für künftige Militärexpeditionen genutzt werden könnte."
  news.5.a:0 "Aasgeier picken an einer Leiche..."
  news.5.b:0 "So soll es auch sein."
  news.5.c:0 "Die Schakale haben uns keine Wahl gelassen."
@@ -2027,7 +2027,7 @@
  news.174.c:0 "Es wird nie etwas dabei herauskommen."
  news.174.e:0 "Wir werden unsere Forschung im Geheimen betreiben."
  news.175.t:0 "Frankreich und Großbritannien kündigen Allianz an"
- news.175.d:0 "Unter Berufung auf die während des Ersten Weltkriegs geschmiedeten Bande hat Frankreich unter Berufung auf nicht näher bezeichnete Bedrohungen für die Stabilität Europas um ein formelles Bündnis mit Großbritannien ersucht. Heute wurde das Ersuchen vom britischen Parlament genehmigt, und Frankreich ist der [ENG.GetFactionName] beigetreten."
+ news.175.d:0 "Unter Berufung auf die während des Ersten Weltkriegs geschmiedeten Bande hat Frankreich unter Berufung auf nicht näher bezeichnete Bedrohungen für die Stabilität Europas um ein formelles Bündnis mit Großbritannien ersucht. Heute wurde das Ersuchen vom britischen Parlament genehmigt, und Frankreich ist den [ENG.GetFactionName]n beigetreten."
  news.175.a:0 "Wir stehen zusammen."
  news.175.b:0 "Sie bereiten sich auf das Schlimmste vor."
  news.175.c:0 "Sie tun sich zusammen wie in die Enge getriebene Ratten."
@@ -2352,7 +2352,7 @@
  news.233.b:0 "Wir müssen unsere Optionen abwägen."
  news.233.c:0 "Wir werden sehen, wie sich die Situation entwickelt."
  news.234.t:0 "[GER.GetAdjective]er Druck in Richtung Benelux"
- news.234.d:0 "Nach dem Ausbruch des Krieges mit Frankreich übt Deutschland mehr denn je diplomatischen Druck auf die Benelux-Länder aus. Mit der Unterstützung von [FRA.GetAdjective] und [ENG.GetAdjective] weigern sich diese jedoch, dem Druck nachzugeben.\n\nEs gibt Grund zu der Annahme, dass [GER.GetNameDef], wenn es nicht in der Lage ist, das Gewünschte auf diplomatischem Wege zu erreichen, es sich mit Gewalt holen wird."
+ news.234.d:0 "Nach dem Ausbruch des Krieges mit Frankreich übt Deutschland mehr denn je diplomatischen Druck auf die Benelux-Länder aus. Mit der Unterstützung von [FRA.GetName] und [ENG.GetName] weigern sich diese jedoch, dem Druck nachzugeben.\n\nEs gibt Grund zu der Annahme, dass [GER.GetNameDef], wenn es nicht in der Lage ist, das Gewünschte auf diplomatischem Wege zu erreichen, es sich mit Gewalt holen wird."
  news.234.a:0 "Nicht schon wieder!"
  news.234.b:0 "[GER.GetNameDefCap] muss in Schach gehalten werden!"
  news.234.c:0 "Das wäre ein aggressiver Schlag."

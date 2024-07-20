@@ -110,9 +110,9 @@
  improved_carrier_airgroup_search_desc:0 ""
  advanced_carrier_airgroup_search:0 "Fortgeschrittenes Träger-Suchflugzeug"
  advanced_carrier_airgroup_search_desc:0 ""
- carrier_airgroup_asw:0 "Träger-ASW-Flugzeug"
+ carrier_airgroup_asw:0 "Träger-U-Jagd-Flugzeug"
  carrier_airgroup_asw_desc:0 ""
- advanced_carrier_asw_search:0 "Fortgeschrittene Träger-ASW-Flugzeuge"
+ advanced_carrier_asw_search:0 "Fortgeschrittene Träger-U-Jagd-Flugzeuge"
  advanced_carrier_asw_search_desc:0 ""
 
  improved_sub_torpedo_launcher:0 "Große U-Boot-Torpedos"
@@ -502,7 +502,7 @@
  nrm_db_grand_battlefleet_desc:0 ""
 
  ##Fleet In Being Doctrine ""
- nrm_fleet_in_being:0 "Flotte im Einsatz Doktrin"
+ nrm_fleet_in_being:0 "Präsenzflotten Doktrin (Fleet in being)"
  nrm_fleet_in_being_desc:0 ""
  nrm_fib_power_projection:0 "Machtprojektion"
  nrm_fib_power_projection_desc:0 ""
