@@ -548,7 +548,7 @@
   NAVAL_FORMATION_SPREAD_DESC:0 "Wie weit die Flotte verteilt ist. Eine stärker verteilte Flotte deckt ein größeres Gebiet ab, was das Aufspüren des Feindes erleichtert, aber es dauert länger, bis sie sich für eine größere Schlacht zusammengefunden hat, wenn sie benötigt wird. Die Verteilung hängt hauptsächlich von der gewählten Mission ab."
   NAVAL_MISSIONS_LOCAL_HEADER:0 "§HMarinemissionen:§!"
   NAVAL_MISSION_THIS_IS_LAND_REGION:0 "In dieser Region gibt es keine Seeprovinzen."
-  HOME_BASE_TITLE:1 "§HHome Base§!"
+  HOME_BASE_TITLE:1 "§HHeimathafen§!"
   HOME_BASE_DESC:0 "Der Stützpunkt, von dem aus diese Flotte Missionen durchführt.\n§YCTRL§!+§GRechtsklick§! auf einen Seestützpunkt, um diesen zu verschieben und einen neuen §GHauptstützpunkt§! zu setzen."
   NAVAL_PROV_DESC_MOVE_TO:0 "§GRechtsklick§! auf §Ymove§! in die Provinz."
   NAVAL_PROV_DESC_REBASE_TO:0 "§YCTRL§!+§GRechtsklick§! zum Setzen als §GHeimatbasis§!"
