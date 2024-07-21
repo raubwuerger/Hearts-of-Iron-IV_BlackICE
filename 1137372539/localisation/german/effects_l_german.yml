@@ -331,7 +331,7 @@
  EFFECT_EVERY_OCCUPIED_COUNTRY_STARTS:0 "Jedes besetzte Land"
  EFFECT_EVERY_COUNTRY_WITH_ORIGINAL_TAG:0 "Jedes Land mit demselben ursprünglichen Tag wie $COUNTRY|H$"
  EFFECT_CREATE_INTELLIGENCE_AGENCY:0 "Erstelle einen Geheimdienst."
- EFFECT_UPGRADE_INTELLIGENCE_AGENCY:0 "Wende das Upgrade $UPGRADE|H$ auf deinen Geheimdienst an."
+ EFFECT_UPGRADE_INTELLIGENCE_AGENCY:0 "Wende die Verbesserung $UPGRADE|H$ auf deinen Geheimdienst an."
  EFFECT_ADD_INTEL:0 "$SOURCE|H$ gewinnt Informationen über $TARGET|H$: $INTEL|.1%%$"
  EFFECT_ADD_RESISTANCE_TARGET_WITH_FROM_AND_TARGET:0 "£political_violence_texticon Widerstandsziel: $VALUE$ für $OCCUPIED|H$ während der Besetzung durch $OCCUPIER|H$"
  EFFECT_ADD_RESISTANCE_TARGET_WITH_FROM:0 "£political_violence_texticon Widerstandsziel: $VALUE$ für $OCCUPIED|H$"

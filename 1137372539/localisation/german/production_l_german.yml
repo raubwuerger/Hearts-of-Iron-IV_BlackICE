@@ -210,7 +210,7 @@ PRODUCTION_RESOURCE_PENALTY_WITH_MIO: "§TMangel an Ressourcen: $AMOUNT|R2%$§! 
  PROD_LINE_PLANE_DEST_UPGRADING:2 "Benötigt für §YVerstärkung§!"
  PROD_LINE_PLANE_DEST_REINFORCEMENT:2 "Benötigt für §YVerstärkung§!"
  PROD_LINE_LAND_DEST_RESERVES:1 "Wird §YStockpiled§!"
- PROD_LINE_LAND_DEST_UPGRADING:2 "Benötigt für §YUpgrade§!"
+ PROD_LINE_LAND_DEST_UPGRADING:2 "Benötigt für §YVerbesserung§!"
  PROD_LINE_LAND_DEST_REINFORCEMENT:2 "Benötigt für §YVerstärkung§!"
  CONFIRM_REMOVE_BUILDING_LEVEL_TITLE:0 "Gebäude entfernen"
  CONFIRM_REMOVE_BUILDING_LEVEL_DESC:0 "Sind Sie sicher, dass Sie dieses Gebäude §Rentfernen§! wollen?"

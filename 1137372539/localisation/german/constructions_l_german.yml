@@ -122,7 +122,7 @@
   CONSTRUCTION_MAP_ICON_ENTRY:0 "£backhoe_icon_small $VAL$/$MAX$"
   CONSTRUCTION_MAP_ICON_ENTRY_WITH_TEMP:0 "£backhoe_icon_small $VAL$+$ADD|H$/$MAX$"
   STATE_BUILDINGS:0 "Staatliche Gebäude"
-  STATE_BUILDINGS_DESC:0 "Gebäude, die in Staaten gebaut werden. Jedes Gebäude hat sein eigenes Levellimit."
+  STATE_BUILDINGS_DESC:0 "Gebäude, die in Staaten gebaut werden. Jedes Gebäude hat sein eigenes Stufelimit."
   SHARED_BUILDINGS:0 "Gemeinsame Gebäude"
   SHARED_BUILDINGS_DESC:0 "Gebäude, die in Staaten gebaut werden. Jeder Staat hat eine eigene Anzahl von Gebäudeslots, die zwischen diesen Gebäuden geteilt wird."
   PROVINCE_BUILDINGS:0 "Provinz-Gebäude"

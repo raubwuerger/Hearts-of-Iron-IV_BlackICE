@@ -1803,7 +1803,7 @@ Cavalry_tank_axis_desc:0 "Schnelle Panzer, die Breschen in der Linie ausnutzen s
  category_infantry_tank:0 "Infanterie-Panzer"
  category_flamm_tank:0 "Flammenwerfer-Panzer"
  category_all_air:0 "Alle Flugzeuge"
- category_jet:0 "Jet-Flugzeuge"
+ category_jet:0 "Strahlgetriebene Flugzeuge"
  category_missile:0 "Raketen"
  category_rock_air:0 "Raketenflugzeuge"
  

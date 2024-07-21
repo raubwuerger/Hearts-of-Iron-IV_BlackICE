@@ -115,8 +115,8 @@
  SHIPYARD_NR:0 "§G[?num_shipyard]§!"
  SUBYARD_NR:0 "§G[?num_subyard]§!"
  
- SHIPYARD_FACTORY_TOOLTIP:0 "\n§YMarinewerften§!\n\nMax. Stufe: §Y[GetMaxShipyardNumber]§!\nAktuelles Level: [?num_shipyard_total|Y0]\nBeschädigt: [?num_shipyard_damaged|0R]\n\n£nic_factory_output §YWerften§! Ausgabe: [GetShipyardBonus] \n§YU-Boot§!: £production_cost IC-Kosten: [?num_shipyard|-=]§R%§!"
- SUBYARD_FACTORY_TOOLTIP:0 "\n§YU-Bootwerften§!\n\nMax. Stufe: §Y[GetMaxSubyardNumber]§!\nAktuelles Level: [?num_subyard_total|Y0]\nBeschädigt: [?num_subyard_damaged|0R]\n\n§YU-Boot§!: £production_cost IC Kosten: §G-[GetSubyardBonus]§!"
+ SHIPYARD_FACTORY_TOOLTIP:0 "\n§YMarinewerften§!\n\nMax. Stufe: §Y[GetMaxShipyardNumber]§!\nAktuelle Stufe: [?num_shipyard_total|Y0]\nBeschädigt: [?num_shipyard_damaged|0R]\n\n£nic_factory_output §YWerften§! Ausgabe: [GetShipyardBonus] \n§YU-Boot§!: £production_cost IC-Kosten: [?num_shipyard|-=]§R%§!"
+ SUBYARD_FACTORY_TOOLTIP:0 "\n§YU-Bootwerften§!\n\nMax. Stufe: §Y[GetMaxSubyardNumber]§!\nAktuelle Stufe: [?num_subyard_total|Y0]\nBeschädigt: [?num_subyard_damaged|0R]\n\n§YU-Boot§!: £production_cost IC Kosten: §G-[GetSubyardBonus]§!"
 
  CAPITAL_SHIPYARD_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@shipyard_capital] Kapazität der Großwerft§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@shipyard_capital]§![GetCapitalProductionFree]\n\nInsgesamt Große Schiffswerften: [?num_capital_shipyard|Y0]\n Beschädigt: [?num_capital_shipyard_damaged|R0]\n\nKapazität pro Werft: [?modifier@shipyard_capital_capacity|Y0]\n [!shipyard_assembly_capacity_click]"
  AIR_PRODUCTION_FACTORY_TOOLTIP:0 "\nWir haben §Y[?resource@air_production] Flugzeugproduktionskapazität§! zur Verfügung.\nInsgesamt genutzt: §Y[?resource_consumed@air_production]§!\n\nFlugzeugmontageanlagen insgesamt: [?num_air_assembly|Y0]\n Beschädigt: [?num_air_assembly_damaged|R0]\n\nKapazität pro Anlage: [?modifier@air_production_capacity|Y0]\n [!air_assembly_capacity_click]"
@@ -510,7 +510,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  selected_slot_name:0 "AUSGEWÄHLTER SLOT: [?selected_research_slot.GetName]"
  selected_slot_name_base:0 "AUSGEWÄHLTER STECKPLATZ: Basis"
 
- AIR_STRENGTH_TITLE:0 "§YLuftwaffenstärke§!\nUnsere aktuelle Luftstärke ist [?air_strength|Y0]\nFür das nächste Level erforderliche Stärke: §Y[Root.GetAirStrengthNextLevel]§!\n\n§YFlugzeuge§! tragen je nach Typ unterschiedlich viel zu unserer \nStärke bei.\n\n"
+ AIR_STRENGTH_TITLE:0 "§YLuftwaffenstärke§!\nUnsere aktuelle Luftstärke ist [?air_strength|Y0]\nFür die nächste Stufe erforderliche Stärke: §Y[Root.GetAirStrengthNextLevel]§!\n\n§YFlugzeuge§! tragen je nach Typ unterschiedlich viel zu unserer \nStärke bei.\n\n"
  FIGHTER_EQUIPMENT_WEIGHT:0 "Jagdflugzeuge: §Y1.0§!\n"
  ALT_FIGHTER_EQUIPMENT_WEIGHT:0 "Veraltete Jagdflugzeuge: §Y1.0§!\n"
  INTERCEPTOR_EQUIPMENT_WEIGHT:0 "Abfangjäger: §Y1.0§!\n"
@@ -547,7 +547,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  JET_STRAT_EQUIPMENT_WEIGHT:0 "Strahlgetriebene schwere Bomber: §Y2.0§!\n"
  ROCKET_INTERCEPTOR_EQUIPMENT_WEIGHT:0 "Raketenabfangjäger: §Y1.0§!\n\n"
  
- ARMY_STRENGTH_TITLE:0 "§YHeeresstärke§!\nUnsere aktuelle Heeresstärke ist [?army_strength|1Y]\nFür das nächste Level erforderliche Stärke: §Y[Root.GetArmyStrengthNextLevel]§!\n\n§YBatallione§! tragen je nach Typ unterschiedlich viel zu unserer Stärke bei.\n"
+ ARMY_STRENGTH_TITLE:0 "§YHeeresstärke§!\nUnsere aktuelle Heeresstärke ist [?army_strength|1Y]\nFür die nächste Stufe erforderliche Stärke: §Y[Root.GetArmyStrengthNextLevel]§!\n\n§YBatallione§! tragen je nach Typ unterschiedlich viel zu unserer Stärke bei.\n"
  ARMY_STRENGTH_MULTIPLICATOR:0 "Multipliziert mit der aktuellen §YFeldstärke§! ([?field_strength|Y%0])\n\n"
  ARMY_STRENGTH_IDEA:0 "£army_experience Landdoktrin-Forschungsgeschwindigkeit: §Y[Root.GetArmyStrengthResearchValue]§!"
  INFANTRY_WEIGHT:0 "\nInfanterie: §Y1.00§!\n"
@@ -574,7 +574,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  MEDIUM_ARMOR_WEIGHT:0 "Mittlere Panzer: §Y4.00§!\n"
  HEAVY_ARMOR_WEIGHT:0 "Schwere Panzer: §Y5.00§!\n"
 
- NAVAL_WEIGHT_TT:0 "§CMarinestärke§!\nUnsere aktuelle Marinestärke beträgt [?navy_strength|Y1]\nFür das nächste Level erforderliche Stärke: §Y[Root.GetNavyStrengthNextLevel]§!\n\n§YSchiffe§! tragen je nach Typ unterschiedlich viel zu unserer Stärke bei.\n\n"
+ NAVAL_WEIGHT_TT:0 "§CMarinestärke§!\nUnsere aktuelle Marinestärke beträgt [?navy_strength|Y1]\nFür die nächste Stufe erforderliche Stärke: §Y[Root.GetNavyStrengthNextLevel]§!\n\n§YSchiffe§! tragen je nach Typ unterschiedlich viel zu unserer Stärke bei.\n\n"
  BATTLESHIP_WEIGHT:0 "Schlachtschiff: §Y8.00§!\n"
  PREDREADNOUGHT_WEIGHT:0 "Predreadnought: §Y5.00§!\n"
  BATTLECRUISER_WEIGHT:0 "Schlachtkreuzer: §Y8.00§!\n"
@@ -1181,7 +1181,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  INDUSTRY_EVAC_SMALL_TOOLTIP:0 "Bewegt [?temp|G0] §YKleinwaffenfabriken§!\n"
  INDUSTRY_EVAC_LTAIR_TOOLTIP:0 "Verschiebt [?temp|G0] §YFlugzeugmontagewerke§!\n"
  INDUSTRY_EVAC_HVAIR_TOOLTIP:0 "Bewegt [?temp|G0] §YSchwerflugzeugfabriken§!\n"
- INDUSTRY_EVAC_JETAIR_TOOLTIP:0 "Bewegt sich [?temp|G0] §YJet-Flugzeugfabriken§!\n"
+ INDUSTRY_EVAC_JETAIR_TOOLTIP:0 "Bewegt sich [?temp|G0] §YStrahlflugzeugfabriken§!\n"
  
  INDUSTRY_EVAC_TITLE:0 "Industrie-Evakuierungsstandorte"
  INDUSTRY_EVAC_TARGET_TOOLTIP:0 "an die folgenden Staaten: §G[?target_state.GetName]§!"
@@ -1197,7 +1197,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  INDUSTRY_EVAC_REMOVE_SMALL_TOOLTIP:0 " [?From.SMALL_during|G0] §YKleinwaffenfabriken§!\n"
  INDUSTRY_EVAC_REMOVE_LTAIR_TOOLTIP:0 " [?From.LTAIR_during|G0] §YLeichtflugzeugfabriken§!\n"
  INDUSTRY_EVAC_REMOVE_HVAIR_TOOLTIP:0 " [?From.HVAIR_during|G0] §YSchwerflugzeugfabriken§!\n"
- INDUSTRY_EVAC_REMOVE_JETAIR_TOOLTIP:0 " [?From.JETAIR_during|G0] §YJet-Flugzeugfabriken§!\n"
+ INDUSTRY_EVAC_REMOVE_JETAIR_TOOLTIP:0 " [?From.JETAIR_during|G0] §YStrahlflugzeugfabriken§!\n"
  
  RESEARCH_EVAC_MOVE_TOOLTIP:0 "\nVerschiebt das §YForschungszentrum§! in den folgenden Zustand: [?From.research_evac_target.GetName]"
  RESEARCH_EVAC_MOVE_DURING_TOOLTIP:0 "\nVerschiebt das §YForschungszentrum§! in den folgenden Zustand: [?temp.GetName]"
@@ -1217,7 +1217,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  HTD_variant_tooltip:0 "§Y[?v.GetTokenLocalizedKey]§!\n\n§YVoraussetzungen:§!\n[!tech_click_enabled]\n\n§YEffekte bei Auswahl:§!\n[!tech_click]"
  HTD_xp_cost_tooltip:0 "      [GetHDTXPColor]"
  
- TRAIT_XP_LEVEL_TOOLTIP:0 "§YAktuelle Effekte ab Level [?lvl]/10:"
+ TRAIT_XP_LEVEL_TOOLTIP:0 "§YAktuelle Effekte ab Stufe [?lvl]/10:"
  TRAIT_XP_EFFECT_TOOLTIP:0 "§! £movement_texticon Bewegung: §G+[?movement]%§!\n £attack_texticon Angriff: §G+[?attack]%§!\n £defence_texticon Verteidigung: §G+[?defense]%§!"
  TRAIT_XP_WINTER_EFFECT_TOOLTIP:0 "§!$MODIFIER_WINTER_ATTRITION$: §G-[?winter_attrition]%§!\n$MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR$: §G+[?acclimatization]%§!"
  
@@ -2608,7 +2608,7 @@ RUBBER_OUTPUT_TEXT_TT: "Die §OGesamtmenge§! an £resources_strip|3 §YGummi§!
  
  phase_block_desc: "[GetTag] [dirty] Test"
  
- manpower_disband_TT: "§OEinheitenaufrüstung§!: Wenn dieses Upgrade aktiviert wird, wird die aktuelle Einheit (falls vorhanden) aufgelöst und ihre Soldaten in den Pool zurückgeführt. Anschließend wird eine neue, aufgerüstete Einheit gebildet, die die verfügbaren Soldaten nutzt. Die benötigte Mannstärken hängt von den Unterschieden zwischen den Mannstärken beider Einheiten ab.
+ manpower_disband_TT: "§OEinheitenaufrüstung§!: Wenn diese Verbesserung aktiviert wird, wird die aktuelle Einheit (falls vorhanden) aufgelöst und ihre Soldaten in den Pool zurückgeführt. Anschließend wird eine neue, aufgerüstete Einheit gebildet, die die verfügbaren Soldaten nutzt. Die benötigte Mannstärken hängt von den Unterschieden zwischen den Mannstärken beider Einheiten ab.
 
  OUTCOME_DETERMINED_TT: "\nDas Ergebnis für Folgendes wird bestimmt, sobald wir diese Entscheidung getroffen haben, aber der Effekt wird gewährt, wenn die Entscheidungen entfernt werden."
 
