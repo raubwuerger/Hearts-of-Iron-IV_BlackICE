@@ -404,9 +404,9 @@
  nrm_fleet_coordination_desc:0 "Das Studium vergangener und aktueller Schlachten ermöglicht es uns, unsere Flottenbewegungen und -operationen zu verfeinern und unsere Flotten im Kampf effektiver zu machen."
 
  ## WW1 Cruiser Doctrine ""
- nrm_cruiser_warfare:0 "Kreuzer-Kriegsführung"
+ nrm_cruiser_warfare:0 "Kreuzer Kriegsführung"
  nrm_cruiser_warfare_desc:0 ""
- nrm_cruiser_battleline_support:0 "Unterstützung von Kreuzern in der Schlachtlinie"
+ nrm_cruiser_battleline_support:0 "Kreuzerunterstützung in der Schlachtlinie"
  nrm_cruiser_battleline_support_desc:0 ""
  nrm_cruiser_flotilla_leader:0 "Führer von Kreuzerflottillen"
  nrm_cruiser_flotilla_leader_desc:0 ""

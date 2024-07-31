@@ -226,7 +226,7 @@
 
  MAIN_GARRISON_TEMPLATE:1 "Territoriale Verwaltung"
  OCCUPATION_SHOW_NO_RESISTING_COUNTRIES:1 "Nicht-widerständige Länder anzeigen ($NUM$)"
- DEFAULT_LAW_SELECTION:0 "Standard-Gesetz"
+ DEFAULT_LAW_SELECTION:0 "Standard Gesetz"
  FOREIGN_SUPPORT:0 "Ausländische Unterstützung"
  FOREIGN_SUPPORT_TOOLTIP:0 "Von anderen Ländern bereitgestellte Mannschaften."
  FOREIGN_SUPPORT_IN_GARRISON:0 "$NUMBER|H*$ in Garnisonen:"
@@ -238,8 +238,8 @@
 
  #OCCUPATION_STATE_OCCUPATION_INFO:0 "Der Staat hat einen Widerstand von $COUNTRY|H$"
  #OCCUPATION_STATE_OCCUPATION_INFO_NO_RESISTANCE:0 "Es gibt keinen Widerstand in dem Staat"
- non_core_controller:0 "Nicht-Kernkontrolleur"
- non_core_controller_desc:0 "Ein Staat, der von einem Nicht Kernland kontrolliert wird"
+ non_core_controller:0 "Fremdländisch Besetzt"
+ non_core_controller_desc:0 "Eine Provinz, die von einer fremden Macht kontrolliert wird"
  recent_state_change: "Hat kürlich den Besitzer gewechselt"
 
  #BI ""

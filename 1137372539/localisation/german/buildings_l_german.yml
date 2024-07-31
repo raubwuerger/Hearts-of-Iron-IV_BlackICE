@@ -44,7 +44,7 @@
  
  artillery_assembly:0 "Artilleriegießerei"
  artillery_assembly_plural:0 "Artilleriegießereien"
- artillery_assembly_desc:0 "Artilleriegießereien stellen §YArtillerie-Produktionskapazität§! bereit, die für den Bau von §YArtillerie§!, §YPanzerabwehrkanonen§! und §YPanzern§!$artillery_assembly_effect$ erforderlich ist"
+ artillery_assembly_desc:0 "Artilleriegießereien stellen §YArtillerie Produktionskapazität§! bereit, die für den Bau von §YArtillerie§!, §YPanzerabwehrkanonen§! und §YPanzern§!$artillery_assembly_effect$ erforderlich ist"
  artillery_assembly_effect: "\n\nMax. Stufe: §Y10§!\nGebäudezustand: §Y10§!\nInfrastruktureffekt: §GJa§!"
  
  shipyard_capital_building:0 "Große Schiffswerft"

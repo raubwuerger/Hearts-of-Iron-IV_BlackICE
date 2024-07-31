@@ -106,7 +106,7 @@
  mexico.25.desc:0 "[From.GetLeader] will sich dem Krieg gegen Deutschland anschließen, nachdem die deutsche Politik des uneingeschränkten U-Boot-Kriegs dazu geführt hat, dass U-Boote mehrere neutrale mexikanische Öltanker vor der Küste Mexikos versenkt haben."
  mexico.25.a:0 "Jedes bisschen hilft."
  mexico.25.b:0 "Wir können sicher bessere Verbündete finden als die Mexikaner."
- mexico.26.title:0 "Mexiko schließt sich der [From.GetFactionName]"
+ mexico.26.title:0 "Mexiko schließt sich den [From.GetFactionName]n an"
  mexico.26.desc:0 "[From.GetLeader] hat das Angebot des mexikanischen Präsidenten zur Unterstützung im Krieg gegen Deutschland begrüßt. Deutsche Wolfsrudel haben vor kurzem die neutralen mexikanischen Öltanker 'Potrero del Llano' und 'Faja de Oro' versenkt, eine Kriegshandlung, die den Verlust von Zivilisten zur Folge hatte, und die mexikanische Regierung hat ihren Wunsch geäußert, dass die deutschen U-Boot-Aktivitäten in der Karibik ein für alle Mal beendet werden.\n\nDie mexikanische Regierung hat sich seit einiger Zeit um eine größere Anerkennung durch die Weltmächte bemüht und glaubt, dass die Unterstützung Amerikas und der [From.GetFactionName] beweisen wird, dass sie ein internationaler Akteur ist."
  mexico.26.a:0 "Mexiko hat durchaus das Recht, dafür in den Krieg zu ziehen."
  mexico.26.b:0 "Hat Mexiko überhaupt eine Armee?"
