@@ -2,7 +2,7 @@
 
  EQT_ARCHETYPE_TITLE:0 "[?v.GetTokenLocalizedKey]" 
  
- EQT_EQUIPMENT_TILE_TOOLTIP:0 "§Y[?v.GetTokenLocalizedKey]§! (1936)\n   §g[!equipment_name_click]§!\n\n    £stock_available_icon  Available: §Y[?num_equipment@var:v]§!\n    £civ_days_icon_small  Equipment Cost: §Y[?EQT_equipments_cost^i]§!\n\n"
+ EQT_EQUIPMENT_TILE_TOOLTIP:0 "§Y[?v.GetTokenLocalizedKey]§! (1936)\n   §g[!equipment_name_click]§!\n\n    £stock_available_icon  Available: §Y[?num_equipment@var:v]§!\n    £civ_days_icon_small  Ausrüstungskosten: §Y[?EQT_equipments_cost^i]§!\n\n"
 
  EQT_EQUIPMENT_SPECIFIC_DESC:0 "Die Kosten entsprechen 100 Einheiten dieser Ausrüstung.\n\n§g[!connector_click]§!"
   

@@ -19,16 +19,20 @@ POL_infantry_equipment_2_short:9 "Kbsp wz. 38M"
 POL_infantry_equipment_3:9 "Automatikgewehr wz. 43"
 POL_infantry_equipment_3_short:9 "Kbsp wz. 43"
 
-POL_handheld_at_equipment_0:9 "Panzerabwehrgewehr wz.35 "Uruguay".  POL_handheld_at_equipment_0_short:9 "Kb ppanc wz. 35"
+POL_handheld_at_equipment_0:9 "Panzerabwehrgewehr wz.35 "Uruguay".  
+POL_handheld_at_equipment_0_short:9 "Kb ppanc wz. 35"
 
 POL_SMG_equipment_0:9 "Thompson wz. 28"
 POL_SMG_equipment_0_short:9 "Thompson wz. 28"
 POL_SMG_equipment_0_desc:9 "Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt auf Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen zugunsten von Feuerkraft im Nahbereich opfern. "
-POL_SMG_equipment_1:9 "Maschinenpistole Modell 39.  POL_SMG_Ausrüstung_1_kurz:9 "Pm wz. 39"
+POL_SMG_equipment_1:9 "Maschinenpistole Modell 39."
+POL_SMG_equipment_1_short:9 "Pm wz. 39"
 POL_SMG_equipment_1_desc:9 "Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-POL_SMG_equipment_2:9 "Maschinengewehr \n-"STEN".  POL_SMG_Ausrüstung_2_kurz:9 "Pm STEN"
+POL_SMG_equipment_2:9 "Maschinengewehr \n-"STEN".  
+POL_SMG_equipment_2_short:9 "Pm STEN"
 POL_SMG_equipment_2_desc:9 "Mit SMG ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-POL_SMG_equipment_3:9 "Maschinenpistole \"Lightning".  POL_SMG_Ausrüstung_3_kurz:9 "Pm Blyskawica"
+POL_SMG_equipment_3:9 "Maschinenpistole \"Lightning\"".  
+POL_SMG_equipment_3_3_short:9 "Pm Blyskawica"
 POL_SMG_equipment_3_desc:9 "Mit SMG ausgerüstete Infanterieeinheiten mit Fokus auf den Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 
 POL_assault_rifle_equipment_0:9 "Sturmgewehr Lightning II"
@@ -95,8 +99,8 @@ POL_artytruck_equipment_0_short:9 "C2P"
 
 POL_artillery_equipment_0:9 "75mm Kanone wz. 1897"
 POL_artillery_equipment_0_short:9 "75mm Kanone wz. 1897"
-POL_artillery_equipment_1:9 "75mm Feldkanone wz. 38 ST"
-POL_artillery_equipment_1_short:9 "75mm Feldkanone wz. 38"
+POL_artillery_equipment_1:9 "105mm wz.29"
+POL_artillery_equipment_1_short:9 "105mm wz.29"
 
 POL_medartillery_equipment_0:9 "105mm Langstrecken-Feldkanone wz. 29"
 POL_medartillery_equipment_0_short:9 "105mm Feldkanone wz. 29"

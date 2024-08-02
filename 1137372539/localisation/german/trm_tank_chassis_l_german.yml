@@ -32,8 +32,8 @@
  trm_tankette_tank_amphibious_chassis:0 "Amphibische Tankette"
 
  trm_light_tank_chassis:0 "Leichter Panzer"
- trm_light_tank_cs_chassis:0 "Leichter CS-Panzer"
- trm_light_tank_destroyer_chassis:0 "Leichter Panzerzerstörer"
+ trm_light_tank_cs_chassis:0 "Leichter Unterstützungspanzer"
+ trm_light_tank_destroyer_chassis:0 "Leichter Jagdpanzer"
  trm_light_tank_assault_gun_chassis:0 "Leichtes Sturmgeschütz"
  trm_light_tank_artillery_chassis:0 "Leichte Artillerie mit Eigenantrieb"
  trm_light_tank_aa_chassis:0 "Leichte selbstfahrende Luftabwehr"
@@ -52,19 +52,19 @@
  trm_cavalry_tank_amphibious_chassis:0 "Amphibischer Kavallerie-Panzer"
 
  trm_medium_tank_chassis:0 "Mittlerer Panzer"
- trm_medium_tank_cs_chassis:0 "Mittlerer CS-Panzer"
- trm_medium_tank_destroyer_chassis:0 "Mittlerer Panzerzerstörer"
+ trm_medium_tank_cs_chassis:0 "Mittlerer Unterstützungspanzer"
+ trm_medium_tank_destroyer_chassis:0 "Mittlerer Jagdpanzer"
  trm_medium_tank_assault_gun_chassis:0 "Mittleres Sturmgeschütz"
  trm_medium_tank_artillery_chassis:0 "Selbstfahrende Artillerie Medium"
  trm_medium_tank_aa_chassis:0 "Selbstfahrende mittlere Luftabwehr"
  trm_medium_tank_amphibious_chassis:0 "Mittlerer amphibischer Panzer"
 
  trm_medium_advanced_tank_chassis:0 "Fortgeschrittener Mittlerer Panzer"
- trm_medium_advanced_tank_cs_chassis:0 "Fortgeschrittener mittlerer CS-Panzer"
- trm_medium_advanced_tank_destroyer_chassis:0 "Fortgeschrittener Mittlerer Panzerzerstörer"
+ trm_medium_advanced_tank_cs_chassis:0 "Fortgeschrittener mittlerer Unterstützungspanzer"
+ trm_medium_advanced_tank_destroyer_chassis:0 "Fortgeschrittener Mittlerer Jagdpanzer"
  trm_medium_advanced_tank_assault_gun_chassis:0 "Fortgeschrittenes mittleres Sturmgeschütz"
  trm_medium_advanced_tank_artillery_chassis:0 "Fortgeschrittene Mittlere Selbstfahrende Artillerie"
- trm_medium_advanced_tank_aa_chassis:0 "Advanced Medium Self-Propelled Anti-Air"
+ trm_medium_advanced_tank_aa_chassis:0 "Fortschrittliches mittleres Luftabwehrgeschütz auf Selbstfahrlafette"
  trm_medium_advanced_tank_amphibious_chassis:0 "Amphibischer Fortgeschrittener Mittlerer Panzer"
 
  trm_infantry_tank_chassis:0 "Infanterie-Panzer"
@@ -76,16 +76,16 @@
  trm_infantry_tank_amphibious_chassis:0 "Amphibischer Infanteriepanzer"
 
  trm_heavy_tank_chassis:0 "Schwerer Panzer"
- trm_heavy_tank_cs_chassis:0 "Schwerer CS-Panzer"
- trm_heavy_tank_destroyer_chassis:0 "Schwerer Panzerzerstörer"
+ trm_heavy_tank_cs_chassis:0 "Schwerer Unterstützungspanzer"
+ trm_heavy_tank_destroyer_chassis:0 "Schwerer Jagdpanzer"
  trm_heavy_tank_assault_gun_chassis:0 "Schweres Sturmgeschütz"
  trm_heavy_tank_artillery_chassis:0 "Schwere Artillerie mit Eigenantrieb"
  trm_heavy_tank_aa_chassis:0 "Schwere selbstfahrende Luftabwehr"
  trm_heavy_tank_amphibious_chassis:0 "Schwerer amphibischer Panzer"
 
  trm_superheavy_tank_chassis:0 "Überschwerer Panzer"
- trm_superheavy_tank_cs_chassis:0 "Überschwerer CS-Panzer"
- trm_superheavy_tank_destroyer_chassis:0 "Überschwerer Panzerzerstörer"
+ trm_superheavy_tank_cs_chassis:0 "Überschwerer Unterstützungspanzer"
+ trm_superheavy_tank_destroyer_chassis:0 "Überschwerer Jagdpanzer"
  trm_superheavy_tank_assault_gun_chassis:0 "Überschweres Sturmgeschütz"
  trm_superheavy_tank_artillery_chassis:0 "Überschwere Artillerie mit Eigenantrieb"
  trm_superheavy_tank_aa_chassis:0 "Überschwere selbstfahrende Luftabwehr"
@@ -95,15 +95,15 @@
 
  trm_tankette_tank_chassis_desc:0 "Typ - Tankette"
  trm_tankette_tank_cs_chassis_desc:0 "Typ - CS-Tankette"
- trm_tankette_tank_destroyer_chassis_desc:0 "Typ - Tankette Panzerzerstörer"
+ trm_tankette_tank_destroyer_chassis_desc:0 "Typ - Tankette Jagdpanzer"
  trm_tankette_tank_assault_gun_chassis_desc:0 "Typ - Tankette-Sturmgeschütz"
  trm_tankette_tank_artillery_chassis_desc:0 "Typ - Tankette Selbstfahrende Artillerie"
  trm_tankette_tank_aa_chassis_desc:0 "Typ - Tankette Selbstfahrende Luftabwehr"
  trm_tankette_tank_amphibious_chassis_desc:0 "Typ - Amphibische Tankette"
 
  trm_light_tank_chassis_desc:0 "Typ - Leichter Panzer"
- trm_light_tank_cs_chassis_desc:0 "Typ - Leichter CS-Panzer"
- trm_light_tank_destroyer_chassis_desc:0 "Typ - Leichter Panzerzerstörer"
+ trm_light_tank_cs_chassis_desc:0 "Typ - Leichter Unterstützungspanzer"
+ trm_light_tank_destroyer_chassis_desc:0 "Typ - Leichter Jagdpanzer"
  trm_light_tank_assault_gun_chassis_desc:0 "Typ - Leichtes Sturmgeschütz"
  trm_light_tank_artillery_chassis_desc:0 "Typ - Leichte Artillerie mit Eigenantrieb"
  trm_light_tank_aa_chassis_desc:0 "Typ - Leichte selbstfahrende Luftabwehr"
@@ -122,19 +122,19 @@
  trm_cavalry_tank_amphibious_chassis_desc:0 "Typ - Amphibischer Kavallerie-Panzer"
 
  trm_medium_tank_chassis_desc:0 "Typ - Mittlerer Panzer"
- trm_medium_tank_cs_chassis_desc:0 "Typ - Mittlerer CS-Panzer"
- trm_medium_tank_destroyer_chassis_desc:0 "Typ - Mittlerer Panzerzerstörer"
+ trm_medium_tank_cs_chassis_desc:0 "Typ - Mittlerer Unterstützungspanzer"
+ trm_medium_tank_destroyer_chassis_desc:0 "Typ - Mittlerer Jagdpanzer"
  trm_medium_tank_assault_gun_chassis_desc:0 "Typ - Mittleres Sturmgeschütz"
  trm_medium_tank_artillery_chassis_desc:0 "Typ - Mittlere Artillerie mit Eigenantrieb"
  trm_medium_tank_aa_chassis_desc:0 "Typ - Mittlere selbstfahrende Luftabwehr"
  trm_medium_tank_amphibious_chassis_desc:0 "Typ - Mittlerer amphibischer Panzer"
 
  trm_medium_advanced_tank_chassis_desc:0 "Typ - Fortgeschrittener Mittlerer Panzer"
- trm_medium_advanced_tank_cs_chassis_desc:0 "Typ - Fortgeschrittener mittlerer CS-Panzer"
- trm_medium_advanced_tank_destroyer_chassis_desc:0 "Typ - Fortgeschrittener Mittlerer Panzerzerstörer"
+ trm_medium_advanced_tank_cs_chassis_desc:0 "Typ - Fortgeschrittener mittlerer Unterstützungspanzer"
+ trm_medium_advanced_tank_destroyer_chassis_desc:0 "Typ - Fortgeschrittener Mittlerer Jagdpanzer"
  trm_medium_advanced_tank_assault_gun_chassis_desc:0 "Typ - Fortgeschrittenes mittleres Sturmgeschütz"
  trm_medium_advanced_tank_artillery_chassis_desc:0 "Typ - Fortgeschrittene mittlere Panzerartillerie mit Eigenantrieb"
- trm_medium_advanced_tank_aa_chassis_desc:0 "Typ - Advanced Medium Self-Propelled Anti-Air"
+ trm_medium_advanced_tank_aa_chassis_desc:0 "Typ - Fortschrittliches mittleres Luftabwehrgeschütz auf Selbstfahrlafette"
  trm_medium_advanced_tank_amphibious_chassis_desc:0 "Typ - Amphibischer Fortgeschrittener Mittlerer Panzer"
 
  trm_infantry_tank_chassis_desc:0 "Typ - Infanterie-Panzer"
@@ -146,16 +146,16 @@
  trm_infantry_tank_amphibious_chassis_desc:0 "Typ - Amphibischer Infanterie-Panzer"
 
  trm_heavy_tank_chassis_desc:0 "Typ - Schwerer Panzer"
- trm_heavy_tank_cs_chassis_desc:0 "Typ - Schwerer CS-Panzer"
- trm_heavy_tank_destroyer_chassis_desc:0 "Typ - Schwerer Panzerzerstörer"
+ trm_heavy_tank_cs_chassis_desc:0 "Typ - Schwerer Unterstützungspanzer"
+ trm_heavy_tank_destroyer_chassis_desc:0 "Typ - Schwerer Jagdpanzer"
  trm_heavy_tank_assault_gun_chassis_desc:0 "Typ - Schweres Sturmgeschütz"
  trm_heavy_tank_artillery_chassis_desc:0 "Typ - Schwere Artillerie mit Eigenantrieb"
  trm_heavy_tank_aa_chassis_desc:0 "Typ - Schwere selbstfahrende Luftabwehr"
  trm_heavy_tank_amphibious_chassis_desc:0 "Typ - Schwerer amphibischer Panzer"
 
  trm_superheavy_tank_chassis_desc:0 "Typ - Superschwerer Panzer"
- trm_superheavy_tank_cs_chassis_desc:0 "Typ - Überschwerer CS-Panzer"
- trm_superheavy_tank_destroyer_chassis_desc:0 "Typ - Überschwerer Panzerzerstörer"
+ trm_superheavy_tank_cs_chassis_desc:0 "Typ - Überschwerer Unterstützungspanzer"
+ trm_superheavy_tank_destroyer_chassis_desc:0 "Typ - Überschwerer Jagdpanzer"
  trm_superheavy_tank_assault_gun_chassis_desc:0 "Typ - Überschweres Sturmgeschütz"
  trm_superheavy_tank_artillery_chassis_desc:0 "Typ - Überschwere Artillerie mit Eigenantrieb"
  trm_superheavy_tank_aa_chassis_desc:0 "Typ - Überschwere selbstfahrende Luftabwehr"
@@ -189,7 +189,7 @@
  trm_light_tank_artillery_equipment_ger_panzer1_2_short:0 "Sturmpanzer I"
 
  trm_light_tank_chassis_ger_panzer2_1:0 "PzKpfw II Ausf.A Fahrgestell"
- trm_light_tank_chassis_ger_panzer2_1_desc:0 "Typ - Leichter Panzer\n\nDer Panzer II Ausf.A war die letzte standardisierte Version, die für die Massenproduktion bereit war. Die Vorgängerversionen Ausf.a/1, a/2, a/3, b und c waren allesamt Versuchsserien, die entwickelt wurden, um neue Konstruktionselemente zu testen.\n\nDie elektrische Anlage des Panzers wurde unterdrückt, um zu verhindern, dass sie den AM-Radioempfang und die -übertragung stört. Eine neue vordere Wanne wurde für die neuen Getriebehalterungen verstärkt, die Ablassventile in der Wanne vergrößert und verlegt, ein Abfluss für den Kühler, eine Zugangsöffnung in der Spritzwand, genormte 8-mm-Kraftstoffleitungen, die Verlegung der Kraftstoffpumpe, des Ölfilters und des Ölkühlers in den Motorraum, eine vereinfachte Schmierung der Lenkeinheit und kürzere Endantriebswellen. \n\nDas bisherige große, flache, rechteckige Fahrervisier wurde durch ein V-förmiges, kleineres Fahrervisier mit einem Sehschlitz ersetzt, und alle drei Sichtöffnungen im Aufbau - zwei für den Fahrer und eine für den Funker - hatten Sehschlitze. \Um Risse in der Panzerung aufgrund von Fahrzeugbelastungen zu vermeiden, wurde am Heck ein Verstärkungsstab angebracht.\n\nDer Panzer kam ab dem Polenfeldzug zum Einsatz, wurde aber bereits 1941 auf Aufklärungs- und Ausbildungsaufgaben zurückgezogen.\n\n\nMax Panzerung: 25mm\nMax Motor: 180 PS"
+ trm_light_tank_chassis_ger_panzer2_1_desc:0 "Typ - Leichter Panzer\n\nDer Panzer II Ausf.A war die letzte standardisierte Version, die für die Massenproduktion bereit war. Die Vorgängerversionen Ausf.a/1, a/2, a/3, b und c waren allesamt Versuchsserien, die entwickelt wurden, um neue Konstruktionselemente zu testen.\n\nDie elektrische Anlage des Panzers wurde unterdrückt, um zu verhindern, dass sie den AM-Radioempfang und die -übertragung stört. Eine neue vordere Wanne wurde für die neuen Getriebehalterungen verstärkt, die Ablassventile in der Wanne vergrößert und verlegt, ein Abfluss für den Kühler, eine Zugangsöffnung in der Spritzwand, genormte 8-mm-Kraftstoffleitungen, die Verlegung der Kraftstoffpumpe, des Ölfilters und des Ölkühlers in den Motorraum, eine vereinfachte Schmierung der Lenkeinheit und kürzere Endantriebswellen. \n\nDas bisherige große, flache, rechteckige Fahrervisier wurde durch ein V-förmiges, kleineres Fahrervisier mit einem Sehschlitz ersetzt, und alle drei Sichtöffnungen im Aufbau - zwei für den Fahrer und eine für den Funker - hatten Sehschlitze. \nm Risse in der Panzerung aufgrund von Fahrzeugbelastungen zu vermeiden, wurde am Heck ein Verstärkungsstab angebracht.\n\nDer Panzer kam ab dem Polenfeldzug zum Einsatz, wurde aber bereits 1941 auf Aufklärungs- und Ausbildungsaufgaben zurückgezogen.\n\n\nMax Panzerung: 25mm\nMax Motor: 180 PS"
  trm_light_tank_equipment_ger_panzer2_1:0 "Panzerkampfwagen II Ausf.A"
  trm_light_tank_equipment_ger_panzer2_1_short:0 "PzKpfw II A"
  trm_light_tank_chassis_ger_panzer2_2:0 "PzKpfw II Ausf.C Fahrgestell"
@@ -201,7 +201,7 @@
  trm_light_tank_chassis_ger_panzer2_3_desc:0 "Typ - Leichter Panzer\n\nIn Fortführung der konventionellen Bauweise der Ausf. C wurde die Ausf. F als Aufklärungspanzer konzipiert und diente in derselben Rolle wie die früheren Modelle. Die Aufbaufront bestand aus einer einteiligen Panzerplatte mit einem neu gestalteten Visier. Daneben wurde eine Visierattrappe angebracht, um den Einschlag von Panzerabwehrgeschossen in das echte Visier zu verringern. Die Wanne wurde mit einer flachen 35-mm-Platte an der Vorderseite neu gestaltet, und die Panzerung des Aufbaus und des Turms wurde auf 30 mm an der Vorderseite und 15 mm an den Seiten und hinten erhöht. 524 Stück wurden von März 1941 bis Dezember 1942 als letzte große Panzerversion der Panzer II-Serie gebaut.\n\n\nMax Panzerung: 40 mm\nMax Motor: 200 PS"
  trm_light_tank_equipment_ger_panzer2_3:0 "Panzerkampfwagen II Ausf.F"
  trm_light_tank_equipment_ger_panzer2_3_short:0 "PzKpfw II F"
- trm_light_tank_chassis_ger_panzer2_4:0 "PzKpfw II Ausf.L Fahrgestell 'Luchs'"
+ trm_light_tank_chassis_ger_panzer2_4:0 "PzKpfw II Ausf.L Fahrgestell"
  trm_light_tank_chassis_ger_panzer2_4_desc:0 "Typ - Leichter Panzer\n\n Im Jahr 1941 kam die Rüstungsdirektion zu dem Schluss, dass es notwendig sei, einen neuen Aufklärungspanzer zu entwickeln, bei dessen Konstruktion die Erfahrungen der ersten Kriegsjahre berücksichtigt werden sollten. Diese Erfahrungen erforderten eine größere Anzahl von Besatzungsmitgliedern, eine größere Motorleistungsreserve, eine Funkstation mit großer Reichweite usw. Die Ausf. L war die einzige Panzer-II-Konstruktion mit den überlappenden Straßenrädern, die in Serie ging. Auf dem Dach des Turms befanden sich zwei Periskop-Beobachtungseinrichtungen: eine im Deckel der Kommandantenluke, die andere im Deckel der Ladeluke. Von September 1943 bis Januar 1944 wurden 100 Stück gebaut. Ursprünglich mit der Versuchsbezeichnung VK1303 versehen, wurde er unter dem alternativen Namen Panzerkampfwagen II geführt und erhielt den volkstümlichen Namen Luchs.\n\n\nMax Panzerung: 45mm\nMax Motor: 250 PS"
  trm_light_tank_equipment_ger_panzer2_4:0 "Panzerkampfwagen II Ausf.L"
  trm_light_tank_equipment_ger_panzer2_4_short:0 "PzKpfw II L"
@@ -269,7 +269,7 @@
  trm_cavalry_tank_equipment_ger_pz38_1:0 "Panzerkampfwagen 38(t) Ausf.A"
  trm_cavalry_tank_equipment_ger_pz38_1_short:0 "PzKpfw 38(t) A"
  trm_cavalry_tank_chassis_ger_pz38_2:0 "PzKpfw 38(t) Ausf.G Fahrgestell"
- trm_cavalry_tank_chassis_ger_pz38_2_desc:0 "Typ - Kavalleriepanzer\n\Dieses Fahrgestell wurde hauptsächlich entwickelt, um gegen die extremen Hitzebedingungen getestet zu werden, die für den Wüstenfeldzug notwendig waren, und um für größere Panzerungen optimiert zu werden. Dies ergab sich aus der Notwendigkeit, den 38(t) nach der Katastrophe an der Ostfront in einen Panzerzerstörer, Jagdpänzer, umzuwandeln.\n\n\nMax Panzerung: 60mm\nMax Motor: 200 PS."
+ trm_cavalry_tank_chassis_ger_pz38_2_desc:0 "Typ - Kavalleriepanzer\n\nieses Fahrgestell wurde hauptsächlich entwickelt, um gegen die extremen Hitzebedingungen getestet zu werden, die für den Wüstenfeldzug notwendig waren, und um für größere Panzerungen optimiert zu werden. Dies ergab sich aus der Notwendigkeit, den 38(t) nach der Katastrophe an der Ostfront in einen Jagdpanzer, Jagdpänzer, umzuwandeln.\n\n\nMax Panzerung: 60mm\nMax Motor: 200 PS."
  trm_cavalry_tank_equipment_ger_pz38_2:0 "Panzerkampfwagen 38(t) Ausf.G"
  trm_cavalry_tank_equipment_ger_pz38_2_short:0 "PzKpfw 38(t) G"
  trm_cavalry_tank_chassis_ger_pz38_3:0 "PzKpfw 38(d) Fahrgestell"
@@ -475,7 +475,7 @@
  trm_medium_tank_amphibious_equipment_ger_panzer4_5_short:0 "Tauchpanzer IV J"
 
  trm_medium_tank_chassis_ger_panzer34_1:0 "Geschützwagen III/IV Fahrgestell"
- trm_medium_tank_chassis_ger_panzer34_1_desc:0 " Typ: Mittlerer Panzerzerstörer oder mittlere Panzerartillerie\n\n Die besonderen Erfahrungen an der Ostfront machten dem deutschen Oberkommando den dringenden Bedarf an Panzerartillerie bewusst. Die Gegenangriffe der Roten Armee trugen oft zum Verlust von Artillerie bei, die nicht an schnelle Änderungen der Feuerstellungen angepasst war.\n\nBislang war kein Panzer in der Lage, die sFH 18, Deutschlands stärkste Haubitze, zu montieren, also beauftragte Hitler 1942 Alkett mit der Entwicklung eines Fahrgestells, das speziell für die Montage von Geschützen ausgelegt war.\n\nDer mittlere Panzer PzIV wurde als Grundlage für das neue Fahrgestell verwendet. Die endgültige Variante, bekannt als Geschützwagen III/IV, verwendete die Antriebskettenräder und Getriebeelemente des PzIII. Um Platz im hinteren Kampfraum zu schaffen, wurde der Motor und das Kühlsystem in die Mitte des Fahrgestells verlegt. Große Lufteinlässe erschienen an den Seiten.\n\n\nMax Panzerung: 80mm\nMax Motor: 425 PS"
+ trm_medium_tank_chassis_ger_panzer34_1_desc:0 " Typ: Mittlerer Jagdpanzer oder mittlere Panzerartillerie\n\n Die besonderen Erfahrungen an der Ostfront machten dem deutschen Oberkommando den dringenden Bedarf an Panzerartillerie bewusst. Die Gegenangriffe der Roten Armee trugen oft zum Verlust von Artillerie bei, die nicht an schnelle Änderungen der Feuerstellungen angepasst war.\n\nBislang war kein Panzer in der Lage, die sFH 18, Deutschlands stärkste Haubitze, zu montieren, also beauftragte Hitler 1942 Alkett mit der Entwicklung eines Fahrgestells, das speziell für die Montage von Geschützen ausgelegt war.\n\nDer mittlere Panzer PzIV wurde als Grundlage für das neue Fahrgestell verwendet. Die endgültige Variante, bekannt als Geschützwagen III/IV, verwendete die Antriebskettenräder und Getriebeelemente des PzIII. Um Platz im hinteren Kampfraum zu schaffen, wurde der Motor und das Kühlsystem in die Mitte des Fahrgestells verlegt. Große Lufteinlässe erschienen an den Seiten.\n\n\nMax Panzerung: 80mm\nMax Motor: 425 PS"
  trm_medium_tank_equipment_ger_panzer34_1:0 "Panzerkampfwagen III/IV"
  trm_medium_tank_equipment_ger_panzer34_1_short:0 "PzKpfw III/IV"
 
@@ -595,7 +595,7 @@
  trm_heavy_tank_destroyer_equipment_ger_tiger2_1_short:0 "Jagdtiger"
 
  trm_superheavy_tank_chassis_ger_maus_1:0 "PzKpfw VIII Fahrgestell"
- trm_superheavy_tank_chassis_ger_maus_1_desc:0 "Typ - Superschwerer Panzer\n\nDer größte Panzer des 2. Weltkriegs - der deutsche superschwere Panzer Typ 205 - hatte einen bescheidenen und unauffälligen Namen, "Maus", obwohl die Masse dieser "Maus" der Masse von vier "Panther" oder drei "Tigern" entsprach! Das Fahrzeug war als Panzer zum Durchbrechen von gut befestigten Verteidigungslinien geplant, am Ende des Krieges galt es als eine weitere "Wunderwaffe", die die Offensive der Panzerverbände der Roten Armee stoppen konnte. \n\nDie Entwürfe für superschwere Panzer liefen schon seit mehreren Jahren, aber die Fortschritte waren extrem langsam, zumal nach den ersten Kriegsjahren die Mobilität als wichtigste Eigenschaft von Panzern galt.\n\n 1940 erhielt der sowjetische Geheimdienst Informationen, dass die Deutschen in Frankreich schwere Panzer einsetzten und dass sie einen Panzer von über 90 Tonnen entwickelten. Beides entsprach nicht den Tatsachen, aber dennoch gaben diese Berichte den Anstoß zur Entwicklung des KV-3, des KV-4 und des KV-5. Diese Entwicklungen, die den Deutschen 1941 bekannt wurden, und die Tatsache, dass die sowjetische Panzerkonstruktion als überlegen galt, veranlassten Hitler zu schnellem Handeln und zu einem großen Interesse an der Entwicklung eines Panzers, der den kommenden Bedrohungen gewachsen war. Krupp wurde angewiesen, bis 1943 einen 100-Tonnen-Panzer zu entwickeln.\n\N 1942 beteiligte sich Porsche erneut an dem Entwicklungswettbewerb, und zum ersten Mal gewann er. Krupp musste sich mit dem Bau des Turms begnügen. Als der erste Prototyp herauskam, wog der Panzer 180 Tonnen (fast das Doppelte des Originals), was vor allem auf Hitlers wiederholte Wünsche nach einer noch stärkeren Panzerung zurückzuführen war, die schließlich eine Stärke von 240 mm erreichte.\n\nHitler bestand auf Panzerung und Feuerkraft und hielt Geschwindigkeit für nicht so wichtig. Die Mittel, die in dieses Fahrzeug investiert wurden, ließen absolut keinen Spielraum für Misserfolge. Alles zu geben, nur um von den Sowjets geschlagen zu werden, würde de facto die technologische Überlegenheit des Kommunismus bedeuten.\n\nUm dieses Monster, das eher einem fahrenden Bunker als einem Panzer glich, zu bewegen, mussten jedoch viele schwierige technische Probleme gelöst werden. Bei der Maus erreichte Porsche seinen Höhepunkt. Nicht nur, dass der Riese für seine Größe recht wendig war und bis zu 20 Stundenkilometer schnell fahren konnte, auch die Tests, die durchgeführt werden konnten, zeigten rundum vielversprechende Ergebnisse. In letzter Stunde schien es, als hätte Porsche sein Meisterstück endlich abgeliefert, doch es war zu spät. Mitte 1943 zerstörte ein Bombenangriff die Konstruktionsunterlagen und Zeichnungen für den Maus-Turm im Krupp-Werk in Essen. Ein zweiter Bombenangriff einige Monate später beendete das Projekt endgültig.\n\n\nMax. Panzerung: 220 mm\nMax."
+ trm_superheavy_tank_chassis_ger_maus_1_desc:0 "Typ - Superschwerer Panzer\n\nDer größte Panzer des 2. Weltkriegs - der deutsche superschwere Panzer Typ 205 - hatte einen bescheidenen und unauffälligen Namen, "Maus", obwohl die Masse dieser "Maus" der Masse von vier "Panther" oder drei "Tigern" entsprach! Das Fahrzeug war als Panzer zum Durchbrechen von gut befestigten Verteidigungslinien geplant, am Ende des Krieges galt es als eine weitere "Wunderwaffe", die die Offensive der Panzerverbände der Roten Armee stoppen konnte. \n\nDie Entwürfe für superschwere Panzer liefen schon seit mehreren Jahren, aber die Fortschritte waren extrem langsam, zumal nach den ersten Kriegsjahren die Mobilität als wichtigste Eigenschaft von Panzern galt.\n\n 1940 erhielt der sowjetische Geheimdienst Informationen, dass die Deutschen in Frankreich schwere Panzer einsetzten und dass sie einen Panzer von über 90 Tonnen entwickelten. Beides entsprach nicht den Tatsachen, aber dennoch gaben diese Berichte den Anstoß zur Entwicklung des KV-3, des KV-4 und des KV-5. Diese Entwicklungen, die den Deutschen 1941 bekannt wurden, und die Tatsache, dass die sowjetische Panzerkonstruktion als überlegen galt, veranlassten Hitler zu schnellem Handeln und zu einem großen Interesse an der Entwicklung eines Panzers, der den kommenden Bedrohungen gewachsen war. Krupp wurde angewiesen, bis 1943 einen 100-Tonnen-Panzer zu entwickeln.\n\n 1942 beteiligte sich Porsche erneut an dem Entwicklungswettbewerb, und zum ersten Mal gewann er. Krupp musste sich mit dem Bau des Turms begnügen. Als der erste Prototyp herauskam, wog der Panzer 180 Tonnen (fast das Doppelte des Originals), was vor allem auf Hitlers wiederholte Wünsche nach einer noch stärkeren Panzerung zurückzuführen war, die schließlich eine Stärke von 240 mm erreichte.\n\nHitler bestand auf Panzerung und Feuerkraft und hielt Geschwindigkeit für nicht so wichtig. Die Mittel, die in dieses Fahrzeug investiert wurden, ließen absolut keinen Spielraum für Misserfolge. Alles zu geben, nur um von den Sowjets geschlagen zu werden, würde de facto die technologische Überlegenheit des Kommunismus bedeuten.\n\nUm dieses Monster, das eher einem fahrenden Bunker als einem Panzer glich, zu bewegen, mussten jedoch viele schwierige technische Probleme gelöst werden. Bei der Maus erreichte Porsche seinen Höhepunkt. Nicht nur, dass der Riese für seine Größe recht wendig war und bis zu 20 Stundenkilometer schnell fahren konnte, auch die Tests, die durchgeführt werden konnten, zeigten rundum vielversprechende Ergebnisse. In letzter Stunde schien es, als hätte Porsche sein Meisterstück endlich abgeliefert, doch es war zu spät. Mitte 1943 zerstörte ein Bombenangriff die Konstruktionsunterlagen und Zeichnungen für den Maus-Turm im Krupp-Werk in Essen. Ein zweiter Bombenangriff einige Monate später beendete das Projekt endgültig.\n\n\nMax. Panzerung: 220 mm\nMax."
  trm_superheavy_tank_equipment_ger_maus_1:0 "Panzerkampfwagen Maus"
  trm_superheavy_tank_equipment_ger_maus_1_short:0 "PzKpfw Maus"
 
@@ -1442,11 +1442,11 @@
  trm_light_tank_equipment_jap_type5_1_short:0 "Typ 5 Ke-Ho"
 
  trm_light_tank_cs_chassis_jap_type95_1:0 "Typ 95 Fahrgestell (CS)"
- trm_light_tank_cs_equipment_jap_type95_1:0 "Typ 4 Leichter CS-Panzer"
+ trm_light_tank_cs_equipment_jap_type95_1:0 "Typ 4 Leichter Unterstützungspanzer"
  trm_light_tank_cs_equipment_jap_type95_1_short:0 "Typ 4 Ke-Nu"
 
  trm_light_tank_destroyer_chassis_jap_type95_1:0 "Typ 95 Fahrgestell (TD)"
- trm_light_tank_destroyer_equipment_jap_type95_1:0 "Typ 5 Leichter Panzerzerstörer"
+ trm_light_tank_destroyer_equipment_jap_type95_1:0 "Typ 5 Leichter Jagdpanzer"
  trm_light_tank_destroyer_equipment_jap_type95_1_short:0 "Typ 5 Ho-Ru"
 
  trm_light_tank_assault_gun_chassis_jap_type95_1:0 "Typ 95 Fahrgestell (AG)"
@@ -1483,23 +1483,23 @@
  trm_medium_tank_cs_equipment_jap_type89_2:0 "Typ 89B Mittlerer Panzer"
  trm_medium_tank_cs_equipment_jap_type89_2_short:0 "Typ 89 I-Go Otsu"
  trm_medium_tank_cs_chassis_jap_type97_1:0 "Typ 97 Fahrgestell (CS)"
- trm_medium_tank_cs_equipment_jap_type97_1:0 "Typ 97 Mittlerer CS-Panzer"
+ trm_medium_tank_cs_equipment_jap_type97_1:0 "Typ 97 Mittlerer Unterstützungspanzer"
  trm_medium_tank_cs_equipment_jap_type97_1_short:0 "Typ 97 Chi-Ha CS"
  trm_medium_tank_cs_chassis_jap_type1_1:0 "Typ 1 Fahrgestell (CS)"
- trm_medium_tank_cs_equipment_jap_type91_1:0 "Typ 2 Mittlerer CS-Panzer"
+ trm_medium_tank_cs_equipment_jap_type91_1:0 "Typ 2 Mittlerer Unterstützungspanzer"
  trm_medium_tank_cs_equipment_jap_type1_1_short:0 "Typ 2 Ho-I"
  trm_medium_tank_cs_chassis_jap_type3_1:0 "Typ 3 Fahrgestell (CS)"
- trm_medium_tank_cs_equipment_jap_type3_1:0 "Typ 3 Mittlerer CS-Panzer"
+ trm_medium_tank_cs_equipment_jap_type3_1:0 "Typ 3 Mittlerer Unterstützungspanzer"
  trm_medium_tank_cs_equipment_jap_type3_1_short:0 "Typ 3 Chi-Nu CS"
  trm_medium_tank_cs_chassis_jap_type4_1:0 "Typ 4 Fahrgestell (CS)"
- trm_medium_tank_cs_equipment_jap_type4_1:0 "Typ 4 Mittlerer CS-Panzer"
+ trm_medium_tank_cs_equipment_jap_type4_1:0 "Typ 4 Mittlerer Unterstützungspanzer"
  trm_medium_tank_cs_equipment_jap_type4_1_short:0 "Typ 4 Chi-To CS"
 
  trm_medium_tank_destroyer_chassis_jap_type97_1:0 "Typ 97 Fahrgestell (TD)"
- trm_medium_tank_destroyer_equipment_jap_type97_1:0 "Typ 3 Mittlerer Panzerzerstörer"
+ trm_medium_tank_destroyer_equipment_jap_type97_1:0 "Typ 3 Mittlerer Jagdpanzer"
  trm_medium_tank_destroyer_equipment_jap_type97_1_short:0 "Typ 3 Ho-Ni"
  trm_medium_tank_destroyer_chassis_jap_type4_1:0 "Typ 4 Fahrgestell (TD)"
- trm_medium_tank_destroyer_equipment_jap_type4_1:0 "Typ 5 Mittlerer Panzerzerstörer"
+ trm_medium_tank_destroyer_equipment_jap_type4_1:0 "Typ 5 Mittlerer Jagdpanzer"
  trm_medium_tank_destroyer_equipment_jap_type4_1_short:0 "Typ 5 Ka-To"
 
  trm_medium_tank_assault_gun_chassis_jap_type97_1:0 "Typ 97 Fahrgestell (AG)"
@@ -1511,7 +1511,7 @@
  trm_medium_advanced_tank_equipment_jap_type5_1_short:0 "Typ 5 Chi-Ri"
 
  trm_medium_advanced_cs_tank_chassis_jap_type5_1:0 "Typ 5 Fahrgestell (CS)"
- trm_medium_advanced_cs_tank_equipment_jap_type5_1:0 "Typ 5 Mittlerer CS-Panzer"
+ trm_medium_advanced_cs_tank_equipment_jap_type5_1:0 "Typ 5 Mittlerer Unterstützungspanzer"
  trm_medium_advanced_cs_tank_equipment_jap_type5_1_short:0 "Typ 5 Chi-Ri CS"
 
  trm_medium_advanced_tank_destroyer_chassis_jap_type5_1:0 "Typ 5 Fahrgestell (TD)"
@@ -1537,7 +1537,7 @@
  trm_medium_tank_equipment_jap_apc_type4_1_short:0 "Typ 4 Chi-So"
 
  trm_medium_tank_destroyer_chassis_jap_apc_type4_1:0 "Typ 4 Trägerfahrgestell (TD)"
- trm_medium_tank_destroyer_equipment_jap_apc_type4_1:0 "Typ 5 Panzerzerstörer"
+ trm_medium_tank_destroyer_equipment_jap_apc_type4_1:0 "Typ 5 Jagdpanzer"
  trm_medium_tank_destroyer_equipment_jap_apc_type4_1_short:0 "Typ 5 Na-To"
 
  ## FRANCE ""
@@ -1550,7 +1550,7 @@
  trm_tankette_tank_equipment_fra_amr35_1_short:0 "AMR-35"
 
  trm_tankette_tank_destroyer_chassis_fra_amr35_1:0 "AMR-35 Fahrgestell (TD)"
- trm_tankette_tank_destroyer_equipment_fra_amr35_1:0 "ZT-3 Leichter Panzerzerstörer"
+ trm_tankette_tank_destroyer_equipment_fra_amr35_1:0 "ZT-3 Leichter Jagdpanzer"
  trm_tankette_tank_destroyer_equipment_fra_amr35_1_short:0 "ZT-3"
 
  trm_light_tank_chassis_fra_ft17_1:0 "FT-17 Fahrgestell"
@@ -1558,7 +1558,8 @@
  trm_light_tank_equipment_fra_ft17_1_short:0 "FT-17"
  trm_light_tank_chassis_fra_h35_1:0 "H35 Fahrgestell"
  trm_light_tank_equipment_fra_h35_1:0 "H35 Panzer"
- trm_light_tank_equipment_fra_h35_1_short:0 "H35 trm_light_tank_chassis_fra_h39_1:0 "H39 Fahrgestell"
+ trm_light_tank_equipment_fra_h35_1_short:0 "H35"
+ trm_light_tank_chassis_fra_h39_1:0 "H39 Fahrgestell"
  trm_light_tank_equipment_fra_h39_1:0 "H39 Panzer"
  trm_light_tank_equipment_fra_h39_1_short:0 "H39"
  trm_light_tank_chassis_fra_fcm36_1:0 "FCM 36 Fahrgestell"
@@ -1623,6 +1624,24 @@
 
  ## MINORS ""
 
+ ## GENERIC
+ 
+ trm_tankette_tank_chassis_gen_1936_1:0 "Tankette 1936 Fahrgestell"
+ trm_tankette_tank_equipment_gen_1936_1:0 "Tankette 1936"
+ trm_tankette_tank_equipment_gen_1936_1_short:0 "Tankette 1936"
+ 
+ trm_tankette_tank_chassis_gen_1939_1:0 "Tankette 1939 Fahrgestell"
+ trm_tankette_tank_equipment_gen_1939_1:0 "Tankette 1939"
+ trm_tankette_tank_equipment_gen_1939_1_short:0 "Tankette 1939"
+ 
+ trm_light_tank_chassis_gen_1941_1:0 "Leichter Panzer 1941 Fahrgestell"
+ trm_light_tank_equipment_gen_1941_1:0 "Leichter Panzer 1941"
+ trm_light_tank_equipment_gen_1941_1_short:0 "Leichter Panzer 1941"
+ 
+ trm_medium_tank_chassis_gen_1943_1:0 "Mittlerer Panzer 1943 Fahrgestell"
+ trm_medium_tank_equipment_gen_1943_1:0 "Mittlerer Panzer 1943"
+ trm_medium_tank_equipment_gen_1943_1_short:0 "Mittlerer Panzer 1943"
+ 
  ## CZECH ""
 
  trm_tankette_tank_chassis_cze_t33_1:0 "Tančík vz.33 Fahrgestell"
@@ -1642,3 +1661,129 @@
  trm_medium_tank_chassis_cze_st39_1:0 "ST vz.39 Fahrgestell"
  trm_medium_tank_equipment_cze_st39_1:0 "Střední Panzer vzor 39"
  trm_medium_tank_equipment_cze_st39_1_short:0 "ST vz.39"
+
+ ## HUNGARY
+ 
+ trm_light_tank_chassis_hun_toldi_1:0 "Toldi I Fahrgestell"
+ trm_light_tank_equipment_hun_toldi_1:0 "38M Toldi I"
+ trm_light_tank_equipment_hun_toldi_1_short:0 "Toldi I"
+ trm_light_tank_chassis_hun_toldi_2:0 "Toldi II Fahrgestell"
+ trm_light_tank_equipment_hun_toldi_2:0 "42M Toldi II"
+ trm_light_tank_equipment_hun_toldi_2_short:0 "Toldi II"
+ trm_light_tank_chassis_hun_toldi_3:0 "Toldi III Fahrgestell"
+ trm_light_tank_equipment_hun_toldi_3:0 "43M Toldi III"
+ trm_light_tank_equipment_hun_toldi_3_short:0 "Toldi III"
+
+ trm_light_tank_destroyer_chassis_hun_toldi_2:0 "Toldi II Fahrgestell (TD)"
+ trm_light_tank_destroyer_equipment_hun_toldi_2:0 "42M Toldi II Pancelvadsz"
+ trm_light_tank_destroyer_equipment_hun_toldi_2_short:0 "Toldi II Pancelvadsz"
+ trm_light_tank_destroyer_chassis_hun_toldi_3:0 "Toldi III Fahrgestell (TD)"
+ trm_light_tank_destroyer_equipment_hun_toldi_3:0 "43M Toldi III Pancelvadsz"
+ trm_light_tank_destroyer_equipment_hun_toldi_3_short:0 "Toldi III Pancelvadsz"
+
+ trm_medium_tank_chassis_hun_turan_1:0 "Turan I Fahrgestell"
+ trm_medium_tank_equipment_hun_turan_1:0 "40M Turan I"
+ trm_medium_tank_equipment_hun_turan_1_short:0 "Turan I"
+ trm_medium_tank_chassis_hun_turan_2:0 "Turan II Fahrgestell"
+ trm_medium_tank_equipment_hun_turan_2:0 "43M Turan III"
+ trm_medium_tank_equipment_hun_turan_2_short:0 "Turan III"
+
+ trm_medium_tank_cs_chassis_hun_turan_2:0 "Turan II Fahrgestell"
+ trm_medium_tank_cs_equipment_hun_turan_2:0 "41M Turan II"
+ trm_medium_tank_cs_equipment_hun_turan_2_short:0 "Turan II"
+ 
+ trm_medium_tank_destroyer_chassis_hun_turan_2:0 "Turan II Fahrgestell"
+ trm_medium_tank_destroyer_equipment_hun_turan_2:0 "44M Zrinyi I"
+ trm_medium_tank_destroyer_equipment_hun_turan_2_short:0 "Zrinyi I"
+
+ trm_medium_tank_assault_gun_chassis_hun_turan_2:0 "Turan II Fahrgestell"
+ trm_medium_tank_assault_gun_equipment_hun_turan_2:0 "43M Zrinyi II"
+ trm_medium_tank_assault_gun_equipment_hun_turan_2_short:0 "Zrinyi II"
+ 
+ trm_light_tank_chassis_hun_nimrod_1:0 "Nimrod Fahrgestell"
+ trm_light_tank_equipment_hun_nimrod_1:0 "40M Nimrod"
+ trm_light_tank_equipment_hun_nimrod_1_short:0 "Nimrod" 
+ 
+ trm_light_tank_aa_chassis_hun_nimrod_1:0 "Nimrod Fahrgestell (AA)"
+ trm_light_tank_aa_equipment_hun_nimrod_1:0 "40M Nimrod"
+ trm_light_tank_aa_equipment_hun_nimrod_1_short:0 "Nimrod"
+ 
+ ## SWEDEN
+ 
+ trm_tankette_tank_chassis_swe_m37_1:0 "Strv m/37 Fahrgestell"
+ trm_tankette_tank_equipment_swe_m37_1:0 "Stridsvagn m/37"
+ trm_tankette_tank_equipment_swe_m37_1_short:0 "Strv m/37"
+ 
+ trm_light_tank_chassis_swe_m21_1:0 "Strv m/21 Fahrgestell"
+ trm_light_tank_equipment_swe_m21_1:0 "Stridsvagn m/21"
+ trm_light_tank_equipment_swe_m21_1_short:0 "Strv m/21" 
+ trm_light_tank_chassis_swe_m38_1:0 "Strv m/38 Fahrgestell"
+ trm_light_tank_equipment_swe_m38_1:0 "Stridsvagn m/38"
+ trm_light_tank_equipment_swe_m38_1_short:0 "Strv m/38"
+ trm_light_tank_chassis_swe_m39_1:0 "Strv m/39 Fahrgestell"
+ trm_light_tank_equipment_swe_m39_1:0 "Stridsvagn m/39"
+ trm_light_tank_equipment_swe_m39_1_short:0 "Strv m/39"
+ trm_light_tank_chassis_swe_m40_1:0 "Strv m/40 Fahrgestell"
+ trm_light_tank_equipment_swe_m40_1:0 "Stridsvagn m/40"
+ trm_light_tank_equipment_swe_m40_1_short:0 "Strv m/40"
+
+ trm_light_tank_aa_chassis_swe_m38_1:0 "Strv m/38 Fahrgestell"
+ trm_light_tank_aa_equipment_swe_m38_1:0 "Luftvärnsvärnskanonvagn m/38"
+ trm_light_tank_aa_equipment_swe_m38_1_short:0 "Lvkv m/38"
+ trm_light_tank_aa_chassis_swe_m39_1:0 "Strv m/39 Fahrgestell"
+ trm_light_tank_aa_equipment_swe_m39_1:0 "Luftvärnsvärnskanonvagn m/39"
+ trm_light_tank_aa_equipment_swe_m39_1_short:0 "Lvkv m/39"
+ trm_light_tank_aa_chassis_swe_m40_1:0 "Strv m/40 Fahrgestell"
+ trm_light_tank_aa_equipment_swe_m40_1:0 "Luftvärnsvärnskanonvagn m/40"
+ trm_light_tank_aa_equipment_swe_m40_1_short:0 "Lvkv m/40"
+ 
+ trm_cavalry_tank_chassis_swe_m31_1:0 "Strv m/31 Fahrgestell"
+ trm_cavalry_tank_equipment_swe_m31_1:0 "Stridsvagn m/31"
+ trm_cavalry_tank_equipment_swe_m31_1_short:0 "Strv m/31"
+ trm_cavalry_tank_chassis_swe_m41_1:0 "Strv m/41 Fahrgestell"
+ trm_cavalry_tank_equipment_swe_m41_1:0 "Stridsvagn m/41"
+ trm_cavalry_tank_equipment_swe_m41_1_short:0 "Strv m/41"
+ 
+ trm_cavalry_tank_destroyer_chassis_swe_m41_1:0 "Strv m/42 Fahrgestell"
+ trm_cavalry_tank_destroyer_equipment_swe_m41_1:0 "Pansarvarnskanonvagn m/43"
+ trm_cavalry_tank_destroyer_equipment_swe_m41_1_short:0 "Pvkv m/43"
+ 
+ trm_cavalry_tank_assault_gun_chassis_swe_m41_1:0 "Strv m/42 Fahrgestell"
+ trm_cavalry_tank_assault_gun_equipment_swe_m41_1:0 "Stormartillerivagn m/43"
+ trm_cavalry_tank_assault_gun_equipment_swe_m41_1_short:0 "Sav m/43"
+ 
+ trm_medium_tank_chassis_swe_m42_1:0 "Strv m/42 Fahrgestell"
+ trm_medium_tank_equipment_swe_m42_1:0 "Stridsvagn m/42"
+ trm_medium_tank_equipment_swe_m42_1_short:0 "Strv m/42"
+ 
+ ## POLAND
+ 
+ trm_tankette_tank_chassis_pol_tk_1:0 "TK Fahrgestell"
+ trm_tankette_tank_equipment_pol_tk_1:0 "TK-3 Tankette"
+ trm_tankette_tank_equipment_pol_tk_1_short:0 "TK-3"
+ trm_tankette_tank_chassis_pol_tk_2:0 "TKS Fahrgestell"
+ trm_tankette_tank_equipment_pol_tk_2:0 "TKS Tankette"
+ trm_tankette_tank_equipment_pol_tk_2_short:0 "TKS"
+ trm_tankette_tank_chassis_pol_4tp_1:0 "4TP Fahrgestell"
+ trm_tankette_tank_equipment_pol_4tp_1:0 "4TP Tankette"
+ trm_tankette_tank_equipment_pol_4tp_1_short:0 "4TP"
+ 
+ trm_light_tank_chassis_pol_7tp_1:0 "7TP Fahrgestell"
+ trm_light_tank_equipment_pol_7tp_1:0 "7TP Light Tank"
+ trm_light_tank_equipment_pol_7tp_1_short:0 "7TP"
+ trm_light_tank_chassis_pol_9tp_1:0 "9TP Fahrgestell"
+ trm_light_tank_equipment_pol_9tp_1:0 "9TP Light Tank"
+ trm_light_tank_equipment_pol_9tp_1_short:0 "9TP"
+
+ trm_cavalry_tank_chassis_pol_10tp_1:0 "10TP Fahrgestell"
+ trm_cavalry_tank_equipment_pol_10tp_1:0 "10TP Cruiser Tank"
+ trm_cavalry_tank_equipment_pol_10tp_1_short:0 "10TP"
+ trm_cavalry_tank_chassis_pol_14tp_1:0 "14TP Fahrgestell"
+ trm_cavalry_tank_equipment_pol_14tp_1:0 "14TP Cruiser Tank"
+ trm_cavalry_tank_equipment_pol_14tp_1_short:0 "14TP"
+ 
+ ## NEW ZEALAND
+ 
+ trm_infantry_tank_chassis_nzl_bob_1:0 "Bob Semple Fahrgestell"
+ trm_infantry_tank_equipment_nzl_bob_1:0 "Bob Semple"
+ trm_infantry_tank_equipment_nzl_bob_1_short:0 "Bob Semple"

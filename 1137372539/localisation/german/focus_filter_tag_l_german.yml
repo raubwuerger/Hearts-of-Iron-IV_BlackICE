@@ -12,7 +12,7 @@
  FOCUS_FILTER_INDUSTRY:0 "Industrie"
  FOCUS_FILTER_STABILITY:0 "Stabilität"
  FOCUS_FILTER_WAR_SUPPORT:0 "Kriegsunterstützung"
- FOCUS_FILTER_MANPOWER:0 "Arbeitskräfte"
+ FOCUS_FILTER_MANPOWER:0 "Rekruten"
  FOCUS_FILTER_FOREIGN_DIPLOMACY:0 "Außenpolitische Diplomatie"
  FOCUS_FILTER_FRA_POLITICAL_VIOLENCE:0 "Politische Gewalt"
  FOCUS_FILTER_FRA_OCCUPATION_COST:0 "Kosten der Besatzung"
@@ -30,3 +30,15 @@
  FOCUS_FILTER_TUR_KEMALISM:0 "Kemalismus"
  FOCUS_FILTER_TUR_TRADITIONALISM:0 "Traditionalismus"
  FOCUS_FILTER_TRACTORS:0 "Traktoren"
+ 
+ 
+ FOCUS_OWNED_NEEDED: "Der Erwerb einer §Yeigenen§! Region hat Vorrang vor §Y[This.GetName]§!"
+ FOCUS_HOME_AREA_NEEDED: "Der Erwerb eines §YHeimgebiet§! hat Vorrang vor §Y[This.GetName]§!"
+ 
+ FOCUS_DOCKYARD_COASTAL_NEEDED: "Beim Erwerb einer §YKüstenregion§! wird dieser Fokus §Y[?add] $dockyard$§ hinzufügen§!"
+ FOCUS_ARMS_FACTORY_STATE_NEEDED: "Erwerbe eine §YRegion§!, um diesen Fokus zu haben, füge §Y[?add] $arms_factory$§ hinzu§!"
+ FOCUS_INDUSTRIAL_COMPLEX_STATE_NEEDED: "Beim Erwerb einer §YRegion§! wird dieser Fokus §Y[?add] $industrial_complex$ hinzufügen§!"
+ FOCUS_INFRASTRUCTURE_STATE_NEEDED: "Beim Erwerb einer §YRegion§! wird dieser Fokus §Y[?add] $infrastructure$ hinzufügen§!"
+ 
+ FOCUS_BUILDING_STATE_NEEDED: "Beim Erwerb einer §YRegion§! wird dieser Fokus §Y[?add] [?building.GetTokenLocalizedKey] hinzufügen§!"
+ FOCUS_BUILDING_COASTAL_NEEDED: "Beim Erwerb einer §YKüstenregion§! wird dieser Fokus §Y[?add] [?building.GetTokenLocalizedKey] hinzufügen§!"

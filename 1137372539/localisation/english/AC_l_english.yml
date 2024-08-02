@@ -110,7 +110,7 @@
  AC_gui_values:0 "§YPolitical power cost:§! [?Root.AC_project_political_power_cost^-1]\n§YConstruction duration:§! [?Root.AC_project_construction_duration^-1] days\n§YTotal construction time:§! [?Root.AC_project_total_construction_duration_display^-1] days\n§YConstruction speed penalty:§! [?Root.AC_project_construction_speed_display^-1]%\n\n"
 
  AC_assist_repair_button_text:0 "Assist Repair"
- AC_assist_repair_button_tt:0 "Assist this country in building repairs.\n\n§YPolitical power daily gain:§! §R-1§!\n\n§YDuration:§!§! §G180 days\n\n§LYou can only assist one country at a time with repairs.\n\nYou can cancel repair assistance by clicking this button or through the decisions tab at any time. There is a one day cooldown before you can re-enable it.§!"
+ AC_assist_repair_button_tt:0 "Assist this country in building repairs.\n\n§YPolitical power daily gain:§! §R-1§!\n\n§YDuration:§! §G180 days\n\n§LYou can only assist one country at a time with repairs.\n\nYou can cancel repair assistance by clicking this button or through the decisions tab at any time. There is a one day cooldown before you can re-enable it.§!"
 
  AC_construction_opinion:0 "Construction projects"
  

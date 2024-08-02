@@ -1,0 +1,107 @@
+﻿l_german:
+
+########### BICE #############
+mio_cat_eq_all_artillery: "Alle Artillerie"
+mio_cat_eq_all_anti_tank: "Alle Panzerabwehrkanonen"
+mio_cat_eq_all_anti_air: "Alle Flugabwehrgeschütze"
+mio_cat_eq_radio_recon: "Alle Unterstützungs- und Hilfsgeräte"
+mio_cat_eq_all_special_forces: "Alle Spezialeinheitenausrüstung"
+mio_cat_eq_all_infantry_weapons: "Alle Infanteriewaffen"
+mio_cat_eq_all_mechanized: "Alle mechanisierten Geräte"
+mio_cat_eq_transport: "Alle motorisierten und Transportgeräte"
+
+
+#### Pferdeorganisation ###
+generic_horsey_organization: "Pferderanch"
+mio_header_horse: "Pferde"
+mio_header_wagon: "Wagen und Karren"
+generic_mio_trait_breeding: "Selektive Zucht"
+generic_mio_trait_training: "Stabiles Training"
+generic_mio_trait_hot_training: "Wärmeanpassung"
+generic_mio_trait_cold_training: "Pferdedecken"
+generic_mio_trait_prefab: "Vorgefertigte Waggons"
+generic_mio_trait_sturdy: "Robuste Materialien"
+generic_mio_trait_lightweight: "Leichte Materialien"
+################################
+#### Infanteriewaffen ####
+################################
+generic_mio_trait_personal_grenades: "Persönliche Granaten"
+generic_mio_trait_bullet_design: "Projektil Designer"
+generic_mio_trait_fast_reload: "Clip-Magazine"
+generic_mio_trait_gas_chamber: "Rückstoss Designer"
+generic_mio_trait_fire_rate: "Verbesserte Feuerrate"
+generic_mio_trait_drum_feed: "Trommel-Magazine"
+mio_header_mg: "Maschinengewehre"
+generic_mio_trait_panoramic_sight: "Panoramablick"
+generic_mio_trait_barrel_cooling: "Rohrkühlung"
+generic_mio_trait_scopes: "Verbesserte Bereiche"
+mio_header_special: "Spezialausrüstung"
+generic_mio_trait_bicyles: "Fahrräder"
+generic_mio_trait_waterproofing: "Wasserdichtigkeit"
+generic_mio_trait_heat_resistance: "Wüstenanpassung"
+generic_mio_trait_cold_resistance: "Wärmeschutz"
+generic_mio_trait_rations: "Spezialisierte Rationen"
+generic_mio_trait_anti_tank_rounds: "Hohlspitzgeschoss"
+
+
+###################
+####### USA #######
+###################
+
+
+###################
+###### JAPAN ######
+###################
+
+
+######################
+#### SOVIET UNION ####
+######################
+
+########################
+#### UNITED KINGDOM ####
+########################
+
+################
+#### FRANCE ####
+################
+
+FRA_hotchkiss_organization: "$hotchkiss$"
+
+#################
+#### GERMANY ####
+#################
+
+GER_hugo_boss_organization: "$Hugo_Boss$"
+
+##################
+###### ITALIEN ######
+##################
+
+
+##################
+#### AUSTRALIEN ####
+##################
+
+AST_generic_artillery_organization: "$maribyrnong_artillery_manufacturer$"
+AST_generic_motorized_mechanized_organization: "$rover_motorized_equipment_manufacturer$"
+
+### AUS ###
+AUS_generic_artillery_organization: "$AUS_hirtenberger$"
+
+### BEL ###
+BEL_generic_artillery_organization: "$frc_BEL$"
+
+### BH ###
+BRA_generic_infantry_equipment_organization: "$ITAJUBA$"
+
+### BUL ###
+BUL_generic_motorized_mechanized_organization: "$chavdar$"
+
+### TIB ###
+TIB_generic_infantry_equipment_organization: "$drabshi_lekhoung_arsenal_section$"
+
+### TUN ###
+TUN_generic_infantry_equipment_organization: "$TUN_infantry_equipment_manufacturer$"
+TUN_generic_motorized_mechanized_organization: "$TUN_motorized_equipment_manufacturer$"
+TUN_generic_artillery_organization: "$TUN_artillery_manufacturer$"

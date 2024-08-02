@@ -8,6 +8,13 @@
  trm_armour_ita_folder:0 "Italian Tanks"
  trm_armour_usa_folder:0 "American Tanks"
  
+ trm_armour_minor_swe_folder:0 "Swedish Tanks"
+ trm_armour_minor_hun_folder:0 "Hungarian Tanks"
+ trm_armour_minor_pol_folder:0 "Polish Tanks"
+ trm_armour_minor_cze_folder:0 "Czech Tanks"
+ 
+ trm_armour_minor_generic_folder:0 "Minor Tanks"
+ 
  # SUPPORT TECHS
  tech_trm_tank_recon:0 "Armoured Recon Companies"
  tech_trm_tank_recon_early:0 "Light Tank Recon Companies"
@@ -70,6 +77,12 @@
  tech_trm_armour_construction_cast_partial_usa:0 "Partial Cast Construction"
  tech_trm_armour_construction_cast_partial_usa_desc:0 "Casting was in effect, a singular piece of armour plating formed from a mold. It is with this method that more complex shapes are possible to manufacture, especially rounded armour plating. Casting armour offered many advantages - it was often soft (ie non-brittle) and still strong and hard while being faster than welding.\n\nThe disadvantages were that it was resource expensive since it needed more steel than other construction methods, and required very skilled labour and much know-how to cast quality armour.\n\nAt first, casting were used for the production of parts of hulls or turrets only."
  
+ tech_trm_armour_construction_cast_partial_swe:0 "Partial Cast Construction"
+ tech_trm_armour_construction_cast_partial_swe_desc:0 "Casting was in effect, a singular piece of armour plating formed from a mold. It is with this method that more complex shapes are possible to manufacture, especially rounded armour plating. Casting armour offered many advantages - it was often soft (ie non-brittle) and still strong and hard while being faster than welding.\n\nThe disadvantages were that it was resource expensive since it needed more steel than other construction methods, and required very skilled labour and much know-how to cast quality armour.\n\nAt first, casting were used for the production of parts of hulls or turrets only."
+ 
+ tech_trm_armour_construction_cast_partial_hun:0 "Partial Cast Construction"
+ tech_trm_armour_construction_cast_partial_hun_desc:0 "Casting was in effect, a singular piece of armour plating formed from a mold. It is with this method that more complex shapes are possible to manufacture, especially rounded armour plating. Casting armour offered many advantages - it was often soft (ie non-brittle) and still strong and hard while being faster than welding.\n\nThe disadvantages were that it was resource expensive since it needed more steel than other construction methods, and required very skilled labour and much know-how to cast quality armour.\n\nAt first, casting were used for the production of parts of hulls or turrets only."
+ 
  tech_trm_armour_construction_cast_eng:0 "Cast Construction"
  tech_trm_armour_construction_cast_eng_desc:0 "Complete capabilites of casting the main parts of a Tank."
  
@@ -87,6 +100,12 @@
  
  tech_trm_armour_construction_cast_usa:0 "Cast Construction"
  tech_trm_armour_construction_cast_usa_desc:0 "Complete capabilites of casting the main parts of a Tank."
+ 
+ tech_trm_armour_construction_cast_swe:0 "Cast Construction"
+ tech_trm_armour_construction_cast_swe_desc:0 "Complete capabilites of casting the main parts of a Tank."
+ 
+ tech_trm_armour_construction_cast_hun:0 "Cast Construction"
+ tech_trm_armour_construction_cast_hun_desc:0 "Complete capabilites of casting the main parts of a Tank."
  
  tech_trm_armour_construction_cast_improved_eng:0 "Improved Casting"
  tech_trm_armour_construction_cast_improved_eng_desc:0 "Better casting techniques."
@@ -109,6 +128,12 @@
  tech_trm_armour_construction_cast_improved_usa:0 "Improved Casting"
  tech_trm_armour_construction_cast_improved_usa_desc:0 "Better casting techniques."
   
+ tech_trm_armour_construction_cast_improved_swe:0 "Improved Casting"
+ tech_trm_armour_construction_cast_improved_swe_desc:0 "Better casting techniques."
+ 
+ tech_trm_armour_construction_cast_improved_hun:0 "Improved Casting"
+ tech_trm_armour_construction_cast_improved_hun_desc:0 "Better casting techniques."
+  
  tech_trm_armour_construction_cast_round_eng:0 "Rounded Turret Casting"
  tech_trm_armour_construction_cast_round_eng_desc:0 "Rounded Turrets were the final stage in World War 2 Turret Technology development. Using steel casting, the heavily rounded surface meant that the angles in play varied heavily over the entire surface, maximizing the probability that a full caliber AP round would ricochet off of the vehicle. It also made the turret ligher as well as low profile, meaning it was harder to hit. It's main disadvantage was the internal reduced space for equipment or crew."
  
@@ -129,6 +154,12 @@
  tech_trm_armour_construction_cast_round_usa:0 "Rounded Turret Casting"
  tech_trm_armour_construction_cast_round_usa_desc:0 "Rounded Turrets were the final stage in World War 2 Turret Technology development. Using steel casting, the heavily rounded surface meant that the angles in play varied heavily over the entire surface, maximizing the probability that a full caliber AP round would ricochet off of the vehicle. It also made the turret ligher as well as low profile, meaning it was harder to hit. It's main disadvantage was the internal reduced space for equipment or crew."
  
+ tech_trm_armour_construction_cast_round_swe:0 "Rounded Turret Casting"
+ tech_trm_armour_construction_cast_round_swe_desc:0 "Rounded Turrets were the final stage in World War 2 Turret Technology development. Using steel casting, the heavily rounded surface meant that the angles in play varied heavily over the entire surface, maximizing the probability that a full caliber AP round would ricochet off of the vehicle. It also made the turret ligher as well as low profile, meaning it was harder to hit. It's main disadvantage was the internal reduced space for equipment or crew."
+ 
+ tech_trm_armour_construction_cast_round_hun:0 "Rounded Turret Casting"
+ tech_trm_armour_construction_cast_round_hun_desc:0 "Rounded Turrets were the final stage in World War 2 Turret Technology development. Using steel casting, the heavily rounded surface meant that the angles in play varied heavily over the entire surface, maximizing the probability that a full caliber AP round would ricochet off of the vehicle. It also made the turret ligher as well as low profile, meaning it was harder to hit. It's main disadvantage was the internal reduced space for equipment or crew."
+ 
  tech_trm_armour_construction_welded_eng:0 "Welded Construction"
  tech_trm_armour_construction_welded_eng_desc:0 "The change from riveting to welding began in 1934 when modified versions of the Soviet BT and T-26 tanks started to be produced using welding technology acquired from Germany, where welding was also used as soon as tanks began to be produced in 1934. Other countries followed six or seven years later and became the standard way to produce most of armoured vehicles.\n\nThe advantages of welding is that it offers a light weight and rather quick way to connect armour - the tolerance and margin for error is also higher - and moreover, you can apply a coarser weld to compensate for gaps. Quality control was extremely fast and problems were easily detected.\n\nThe main and probably only disadvantage was that it required a lot of skill and know-how compared to other techniques. For example, women were able to produce tanks with rivetting, but for welding this was impossible."
  
@@ -141,6 +172,9 @@
  tech_trm_armour_construction_welded_usa:0 "Welded Construction"
  tech_trm_armour_construction_welded_usa_desc:0 "The change from riveting to welding began in 1934 when modified versions of the Soviet BT and T-26 tanks started to be produced using welding technology acquired from Germany, where welding was also used as soon as tanks began to be produced in 1934. Other countries followed six or seven years later and became the standard way to produce most of armoured vehicles.\n\nThe advantages of welding is that it offers a light weight and rather quick way to connect armour - the tolerance and margin for error is also higher - and moreover, you can apply a coarser weld to compensate for gaps. Quality control was extremely fast and problems were easily detected.\n\nThe main and probably only disadvantage was that it required a lot of skill and know-how compared to other techniques. For example, women were able to produce tanks with rivetting, but for welding this was impossible."
  
+ tech_trm_armour_construction_welded_hun:0 "Welded Construction"
+ tech_trm_armour_construction_welded_hun_desc:0 "The change from riveting to welding began in 1934 when modified versions of the Soviet BT and T-26 tanks started to be produced using welding technology acquired from Germany, where welding was also used as soon as tanks began to be produced in 1934. Other countries followed six or seven years later and became the standard way to produce most of armoured vehicles.\n\nThe advantages of welding is that it offers a light weight and rather quick way to connect armour - the tolerance and margin for error is also higher - and moreover, you can apply a coarser weld to compensate for gaps. Quality control was extremely fast and problems were easily detected.\n\nThe main and probably only disadvantage was that it required a lot of skill and know-how compared to other techniques. For example, women were able to produce tanks with rivetting, but for welding this was impossible."
+ 
  tech_trm_armour_design_light_sloped_eng:0 "Light Sloped Armour Design"
  tech_trm_armour_design_light_sloped_eng_desc:0 "When an armor plate is sloped relative to the angle of attack, the relative armor thickness, or line of sight, increases. The armor piercing shot therefore has to penetrate a greater amount of armor than the actual thickness of the armor plate. Moreover, it increases the chances of deflecting or deforming an incoming round and to more efficiently protect a vehicle.\n\nLike everything, sloped armour has two main disadvantages. First, when a plate is angled, its height is reduced. As a result, the angled plate must be larger than a flat one, adding more weight. The second major disadvantage is that angling armor may increase protection, but when heavily sloped, it significantly reduces the space inside the tank needed for the crew and equipment."
  
@@ -152,6 +186,12 @@
  
  tech_trm_armour_design_partial_sloped_usa:0 "Partially Sloped Armour Design"
  tech_trm_armour_design_partial_sloped_usa_desc:0 "When an armor plate is sloped relative to the angle of attack, the relative armor thickness, or line of sight, increases. The armor piercing shot therefore has to penetrate a greater amount of armor than the actual thickness of the armor plate. Moreover, it increases the chances of deflecting or deforming an incoming round and to more efficiently protect a vehicle.\n\nLike everything, sloped armour has two main disadvantages. First, when a plate is angled, its height is reduced. As a result, the angled plate must be larger than a flat one, adding more weight. The second major disadvantage is that angling armor may increase protection, but when heavily sloped, it significantly reduces the space inside the tank needed for the crew and equipment."
+ 
+ tech_trm_armour_design_partial_sloped_swe:0 "Partially Sloped Armour Design"
+ tech_trm_armour_design_partial_sloped_swe_desc:0 "When an armor plate is sloped relative to the angle of attack, the relative armor thickness, or line of sight, increases. The armor piercing shot therefore has to penetrate a greater amount of armor than the actual thickness of the armor plate. Moreover, it increases the chances of deflecting or deforming an incoming round and to more efficiently protect a vehicle.\n\nLike everything, sloped armour has two main disadvantages. First, when a plate is angled, its height is reduced. As a result, the angled plate must be larger than a flat one, adding more weight. The second major disadvantage is that angling armor may increase protection, but when heavily sloped, it significantly reduces the space inside the tank needed for the crew and equipment."
+ 
+ tech_trm_armour_design_partial_sloped_hun:0 "Partially Sloped Armour Design"
+ tech_trm_armour_design_partial_sloped_hun_desc:0 "When an armor plate is sloped relative to the angle of attack, the relative armor thickness, or line of sight, increases. The armor piercing shot therefore has to penetrate a greater amount of armor than the actual thickness of the armor plate. Moreover, it increases the chances of deflecting or deforming an incoming round and to more efficiently protect a vehicle.\n\nLike everything, sloped armour has two main disadvantages. First, when a plate is angled, its height is reduced. As a result, the angled plate must be larger than a flat one, adding more weight. The second major disadvantage is that angling armor may increase protection, but when heavily sloped, it significantly reduces the space inside the tank needed for the crew and equipment."
  
  tech_trm_armour_design_rounded_fra:0 "Rounded Armour Design"
  tech_trm_armour_design_rounded_fra_desc:0 "With rounded armor, you're better-protected against any angle (though it's still optimized for the most likely angles). However, you have the disadvantage that there's always a chance of a round striking perpendicular to the rounded surface. For bullets, this can be a problem, but explosions tend to deflect regardless, since they attack a large area. One potential advantage for rounded armor surfaces is that arcs tend to distribute force over an area better than a flat surface"
@@ -175,6 +215,12 @@
  
  tech_trm_armour_design_sloped_usa:0 "Sloped Armour Design"
  tech_trm_armour_design_sloped_usa_desc:0 "When an armor plate is sloped relative to the angle of attack, the relative armor thickness, or line of sight, increases. The armor piercing shot therefore has to penetrate a greater amount of armor than the actual thickness of the armor plate. Moreover, it increases the chances of deflecting or deforming an incoming round and to more efficiently protect a vehicle.\n\nLike everything, sloped armour has two main disadvantages. First, when a plate is angled, its height is reduced. As a result, the angled plate must be larger than a flat one, adding more weight. The second major disadvantage is that angling armor may increase protection, but when heavily sloped, it significantly reduces the space inside the tank needed for the crew and equipment."
+ 
+ tech_trm_armour_design_sloped_swe:0 "Sloped Armour Design"
+ tech_trm_armour_design_sloped_swe_desc:0 "When an armor plate is sloped relative to the angle of attack, the relative armor thickness, or line of sight, increases. The armor piercing shot therefore has to penetrate a greater amount of armor than the actual thickness of the armor plate. Moreover, it increases the chances of deflecting or deforming an incoming round and to more efficiently protect a vehicle.\n\nLike everything, sloped armour has two main disadvantages. First, when a plate is angled, its height is reduced. As a result, the angled plate must be larger than a flat one, adding more weight. The second major disadvantage is that angling armor may increase protection, but when heavily sloped, it significantly reduces the space inside the tank needed for the crew and equipment."
+ 
+ tech_trm_armour_design_sloped_hun:0 "Sloped Armour Design"
+ tech_trm_armour_design_sloped_hun_desc:0 "When an armor plate is sloped relative to the angle of attack, the relative armor thickness, or line of sight, increases. The armor piercing shot therefore has to penetrate a greater amount of armor than the actual thickness of the armor plate. Moreover, it increases the chances of deflecting or deforming an incoming round and to more efficiently protect a vehicle.\n\nLike everything, sloped armour has two main disadvantages. First, when a plate is angled, its height is reduced. As a result, the angled plate must be larger than a flat one, adding more weight. The second major disadvantage is that angling armor may increase protection, but when heavily sloped, it significantly reduces the space inside the tank needed for the crew and equipment."
  
  tech_trm_armour_design_sloped_high_eng:0 "Highly Sloped Armour Design"
  tech_trm_armour_design_sloped_high_eng_desc:0 "Maximum slopeness."
@@ -205,6 +251,10 @@
  tech_trm_engine_diesel_basic_ita_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque (better cross country performance) than gasoline engines. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasoline."
  tech_trm_engine_diesel_basic_usa:0 "Basic Diesel Engines"
  tech_trm_engine_diesel_basic_usa_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque (better cross country performance) than gasoline engines. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasoline."
+ tech_trm_engine_diesel_basic_swe:0 "Basic Diesel Engines"
+ tech_trm_engine_diesel_basic_swe_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque (better cross country performance) than gasoline engines. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasoline."
+ tech_trm_engine_diesel_basic_hun:0 "Basic Diesel Engines"
+ tech_trm_engine_diesel_basic_hun_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque (better cross country performance) than gasoline engines. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasoline."
  tech_trm_engine_diesel_interwar_eng:0 "Interwar Diesel Engines"
  tech_trm_engine_diesel_interwar_fra:0 "Interwar Diesel Engines"
  tech_trm_engine_diesel_interwar_ger:0 "Interwar Diesel Engines"
@@ -212,6 +262,8 @@
  tech_trm_engine_diesel_interwar_jap:0 "Interwar Diesel Engines"
  tech_trm_engine_diesel_interwar_sov:0 "Interwar Diesel Engines"
  tech_trm_engine_diesel_interwar_usa:0 "Interwar Diesel Engines"
+ tech_trm_engine_diesel_interwar_swe:0 "Interwar Diesel Engines"
+ tech_trm_engine_diesel_interwar_hun:0 "Interwar Diesel Engines"
  tech_trm_engine_diesel_improved_eng:0 "Improved Diesel Engines"
  tech_trm_engine_diesel_improved_fra:0 "Improved Diesel Engines"
  tech_trm_engine_diesel_improved_ger:0 "Improved Diesel Engines"
@@ -219,6 +271,8 @@
  tech_trm_engine_diesel_improved_jap:0 "Improved Diesel Engines"
  tech_trm_engine_diesel_improved_sov:0 "Improved Diesel Engines"
  tech_trm_engine_diesel_improved_usa:0 "Improved Diesel Engines"
+ tech_trm_engine_diesel_improved_swe:0 "Improved Diesel Engines"
+ tech_trm_engine_diesel_improved_hun:0 "Improved Diesel Engines"
  tech_trm_engine_diesel_advanced_eng:0 "Advanced Diesel Engines"
  tech_trm_engine_diesel_advanced_fra:0 "Advanced Diesel Engines"
  tech_trm_engine_diesel_advanced_ger:0 "Advanced Diesel Engines"
@@ -226,6 +280,8 @@
  tech_trm_engine_diesel_advanced_jap:0 "Advanced Diesel Engines"
  tech_trm_engine_diesel_advanced_sov:0 "Advanced Diesel Engines"
  tech_trm_engine_diesel_advanced_usa:0 "Advanced Diesel Engines"
+ tech_trm_engine_diesel_advanced_swe:0 "Advanced Diesel Engines"
+ tech_trm_engine_diesel_advanced_hun:0 "Advanced Diesel Engines"
  
  tech_trm_engine_diesel_interwar_eng_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  tech_trm_engine_diesel_interwar_fra_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
@@ -234,6 +290,8 @@
  tech_trm_engine_diesel_interwar_jap_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  tech_trm_engine_diesel_interwar_sov_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  tech_trm_engine_diesel_interwar_usa_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
+ tech_trm_engine_diesel_interwar_swe_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
+ tech_trm_engine_diesel_interwar_hun_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  
  tech_trm_engine_diesel_improved_eng_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  tech_trm_engine_diesel_improved_fra_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
@@ -242,6 +300,8 @@
  tech_trm_engine_diesel_improved_jap_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  tech_trm_engine_diesel_improved_sov_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  tech_trm_engine_diesel_improved_usa_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
+ tech_trm_engine_diesel_improved_swe_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
+ tech_trm_engine_diesel_improved_hun_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  
  tech_trm_engine_diesel_advanced_eng_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  tech_trm_engine_diesel_advanced_fra_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
@@ -250,6 +310,8 @@
  tech_trm_engine_diesel_advanced_jap_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  tech_trm_engine_diesel_advanced_sov_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  tech_trm_engine_diesel_advanced_usa_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
+ tech_trm_engine_diesel_advanced_swe_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
+ tech_trm_engine_diesel_advanced_hun_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
  
  tech_trm_engine_diesel_advanced_late_sov:0 "Large Advanced Diesel Engines"
  tech_trm_engine_diesel_advanced_late_sov_desc:0 "Diesel engines are more reliable, consume less fuel and have a higher torque than gasoline engines, giving them better cross country performance. On the other hand, they're more expensive to produce and have less acceleration and top speed, which slightly decreases their maneuverability capabilities compared to gasolines."
@@ -261,6 +323,8 @@
  tech_trm_engine_gasoline_basic_jap:0 "Basic Gasoline Engines"
  tech_trm_engine_gasoline_basic_sov:0 "Basic Gasoline Engines"
  tech_trm_engine_gasoline_basic_usa:0 "Basic Gasoline Engines"
+ tech_trm_engine_gasoline_basic_swe:0 "Basic Gasoline Engines"
+ tech_trm_engine_gasoline_basic_hun:0 "Basic Gasoline Engines"
  
  tech_trm_engine_gasoline_basic_eng_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  tech_trm_engine_gasoline_basic_fra_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
@@ -269,6 +333,8 @@
  tech_trm_engine_gasoline_basic_jap_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  tech_trm_engine_gasoline_basic_sov_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  tech_trm_engine_gasoline_basic_usa_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
+ tech_trm_engine_gasoline_basic_swe_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
+ tech_trm_engine_gasoline_basic_hun_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  
  tech_trm_engine_gasoline_interwar_eng:0 "Interwar Gasoline Engines"
  tech_trm_engine_gasoline_interwar_fra:0 "Interwar Gasoline Engines"
@@ -276,6 +342,8 @@
  tech_trm_engine_gasoline_interwar_ita:0 "Interwar Gasoline Engines"
  tech_trm_engine_gasoline_interwar_jap:0 "Interwar Gasoline Engines"
  tech_trm_engine_gasoline_interwar_usa:0 "Improved Gasoline Engines"
+ tech_trm_engine_gasoline_interwar_swe:0 "Improved Gasoline Engines"
+ tech_trm_engine_gasoline_interwar_hun:0 "Improved Gasoline Engines"
  tech_trm_engine_gasoline_improved_eng:0 "Improved Gasoline Engines"
  tech_trm_engine_gasoline_improved_fra:0 "Improved Gasoline Engines"
  tech_trm_engine_gasoline_improved_ger:0 "Improved Gasoline Engines"
@@ -283,6 +351,8 @@
  tech_trm_engine_gasoline_improved_jap:0 "Improved Gasoline Engines"
  tech_trm_engine_gasoline_improved_sov:0 "Improved Gasoline Engines"
  tech_trm_engine_gasoline_improved_usa:0 "Improved Gasoline Engines"
+ tech_trm_engine_gasoline_improved_swe:0 "Improved Gasoline Engines"
+ tech_trm_engine_gasoline_improved_hun:0 "Improved Gasoline Engines"
  tech_trm_engine_gasoline_advanced_eng:0 "Advanced Gasoline Engines"
  tech_trm_engine_gasoline_advanced_fra:0 "Advanced Gasoline Engines"
  tech_trm_engine_gasoline_advanced_ger:0 "Advanced Gasoline Engines"
@@ -290,6 +360,8 @@
  tech_trm_engine_gasoline_advanced_jap:0 "Advanced Gasoline Engines"
  tech_trm_engine_gasoline_advanced_sov:0 "Advanced Gasoline Engines"
  tech_trm_engine_gasoline_advanced_usa:0 "Advanced Gasoline Engines"
+ tech_trm_engine_gasoline_advanced_swe:0 "Advanced Gasoline Engines"
+ tech_trm_engine_gasoline_advanced_hun:0 "Advanced Gasoline Engines"
  
  tech_trm_engine_gasoline_interwar_eng_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  tech_trm_engine_gasoline_interwar_fra_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
@@ -297,6 +369,8 @@
  tech_trm_engine_gasoline_interwar_ita_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  tech_trm_engine_gasoline_interwar_jap_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  tech_trm_engine_gasoline_interwar_usa_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
+ tech_trm_engine_gasoline_interwar_swe_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
+ tech_trm_engine_gasoline_interwar_hun_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
 
 
  tech_trm_engine_gasoline_improved_eng_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
@@ -306,6 +380,8 @@
  tech_trm_engine_gasoline_improved_jap_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  tech_trm_engine_gasoline_improved_sov_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  tech_trm_engine_gasoline_improved_usa_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
+ tech_trm_engine_gasoline_improved_swe_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
+ tech_trm_engine_gasoline_improved_hun_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  
  
  tech_trm_engine_gasoline_advanced_eng_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
@@ -315,6 +391,8 @@
  tech_trm_engine_gasoline_advanced_jap_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  tech_trm_engine_gasoline_advanced_sov_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  tech_trm_engine_gasoline_advanced_usa_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
+ tech_trm_engine_gasoline_advanced_swe_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
+ tech_trm_engine_gasoline_advanced_hun_desc:0 "Gasoline engines have higher accelerations and top seed than diesel engines (providing better maneuverability than diesel) while also being cheaper to produce. However, they are less reliable, consume more fuel and have a lower torque, which makes their cross country performance worse."
  
  tech_trm_engine_radial_basic_usa:0 "Basic Radial Gasoline Engines"
  tech_trm_engine_radial_basic_usa_desc:0 "Radial Engines were adapted aircraft engines for tanks usage. They used gasoline, were air cooled and had a high power to weight ratio.\n\nThey were the fastest of all engine types when it came to max speed and acceleration.\n\nOn the other hand, they consumed the most fuel, which decreased their cross country performance, and, their reliability, was the worst out of all engine types. Another drawback was that they were large, which meant that the tanks had a high profile and thus weren't able to fully utilize their superior speed for tactical maneuverability.\n\nBeing able to utilize aviation engines provided the USA with very powerful engines in early stages of development."
@@ -340,6 +418,8 @@
  tech_trm_gearbox_standard_jap:0 "Standard Gearbox"
  tech_trm_gearbox_standard_sov:0 "Standard Gearbox"
  tech_trm_gearbox_standard_usa:0 "Standard Gearbox"
+ tech_trm_gearbox_standard_swe:0 "Standard Gearbox"
+ tech_trm_gearbox_standard_hun:0 "Standard Gearbox"
  tech_trm_gearbox_advanced_eng:0 "Advanced Gearbox"
  tech_trm_gearbox_advanced_fra:0 "Advanced Gearbox"
  tech_trm_gearbox_advanced_ger:0 "Advanced Gearbox"
@@ -347,10 +427,13 @@
  tech_trm_gearbox_advanced_jap:0 "Advanced Gearbox"
  tech_trm_gearbox_advanced_sov:0 "Advanced Gearbox"
  tech_trm_gearbox_advanced_usa:0 "Advanced Gearbox"
+ tech_trm_gearbox_advanced_swe:0 "Advanced Gearbox"
+ tech_trm_gearbox_advanced_hun:0 "Advanced Gearbox"
  tech_trm_special_cupola_eng:0 "Commander Cupola"
  tech_trm_special_cupola_fra:0 "Commander Cupola"
  tech_trm_special_cupola_ita:0 "Commander Cupola"
  tech_trm_special_cupola_sov:0 "Commander Cupola"
+ tech_trm_special_cupola_swe:0 "Commander Cupola"
  tech_trm_special_deep_wading_eng:0 "Deep Wading Kit"
  tech_trm_special_deep_wading_eng_desc:0 "Usable on;\n -Centaur (A27L)\n -Cromwell (A27M)\n -Churchill (A22/A43)\n\nDeep wading or deep fording is a technique used by some heavy semi-amphibious vehicles to traverse water that is several metres deep - the vehicle drives on the riverbed/lakebed/seabed and uses screens or a pipe (a snorkel) that reaches above the water surface for an air supply."
  tech_trm_special_deep_wading_usa:0 "Deep Wading Kit"
@@ -402,6 +485,8 @@
  tech_trm_suspension_torsion_jap:0 "Torsion Bar Suspension"
  tech_trm_suspension_torsion_sov:0 "Torsion Bar Suspension"
  tech_trm_suspension_torsion_usa:0 "Torsion Bar Suspension"
+ tech_trm_suspension_torsion_swe:0 "Torsion Bar Suspension"
+ tech_trm_suspension_torsion_hun:0 "Torsion Bar Suspension"
  
  tech_trm_suspension_torsion_eng_desc:0 "Torsion bars use a twisting rotational force on a long bar of steel to provide a "spring" action. One end of a long metal bar is attached firmly to the vehicle chassis; the opposite end terminates in a lever attached to the wheel. Vertical motion of the wheel causes the bar to twist around its axis and is resisted by the bar's torsion resistance.\n\nWhile the installation of the torsion bars across the bottom of tank hulls makes them well-protected and allows for reduced widths of the tank, it also increases their height. This is undesirable in itself and it can also significantly increase the weight of tanks, particularly when they are heavily armoured."
  tech_trm_suspension_torsion_fra_desc:0 "Torsion bars use a twisting rotational force on a long bar of steel to provide a "spring" action. One end of a long metal bar is attached firmly to the vehicle chassis; the opposite end terminates in a lever attached to the wheel. Vertical motion of the wheel causes the bar to twist around its axis and is resisted by the bar's torsion resistance.\n\nWhile the installation of the torsion bars across the bottom of tank hulls makes them well-protected and allows for reduced widths of the tank, it also increases their height. This is undesirable in itself and it can also significantly increase the weight of tanks, particularly when they are heavily armoured."
@@ -447,6 +532,8 @@
  tech_trm_transmission_differential_ita:0 "Differential Transmission"
  tech_trm_transmission_differential_jap:0 "Differential Transmission"
  tech_trm_transmission_differential_sov:0 "Differential Transmission"
+ tech_trm_transmission_differential_swe:0 "Differential Transmission"
+ tech_trm_transmission_differential_hun:0 "Differential Transmission"
  
  tech_trm_transmission_differential_ita_desc:0 "This technique uses a a standard differential between the tracks with the drive being applied to the cage, exactly as in a car. There are independent gears for each half shaft which induce disparate track speeds, thus forcing rotation of the vehicle.\n\nThe advantage of this system over the Clutch-Brake is that the average vehicle speed is mainanted, i.e. when one steers left the right track speeds up accordingly.\n\nIt's main disadvantage is that sharp turns are not possible and there are a very limited number of possible radius turns depending on the amount of gears."
  tech_trm_transmission_differential_jap_desc:0 "This technique uses a a standard differential between the tracks with the drive being applied to the cage, exactly as in a car. There are independent gears for each half shaft which induce disparate track speeds, thus forcing rotation of the vehicle.\n\nThe advantage of this system over the Clutch-Brake is that the average vehicle speed is mainanted, i.e. when one steers left the right track speeds up accordingly.\n\nIt's main disadvantage is that sharp turns are not possible and there are a very limited number of possible radius turns depending on the amount of gears."
@@ -464,6 +551,8 @@
  tech_trm_transmission_twin_transmission_ger:0 "Twin Transmission"
  tech_trm_transmission_twin_transmission_ita:0 "Twin Transmission"
  tech_trm_transmission_twin_transmission_sov:0 "Twin Transmission"
+ tech_trm_transmission_twin_transmission_swe:0 "Twin Transmission"
+ tech_trm_transmission_twin_transmission_hun:0 "Twin Transmission"
  
  tech_trm_transmission_twin_transmission_ger_desc:0 "In this system, also called geared steering, each track is driven by a functionally separate multi-speed gearbox. Steering is accomplished by changing the gear on one track and not the other.\n\nApart from being somewhat more elaborate, it suffers from only one disadvantage in relation to the clutch-and-brake system which is that it can not provide turns as tight.\n\nThis proved to be a costly but very powerful solution, being only surpassed by double differential transmission."
  tech_trm_transmission_twin_transmission_ita_desc:0 "In this system, also called geared steering, each track is driven by a functionally separate multi-speed gearbox. Steering is accomplished by changing the gear on one track and not the other.\n\nApart from being somewhat more elaborate, it suffers from only one disadvantage in relation to the clutch-and-brake system which is that it can not provide turns as tight.\n\nThis proved to be a costly but very powerful solution, being only surpassed by double differential transmission."
@@ -837,3 +926,34 @@
  tech_trm_ammo_ita_apcr_small:0 "APCR Ammunition (20mm)"
  tech_trm_ammo_ita_apcr_large:0 "APCR Ammunition (75mm/90mm)"
  tech_trm_ammo_ita_heat:0 "HEAT Ammunition"
+
+ # SWE
+ tech_trm_swe_armour:1 "Swedish Tanks"
+ 
+ tech_trm_cavalry_tank_swe_m41_casemate_1:0 "Strv m/41 Casemate"
+ 
+ tech_trm_weapon_mg_swe_m36:0 "8mm Ksp m/36"
+ tech_trm_weapon_mg_swe_m39:0 "7.62mm Ksp m/39"
+ tech_trm_weapon_c_swe_37_m38:0 "37mm/45 m/38"
+ tech_trm_weapon_c_swe_57_m43:0 "57mm/47 m/43"
+ tech_trm_weapon_c_swe_75_m02:0 "75mm/24 m/02"
+ tech_trm_weapon_c_swe_75_m41:0 "75mm/31 m/41"
+ 
+
+ # HUN
+ tech_trm_hun_armour:1 "Hungarian Tanks"
+ 
+ tech_trm_light_tank_hun_toldi_turret_2:0 "Toldi 40mm Turret"
+ tech_trm_light_tank_hun_toldi_superstructure_open_1:0 "Toldi Superstructure"
+ tech_trm_medium_tank_hun_turan_turret_3:0 "Turan III Turret"
+ tech_trm_medium_tank_hun_turan_casemate_1:0 "Turan Casemate"
+ 
+ tech_trm_weapon_mg_hun_3440m:0 "8mm 34/40M"
+ tech_trm_weapon_c_hun_40_37m:0 "40mm 37/42M"
+ tech_trm_weapon_c_hun_40_41m:0 "40mm 41M"
+ tech_trm_weapon_c_hun_75_41m:0 "75mm 41M"
+ tech_trm_weapon_c_hun_75_43m:0 "75mm 43M"
+ tech_trm_weapon_c_hun_105_40m:0 "105mm 40/43M"
+ tech_trm_weapon_aa_ac_hun_40_bofors:0 "40mm 36M AA"
+ 
+ tech_trm_ammo_hun_heat:0 "HEAT Ammunition"

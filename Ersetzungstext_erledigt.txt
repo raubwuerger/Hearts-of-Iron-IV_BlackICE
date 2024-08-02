@@ -1,0 +1,238 @@
+§YBattleline
+§YCarrier Group§!
+Group§!
+Battle Line!§
+Supremacy§!
+Aviation§!
+Commander§!
+Army 
+Reassign§!
+Removed§!
+Taskforces
+Disband§!
+Lost§!
+§YConvoys
+§YIndustry
+§YNavy
+§YAir
+§YArmee
+§YFood
+§YRation
+§Yarmored
+§YBattle
+Exercises§
+Access§
+Ace
+Kriegsspiele
+Units§
+Tanks§
+Heavy Tanks§
+Mechanized§
+Motorized§
+Artillery§
+Hide§
+Show§
+Guns§
+Hauptstadtschiffe§
+Ships§
+Cruisers§
+Notify§
+notified§
+
+Dezimetrisches -> Dezimeterwellen
+Zentrimetisches -> Zentimeterwellen Radar
+Screening -> Sicherungs
+defensive§
+offensive§
+Arbeitskräft			-> Verfügbare Rekruten
+is produziert
+SP Anti-Air
+Anti-Air
+Cannot
+[Cav.]
+Air Wing
+Heavy
+Ausrüstung für Luft
+Coastal
+Ships§
+Remove§
+Medium§
+Medium
+High§
+Deploy§
+Cancel§
+Fighter
+Never§
+Low§
+Cruisers§
+Attack
+Defense
+Dare-To-Die Corps
+randomized§
+Mehrrollen
+Intel		-> Spionage
+ruhendem Spionagenetzwerk
+Spionagenetzwerkstärke
+Geheimdienstinformationen
+Pseudespionageeinheiten
+Disengage				-> Abrücken
+Plains
+Forest
+Jungle
+Hills
+Mountain
+Desert
+Marsh
+River
+Urban
+Fortifications
+Rüstungsdi
+damaged					-> beschädigt
+Green					-> grün
+Black					-> 
+Red						->	Rot
+required
+Railway Connection
+Equipment Captured§
+Disruption
+Delete
+Manpower
+By Attrition			-> Durch Abnutzung
+Combat
+River Connection		-> 
+Unable
+days
+Move Capital Hub here	-> 
+Naval Invasion
+Research Slot 			->	Forschungsplatz
+Radio Equipment			->	Funkausrüstung
+Easy					->	Leicht
+
+Deployment
+Washington Naval Treaty	-> Washingtoner Flottenvertrag
+Air Base				-> Luftwaffenstützpunkt[Arm]
+[Arm]
+Armor
+Tank
+nicht zum Kernland Mannschaften 			-> Freiwillige
+[Car]					-> [Kw]
+Spearhead				-> Stoßkeil
+Reliance
+Templates
+Lend-Leased
+Chief of Army
+Chief of Navy
+Core
+The General Who Did Not Resist
+Resistance
+
+operative_seducer
+Understood
+Instandhaltungsunternehmen II
+Capital, Carrier
+
+Umlaufbahn			-> Fraktion, Allianz
+
+"Das Vereini König" hat sich "Die Republik Polen" als Feind im Deutsch-Polnischen Krieg  angeschlossen.
+"Das Vereini König" hat sich "Die Republik Polen" als Allierter im Krieg gegen Deutschland  angeschlossen.
+enemies
+Entrenched
+Basis-Maximum
+
+submarine
+Dockyard
+
+Effects of Refitting
+Wenn die Einheit sich weiterbewegen würde, ..., als vorhanden sind.
+Wwir verlieren gerade
+achdem Blomberg
+Sie können die EWirtschaftsleistung ...
+Hochwinkel -> Steilfeuer
+Blockade
+Blockade-Läufer
+Experte für grüne Gewässer
+Ironside
+ie Olympischen Sommerspiele von 1936
+ie rechtsnationalistische Fraktion hat weite Teile Spaniens
+S-Gerat -> S-Gerät
+Monarchists
+Effect		-> Effekt
+Ein Sieg, an den sich alle von
+Army Score
+
+Nach Marine-Punktzahl sortieren
+Sortieren nach Air-Score
+Sortieren nach Land Punktzahl
+Einheiten, die sich in der Startposition eines Plans befinden
+Dafür erhält sie volle Straffreiheit für sie seine 
+Dank siees umfangreiches Wissens
+
+dismiss
+
+Lokale Lieferungen
+Abnutzung von Lieferwagen
+
+
+Kriegsführung
+ben
+Verbindung
+für Stabsoffiziere
+ndemodellierung Informationen
+Nach der Rückkehr Österreichs zum Reich haben wir nun eine gemeinsame Grenze mit Das Königreich Jugoslawien
+
+Infanterie-Ausrüstung
+Artillerie-Zugmaschiene
+Kavallerie-Ausrüstung
+
+Deutsch Druck in Richtung Benelux
+
+... Mit der Unterstützung von Französisch und Britisch weigern sich diese jedoch, 
+
+Polen kapituliert
+Deutsch-Kräfte im ganzen Land
+Die Polnisch-Regierung hat sich dazu
+Eine niedrige Positionierung hat folgende Auswirkungen:
+Mengen an Rüstungsgütern befreit/erobert
+Ihre unterdrückten deutschen Bewohner // Unsere
+
+Unter Berufung auf die während des Ersten Weltkrieges ... Frankreich ist der Verbündete beigetreten.
+
+Das Königreich Rumänien will Deutsch-Schiffe kaufen ... wohlbewusst
+
+Kontrollorien sie den Waffen-SS Aufstellungsreiter
+
+Attitude
+
+size
+Corvette
+Tanks
+Luftmontageanlagen 		-> Flugzeugmontageanlagen
+LKW Werkstatt			-> Kleine Mototorenmontageanlage
+Panzer Werkstatt		-> Kleine Panzermontagehalle
+Artiller Werkstatt		-> Kleine Artilleriegießerei
+Kampfflugzeug Werkstatt	-> Kleine Flugzeugmontageanlagen
+
+Verbundener Zorn -> Allierter Zorn/Empörung
+Aliied Anger
+achdem sie in der Deutschlandhalle
+
+Die folgenden Waffen-SS Einheiten können diesen Monat aufgestellt werden
+Jugoslawien Wettbewerb für Kampfflugzeuge
+
+Die Jugoslawien Air Force ... Auftrag
+tzung von Kreuzern
+hrer von Kreuzerflo
+im Einsatz Doktrin -> Im Einsatz 
+
+Säuberung der Führung der Union der Sozial
+rische Mobilmachung: Stehendes Heer
+
+
+Research
+Effort
+Multirole
+Speed
+Inter-War
+Scout Plane
+Jet-Antrieb -> Strahlantrieb
+
