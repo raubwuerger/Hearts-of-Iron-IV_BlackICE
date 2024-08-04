@@ -4249,16 +4249,16 @@
  nrm_fire_control_aa_3_desc:0 ""
  nrm_fire_control_aa_4_desc:0 ""
 
- nrm_radar_1:0 "Frühes dezimetrisches Radar"
- nrm_radar_2:0 "Verbessertes dezimetrisches Radar"
- nrm_radar_3:0 "Fortgeschrittenes dezimetrisches Radar"
- nrm_radar_4:0 "Zentimetrisches Radar"
- nrm_radar_5:0 "Verbessertes zentimetrisches Radar"
- nrm_radar_6:0 "Fortgeschrittenes zentimetrisches Radar"
- nrm_radar_fc_3:0 "Fortgeschrittenes dezimetrisches Radar & Frühes Radar FC"
- nrm_radar_fc_4:0 "Zentimetrisches Radar & Verbessertes Radar FC"
- nrm_radar_fc_5:0 "Verbessertes zentimetrisches Radar & Fortgeschrittenes Radar FC"
- nrm_radar_fc_6:0 "Fortgeschrittenes zentimetrisches Radar und integriertes Radar FC"
+ nrm_radar_1:0 "Frühes Dezimeterwellen Radar"
+ nrm_radar_2:0 "Verbessertes Dezimeterwellen Radar"
+ nrm_radar_3:0 "Fortgeschrittenes Dezimeterwellen Radar"
+ nrm_radar_4:0 "Zentimeterwellen Radar"
+ nrm_radar_5:0 "Verbessertes Zentimeterwellen Radar"
+ nrm_radar_6:0 "Fortgeschrittenes Zentimeterwellen Radar"
+ nrm_radar_fc_3:0 "Fortgeschrittenes Dezimeterwellen Radar & Frühes Radar FC"
+ nrm_radar_fc_4:0 "Zentimeterwellen Radar & Verbessertes Radar FC"
+ nrm_radar_fc_5:0 "Verbessertes Zentimeterwellen Radar & Fortgeschrittenes Radar FC"
+ nrm_radar_fc_6:0 "Fortgeschrittenes Zentimeterwellen Radar und integriertes Radar FC"
 
  nrm_radar_1_desc:0 ""
  nrm_radar_2_desc:0 ""
@@ -5516,11 +5516,11 @@
 
  EQ_MOD_CAT_nrm_submarine_radar_TITLE:0 "Radar"
 
- nrm_submarine_radar_2:0 "Verbessertes dezimetrisches Radar"
- nrm_submarine_radar_3:0 "Fortgeschrittenes dezimetrisches Radar"
- nrm_submarine_radar_4:0 "Zentimetrisches Radar"
- nrm_submarine_radar_5:0 "Verbessertes zentimetrisches Radar"
- nrm_submarine_radar_6:0 "Fortgeschrittenes zentimetrisches Radar"
+ nrm_submarine_radar_2:0 "Verbessertes Dezimeterwellen Radar"
+ nrm_submarine_radar_3:0 "Fortgeschrittenes Dezimeterwellen Radar"
+ nrm_submarine_radar_4:0 "Zentimeterwellen Radar"
+ nrm_submarine_radar_5:0 "Verbessertes Zentimeterwellen Radar"
+ nrm_submarine_radar_6:0 "Fortgeschrittenes Zentimeterwellen Radar"
 
  nrm_submarine_radar_2_desc:0 ""
  nrm_submarine_radar_3_desc:0 ""
@@ -5530,10 +5530,10 @@
 
  EQ_MOD_CAT_nrm_submarine_noise_TITLE:0 "Tarnkappe"
 
- nrm_submarine_noise_0:0 "Keine U-Boot-Tarnkappe"
- nrm_submarine_noise_1:0 "Frühe U-Boot-Tarnkappen"
- nrm_submarine_noise_2:0 "Verbesserte U-Boot-Tarnkappe"
- nrm_submarine_noise_3:0 "Fortgeschrittene U-Boot-Tarnkappe"
+ nrm_submarine_noise_0:0 "Keine U-Boot Tarnkappe"
+ nrm_submarine_noise_1:0 "Frühe U-Boot Tarnkappen (Alberich Beschichtung)"
+ nrm_submarine_noise_2:0 "Verbesserte U-Boot Tarnkappe (Alberich Beschichtung)"
+ nrm_submarine_noise_3:0 "Fortgeschrittene U-Boot Tarnkappe (Alberich Beschichtung)"
 
  nrm_submarine_noise_0_desc:0 "§RDieses Modul ist teuer in der Nachrüstung§!"
  nrm_submarine_noise_1_desc:0 "§RDieses Modul ist teuer in der Nachrüstung§!"

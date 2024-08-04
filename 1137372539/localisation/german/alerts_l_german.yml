@@ -193,7 +193,7 @@
  alert_not_enough_garrison_warning: "§REinige Besatzungsgesetze treten erst dann vollständig in Kraft, wenn ihre Garnisonsbedürfnisse vollständig erfüllt sind.§!"
  alert_not_enough_garrison_delayed: "Uns fehlt $NUM|*H$ Mannstärke."
  alert_not_enough_garrison_delayed_equipment: "Uns fehlt folgende Ausrüstung:"
- ALERT_LOSING_TRAINS: "Feindliche Logistikluftangriffe fordern Züge!"
+ ALERT_LOSING_TRAINS: "Feindliche Luftangriffe zerstören unsere Logistik (Züge)!"
  ALERT_OPERATIVE_READY_TO_RECRUIT_INSTANT: "Ein Agent kann nicht rekrutiert werden"
  ALERT_OPERATIVE_READY_TO_RECRUIT_DELAYED: "§GKlicken§!, um das Rekrutierungsfenster zu öffnen"
  alert_doctrine_unlock_instant: "§YDoktrinen verfügbar§!"

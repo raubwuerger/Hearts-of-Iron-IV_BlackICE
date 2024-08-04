@@ -186,8 +186,8 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  debug.1.t:0 "Debuggen"
  debug.1.desc:0 "Debuggen"
  MAP_MODE_TOGGLE_TT:0 "Klicken Sie mit der rechten Maustaste, um zwischen den §YMapmodi§! umzuschalten"
- LOCAL_RES_TT:0 "§YLLokale Ressourcen§!\n\n"
- LOCAL_RES_TT_0:0 "§YLLokale Ressourcen§!"
+ LOCAL_RES_TT:0 "§YLokale Ressourcen§!\n\n"
+ LOCAL_RES_TT_0:0 "§YLokale Ressourcen§!"
  LOCAL_RES:0 "[GetRecentStateControllerChange]"
  LOCAL_BOMB_TT:0 "[This.GetRecentBomb]"
  LOCAL_BOMB_DESC:0 "§YTage seit dem letzten Luftangriff§!\n[This.GetRecentBombDesc]"
@@ -365,11 +365,11 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  
  STATE_LOCAL_RESOURCES_TOOLTIP:0 "§YLokale Ressourcen§!\n[!local_resources_click]"
  STATE_LOCAL_FACTORIES_TOOLTIP:0 "§YLokale Fabriken§!\n[!local_factories_click]"
- STATE_LOCAL_SUPPLIES_TOOLTIP:0 "§YLLokale Vorräte§!\n[!local_supplies_click]"
+ STATE_LOCAL_SUPPLIES_TOOLTIP:0 "§YLokale Vorräte§!\n[!local_supplies_click]"
  
- STATE_LOCAL_RESOURCES_DELAYED_TOOLTIP: "§YLLokale Ressourcen§! bestimmt den Prozentsatz der Ressourcen in diesem Zustand, die uns zur Verfügung stehen."
+ STATE_LOCAL_RESOURCES_DELAYED_TOOLTIP: "§YLokale Ressourcen§! bestimmt den Prozentsatz der Ressourcen in diesem Zustand, die uns zur Verfügung stehen."
  STATE_LOCAL_FACTORIES_DELAYED_TOOLTIP: "§YLokale Fabriken§! bestimmt den Prozentsatz der Gebäude in diesem Zustand, die uns zur Verfügung stehen."
- STATE_LOCAL_SUPPLIES_DELAYED_TOOLTIP: "§YLLokale Ressourcen§! bestimmt den Prozentsatz der Ressourcen in diesem Zustand, die uns zur Verfügung stehen."
+ STATE_LOCAL_SUPPLIES_DELAYED_TOOLTIP: "§YLokale Ressourcen§! bestimmt den Prozentsatz der Ressourcen in diesem Zustand, die uns zur Verfügung stehen."
  
  STATE_FUEL_USAGE_TOOLTIP:0 "§YZiviler Kraftstoffverbrauch§!\nWie viel §YKraftstoff§! die Bevölkerung dieses Staates verbraucht pro Tag"
  STATE_FOOD_USAGE_TOOLTIP:0 "§YZivile Lebensmittelverwendung§!\nWie viele §Y§YLebensmittel§! die Bevölkerung dieses Staates verbraucht pro Tag"
@@ -953,7 +953,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  
  ### NONE SS TEMPLATES
  #Regiments
- template_artillery_brigade_TT:0 "    §Y[?artillery_brigade]x§! Artillerie-Brigade\n"
+ template_artillery_brigade_TT:0 "    §Y[?artillery_brigade]x§! Artilleriebrigade\n"
  
  #Subtech Icons 
  ARMOR_TD:0 "£subtech_td_icon"

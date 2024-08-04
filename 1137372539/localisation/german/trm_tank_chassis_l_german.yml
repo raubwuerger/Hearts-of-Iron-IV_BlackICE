@@ -25,7 +25,7 @@
  ### EQUIPMENT NAMES ### ""
  trm_tankette_tank_chassis:0 "Tankette"
  trm_tankette_tank_cs_chassis:0 "CS Tankette"
- trm_tankette_tank_destroyer_chassis:0 "Tankette Panzer-Zerstörer"
+ trm_tankette_tank_destroyer_chassis:0 "Tankette Jagdpanzer"
  trm_tankette_tank_assault_gun_chassis:0 "Tankette Sturmgeschütz"
  trm_tankette_tank_artillery_chassis:0 "Tankette Selbstfahrende Artillerie"
  trm_tankette_tank_aa_chassis:0 "Tankette Selbstfahrende Luftabwehr"
@@ -43,13 +43,13 @@
 
  trm_amph_tank_chassis:0 "Amphibischer Panzer"
 
- trm_cavalry_tank_chassis:0 "Kavallerie-Panzer"
- trm_cavalry_tank_cs_chassis:0 "Kavallerie-Panzer CS"
- trm_cavalry_tank_destroyer_chassis:0 "Kavallerie-Panzer-Zerstörer"
- trm_cavalry_tank_assault_gun_chassis:0 "Kavallerie-Sturmgeschütz"
- trm_cavalry_tank_artillery_chassis:0 "Selbstfahrende Kavallerie-Artillerie"
- trm_cavalry_tank_aa_chassis:0 "Selbstfahrende Kavallerie-Luftabwehr"
- trm_cavalry_tank_amphibious_chassis:0 "Amphibischer Kavallerie-Panzer"
+ trm_cavalry_tank_chassis:0 "Kavallerie Panzer"
+ trm_cavalry_tank_cs_chassis:0 "Kavallerie Panzer CS"
+ trm_cavalry_tank_destroyer_chassis:0 "Kavallerie Jagdpanzer"
+ trm_cavalry_tank_assault_gun_chassis:0 "Kavallerie Sturmgeschütz"
+ trm_cavalry_tank_artillery_chassis:0 "Selbstfahrende Kavallerie Artillerie"
+ trm_cavalry_tank_aa_chassis:0 "Selbstfahrende Kavallerie Luftabwehr"
+ trm_cavalry_tank_amphibious_chassis:0 "Amphibischer Kavallerie Panzer"
 
  trm_medium_tank_chassis:0 "Mittlerer Panzer"
  trm_medium_tank_cs_chassis:0 "Mittlerer Unterstützungspanzer"
@@ -113,12 +113,12 @@
 
  trm_amph_tank_chassis_desc:0 "Typ - Amphibischer Panzer"
 
- trm_cavalry_tank_chassis_desc:0 "Typ - Kavallerie-Panzer"
- trm_cavalry_tank_cs_chassis_desc:0 "Typ - Kavallerie-Panzer CS"
- trm_cavalry_tank_destroyer_chassis_desc:0 "Typ - Kavallerie-Panzer-Zerstörer"
- trm_cavalry_tank_assault_gun_chassis_desc:0 "Typ - Kavallerie-Sturmgeschütz"
+ trm_cavalry_tank_chassis_desc:0 "Typ - Kavallerie Panzer"
+ trm_cavalry_tank_cs_chassis_desc:0 "Typ - Kavallerie Panzer CS"
+ trm_cavalry_tank_destroyer_chassis_desc:0 "Typ - Kavallerie Jagdpanzer"
+ trm_cavalry_tank_assault_gun_chassis_desc:0 "Typ - Kavallerie Sturmgeschütz"
  trm_cavalry_tank_artillery_chassis_desc:0 "Typ - Selbstfahrende Kavallerie Artillerie"
- trm_cavalry_tank_aa_chassis_desc:0 "Typ - Selbstfahrende Kavallerie-Luftabwehr"
+ trm_cavalry_tank_aa_chassis_desc:0 "Typ - Selbstfahrende Kavallerie Luftabwehr"
  trm_cavalry_tank_amphibious_chassis_desc:0 "Typ - Amphibischer Kavallerie-Panzer"
 
  trm_medium_tank_chassis_desc:0 "Typ - Mittlerer Panzer"
@@ -137,12 +137,12 @@
  trm_medium_advanced_tank_aa_chassis_desc:0 "Typ - Fortschrittliches mittleres Luftabwehrgeschütz auf Selbstfahrlafette"
  trm_medium_advanced_tank_amphibious_chassis_desc:0 "Typ - Amphibischer Fortgeschrittener Mittlerer Panzer"
 
- trm_infantry_tank_chassis_desc:0 "Typ - Infanterie-Panzer"
- trm_infantry_tank_cs_chassis_desc:0 "Typ - Infanterie-Panzer CS"
- trm_infantry_tank_destroyer_chassis_desc:0 "Typ - Infanterie-Panzer-Zerstörer"
- trm_infantry_tank_assault_gun_chassis_desc:0 "Typ - Infanterie-Sturmgeschütz"
+ trm_infantry_tank_chassis_desc:0 "Typ - Infanterie Panzer"
+ trm_infantry_tank_cs_chassis_desc:0 "Typ - Infanterie Panzer CS"
+ trm_infantry_tank_destroyer_chassis_desc:0 "Typ - Infanterie Jagdpanzer"
+ trm_infantry_tank_assault_gun_chassis_desc:0 "Typ - Infanterie Sturmgeschütz"
  trm_infantry_tank_artillery_chassis_desc:0 "Typ - Selbstfahrende Artillerie der Infanterie"
- trm_infantry_tank_aa_chassis_desc:0 "Typ - Selbstfahrende Infanterie-Luftabwehr"
+ trm_infantry_tank_aa_chassis_desc:0 "Typ - Selbstfahrende Infanterie Luftabwehr"
  trm_infantry_tank_amphibious_chassis_desc:0 "Typ - Amphibischer Infanterie-Panzer"
 
  trm_heavy_tank_chassis_desc:0 "Typ - Schwerer Panzer"
@@ -1580,7 +1580,7 @@
  trm_cavalry_tank_equipment_fra_s40_1_short:0 "S40"
 
  trm_cavalry_tank_destroyer_chassis_fra_s35_1:0 "S35 Fahrgestell (TD)"
- trm_cavalry_tank_destroyer_equipment_fra_s35_1:0 "SAu 40 Panzer-Zerstörer"
+ trm_cavalry_tank_destroyer_equipment_fra_s35_1:0 "SAu 40 Jagdpanzer"
  trm_cavalry_tank_destroyer_equipment_fra_s35_1_short:0 "SAu 40"
 
  trm_medium_tank_chassis_fra_d1_1:0 "D1 Fahrgestell"

@@ -71,7 +71,7 @@
  POLITICAL_POLITICAL:0 "Politisch"
  MANAGE_OCCUPIED_TERRITORIES:2 "Besetzte Territorien"
  MANAGE_SUBJECTS:0 "Verwalten von Subjekten"
- manage_occupied_territories_no_occupation:0 "§RSie besetzen im Moment kein Nicht-Kerngebiet§!"
+ manage_occupied_territories_no_occupation:0 "§RSie besetzen im Moment keine fremde Region§!"
  MANAGE_OCCUPIED_TERRITORIES_HEADER:0 "Fremdes Territorium"
  MANAGE_EXILED_GOVERNMENTS:0 "Exilregierungen"
  SHOW_EXILED_STATUS:0 "Exil-Status"

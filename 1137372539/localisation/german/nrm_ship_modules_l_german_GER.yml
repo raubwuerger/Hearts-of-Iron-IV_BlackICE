@@ -919,11 +919,11 @@
  GER_nrm_radar_3:0 "FuMO 21/23/27 Radar"
  GER_nrm_radar_4:0 "FuMO 24/25/26 Radar"
  GER_nrm_radar_5:0 "FuMO 32/33/34 Radar"
- GER_nrm_radar_6:0 "Fortgeschrittenes zentimetrisches Radar"
+ GER_nrm_radar_6:0 "Fortgeschrittenes Zentimeterwellen Radar"
  GER_nrm_radar_fc_3:0 "FuMO 21/23/27 Radar & FuMO 23 Radar FC"
  GER_nrm_radar_fc_4:0 "FuMO 24/25/26 Radar & FuMO 25 Radar FC"
  GER_nrm_radar_fc_5:0 "FuMO 32/33/34 Radar und FuMO 213 Radar FC"
- GER_nrm_radar_fc_6:0 "Fortgeschrittenes zentimetrisches Radar & Integriertes Radar FC"
+ GER_nrm_radar_fc_6:0 "Fortgeschrittenes Zentimeterwellen Radar & Integriertes Radar FC"
 
  GER_nrm_radar_1_desc:0 ""
  GER_nrm_radar_2_desc:0 ""
@@ -1266,7 +1266,7 @@
  GER_nrm_submarine_radar_3:0 "FuMO 30 Radar"
  GER_nrm_submarine_radar_4:0 "FuMO 83 Radar"
  GER_nrm_submarine_radar_5:0 "FuMO 84 Radar"
- GER_nrm_submarine_radar_6:0 "Fortgeschrittenes zentimetrisches Radar"
+ GER_nrm_submarine_radar_6:0 "Fortgeschrittenes Zentimeterwellen Radar"
 
  GER_nrm_submarine_radar_2_desc:0 ""
  GER_nrm_submarine_radar_3_desc:0 ""

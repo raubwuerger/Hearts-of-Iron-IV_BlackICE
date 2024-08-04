@@ -919,11 +919,11 @@
  JAP_nrm_radar_3:0 "Typ 13/Typ 22 Radar"
  JAP_nrm_radar_4:0 "Typ 13M1/Typ 22 Radar"
  JAP_nrm_radar_5:0 "Typ 13M1/Typ 31/32 Radar"
- JAP_nrm_radar_6:0 "Fortgeschrittenes zentimetrisches Radar"
+ JAP_nrm_radar_6:0 "Fortgeschrittenes Zentimeterwellen Radar"
  JAP_nrm_radar_fc_3:0 "Typ 13/Typ 22 Radar & Typ 22M4 Radar FC"
  JAP_nrm_radar_fc_4:0 "Typ 13M1/Typ 22 Radar & Typ 33 Radar FC"
  JAP_nrm_radar_fc_5:0 "Typ 13M1/Typ 31/32 Radar & Typ 31/32/33 Radar FC"
- JAP_nrm_radar_fc_6:0 "Fortschrittliches zentimetrisches Radar & integriertes Radar FC"
+ JAP_nrm_radar_fc_6:0 "Fortschrittliches Zentimeterwellen Radar & integriertes Radar FC"
 
  JAP_nrm_radar_1_desc:0 ""
  JAP_nrm_radar_2_desc:0 ""
@@ -1266,7 +1266,7 @@
  JAP_nrm_submarine_radar_3:0 "Typ 13/Typ 22 Radar"
  JAP_nrm_submarine_radar_4:0 "Typ 13M1/Typ 22 Radar"
  JAP_nrm_submarine_radar_5:0 "Typ 13M1/Typ 31/32 Radar"
- JAP_nrm_submarine_radar_6:0 "Fortschrittliches zentimetrisches Radar"
+ JAP_nrm_submarine_radar_6:0 "Fortschrittliches Zentimeterwellen Radar"
 
  JAP_nrm_submarine_radar_2_desc:0 ""
  JAP_nrm_submarine_radar_3_desc:0 ""

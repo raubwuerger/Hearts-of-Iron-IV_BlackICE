@@ -633,7 +633,7 @@
  TRIGGER_HAS_NOT_WEATHER:0 "Wetter ist nicht $WEATHER|H$"
  TRIGGER_HAS_ANY_WEATHER:0 "Wetter ist eines von:"
  TRIGGER_HAS_NONE_OF_WEATHER:0 "Wetter ist keines von:"
- NON_DAMAGED_TYPE:0 "Nicht-geschädigt $TYPE$"
+ NON_DAMAGED_TYPE:0 "Unbeschädigt $TYPE$"
  TRIGGER_RESISTANCE:0 "Widerstandsfähigkeit"
  TRIGGER_RESISTANCE_TARGET:0 "Widerstand Ziel"
  TRIGGER_RESISTANCE_SPEED:0 "Widerstand Geschwindigkeit"
