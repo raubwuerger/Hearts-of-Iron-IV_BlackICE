@@ -919,11 +919,11 @@
  RAJ_nrm_radar_3:0 "Typ 272/273/279 Radar"
  RAJ_nrm_radar_4:0 "Typ 272/273/279/281 Radar"
  RAJ_nrm_radar_5:0 "Typ 272/273/274/275 Radar"
- RAJ_nrm_radar_6:0 "Fortgeschrittenes zentimetrisches Radar"
+ RAJ_nrm_radar_6:0 "Fortgeschrittenes Zentimeterwellen Radar"
  RAJ_nrm_radar_fc_3:0 "Typ 272/273/279 Radar & Typ 279 Radar FC"
  RAJ_nrm_radar_fc_4:0 "Typ 272/273/279/281 Radar und Typ 284/285 Radar FC"
  RAJ_nrm_radar_fc_5:0 "Typ 272/273/274/275 Radar und Typ 274/275/276 Radar FC"
- RAJ_nrm_radar_fc_6:0 "Fortgeschrittenes zentimetrisches Radar & Integriertes Radar FC"
+ RAJ_nrm_radar_fc_6:0 "Fortgeschrittenes Zentimeterwellen Radar & Integriertes Radar FC"
 
  RAJ_nrm_radar_1_desc:0 ""
  RAJ_nrm_radar_2_desc:0 ""
@@ -1266,7 +1266,7 @@
  RAJ_nrm_submarine_radar_3:0 "Typ 286W Radar"
  RAJ_nrm_submarine_radar_4:0 "Typ 291 Radar"
  RAJ_nrm_submarine_radar_5:0 "Typ 267 Radar"
- RAJ_nrm_submarine_radar_6:0 "Fortgeschrittenes zentimetrisches Radar"
+ RAJ_nrm_submarine_radar_6:0 "Fortgeschrittenes Zentimeterwellen Radar"
 
  RAJ_nrm_submarine_radar_2_desc:0 ""
  RAJ_nrm_submarine_radar_3_desc:0 ""

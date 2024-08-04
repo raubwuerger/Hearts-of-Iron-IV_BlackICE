@@ -24,3 +24,5 @@ It is Hungarian land
 Daily Stability drift
 
 -Designkosten
+Zentrimetisch		->	Zentimeter-Radar
+Zentimetrisches		->	Zentimeter-Radar
