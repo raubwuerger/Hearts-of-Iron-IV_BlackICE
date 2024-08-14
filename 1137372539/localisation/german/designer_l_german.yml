@@ -116,7 +116,7 @@ DESIGNER_EQUIPMENT_CHANGE:2 "$UNITS|Y$ Divisionen verwenden diese Vorlage.\nDie 
 DIVISION_NAMES_GROUP_LIST_HEADER:0 "§HExample names:§!"
 DIVISION_NAMES_GROUP_LIST_ENTRY:0 "\n $NAME$"
 DIVISION_NAMES_GROUP_LIST_ENTRY_ETC:0 "\n ..."
-DIVISION_NAMES_GROUP_LIST_ENTRY_FALLBACK:0 "\n\n§HFallback name:§!\n $NAME$"
+DIVISION_NAMES_GROUP_LIST_ENTRY_FALLBACK:0 "\n\n§HRückzugslinie name:§!\n $NAME$"
 DIVISION_NAMES_GROUP_DESC:0 "§Historische Abteilungsnamen Gruppe:§!\nAlle Abteilungen dieser Vorlage, werden die Namen aus diesem Pool verwenden. Wenn Sie die Gruppe jetzt ändern, werden alle Abteilungen dieser aktuellen Vorlage umbenannt, außer denen, die Sie selbst benannt haben."
 EQUIPMENT_DESIGNER_TITLE:0 "Ausstattungsdesigner"
 EQUIPMENT_DESIGNER_MODULE_SELECTION:0 "Treffen Sie eine Auswahl, um ein Modul zu ändern oder hinzuzufügen"
