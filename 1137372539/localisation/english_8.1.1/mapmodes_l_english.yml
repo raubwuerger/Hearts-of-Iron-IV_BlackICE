@@ -1,0 +1,90 @@
+﻿l_english:
+   MAPMODE_ARMY_STRENGTH_MAPMODE: "Army Strength Mapmode"
+   MAPMODE_ARMY_STRENGTH_MAPMODE_NAME: "Army Strength"
+   MAPMODE_ARMY_STRENGTH_MAPMODE_DESCRIPTION: "Shows the Absolute Army Strength of all countries"
+   MAPMODE_AIR_STRENGTH_MAPMODE: "Air Strength Mapmode"
+   MAPMODE_AIR_STRENGTH_MAPMODE_NAME: "Air Strength"
+   MAPMODE_AIR_STRENGTH_MAPMODE_DESCRIPTION: "Shows the Absolute Air Strength of all countries"
+   MAPMODE_NAVY_STRENGTH_MAPMODE: "Navy Strength Mapmode"  
+   MAPMODE_NAVY_STRENGTH_MAPMODE_NAME: "Navy Strength"
+   MAPMODE_NAVY_STRENGTH_MAPMODE_DESCRIPTION: "Shows the Absolute Navy Strength of all countries"
+   
+   MAPMODE_AIRBASE_MAPMODE: "Airbase Level Mapmode"  
+   MAPMODE_AIRBASE_MAPMODE_NAME: "Airbases"  
+   MAPMODE_AIRBASE_MAPMODE_DESCRIPTION: "Shows the Airbase Level in every state"
+   MAPMODE_ANTI_AIR_MAPMODE: "Anti-Air Level Mapmode"  
+   MAPMODE_ANTI_AIR_MAPMODE_NAME: "Anti-Air"
+   MAPMODE_ANTI_AIR_MAPMODE_DESCRIPTION: "Shows the Anti-Air Level in every state"
+   MAPMODE_RESEARCH_CENTER_MAPMODE: "Research Center Mapmode"  
+   MAPMODE_RESEARCH_CENTER_MAPMODE_NAME: "Research Centers"  
+   MAPMODE_RESEARCH_CENTER_DESCRIPTION: "Highlights the states with Research Centers. Only works for allies and countires with > 80% civillian intel"
+   
+   army_strength_mapmode_tooltip: "[FROM.CONTROLLER.army_strength_mapmode_tt]"
+   army_strength_mapmode_tooltip_delayed: ""
+   air_strength_mapmode_tooltip: "[FROM.CONTROLLER.air_strength_mapmode_tt]"
+   air_strength_mapmode_tooltip_delayed: ""
+   navy_strength_mapmode_tooltip: "[FROM.CONTROLLER.navy_strength_mapmode_tt]"
+   navy_strength_mapmode_tooltip_delayed: ""
+   
+   airbase_mapmode_tooltip: "[FROM.airbase_mapmode_tt]"
+   airbase_mapmode_tooltip_delayed: ""
+   anti_air_mapmode_tooltip: "[FROM.anti_air_mapmode_tt]"
+   anti_air_mapmode_tooltip_delayed: ""
+   research_center_mapmode_tooltip: "[FROM.research_center_mapmode_tt]"
+   research_center_mapmode_tooltip_delayed: ""
+   
+   MAPMODE_FRONT_STATE_MAPMODE: "Front States"
+   MAPMODE_FRONT_STATE_MAPMODE_NAME: "Front States"
+   front_state_mapmode_tooltip: "§RRed§! = Front State\n§bBlack§! = 100 pixel to front\n§GGreen§! = 150 pixel to front"
+  
+   MAPMODE_AI_INVASION_MAPMODE: "AI Invasion Debug"
+   MAPMODE_AI_INVASION_MAPMODE_NAME: "AI Invasion Debug"
+   ai_invasion_mapmode_tooltip: "AI Area Priority Weight: [?ROOT.ai_area_priority@var:FROM.ai_invasion_area]\n\nScore: [?ROOT.ai_invasion_area_score@var:FROM.ai_invasion_area] | Distance: [?ROOT.ai_invasion_area_distance@var:FROM.ai_invasion_area]"
+   
+   MAPMODE_AI_BUILDING_SLOT_SCORE: "AI Construction Debug"
+   MAPMODE_AI_BUILDING_SLOT_SCORE_NAME: "AI Construction Debug"
+   ai_building_slot_score_tooltip: "[GetAIMapmodeTooltip]"
+   ai_default_slot_score_tooltip: "ai_default_slot_score: [?FROM.ai_default_slot_score]"
+   ai_airbase_slot_score_tooltips: "ai_airbase_slot_score: [?FROM.ai_airbase_slot_score] | Mult: [?FROM.ai_airbase_slot_score_mult] | Distance: [?FROM.distance_to_front] \n[GetRegionDeployedPlanes] | Capacity: [?air_capacity] | Ratio: [?ratio|%]"
+   ai_resource_slot_score_tooltip: "ai_resource_slot_score: [?FROM.ai_resource_slot_score]"
+   ai_radar_slot_score_tooltip: "ai_radar_slot_score: [?FROM.ai_radar_slot_score]"
+   ai_new_radar_slot_score_tooltip: "ai_new_radar_slot_score: [?FROM.ai_new_radar_slot_score]\n  num_own_states: [?FROM.ai_new_radar_num_own_states]\n  num_allied_states: [?FROM.ai_new_radar_num_allied_states]\n  num_neutral_states: [?FROM.ai_new_radar_num_neutral_state]\n  num_enemy_states: [?FROM.ai_new_radar_num_enemy_states]\n  num_potential_enemy_states: [?FROM.ai_new_radar_num_potential_enemy_states]"
+   ai_radar_states_tooltip: "§CCyan:§! Predetermined Radar State from ai_radar_location trigger\n§BBlue:§! New Radar State\n§RRed:§! State with Radar thats not ackknowledged by AI (not predetermined or dynamically added)"
+   
+   ai_resource_built_tooltip: "Infra built: [?FROM.ai_built@infrastructure] | Current: [?FROM.building_level@infrastructure]"
+   ai_airbase_built_tooltip: "Airbase built: [?FROM.ai_built@air_base] | Current: [?FROM.building_level@air_base]"
+   ai_radar_built_tooltip: "Radar built: [?FROM.ai_built@radar_station] | Current: [?FROM.building_level@radar_station]"
+   ai_building_built_tooltip: "All built: [GetAIBuiltAll]\n industrial_complex: [?FROM.ai_built@industrial_complex]\n arms_factory: [?FROM.ai_built@arms_factory]\n dockyard: [?FROM.ai_built@dockyard]\n air_assembly: [?FROM.ai_built@air_assembly]\n power_plant: [?FROM.ai_built@power_plant]\n steel_refinery: [?FROM.ai_built@steel_refinery]\n aluminium_refinery: [?FROM.ai_built@aluminium_refinery]"
+   
+   ai_building_built_score_tooltip: "[?FROM.ai_built@air_base] BUILT | [?FROM.building_level@air_base] CURRENT LEVEL"
+   
+   MAPMODE_AI_DEFENSE_MAPMODE: "AI Defense"
+   MAPMODE_AI_DEFENSE_MAPMODE_NAME: "AI Defense"
+   ai_defense_mapmode_tooltip: "mapmode modding is real garbonzo"
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
