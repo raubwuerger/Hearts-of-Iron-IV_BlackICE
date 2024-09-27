@@ -2544,20 +2544,20 @@ MAIN_MENU_COMPATABILITY: " MAIN_MENU_COMPATABILITY: "Diese Version enthält grun
  
  role_infantry: "infantry"
  Role_assault_infantry: "assault_infantry"
- role_garrison: "Garnison"
+ role_garrison: "garrison"
  Role_light_infantry: "light_infantry"
  Role_heavy_infantry: "heavy_infantry"
- Role_cavalry: "Kavallerie"
- role_motorized: "motorisiert"
+ Role_cavalry: "cavalry"
+ role_motorized: "motorized"
  Role_light_armor: "light_armor"
  Role_light_armor_alt: "light_armor_alt"
  role_medium_armor: "medium_armor"
  Role_medium_armor_alt: "medium_armor_alt"
  role_heavy_armor: "heavy_armor"
  Role_heavy_armor_alt: "heavy_armor_alt"
- role_marines: "Marines"
+ role_marines: "marines"
  role_mountaineers: "mountaineers"
- role_militia: "Miliz"
+ role_militia: "militia"
 
  ## KI-Entscheidungen
  ai_GER_help_in_the_east: "Hilfe im Osten anfordern"
@@ -2615,8 +2615,8 @@ MAIN_MENU_COMPATABILITY: " MAIN_MENU_COMPATABILITY: "Diese Version enthält grun
  hydro_power_tooltip: "§Y[?token:hydro_power.GetTokenLocalizedKey]§!\n[!hydro_power_click]"
  Shipyard_capital_building_tooltip: "§Y[?token:shipyard_capital_building.GetTokenLocalizedKey]§!\n[!shipyard_capital_building_click]"
  
- building_unbuildable_tooltip: "\n£trigger_no Dieses Gebäude ist §Runbuildable.§!"
- building_requirement_tooltip: "§RRerfordert Technologie ([?tech.GetTokenLocalizedKey])§!"
+ building_unbuildable_tooltip: "\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
+ building_requirement_tooltip: "§Rerfordert Technologie ([?tech.GetTokenLocalizedKey])§!"
  building_cost_tooltip: "\nBaukosten: £civ_factory_output [?global.building_cost@var:building|Y0]" # (Tage: [?days|0])
  building_conversion_tooltip: "Umwandlungskosten: £civ_factory_output [?conversion|Y0]"
  building_energy_tooltip: "\nEnergiebedarf: [?need|R1]£electricity_medium "
@@ -2628,10 +2628,10 @@ MAIN_MENU_COMPATABILITY: " MAIN_MENU_COMPATABILITY: "Diese Version enthält grun
  tank_assembly_resource: "\nPanzerproduktionskapazität: §Y+[?modifier@tank_production_capacity]§!£resources_strip|20 \n"
  Capital_assembly_resource: "\nGroßkampfschiffsproduktionskapazität: §Y+[?modifier@shipyard_capital_capacity]§!£resources_strip|24 \n"
  
- Steel_refinery_resource: "\nProduktion im Status: [?output|Y0=]£resources_strip|5 \n"
- aluminium_refinery_resource: "\nProduktion im Status: [?output|Y0=]£resources_strip|2 \n"
- Fuel_refinery_resource: "\nProduktion im Bundesstaat: [?output|Y0=]£fuel_state \n"
- Rubber_refinery_resource: "\nProduktion im Status: [?output|Y0=]£resources_strip|3 \n"
+ Steel_refinery_resource: "\nProduktion im Staat: [?output|Y0=]£resources_strip|5 \n"
+ aluminium_refinery_resource: "\nProduktion im Staat: [?output|Y0=]£resources_strip|2 \n"
+ Fuel_refinery_resource: "\nProduktion im Staat: [?output|Y0=]£fuel_state \n"
+ Rubber_refinery_resource: "\nProduktion im Staat: [?output|Y0=]£resources_strip|3 \n"
  
  power_plant_resource: "\n£electricity_medium Energieproduktionskapazität: [?output|Y=0]"
  hydro_power_resource: "\n£electricity_medium Energieproduktion: [?output|Y=0]"
@@ -2648,11 +2648,11 @@ MAIN_MENU_COMPATABILITY: " MAIN_MENU_COMPATABILITY: "Diese Version enthält grun
 
  UI_OVERLAY_UPDATE_TEXT: "Bitte klicken Sie hier, um die Benutzeroberfläche zu initialisieren!\n\nWenn Sie im Koop mit einem anderen Spieler spielen, stellen Sie sicher, dass Sie das Spiel einen Tag lang laufen lassen, um es für alle Koops freizuschalten."
 
- REQUIRE_LAR: "£trigger_no hat §YLa-Widerstand§!"
+ REQUIRE_LAR: "£trigger_no hat §YLa Resistance§!"
 
  ALL_SHORTCUT_TEXT: "Drücken Sie £a für Geräte in dieser Liste, um §YAlle auszuwählen§!"
  
-  SHOW_OWNED_BUILDINGS_TT: "Show details about owned buildings"
+  SHOW_OWNED_BUILDINGS_TT: "Details zu eigenen Gebäuden anzeigen"
 
  BB_scharnhorst: "Scharnhorst Klasse"
  BB_scharnhorst_38cm: "Scharnhorst Klasse (38cm)"

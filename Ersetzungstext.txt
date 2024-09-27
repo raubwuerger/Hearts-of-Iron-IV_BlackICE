@@ -31,6 +31,8 @@ Zentimetrisches		->	Zentimeter-Radar
 „
 `
 ´
+‘
+‚
 active
 partially
 Refinerie
