@@ -96,7 +96,7 @@
  RANDOM_AIR_ACCIDENT_CHANCE_CARRIER:0 "\n - Auf Trägerschiff Multiplikator: §R$CAR|1$§!"
  RANDOM_AIR_ACCIDENT_CHANCE_TRAINING:0 "\n - Multiplikator für laufende §YPilotenübungen§! §R$VALUE|1$§!"
  RANDOM_AIR_ACCIDENT_CHANCE_WEATHER:0 "\n - Wetter:"
- RANDOM_AIR_ACCIDENT_CHANCE_GLOBAL: „\n - Land: $VALUE-=%$“
+ RANDOM_AIR_ACCIDENT_CHANCE_GLOBAL: "\n - Land: $VALUE-=%$"
  RANDOM_AIR_ACCIDENT_CHANCE_TOTAL:0 "\nTotal: $TOT|R%$"
  RANDOM_AIR_ACCIDENTS_HAPPENED:0 "Geschehene Unfälle insgesamt: $TOT|R$"
  DESELECT_UNIT:0 "abwählen."
@@ -858,7 +858,7 @@
  division_list_warning_column_button_tooltip:0 "§GKlick§! zum Sortieren von Divisionen nach §HWarnung§!.\n§GShift + Klick§! zum Sortieren in umgekehrter Reihenfolge."
  division_list_organization_strength_column_button_tooltip:0 "§GKlick§! zum Sortieren der Divisionen nach §HOrganisation§!, §HStärke§! oder §HDas Produkt aus beiden§!.\n§GShift + Klick§! zum Sortieren in umgekehrter Reihenfolge."
  DECOMMISSIONED_TEMPLATE_WARNING_TOOLTIP:0 "§RDiese Vorlage wurde außer deaktiviert!§!"
-  FOREIGN_TEMPLATE_TOOLTIP: „Dies ist eine §YAusländische Vorlage§!, die entweder über §YExilregierungen§! oder §YExpeditionsstreitkräfte§! erlangt wurde.“
+  FOREIGN_TEMPLATE_TOOLTIP: "Dies ist eine §YAusländische Vorlage§!, die entweder über §YExilregierungen§! oder §YExpeditionsstreitkräfte§! erlangt wurde."
  DIVISION:0 "Division"
  DIVISION_PLURAL:0 "Divisionen"
  RAILWAY_GUN:0 "Eisenbahngeschütz"
@@ -1862,4 +1862,4 @@ Cavalry_tank_axis_desc:0 "Schnelle Panzer, die Breschen in der Linie ausnutzen s
  category_all_light_anti_air:0 "Alle Leichte Luftabwehr"
  category_all_heavy_anti_air:0 "Alle Schwere Luftabwehr"
  
- AIR_WING_EXPERIENCE_VALUE_MODIFIER: „\n - Erfahrung: $VALUE|%-=2$“
+ AIR_WING_EXPERIENCE_VALUE_MODIFIER: "\n - Erfahrung: $VALUE|%-=2$"

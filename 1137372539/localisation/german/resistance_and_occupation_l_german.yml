@@ -184,10 +184,10 @@
  sabotage_tungsten:0 "Wolframressourcen sabotieren"
  sabotage_steel:0 "Stahlvorkommen sabotieren"
  sabotage_chromium:0 "Legierungen sabotieren"
- sabotage_food: „Nahrungsressourcen sabotieren“
- sabotage_iron: „Eisenressourcen sabotieren“
- sabotage_kohle: „Kohleressourcen sabotieren“
- sabotage_bauxit: „Bauxitressourcen sabotieren“
+ sabotage_food: "Nahrungsressourcen sabotieren"
+ sabotage_iron: "Eisenressourcen sabotieren"
+ sabotage_kohle: "Kohleressourcen sabotieren"
+ sabotage_bauxit: "Bauxitressourcen sabotieren"
  sabotage_synthetic_rubber_refinery:0 "Sabotage von Synthesekautschuk Raffinerien"
  sabotage_steel_refinery:0 "Sabotage von Stahlwerken"
  sabotage_tank_factory:0 "Sabotage von Panzerfabriken"

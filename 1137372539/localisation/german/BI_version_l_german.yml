@@ -4,7 +4,7 @@
 ### IMPORTANT ### 
 #-Also adjust GetVersion in common/scripted_localisation/ 
  BICE_mod_type: "§YHauptversion§!"
- BICE_version:0 "v8.1.0"
+ BICE_version:0 "v8.1.1"
  BICE_checksum:0 "75fa"
 #--------------------------------- 
 
