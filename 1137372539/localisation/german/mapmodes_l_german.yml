@@ -33,21 +33,31 @@
    research_center_mapmode_tooltip: "[FROM.research_center_mapmode_tt]"
    research_center_mapmode_tooltip_delayed: ""
    
-   ai_map_mode_tooltip: "AIRBASE-Score: [?FROM.ai_airbase_slot_score]"
+   MAPMODE_FRONT_STATE_MAPMODE: „Frontstaaten“
+   MAPMODE_FRONT_STATE_MAPMODE_NAME: „Frontstaaten“
    front_state_mapmode_tooltip: "§RRot§! = Front State\n§bSchwarz§! = 100 Pixel nach vorne\n§GGrün§! = 150 Pixel nach vorne"
    
-   front_region_mapmode_tooltip: "SCORE: [?FROM.ai_airbase_slot_score] | Mult: [?FROM.ai_airbase_slot_score_mult] | Entfernung: [?FROM.distance_to_front]\n[GetRegionDeployedPlanes] | Kapazität: [?air_capacity] | Verhältnis: [?ratio|%] "
+   MAPMODE_AI_INVASION_MAPMODE: „KI Invasionsdebugging“
+   MAPMODE_AI_INVASION_MAPMODE_NAME: „KI Invasionsdebugging“
+   ai_invasion_mapmode_tooltip: „KI-Gebietsprioritätsgewicht: [?ROOT.ai_area_priority@var:FROM.ai_invasion_area]\n\nPunktzahl: [?ROOT.ai_invasion_area_score@var:FROM.ai_invasion_area] | Entfernung: [?ROOT.ai_invasion_area_distance@var:FROM.ai_invasion_area]“
     
+   MAPMODE_AI_BUILDING_SLOT_SCORE: „KI-Debugging beim Bau“
+   MAPMODE_AI_BUILDING_SLOT_SCORE_NAME: „KI-Debugging beim Bau“
    ai_building_slot_score_tooltip: "[GetAIMapmodeTooltip]"
    ai_default_slot_score_tooltip: "ai_default_slot_score: [?FROM.ai_default_slot_score]"
    ai_airbase_slot_score_tooltips: "ai_airbase_slot_score: [?FROM.ai_airbase_slot_score] | Mult: [?FROM.ai_airbase_slot_score_mult] | Entfernung: [?FROM.distance_to_front] \n[GetRegionDeployedPlanes] | Kapazität: [?air_capacity] | Verhältnis: [?ratio|%] "
    ai_resource_slot_score_tooltip: "ai_resource_slot_score: [?FROM.ai_resource_slot_score]"
    ai_radar_slot_score_tooltip: "ai_radar_slot_score: [?FROM.ai_radar_slot_score]"
    ai_new_radar_slot_score_tooltip: "ai_new_radar_slot_score: [?FROM.ai_new_radar_slot_score]\n num_own_states: [?FROM.ai_new_radar_num_own_states]\n num_allied_states: [?FROM.ai_new_radar_num_allied_states]\n num_neutral_state s: [?FROM.ai_new_radar_num_neutral_state]\n num_enemy_states: [?FROM.ai_new_radar_num_enemy_states ]\n num_potential_enemy_states: [?FROM.ai_new_radar_num_potential_enemy_states]"
-   
+   ai_radar_states_tooltip: „§CZyan:§! Vorbestimmter Radarstatus von ai_radar_location trigger\n§BBlau:§! Neuer Radarstatus\n§RRot:§! Status mit Radar, der nicht von der KI bestätigt wurde (nicht vorbestimmt oder dynamisch hinzugefügt)“
+  
    ai_resource_built_tooltip: "Infra gebaut: [?FROM.ai_built@infrastructure] | Aktuell: [?FROM.building_level@infrastructure]"
    ai_airbase_built_tooltip: "Luftwaffenstützpunkt gebaut: [?FROM.ai_built@air_base] | Aktuell: [?FROM.building_level@air_base]"
    ai_radar_built_tooltip: "Radar gebaut: [?FROM.ai_built@radar_station] | Aktuell: [?FROM.building_level@radar_station]"
    ai_building_built_tooltip: "Alle gebaut: [GetAIBuiltAll]\n industrial_complex: [?FROM.ai_built@industrial_complex]\n arms_factory: [?FROM.ai_built@arms_factory]\n Werft: [?FROM.ai_built@dockyard]\n air_assembly: [ ?FROM.ai_built@air_assembly]\n Kraftwerk: [?FROM.ai_built@power_plant]\n Stahlraffinerie: [?FROM.ai_built@steel_refinery]\n Aluminiumraffinerie: [?FROM.ai_built@aluminium_refinery]"
    
    ai_building_built_score_tooltip: "[?FROM.ai_built@air_base] GEBAUT | [?FROM.building_level@air_base] AKTUELLES LEVEL"
+   
+   MAPMODE_AI_DEFENSE_MAPMODE: „KI-Verteidigung“
+   MAPMODE_AI_DEFENSE_MAPMODE_NAME: „KI-Verteidigung“
+   ai_defense_mapmode_tooltip: „Mapmode-Modding ist echt krass“

@@ -2,6 +2,7 @@
  empty_space:0 " "
  empty_line:0 "\n "
  empty_line_x2:0 "\n\n"
+ line_break: "\n "
  ENABLE_VOLUNTEER:0 "They will allow volunteers from us in their country.\n"
  REGION_TT:0 "[This.GetRegion]:\n"
  REGION_TT_2:0 "[state.GetRegion]:\n"
@@ -373,8 +374,14 @@
  STATE_LOCAL_SUPPLIES_DELAYED_TOOLTIP: "§YLocal Resources§! determines the percentage of resources in this state available to us."
  
  STATE_FUEL_USAGE_TOOLTIP:0 "§YCivilian Fuel Use§!\nHow much §YFuel§! this state's population consumes per day"
- STATE_FOOD_USAGE_TOOLTIP:0 "§YCivilian Food Use§!\nHow many §YRations§! this state's population consumes per day"
+ STATE_FOOD_USAGE_TOOLTIP:0 "§YCivilian Food Use§!\nHow many §YRations§! this state's population consumes per day\n[!local_food_icon_click]"
  LOCAL_GARRISON_NEED_TT:0 "How many §YUnits§! of the §YGarrison Template§! assigned to this state are needed."
+ STATE_FOOD_EXPLANATION: "\nBase Consumption applied to this State: \n[?OWNER.GetFlag]§Y[?t.GetTokenLocalizedKey]§!, which grants:\n    Required Rations per 1000 Population: [?fneed|Y3]"
+ STATE_FOOD_EXPLANATION1: "[?CONTROLLER.GetFlag]§Y[?t.GetTokenLocalizedKey]§!, which grants:\n    Required Rations per 1000 Population: [?fneed|Y3]\n\nFinal average value: [?final|Y3]"
+ STATE_FOOD_TOTAL_CONSUMPTION: "\nDaily Consumption: [?state_food_need|Y0]"
+ STATE_FOOD_BASE_CONSUMPTION: "  Base: [?base_consumption|Y0]"
+ STATE_FOOD_COASTAL_FACTOR: "  Multiplied by §Yx[?factor|2]§! due to being a coastal state"
+ STATE_FOOD_LOCAL_FACTOR: "  Multiplied by §Yx[?local_factor|2]§! Local Food Use"
  
  lacking_consumer_goods:0 "Lacking Consumer Goods"
  min_cons_goods_TT:0 "Min. Consumer Goods Factories: [?min_cons_goods_mod|Y%0]\n"
@@ -385,16 +392,18 @@
 
  MEFO_DONE_TT:0 "£trigger_yes §YMEFO§!"
 
- SPECIAL_FORCES_TT:0 "§YSpecial Forces§!\nWe are currently fielding [?num_specialised|Y0] of our [?special_forces_cap|Y0] allowed special forces weight.\nThe limit is [?special_forces_ratio|Y%] of our Army Strength ([?army_strength|Y0]), with a minimum of [?modifier@special_forces_min|Y0]\n[Root.GetSpecialForcesComp][!special_forces_background_click]"
+ SPECIAL_FORCES_TT:0 "§YSpecial Forces§!\nWe are currently fielding [?num_specialised|Y0] of our [?special_forces_cap|Y0] allowed special forces weight. [GetSpecialForcesLimitRatio]\nThe limit is [?special_forces_ratio|Y%] of our Army Strength ([?army_strength|Y0]), with a minimum of [?modifier@special_forces_min|Y0]\n[Root.GetSpecialForcesComp][!special_forces_background_click]"
+ SPECIAL_FORCES_TT_TEXT_ONLY:0 "We are currently fielding [?num_specialised|Y0] of our [?special_forces_cap|Y0] allowed special forces weight. [GetSpecialForcesLimitRatio]\nThe limit is [?special_forces_ratio|Y%] of our Army Strength ([?army_strength|Y0]), with a minimum of [?modifier@special_forces_min|Y0]\n[Root.GetSpecialForcesComp][!special_forces_background_click]"
  SPECIAL_FORCES_CAP_TT:0 "Special Forces Cap: [?special_forces_ratio|Y%] \nBase: §Y7.0%§! \n[!sof_ratio_bar_click]"
- SPECIAL_FORCES_RATIO_TT:0 "We are currently fielding [?num_specialised|Y0] of our [?special_forces_cap|Y0] allowed special forces weight. §Y([GetSpecialForcesLimitRatio])§!"
+ SPECIAL_FORCES_RATIO_BAD: "§R([?ratio|%1])§!"
+ SPECIAL_FORCES_RATIO_GOOD: "§Y([?ratio|%1])§!"
  
  SPECIAL_FORCES_COMP:0 "\nOur §YSpecial Forces§! consist of:\n" 
  SPECIAL_FORCES_MOUNTAINEER:0 "- [?num_battalions_with_type@mountaineers|Y0] Mountaineer Battalions (Weight: [?weight|R1])\n"
  SPECIAL_FORCES_SS_MOUNTAINEER:0 "- [?num_battalions_with_type@ss_mountaineers|Y0] SS Gebirgsjäger Battalions (Weight: [?weight|R1])\n"
  SPECIAL_FORCES_GURKHA:0 "- [?num_battalions_with_type@gurkha|Y0] Gurkha Battalions (Weight: [?weight|R1])\n"
- SPECIAL_FORCES_MARINES:0 "- [?num_battalions_with_type@marine|Y0] Marine Battalions (Weight:[?weight|R1])\n"
- SPECIAL_FORCES_MARINES_ASSAULT:0 "- [?num_battalions_with_type@marine_assault|Y0] Assault Marine Battalions (Weight:[?weight|R1])\n"
+ SPECIAL_FORCES_MARINES:0 "- [?num_battalions_with_type@marine|Y0] Marine Battalions (Weight: [?weight|R1])\n"
+ SPECIAL_FORCES_MARINES_ASSAULT:0 "- [?num_battalions_with_type@marine_assault|Y0] Assault Marine Battalions (Weight: [?weight|R1])\n"
  
  SPECIAL_FORCES_AMPH_MECH:0 "- [?num_battalions_with_type@amphibious_mechanized|Y0] Amtrac Battalions (Weight: [?weight|R1])\n"
  SPECIAL_FORCES_AMPH_MECH_ASSAULT:0 "- [?num_battalions_with_type@amphibious_mechanized_assault|Y0] Assault Amtrac Battalions (Weight: [?weight|R1])\n"
@@ -412,8 +421,10 @@
  GET_NAME:0 "[This.GetName]"
  V_GET_NAME:0 "[?v.GetTokenKey]" 
  V_GET_NAME_LOCALISED:0 "[?v.GetTokenLocalizedKey]"
- SPECIAL_FORCES_OVER_LIMIT:0 "§RWe are fielding too many special forces§!\n"
- SPECIAL_FORCES_MODIFIER_1:0 "§Y[Root.GetSpecialForcesOverLimit]§!\nDivision Attack Factor: [?modifier@special_forces_attack_factor|=+%]   [Root.GetSpecialForcesOverLimitDebuff]\n"
+ SPECIAL_FORCES_OVER_LIMIT:0 "§RWe are fielding too many special forces! Deployment of additional units is disabled and we suffer the following penalties:§!"
+ SPECIAL_FORCES_MODIFIERS_TEXT: "\n\n§Y[Root.GetSpecialForcesOverLimit]§!"
+ SPECIAL_FORCES_MODIFIERS_TT: "§YOur Special forces receive the following modifiers:§!\n"
+ SPECIAL_FORCES_MODIFIER_1:0 "Division Attack Factor: [?modifier@special_forces_attack_factor|=+%]   [Root.GetSpecialForcesOverLimitDebuff]\n"
  SPECIAL_FORCES_MODIFIER_2:0 "Division Defense Factor: [?modifier@special_forces_defence_factor|=+%]   [Root.GetSpecialForcesOverLimitDebuff]\n"
  SPECIAL_FORCES_MODIFIER_3:0 "Training Time Factor: [?modifier@special_forces_training_time_factor|=Y%]\n"
  SPECIAL_FORCES_MODIFIER_4:0 "Extra Supply Grace: [?modifier@special_forces_no_supply_grace|=+1] Hours\n"
@@ -430,7 +441,7 @@
  ################ RESEARCH SLOTS 
  #######################################################
  SLOT_title:0 "\n§C[?temp_tt]. Research Slot§! - §Y[?target_state.GetName]§!: [GetResearchSlotEditOrGain]"
- SLOT_EDIT_TT:0 "\nThis Research Slot gains additional capability to research the following folders:\n"
+ SLOT_EDIT_TT:0 "\nThis Research Slot gains §Cadditional capability§! to research the following folders:\n"
  SLOT_GAIN_TT:0 "\nAdd §Y1 Research Centre§!\nThis Research Slot will be able to research the following folders:\n"
  SLOT_infantry_folder:0 "§YInfantry§!\n"
  SLOT_special_forces:0 "§YSpecial Forces§!\n"
@@ -956,6 +967,15 @@
  #Regiments
  template_artillery_brigade_TT:0 "    §Y[?artillery_brigade]x§! Artillery Brigade\n"
  
+ SS_template_tooltip: "[!template_click_enabled]\n[!template_click]"
+ SS_template_tooltip_title: "§Y[?v.GetTokenLocalizedKey]§!\n"
+
+ SS_wach_battalion_lssah: "LSSAH Wach-Battalion"
+
+
+
+
+
  #Subtech Icons 
  ARMOR_TD:0 "£subtech_td_icon"
  ARMOR_AA:0 "£subtech_aa_icon"
@@ -969,13 +989,6 @@
  SUBTECH_RECON:0 "£subtech_recon_icon"
  SUBTECH_PARA:0 "£subtech_para_icon"
  SUBTECH_MOTORCYCLE:0 "£subtech_motorcycle_icon"
- 
- OPERATION_TOKEN_LIST:0 "[GetToken/Army][GetToken/Airforce][GetToken/Navy][GetToken/Civilian][GetToken/Resistance]"
- TOKEN_AIRFORCE_ICON:0 "£text_infiltrate_air_token "
- TOKEN_ARMY_ICON:0 "£text_infiltrate_army_token "
- TOKEN_CIVILIAN_ICON:0 "£text_infiltrate_civilian_token "
- TOKEN_NAVY_ICON:0 "£text_infiltrate_navy_token "
- TOKEN_RESISTANCE_ICON:0 "£text_contact_resistance_token " 
  
  BI_DIVISION_DESIGNER_INFO_TT:0 "\nDivision Designer Help: \n\n - Combat Width is 75, plus 25 from each attack from a different province\n\n- Support Battalions affect speed, and different versions of motorization are available for some support battalions.\n\n-Hardness in suppression templates reduces losses from resistance"
  BI_EQUIPMENT_LIST_INFO_TT:0 "\nEquipment Help: \n\n - Equipment conversions are mentioned in the equipment descriptions, and need to be outdated to be converted." ## EOF ##
@@ -1539,6 +1552,24 @@
  
  AI_DEF_DEFENDERS_TT:0 "§YClick§! to view and adjust §Ycountries defending [?targeted_country.GetName]§!"
  AI_DEF_DEFENDING_TT:0 "§YClick§! to view and adjust §Ywhich countries [?targeted_country.GetName] should defend§!"
+ AI_DEF_AREA_FORCE_TT: "§YForce Defend§!\n\nIf this setting is active, §Y[?targeted_country.GetName]§! will be nudged towards actively defending any allies in the mentioned area.\n§RThis is not compatible with country specific defense settings! If you choose to activate it, the country specific front defense settings will be disabled entirely.§!"
+ AI_DEF_AREA_NO_FRONT_TT: "§YAllow Front Assignment§!\n\nIf this setting is active, §Y[?targeted_country.GetName]§! will be allowed to assign units to the mentioned area, for countries its allowed to defend.\nIf this is disabled, the AI will not be allowed to defend the area, even if there are countries its allowed to defend."
+
+ AI_DEF_COUNTRY_TITLE: "Country Specific"
+ AI_DEF_COUNTRY_TITLE_DISABLED: "Country Specific §R(DISABLED)§!"
+ AI_DEF_COUNTRY_TOOLTIP_HEADER: "[!binder_click]"
+ AI_DEF_COUNTRY_TOOLTIP_DISABLED: "Country Specific Defense settings are §Rdisabled§! for §Y[?Root.targeted_country.GetName]§! because of the following area settings: \n"
+ 
+ AI_DEF_STATE_MAPICON_DEBUG: "[?region_overwrite_score] REGION YES \n[?region_score] REGION \n[?area_score] AREA"
+ 
+ AI_DEF_MAPICON_BUTTON_TEXT: "[GetAIMapIconButtonText]"
+ AI_DEF_MAPICON_DEFEND_COUNTRY: "         Defend"
+ AI_DEF_MAPICON_DEFEND_COUNTRY_TOOLTIP: "[!defend_country_click_enabled]"
+ AI_DEF_MAPICON_DONT_DEFEND_COUNTRY: "         Dont Defend"
+ AI_DEF_MAPICON_DEFEND_AI_AREA: "Defend [GetAIMapIconButtonText]"
+ AI_DEF_MAPICON_DONT_DEFEND_AI_AREA: "Dont Defend [GetAIMapIconButtonText]"
+ AI_DEF_MAPICON_FORCE_DEFEND_AI_AREA: "Force Defend [GetAIMapIconButtonText]"
+ AI_DEF_MAPICON_DONT_FORCE_DEFEND_AI_AREA: "Dont Force Defend [GetAIMapIconButtonText]"
 
  AI_DEF_LOCK_SETTINGS_TT:0 "§YClick§! to prevent the AI from changing the currently displayed settings"
  AI_DEF_IOPEN_TOOLTIP:0 "§YClick§! to adjust which countries should defend or be defended by [From.GetNameDef]\n\n[!defence_settings_button_click_enabled]"
@@ -1705,6 +1736,8 @@
  REFINERY_ENTRY_INACTIVE_TOOLTIP_DELAYED:0 "This £refinery §YRefinery§! is §Cinactive§! due to §Rinsufficient resources§!. It will become active when we have enough."
  REFINERY_ENTRY_ACTIVE_TOOLTIP_DELAYED:0 "This £refinery §YRefinery§! is §Oactive§!."
  REFINERY_ENTRY_PARTIALLY_ACTIVE_TOOLTIP_DELAYED:0 "This £refinery §YRefinery§! is only §Cpartially§! §Oactive§! due to §Rinsufficient resources§!. It is operating at [?eff|Y0%] efficiency."
+ REFINERY_ENTRY_PARTIALLY_ACTIVE_DISPLAY_TOOLTIP_DELAYED: "This £refinery §YRefinery§! appears as §Cpartially§! §Oactive§! due to the current §Yx[?display_type] display type§!. It is operating at [?eff|Y0%] efficiency."
+ 
  REFINERY_ENTRY_TARGET_TOOLTIP_DELAYED: "This £refinery §YRefinery§! is §Yscheduled§! and will become §Yactive§! once we have built or otherwise gained more"
  
  REFINERY_INCREASE_ASSIGNED_TOOLTIP: "§YClick§! to add §Y+1§!\n§YShift + Click§! to add §Y+5§!\n§YCtrl + Click§! to add §Y+10§!"
@@ -1881,6 +1914,7 @@
  RATIONS_FULL: "§GFull§!"
  RATIONS_EMPTY: "§R0|[?lack_of_food|0%]§!"
  
+ MANPOWER_IN_QUEUE_TOOLTIP: "Manpower in Deployment"
  ## LAWS
  SELECT_LAW_TOOLTIP: "[!select_law_click] \n\n[!select_law_click_enabled]"
  
@@ -2483,7 +2517,7 @@ RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubb
  
  lorem_ipsum: "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
  
- MAIN_MENU_COMPATABILITY: "This version includes basic compatability with the new DLC. The only ported feature as of now is the International Arms Market with basic AI support. Look forward to the Test Version in the coming weeks for our implementation of Military Industrial Organisations and more."
+ MAIN_MENU_COMPATABILITY: "This version includes basic compatability with the new South America DLC. No content from the DLC will be included in BICE."
 						 
  
  MAIN_MENU_OVERVIEW: "Accompanying the changes of the DLC, this update introduces a reworked industry system. This new systems consists of new resources, technologies, buildings and mechanics, allowing for a more immersive industrial simulation. The lack of resources or refining capacity can cripple your war effort, to avoid that and assist you with the new version let us take a quick look at BICE Industry Rework."
@@ -2569,6 +2603,8 @@ RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubb
  alert_fuel_deficit: "§YLack of Fuel§!"
  alert_fuel_deficit_desc: "\n§YCurrent Penalties from Lack of Fuel:§!"
  
+ alert_special_forces_limit: "§YExceeding Special Forces Cap§!"
+ 
  industrial_complex_tooltip: "§Y[?token:industrial_complex.GetTokenLocalizedKey]§!\n[!industrial_complex_click]"
  arms_factory_tooltip: "§Y[?token:arms_factory.GetTokenLocalizedKey]§!\n[!arms_factory_click]"
  dockyard_tooltip: "§Y[?token:dockyard.GetTokenLocalizedKey]§!\n[!dockyard_click]"
@@ -2617,14 +2653,27 @@ RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubb
  ANARCHIST_INFLUENCE_INCREASE: "Changes §YAnarchist§! influence by $RIGHT|+=0$"
  LIBERAL_INFLUENCE_INCREASE: "Changes §YLiberal§! influence by $RIGHT|+=0$"
 
- UI_OVERLAY_UPDATE_TEXT: "Please click here to initialize the UI"
+ UI_OVERLAY_UPDATE_TEXT: "Please click here to initialize the UI!\n\nIf you are playing coop with another player make sure to let the game run for a day to unlock it for all coops."
 
  REQUIRE_LAR: "£trigger_no Has §YLa Resistance§!"
 
  ALL_SHORTCUT_TEXT: "Press £a   for equipments in this list to §YSelect All§!"
+ SHOW_OWNED_BUILDINGS_TT: "Show details about owned buildings"
 
-
-
+ BB_scharnhorst: "Scharnhorst Class"
+ BB_scharnhorst_38cm: "Scharnhorst Class (38cm)"
+ BB_bismarck: "Bismarck Class"
+ BB_hindenburg: "Hindenburg Class"
+ BB_ulrich_von_hutten: "Ulrich von Hutten Class"
+ BC_derfflinger: "Derfflinger Class"
+ PS_graf_spee: "Deutschland Class"
+ CA_admiral_hipper: "Admiral Hipper Class"
+ CL_munchen: "München Class"
+ PS_roon: "Roon Class"
+ CL_dresden: "Dresden Class"
+ CV_graf_zeppelin: "Graf Zeppelin Class"
+ CV_elbe: "Elbe Class"
+ CV_europa: "Europa Class"
 
 
 

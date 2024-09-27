@@ -2,6 +2,7 @@
  empty_space:0 " "
  empty_line:0 "\"
  empty_line_x2:0 "\n\n"
+ line_break: "\n "
  ENABLE_VOLUNTEER:0 "Sie werden Freiwillige von uns in ihrem Land zulassen.\n"
  REGION_TT:0 "[This.GetRegion]:\n"
  REGION_TT_2:0 "[state.GetRegion]:\n"
@@ -373,7 +374,13 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  
  STATE_FUEL_USAGE_TOOLTIP:0 "§YZiviler Kraftstoffverbrauch§!\nWie viel §YKraftstoff§! die Bevölkerung dieses Staates verbraucht pro Tag"
  STATE_FOOD_USAGE_TOOLTIP:0 "§YZivile Lebensmittelverwendung§!\nWie viele §Y§YLebensmittel§! die Bevölkerung dieses Staates verbraucht pro Tag"
- LOCAL_GARRISON_NEED_TT:0 "Wie viele §YEinheiten§! der §YGarnisonsvorlage§! werden für diesen Staat benötigt."
+ LOCAL_GARRISON_NEED_TT:0 "Wie viele §YEinheiten§! der §YGarnisonsvorlage§! werden für diesen Staat benötigt.\n[!local_food_icon_click]"
+ STATE_FOOD_EXPLANATION: „\nAuf diesen Staat angewandter Grundverbrauch: \n[?OWNER.GetFlag]§Y[?t.GetTokenLocalizedKey]§!, was Folgendes gewährt:\n Erforderliche Rationen pro 1000 Einwohner: [?fneed|Y3]“
+ STATE_FOOD_EXPLANATION1: „[?CONTROLLER.GetFlag]§Y[?t.GetTokenLocalizedKey]§!, was Folgendes gewährt:\n Erforderliche Rationen pro 1000 Einwohner: [?fneed|Y3]\n\nEndgültiger Durchschnittswert: [?final|Y3]“
+ STATE_FOOD_TOTAL_CONSUMPTION: „\nTäglicher Verbrauch: [?state_food_need|Y0]“
+ STATE_FOOD_BASE_CONSUMPTION: „ Basis: [?base_consumption|Y0]“
+ STATE_FOOD_COASTAL_FACTOR: „ Multipliziert mit §Yx[?factor|2]§! aufgrund der Lage an der Küste“
+ STATE_FOOD_LOCAL_FACTOR: „ Multipliziert mit §Yx[?local_factor|2]§! Lokale Lebensmittelverwendung“
  
  lacking_consumer_goods:0 "Mangel an Konsumgütern"
  min_cons_goods_TT:0 "Mindest. Konsumgüterfabriken: [?min_cons_goods_mod|Y%0]\n"
@@ -384,9 +391,11 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
 
  MEFO_DONE_TT:0 "£trigger_yes §YMEFO§!"
 
- SPECIAL_FORCES_TT:0 "§YSpezialeinheiten§!\nWir setzen derzeit [?num_specialised|Y0] unseres [?special_forces_cap|Y0] zulässigen Spezialeinheitengewichts ein.\nDas Limit liegt bei [?special_forces_ratio|Y%] unserer Armeestärke ([?army_strength|Y0]), mit einem Minimum von [?modifier@special_forces_min|Y0]\n[Root.GetSpecialForcesComp][!special_forces_background_click]"
+ SPECIAL_FORCES_TT:0 „§YSpezialeinheiten§!\nWir setzen derzeit [?num_specialised|Y0] unserer [?special_forces_cap|Y0] erlaubten Spezialeinheiten ein. [GetSpecialForcesLimitRatio]\nDie Obergrenze liegt bei [?special_forces_ratio|Y%] unserer Heeresstärke ([?army_strength|Y0]), mit einem Minimum von [?modifier@special_forces_min|Y0]\n[Root.GetSpecialForcesComp][!special_forces_background_click]“
+ SPECIAL_FORCES_TT_TEXT_ONLY:0 „Wir setzen derzeit [?num_specialised|Y0] unserer [?special_forces_cap|Y0] zulässigen Spezialeinheiten ein. [GetSpecialForcesLimitRatio]\nDie Obergrenze liegt bei [?special_forces_ratio|Y%] unserer Heeresstärke ([?army_strength|Y0]), mit einem Minimum von [?modifier@special_forces_min|Y0]\n[Root.GetSpecialForcesComp][!special_forces_background_click]“ 
  SPECIAL_FORCES_CAP_TT:0 "Obergrenze für Spezialeinheiten: [?special_forces_ratio|Y%] \nBasis: §Y7,0%§! \n[!sof_ratio_bar_click]"
- SPECIAL_FORCES_RATIO_TT:0 "Wir setzen derzeit [?num_specialised|Y0] unseres [?special_forces_cap|Y0] zulässigen Spezialkräftegewichts ein. §Y([GetSpecialForcesLimitRatio])§!"
+ SPECIAL_FORCES_RATIO_BAD: "§R([?ratio|%1])§!"
+ SPECIAL_FORCES_RATIO_GOOD: "§Y([?ratio|%1])§!"
  
  SPECIAL_FORCES_COMP:0 "\nUnsere §YSpezialeinheiten§! bestehen aus:\n"
  SPECIAL_FORCES_MOUNTAINEER:0 "- [?num_battalions_with_type@mountaineers|Y0] Bergsteigerbataillone (Gewicht: [?weight|R1])\n"
@@ -411,8 +420,10 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  GET_NAME:0 "[This.GetName]"
  V_GET_NAME:0 "[?v.GetTokenKey]"
  V_GET_NAME_LOCALISED:0 "[?v.GetTokenLocalizedKey]"
- SPECIAL_FORCES_OVER_LIMIT:0 "§RWir setzen zu viele Spezialeinheiten ein§!\n"
- SPECIAL_FORCES_MODIFIER_1:0 "§Y[Root.GetSpecialForcesOverLimit]§!\nDivision-Angriffsfaktor: [?modifier@special_forces_attack_factor|=+%] [Root.GetSpecialForcesOverLimitDebuff]\n"
+ SPECIAL_FORCES_OVER_LIMIT:0 „§RWir setzen zu viele Spezialeinheiten ein! Der Einsatz zusätzlicher Einheiten ist deaktiviert und wir erleiden die folgenden Strafen:§!“
+ SPECIAL_FORCES_MODIFIERS_TEXT: „\n\n§Y[Root.GetSpecialForcesOverLimit]§!“
+ SPECIAL_FORCES_MODIFIERS_TT: „§YUnsere Spezialeinheiten erhalten die folgenden Modifikatoren:§!\n“
+ SPECIAL_FORCES_MODIFIER_1:0 „Angriffsfaktor der Division: [?modifier@special_forces_attack_factor|=+%] [Root.GetSpecialForcesOverLimitDebuff]\n“
  SPECIAL_FORCES_MODIFIER_2:0 "Verteidigungsfaktor der Division: [?modifier@special_forces_defence_factor|=+%] [Root.GetSpecialForcesOverLimitDebuff]\n"
  SPECIAL_FORCES_MODIFIER_3:0 "Trainingszeitfaktor: [?modifier@special_forces_training_time_factor|=Y%]\n"
  SPECIAL_FORCES_MODIFIER_4:0 "Zusätzlicher Versorgungsaufschub: [?modifier@special_forces_no_supply_grace|=+1] Stunden\n"
@@ -429,7 +440,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  ################ RESEARCH SLOTS 
  #######################################################
  SLOT_title:0 "\n§C[?temp_tt]. Forschungsslot§! - §Y[?target_state.GetName]§!: [GetResearchSlotEditOrGain]"
- SLOT_EDIT_TT:0 "\nDieser Forschungsslot bietet zusätzliche Möglichkeiten zur Erforschung der folgenden Ordner:\n"
+ SLOT_EDIT_TT:0 "\nDieser Forschungsslot bietet §Czusätzliche Möglichkeiten§! zur Erforschung der folgenden Ordner:\n"
  SLOT_GAIN_TT:0 "\n§Y1 Forschungszentrum§! hinzufügen\nDieser Forschungsslot kann die folgenden Ordner erforschen:\n"
  SLOT_infantry_folder:0 "§YInfanterie§!\n"
  SLOT_special_forces:0 "§YSpezialeinheiten§!\n"
@@ -954,7 +965,11 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  ### NONE SS TEMPLATES
  #Regiments
  template_artillery_brigade_TT:0 "    §Y[?artillery_brigade]x§! Artilleriebrigade\n"
- 
+
+ SS_template_tooltip: „[!template_click_enabled]\n[!template_click]“
+ SS_template_tooltip_title: „§Y[?v.GetTokenLocalizedKey]§!\n“
+
+ SS_wach_battalion_lssah: „LSSAH Wach-Battalion“ 
  #Subtech Icons 
  ARMOR_TD:0 "£subtech_td_icon"
  ARMOR_AA:0 "£subtech_aa_icon"
@@ -968,13 +983,6 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  SUBTECH_RECON:0 "£subtech_recon_icon"
  SUBTECH_PARA:0 "£subtech_para_icon"
  SUBTECH_MOTORCYCLE:0 "£subtech_motorcycle_icon"
- 
- OPERATION_TOKEN_LIST:0 "[GetToken/Army][GetToken/Airforce][GetToken/Navy][GetToken/Civilian][GetToken/Resistance]"
- TOKEN_AIRFORCE_ICON:0 "£text_infiltrate_air_token"
- TOKEN_ARMY_ICON:0 "£text_infiltrate_army_token"
- TOKEN_CIVILIAN_ICON:0 "£text_infiltrate_civilian_token"
- TOKEN_NAVY_ICON:0 "£text_infiltrate_navy_token"
- TOKEN_RESISTANCE_ICON:0 "£text_contact_resistance_token"
  
  BI_DIVISION_DESIGNER_INFO_TT:0 "\nDivisionsdesigner-Hilfe: \n\n – Die Kampfbreite beträgt 75, plus 25 bei jedem Angriff aus einer anderen Provinz.\n\n – Unterstützungsbataillone wirken sich auf die Geschwindigkeit aus, und für einige Unterstützungsbataillone sind unterschiedliche Motorisierungsversionen verfügbar.\n\n -Härte in Unterdrückungsvorlagen reduziert Verluste durch Widerstand"
  BI_EQUIPMENT_LIST_INFO_TT:0 "\nHilfe zur Ausrüstung: \n\n – Ausrüstungskonvertierungen werden in den Ausrüstungsbeschreibungen erwähnt und müssen veraltet sein, um konvertiert zu werden." ## EOF ##
@@ -1538,6 +1546,24 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  
  AI_DEF_DEFENDERS_TT:0 "§YKlick§! um §YLänder, welche [?targeted_country.GetName] verteidigen§!, anzuzeigen und anzupassen!"
  AI_DEF_DEFENDING_TT:0 "§YKlick§! um §YLänder, welche [?targeted_country.GetName] verteidigen sollen§! anzuzeigen und anzupassen!"
+ AI_DEF_AREA_FORCE_TT: „§YForce Defend§!\n\nWenn diese Einstellung aktiv ist, wird §Y[?targeted_country.GetName]§! dazu gedrängt, Verbündete im genannten Gebiet aktiv zu verteidigen.\n§RDies ist nicht mit länderspezifischen Verteidigungseinstellungen kompatibel! Wenn Sie sich dafür entscheiden, diese Einstellung zu aktivieren, werden die länderspezifischen Einstellungen für die Frontverteidigung vollständig deaktiviert.§!“
+ AI_DEF_AREA_NO_FRONT_TT: „§YAllow Front Assignment§!\n\nWenn diese Einstellung aktiv ist, kann §Y[?targeted_country.GetName]§! Einheiten dem genannten Gebiet zuweisen, für Länder, die verteidigt werden dürfen.\nWenn dies deaktiviert ist, darf die KI das Gebiet nicht verteidigen, selbst wenn es Länder gibt, die verteidigt werden dürfen.“
+
+ AI_DEF_COUNTRY_TITLE: „Länderspezifisch“
+ AI_DEF_COUNTRY_TITLE_DISABLED: „Länderspezifisch §R(DISABLED)§!“
+ AI_DEF_COUNTRY_TOOLTIP_HEADER: „[!binder_click]“
+ AI_DEF_COUNTRY_TOOLTIP_DISABLED: „Länderspezifische Verteidigungseinstellungen sind §Rdeaktiviert§! für §Y[?Root.targeted_country.GetName]§! aufgrund der folgenden Gebietseinstellungen: \n"
+
+ AI_DEF_STATE_MAPICON_DEBUG: “[?region_overwrite_score] REGION JA \n[?region_score] REGION \n[?area_score] GEBIET“
+
+ AI_DEF_MAPICON_BUTTON_TEXT: „[GetAIMapIconButtonText]“
+ AI_DEF_MAPICON_DEFEND_COUNTRY: „ Verteidigen“
+ AI_DEF_MAPICON_DEFEND_COUNTRY_TOOLTIP: „[!defend_country_click_enabled]“
+ AI_DEF_MAPICON_DONT_DEFEND_COUNTRY: „ Nicht verteidigen“
+ AI_DEF_MAPICON_DEFEND_AI_AREA: „Verteidigen [GetAIMapIconButtonText]“
+ AI_DEF_MAPICON_DONT_DEFEND_AI_AREA: „Nicht verteidigen [GetAIMapIconButtonText]“
+ AI_DEF_MAPICON_FORCE_DEFEND_AI_AREA: „Verteidigung erzwingen [GetAIMapIconButtonText]“
+ AI_DEF_MAPICON_DONT_FORCE_DEFEND_AI_AREA: „Verteidigung nicht erzwingen [GetAIMapIconButtonText]“
 
  AI_DEF_LOCK_SETTINGS_TT:0 "§YKlick§! um zu verhindern, dass die KI die aktuell angezeigten Einstellungen ändert"
  AI_DEF_IOPEN_TOOLTIP:0 "§YKlick§! um anzupassen, welche Länder von [From.GetNameDef] verteidigt werden sollen oder verteidigt werden sollen\n\n[!defence_settings_button_click_enabled]"
@@ -1704,6 +1730,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  REFINERY_ENTRY_INACTIVE_TOOLTIP_DELAYED:0 "Diese £refinery §YRefinerie§! ist §Cinaktiv§! wegen §Runzureichender Ressourcen§!. Es wird aktiv, wenn wir genug davon haben."
  REFINERY_ENTRY_ACTIVE_TOOLTIP_DELAYED:0 "Diese £refinery §YRefinerie§! ist §Oaktiv§!."
  REFINERY_ENTRY_PARTIALLY_ACTIVE_TOOLTIP_DELAYED:0 "Diese £refinery §YRefinerie§! ist nur §Cteilweise§! §Oaktiv§! wegen §Runzureichender Ressourcen§!. Es wird mit einem Wirkungsgrad von [?eff|Y0%] produziert."
+ REFINERY_ENTRY_PARTIALLY_ACTIVE_DISPLAY_TOOLTIP_DELAYED: „Diese Raffinerie £refinery §YRefinery§! erscheint aufgrund des aktuellen Anzeigetyps §Yx[?display_type] als §Cpartially§! §Oactive§! Sie arbeitet mit einem Wirkungsgrad von [?eff|Y0%].“
  REFINERY_ENTRY_TARGET_TOOLTIP_DELAYED: "Diese £refinery §YRefinerie§! ist §Ygeplant§! und wird §Yaktiv§! sobald wir mehr aufgebaut oder anderweitig gewonnen haben"
 
  REFINERY_INCREASE_ASSIGNED_TOOLTIP: "§YKlick§! um §Y+1§! hinzuzufügen\n§YShift+Klick§! um §Y+5§! hinzuzufügen\n§YStrg+Klick§! um §Y+10§! hinzuzufügen!"
@@ -1879,6 +1906,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  RATIONS_INSUFFICIENT: "§R[?food_days|1%]§!"
  RATIONS_FULL: "§GVoll§!"
  RATIONS_EMPTY: "§R0|[?lack_of_food|0%]§!"
+ MANPOWER_IN_QUEUE_TOOLTIP: „Soldaten in Aufstellung“
 
  ## LAWS
  SELECT_LAW_TOOLTIP: "[!select_law_click] \n\n[!select_law_click_enabled]"
@@ -2482,7 +2510,7 @@ RUBBER_OUTPUT_TEXT_TT: "Die §OGesamtmenge§! an £resources_strip|3 §YGummi§!
 
  lorem_ipsum: "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Ipsum Lorem Ipsum Lorem m ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
 
- MAIN_MENU_COMPATABILITY: "Diese Version beinhaltet grundlegende Kompatibilität mit dem neuen DLC. Die einzige portierte Funktion ist derzeit der Internationale Waffenmarkt mit grundlegender KI-Unterstützung. Freuen Sie sich auf die Testversion in den kommenden Wochen für unsere Implementierung von Military Industrial Organizations und mehr."
+MAIN_MENU_COMPATABILITY: „ MAIN_MENU_COMPATABILITY: „Diese Version enthält grundlegende Kompatibilität mit dem neuen DLC für Südamerika. Es werden keine Inhalte aus dem DLC in BICE enthalten sein.“
 
 
  MAIN_MENU_OVERVIEW: "Begleitend zu den Änderungen des DLC führt dieses Update ein überarbeitetes Industriesystem ein. Dieses neue System besteht aus neuen Ressourcen, Technologien, Gebäuden und Mechaniken und ermöglicht eine immersivere Industriesimulation. Der Mangel an Ressourcen oder Verfeinerungskapazitäten kann Ihre Kriegsanstrengungen lahmlegen. Um dies zu vermeiden und Sie bei der neuen Version zu unterstützen, werfen wir einen kurzen Blick auf BICE Industry Rework."
@@ -2568,6 +2596,8 @@ RUBBER_OUTPUT_TEXT_TT: "Die §OGesamtmenge§! an £resources_strip|3 §YGummi§!
  alert_fuel_deficit: "§YTreibstoffmangel§!"
  alert_fuel_deficit_desc: "\n§YAktuelle Strafen wegen Treibstoffmangel:§!"
  
+  alert_special_forces_limit: "§YÜberschreitung der Obergrenze für Spezialeinheiten§!"
+ 
  industrial_complex_tooltip: "§Y[?token:industrial_complex.GetTokenLocalizedKey]§!\n[!industrial_complex_click]"
  arms_factory_tooltip: "§Y[?token:arms_factory.GetTokenLocalizedKey]§!\n[!arms_factory_click]"
  dockyard_tooltip: "§Y[?token:dockyard.GetTokenLocalizedKey]§!\n[!dockyard_click]"
@@ -2616,10 +2646,28 @@ RUBBER_OUTPUT_TEXT_TT: "Die §OGesamtmenge§! an £resources_strip|3 §YGummi§!
  ANARCHIST_INFLUENCE_INCREASE: "Ändert §Yanarchistischen§! Einfluss um $RIGHT|+=0$"
  LIBERAL_INFLUENCE_INCREASE: "Ändert §Yliberalen§! Einfluss um $RIGHT|+=0$"
 
- UI_OVERLAY_UPDATE_TEXT: "Bitte klicken Sie hier, um die Benutzeroberfläche zu initialisieren."
+ UI_OVERLAY_UPDATE_TEXT: "Bitte klicken Sie hier, um die Benutzeroberfläche zu initialisieren!\n\nWenn Sie im Koop mit einem anderen Spieler spielen, stellen Sie sicher, dass Sie das Spiel einen Tag lang laufen lassen, um es für alle Koops freizuschalten."
 
  REQUIRE_LAR: "£trigger_no hat §YLa-Widerstand§!"
 
  ALL_SHORTCUT_TEXT: "Drücken Sie £a für Geräte in dieser Liste, um §YAlle auszuwählen§!"
+ 
+  SHOW_OWNED_BUILDINGS_TT: "Show details about owned buildings"
+
+ BB_scharnhorst: "Scharnhorst Klasse"
+ BB_scharnhorst_38cm: "Scharnhorst Klasse (38cm)"
+ BB_bismarck: "Bismarck Klasse"
+ BB_hindenburg: "Hindenburg Klasse"
+ BB_ulrich_von_hutten: "Ulrich von Hutten Klasse"
+ BC_derfflinger: "Derfflinger Klasse"
+ PS_graf_spee: "Deutschland Klasse"
+ CA_admiral_hipper: "Admiral Hipper Klasse"
+ CL_munchen: "München Klasse"
+ PS_roon: "Roon Klasse"
+ CL_dresden: "Dresden Klasse"
+ CV_graf_zeppelin: "Graf Zeppelin Klasse"
+ CV_elbe: "Elbe Klasse"
+ CV_europa: "Europa Klasse"
+
 
  ########## EOT #############

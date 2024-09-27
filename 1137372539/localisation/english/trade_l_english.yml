@@ -99,7 +99,7 @@
  ROUTE_EFFICIENCY:0 "    Route efficiency: $EFF|%R$"
  TRADE_WITH_COUNTRY:0 "§GClick to trade with @$TAG$$COUNTRY|H$§!"
  TRADE_HAVE_ACTIVE:0 "We have §GActive§! trade with this country."
- TRADE_CANT_REACH:0 "@$TAG$$COUNTRY|H$ §Ris producing $RESOURCE|H$, but no possible Trade Route can be found.§!\n\nThis can occur if the target country is at war with neighboring countries, or they have strategic reasons for blocking their own access to intermediate naval regions.§!""
+ TRADE_CANT_REACH:0 "@$TAG$$COUNTRY|H$ §Ris producing $RESOURCE|H$, but no possible Trade Route can be found.§!\n\nThis can occur if the target country is at war with neighboring countries, or they have strategic reasons for blocking their own access to intermediate naval regions."
  TRADE_IS_ENEMY:0 "@$TAG$$COUNTRY|H$ §Ris producing $RESOURCE|H$, but will not export to us while we are at war with them.§!"
  TRADE_IS_LOW_INFLUANCE:0 "@$TAG$$COUNTRY|H$ §Ris producing $RESOURCE|H$, but our trade influence is too low§!"
  TRADE_NO_RESOURCE:0 "@$TAG$$COUNTRY|H$ §Ris producing $RESOURCE|H$, but is not exporting any.§!"

@@ -583,7 +583,7 @@
  uniquestrat_bomber:0 "Heavy Bombers"
  uniquestrat_bomber_desc:0 "Heavy bombers are four-engined bombers primarily used to strike strategic targets. They are heavily armed, armored, and carry a large payload."
  uniquenav_bomber:0 "Naval Bombers"
- uniquenav_bomber_desc:0 "Naval bombers are intended to sink enemy ships, often through the use of torpedos."
+ uniquenav_bomber_desc:0 "Naval bombers are intended to sink enemy ships, often through the use of torpedoes."
  uniquemedium_bomber:0 "Medium Bombers"
  uniquemedium_bomber_desc:0 "Medium bombers carry more weapons and are more armored than light bombers. They are used to attack enemy ground and naval targets."
  uniquefast_bomber:0 "Fast Bombers"

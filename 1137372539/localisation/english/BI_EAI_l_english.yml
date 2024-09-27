@@ -361,7 +361,7 @@
  EAI_config_ARMY_L3c_text:0 "Heavy Armor Focus"
  
  EAI_config_ARMY_L4_text:0 "Armor Design"
- EAI_config_ARMY_L4_tt:0 "§LThis determines which kind of an armored division design this country makes.\n\n-Toughness: more tanks, breakthrough, armor.\n\n-Offense: more artillery, soft attack.§!"
+ EAI_config_ARMY_L4_tt:0 "§LThis determines which kind of an armored division design this country makes.\n\n-Toughness: more tanks, breakthrough, armor.\n\n-Offense: more artillery, soft attack."
  EAI_config_ARMY_L4_dropdown_text:0 "[EAI_GetArmorDesign]"
  EAI_config_ARMY_L4-_text:0 "-"
  EAI_config_ARMY_L4a_text:0 "Toughness"

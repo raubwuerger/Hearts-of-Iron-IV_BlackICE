@@ -28,7 +28,7 @@
  TOPBAR_WAR_SUPPORT_CURRENT:0 "[GetTopbarWarSupportDecimals]"
  TOPBAR_POLITICAL_CURRENT:0 "[GetTopbarPoliticalDecimals]"
  TOPBAR_MANPOWER_CURRENT:0 "[GetTopbarManpowerDecimals][GetTargetConscription]"
-CONSCRIPTION_PROGRESS_TT:"Mobilizingfrom[?previous_conscription_target|%Y]to[?target_cons|%Y]conscriptionpercentage.OurMobilizationrunsat[?modifier@mobilization_speed|%+=]efficiencyandis§G[?temp1]%§!complete." 
+ CONSCRIPTION_PROGRESS_TT: "Mobilizing from [?previous_conscription_target|%Y] to [?target_cons|%Y] conscription percentage. Our Mobilization runs at [?modifier@mobilization_speed|%+=] efficiency and is §G[?temp1]%§! complete. "
  
  topbar_empty_tt: "This topbar has no assigned information. Click to assign one"
  topbar_stability_text: "[?modifier@stability_factor|%+=0]"
@@ -339,3 +339,8 @@ CONSCRIPTION_PROGRESS_TT:"Mobilizingfrom[?previous_conscription_target|%Y]to[?ta
  topbar_food_consumed: "Food Consumed"
  topbar_food_consumed_text: "[GetFoodNeed]"
  topbar_food_consumed_tt: "Food Consumed"
+ topbar_guards: "Guards"
+ topbar_guards_text: "[?num_guards]/[?guard_forces_cap]"
+ topbar_guards_tt:0 "§YGuard Forces§!\nWe are currently fielding [?num_guards|Y0] of our [?guard_forces_cap|Y0] allowed Guard forces. \nThe limit is [?guard_forces_factor|Y%] of our Army Strength ([?army_strength|Y0])\n[TGuardOverLimit]"
+ topbar_guards_overlimit_tt:0 "§RWe are fielding too many Guard forces! We suffer the following penalties:§!\nGuard Division Attack factor: [?modifier@modifier_army_sub_unit_category_guards_attack_factor|%2+]\nGuard Division Defence factor: [?modifier@modifier_army_sub_unit_category_guards_defence_factor|2%+]"
+ 

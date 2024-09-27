@@ -1160,9 +1160,9 @@
  AST_together_for_victory_idea_desc:0 "Gegen alle Tyrannen steht das australische Volk zusammen für Victory"
  AST_the_coastwatchers_idea:0 "Die Küstenwächter"
  AST_the_coastwatchers_idea_desc:0 "Eine Gruppe von Geheimdienstoffizieren, die auf abgelegenen Inseln stationiert sind, um feindliche Flotten aufzuspüren und verlorene Soldaten zu retten. Ein entscheidender Vorteil, wenn es jemals einen gab."
- ############### ""
- ## LAWS Triggers ""
- ################ ""
+ ###############
+ ## LAWS Triggers
+ ################
  divider:0 "-----------------------------------\n"
  current_civ_fuel_usage:0 "Ziviler Treibstoffverbrauch"
  current_civ_fuel_usage_TT:0 "Täglicher Treibstoff-Gewinn-Faktor: [?civ_fuel_usage_var|R%]\n"

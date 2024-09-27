@@ -26,3 +26,11 @@ Daily Stability drift
 -Designkosten
 Zentrimetisch		->	Zentimeter-Radar
 Zentimetrisches		->	Zentimeter-Radar
+
+“
+„
+`
+´
+active
+partially
+Refinerie

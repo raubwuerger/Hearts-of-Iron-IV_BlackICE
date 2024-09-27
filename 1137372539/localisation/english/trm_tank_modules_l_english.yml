@@ -1318,7 +1318,7 @@
 
  trm_ammo_c_eng_95_how:0 "95mm/21 QF Howitzer HEAT"
 
-trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
+ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
 
  trm_ammo_c_usa_75_m2_cs:0 "75mm/18 M2 HEAT"
  trm_ammo_c_usa_75_m3:0 "75mm/40 M3 HVAP"
@@ -2260,7 +2260,7 @@ trm_ammo_c_usa_57_m1:0 "57mm/50 M1 APDS"
 
  trm_special_offset_mg_eng_vickers:0 "7.7mm Vickers (Side/Rear)"
  trm_special_offset_mg_eng_besa:0 "7.92mm BESA (Side/Rear)"
-trm_special_offset_mg_eng_bren:0"7.7mmBren(Side/Rear)" 
+ trm_special_offset_mg_eng_bren:0 "7.7mm Bren (Side/Rear)"
  
  trm_special_offset_mg_jap_type91:0 "6.5mm Type 91 (Side/Rear)"
  trm_special_offset_mg_jap_type97:0 "7.7mm Type 97 (Side/Rear)"
@@ -2327,7 +2327,7 @@ trm_special_offset_mg_eng_bren:0"7.7mmBren(Side/Rear)"
  EQ_MOD_CAT_trm_cavalry_tank_ger_panzer2_turret_TITLE:0 "PzKpfw II Turret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_panzer2_superstructure_open_TITLE:0 "PzKpfw II Superstructure"
  
- EQ_MOD_CAT_trm_cavalry_tank_cze_pz35_turret_TITLE:0 "PzKpfw 35(t) CzechTurret"
+ EQ_MOD_CAT_trm_cavalry_tank_cze_pz35_turret_TITLE:0 "PzKpfw 35(t) Czech Turret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz35_turret_2man_TITLE:0 "PzKpfw 35(t) German Turret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_turret_TITLE:0 "PzKpfw 38(t) Czech Turret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_turret_2man_TITLE:0 "PzKpfw 38(t) German Turret"

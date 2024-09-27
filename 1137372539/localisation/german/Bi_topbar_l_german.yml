@@ -339,3 +339,7 @@
  topbar_food_consumed: "Verzehrte Lebensmittel"
  topbar_food_consumed_text: "[GetFoodNeed]"
  topbar_food_consumed_tt: "Lebensmittel konsumiert"
+ topbar_guards: „Wachen“
+ topbar_guards_text: „[?Anzahl_Wachen]/[?Wachenkapazität]“
+ topbar_guards_tt:0 „§YWachttruppen§!\nWir haben derzeit [?num_guards|Y0] unserer [?guard_forces_cap|Y0] erlaubten Wachttruppen im Einsatz. \nDas Limit liegt bei [?guard_forces_factor|Y%] unserer Heeresstärke ([?army_strength|Y0])\n[TGuardOverLimit]“
+ topbar_guards_overlimit_tt:0 „§RWir haben zu viele Gardetruppen im Einsatz! Wir erleiden die folgenden Strafen:§!\nAngriffsfaktor der Gardedivision: [?modifier@modifier_army_sub_unit_category_guards_attack_factor|%2+]\nVerteidigungsfaktor der Gardedivision: [?modifier@modifier_army_sub_unit_category_guards_defence_factor|2%+]“

@@ -8,22 +8,22 @@
  soviet_tech_d:0 "Sowjetunion"
 
   ## Equipment versions ## ""
- SOV_EQUIPMENT_VERSION_1:0 "A"
- SOV_EQUIPMENT_VERSION_2:0 "A-1"
- SOV_EQUIPMENT_VERSION_3:0 "A-2"
- SOV_EQUIPMENT_VERSION_4:0 "AM"
- SOV_EQUIPMENT_VERSION_5:0 "B"
- SOV_EQUIPMENT_VERSION_6:0 "B-1"
- SOV_EQUIPMENT_VERSION_7:0 "B-2"
- SOV_EQUIPMENT_VERSION_8:0 "BM"
- SOV_EQUIPMENT_VERSION_9:0 "C"
- SOV_EQUIPMENT_VERSION_10:0 "C-1"
- SOV_EQUIPMENT_VERSION_11:0 "C-2"
- SOV_EQUIPMENT_VERSION_12:0 "CM"
- SOV_EQUIPMENT_VERSION_13:0 "D"
- SOV_EQUIPMENT_VERSION_14:0 "D-1"
- SOV_EQUIPMENT_VERSION_15:0 "D-2"
- SOV_EQUIPMENT_VERSION_16:0 "DM"
+ SOV_EQUIPMENT_VERSION_0:0 „A“
+ SOV_EQUIPMENT_VERSION_1:0 „A-1“
+ SOV_EQUIPMENT_VERSION_2:0 „A-2“
+ SOV_EQUIPMENT_VERSION_3:0 „AM“
+ SOV_EQUIPMENT_VERSION_4:0 "B"
+ SOV_EQUIPMENT_VERSION_5:0 „B-1“
+ SOV_EQUIPMENT_VERSION_6:0 „B-2“
+ SOV_EQUIPMENT_VERSION_7:0 „BM“
+ SOV_EQUIPMENT_VERSION_8:0 „C“
+ SOV_EQUIPMENT_VERSION_9:0 "C-1"
+ SOV_EQUIPMENT_VERSION_10:0 „C-2“
+ SOV_EQUIPMENT_VERSION_11:0 „CM“
+ SOV_EQUIPMENT_VERSION_12:0 „D“
+ SOV_EQUIPMENT_VERSION_13:0 „D-1“
+ SOV_EQUIPMENT_VERSION_14:0 „D-2“
+ SOV_EQUIPMENT_VERSION_15:0 "DM"
 
  #SOV_EQUIPMENT_VERSION_1:0 "1 goda"
  #SOV_EQUIPMENT_VERSION_2:0 "2 goda"
@@ -303,14 +303,14 @@
  SOV_motorized_equipment_1_short:0 "ZiS-5"
  SOV_motorized_equipment_2:0 "GAZ-MM Lastkraftwagen"
  SOV_motorized_equipment_2_short:0 "GAZ-MM"
- SOV_mechanized_equipment_1:0 "GAZ-60"
- SOV_mechanized_equipment_1_short:0 "GAZ-60"
+ SOV_mechanized_equipment_1:0 "BA-10E"
+ SOV_mechanized_equipment_1_short:0 "BA-10E"
  #SOV_mechanized_equipment_1_desc:0 "Panzerabwehr ist eine militärische Taktik, bei der Infanteriesoldaten, so genannte Panzerodesantniki, in einen Angriff auf Panzer reiten und dann absteigen, um in der letzten Phase des Angriffs zu Fuß zu kämpfen. Diese Taktik wurde von der sowjetischen Roten Armee während des Zweiten Weltkriegs eingesetzt. Panzerabwehrtruppen (tankodesantniki) waren Infanteristen, die in dieser Taktik ausgebildet wurden, um mit Handfeuerwaffen feindliche Panzerabwehrwaffen oder feindliche Infanterie mit Panzerabwehrgranaten zu bekämpfen."
- SOV_mechanized_equipment_2:0 "M3 Halbkettenfahrzeug"
- SOV_mechanized_equipment_2_short:0 "M3"
+ SOV_mechanized_equipment_2:0 "BA ISH"
+ SOV_mechanized_equipment_2_short:0 "BA ISH"
  #SOV_mechanized_equipment_2_desc:0 "Panzerabwehr ist eine militärische Taktik für kombinierte Waffen, bei der Infanteriesoldaten, so genannte Panzerodesantniki, in einen Angriff auf Panzer reiten und dann absteigen, um in der Endphase des Angriffs zu Fuß zu kämpfen. Diese Taktik wurde von der sowjetischen Roten Armee während des Zweiten Weltkriegs eingesetzt. Panzerabwehrtruppen (tankodesantniki) waren in dieser Taktik ausgebildete Infanteristen, die mit Handfeuerwaffen feindliche Panzerabwehrwaffen oder feindliche Infanterie mit Panzerabwehrgranaten abwehren sollten."
- SOV_mechanized_equipment_3:0 "B-3"
- SOV_mechanized_equipment_3_short:0 "B-3"
+ SOV_mechanized_equipment_3:0 "BA-64E"
+ SOV_mechanized_equipment_3_short:0 "BA-64E"
  #SOV_mechanized_equipment_3_desc:0 "Panzerabwehr ist eine militärische Taktik für kombinierte Waffen, bei der Infanteriesoldaten, so genannte Panzerodesantniki, in einen Angriff auf Panzer reiten und dann absteigen, um in der Endphase des Angriffs zu Fuß zu kämpfen. Diese Taktik wurde von der sowjetischen Roten Armee während des Zweiten Weltkriegs eingesetzt. Panzerabwehrtruppen (tankodesantniki) waren in dieser Taktik ausgebildete Infanteristen, die mit Handfeuerwaffen feindliche Panzerabwehrwaffen oder feindliche Infanterie mit Panzerabwehrgranaten abwehren sollten."
  SOV_mechanized_at_0:0 "ZiS-42 Mechanisierte Panzerabwehr"
  SOV_mechanized_at_0_short:0 "ZiS-42"

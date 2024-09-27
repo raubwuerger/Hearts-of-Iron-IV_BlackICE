@@ -46,6 +46,9 @@
  hydro_power_desc:0 "Hydroelectric power plants generate §YEnergy§! from renewable sources.$hydro_power_effect$"
  hydro_power_effect:0 "\n\nMax Level: §Y5§!\nBuilding Health: §Y6§!"
  hydro_power_overlay: "§YHydroelectric Plant§!\nHydroelectric power plants generate §YEnergy§! from renewable sources.\n\nMax Level: §Y5§!\nBuilding Health: §Y6§!\n\n£electricity_medium Energy Production: §Y+160§!\n\n£trigger_no This building is §Runbuildable.§!"
+
+ concentric_cirle:0 "AI construction"
+ concentric_cirle_desc:0 "This is used to script AI construction. You who read this shall not be aware, as the AI still builds buildings."
  
  
  

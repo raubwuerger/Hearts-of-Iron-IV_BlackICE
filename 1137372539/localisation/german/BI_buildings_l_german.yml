@@ -46,3 +46,6 @@
  hydro_power_desc:0 "Wasserkraftwerke erzeugen §YEnergie§! aus erneuerbaren Quellen.$hydro_power_effect$"
  hydro_power_effect:0 "\n\nMax. Stufe: §Y5§!\nGebäudezustand: §Y6§!"
  hydro_power_overlay: "§YWasserkraftwerk§!\nWasserkraftwerke erzeugen §YEnergie§! aus erneuerbaren Quellen.\n\nMax. Stufe: §Y5§!\nGebäudezustand: §Y6§!\n\n£electricity_medium Basisenergieproduktion: §Y+160§!\n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
+ 
+ concentric_cirle:0 "KI-Konstruktion"
+concentric_cirle_desc:0 "Dies wird verwendet, um die KI-Konstruktion zu skripten. Sie, die dies lesen, werden es nicht bemerken, da die KI immer noch Gebäude baut."

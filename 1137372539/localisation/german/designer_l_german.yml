@@ -197,6 +197,7 @@ EQUIPMENT_DESIGNER_BELOW_MINIMUM_SPEED:0 "§RDie maximale Geschwindigkeit liegt 
 EQUIPMENT_DESIGNER_WEIGHT_EXCEEDS_THRUST:0 "§RGewicht übersteigt Schubkraft§!"
 EQUIPMENT_DESIGNER_WEIGHT_EXCEEDS_THRUST_FOR_MISSIONS:0 "§RGewicht übersteigt Schubkraft für diese Missionen:§!"
 EQUIPMENT_DESIGNER_PLANE_ROLE_REQUIRE_WEAPON:0 "Hauptbewaffnung hinzufügen, um Rolle zu geben"
+EQUIPMENT_DESIGNER_DYNAMIC_VERSION_CHECKBOX_BUTTON_DESC: "§HDynamische Versionsnummerierung anzeigen§!\nWenn diese Variante ausgewählt ist, wird eine dynamische Versionsnummerierung neben ihrem Namen angezeigt."
 
 # Specialized names can be provided by appending the archetype/hull token. These will take priority if available. E.g. ""
 #ship_designer_screen_ship_hull_cruiser: "Leichter Kreuzer"

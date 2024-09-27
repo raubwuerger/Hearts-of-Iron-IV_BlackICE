@@ -415,7 +415,7 @@
  DEN_germany_friend:0 "Extend Hand to Germany"
  DEN_fort_west:0 "Fortify Jutland Coast"
  DEN_commie:0 "DKP Gains Power in the Unions"
- DEN_sieze:0 "Sieze the Means of Production"
+ DEN_sieze:0 "Seize the Means of Production"
  DEN_indust_commie:0 "Industrialise the Nation"
  DEN_abolish:0 "Abolish the Monarchy"
  DEN_one_party:0 "Finalise the One Party State"
@@ -495,7 +495,7 @@
  DEN_mob_speed_bad_tt:0 "§RDecreases§! §YMobilization§! Speed"
  DEN_stable_good_tt:0 "§GIncreases§! §YParty Popularity Stability§!"
  DEN_stable_bad_tt:0 "§RDecreases§! §YParty Popularity Stability§!"
- DEN_facto_use_removed_tt:0 "Sieze direct control of all §YCivilian Factories§! invested into the economy"
+ DEN_facto_use_removed_tt:0 "Seize direct control of all §YCivilian Factories§! invested into the economy"
  loves_den_tt:0 "Every country that has co-operated with us will gain one offsite §YMilitary Factory§! and we will to"
  #####Events
  denmark.1.t:0 "Dominium Maris Baltici"

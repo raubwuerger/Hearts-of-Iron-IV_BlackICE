@@ -1619,7 +1619,7 @@
  hungary_flavor_partition.27.b:0 "Give it to Serbia"
  
  hungary_flavor_partition.28.t:0 "Hungary Threatens Yugoslavia"
- hungary_flavor_partition.28.d:0 ""Our diplomats and intelligence agents have reported, that [HUN.GetNameDef] is actively pushing for a confrontation with Yugoslavia. Whatever their claims towards them are, they wish to enforce them. We will have to decide how seriously we take this news, but we'd do best to prepare.""
+ hungary_flavor_partition.28.d:0 "Our diplomats and intelligence agents have reported, that [HUN.GetNameDef] is actively pushing for a confrontation with Yugoslavia. Whatever their claims towards them are, they wish to enforce them. We will have to decide how seriously we take this news, but we'd do best to prepare."
  hungary_flavor_partition.28.a:0 "Yugoslavia is a Soveriegn State."
  hungary_flavor_partition.28.b:0 "We have no concern for this"
  

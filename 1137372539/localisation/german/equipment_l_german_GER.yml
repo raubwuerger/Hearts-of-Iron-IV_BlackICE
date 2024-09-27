@@ -5,26 +5,26 @@
  german_tech:0 "Drittes Reich"
 
  ## Equipment versions ## ""
- GER_EQUIPMENT_VERSION_1:0 "1"
- GER_EQUIPMENT_VERSION_2:0 "2"
- GER_EQUIPMENT_VERSION_3:0 "3"
- GER_EQUIPMENT_VERSION_4:0 "4"
- GER_EQUIPMENT_VERSION_5:0 "5"
- GER_EQUIPMENT_VERSION_6:0 "6"
- GER_EQUIPMENT_VERSION_7:0 "7"
- GER_EQUIPMENT_VERSION_8:0 "8"
- GER_EQUIPMENT_VERSION_9:0 "9"
- GER_EQUIPMENT_VERSION_10:0 "10"
- GER_EQUIPMENT_VERSION_11:0 "11"
- GER_EQUIPMENT_VERSION_12:0 "12"
- GER_EQUIPMENT_VERSION_13:0 "13"
- GER_EQUIPMENT_VERSION_14:0 "14"
- GER_EQUIPMENT_VERSION_15:0 "15"
- GER_EQUIPMENT_VERSION_16:0 "16"
- GER_EQUIPMENT_VERSION_17:0 "17"
- GER_EQUIPMENT_VERSION_18:0 "18"
- GER_EQUIPMENT_VERSION_19:0 "19"
- GER_EQUIPMENT_VERSION_20:0 "20"
+ GER_EQUIPMENT_VERSION_0:0 „v1“
+ GER_EQUIPMENT_VERSION_1:0 „v2“
+ GER_EQUIPMENT_VERSION_2:0 „v3“
+ GER_EQUIPMENT_VERSION_3:0 „v4“
+ GER_EQUIPMENT_VERSION_4:0 „v5“
+ GER_EQUIPMENT_VERSION_5:0 „v6“
+ GER_EQUIPMENT_VERSION_6:0 „v7“
+ GER_EQUIPMENT_VERSION_7:0 „v8“
+ GER_EQUIPMENT_VERSION_8:0 „v9“
+ GER_EQUIPMENT_VERSION_9:0 „v10“
+ GER_EQUIPMENT_VERSION_10:0 „v11“
+ GER_EQUIPMENT_VERSION_11:0 „v12“
+ GER_EQUIPMENT_VERSION_12:0 „v13“
+ GER_EQUIPMENT_VERSION_13:0 „v14“
+ GER_EQUIPMENT_VERSION_14:0 „v15“
+ GER_EQUIPMENT_VERSION_15:0 „v16“
+ GER_EQUIPMENT_VERSION_16:0 „v17“
+ GER_EQUIPMENT_VERSION_17:0 „v18“
+ GER_EQUIPMENT_VERSION_18:0 „v19“
+ GER_EQUIPMENT_VERSION_19:0 „v20“
 
  ## Immersive Equipment Names ## ""
  GER_infantry_uniforms_1:0 "Feldbluse Modell 1936"
@@ -215,9 +215,9 @@
  GER_superartillery_equipment_0:0 "21cm K 39 Küstenartillerie"
  GER_superartillery_equipment_0_short:0 "21cm Kanone 39"
  GER_superartillery_equipment_0_desc:0 ""
- GER_railartillery_equipment_0:0 "80cm K (E) 'Schwerer Gustav' Eisenbahnartilleriegeschütz"
+ GER_railartillery_equipment_0:0 "Belagerungsartilleriegeschütz"
  GER_railartillery_equipment_0_short:0 "80cm Kanone (E)"
- GER_railartillery_equipment_0_desc:0 ""
+ GER_railartillery_equipment_0_desc:0 "80cm K (E) 'Schwerer Gustav' Eisenbahnartilleriegeschütz"
  ################# Handheld AT ""
  GER_handheld_at_equipment_0:0 "Panzerbüchse 38"
  GER_handheld_at_equipment_0_short:0 "PzB 38"
