@@ -563,7 +563,7 @@
  TUR_liberalism_party_long:0 "Serbest Cumhuriyet Partisi"
  HUN_monarchism_party:1 "NEP"
  HUN_monarchism_party_long:1 "Partei der Nationalen Einheit"
- HUN_fascism_party:1 "NYKP" #ACP"
+ HUN_fascism_party:1 "NYKP"
  HUN_fascism_party_long:1 "Nyilaskeresztes Párt - Hungarista Mozgalom" #Pfeilkreuzpartei
  HUN_communism_party:0 "KMP"
  HUN_communism_party_long:0 "Kommunisták Magyarországi Pártja"
@@ -873,7 +873,7 @@
  HON_communism_party_long:0 "Partido Comunista de Honduras"
  NEP_monarchism_party:0 "Rana-Dynastie"
  NEP_liberalism_party:0 "Praja Parishad"
- NEP_liberalism_party_long:0"Nepal Praja Parishad" "
+ NEP_liberalism_party_long:0 "Nepal Praja Parishad"
  PAN_conservatism_party:0 "PLCh"
  PAN_conservatism_party_long:0 "Liberale Partei Chiarista"
  PAN_agrarianism_party:0 "PNR"
@@ -978,7 +978,7 @@
  BMP_communism_party_long:0 "Palästinensische Kommunistische Partei"
  BMP_conservatism_party:0 "HaTzohar"
  BMP_conservatism_party_long:0 "Brit HaTzionim HaRevizionistim"
- BMP_fascism_party:0 "PAP" #AHC"
+ BMP_fascism_party:0 "PAP"
  BMP_fascism_party_long:0 "Palästinensische Arabische Partei" #'Al-Hizb al-'Arabi al-Filastini #Arabisches Oberkomitee
  BMP_liberalism_party:0 "HaTzionim HaKlaliym"
  BMP_liberalism_party_long:0 "HaTzionim HaKlaliym (HaTzionim HaKlaliym)"
@@ -1022,7 +1022,7 @@
  LAO_monarchism_party:0 "Royalisten"
  MNT_fascism_party:0 "Grüne"
  MNT_conservatism_party:0 "Demokratische Liga"
- MNT_communism_party:0 "Kommunistische Partei Montenegros" oder KPCG"
+ MNT_communism_party:0 "Kommunistische Partei Montenegros oder KPCG"
  MNT_neutrality_party:0 "Föderalistische Partei" # Montenegrinische Ultranationalisten, die als rechte Demokraten begannen, aber im Jahr 41' zur faschistischen Kollaboration übergingen
  UKR_fascism_party:0 "OUN"
  UKR_conservatism_party:0 "Ukrainische Nationale Demokratische Allianz" # oder UNDO

@@ -1,5 +1,5 @@
 ﻿ l_german:
- HSD_COST_TT:0 "[HSD_COST_COLOR] £navy_experience [?cost|0] §!"
+ HSD_COST_TT:0 "[HSD_COST_COLOR] £navy_experience [?cost|0]"
  
  Y_C:0 "§Y"
  R_C:0 "§R"

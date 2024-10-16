@@ -1557,7 +1557,7 @@
  SOV_destroyer_3_desc:0 "Die Soobrazitelnyi (Projekt 7U) Zerstörer waren eine verbesserte Version der vorherigen Gnevny-Klasse. Ihre Motoren wurden überarbeitet und sie hatten eine stärkere Flakbewaffnung. Sie verdrängten zwischen 1.900 und 2.400 Tonnen, und ihre Geschwindigkeit und Reichweite waren ähnlich wie bei der Gnevny-Klasse."
  SOV_destroyer_3b:0 "DD der Taschkent-Klasse"
  SOV_destroyer_3b_desc:0 "Die Tashkent-Klasse (Projekt 20) war eine Gruppe von Zerstörern, die in Italien entworfen und kurz vor dem Zweiten Weltkrieg für die sowjetische Marine gebaut wurden. Die Bewaffnung bestand aus drei 130-mm-Zwillingstürmen des Typs B-2LM, die nur für den Oberflächenbeschuss vorgesehen waren. Ursprünglich waren 45 mm-Flugabwehrkanonen geplant, die jedoch durch automatische 37 mm-Flugabwehrkanonen ersetzt wurden. Später wurden zwei 76 mm (3,0 Zoll) Flakgeschütze eingebaut. Die Torpedobewaffnung bestand aus drei dreifachen 533-mm-Torpedoro-Rohren."
- SOV_destroyer_3c:0 "Kiev Class DD" #nicht Kyiv, da es wahrscheinlich russisch und nicht ukrainisch ist"
+ SOV_destroyer_3c:0 "Kiev Class DD" #nicht Kyiv, da es wahrscheinlich russisch und nicht ukrainisch ist
  SOV_destroyer_3c_desc:0 ""
  SOV_destroyer_3d:0 "Ognevoy Klasse DD"
  SOV_destroyer_3d_desc:0 "Die Zerstörer der Ognevoy-Klasse waren eine Serie von elf Zerstörern, die für die sowjetische Marine gebaut wurden und über eine höhere Reichweite, mehr Wasserbombenwerfer und bessere Flugabwehrbatterien verfügten."

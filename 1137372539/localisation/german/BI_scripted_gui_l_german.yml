@@ -475,7 +475,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  RESEARCH_CENTRE_OVERLAY_TOOLTIP_DELAYED:0 "§YRechtsklick§! um die Kamera über §Y[This.GetName]§! zu bewegen, wo sich dieser Forschungsplatz befindet"
  RESEARCH_CENTRE_LOST_TOOLTIP:0 "§RWir haben die Kontrolle über [This.GetName] verloren und können diesen £tech_mod Forschungsplatz nicht nutzen §!"
  BI_ALLOWED_RESEARCH_TOOLTIP:0 "\nDieser £tech_mod §YForschungsplatz§! kann die folgenden Technologieordner erforschen: [This.research_infantry_TT][This.research_support_TT][This.research_artillery_TT][This.research_tank_techs_TT][This.research_armor_TT][This.research_air_techs_army_TT][This.research_air_techs_navy_TT][This.research_air_techs_TT][This.research_naval_TT][This.research_naval_techs_TT][This.research_ww1_doctrine_TT][This.research_doctrine_TT][This.research_naval_doctrine_TT][This.research_air_doctrine_TT][This.research_electronics_TT][This.research_industry_TT][This.research_raw_materials_TT][This.research_nuclear_TT][This.research_special_forces_TT]"
- BI_ALLOWED_RESEARCH_LIST:0 "[This.research_infantry_TT][This.research_support_TT][This.research_artillery_TT][This.research_tank_techs_TT][This.research_armor_TT][This.research_air_techs_army_TT][This.research_air_techs_navy_TT][This.research_air_techs_TT][This.research_ naval_TT][ This.research_naval_techs_TT][This.research_ww1_doctrine_TT][This.research_doctrine_TT][This.research_naval_doctrine_TT][This.research_air_doctrine_TT][This.research_electronics_TT][This.research_industry_TT][This.research_raw_materials_TT][This.research_nuclear_TT][This.research_ "special_forces_TT]"
+ BI_ALLOWED_RESEARCH_LIST:0 "[This.research_infantry_TT][This.research_support_TT][This.research_artillery_TT][This.research_tank_techs_TT][This.research_armor_TT][This.research_air_techs_army_TT][This.research_air_techs_navy_TT][This.research_air_techs_TT][This.research_ naval_TT][ This.research_naval_techs_TT][This.research_ww1_doctrine_TT][This.research_doctrine_TT][This.research_naval_doctrine_TT][This.research_air_doctrine_TT][This.research_electronics_TT][This.research_industry_TT][This.research_raw_materials_TT][This.research_nuclear_TT][This.research_special_forces_TT]"
  BI_BASE_RESEARCH_TOOLTIP:0 "\nDieser £tech_mod §YForschungsplatz§! kann jede Technologie erforschen."
  RESEARCH_CENTRE_STATE_UNKNOWN:0 "Wir wissen nicht, ob es ein £tech_mod §YForschungszentrum§! gibt in §Y[This.GetName]§!"
  research_allowed_infantry_TT:0 "\n\n £research_infantry Infanterie"
@@ -1730,7 +1730,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  REFINERY_ENTRY_INACTIVE_TOOLTIP_DELAYED:0 "Diese £refinery §YRaffinerie§! ist §Cinaktiv§! wegen §Runzureichender Ressourcen§!. Es wird aktiv, wenn wir genug davon haben."
  REFINERY_ENTRY_ACTIVE_TOOLTIP_DELAYED:0 "Diese £refinery §YRaffinerie§! ist §Oaktiv§!."
  REFINERY_ENTRY_PARTIALLY_ACTIVE_TOOLTIP_DELAYED:0 "Diese £refinery §YRaffinerie§! ist nur §Cteilweise§! §Oaktiv§! wegen §Runzureichender Ressourcen§!. Es wird mit einem Wirkungsgrad von [?eff|Y0%] produziert."
- REFINERY_ENTRY_PARTIALLY_ACTIVE_DISPLAY_TOOLTIP_DELAYED: "Diese §YRaffinerie§! £refinery erscheint aufgrund des aktuellen Anzeigetyps §Yx[?display_type] als §Cteilweise§! §Oaktiv§! Sie arbeitet mit einem Wirkungsgrad von [?eff|Y0%]."
+ REFINERY_ENTRY_PARTIALLY_ACTIVE_DISPLAY_TOOLTIP_DELAYED: "Diese §YRaffinerie§! £refinery erscheint aufgrund des aktuellen Anzeigetyps §Yx[?display_type]§! als §Cteilweise§! §Oaktiv§! Sie arbeitet mit einem Wirkungsgrad von [?eff|Y0%]."
  REFINERY_ENTRY_TARGET_TOOLTIP_DELAYED: "Diese £refinery §YRaffinerie§! ist §Ygeplant§! und wird §Yaktiv§! sobald wir mehr aufgebaut oder anderweitig gewonnen haben"
 
  REFINERY_INCREASE_ASSIGNED_TOOLTIP: "§YKlick§! um §Y+1§! hinzuzufügen\n§YShift+Klick§! um §Y+5§! hinzuzufügen\n§YStrg+Klick§! um §Y+10§! hinzuzufügen!"
@@ -2046,7 +2046,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  mob_reserve_stats: "£attack_texticon §R-80%§! £defence_texticon §R-80%§! £air_superiority_efficiency_texticon §R-65%§!"
  mob_standing_stats: "£attack_texticon §R-50%§! £defence_texticon §R-50%§! £air_superiority_efficiency_texticon §R-40%§!"
  mob_limited_stats: "£attack_texticon §R-25%§! £defence_texticon §R-25%§! £air_superiority_efficiency_texticon §R-15%§!"
- mob_general_stats: "£attack_texticon §Y0%§! £defence_texticon §Y0% £air_superiority_efficiency_texticon §Y0%§!"
+ mob_general_stats: "£attack_texticon §Y0%§! £defence_texticon §Y0%§! £air_superiority_efficiency_texticon §Y0%§!"
  cons_volunteer_stats: "£manpower_texticon §R-35%§!"
  cons_one_stats: "£manpower_texticon §R-10%§!"
  cons_two_stats: "£manpower_texticon §Y0%§!"
@@ -2510,7 +2510,7 @@ RUBBER_OUTPUT_TEXT_TT: "Die §OGesamtmenge§! an £resources_strip|3 §YGummi§!
 
  lorem_ipsum: "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Ipsum Lorem Ipsum Lorem m ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
 
-MAIN_MENU_COMPATABILITY: " MAIN_MENU_COMPATABILITY: "Diese Version enthält grundlegende Kompatibilität mit dem neuen DLC für Südamerika. Es werden keine Inhalte aus dem DLC in BICE enthalten sein."
+ MAIN_MENU_COMPATABILITY: "MAIN_MENU_COMPATABILITY: Diese Version enthält grundlegende Kompatibilität mit dem neuen DLC für Südamerika. Es werden keine Inhalte aus dem DLC in BICE enthalten sein."
 
 
  MAIN_MENU_OVERVIEW: "Begleitend zu den Änderungen des DLC führt dieses Update ein überarbeitetes Industriesystem ein. Dieses neue System besteht aus neuen Ressourcen, Technologien, Gebäuden und Mechaniken und ermöglicht eine immersivere Industriesimulation. Der Mangel an Ressourcen oder Verfeinerungskapazitäten kann Ihre Kriegsanstrengungen lahmlegen. Um dies zu vermeiden und Sie bei der neuen Version zu unterstützen, werfen wir einen kurzen Blick auf BICE Industry Rework."
@@ -2638,7 +2638,7 @@ MAIN_MENU_COMPATABILITY: " MAIN_MENU_COMPATABILITY: "Diese Version enthält grun
  
  phase_block_desc: "[GetTag] [dirty] Test"
  
- manpower_disband_TT: "§OEinheitenaufrüstung§!: Wenn diese Verbesserung aktiviert wird, wird die aktuelle Einheit (falls vorhanden) aufgelöst und ihre Soldaten in den Pool zurückgeführt. Anschließend wird eine neue, aufgerüstete Einheit gebildet, die die verfügbaren Soldaten nutzt. Die benötigte Mannstärken hängt von den Unterschieden zwischen den Mannstärken beider Einheiten ab.
+ manpower_disband_TT: "§OEinheitenaufrüstung§!: Wenn diese Verbesserung aktiviert wird, wird die aktuelle Einheit (falls vorhanden) aufgelöst und ihre Soldaten in den Pool zurückgeführt. Anschließend wird eine neue, aufgerüstete Einheit gebildet, die die verfügbaren Soldaten nutzt. Die benötigte Mannstärken hängt von den Unterschieden zwischen den Mannstärken beider Einheiten ab."
 
  OUTCOME_DETERMINED_TT: "\nDas Ergebnis für Folgendes wird bestimmt, sobald wir diese Entscheidung getroffen haben, aber der Effekt wird gewährt, wenn die Entscheidungen entfernt werden."
 

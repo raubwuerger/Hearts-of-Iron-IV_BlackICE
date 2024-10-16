@@ -29,7 +29,7 @@
  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_TOTAL:0 "Gesamte grundlegende Eignung für den Dienst (Ausländisch): §R-$VAL|%$§!"
  STATE_POPULATION_DESC:1 "Die Anzahl der Menschen, die in diesem Staat leben. Ihre Wehrpflichtgesetze erlauben Ihnen, einen bestimmten Prozentsatz als Soldaten für Ihre Divisionen, Schiffe und Flugzeuge zu verwenden."
  STATE_POPULATION_VALUE:0 "$VAL|*H$"
- STATE_SET_POLICY:0 "§GKlicken Sie, um die Besatzungspolitik von $STATE|H$§ zu verwalten§!"
+ STATE_SET_POLICY:0 "§GKlicken Sie, um die Besatzungspolitik von $STATE|H$ zu verwalten§!"
  STATE_NOT_OCCUPIED:0 "§RSie müssen $STATE|H$ besetzen, um eine Besatzungspolitik für ihn festzulegen§!"
  STATE_CLAIMS:0 "Ausländische Ansprüche"
  STATE_NO_RESOURCES:0 "§TEs gibt keine Ressourcen in $STATE|H$.§!"

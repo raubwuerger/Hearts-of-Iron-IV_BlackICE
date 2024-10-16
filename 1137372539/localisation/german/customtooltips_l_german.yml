@@ -5,7 +5,7 @@
  GERnoneed_2:0 "Sie müssen diese Einheit jetzt nicht ausbilden.\n§YSie können die Einheitenvorlage jederzeit selbst ändern.§!\n"
 
  GER_czech_equipment:0 "In mehreren Lagerhäusern gefundene militärische Ausrüstung wurde beschlagnahmt und unserem Lagerbestand hinzugefügt."
- GER_aw_1:0 "Startet die Ereigniskette für die verbleibenden §R'Welle 1 Inf.-Div's'§! gebildet werden."
+ GER_aw_1:0 "Startet die Ereigniskette für die verbleibenden §R'Welle 1 Inf.-Div.'§! gebildet werden."
  #GER Pz-Divisions 
  GER_123_Pz_Div_tt:0 "Werte die Einheiten auf:\n§Y1. Panzerdivision in Weimar§!\n§Y2. Panzerdivision in Würzburg§!\n§Y3. Panzerdivision in Wünsdorf§!\n"
  GER_123_PZ_DIV_1939_tt:0 "Ändern Sie die Vorlagen für Einheiten:\n§Y1. Panzerdivision§!\n§Y2. Panzerdivision§!\n§Y3. Panzerdivision§!\n"
@@ -47,10 +47,10 @@
  GER_8_Pz_Div_1940_tt:0 "Bilden Sie die Einheit:\n§Y8. Panzerdivision§! in der Nähe von Bocholt in der Region Wesel.\n"
  GER_8_Pz_Div_1940_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y8. Panzerdivision§! zu §C8 Pz-Div§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RPz-Div 8§!\n"
   
- GER_9_Pz_Div_1940_tt:0 "Bilden Sie die Einheit:\n§Y9. Panzerdivision in Wien§!\n\n§RHinweis§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.§ !\n\n"
+ GER_9_Pz_Div_1940_tt:0 "Bilden Sie die Einheit:\n§Y9. Panzerdivision in Wien§!\n\n§RHinweis§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n\n"
  GER_9_Pz_Div_1940_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 9. Panzerdivision§!\n"
  GER_9_Pz_Div_1940_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y4. Leichte Division§! zu §C9 Pz-Div§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RL-Div 4§!\n"
- GER_9_Pz_Div_AUG_1940_tt:0 "Aktualisieren/erneuern Sie das Gerät:\n§Y9. Panzerdivision in Wien§!\n\n§RHinweis§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.§ !\n\n"
+ GER_9_Pz_Div_AUG_1940_tt:0 "Aktualisieren/erneuern Sie die Ausrüstung:\n§Y9. Panzerdivision in Wien§!\n\n§RHinweis§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n\n"
  GER_9_Pz_Div_AUG_1940_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y9. Panzerdivision§! zu §CPz-Div 9§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R9 Pz-Div§!\n"
  GER_9_Pz_Div_AUG_1940_dec_tt:0 "Erstellt Vorlage mit Pz III's + Pz IV's für Einheit:§Y 9. Panzerdivision§!\n"
 
@@ -126,7 +126,7 @@
  GERinfdiv_44_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§YInfanterie Brigade§!§R=>§!§Y 44. Infanterie-Division§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RInfanterie Brigade§!\n"
  GERinfdiv_45_tt:0 "Die Einheit bilden:\n§Y45. Infanterie-Division in Linz§!\n"
  GERinfdiv_45_dec_tt:0 "Erstellt Vorlage für Einheiten:§Y 45. Infanterie-Division§!\n"
- GERinfdiv_45_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y4. Infanterie Division-Ost§!§R=>§!§Y 45. Infanterie-Division§!\nNach der Änderung löscht ein verstecktes Ereignis die Vorlage:\n§YInfanterie-Division_OST\n"
+ GERinfdiv_45_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y4. Infanterie Division-Ost§!§R=>§!§Y 45. Infanterie-Division§!\nNach der Änderung löscht ein verstecktes Ereignis die Vorlage:\n§YInfanterie-Division_OST§!\n"
  GERinfdiv_60_tt:0 "Die Einheit bilden:\n§Y60. Infanterie-Division in Danzig§!\n"
  GERinfdiv_60_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 60. Infanterie-Division§!\n"
  GERinfdiv_60_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§YGruppe Eberhardt§!§R=>§!§Y 60. Infanterie-Division§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RGruppe Eberhardt§!\n"
@@ -163,7 +163,7 @@
  GER_pzgren_29_tt:0 "Die Einheit bilden:\n§Y29. Pz.Gren-Division§!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nEs fallen zusätzliche PP-Kosten an: §R-10§!.\nSie erhalten :\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n"
  GER_pzgren_29_ct_tt:0 "Ändern Sie die Vorlagen von Einheit:\n§Y29. Inf._Div(mot.)§!§R =>§!§Y 29. Pz.Gren-Div§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R29 Inf-Div(mot.)§! \n"
   
- ### GER FLAGS ### " 
+ ### GER FLAGS ###
  GERinfdiv_Grp_EH:0 " §RErledigt:§!§Y Gruppe Eberhardt§!"
  GERinfdiv_Grp_EH_no:0 " §RErledigt:§!§Y Keine Gruppe Eberhardt§!"
  GERinfdiv_60:0 " §RErledigt:§!§Y 60. Inf.-Div.§!"
@@ -274,7 +274,7 @@
  GER_SS_Kavallerie_regt_dec_tt:0 "Erstellt eine Vorlage für die Einheit:§Y SS-Kavallerie-Regiment§!\n"
  GER_SS_Kav_regt_tt:0 "Aufteilung der SS TK-Reiter-Standarte in 2 Regimenter:\n§Y 1. SS-Kavallerie-Regiment\n 2. SS-Kavallerie-Regiment§!\n§RDieses Ereignis löscht die Einheiten 1./2, SS TK-Reiter-Standarte. §!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nEs fallen zusätzliche PP-Kosten an: §R-10§!.\nSie erhalten beide Einheiten:\n **Ausrüstung max. 75 %\n**Trainingsniveau 75 %.\n"
  GER_SS_Kavallerie_brigade_dec_tt:0 "Erstellt eine Vorlage für die Einheit:§Y SS-Kavallerie-Brigade§!\n"
- GER_SS_Kav_brigade_tt:0 "Bildet die Einheit:§Y SS-Kavallerie-Brigade!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nEs fallen zusätzliche PP-Kosten an: §R-10§!. \nSie erhalten:\n**Ausrüstung max. 85 %\n**Trainingsniveau 85 %.\n"
+ GER_SS_Kav_brigade_tt:0 "Bildet die Einheit:§Y SS-Kavallerie-Brigade§!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nEs fallen zusätzliche PP-Kosten an: §R-10§!. \nSie erhalten:\n**Ausrüstung max. 85 %\n**Trainingsniveau 85 %.\n"
  GER_ss_8_florian_geyer_dec_tt:0 "Erstellt Vorlagen für:§Y SS-Kavallerie-Division 'Florian Geyer' + SS-Kavallerie-Division§!"
   
  ss_wiking_regts:0 " §RErledigt:§!§Y SS-Regimenter 'Westland'+ 'Nordland'§!\n"

@@ -19,7 +19,7 @@ POL_infantry_equipment_2_short:9 "Kbsp wz. 38M"
 POL_infantry_equipment_3:9 "Automatikgewehr wz. 43"
 POL_infantry_equipment_3_short:9 "Kbsp wz. 43"
 
-POL_handheld_at_equipment_0:9 "Panzerabwehrgewehr wz.35 "Uruguay".  
+POL_handheld_at_equipment_0:9 "Panzerabwehrgewehr wz.35 "Uruguay"."
 POL_handheld_at_equipment_0_short:9 "Kb ppanc wz. 35"
 
 POL_SMG_equipment_0:9 "Thompson wz. 28"
@@ -28,7 +28,7 @@ POL_SMG_equipment_0_desc:9 "Mit Maschinenpistolen ausgerüstete Infanterieeinhei
 POL_SMG_equipment_1:9 "Maschinenpistole Modell 39."
 POL_SMG_equipment_1_short:9 "Pm wz. 39"
 POL_SMG_equipment_1_desc:9 "Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-POL_SMG_equipment_2:9 "Maschinengewehr \n-"STEN".  
+POL_SMG_equipment_2:9 "Maschinengewehr \n-"STEN"."
 POL_SMG_equipment_2_short:9 "Pm STEN"
 POL_SMG_equipment_2_desc:9 "Mit SMG ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 POL_SMG_equipment_3:9 "Maschinenpistole \"Lightning\"".  

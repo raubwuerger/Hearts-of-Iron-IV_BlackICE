@@ -198,7 +198,7 @@ INDUSTRIAL_ORG_POLICY_TOOLTIP_HEADER: "§YRichtlinien§!"
 INDUSTRIAL_ORG_POLICY_TOOLTIP_POLICY_NAME: "$NAME|Y$"
 INDUSTRIAL_ORG_POLICY_TOOLTIP_NO_POLICY_AVAILABLE: "Es ist keine §YRichtlinie§! verfügbar"
 INDUSTRIAL_ORG_POLICY_TOOLTIP_NO_POLICY_SELECTED: "Es wurde keine §YRichtlinie§! ausgewählt"
-INDUSTRIAL_ORG_POLICY_TOOLTIP_CANT_CHANGE: "Sie §Rkönnen Ihre §YRichtlinie§! für $NUMBER|Y$ Tage nicht ändern"
+INDUSTRIAL_ORG_POLICY_TOOLTIP_CANT_CHANGE: "Sie §Rkönnen Ihre §YRichtlinie§! für $NUMBER|Y$ Tage nicht ändern§!"
 INDUSTRIAL_ORG_POLICY_DESCRIPTION_TT: "Richtlinien helfen Ihrer §YMilitärisch-Industriellen Organisation§! sich auf bestimmte Aspekte der Forschung oder Produktion zu spezialisieren."
 INDUSTRIAL_ORG_POLICY_DESCRIPTION_COOLDOWN_TT: "Sobald Sie eine §YRichtlinie§! auswählen, kann sie für $NUMBER|Y$ Tage nicht geändert werden"
 
@@ -1736,7 +1736,7 @@ generic_mio_trait_advanced_anti_air_targeting: "Fortgeschrittenes Flugabwehr-Zie
 generic_mio_trait_advanced_trajectory_calculations: "Fortgeschrittene Flugbahnberechnungen"
 generic_mio_trait_sliding_breech_block: "Gleitender Strandblock"
 generic_mio_trait_rapid_fire: "Schnellfeuer"
-generic_mio_trait_advanced_barrel_forging: "Fortgeschrittene Laufschmiedung" #AUCH FÜR INFANTERIEWAFFEN"
+generic_mio_trait_advanced_barrel_forging: "Fortgeschrittene Laufschmiedung" #AUCH FÜR INFANTERIEWAFFEN
 generic_mio_trait_big_guns: "Große Geschütze"
 generic_mio_trait_gun_mass_production: "Massenproduktion von Waffen"
 generic_mio_trait_super_charges: "Superladungen"

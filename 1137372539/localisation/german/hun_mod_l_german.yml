@@ -813,7 +813,7 @@
  hungary_flavor_gen.26.a:0 "Hoffen wir, dass wir diese Reserven nicht brauchen werden."
 
  hungary_flavor_gen.27.t:0 "Wissenschaftliches Institut Donau"
- hungary_flavor_gen.27.d:0 "Der Donaubund muss nicht nur bei der Verfolgung der Arbeiterrevolution und der Selbstbestimmung zusammenarbeiten, sondern auch bei der Verfolgung der Wissenschaft und des Fortschritts" - sagte [HUN.GetLeader] bei der letzten Sitzung des Bundesrates. Die Führung der Föderation einigte sich auf die Gründung eines gemeinsamen wissenschaftlichen Instituts mit Sitz in Budapest. An dieser Einrichtung werden Forscher aus allen Mitgliedstaaten beteiligt sein, um eine gemeinsame Wissensbasis zu schaffen, die der gesamten Föderation zugute kommt."
+ hungary_flavor_gen.27.d:0 "Der Donaubund muss nicht nur bei der Verfolgung der Arbeiterrevolution und der Selbstbestimmung zusammenarbeiten, sondern auch bei der Verfolgung der Wissenschaft und des Fortschritts - sagte [HUN.GetLeader] bei der letzten Sitzung des Bundesrates. Die Führung der Föderation einigte sich auf die Gründung eines gemeinsamen wissenschaftlichen Instituts mit Sitz in Budapest. An dieser Einrichtung werden Forscher aus allen Mitgliedstaaten beteiligt sein, um eine gemeinsame Wissensbasis zu schaffen, die der gesamten Föderation zugute kommt."
  hungary_flavor_gen.27.a:0 "Wir werden unseren Anteil an Forschern für das Institut bereitstellen."
 
  hungary_flavor_gen.28.t:0 "Beitritt zu den neuen Zentralmächten"
@@ -1860,7 +1860,7 @@
  hungary_flavor.49.d:0 "Es mag überraschen, aber Österreich lehnte es ab, das Burgenland im Gegenzug für Slowenien abzutreten. Die territorialen Gewinne hätten die Verluste sicherlich aufgewogen, und Österreich hätte eine Provinz zurückerhalten, die traditionell zu ihm gehört."
  hungary_flavor.49.a:0 "Seltsam."
 
- hungary_flavor.50.t:0 "Das "Györi-Programm"
+ hungary_flavor.50.t:0 "Das Györi-Programm"
  hungary_flavor.50.d:0 "Da unsere Rüstungsanstrengungen aufgrund der Friedensabkommen nach dem Ersten Weltkrieg lange Zeit begrenzt waren, ist die [Root.GetAdjective]-Armee dringend modernisierungsbedürftig. Ein von Béla Imrédy ausgearbeiteter Wiederaufrüstungsplan schlägt eine gründliche Reformierung und Umstrukturierung nicht nur der Armee, sondern auch der Industrie des Landes vor. Die Gesamtkosten für die Umsetzung würden sich auf eine Milliarde ungarischer Pengös belaufen, von denen 400 Millionen in die Verteidigung und die Entwicklung der Industrie fließen würden, während 600 Millionen direkt an die Armee und die Forschung gehen würden. Die Mittel sollen durch einmalige Steuern und kurzfristige Kredite aufgebracht werden."
  hungary_flavor.50.a:0 "Sie befürworten den Plan."
  hungary_flavor.50.b:0 "Dies wäre zu teuer."
@@ -3526,7 +3526,7 @@
  HUN_the_yugoslavian_wall:0 "Die jugoslawische Mauer"
  HUN_the_yugoslavian_wall_desc:0 "Unser Land wäre einer Invasion aus Jugoslawien schutzlos ausgeliefert. Wenn die Serben plötzlich meinen, dass sie mit dem, was sie im Vertrag von Trianon bekommen haben, nicht zufrieden sind, könnten sie die ungarischen Ebenen in wenigen Tagen überfluten. Um dies zu verhindern, wird an unseren südlichen Grenzen ein System von Festungsanlagen errichtet."
  HUN_create_the_avo:0 "Die ÁVO schaffen"
- HUN_create_the_avo_desc:0 "Diejenigen, die nicht für uns sind, sind gegen uns". Die Feinde des Systems müssen beseitigt werden, und wir brauchen eine Geheimpolizei, um diese unliebsamen Elemente aufzuspüren und festzunehmen. Die Államvédelmi Osztály (ÁVO) wird als Spionageabwehr und als nationale Staatsschutzbehörde dienen."
+ HUN_create_the_avo_desc:0 "Diejenigen, die nicht für uns sind, sind gegen uns. Die Feinde des Systems müssen beseitigt werden, und wir brauchen eine Geheimpolizei, um diese unliebsamen Elemente aufzuspüren und festzunehmen. Die Államvédelmi Osztály (ÁVO) wird als Spionageabwehr und als nationale Staatsschutzbehörde dienen."
  HUN_connections_in_moscow_desc:0 "Wenn wir als kommunistische Nation gedeihen wollen, müssen wir enge Beziehungen zu anderen Anhängern der Arbeitersache knüpfen. Wir werden uns an die Sowjetunion wenden, um eine direkte Verbindung von Budapest nach Moskau zu schaffen, über die wir im Notfall kommunizieren können."
  HUN_collectivization:0 "Kollektivierung"
  HUN_collectivization_desc:0 "Wer könnte die Ländereien und Fabriken des Landes besser nutzen, als die kommunistische Partei? Wir werden das Land, das sich im Besitz von Privatleuten befindet, auf ein Minimum reduzieren und die Dinge in die Hände des Staates legen."
@@ -3539,7 +3539,7 @@
  HUN_western_relations:0 "Westliche Beziehungen"
  HUN_western_relations_desc:0 "Auch wenn wir den Kommunismus der Demokratie vorgezogen haben, wäre es töricht, den Westen gänzlich aufzugeben und unser Vertrauen nur auf unsere sowjetischen Brüder zu setzen. Wir werden der kommunistischen Sache treu bleiben, aber wir werden auch versuchen, Handelsbeziehungen und diplomatische Beziehungen zu westlichen Ländern zu knüpfen, um uns alle Möglichkeiten offen zu halten."
  HUN_goulash_communism:0 "Gulasch-Kommunismus"
- HUN_goulash_communism_desc:0 "Wer nicht gegen uns ist, ist für uns". Das ist die Philosophie, die wir anwenden, wenn es um Feinde des Systems geht. Die Menschen werden in glückseliger Wohlfahrt gehalten, was sie kooperativer mit der Regierung macht. Die Preise für gängige Konsumgüter werden vom Staat festgelegt, und sie werden immer verfügbar sein. Dies wird zweifellos zusätzliche Kosten verursachen, aber es wird die Bevölkerung zufrieden und glücklich machen."
+ HUN_goulash_communism_desc:0 "Wer nicht gegen uns ist, ist für uns. Das ist die Philosophie, die wir anwenden, wenn es um Feinde des Systems geht. Die Menschen werden in glückseliger Wohlfahrt gehalten, was sie kooperativer mit der Regierung macht. Die Preise für gängige Konsumgüter werden vom Staat festgelegt, und sie werden immer verfügbar sein. Dies wird zweifellos zusätzliche Kosten verursachen, aber es wird die Bevölkerung zufrieden und glücklich machen."
  HUN_modernize_the_railway_network:0 "Das Eisenbahnnetz modernisieren"
  HUN_modernize_the_railway_network_desc:0 "Das ungarische Eisenbahnnetz ist stark verbesserungsbedürftig, da die Beschränkungen des Friedensvertrags von Trianon den Bau von mehrgleisigen Eisenbahnstrecken verbieten. Es wird ein umfassender Ausbauplan ausgearbeitet und umgesetzt, der die bestehenden Bahnlinien modernisiert und Platz für neue schafft."
  HUN_facilitate_full_employment:0 "Erleichterung der Vollbeschäftigung"

@@ -36,3 +36,18 @@ Zentimetrisches		->	Zentimeter-Radar
 active
 partially
 Refinerie
+Recruit -> Rekrutieren
+Deploy -> Aufstellen
+Complete Trade Treaty With Germany
+Appeal to Imperial Loyalists
+Ally
+Assistance
+'
+Important
+
+Forming
+Expand
+surrender progress
+Division Recruitment Time
+
+^([^"\r\n]*)("(?1)){3}$

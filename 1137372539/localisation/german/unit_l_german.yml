@@ -27,7 +27,7 @@
  UNIT_LEADER_ALREADY_AN_ADVISOR:0 "$NAME|Y$ §Rist bereits ein Berater§!"
  UNIT_LEADER_TRAIT_REQUIRES:0 "§RVerlangt $TRAITNAME|Y$.§!"
  UNIT_LEADER_TRAIT_ROLE:0 "§RHäuptlingsrollen sind nur Feldmarschällen zuweisbar.§!"
- UNIT_LEADER_IS_COUNTRY_LEADER_ADVISOR:0 "$NAME|Y$ ist ein Anführer eines Landes und kann nicht Berater werden.§!"
+ UNIT_LEADER_IS_COUNTRY_LEADER_ADVISOR:0 "$NAME|Y$ ist ein Anführer eines Landes und kann nicht Berater werden."
  UNIT_LEADER_ADVISOR_ROLE_TITLE:0 "$ADVISORROLE|Y$ Rolle: $ADVISORNAME|Y$"
  UNIT_LEADER_ADVISOR_ROLE_TITLE_ACTIVE:0 "(aktiv)"
  UNIT_LEADER_ADVISOR_ROLE_THEORIST_DESC:0 "$ADVISORROLE|Y$ Rollen können nicht verbessert werden, abhängig von Fertigkeitsstufe."
