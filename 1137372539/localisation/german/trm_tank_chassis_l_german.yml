@@ -328,7 +328,7 @@
  trm_medium_tank_chassis_ger_panzer3_5:0 "PzKpfw III Ausf.M Fahrgestell"
  trm_medium_tank_chassis_ger_panzer3_5_desc:0 "Typ - Mittlerer Panzer\n\nFür die Ausf. M wurde auf die Wasserdichtigkeit geachtet. Das Ergebnis war ein qualitativ höherwertiger Tauchpanzer. Die größten äußeren Veränderungen waren der neue Schalldämpfer und die verschließbaren Lufteinlässe auf dem Motordeck. Der Hauptunterschied zwischen der Ausf L und der Ausf M war die Panzerung der Ausf M. Dies wurde durch Dichtungsvorrichtungen um die Lufteinlässe und Auslassöffnungen der Wanne und durch einen modifizierten Schalldämpfer mit einem hoch auf dem Wannenheck montierten Verschlussventil erreicht."
  trm_medium_tank_equipment_ger_panzer3_5:0 "Panzerkampfwagen III Ausf.M"
- trm_medium_tank_equipment_ger_panzer3_5_short:0 "PzKpfw III M" t"
+ trm_medium_tank_equipment_ger_panzer3_5_short:0 "PzKpfw III M"
 
  trm_medium_tank_cs_chassis_ger_panzer3_4:0 "PzKpfw III Ausf.N Fahrgestell (CS)"
  trm_medium_tank_cs_equipment_ger_panzer3_4:0 "Panzerkampfwagen III Ausf.N"

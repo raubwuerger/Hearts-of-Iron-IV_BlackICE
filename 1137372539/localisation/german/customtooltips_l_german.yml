@@ -163,7 +163,7 @@
  GER_pzgren_29_tt:0 "Die Einheit bilden:\n§Y29. Pz.Gren-Division§!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nEs fallen zusätzliche PP-Kosten an: §R-10§!.\nSie erhalten :\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n"
  GER_pzgren_29_ct_tt:0 "Ändern Sie die Vorlagen von Einheit:\n§Y29. Inf._Div(mot.)§!§R =>§!§Y 29. Pz.Gren-Div§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R29 Inf-Div(mot.)§! \n"
   
- ### GER FLAGS ### " 
+ ### GER FLAGS ###
  GERinfdiv_Grp_EH:0 " §RErledigt:§!§Y Gruppe Eberhardt§!"
  GERinfdiv_Grp_EH_no:0 " §RErledigt:§!§Y Keine Gruppe Eberhardt§!"
  GERinfdiv_60:0 " §RErledigt:§!§Y 60. Inf.-Div.§!"

@@ -1736,7 +1736,7 @@ generic_mio_trait_advanced_anti_air_targeting: "Fortgeschrittenes Flugabwehr-Zie
 generic_mio_trait_advanced_trajectory_calculations: "Fortgeschrittene Flugbahnberechnungen"
 generic_mio_trait_sliding_breech_block: "Gleitender Strandblock"
 generic_mio_trait_rapid_fire: "Schnellfeuer"
-generic_mio_trait_advanced_barrel_forging: "Fortgeschrittene Laufschmiedung" #AUCH FÜR INFANTERIEWAFFEN"
+generic_mio_trait_advanced_barrel_forging: "Fortgeschrittene Laufschmiedung" #AUCH FÜR INFANTERIEWAFFEN
 generic_mio_trait_big_guns: "Große Geschütze"
 generic_mio_trait_gun_mass_production: "Massenproduktion von Waffen"
 generic_mio_trait_super_charges: "Superladungen"

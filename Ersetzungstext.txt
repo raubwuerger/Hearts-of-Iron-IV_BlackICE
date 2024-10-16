@@ -36,3 +36,6 @@ Zentimetrisches		->	Zentimeter-Radar
 active
 partially
 Refinerie
+
+'
+^([^"\r\n]*)("(?1)){3}$

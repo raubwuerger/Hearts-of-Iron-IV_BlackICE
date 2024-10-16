@@ -786,9 +786,9 @@
  KMT_long_yun:0 "Long Yun"
  KMT_ma_bufang:0 "Ma Bufang"
  KMT_yan_xishan:0 "Yan Xishan"
- KMT_sun_lijen:0 ""Sun Li-jen" #孫立人"
+ KMT_sun_lijen:0 "Sun Li-jen" #孫立人
  ## 14/4/2017 ## ""
- XIA_zhao_hengti:0 "Zhao Hengti" #趙恆惕"
+ XIA_zhao_hengti:0 "Zhao Hengti" #趙恆惕
  XIA_zhang_zhizhong:0 "Zhang Zizhong" #張治中
  XIA_chen_mingren:0 "Chen Mingren" #陳明仁
  XIA_tang_shengzhi:0 "Tang Shengzhi" #唐生智
@@ -810,14 +810,14 @@
  SCC_tang_shizun:0 "Tang Shizun" #唐式遵
  SCC_wang_zuanxu:0 "Wang Zuanxu" #王纘緒
  SCC_tian_song_yao:0 "Tian Songyao" #田頌堯
- ## 20/4/2017 ## "
+ ## 20/4/2017 ##
  QIA_he_zhizhong:0 "He Zhizhong" #何知重
  QIA_bo_huizhang:0 "Bo Huizhang" #柏輝章
  QIA_hou_zhidan:0 "Hou Zhidan" #候之擔
  QIA_you_guocai:0 "You Guocai" #猶國才
  QIA_jiang_zaizhen:0 "Jiang Zaizhen" #蔣在珍
  QIA_wang_jialie:0 "Wang Jialie" #王家烈
- ## 21/4/2017 ## "
+ ## 21/4/2017 ##
  SDC_liang_shuming:0 "Liang Shuming" #梁漱溟
  ZXL_li_bo_hai:0 "Li Bohai" #李渤海
  KMT_he_jian_proposal:0 "Streitkräfte an der Frontlinie"
@@ -950,8 +950,8 @@
  KMT_zhu_de_army_chief:0 "Zhu De"
  KMT_xu_xiangqian:0 "Xu Xiangqian"
  KMT_peng_dehuai:0 "Peng Dehuai"
- ## 12/1/2018 ## "
- ## 21/1/2018 ## "
+ ## 12/1/2018 ##
+ ## 21/1/2018 ##
  KMT_new_constitution_democratic:0 "Eine neue Verfassung"
  KMT_new_constitution_fascism:0 "Eine neue Verfassung"
  KMT_new_constitution_democratic_ccotm:0 "Eine neue Verfassung"

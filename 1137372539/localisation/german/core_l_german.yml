@@ -1758,7 +1758,7 @@
   SETTINGS_ACCESSIBILITY_CHAT_LARGE_FONTS:0 "Multiplayer-Chat Große Schriftarten"
   SETTINGS_ACCESSIBILITY_CHAT_LARGE_FONTS_INFO:0 "Große Schriftarten für Multiplayer-Chat-Nachrichten verwenden"
   SETTINGS_ACCESSIBILITY_CHAT_LARGE_FONTS_VALUE_INFO:0 "Schaltet die Verwendung großer Schriftarten für Multiplayer-Chat-Nachrichten ein und aus"
-  SETTINGS_ACCESSIBILITY_STT_SHORTCUT_INPUT:0 "Multiplayer-Chat-Verknüpfung "Sprache zu Text"
+  SETTINGS_ACCESSIBILITY_STT_SHORTCUT_INPUT:0 "Multiplayer-Chat-Verknüpfung Sprache zu Text"
   SETTINGS_ACCESSIBILITY_STT_SHORTCUT_INPUT_INFO:0 "Passen Sie die Verknüpfung zum Ein- und Ausschalten von §HSpeech to Text§! an"
   SETTINGS_ACCESSIBILITY_IN_GAME_CLOCK: "Uhrzeit im Spiel anzeigen"
   CHAT_CVAA_MESSAGE:0 "$NAME$ sagt $MESSAGE$"
