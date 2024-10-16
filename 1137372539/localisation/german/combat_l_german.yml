@@ -379,7 +379,7 @@
  SCREENING_TOOLTIP_FOR_CAPITAL_BOX:2 "Ihre $NUM_CARR|.0H$ §YTräger§! und $NUM_CONV|.0H$ §YKonvois§! müssen $NUM_NEED|.0H$ §YGroßkampfschiffe§! vollständig überprüft werden, und Sie haben derzeit $NUM_CAPI| .0H$ §YGroßkampfschiffe§!."
  SCREENING_TOOLTIP_LOW_INFO:1 "Lücken in der §YSicherungsgruppe§! führen zu einer geringen Sicherungseffizienz, sodass feindliche U-Boote die nächste Kampflinie anvisieren können."
  SCREENING_TOOLTIP_BONUSES:1 "Deine Sicherungseffizienz verleiht deiner §YKampflinie§! die folgenden Boni:\n"
- SCREENING_TOOLTIP_BONUSES_CAPITAL:1 "Ihre Sicherungseffizienz verschafft Ihrer §YTrägergruppe§ die folgenden Boni§!:\n"
+ SCREENING_TOOLTIP_BONUSES_CAPITAL:1 "Ihre Sicherungseffizienz verschafft Ihrer §YTrägergruppe§! die folgenden Boni:\n"
  SCREENING_TOOLTIP_NO_SCREENS:1 "Ein Mangel an §YSicherungsschiffen§! ermöglicht es feindlichen U-Booten und anderen leichten Schiffen, Ihre Großkampfschiffe mit Torpedos anzugreifen, und führt zu schweren Einbußen bei der Positionierung."
  SCREENING_BOX_TOOLTIP:0 "Die §YSicherungsgruppe§! enthält alle Abschirmungsschiffe – normalerweise leichte Kreuzer und Zerstörer – und hat die Aufgabe, feindliche Abschirmungsschiffe von der Haupt-§YSchlachtlinie§! fernzuhalten. Eine unzureichende Abschirmung ermöglicht es feindlichen Abschirmungsschiffen, Torpedoangriffe gegen die Schlachtlinie durchzuführen ."
  CAPITAL_BOX_TOOLTIP:0 "Die §YSchlachtlinie§! stellt die wichtigste direkte Feuerkraft der Flotte bereit, normalerweise in Form von Schlachtschiffen und schweren Kreuzern. Sie verhindern auch, dass feindliche Großkampfschiffe auf befreundete §YTräger§! schießen."

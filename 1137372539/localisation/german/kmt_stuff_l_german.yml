@@ -430,8 +430,8 @@
  KMT_will_remove_the_above_idea_tt:0 "\n§CDer oben genannte nationale Geist wird entfernt, wenn der Fokus beendet ist.§!\n\n"
  KMT_there_are_some_events_tt:0 "§YEinige Ereignisse werden im Verlauf dieses Fokus ausgelöst und haben leichte Auswirkungen auf die Wirkung dieses Fokus.§!\n\n"
  ## 24/1/2018 ## ""
- KMT_if_have_completed_eng_tt:0 "\n§CIf§! §Y[ENG.GetName]§! §Chas nationaler Geist§! §YAssistance To China§!\n\n"
- KMT_if_have_completed_usa_tt:0 "\n§CIf§! §Y[USA.GetName]§! §Chas national spirit§! §YAssistance To China§!\n\n"
+ KMT_if_have_completed_eng_tt:0 "\n§CWenn§! §Y[ENG.GetName]§! den §CNationalgeist§! §YHilfe für China§! hat\n\n"
+ KMT_if_have_completed_usa_tt:0 "\n§CWenn§! §Y[USA.GetName]§! den §CNationalgeist§! §YHilfe für China§! hat\n\n"
  ## 31/1/2018 ## ""
  KMT_jet:0 "Projekt Yin-Yang" #鷹揚計劃
  KMT_jet_desc:0 "Der Luftkampf ist ein untrennbarer Bestandteil der modernen Kriegsführung geworden. Wenn wir unser Land vor ausländischen Bedrohungen schützen wollen, brauchen wir eine kompetente Luftwaffe. Zu diesem Zweck müssen wir fortschrittliche einheimische Kampfflugzeuge entwickeln, um unser Volk zu verteidigen."

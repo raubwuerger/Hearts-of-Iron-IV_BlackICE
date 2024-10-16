@@ -173,7 +173,7 @@
  PRC_continuous_restrict_freedom:0 "Untertanen unterdrücken"
  PRC_continuous_restrict_freedom_desc:0 "Unsere kolonialen Untertanen haben ziemlich alberne Vorstellungen von Dingen wie "Selbstbestimmung" oder "nationaler Unabhängigkeit" entwickelt. Es ist an der Zeit, sie von diesen Vorstellungen zu befreien."
  ## UNUSED ##
- prc_continuous_partisan_tt:0 "§YPartisanen werden sich alle 30 Tage in unserem Kernstaat erheben, der vollständig von unserem Feind kontrolliert wird, der den nationalen Geist §REnemy Partisans Behind Our Frontline§! hat. §0Staaten, die sich im Besitz unserer Feinde befinden, sind nicht eingeschlossen§!"
+ prc_continuous_partisan_tt:0 "§YPartisanen werden sich alle 30 Tage in unseren Kernregionen erheben§!, der vollständig von unserem Feind kontrolliert wird, der den nationalen Geist §REnemy Partisans Behind Our Frontline§! hat. §YStaaten, die sich im Besitz unserer Feinde befinden, sind nicht eingeschlossen§!"
  PRC_continuous_partisan:0 "Stützpunkte hinter der feindlichen Linie"
  PRC_continuous_partisan_desc:0 "Unsere Partisanen richten nun hinter der feindlichen Frontlinie einige Verwüstungen an. Wir könnten ihre Wirkung verstärken, indem wir ihnen zusätzlichen Nachschub geben."
  PRC_continuous_one_time_boost:0 "Planausarbeitung"

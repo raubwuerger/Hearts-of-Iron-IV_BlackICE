@@ -1004,7 +1004,7 @@
  USA_island_hopping14_desc:0 "$island_hopping_desc$"
  USA_island_hopping15_desc:0 "$island_hopping_desc$"
 
- island_hopping_desc:0 "Inselhopping-Mechanismus: für jede der folgenden Inseln, die der Feind kontrolliert, erhält er einen größeren Malus, während wir einen großen Bonus erhalten und umgekehrt.\n [526.Controller.GetFlag] §YOkinawa\n [645.Controller.GetFlag] Iwo Jima\n [648.Controller.GetFlag] Marcus Island\n [646.Controller.GetFlag] Saipan\n [647.Controller.GetFlag] Palau\n [684.Controller.GetFlag] Karolinen\n [633.Controller.GetFlag] Marshall-Inseln\n [638.Controller.GetFlag] Guam\n [737.Controller.GetFlag] Bismarck-Archipel\n [634.Controller.GetFlag] Salomonen\n [639.Controller.GetFlag] Gilbert-Inseln\n [632.Controller.GetFlag] Wake-Insel\n [631.Controller.GetFlag] Midway-Insel\n [629.Controller.GetFlag] Hawaii"
+ island_hopping_desc:0 "Inselhopping-Mechanismus: für jede der folgenden Inseln, die der Feind kontrolliert, erhält er einen größeren Malus, während wir einen großen Bonus erhalten und umgekehrt.\n [526.Controller.GetFlag] §YOkinawa\n [645.Controller.GetFlag] Iwo Jima\n [648.Controller.GetFlag] Marcus Island\n [646.Controller.GetFlag] Saipan\n [647.Controller.GetFlag] Palau\n [684.Controller.GetFlag] Karolinen\n [633.Controller.GetFlag] Marshall-Inseln\n [638.Controller.GetFlag] Guam\n [737.Controller.GetFlag] Bismarck-Archipel\n [634.Controller.GetFlag] Salomonen\n [639.Controller.GetFlag] Gilbert-Inseln\n [632.Controller.GetFlag] Wake-Insel\n [631.Controller.GetFlag] Midway-Insel\n [629.Controller.GetFlag] Hawaii§!"
 
 
  ##### Hungary ""

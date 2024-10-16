@@ -333,7 +333,7 @@
  take_claim_goal_desc:0 "Nehmen Sie sich von $TARGET|Y$ zurück, was uns gehört!"
  take_claim_goal_1:0 "Auf den Krieg vorbereiten"
  take_claim_goal_2:0 "Krieg erklären"
- take_claim_goal_short_desc:0 "§LNehmen Sie von $TARGET|Y$§ zurück, was uns gehört!§!"
+ take_claim_goal_short_desc:0 "§LNehmen Sie von $TARGET|Y$§ zurück, was uns gehört§!§!"
  take_core_goal:0 "Fordern Sie unser Land zurück"
  take_core_goal_desc:0 "Nehmen Sie sich von $TARGET|Y$ zurück, was uns gehört"
  take_core_goal_short_desc:0 "§LNehmen Sie unsere Kernstaaten zurück!§!"

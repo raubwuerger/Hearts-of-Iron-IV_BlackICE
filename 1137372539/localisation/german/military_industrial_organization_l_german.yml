@@ -198,7 +198,7 @@ INDUSTRIAL_ORG_POLICY_TOOLTIP_HEADER: "§YRichtlinien§!"
 INDUSTRIAL_ORG_POLICY_TOOLTIP_POLICY_NAME: "$NAME|Y$"
 INDUSTRIAL_ORG_POLICY_TOOLTIP_NO_POLICY_AVAILABLE: "Es ist keine §YRichtlinie§! verfügbar"
 INDUSTRIAL_ORG_POLICY_TOOLTIP_NO_POLICY_SELECTED: "Es wurde keine §YRichtlinie§! ausgewählt"
-INDUSTRIAL_ORG_POLICY_TOOLTIP_CANT_CHANGE: "Sie §Rkönnen Ihre §YRichtlinie§! für $NUMBER|Y$ Tage nicht ändern"
+INDUSTRIAL_ORG_POLICY_TOOLTIP_CANT_CHANGE: "Sie §Rkönnen Ihre §YRichtlinie§! für $NUMBER|Y$ Tage nicht ändern§!"
 INDUSTRIAL_ORG_POLICY_DESCRIPTION_TT: "Richtlinien helfen Ihrer §YMilitärisch-Industriellen Organisation§! sich auf bestimmte Aspekte der Forschung oder Produktion zu spezialisieren."
 INDUSTRIAL_ORG_POLICY_DESCRIPTION_COOLDOWN_TT: "Sobald Sie eine §YRichtlinie§! auswählen, kann sie für $NUMBER|Y$ Tage nicht geändert werden"
 

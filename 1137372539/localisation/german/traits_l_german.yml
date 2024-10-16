@@ -742,7 +742,7 @@
  FLY_SWATTER_TRIGGER_TT:0 "Feindliche Lufteinheiten bekämpfen"
  IRONSIDE_TRIGGER_TT:0 "Kommandieren oder Bekämpfen von §YGroßkampfschiffe§!"
  BLOCKADE_RUNNER_TRIGGER_TT:0 "Tapferer Rückzug im Angesicht einer überwältigenden Macht"
- AIR_CONTROLLER_TRIGGER_TT: "Hat §YTräger gestütze Geschwader$! im Kampf"
+ AIR_CONTROLLER_TRIGGER_TT: "Hat §YTräger gestütze Geschwader§! im Kampf"
  leider:0 "Leider"
  comintern_workhorse:0 "Komintern-Arbeitspferd"
  veteran_communist:0 "Veteranen-Kommunist"

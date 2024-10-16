@@ -114,7 +114,7 @@
  CANNOT_RECRUITE_OPERATIVE_NO_SLOT:0 "§RKeine verfügbaren Slots, um einen Agenten zu rekrutieren§!"
  CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:4 "Sie können den ersten Slot erhalten, indem Sie den Geheimdienst aufbauen und eine Operationsabteilung gründen. Weitere Slots erhalten Sie durch den Ausbau der Operationsabteilung oder durch einen §HSpionagechef§!.\nMehr Slots erhalten Sie als Spionagemeister für jedes zweite Land, das Ihrer Fraktion beitritt, ausgenommen Marionetten."
  CANNOT_RECRUITE_OPERATIVE_MAX_NUMBER:0 "Die maximale Anzahl von Agenten ist $NUMBER|H$."
- CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED:0 "§REin Agent befindet sich in der Ausbildung und wird in $DAYS|H$ Tagen§ verfügbar sein§!"
+ CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED:0 "§REin Agent befindet sich in der Ausbildung und wird in $DAYS|H$ Tagen verfügbar sein§!"
  CANNOT_RECRUITE_OPERATIVE_AGENCY_IS_NOT_CREATED:0 "§RNachrichtendienst noch nicht erstellt§!"
  CANNOT_RECRUITE_OPERATIVE_AGENCY_BEING_CREATED:0 "§RNachrichtendienst befindet sich im Aufbau ($DAYS_TEXT$)§!"
  CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED_SPY_MASTER:1 "§RKein Agent in einer der Fraktionen verfügbar. Ein Agent befindet sich in der Ausbildung und wird in $DAYS|H$ Tagen verfügbar sein§!"

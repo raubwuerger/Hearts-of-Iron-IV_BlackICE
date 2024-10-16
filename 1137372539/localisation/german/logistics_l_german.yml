@@ -68,7 +68,7 @@
  LOGISTICS_GAINED_PRODUCTION_LOW_VALUE:0 "Aus der Produktion: $GAINED|^1Y$ Einheiten"
  LOGISTICS_GAINED_PRODUCTION_HIGH_VALUE:0 "Aus der Produktion: $GAINED|^0Y$ Einheiten"
  LOGISTICS_STOCK_REQUEST:0 "\nVerstärkungen und neue Divisionen fordern $COUNT|H$ Einheiten an."
- LOGISTICS_PRODUCING:1 "Unsere $HProduktionslinien§! produzieren $PRODUCING|H2$ Einheiten pro Woche:"
+ LOGISTICS_PRODUCING:1 "Unsere §HProduktionslinien§! produzieren $PRODUCING|H2$ Einheiten pro Woche:"
  LOGISTICS_VARIANT_SPEED:0 "$VARIANT|H$: $SPEED|H2$ Einheiten."
  LOGISTICS_BALANCE:1 "Der aktuelle durchschnittliche Bestand auf Grundlage der täglichen Produktion und des durchschnittlichen Bedarfs von $EQUIPMENT|Y$ in den letzten $DAYS|Y$ Tagen beträgt $BALANCE|H$."
  LOGISTICS_LOW_ON_RESOURCE:1 "Die Produktionslinien §HProduktionslinien§!, die $EQUIPMENT|H$ Ausrüstung produzieren, haben Probleme, genügend $RESOURCES|H$ für eine maximale Produktionseffizienz zu beschaffen."

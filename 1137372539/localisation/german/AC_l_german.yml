@@ -110,7 +110,7 @@
  AC_gui_values:0 "§YPolitische Machtkosten:§! [?Root.AC_project_political_power_cost^-1]\n§YBaudauer:§! [?Root.AC_project_construction_duration^-1] Tage\n§YGesamte Bauzeit:§! [?Root.AC_project_total_construction_duration_display^-1] days\n§YConstruction speed penalty:§! [?Root.AC_project_construction_speed_display^-1]%\n\n"
 
  AC_assist_repair_button_text:0 "Assist Repair"
- AC_assist_repair_button_tt:0 "Unterstütze dieses Land beim Bau von Reparaturen.\n\n§YPolitischer Machtgewinn täglich:§! §R-1§!\n\n§YDauer:§! §G180 Tage\n\n§LSie können jeweils nur einem Land bei den Reparaturen helfen.\n\nSie können die Reparaturhilfe jederzeit durch Anklicken dieser Schaltfläche oder über die Registerkarte Entscheidungen abbrechen. Es gibt eine eintägige Abkühlungszeit, bevor Sie sie wieder aktivieren können.§!"
+ AC_assist_repair_button_tt:0 "Unterstütze dieses Land beim Bau von Reparaturen.\n\n§YPolitischer Machtgewinn täglich:§! §R-1§!\n\n§YDauer:§!§! §G180 Tage\n\n§LSie können jeweils nur einem Land bei den Reparaturen helfen.\n\nSie können die Reparaturhilfe jederzeit durch Anklicken dieser Schaltfläche oder über die Registerkarte Entscheidungen abbrechen. Es gibt eine eintägige Abkühlungszeit, bevor Sie sie wieder aktivieren können.§!"
 
  AC_construction_opinion:0 "Bauprojekte"
 

@@ -2084,7 +2084,7 @@
  ENABLE_SS_AA_HVY:0 "Aktiviert §YSS Schwere Flakkompanie§!"
  ENABLE_SS_ART:0 "Aktiviert §YSS Korps Art.-Abt, SS Mot. Korps Art.-Abt§!\nAktiviert §YSS Art.-Btl., SS Mot Art.-Btl., SS Geb-Art.-Btl., SS Mot. Geb-Art.-Btl.§!"
  ENABLE_SS_ART_HVY:0 "Ermöglicht §YSS Armee Artillerieabteilung§!"
- ENABLE_SS_AT:0 "Aktiviert §YSS Panzerabwehr-Unterstützungsbatterie§!\nAktiviert §YSS Panzerabwehr(mot.) Unterstützungsbatterie§!\nAktiviert §YSS Panzerabwehr-Btl."
+ ENABLE_SS_AT:0 "Aktiviert §YSS Panzerabwehr-Unterstützungsbatterie§!\nAktiviert §YSS Panzerabwehr(mot.) Unterstützungsbatterie§!\nAktiviert §YSS Panzerabwehr-Btl.§!"
  ENABLE_SS_AT_HVY:0 "Aktiviert §YSS Schwer Panzerabwehrbatterie§!"
  ENABLE_SS_RCT_ART:0 "Aktiviert §YSS Nebelwerferabteilung§!"
  ENABLE_SS_MOT_RCT_ART:0 "Aktiviert §YSS Mot. Nebelwerferabteilung§!"
@@ -3122,7 +3122,7 @@
  old_equipment_tt:0 "\nEntfernt §Y"
  old_equipment_tt_2:0 "§! aus den folgenden Bataillonen:\n§Y"
  old_equipment_tt_3:0 "§!"
- new_equipment_tt_2:0 ""
+ new_equipment_tt_2:0 "§!"
  new_equipment_tt_3:0 "§!"
 
 radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§! über die Registerkarte §YProduktion§! bei den folgenden Bataillonen:"
@@ -3150,10 +3150,10 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  add_equipment_radio:0 "\nErgänzung einer §YProduktionslinie§! für Funkausrüstung"
 
 
- production_line:0 "§! Produktionslinie"
+ production_line:0 "Produktionslinie"
 
- unlock_tech_TT:0 "Schaltet die Forschung von £tech_mod §Y frei"
- unlock_tech_TT_2:0 "§!\n"
+ unlock_tech_TT:0 "Schaltet die Forschung von £tech_mod §Yfrei§!"
+ unlock_tech_TT_2:0 "\n"
 
  terrain_plains_TT:0   "   §YEbene:§!\n"
  terrain_forest_TT:0   "   §YWald:§!\n"
@@ -3166,7 +3166,7 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  terrain_urban_TT:0    "   §YStadt:§!\n"
  terrain_forts_TT:0    "   §YBefestigung:§!\n"
 
- increase_cost_warning:0 "Dies wird die Kosten der betroffenen Einheiten erhöhen.§!\n"
+ increase_cost_warning:0 "Dies wird die Kosten der betroffenen Einheiten erhöhen.\n"
 
  terrain_attack_TT:0   "      Angriff: [GetTerrainAttackModifierPrefix][?attack|1+%]\n"
  terrain_defence_TT:0  "      Verteidigung: [GetTerrainDefenceModifierPrefix][?defence|1+%]\n"
@@ -3196,7 +3196,7 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  mountaineers_tt:0 "£unit_mountaineers_icon_small Gebirgsjäger: §Y+[?temp]§! (Gesamtbedarf: [?total_mountaineer|Y0]) \n"
  commando_tt:0 "£unit_commando_icon_small Kommando: §Y+[?temp]§! (Gesamtbedarf: [?total_commando|Y0]) \n"
  nkvd_tt:0 "£unit_nkvd_icon_small NKVD: §Y+[?temp]§! (Gesamtbedarf: [?total_nkvd|Y0]) \n"
- special_forces_tt:0 "§YMilitärische Spezialkräft§!§! (§Y+[?temp]§!) \n"
+ special_forces_tt:0 "§YMilitärische Spezialkräft§! (§Y+[?temp]§!) \n"
 
  artillery_tt2:0 "£unit_artillery_brigade_icon_small Artillerie: §Y+[?temp]§! (Gesamtbedarf: [?total_arty|Y0]) \n"
  med_artillery_tt2:0 "£unit_artillery_medium_icon_small Mittlere Artillerie: §Y+[?temp]§! (Gesamtbedarf: [?total_med_arty|Y0]) \n"
@@ -3208,9 +3208,9 @@ radio_new_equipment_tt:0 "\nErmöglicht die Einführung von §YFunkausrüstung§
  anti_air_tech_tt:0 "§CFlugabwehr§! \n"
  div_hq_tt:0 "£unit_HQ_icon_small Alle Divisions-HQs: §Y+[?temp]§! (Gesamtbedarf: [?total_div_hq|Y0]) \n"
  engineer_tt:0 "§YEngineer§! \n"
- combat_engineer_tt:0 "§YKampfpioniere§!§! \n"
+ combat_engineer_tt:0 "§YKampfpioniere§! \n"
  recon_tt:0 "£unit_armored_car_icon_small Leicht gepanzerte Aufklärungsfahrzeuge: §Y+[?temp]§! (Gesamtbedarf: [?total_recon|Y0]) \n"
- logistics_unit_tt:0 "§YLogistikunternehmen§!§! \n"
+ logistics_unit_tt:0 "§YLogistikunternehmen§! \n"
 
  light_spart_div_tt:0 "£unit_light_sp_artillery_brigade_icon_small leichte Artillerie auf Selbstfahrlafette: §Y+[?temp]§!  (Gesamtbedarf: [?total_light_spart|Y0]) \n"
  medium_spart_div_tt:0 "£unit_medium_sp_artillery_brigade_icon_small mittlere Artillerie auf Selbstfahrlafette: §Y+[?temp]§!  (Gesamtbedarf: [?total_medium_spart|Y0]) \n"
