@@ -505,7 +505,7 @@
  upgrade_crypto_strength_2_level_2:0 "§YStufe 2:§!\n£crypto_defense Kryptologielevel: §G+4§!"
  upgrade_crypto_strength_2_level_3:0 "§YStufe 3:§!\n£crypto_defense Kryptologielevel: §G+4§!"
 
- upgrade_underground_contacts:0 "Unterirdische Kontakte"
+ upgrade_underground_contacts:0 "Untergrund Kontakte"
  upgrade_underground_contacts_desc:0 "§LEs gibt viele Diplomaten, Bürokraten und Geschäftsleute, die mit unserer Sache (oder unserem Geld) sympathisieren.§!"
  upgrade_security_department:0 "Geheimdienstliche Informationen"
  upgrade_security_department_tt:0 "\n Kann Spionageabteilungsverbesserung bei §G80%§! Zivile Informationen einsehen"

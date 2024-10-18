@@ -2996,7 +2996,7 @@
  germany.119.a:0 "Um einer dauerhaften Zusammenarbeit willen."
  germany.119.b:0 "Wir werden unseren eigenen Frieden diktieren."
  germany.120.t:0 "[yalta_partner.GetNameDefCap] Verweigert die Teilnahme"
- germany.120.d:0 "Unsere vorgeschlagene Konferenz über die Zukunft Europas ist gescheitert.\n\nDer [yalta_partner.GetLeader] lehnte in unmissverständlichen Worten jede Notwendigkeit einer Planung und Zusammenarbeit im Nachkriegseuropa ab.\n\n\Wir werden uns treffen, wenn ich meine Forderungen an [GER.GetNameDef] am Friedenstisch stelle. Ich werde nicht zulassen, dass kleinkarierte Politik [yalta_partner.GetNameDef] im Wege steht.\" 
+ germany.120.d:0 "Unsere vorgeschlagene Konferenz über die Zukunft Europas ist gescheitert.\n\nDer [yalta_partner.GetLeader] lehnte in unmissverständlichen Worten jede Notwendigkeit einer Planung und Zusammenarbeit im Nachkriegseuropa ab.\n\nWir werden uns treffen, wenn ich meine Forderungen an [GER.GetNameDef] am Friedenstisch stelle. Ich werde nicht zulassen, dass kleinkarierte Politik [yalta_partner.GetNameDef] im Wege steht." 
  germany.120.a:0 "Das ist besorgniserregend."
  germany.121.t:0 "Die Teilung Deutschlands"
  germany.121.d:0 "Wie im Abkommen von Jalta festgelegt, soll Deutschland in zwei getrennte Staaten aufgeteilt werden, die jeweils in den Zuständigkeitsbereich einer der Kriegsparteien fallen.\n\nLassen Sie uns hoffen, dass dies ein Ende des Konflikts in Europa bedeutet."
