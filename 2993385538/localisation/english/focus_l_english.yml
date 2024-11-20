@@ -1172,7 +1172,7 @@
  GER_Battleship_Armament:5 "Order Bismarck-Class Battleships"
  GER_new_battleship_designs:5 "Develop New Battleship Designs"
  GER_new_battleship_designs_desc:5 "Develop the H41 and H42 generation of battleships according to Plan Z's specifications."
- GER_Convoy_Interdiction_Philosophy:5 "Develop Convoy Interdiction Doctrine"
+ GER_Convoy_Interdiction_Philosophy:5 "£tech_mod Develop Convoy Interdiction Doctrine"
  GER_Convoy_Interdiction_Philosophy_desc:5 ""
  GER_new_attack_uboat_designs:5 "New U-boat Designs"
  GER_new_attack_uboat_designs_desc:5 ""
@@ -2442,7 +2442,7 @@
  
  red_army_purged:0 "Red Army Purge"
  red_fleet_purged:0 "Red Fleet Purge"
-
+ 
  officers_purged_effect: "[!officers_purged_click]"
  army_purged_effect: "[!army_purged_click]"
  air_purged_effect: "[!air_purged_click]"
@@ -6021,7 +6021,7 @@ finland.998.t:5 "The Karjala Agreement"
  CAN_mobile_airfields:0 "Mobile Airfields"
  CAN_algoma:0 "Modernise Algoma Steel"
  CAN_windsor:0 "Revitalisation of Windsor Assembly Plant"
- CAN_science_materials:0 "The Science of Materials"
+ CAN_science_materials:0 "£tech_mod The Science of Materials"
  CAN_labrador:0 "Assume responsibility for Labrador"
  CAN_prov_power:0 "Strike down Bennett’s New Deal"
  CAN_prov_power_desc:0 "The Judicial Committee of the Privy Council has ruled the former governments new deal to be unconstitutional because they were not treaties falling within the Dominion Power under section 132 of the Constitutional Act, 1867 or within the residuary clause. The decision of the J.C.P.C. has sparked widespread discontent in English Canadian centralist circles and led to their demanding that appeals to London be abolished."

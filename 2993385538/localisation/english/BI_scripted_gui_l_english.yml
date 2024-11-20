@@ -320,7 +320,7 @@
  navy_strength_TT:0 "[!navy_strength_click]"
 
  hide_sidebar:0 "§YClick§! to minimize the Sidebar."
-
+ 
  party_banned_tt: "While banned a political party receives §Y50%§! less daily support.\n"
 
  party_drift_tooltip: "§Y[?v.GetTokenLocalizedKey] Drift§!\nCurrent Daily Drift: [?total|3+=]\n[!drift_click]\n\nThese values are not final due to scaling and changes in other parties."
@@ -467,7 +467,7 @@
  NEXT_RESEARCH_STATE_TOOLTIP_DELAYED:0 "Because of its suitable location §Y[?BI_research_centre_list^0.GetName]§! will be chosen as the state for our next £tech_mod §YResearch Centre§!, unless stated otherwise in the effect. [GetPossibleResearchCentreStates]"
  NEXT_RESEARCH_STATE_POSSIBLE_STATES:0 "Other potential states include §Y[?BI_research_centre_list^1.GetName]§! and §Y[?BI_research_centre_list^2.GetName]§!."
  RESEARCH_IDEA_GROUPS_TOOLTIP:0 "§YNational Spirits§!, §YLaws§! and §YMinisters§! which affect our £tech_mod research speed in a specific field will be listed here.\nWhen our country is part of a §YResearch Sharing§! group the bonuses will be listed here as well."
- 
+  
  RESEARCH_SPEED: "Research speed:"
  LIMITED_RESEARCH_BONUS: "Limited bonuses:"
  allowed_research_TT:0 "[This.research_infantry][This.research_support][This.research_artillery][This.research_tank_techs][This.research_armor][This.research_air_techs_army][This.research_air_techs_navy][This.research_air_techs][This.research_naval][This.research_naval_techs][This.research_ww1_doctrine][This.research_doctrine][This.research_naval_doctrine][This.research_air_doctrine][This.research_electronics][This.research_industry][This.research_raw_materials][This.research_nuclear][This.research_special_forces]"
@@ -1570,7 +1570,7 @@
  AI_DEF_MAPICON_DONT_DEFEND_AI_AREA: "Dont Defend [GetAIMapIconButtonText]"
  AI_DEF_MAPICON_FORCE_DEFEND_AI_AREA: "Force Defend [GetAIMapIconButtonText]"
  AI_DEF_MAPICON_DONT_FORCE_DEFEND_AI_AREA: "Dont Force Defend [GetAIMapIconButtonText]"
-
+ 
  AI_DEF_LOCK_SETTINGS_TT:0 "§YClick§! to prevent the AI from changing the currently displayed settings"
  AI_DEF_IOPEN_TOOLTIP:0 "§YClick§! to adjust which countries should defend or be defended by [From.GetNameDef]\n\n[!defence_settings_button_click_enabled]"
  
@@ -2622,7 +2622,7 @@ RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubb
  hydro_power_tooltip: "§Y[?token:hydro_power.GetTokenLocalizedKey]§!\n[!hydro_power_click]"
  shipyard_capital_building_tooltip: "§Y[?token:shipyard_capital_building.GetTokenLocalizedKey]§!\n[!shipyard_capital_building_click]"
  
- building_unbuildable_tooltip: "\n£trigger_no This building is §Runbuildable.§!"
+ building_unbuildable_tooltip: "\n£trigger_no This building is §Runbuildable.§!" 
  building_requirement_tooltip: "§RRequires Technology ([?tech.GetTokenLocalizedKey])§!"
  building_cost_tooltip: "\nConstruction cost: £civ_factory_output [?global.building_cost@var:building|Y0]" # (Days: [?days|0])
  building_conversion_tooltip: "Conversion cost: £civ_factory_output [?conversion|Y0]"

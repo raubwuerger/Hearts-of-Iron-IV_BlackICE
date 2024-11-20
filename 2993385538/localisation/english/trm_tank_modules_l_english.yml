@@ -232,7 +232,7 @@
  EQ_MOD_CAT_trm_weapon_c_fra_75_TITLE:0 "75mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_fra_75_long_TITLE:0 "75mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_fra_90_TITLE:0 "90mm Cannon"
-
+ 
  EQ_MOD_CAT_trm_weapon_mg_cze_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_cze_x2_TITLE:0 "2x Machinegun"
  EQ_MOD_CAT_trm_weapon_c_cze_37_TITLE:0 "37mm Cannon"
@@ -446,7 +446,7 @@
  EQ_MOD_CAT_trm_weapon_hull_mg_jap_TITLE:0 "Hull Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_jap_heavy_TITLE:0 "Hull Heavy Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_c_jap_37_TITLE:0 "37mm Hull Cannon"
-
+ 
  EQ_MOD_CAT_trm_weapon_coax_mg_cze_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_cze_TITLE:0 "Hull Machinegun"
 
@@ -1157,7 +1157,7 @@
 
  trm_weapon_aa_ac_jap_20_type2:0 "20mm/70 Type 2 AA"
  trm_weapon_aa_ac_jap_20_type2_x2:0 "20mm/70 Type 2 AA x2"
-
+ 
  
  trm_weapon_mg_cze_zb26:0 "7.92mm ZB-26"
  trm_weapon_mg_cze_zb26_x2:0 "7.92mm ZB-26 x2"
@@ -1347,8 +1347,8 @@
  trm_ammo_c_jap_75_type5_semi:0 "75mm/56 Type 5 II APCR"
 
  trm_ammo_c_jap_88_type99:0 "88mm/45 Type 99 APCR"
-
-
+ 
+ 
  trm_ammo_c_hun_75_41m:0 "75mm 41M HEAT"
  trm_ammo_c_hun_105_40m:0 "105mm 40/43M HEAT"
 
@@ -1395,7 +1395,7 @@
  
  trm_weapon_coax_mg_jap_type91:0 "6.5mm Type 91"
  trm_weapon_coax_mg_jap_type97:0 "7.7mm Type 97"
-
+ 
  
  trm_weapon_coax_mg_cze_zb26:0 "7.92mm ZB-26"
  trm_weapon_coax_mg_cze_zb53:0 "7.92mm ZB-53"
@@ -1472,7 +1472,7 @@
  trm_weapon_hull_c_jap_37_type94:0 "37mm/37 Type 94"
  trm_weapon_hull_c_jap_37_type100:0 "37mm/46 Type 100"
  trm_weapon_hull_c_jap_37_type1:0 "37mm/50 Type 1"
-
+ 
  
  trm_weapon_hull_mg_cze_zb26:0 "7.92mm ZB-26"
  trm_weapon_hull_mg_cze_zb53:0 "7.92mm ZB-53"
@@ -3302,7 +3302,7 @@
 
  EQ_MOD_CAT_trm_cavalry_tank_pol_10tp_turret_TITLE:0 "10TP Turret"
  EQ_MOD_CAT_trm_cavalry_tank_pol_14tp_turret_TITLE:0 "14TP Turret"
-
+ 
  EQ_MOD_CAT_trm_amph_tank_pol_pzinz130_turret_TITLE:0 "PZInz.130 Turret"
 
  trm_tankette_tank_pol_tk_casemate_1:0 "TK Casemate"

@@ -36,11 +36,11 @@
    MAPMODE_FRONT_STATE_MAPMODE: "Front States"
    MAPMODE_FRONT_STATE_MAPMODE_NAME: "Front States"
    front_state_mapmode_tooltip: "§RRed§! = Front State\n§bBlack§! = 100 pixel to front\n§GGreen§! = 150 pixel to front"
-   
+  
    MAPMODE_AI_INVASION_MAPMODE: "AI Invasion Debug"
    MAPMODE_AI_INVASION_MAPMODE_NAME: "AI Invasion Debug"
    ai_invasion_mapmode_tooltip: "AI Area Priority Weight: [?ROOT.ai_area_priority@var:FROM.ai_invasion_area]\n\nScore: [?ROOT.ai_invasion_area_score@var:FROM.ai_invasion_area] | Distance: [?ROOT.ai_invasion_area_distance@var:FROM.ai_invasion_area]"
-    
+   
    MAPMODE_AI_BUILDING_SLOT_SCORE: "AI Construction Debug"
    MAPMODE_AI_BUILDING_SLOT_SCORE_NAME: "AI Construction Debug"
    ai_building_slot_score_tooltip: "[GetAIMapmodeTooltip]"

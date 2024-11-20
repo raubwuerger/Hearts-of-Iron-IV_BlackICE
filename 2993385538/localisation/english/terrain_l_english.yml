@@ -35,7 +35,7 @@
  marsh_desc:0 ""
  desert_desc:0 ""
  UNIT_TERRAIN_MODIFIER:0 "Unit effects:"
- MOVEMENT_COST:0 "£movement_texticon  Movement Cost:     §Yx$VALUE|1$§!"
+ MOVEMENT_COST:0 "£movement_texticon  Movement Cost: §Yx$VALUE|1$§!"
  TERRAIN_COMBAT_WIDTH_COMB:0 "£combat_width_texticon  Combat width: $VALUE|0Y$ (Additional attacks: $ADD|=0Y$)"
  TERRAIN_COMBAT_WIDTH:0 "£combat_width_texticon  Combat width: $VALUE|0Y$"
  TERRAIN_ADDITIONAL_WIDTH:0 "£combat_width_texticon  Combat width per additional direction: $VALUE|=0Y$"

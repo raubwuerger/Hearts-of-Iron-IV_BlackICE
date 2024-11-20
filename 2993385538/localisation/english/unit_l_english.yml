@@ -1861,6 +1861,6 @@ soviet_captured_armor_desc:0 "Captured/ Lend Lease armor can be used to form for
  
  category_all_light_anti_air:0 "All Light Anti Air"
  category_all_heavy_anti_air:0 "All Heavy Anti Air"
-
+ 
  AIR_WING_EXPERIENCE_VALUE_MODIFIER: "\n  - Experience: $VALUE|%-=2$"
 #EOF#
