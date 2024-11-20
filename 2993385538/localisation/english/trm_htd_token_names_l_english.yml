@@ -82,8 +82,9 @@
  trm_light_tank_chassis_ger_vk1602_leopard_1_a:0 "PzKpfw Leopard"
  trm_medium_tank_chassis_ger_panzer3_1_a:0 "PzKpfw III A"
  trm_medium_tank_chassis_ger_panzer3_2_a:0 "PzKpfw III E"
+ trm_medium_tank_assault_gun_chassis_ger_panzer3_2_a:0 "StuG III"
  trm_medium_tank_chassis_ger_panzer3_3_a:0 "PzKpfw III F"
- trm_medium_tank_assault_gun_chassis_ger_panzer3_3_a:0 "StuG III"
+ trm_medium_tank_assault_gun_chassis_ger_panzer3_3_a:0 "StuG III E"
  trm_medium_tank_amphibious_chassis_ger_panzer3_3_a:0 "Tauchpanzer III F"
  trm_medium_tank_chassis_ger_panzer3_4_a:0 "PzKpfw III J"
  trm_medium_tank_chassis_ger_panzer3_4_b:0 "PzKpfw III L"
@@ -386,6 +387,14 @@
  trm_medium_tank_chassis_usa_grizzly_1_b:0 "Grizzly Firefly"
 
  ##AST
- HTD_AST_trm_medium_tank_chassis_ast_ac1_1_a:0 "AC1 Sentinel"
- HTD_AST_trm_medium_tank_chassis_ast_ac3_1_a:0 "AC3 Thunderbolt"
- HTD_AST_trm_medium_tank_chassis_ast_ac4_1_a:0 "AC4 Woomera"
+ trm_medium_tank_chassis_ast_ac1_1_a:0 "AC1 Sentinel"
+ trm_medium_tank_chassis_ast_ac3_1_a:0 "AC3 Thunderbolt"
+ trm_medium_tank_chassis_ast_ac4_1_a:0 "AC4 Woomera"
+ 
+ ##CZE
+ trm_tankette_tank_chassis_cze_t33_1_a:0 "Tančík vz.33"
+ trm_tankette_tank_chassis_cze_ahiv_1_a:0 "AH-IV"
+ trm_cavalry_tank_chassis_cze_lt34_1_a:0 "LT vz.34"
+ trm_cavalry_tank_chassis_cze_lt35_1_a:0 "LT vz.35"
+ trm_cavalry_tank_chassis_cze_lt38_1_a:0 "LT vz.38"
+ trm_medium_tank_chassis_cze_st39_1_a:0 "ST vz.39"

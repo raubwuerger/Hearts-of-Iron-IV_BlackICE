@@ -2259,7 +2259,7 @@
  import_cost_return:0 "£civ_factory  Import Cost Return"
  max_import_cost_return:0 "£civ_factory  Max Import Cost Return"
  
- trade_sublaw_cost_factor:0 "§YTrade Sublaws§! cost factor"
+ trade_sublaw_cost_factor:0 "£political_power_texticon  Trade Sub Policy cost factor"
  
  local_food_use:0 "£food_resources_texticon  Local Food Need"
  
@@ -2312,8 +2312,8 @@
  MODIFIER_MIO_FUNDS_GAIN: "Funds Gain"
  MODIFIER_MIO_POLICY_COST_FACTOR: "Policy Cost"
  MODIFIER_MIO_POLICY_COOLDOWN_FACTOR: "Policy Cooldown"
- MODIFIER_CIC_CONSTRUCTION_BOOST: "Base construction line speed boost"
- MODIFIER_CIC_CONSTRUCTION_BOOST_FACTOR: "Construction line speed boost multiplier"
+ MODIFIER_CIC_CONSTRUCTION_BOOST: "£construction_speed_texticon  Base construction line speed boost"
+ MODIFIER_CIC_CONSTRUCTION_BOOST_FACTOR: "£construction_speed_texticon  Market construction boost multiplier"
  MODIFIER_LAND_BUNKER_EFFECTIVENESS_FACTOR: "$bunker$ effectiveness"
  MODIFIER_COASTAL_BUNKER_EFFECTIVENESS_FACTOR: "$coastal_bunker$ effectiveness"
 

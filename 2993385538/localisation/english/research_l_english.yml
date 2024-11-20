@@ -1069,6 +1069,10 @@
  armor_tech_ammo_research:0 "£tech_mod Tank Ammunition Tech Research Speed"
  armor_tech_special_research:0 "£tech_mod Tank Addon Tech Research Speed"
  
+ macchi_air:0 "Macchi Aircraft\n"
+ fiat_air:0 "Fiat Aircraft\n"
+ cant_air:0 "CANT Aircraft!\n"
+ 
  macchi_air_tt:0 "§gMacchi Aircraft§!\n"
  reggiane_air_tt:0 "§gReggiane Aircraft§!\n"
  fiat_air_tt:0 "§gFiat Aircraft§!\n"

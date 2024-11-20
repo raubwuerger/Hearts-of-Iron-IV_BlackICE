@@ -337,9 +337,12 @@
  trm_medium_tank_cs_equipment_ger_panzer3_5:0 "Panzerkampfwagen III Ausf.N"
  trm_medium_tank_cs_equipment_ger_panzer3_5_short:0 "PzKpfw III N"
 
- trm_medium_tank_assault_gun_chassis_ger_panzer3_3:0 "PzKpfw III Ausf.F Fahrgestell (AG)"
- trm_medium_tank_assault_gun_equipment_ger_panzer3_3:0 "Sturmgeschütz III"
- trm_medium_tank_assault_gun_equipment_ger_panzer3_3_short:0 "StuG III"
+ trm_medium_tank_assault_gun_chassis_ger_panzer3_2:0 "PzKpfw III Ausf.E Chassis (AG)"
+ trm_medium_tank_assault_gun_equipment_ger_panzer3_2:0 "Sturmgeschütz III"
+ trm_medium_tank_assault_gun_equipment_ger_panzer3_2_short:0 "StuG III"
+ trm_medium_tank_assault_gun_chassis_ger_panzer3_3:0 "PzKpfw III Ausf.F Chassis (AG)"
+ trm_medium_tank_assault_gun_equipment_ger_panzer3_3:0 "Sturmgeschütz III Ausf.E"
+ trm_medium_tank_assault_gun_equipment_ger_panzer3_3_short:0 "StuG III E"
  trm_medium_tank_assault_gun_chassis_ger_panzer3_4:0 "PzKpfw III Ausf.J Fahrgestell (AG)"
  trm_medium_tank_assault_gun_equipment_ger_panzer3_4:0 "Sturmhaubitze 42 Ausf.F"
  trm_medium_tank_assault_gun_equipment_ger_panzer3_4_short:0 "StuH 42 F"
@@ -936,6 +939,11 @@
  trm_cavalry_tank_destroyer_chassis_usa_m18_1:0 "M18 Fahrgestell (TD)"
  trm_cavalry_tank_destroyer_equipment_usa_m18_1:0 "M18 Geschütz-Motorwagen"
  trm_cavalry_tank_destroyer_equipment_usa_m18_1_short:0 "M18 Super Hellcat"
+ 
+ trm_light_tank_chassis_usa_m1917_1:0 "M1917 Fahrgestell"
+ trm_light_tank_equipment_usa_m1917_1:0 "M1917 Leichter Panzer"
+ trm_light_tank_equipment_usa_m1917_1_short:0 "M1917 Leicht"
+ 
 
  trm_light_tank_chassis_usa_m2_1:0 "M2 Fahrgestell"
  trm_light_tank_equipment_usa_m2_1:0 "M2 Leichter Panzer"
@@ -1647,6 +1655,9 @@
  trm_tankette_tank_chassis_cze_t33_1:0 "Tančík vz.33 Fahrgestell"
  trm_tankette_tank_equipment_cze_t33_1:0 "Tančík vzor 33"
  trm_tankette_tank_equipment_cze_t33_1_short:0 "Tančík vz.33"
+ trm_tankette_tank_chassis_cze_ahiv_1:0 "AH-IV Fahrgestell"
+ trm_tankette_tank_equipment_cze_ahiv_1:0 "Tančík vzor 36"
+ trm_tankette_tank_equipment_cze_ahiv_1_short:0 "Tančík vz.36"
 
  trm_cavalry_tank_chassis_cze_lt34_1:0 "LT vz.34 Fahrgestell"
  trm_cavalry_tank_equipment_cze_lt34_1:0 "Lehký Panzer vzor 34"
@@ -1781,6 +1792,10 @@
  trm_cavalry_tank_chassis_pol_14tp_1:0 "14TP Fahrgestell"
  trm_cavalry_tank_equipment_pol_14tp_1:0 "14TP Cruiser Tank"
  trm_cavalry_tank_equipment_pol_14tp_1_short:0 "14TP"
+ 
+ trm_amph_tank_chassis_pol_pzinz130_1:0 "PZInz.130 Fahrgestell"
+ trm_amph_tank_equipment_pol_pzinz130_1:0 "PZInz.130 Schwimmpanzer"
+ trm_amph_tank_equipment_pol_pzinz130_1_short:0 "PZInz.130"
  
  ## NEW ZEALAND
  

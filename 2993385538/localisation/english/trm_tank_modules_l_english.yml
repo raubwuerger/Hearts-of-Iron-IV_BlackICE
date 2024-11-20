@@ -168,6 +168,7 @@
  EQ_MOD_CAT_trm_weapon_mg_usa_heavy_TITLE:0 "Heavy Machinegun"
  EQ_MOD_CAT_trm_weapon_c_usa_37_TITLE:0 "37mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_usa_37_light_TITLE:0 "37mm Cannon"
+ EQ_MOD_CAT_trm_weapon_c_usa_37_old_TITLE:0 "37mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_usa_57_TITLE:0 "57mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_usa_75_cs_TITLE:0 "75mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_usa_75_old_TITLE:0 "75mm Cannon"
@@ -1076,6 +1077,7 @@
 
  trm_weapon_mg_usa_m2:0 "12.7mm Browning M2"
 
+ trm_weapon_c_usa_37_m1916:0 "37mm/21 M1916"
  trm_weapon_c_usa_37_aac:0 "37mm/44 Automatic"
  trm_weapon_c_usa_37_m5:0 "37mm/53 M5"
  trm_weapon_c_usa_37_m6:0 "37mm/57 M6"
@@ -1198,6 +1200,7 @@
  trm_weapon_aa_ac_hun_40_bofors:0 "40mm 36M AA"
 
 
+ trm_weapon_mg_pol_wz25:0 "7.92mm Ckm wz.25"
  trm_weapon_mg_pol_wz30:0 "7.92mm Ckm wz.30"
 
  trm_weapon_c_pol_20_wz38:0 "20mm Nkm wz.38"
@@ -1408,6 +1411,7 @@
  trm_weapon_coax_mg_hun_3440m:0 "8mm 34/40M"
 
 
+ trm_weapon_coax_mg_pol_wz25:0 "7.92mm Ckm wz.25"
  trm_weapon_coax_mg_pol_wz30:0 "7.92mm Ckm wz.30"
 
 
@@ -1484,6 +1488,7 @@
  trm_weapon_hull_mg_hun_3440m:0 "8mm 34/40M"
 
 
+ trm_weapon_hull_mg_pol_wz25:0 "7.92mm Ckm wz.25"
  trm_weapon_hull_mg_pol_wz30:0 "7.92mm Ckm wz.30"
 
 
@@ -2712,6 +2717,9 @@
  trm_cavalry_tank_usa_m18_turret_open_2:0 "M18 90mm Open Turret (Powered)"
  trm_cavalry_tank_usa_m18_turret_open_2_desc:0 ""
 
+ EQ_MOD_CAT_trm_light_tank_usa_m1917_turret_TITLE:0 "M1917 Turret"
+ EQ_MOD_CAT_trm_light_tank_usa_m1917_turret_gun_TITLE:0 "M1917 Turret"
+
  EQ_MOD_CAT_trm_light_tank_usa_m2_turret_TITLE:0 "M2 Turret"
  EQ_MOD_CAT_trm_light_tank_usa_m2_turret_twin_TITLE:0 "M2 Turrets"
  EQ_MOD_CAT_trm_light_tank_usa_m2_turret_gun_TITLE:0 "M2 Turret"
@@ -2725,6 +2733,9 @@
  EQ_MOD_CAT_trm_light_tank_usa_m24_turret_TITLE:0 "M24 Turret"
  EQ_MOD_CAT_trm_light_tank_usa_m24_aa_open_TITLE:0 "M24 Open AA Mount"
  EQ_MOD_CAT_trm_light_tank_usa_m24_superstructure_open_TITLE:0 "M24 Open AA Mount"
+
+ trm_light_tank_usa_m1917_turret_1:0 "M1917 MG Turret (Manual)"
+ trm_light_tank_usa_m1917_turret_2:0 "M1917 Turret (Manual)"
 
  trm_light_tank_usa_m2_turret_1:0 "M2 MG Turret (Manual)"
  trm_light_tank_usa_m2_turret_1_desc:0 ""
@@ -3210,6 +3221,7 @@
  # Turret/Superstructure CZE
  
  EQ_MOD_CAT_trm_tankette_tank_cze_t33_casemate_TITLE:0 "Tancik vz.33 Casemate"
+ EQ_MOD_CAT_trm_tankette_tank_cze_ahiv_turret_TITLE:0 "AH-IV Turret"
  
  EQ_MOD_CAT_trm_cavalry_tank_cze_lt34_turret_TITLE:0 "LT vz.34 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_cze_lt35_turret_TITLE:0 "LT vz.35 Turret"
@@ -3218,6 +3230,7 @@
  EQ_MOD_CAT_trm_medium_tank_cze_st39_turret_TITLE:0 "ST vz.39 Turret"
  
  trm_tankette_tank_cze_t33_casemate_1:0 "Tancik vz.33 Casemate"
+ trm_tankette_tank_cze_ahiv_turret_1:0 "AH-IV Turret"
  
  trm_cavalry_tank_cze_lt34_turret_1:0 "LT vz.34 Turret (Manual)"
  trm_cavalry_tank_cze_lt35_turret_1:0 "LT vz.35 Turret (Manual)"
@@ -3290,6 +3303,8 @@
  EQ_MOD_CAT_trm_cavalry_tank_pol_10tp_turret_TITLE:0 "10TP Turret"
  EQ_MOD_CAT_trm_cavalry_tank_pol_14tp_turret_TITLE:0 "14TP Turret"
 
+ EQ_MOD_CAT_trm_amph_tank_pol_pzinz130_turret_TITLE:0 "PZInz.130 Turret"
+
  trm_tankette_tank_pol_tk_casemate_1:0 "TK Casemate"
 
  trm_tankette_tank_pol_4tp_turret_1:0 "4TP Turret (Manual)"
@@ -3300,6 +3315,8 @@
 
  trm_cavalry_tank_pol_10tp_turret_1:0 "10TP Turret (Manual)"
  trm_cavalry_tank_pol_14tp_turret_1:0 "14TP Turret (Manual)"
+ 
+ trm_amph_tank_pol_pzinz130_turret_1:0 "PZInz.130 Turret (Manual)"
 
  # Turret/Superstructure NZL
  

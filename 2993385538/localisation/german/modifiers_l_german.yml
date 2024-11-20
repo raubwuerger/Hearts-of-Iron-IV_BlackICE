@@ -2259,7 +2259,7 @@ state_resource_engine_production:1 "Motorpenroduktionskapazität"
  import_cost_return:0 "£civ_factory Importkostenrückgabe"
  max_import_cost_return:0 "£civ_factory Max. Importkostenrendite"
  
- trade_sublaw_cost_factor:0 "§YHandelsuntergesetze§! Kostenfaktor"
+ trade_sublaw_cost_factor:0 "£political_power_texticon Kostenfaktor einer Teilpolitik"
  
  local_food_use:0 "£food_resources_texticon Lokaler Lebensmittelbedarf"
  

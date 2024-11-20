@@ -65,13 +65,13 @@
  air_base:0 "Air Base"
  air_base_plural:0 "Air Bases"
  air_base_desc:0 "This building provides the state with deployment for your air forces.$air_base_effect$"
- air_base_effect: "\n\nMax Level: §Y15§!\nBuilding Health: §Y3§!\nDamage from Bombing: §G-50%§!\n\nAirbase Capacity: §G100§!"
+ air_base_effect: "\n\nMax Level: §Y15§!\nBuilding Health: §Y3§!\nDamage from Bombing: §G-70%§!\n\nAirbase Capacity: §G100§!"
  
  
  naval_base:0 "Naval Base"
  naval_base_plural:0 "Naval Bases"
  naval_base_desc:1 "Extends the range of your fleet and provides repair services for it. Allows overseas supply and export of resources. Higher levels increases the supply throughput.$naval_base_effect$"
- naval_base_effect: "\n\nMax Level: §Y10§!\nBuilding Health: §Y4§!"
+ naval_base_effect: "\n\nMax Level: §Y10§!\nBuilding Health: §Y4§!\nDamage from Bombing: §G-50%§!"
  
  bunker:0 "Land Fort"
  bunker_plural:0 "Land Forts"

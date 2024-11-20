@@ -1073,7 +1073,7 @@
  MAIN_MENU_STEAM_TEST_LINK:0 "§Chttps://steamcommunity.com/sharedfiles/filedetails/?id=1851181613§! "
  MAIN_MENU_DISCORD_LINK:0 "§Chttps://discord.gg/kYYbrAA§!"
  MAIN_MENU_GUIDE_LINK:0 "§Chttps://steamcommunity.com/sharedfiles/filedetails/?id=2366487639§!"
- MAIN_MENU_COMING_SOON_TT: "§CComing soon!§!"
+ MAIN_MENU_COMING_SOON_TT: ""
  remove_law_on_peace:0 "\nThis law will be §Yremoved§! when at peace\n" 				
  requires_10_ws_at_peace:0 "\nRequires §R10%§! §YWar Support§! while at peace\n"
  requires_15_ws_at_peace:0 "\nRequires §R15%§! §YWar Support§! while at peace\n"
@@ -2675,6 +2675,22 @@ RUBBER_OUTPUT_TEXT_TT: "This is how much §Ototal§! £resources_strip|3 §YRubb
  CV_elbe: "Elbe Class"
  CV_europa: "Europa Class"
 
+ header_ai_forced_d_day: "AI: Forced D-Day"
+ ai_forced_d_day_enable: "Enable Scripted D-Day"
+ ai_forced_d_day_strength: "D-Day Strength"
+ ai_forced_d_day_strength_low: "Low"
+ ai_forced_d_day_strength_med: "Normal"
+ ai_forced_d_day_strength_high: "High"
+ ai_forced_d_day_strength_extreme: "Extreme"
+ ai_forced_d_day_date: "D-Day Date"
+ ai_forced_d_day_date_1942_1: "January 1942"
+ ai_forced_d_day_date_1942_6: "June 1942"
+ ai_forced_d_day_date_1943_1: "January 1943"
+ ai_forced_d_day_date_1943_6: "June 1943"
+ ai_forced_d_day_date_1944_1: "January 1944"
+ ai_forced_d_day_date_1944_6: "June 1944"
+ ai_forced_d_day_date_1945_1: "January 1945"
+ 
 
 
 

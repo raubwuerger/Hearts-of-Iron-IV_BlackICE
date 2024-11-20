@@ -4,13 +4,12 @@
  ### IMPORTANT ### 
  #-Also adjust GetVersion in common/scripted_localisation/
  BICE_mod_type: "§YMain Version§!" #either Main Version or Test Version
- BICE_version:0 "v8.1.1"
+ BICE_version:0 "v8.1.6"
  BICE_checksum:0 "75fa" #don't forget to remove the git stuff before uploading
  #---------------------------------
  
 
- BICE_STARTUP_DESC:0 "Updated for compatibility with HOI IV v1.13.6 and 'Arms Against Tyranny' DLC" 
- BICE_STARTUP_GENERAL_DESC:0 ""
+ BICE_STARTUP_DESC:0 "Updated for compatibility with HOI IV v1.14.10 and 'Arms Against Tyranny' DLC" BICE_STARTUP_GENERAL_DESC:0 ""
  
  BICE_checksum_and_desc:0 "Click to see correct checksum" 
  BICE_checksum_desc:0 "Checksum should be:"
@@ -27,7 +26,7 @@
  BICE_STARTUP_NAVY_UPDATE_DESC:0 " - Reworked land leader traits \n - Changes to the resource stockpile system and UI"
  #Politics
  BICE_STARTUP_FOCUS_UPDATE_TITLE:0 "Known Issues for this Version"
- BICE_STARTUP_FOCUS_UPDATE_DESC:0 "-Minors do not have tank trees (yet)\n"
+ BICE_STARTUP_FOCUS_UPDATE_DESC:0 "-Czech and Generic minor armour trees are not included (yet)\n"
 
  #NATIONAL FOCUS 
  #BICE_STARTUP_FOCUS_UPDATE_DESC:0 "We have fixed several issues and tweaked some Nation Focusses for TUR, ENG, RAJ and HUN. We gave the generic NF some better options for human-control on micro-nations. We have reduced the continous air production focus bonuses."
@@ -46,7 +45,7 @@
  
  #FUTURE
  BICE_STARTUP_FUTURE_UPDATE_TITLE:0 "Next Features being worked on:"
- BICE_STARTUP_FUTURE_UPDATE_DESC:0 "\n Tank trees for Minors \n Politics Rework \n Aircraft Designer \n Commonwealth Rework \n Industry Rework \n China Rework \n Italian Armistice Rework \n Improved HSD (including DD/SS) \n 3d Models for Land, Tank & Naval Units \n Performance & AI Improvements"
+ BICE_STARTUP_FUTURE_UPDATE_DESC:0 "\n Generic Tank tree for Minors \n Politics Rework \n Aircraft Designer \n Commonwealth Rework \n China Rework \n Italian Armistice Rework \n Improved HSD (including DD/SS) \n Military-Industrial Organizations \n Performance & AI Improvements"
  #### END STARTUP MENU ####
  
  BI_P_DELETE_UNITS_TT:0 "Deletes the Units of all selected countries."

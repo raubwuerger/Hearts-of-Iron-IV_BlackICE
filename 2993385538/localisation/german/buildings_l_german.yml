@@ -65,13 +65,13 @@
  air_base:0 "Luftwaffenstützpunkt"
  air_base_plural:0 "Luftwaffenstützpunkte"
  air_base_desc:0 "Dieses Gebäude bietet dem Staat Stationierungsmöglichkeiten für Ihre Luftstreitkräfte.$air_base_effect$"
- air_base_effect: "\n\nMax. Stufe: §Y15§!\nGebäudezustand: §Y3§!\nSchaden durch Bombenangriffe: §G-50%§!\n\nLuftstützpunktkapazität: §G100§!"
+ air_base_effect: "\n\nMax. Stufe: §Y15§!\nGebäudezustand: §Y3§!\nSchaden durch Bombenangriffe: §G-70%§!\n\nLuftstützpunktkapazität: §G100§!"
  
  
  naval_base:0 "Marinestützpunkt"
  naval_base_plural:0 "Marinestützpunkte"
  naval_base_desc:1 "Erweitert die Reichweite Ihrer Flotte und bietet Reparaturdienste dafür. Ermöglicht die Lieferung und den Export von Ressourcen nach Übersee. Höhere Stufen erhöhen den Versorgungsdurchsatz.$naval_base_effect$"
- naval_base_effect: "\n\nMax. Stufe: §Y10§!\nGebäudegesundheit: §Y4§!"
+ naval_base_effect: "\n\nMax. Stufe: §Y10§!\nGebäudegesundheit: §Y4§!\nSchaden durch Bombenangriffe: §G-50%§!"
  
  bunker:0 "Landfestung"
  bunker_plural:0 "Landfestungen"

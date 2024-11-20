@@ -4,12 +4,12 @@
 ### IMPORTANT ### 
 #-Also adjust GetVersion in common/scripted_localisation/ 
  BICE_mod_type: "§YHauptversion§!"
- BICE_version:0 "v8.1.1"
+ BICE_version:0 "v8.1.6"
  BICE_checksum:0 "75fa"
 #--------------------------------- 
 
 
- BICE_STARTUP_DESC:0 "Aktualisiert für Kompatibilität mit HOI IV v1.13.6 und dem DLC 'Arms Against Tyranny'."
+ BICE_STARTUP_DESC:0 "Aktualisiert für die Kompatibilität mit HOI IV v1.14.10 und 'Arms Against Tyranny' DLC"
  BICE_STARTUP_GENERAL_DESC:0 ""
 
  BICE_checksum_and_desc:0 "Klicken um die korrekte Prüfsumme anzuzeigen"
@@ -21,13 +21,13 @@
  #AIR 
  BICE_STARTUP_AIR_UPDATE_TITLE:0 "Luftwechsel mit 1.12"
  BICE_STARTUP_AIR_UPDATE_DESC:0 "Mit 1.12 Airwings gibt es jetzt feste Größen von 50/25 Flugzeugen für Landgestützte Staffeln und 5 für Trägerstaffeln. Ein Flugzeugkonstrukteur ist geplant, aber vorerst bleiben Flugzeuge einzigartige Technologien."
- #Former_version_text:0 "Flugzeuge und Luftkämpfe wurden umfassend überarbeitet. Die Daten für jedes Flugzeug wurden überprüft und auf der Grundlage gemeinsamer Formeln für Feuerkraft, Verteidigung, Agilität und Kosten angepasst. Die Reichweiten-/Nutzlastdaten wurden basierend auf typischen Reichweiten bei bestimmten Lasten angepasst. Die Luftkampfwerte wurden überarbeitet, um zu höheren Einsatz- und Kampfverlusten zu führen. Air Tech Trees wurden überprüft, in einigen Fällen neu organisiert und aufgeräumt. Die folgenden neuen Flugzeugtypen wurden hinzugefügt; Leichter Jäger, Marine-Mehrzweckflugzeug, Marine-Abfangjäger, Träger-Mehrzweckflugzeug, Nachtjäger, Schwerer Marinebomber, Marinebomber (gelenkte Bomben). In Ländern ohne Transportflugzeugmodelle wurden Transportflugzeugmodelle hinzugefügt."
+ #Former_version_text:0 "Flugzeuge und Luftkämpfe wurden umfassend überarbeitet. Die Daten für jedes Flugzeug wurden überprüft und auf der Grundlage gemeinsamer Formeln für Feuerkraft, Verteidigung, Agilität und Kosten angepasst. Die Reichweiten-/Nutzlastdaten wurden basierend auf typischen Reichweiten bei bestimmten Lasten angepasst. Die Luftkampfwerte wurden überarbeitet, um zu höheren Einsatz- und Kampfverlusten zu führen. Air Tech Trees wurden überprüft, in einigen Fällen neu organisiert und aufgeräumt. Die folgenden neuen Flugzeugtypen wurden hinzugefügt; Leichter Jäger, Marine-Mehrzweckflugzeug, Marine-Abfangjäger, Träger-Mehrzweckflugzeug, Nachtjäger, Schwerer Marinebomber, Marinebomber (Lenkbomben). In Ländern ohne Transportflugzeugmodelle wurden Transportflugzeugmodelle hinzugefügt."
  #NAVAL 
  BICE_STARTUP_NAVY_UPDATE_TITLE:0 "Andere Änderungen"
  BICE_STARTUP_NAVY_UPDATE_DESC:0 " - Überarbeitete Eigenschaften von Landanführern. \n - Änderungen am Ressourcenvorratsystem und an der Benutzeroberfläche"
  #Politics 
  BICE_STARTUP_FOCUS_UPDATE_TITLE:0 "Bekannte Probleme für diese Version"
- BICE_STARTUP_FOCUS_UPDATE_DESC:0 "-Kleine Nationen haben (noch) keine Panzerforschungsbäume\n"
+ BICE_STARTUP_FOCUS_UPDATE_DESC:0 "-Tschechische und generische kleinere Rüstungsbäume sind (noch) nicht enthalten\n"
 
  #NATIONAL FOCUS 
  #BICE_STARTUP_FOCUS_UPDATE_DESC:0 "Wir haben mehrere Probleme behoben und einige Nationenschwerpunkte für TUR, ENG, RAJ und HUN optimiert. Wir haben der generischen NF einige bessere Optionen für die menschliche Kontrolle über Mikronationen gegeben. Wir haben die Fokusboni für die kontinuierliche Luftproduktion reduziert."
@@ -46,7 +46,7 @@
 
  #FUTURE 
  BICE_STARTUP_FUTURE_UPDATE_TITLE:0 "Nächste Funktionen, an denen gearbeitet wird:"
- BICE_STARTUP_FUTURE_UPDATE_DESC:0 "\n Panzerbäume für kleinere Nationen \n Politik-Überarbeitung \n Flugzeugdesigner \n Commonwealth-Überarbeitung \n Industrie-Überarbeitung \n China-Überarbeitung \n Italienischer Waffenstillstands-Überarbeitung \n Verbessertes HSD (einschließlich DD/SS) \n 3D-Modelle für Land, Panzer und Marineeinheiten \n Leistungs- und KI-Verbesserungen"
+ BICE_STARTUP_FUTURE_UPDATE_DESC:0 "\n Generischer Panzerbaum für Minderjährige \n Politiküberarbeitung \n Flugzeugdesigner \n Commonwealth-Überarbeitung \n China-Überarbeitung \n Italienische Waffenstillstandsüberarbeitung \n Verbesserte HSD (einschließlich DD/SS) \n Militärisch-industrielle Organisationen \n Leistungs- und KI-Verbesserungen"
  #### END STARTUP MENU #### 
 
  BI_P_DELETE_UNITS_TT:0 "Löscht die Einheiten aller ausgewählten Länder."

@@ -1067,7 +1067,7 @@ OIL_PRODUCTION_TEXT: "£resources_strip|1 Öl: [?t|+=0]"
  MAIN_MENU_STEAM_TEST_LINK:0 "§Chttps://steamcommunity.com/sharedfiles/filedetails/?id=1851181613§!"
  MAIN_MENU_DISCORD_LINK:0 "§Chttps://discord.gg/kYYbrAA§!"
  MAIN_MENU_GUIDE_LINK:0 "§Chttps://steamcommunity.com/sharedfiles/filedetails/?id=2366487639§!"
- MAIN_MENU_COMING_SOON_TT: "§CKommt bald!§!"
+ MAIN_MENU_COMING_SOON_TT: ""
  remove_law_on_peace:0 "\nDieses Gesetz wird §Yentfernt§! wenn du Frieden hast\n"
  requires_10_ws_at_peace:0 "\nErfordert §R10%§! §YKriegsunterstützung§! während du im Frieden bist\n"
  requires_15_ws_at_peace:0 "\nErfordert §R15%§! §YKriegsunterstützung§! während du im Frieden bist\n"
@@ -2668,6 +2668,23 @@ RUBBER_OUTPUT_TEXT_TT: "Die §OGesamtmenge§! an £resources_strip|3 §YGummi§!
  CV_graf_zeppelin: "Graf Zeppelin Klasse"
  CV_elbe: "Elbe Klasse"
  CV_europa: "Europa Klasse"
+ 
+  header_ai_forced_d_day: "AI: Erzwungener D-Day"
+ ai_forced_d_day_enable: "Skript aktivieren D-Day"
+ ai_forced_d_day_strength: "D-Day Stärke"
+ ai_forced_d_day_strength_low: "Niedrig"
+ ai_forced_d_day_strength_med: "Normal"
+ ai_forced_d_day_strength_high: "Hoch"
+ ai_forced_d_day_strength_extreme: "Extrem"
+ ai_forced_d_day_date: "D-Day Date"
+ ai_forced_d_day_date_1942_1: "Januar 1942"
+ ai_forced_d_day_date_1942_6: "Juni 1942"
+ ai_forced_d_day_date_1943_1: "Januar 1943"
+ ai_forced_d_day_date_1943_6: "Juni 1943"
+ ai_forced_d_day_date_1944_1: "Januar 1944"
+ ai_forced_d_day_date_1944_6: "Juni 1944"
+ ai_forced_d_day_date_1945_1: "Januar 1945"
+
 
 
  ########## EOT #############

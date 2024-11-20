@@ -1069,6 +1069,10 @@
  armor_tech_ammo_research:0 "£tech_mod Panzermunition Forschungsgeschwindigkeit"
  armor_tech_special_research:0 "£tech_mod Panzerkomponenten Forschungsgeschwindigkeit"
 
+ macchi_air:0 "Macchi-Flugzeug\n"
+ fiat_air:0 "Fiat-Flugzeug\n"
+ cant_air:0 "CANT-Flugzeug!\n"
+ 
  macchi_air_tt:0 "§gMacchi Flugzeuge§!\n"
  reggiane_air_tt:0 "§gReggiane Flugzeuge§!\n"
  fiat_air_tt:0 "§gFiat Flugzeuge§!\n"

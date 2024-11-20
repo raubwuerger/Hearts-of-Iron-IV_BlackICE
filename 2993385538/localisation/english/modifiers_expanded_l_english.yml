@@ -1207,6 +1207,8 @@
  coordination_bonus:0"$MODIFIER_COORDINATION_BONUS$" 
  coordination_bonus_desc:0"$MODIFIER_COORDINATION_BONUS_DESC$" 
  equipment_conversion_ic_cost_factor:0"$MODIFIER_EQUIPMENT_CONVERSION_IC_COST_FACTOR$" 
+ cic_construction_boost: "$MODIFIER_CIC_CONSTRUCTION_BOOST$"
+ cic_construction_boost_factor: "$MODIFIER_CIC_CONSTRUCTION_BOOST_FACTOR$"
  #armor:0"$MODIFIER_ARMOR$" 
  army_strength:0"$MODIFIER_ARMY_STRENGTH$" 
  state_production_speed_infrastructure_factor:0"$modifier_state_production_speed_infrastructure_factor$" 
