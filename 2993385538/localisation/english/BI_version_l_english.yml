@@ -3,13 +3,13 @@
  
  ### IMPORTANT ### 
  #-Also adjust GetVersion in common/scripted_localisation/
- BICE_mod_type: "§YMain Version§!" #either Main Version or Test Version
- BICE_version:0 "v8.1.6"
+ BICE_mod_type: "§YTest Version§!" #either Main Version or Test Version
+ BICE_version:0 "v9.0.1"
  BICE_checksum:0 "75fa" #don't forget to remove the git stuff before uploading
  #---------------------------------
  
 
- BICE_STARTUP_DESC:0 "Updated for compatibility with HOI IV v1.14.10 and 'Arms Against Tyranny' DLC" BICE_STARTUP_GENERAL_DESC:0 ""
+ BICE_STARTUP_DESC:0 "Updated for compatibility with HOI IV v1.15.0 and 'Gotterdammerung' DLC" BICE_STARTUP_GENERAL_DESC:0 ""
  
  BICE_checksum_and_desc:0 "Click to see correct checksum" 
  BICE_checksum_desc:0 "Checksum should be:"
@@ -45,7 +45,7 @@
  
  #FUTURE
  BICE_STARTUP_FUTURE_UPDATE_TITLE:0 "Next Features being worked on:"
- BICE_STARTUP_FUTURE_UPDATE_DESC:0 "\n Generic Tank tree for Minors \n Politics Rework \n Aircraft Designer \n Commonwealth Rework \n China Rework \n Italian Armistice Rework \n Improved HSD (including DD/SS) \n Military-Industrial Organizations \n Performance & AI Improvements"
+ BICE_STARTUP_FUTURE_UPDATE_DESC:0 "\n Tank trees for Minors \n Politics Rework \n Aircraft Designer \n Commonwealth Rework \n Industry Rework \n China Rework \n Italian Armistice Rework \n Improved HSD (including DD/SS) \n 3d Models for Land, Tank & Naval Units \n Performance & AI Improvements"
  #### END STARTUP MENU ####
  
  BI_P_DELETE_UNITS_TT:0 "Deletes the Units of all selected countries."

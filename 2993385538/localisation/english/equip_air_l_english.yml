@@ -279,7 +279,7 @@
  
  quad_engine_bomber_equipment:0 "Heavy Bomber"
  
- cas_equipment: "Close Air Support"
+ cas_equipment:0 "Close Air Support"
 
  twin_CAS:0 "Twin-Engine CAS"
  twin_cas:0 "Twin-Engine CAS"
@@ -716,6 +716,8 @@
  plane_drop_tank_upgrade_desc:0 "Adding disposable drop tanks to increase range.\nRequires §YAssembly Line Production§! for level 1."
  plane_light_cannons_upgrade:0 "Light Cannons"
  plane_light_cannons_upgrade_desc:0 "Adding cannons up to 37mm to improve firepower"
+ plane_anti_air_rocket_upgrade:0 "Air-to-Air Rockets"
+ plane_anti_air_rocket_upgrade_desc:0 "Adding single-shot air-to-air rockets.\nRequires §YAir-to-Air Rockets§! Special Project for level 1."
  plane_torpedo_upgrade:0 "Torpedo"
  plane_torpedo_upgrade_desc:0 "Adding a torpedo for naval attack capability"
  plane_bubble_canopy_upgrade:0 "Canopy"
@@ -940,9 +942,6 @@
  medium_airframe_desc:0 "Medium Airframe based planes"
  heavy_airframe:0 "Heavy Airframe"
  heavy_airframe_desc:0 "Heavy Airframe based planes"
- jet_engines:0 "Jet Engine Designs"
- JET_ENGINES_SPECIAL:0 "The final stages of developing Jet Engine designs open the path towards the development of a practical version for use in aircraft."
- jet_engines_desc:0 "A breakthrough in propulsion technology, the Jet Engine will enable the development of an entirely new generation of aircraft."
  
 
  MEX_fighter_equipment_1933:0 "TNCA 'Tololoche' 3-E-130"
@@ -1026,5 +1025,7 @@
  tech_air_engine_jet_improved_desc:0 "A series of improvements to early jet engines, increasing both their power and reliability."
  tech_air_engine_motorjet:0 "Motorjet Engine"
  tech_air_engine_motorjet_desc:0 "Secondo Campini has been developing what he calls a thermojet for several years. This method of propulsion could lead to high performance aircraft that do not need the same level of advanced materials and construction as traditional jet engines."
+ 
+ explosive_ammo:0 "$mega_gun_emplacement$"
  
 ## EOF ##

@@ -171,6 +171,7 @@
  POLITICS_ADVISOR_COST:0 "Cost (£pol_power ): $VALUE|-0$"
  COMMAND_POWER_ADVISOR_COST:0 "\nCost (£command_power ): $VALUE|-0$"
  COMMAND_POWER_ALLOCATION_ADVISOR_COST:0 "\nAllocates (£command_power ): $VALUE|-0$"
+ COMMAND_POWER_CAP_ADD_ADVISOR: "\nMax. Command Power increase (£command_power ): $VALUE|+=0$"
  POLITICS_ADVISOR_PP_COST_SHORT:0 "£pol_power $VALUE|-0$"
  POLITICS_ADVISOR_CP_COST_SHORT:0 "£command_power $VALUE|-0$"
  POLITICS_ADVISOR_CP_ALLOCATION_COST_SHORT:0 "£command_power $VALUE|-0$"

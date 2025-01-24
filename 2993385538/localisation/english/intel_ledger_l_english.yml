@@ -123,9 +123,9 @@
  MIN_INTEL_REQUIRED_FOR_EQUIPMENT_ARCHETYPES:0 "Required intel for equipment archetypes info: $MIN|H.0%$"
  MIN_INTEL_REQUIRED_FOR_EQUIPMENT_TYPES:0 "Required intel for detailed equipment list: $MIN|H.0%$"
  MIN_INTEL_REQUIRED_FOR_EQUIPMENT_DESIGN_DETAILS:0 "Required intel for equipment design details: $MIN|H.0%$"
- LEDGER_TOTAL_STOCKPILE_AMOUNT_TOOLTIP: "Total: $RANGE|H$"
+ LEDGER_TOTAL_STOCKPILE_AMOUNT_TOOLTIP:0 "Total: $RANGE|H$"
  LEDGER_STOCKPILE_AMOUNT_TOOLTIP:1 "  - Stockpile Amount: $RANGE|H$"
- LEDGER_MARKET_STOCKPILE_AMOUNT_TOOLTIP: "  - International Market Amount: $RANGE|H$"
+ LEDGER_MARKET_STOCKPILE_AMOUNT_TOOLTIP:0 "  - International Market Amount: $RANGE|H$"
  LEDGER_DESIGN_DETAILS_TITLE:0 "Design Details:"
 
  CURRENT_NAVY_INTEL:0 "Navy Intel: $AMOUNT|H.0%$"
@@ -275,3 +275,6 @@
  LEDGER_CIV_GRAPH_SHOW_TRUCKS:0 "§HShow graph for stockpiled trucks§!"
  LEDGER_CIV_GRAPH_SHOW_TRAINS:0 "§HShow graph for stockpiled trains§!"
  
+ INTEL_LEDGER_RAIDS_DETECT_ON_LAUNCH:0 "Incoming raids are detected when launched ($CATEGORIES|H$)"
+ INTEL_LEDGER_RAIDS_DETECT_HALFWAY_PREPARATION:0 "Incoming raids are detected halfway to being ready to launch ($CATEGORIES|H$)"
+ INTEL_LEDGER_RAIDS_DETECT_EARLY_PREPARATION:0 "Incoming raids are detected during early preparation ($CATEGORIES|H$)"
