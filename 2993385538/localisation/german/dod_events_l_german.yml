@@ -283,7 +283,6 @@
  DOD_hungary.94.b:0 "Schlagt jetzt zu!"
  DOD_hungary.95.t:0 "[From.GetNameDefCap] lehnt unser Angebot ab"
  DOD_hungary.95.desc:0 "\nach mehreren Verhandlungsrunden konnte mit der Regierung von [From.GetAdjective] keine Einigung in der Frage der Neuordnung Jugoslawiens erzielt werden. In einer von [From.GetLeader] selbst unterzeichneten Note heißt es, dass alle noch offenen territorialen Fragen auf bilateraler Basis gelöst würden, \"wenn die Situation es erfordert.\""
- DOD_ungary.95.a:0 "Schade."
  DOD_hungary.95.a:0	"Schande."
  DOD_hungary.95.b:0 "Dann machen wir es eben allein!"
  DOD_hungary.96.t:0 "Ultimatum aus Budapest"
