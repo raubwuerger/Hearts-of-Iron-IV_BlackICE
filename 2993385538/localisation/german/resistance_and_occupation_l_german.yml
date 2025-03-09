@@ -246,5 +246,5 @@ recent_state_change:	"Hat kürlich den Besitzer gewechselt"
 
  #BI ""
 RESISTANCE_TARGET_MODIFIER_CLAIM:0	"Controller hat Anspruch: §G-10%§!"
-sabotage_coal:		"Sabotage der Kohleressourcen"
-sabotage_bauxite:		"Sabotage Bauxit-Ressourcen"
+sabotage_coal:	"Sabotage der Kohleressourcen"
+sabotage_bauxite:	"Sabotage Bauxit-Ressourcen"

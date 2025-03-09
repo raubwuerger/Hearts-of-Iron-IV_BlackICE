@@ -43,4 +43,4 @@ ABILITY_REQUISITION_WINTER_GEAR_DESC:1	"Winterausrüstung bietet einen Bonus auf
 ABILITY_ON_ADD:0	"Beim Ausführen:"
 ABILITY_ON_HOURLY:0	"Zu jeder Stunde:"
 ABILITY_ON_DAILY:0	"An jedem Tag:"
-ABILITY_TOOLTIP_ALREADY_ACTIVE_SOME_CHILD_GROUPS:0		"§RDiese Fähigkeit ist bereits aktiv für:{n$LEADERS$§!"
+ABILITY_TOOLTIP_ALREADY_ACTIVE_SOME_CHILD_GROUPS:0	"§RDiese Fähigkeit ist bereits aktiv für:{n$LEADERS$§!"

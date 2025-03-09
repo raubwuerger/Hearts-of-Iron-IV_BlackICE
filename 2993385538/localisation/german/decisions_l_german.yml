@@ -1151,4 +1151,4 @@ diversify_special_forces:	"Elitekräfte diversifizieren"
 diversify_special_forces_desc:	"Unsere konventionellen Streitkräfte reichen einfach nicht aus, um den herannahenden Sturm zu bekämpfen. Wir müssen innovativ sein."
 add_potential_special_forces_tree_tt:	"Fügt §H1§! hinzu! Kostenlose Spezialeinheiten §HBranch-Spezialisierung§!"
   
-CW_COST_TOOLTIP:		"[?token:country_resource_cost_air_production.GetTokenLocalizedKey]: [?trainer_air_cost|0-=]\n[?token:country_resource_cost_engine_production.GetTokenLocalizedKey]: [?trainer_production|0-=]\n[?token:consumer_goods_expected_value.GetTokenLocalizedKey]: [?trainer_con_goods|1%Y]\n[?token:conscription_factor.GetTokenLocalizedKey]: [?-0.02|2%+=]"
+CW_COST_TOOLTIP:	"[?token:country_resource_cost_air_production.GetTokenLocalizedKey]: [?trainer_air_cost|0-=]\n[?token:country_resource_cost_engine_production.GetTokenLocalizedKey]: [?trainer_production|0-=]\n[?token:consumer_goods_expected_value.GetTokenLocalizedKey]: [?trainer_con_goods|1%Y]\n[?token:conscription_factor.GetTokenLocalizedKey]: [?-0.02|2%+=]"

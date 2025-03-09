@@ -511,4 +511,4 @@ upgrade_security_department:0	"Geheimdienstliche Informationen"
 upgrade_security_department_tt:0	"\n Kann Spionageabteilungsverbesserung bei §G80%§! Zivile Informationen einsehen"
 
 kill_trotsky:0	"Ermorden Sie Trotzki"
-FOREIGN_ASSETS_EMPTY_TOOLTIP:		"Wir haben derzeit keine ausländischen Aktivposten! \n\n Sobald wir welche erwerben, werden sie hier aufgeführt. Außerdem kann die Sichtbarkeit von Operationen hier auch pro Land umgeschaltet werden."
+FOREIGN_ASSETS_EMPTY_TOOLTIP:	"Wir haben derzeit keine ausländischen Aktivposten! \n\n Sobald wir welche erwerben, werden sie hier aufgeführt. Außerdem kann die Sichtbarkeit von Operationen hier auch pro Land umgeschaltet werden."

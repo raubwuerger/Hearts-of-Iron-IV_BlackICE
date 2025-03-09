@@ -250,4 +250,4 @@ IDEOLOGY_COMMUNISM_ADVISOR:	"Ideologie: §YKommunist§!, die gewährt:\n$communi
 IDEOLOGY_ANTI_COMMUNIST_ADVISOR:	"Ideologie: §YAnti-Kommunist§!, die Folgendes gewährt:\n$communism_drift$: §R-0.01§!"
 IDEOLOGY_ANTI_FASCIST_ADVISOR:	"Ideologie: §YAnti-Faschist§!, die gewährt:\n$fascism_drift$: §R-0.01§!"
 IDEOLOGY_APOLITICAL_ADVISOR:	"Ideologie: §YApolitical§!, die Folgendes gewährt:\n$opposition_party_drift$: §R+0,01§!"
-COMMAND_POWER_CAP_ADD_ADVISOR:		"\nMax. Befehl Leistungserhöhung (£command_power ): $VALUE|+=0$"
+COMMAND_POWER_CAP_ADD_ADVISOR:	"\nMax. Befehl Leistungserhöhung (£command_power ): $VALUE|+=0$"

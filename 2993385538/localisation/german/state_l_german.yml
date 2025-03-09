@@ -71,5 +71,5 @@ STATE_OWNER_RESISTANCE_NON_CORE_INFO:0	"$COUNTRY|H$ hat nur Zugriff auf $MANPOWE
 STATE_OWNER_RESISTANCE_NON_CORE_INFO_WITH_MODIFIERS:0	"$COUNTRY|H$ wird nur Zugang zu $MANPOWER|-%.0$ der Soldaten des Staates haben und obendrein wird es aufgrund seines Berufsstatus folgende Modifikatoren erhalten:"
 STATE_OWNER_MODIFIER_INFO:0	"Der Staat erhält aufgrund seines Besatzungsstatus folgende Modifikatoren:"
 STATE_FOREIGN_RESOURCE_OWNER:0	"Geht an $COUNTRY|H$"
-PROVINCE_BUILDING_LEVEL:		"$BUILDING|H$ (Ebene: $LEVEL|H$/$MAX_LEVEL|H$)"
-STATE_CONTESTED_OWNER:		"§T$COUNTRY|H$ ist umstrittener Eigentümer von $STATE|H$.§!"
+PROVINCE_BUILDING_LEVEL:	"$BUILDING|H$ (Ebene: $LEVEL|H$/$MAX_LEVEL|H$)"
+STATE_CONTESTED_OWNER:	"§T$COUNTRY|H$ ist umstrittener Eigentümer von $STATE|H$.§!"
