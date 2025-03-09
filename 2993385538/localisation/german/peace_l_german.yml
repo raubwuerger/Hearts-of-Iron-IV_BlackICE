@@ -100,7 +100,7 @@ PEACE_CONFERENCE_COST_TOO_HIGH:0	"§Sie haben nicht genug Punkte für die ausgew
 PEACE_CONFERENCE_COST_TOO_HIGH_NEXT_PARTICIPANT:0	"§A Sie können diese Forderungen in diesem Zug nicht stellen, da dies Ihren Punktestand zu weit unter den Punktestand des nächsten Teilnehmers senken würde§!"
 PEACE_CONFERENCE_WINNER:0	"@$TAG$$COUNTRY|Y$ nahm $STATES|Y$ stellt fest."
 PEACE_CONFERENCE_ANNEXED:0	"@$TAG$$COUNTRY|Y$ wurde annektiert."
-PEACE_CONFERENCE_PUPPETED:0	"@$TAG$$COUNTRY|Y$ wurde marionettiert."
+PEACE_CONFERENCE_PUPPETED:0	"@$TAG$$COUNTRY|Y$ wurde zur Marionette."
 PEACE_CONFERENCE_LIBERATED:0	"@$TAG$$COUNTRY|Y$ wurde befreit."
 PEACE_CONFERENCE_GAINED_EQUIPMENT:0	"$VALUE|0Y$ Ausrüstung wurde beschlagnahmt."
 PEACE_CONFERENCE_FORCE_GOVERNMENT:0	"Die $IDEOLOGY|Y$ Partei $PARTY|Y$ wurde in @$TAG$$COUNTRY|Y$ an die Macht gebracht."

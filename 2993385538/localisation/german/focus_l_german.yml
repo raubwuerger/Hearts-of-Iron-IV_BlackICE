@@ -11971,7 +11971,7 @@ overlord_soviet_bonus_TT:0	"Die §OSowjetunion§! wird in der Lage sein, §YOper
 overlord_better_shore_bomb_TT:0	"Wird Küstenfestungen an potenziellen Landepunkten zu Beginn der §YOperation Overlord§! beschädigen!"
 overlord_better_air_sup_TT:0	"£air_superiority_texticon §YLuftüberlegenheitsbonus im Kampf§! §G+10 %§! für alle Seiten während §YOperation Overlord§!\nIn Küstenstaaten, die den §YFranzösischen Kanal§! oder §YSüdliche Bucht§! berühren"
  ## EOF ## ""
-FOCUS_SHORTCUT_TOOLTIP:	"§Klicken Sie mit der linken Maustaste§!, um zum Pfad $PATH|H$ zu schwenken."
+FOCUS_SHORTCUT_TOOLTIP:	"§GKlicken Sie mit der linken Maustaste§!, um zum Pfad $PATH|H$ zu schwenken."
 ITA_radio_military:5	"Marconi's Funkgeräte"
 ITA_radio_military_desc:5	"Guglielmo Giovanni Maria Marconi war einer der größten Erfinder des letzten Jahrhunderts sowie ein bedeutender italienischer Unternehmer und Politiker. Er war verantwortlich für die Erfindung und Entwicklung eines effektiven Fernmeldesystems über Radiowellen, nämlich die drahtlose Telegrafie oder Radiotelegrafie. Die unglaubliche Verbreitung und Entwicklung der Funktelegrafie führte zur Entwicklung des Radios und des Fernsehens und dann aller modernen Funkkommunikationssysteme und -methoden, die drahtlose Kommunikation nutzen. Im Jahr 1909 teilte er sich den Nobelpreis für Physik mit Carl Ferdinand Braun. Leider verstarb er am 20. Juli 1937. Während des Zweiten Weltkriegs waren die Unternehmen Radiomarelli, Safar und Allocchio Bacchini führend in der Entwicklung und Produktion von Funksystemen in Italien."
 ITA_defend_desc:5	"Es ist an der Zeit, einige Verteidigungsanlagen um schwieriger zu verteidigende Gebiete, wie Inseln und Kolonien, vorzubereiten."

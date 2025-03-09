@@ -79,7 +79,7 @@ PROGRAM_VIEW_REQUIRE_SCIENTIST:	"§Rerfordert einen §! §YScientist§! §Rzum S
 PROGRAM_VIEW_ACTIVE_RESEARCH:	"$PHASE$ Phase voraussichtlich abgeschlossen in: $DAYS|Y$ Tag(e)"
 PROGRAM_VIEW_PROJECT_PROGRESS:	"Projektfortschritt: $PROGRESS|0%$"
 PROGRAM_VIEW_HISTORY_COMPLETED_PROJECTS:	"Abgeschlossene Projekte"
-SPECIAL_PROJECT_RESEARCH_OUTPUT:	"§Abgeschlossene Forschung:§!"
+SPECIAL_PROJECT_RESEARCH_OUTPUT:	"§GAbgeschlossene Forschung:§!"
 SPECIAL_PROJECT_MAY_HAVE_FACILITY_STATE_OUTPUT:	"§YKann Auswirkungen auf den Zustand der Einrichtung haben§!"
 SPECIAL_PROJECT_MAY_HAVE_SCIENTIST_OUTPUT:	"§YMay have scientist effects§!"
 SPECIAL_PROJECT_OUTPUT_SUBUNITS:	"§YSUntereinheiten:§!"
