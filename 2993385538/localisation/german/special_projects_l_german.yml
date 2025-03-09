@@ -148,7 +148,7 @@ SPECIAL_PROJECT_DEFAULT_ITERATION_REWARD_OPTION_DESC:		"§GKlicken§! um die Aus
 SPECIAL_PROJECT_DEFAULT_ITERATION_REWARD_OPTION_CHOICE:		"Diese Option wird automatisch gewählt, wenn eine neue Iteration abgeschlossen wird, oder wenn das Projekt abgeschlossen ist."
 SPECIAL_PROJECT_AVAILABLE_ALERT_TT:		"§YVerfügbares Spezialprojekt§!"
 SPECIAL_PROJECT_AVAILABLE_ALERT_DELAYED_TT:		"Ein spezielles Projekt kann beginnen in:"
-SPECIAL_PROJECT_UNASSIGNED_SCIENTIST_ALERT_TT:		"§YFacility mit nicht zugewiesenem Wissenschaftler§!"
+SPECIAL_PROJECT_UNASSIGNED_SCIENTIST_ALERT_TT:		"§YForschungseinrichtung mit nicht zugewiesenem Wissenschaftler§!"
 SPECIAL_PROJECT_UNASSIGNED_SCIENTIST_ALERT_DELAYED_TT:		"Weisen Sie einen Wissenschaftler zu, um §YGrundlagenforschung§! zu starten, oder starten Sie ein neues Spezialprojekt für:"
 SPECIAL_PROJECT_UNABLE_TO_START:		"§RErfordert Durchbruchspunkt(e):§!"
 SPECIAL_PROJECT_BREAKTHROUGH_COST:		"Erfordert Durchbruchspunkt(e): $AMOUNT$ $SPECIALIZATION|Y$"
