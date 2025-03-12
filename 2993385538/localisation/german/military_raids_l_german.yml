@@ -262,7 +262,7 @@ success_modifier_interception_improvement: "- Start §HAbfangeinsätze§! in the
 success_modifier_interception_source: "$VAL|H0$/$MAX|H0$ planes"
 success_modifier_air_superiority: "§HLuftüberlegenheit§!"
 success_modifier_air_superiority_improvement: "- Erhöhung der §HLuftüberlegenheit§! über der Region"
-success_modifier_air_superiority_counterplay: "- Verringern Sie die feindliche §Luftüberlegenheit§! über der Region"
+success_modifier_air_superiority_counterplay: "- Verringern Sie die feindliche §YLuftüberlegenheit§! über der Region"
 success_modifier_air_superiority_source: "$VAL|H%0$ Luftüberlegenheit"
 success_modifier_air_superiority_source_counterplay: "$VAL|H%0$ feindliche Luftüberlegenheit"
 success_modifier_resistance: "§HWiderstand§! §gin Zielregion§!"

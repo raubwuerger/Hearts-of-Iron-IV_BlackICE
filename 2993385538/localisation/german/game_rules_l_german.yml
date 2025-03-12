@@ -291,7 +291,7 @@ RULE_COUP_AI_ONLY_TT:0	"Spielregel: §RLänder dürfen nur Putsche gegen Natione
 RULE_BOOST_PARTY_BLOCKED_TT:0	"Spielregel: §RLänder dürfen die Popularität von Parteien in keinem Land erhöhen§!"
 RULE_BOOST_PARTY_PLAYER_ONLY_TT:0	"Spielregel: §RLänder dürfen die Beliebtheit ihrer Partei nur in Ländern steigern, in denen ein Mensch spielt§!"
 RULE_BOOST_PARTY_AI_ONLY_TT:0	"Spielregel: §RLänder dürfen die Beliebtheit ihrer Partei nur in Ländern steigern, die nicht von einem Menschen gespielt werden§!"
-RULE_WARGOALS_BLOCKED_TT:0	"Spielregel: §Rriegsziele können nur aus nationalen Schwerpunkten, Ereignissen und Entscheidungen gewonnen werden§!"
+RULE_WARGOALS_BLOCKED_TT:0	"Spielregel: §RKriegsziele können nur aus nationalen Schwerpunkten, Ereignissen und Entscheidungen gewonnen werden§!"
 RULE_ALLOW_LICENSING_BLOCKED_TT:0	"Spielregel: §RLänder können niemals Produktionslizenzen außerhalb von speziellen Entscheidungen und Ereignissen erwerben§!"
 RULE_ALLOW_LICENSING_SAME_FACTION_TT:0	"Spielregel: §RLänder können nur Produktionslizenzen von Ländern der gleichen Fraktion erwerben§!"
 RULE_ALLOW_LICENSING_SAME_IDEOLOGY_TT:0	"Spielregel: §RLänder dürfen nur Produktionslizenzen von Ländern erwerben, die dieselbe herrschende Ideologie teilen§!"
