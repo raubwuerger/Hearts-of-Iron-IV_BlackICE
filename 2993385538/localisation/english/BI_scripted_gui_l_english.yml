@@ -440,7 +440,7 @@
  SPECIAL_FORCES_MODIFIER_6:0 "Marines Extra Supply Grace: [?modifier@extra_marine_supply_grace|=+1] Hours\n"
  SPECIAL_FORCES_MODIFIER_7:0 "Paratroopers Extra Supply Grace: [?modifier@extra_paratrooper_supply_grace|=+1] Hours\n"
  SPECIAL_FORCES_MODIFIER_8:0 "Paradrop Efficiency: [?special_forces_para_debuff|=+%]   ([?special_forces_para_debuff|=+%])\n"
- mountainous_country:0 "Mountainous Country"
+ mountainous_country:0 "Gebirgige Länder"
  
  coastal_state:0 "Has at least 1 §YCoastal§! State"
 
@@ -1557,22 +1557,22 @@
  
  ai_advisor:0 "§G AI Advisor §!"
  
- INSTANTLY_REMOVED_AT_WAR:0 "\n§YInstantly removed if:§!\n£trigger_no At war"
+ INSTANTLY_REMOVED_AT_WAR:0 "\n§YWird sofort entfernt, wenn:§!\n£trigger_no im Krieg"
  
  IDEA_TOOLTIP:0 "[?v.GetTokenKey] V"
  
   
  LAW_IDEA_COMPLETE_TOOLTIP:0 "[!law_idea_entry_click]\n\n[!law_idea_entry_click_enabled]\n\n"
  
- AI_DEF_DEFENDERS_TT:0 "§YClick§! to view and adjust §Ycountries defending [?targeted_country.GetName]§!"
- AI_DEF_DEFENDING_TT:0 "§YClick§! to view and adjust §Ywhich countries [?targeted_country.GetName] should defend§!"
- AI_DEF_AREA_FORCE_TT: "§YForce Defend§!\n\nIf this setting is active, §Y[?targeted_country.GetName]§! will be nudged towards actively defending any allies in the mentioned area.\n§RThis is not compatible with country specific defense settings! If you choose to activate it, the country specific front defense settings will be disabled entirely.§!"
- AI_DEF_AREA_NO_FRONT_TT: "§YAllow Front Assignment§!\n\nIf this setting is active, §Y[?targeted_country.GetName]§! will be allowed to assign units to the mentioned area, for countries its allowed to defend.\nIf this is disabled, the AI will not be allowed to defend the area, even if there are countries its allowed to defend."
+ AI_DEF_DEFENDERS_TT:0 "§YKlick§! zum Anzeigen und Einstellen der §Y-Länder, die verteidigt werden [?targeted_country.GetName]§!"
+ AI_DEF_DEFENDING_TT:0 "§YKlick§! zum Anzeigen und Einstellen §Ywelche Länder [?targeted_country.GetName] verteidigt werden sollen§!"
+ AI_DEF_AREA_FORCE_TT: "§YVerteidigung favorisieren§!\n\nWenn diese Einstellung aktiv ist, wird §Y[?targeted_country.GetName]§! dazu veranlasst, alle Verbündeten in dem genannten Gebiet aktiv zu verteidigen.\n§RDies ist nicht kompatibel mit länderspezifischen Verteidigungseinstellungen! Wenn Sie diese Funktion aktivieren, werden die länderspezifischen Verteidigungseinstellungen für die Front vollständig deaktiviert..§!"
+ AI_DEF_AREA_NO_FRONT_TT: "§YZuordnen von Fronten erlauben§!\n\nWenn diese Einstellung aktiv ist, §Y[?targeted_country.GetName]§! dürfen Einheiten dem genannten Bereich zuordnen, für Länder, die er verteidigen darf.\nWenn diese Funktion deaktiviert ist, darf die KI das Gebiet nicht verteidigen, selbst wenn es Länder gibt, die sie verteidigen darf."
 
- AI_DEF_COUNTRY_TITLE: "Country Specific"
- AI_DEF_COUNTRY_TITLE_DISABLED: "Country Specific §R(DISABLED)§!"
+ AI_DEF_COUNTRY_TITLE: "Länderspezifisch"
+ AI_DEF_COUNTRY_TITLE_DISABLED: "Länderspezifisch §R(DISABLED)§!"
  AI_DEF_COUNTRY_TOOLTIP_HEADER: "[!binder_click]"
- AI_DEF_COUNTRY_TOOLTIP_DISABLED: "Country Specific Defense settings are §Rdisabled§! for §Y[?Root.targeted_country.GetName]§! because of the following area settings: \n"
+ AI_DEF_COUNTRY_TOOLTIP_DISABLED: "Länderspezifische Verteidigungseinstellungen sind §Rdeaktiviert§! für §Y[?Root.targeted_country.GetName]§! aufgrund der folgenden Gebietseinstellungen: \n"
  
  AI_DEF_STATE_MAPICON_DEBUG: "[?region_overwrite_score] REGION YES \n[?region_score] REGION \n[?area_score] AREA"
  
@@ -3890,24 +3890,24 @@ BasevaluecivuseY04714:0 "Base value: [?civ_use|Y0]"
 GetTTIconEffectsourceGetTokenLocalizedKeytemp2131:0 "[GetTTIconEffect] [?source.GetTokenLocalizedKey]: [?temp|2%-=]"
 
  DIPLO_OVERLAY_TOOLTIP: "[!diplo_bg_click]\n\n[!diplo_bg_click_enabled]"
- justify_war_goal: "Justify War goal"
- send_volunteers: "Send Volunteers"
- negotiate_licenses: "Negotiate Licenses"
- adjust_ai_defense: "Country Defence Settings"
- adjust_ai_defense_desc: "Adjust which countries should defend §Y[From.GetNameWithFlag]§! or be defended by it"
- adjust_ai_production: "Manage Production"
- adjust_ai_production_desc: "Adjust AI Unit Production"
+ justify_war_goal: "Kriegsziel rechtfertigen"
+ send_volunteers: "Freiwillige senden"
+ negotiate_licenses: "Lizenzen verhandeln"
+ adjust_ai_defense: "Einstellungen zur Landesverteidigung"
+ adjust_ai_defense_desc: "Anpassen, welche Länder §Y[From.GetNameWithFlag]§! verteidigen oder von ihnen verteidigt werden sollen"
+ adjust_ai_production: "Verwalten der Produktion"
+ adjust_ai_production_desc: "AI-Einheitenproduktion anpassen"
  
- diplomacy_bypass_volunteer_ideology: "\nWe will be able to support §Y[This.GetName]§! with §YVolunteers§!, regardless of their §YRuling Party§!"
- diplomacy_disable_land_volunteers: "\nWe will not be able to send §YArmy Volunteers§!"
- diplomacy_disable_air_volunteers: "\nWe will not be able to send §YAir Volunteers§!"
+ diplomacy_bypass_volunteer_ideology: "\nWir werden in der Lage sein, §Y[This.GetName]§! mit §YFreiwilligen§! zu unterstützen, unabhängig von ihrer §YRegierungspartei§!"
+ diplomacy_disable_land_volunteers: "\nWir können keine §YFreiwilligenarmee§! entsenden"
+ diplomacy_disable_air_volunteers: "\nWir können keine §YFreiwilligen Luftstreikräfte§! entsenden"
  
- diplomacy_opinion_gain_factor: "Improve Relations Opinion Gain: [?opinion_gain_factor|%]\n Flat Modifier: [?modifier@opinion_gain_monthly]"
+ diplomacy_opinion_gain_factor: "Verbesserung der Beziehungen Meinungsbildung: [?opinion_gain_factor|%]\n Flat Modifier: [?modifier@opinion_gain_monthly]"
  
  DIPLO_VOLUNTEER_ICON_TOOLTIP: "[!volunteer_allowance_click]"
- diplomacy_allow_both_volunteers: "We can support them with §GArmy§! and §RAir§! volunteers"
- diplomacy_allow_land_volunteers: "We can support them with §GArmy§! volunteers"
- diplomacy_allow_air_volunteers: "We can support them with §RAir§! volunteers"
+ diplomacy_allow_both_volunteers: "Wir können sie mit einer Freiwilligen §GArmee§! und freiwilligen §RLuftstreitkräften§! unterstützen"
+ diplomacy_allow_land_volunteers: "Wir können sie mit einer Freiwilligen §GArmee§! unterstützen"
+ diplomacy_allow_air_volunteers: "Wir können sie mit freiwilligen §RLuftstreitkräften§! unterstützen"
  
  AI_PARENT: "[?ai_parent]"
  

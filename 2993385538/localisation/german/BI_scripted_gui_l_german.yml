@@ -1826,7 +1826,7 @@ ENERGY_CONSUMPTION_TITLE:	"Energieverbrauch"
 ENERGY_CONSUMPTION_TEXT:	"§R-[?energy_cost|0]§!"
 
 NotEnoughEnergy:	"Sie liegen derzeit [?x|1R%] über Ihrer Kapazität! ([?t|R0])"
-EnoughEnergy:	"Sie haben derzeit die verbrauchte Energiekapazität von [GetColorEnergy] erreicht, was eine freie Energiekapazität von [?d|G%1] ([?t|G0]) ermöglicht."
+EnoughEnergy:	"Aktuell werden von der Gesamtenergie [GetColorEnergy] verbraucht. Es können also noch [?d|G%1] ([?t|G0]) verbraucht werden."
 ExactlyMatched:	"Sie sind voll ausgelastet, es gibt weder freie noch unbefriedigte Nachfrage."
 ENERGY_CIVILIAN_INPUT_TEXT:	"§R-[?energy_cost@energy_civilian|0]§!"
 ENERGY_CIVILIAN_EFFICIENCY_TEXT:	"[GetEnergyCostCiv]"

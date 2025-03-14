@@ -1963,7 +1963,7 @@ NAVY_REPAIR_POLICY_RIGHT_CLICK_TO_CHANGE_TO:	"§GRechtsklick§! um zu $LEVEL|$ z
 NAVY_REPAIR_POLICY_SPLIT_MIXED:	"Die meisten Einsatzkräfte: §Automatische Abspaltung§! sind jetzt $ON_OFF|H$.\n"
 RMB_TO_SELECT:0	"§Rechtsklick§! zum Auswählen"
 LMB_TO_SELECT:0	"§GKlicken§! zum Auswählen"
-WAR_HAS_MAJOR:1	"War enthält mindestens ein Major Country"
+WAR_HAS_MAJOR:1	"Krieg mit mindestens einer Großmacht"
 GARRISON_CONF_BORDERS:0	"§HGrenzen§! bewachen"
 GARRISON_CONF_FACILITY:0	"§HForschungseinrichtungen§! bewachen"
 DURATION_HOURS:0	"$NUM|.0$ Stunden"
