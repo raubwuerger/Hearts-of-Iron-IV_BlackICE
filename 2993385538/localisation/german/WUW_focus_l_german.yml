@@ -2575,7 +2575,7 @@ GER_rally_the_industrialists_hess_stays_tt:	"Hindert §Y$GER_rudolf_hess$§! dar
 unlock_decision_category_explained:	"Schaltet §Y$CATEGORY$§!Entscheidungen frei. $DESC$"
 GER_integration_of_puppet_economies_decisions_tt:	"Diese Entscheidungen ermöglichen es uns, die Wirtschaft unserer Marionetten zu entwickeln oder auszunutzen."
 GER_a_strong_successor_trigger_tt:	"Alle §Y3§! Aufgestiegenen Berater innerhalb des §YInner Circle§! haben ihren Capstone-Fokus abgeschlossen."
-GER_a_strong_successor_tt:	"Erhält das Ereignis '§Y$GER_inner_circle.02.t$§!'. \nEiner der derzeitigen Aufgestiegenen $GER_inner_circle_member_title$s innerhalb des §YInner Circle§! kann §Y[ROOT.GetLeader]§! als Country Leader ersetzen."
+GER_a_strong_successor_tt:	"Erhält das Ereignis '§Y$GER_inner_circle.02.t$§!'. \nEiner der derzeitigen Aufgestiegenen $GER_inner_circle_member_title$s innerhalb des §YInnerer Kreis§! kann §Y[ROOT.GetLeader]§! als Anführer ersetzen."
 GER_a_strong_successor_current_advisors_tt:	"Derzeitige Aufgestiegene Berater: §Y[GetAscendedAdvisorName1]§!, §Y[GetAscendedAdvisorName2]§! oder §Y[GetAscendedAdvisorName3]§!."
 GER_focus_can_only_be_completed_by_advisor_tt:	"Dieser Fokus kann nur von §Y$CHARACTER$§! gestartet werden, nachdem er den Fokus §Y$FOCUS$§! abgeschlossen hat."
 GER_focus_can_only_be_completed_by_advisor_multiple_tt:	"Dieser Fokus kann nur von §Y$CHARACTER$§! oder §Y$CHARACTER_2$§! gestartet werden, nachdem Sie den Fokus §Y$FOCUS$§! oder §Y$FOCUS_2$§! abgeschlossen haben."
