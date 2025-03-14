@@ -169,7 +169,7 @@ PRODICTION_MIC_RECEIVED_FROM_EXILE_DONATIONS:0	"$AMOUNT|Y$ unserer Militärfabri
 PRODUCTION_MAX_EFFICIENCY_BASE:0	"Basiskapazität: $VALUE|Y%$"
 PRODUCTION_MAX_EFFICIENCY_TOT:0	"£prod_eff_cap Produktionseffizienz Obergrenze: $VALUE|Y%$"
 PRODUCTION_MAX_EFFICIENCY_HINT:0	"£prod_eff_cap Die Produktionseffizienz Obergrenze bestimmt den maximalen Wert für Ihre £prod_eff Produktionseffizienz. Er kann durch £tech_mod Technologien erhöht werden."
-PRODUCTION_RESOURCES_PER_FACTORY:0	"§HRessourcen pro Fabrik für die Produktion:§!"
+PRODUCTION_RESOURCES_PER_FACTORY:0	"§HBenötigte Produktionsressourcen pro Fabrik:§!"
 PRODUCTION_RESOURCE_COST:	"$VALUE$"
 PRODUCTION_MATERIAL_NO_WASTE:0	"Die Linie verschwendet keine dieser Ressourcen."
 PRODUCTION_MATERIAL_WASTE:0	"Linie verschwendet $WASTE|R2$ dieser Ressource."

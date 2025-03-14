@@ -2753,5 +2753,5 @@ sp_tag_nuclear_power_speed_factor:	"Nukleare Energie Spezialprojekte Geschwindig
 sp_tag_nuclear_power_speed_factor_tt:	" $sp_tag_nuclear_power_speed_factor$: $RIGHT|+=%1$"
 sp_tag_radar_speed_factor:	"Radar Spezialprojekte Geschwindigkeit"
 sp_tag_radar_speed_factor_tt:	" $sp_tag_radar_speed_factor$: $RIGHT|+=%1$"
-sp_tag_computing_speed_factor:	"Computing Spezialprojekte Geschwindigkeit"
+sp_tag_computing_speed_factor:	"Computer Spezialprojekte Geschwindigkeit"
 sp_tag_computing_speed_factor_tt:	" $sp_tag_computing_speed_factor$: $RIGHT|+=%1$"
