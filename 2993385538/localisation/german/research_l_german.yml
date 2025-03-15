@@ -4442,7 +4442,7 @@ army_group_hq_desc:0	"Die Heeresgruppe ist der Anfang eines großen Unternehmens
 supreme_hq:0	"Verbessertes Oberstes Hauptquartier"
 supreme_hq_desc:0	"Das letzte Wort für die wichtigsten Operationen kommt von ganz oben. Diese sind von größter Bedeutung."
 operational_support:0	"Operative Unterstützung"
-medicine_doctrine:0	"Kompanie Kampfsanitäter"
+medicine_doctrine:0	"Kompanie Feldsanitäter"
 combat_medicine:0	"Gefechtsmedizin"
 medical_evacuation:0	"Medizinische Evakuierung"
 pilot_rescue:0	"Pilotenrettung"

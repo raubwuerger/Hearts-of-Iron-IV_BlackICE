@@ -1906,7 +1906,7 @@ RATIONS_DECREASE:	"§Y[?food_days|1%]§!"
 RATIONS_INSUFFICIENT:	"§R[?food_days|1%]§!"
 RATIONS_FULL:	"§GVoll§!"
 RATIONS_EMPTY:	"§R0|[?lack_of_food|0%]§!"
-MANPOWER_IN_QUEUE_TOOLTIP:	"Soldaten in Aufstellung"
+MANPOWER_IN_QUEUE_TOOLTIP:	"Soldaten in Ausbildung"
 
  ## LAWS
 SELECT_LAW_TOOLTIP:	"[!select_law_click] \n\n[!select_law_click_enabled]"
