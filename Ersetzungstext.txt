@@ -73,12 +73,6 @@ handgekurbelt
 
 Anti-Air -> Luftabwehr
 
-Construct §HAnti-Air§! in the region
-
-enemy -> feindlich
-Defending Divisions -> Verteidigende Divisionen
-
-military_raids_l_german.yml: Überarbeiten
 
 Paradrop Efficiency
 WUW_focus_l_english.yml übersetzen

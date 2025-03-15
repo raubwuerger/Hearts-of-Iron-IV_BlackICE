@@ -768,7 +768,7 @@
  hungary_flavor_gen.16.a:0 "Nichts, wovon wir uns nicht erholen könnten."
 
  hungary_flavor_gen.17.t:0 "Ungarn annektiert Österreich"
- hungary_flavor_gen.17.d:0 "Der jüngste Krieg zwischen Ungarn und Österreich war eine geopolitische Überraschung, aber die meisten gingen davon aus, dass es sich um ein bloßes Grenzgeplänkel handelte, das außer geringfügigen Grenzveränderungen zu nichts führen würde. Die Wahrheit hat sich als nichts dergleichen herausgestellt. Nach der Kapitulation der österreichischen Streitkräfte forderte Ungarn die Annexion seines gesamten Territoriums, eine Entscheidung, die die europäischen Staats- und Regierungschefs schockiert hat. Wenn wir eine Reaktion auf diese ungeheuerliche Aktion formulieren wollen, müssen wir es jetzt tun, sonst wirkt es unaufrichtig."
+ hungary_flavor_gen.17.d:0 "Der jüngste Krieg zwischen Ungarn und Österreich war eine geopolitische Überraschung, aber die meisten gingen davon aus, dass es sich um ein bloßes Grenzgeplänkel handelte, das außer geringfügigen Grenzveränderungen zu nichts führen würde. Die Wahrheit hat sich als nichts dergleichen herausgestellt. Nach der Kapitulation der österreichischen Streitkräfte forderte Ungarn die Annektierung seines gesamten Territoriums, eine Entscheidung, die die europäischen Staats- und Regierungschefs schockiert hat. Wenn wir eine Reaktion auf diese ungeheuerliche Aktion formulieren wollen, müssen wir es jetzt tun, sonst wirkt es unaufrichtig."
  hungary_flavor_gen.17.a:0 "Wir werden diese Aktion verurteilen."
  hungary_flavor_gen.17.b:0 "Österreich liegt außerhalb unserer Interessensphäre."
 
@@ -953,7 +953,7 @@
  hungary_flavor_bul.4.a:0 "Nichtsdestotrotz ein Erfolg."
 
  hungary_flavor_bul.5.t:0 "Rumänien tritt die gesamte Dobrudscha ab"
- hungary_flavor_bul.5.d:0 "Rumänien hat den Forderungen von [HUN.GetName] nachgegeben und der Annexion der Dobrudscha zugestimmt. Das bulgarische Volk wird sicherlich bald alle vereint sein!"
+ hungary_flavor_bul.5.d:0 "Rumänien hat den Forderungen von [HUN.GetName] nachgegeben und der Annektierung der Dobrudscha zugestimmt. Das bulgarische Volk wird sicherlich bald alle vereint sein!"
  hungary_flavor_bul.5.a:0 "Ein großer Erfolg für unsere Nation!"
 
  hungary_flavor_bul.6.t:0 "Rumänien hält an der Dobrudscha fest"
@@ -1502,7 +1502,7 @@
 
  hungary_flavor_partition.12.t:0 "Das Schicksal von Prizren"
  hungary_flavor_partition.12.d:0 "Prizren gehörte ursprünglich zu Serbien, hat aber eine bedeutende albanische Bevölkerung. Was wird sein Schicksal sein?"
- hungary_flavor_partition.12.a:0 "Annexion."
+ hungary_flavor_partition.12.a:0 "Annektierung."
  hungary_flavor_partition.12.b:0 "Es an Albanien geben."
  hungary_flavor_partition.12.c:0 "Geben Sie es an Italien."
  hungary_flavor_partition.12.e:0 "Geben Sie es Serbien."
@@ -2086,7 +2086,7 @@
  hungary_flavor.105.b:0 "Lehnen Sie ihre Initiative höflich ab."
 
  hungary_flavor.106.t:0 "Ungarisch-slowakischer Kleinkrieg"
- hungary_flavor.106.d:0 "Unsere Grenzen zur Slowakei waren nach der Annexion der Karpatenruthenie nicht streng festgelegt. In dem Versuch, das Tal von Ung zu sichern, haben unsere Streitkräfte eine Offensive gegen die Slowakei von Westen her gestartet und dabei nur geringe Verluste erlitten. Die Slowaken zogen sich aus der Region zurück, starteten aber kurz darauf einen Gegenangriff und eroberten einen Teil des verlorenen Gebiets zurück. Das gesamte Scharmützel dauerte einige Tage und endete mit ein paar Dutzend Toten auf beiden Seiten. Dennoch können wir dies als einen Erfolg betrachten und in der Propaganda positiv darstellen."
+ hungary_flavor.106.d:0 "Unsere Grenzen zur Slowakei waren nach der Annektierung der Karpatenruthenie nicht streng festgelegt. In dem Versuch, das Tal von Ung zu sichern, haben unsere Streitkräfte eine Offensive gegen die Slowakei von Westen her gestartet und dabei nur geringe Verluste erlitten. Die Slowaken zogen sich aus der Region zurück, starteten aber kurz darauf einen Gegenangriff und eroberten einen Teil des verlorenen Gebiets zurück. Das gesamte Scharmützel dauerte einige Tage und endete mit ein paar Dutzend Toten auf beiden Seiten. Dennoch können wir dies als einen Erfolg betrachten und in der Propaganda positiv darstellen."
  hungary_flavor.106.a:0 "Ein großer Erfolg für unser Land."
 
  hungary_flavor.107.t:0 "Tschechoslowakei lässt Referendum zu"
@@ -4922,8 +4922,8 @@
  HUN_supporting_royalists:0 "Unterstützung der Royalisten"
  HUN_secret_agent_caught:0 "Geheimagent gefasst"
  HUN_dishonored_partition_agreement:0 "Missachtung des Teilungsabkommens"
- HUN_condemns_annexation_of_austria:0 "Verurteilt die Annexion Österreichs"
- HUN_condemns_annexation_of_austrian_territory:0 "Verurteilt die Annexion von österreichischem Gebiet"
+ HUN_condemns_annexation_of_austria:0 "Verurteilt die Annektierung Österreichs"
+ HUN_condemns_annexation_of_austrian_territory:0 "Verurteilt die Annektierung von österreichischem Gebiet"
  HUN_negotiated_autonomy:0 "Ausgehandelte Autonomie"
  HUN_covert_actions:0 "Verdeckte Aktionen"
  HUN_bled_agreement_opinion:0 "Bled-Abkommen"
@@ -4958,7 +4958,7 @@
  HUN_claimed_old_territory_threat:0 "Revisionistische Forderungen"
  HUN_demanded_slovakia_threat:0 "Forderte die Slowakei"
  HUN_annexed_slavonia_threat:0 "Angliederung Slawoniens"
- HUN_annexed_serbia_threat:0 "Annexion Serbiens"
+ HUN_annexed_serbia_threat:0 "Annektierung Serbiens"
  HUN_puppeted_serbia_threat:0 "Schaffung einer serbischen Marionette"
  HUN_annexed_bosnia_threat:0 "Angliederung von Bosnien"
  HUN_annexed_slovenia_threat:0 "annektiert Slowenien"
@@ -4966,7 +4966,7 @@
  HUN_demanded_krakow_galicia_threat:0 "Forderte Krakau und Galizien"
  HUN_demanded_bucovina_threat:0 "Forderte die Bukowina"
  HUN_extended_southern_borders:0 "Erweiterung der südlichen Grenzen"
- HUN_annexed_macedonia_threat:0 "Annexion von Mazedonien"
+ HUN_annexed_macedonia_threat:0 "Annektierung von Mazedonien"
  HUN_annexed_montenegro_threat:0 "Montenegro annektiert"
  HUN_threatened_war_for_banat:0 "Drohte mit Krieg um das Banat"
  HUN_backed_down_from_banat:0 "Rückzug aus der Banat-Krise."

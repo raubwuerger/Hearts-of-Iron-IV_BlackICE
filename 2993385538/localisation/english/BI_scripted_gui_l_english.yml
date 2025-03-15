@@ -429,7 +429,7 @@
  GET_NAME:0 "[This.GetName]"
  V_GET_NAME:0 "[?v.GetTokenKey]" 
  V_GET_NAME_LOCALISED:0 "[?v.GetTokenLocalizedKey]"
- SPECIAL_FORCES_OVER_LIMIT:0 "§RWe are fielding too many special forces! Deployment of additional units is disabled and we suffer the following penalties:§!"
+ SPECIAL_FORCES_OVER_LIMIT:0 "§RWir setzen zu viele Spezialeinheiten ein! Das Ausheben weiterer Einheiten ist deaktiviert und wir erhalten folgende Strafen:§!"
  SPECIAL_FORCES_MODIFIERS_TEXT: "\n\n§Y[Root.GetSpecialForcesOverLimit]§!"
  SPECIAL_FORCES_MODIFIERS_TT: "§YOur Special forces receive the following modifiers:§!\n"
  SPECIAL_FORCES_MODIFIER_1:0 "Division Attack Factor: [?modifier@special_forces_attack_factor|=+%]   [Root.GetSpecialForcesOverLimitDebuff]\n"
