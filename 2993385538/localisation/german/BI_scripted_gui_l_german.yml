@@ -969,7 +969,7 @@ template_artillery_brigade_TT:0	"    §Y[?artillery_brigade]x§! Artilleriebriga
 SS_template_tooltip:	"[!template_click_enabled]\n[!template_click]"
 SS_template_tooltip_title:	"§Y[?v.GetTokenLocalizedKey]§!\n"
 
-SS_wach_battalion_lssah:	"LSSAH Wach-Battalion" 
+SS_wach_battalion_lssah:	"Wachbataillon SS-Leibstandarte" 
  #Subtech Icons 
 ARMOR_TD:0	"£subtech_td_icon"
 ARMOR_AA:0	"£subtech_aa_icon"

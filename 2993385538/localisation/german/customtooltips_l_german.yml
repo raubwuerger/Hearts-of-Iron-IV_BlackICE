@@ -226,8 +226,8 @@
  SS_Start:0 " §RErledigt:§!§Y Historische Waffen-SS§!"
  SS_Start_II:0 " §RErledigt:§!§Y SS-Regiment 'Der Führer'§!"
   
- SS_Kav_regt:0 " §RErledigt:§!§Y Umbenennung/Neuanpassung 1./2. TK-Reiter-Standarten-Regiment§!\n"
- SS_Kav_brig:0 " §RErledigt:§!§Y Umbenennung/Neuanpassung 1./2. TK-Reiter-Standarten-Regiment§!\n"
+ SS_Kav_regt:0 " §RErledigt:§!§Y Umbenennung/Neuanpassung 1./2. TK-Reiterstandarten-Regiment§!\n"
+ SS_Kav_brig:0 " §RErledigt:§!§Y Umbenennung/Neuanpassung 1./2. TK-Reiterstandarten-Regiment§!\n"
  LSSAH_regiment_38:0 " §RErledigt:§!§Y Bildung des SS-Infanterieregiments 'LSSAH'§!\n"
  LSSAH_regiment_39:0 " §RErledigt:§!§Y SS-Infanterie-Regiment 'LSSAH' motorisieren§!\n"
  LSSAH_regiment_40:0 " §RErledigt:§!§Y SS-Inf.-Regt.(mot.) 'LSSAH'§!\n erweitern"
@@ -251,7 +251,7 @@
  totenkopf_pzgren_div_42:0 " §RErledigt:§!§Y Form SS Pzgren.-Div 'Totenkopf'§!\n"
  SS_TK_Reiter:0 " §RErledigt:§!§Y SS-Totenkopfreiter§!\n"
  SS_TK_Reiter_expand_1:0 " §RErledigt:§!§Y Erweiterung des 12. SS-Totenkopf Standarte Reiter§!\n"
- SS_TK_Reiter_regt:0 " §RErledigt:§!§Y Aufstellung des 1. und 2. TK-Reiter-Standarten-Regiments§!\n"
+ SS_TK_Reiter_regt:0 " §RErledigt:§!§Y Aufstellung des 1. und 2. TK-Reiterstandarten-Regiments§!\n"
  SS_Kav_brigade:0 " §RErledigt:§!§Y Aufstellung der SS-Kav.-Brigade§!\n"
  SS_florian_geyer:0 " §RErledigt:§!§Y Aufstellung der SS-Kav.-Division 'Florian Geyer'§!\n"
   
