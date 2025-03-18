@@ -657,7 +657,7 @@ scientist_trait_fast_learner_desc:	"Passt sich schnell an neue Herausforderungen
 scientist_trait_resourceful:	"Einfallsreich"
 scientist_trait_resourceful_desc:	"Findet immer kreative Lösungen, auch wenn die Ressourcen knapp sind oder die Lage schlecht ist."
 scientist_trait_schrodingers_trait:	"Schrödingers Charaktereigenschaft"
-scientist_trait_schrodingers_trait_tt:	"XP-Gewinn für Wissenschaftler: §G+10%§!\nWissenschaftler-EP-Gewinn: §R-10%§!"
+scientist_trait_schrodingers_trait_tt:	"Erfahrungsgewinn für Wissenschaftler: §G+10%§!\nWissenschaftler-EP-Gewinn: §R-10%§!"
 scientist_trait_schrodingers_trait_desc:	"Bevor ein Beobachter die Box öffnet, bildet die Wellenfunktion, die die Eigenschaft beschreibt, eine Überlagerung der Zustände ''gut'' und ''schlecht''"
 scientist_trait_aircraft_specialist:	"Spezialist für Flugzeuge"
 scientist_trait_aircraft_specialist_desc:	"Ein Spezialist für Aerodynamik und Flugzeugdesign, der in der Lage ist, überlegene Flugzeugzellen, Motoren und Designs zu entwickeln, um den Himmel zu beherrschen."
