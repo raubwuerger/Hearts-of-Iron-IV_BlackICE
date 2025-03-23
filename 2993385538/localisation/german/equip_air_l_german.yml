@@ -280,12 +280,11 @@ mr_fighter_equipment_1944_desc:0	"Jagdflugzeuge, die als traditionelle Abfangjä
 quad_engine_bomber_equipment:0	"Schwerer Bomber"
 
 
-twin_CAS:0	"Zweimotorige Sturzkampfbomber"
-twin_cas:0	"Zweimotoriges Sturzkampfbomber"
-twin_cas_equipment:0	"Zweimotoriges Sturzkampfbomber"
+twin_cas:0	"Zweimotoriger Sturzkampfbomber"
+twin_cas_equipment:0	"Zweimotoriger Sturzkampfbomber"
 twin_cas_equipment_1936:0	"Zweimotorige Sturzkampfbomber 1936"
 twin_cas_equipment_1936_short:0	"Zweimotorige Sturzkampfbomber 1936"
-twin_cas_equipment_1936_desc:0	"Unsere Sturzkampfbomber-Doktrin erfordert ein Flugzeug, das in der Lage ist, Präzisionsangriffe über der Erde durchzuführen. Obwohl diese Flugzeuge im Vergleich zu unseren größeren mittleren Bombern eine geringere Nutzlast mitführen, sind sie in der Lage, kleine Gelegenheitsziele durch Beschuss und Sturzbombenangriffe anzugreifen und zu zerstören."
+twin_cas_equipment_1936_desc:0	"Unsere Sturzkampfbomber Doktrin erfordert ein Flugzeug, das in der Lage ist, Präzisionsangriffe über der Erde durchzuführen. Obwohl diese Flugzeuge im Vergleich zu unseren größeren mittleren Bombern eine geringere Nutzlast mitführen, sind sie in der Lage, kleine Gelegenheitsziele durch Beschuss und Sturzbombenangriffe anzugreifen und zu zerstören."
 twin_cas_equipment_1940:0	"Zweimotorige Sturzkampfbomber 1940"
 twin_cas_equipment_1940_short:0	"Zweimotorige Sturzkampfbomber 1940"
 twin_cas_equipment_1940_desc:0	"Die ersten Kriegserfahrungen haben gezeigt, dass eine höhere Geschwindigkeit, Panzerung und Manövrierfähigkeit erforderlich sind, damit Sturzkampfbomber gegen feindliche Jäger und Bodenfeuer überleben können. Diese nächste Generation von Bodenangriffsflugzeugen wird auch größere Bomben, Kanonen und Maschinengewehre einsetzen, um ihren Zielen größeren Schaden zuzufügen."
@@ -293,18 +292,18 @@ twin_cas_equipment_1944:0	"Zweimotorige Sturzkampfbomber 1944"
 twin_cas_equipment_1944_short:0	"Zweimotorige Sturzkampfbomber 1944"
 twin_cas_equipment_1944_desc:0	"Die ständig zunehmenden Fähigkeiten der Zielabwehr und der feindlichen Abfangjäger erfordern eine Weiterentwicklung unserer Sturzkampfbomber. Die neue Konstruktion umfasst eine höhere Triebwerksleistung, Verbesserungen an der Flugzeugzelle für bessere Tauchfähigkeit und Schutz sowie eine noch größere Nutzlast."
 
-fast_bomber:0	"Schneller Bomber"
-fast_bomber_equipment:0	"Schneller Bomber"
-fast_bomber_equipment_1936:0	"Schneller Bomber 1936"
-fast_bomber_equipment_1936_short:0	"Schneller Bomber 1936"
+fast_bomber:0	"Schnellbomber"
+fast_bomber_equipment:0	"Schnellbomber"
+fast_bomber_equipment_1936:0	"Schnellbomber 1936"
+fast_bomber_equipment_1936_short:0	"Schnellbomber 1936"
 fast_bomber_equipment_1936_desc:0	"Schnelle Bomber sind auf leichte Nutzlast und hohe Geschwindigkeit ausgerichtet. Der Feind wird nicht wissen, was sie sind."
 
-fast_bomber_equipment_1940:0	"Schnell-Bomber 1940"
-fast_bomber_equipment_1940_short:0	"Fast-Bomber 1940"
+fast_bomber_equipment_1940:0	"Schnellbomber 1940"
+fast_bomber_equipment_1940_short:0	"Schnellbomber 1940"
 
 
-fast_bomber_equipment_1944:0	"Schnell-Bomber 1944"
-fast_bomber_equipment_1944_short:0	"Schneller Bomber 1944"
+fast_bomber_equipment_1944:0	"Schnellbomber 1944"
+fast_bomber_equipment_1944_short:0	"Schnellbomber 1944"
 fast_bomber_equipment_1944_desc:0	"Schnelle Bomber sind auf leichte Nutzlast und hohe Geschwindigkeit ausgelegt. Der Feind wird nicht wissen, was sie sind."
 
 suicide_craft_equipment:0	"Kamikazeflugzeug"
@@ -321,7 +320,7 @@ lt_bomber_equipment_1944:0	"Leichter Bomber 1944"
 lt_bomber_equipment_1944_short:0	"Leichter Bomber 1944"
 lt_bomber_equipment_1944_desc:0	"Leichte Bomber werden von Ländern eingesetzt, die nicht über die industrielle Kraft verfügen, schwere Bomber zu produzieren."
 
-jet_cas_equipment:0	"Strahlluftunterstützung"
+jet_cas_equipment:0	"Luftnahunterstützung (Strahlgetrieben)"
 
 scout_plane:0	"Aufklärungsflugzeug"
 scout_plane_equipment_desc:0	"Ein speziell für die Fotoaufklärung entwickeltes Flugzeug. Verlässt sich in erster Linie auf Geschwindigkeit und Tarnkappe, um zu überleben, und wird in jedem Nahkampf verlieren."

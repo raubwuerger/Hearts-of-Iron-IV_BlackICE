@@ -1103,7 +1103,7 @@ war_propaganda_bombing:0	"Den Geist stärken"
 war_propaganda_bombing_desc:0	"Obwohl überall um uns herum Bomben fallen, kämpfen unsere tapferen Arbeiter weiter. Durch diesen Geist werden wir siegreich sein."
     
   ############### Ausländische MIOs ############## "############### Ausländische MIOs ##############"
-available_mio_tt:	"§GAverfügbar§! als §YMilitary Industrial Organization§!: "
+available_mio_tt:	"§GAverfügbar§! als §YMilitärisch-industrielle Organisation§!: "
 foreign_mio_decisions_category:	"Ausländische Industrien einladen"
 invite_GER_henschel_organization:	"Lade §Y$GER_henschel_organization$§! zu §Y[ROOT.GetNameWithFlag]§! ein!"
 invite_SOV_okmo_organization:	"Lade §Y$SOV_okmo_organization$§! zu §Y[ROOT.GetNameWithFlag]§! ein!"

@@ -6970,7 +6970,7 @@ italy.30.e:0 "Erstelle dies als Marionettennation. (Aber behalten Sie unsere Gen
  blackicenavalevents.11.t:0 "Das Schlachtschiff der Montana-Klasse"
  blackicenavalevents.11.d:0 "Das Bureau of Ships hat die Entwicklung des Schlachtschiffs der Montana-Klasse abgeschlossen. Die Montana-Klasse war größer und stärker gepanzert als die Illinois-Klasse, was zu Lasten der Geschwindigkeit ging. Ihre Hauptbewaffnung besteht aus 12 Kanonen des Kalibers 18-Zoll/50 und mit unserem neuesten Feuerleitsystem wird die Feuerkraft der Montana unübertroffen sein. Ursprüngliche Entwürfe sahen 6-Zoll-Geschütze vor, aber dies wurde geändert, um zu den 5-Zoll-Doppelturmgeschützen zurückzukehren."
  blackicenavalevents.11.a:0 "Unglaubliche Neuigkeiten."
- blackicenavalevents.12.t:0 "Der Eskortträger der Casablanca-Klasse"
+ blackicenavalevents.12.t:0 "Der Geleitflugzeugträger der Casablanca-Klasse"
  blackicenavalevents.12.d:0 "Das Bureau of Ships hat die Entwicklung des Geleitträgers der Casablanca-Klasse abgeschlossen. Die Geleitträger der Casablanca-Klasse sind die zahlreichsten Flugzeugträger, die jemals gebaut wurden. Fünfzig von ihnen wurden innerhalb von weniger als zwei Jahren - vom 3. November 1942 bis zum 8. Juli 1944 - gebaut, vom Stapel gelassen und in Dienst gestellt. Dies war fast ein Drittel der 151 Flugzeugträger, die während des Krieges in den Vereinigten Staaten gebaut wurden. Sie verfügte über ein größeres und nützlicheres Hangardeck als frühere Umbauten. Außerdem hatte sie ein größeres Flugdeck als die Bogue-Klasse. Im Gegensatz zu den größeren Trägern, die über eine umfangreiche Panzerung verfügten, beschränkte sich der Schutz auf die Splitterpanzerung, so dass die Trägerkonstruktion sehr verwundbar war."
  blackicenavalevents.12.a:0 "Das wird uns helfen."
  blackicenavalevents.13.t:0 "Der Zerstörer der Fletcher-Klasse"
@@ -7642,31 +7642,31 @@ italy.30.e:0 "Erstelle dies als Marionettennation. (Aber behalten Sie unsere Gen
 
  EAI_M.125.a:0 "Okay."
 
- RES_NUM_1:0 "[research_centre_target_1.GetName] | Owner: [research_centre_target_1.Owner.GetName] | Controller: [research_centre_target_1.Controller.GetName][Root.GetResearchCentre1Status]"
+ RES_NUM_1:0 "[research_centre_target_1.GetName] | Eigentümer: [research_centre_target_1.Owner.GetName] | Besatzer: [research_centre_target_1.Controller.GetName][Root.GetResearchCentre1Status]"
  RES_NO_1:0 "   | §R-1§! £tech_mod"
  RES_YES_1:0 "   | §G+1§! £tech_mod"
 
- RES_NUM_2:0 "\n\n\n[research_centre_target_2.GetName] | Eigentümer: [research_centre_target_2.Owner.GetName] | Controller: [research_centre_target_2.Controller.GetName][Root.GetResearchCentre2Status]"
+ RES_NUM_2:0 "\n\n\n[research_centre_target_2.GetName] | Eigentümer: [research_centre_target_2.Owner.GetName] | Besatzer: [research_centre_target_2.Controller.GetName][Root.GetResearchCentre2Status]"
  RES_NO_2:0 "   | §R-1§! £tech_mod"
  RES_YES_2:0 "   | §G+1§! £tech_mod"
 
- RES_NUM_3:0 "\n\n\n[research_centre_target_3.GetName] | Eigentümer: [research_centre_target_3.Owner.GetName] | Controller: [research_centre_target_3.Controller.GetName][Root.GetResearchCentre3Status]"
+ RES_NUM_3:0 "\n\n\n[research_centre_target_3.GetName] | Eigentümer: [research_centre_target_3.Owner.GetName] | Besatzer: [research_centre_target_3.Controller.GetName][Root.GetResearchCentre3Status]"
  RES_NO_3:0 "   | §R-1§! £tech_mod"
  RES_YES_3:0 "   | §G+1§! £tech_mod"
 
- RES_NUM_4:0 "\n\n\n[research_centre_target_4.GetName] | Eigentümer: [research_centre_target_4.Owner.GetName] | Controller: [research_centre_target_4.Controller.GetName][Root.GetResearchCentre4Status]"
+ RES_NUM_4:0 "\n\n\n[research_centre_target_4.GetName] | Eigentümer: [research_centre_target_4.Owner.GetName] | Besatzer: [research_centre_target_4.Controller.GetName][Root.GetResearchCentre4Status]"
  RES_NO_4:0 "   | §R-1§! £tech_mod"
  RES_YES_4:0 "   | §G+1§! £tech_mod"
 
- RES_NUM_5:0 "\n\n\n[research_centre_target_5.GetName] | Eigentümer: [research_centre_target_5.Owner.GetName] | Controller: [research_centre_target_5.Controller.GetName][Root.GetResearchCentre5Status]"
+ RES_NUM_5:0 "\n\n\n[research_centre_target_5.GetName] | Eigentümer: [research_centre_target_5.Owner.GetName] | Besatzer: [research_centre_target_5.Controller.GetName][Root.GetResearchCentre5Status]"
  RES_NO_5:0 "   | §R-1§! £tech_mod"
  RES_YES_5:0 "   | §G+1§! £tech_mod"
 
- RES_NUM_6:0 "\n\n\n[research_centre_target_6.GetName] | Eigentümer: [research_centre_target_6.Owner.GetName] | Controller: [research_centre_target_6.Controller.GetName][Root.GetResearchCentre6Status]"
+ RES_NUM_6:0 "\n\n\n[research_centre_target_6.GetName] | Eigentümer: [research_centre_target_6.Owner.GetName] | Besatzer: [research_centre_target_6.Controller.GetName][Root.GetResearchCentre6Status]"
  RES_NO_6:0 "   | §R-1§! £tech_mod"
  RES_YES_6:0 "   | §G+1§! £tech_mod"
 
- RES_NUM_7:0 "\n\n\n[research_centre_target_7.GetName] | Eigentümer: [research_centre_target_7.Owner.GetName] | Controller: [research_centre_target_7.Controller.GetName][Root.GetResearchCentre7Status]"
+ RES_NUM_7:0 "\n\n\n[research_centre_target_7.GetName] | Eigentümer: [research_centre_target_7.Owner.GetName] | Besatzer: [research_centre_target_7.Controller.GetName][Root.GetResearchCentre7Status]"
  RES_NO_7:0 "   | §R-1§! £tech_mod"
  RES_YES_7:0 "   | §G+1§! £tech_mod"
 

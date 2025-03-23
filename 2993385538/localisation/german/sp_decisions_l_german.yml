@@ -13,7 +13,7 @@ sp_berlin_siemens_desc:0 "\"Ich bin in eurer Mitte aufgewachsen! Ich stand einst
 sp_hitlerjugend:0 "Ansprache an die Hitlerjugend"
 sp_hitlerjugend_desc:0 "\"Wir wollen keine Klassenunterschiede mehr sehen. Das dürft ihr nicht zulassen!\"" 
 sp_freemarket:0 "Prangert die freie Marktwirtschaft an"
-sp_freemarket_desc:0 "\"Die schlimmste Illusion ist es zu glauben, dass man von etwas leben kann, das nicht vorher durch Arbeit geschaffen und produziert wurde.\"" 
+sp_freemarket_desc:0 "\"Die schlimmste Illusion ist es zu glauben, dass man von etwas leben kann, das nicht vorher durch Arbeit geschaffen und produziert wurde.\""
 sp_falloffrance:0 "Rede vor dem Reichstag zum Fall Frankreichs"
 sp_falloffrance_desc:0 "\"Herr Churchill sollte eine Ausnahme machen und mir Vertrauen schenken, wenn ich jetzt als Prophet verkünde: Ein großes Reich wird zerstört werden! Ich bin mir völlig darüber im Klaren, dass die Fortsetzung dieses Krieges nur mit der vollständigen Zerschlagung einer der beiden Kriegsparteien enden kann. Mr. Churchill mag glauben, dass dies Deutschland ist. Ich weiß, dass es England ist!\"" 
 declare_war_POL:0 "Erkläre Polen den Krieg"

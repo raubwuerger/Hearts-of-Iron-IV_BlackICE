@@ -71,8 +71,21 @@ handgekurbelt
 \D
 \S
 
-Anti-Air -> Luftabwehr
+Belgian Core States
+Occupation Law
+State Controller
+Controller
+Subject
+Owner
 
+Secretaries General
+Occupation Law
+Offmap
+Coastal State
 
-Paradrop Efficiency
-WUW_focus_l_english.yml übersetzen
+Capital Ships
+Screen Ships
+Capital Shipyard Capacity
+Carriers
+Gebäudegesundheit
+angefochten

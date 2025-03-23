@@ -32,7 +32,7 @@ PRODUCTION_REPAIRING_PAUSED_NAVAL_TRANSFER:0	"Reparaturen werden derzeit pausier
 PRODUCTION_PRODUCING_NO_FACTORIES:0	"§RKeine Fabriken zugewiesen§!"
 PRODUCTION_PRODUCING_NONE:0	"§RKeine§!"
 PRODUCTION_CAN_NOT_DEPLOY:0	"§RKann nicht aufgestellt werden§!"
-PRODUCTION_CAN_NOT_DEPLOY_MANPOWER:0	"Unzureichende Mannschaften"
+PRODUCTION_CAN_NOT_DEPLOY_MANPOWER:0	"Unzureichende Mannschaftsstärke"
 PRODUCTION_CAN_NOT_DEPLOY_NO_CAPITAL:0	"Kapital unzugänglich"
 PRODUCTION_INCREASE_PRIORITY_LABEL:0	"§GKlicken Sie auf §YHöhere Priorität§!.\nShift+Klicken Sie, um der Produktion §YHöchste Priorität§! zu geben!§!"
 PRODUCTION_DECREASE_PRIORITY_LABEL:0	"§GKlicken Sie auf §YHerabsetzen der Priorität§!.\nUmschalt+Klick, um der Produktion §HNiedrigste Priorität§! zu geben.§!"

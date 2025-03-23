@@ -184,7 +184,7 @@
  trm_light_tank_destroyer_equipment_ger_panzer1_2:0 "Panzerjäger I"
  trm_light_tank_destroyer_equipment_ger_panzer1_2_short:0 "Panzerjäger I"
 
- trm_light_tank_artillery_chassis_ger_panzer1_2:0 "PzKpfw I Ausf.B Fahrgestell (SPG)"
+ trm_light_tank_artillery_chassis_ger_panzer1_2:0 "PzKpfw I Ausf.B Fahrgestell (Sfl.)"
  trm_light_tank_artillery_equipment_ger_panzer1_2:0 "Sturmpanzer I Bison"
  trm_light_tank_artillery_equipment_ger_panzer1_2_short:0 "Sturmpanzer I"
 
@@ -227,10 +227,10 @@
  trm_light_tank_destroyer_equipment_ger_panzer2_3:0 "Marder II/131"
  trm_light_tank_destroyer_equipment_ger_panzer2_3_short:0 "Marder II"
 
- trm_light_tank_artillery_chassis_ger_panzer2_2:0 "PzKpfw II Ausf.C Fahrgestell (SPG)"
+ trm_light_tank_artillery_chassis_ger_panzer2_2:0 "PzKpfw II Ausf.C Fahrgestell (Sfl.)"
  trm_light_tank_artillery_equipment_ger_panzer2_2:0 "Sturmpanzer II Bison"
  trm_light_tank_artillery_equipment_ger_panzer2_2_short:0 "Sturmpanzer II"
- trm_light_tank_artillery_chassis_ger_panzer2_3:0 "PzKpfw II Ausf.F Fahrgestell (SPG)"
+ trm_light_tank_artillery_chassis_ger_panzer2_3:0 "PzKpfw II Ausf.F Fahrgestell (Sfl.)"
  trm_light_tank_artillery_equipment_ger_panzer2_3:0 "Wespe"
  trm_light_tank_artillery_equipment_ger_panzer2_3_short:0 "Wespe"
 
@@ -260,7 +260,7 @@
  trm_cavalry_tank_equipment_ger_panzer2_1_short:0 "PzKpfw II D"
 
  trm_cavalry_tank_chassis_ger_pz35_1:0 "PzKpfw 35(t) Fahrgestell"
- trm_cavalry_tank_chassis_ger_pz35_1_desc:0 "Typ - Kavalleriepanzer\n\n Obwohl er sofort in die Panzerdivisionen aufgenommen wurde, kam für den LT vz.35 kein Auftrag für eine erneute Produktion, da die Deutschen die pneumatische Anlage als veraltet und zu kompliziert ansahen und sich dafür entschieden, den Panzer nur an die bestmöglichen Bedingungen anzupassen.\n\n Außer den Standardarmaturen der Wehrmacht waren keine umfangreichen Änderungen erforderlich. Nach der Umrüstung erhielten alle LT vz. 35-Panzer ihre neue Bezeichnung Panzerkampfwagen 35 (t).\n\n In vielerlei Hinsicht war der PzKpfw 35(t) eine für seine Zeit fortschrittliche Konstruktion und bei seinen Besatzungen stets beliebt. Er hatte jedoch einen fatalen Makel: Er kam nicht mit der Kälte zurecht, wodurch das pneumatische Getriebe nicht funktionierte. Ein weiteres Problem war, dass das Fahrgestell zu schwach für die SPG-Befestigung war. Aus diesen Gründen wurde er an schwächere Alliierte wie Ungarn, Bulgarien und Rumänien exportiert.\n\n\nMax Panzerung: 35mm\nMax Motor: 160 PS."
+ trm_cavalry_tank_chassis_ger_pz35_1_desc:0 "Typ - Kavalleriepanzer\n\n Obwohl er sofort in die Panzerdivisionen aufgenommen wurde, kam für den LT vz.35 kein Auftrag für eine erneute Produktion, da die Deutschen die pneumatische Anlage als veraltet und zu kompliziert ansahen und sich dafür entschieden, den Panzer nur an die bestmöglichen Bedingungen anzupassen.\n\n Außer den Standardarmaturen der Wehrmacht waren keine umfangreichen Änderungen erforderlich. Nach der Umrüstung erhielten alle LT vz. 35-Panzer ihre neue Bezeichnung Panzerkampfwagen 35 (t).\n\n In vielerlei Hinsicht war der PzKpfw 35(t) eine für seine Zeit fortschrittliche Konstruktion und bei seinen Besatzungen stets beliebt. Er hatte jedoch einen fatalen Makel: Er kam nicht mit der Kälte zurecht, wodurch das pneumatische Getriebe nicht funktionierte. Ein weiteres Problem war, dass das Fahrgestell zu schwach für die Sfl.-Befestigung war. Aus diesen Gründen wurde er an schwächere Alliierte wie Ungarn, Bulgarien und Rumänien exportiert.\n\n\nMax Panzerung: 35mm\nMax Motor: 160 PS."
  trm_cavalry_tank_equipment_ger_pz35_1:0 "Panzerkampfwagen 35(t)"
  trm_cavalry_tank_equipment_ger_pz35_1_short:0 "PzKpfw 35(t)"
 
@@ -302,10 +302,10 @@
  trm_cavalry_tank_destroyer_equipment_ger_pz38_3:0 "Jagdpanzer 38(d)"
  trm_cavalry_tank_destroyer_equipment_ger_pz38_3_short:0 "Jagdpanzer 38(d)"
 
- trm_cavalry_tank_artillery_chassis_ger_pz38_1:0 "PzKpfw 38(t) Ausf.A Fahrgestell (SPG)"
+ trm_cavalry_tank_artillery_chassis_ger_pz38_1:0 "PzKpfw 38(t) Ausf.A Fahrgestell (Sfl.)"
  trm_cavalry_tank_artillery_equipment_ger_pz38_1:0 "Sturmpanzer 38(t)"
  trm_cavalry_tank_artillery_equipment_ger_pz38_1_short:0 "Kühlergrill"
- trm_cavalry_tank_artillery_chassis_ger_pz38_2:0 "PzKpfw 38(t) Ausf.G Fahrgestell (SPG)"
+ trm_cavalry_tank_artillery_chassis_ger_pz38_2:0 "PzKpfw 38(t) Ausf.G Fahrgestell (Sfl.)"
  trm_cavalry_tank_artillery_equipment_ger_pz38_2:0 "Sturmpanzer 38(t)"
  trm_cavalry_tank_artillery_equipment_ger_pz38_2_short:0 "Kühlergrill"
 
@@ -337,16 +337,16 @@
  trm_medium_tank_cs_equipment_ger_panzer3_5:0 "Panzerkampfwagen III Ausf.N"
  trm_medium_tank_cs_equipment_ger_panzer3_5_short:0 "PzKpfw III N"
 
- trm_medium_tank_assault_gun_chassis_ger_panzer3_2:0 "PzKpfw III Ausf.E Chassis (AG)"
+ trm_medium_tank_assault_gun_chassis_ger_panzer3_2:0 "PzKpfw III Ausf.E Fahrgestell (Stug)"
  trm_medium_tank_assault_gun_equipment_ger_panzer3_2:0 "Sturmgeschütz III"
  trm_medium_tank_assault_gun_equipment_ger_panzer3_2_short:0 "StuG III"
- trm_medium_tank_assault_gun_chassis_ger_panzer3_3:0 "PzKpfw III Ausf.F Chassis (AG)"
+ trm_medium_tank_assault_gun_chassis_ger_panzer3_3:0 "PzKpfw III Ausf.F Fahrgestell (Stug)"
  trm_medium_tank_assault_gun_equipment_ger_panzer3_3:0 "Sturmgeschütz III Ausf.E"
  trm_medium_tank_assault_gun_equipment_ger_panzer3_3_short:0 "StuG III E"
- trm_medium_tank_assault_gun_chassis_ger_panzer3_4:0 "PzKpfw III Ausf.J Fahrgestell (AG)"
+ trm_medium_tank_assault_gun_chassis_ger_panzer3_4:0 "PzKpfw III Ausf.J Fahrgestell (Stug)"
  trm_medium_tank_assault_gun_equipment_ger_panzer3_4:0 "Sturmhaubitze 42 Ausf.F"
  trm_medium_tank_assault_gun_equipment_ger_panzer3_4_short:0 "StuH 42 F"
- trm_medium_tank_assault_gun_chassis_ger_panzer3_5:0 "PzKpfw III Ausf.M Fahrgestell (AG)"
+ trm_medium_tank_assault_gun_chassis_ger_panzer3_5:0 "PzKpfw III Ausf.M Fahrgestell (Stug)"
  trm_medium_tank_assault_gun_equipment_ger_panzer3_5:0 "Sturmhaubitze 42 Ausf.G"
  trm_medium_tank_assault_gun_equipment_ger_panzer3_5_short:0 "StuH 42 G"
 
@@ -367,16 +367,16 @@
  trm_medium_tank_destroyer_equipment_ger_panzer3_5:0 "Sturmgeschütz III Ausf.G"
  trm_medium_tank_destroyer_equipment_ger_panzer3_5_short:0 "StuG III G"
 
- trm_medium_tank_artillery_chassis_ger_panzer3_2:0 "PzKpfw III Ausf.E Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_ger_panzer3_2:0 "PzKpfw III Ausf.E Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_ger_panzer3_2:0 "Sturm-Infanteriegeschütz 33B"
  trm_medium_tank_artillery_equipment_ger_panzer3_2_short:0 "StuIG 33"
- trm_medium_tank_artillery_chassis_ger_panzer3_3:0 "PzKpfw III Ausf.F Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_ger_panzer3_3:0 "PzKpfw III Ausf.F Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_ger_panzer3_3:0 "Geschützwagen III Ausf.F"
  trm_medium_tank_artillery_equipment_ger_panzer3_3_short:0 "G.W. III F"
- trm_medium_tank_artillery_chassis_ger_panzer3_4:0 "PzKpfw III Ausf.J Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_ger_panzer3_4:0 "PzKpfw III Ausf.J Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_ger_panzer3_4:0 "Geschützwagen III Ausf.J"
  trm_medium_tank_artillery_equipment_ger_panzer3_4_short:0 "G.W. III J"
- trm_medium_tank_artillery_chassis_ger_panzer3_5:0 "PzKpfw III Ausf.M Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_ger_panzer3_5:0 "PzKpfw III Ausf.M Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_ger_panzer3_5:0 "Geschützwagen III Ausf.M"
  trm_medium_tank_artillery_equipment_ger_panzer3_5_short:0 "G.W. III M"
 
@@ -453,10 +453,10 @@
  trm_medium_tank_destroyer_equipment_ger_panzer4_4:0 "Jagdpanzer IV"
  trm_medium_tank_destroyer_equipment_ger_panzer4_4_short:0 "Jagdpanzer IV"
 
- trm_medium_tank_artillery_chassis_ger_panzer4_3:0 "PzKpfw IV Ausf.F Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_ger_panzer4_3:0 "PzKpfw IV Ausf.F Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_ger_panzer4_3:0 "Geschützwagen IV Ausf.F"
  trm_medium_tank_artillery_equipment_ger_panzer4_3_short:0 "G.W. IV F"
- trm_medium_tank_artillery_chassis_ger_panzer4_4:0 "PzKpfw IV Ausf.H Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_ger_panzer4_4:0 "PzKpfw IV Ausf.H Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_ger_panzer4_4:0 "Geschützwagen IV Ausf.H"
  trm_medium_tank_artillery_equipment_ger_panzer4_4_short:0 "G.W. IV H"
 
@@ -498,7 +498,7 @@
  trm_medium_tank_destroyer_equipment_ger_panzer34_1:0 "Geschützwagen III/IV Nashorn"
  trm_medium_tank_destroyer_equipment_ger_panzer34_1_short:0 "Nashorn"
 
- trm_medium_tank_artillery_chassis_ger_panzer34_1:0 "Geschützwagen III/IV Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_ger_panzer34_1:0 "Geschützwagen III/IV Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_ger_panzer34_1:0 "Geschützwagen III/IV Hummel"
  trm_medium_tank_artillery_equipment_ger_panzer34_1_short:0 "Hummel"
 
@@ -552,13 +552,13 @@
  trm_medium_advanced_tank_destroyer_equipment_ger_panther_3:0 "Jagdpanther Ausf.F"
  trm_medium_advanced_tank_destroyer_equipment_ger_panther_3_short:0 "Jagdpanther F"
 
- trm_medium_advanced_tank_artillery_chassis_ger_panther_1:0 "Panther Ausf.D Fahrgestell (SPG)"
+ trm_medium_advanced_tank_artillery_chassis_ger_panther_1:0 "Panther Ausf.D Fahrgestell (Sfl.)"
  trm_medium_advanced_tank_artillery_equipment_ger_panther_1:0 "Geschützwagen Panther Ausf.D"
  trm_medium_advanced_tank_artillery_equipment_ger_panther_1_short:0 "G.W. Panther D"
- trm_medium_advanced_tank_artillery_chassis_ger_panther_2:0 "Panther Ausf.G Fahrgestell (SPG)"
+ trm_medium_advanced_tank_artillery_chassis_ger_panther_2:0 "Panther Ausf.G Fahrgestell (Sfl.)"
  trm_medium_advanced_tank_artillery_equipment_ger_panther_2:0 "Geschützwagen Panther Ausf.G"
  trm_medium_advanced_tank_artillery_equipment_ger_panther_2_short:0 "G.W. Panther G"
- trm_medium_advanced_tank_artillery_chassis_ger_panther_3:0 "Panther Ausf.F Fahrgestell (SPG)"
+ trm_medium_advanced_tank_artillery_chassis_ger_panther_3:0 "Panther Ausf.F Fahrgestell (Sfl.)"
  trm_medium_advanced_tank_artillery_equipment_ger_panther_3:0 "Geschützwagen Panther Ausf.F"
  trm_medium_advanced_tank_artillery_equipment_ger_panther_3_short:0 "G.W. Panther F"
 
@@ -879,13 +879,13 @@
  trm_medium_tank_destroyer_equipment_ita_m15_2:0 "Teilintegrierte M43 da 75/46"
  trm_medium_tank_destroyer_equipment_ita_m15_2_short:0 "M43 75/46"
 
- trm_medium_tank_artillery_chassis_ita_m14_1:0 "M14/41 Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_ita_m14_1:0 "M14/41 Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_ita_m14_1:0 "Halbierte M41 da 105/25"
  trm_medium_tank_artillery_equipment_ita_m14_1_short:0 "M41 105/25"
- trm_medium_tank_artillery_chassis_ita_m15_1:0 "M15/42 Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_ita_m15_1:0 "M15/42 Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_ita_m15_1:0 "Semovente M42 da 105/25"
  trm_medium_tank_artillery_equipment_ita_m15_1_short:0 "M42 105/25"
- trm_medium_tank_artillery_chassis_ita_m15_2:0 "M15/43 Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_ita_m15_2:0 "M15/43 Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_ita_m15_2:0 "Teilintegrierte M43 da 149/40"
  trm_medium_tank_artillery_equipment_ita_m15_2_short:0 "M43 149/40"
 
@@ -903,7 +903,7 @@
  trm_heavy_tank_equipment_ita_p30_2:0 "Fahrzeug Pesante P43bis"
  trm_heavy_tank_equipment_ita_p30_2_short:0 "P43bis"
 
- trm_heavy_tank_artillery_chassis_ita_p26_1:0 "P26/40 Fahrgestell (SPG)"
+ trm_heavy_tank_artillery_chassis_ita_p26_1:0 "P26/40 Fahrgestell (Sfl.)"
  trm_heavy_tank_artillery_equipment_ita_p26_1:0 "Semovente P40 da 149/40"
  trm_heavy_tank_artillery_equipment_ita_p26_1_short:0 "P40 149/40"
 
@@ -988,7 +988,7 @@
  trm_light_tank_equipment_usa_m24_1:0 "M24 Leichter Panzer"
  trm_light_tank_equipment_usa_m24_1_short:0 "M24 Chaffee"
 
- trm_light_tank_artillery_chassis_usa_m24_1:0 "M24 Fahrgestell (SPG)"
+ trm_light_tank_artillery_chassis_usa_m24_1:0 "M24 Fahrgestell (Sfl.)"
  trm_light_tank_artillery_equipment_usa_m24_1:0 "M37 Haubitzen-Motorwagen"
  trm_light_tank_artillery_equipment_usa_m24_1_short:0 "M37 HMC"
 
@@ -1016,7 +1016,7 @@
  trm_medium_tank_equipment_usa_m3_1:0 "M3 Mittlerer Panzer"
  trm_medium_tank_equipment_usa_m3_1_short:0 "M3 Lee"
 
- trm_medium_tank_artillery_chassis_usa_m3_1:0 "M3 Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_usa_m3_1:0 "M3 Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_usa_m3_1:0 "M12 Geschützmotorwagen"
  trm_medium_tank_artillery_equipment_usa_m3_1_short:0 "M12 GMC"
 
@@ -1027,10 +1027,10 @@
  USA_trm_medium_tank_equipment_usa_ram_1:0 "M4A5 Mittlerer Panzer"
  USA_trm_medium_tank_equipment_usa_ram_1_short:0 "M4A5 Ram"
 
- trm_medium_tank_artillery_chassis_usa_ram_1:0 "M3/Ram Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_usa_ram_1:0 "M3/Ram Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_usa_ram_1:0 "Sexton Mk.I"
  trm_medium_tank_artillery_equipment_usa_ram_1_short:0 "Sexton I"
- USA_trm_medium_tank_artillery_chassis_usa_ram_1:0 "M3/Ram Fahrgestell (SPG)"
+ USA_trm_medium_tank_artillery_chassis_usa_ram_1:0 "M3/Ram Fahrgestell (Sfl.)"
  USA_trm_medium_tank_artillery_equipment_usa_ram_1:0 "Sexton Haubitzen-Motorwagen"
  USA_trm_medium_tank_artillery_equipment_usa_ram_1_short:0 "Sexton HMC"
 
@@ -1055,10 +1055,10 @@
  trm_medium_tank_destroyer_equipment_usa_m4_2:0 "M36 Geschütz-Motorwagen"
  trm_medium_tank_destroyer_equipment_usa_m4_2_short:0 "M36 Jackson"
 
- trm_medium_tank_artillery_chassis_usa_m4_1:0 "M4 Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_usa_m4_1:0 "M4 Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_usa_m4_1:0 "M7 Haubitzen-Motorwagen"
  trm_medium_tank_artillery_equipment_usa_m4_1_short:0 "M7B Priester"
- trm_medium_tank_artillery_chassis_usa_m4_2:0 "M4A3 Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_usa_m4_2:0 "M4A3 Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_usa_m4_2:0 "M40 Geschütz-Motorwagen"
  trm_medium_tank_artillery_equipment_usa_m4_2_short:0 "M40 GMC"
 
@@ -1090,10 +1090,10 @@
  USA_trm_medium_tank_destroyer_equipment_usa_grizzly_1:0 "Achilles Kanonenmotorwagen"
  USA_trm_medium_tank_destroyer_equipment_usa_grizzly_1_short:0 "Achilles GMC"
 
- trm_medium_tank_artillery_chassis_usa_grizzly_1:0 "M4/Grizzly Fahrgestell (SPG)"
+ trm_medium_tank_artillery_chassis_usa_grizzly_1:0 "M4/Grizzly Fahrgestell (Sfl.)"
  trm_medium_tank_artillery_equipment_usa_grizzly_1:0 "Sexton Mk.II"
  trm_medium_tank_artillery_equipment_usa_grizzly_1_short:0 "Sexton II"
- USA_trm_medium_tank_artillery_chassis_usa_grizzly_1:0 "M4/Grizzly-Fahrgestell (SPG)"
+ USA_trm_medium_tank_artillery_chassis_usa_grizzly_1:0 "M4/Grizzly-Fahrgestell (Sfl.)"
  USA_trm_medium_tank_artillery_equipment_usa_grizzly_1:0 "Sexton Haubitzen-Motorwagen"
  USA_trm_medium_tank_artillery_equipment_usa_grizzly_1_short:0 "Sexton HMC"
 
@@ -1327,13 +1327,13 @@
  trm_infantry_tank_cs_equipment_eng_valentine_2:0 "Valentin Mk.III CS"
  trm_infantry_tank_cs_equipment_eng_valentine_2_short:0 "Valentine III CS"
 
- trm_infantry_tank_artillery_chassis_eng_valentine_1:0 "Valentine Mk.I (A15) Fahrgestell (SPG)"
+ trm_infantry_tank_artillery_chassis_eng_valentine_1:0 "Valentine Mk.I (A15) Fahrgestell (Sfl.)"
  trm_infantry_tank_artillery_equipment_eng_valentine_1:0 "Bishop Mk.I"
  trm_infantry_tank_artillery_equipment_eng_valentine_1_short:0 "Bishop I"
- trm_infantry_tank_artillery_chassis_eng_valentine_2:0 "Valentine Mk.III (A15) Fahrgestell (SPG)"
+ trm_infantry_tank_artillery_chassis_eng_valentine_2:0 "Valentine Mk.III (A15) Fahrgestell (Sfl.)"
  trm_infantry_tank_artillery_equipment_eng_valentine_2:0 "Bischof Mk.II"
  trm_infantry_tank_artillery_equipment_eng_valentine_2_short:0 "Läufer II"
- trm_infantry_tank_artillery_chassis_eng_valentine_3:0 "Valentine Mk.IX (A15) Fahrgestell (SPG)"
+ trm_infantry_tank_artillery_chassis_eng_valentine_3:0 "Valentine Mk.IX (A15) Fahrgestell (Sfl.)"
  trm_infantry_tank_artillery_equipment_eng_valentine_3:0 "Bischof Mk.III"
  trm_infantry_tank_artillery_equipment_eng_valentine_3_short:0 "Läufer III"
 

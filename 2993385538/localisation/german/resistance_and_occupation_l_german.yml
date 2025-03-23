@@ -12,7 +12,7 @@ RESISTANCE_TARGET_MODIFIER_PER_COMPLIANCE:0	"Einhaltung: $VALUE|-%0$"
 RESISTANCE_TARGET_MODIFIER_STATE_VP:0	"Nationale Siegpunkte £victory_points£: $VALUE|-%0$"
 RESISTANCE_TARGET_CAP_FOR_NON_COMPLIANCE:0	"Das Widerstandsziel ist von $CUR_TARGET|%0H$ auf $CAP|%0H$ gedeckelt und §HZustimmung§! ist nötig, um es weiter zu reduzieren"
 
-RESISTANCE_DECAY_MODIFIER_HAS_CLAIM:0	"Controller hat Anspruch: $VALUE|+%0$"
+RESISTANCE_DECAY_MODIFIER_HAS_CLAIM:0	"Besatzer hat Anspruch: $VALUE|+%0$"
 RESISTANCE_DECAY_MODIFIER_LOW_RESISTANCE:0	"Geringer Widerstand: $VALUE|+%0$"
 RESISTANCE_DECAY_VALUE:0	"£political_violence_texticon Widerstandsverfall: §G$VALUE|3$%§!"
 RESISTANCE_DECAY_VALUE_CAPPED:0	"£political_violence_texticon Widerstandsabbau: §G$VALUE|3$%§! (Gekappt von §G$VALUE_NON_CAPPED|3$%§!)"
@@ -245,6 +245,6 @@ non_core_controller_desc:0	"Eine Provinz, die von einer fremden Macht kontrollie
 recent_state_change:	"Hat kürlich den Besitzer gewechselt"
 
  #BI ""
-RESISTANCE_TARGET_MODIFIER_CLAIM:0	"Controller hat Anspruch: §G-10%§!"
+RESISTANCE_TARGET_MODIFIER_CLAIM:0	"Besatzer hat Anspruch: §G-10%§!"
 sabotage_coal:	"Sabotage der Kohleressourcen"
 sabotage_bauxite:	"Sabotage Bauxit-Ressourcen"

@@ -238,7 +238,7 @@ SOV_relocate_industry_from_stalingrad:0 "Verlagerung der Industrie aus Stalingra
 SOV_relocate_industry_from_stalingrad_desc:0 "Die Evakuierung der schweren Maschinen unserer Stalingrader Fabriken in den Ural ist ein gewaltiges Unterfangen, aber es ist notwendig, um unsere Kriegsproduktion zu sichern."
 SOV_relocate_industry_from_stalingrad_tt:0 "§RDiese Auswirkungen erfordern die Kontrolle über Stalingrad, wenn die Entscheidung ausläuft.§!"
 relocate_industry_repair:1 "Einige Fabriken werden wieder aufgebaut werden müssen!"
-ROOT_div_in_state_TT:0 "Mindestens §Y1§! Division in §YState§!"
+ROOT_div_in_state_TT:0 "Mindestens §Y1§! Division in §YProvinz§!"
 SOV_order_227:0 "Befehl 227"
 SOV_order_227_desc:0 "Es ist an der Zeit, den Rückzug zu beenden. Nicht einen Schritt zurück!"
 SOV_remove_order_227:0 "Befehl 227 aufheben"
@@ -272,49 +272,49 @@ GER_take_stalingrad_desc:0 "Die Einnahme von Stalingrad wird Stalin selbst demü
 
 SOV_scorched_earth_western_ukraine:0 "Führen Sie verbrannte Erde in der Westukraine aus"
 SOV_scorched_earth_western_ukraine_desc:0 "Wir können die Infrastruktur nur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-SOV_scorched_earth_western_ukraine_TT:0 "Kontrolliert jeden §YStaat§! in der §YWestukraine§! Strategisches Gebiet"
+SOV_scorched_earth_western_ukraine_TT:0 "Kontrolliert jede §YProvinz§! in der §YWestukraine§! Strategisches Gebiet"
 
 SOV_scorched_earth_central_ukraine:0 "Führt Verbrannte Erde in der Zentralukraine aus"
 SOV_scorched_earth_central_ukraine_desc:0 "Wir können nur die Infrastruktur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-SOV_scorched_earth_central_ukraine_TT:0 "Kontrolliert einen beliebigen §YStaat§! in der §YZentralukraine§! Strategisches Gebiet"
+SOV_scorched_earth_central_ukraine_TT:0 "Kontrolliert eine beliebige §YProvinz§! in der §YZentralukraine§! Strategisches Gebiet"
 
 SOV_scorched_earth_eastern_ukraine:0 "Führt verbrannte Erde in der Ostukraine aus"
 SOV_scorched_earth_eastern_ukraine_desc:0 "Wir können nur die Infrastruktur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-SOV_scorched_earth_eastern_ukraine_TT:0 "Kontrolliert einen beliebigen §YStaat§! in der §YOstukraine§! Strategisches Gebiet"
+SOV_scorched_earth_eastern_ukraine_TT:0 "Kontrolliert eine beliebige §YProvinz§! in der §YOstukraine§! Strategisches Gebiet"
 
 SOV_scorched_earth_caucasus_region:0 "Führen Sie Verbrannte Erde im Kaukasus aus"
 SOV_scorched_earth_caucasus_region_desc:0 "Wir können nur die Infrastruktur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-SOV_scorched_earth_caucasus_region_TT:0 "Kontrolliert jeden §YStaat§! im §YKaukasus§! Strategisches Gebiet"
+SOV_scorched_earth_caucasus_region_TT:0 "Kontrolliert jede §YProvinz§! im §YKaukasus§! Strategisches Gebiet"
 
 SOV_scorched_earth_kuban_region:0 "Führen Sie verbrannte Erde in der Kuban-Region aus"
 SOV_scorched_earth_kuban_region_desc:0 "Wir können nur die Infrastruktur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-SOV_scorched_earth_kuban_region_TT:0 "Kontrolliert jeden §YStaat§! im §YKuban§! Strategisches Gebiet"
+SOV_scorched_earth_kuban_region_TT:0 "Kontrolliert jeden §YProvinz§! im §YKuban§! Strategisches Gebiet"
 
 SOV_scorched_earth_baltics:0 "Führt verbrannte Erde im Baltikum aus"
 SOV_scorched_earth_baltics_desc:0 "Wir können die Infrastruktur nur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-SOV_scorched_earth_baltics_TT:0 "Kontrolliert einen beliebigen §YStaat§! im §YBaltikum§!"
+SOV_scorched_earth_baltics_TT:0 "Kontrolliert einen beliebigen §YProvinz§! im §YBaltikum§!"
 
 SOV_scorched_earth_moscow:0 "Verbrannte Erde bei Moskau ausführen"
 SOV_scorched_earth_moscow_desc:0 "Wir können die Infrastruktur nur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-SOV_scorched_earth_moscow_TT:0 "Kontrolliert einen beliebigen §YStaat§! im §YMoskau§!"
+SOV_scorched_earth_moscow_TT:0 "Kontrolliert einen beliebigen §YProvinz§! im §YMoskau§!"
 
 SOV_scorched_earth_byelorussia:0 "Verbrannte Erde in Weißrussland ausführen"
 SOV_scorched_earth_caucasus:0 "Führen Sie verbrannte Erde im Kaukasus aus"
 SOV_scorched_earth_ukraine:0 "Verbrannte Erde in der Ukraine ausführen"
 SOV_scorched_earth_stalingrad:0 "Verbrannte Erde an den Zufahrten nach Stalingrad ausführen"
 SOV_scorched_earth_byelorussia_desc:0 "Wir können die Infrastruktur nur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-SOV_scorched_earth_byelorussia_TT:0 "Kontrolliert jeden §YState§! im §YBelarus§! Strategisches Gebiet"
+SOV_scorched_earth_byelorussia_TT:0 "Kontrolliert jeden §YProvinz§! im §YBelarus§! Strategisches Gebiet"
 
 SOV_scorched_earth_stalingrad_desc:0 "Wir können nur die Infrastruktur in Staaten sabotieren, in denen noch sowjetische Divisionen stehen."
-SOV_scorched_earth_stalingrad_TT:0 "Kontrolliert einen beliebigen §YStaat§! im §YStalingrad§! Strategisches Gebiet"
+SOV_scorched_earth_stalingrad_TT:0 "Kontrolliert einen beliebigen §YProvinz§! im Strategischen Gebiet von §YStalingrad§! "
 
 SOV_scorched_earth_kursk_area:0 "Führt verbrannte Erde in der Region Kursk aus"
 SOV_scorched_earth_kursk_area_desc:0 "Wir können nur Infrastruktur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-SOV_scorched_earth_kursk_area_TT:0 "Kontrolliert einen beliebigen §YState§! im §YKursk§! Strategisches Gebiet"
+SOV_scorched_earth_kursk_area_TT:0 "Kontrolliert eine beliebige §YProvinz§! im Strategischen Gebiet von §YKursk§! "
 
 SOV_scorched_earth_smolensk:0 "Führen Sie Verbrannte Erde in der Region Smolensk aus"
 SOV_scorched_earth_smolensk_desc:0 "Wir können nur die Infrastruktur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-SOV_scorched_earth_smolensk_TT:0 "Kontrolliert jeden §YState§! im §YSmolensk§! Strategisches Gebiet"
+SOV_scorched_earth_smolensk_TT:0 "Kontrolliert jede §YProvinz§! im Strategischen Gebiet von §YSmolensk§! "
 
 SOV_winter_offensive:0 "Sowjetische Winteroffensive"
 SOV_winter_offensive_desc:0 "Ausländische Invasoren unterschätzen oft die Stärke des russischen Winters. Unsere Truppen hingegen sind vorbereitet und bereit zu kämpfen!"

@@ -441,7 +441,7 @@ GUN_EMPLACMEENT_AIR_REGION_RIGHT_CLICK_NOT_ALL:	"§RNicht alle ausgewählten $me
 ROCKET_AIR_REGION_RIGHT_CLICK_NONE:	"§RNEine der ausgewählten Raketen kann hier zugewiesen werden:§!"
 GUN_EMPLACEMENT_AIR_REGION_RIGHT_CLICK_NONE:	"§RNeiner der ausgewählten $mega_gun_emplacement$ kann hier zugewiesen werden:§!"
 ROCKET_AIR_REGION_RIGHT_CLICK:	"§RKlicken Sie mit der rechten Maustaste, um diesem Zielbereich Raketen zuzuweisen§!"
-GUN_EMPLACEMENT_AIR_REGION_RIGHT_CLICK:	"§Rechtsklick, um $mega_gun_emplacement$ diesem Zielbereich zuzuordnen§!"
+GUN_EMPLACEMENT_AIR_REGION_RIGHT_CLICK:	"§GRechtsklick, um $mega_gun_emplacement$ diesem Zielbereich zuzuordnen§!"
 ROCKET_NO_EQUIPMENT:	"Keine Ausrüstung im Lager"
 ROCKET_ADJUSTING_LAUNCHERS:	"Abschussgeräte einstellen"
 ROCKET_DEPLOYING_FROM_STOCKPILE:	"Einsatz aus Lagerbestand"
