@@ -26,7 +26,7 @@
  GER_5_Pz_Div_tt:0 "Bilden Sie die Einheit:\n§Y5. Panzerdivision in Oppeln§!\n"
  GER_5_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 5. Panzerdivision§!\n"
  GER_5_Pz_Div_1939_tt:0 "Rüsten Sie die Einheit mit Pz38(T) aus. Die Einheit erscheint in ihrer ursprünglichen Garnisonsstadt §COppeln§!.\n\n§RHINWEIS!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nEs fallen zusätzliche PP-Kosten an: §R-10 §!.\nSie erhalten:\n**Ausrüstung max. 50 %\n**Erfahrungsstufe 14.\n\n"
- GER_5_Pz_Div_1939_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y5. Panzerdivision§! zu `div-template §C5 Pz-Div§!\n\nNach der Änderung können Sie die alte Vorlage löschen:\n§R Pz-Div 5§!\n"
+ GER_5_Pz_Div_1939_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y5. Panzerdivision§! zu Vorlage §C5 Pz-Div§!\n\nNach der Änderung können Sie die alte Vorlage löschen:\n§R Pz-Div 5§!\n"
  GER_5_Pz_Div_1939_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 5. Panzerdivision§!\n"
   
  GER_6_Pz_Div_tt:0 "Bilden Sie die Einheit aus:§Y1. Leichte-Div.§!§R =>§!§Y 6. Panzerdivision§!\n\n§RHinweis!!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie erhalten:\n* *Ausrüstung max. 20 %\n**Erfahrungsstufe 14.§!\n\n"

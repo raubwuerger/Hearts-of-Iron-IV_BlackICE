@@ -20,7 +20,7 @@ ATTACHE_LIST:0	"Wir haben Militärattachés von $LIST$ erhalten. Und sie geben u
 porsche:0	"Porsche"
 porsche_desc:0	"Porsche bevorzugt Panzer mit schwerer Panzerung."
 henschel:0	"Henschel"
-henschel_desc:1	"Henschel war für alle serienmäßig hergestellten Tiger-Modelle verantwortlich, Panzer, die, nachdem die anfänglichen Zuverlässigkeitsprobleme behoben waren, bemerkenswert gut abschnitten."
+henschel_desc:1	"Henschel war für alle serienmäßig hergestellten Tigermodelle verantwortlich, Panzer, die, nachdem die anfänglichen Zuverlässigkeitsprobleme behoben waren, bemerkenswert gut abschnitten."
 GER_MAN:0	"MAN"
 GER_MAN_desc:1	"MAN ist vor allem für den Panther-Panzer bekannt, war aber auch an der Entwicklung und Produktion früherer Panzermodelle beteiligt."
 rheinmetall:0	"Rheinmetall"

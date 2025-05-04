@@ -235,7 +235,7 @@ PRODUCTION_FACTORY_ASSIGN_DESC:1	"Klicken Sie hier, um dieser Produktionslinie d
 PRODUCTION_DOCKYARD_ASSIGN_DESC:1	"Klicke hier, um dieser Produktionslinie £naval_factory_icon $FACTORIES|Y$ §YMarinewerften§! zuzuweisen. Dies führt zu einem Basisproduktionsausstoß von £navprod_cost $OUTPUT|Y$ pro Tag.\nDer Gesamtausstoß wird durch §YRessourcen§! und andere §YProduktionsmodifikatoren§! beeinflusst."
 PRODUCTION_BASE_OUTPUT:0	"Fabrikausstoß Basis: $VALUE|Y$ x $MUL|Y$"
 PRODUCTION_EFF_GAIN_HINT:0	"§YEffizienzgewinngeschwindigkeit modifiziert durch:§!"
-CARRIER_AIR_WING_COMPOSITION_TITLE:0	"Setzt die Standardzusammensetzung der Luftflügel für diesen Träger"
+CARRIER_AIR_WING_COMPOSITION_TITLE:0	"Setzt die Standardzusammensetzung der Geschwader für diesen Träger"
 CARRIER_AIR_WING_LIMIT_UNDER:0	"$COUNT|Y$/$LIMIT$"
 CARRIER_AIR_WING_LIMIT_MATCH:0	"$COUNT|G$/$LIMIT$"
 CARRIER_AIR_WING_LIMIT_OVER:0	"$COUNT|R$/$LIMIT$"

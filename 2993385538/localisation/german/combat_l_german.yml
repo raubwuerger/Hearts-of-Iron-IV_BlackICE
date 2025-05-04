@@ -103,7 +103,7 @@ CREATE_ARMY_GROUP_WITH_UNITS_SELECTED_TOOLTIP:0	"§GKlicken Sie, um eine neue He
 SELECT_GROUP_TOOLTIP:0	"§GKlick§! zum Auswählen"
 ATTACH_AIRWING_TO_GROUP_TOOLTIP:0	"§GRechtsklick§!, um Airwings an die Armee anzuschließen"
 WING_CAN_NOT_ATTACH_ALREADY:0	"§RAAlle Luftgeschwader sind bereits an die Armee angeschlossen!§!"
-WING_CAN_NOT_ATTACH_ARMY_GROUP:0	"§RLuftflügel können nur an Armeen angebracht werden§!"
+WING_CAN_NOT_ATTACH_ARMY_GROUP:0	"§RLuftgeschwader können nur an Armeen angebracht werden§!"
 WING_CAN_NOT_ATTACH_WRONG_TYPE:0	"§RMarinebomber und strategische Bomber können nicht an die Armeen angeschlossen werden§!"
 WING_CAN_NOT_ATTACH_TRAINING:1	"§RCKann keine Verbindung herstellen, während §HPilotübungen§!§ ausgeführt werden!"
 SELECT_GROUP_WITH_UNITS_SELECTED_TOOLTIP:1	"§GRechtsklick§!, um die ausgewählten §YDivisionen§! zuzuweisen!"
