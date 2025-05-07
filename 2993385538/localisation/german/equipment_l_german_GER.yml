@@ -338,8 +338,8 @@
  ## Pz I ""
 
 
- GER_panzer_i_equipment_1:0 "Panzer I #Sendungen über Technik"
- panzer_i_equipment_1:0 "Panzer I #Sendungen über die Produktion"
+ GER_panzer_i_equipment_1:0 "Panzer I 
+ panzer_i_equipment_1:0 "Panzer I 
  panzer_i_equipment_1_short:0 "Panzer I"
  panzer_i_equipment_1_desc:0 "Der Panzer I war ein leichter Panzer, der in den 1930er Jahren in Deutschland hergestellt wurde.\nDer Name ist eine Abkürzung für den deutschen Panzerkampfwagen I, abgekürzt PzKpfw I.\nDie offizielle deutsche Bezeichnung des Panzers lautete SdKfz 101 (\"Spezialfahrzeug 101")"
  # Pz I sub tech equipment ""
@@ -2458,12 +2458,8 @@
  WGR_infantry_equipment_3:0 "Sturmgewehr 44"
  WGR_infantry_equipment_3_short:0 "StG 44"
  ### Guided missiles ### ""
- GER_guided_missile_equipment_1:0 "V1"
  GER_guided_missile_equipment_1_short:0 "V1"
  GER_guided_missile_equipment_1_desc:0 "Unbemannte fliegende Bombe"
- GER_guided_missile_equipment_2:0 "V2"
- GER_guided_missile_equipment_2_short:0 "V2"
- GER_guided_missile_equipment_2_desc:0 "Bessere unbemannte fliegende Bombe"
  GER_guided_missile_equipment_3:0 "Fortgeschrittene Lenkwaffe"
  GER_guided_missile_equipment_3_short:0 "Lenkflugkörper III"
  GER_guided_missile_equipment_3_desc:0 "Beste unbemannte fliegende Bombe"
