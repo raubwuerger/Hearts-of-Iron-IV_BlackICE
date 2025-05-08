@@ -89,3 +89,16 @@ Capital Shipyard Capacity
 Carriers
 Gebäudegesundheit
 angefochten
+
+Upgrade Queue
+Cost
+Duration
+Level
+Operative Slots
+Optionen für die Rekrutierung von Operativen
+Operatives_build_intel_network_texticon
+AA-Waffen
+Anforderung für Größenerhöhung
+Designteam weist Kosten zu
+Langstrecken-Raiding
+Decalin-betriebener Torpedo
