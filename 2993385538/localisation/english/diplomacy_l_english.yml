@@ -440,6 +440,7 @@
  DIPLOMACY_NOFACTION:1 "§T$TARGET|UH$ is not a member of any faction.§!"
  DIPLOMACY_FACTION_DESC:0 "A faction is a coalition of nation states that are allied to each other. If someone declares war on a faction member, all other faction members will automatically join the war. Faction members can be asked to join offensive wars, but they may refuse.\n\nOnly the faction leader may invite new members to the faction."
  anti_comintern_pact_opinion:0 "Anti-Comintern Pact Signatory"
+ anti_comintern_pact_member: "Anti-Comintern Pact Signatory"
  anti_soviet_pact_call_refused:0 "Refused To Honor Anti-Soviet Pact"
  refused_anti_comintern_pact_opinion:0 "Rejected Anti-Comintern Pact"
  tripartite_pact_opinion:1 "Anti-Soviet Pact Signatory"
@@ -731,6 +732,8 @@
  NO_VALID_EXPEDITIONS:0 "No valid units to send.\nUnits must be in provinces controlled by the target to be allowed."
  NO_VALID_VOLUNTEERS:0 "No valid units to send."
  REQUEST_AIR_VOLUNTEERS:0 "Request permission for up to $COUNT|H$ of our air wings join the war as volunteers."
+ CAN_SEND_AIR_VOLUNTEERS: "We can send up to $AIRWINGS|H$ air wings because we have $PLANES|H$ planes"
+ LIMITED_TO_AIR_VOLUNTEERS: "We are limited to $AIRWINGS|H$ air wings by @$TAG$$COUNTRY|Y$ airbase capacity ($LEVEL|H$)"
  REQUEST_AIR_VOLUNTEERS_SENT:0 "§RAir volunteer permission already received!§!"
  holds_our_cores:0 "They hold our core provinces"
  holds_our_claims:0 "They hold our claimed provinces"
@@ -974,7 +977,7 @@
  RELATION_FACTION_MEMBERS_NEAR_ASSUMING_LEADERSHIP_HEADER:0 "The following members are currently capable or nearly capable of assuming leadership of this faction:"
  RELATION_FACTION_MEMBER_THAT_CAN_ASSUME_LEADERSHIP:0 "   $COUNTRY|UY$"
  RELATION_FACTION_MEMBER_CAN_ASSUME_LEADERSHIP:0 "$COUNTRY|UY$ is currently capable of assuming leadership of this faction."
- RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP:0 "$COUNTRY|UY$ is almost capable of assuming leadership leadership of this faction. ($PROGRESS|0%Y$)"
+ RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP:0 "$COUNTRY|UY$ is almost capable of assuming leadership of this faction. ($PROGRESS|0%Y$)"
  RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP_REASON_HEADER:0 "§HThey cannot yet assume leadership for the following reasons:§!"
  war_initiator_desc:1 "$COUNTRY|UY$ is fighting an offensive war"
  war_receiver_desc:1 "$COUNTRY|UY$ is fighting a defensive war"
@@ -1551,6 +1554,7 @@
  equipment_purchase_contract_relation_initiator_desc:0 "$COUNTRY|UY$ is selling equipment to other nations"
  equipment_purchase_contract_relation_initiator_extended_desc:0 "$COUNTRY1|UY$ is selling equipment to $COUNTRY2|Y$"
  unpaid_debts:0 "Unpaid Debts"
+ impressive_display: "Impressive Display"
  
  
  

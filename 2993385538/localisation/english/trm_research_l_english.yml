@@ -17,11 +17,13 @@
  
  # SUPPORT TECHS
  tech_trm_tank_recon:0 "Armoured Recon Companies"
+ tech_trm_tank_recon_desc: "By deploying reconnaissance vehicles with improved armor and weaponry, we will create highly mobile scout forces capable of withstanding light enemy opposition while gathering vital battlefield intelligence. Equipped with wheeled or tracked armored cars, - and even tankettes -  these units will feature superior observation optics, rapid-firing cannons, and enhanced communication systems, allowing them to operate ahead of our main forces with greater effectiveness. Their ability to engage lightly defended positions and withdraw quickly will make them essential for fluid, high-speed warfare."
  tech_trm_tank_recon_early:0 "Light Tank Recon Companies"
  
  # TANK TECHS
  tech_trm_tank_design:0 "Fundemental Tank Design"
  tech_trm_tank_design_desc:0 " "
+ tank_design_tech: "Tank Design Research"
  tech_trm_tank_design_improved:0 "Improved Tank Design"
  tech_trm_tank_design_improved_desc:0 "By using our knowledge of proven tank designs that are optimal, we can standarise designs and create new models faster."
  

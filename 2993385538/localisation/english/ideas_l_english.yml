@@ -45,8 +45,8 @@
  donitz_desc:0 "Karl Dönitz was a German admiral with a fondness for Submarines and the Trade Interdiction doctrine."
  goering:0 "Hermann Göring"
  goering_desc:0 "Hermann Göring was a Great War fighter ace who became one of Hitler's chief supporters. While not the best at this job, he is devotedly loyal."
- walther_wever_coair:0 "Walther Wever" 
- walther_wever_coair_desc:0 "$walther_wever_desc$" 
+ walther_wever_coair:0 "Walther Wever"
+ walther_wever_coair_desc:0 "$walther_wever_desc$"
  walther_wever:0 "Walther Wever"
  walther_wever_desc:0 "Walther Wever was an early proponent of the theory of strategic bombing."
  GER_carpet_bomber:0 "Carpet Bomber"
@@ -151,6 +151,7 @@
  famh:0 "FAMH"
  mig_design_bureau:0 "MiG Design Bureau"
  Myasishchev_design_bureau:0 "Myasishchev Design Bureau"
+ lavochkin_design_bureau:0 "Lavochkin Design Bureau"
  LaGG_design_bureau:0 "LaGG Design Bureau"
  Polikarpov_design_bureau:0 "Polikarpov Design Bureau"
  Tumansky_Palubniy_design_bureau:0 "Tumansky Palubniy Design Bureau"
@@ -159,7 +160,8 @@
  Petlyakov_design_bureau:0 "Petlyakov Design Bureau"
  tupolev_design_bureau:0 "Tupolev Design Bureau"
  grabin_design_bureau:0 "Grabin Design Bureau"
- morozov_design_bureau:0 "Morozov Design Bureau"
+ morozov_design_bureau:0 "Kharkiv Design Bureau"
+ SOV_kirov_organization:0 "Kirov Design Bureau"
  astrov_design_bureau:0 "Astrov Design Bureau"
  okmo:0 "OKMO"
  stalingrad_tractor_factory:0 "Stalingrad Tractor Factory"
@@ -210,6 +212,8 @@
  standard_oil_california:0 "Standard Oil of California"
  general_electric:0 "General Electric"
  marmon_herrington:0 "Marmon-Herrington"
+ detroit_arsenal:0 "Detroit Arsenal Tank Plant"
+tank_destroyer_board:0 "Tank Destroyer Board"
  chrysler:0 "Chrysler"
  army_ordnance_department:0 "Army Ordnance Department"
  rock_island_arsenal:0 "Rock Island Arsenal"
@@ -419,7 +423,7 @@
  SOV_evac_trains:0 "Improved Train Network"
  SOV_improved_designs:0 "Improved Designs"
  soviet_fair:0 "World Fair Renown"
- soviet_fair_desc:0 "The Soviet Unions Impressive exhibition at the recent World Fair has lead to many extolling the wonders of Communism" 
+ soviet_fair_desc:0 "The Soviet Unions Impressive exhibition at the recent World Fair has lead to many extolling the wonders of Communism"
  SOV_bad_tanks:0 "Incompetent Tanks"
  soviet_winter:0 "Soviet Winter"
  leningrad_music:0 "Synthony Under Siege"
@@ -1378,7 +1382,7 @@
  CZE_frantisek_havel:0 "Frantisek Havel"
  CZE_antonin_hasal:0 "Antonin Hasal"
  NOR_trotsky:0 "Leon Trotsky"
- NOR_trotsky_desc:0 "After being kicked out of the Soviet Union, then Turkey and then France, Leon Trotsky is currently living in Norway. It is anything but a warm welcome though with constant surveillance and restricted movement" 
+ NOR_trotsky_desc:0 "After being kicked out of the Soviet Union, then Turkey and then France, Leon Trotsky is currently living in Norway. It is anything but a warm welcome though with constant surveillance and restricted movement"
  NOR_british_bonus:0 "Aligned to the British"
  NOR_GER_bonus:0 "Norwegian Coastline"
  NOR_GER_bonus_desc:0 "With the use of the docks and ports in Norway our naval will have a better shot at the Atlantic"
@@ -1623,7 +1627,7 @@
  CAN_j_grierson:0 "John Grierson"
  CAN_asleep_at_the_wheel:0 "Asleep at the Wheel"
  CAN_western_command:0 "Western Command"
- 
+
  luna_funded:0 "Nazi's Funded"
  AUS_eduard_freiherr:0 "Eduard Freiherr"
  AUS_alexander_lohr:0 "Alexander Löhr"
@@ -1861,7 +1865,7 @@
  GRE_konstantinos_zavitsianos:0 "Konstantinos Zavitsianos"
  GRE_george:0 "George II"
  GRE_army_issues:0 "Under Funded Military"
- GRE_army_issues_desc:0 "Lack of funding and care following the devestating losses in the Greco-Turkish war, have left our army in no state to modernise" 
+ GRE_army_issues_desc:0 "Lack of funding and care following the devestating losses in the Greco-Turkish war, have left our army in no state to modernise"
  HOL_hein_ter_poorten:0 "Hein ter Poorten"
  HOL_izaak_rijnders:0 "Izaak Rijnders"
  HOL_hendrik_van_oyen:0 "Hendrik van Oyen"
@@ -2371,6 +2375,9 @@
  RAJ_william_e_parry:0 "William E. Parry"
  RAJ_bhaskar_soman:0 "Bhaskar Soman"
  RAJ_ram_dass_katari:0 "Ram Dass Katari"
+ RAJ_s_ramanathan: "S. Ramanathan"
+ RAJ_bayya_murthy: "Bayya Suryanarayana Murthy"
+ RAJ_t_rajan: "Tiruvengimalai Sesha Sundara Rajan"
  RAJ_azad_hind:0 "Azad Hind"
  RAJ_azad_hind_desc:0 "The Free India government, supported by enemies of the British, is working towards the liberation of India. They are working with Japan to subvert European rule, in the hopes of establishing a self-governing Indian state."
  RAJ_marginalized_muslim_community:0 "Marginalized Muslim Community"
@@ -2387,16 +2394,27 @@
  RAJ_homi_j_bhabha:0 "Homi J. Bhabha"
  RAJ_all_india_forward_bloc_communism:0 "All India Forward Bloc"
  RAJ_all_india_forward_bloc_fascism:0 "All India Forward Bloc"
- RAJ_agrarian_society:0 "Agrarian Society"
+ RAJ_colonial_boot:0 "Under the Boot of Colonialism"
  RAJ_tisco:0 "TISCO"
  RAJ_tisco_desc:0 "The Tata Iron and Steel Company"
  RAJ_tifr:0 "TIFR"
+ RAJ_dry_season: "The Dry Season"
+ RAJ_dry_season_desc: "During this time villagers are less likely to be able to to grow their own food, increasing demand from our stores.\n §YHaving more food stored and/or the §C$RAJ_risk_of_famine$§R removed§Y will decrease the average time of this spirit."
  RAJ_tifr_desc:0 "Tata Institute for Fundamental Research"
  RAJ_engineer:0 "The Institution of Engineers"
  RAJ_saha_meghnad:0 "Meghnad Saha"
  RAJ_freedom_champ:0 "Tiger of Freedom"
  RAJ_freedom_champ_desc:0 "By extending more freedom to others we show our people we are worthy of more"
-
+ RAJ_potash:0 "Soda Ash Fertiliser"
+ RAJ_potash_desc:0 ""
+ RAJ_tea_exports:0 "Tea Exports"
+ RAJ_learning:0 "Wise Learnings"
+ RAJ_lolly_water:0 "Beverage Supplies"
+ RAJ_ottawa_treaty:0 "Ottawa Trade Agreements"
+ RAJ_harmony: "Sectarian violence"
+ RAJ_harmony_desc: "Multiple Faiths and traditions call our land home, often the situation is boiling away under the surface ready to explode at the slightest provacation\n§CA Higher §YStability§!§C & §YReligious Harmony§!§C will decrease the number of adverse events."
+ india_religous_riots_cap: "Religious Harmony"
+ RAJ_harmony_tt: "Religious Harmony: §Y[?india_religous_riots_cap]"
  PRC_generic_fascist_demagogue:0 "Luo Wu Sun"
  PRC_generic_democratic_reformer:0 "Tan Kenon"
  PRC_generic_communist_revolutionary:0 "Zhang Guotao"
@@ -3957,11 +3975,11 @@
  jetaircraftfactory_light_desc:0 "$Jetaircraft_factory_desc$"
  jetaircraftfactory_heavy:0 "Jet Aircraft Factory ([?num_jet_aircraft_factory])"
  jetaircraftfactory_heavy_desc:0 "$Jetaircraft_factory_desc$"
- 
+
  balanced_jet_production:0 "Balanced Aircraft Production Focus"
  light_jet_production:0 "Light Jet Production Focus"
  heavy_jet_production:0 "Heavy Jet Production Focus"
- 
+
  ltaircraftfactory:0 "Light Aircraft Factory ([?num_light_aircraft_factory])"
  ltaircraftfactory_desc:0 "$Ltaircraft_factory_desc$"
 
@@ -4036,8 +4054,8 @@
  shipyardfactory19_desc:0 "$shipyard_desc$"
  shipyardfactory20:0 "Shipyard (20)"
  shipyardfactory20_desc:0 "$shipyard_desc$"
- 
- 
+
+
  subyardfactory0:0 "Submarine Yard (0)"
  subyardfactory0_desc:0 "$subyard_desc$"
  subyardfactory1:0 "Submarine Yard (1)"
@@ -4287,7 +4305,7 @@
  ## Turkey ##
  sadabat_pact:0 "Sadabat Pact"
  staunch_traditionalist:0 "Staunch Traditionalist"
- 
+
 
  ## Belgium tblra ##
  BEL_charles_bastin:0 "Jules Bastin" # As party names not taken into account for some reason
@@ -5041,7 +5059,7 @@
  hc_navy:0 "Less than §Y2§! Navy High Command"
  counterfeit_money:0 "Counterfeit Money"
  counterfeit_money_desc:0 "Large amounts of forged bank notes have made their way into circulation, removing them will take some time"
- 
+
  advisor_limit_reached_warning:0 "§RWe already have 2 Advisors of this type, assigning this advisor without replacing an existing one will have no effect.§!\n"
  
  advisor_limit_army_chief:0 "§RTo assign an Advisor of this type we first need an §YArmy Chief.§!§!"
@@ -5058,7 +5076,7 @@
  organised_socialism:0 "Organised Socialists"
  organised_socialism_desc:0 "Leaflet campaigns, speeches in the town squares and a motivated core group are ensuring that Socialist ideals stay in the spotlight"
  organised_agrarianism:0 "Organised Agrarians"
- organised_agrarianism_desc:0 "Leaflet campaigns, speeches in the village squares and a motivated core group are ensuring that Agrarian ideals stay in the spotlight" 
+ organised_agrarianism_desc:0 "Leaflet campaigns, speeches in the village squares and a motivated core group are ensuring that Agrarian ideals stay in the spotlight"
  organised_communism:0 "Organised Communists"
  organised_communism_desc:0 "Leaflet campaigns, speeches in the factories and a motivated core group are ensuring that Communists ideals stay in the spotlight"
  organised_fascism:0 "Organised Fascists"
@@ -5066,7 +5084,7 @@
  organised_neutrality:0 "Powerful Strongman"
  organised_neutrality_desc:0 "A charismatic leader, speeches at Rallies and a motivated core group of supporters are ensuring that this candidate stays in the spotlight"
  organised_monarchism:0 "Organised Monarchists"
- organised_monarchism_desc:0 "A popular hier, longing for the past and a motivated core group of supporters are ensuring that the Monarchy stays in the spotlight" 
+ organised_monarchism_desc:0 "A popular hier, longing for the past and a motivated core group of supporters are ensuring that the Monarchy stays in the spotlight"
  domestic_minister_gone:0 "Remove §YDomestic Minister§!"
  intel_minister_gone:0 "Remove §YIntel Minister§!"
  foreign_minister_gone:0 "Remove §YForeign Minister§!"
@@ -5077,43 +5095,43 @@
  army_chief_gone:0 "Remove §YArmy Chief§!"
  navy_chief_gone:0 "Remove §YNavy Chief§!"
  air_chief_gone:0 "Remove §YAir Chief§!"
- 
+
  scrap_metals_collected:0 "Collecting Scrap Metals"
  scrap_metals_collected_TT:0 "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!"
  steel_col_TT:0" $RIGHT|+=0$ £resources_strip|5 collected"
  aluminium_col_TT:0 " $RIGHT|+=0$ £resources_strip|2 collected"
  tungsten_col_TT:0" $RIGHT|+=0$ £resources_strip|4 collected"
  chromium_col_TT:0" $RIGHT|+=0$ £resources_strip|6 collected"
- 
- modifier_tactic_elastic_defense_preferred_weight_factor:1 "Additional §YElastic Defense§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_overwhelming_fire_preferred_weight_factor:1 "Additional §YOverwhelming Fire§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_seize_bridge_preferred_weight_factor:1 "Additional §YSeize Bridge§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_infantry_charge_preferred_weight_factor:1 "Additional §YInfiltration Assault§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_delay_preferred_weight_factor:1 "Additional §YDelay§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_human_wave_tactics_preferred_weight_factor:1 "Additional §YMass Charge§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_unexpected_thrust_preferred_weight_factor:1 "Additional §YUnexpected Thrust§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_barrage_preferred_weight_factor:1 "Additional §YSuppressive Barrage§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_planned_attack_preferred_weight_factor:1 "Additional §YWell Planned Attack§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_relentless_assault_preferred_weight_factor:1 "Additional §YRelentless Assault§! Tactic Chance if it is Preferred tactic"
- 
- tactic_elastic_defense_preferred_weight_factor:1 "Additional §YElastic Defense§! Tactic Chance if it is Preferred tactic"
- tactic_overwhelming_fire_preferred_weight_factor:1 "Additional §YOverwhelming Fire§! Tactic Chance if it is Preferred tactic"
- tactic_seize_bridge_preferred_weight_factor:1 "Additional §YSeize Bridge§! Tactic Chance if it is Preferred tactic"
- tactic_infantry_charge_preferred_weight_factor:1 "Additional §YInfiltration Assault§! Tactic Chance if it is Preferred tactic"
- tactic_delay_preferred_weight_factor:1 "Additional §YDelay§! Tactic Chance if it is Preferred tactic"
- tactic_human_wave_tactics_preferred_weight_factor:1 "Additional §YMass Charge§! Tactic Chance if it is Preferred tactic"
- tactic_unexpected_thrust_preferred_weight_factor:1 "Additional §YUnexpected Thrust§! Tactic Chance if it is Preferred tactic"
- tactic_barrage_preferred_weight_factor:1 "Additional §YSuppressive Barrage§! Tactic Chance if it is Preferred tactic"
- tactic_planned_attack_preferred_weight_factor:1 "Additional §YWell Planned Attack§! Tactic Chance if it is Preferred tactic"
- tactic_relentless_assault_preferred_weight_factor:1 "Additional §YRelentless Assault§! Tactic Chance if it is Preferred tactic"
- 
+
+ modifier_tactic_elastic_defense_preferred_weight_factor:1 "§YElastic Defense§! Tactic Chance"
+ modifier_tactic_overwhelming_fire_preferred_weight_factor:1 "§YOverwhelming Fire§! Tactic Chance"
+ modifier_tactic_seize_bridge_preferred_weight_factor:1 "§YSeize Bridge§! Tactic Chance"
+ modifier_tactic_infantry_charge_preferred_weight_factor:1 "§YInfiltration Assault§! Tactic Chance"
+ modifier_tactic_delay_preferred_weight_factor:1 "§YDelay§! Tactic Chance"
+ modifier_tactic_human_wave_tactics_preferred_weight_factor:1 "§YMass Charge§! Tactic Chance"
+ modifier_tactic_unexpected_thrust_preferred_weight_factor:1 "§YUnexpected Thrust§! Tactic Chance"
+ modifier_tactic_barrage_preferred_weight_factor:1 "§YSuppressive Barrage§! Tactic Chance"
+ modifier_tactic_planned_attack_preferred_weight_factor:1 "§YWell Planned Attack§! Tactic Chance"
+ modifier_tactic_relentless_assault_preferred_weight_factor:1 "§YRelentless Assault§! Tactic Chance"
+
+ tactic_elastic_defense_preferred_weight_factor:1 "§YElastic Defense§! Tactic Chance"
+ tactic_overwhelming_fire_preferred_weight_factor:1 "§YOverwhelming Fire§! Tactic Chance"
+ tactic_seize_bridge_preferred_weight_factor:1 "§YSeize Bridge§! Tactic Chance"
+ tactic_infantry_charge_preferred_weight_factor:1 "§YInfiltration Assault§! Tactic Chance"
+ tactic_delay_preferred_weight_factor:1 "§YDelay§! Tactic Chance"
+ tactic_human_wave_tactics_preferred_weight_factor:1 "§YMass Charge§! Tactic Chance"
+ tactic_unexpected_thrust_preferred_weight_factor:1 "§YUnexpected Thrust§! Tactic Chance"
+ tactic_barrage_preferred_weight_factor:1 "§YSuppressive Barrage§! Tactic Chance"
+ tactic_planned_attack_preferred_weight_factor:1 "§YWell Planned Attack§! Tactic Chance"
+ tactic_relentless_assault_preferred_weight_factor:1 "§YRelentless Assault§! Tactic Chance"
+
   SPIRIT_ADD_IDEA:0 "§GClick to add $GROUP|H$§!"
   ALREADY_HAS_ADVISOR_WITH_TRAIT:0 "There is already an appointed advisor with this trait."
   CHANGE_ADVISOR:1 "\nYou can replace this advisor by clicking here and selecting a replacement."
 
  unit_design_cost_spirit_start_tt:0 "\nTemplate Design Cost: [?design_cost|-2%] for the following units: §Y"
  spirit_effect_end_tt:0 "§!"
- 
+
  independent_air_force_spirit:0 "Independent Air Force"
  independent_air_force_spirit_desc:1 "The Air Force is an independent branch, and just as important as the Army or the Navy."
  industrial_destruction_spirit:0 "Industrial Destruction"

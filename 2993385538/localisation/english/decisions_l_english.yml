@@ -27,6 +27,15 @@
  foreign_minister_start_diplo:"Start Diplomatic Efforts"
  foreign_minister_cancel_diplo:"Stop Diplomatic Efforts"
  enforce_rationing:0 "Enforce Rationing"
+ sell_stockpiles: "Sell Food Stockpiles"
+ food_sold_TT: "We Will sell §C[?food_sold]k§! §Yfood§!" 
+ celebrate_holiday: "Declare National Celebrations"
+ food_distibuted: "Currently Distributing Food"
+ food_over_5_TT: "Over §C5§!% Food in Storage"
+ food_over_10_TT: "Over §C10§!% Food in Storage"
+ food_over_25_TT: "Over §C25§!% Food in Storage"
+ food_relief: "Food Relief Programs"
+ troop_rations: "Extra Rations for the Troops"
  
  ### Military Buildup
  SS_anger_TT:0 "SS §RAnger:§! [?SS_anger_temp|0-]\n"
@@ -1093,6 +1102,21 @@
  #IRE
  IRE_army_organisation:0 "Irish Defence Forces"
  IRE_army_organisation_desc:0 "The Defence Forces of Ireland in 1936 was in a sorry state. Demobilised since the Civil War of 1922-23 and purposefully reduced since the failed Army Mutiny of 1924, the Army is no more than a couple front-line battalions, with several more territorial second-rate battalions in reserve. The Army is organised into four commands: the East, South, West and Curragh Commands, all of which are responsible for the defence of their assigned areas. The Curragh Command is comprised of the more advanced arms of the Army, including the mechanised Cavalry Corps and the Anti-Air Artillery. With only one squadron of bi-planes, the Aer Corps remains criminally under-funded and under-equipped like its ground counterpart, all the while no sort of Navy exists to protect the shores of the State."
+ 
+ #RAJ
+ RAJ_Arya_Marriage: "Arya Marriage Validation Act"
+ RAJ_Arya_Marriage_desc: "An Act to recognise and remove doubts as to the validity of inter-marriages current among Arya Samajists"
+ RAJ_Muslim_Personal_Law: "Muslim Personal Law Application Act"
+ RAJ_Muslim_Personal_Law_desc: "An Act to make provision for the application of the Muslim Personal Law (Shariat) to Muslims"
+ RAJ_Cutchi_Memons: "Cutchi Memons Act"
+ RAJ_Cutchi_Memons_desc: "Cutchi Memons to be governed in certain matters by Muhammadan Law."
+ food_eaten_TT: "10k Food will be removed from storage"
+ RAJ_Diwali: "Celebrate Diwali"
+ RAJ_Holi: "Celebrate Holi"
+ RAJ_pac: "Form the Provincial Armed Constabulary"
+ RAJ_pac_desc: "They can be assigned to VIP duty or to maintain law and order during fairs, festivals, athletic events, elections, and natural disasters. They are also deployed to quell outbreaks of student or labor unrest, organized crime, and communal riots; to maintain key guard posts; and to participate in antiterrorist operations"
+ RAJ_temple: "The Laxminarayan Mandir"
+ RAJ_temple_desc: "It is the first large Hindu temple built in Delhi and is often called Birla Mandir due to being constructed by the Birla family. The temple is spread over 3 hectares (7.5 acres), adorned with many shrines, fountains, and a large garden with Hindu and Nationalistic sculptures, and also houses Geeta Bhawan for discourses." 
 
  war_propaganda_casualties:0 "Exhort Heroism"
  war_propaganda_casualties_desc:0 "Although the death toll of our flying aces rises, our people must be taught that only in battle are heroes forged."

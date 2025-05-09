@@ -110,6 +110,7 @@ INDUSTRIAL_ORG_TOOLTIP_UPGRADE_BONUS_DIFF: "Upgrading will add to new variant:"
 INDUSTRIAL_ORG_TOOLTIP_NO_UPGRADE_ALREADY_ASSIGNED_MIO: "There has been no new traits applicable to this equipment. There is no need to upgrade."
 INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_DELAYED: "Equipment that was made with an older version of a §YMilitary Industrial Organization§! needs to be upgraded in order to have the latest §YDesign Team§! traits applied."
 INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION: "You §Rdon't§! have any to assign to this equipment type."
+INDUSTRIAL_ORG_TOOLTIP_IS_LICENSED: "§RLicensed equipment are not eligible§!"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_NAME: "$NAME|H$"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_LIMIT_TYPE: "Only for $TYPE|H$:"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ALL_TYPES: "$TYPES|H$:"
@@ -235,39 +236,55 @@ FRA_my_custom_mio_initial_trait: "Trait Initial"
 
 
 
-########  #######  ##     ## #### ########  ##     ## ######## ##    ## ########     ######   ########   #######  ##     ## ########   ######  
-##       ##     ## ##     ##  ##  ##     ## ###   ### ##       ###   ##    ##       ##    ##  ##     ## ##     ## ##     ## ##     ## ##    ## 
-##       ##     ## ##     ##  ##  ##     ## #### #### ##       ####  ##    ##       ##        ##     ## ##     ## ##     ## ##     ## ##       
-######   ##     ## ##     ##  ##  ########  ## ### ## ######   ## ## ##    ##       ##   #### ########  ##     ## ##     ## ########   ######  
-##       ##  ## ## ##     ##  ##  ##        ##     ## ##       ##  ####    ##       ##    ##  ##   ##   ##     ## ##     ## ##              ## 
-##       ##    ##  ##     ##  ##  ##        ##     ## ##       ##   ###    ##       ##    ##  ##    ##  ##     ## ##     ## ##        ##    ## 
-########  ##### ##  #######  #### ##        ##     ## ######## ##    ##    ##        ######   ##     ##  #######   #######  ##         ######  
+########  #######  ##     ## #### ########  ##     ## ######## ##    ## ########     ######   ########   #######  ##     ## ########   ######
+##       ##     ## ##     ##  ##  ##     ## ###   ### ##       ###   ##    ##       ##    ##  ##     ## ##     ## ##     ## ##     ## ##    ##
+##       ##     ## ##     ##  ##  ##     ## #### #### ##       ####  ##    ##       ##        ##     ## ##     ## ##     ## ##     ## ##
+######   ##     ## ##     ##  ##  ########  ## ### ## ######   ## ## ##    ##       ##   #### ########  ##     ## ##     ## ########   ######
+##       ##  ## ## ##     ##  ##  ##        ##     ## ##       ##  ####    ##       ##    ##  ##   ##   ##     ## ##     ## ##              ##
+##       ##    ##  ##     ##  ##  ##        ##     ## ##       ##   ###    ##       ##    ##  ##    ##  ##     ## ##     ## ##        ##    ##
+########  ##### ##  #######  #### ##        ##     ## ######## ##    ##    ##        ######   ##     ##  #######   #######  ##         ######
 
-mio_cat_eq_all_light_tank: "All Light Tank Equipment"
-mio_cat_eq_all_medium_tank: "All Medium Tank Equipment"
-mio_cat_eq_all_heavy_tank: "All Heavy Tank Equipment"
-mio_cat_eq_all_tank_destroyers: "All Tank Destroyer Equipment"
-mio_cat_eq_all_carrier: "All Carrier Ships"
-mio_cat_eq_all_cruiser: "All Cruiser Ships"
-mio_cat_eq_all_destroyer: "All Destroyer Ship"
-mio_cat_eq_all_battleship: "All Battleship"
-mio_cat_eq_all_small_plane: "All Small and Carrier Planes"
-mio_cat_eq_all_medium_plane: "All Medium Planes"
-mio_cat_eq_all_large_plane: "All Large Planes"
-mio_cat_eq_only_light_fighter: "Fighter and Carrier Fighter"
-mio_cat_eq_only_light_fighter_no_cv: "Fighter"
-mio_cat_eq_only_tactical_bomber: "Tactical Bomber"
-mio_cat_eq_only_strategic_bomber: "Strategic Bomber"
+mio_cat_eq_all_light_tank: "All Light Tanks"
+mio_cat_eq_all_medium_tank: "All Medium Tanks"
+mio_cat_eq_all_heavy_tank: "All Heavy and Super Heavy Tanks"
+mio_cat_eq_all_heavy_tank_desc: "TEST"
+mio_cat_eq_all_tank_destroyers: "All Tank Destroyers"
+mio_cat_eq_all_spgs: "All Assault Guns & Self Propelled Artillery"
+mio_cat_eq_all_carrier: "All Carriers"
+mio_cat_eq_only_light_carrier: "All Light/Escort Carriers"
+mio_cat_eq_all_cruiser: "All Cruisers"
+mio_cat_eq_all_destroyer: "All Destroyers"
+mio_cat_eq_all_escort: "All Escorts"
+mio_cat_eq_all_battleship: "All Battleships/Battlecruisers"
+mio_cat_eq_all_surface: "All Surface Ships"
+mio_cat_eq_all_submarine: "All Submarines"
+
+mio_cat_eq_all_small_plane: "All Small and Carrier Aircraft"
+mio_cat_eq_all_small_plane_no_cv: "All Small Aircraft"
+mio_cat_eq_all_medium_plane: "All Medium Aircraft"
+mio_cat_eq_all_heavy_plane: "All Large Aircraft"
+mio_cat_eq_all_large_plane: "All Large Aircraft"
+mio_cat_eq_all_close_air_support: "All Close Air Support Aircraft"
+mio_cat_eq_only_light_fighter: "All Fighters and Carrier Fighters"
+mio_cat_eq_only_light_fighter_no_cv: "All Fighters"
+mio_cat_eq_only_heavy_fighter: "All Heavy/Night Fighters"
+mio_cat_eq_only_recon_aircraft: "All Recon Aircraft"
+mio_cat_eq_only_tactical_bomber: "All Tactical Bombers"
+mio_cat_eq_only_fast_bomber: "All Fast Bombers"
+mio_cat_eq_only_strategic_bomber: "All Strategic Bombers"
 mio_cat_eq_all_cv_aircraft: "All Carrier Aircraft"
+mio_cat_eq_all_cv_fighter: "All Carrier Fighters"
+mio_cat_eq_all_cv_bomber: "All Carrier Bombers"
+mio_cat_eq_all_naval_aircraft: "All Naval Aircraft"
 
 
-##     ## ########    ###    ########  ######## ########   ######  
-##     ## ##         ## ##   ##     ## ##       ##     ## ##    ## 
-##     ## ##        ##   ##  ##     ## ##       ##     ## ##       
-######### ######   ##     ## ##     ## ######   ########   ######  
-##     ## ##       ######### ##     ## ##       ##   ##         ## 
-##     ## ##       ##     ## ##     ## ##       ##    ##  ##    ## 
-##     ## ######## ##     ## ########  ######## ##     ##  ######  
+##     ## ########    ###    ########  ######## ########   ######
+##     ## ##         ## ##   ##     ## ##       ##     ## ##    ##
+##     ## ##        ##   ##  ##     ## ##       ##     ## ##
+######### ######   ##     ## ##     ## ######   ########   ######
+##     ## ##       ######### ##     ## ##       ##   ##         ##
+##     ## ##       ##     ## ##     ## ##       ##    ##  ##    ##
+##     ## ######## ##     ## ########  ######## ##     ##  ######
 
 #######################
 ##### MIO HEADERS #####
@@ -317,13 +334,13 @@ mio_header_specialization: "Specialization"
 
 
 
-########   #######  ##       ####  ######  #### ########  ######  
-##     ## ##     ## ##        ##  ##    ##  ##  ##       ##    ## 
-##     ## ##     ## ##        ##  ##        ##  ##       ##       
-########  ##     ## ##        ##  ##        ##  ######    ######  
-##        ##     ## ##        ##  ##        ##  ##             ## 
-##        ##     ## ##        ##  ##    ##  ##  ##       ##    ## 
-##         #######  ######## ####  ######  #### ########  ######  
+########   #######  ##       ####  ######  #### ########  ######
+##     ## ##     ## ##        ##  ##    ##  ##  ##       ##    ##
+##     ## ##     ## ##        ##  ##        ##  ##       ##
+########  ##     ## ##        ##  ##        ##  ######    ######
+##        ##     ## ##        ##  ##        ##  ##             ##
+##        ##     ## ##        ##  ##    ##  ##  ##       ##    ##
+##         #######  ######## ####  ######  #### ########  ######
 
 
 mio_policy_general_ruthless_contracts: "Ruthless Contracts"
@@ -332,7 +349,7 @@ mio_policy_general_vertical_integration: "Vertical Integration"
 mio_policy_general_mechanical_genius: "Mechanical genius"
 mio_policy_general_experimental_development_teams: "Experimental Development Teams"
 
-mio_policy_land_armor_welding_specialists: "Armor Welding Specialists"
+mio_policy_land_armor_welding_specialists: "Welding Specialists"
 mio_policy_land_casting_specialists: "Casting Specialists"
 mio_policy_land_heavy_gantry_cranes: "Heavy Gantry Cranes"
 mio_policy_land_factory_applied_camouflage: "Factory Applied Camouflage"
@@ -352,25 +369,28 @@ mio_policy_navy_coastal_battlefleet: "Coastal Battlefleet"
 
 
 
-#   #  ##   ###  ##  ###       ##   ##  #  # #  # ### ###  ### ###  ## 
-## ## #  #    # #  # #  #     #  # #  # #  # ## #  #  #  #  #  #   #   
-# # # ####    # #  # ###      #    #  # #  # # ##  #  ###   #  ##   #  
-#   # #  # #  # #  # #  #     #  # #  # #  # #  #  #  #  #  #  #     # 
-#   # #  #  ##   ##  #  #      ##   ##   ##  #  #  #  #  # ### ### ##  
+#   #  ##   ###  ##  ###       ##   ##  #  # #  # ### ###  ### ###  ##
+## ## #  #    # #  # #  #     #  # #  # #  # ## #  #  #  #  #  #   #
+# # # ####    # #  # ###      #    #  # #  # # ##  #  ###   #  ##   #
+#   # #  # #  # #  # #  #     #  # #  # #  # #  #  #  #  #  #  #     #
+#   # #  #  ##   ##  #  #      ##   ##   ##  #  #  #  #  # ### ### ##
 
 ###################
 ####### USA #######
 ###################
 
-### ORGANIZATIONS ### 
+### ORGANIZATIONS ###
 USA_marmon_herrington_organization: "$marmon_herrington$"
 USA_chrysler_organization: "$chrysler$"
 USA_army_ordnance_department_organization: "$army_ordnance_department$"
+USA_detroit_arsenal: "$detroit_arsenal$"
+USA_tank_destroyer_board_organization: "$tank_destroyer_board$"
 
 USA_norfolk_naval_yard_organization: "$norfolk_naval_yard$"
 USA_electric_boat_company_organization: "$electric_boat_company$"
 USA_brooklyn_naval_yard_organization: "$brooklyn_naval_yard$"
 USA_newport_news_shipbuilding_organization: "$newport_news_shipbuilding$"
+USA_new_york_shipbuilding_coorperation_organization: "$new_york_shipbuilding_coorperation$"
 
 USA_north_american_aviation_organization: "$north_american_aviation$"
 USA_lockheed_organization: "$lockheed$"
@@ -402,6 +422,18 @@ USA_mio_trait_the_can_do_shipyard: "The Can-Do Shipyard"
 USA_mio_trait_drydock_expansion: "Drydock Expansion"
 USA_mio_trait_north_carolina_shipbuilding_company: "North Carolina Shipbuilding Company"
 USA_mio_trait_carrier_specialists: "Carrier Specialists"
+marmon_herrington_mio_trait_all_wheel_steering: "All Wheel Steering"
+front_ditch_roller: "Front Ditch Roller"
+powered_front_axle: "Powered Front Axle"
+foreign_sales: "Foreign Arms Sales"
+commonwealth_contracts: "Commonwealth Arms Sales"
+glider_droppable: "Glider Developments"
+truck_chassis: "Truck Chassis Production"
+USA_mio_trait_retool_factories: "Retool Factories"
+USA_mio_trait_automatic_overdrive: "Automatic Overdrive"
+USA_mio_trait_multibank_engines: "Multibank Engines"
+USA_mio_trait_government_funding: "Government Funding"
+USA_mio_trait_mass_production_of_everything: "Mass Production of Everything"
 
 ### INITIAL TRAITS ###
 USA_mio_trait_light_long_range_aircraft: "Light Long-Range Aircraft"
@@ -410,12 +442,13 @@ USA_mio_trait_light_aircraft_development: "Light Aircraft Development"
 USA_mio_trait_mass_production_of_armor: "Mass Production of Armor"
 USA_mio_trait_medium_tank_manufacturer: "Medium Tank Manufacturer"
 USA_mio_trait_dedicated_tank_factory: "Dedicated Tank Factory"
+USA_mio_trait_large_scale_organisation: "Large Scale Organization"
 
 ###################
 ###### JAPAN ######
 ###################
 
-### ORGANIZATIONS ### 
+### ORGANIZATIONS ###
 JAP_kure_naval_arsenal_organization: "$kure_naval_arsenal$"
 JAP_yokosuka_naval_arsenal_organization: "$yokosuka_naval_arsenal$"
 JAP_maizuru_naval_arsenal_organization: "$maizuru_naval_arsenal$"
@@ -425,6 +458,7 @@ JAP_mitsubishi_organization: "$mitsubishi$"
 JAP_aichi_organization: "$aichi$"
 JAP_nakajima_organization: "$nakajima$"
 JAP_yokosuka_organization: "$yokosuka$"
+JAP_kawasaki_organization: "$kawasakiair$"
 JAP_sasebo_naval_arsenal_organization: "$sasebo_naval_arsenal$"
 
 JAP_tokyo_arsenal_organization: "$tokyo_arsenal$"
@@ -434,29 +468,52 @@ JAP_nissan_organization: "$nissan$"
 JAP_osaka_army_arsenal_organization: "$osaka_army_arsenal$"
 
 ### TRAITS ###
+JAP_mio_trait_extra_strength_duralumin: "Extra Strength Duralumin"
+JAP_mio_osaka_statistical_firepower: "Statistical Methods"
 
+### INITIAL TRAITS ###
+JAP_hitachi_organization_initial: "Mobile Fire Support"
+JAP_mitsubishi_tank_organization_initial: "Industrial Tank Production"
+JAP_mio_osaka_initial: "Army Tank Manufacturer"
 
 ######################
 #### SOVIET UNION ####
 ######################
 
-### ORGANIZATIONS ### 
+### ORGANIZATIONS ###
 SOV_mytishchy_machine_building_plant_organization: "$SOV_mytishchy_machine_building_plant$"
 SOV_tupolev_design_bureau_organization: "$tupolev_design_bureau$"
-SOV_morozov_design_bureau_organization: "$morozov_design_bureau$"
-SOV_astrov_design_bureau_organization: "$astrov_design_bureau$"
-SOV_okmo_organization: "$okmo$"
-SOV_kirov_organization: "$SOV_kirov$"
+SOV_morozov_design_bureau_organization: "Kharkov Design Bureau £tech_mod "
+SOV_morozov_initial: "Kharkov Design Bureau"
+SOV_astrov_design_bureau_organization: "Astrov Design Bureau £tech_mod "
+SOV_mio_astrov_intial: "$astrov_design_bureau$"
+SOV_okmo_organization: "OKMO Design Bureau £tech_mod "
+SOV_mio_okmo_initial: "OKMO Design Bureau"
+SOV_kirov_organization_mio: "Kirov Design Bureau £tech_mod "
+SOV_mio_kirov_initial: "Kirov Design Bureau"
 SOV_nevskoye_design_bureau_organization: "$nevskoye_design_bureau$"
-SOV_rubin_design_bureau_organization: "$SOV_rubin_design_bureau$"
-SOV_black_sea_shipyard_organization: "$SOV_black_sea_shipyard$"
-SOV_sevastopol_marine_plant_organization: "$SOV_sevastopol_marine_plant$"
+SOV_rubin_design_bureau_organization: "Rubin Design Bureau"
+SOV_black_sea_shipyard_organization: "Black Sea Shipyard"
+SOV_sevastopol_marine_plant_organization: "Sevastopol Marine Plant"
 SOV_mig_design_bureau_organization: "$mig_design_bureau$"
+SOV_lavochkin_design_bureau_organization: "$lavochkin_design_bureau$"
 SOV_ilyushin_design_bureau_organization: "$ilyushin_design_bureau$"
 SOV_yakovlev_design_bureau_organization: "$yakovlev_design_bureau$"
 SOV_grabin_design_bureau_organization: "$grabin_design_bureau$"
 SOV_tula_arms_plant_organization: "$tula_arms_plant$"
-SOV_gaz_organization: "$gaz$"
+SOV_gaz_organization: "GAZ Factory £production_cost "
+SOV_Plant37_organization: "Plant No. 37 £production_cost "
+SOV_Plant37_organization_initial: "Plant No. 37"
+SOV_kharkov_locomotive_plant_organization: "Kharkov Locomotive Plant £production_cost "
+SOV_kharkov_locomotive_plant_initial: "Kharkov Locomotive Plant"
+SOV_mytishchy_machine_building_plant: "Mytishchy Machine Plant £production_cost "
+SOV_mytishchy_machine_building_plant_initial: "Mytishchy Machine Plant"
+SOV_kirov_plant_organization: "Kirov Plant £production_cost "
+SOV_kirov_plant_organization_initial: "Kirov Plant"
+SOV_mio_tankograd: "§0Chelyabinsk Tractor Plant§!"
+
+
+
 
 ### TRAITS ###
 SOV_mio_trait_gas_tank_protection: "Gas Tank Protection"
@@ -474,6 +531,11 @@ SOV_merge_plant_no_150_flag: "$SOV_has_already_completed_this_trait$"
 SOV_merge_vef_plant_flag: "$SOV_has_already_completed_this_trait$"
 SOV_merge_nkmz_plant_flag: "$SOV_has_already_completed_this_trait$"
 SOV_merge_magnitogorsk_metallurgical_plant_flag: "$SOV_has_already_completed_this_trait$"
+SOV_mio_kirov_automatic_welding_effect: "§7This will unlock the special trait from the corresponding Factory§!"
+SOV_mio_gaz_initial: "Albert Kahn Designed Factory"
+plant_early_patton_process_TT: ""
+Agarkov_Movement: "Agarkov Movement"
+Improved_V2_Engines: "Improved V2 Engines"
 
 
 ########################
@@ -493,18 +555,26 @@ ENG_rsaf_enfield_organization: "$rsaf_enfield$"
 ENG_vauxhall_organization: "$vauxhall$"
 ENG_royal_arsenal_organization: "$royal_arsenal$"
 ENG_vickers_armstrong_eng_organization: "$vickers_armstrong_eng$"
+ENG_vickers_armstrong_organization: "$vickers_armstrong$"
 ENG_avro_organization: "$avro$"
+ENG_nuffield_organization: "Nuffield"
+ENG_mio_nuffield: "William Norris' Passion"
 
 ### TRAITS ###
 ENG_mio_trait_flared_bow: "Flared Bow"
 ENG_mio_trait_super_charges: "Super Charges"
 ENG_mio_trait_seaplane_origins: "Seaplane Origins"
 ENG_mio_trait_elliptical_wings: "Elliptical Wings"
-ENG_mio_trait_supercharger: "Supercharger"
+ENG_mio_trait_supercharger: "Advanced Supercharger"
 ENG_mio_trait_piat: "PIAT"
 ENG_mio_trait_sten_submachine_guns: "STEN Submachine Guns"
 ENG_mio_trait_expanded_turret_capacity: "Expanded Turret Capacity"
 ENG_mio_trait_expanded_production_facilities: "Expanded Production Facilities"
+
+### INITIAL TRAITS ###
+ENG_vauxhall_organization_initial_trait: "Engine Specialist"
+ENG_vickers_armstrong_eng_organization_initial_trait: "Metallurgy Specialist"
+ENG_de_havilland_organization_initial: "Heavy Fighter Specialist"
 
 
 ################
@@ -550,8 +620,8 @@ FRA_mio_trait_l_35: "L/35"
 GER_porsche_organization: "$porsche$"
 GER_henschel_organization: "$henschel$"
 GER_man_organization: "$GER_MAN$"
-GER_daimler_benz_organization: "Daimler Benz"
 GER_germaniawerft_organization: "$germaniawerft$"
+GER_kriegsmarinewerft_organization: "$kriegsmarine_werft$"
 GER_blohm_und_voss_organization: "$blohm_und_voss$"
 GER_messerschmitt_organization: "$messerschmitt$"
 GER_junkers_organization: "$junkers$"
@@ -569,14 +639,17 @@ GER_mio_trait_maintenance_first_design: "Maintenance First Design"
 GER_mio_trait_fuselage_based_weapons: "Fuselage-Based Weapons"
 GER_mio_trait_early_jet_engine_adopter: "Early Jet Engine Adopter"
 GER_mio_trait_psychological_warfare: "Psychological Warfare"
+GER_mio_trait_minengeschoss: "Minengeschoss"
 
+### INITIAL TRAITS ###
+GER_messerschmitt_initial: "Fighter Aircraft Designer"
 
 ###################
 ###### ITALY ######
 ###################
 
 #### ORGANIZATIONS ####
-ITA_fiat_organization: "$fiat$"
+ITA_fiat_organization: "Ansaldo"
 ITA_crda_organization: "$crda$"
 ITA_cantiere_oto_organization: "$ITA_cantiere_oto$"
 ITA_navalmeccanica_organization: "$ITA_navalmeccanica$"
@@ -586,6 +659,7 @@ ITA_macchi_organization: "$macchi$"
 ITA_savoia_marchetti_organization: "$savoia_marchetti$"
 ITA_caproni_organization: "$caproni$"
 ITA_piaggio_organization: "$piaggio$"
+ITA_reggiane_organization: "$reggiane_aircraft$"
 ITA_imam_organization: "$ITA_imam$"
 ITA_crda_cant_organization: "$ITA_crda_cant$"
 ITA_fiat_aviazione_organization: "$ITA_fiat_aviazione$"
@@ -596,6 +670,7 @@ ITA_brescia_arsenal_organization: "$ITA_brescia_arsenal$"
 ITA_officine_meccaniche_organization: "$ITA_officine_meccaniche$"
 
 ### TRAITS ###
+ITA_fiat_initial: "Italian Arsenal"
 ITA_mio_trait_air_race_pedigree: "Air Race Pedigree"
 ITA_mio_trait_special_aerotorpedoes_unit: "Special Aerotorpedoes Unit"
 ITA_mio_trait_remote_operated: "Remote Operated"
@@ -605,11 +680,11 @@ ITA_new_ricostruzione_industriale_mechanized: "$ITA_new_ricostruzione_industrial
 ITA_new_ricostruzione_industriale_train: "$ITA_new_ricostruzione_industriale$ (Trains)"
 
 
-###  ##   ##  ### ### #  # ### ###      ###  ##  ###      #   # ###  ##  ###  ##  ###  #   # 
- #  #  # #    #    #  #  # #   #  #     #   #  # #  #     #   #  #  #  #  #  #  # #  #  # #  
- #  #  # # ## ##   #  #### ##  ###      ##  #  # ###       # #   #  #     #  #  # ###    #   
- #  #  # #  # #    #  #  # #   #  #     #   #  # #  #      # #   #  #  #  #  #  # #  #   #   
- #   ##   ##  ###  #  #  # ### #  #     #    ##  #  #       #   ###  ##   #   ##  #  #   #   
+###  ##   ##  ### ### #  # ### ###      ###  ##  ###      #   # ###  ##  ###  ##  ###  #   #
+ #  #  # #    #    #  #  # #   #  #     #   #  # #  #     #   #  #  #  #  #  #  # #  #  # #
+ #  #  # # ## ##   #  #### ##  ###      ##  #  # ###       # #   #  #     #  #  # ###    #
+ #  #  # #  # #    #  #  # #   #  #     #   #  # #  #      # #   #  #  #  #  #  # #  #   #
+ #   ##   ##  ###  #  #  # ### #  #     #    ##  #  #       #   ###  ##   #   ##  #  #   #
 
 
 #####################
@@ -677,13 +752,16 @@ CAN_handley_page_organization: "$CAN_handley_page$"
 CAN_mio_trait_cookie_carriers: "$CAN_cookie_carriers$"
 CAN_mio_trait_fairchilds_funded: "Fairchild's Funded"
 
+##### IRELAND #####
+IRE_harland_wolfe_organization: "Harland and Wolfe"
 
 
-###  ###  ##  ### #  #      ##  ###      ###  ###  ## #  #  ##  #  #  ##  ###  
-#  # #   #  #  #  #  #     #  # #  #     #  #  #  #   #  # #  # ## # #  # #  # 
-#  # ##  ####  #  ####     #  # ###      #  #  #   #  #### #  # # ## #  # ###  
-#  # #   #  #  #  #  #     #  # #  #     #  #  #    # #  # #  # #  # #  # #  # 
-###  ### #  #  #  #  #      ##  #  #     ###  ### ##  #  #  ##  #  #  ##  #  # 
+
+###  ###  ##  ### #  #      ##  ###      ###  ###  ## #  #  ##  #  #  ##  ###
+#  # #   #  #  #  #  #     #  # #  #     #  #  #  #   #  # #  # ## # #  # #  #
+#  # ##  ####  #  ####     #  # ###      #  #  #   #  #### #  # # ## #  # ###
+#  # #   #  #  #  #  #     #  # #  #     #  #  #    # #  # #  # #  # #  # #  #
+###  ### #  #  #  #  #      ##  #  #     ###  ### ##  #  #  ##  #  #  ##  #  #
 
 
 ########################
@@ -712,6 +790,7 @@ CZE_mio_trait_skoda_works: "$CZE_skoda_works$"
 #################
 
 ### HUNGARIAN ORGANIZATIONS ###
+HUN_mavag_organization: "$mavag$"
 HUN_ganz_danubius_organization: "$HUN_ganz_danubius$"
 HUN_femaru_fegyver_es_gepgyar_organization: "$HUN_femaru_fegyver_es_gepgyar$"
 HUN_mw_aircraft_organization: "$mw_aircraft$"
@@ -771,11 +850,11 @@ YUG_mio_trait_zmaj_funding: "$YUG_zmaj$ funding"
 
 
 
-#   #  ##  # # ### #  #  ##      ### #  # ###     ### ###  ##  ### ###  
-#   # #  # # #  #  ## # #         #  #  # #        #   #  #    #   #  # 
-# # # #### ##   #  # ## # ##      #  #### ##       #   #  # ## ##  ###  
-# # # #  # # #  #  #  # #  #      #  #  # #        #   #  #  # #   #  # 
- # #  #  # # # ### #  #  ##       #  #  # ###      #  ###  ##  ### #  # 
+#   #  ##  # # ### #  #  ##      ### #  # ###     ### ###  ##  ### ###
+#   # #  # # #  #  ## # #         #  #  # #        #   #  #    #   #  #
+# # # #### ##   #  # ## # ##      #  #### ##       #   #  # ## ##  ###
+# # # #  # # #  #  #  # #  #      #  #  # #        #   #  #  # #   #  #
+ # #  #  # # # ### #  #  ##       #  #  # ###      #  ###  ##  ### #  #
 
 
 ##########################
@@ -824,11 +903,11 @@ MAN_mio_trait_mamc_heavy: "Manchurian Large Projects"
 
 
 
-#   #  ##  #  #     ### #  # ###      ##  #  # #  #  ## 
-## ## #  # ## #      #  #  # #       #    #  # ## # #   
-# # # #### # ##      #  #### ##      # ## #  # # ##  #  
-#   # #  # #  #      #  #  # #       #  # #  # #  #   # 
-#   # #  # #  #      #  #  # ###      ##   ##  #  # ##  
+#   #  ##  #  #     ### #  # ###      ##  #  # #  #  ##
+## ## #  # ## #      #  #  # #       #    #  # ## # #
+# # # #### # ##      #  #### ##      # ## #  # # ##  #
+#   # #  # #  #      #  #  # #       #  # #  # #  #   #
+#   # #  # #  #      #  #  # ###      ##   ##  #  # ##
 
 #####################
 #### NETHERLANDS ####
@@ -869,11 +948,11 @@ MEX_USA_ford_motor_company_organization: "$mexican_ford$"
 
 
 
-#    ##      ###  ###  ## ###  ## ###  ##  #  #  ##  ### 
-#   #  #     #  # #   #    #  #    #  #  # ## # #  # #   
-#   ####     ###  ##   #   #   #   #  #### # ## #    ##  
-#   #  #     #  # #     #  #    #  #  #  # #  # #  # #   
-### #  #     #  # ### ##  ### ##   #  #  # #  #  ##  ### 
+#    ##      ###  ###  ## ###  ## ###  ##  #  #  ##  ###
+#   #  #     #  # #   #    #  #    #  #  # ## # #  # #
+#   ####     ###  ##   #   #   #   #  #### # ## #    ##
+#   #  #     #  # #     #  #    #  #  #  # #  # #  # #
+### #  #     #  # ### ##  ### ##   #  #  # #  #  ##  ###
 
 ###################
 ###### SPAIN ######
@@ -901,22 +980,22 @@ SPR_hispano_suiza_organization: "$SPR_hispano_suiza$"
 ### ORGANIZATIONS ###
 POR_ogma_organization: "$ogma$"
 POR_arsenal_alfeite_organization: "$arsenal_alfeite$"
-POR_fnmal_organization: "$fnmal$"
+POR_fnmal_organization: "FNMAL"
 POR_fabrica_material_guerra_organization: "$fabrica_material_guerra$"
-POR_ogme_organization: "$ogme$"
-POR_fma_organization: "$fma$"
-POR_generic_infantry_equipment_organization: "$POR_fabrica_material_guerra_organization$"
+POR_ogme_organization: "$POR_ogme$"
+POR_fma_organization: "FMA"
+POR_generic_infantry_equipment_organization: "$fabrica_material_guerra_organization$"
 
 ### TRAITS ###
 
 
 
 
-###   ##  ### ### #   ###     ###  ##  ###      ### #  # ###     ###   ##   ## ###   ##  ###  #  #  ## 
-#  # #  #  #   #  #   #       #   #  # #  #      #  #  # #       #  # #  # #   #  # #  # #  # #  # #   
-###  ####  #   #  #   ##      ##  #  # ###       #  #### ##      ###  #  #  #  ###  #  # ###  #  #  #  
-#  # #  #  #   #  #   #       #   #  # #  #      #  #  # #       #  # #  #   # #    #  # #  # #  #   # 
-###  #  #  #   #  ### ###     #    ##  #  #      #  #  # ###     ###   ##  ##  #     ##  #  #  ##  ##  
+###   ##  ### ### #   ###     ###  ##  ###      ### #  # ###     ###   ##   ## ###   ##  ###  #  #  ##
+#  # #  #  #   #  #   #       #   #  # #  #      #  #  # #       #  # #  # #   #  # #  # #  # #  # #
+###  ####  #   #  #   ##      ##  #  # ###       #  #### ##      ###  #  #  #  ###  #  # ###  #  #  #
+#  # #  #  #   #  #   #       #   #  # #  #      #  #  # #       #  # #  #   # #    #  # #  # #  #   #
+###  #  #  #   #  ### ###     #    ##  #  #      #  #  # ###     ###   ##  ##  #     ##  #  #  ##  ##
 
 
 ####################
@@ -977,11 +1056,11 @@ BUL_dvf_sopot_organization: "$BUL_dvf_sopot$"
 has_invited_mio_tt: "§Y[ROOT.owner.GetNameWithFlag]§! has invited §Y[ROOT.GetName]§!"
 
 
-#  #  ##       ## ### ### ###      ###   ##   ##  # # 
-## # #  #     #    #  #   #  #     #  # #  # #  # # # 
-# ## #  #      #   #  ##  ###      ###  #### #    ##  
-#  # #  #       #  #  #   #        #  # #  # #  # # # 
-#  #  ##      ##   #  ### #        ###  #  #  ##  # # 
+#  #  ##       ## ### ### ###      ###   ##   ##  # #
+## # #  #     #    #  #   #  #     #  # #  # #  # # #
+# ## #  #      #   #  ##  ###      ###  #### #    ##
+#  # #  #       #  #  #   #        #  # #  # #  # # #
+#  #  ##      ##   #  ### #        ###  #  #  ##  # #
 
 
 ###############
@@ -1054,19 +1133,19 @@ LIT_anbo_organization: "$anbo$"
 
 
 
-###  #   #     ###  #    ##   ##  ###       ##  #    ##  #  # ### 
-#  #  # #      #  # #   #  # #  # #  #     #  # #   #  # ## # #   
-###    #       ###  #   #  # #  # #  #     #### #   #  # # ## ##  
-#  #   #       #  # #   #  # #  # #  #     #  # #   #  # #  # #   
-###    #       ###  ###  ##   ##  ###      #  # ###  ##  #  # ### 
+###  #   #     ###  #    ##   ##  ###       ##  #    ##  #  # ###
+#  #  # #      #  # #   #  # #  # #  #     #  # #   #  # ## # #
+###    #       ###  #   #  # #  # #  #     #### #   #  # # ## ##
+#  #   #       #  # #   #  # #  # #  #     #  # #   #  # #  # #
+###    #       ###  ###  ##   ##  ###      #  # ###  ##  #  # ###
 
 
 
- ##  ###  #   #  ##      ##   ##   ##  ### #  #  ## ###     ### #   # ###   ##  #  # #  # #   # 
-#  # #  # ## ## #       #  # #    #  #  #  ## # #    #       #   # #  #  # #  # ## # ## #  # #  
-#### ###  # # #  #      #### # ## ####  #  # ##  #   #       #    #   ###  #### # ## # ##   #   
-#  # #  # #   #   #     #  # #  # #  #  #  #  #   #  #       #    #   #  # #  # #  # #  #   #   
-#  # #  # #   # ##      #  #  ##  #  # ### #  # ##   #       #    #   #  # #  # #  # #  #   #   
+ ##  ###  #   #  ##      ##   ##   ##  ### #  #  ## ###     ### #   # ###   ##  #  # #  # #   #
+#  # #  # ## ## #       #  # #    #  #  #  ## # #    #       #   # #  #  # #  # ## # ## #  # #
+#### ###  # # #  #      #### # ## ####  #  # ##  #   #       #    #   ###  #### # ## # ##   #
+#  # #  # #   #   #     #  # #  # #  #  #  #  #   #  #       #    #   #  # #  # #  # #  #   #
+#  # #  # #   # ##      #  #  ##  #  # ### #  # ##   #       #    #   #  # #  # #  # #  #   #
 
 
 
@@ -1184,7 +1263,7 @@ NOR_mio_trait_cruiser_specialization: "Cruiser Specialization"
 ### NORDIC TRAITS ###
 NORDIC_mio_department_design_infantry_name: "Infantry Equipment Department"
 NORDIC_mio_department_design_tank_general_name: "Tank Department"
-NORDIC_joint_MIO: "[THIS.OWNER.NORDIC_get_adjective] Armaments Department"   
+NORDIC_joint_MIO: "[THIS.OWNER.NORDIC_get_adjective] Armaments Department"
 NORDIC_mio_trait_large_scale_production_tank: "$NORDIC_large_scale_production$"
 NORDIC_mio_trait_large_scale_production_infantry: "$NORDIC_large_scale_production$"
 NORDIC_mio_trait_improved_assembly_tank: "$NORDIC_improve_assembly$"
@@ -1193,15 +1272,15 @@ NORDIC_mio_trait_improved_assembly_infantry: "$NORDIC_improve_assembly$"
 
 ########################################################################
 
-#      /$$$$$                              
-#     |__  $$                              
-#        | $$ /$$   /$$ /$$$$$$$   /$$$$$$ 
+#      /$$$$$
+#     |__  $$
+#        | $$ /$$   /$$ /$$$$$$$   /$$$$$$
 #        | $$| $$  | $$| $$__  $$ /$$__  $$
 #   /$$  | $$| $$  | $$| $$  \ $$| $$  \ $$
 #  | $$  | $$| $$  | $$| $$  | $$| $$  | $$
 #  |  $$$$$$/|  $$$$$$/| $$  | $$|  $$$$$$/
-#   \______/  \______/ |__/  |__/ \______/ 
-#                                                       
+#   \______/  \______/ |__/  |__/ \______/
+#
 
 ################
 #### Brazil ####
@@ -1239,21 +1318,21 @@ ARG_mio_trait_dreams_of_a_domestic_tank_trait: "Dreams of a Domestic Tank"
 ########################################################################
 
 
- ######   ######## ##    ## ######## ########  ####  ######   ######  
-##    ##  ##       ###   ## ##       ##     ##  ##  ##    ## ##    ## 
-##        ##       ####  ## ##       ##     ##  ##  ##       ##       
-##   #### ######   ## ## ## ######   ########   ##  ##        ######  
-##    ##  ##       ##  #### ##       ##   ##    ##  ##             ## 
-##    ##  ##       ##   ### ##       ##    ##   ##  ##    ## ##    ## 
- ######   ######## ##    ## ######## ##     ## ####  ######   ######  
+ ######   ######## ##    ## ######## ########  ####  ######   ######
+##    ##  ##       ###   ## ##       ##     ##  ##  ##    ## ##    ##
+##        ##       ####  ## ##       ##     ##  ##  ##       ##
+##   #### ######   ## ## ## ######   ########   ##  ##        ######
+##    ##  ##       ##  #### ##       ##   ##    ##  ##             ##
+##    ##  ##       ##   ### ##       ##    ##   ##  ##    ## ##    ##
+ ######   ######## ##    ## ######## ##     ## ####  ######   ######
 
 
 
-###  ##  #  # # #     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ## 
- #  #  # ## # # #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #   
- #  #### # ## ##      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #  
- #  #  # #  # # #     #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     # 
- #  #  # #  # # #     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##  
+###  ##  #  # # #     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+ #  #  # ## # # #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+ #  #### # ## ##      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+ #  #  # #  # # #     #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+ #  #  # #  # # #     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
 
 
 ################################
@@ -1299,7 +1378,7 @@ generic_mio_trait_heavy_tank_specialization: "Heavy Tank Specialization"
 ################################
 generic_mobile_tank_organization: "Mobile Tank Manufacturer"
 generic_mio_initial_trait_fast_tanks_designer: "Fast Tanks Designer"
-generic_mio_trait_improved_boogies: "Improved Boogies"
+generic_mio_trait_improved_boogies: "Improved Bogies"
 generic_mio_engine_optimization: "Engine Optimization"
 generic_mio_reduced_fuel_usage: "Reduced Fuel Usage"
 generic_mio_improved_ventilation: "Improved Ventilation"
@@ -1374,11 +1453,11 @@ generic_mio_trait_barrels_of_hell: "Barrels of Hell"
 
 
 
- ## #  # ### ###      #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ## 
-#   #  #  #  #  #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #   
- #  ####  #  ###      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #  
-  # #  #  #  #        #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     # 
-##  #  # ### #        #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##  
+ ## #  # ### ###      #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+#   #  #  #  #  #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+ #  ####  #  ###      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+  # #  #  #  #        #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+##  #  # ### #        #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
 
 
 ######################################
@@ -1410,7 +1489,7 @@ generic_mio_trait_internal_armor_belt: "Internal Armor Belt"
 generic_mio_trait_hardened_critical_components: "Hardened Critical Components"
 generic_mio_trait_advanced_hydrodynamic_design: "Advanced Hydrodynamic Design"
 generic_mio_trait_advanced_armor_design: "Advanced Armor Design"
-generic_mio_trait_anti_air_layout: "Anti-Air Layout Trait"
+generic_mio_trait_anti_air_layout: "Anti-Air Battery Layout"
 generic_mio_trait_secondary_battery_layout: "Secondary Battery Layout"
 generic_mio_trait_combat_information_center: "Combat Information Center"
 generic_mio_trait_primary_battery_layout: "Primary Battery Layout"
@@ -1421,7 +1500,7 @@ generic_mio_trait_semi_armor_piercing_shells: "Semi-Armor-Piercing Shells"
 #### ESCORT SHIP MANUFACTURER ####
 ##################################
 generic_escort_ship_organization: "Escort Ship Manufacturer"
-generic_mio_initial_trait_escort_fleet: "Escort Fleet"
+generic_mio_initial_trait_escort_fleet: "Escort Ship Builders"
 generic_mio_trait_submarine_hunters: "Submarine Hunters"
 generic_mio_trait_high_speed_mine_hunting_equipment: "High-Speed Mine-Hunting Equipment"
 generic_mio_trait_fleet_escorts: "Fleet Escorts"
@@ -1435,7 +1514,7 @@ generic_mio_trait_improved_light_gun_mounting: "Improved Light Gun Mounting"
 #### RAIDER SHIP MANUFACTURER ####
 ##################################
 generic_raider_ship_organization: "Raider Ship Manufacturer"
-generic_mio_initial_trait_raiding_fleet: "Raiding Fleet"
+generic_mio_initial_trait_raiding_fleet: "Raiding Ship Builders"
 generic_mio_trait_long_range_raiding: "Long Range Raiding"
 generic_mio_trait_high_speed_raiding: "High Speed Raiding"
 generic_mio_trait_diesel_powerplants: "Diesel Powerplants"
@@ -1455,13 +1534,13 @@ generic_mio_trait_mass_produced_raiders: "Mass-Produced Raiders"
 ### SUBMARINE MANUFACTURER ###
 ##############################
 generic_submarine_organization: "Submarine Manufacturer"
-generic_mio_initial_trait_submarine_designer: "Submarine Designer"
+generic_mio_initial_trait_submarine_designer: "Submarine Builders"
 generic_mio_trait_decalin_fueled_torpedo: "Decalin Fueled Torpedo"
 generic_mio_trait_efficient_fuel_engines: "Efficient Fuel Engines"
 generic_mio_trait_highly_efficient_diesel_electric_propulsion_systems: "Highly Efficient Diesel-Electric Propulsion Systems"
 generic_mio_trait_high_powered_engines: "High-Powered Engines"
 generic_mio_trait_open_cycle_propulsion: "Open-Cycle Propulsion"
-generic_mio_trait_experimental_anechoic_tiles: "Experimental Anechoic Tiles"
+generic_mio_trait_experimental_anechoic_tiles: "Experimental Noise Reduction"
 generic_mio_trait_improved_torpedo_detonators: "Improved Torpedo Detonators"
 generic_mio_trait_simplified_pressure_hull_design: "Simplified Pressure Hull Design"
 generic_mio_trait_advanced_periscope: "Advanced Periscope"
@@ -1477,8 +1556,8 @@ generic_mio_trait_high_capacity_mine_storage: "High-Capacity Mine Storage"
 ##############################
 ### BLACK SEA MANUFACTURER ###
 ##############################
-generic_black_sea_fleet_organization: "Black Sea Fleet Manufacturer"
-generic_mio_initial_trait_black_sea_fleet_designer: "Black Sea Fleet Designer"
+generic_black_sea_fleet_organization: "Littoral Fleet Manufacturer"
+generic_mio_initial_trait_black_sea_fleet_designer: "Littoral Fleet Builder"
 generic_mio_trait_submarine_hunters_black_sea: "Submarine Hunters"
 generic_mio_trait_efficient_patrolling_scheme: "Efficient Patrolling Scheme"
 generic_mio_trait_advanced_sub_scanners: "Advanced Sub-Scanners"
@@ -1496,11 +1575,11 @@ generic_mio_trait_24h_shifts: "24h Shifts"
 generic_mio_trait_state_subsidizing: "State Subsidizing"
 generic_mio_trait_deck_guns_black_sea: "Deck Guns"
 
-
-
-
-generic_refurbishment_repair_organization: "Refurbishment Repair Manufacturer"
-generic_mio_refurbishment_repair_organization: "$generic_refurbishment_repair_organization$"
+##########################
+### REFIT MANUFACTURER ###
+##########################
+generic_refurbishment_repair_organization: "Naval Refit and Repair Manufacturer"
+generic_mio_refurbishment_repair_organization: "Naval Refit and Repair Yards"
 generic_mio_trait_heavy_armored_hull: "Heavy Armored Hull"
 generic_mio_trait_isolated_firemains: "Isolated Firemains"
 generic_mio_trait_counter_flooding_system: "Counter Flooding Systems"
@@ -1511,17 +1590,18 @@ generic_mio_trait_high_powered_steering: "High Powered Steering"
 generic_mio_trait_flooding_boundries: "Flooding Boundries"
 generic_mio_trait_protected_pumps: "Protected Pumps"
 generic_mio_trait_advanced_scanners: "Advanced Scanners"
-generic_mio_trait_capital_destroyer_shells: "Capital Destroyer Shells"
+generic_mio_trait_capital_destroyer_shells: "Semi-Armor-Piercing Shells"
 generic_mio_trait_naval_all_purpose_defense_systems: "All-Purpose Defense Systems"
+generic_mio_trait_refit_civilian_ships: "Merchant Vessel Conversions"
 
 
 
 
- ##  ### ###   ##  ###   ##  ### ###     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ## 
-#  #  #  #  # #  # #  # #  # #    #      ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #   
-####  #  ###  #    ###  #### ##   #      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #  
-#  #  #  #  # #  # #  # #  # #    #      #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     # 
-#  # ### #  #  ##  #  # #  # #    #      #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##  
+ ##  ### ###   ##  ###   ##  ### ###     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+#  #  #  #  # #  # #  # #  # #    #      ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+####  #  ###  #    ###  #### ##   #      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+#  #  #  #  # #  # #  # #  # #    #      #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+#  # ### #  #  ##  #  # #  # #    #      #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
 
 
 #######################################
@@ -1571,7 +1651,7 @@ generic_mio_trait_close_air_support_expertise: "Close Air Support Expertise"
 #### MEDIUM AIRCRAFT MANUFACTURER ####
 ######################################
 generic_medium_aircraft_organization: "Medium Aircraft Manufacturer"
-generic_mio_initial_trait_multi_role_tactical_aircraft: "Multi-Role Tactical Aircraft"
+generic_mio_initial_trait_multi_role_tactical_aircraft: "Tactical Aircraft Designer"
 generic_mio_trait_narrow_build: "Narrow Build"
 generic_mio_trait_mixed_material_construction: "Mixed Material Construction"
 generic_mio_trait_multi_role_transport: "Multi-Role Transport"
@@ -1611,7 +1691,7 @@ generic_mio_trait_advanced_instruments: "Advanced Instruments"
 ###################################
 #### CAS AIRCRAFT MANUFACTURER ####
 ###################################
-generic_cas_aircraft_organization: "CAS Aircarft Manufacturer"
+generic_cas_aircraft_organization: "CAS Aircraft Manufacturer"
 generic_mio_initial_trait_cas_aircraft_designer: "CAS Aircraft Designer"
 generic_mio_trait_selectional_construction: "Selectional Construction"
 generic_mio_trait_low_altitude_attacks: "Low Altitude Attacks"
@@ -1676,7 +1756,7 @@ generic_mio_trait_bomber_specialization: "Bomber Specialization"
 #### HIGH AGILITY FIGHTER AIRCRAFT MANUFACTURER ####
 ####################################################
 generic_high_agility_fighter_aircraft_organization: "High Agility Fighter Aircraft Manufacturer"
-generic_mio_initial_trait_high_agility_fighters_designer: "High Agility Fighters Designer"
+generic_mio_initial_trait_high_agility_fighters_designer: "High Agility Fighter Designer"
 generic_mio_trait_bigger_engines: "Bigger Engines"
 generic_mio_trait_cantilever_wing_structure: "Cantilever Wing Structure"
 generic_mio_trait_minimum_weapon_requirements: "Minimum Weapon Requirements"
@@ -1715,11 +1795,11 @@ generic_mio_trait_tactical_bombers: "Tactical Bombers"
 
 
 
-#   #  ##  ### ### ###  ### ### #       #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ## 
-## ## #  #  #  #   #  #  #  #   #       ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #   
-# # # ####  #  ##  ###   #  ##  #       # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #  
-#   # #  #  #  #   #  #  #  #   #       #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     # 
-#   # #  #  #  ### #  # ### ### ###     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##  
+#   #  ##  ### ### ###  ### ### #       #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+## ## #  #  #  #   #  #  #  #   #       ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+# # # ####  #  ##  ###   #  ##  #       # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+#   # #  #  #  #   #  #  #  #   #       #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+#   # #  #  #  ### #  # ### ### ###     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
 
 
 
@@ -1804,7 +1884,7 @@ generic_mio_trait_pontoons: "Pontoons"
 #### ARMORED CAR MANUFACTURER ####
 ##################################
 generic_armored_car_organization: "Armored Car Manufacturer"
-generic_mio_initial_trait_armored_car_manufacturer: "Armored Car Designer"
+generic_mio_initial_trait_armored_car_manufacturer: "Armored Car Manufacturer"
 generic_mio_trait_flash_suppressor: "Flash Suppressor"
 generic_mio_trait_glacis_armor: "Glacis Armor"
 generic_mio_trait_heavy_anti_tank_rifle: "Heavy Mounted Anti-Tank Rifle"

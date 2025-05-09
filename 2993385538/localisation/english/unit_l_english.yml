@@ -96,7 +96,7 @@
  RANDOM_AIR_ACCIDENT_CHANCE_CARRIER:0 "\n  - On carrier ship multiplier: §R$CAR|1$§!"
  RANDOM_AIR_ACCIDENT_CHANCE_TRAINING:0 "\n  - Running §YPilot Exercises§! multiplier: §R$VALUE|1$§!"
  RANDOM_AIR_ACCIDENT_CHANCE_WEATHER:0 "\n  - Weather:"
- RANDOM_AIR_ACCIDENT_CHANCE_GLOBAL: "\n  - Country: $VALUE-=%$"
+ RANDOM_AIR_ACCIDENT_CHANCE_GLOBAL: "\n  - Country: $VALUE|-=%$"
  RANDOM_AIR_ACCIDENT_CHANCE_TOTAL:0 "\nTotal: $TOT|R%$"
  RANDOM_AIR_ACCIDENTS_HAPPENED:0 "Total accidents happened: $TOT|R$"
  DESELECT_UNIT:0 "Deselect"

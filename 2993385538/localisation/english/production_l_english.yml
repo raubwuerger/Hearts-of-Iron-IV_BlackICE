@@ -317,7 +317,7 @@
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL_SIMPLE:0 "§HLicense production§!: $VALUE|+%$"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL:0 "§HLicense Production speed§!\nTotal: $VALUE|+%$\nBreakdown:"
  LICENSED_EQUIPMENT_TECH_SPEED_REDUCTION:1 "\n§YTechnology difference§!:\n Base: $BASE|+%$\n Modified total: $TOTAL|+%$"
- LICENSED_EQUIPMENT_PRODUCTION_SPEED_MODIFIER:1 "\n§YProduction modifiers§!:\n Base: §Yx0.60§!\n Modified total: $TOTAL|+%$"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_MODIFIER:1 "\n§YProduction modifiers§!:\n Base: $BASE|+%$\n Modified total: $TOTAL|+%$"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_NOT_FACTION:0 "Not in faction with licensor: $VALUE|+%$"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_NO_LICENSE:0 "No active license: $VALUE|+%$"
  LICENSED_EQUIPMENT_UPGRADE_XP_COST_MODIFIER:0 "Licensed Equipment: $VAL$"

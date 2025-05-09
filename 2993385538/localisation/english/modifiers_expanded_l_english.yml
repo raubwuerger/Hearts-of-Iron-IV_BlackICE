@@ -1195,6 +1195,7 @@
  railway_gun_bombardment_factor:0"$MODIFIER_RAILWAY_GUN_BOMBARDMENT_FACTOR$" 
  unit_leader_as_advisor_cp_cost_factor:0"$MODIFIER_UNIT_LEADER_AS_ADVISOR_CP_COST_FACTOR$" 
  initiative_factor:0"$MODIFIER_INITIATIVE_FACTOR$" 
+ naval_invasion_planning_bonus_speed:0"$MODIFIER_NAVAL_INVASION_PLANNING_SPEED$" 
  naval_invasion_planning_speed:0"$MODIFIER_NAVAL_INVASION_PLANNING_SPEED$" 
  naval_invasion_planning_speed_desc:0"$MODIFIER_NAVAL_INVASION_PLANNING_SPEED_DESC$" 
  terrain_trait_xp_gain_factor:0"$MODIFIER_TERRAIN_TRAIT_XP_GAIN_FACTOR$" 

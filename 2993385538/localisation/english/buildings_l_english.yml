@@ -208,7 +208,7 @@
  RADAR_ONMAP_TOOLTIP_COVERAGE_ENTRY:0 "\n  $PERC|%$ in $REGION$"
  RADAR_ONMAP_TOOLTIP_SUPPRESS:0 "\nHold §GCtrl§! to §Rsuppress§! this tooltip."
  
- BUILDING_SPEED_FACTOR:0 "§0Conditional Construction Speed Factor:§! $VALUE|Y2$"
+ BUILDING_SPEED_FACTOR:0 "§YConditional Construction Speed Factor:§! $VALUE|Y2$"
  BUILDING_SPEED_FACTOR_WITH_TRIGGER:0 "$BUILDING_SPEED_FACTOR$\n§0Only if:§!"
  BUILDING_NEED_SUPPLIES:0 "$Building|Y$ has supplies."
  CANNOT_BUILD_FACILITY_WITHOUT_AVAILABLE_PROJECT:0 "Requires at least 1 available special project to be able to be built."

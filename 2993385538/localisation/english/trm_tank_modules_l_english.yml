@@ -27,7 +27,7 @@
  ### EQUIPMENT MODULE CATEGORIES ###
  EQ_MOD_CAT_trm_tank_construction_TITLE:0 "Normal Construction"
  EQ_MOD_CAT_trm_tank_construction_cast_TITLE:0 "Improved Cast Construction"
- 
+
  EQ_MOD_CAT_trm_tank_construction_standard_TITLE:0 "Standard Construction"
  EQ_MOD_CAT_trm_tank_construction_quality_TITLE:0 "Quality Construction"
  EQ_MOD_CAT_trm_tank_construction_streamlined_TITLE:0 "Streamlined Production"
@@ -39,7 +39,7 @@
  EQ_MOD_CAT_trm_tank_construction_cast_streamlined_TITLE:0 "Streamlined Production Improved Cast"
  EQ_MOD_CAT_trm_tank_construction_cast_fast_TITLE:0 "Cost Saving, Improved Cast"
 
- 
+
  EQ_MOD_CAT_trm_weapon_mg_TITLE:0 "Machineguns"
  EQ_MOD_CAT_trm_weapon_mg_heavy_TITLE:0 "Heavy Machineguns"
  EQ_MOD_CAT_trm_weapon_aa_TITLE:0 "Anti-Aircraft Guns"
@@ -47,7 +47,7 @@
  EQ_MOD_CAT_trm_weapon_c_TITLE:0 "Cannons"
  EQ_MOD_CAT_trm_weapon_c_cs_TITLE:0 "Close Support Guns"
  EQ_MOD_CAT_trm_weapon_art_TITLE:0 "Artillery"
- 
+
  EQ_MOD_CAT_trm_weapon_mg_ger_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_ger_x2_TITLE:0 "2x Machinegun"
  EQ_MOD_CAT_trm_weapon_ac_ger_8_TITLE:0 "7.92mm Autocannon"
@@ -67,7 +67,7 @@
  EQ_MOD_CAT_trm_weapon_c_ger_128_TITLE:0 "12.8cm Cannon"
  EQ_MOD_CAT_trm_weapon_c_ger_150_TITLE:0 "15cm Cannon"
  EQ_MOD_CAT_trm_weapon_c_ger_380_TITLE:0 "38cm Mortar"
- 
+
  EQ_MOD_CAT_trm_weapon_aa_mg_ger_15_TITLE:0 "15mm AA Machinegun"
  EQ_MOD_CAT_trm_weapon_aa_mg_ger_15_x2_TITLE:0 "2x 15mm AA Machinegun"
  EQ_MOD_CAT_trm_weapon_aa_mg_ger_15_x3_TITLE:0 "3x 15mm AA Machinegun"
@@ -78,13 +78,13 @@
  EQ_MOD_CAT_trm_weapon_aa_ac_ger_30_x2_TITLE:0 "2x 3cm AA Gun"
  EQ_MOD_CAT_trm_weapon_aa_ac_ger_37_TITLE:0 "3.7cm AA Gun"
  EQ_MOD_CAT_trm_weapon_aa_ac_ger_37_x2_TITLE:0 "2x 3.7cm AA Gun"
- 
+
  EQ_MOD_CAT_trm_weapon_art_ger_75_TITLE:0 "7.5cm Artillery"
  EQ_MOD_CAT_trm_weapon_art_ger_105_TITLE:0 "10.5cm Artillery"
  EQ_MOD_CAT_trm_weapon_art_ger_150_short_TITLE:0 "15cm Artillery"
  EQ_MOD_CAT_trm_weapon_art_ger_150_TITLE:0 "15cm Artillery"
  EQ_MOD_CAT_trm_weapon_art_ger_150_long_TITLE:0 "15cm Artillery"
- 
+
  EQ_MOD_CAT_trm_weapon_mg_sov_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_sov_x2_TITLE:0 "2x Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_sov_heavy_TITLE:0 "Heavy Machinegun"
@@ -104,7 +104,7 @@
  EQ_MOD_CAT_trm_weapon_c_sov_122_TITLE:0 "122mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_sov_152_short_TITLE:0 "152mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_sov_152_TITLE:0 "152mm Cannon"
- 
+
  EQ_MOD_CAT_trm_weapon_aa_mg_sov_7_x2_TITLE:0 "2x 7.62mm AA Machinegun"
  EQ_MOD_CAT_trm_weapon_aa_mg_sov_7_x4_TITLE:0 "4x 7.62mm AA Machinegun"
  EQ_MOD_CAT_trm_weapon_aa_mg_sov_12_TITLE:0 "12.7mm AA Machinegun"
@@ -112,7 +112,7 @@
  EQ_MOD_CAT_trm_weapon_aa_ac_sov_25_TITLE:0 "25mm AA Gun"
  EQ_MOD_CAT_trm_weapon_aa_ac_sov_37_TITLE:0 "37mm AA Gun"
  EQ_MOD_CAT_trm_weapon_aa_ac_sov_57_TITLE:0 "57mm AA Gun"
- 
+
  EQ_MOD_CAT_trm_weapon_mg_ita_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_ita_x2_TITLE:0 "2x Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_ita_heavy_TITLE:0 "Heavy Machinegun"
@@ -135,7 +135,7 @@
  EQ_MOD_CAT_trm_weapon_art_ita_105_TITLE:0 "105mm Artillery"
  EQ_MOD_CAT_trm_weapon_art_ita_149_TITLE:0 "149mm Artillery"
 
- 
+
  EQ_MOD_CAT_trm_weapon_mg_eng_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_eng_light_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_eng_heavy_TITLE:0 "Heavy Machinegun"
@@ -162,7 +162,7 @@
  EQ_MOD_CAT_trm_weapon_aa_ac_eng_40_x2_TITLE:0 "2x 40mm AA Gun"
 
  EQ_MOD_CAT_trm_weapon_art_eng_88_TITLE:0 "25-pdr Artillery"
- 
+
  EQ_MOD_CAT_trm_weapon_mg_usa_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_usa_x2_TITLE:0 "2x Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_usa_heavy_TITLE:0 "Heavy Machinegun"
@@ -195,7 +195,7 @@
  EQ_MOD_CAT_trm_weapon_art_usa_155_TITLE:0 "155mm Artillery"
  EQ_MOD_CAT_trm_weapon_art_usa_155_long_TITLE:0 "155mm Artillery"
  EQ_MOD_CAT_trm_weapon_art_usa_203_TITLE:0 "203mm Artillery"
- 
+
  EQ_MOD_CAT_trm_weapon_mg_jap_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_jap_heavy_TITLE:0 "Heavy Machinegun"
  EQ_MOD_CAT_trm_weapon_c_jap_37_TITLE:0 "37mm Cannon"
@@ -216,7 +216,7 @@
 
  EQ_MOD_CAT_trm_weapon_aa_ac_jap_20_TITLE:0 "20mm AA Gun"
  EQ_MOD_CAT_trm_weapon_aa_ac_jap_20_x2_TITLE:0 "2x 20mm AA Gun"
- 
+
  EQ_MOD_CAT_trm_weapon_mg_fra_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_fra_heavy_TITLE:0 "Heavy Machinegun"
  EQ_MOD_CAT_trm_weapon_c_fra_25_TITLE:0 "25mm Cannon"
@@ -232,7 +232,7 @@
  EQ_MOD_CAT_trm_weapon_c_fra_75_TITLE:0 "75mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_fra_75_long_TITLE:0 "75mm Cannon"
  EQ_MOD_CAT_trm_weapon_c_fra_90_TITLE:0 "90mm Cannon"
- 
+
  EQ_MOD_CAT_trm_weapon_mg_cze_TITLE:0 "Machinegun"
  EQ_MOD_CAT_trm_weapon_mg_cze_x2_TITLE:0 "2x Machinegun"
  EQ_MOD_CAT_trm_weapon_c_cze_37_TITLE:0 "37mm Cannon"
@@ -275,7 +275,7 @@
  EQ_MOD_CAT_trm_ammo_c_ger_128_TITLE:0 "12.8cm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_ger_150_TITLE:0 "15cm Ammunition"
  EQ_MOD_CAT_trm_ammo_aa_ac_ger_30_TITLE:0 "3cm AA Ammunition"
- 
+
  EQ_MOD_CAT_trm_ammo_ac_ger_20_kwk30_TITLE:0 "2cm L/55 KwK 30 Ammunition"
  EQ_MOD_CAT_trm_ammo_ac_ger_20_kwk38_TITLE:0 "2cm L/55 KwK 38 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_ger_37_kwk36_TITLE:0 "3.7cm L/45 KwK 36 Ammunition"
@@ -298,14 +298,14 @@
  EQ_MOD_CAT_trm_ammo_c_ger_150_stuh43_TITLE:0 "15cm L/12 StuH 43 Ammunition"
  EQ_MOD_CAT_trm_ammo_aa_ac_ger_30_mk103_TITLE:0 "3cm MK103 Ammunition"
  EQ_MOD_CAT_trm_ammo_aa_ac_ger_30_mk103_x2_TITLE:0 "2x 3cm MK103 Ammunition"
- 
+
  EQ_MOD_CAT_trm_ammo_c_sov_45_TITLE:0 "45mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_sov_57_TITLE:0 "57mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_sov_76_TITLE:0 "76mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_sov_85_TITLE:0 "85mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_sov_122_TITLE:0 "122mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_sov_152_TITLE:0 "152mm Ammunition"
- 
+
  EQ_MOD_CAT_trm_ammo_c_sov_45_20k32_TITLE:0 "45mm 20-K Mod.32 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_sov_45_20k34_TITLE:0 "45mm 20-K Mod.34 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_sov_45_20k38_TITLE:0 "45mm 20-K Mod.38 Ammunition"
@@ -316,7 +316,7 @@
  EQ_MOD_CAT_trm_ammo_c_sov_85_ziss53_TITLE:0 "85mm ZiS-S-53 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_sov_122_m30_TITLE:0 "122mm M-30 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_sov_152_ml20_TITLE:0 "152mm ML-20 Ammunition"
- 
+
  EQ_MOD_CAT_trm_ammo_c_ita_20_TITLE:0 "20mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_ita_75_short_TITLE:0 "75mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_ita_75_TITLE:0 "75mm Ammunition"
@@ -336,7 +336,7 @@
  EQ_MOD_CAT_trm_ammo_aa_ac_ita_20_m39_TITLE:0 "20mm Breda mod.39 Ammunition"
  EQ_MOD_CAT_trm_ammo_aa_ac_ita_20_m41_x2_TITLE:0 "2x 20mm Scotti-IF Ammunition"
  EQ_MOD_CAT_trm_ammo_aa_ac_ita_20_m41_x4_TITLE:0 "4x 20mm Scotti-IF Ammunition"
- 
+
  EQ_MOD_CAT_trm_ammo_c_eng_40_TITLE:0 "40mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_eng_57_TITLE:0 "57mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_eng_76_TITLE:0 "76mm Ammunition"
@@ -350,13 +350,13 @@
  EQ_MOD_CAT_trm_ammo_c_eng_76_mk2_TITLE:0 "77mm HV Ammunition"
  EQ_MOD_CAT_trm_ammo_c_eng_84_20pdr_TITLE:0 "84mm 20-pdr Ammunition"
  EQ_MOD_CAT_trm_ammo_c_eng_95_how_TITLE:0 "95mm Ammunition"
- 
+
  EQ_MOD_CAT_trm_ammo_c_usa_57_TITLE:0 "57mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_usa_75_TITLE:0 "75mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_usa_76_TITLE:0 "76mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_usa_90_TITLE:0 "90mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_usa_105_TITLE:0 "105mm Ammunition"
- 
+
  EQ_MOD_CAT_trm_ammo_c_usa_57_m1_TITLE:0 "57mm M1 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_usa_75_m2_cs_TITLE:0 "75mm M2 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_usa_75_m3_TITLE:0 "75mm M3 Ammunition"
@@ -367,12 +367,12 @@
  EQ_MOD_CAT_trm_ammo_c_usa_90_t15_TITLE:0 "90mm T15 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_usa_105_m4_TITLE:0 "105mm M4 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_usa_105_t5_TITLE:0 "105mm T5 Ammunition"
- 
+
  EQ_MOD_CAT_trm_ammo_c_jap_57_TITLE:0 "57mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_jap_70_TITLE:0 "70mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_jap_75_TITLE:0 "75mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_jap_88_TITLE:0 "88mm Ammunition"
- 
+
  EQ_MOD_CAT_trm_ammo_c_jap_57_type90_TITLE:0 "57mm Type 90 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_jap_57_type97_TITLE:0 "57mm Type 97 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_jap_70_type94_TITLE:0 "70mm Type 94 Ammunition"
@@ -380,7 +380,7 @@
  EQ_MOD_CAT_trm_ammo_c_jap_75_type5_TITLE:0 "75mm Type 5 Ammunition"
  EQ_MOD_CAT_trm_ammo_c_jap_75_type5_semi_TITLE:0 "75mm Type 5 II Ammunition"
  EQ_MOD_CAT_trm_ammo_c_jap_88_type99_TITLE:0 "88mm Type 99 Ammunition"
- 
+
  EQ_MOD_CAT_trm_ammo_c_hun_75_TITLE:0 "75mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_hun_105_TITLE:0 "105mm Ammunition"
 
@@ -394,42 +394,42 @@
  EQ_MOD_CAT_trm_ammo_c_gen_37_cannon_TITLE:0 "37mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_gen_47_cannon_TITLE:0 "47mm Ammunition"
  EQ_MOD_CAT_trm_ammo_c_gen_75_cannon_TITLE:0 "75mm Ammunition"
- 
+
  EQ_MOD_CAT_trm_weapon_coax_mg_TITLE:0 "Coaxial Machineguns"
  EQ_MOD_CAT_trm_weapon_coax_c_TITLE:0 "Coaxial Cannons"
  EQ_MOD_CAT_trm_weapon_hull_mg_TITLE:0 "Hull Machineguns"
  EQ_MOD_CAT_trm_weapon_hull_c_TITLE:0 "Hull Cannons"
- 
+
  EQ_MOD_CAT_trm_weapon_coax_mg_ger_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_coax_mg_ger_x2_TITLE:0 "2x Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_coax_c_ger_37_TITLE:0 "3.7cm Coaxial Cannon"
  EQ_MOD_CAT_trm_weapon_coax_c_ger_75_short_TITLE:0 "7.5cm Coaxial Cannon"
  EQ_MOD_CAT_trm_weapon_hull_mg_ger_TITLE:0 "Hull Machinegun"
- 
+
  EQ_MOD_CAT_trm_weapon_coax_mg_sov_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_coax_mg_sov_heavy_TITLE:0 "Coaxial Heavy Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_sov_TITLE:0 "Hull Machinegun"
- 
+
  EQ_MOD_CAT_trm_weapon_coax_mg_ita_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_coax_mg_ita_x2_TITLE:0 "2x Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_ita_TITLE:0 "Hull Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_ita_x2_TITLE:0 "2x Hull Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_c_ita_20_TITLE:0 "20mm Hull Cannon"
  EQ_MOD_CAT_trm_weapon_hull_c_ita_37_TITLE:0 "37mm Hull Cannon"
- 
+
  EQ_MOD_CAT_trm_weapon_coax_mg_fra_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_fra_TITLE:0 "Hull Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_c_fra_47_TITLE:0 "47mm Hull Cannon"
  EQ_MOD_CAT_trm_weapon_hull_c_fra_47_long_TITLE:0 "47mm Hull Cannon"
  EQ_MOD_CAT_trm_weapon_hull_c_fra_75_TITLE:0 "75mm Hull Cannon"
  EQ_MOD_CAT_trm_weapon_hull_c_fra_75_apx_TITLE:0 "75mm Hull Cannon"
- 
+
  EQ_MOD_CAT_trm_weapon_coax_mg_eng_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_eng_TITLE:0 "Hull Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_eng_light_TITLE:0 "Hull Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_c_eng_40_TITLE:0 "40mm Hull Cannon"
  EQ_MOD_CAT_trm_weapon_hull_c_eng_75_cs_TITLE:0 "76mm Hull Cannon"
- 
+
  EQ_MOD_CAT_trm_weapon_coax_mg_usa_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_coax_mg_usa_x2_TITLE:0 "2x Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_coax_mg_usa_heavy_TITLE:0 "Coaxial Heavy Machinegun"
@@ -441,12 +441,12 @@
  EQ_MOD_CAT_trm_weapon_hull_mg_usa_heavy_x2_TITLE:0 "2x Hull Heavy Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_c_usa_57_TITLE:0 "57mm Hull Cannon"
  EQ_MOD_CAT_trm_weapon_hull_c_usa_75_TITLE:0 "75mm Hull Cannon"
- 
+
  EQ_MOD_CAT_trm_weapon_coax_mg_jap_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_jap_TITLE:0 "Hull Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_jap_heavy_TITLE:0 "Hull Heavy Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_c_jap_37_TITLE:0 "37mm Hull Cannon"
- 
+
  EQ_MOD_CAT_trm_weapon_coax_mg_cze_TITLE:0 "Coaxial Machinegun"
  EQ_MOD_CAT_trm_weapon_hull_mg_cze_TITLE:0 "Hull Machinegun"
 
@@ -467,7 +467,7 @@
  EQ_MOD_CAT_trm_engine_RG_TITLE:0 "Radial Engines"
  EQ_MOD_CAT_trm_engine_Gx_TITLE:0 "Twin Gasoline Engines"
  EQ_MOD_CAT_trm_engine_Dx_TITLE:0 "Twin Diesel Engines"
- 
+
  EQ_MOD_CAT_trm_engine_G_0020_TITLE:0 "20hp Gasoline Engine"
  EQ_MOD_CAT_trm_engine_G_0030_TITLE:0 "30hp Gasoline Engine"
  EQ_MOD_CAT_trm_engine_G_0040_TITLE:0 "40hp Gasoline Engine"
@@ -553,7 +553,7 @@
  EQ_MOD_CAT_trm_engine_D_1100_TITLE:0 "1100hp Diesel Engine"
  EQ_MOD_CAT_trm_engine_D_1150_TITLE:0 "1150hp Diesel Engine"
  EQ_MOD_CAT_trm_engine_D_1200_TITLE:0 "1200hp Diesel Engine"
- 
+
  EQ_MOD_CAT_trm_engine_RG_0020_TITLE:0 "20hp Radial Engine"
  EQ_MOD_CAT_trm_engine_RG_0030_TITLE:0 "30hp Radial Engine"
  EQ_MOD_CAT_trm_engine_RG_0040_TITLE:0 "40hp Radial Engine"
@@ -596,9 +596,9 @@
  EQ_MOD_CAT_trm_engine_RG_1100_TITLE:0 "1100hp Radial Engine"
  EQ_MOD_CAT_trm_engine_RG_1150_TITLE:0 "1150hp Radial Engine"
  EQ_MOD_CAT_trm_engine_RG_1200_TITLE:0 "1200hp Radial Engine"
- 
+
  EQ_MOD_CAT_trm_transmission_TITLE:0 "Steering & Transmissions"
- 
+
  EQ_MOD_CAT_trm_transmission_brake_front_TITLE:0 "Clutch Brake, Front Drive"
  EQ_MOD_CAT_trm_transmission_brake_rear_TITLE:0 "Clutch Brake, Rear Drive"
  EQ_MOD_CAT_trm_transmission_differential_front_TITLE:0 "Differential, Front Drive"
@@ -610,12 +610,13 @@
  EQ_MOD_CAT_trm_transmission_twin_transmission_front_TITLE:0 "Twin Transmission, Front Drive"
  EQ_MOD_CAT_trm_transmission_twin_transmission_rear_TITLE:0 "Twin Transmission, Rear Drive"
  EQ_MOD_CAT_trm_transmission_xelectrical_TITLE:0 "Electrical Drive"
- 
+ EQ_MOD_CAT_trm_transmission_hydrostatic_TITLE:0 "Hydrostatic Transmission"
+
  EQ_MOD_CAT_trm_gearbox_TITLE:0 "Gearbox"
  EQ_MOD_CAT_trm_gearbox_none_TITLE:0 "No Gearbox"
 
  EQ_MOD_CAT_trm_suspension_TITLE:0 "Suspensions"
- 
+
  EQ_MOD_CAT_trm_suspension_spring_leaf_TITLE:0 "Leaf Spring"
  EQ_MOD_CAT_trm_suspension_spring_coil_TITLE:0 "Coil Spring"
  EQ_MOD_CAT_trm_suspension_christie_TITLE:0 "Christie"
@@ -626,9 +627,9 @@
  EQ_MOD_CAT_trm_suspension_vss_horizontal_TITLE:0 "Horizontal Volute Spring"
  EQ_MOD_CAT_trm_suspension_torsion_TITLE:0 "Torsion Bar"
  EQ_MOD_CAT_trm_suspension_torsion_double_TITLE:0 "Double Torsion Bar"
- 
+
  EQ_MOD_CAT_trm_armour_TITLE:0 "Armour"
- 
+
  EQ_MOD_CAT_trm_armour_000_TITLE:0 "1mm Armour"
  EQ_MOD_CAT_trm_armour_003_TITLE:0 "3mm Armour"
  EQ_MOD_CAT_trm_armour_006_TITLE:0 "6mm Armour"
@@ -670,14 +671,14 @@
  EQ_MOD_CAT_trm_armour_design_TITLE:0 "Armour Designs"
  EQ_MOD_CAT_trm_armour_design_light_TITLE:0 "Armour Designs"
  EQ_MOD_CAT_trm_armour_design_heavy_TITLE:0 "Armour Designs"
- 
+
  EQ_MOD_CAT_trm_armour_design_basic_TITLE:0 "Flat"
  EQ_MOD_CAT_trm_armour_design_partial_sloped_TITLE:0 "Partial Slope"
  EQ_MOD_CAT_trm_armour_design_sloped_TITLE:0 "Sloped"
  EQ_MOD_CAT_trm_armour_design_sloped_high_TITLE:0 "Highly Sloped"
  EQ_MOD_CAT_trm_armour_design_sloped_hexagonal_TITLE:0 "Sloped Hexagonal"
  EQ_MOD_CAT_trm_armour_design_sloped_pike_TITLE:0 "Sloped Pike Nose"
- EQ_MOD_CAT_trm_armour_design_rounded_TITLE:0 "Rounded" 
+ EQ_MOD_CAT_trm_armour_design_rounded_TITLE:0 "Rounded"
  EQ_MOD_CAT_trm_armour_design_heavy_basic_TITLE:0 "Flat"
  EQ_MOD_CAT_trm_armour_design_heavy_partial_sloped_TITLE:0 "Partial Slope"
  EQ_MOD_CAT_trm_armour_design_heavy_sloped_TITLE:0 "Sloped"
@@ -691,15 +692,15 @@
  EQ_MOD_CAT_trm_armour_design_light_sloped_high_TITLE:0 "Highly Sloped"
  EQ_MOD_CAT_trm_armour_design_light_sloped_hexagonal_TITLE:0 "Sloped Hexagonal"
  EQ_MOD_CAT_trm_armour_design_light_rounded_TITLE:0 "Rounded"
- 
+
  EQ_MOD_CAT_trm_armour_distribution_TITLE:0 "Armour Distributions"
- 
+
  EQ_MOD_CAT_trm_armour_distribution_front_TITLE:0 "Frontal"
  EQ_MOD_CAT_trm_armour_distribution_mixed_TITLE:0 "Intermediate"
  EQ_MOD_CAT_trm_armour_distribution_rounded_TITLE:0 "Balanced Coverage"
- 
+
  EQ_MOD_CAT_trm_armour_construction_TITLE:0 "Armour Construction"
- 
+
  EQ_MOD_CAT_trm_armour_construction_riveted_TITLE:0 "Riveted"
  EQ_MOD_CAT_trm_armour_construction_cast_TITLE:0 "Cast"
  EQ_MOD_CAT_trm_armour_construction_cast_riveted_TITLE:0 "Partial Cast (Riveted)"
@@ -709,7 +710,7 @@
  EQ_MOD_CAT_trm_turret_construction_open_TITLE:0 "Open/Shielded Mount"
  EQ_MOD_CAT_trm_turret_construction_opentop_TITLE:0 "Open Top Turret/Casemate"
  EQ_MOD_CAT_trm_turret_construction_enclosed_TITLE:0 "Enclosed Turret/Casemate"
- 
+
  EQ_MOD_CAT_trm_turret_construction_open_none_shielded_TITLE:0 "Open"
  EQ_MOD_CAT_trm_turret_construction_open_shielded_TITLE:0 "Shielded"
  EQ_MOD_CAT_trm_turret_construction_opentop_riveted_TITLE:0 "Open Top, Riveted"
@@ -719,9 +720,9 @@
  EQ_MOD_CAT_trm_turret_construction_enclosed_cast_TITLE:0 "Enclosed, Cast"
  EQ_MOD_CAT_trm_turret_construction_enclosed_welded_TITLE:0 "Enclosed, Welded"
  EQ_MOD_CAT_trm_turret_construction_enclosed_cast_rounded_TITLE:0 "Enclosed, Rounded Cast"
- 
+
  EQ_MOD_CAT_trm_radio_TITLE:0 "Radio"
- 
+
  EQ_MOD_CAT_trm_ergonomics_TITLE:0 "Ergonomics"
  EQ_MOD_CAT_trm_ergonomics_light_improved_TITLE:0 "Improved Ergonomics"
  EQ_MOD_CAT_trm_ergonomics_light_standard_TITLE:0 "Standard Ergonomics"
@@ -733,13 +734,13 @@
  EQ_MOD_CAT_trm_ergonomics_heavy_standard_TITLE:0 "Standard Ergonomics"
  EQ_MOD_CAT_trm_ergonomics_heavy_poor_TITLE:0 "Poor Ergonomics"
 
- 
+
  EQ_MOD_CAT_trm_special_internal_TITLE:0 "Internal Modules"
  EQ_MOD_CAT_trm_special_external_TITLE:0 "External Modules"
  EQ_MOD_CAT_trm_special_defence_TITLE:0 "Defensive Modules"
  EQ_MOD_CAT_trm_special_production_TITLE:0 "Cost-Saving"
  EQ_MOD_CAT_trm_special_aamg_TITLE:0 "AA Machineguns"
- 
+
  EQ_MOD_CAT_trm_special_crew_protection_TITLE:0 "Improved Crew Protection"
  EQ_MOD_CAT_trm_special_wet_ammo_TITLE:0 "Wet Ammo Racks"
  EQ_MOD_CAT_trm_special_improved_optics_TITLE:0 "Improved Optics"
@@ -783,9 +784,9 @@
  EQ_MOD_CAT_trm_special_armour_side_TITLE:0 "Side Armour Addons"
 
  ### EQUIPMENT MODULES ###
- 
+
  # Construction
- 
+
  trm_tank_construction_standard:0 "Standard Construction"
  trm_tank_construction_quality:0 "Quality Construction"
  trm_tank_construction_streamlined:0 "Streamlined Production"
@@ -798,7 +799,7 @@
  trm_tank_construction_cast_fast:0 "Cost Saving, Improved Casting"
 
  # Main Guns
- 
+
  trm_weapon_mg_ger_mg13:0 "7.92mm MG 13"
  trm_weapon_mg_ger_mg13_x2:0 "7.92mm MG 13\nx2"
  trm_weapon_mg_ger_mg34:0 "7.92mm MG 34"
@@ -831,25 +832,25 @@
 
  trm_weapon_c_ger_75_kwk37:0 "7.5cm L/24 KwK 37"
  trm_weapon_c_ger_75_kwk37_desc:0 "Module: Main Armament\nType: Cannon"
- 
+
  trm_weapon_c_ger_75_kwk40:0 "7.5cm L/43 KwK 40"
  trm_weapon_c_ger_75_kwk40_desc:0 "Module: Main Armament\nType: Cannon"
- 
+
  trm_weapon_c_ger_75_kwk40_long:0 "7.5cm L/48 KwK 40"
  trm_weapon_c_ger_75_kwk40_long_desc:0 "Module: Main Armament\nType: Cannon"
- 
+
  trm_weapon_c_ger_75_kwk42:0 "7.5cm L/70 KwK 42"
  trm_weapon_c_ger_75_kwk42_desc:0 "Module: Main Armament\nType: Cannon"
 
  trm_weapon_c_ger_88_kwk36:0 "8.8cm L/56 KwK 36"
  trm_weapon_c_ger_88_kwk36_desc:0 "Module: Main Armament\nType: Cannon"
- 
+
  trm_weapon_c_ger_88_kwk43:0 "8.8cm L/71 KwK 43"
  trm_weapon_c_ger_88_kwk43_desc:0 "Module: Main Armament\nType: Cannon"
 
  trm_weapon_c_ger_105_stuh42:0 "10.5cm L/28 StuH 42"
  trm_weapon_c_ger_105_stuh42_desc:0 "Module: Main Armament\nType: Assault Gun"
- 
+
  trm_weapon_c_ger_105_k18:0 "10.5cm L/52 K18"
  trm_weapon_c_ger_105_kwk45:0 "10.5cm L/68 KwK 45"
  trm_weapon_c_ger_105_kwk45_desc:0 "Module: Main Armament\nType: Cannon"
@@ -857,13 +858,13 @@
  trm_weapon_c_ger_128_pak40:0 "12.8cm L/61 PaK 40"
  trm_weapon_c_ger_128_kwk44:0 "12.8cm L/55 KwK 44"
  trm_weapon_c_ger_128_kwk44_desc:0 "Module: Main Armament\nType: Cannon"
- 
+
  trm_weapon_c_ger_150_stuh43:0 "15cm L/12 StuH 43"
  trm_weapon_c_ger_150_stuh43_desc:0 "Module: Main Armament\nType: Assault Gun"
 
  trm_weapon_c_ger_380_rw61:0 "38cm L/5.4 RW 61"
  trm_weapon_c_ger_380_rw61_desc:0 "Module: Main Armament\nType: Assault Gun"
- 
+
  trm_weapon_aa_mg_ger_15_mg151:0 "15mm MG151 AA"
  trm_weapon_aa_mg_ger_15_mg151_x2:0 "15mm MG151 AA\nx2"
  trm_weapon_aa_mg_ger_15_mg151_x3:0 "15mm MG151 AA\nx3"
@@ -878,16 +879,16 @@
 
  trm_weapon_aa_ac_ger_30_mk103:0 "3cm FlaK 103/38 AA"
  trm_weapon_aa_ac_ger_30_mk103_desc:0 "Module: Main Armament\nType: Anti-Aircraft"
- 
+
  trm_weapon_aa_ac_ger_30_mk103_x2:0 "3cm FlaK 103/38 AA\nx2"
  trm_weapon_aa_ac_ger_30_mk103_x2_desc:0 "Module: Main Armament\nType: Anti-Aircraft"
- 
+
  trm_weapon_aa_ac_ger_37_flak36:0 "3.7cm/57 FlaK 36 AA"
  trm_weapon_aa_ac_ger_37_flak36_desc:0 "Module: Main Armament\nType: Anti-Aircraft"
- 
+
  trm_weapon_aa_ac_ger_37_flak43:0 "3.7cm/57 FlaK 43 AA"
  trm_weapon_aa_ac_ger_37_flak43_desc:0 "Module: Main Armament\nType: Anti-Aircraft"
- 
+
  trm_weapon_aa_ac_ger_37_flak43_x2:0 "3.7cm/57 FlaK 44 AA\nx2"
  trm_weapon_aa_ac_ger_37_flak43_x2_desc:0 "Module: Main Armament\nType: Anti-Aircraft"
 
@@ -900,13 +901,13 @@
 
  trm_weapon_art_ger_150_sig33:0 "15cm L/11 sIG 33"
  trm_weapon_art_ger_150_sig33_desc:0 "Module: Main Armament\nType: Artillery"
- 
+
  trm_weapon_art_ger_150_sfh13:0 "15cm L/17 sFH 13"
  trm_weapon_art_ger_150_sfh13_desc:0 "Module: Main Armament\nType: Artillery"
- 
+
  trm_weapon_art_ger_150_sfh18:0 "15cm L/30 sFH 18"
  trm_weapon_art_ger_150_sfh18_desc:0 "Module: Main Armament\nType: Artillery"
- 
+
  trm_weapon_mg_sov_dt:0 "7.62mm DT"
  trm_weapon_mg_sov_dt_x2:0 "7.62mm DT\nx2"
 
@@ -945,7 +946,7 @@
 
  trm_weapon_c_sov_152_m10:0 "152mm M-10"
  trm_weapon_c_sov_152_ml20:0 "152mm ML-20"
- 
+
  trm_weapon_aa_mg_sov_7_maxim_x2:0 "7.62mm Maxim AA\nx2"
  trm_weapon_aa_mg_sov_7_maxim_x4:0 "7.62mm Maxim AA\nx4"
 
@@ -957,8 +958,8 @@
  trm_weapon_aa_ac_sov_37_61k:0 "37mm 61-K"
 
  trm_weapon_aa_ac_sov_57_s68:0 "57mm S-68"
- 
- 
+
+
  trm_weapon_mg_ita_fr14:0 "6.5mm Fiat-Revelli mod.14"
  trm_weapon_mg_ita_fr14_x2:0 "6.5mm Fiat-Revelli mod.14\nx2"
  trm_weapon_mg_ita_sia18:0 "6.5mm SIA mod.18"
@@ -1023,7 +1024,7 @@
 
  trm_weapon_c_fra_90_sa45:0 "90mm/65 SA45"
 
- 
+
  trm_weapon_mg_eng_vickers:0 "7.7mm Vickers"
  trm_weapon_mg_eng_besa:0 "7.92mm BESA"
  trm_weapon_mg_eng_bren:0 "7.7mm Bren"
@@ -1049,7 +1050,7 @@
  trm_weapon_c_eng_76_mk2:0 "77mm/55 HV QF Mk II"
 
  trm_weapon_c_eng_84_20pdr:0 "84mm/67 20-pdr QF Mk I"
- 
+
  trm_weapon_c_eng_88_25pdr:0 "88mm/28 QF 25-pdr"
 
  trm_weapon_c_eng_94_32pdr:0 "94mm/65 QF 32-pdr"
@@ -1081,7 +1082,7 @@
  trm_weapon_c_usa_37_aac:0 "37mm/44 Automatic"
  trm_weapon_c_usa_37_m5:0 "37mm/53 M5"
  trm_weapon_c_usa_37_m6:0 "37mm/57 M6"
- 
+
  trm_weapon_c_usa_57_m1:0 "57mm/50 M1"
 
  trm_weapon_c_usa_75_m2_cs:0 "75mm/18 M2"
@@ -1117,8 +1118,8 @@
  trm_weapon_art_usa_155_m1918:0 "155mm/38 M1918"
  trm_weapon_art_usa_155_m1:0 "155mm/45 M1"
  trm_weapon_art_usa_203_m1:0 "203mm/25 M1"
- 
- 
+
+
  trm_weapon_mg_jap_type91:0 "6.5mm Type 91"
  trm_weapon_mg_jap_type97:0 "7.7mm Type 97"
 
@@ -1146,10 +1147,10 @@
 
  trm_weapon_c_jap_105_type91:0 "105mm/24 Type 91"
  trm_weapon_c_jap_105_type5:0 "105mm/55 Type 5 Exp"
- 
+
  trm_weapon_c_jap_120_type38:0 "120mm/11 Type 38"
  trm_weapon_c_jap_120_naval:0 "120mm/12 Naval Gun"
- 
+
  trm_weapon_c_jap_150_type38:0 "150mm/11 Type 38"
 
  trm_weapon_aa_ac_jap_20_type98:0 "20mm/70 Type 98 AA"
@@ -1157,8 +1158,8 @@
 
  trm_weapon_aa_ac_jap_20_type2:0 "20mm/70 Type 2 AA"
  trm_weapon_aa_ac_jap_20_type2_x2:0 "20mm/70 Type 2 AA x2"
- 
- 
+
+
  trm_weapon_mg_cze_zb26:0 "7.92mm ZB-26"
  trm_weapon_mg_cze_zb26_x2:0 "7.92mm ZB-26 x2"
  trm_weapon_mg_cze_zb53:0 "7.92mm ZB-53"
@@ -1196,7 +1197,7 @@
  trm_weapon_c_hun_75_41m:0 "75mm 41M"
  trm_weapon_c_hun_75_43m:0 "75mm 43M"
  trm_weapon_c_hun_105_40m:0 "105mm 40/43M"
- 
+
  trm_weapon_aa_ac_hun_40_bofors:0 "40mm 36M AA"
 
 
@@ -1240,40 +1241,40 @@
 
  trm_ammo_c_ger_75_kwk37:0 "7.5cm L/24 KwK 37 HEAT"
  trm_ammo_c_ger_75_kwk37_desc:0 ""
- 
+
  trm_ammo_c_ger_75_kwk37_2:0 "7.5cm L/24 KwK 37 Improved HEAT"
  trm_ammo_c_ger_75_kwk37_2_desc:0 ""
- 
+
  trm_ammo_c_ger_75_kwk40:0 "7.5cm L/43 KwK 40 APCR"
  trm_ammo_c_ger_75_kwk40_desc:0 ""
  trm_ammo_c_ger_75_kwk40_long:0 "7.5cm L/48 KwK 40 APCR"
- 
+
  trm_ammo_c_ger_75_kwk42:0 "7.5cm L/70 KwK 42 APCR"
  trm_ammo_c_ger_75_kwk42_desc:0 ""
 
  trm_ammo_c_ger_88_kwk36:0 "8.8cm L/56 KwK 36 APCR"
  trm_ammo_c_ger_88_kwk36_desc:0 ""
- 
+
  trm_ammo_c_ger_88_kwk43:0 "8.8cm L/71 KwK 43 APCR"
 
  trm_ammo_c_ger_105_stuh42:0 "10.5cm L/28 StuH 42 HEAT"
  trm_ammo_c_ger_105_stuh42_2:0 "10.5cm L/28 StuH 42 Improved HEAT"
  trm_ammo_c_ger_105_k18:0 "10.5cm L/52 K18 APCBC"
  trm_ammo_c_ger_105_k18_desc:0 ""
- 
+
  trm_ammo_c_ger_105_kwk45:0 "10.5cm L/68 KwK 45 APCR"
 
  trm_ammo_c_ger_128_pak40:0 "12.8cm L/61 PaK 40 APCBC"
  trm_ammo_c_ger_128_pak44:0 "12.8cm L/55 KwK 44 APCBC"
- 
+
  trm_ammo_c_ger_150_stuh43:0 "15cm L/12 StuH 43 HEAT"
- 
+
  trm_ammo_aa_ac_ger_30_mk103:0 "30mm MK103 APCR"
  trm_ammo_aa_ac_ger_30_mk103_desc:0 ""
- 
+
  trm_ammo_aa_ac_ger_30_mk103_x2:0 "30mm MK103 x2 APCR"
- trm_ammo_aa_ac_ger_30_mk103_x2_desc:0 "" 
- 
+ trm_ammo_aa_ac_ger_30_mk103_x2_desc:0 ""
+
  trm_ammo_c_sov_45_20k32:0 "45mm 20-K Mod.32 APCR"
  trm_ammo_c_sov_45_20k34:0 "45mm 20-K Mod.34 APCR"
  trm_ammo_c_sov_45_20k38:0 "45mm 20-K Mod.38 APCR"
@@ -1289,8 +1290,8 @@
  trm_ammo_c_sov_122_m30:0 "122mm M-30 HEAT"
 
  trm_ammo_c_sov_152_ml20:0 "152mm ML-20 HEAT"
- 
- 
+
+
  trm_ammo_ac_ita_20_breda35:0 "20mm Breda mod.35 APCR"
  trm_ammo_c_ita_20_ccs39:0 "20mm CC S mod.39 APCR"
 
@@ -1347,8 +1348,8 @@
  trm_ammo_c_jap_75_type5_semi:0 "75mm/56 Type 5 II APCR"
 
  trm_ammo_c_jap_88_type99:0 "88mm/45 Type 99 APCR"
- 
- 
+
+
  trm_ammo_c_hun_75_41m:0 "75mm 41M HEAT"
  trm_ammo_c_hun_105_40m:0 "105mm 40/43M HEAT"
 
@@ -1366,37 +1367,37 @@
  trm_weapon_coax_c_ger_37_kwk36:0 "3.7cm L/45 KwK 36"
  trm_weapon_coax_c_ger_75_kwk37:0 "7.5cm L/36.5 KwK 44"
  trm_weapon_coax_c_ger_75_kwk37_desc:0 ""
- 
- 
+
+
  trm_weapon_coax_mg_sov_dt:0 "7.62mm DT"
  trm_weapon_coax_mg_sov_dshk:0 "12.7mm DShK"
- 
- 
+
+
  trm_weapon_coax_mg_ita_sia18:0 "6.5mm SIA mod.18"
  trm_weapon_coax_mg_ita_breda38:0 "8mm Breda mod.38"
- 
- 
+
+
  trm_weapon_coax_mg_fra_hotchkiss:0 "7.7mm Hotchkiss Mle.1909"
  trm_weapon_coax_mg_fra_mac:0 "7.5mm MAC Mle.1931"
- 
- 
+
+
  trm_weapon_coax_mg_eng_vickers:0 "7.7mm Vickers"
  trm_weapon_coax_mg_eng_besa:0 "7.92mm BESA"
 
- 
+
  trm_weapon_coax_mg_usa_m1919:0 "7.62mm Browning M1919"
  trm_weapon_coax_mg_usa_m1919_x2:0 "7.62mm Browning M1919\nx2"
- 
+
  trm_weapon_coax_mg_usa_m2:0 "12.7mm Browning M2"
  trm_weapon_coax_mg_usa_m2_x2:0 "12.7mm Browning M2\nx2"
 
  trm_weapon_coax_c_usa_37_m6:0 "37mm/57 M6"
- 
- 
+
+
  trm_weapon_coax_mg_jap_type91:0 "6.5mm Type 91"
  trm_weapon_coax_mg_jap_type97:0 "7.7mm Type 97"
- 
- 
+
+
  trm_weapon_coax_mg_cze_zb26:0 "7.92mm ZB-26"
  trm_weapon_coax_mg_cze_zb53:0 "7.92mm ZB-53"
  GER_trm_weapon_coax_mg_cze_zb53:0 "7.92mm MG 37(t)"
@@ -1421,19 +1422,19 @@
 
  trm_weapon_hull_mg_ger_mg13:0 "7.92mm MG 13"
  trm_weapon_hull_mg_ger_mg34:0 "7.92mm MG 34"
- 
- 
+
+
  trm_weapon_hull_mg_sov_dt:0 "7.62mm DT"
- 
- 
+
+
  trm_weapon_hull_mg_ita_sia18:0 "6.5mm SIA mod.18"
  trm_weapon_hull_mg_ita_breda38:0 "8mm Breda mod.38"
  trm_weapon_hull_mg_ita_breda38_x2:0 "8mm Breda mod.38\nx2"
 
  trm_weapon_hull_c_ita_20_ccs39:0 "20mm CC S mod.39"
  trm_weapon_hull_c_ita_37_m18:0 "37mm/40 mod.18"
- 
- 
+
+
  trm_weapon_hull_mg_fra_hotchkiss:0 "7.7mm Hotchkiss Mle.1909"
  trm_weapon_hull_mg_fra_hotchkiss_medium:0 "8mm Hotchkiss Mle.1914"
  trm_weapon_hull_mg_fra_mac:0 "7.5mm MAC Mle.1931"
@@ -1452,17 +1453,17 @@
  trm_weapon_hull_c_eng_40_2pdr:0 "40mm QF 2-pdr"
  trm_weapon_hull_c_eng_75_mk2:0 "3in/25 QF Howitzer Mk II"
 
- 
+
  trm_weapon_hull_mg_usa_m1919:0 "7.62mm Browning M1919"
  trm_weapon_hull_mg_usa_m1919_x2:0 "7.62mm Browning M1919\nx2"
- 
+
  trm_weapon_hull_mg_usa_m2:0 "12.7mm Browning M2"
  trm_weapon_hull_mg_usa_m2_x2:0 "12.7mm Browning M2\nx2"
 
  trm_weapon_hull_c_usa_57_m1:0 "57mm/50 M1"
  trm_weapon_hull_c_usa_75_m2:0 "75mm/31 M2"
  trm_weapon_hull_c_usa_75_m3:0 "75mm/40 M3"
- 
+
 
  trm_weapon_hull_mg_jap_type91:0 "6.5mm Type 91"
  trm_weapon_hull_mg_jap_type97:0 "7.7mm Type 97"
@@ -1472,8 +1473,8 @@
  trm_weapon_hull_c_jap_37_type94:0 "37mm/37 Type 94"
  trm_weapon_hull_c_jap_37_type100:0 "37mm/46 Type 100"
  trm_weapon_hull_c_jap_37_type1:0 "37mm/50 Type 1"
- 
- 
+
+
  trm_weapon_hull_mg_cze_zb26:0 "7.92mm ZB-26"
  trm_weapon_hull_mg_cze_zb53:0 "7.92mm ZB-53"
  GER_trm_weapon_hull_mg_cze_zb53:0 "7.92mm MG 37(t)"
@@ -1539,7 +1540,7 @@
  trm_engine_G1_1100:0 "1100hp Gasoline Engine"
  trm_engine_G1_1150:0 "1150hp Gasoline Engine"
  trm_engine_G1_1200:0 "1200hp Gasoline Engine"
- 
+
  trm_engine_G1_0020_desc:0 ""
  trm_engine_G1_0030_desc:0 ""
  trm_engine_G1_0040_desc:0 ""
@@ -1582,7 +1583,7 @@
  trm_engine_G1_1100_desc:0 ""
  trm_engine_G1_1150_desc:0 ""
  trm_engine_G1_1200_desc:0 ""
- 
+
 
  trm_engine_D1_0020:0 "20hp Diesel Engine"
  trm_engine_D1_0030:0 "30hp Diesel Engine"
@@ -1626,7 +1627,7 @@
  trm_engine_D1_1100:0 "1100hp Diesel Engine"
  trm_engine_D1_1150:0 "1150hp Diesel Engine"
  trm_engine_D1_1200:0 "1200hp Diesel Engine"
- 
+
  trm_engine_D1_0020_desc:0 ""
  trm_engine_D1_0030_desc:0 ""
  trm_engine_D1_0040_desc:0 ""
@@ -1669,8 +1670,8 @@
  trm_engine_D1_1100_desc:0 ""
  trm_engine_D1_1150_desc:0 ""
  trm_engine_D1_1200_desc:0 ""
- 
- 
+
+
  trm_engine_RG1_0020:0 "20hp Radial Engine"
  trm_engine_RG1_0030:0 "30hp Radial Engine"
  trm_engine_RG1_0040:0 "40hp Radial Engine"
@@ -1713,7 +1714,7 @@
  trm_engine_RG1_1100:0 "1100hp Radial Engine"
  trm_engine_RG1_1150:0 "1150hp Radial Engine"
  trm_engine_RG1_1200:0 "1200hp Radial Engine"
- 
+
  trm_engine_RG1_0020_desc:0 ""
  trm_engine_RG1_0030_desc:0 ""
  trm_engine_RG1_0040_desc:0 ""
@@ -1756,8 +1757,8 @@
  trm_engine_RG1_1100_desc:0 ""
  trm_engine_RG1_1150_desc:0 ""
  trm_engine_RG1_1200_desc:0 ""
- 
- 
+
+
  trm_engine_G1x_0040:0 "Twin 20hp Gasoline Engine"
  trm_engine_G1x_0050:0 "Twin 25hp Gasoline Engine"
  trm_engine_G1x_0060:0 "Twin 30hp Gasoline Engine"
@@ -1798,7 +1799,7 @@
  trm_engine_G1x_1100:0 "Twin 550hp Gasoline Engine"
  trm_engine_G1x_1150:0 "Twin 575hp Gasoline Engine"
  trm_engine_G1x_1200:0 "Twin 600hp Gasoline Engine"
- 
+
  trm_engine_G1x_0040_desc:0 ""
  trm_engine_G1x_0050_desc:0 ""
  trm_engine_G1x_0060_desc:0 ""
@@ -1839,7 +1840,7 @@
  trm_engine_G1x_1100_desc:0 ""
  trm_engine_G1x_1150_desc:0 ""
  trm_engine_G1x_1200_desc:0 ""
- 
+
 
  trm_engine_D1x_0040:0 "Twin 20hp Diesel Engine"
  trm_engine_D1x_0050:0 "Twin 25hp Diesel Engine"
@@ -1923,8 +1924,8 @@
  trm_engine_D1x_1100_desc:0 ""
  trm_engine_D1x_1150_desc:0 ""
  trm_engine_D1x_1200_desc:0 ""
- 
- 
+
+
  # Transmission
 
  trm_transmission_brake_front:0 "Clutch Brake, Front Drive"
@@ -1938,7 +1939,7 @@
  trm_transmission_twin_transmission_front:0 "Twin Transmission, Front Drive"
  trm_transmission_twin_transmission_rear:0 "Twin Transmission, Rear Drive"
  trm_transmission_xelectrical:0 "Electrical Drive"
- 
+
  trm_transmission_brake_front_desc:0 "Module Type: Steering & Transmission"
  trm_transmission_brake_rear_desc:0 "Module Type: Steering & Transmission"
  trm_transmission_differential_front_desc:0 "Module Type: Steering & Transmission"
@@ -1952,19 +1953,20 @@
  trm_transmission_xelectrical_desc:0 "Module Type: Steering & Transmission"
 
  # Gearbox
- 
+
  trm_gearbox_simple:0 "Simple Gearbox"
  trm_gearbox_standard:0 "Standard Gearbox"
  trm_gearbox_advanced:0 "Advanced Gearbox"
+ trm_hydrostatic_gearbox:0 "Hydrostatic Gearbox"
  trm_gearbox_none:0 "No Gearbox"
- 
+
  trm_gearbox_simple_desc:0 ""
  trm_gearbox_standard_desc:0 ""
  trm_gearbox_advanced_desc:0 ""
  trm_gearbox_none_desc:0 ""
 
  # Suspension
- 
+
  trm_suspension_spring_leaf:0 "Leaf Spring"
  trm_suspension_spring_coil:0 "Coil Spring"
  trm_suspension_christie:0 "Christie"
@@ -1986,8 +1988,8 @@
  trm_suspension_vss_horizontal_desc:0 ""
  trm_suspension_torsion_desc:0 ""
  trm_suspension_torsion_double_desc:0 ""
- 
- 
+
+
  # Armour Thickness
 
  trm_armour_000:0 "1mm Armour"
@@ -2027,7 +2029,7 @@
  trm_armour_260:0 "260mm Armour"
  trm_armour_280:0 "280mm Armour"
  trm_armour_300:0 "300mm Armour"
- 
+
  trm_armour_000_desc:0 ""
  trm_armour_003_desc:0 ""
  trm_armour_006_desc:0 ""
@@ -2067,14 +2069,14 @@
  trm_armour_300_desc:0 ""
 
  # Armour Design
- 
+
  trm_armour_design_basic:0 "Flat"
  trm_armour_design_partial_sloped:0 "Partial Slope"
  trm_armour_design_sloped:0 "Sloped"
  trm_armour_design_sloped_high:0 "Highly Sloped"
  trm_armour_design_sloped_hexagonal:0 "Sloped Hexagonal"
  trm_armour_design_sloped_pike:0 "Sloped Pike Nose"
- trm_armour_design_rounded:0 "Rounded" 
+ trm_armour_design_rounded:0 "Rounded"
  trm_armour_design_heavy_basic:0 "Flat (Heavy Tank)"
  trm_armour_design_heavy_partial_sloped:0 "Partial Slope (Heavy Tank)"
  trm_armour_design_heavy_sloped:0 "Sloped (Heavy Tank)"
@@ -2088,14 +2090,14 @@
  trm_armour_design_light_sloped_high:0 "Highly Sloped (Light Tank)"
  trm_armour_design_light_sloped_hexagonal:0 "Sloped Hexagonal (Light Tank)"
  trm_armour_design_light_rounded:0 "Rounded (Light Tank)"
- 
+
  trm_armour_design_basic_desc:0 ""
  trm_armour_design_partial_sloped_desc:0 ""
  trm_armour_design_sloped_desc:0 ""
  trm_armour_design_sloped_high_desc:0 ""
  trm_armour_design_sloped_hexagonal_desc:0 ""
  trm_armour_design_sloped_pike_desc:0 ""
- trm_armour_design_rounded_desc:0 "" 
+ trm_armour_design_rounded_desc:0 ""
  trm_armour_design_heavy_basic_desc:0 ""
  trm_armour_design_heavy_partial_sloped_desc:0 ""
  trm_armour_design_heavy_sloped_desc:0 ""
@@ -2111,17 +2113,17 @@
  trm_armour_design_light_rounded_desc:0 ""
 
  # Armour Distribution
- 
+
  trm_armour_distribution_front:0 "Frontal Focus"
  trm_armour_distribution_mixed:0 "Intermediate"
  trm_armour_distribution_rounded:0 "Balanced Coverage"
- 
+
  trm_armour_distribution_front_desc:0 ""
  trm_armour_distribution_mixed_desc:0 ""
  trm_armour_distribution_rounded_desc:0 ""
 
  # Armour Construction
- 
+
  trm_armour_construction_riveted:0 "Riveted"
  trm_armour_construction_riveted_desc:0 "Lowest quality but very cheap to produce."
  trm_armour_construction_cast:0 "Cast"
@@ -2134,7 +2136,7 @@
  trm_armour_construction_welded_desc:0 "Highest quality but also expensive to produce."
 
  # Turret Construction
- 
+
  trm_turret_construction_open_none:0 "Open"
  trm_turret_construction_open_shielded:0 "Shielded"
  trm_turret_construction_opentop_riveted:0 "Open Top, Riveted"
@@ -2144,7 +2146,7 @@
  trm_turret_construction_enclosed_cast:0 "Enclosed, Cast"
  trm_turret_construction_enclosed_welded:0 "Enclosed, Welded"
  trm_turret_construction_enclosed_cast_rounded:0 "Enclosed, Rounded Cast"
- 
+
  trm_turret_construction_open_none_desc:0 "Completely open top. Fastest but zero protection."
  trm_turret_construction_open_shielded_desc:0 "Protected by a light gun shield."
  trm_turret_construction_opentop_riveted_desc:0 "Armored protection on the sides with an open top. Riveted"
@@ -2154,19 +2156,19 @@
  trm_turret_construction_enclosed_cast_desc:0 "Completely armored and enclosed protection. Casted"
  trm_turret_construction_enclosed_welded_desc:0 "Completely armored and enclosed protection. Welded"
  trm_turret_construction_enclosed_cast_rounded_desc:0 "Completely rounded armored and enclosed protection. Casted."
- 
+
  # Radio
- 
+
  trm_radio_1:0 "Early Radio"
  trm_radio_2:0 "Improved Radio"
  trm_radio_3:0 "Advanced Radio"
- 
+
  trm_radio_1_desc:0 "Early Radio"
  trm_radio_2_desc:0 "Improved Radio"
  trm_radio_3_desc:0 "Advanced Radio"
- 
+
  # Ergonomics
- 
+
  trm_ergonomics_light_improved:0 "Improved Ergonomics"
  trm_ergonomics_light_standard:0 "Standard Ergonomics"
  trm_ergonomics_light_poor:0 "Poor Ergonomics"
@@ -2178,7 +2180,7 @@
  trm_ergonomics_heavy_improved:0 "Improved Ergonomics"
  trm_ergonomics_heavy_standard:0 "Standard Ergonomics"
  trm_ergonomics_heavy_poor:0 "Poor Ergonomics"
- 
+
  trm_ergonomics_light_improved_desc:0 "Improved Ergonomics"
  trm_ergonomics_light_standard_desc:0 "Standard Ergonomics"
  trm_ergonomics_light_poor_desc:0 "Poor Ergonomics"
@@ -2190,11 +2192,11 @@
  trm_ergonomics_heavy_improved_desc:0 "Improved Ergonomics"
  trm_ergonomics_heavy_standard_desc:0 "Standard Ergonomics"
  trm_ergonomics_heavy_poor_desc:0 "Poor Ergonomics"
- 
+
  # Special Modules
- 
+
  trm_special_crew_protection:0 "Additional Crew Protection"
- 
+
  trm_special_wet_ammo:0 "Wet Ammo Racks"
  trm_special_improved_optics:0 "Improved Optics"
  trm_special_cupola:0 "Commander Cupola"
@@ -2207,7 +2209,7 @@
  trm_special_tauchpanzer:0 "Tauchpanzer Equipment"
  trm_special_deep_wading:0 "Deep Wading Kit"
  trm_special_duplex_drive:0 "Duplex Drive"
- 
+
  trm_special_wet_ammo_desc:0 "Module slot: Special Features"
  trm_special_improved_optics_desc:0 "Module slot: Special Features"
  trm_special_cupola_desc:0 "Module slot: Special Features"
@@ -2223,13 +2225,13 @@
 
  trm_special_zimmerit:0 "Zimmerit Coating"
  trm_special_zimmerit_desc:0 "Module slot: Special Features"
- 
+
  trm_special_schurzen:0 "Schurzen Armoured Skirts"
  trm_special_schurzen_desc:0 "Module slot: Special Features"
- 
+
  trm_special_armour_front:0 "Frontal Applique Armour"
  trm_special_armour_front_desc:0 "Module slot: Special Features"
- 
+
  trm_special_armour_side:0 "Side Applique Armour"
  trm_special_armour_side_desc:0 "Module slot: Special Features"
 
@@ -2238,44 +2240,44 @@
 
  trm_special_aamg_ger_mg34:0 "7.92mm MG 34 AAMG"
  trm_special_aamg_ger_mg42:0 "7.92mm MG 42 AAMG"
- 
+
  trm_special_aamg_sov_dt:0 "7.62mm DT AAMG"
  trm_special_aamg_sov_dshk:0 "12.7mm DShK AAMG"
- 
+
  trm_special_aamg_ita_breda38:0 "8mm Breda mod.38 AAMG"
- 
+
  trm_special_aamg_usa_m1919:0 "7.62mm Browning M1919 AAMG"
  trm_special_aamg_usa_m2:0 "12.7mm Browning M2 AAMG"
- 
+
  trm_special_aamg_eng_vickers:0 "7.7mm Vickers AAMG"
  trm_special_aamg_eng_besa:0 "7.92mm BESA AAMG"
- 
+
  trm_special_aamg_jap_type97:0 "7.7mm Type 97 AAMG"
- 
- trm_special_offset_mg_sov_dt:0 "7.62mm DT (Side/Rear)" 
- trm_special_offset_mg_sov_dk:0 "12.7mm DK (Side/Rear)" 
- trm_special_offset_mg_sov_dshk:0 "12.7mm DShK (Side/Rear)" 
- 
+
+ trm_special_offset_mg_sov_dt:0 "7.62mm DT (Side/Rear)"
+ trm_special_offset_mg_sov_dk:0 "12.7mm DK (Side/Rear)"
+ trm_special_offset_mg_sov_dshk:0 "12.7mm DShK (Side/Rear)"
+
  trm_special_offset_mg_ita_breda38:0 "8mm Breda mod.38 (Side/Rear)"
- 
+
  trm_special_offset_mg_usa_m1919:0 "7.62mm Browning M1919 (Side/Rear)"
- 
+
  trm_special_offset_mg_fra_hotchkiss_medium:0 "8mm Hotchkiss Mle.1914 (Side/Rear)"
  trm_special_offset_mg_fra_hotchkiss_mac:0 "7.5mm MAC Mle.1931 (Side/Rear)"
 
  trm_special_offset_mg_eng_vickers:0 "7.7mm Vickers (Side/Rear)"
  trm_special_offset_mg_eng_besa:0 "7.92mm BESA (Side/Rear)"
  trm_special_offset_mg_eng_bren:0 "7.7mm Bren (Side/Rear)"
- 
+
  trm_special_offset_mg_jap_type91:0 "6.5mm Type 91 (Side/Rear)"
  trm_special_offset_mg_jap_type97:0 "7.7mm Type 97 (Side/Rear)"
 
  trm_special_turret_mg_ger_mg13:0 "7.92mm MG 13 (Turret)"
- 
+
  trm_special_turret_mg_sov_dt:0 "7.62mm DT (Turret)"
- 
+
  trm_special_turret_c_sov_45_20k32:0 "45mm 20-K Mod.32 (Turret)"
- 
+
  trm_special_turret_mg_usa_m1919:0 "7.62mm Browning M1919 (Turret)"
 
  trm_special_turret_mg_fra_hotchkiss_medium:0 "8mm Hotchkiss Mle.1914 (Turret)"
@@ -2283,33 +2285,33 @@
 
  trm_special_turret_mg_eng_vickers:0 "7.7mm Vickers (Turret)"
  trm_special_turret_mg_eng_besa:0 "7.92mm BESA (Turret)"
- 
+
  trm_special_turret_mg_jap_type91:0 "6.5mm Type 91 (Turret)"
  trm_special_turret_mg_jap_type97:0 "7.7mm Type 97 (Turret)"
- 
+
  trm_special_turret_c_jap_37_type94:0 "37mm/37 Type 94 (Turret)"
 
  # Turret/Superstructure GER
- 
+
  EQ_MOD_CAT_trm_light_tank_ger_panzer1_turret_TITLE:0 "PzKpfw I Turret"
  EQ_MOD_CAT_trm_light_tank_ger_panzer1_aa_open_TITLE:0 "PzKpfw I Open AA Mount"
  EQ_MOD_CAT_trm_light_tank_ger_panzer1_superstructure_open_TITLE:0 "PzKpfw I Superstructure"
- 
+
  EQ_MOD_CAT_trm_light_tank_ger_panzer2_turret_TITLE:0 "PzKpfw II Turret"
  EQ_MOD_CAT_trm_light_tank_ger_panzer2_turret_open_TITLE:0 "PzKpfw II Open Turret"
  EQ_MOD_CAT_trm_light_tank_ger_panzer2_aa_open_TITLE:0 "PzKpfw II Open AA Mount"
  EQ_MOD_CAT_trm_light_tank_ger_panzer2_aa_open_late_TITLE:0 "PzKpfw II Open AA Mount"
  EQ_MOD_CAT_trm_light_tank_ger_panzer2_superstructure_open_TITLE:0 "PzKpfw II Superstructure"
- 
+
  EQ_MOD_CAT_trm_light_tank_ger_vk1602_leopard_turret_TITLE:0 "VK 16.02 Leopard Turret"
- 
+
  trm_light_tank_ger_panzer1_turret_1:0 "PzKpfw I MG Turret (Manual)"
  trm_light_tank_ger_panzer1_turret_1_desc:0 ""
  trm_light_tank_ger_panzer1_aa_open_1:0 "PzKpfw I Open AA Mount"
  trm_light_tank_ger_panzer1_aa_open_1_desc:0 "Allows: 2cm FlaK AA Guns, x2 and x4"
  trm_light_tank_ger_panzer1_superstructure_open_1:0 "PzKpfw I Superstructure"
  trm_light_tank_ger_panzer1_superstructure_open_1_desc:0 "Allows: 3.7cm KwKs /  4.2cm PaK 41 / 4.7cm PaK 38(t) / 5cm KwKs (all) / 7.5cm FK 18 / 15cm L/11 sIG 33"
- 
+
  trm_light_tank_ger_panzer2_turret_1:0 "PzKpfw II Turret (Manual)"
  trm_light_tank_ger_panzer2_turret_1_desc:0 "Can use: 2cm KwKs"
  trm_light_tank_ger_panzer2_turret_open_1:0 "PzKpfw II Open Turret (Manual)"
@@ -2320,18 +2322,18 @@
  trm_light_tank_ger_panzer2_aa_open_2_desc:0 "Allows: 2cm FlaK AA Guns, x2 and x4"
  trm_light_tank_ger_panzer2_superstructure_open_1:0 "PzKpfw II Superstructure - Light Tank"
  trm_light_tank_ger_panzer2_superstructure_open_1_desc:0 "Allows: 3.7cm KwKs /  4.2cm PaK 41 / 4.7cm PaK 38(t) / 5cm KwKs (all)  / 7.5cm KwKs L43 and L48 / 7.5cm FK 18 / 10.5cm artillery / 15cm L/11 sIG 33"
- 
+
  trm_light_tank_ger_vk1602_leopard_turret_1:0 "VK 16.02 Leopard Turret (Manual)"
  trm_light_tank_ger_vk1602_leopard_turret_1_desc:0 "Allows: 2cm KwKs / 2.8cm sPzB 41 / 3.7cm KwKs /  4.2cm PaK 41 / 4.7cm PaK 38(t) / 5cm KwKs (all)"
- 
+
  EQ_MOD_CAT_trm_para_tank_ger_panzer1_turret_TITLE:0 "PzKpfw I Turret"
- 
+
  trm_para_tank_ger_panzer1_turret_1:0 "PzKpfw I Turret (Manual)"
  trm_para_tank_ger_panzer1_turret_1_desc:0 "Allows: 7.92mm machine guns / EW 141 auto cannon"
- 
+
  EQ_MOD_CAT_trm_cavalry_tank_ger_panzer2_turret_TITLE:0 "PzKpfw II Turret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_panzer2_superstructure_open_TITLE:0 "PzKpfw II Superstructure"
- 
+
  EQ_MOD_CAT_trm_cavalry_tank_cze_pz35_turret_TITLE:0 "PzKpfw 35(t) Czech Turret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz35_turret_2man_TITLE:0 "PzKpfw 35(t) German Turret"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_turret_TITLE:0 "PzKpfw 38(t) Czech Turret"
@@ -2340,12 +2342,12 @@
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_casemate_late_TITLE:0 "PzKpfw 38(d) Casemate"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_superstructure_open_TITLE:0 "PzKpfw 38(t) Superstructure"
  EQ_MOD_CAT_trm_cavalry_tank_ger_pz38_aa_open_TITLE:0 "PzKpfw 38(t) Open AA Mount"
- 
+
  trm_cavalry_tank_ger_panzer2_turret_1:0 "PzKpfw II Turret (Manual)"
  trm_cavalry_tank_ger_panzer2_turret_1_desc:0 ""
  trm_cavalry_tank_ger_panzer2_superstructure_open_1:0 "PzKpfw II Superstructure - Cavalry Tank"
  trm_cavalry_tank_ger_panzer2_superstructure_open_1_desc:0 "Allows: 3.7cm KwKs /  4.2cm PaK 41 / 4.7cm PaK 38(t) / 5cm KwKs (all) / 7.5cm KwKs 40"
- 
+
  trm_cavalry_tank_ger_pz35_turret_1:0 "PzKpfw 35(t) Czech Turret (Manual)"
  trm_cavalry_tank_ger_pz35_turret_1_desc:0 "Allows: 3.7cm KwKs / 2cm KwKs / 2.8cm L/62 sPzB 41"
  trm_cavalry_tank_ger_pz35_turret_2:0 "PzKpfw 35(t) German Turret (Manual)"
@@ -2362,7 +2364,7 @@
  trm_cavalry_tank_ger_pz38_superstructure_open_1_desc:0 "Allows: 3.7cm Kwks / 4.2cm PaK 41 / 4.7cm PaK 38 (t) / 5cm  KwKs (all) / 7.5cm KwKs L43 and L48 / 15cm L/11 SiG 33."
  trm_cavalry_tank_ger_pz38_aa_open_1:0 "PzKpfw 38(t) Open AA Mount"
  trm_cavalry_tank_ger_pz38_aa_open_1_desc:0 "Allows: 2cm FlaK AA Guns, x2 and x4"
- 
+
  EQ_MOD_CAT_trm_medium_tank_ger_panzer3_turret_TITLE:0 "PzKpfw III Turret"
  EQ_MOD_CAT_trm_medium_tank_ger_panzer3_turret_late_TITLE:0 "PzKpfw III Turret"
  EQ_MOD_CAT_trm_medium_tank_ger_panzer3_turret_support_TITLE:0 "PzKpfw III Turret"
@@ -2371,7 +2373,7 @@
  EQ_MOD_CAT_trm_medium_tank_ger_panzer3_casemate_late_mg_TITLE:0 "PzKpfw III Casemate"
  EQ_MOD_CAT_trm_medium_tank_ger_panzer3_superstructure_open_TITLE:0 "PzKpfw III Superstructure"
  EQ_MOD_CAT_trm_medium_tank_ger_panzer3_aa_open_TITLE:0 "PzKpfw III Open AA Mount"
- 
+
  EQ_MOD_CAT_trm_medium_tank_ger_panzer4_turret_TITLE:0 "PzKpfw IV Turret"
  EQ_MOD_CAT_trm_medium_tank_ger_panzer4_turret_late_TITLE:0 "PzKpfw IV Turret"
  EQ_MOD_CAT_trm_medium_tank_ger_panzer4_turret_manual_TITLE:0 "PzKpfw IV Turret"
@@ -2380,10 +2382,10 @@
  EQ_MOD_CAT_trm_medium_tank_ger_panzer4_superstructure_open_TITLE:0 "PzKpfw IV Superstructure"
  EQ_MOD_CAT_trm_medium_tank_ger_panzer4_aa_open_TITLE:0 "PzKpfw IV Open AA Mount"
  EQ_MOD_CAT_trm_medium_tank_ger_panzer4_aa_TITLE:0 "PzKpfw IV AA Turret"
- 
+
  EQ_MOD_CAT_trm_medium_tank_ger_panzer34_turret_TITLE:0 "PzKpfw III/IV Turret"
  EQ_MOD_CAT_trm_medium_tank_ger_panzer34_superstructure_open_TITLE:0 "PzKpfw III/IV Superstructure"
- 
+
  trm_medium_tank_ger_panzer3_turret_1:0 "PzKpfw III Turret (Manual)"
  trm_medium_tank_ger_panzer3_turret_1_desc:0 "Can use: KwK 30 / 2.8cm L/62 sPzB 41 / 3.7cm KwKs"
  trm_medium_tank_ger_panzer3_turret_2:0 "PzKpfw III Turret (Manual) 2"
@@ -2393,14 +2395,14 @@
  trm_medium_tank_ger_panzer3_casemate_1:0 "PzKpfw III Casemate"
  trm_medium_tank_ger_panzer3_casemate_1_desc:0 "Allows: 4.7cm PaK 38(t) / 5cm KwKs (all) / 7.5cm KwK 40 L/43"
  trm_medium_tank_ger_panzer3_casemate_2:0 "PzKpfw III Casemate 2"
- trm_medium_tank_ger_panzer3_casemate_2_desc:0 "Allows: 4.7cm PaK 38(t) / 5cm KwKs (all) / 7.5cm KwKs L43 and L48 / StuH 42"
+ trm_medium_tank_ger_panzer3_casemate_2_desc:0 "Allows: 4.7cm PaK 38(t) / 5cm KwKs (all) / 7.5cm KwKs 40 (L43 and L48) / StuH 42"
  trm_medium_tank_ger_panzer3_casemate_3:0 "PzKpfw III Casemate (Coax MG)"
  trm_medium_tank_ger_panzer3_casemate_3_desc:0 "Allows: 4.7cm PaK 38(t) / 5cm KwKs / 7.5cm KwKs / StuH 42"
  trm_medium_tank_ger_panzer3_superstructure_open_1:0 "PzKpfw III Superstructure"
  trm_medium_tank_ger_panzer3_superstructure_open_1_desc:0 "Allows: 4.7cm PaK 38(t) / 5cm KwKs / 7.5cm KwKs  (all)/  8.8cm KwK 36 / 10.5cm Artillery / 15cm sFH 13 and sIG 33"
  trm_medium_tank_ger_panzer3_aa_open_1:0 "PzKpfw III Open AA Mount"
  trm_medium_tank_ger_panzer3_aa_open_1_desc:0 "Allows: 2cm FlaKs (x4), 3cm Flaks (x1), 3.7cm Flaks"
- 
+
  trm_medium_tank_ger_panzer4_turret_1:0 "PzKpfw IV Turret (Powered)"
  trm_medium_tank_ger_panzer4_turret_1_desc:0 "Can use: KwK 37 / 4.2cm PaK 41 / 4.7cm PaK 38(t) / 5cm KwKs / 7.5cm short"
  trm_medium_tank_ger_panzer4_turret_2:0 "PzKpfw IV Late Turret (Powered)"
@@ -2417,15 +2419,15 @@
  trm_medium_tank_ger_panzer4_aa_open_1_desc:0 "Allows: 2cm FlaKs (x4), 3cm Flaks (x1), 3.7cm Flaks"
  trm_medium_tank_ger_panzer4_aa_1:0 "PzKpfw IV AA Turret"
  trm_medium_tank_ger_panzer4_aa_1_desc:0 "Allows: 2cm FlaKs (x2), 3cm Flaks (x2), 3.7cm Flaks"
- 
+
  trm_medium_tank_ger_panzer34_superstructure_open_1:0 "PzKpfw III/IV Superstructure"
  trm_medium_tank_ger_panzer34_superstructure_open_1_desc:0 "Allows: 7.5 cm KwK (all) / 8.8cm KwKs (all) / 10.5cm artillery / 15cm artillery (all)"
- 
+
  EQ_MOD_CAT_trm_medium_advanced_tank_ger_panther_turret_TITLE:0 "Panther Turret"
  EQ_MOD_CAT_trm_medium_advanced_tank_ger_panther_turret_schmalturm_TITLE:0 "Panther Turret"
  EQ_MOD_CAT_trm_medium_advanced_tank_ger_panther_casemate_TITLE:0 "Panther Casemate"
  EQ_MOD_CAT_trm_medium_advanced_tank_ger_panther_aa_TITLE:0 "Panther AA Turret"
- 
+
  trm_medium_advanced_tank_ger_panther_turret_1:0 "Panther Turret (Powered)"
  trm_medium_advanced_tank_ger_panther_turret_1_desc:0 "Allows: 7.5cm KwKs (all)"
  trm_medium_advanced_tank_ger_panther_turret_2:0 "Panther Schmalturm (Powered)"
@@ -2434,46 +2436,46 @@
  trm_medium_advanced_tank_ger_panther_casemate_1_desc:0 "Allows: 7.5cm KwKs (all) / 8.8cm KwKs (all) / StuH 42 / StuH 43"
  trm_medium_advanced_tank_ger_panther_aa_1:0 "Panther AA Turret"
  trm_medium_advanced_tank_ger_panther_aa_1_desc:0 "Allows: 2cm FlaKs (x2), 3cm Flaks (x2), 3.7cm Flaks (x2)"
- 
+
  EQ_MOD_CAT_trm_heavy_tank_ger_neubaufahrzeug_turret_TITLE:0 "Neubaufahrzeug Turret"
  EQ_MOD_CAT_trm_heavy_tank_ger_tiger_turret_TITLE:0 "Tiger Turret"
  EQ_MOD_CAT_trm_heavy_tank_ger_tiger_casemate_TITLE:0 "Tiger Casemate"
  EQ_MOD_CAT_trm_heavy_tank_ger_tiger2_turret_TITLE:0 "Tiger II Turret"
  EQ_MOD_CAT_trm_heavy_tank_ger_tiger2_turret_late_TITLE:0 "Tiger II Turret"
  EQ_MOD_CAT_trm_heavy_tank_ger_tiger2_casemate_TITLE:0 "Tiger II Casemate"
- 
+
  trm_heavy_tank_ger_neubaufahrzeug_turret_1:0 "Neubaufahrzeug Turret (Manual)"
  trm_heavy_tank_ger_neubaufahrzeug_turret_1_desc:0 ""
- 
+
  trm_heavy_tank_ger_tiger_turret_1:0 "Tiger Turret (Powered)"
  trm_heavy_tank_ger_tiger_turret_1_desc:0 "Allows: 7.5cm KwKs (all) / 8.8cm KwK 36 L56 / StuH 42"
  trm_heavy_tank_ger_tiger_casemate_1:0 "Tiger Casemate"
  trm_heavy_tank_ger_tiger_casemate_1_desc:0 "Allows: 7.5cm KwKs (all) / 8.8cm KwKs (all) /  StuH 42 / StuH 43 / 3.8cm RW 61 Rocket Launcher"
- 
+
  trm_heavy_tank_ger_tiger2_turret_1:0 "Tiger II Turret (Powered)"
  trm_heavy_tank_ger_tiger2_turret_1_desc:0 "Allows: 7.5cm KwK 42 / 8.8cm KwKs (all) / StuH 42"
  trm_heavy_tank_ger_tiger2_turret_2:0 "Tiger II 10.5cm Turret (Powered)"
  trm_heavy_tank_ger_tiger2_turret_2_desc:0 "Allows: 10.5cm KwK 45"
  trm_heavy_tank_ger_tiger2_casemate_1:0 "Tiger II Casemate"
  trm_heavy_tank_ger_tiger2_casemate_1_desc:0 "Allows: Allows: 7.5cm KwKs (all) / 8.8cm KwKs (all) /  StuH 42 / 10.5cm KwK 45 / 12.8cm KwK 44"
- 
+
  EQ_MOD_CAT_trm_superheavy_tank_ger_maus_turret_TITLE:0 "Maus Turret"
  trm_superheavy_tank_ger_maus_turret_1:0 "Maus Turret (Powered)"
  trm_superheavy_tank_ger_maus_turret_1_desc:0 "Allows: 7.5cm KwK 42 / 8.8cm KwKs (all) / 10.5cm KwK 45 / 12.8cm KwK 44 "
- 
+
  # Turret/Superstructure SOV
- 
+
  EQ_MOD_CAT_trm_tankette_tank_sov_t27_casemate_TITLE:0 "T-27 Casemate"
  EQ_MOD_CAT_trm_tankette_tank_sov_t37_turret_TITLE:0 "T-37 Turret"
  EQ_MOD_CAT_trm_tankette_tank_sov_t38_turret_TITLE:0 "T-38 Turret"
- 
+
  trm_tankette_tank_sov_t27_casemate_1:0 "T-27 Casemate"
  trm_tankette_tank_sov_t27_casemate_1_desc:0 ""
  trm_tankette_tank_sov_t37_turret_1:0 "T-37 Turret (Manual)"
  trm_tankette_tank_sov_t37_turret_1_desc:0 ""
  trm_tankette_tank_sov_t38_turret_1:0 "T-38 Turret (Manual)"
  trm_tankette_tank_sov_t38_turret_1_desc:0 ""
- 
+
  EQ_MOD_CAT_trm_light_tank_sov_komsomolets_superstructure_open_TITLE:0 "Komsomolets Superstructure"
  EQ_MOD_CAT_trm_light_tank_sov_t18_turret_TITLE:0 "T-18 Turret"
  EQ_MOD_CAT_trm_light_tank_sov_t26_turret_TITLE:0 "T-26 Turret"
@@ -2485,10 +2487,10 @@
  EQ_MOD_CAT_trm_light_tank_sov_t70_aa_open_TITLE:0 "T-70 Open AA Mount"
  EQ_MOD_CAT_trm_light_tank_sov_t70_superstructure_open_TITLE:0 "T-70 Superstructure"
  EQ_MOD_CAT_trm_light_tank_sov_t80_turret_TITLE:0 "T-80 Turret"
- 
+
  trm_light_tank_sov_komsomolets_superstructure_open_1:0 "Komsomolets Superstructure"
  trm_light_tank_sov_komsomolets_superstructure_open_1_desc:0 ""
- 
+
  trm_light_tank_sov_t18_turret_1:0 "T-18 Turret (Manual)"
  trm_light_tank_sov_t18_turret_1_desc:0 ""
  trm_light_tank_sov_t26_turret_1:0 "T-26 Twin MG Turrets (Manual)"
@@ -2502,20 +2504,20 @@
  trm_light_tank_sov_t60_turret_1:0 "T-60 Turret (Manual)"
  trm_light_tank_sov_t60_turret_1_desc:0 ""
  trm_light_tank_sov_t70_turret_1:0 "T-70 Turret (Manual)"
- trm_light_tank_sov_t70_turret_1_desc:0 "" 
+ trm_light_tank_sov_t70_turret_1_desc:0 ""
  trm_light_tank_sov_t70_aa_open_1:0 "T-70 Open AA Mount"
  trm_light_tank_sov_t70_aa_open_1_desc:0 ""
  trm_light_tank_sov_t70_superstructure_open_1:0 "T-70 Superstructure"
  trm_light_tank_sov_t70_superstructure_open_1_desc:0 ""
  trm_light_tank_sov_t80_turret_1:0 "T-80 Turret (Manual)"
  trm_light_tank_sov_t80_turret_1_desc:0 ""
- 
+
  EQ_MOD_CAT_trm_cavalry_tank_sov_bt2_turret_TITLE:0 "BT-2 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_sov_bt2_turret_mg_TITLE:0 "BT-2 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_sov_bt5_turret_TITLE:0 "BT-5 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_sov_bt7_turret_TITLE:0 "BT-7 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_sov_bt7_turret_cs_TITLE:0 "BT-7 Turret"
- 
+
  trm_cavalry_tank_sov_bt2_turret_1:0 "BT-2 Turret (Manual)"
  trm_cavalry_tank_sov_bt2_turret_1_desc:0 ""
  trm_cavalry_tank_sov_bt2_turret_2:0 "BT-2 MG Turret (Manual)"
@@ -2526,17 +2528,17 @@
  trm_cavalry_tank_sov_bt7_turret_1_desc:0 ""
  trm_cavalry_tank_sov_bt7_turret_2:0 "BT-7 CS Turret (Manual)"
  trm_cavalry_tank_sov_bt7_turret_2_desc:0 ""
- 
+
  EQ_MOD_CAT_trm_infantry_tank_sov_t28_turret_TITLE:0 "T-28 Turret"
- 
+
  trm_infantry_tank_sov_t28_turret_1:0 "T-28 Turret (Manual)"
  trm_infantry_tank_sov_t28_turret_1_desc:0 ""
- 
+
  EQ_MOD_CAT_trm_medium_tank_sov_t34_turret_TITLE:0 "T-34 Turret"
  EQ_MOD_CAT_trm_medium_tank_sov_t34_turret_cheap_TITLE:0 "T-34 Turret"
  EQ_MOD_CAT_trm_medium_tank_sov_t34_turret_late_TITLE:0 "T-34/85 Turret"
  EQ_MOD_CAT_trm_medium_tank_sov_t34_casemate_TITLE:0 "T-34/85 Turret"
- 
+
  trm_medium_tank_sov_t34_turret_1:0 "T-34 Turret (Powered)"
  trm_medium_tank_sov_t34_turret_1_desc:0 ""
  trm_medium_tank_sov_t34_turret_2:0 "T-34 Improved Turret (Powered)"
@@ -2545,10 +2547,10 @@
  trm_medium_tank_sov_t34_turret_3_desc:0 ""
  trm_medium_tank_sov_t34_casemate_1:0 "T-34 Casemate"
  trm_medium_tank_sov_t34_casemate_1_desc:0 ""
- 
+
  EQ_MOD_CAT_trm_medium_advanced_tank_sov_t44_turret_TITLE:0 "T-44 Turret"
  EQ_MOD_CAT_trm_medium_advanced_tank_sov_t54_turret_TITLE:0 "T-54 Turret"
- 
+
  trm_medium_advanced_tank_sov_t44_turret_1:0 "T-44 Turret (Powered)"
  trm_medium_advanced_tank_sov_t44_turret_1_desc:0 ""
  trm_medium_advanced_tank_sov_t54_turret_1:0 "T-54 Turret (Powered)"
@@ -2563,7 +2565,7 @@
  EQ_MOD_CAT_trm_heavy_tank_sov_is_casemate_TITLE:0 "IS-1/2 Casemate"
  EQ_MOD_CAT_trm_heavy_tank_sov_is3_turret_TITLE:0 "IS-3 Turret"
  EQ_MOD_CAT_trm_heavy_tank_sov_is4_turret_TITLE:0 "IS-4 Turret"
- 
+
  trm_heavy_tank_sov_t35_turret_1:0 "T-35 Turret (Manual)"
  trm_heavy_tank_sov_t35_turret_1_desc:0 ""
  trm_heavy_tank_sov_kv1_turret_1:0 "KV-1 Turret (Powered)"
@@ -2582,15 +2584,15 @@
  trm_heavy_tank_sov_is3_turret_1_desc:0 ""
  trm_heavy_tank_sov_is4_turret_1:0 "IS-4 Turret (Powered)"
  trm_heavy_tank_sov_is4_turret_1_desc:0 ""
- 
+
  # Turret/Superstructure ITA
- 
+
  EQ_MOD_CAT_trm_tankette_tank_ita_cv29_casemate_TITLE:0 "C.V. 29 Casemate"
 
  EQ_MOD_CAT_trm_tankette_tank_ita_l3_casemate_TITLE:0 "L3 Casemate"
  EQ_MOD_CAT_trm_tankette_tank_ita_l3_casemate_late_TITLE:0 "L3 Casemate"
  EQ_MOD_CAT_trm_tankette_tank_ita_l3_superstructure_open_TITLE:0 "L3 Superstructure"
- 
+
  trm_tankette_tank_ita_cv29_casemate_1:0 "C.V. 29 Casemate"
  trm_tankette_tank_ita_cv29_casemate_1_desc:0 ""
 
@@ -2680,11 +2682,11 @@
  trm_heavy_tank_ita_p30_turret_1_desc:0 ""
  trm_heavy_tank_ita_p30_turret_2:0 "P30 Turret (Powered)"
  trm_heavy_tank_ita_p30_turret_2_desc:0 ""
- 
+
  # Turret/Superstructure USA
- 
+
  EQ_MOD_CAT_trm_tankette_tank_usa_ctl_turret_TITLE:0 "CTL Turret"
- 
+
  trm_tankette_tank_usa_ctl_turret_1:0 "CTL Turret (Manual)"
  trm_tankette_tank_usa_ctl_turret_1_desc:0 ""
 
@@ -2781,7 +2783,7 @@
  EQ_MOD_CAT_trm_medium_tank_usa_m4_turret_open_late_TITLE:0 "M36 Open Turret"
  EQ_MOD_CAT_trm_medium_tank_usa_m4_turret_17pdr_TITLE:0 "Firefly Turret"
  EQ_MOD_CAT_trm_medium_tank_usa_m4_turret_open_17pdr_TITLE:0 "Achilles Open Turret"
- 
+
  EQ_MOD_CAT_trm_medium_tank_usa_grizzly_turret_TITLE:0 "M4 Turret"
  EQ_MOD_CAT_trm_medium_tank_usa_grizzly_superstructure_open_TITLE:0 "Grizzly Superstructure"
  EQ_MOD_CAT_trm_medium_tank_usa_grizzly_aa_TITLE:0 "Grizzly AA Turret"
@@ -2815,7 +2817,7 @@
  trm_medium_tank_usa_m4_turret_4_desc:0 ""
  trm_medium_tank_usa_m4_turret_open_3:0 "Achilles Turret (Manual)"
  trm_medium_tank_usa_m4_turret_open_3_desc:0 ""
- 
+
  trm_medium_tank_usa_grizzly_turret_1:0 "Grizzly Turret (Powered)"
  trm_medium_tank_usa_grizzly_turret_1_desc:0 ""
  trm_medium_tank_usa_grizzly_superstructure_open_1:0 "Grizzly Superstructure"
@@ -2871,11 +2873,11 @@
  trm_amph_tank_usa_lvt_turret_1_desc:0 ""
  trm_amph_tank_usa_lvt_turret_2:0 "LVT(A)-4 Turret (Powered)"
  trm_amph_tank_usa_lvt_turret_2_desc:0 ""
- 
+
  # Turret/Superstructure ENG
- 
+
  EQ_MOD_CAT_trm_tankette_tank_eng_cardenloyd_casemate_TITLE:0 "Mk.VI Casemate"
- 
+
  trm_tankette_tank_eng_cardenloyd_casemate_1:0 "Mk.VI Casemate"
  trm_tankette_tank_eng_cardenloyd_casemate_1_desc:0 ""
 
@@ -2938,14 +2940,14 @@
  EQ_MOD_CAT_trm_medium_tank_ast_ac1_turret_TITLE:0 "AC1 Turret"
  EQ_MOD_CAT_trm_medium_tank_ast_ac3_turret_TITLE:0 "AC3 Turret"
  EQ_MOD_CAT_trm_medium_tank_ast_ac4_turret_TITLE:0 "AC4 Turret"
- 
+
  trm_medium_tank_ast_ac1_turret_1:0 "AC1 Turret (Powered)"
  trm_medium_tank_ast_ac1_turret_1_desc:0 ""
  trm_medium_tank_ast_ac3_turret_1:0 "AC3 Turret (Powered)"
  trm_medium_tank_ast_ac3_turret_1_desc:0 ""
  trm_medium_tank_ast_ac4_turret_1:0 "AC4 Turret (Powered)"
  trm_medium_tank_ast_ac4_turret_1_desc:0 ""
- 
+
  EQ_MOD_CAT_trm_medium_tank_eng_mk7_turret_TITLE:0 "Cavalier Turret"
  EQ_MOD_CAT_trm_medium_tank_eng_mk8_turret_TITLE:0 "Centaur Turret"
  EQ_MOD_CAT_trm_medium_tank_eng_mk8_aa_TITLE:0 "Centaur AA Turret"
@@ -2976,12 +2978,12 @@
  EQ_MOD_CAT_trm_medium_advanced_tank_eng_centurion_turret_20pdr_TITLE:0 "Centurion Turret"
 
  trm_medium_advanced_tank_eng_centurion_turret_1:0 "Centurion Turret (Powered)"
- trm_medium_advanced_tank_eng_centurion_turret_1_desc:0 "" 
+ trm_medium_advanced_tank_eng_centurion_turret_1_desc:0 ""
  trm_medium_advanced_tank_eng_centurion_turret_2:0 "Centurion 20-pdr Turret (Powered)"
  trm_medium_advanced_tank_eng_centurion_turret_2_desc:0 ""
 
  EQ_MOD_CAT_trm_infantry_tank_eng_vickers_medium_turret_TITLE:0 "Mk.I/II Turret"
- 
+
  EQ_MOD_CAT_trm_infantry_tank_eng_matilda1_turret_TITLE:0 "Matilda I Turret"
  EQ_MOD_CAT_trm_infantry_tank_eng_matilda2_turret_TITLE:0 "Matilda II Turret"
 
@@ -2994,7 +2996,7 @@
 
  trm_infantry_tank_eng_vickers_medium_turret_1:0 "Mk.I/II Turret (Manual)"
  trm_infantry_tank_eng_vickers_medium_turret_1_desc:0 ""
- 
+
  trm_infantry_tank_eng_matilda1_turret_1:0 "Matilda I Turret (Manual)"
  trm_infantry_tank_eng_matilda1_turret_1_desc:0 ""
  trm_infantry_tank_eng_matilda2_turret_1:0 "Matilda II Turret (Powered)"
@@ -3047,13 +3049,13 @@
 
  trm_superheavy_tank_eng_tortoise_casemate_1:0 "Tortoise Casemate"
  trm_superheavy_tank_eng_tortoise_casemate_1_desc:0 ""
- 
+
  # Turret/Superstructure JAP
- 
+
  EQ_MOD_CAT_trm_tankette_tank_jap_type92_turret_TITLE:0 "Type 92 Turret"
  EQ_MOD_CAT_trm_tankette_tank_jap_type94_turret_TITLE:0 "Type 94 Turret"
  EQ_MOD_CAT_trm_tankette_tank_jap_type97_turret_TITLE:0 "Type 97 Turret"
- 
+
  trm_tankette_tank_jap_type92_turret_1:0 "Type 92 Turret (Manual)"
  trm_tankette_tank_jap_type94_turret_1:0 "Type 94 Turret (Manual)"
  trm_tankette_tank_jap_type97_turret_1:0 "Type 97 Turret (Manual)"
@@ -3131,14 +3133,14 @@
  EQ_MOD_CAT_trm_medium_tank_jap_apc_type4_superstructure_open_TITLE:0 "Type 4 Superstructure"
 
  trm_medium_tank_jap_apc_type4_superstructure_open_1:0 "Type 4 Superstructure"
- 
+
  # Turret/Superstructure FRA
- 
+
  EQ_MOD_CAT_trm_tankette_tank_fra_amr33_turret_TITLE:0 "AMR-33 Turret"
  EQ_MOD_CAT_trm_tankette_tank_fra_amr35_turret_TITLE:0 "AMR-35 Turret"
  EQ_MOD_CAT_trm_tankette_tank_fra_amr35_turret_late_TITLE:0 "AMR-35 Turret"
  EQ_MOD_CAT_trm_tankette_tank_fra_amr35_casemate_TITLE:0 "ZT-3 Casemate"
- 
+
  trm_tankette_tank_fra_amr33_turret_1:0 "AMR-33 MG Turret (Powered)"
  trm_tankette_tank_fra_amr35_turret_1:0 "AMR-35 MG Turret (Powered)"
  trm_tankette_tank_fra_amr35_turret_2:0 "AMR-35 Turret (Powered)"
@@ -3201,46 +3203,46 @@
  trm_heavy_tank_fra_b1_turret_2:0 "B1 Improved Turret (Powered)"
  trm_heavy_tank_fra_tracteurb_turret_1:0 "Tracteur B Turret (Powered)"
  trm_heavy_tank_fra_arl44_turret_1:0 "ARL 44 Turret (Powered)"
- 
+
  # Turret/Superstructure GENERIC
- 
+
  EQ_MOD_CAT_trm_tankette_tank_gen_1936_casemate_TITLE:0 "Tankette 1936 Casemate"
  EQ_MOD_CAT_trm_tankette_tank_gen_1939_turret_TITLE:0 "Tankette 1939 Turret"
 
  EQ_MOD_CAT_trm_light_tank_gen_1941_turret_TITLE:0 "Light Tank 1941 Turret"
- 
+
  EQ_MOD_CAT_trm_medium_tank_gen_1943_turret_TITLE:0 "Medium Tank 1943 Turret"
- 
+
  trm_tankette_tank_gen_1936_casemate_1:0 "Tankette 1936 Casemate"
  trm_tankette_tank_gen_1939_turret_1:0 "Tankette 1939 Turret (Manual)"
- 
+
  trm_light_tank_gen_1941_turret_1:0 "Light Tank 1941 Turret (Manual)"
- 
+
  trm_medium_tank_gen_1943_turret_1:0 "Medium Tank 1943 Turret (Manual)"
 
  # Turret/Superstructure CZE
- 
+
  EQ_MOD_CAT_trm_tankette_tank_cze_t33_casemate_TITLE:0 "Tancik vz.33 Casemate"
  EQ_MOD_CAT_trm_tankette_tank_cze_ahiv_turret_TITLE:0 "AH-IV Turret"
- 
+
  EQ_MOD_CAT_trm_cavalry_tank_cze_lt34_turret_TITLE:0 "LT vz.34 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_cze_lt35_turret_TITLE:0 "LT vz.35 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_cze_lt38_turret_TITLE:0 "LT vz.38 Turret"
- 
+
  EQ_MOD_CAT_trm_medium_tank_cze_st39_turret_TITLE:0 "ST vz.39 Turret"
- 
+
  trm_tankette_tank_cze_t33_casemate_1:0 "Tancik vz.33 Casemate"
  trm_tankette_tank_cze_ahiv_turret_1:0 "AH-IV Turret"
- 
+
  trm_cavalry_tank_cze_lt34_turret_1:0 "LT vz.34 Turret (Manual)"
  trm_cavalry_tank_cze_lt35_turret_1:0 "LT vz.35 Turret (Manual)"
  trm_cavalry_tank_cze_lt38_turret_1:0 "LT vz.38 Turret (Manual)"
- 
+
  trm_medium_tank_cze_st39_turret_1:0 "ST vz.39 Turret (Manual)"
- 
+
  GER_trm_cavalry_tank_cze_lt35_turret_1:0 "PzKpfw 35(t) Czech Turret (Manual)"
  GER_trm_cavalry_tank_cze_lt38_turret_1:0 "PzKpfw 38(t) Czech Turret (Manual)"
- 
+
  # Turret/Superstructure HUN
 
  EQ_MOD_CAT_trm_light_tank_hun_toldi_turret_TITLE:0 "Toldi Turret"
@@ -3264,15 +3266,15 @@
  trm_medium_tank_hun_turan_casemate_1:0 "Turan Casemate"
 
  trm_light_tank_hun_nimrod_aa_1:0 "Nimrod AA Turret"
- 
+
  # Turret/Superstructure SWE
- 
+
  EQ_MOD_CAT_trm_cavalry_tank_swe_m31_turret:0 "Strv m/31 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_swe_m41_turret:0 "Strv m/41 Turret"
  EQ_MOD_CAT_trm_cavalry_tank_swe_m41_casemate:0 "Strv m/41 Casemate"
 
  EQ_MOD_CAT_trm_tankette_tank_swe_m37_turret:0 "Strv m/37 Turret"
- 
+
  EQ_MOD_CAT_trm_light_tank_swe_m21_turret:0 "Strv m/21 Turret"
  EQ_MOD_CAT_trm_light_tank_swe_m38_turret:0 "Strv m/38 Turret"
 
@@ -3281,7 +3283,7 @@
  trm_cavalry_tank_swe_m31_turret_1:0 "Strv m/31 Turret (Manual)"
  trm_cavalry_tank_swe_m41_turret_1:0 "Strv m/41 Turret (Manual)"
  trm_cavalry_tank_swe_m41_casemate_1:0 "Strv m/41 Casemate"
- 
+
  trm_tankette_tank_swe_m37_turret_1:0 "Strv m/37 Turret (Manual)"
 
  trm_light_tank_swe_m21_turret_1:0 "Strv m/21 Turret (Manual)"
@@ -3291,7 +3293,7 @@
  trm_medium_tank_swe_m42_turret_1:0 "Strv m/42 Turret (Manual)"
 
  # Turret/Superstructure POL
- 
+
  EQ_MOD_CAT_trm_tankette_tank_pol_tk_casemate_TITLE:0 "TK Casemate"
 
  EQ_MOD_CAT_trm_tankette_tank_pol_4tp_turret_TITLE:0 "4TP Turret"
@@ -3302,7 +3304,7 @@
 
  EQ_MOD_CAT_trm_cavalry_tank_pol_10tp_turret_TITLE:0 "10TP Turret"
  EQ_MOD_CAT_trm_cavalry_tank_pol_14tp_turret_TITLE:0 "14TP Turret"
- 
+
  EQ_MOD_CAT_trm_amph_tank_pol_pzinz130_turret_TITLE:0 "PZInz.130 Turret"
 
  trm_tankette_tank_pol_tk_casemate_1:0 "TK Casemate"
@@ -3315,11 +3317,11 @@
 
  trm_cavalry_tank_pol_10tp_turret_1:0 "10TP Turret (Manual)"
  trm_cavalry_tank_pol_14tp_turret_1:0 "14TP Turret (Manual)"
- 
+
  trm_amph_tank_pol_pzinz130_turret_1:0 "PZInz.130 Turret (Manual)"
 
  # Turret/Superstructure NZL
- 
+
  EQ_MOD_CAT_trm_infantry_tank_nzl_bob_turret_TITLE:0 "Bob Semple Turret"
  EQ_MOD_CAT_trm_infantry_tank_nzl_bob_turret_gun_TITLE:0 "Bob Semple Turret"
 

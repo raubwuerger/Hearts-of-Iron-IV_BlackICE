@@ -3,9 +3,9 @@
  
  ### IMPORTANT ### 
  #-Also adjust GetVersion in common/scripted_localisation/
- BICE_mod_type: "§YMain Version§!" #either Main Version or Test Version
- BICE_version:0 "v9.0.5"
- BICE_checksum:0 "48db" #don't forget to remove the git stuff before uploading
+ BICE_mod_type: "§YTest Version§!" #either Main Version or Test Version
+ BICE_version:0 "v9.1.1"
+ BICE_checksum:0 "270a" #don't forget to remove the git stuff before uploading
  #---------------------------------
  
 

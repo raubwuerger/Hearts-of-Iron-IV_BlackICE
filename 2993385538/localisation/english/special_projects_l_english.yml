@@ -299,6 +299,10 @@
  sp_land_assault_rifle: "Assault Rifle"
  sp_land_assault_rifle_desc: "Assault rifles combine the power of rifles, the compactness of carbines and the fire rate of submachine guns, and thus are a good all-rounder for infantry units."
 
+ #Assault Rifles
+ sp_land_assault_rifle_early: "Assault Rifle"
+ sp_land_assault_rifle_early_desc: "Assault rifles combine the power of rifles, the compactness of carbines and the fire rate of submachine guns, and thus are a good all-rounder for infantry units."
+
  #Commando Teams
  sp_land_commando_team: "Commando Teams"
  sp_land_commando_team_desc: "A specialized, highly trained unit designed for rapid, aggressive, and often unconventional operations behind enemy lines."

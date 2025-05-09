@@ -20,10 +20,10 @@
  resources_sabotaged:0 "Invading nations will not be able to use [This.GetName]s resources before investing into repair \n"
  seek_closer_bonds_to_license_owner:0 "Improve [Root.GetAdjective] - [From.GetAdjective] Tech-Cooperation"
  seek_closer_bonds_to_license_owner_desc:0 "If we don't want our production of licensed goods to fall behind we need to improve our knowledge and ways to manufacture them."
- license_cap:0 " Base output of §Y60%§!"
+ license_cap:0 " Only §Y60%§! of our §YFactory Output§! can be used on licenses"
  license_cooperation:0 "Closer License Cooperation"
  licenses.4.t:0 "[From.GetName] wants a closer license cooperation"
- licenses.4.desc:0 "[From.GetLeader] has come forward today to request a close cooperation of our countries to improve the license production of [From.GetNameDef]. They are willing to pay 25% more for their acquired licenses created by us."
+ licenses.4.desc:0 "[From.GetLeader] has come forward today to request a close cooperation of our countries to improve the license production of [From.GetNameDef]."
  large_economy_1:0 "Large Economy I"
  large_economy_2:0 "Large Economy II"
  large_economy_3:0 "Large Economy III"
@@ -429,7 +429,7 @@
  GET_NAME:0 "[This.GetName]"
  V_GET_NAME:0 "[?v.GetTokenKey]" 
  V_GET_NAME_LOCALISED:0 "[?v.GetTokenLocalizedKey]"
- SPECIAL_FORCES_OVER_LIMIT:0 "§RWir setzen zu viele Spezialeinheiten ein! Das Ausheben weiterer Einheiten ist deaktiviert und wir erhalten folgende Strafen:§!"
+ SPECIAL_FORCES_OVER_LIMIT:0 "§RWe are fielding too many special forces! Deployment of additional units is disabled and we suffer the following penalties:§!"
  SPECIAL_FORCES_MODIFIERS_TEXT: "\n\n§Y[Root.GetSpecialForcesOverLimit]§!"
  SPECIAL_FORCES_MODIFIERS_TT: "§YOur Special forces receive the following modifiers:§!\n"
  SPECIAL_FORCES_MODIFIER_1:0 "Division Attack Factor: [?modifier@special_forces_attack_factor|=+%]   [Root.GetSpecialForcesOverLimitDebuff]\n"
@@ -440,7 +440,7 @@
  SPECIAL_FORCES_MODIFIER_6:0 "Marines Extra Supply Grace: [?modifier@extra_marine_supply_grace|=+1] Hours\n"
  SPECIAL_FORCES_MODIFIER_7:0 "Paratroopers Extra Supply Grace: [?modifier@extra_paratrooper_supply_grace|=+1] Hours\n"
  SPECIAL_FORCES_MODIFIER_8:0 "Paradrop Efficiency: [?special_forces_para_debuff|=+%]   ([?special_forces_para_debuff|=+%])\n"
- mountainous_country:0 "Gebirgige Länder"
+ mountainous_country:0 "Mountainous Country"
  
  coastal_state:0 "Has at least 1 §YCoastal§! State"
 
@@ -637,6 +637,8 @@
  TOPBAR_INCREASE:0 "£increase_texticon"
  TOPBAR_STAGNATE:0 "£stagnate_texticon"
  TOPBAR_DECREASE:0 "£decrease_texticon"
+ TOPBAR_INCREASE_BAD:0 "£increase_reversed_texticon"
+ TOPBAR_DECREASE_BAD:0 "£decrease_reversed_texticon"
  FIELD_STRENGTH_TRIGGER:0 "Current §YField Strength§! is higher than [?field_strength_trigger|Y1%]"
  ARMY_STRENGTH_TRIGGER:0 "Current §YArmy Strength§! is higher than [?army_strength_trigger|Y0] §L([?army_strength|0])§!"
 
@@ -1557,22 +1559,22 @@
  
  ai_advisor:0 "§G AI Advisor §!"
  
- INSTANTLY_REMOVED_AT_WAR:0 "\n§YWird sofort entfernt, wenn:§!\n£trigger_no im Krieg"
+ INSTANTLY_REMOVED_AT_WAR:0 "\n§YInstantly removed if:§!\n£trigger_no At war"
  
  IDEA_TOOLTIP:0 "[?v.GetTokenKey] V"
  
   
  LAW_IDEA_COMPLETE_TOOLTIP:0 "[!law_idea_entry_click]\n\n[!law_idea_entry_click_enabled]\n\n"
  
- AI_DEF_DEFENDERS_TT:0 "§YKlick§! zum Anzeigen und Einstellen der §Y-Länder, die verteidigt werden [?targeted_country.GetName]§!"
- AI_DEF_DEFENDING_TT:0 "§YKlick§! zum Anzeigen und Einstellen §Ywelche Länder [?targeted_country.GetName] verteidigt werden sollen§!"
- AI_DEF_AREA_FORCE_TT: "§YVerteidigung favorisieren§!\n\nWenn diese Einstellung aktiv ist, wird §Y[?targeted_country.GetName]§! dazu veranlasst, alle Verbündeten in dem genannten Gebiet aktiv zu verteidigen.\n§RDies ist nicht kompatibel mit länderspezifischen Verteidigungseinstellungen! Wenn Sie diese Funktion aktivieren, werden die länderspezifischen Verteidigungseinstellungen für die Front vollständig deaktiviert..§!"
- AI_DEF_AREA_NO_FRONT_TT: "§YZuordnen von Fronten erlauben§!\n\nWenn diese Einstellung aktiv ist, §Y[?targeted_country.GetName]§! dürfen Einheiten dem genannten Bereich zuordnen, für Länder, die er verteidigen darf.\nWenn diese Funktion deaktiviert ist, darf die KI das Gebiet nicht verteidigen, selbst wenn es Länder gibt, die sie verteidigen darf."
+ AI_DEF_DEFENDERS_TT:0 "§YClick§! to view and adjust §Ycountries defending [?targeted_country.GetName]§!"
+ AI_DEF_DEFENDING_TT:0 "§YClick§! to view and adjust §Ywhich countries [?targeted_country.GetName] should defend§!"
+ AI_DEF_AREA_FORCE_TT: "§YForce Defend§!\n\nIf this setting is active, §Y[?targeted_country.GetName]§! will be nudged towards actively defending any allies in the mentioned area.\n§RThis is not compatible with country specific defense settings! If you choose to activate it, the country specific front defense settings will be disabled entirely.§!"
+ AI_DEF_AREA_NO_FRONT_TT: "§YAllow Front Assignment§!\n\nIf this setting is active, §Y[?targeted_country.GetName]§! will be allowed to assign units to the mentioned area, for countries its allowed to defend.\nIf this is disabled, the AI will not be allowed to defend the area, even if there are countries its allowed to defend."
 
- AI_DEF_COUNTRY_TITLE: "Länderspezifisch"
- AI_DEF_COUNTRY_TITLE_DISABLED: "Länderspezifisch §R(DISABLED)§!"
+ AI_DEF_COUNTRY_TITLE: "Country Specific"
+ AI_DEF_COUNTRY_TITLE_DISABLED: "Country Specific §R(DISABLED)§!"
  AI_DEF_COUNTRY_TOOLTIP_HEADER: "[!binder_click]"
- AI_DEF_COUNTRY_TOOLTIP_DISABLED: "Länderspezifische Verteidigungseinstellungen sind §Rdeaktiviert§! für §Y[?Root.targeted_country.GetName]§! aufgrund der folgenden Gebietseinstellungen: \n"
+ AI_DEF_COUNTRY_TOOLTIP_DISABLED: "Country Specific Defense settings are §Rdisabled§! for §Y[?Root.targeted_country.GetName]§! because of the following area settings: \n"
  
  AI_DEF_STATE_MAPICON_DEBUG: "[?region_overwrite_score] REGION YES \n[?region_score] REGION \n[?area_score] AREA"
  
@@ -1939,7 +1941,7 @@
  SELECT_LAW_TOOLTIP: "[!select_law_click] \n\n[!select_law_click_enabled]"
  
  LAW_TITLE_TEXT:0 "§Y[?title.GetTokenLocalizedKey]§!\n"
- SELECT_LAW_COST_TEXT: "[GetLawTrigger]  [GetLawBudgetCost] [GetLawCost]"
+ SELECT_LAW_COST_TEXT: "[GetLawTrigger] [GetLawCost]"
  SELECT_LAW_COST_PP_TRUE: " £pol_power [?selected_laws_cost^i|Y0]"
  SELECT_LAW_COST_PP_FALSE: " £pol_power [?selected_laws_cost^i|R0]"
  SELECT_LAW_COST_BUDGET_TRUE: "£law_budget  [?selected_laws_budget_cost^i|Y0]"
@@ -2731,6 +2733,9 @@ haswarsupport1GetWarSupport438:0 "[?has_war_support|1%][GetWarSupport]"
 politicalpower02508:0 "[?political_power|0]"
 politicalpower16293:0 "[?political_power|1]"
 politicalpower2190:0 "[?political_power|2]"
+command_power_top_0: "[?command_power|0]"
+command_power_top_1: "[?command_power|1]"
+command_power_top_2: "[?command_power|2]"
 manpowerkk2M7408:0 "[?manpower_k_k|2]M"
 manpowerkk3M567:0 "[?manpower_k_k|3]M"
 manpowerk2K8786:0 "[?manpower_k|2]K"
@@ -2984,6 +2989,7 @@ tokenminconsumergoodsfactorGetTokenLocalizedKey02Y13212:0 "[?token:min_consumer_
 tokenresearchspeedfactorGetTokenLocalizedKey0024274:0 "[?token:research_speed_factor.GetTokenLocalizedKey]: [?0.02|+=%]"
 tokenpoliticalpowerfactorGetTokenLocalizedKey0066251:0 "[?token:political_power_factor.GetTokenLocalizedKey]: [?-0.06|+=%]"
 tokenstabilityweeklyGetTokenLocalizedKey00021985:0 "[?token:stability_weekly.GetTokenLocalizedKey]: [?-0.002|+=%]"
+tokenmilitaryindustrialorganizationfundsgainGetTokenLocalizedKey005784:0 "[?token:military_industrial_organization_funds_gain.GetTokenLocalizedKey]: [?-0.06|+=%]"
 tokenproductionspeedindustrialcomplexfactorGetTokenLocalizedKey011869:0 "[?token:production_speed_industrial_complex_factor.GetTokenLocalizedKey]: [?-0.1|+=%]"
 tokenproductionspeedarmsfactoryfactorGetTokenLocalizedKey0063619:0 "[?token:production_speed_arms_factory_factor.GetTokenLocalizedKey]: [?0.06|+=%]"
 tokenproductionspeeddummy3factorGetTokenLocalizedKey0066435:0 "[?token:production_speed_dummy_3_factor.GetTokenLocalizedKey]: [?0.06|+=%]"
@@ -3151,6 +3157,7 @@ tokenpoliticalpowerfactorGetTokenLocalizedKey0019450:0 "[?token:political_power_
 tokenmonthlypopulationGetTokenLocalizedKey0153491:0 "[?token:monthly_population.GetTokenLocalizedKey]: [?-0.15|+=%]"
 tokenfoodresourcefactorGetTokenLocalizedKey0064616:0 "[?token:food_resource_factor.GetTokenLocalizedKey]: [?-0.06|+=%]"
 tokenstabilityweeklyGetTokenLocalizedKey00011901:0 "[?token:stability_weekly.GetTokenLocalizedKey]: [?0.001|+=%]"
+tokenmilitaryindustrialorganizationfundsgainGetTokenLocalizedKey005781:0 "[?token:military_industrial_organization_funds_gain.GetTokenLocalizedKey]: [?0.06|+=%]"
 tokenresearchspeedfactorGetTokenLocalizedKey0084886:0 "[?token:research_speed_factor.GetTokenLocalizedKey]: [?0.08|+=%]"
 tokenindustrialcapacityfactoryGetTokenLocalizedKey0049659:0 "[?token:industrial_capacity_factory.GetTokenLocalizedKey]: [?-0.04|+=%]"
 tokenindustrialcapacitydockyardGetTokenLocalizedKey004995:0 "[?token:industrial_capacity_dockyard.GetTokenLocalizedKey]: [?-0.04|+=%]"
@@ -3162,11 +3169,12 @@ tokenexperiencegainnavyunitfactorGetTokenLocalizedKey005Y16977:0 "[?token:experi
 tokenairmissionxpgainfactorGetTokenLocalizedKey005Y14540:0 "[?token:air_mission_xp_gain_factor.GetTokenLocalizedKey]: [?0.05|Y%1]"
 tokenpoliticalpowerfactorGetTokenLocalizedKey0033354:0 "[?token:political_power_factor.GetTokenLocalizedKey]: [?-0.03|+=%]"
 tokenlaweconomyswitchspeedfactorGetTokenLocalizedKey016944:0 "[?token:law_economy_switch_speed_factor.GetTokenLocalizedKey]: [?0.1|+=%]"
+tokenmilitaryindustrialorganizationfundsgainGetTokenLocalizedKey005782:0 "[?token:military_industrial_organization_funds_gain.GetTokenLocalizedKey]: [?0.02|+=%]"
 tokenmonthlypopulationGetTokenLocalizedKey0254860:0 "[?token:monthly_population.GetTokenLocalizedKey]: [?-0.25|+=%]"
 tokenfoodresourcefactorGetTokenLocalizedKey0105748:0 "[?token:food_resource_factor.GetTokenLocalizedKey]: [?-0.10|+=%]"
 tokenproductionspeedindustrialcomplexfactorGetTokenLocalizedKey0043298:0 "[?token:production_speed_industrial_complex_factor.GetTokenLocalizedKey]: [?0.04|+=%]"
 tokenresourcesfactorGetTokenLocalizedKey0069512:0 "[?token:resources_factor.GetTokenLocalizedKey]: [?0.06|+=%]"
-tokenconsumergoodsexpectedvalueGetTokenLocalizedKey002Y17548:0 "[?token:consumer_goods_expected_value.GetTokenLocalizedKey]: [?-0.02|Y%1]"
+tokenconsumergoodsexpectedvalueGetTokenLocalizedKey002Y17548:0 "[?token:consumer_goods_expected_value.GetTokenLocalizedKey]: [?-0.01|Y%1]"
 tokenoppositionpartydriftGetTokenLocalizedKey0038697:0 "[?token:opposition_party_drift.GetTokenLocalizedKey]: [?0.03|-=]"
 tokencivilianinteltoothersGetTokenLocalizedKey0056000:0 "[?token:civilian_intel_to_others.GetTokenLocalizedKey]: [?0.05|-=%]"
 tokenproductionspeedindustrialcomplexfactorGetTokenLocalizedKey0023091:0 "[?token:production_speed_industrial_complex_factor.GetTokenLocalizedKey]: [?0.02|+=%]"
@@ -3195,7 +3203,7 @@ tokenconscriptionfactorGetTokenLocalizedKey0088789:0 "[?token:conscription_facto
 tokenlinechangeproductionefficiencyfactorGetTokenLocalizedKey0031738:0 "[?token:line_change_production_efficiency_factor.GetTokenLocalizedKey]: [?-0.03|+=%]"
 tokenpoliticalpowerfactorGetTokenLocalizedKey004960:0 "[?token:political_power_factor.GetTokenLocalizedKey]: [?-0.04|+=%]"
 tokenconscriptionfactorGetTokenLocalizedKey0155720:0 "[?token:conscription_factor.GetTokenLocalizedKey]: [?0.15|+=%]"
-tokenconsumergoodsexpectedvalueGetTokenLocalizedKey004Y11003:0 "[?token:consumer_goods_expected_value.GetTokenLocalizedKey]: [?-0.04|Y%1]"
+tokenconsumergoodsexpectedvalueGetTokenLocalizedKey004Y11003:0 "[?token:consumer_goods_expected_value.GetTokenLocalizedKey]: [?-0.02|Y%1]"
 tokenproductionfactorymaxefficiencyfactorGetTokenLocalizedKey0063931:0 "[?token:production_factory_max_efficiency_factor.GetTokenLocalizedKey]: [?-0.06|+=%]"
 tokenproductionfactoryefficiencygainfactorGetTokenLocalizedKey0062673:0 "[?token:production_factory_efficiency_gain_factor.GetTokenLocalizedKey]: [?-0.06|+=%]"
 tokenlinechangeproductionefficiencyfactorGetTokenLocalizedKey0066974:0 "[?token:line_change_production_efficiency_factor.GetTokenLocalizedKey]: [?-0.06|+=%]"
@@ -3304,7 +3312,7 @@ tokenairinterceptefficiencyGetTokenLocalizedKey0159767:0 "[?token:air_intercept_
 tokenairnavefficiencyGetTokenLocalizedKey0159786:0 "[?token:air_nav_efficiency.GetTokenLocalizedKey]: [?-0.15|+=%]"
 tokenairacegenerationchancefactorGetTokenLocalizedKey0155749:0 "[?token:air_ace_generation_chance_factor.GetTokenLocalizedKey]: [?-0.15|+=%]"
 tokenindustrialcapacitydockyardGetTokenLocalizedKey001692:0 "[?token:industrial_capacity_dockyard.GetTokenLocalizedKey]: [?0.01|+=%]"
-tokenindustrialcapacityfactoryGetTokenLocalizedKey0019216:0 "[?token:industrial_capacity_factory.GetTokenLocalizedKey]: [?0.01|+=%]"
+tokenindustrialcapacityfactoryGetTokenLocalizedKey0019216:0 "[?token:industrial_capacity_factory.GetTokenLocalizedKey]: [?0.1|+=%]"
 tokenproductionspeedbuildingsfactorGetTokenLocalizedKey0011974:0 "[?token:production_speed_buildings_factor.GetTokenLocalizedKey]: [?0.01|+=%]"
 tokenproductionspeedindustrialcomplexfactorGetTokenLocalizedKey006867:0 "[?token:production_speed_industrial_complex_factor.GetTokenLocalizedKey]: [?-0.06|+=%]"
 tokenproductionspeeddockyardfactorGetTokenLocalizedKey0063368:0 "[?token:production_speed_dockyard_factor.GetTokenLocalizedKey]: [?-0.06|+=%]"
@@ -3317,6 +3325,7 @@ tokenlinechangeproductionefficiencyfactorGetTokenLocalizedKey0068559:0 "[?token:
 tokenproductionspeedindustrialcomplexfactorGetTokenLocalizedKey0067004:0 "[?token:production_speed_industrial_complex_factor.GetTokenLocalizedKey]: [?0.06|+=%]"
 tokenresearchspeedfactorGetTokenLocalizedKey0015112:0 "[?token:research_speed_factor.GetTokenLocalizedKey]: [?-0.01|+=%]"
 tokenindustrialcapacitydockyardGetTokenLocalizedKey0032301:0 "[?token:industrial_capacity_dockyard.GetTokenLocalizedKey]: [?-0.03|+=%]"
+tokenmilitaryindustrialorganizationfundsgainGetTokenLocalizedKey005783:0 "[?token:military_industrial_organization_funds_gain.GetTokenLocalizedKey]: [?-0.02|+=%]"
 tokenproductionspeedindustrialcomplexfactorGetTokenLocalizedKey018228:0 "[?token:production_speed_industrial_complex_factor.GetTokenLocalizedKey]: [?0.1|+=%]"
 tokenproductionspeedarmsfactoryfactorGetTokenLocalizedKey016519:0 "[?token:production_speed_arms_factory_factor.GetTokenLocalizedKey]: [?0.1|+=%]"
 tokenproductionspeeddockyardfactorGetTokenLocalizedKey014017:0 "[?token:production_speed_dockyard_factor.GetTokenLocalizedKey]: [?0.1|+=%]"
@@ -3795,33 +3804,6 @@ tokenaircaspresentfactorGetTokenLocalizedKey005949:0 "[?token:air_cas_present_fa
 tokenairstrategicbomberbombingfactorGetTokenLocalizedKey015214:0 "[?token:air_strategic_bomber_bombing_factor.GetTokenLocalizedKey]: [?0.1|+=%]"
 tokenairbombingtargettingGetTokenLocalizedKey0059021:0 "[?token:air_bombing_targetting.GetTokenLocalizedKey]: [?0.05|+=%]"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 GetTTIcondisplayGetTokenLocalizedKeytemp09632:0 "        [GetTTIcon] [?display.GetTokenLocalizedKey]: [?temp|0+%=]"
 GetTTIcondisplayGetTokenLocalizedKeytemp14749:0 "[GetTTIcon] [?display.GetTokenLocalizedKey]: [?temp|1%+=]"
 GetTTIcondisplayGetTokenLocalizedKeytemp06033:0 "[GetTTIcon] [?display.GetTokenLocalizedKey]: [?temp|0+=]"
@@ -3890,35 +3872,29 @@ BasevaluecivuseY04714:0 "Base value: [?civ_use|Y0]"
 GetTTIconEffectsourceGetTokenLocalizedKeytemp2131:0 "[GetTTIconEffect] [?source.GetTokenLocalizedKey]: [?temp|2%-=]"
 
  DIPLO_OVERLAY_TOOLTIP: "[!diplo_bg_click]\n\n[!diplo_bg_click_enabled]"
- justify_war_goal: "Kriegsziel rechtfertigen"
- send_volunteers: "Freiwillige senden"
- negotiate_licenses: "Lizenzen verhandeln"
- adjust_ai_defense: "Einstellungen zur Landesverteidigung"
- adjust_ai_defense_desc: "Anpassen, welche Länder §Y[From.GetNameWithFlag]§! verteidigen oder von ihnen verteidigt werden sollen"
- adjust_ai_production: "Verwalten der Produktion"
- adjust_ai_production_desc: "AI-Einheitenproduktion anpassen"
+ justify_war_goal: "Justify War goal"
+ send_volunteers: "Send Volunteers"
+ negotiate_licenses: "Negotiate Licenses"
+ send_attache: "Send attaché"
+ adjust_ai_defense: "Country Defence Settings"
+ adjust_ai_defense_desc: "Adjust which countries should defend §Y[From.GetNameWithFlag]§! or be defended by it"
+ adjust_ai_production: "Manage Production"
+ adjust_ai_production_desc: "Adjust AI Unit Production"
  
- diplomacy_bypass_volunteer_ideology: "\nWir werden in der Lage sein, §Y[This.GetName]§! mit §YFreiwilligen§! zu unterstützen, unabhängig von ihrer §YRegierungspartei§!"
- diplomacy_disable_land_volunteers: "\nWir können keine §YFreiwilligenarmee§! entsenden"
- diplomacy_disable_air_volunteers: "\nWir können keine §YFreiwilligen Luftstreikräfte§! entsenden"
+ diplomacy_bypass_volunteer_ideology: "\nWe will be able to support §Y[This.GetName]§! with §YVolunteers§!, regardless of their §YRuling Party§!"
+ diplomacy_disable_land_volunteers: "\nWe will not be able to send §YArmy Volunteers§!"
+ diplomacy_disable_air_volunteers: "\nWe will not be able to send §YAir Volunteers§!"
  
- diplomacy_opinion_gain_factor: "Verbesserung der Beziehungen Meinungsbildung: [?opinion_gain_factor|%]\n Flat Modifier: [?modifier@opinion_gain_monthly]"
+ diplo_modifier_positive_number: "[?modifier@var:v|+=0]"
+ diplo_modifier_positive_percentage: "[?modifier@var:v|+=%0]"
+ diplo_modifier_negative_percentage: "[?modifier@var:v|-%=0]"
+ diplomacy_opinion_gain_factor: "Improve Relations Opinion Gain: [?opinion_gain_factor|%]\n Flat Modifier: [?modifier@opinion_gain_monthly]"
  
  DIPLO_VOLUNTEER_ICON_TOOLTIP: "[!volunteer_allowance_click]"
- diplomacy_allow_both_volunteers: "Wir können sie mit einer Freiwilligen §GArmee§! und freiwilligen §RLuftstreitkräften§! unterstützen"
- diplomacy_allow_land_volunteers: "Wir können sie mit einer Freiwilligen §GArmee§! unterstützen"
- diplomacy_allow_air_volunteers: "Wir können sie mit freiwilligen §RLuftstreitkräften§! unterstützen"
+ diplomacy_allow_both_volunteers: "We can support them with §GArmy§! and §RAir§! volunteers"
+ diplomacy_allow_land_volunteers: "We can support them with §GArmy§! volunteers"
+ diplomacy_allow_air_volunteers: "We can support them with §RAir§! volunteers"
  
  AI_PARENT: "[?ai_parent]"
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ########## EOT #############
+ allied_anger_tooltip: "§Y[?v.GetTokenLocalizedKey]§!\n[!trait_click_enabled]\n[!trait_click]"

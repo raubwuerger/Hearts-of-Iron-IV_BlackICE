@@ -9,6 +9,7 @@
  raid_category_naval_commando_raids: "Marine Commando Raid"
  raid_category_land_infiltration_raids: "Army Raid"
  raid_category_header_air_raids: "Air Raids"
+ raid_category_header_resource_raids: "Resource Raids"
  raid_category_header_nuclear_raids: "Nuclear Strikes"
  raid_category_header_paratrooper_raids: "Paratrooper Raids"
  raid_category_header_naval_commando_raids: "Marine Raids"
@@ -446,19 +447,19 @@
  raid_target_name_pathfinder_raid: "$LOCATION|H$ landings"
  raid_target_name_thermonuclear: "$LOCATION|H$"
  
- raid_target_name_oil_mine: "£resources_strip|1 §HOil Refinery§! in $LOCATION|H$"
+ raid_target_name_oil_mine: "§HOil Refinery§! in $LOCATION|H$"
  raid_type_oil_mine_raid: "Oil Refinery Raid"
  raid_type_oil_mine_raid_desc: "An Airstrike aimed at knocking out a major oil refinery in order to seriously disrupt enemy fuel production for an extended period of time."
  
- raid_target_name_iron_mine: "£resources_strip|9 §HIron Mine§! in $LOCATION|H$"
+ raid_target_name_iron_mine: "§HIron Mine§! in $LOCATION|H$"
  raid_type_iron_mine_raid: "Iron Mine Raid"
  raid_type_iron_mine_raid_desc: "An Airstrike aimed at knocking out a major mining-complex in order to seriously disrupt enemy resource extraction for an extended period of time."
  
- raid_target_name_coal_mine: "£resources_strip|8 §HCoal Mine§! in $LOCATION|H$"
+ raid_target_name_coal_mine: "§HCoal Mine§! in $LOCATION|H$"
  raid_type_coal_mine_raid: "Coal Mine Raid"
  raid_type_coal_mine_raid_desc: "An Airstrike aimed at knocking out a major mining-complex in order to seriously disrupt enemy resource extraction for an extended period of time."
  
- raid_target_name_bauxite_mine: "£resources_strip|7 §HBauxite Mine§! in $LOCATION|H$"
+ raid_target_name_bauxite_mine: "§HBauxite Mine§! in $LOCATION|H$"
  raid_type_bauxite_mine_raid: "Bauxite Mine Raid"
  raid_type_bauxite_mine_raid_desc: "An Airstrike aimed at knocking out a major mining-complex in order to seriously disrupt enemy resource extraction for an extended period of time."
  

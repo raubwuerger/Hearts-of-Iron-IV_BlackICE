@@ -9,6 +9,10 @@
  GET_IDEA_ICON2:0 "£pol_idea"
  GET_TECH_ICON2:0 "£tech_mod"
  
+ MODIFIER: "$TYPE$ $SOURCE$: [?$VALUE$|$FORMAT$]"
+ IDEA: "£pol_idea"
+ TECH: "£tech_mod"
+ 
  MAX_ARMY_EXPERIENCE_TOOLTIP:0 "§YMaximum Army Experience§!\n\nBase: §Y150.0§! \n[!max_army_xp_bg_click]"
  MAX_AIR_EXPERIENCE_TOOLTIP:0 "§YMaximum Air Experience§!\n\nBase: §Y150.0§! \n[!max_air_xp_bg_click]"
  MAX_NAVY_EXPERIENCE_TOOLTIP:0 "§YMaximum Navy Experience§!\n\nBase: §Y150.0§! \n[!max_navy_xp_bg_click]"
@@ -27,6 +31,7 @@
  TOPBAR_STABILITY_CURRENT:0 "[GetTopbarStabilityDecimals]"
  TOPBAR_WAR_SUPPORT_CURRENT:0 "[GetTopbarWarSupportDecimals]"
  TOPBAR_POLITICAL_CURRENT:0 "[GetTopbarPoliticalDecimals]"
+ TOPBAR_COMMAND_POWER_CURRENT: "[GetTopbarCommandDecimals]"
  TOPBAR_MANPOWER_CURRENT:0 "[GetTopbarManpowerDecimals][GetTargetConscription]"
  CONSCRIPTION_PROGRESS_TT: "Mobilizing from [?previous_conscription_target|%Y] to [?target_cons|%Y] conscription percentage. Our Mobilization runs at [?modifier@mobilization_speed|%+=] efficiency and is §G[?temp1]%§! complete. "
  

@@ -531,6 +531,8 @@
  sick_desc:1 "§LConfined to a bed due to severe sickness.§!"
  wounded:0 "Wounded"
  wounded_desc:1 "§LA bad wound will take some time to recover from.§!"
+ heavily_wounded: "Heavily Wounded"
+ heavily_wounded_desc:1 "§LA life-threatening wound which requires immediate medical attention.§!"
  disgruntled:0 "Disgruntled"
  disgruntled_desc:1 "§LThis man is not happy and makes no secret of it.§!"
  demoted:0 "Demoted"
