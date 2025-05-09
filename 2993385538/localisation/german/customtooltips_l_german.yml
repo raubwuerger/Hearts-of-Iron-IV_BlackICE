@@ -112,7 +112,7 @@
   
  #GER 
  GER_1_kav_div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 1. Kavallerie-Division§!\n\nDiese Option gibt Ihnen die Wahl, wann Sie die Einheit aktualisieren möchten. Danach müssen Sie die alte Vorlage manuell entfernen"
- GER_1_kav_div_tt:0 "Kav-Brigade zur 1. Kav-Division in Insterburg upgraden\n\nDiese Option ersetzt die aktuelle Kav-Brigade und entfernt die Vorlage §CKavallerie-Brigade§!."
+ GER_1_kav_div_tt:0 "Kav-Brigade zur 1. Kav-Division in Insterburg aufrüsten\n\nDiese Option ersetzt die aktuelle Kav-Brigade und entfernt die Vorlage §CKavallerie-Brigade§!."
 
  #GER Welle 1 Divisions 
  GERinfdiv_1:0 "Bildung der Einheiten:\n§Y25. Infanteriedivision in Ludwigsburg\n26. Infanteriedivision in Köln\n33. Infanterie-Division in Darmstadt\n34. Infanterie-Division in Koblenz§!\n"

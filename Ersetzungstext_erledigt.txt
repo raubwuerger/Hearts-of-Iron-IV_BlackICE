@@ -245,3 +245,21 @@ Goliah
 „
 `
 ´
+
+Cost
+Duration
+Level
+Upgrade Queue
+Operative Slots
+Optionen für die Rekrutierung von Operativen
+Operatives_build_intel_network_texticon
+AA-Waffen
+Anforderung für Größenerhöhung
+Designteam weist Kosten zu
+Langstrecken-Raiding
+Air-to-Air Rockets
+Right click
+Decalin-betriebener Torpedo
+Design
+Forts
+View Saved Designs

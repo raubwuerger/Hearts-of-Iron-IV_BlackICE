@@ -380,13 +380,13 @@ STAT_NAVY_HG_ARMOR_PIERCING_VALUE:0	"$VALUE|H1$"
 STAT_NAVY_HG_ARMOR_PIERCING_DIFF:0	"$VALUE|=+1$"
 
 STAT_RAILWAY_GUN_ATTACK:1	"Bombardierung: "
-STAT_RAILWAY_GUN_ATTACK_DESC:1	"Bombardierungsunterstützung reduziert die Strafe, die durch Forts entsteht, sowie den Verschanzungsbonus und die Kampfeffektivität der gegnerischen Einheit.\n\n$STAT_RAILWAY_GUN_ATTACK_DERIVED_MODIFIERS$"
+STAT_RAILWAY_GUN_ATTACK_DESC:1	"Bombardierungsunterstützung reduziert die Strafe, die durch Festungen entsteht, sowie den Verschanzungsbonus und die Kampfeffektivität der gegnerischen Einheit.\n\n$STAT_RAILWAY_GUN_ATTACK_DERIVED_MODIFIERS$"
 STAT_RAILWAY_GUN_ATTACK_DERIVED_MODIFIERS:0	"Festungseffektivität: $FORTS|=-%1$\nSchanzungseffektivität: $ENTRENCHMENT|=-%1$\nGegnerische Unterdrückung: $BOMBARDMENT|=+%1$"
 STAT_RAILWAY_GUN_ATTACK_VALUE:0	"$VALUE|H1$"
 STAT_RAILWAY_GUN_ATTACK_DIFF:0	" $VALUE|=+1$"
 
 RAILWAY_GUN_BOMBARDMENT_FORT_MODIFIER:0	"§HFort§!"
-RAILWAY_GUN_BOMBARDMENT_FORT_MODIFIER_DELAYED:0	"Effektivität: $FORTS|=-%1$\n\nBombardierungsunterstützung reduziert die Höhe der Strafe für Forts."
+RAILWAY_GUN_BOMBARDMENT_FORT_MODIFIER_DELAYED:0	"Effektivität: $FORTS|=-%1$\n\nBombardierungsunterstützung reduziert die Höhe der Strafe für Festungen."
 
 STAT_RAILWAY_GUN_ATTACK_RANGE:1	"Reichweite: "
 STAT_RAILWAY_GUN_ATTACK_RANGE_DESC:1	"Die maximale Entfernung, in der die Einheit Bombardierungsunterstützung leisten kann."
