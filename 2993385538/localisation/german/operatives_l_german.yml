@@ -10,7 +10,7 @@ BECOME_SPY_MASTER_UPGRADES_NEEDED:1	"§RDu musst eine Spionageagentur mit $NUMBE
 BECOME_SPY_MASTER_NO_SUBJECT:0	"§RV können nicht Spionagemeister werden.§!"
 BECOME_SPY_MASTER_COOLDOWN:0	"§REin anderes Land wurde vor weniger als $COOLDOWN|H$ Tagen Spionagemeister unserer Fraktion. Wir müssen bis $DATE|H$ warten, bevor wir Spionagemeister werden können.§!"
 BECOME_SPY_MASTER_COST:1	"Es wird £pol_power $VALUE$ kosten, §HSpionagemeister§! zu werden."
-BECOME_SPY_MASTER_DESC:0	"Als §HSpionagemeister§! kannst du mehr Agenten kontrollieren, wobei die Anzahl von der Größe deiner Fraktion abhängt.\nEs kann nur einen §HSpy Master§! pro Fraktion geben und wenn deine Fraktion bereits einen §HSpy Master§! hat, muss dieser akzeptieren, dass du ihn übernimmst."
+BECOME_SPY_MASTER_DESC:0	"Als §HSpionagemeister§! kannst du mehr Agenten kontrollieren, wobei die Anzahl von der Größe deiner Fraktion abhängt.\nEs kann nur einen §HSpionagechef§! pro Fraktion geben und wenn deine Fraktion bereits einen §HSpionagechef§! hat, muss dieser akzeptieren, dass du ihn übernimmst."
 AGENCY_BRANCHES:0	"Agenturzweige"
 AGENCY_BRANCHE_UPGRADES:0	"Verbesserung von Zweigstellen"
 AGENCY_UPGRADES_DURATION:1	"Zweigstellenverbesserung benötigen $DAYS|H$ Tage, um abgeschlossen zu werden."

@@ -1,5 +1,4 @@
 ﻿l_german:
-ABILITY_TOOLTIP_NAME:0	"$NAME|H$"
 ABILITY_TOOLTIP_NAME_CANCEL:0	"§RAbbruch: $NAME|H$§!"
 ABILITY_TOOLTIP_DETAILED_COST:0	"    - Grundkosten: $VALUE|H2$ (jeweils für $UNITS|H0$ Bataillone)"
 ABILITY_TOOLTIP_DETAILED_COST_FACTOR:0	"    - Fähigkeiten Kosten: $FACTOR|+%$"

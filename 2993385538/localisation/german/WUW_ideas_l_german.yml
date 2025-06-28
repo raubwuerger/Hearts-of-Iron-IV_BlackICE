@@ -390,7 +390,7 @@ GER_politburo_modifier_desc:	"Das Politbüro ist die Avantgarde unseres Volkes u
 GER_modify_politburo_modifier_tt:	"Ändern Sie §Y$GER_politburo_modifier$§! durch:"
 GER_add_politburo_modifier_tt:	"Fügen Sie §Y$GER_politburo_modifier$§! hinzu, der gewährt:\n"
 GER_communist_influence:	"Kommunistische Einflüsse von [GER.GetNameDef]"
-GER_communist_influence_tt:	"§RA Bürgerkrieg wird ausbrechen, wenn §YCommunist§! Unterstützung über 40% steigt!§!"
+GER_communist_influence_tt:	"§REin Bürgerkrieg wird ausbrechen, wenn die §Ykommunistische§! Unterstützung über 40% steigt!§!"
 GER_volkskommissariat_industrialization:	"Volkskommissariat Industrialisierungsbestrebungen"
 GER_volkskommissariat_economic_integration:	"Volkskommissariat Integrierte Wirtschaft"
 GER_volkskommissariat_military:	"Volkskommissariat Armeeorganisation"
