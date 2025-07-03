@@ -8,19 +8,19 @@ infrastructure_desc:0	"Dieses Gebäude bietet dem Staat eine Verbesserung der In
  
 arms_factory:0	"Militärfabrik"
 arms_factory_plural:0	"Militärfabriken"
-arms_factory_desc:0	"Dieses Gebäude versorgt den Staat mit Industrie für die Produktion neuer militärischer Ausrüstung. Kann bei Bedarf in zivile Industrie umgewandelt werden.$arms_factory_effect$"
+arms_factory_desc:0	"Dieses Gebäude stellt der Provinz Industrie für die Produktion neuer militärischer Ausrüstung zur Verfügung. Kann bei Bedarf in zivile Industrie umgewandelt werden.$arms_factory_effect$"
  
 dockyard:0	"Marinewerft"
 dockyard_plural:0	"Marinewerften"
-dockyard_desc:0	"Dieses Gebäude versorgt den Staat mit Industrie für den Bau neuer Schiffe.$dockyard_effect$"
+dockyard_desc:0	"Dieses Gebäude stellt der Provinz Industrie für den Bau neuer Schiffe zur Verfügung. $dockyard_effect$"
  
 shipyard:0	"Werft"
 shipyard_plural:0	"Werften"
 shipyard_desc:0	"Jede Werft wird §Gdie Produktionskosten§! von: §YMilitärischen Überwasserschiffen§! und §YKonvois§! senken.$shipyard_effect$"
  
-subyard:0	"U-Boot-Werft"
-subyard_plural:0	"U-Boot-Werften"
-subyard_desc:1	"Jede U-Boot-Werft wird §Gdie Produktionskosten§! von: §YU-Booten§! um senken.$subyard_effect$"
+subyard:0	"U-Boot Werft"
+subyard_plural:0	"U-Boot Werften"
+subyard_desc:1	"Jede U-Boot Werft wird §Gdie Produktionskosten§! von: §YU-Booten§! um senken.$subyard_effect$"
  
 tank_assembly:0	"Panzermontagewerk"
 tank_assembly_plural:0	"Panzermontagewerke"
@@ -40,7 +40,7 @@ artillery_assembly_desc:0	"Artilleriegießereien stellen §YArtillerie Produktio
  
 shipyard_capital_building:0	"Große Schiffswerft"
 shipyard_capital_building_plural:0	"Große Schiffswerften"
-shipyard_capital_building_desc:0	"Eine große Schiffswerft stellt §YGroße Schiffswerften-Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§!$shipyard_capital_building_effect$ erforderlich ist"
+shipyard_capital_building_desc:0	"Eine große Schiffswerft stellt §YGroßkampfschiffensbau Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§! $shipyard_capital_building_effect$ erforderlich ist"
  
 research_centre:0	"Forschungszentrum"
 research_centre_desc:0	"Forschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YFocuses§! und §YEvents§! gewonnen werden. Der Verlust eines Staates mit einem §YForschungszentrum§! führt zum Verlust eines £tech_mod §YForschungsplatz§!. \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
@@ -48,11 +48,11 @@ research_centre_overlay:0	"§YForschungszentrum§!\n\nForschungszentren stellen 
  
 industrial_complex:0	"Zivilfabrik"
 industrial_complex_plural:0	"Zivilfabriken"
-industrial_complex_desc:0	"Dieses Gebäude versorgt den Staat mit Industrie für die Produktion ziviler Güter oder den Bau neuer Gebäude. Kann bei Bedarf in eine Militärindustrie umgewandelt werden.$industrial_complex_effect$"
+industrial_complex_desc:0	"Dieses Gebäude versorgt die Provinz mit Industrie für die Produktion ziviler Güter oder den Bau neuer Gebäude. Kann bei Bedarf in eine Militärindustrie umgewandelt werden.$industrial_complex_effect$"
  
 air_base:0	"Luftwaffenstützpunkt"
 air_base_plural:0	"Luftwaffenstützpunkte"
-air_base_desc:0	"Dieses Gebäude bietet dem Staat Stationierungsmöglichkeiten für Ihre Luftstreitkräfte.$air_base_effect$"
+air_base_desc:0	"Dieses Gebäude bietet der Provinz Stationierungsmöglichkeiten für Ihre Luftstreitkräfte.$air_base_effect$"
  
  
 naval_base:0	"Marinestützpunkt"
@@ -69,23 +69,23 @@ coastal_bunker_desc:0	"Dieses Gebäude fügt dem Angreifer im Seeinvasionskampf 
  
 anti_air_building:0	"Statische Luftabwehr"
 anti_air_building_plural:0	"Statische Luftabwehr"
-anti_air_building_desc:0	"Dieses Gebäude bietet dem Staat Schutz vor feindlichen Bombern und die Möglichkeit, auf angreifende Flugzeuge zu schießen.$anti_air_building_effect$"
+anti_air_building_desc:0	"Dieses Gebäude bietet der Provinz Schutz vor feindlichen Bombern und die Möglichkeit, auf angreifende Flugzeuge zu schießen.$anti_air_building_effect$"
  
 synthetic_refinery:0	"Synthetische Raffinerie"
 synthetic_refinery_plural:0	"Synthetische Raffinerien"
-synthetic_refinery_desc:0	"Dieses Gebäude versorgt den Staat mit Treibstoff.\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GJa§!"
+synthetic_refinery_desc:0	"Dieses Gebäude versorgt die Provinz mit Treibstoff.\n\nMax. Stufe: §Y4§!\nGebäudezustand: §Y6§!\nInfrastruktureffekt: §GJa§!"
  
 radar_station:0	"Radarstation"
 radar_station_plural:0	"Radarstationen"
-radar_station_desc:3	"Radar ermöglicht es Ihnen, Informationen über feindliche Truppen in nahegelegenen Staaten zu erhalten.\nEine höhere Radarstufe in einem Staat erhöht die effektive Reichweite des Radars.\nRadar ermöglicht dem Staat auch eine bessere Erkennung feindlicher Luftstreitkräfte und gibt Ihren Flugzeugen mehr Sicherheit eine bessere Chance, sie anzugreifen.\nAußerdem erhöht Radar die Erkennung feindlicher Flotten auf See.$radar_station_effect$"
+radar_station_desc:3	"Radar ermöglicht es Ihnen, Informationen über feindliche Truppen in nahegelegenen Provinzen zu erhalten.\nEine höhere Radarstufe in einem Staat erhöht die effektive Reichweite des Radars.\nRadar ermöglicht dem Staat auch eine bessere Erkennung feindlicher Luftstreitkräfte und gibt Ihren Flugzeugen mehr Sicherheit eine bessere Chance, sie anzugreifen.\nAußerdem erhöht Radar die Erkennung feindlicher Flotten auf See.$radar_station_effect$"
  
 rocket_site:0	"Raketenstandort"
 rocket_site_plural:0	"Raketenstandorte"
-rocket_site_desc:0	"Dieses Gebäude bietet dem Staat die Möglichkeit, produzierte Raketen zu stationieren.$rocket_site_effect$"
+rocket_site_desc:0	"Dieses Gebäude bietet der Provinz die Möglichkeit, produzierte Raketen zu stationieren.$rocket_site_effect$"
  
 nuclear_reactor:0	"Kernreaktor"
 nuclear_reactor_plural:0	"Kernreaktoren"
-nuclear_reactor_desc:0	"Dieses Gebäude versorgt den Staat mit der Produktion von angereichertem Uran für den Einsatz in Atomwaffen.$nuclear_reactor_effect$"
+nuclear_reactor_desc:0	"Dieses Gebäude versorgt die Provinz mit der Produktion von angereichertem Uran für den Einsatz in Atomwaffen.$nuclear_reactor_effect$"
  
 fuel_silo:0	"Kraftstoffsilo"
 fuel_silo_plural:0	"Kraftstoffsilos"
@@ -119,7 +119,7 @@ NAVAL_BASE_SUPPLY_LIMIT:0	"Begrenzung des Versorgungsdurchsatzes: $VAL|Y$"
 NAVAL_BASE_CAPACITY:0	"Kapazität: $USED|1G$/$TOTAL|0G$"
 NAVAL_BASE_CAPACITY_OVER:0	"Kapazität: $USED|1R$/$TOTAL|0R$"
 NAVAL_BASE_CAPACITY_PENALTY:0	"Energiekapazitätsstrafe reparieren: $PENALTY|%0R$"
-BUILDING_LEVEL:1	"§TStatusebene: $LEVEL|H$§!"
+BUILDING_LEVEL:1	"§TGebäudestufe: $LEVEL|H$§!"
 BUILDING_CURRENT_MAX_LEVEL_CAPPED:0	"Derzeit maximale Gebäudestufe begrenzt durch:"
 BUILDING_CURRENT_MAX_LEVEL_NONCAPPED:0	"Das aktuelle maximale Stufe des Gebäudes ist nicht begrenzt."
 BUILDING_CURRENT_MAX_LEVEL_CAPPED_MANPOWER:0	"Staatsbevölkerung: $MANPOWER|*Y$"
@@ -164,7 +164,7 @@ rocket_site_effect:0	"\n\nMax Stufe: §Y5§!\nGebäudezustand: §Y2§!\nRaketens
 nuclear_reactor_effect:0	"\n\nMax Stufe: §Y2§!\nGebäudezustand: §Y6§!\nNukleare Produktion: §G1§!\nInfrastruktur-Effekt: §GJa§! "
 nuclear_reactor_heavy_water:0	"Schwerer Wasser-Kernreaktor"
 nuclear_reactor_heavy_water_plural:0	"Schweres Wasser Kernreaktoren"
-nuclear_reactor_heavy_water_desc:0	"Dieses Gebäude versorgt den Staat mit der Produktion von angereichertem Uran für den Einsatz in Kernwaffen.\nKernreaktoren, die Schweres Wasser verwenden, sind etwas billiger zu bauen als Graphitreaktoren, produzieren aber weniger Material, das für die Herstellung von Kernwaffen verwendet werden kann.$nuclear_reactor_effect$"
+nuclear_reactor_heavy_water_desc:0	"Dieses Gebäude versorgt die Provinz mit der Produktion von angereichertem Uran für den Einsatz in Kernwaffen.\nKernreaktoren, die Schweres Wasser verwenden, sind etwas billiger zu bauen als Graphitreaktoren, produzieren aber weniger Material, das für die Herstellung von Kernwaffen verwendet werden kann.$nuclear_reactor_effect$"
 nuclear_reactor_heavy_water_effect:0	"\n\nMax Stufe: §Y2§!\nGebäudezustand: §Y6§!\nNukleare Produktion: §G1§!\nInfrastruktur-Effekt: §GJa§!"
 fuel_silo_effect:0	"\n\nMax Stufe: §Y20§!\nGebäudezustand: §Y5§!\nInfrastruktur-Effekt: §GJa§!"
 supply_node_effect:0	"\n\nMax Stufe: §Y1§!\nGebäudezustand: §Y10§!\nSchaden durch Bombardierung: §G-90%§!"

@@ -197,7 +197,7 @@ sabotage_Ltaircraft_factory:0	"Sabotage von Leichtflugzeugfabriken"
 sabotage_Hvaircraft_factory:0	"Sabotage von schweren Flugzeug Fabriken"
 sabotage_Jetaircraft_factory:0	"Sabotage von Düsenflugzeugfabriken"
 sabotage_shipyard:0	"Sabotage von Schiffswerften"
-sabotage_subyard:0	"Sabotage von U-Boot-Werften"
+sabotage_subyard:0	"Sabotage von U-Boot Werften"
 
 
 RESISTANCE_CHANCE_FOR_ACTIVITY:0	"£political_violence_texticon Chance für Widerstandstätigkeit: $CHANCE|%.1H$"

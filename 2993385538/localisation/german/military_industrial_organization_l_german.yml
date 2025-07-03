@@ -80,7 +80,7 @@ INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_FROM_PRODUCING:	"Produktion:"
 INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_PER_PROD_LINE:	"$EQUIPMENT_NAME|Y$ ($FUNDS|+2$ Mittel/Tag)"
 INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_FROM_RESEARCHING:	"Forschung:"
 INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_PER_RESEARCH_SLOT:	"$TECH_NAME|Y$ ($FUNDS|+0$ Mittel in $DAYS|Y$ Tag(en))"
-INDUSTRIAL_ORG_DETAIL_TOOLTIP_DESIGN_TEAM_CHANGE_COST_DELAYED:	"Wenn Sie §YMilitärisch-industrieller Komplex§! zu Ausrüstungsvarianten hinzufügen, kostet Sie das §YExperience§!. Je nach Ausrüstungstyp handelt es sich entweder um £GFX_army_experience Armeerfahrung, £GFX_navy_experience Marineerfahrung oder £GFX_air_experience Lufterfahrung."
+INDUSTRIAL_ORG_DETAIL_TOOLTIP_DESIGN_TEAM_CHANGE_COST_DELAYED:	"Wenn Sie eine §YMilitärisch-industrieller Komplex§! zu Ausrüstungsvarianten hinzufügen, kostet Sie das §YErfahrung§!. Je nach Ausrüstungstyp handelt es sich entweder um £GFX_army_experience Armeerfahrung, £GFX_navy_experience Marineerfahrung oder £GFX_air_experience Lufterfahrung."
 
 INDUSTRIAL_ORGANIZATION_TOOLTIP_NAME:	"$NAME|H$"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_EQUIPMENT_WILL_GET:	"$EQUIPMENT|H$ erhält:"

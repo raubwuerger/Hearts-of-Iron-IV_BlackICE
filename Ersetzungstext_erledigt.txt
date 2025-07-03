@@ -367,4 +367,6 @@ Forming
 Expand
 surrender progress
 Division Recruitment Time
-
+Formation Spread
+Escort formation spread
+Experience

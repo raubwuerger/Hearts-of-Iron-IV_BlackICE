@@ -1210,7 +1210,7 @@ trm_weapon_c_pol_47_wz39:0	"47mm/55 wz.39"
 trm_weapon_mg_gen_lmg:0	"Maschinengewehr"
 trm_weapon_mg_gen_hmg:0	"Schweres Maschinengewehr"
 
-trm_weapon_c_gen_20_atr:0	"20mm AT-Gewehr"
+trm_weapon_c_gen_20_atr:0	"20mm Panzerabwehr Gewehr"
 trm_weapon_c_gen_37_cannon:0	"37-mm-Kanone"
 trm_weapon_c_gen_47_cannon:0	"47-mm-Kanone"
 trm_weapon_c_gen_75_cannon:0	"75-mm-Kanone"
