@@ -45,7 +45,7 @@
 
  #FUTURE 
  BICE_STARTUP_FUTURE_UPDATE_TITLE:0 "Nächste Funktionen, an denen gearbeitet wird:"
- BICE_STARTUP_FUTURE_UPDATE_DESC:0 "\n Generischer Panzerbaum für Minderjährige \n Politiküberarbeitung \n Flugzeugdesigner \n Commonwealth-Überarbeitung \n China-Überarbeitung \n Italienische Waffenstillstandsüberarbeitung \n Verbesserte HSD (einschließlich DD/SS) \n Militärisch-industrielle Organisationen \n Leistungs- und KI-Verbesserungen"
+ BICE_STARTUP_FUTURE_UPDATE_DESC:0 "\n Generischer Panzerbaum für Minderjährige \n Politiküberarbeitung \n Flugzeugdesigner \n Commonwealth-Überarbeitung \n China-Überarbeitung \n Italienische Waffenstillstandsüberarbeitung \n Verbesserte HSD (einschließlich DD/SS) \n Militärisch-industrieller Komplexe \n Leistungs- und KI-Verbesserungen"
  #### END STARTUP MENU #### 
 
  BI_P_DELETE_UNITS_TT:0 "Löscht die Einheiten aller ausgewählten Länder."

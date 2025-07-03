@@ -1845,7 +1845,7 @@
  SWI_become_german_puppet_desc:0 "Henne hat seine Karriere diesem Moment gewidmet. [ROOT.GetNonIdeologyName]'s eigener Anschluss, gewissermaßen. Auch wenn wir unsere langjährige Souveränität verlieren, bekommen wir vielleicht etwas von ihren Resten ab. Wir können nur hoffen, dass dies nicht unsere Vernichtung bedeutet."
  SWI_ask_for_vorarlberg:0 "Frag nach [848.GetName]"
  SWI_ask_for_vorarlberg_desc:0 "Da wir nun schon seit einiger Zeit unter den Fittichen von [?SWI_fascist_overlord.GetName] stehen und unsere Loyalität bewiesen haben, ist es an der Zeit, dass sie uns das anvertrauen, was rechtmäßig uns gehört. [848.GetName] stimmte für den Beitritt zu uns, als [ROOT.GetNonIdeologyName] noch eine demokratische Konföderation war, also gibt es keinen Zweifel, dass sie sich unserer jetzigen Form anschließen wollen."
- SWI_size_and_opinion_chance_tooltip:0 "\nie werden aufgrund der §Ysize§! unserer Streitkräfte und ihrer §YMeinung§! über uns eher zustimmen."
+ SWI_size_and_opinion_chance_tooltip:0 "\nie werden aufgrund der §Ygröße§! unserer Streitkräfte und ihrer §YMeinung§! über uns eher zustimmen."
  SWI_request_austrian_occupation:0 "Anfrage [AUS.GetAdjective] Besetzung"
  SWI_request_austrian_occupation_desc:0 "[ROOT.GetNonIdeologyName] mit der Annektierung von [848.GetName] ist absolut nicht unsere endgültige Form. Wir können [?SWI_fascist_overlord.GetName] beweisen, dass wir die Verwaltung eines größeren Territoriums bewältigen können, was ihre Last erleichtert und [ROOT.GetFactionName] zu einer effizienteren Kriegsmaschine macht."
  SWI_request_italian_alps_occupation:0 "Antrag auf [ITA.GetAdjective] Besatzung"

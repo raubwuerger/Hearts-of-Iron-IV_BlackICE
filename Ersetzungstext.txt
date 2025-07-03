@@ -1,28 +1,3 @@
-Units organization is to low to advance
-Long live the Thousand year Reich
-
-Empire Exhibition
-
-The heat Wave of 1936
-Oh dear ...
-
-#~ none of these units can be reassigned from their current orders
-
-The following stats have been increased.
-
-Earthquake
-
-Dont bother me with this
-
-That seems appropriate
-Give them only Ljubljana and Central Dalmatia
-Give them only Montenegro and Prizren
-Everything will be under German control
-
-It is Hungarian land
-
-Daily Stability drift
-
 -Designkosten
 Zentrimetisch		->	Zentimeter-Radar
 Zentimetrisches		->	Zentimeter-Radar
@@ -33,61 +8,10 @@ Zentimetrisches		->	Zentimeter-Radar
 ´
 ‘
 ‚
-active
-partially
-Refinerie
-Recruit -> Rekrutieren
-Deploy -> Aufstellen
-Complete Trade Treaty With Germany
-Appeal to Imperial Loyalists
-Ally
-Assistance
-'
-Important
-
-Forming
-Expand
-surrender progress
-Division Recruitment Time
 
 ^([^"\r\n]*)("(?1)){3}$
 
-Government Cypher School
-Blockiert
 
-Casemate Kasematte
-Turret Turm
-
-(manuell) (handbetrieb)
-(Manual)
-(Handkurbel)
-handgekurbelt
-
-(Hydraulik)Hydraulik
-(Hydraulik)
-
-\W
-\N
-\D
-\S
-
-Belgian Core States
-Occupation Law
-State Controller
-Controller
-Subject
-Owner
-
-Secretaries General
-Occupation Law
-Offmap
-Coastal State
-
-Capital Ships
-Screen Ships
-Capital Shipyard Capacity
-Carriers
-Gebäudegesundheit
-angefochten
-
-Landforts
+Formation Spread
+Escort formation spread
+Experience

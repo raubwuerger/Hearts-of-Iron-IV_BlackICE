@@ -127,7 +127,7 @@
  SOV_HQ_radio_equipment_0_desc:0 "Tragbares Zwei-Wege-Funkgerät für Gefechtsstände"
  SOV_HQ_radio_equipment_0_short:0 "R-4"
 
- SOV_anti_air_equipment_1:0 "7,62mm Anti-Luft"
+ SOV_anti_air_equipment_1:0 "7,62mm Luftabwehr"
  SOV_anti_air_equipment_1_short:0 "7,62mm AA-Maschinengewehr"
  SOV_anti_air_equipment_1_desc:0 "Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge gedacht, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
  SOV_anti_air_equipment_2:0 "37mm M1939 (61-K)"

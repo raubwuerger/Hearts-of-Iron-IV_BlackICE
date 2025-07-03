@@ -673,7 +673,7 @@
  both_cruisers_desc:0 "Leichter Kreuzer - Ein leichtes Abschirmschiff. Seine Hauptaufgabe ist es, Großkampfschiffe vor feindlichen leichten Schiffen zu schützen, aber er kann auch mächtige Torpedos abfeuern, die größere Schiffe verletzen können.\n\nSchwerer Kreuzer - Ein großer gepanzerter Kreuzer, der ziemlich flexibel ist. Eine gute Wahl für Nationen, die es sich nicht leisten können, größere Großkampfschiffe zu bauen."
  light_cruiser:0 "Leichter Kreuzer"
  light_cruiser_desc:0 "Ein leichtes Abschirmschiff. Seine Hauptaufgabe ist es, Großkampfschiffe vor feindlichen leichten Schiffen zu schützen, aber er kann auch mächtige Torpedos abfeuern, die größere Schiffe verletzen können."
- light_cruiser_aa:0 "Anti-Luft-Kreuzer"
+ light_cruiser_aa:0 "Luftabwehr-Kreuzer"
  light_cruiser_aa_desc:0 "Leichter Kreuzer mit besserer Luftabwehrbewaffnung, um angreifende Flugzeuge abzuschießen. Ideal für die Eskorte größerer Großkampfschiffe, wenn keine Luftüberlegenheit besteht oder Flugzeugträger nicht zur Verfügung stehen."
  #destroyer_leader:0 "Zerstörer Anführer"
  #destroyer_leader_desc:0 "Zerstörerführer sind vergrößerte Zerstörer, aber immer noch kleiner als Leichte Kreuzer und erfüllen die gleichen Aufgaben wie diese. Seine bessere Bewaffnung und sein Panzerungsschutz sollten dabei helfen, Zerstörer abzuwehren und seine Chance zu erhöhen, selbst Leichte Kreuzer zu schlagen, zumindest für eine gewisse Zeit."
