@@ -4815,3 +4815,7 @@ improved_power_grid_iii_efficient_desc:	"Durch den Ausbau des nationalen Stromne
 improved_power_grid_iv_efficient_desc:	"Durch den Bau eines nationalen Hochspannungs-Übertragungsnetzes werden wir die Stromverteilung über große Entfernungen erheblich verbessern. Dies wird die Stromverluste reduzieren, einen stabilen Energiefluss zu abgelegenen Industriezentren gewährleisten und die Expansion von stromintensiven Produktionssektoren ermöglichen."
 improved_power_grid_iii_output_desc:	"Durch den Ausbau der elektrischen Infrastruktur in ländlichen Regionen werden wir die Effizienz der Landwirtschaft verbessern, neue Industrien mit Strom versorgen und das allgemeine Wirtschaftswachstum fördern. Elektrifizierte Bauernhöfe und Dörfer werden zur Nahrungsmittelproduktion und zur Mobilisierung von Arbeitskräften beitragen."
 improved_power_grid_iv_output_desc:	"Indem wir der Stromversorgung von Industriezweigen Priorität einräumen, ermöglichen wir es Hochleistungsproduktionsanlagen, mit höchster Effizienz zu arbeiten. Die erhöhte Verfügbarkeit von Energie wird die Waffenproduktion beschleunigen, die Schwerindustrie ankurbeln und die technologische Forschung unterstützen."
+ww1_air_doctrine:	"WW1 Luftdoktrin"
+farming_tech_research:0	"£tech_mod Farming Technologies Research Speed"
+power_tech:0	"§YElektrizität & Strom§!"
+anti_air_tech:	"Anti Air"

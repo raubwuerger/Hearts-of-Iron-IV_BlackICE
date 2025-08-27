@@ -432,3 +432,4 @@ raid_distance_info:	"Entfernung von $SOURCE$ zu $TARGET$: $TOTAL_DISTANCE|0H$ km
 raid_is_waiting_at:	"$UNIT|H$ wartet bei $SOURCE$"
 raid_category_header_resource_raids:	"Ressourcen-Raubzüge"
 raid_category_header_resource_raids:	"Ressourcen-Raubzüge"
+operation_oil_refinery:	"Ölraffinerien"
