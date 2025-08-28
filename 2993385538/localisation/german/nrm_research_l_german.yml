@@ -133,19 +133,19 @@ improved_magnetic_detonator_desc:0	"Die Verfeinerung des magnetischen Zünders f
 improved_homing_torpedo:0	"Zielsuchender Torpedo"
 improved_homing_torpedo_desc:0	"Ausgestattet mit einem Akustikdetektor kann der Torpedo die größte Geräuschquelle vor ihm anpeilen - in der Regel das Ziel."
 
-improved_light_battery_2:0	"Verbesserte 115-135-mm Batterie"
+improved_light_battery_2:0	"Verbesserte 115-135mm Batterie"
 improved_light_battery_2_desc:0	""
-advanced_light_battery_2:0	"Verbesserte 115-135-mm Batterie"
+advanced_light_battery_2:0	"Verbesserte 115-135mm Batterie"
 advanced_light_battery_2_desc:0	""
 
-improved_dp_light_battery:0	"Mehrzweck Batterie 90-115 mm"
+improved_dp_light_battery:0	"Mehrzweck Batterie 90-115mm"
 improved_dp_light_battery_desc:0	""
-advanced_dp_light_battery:0	"Verbesserte Mehrzweck Batterie 90-115 mm"
+advanced_dp_light_battery:0	"Verbesserte Mehrzweck Batterie 90-115mm"
 advanced_dp_light_battery_desc:0	""
 
-improved_dp_light_battery_2:0	"Doppelt verwendbare 115-135-mm Batterie"
+improved_dp_light_battery_2:0	"Doppelt verwendbare 115-135mm Batterie"
 improved_dp_light_battery_2_desc:0	""
-advanced_dp_light_battery_2:0	"Erweiterte 115-135-mm-Mehrzweckbatterie"
+advanced_dp_light_battery_2:0	"Erweiterte 115-135mm Mehrzweckbatterie"
 advanced_dp_light_battery_2_desc:0	""
 
 modern_light_antiair:0	"Selbstladende schwere Flugabwehrkanone"
@@ -160,7 +160,7 @@ advanced_dp_medium_battery_desc:0	""
 modern_dp_medium_battery:0	"Mehrzweck Batterie 145-160 mm"
 modern_dp_medium_battery_desc:0	""
 
-basic_medium_battery_2:0	"180-210-mm Batterie"
+basic_medium_battery_2:0	"180-210mm Batterie"
 basic_medium_battery_2_desc:0	""
 improved_medium_battery_2:0	"Verbesserte 180-210mm Batterie"
 improved_medium_battery_2_desc:0	""
@@ -178,7 +178,7 @@ advanced_heavy_battery_2_desc:0	""
 
 basic_heavy_battery_3:0	"380-420mm Batterie"
 basic_heavy_battery_3_desc:0	""
-improved_heavy_battery_3:0	"Verbesserte 380-420-mm Batterie"
+improved_heavy_battery_3:0	"Verbesserte 380-420mm Batterie"
 improved_heavy_battery_3_desc:0	""
 advanced_heavy_battery_3:0	"Verbesserte 380-420mm Batterie"
 advanced_heavy_battery_3_desc:0	""
@@ -266,9 +266,9 @@ nrm_battery_improved_18_desc:0	"Schaltet ~457mm Geschütze frei.\n\nVerwendbar a
 nrm_battery_improved_20:0	"Zwischenkriegs Batterie 500-520mm"
 nrm_battery_improved_20_desc:0	"Schaltet ~508mm Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
 
-nrm_battery_improved_dd_5h:0	"Zwischenkriegs-Zerstörer Batterie 130-145mm"
+nrm_battery_improved_dd_5h:0	"Zwischenkriegs Zerstörer Batterie 130-145mm"
 nrm_battery_improved_dd_5h_desc:0	"Schaltet Zerstörerlafetten für ~139mm Geschütze frei. \n\nVerwendbar als;\n\n§RHauptbatterie§! für §CZerstörer§!"
-nrm_battery_improved_dd_6:0	"Zwischenkriegs-Zerstörer 145-160mm Batterie"
+nrm_battery_improved_dd_6:0	"Zwischenkriegs Zerstörer 145-160mm Batterie"
 nrm_battery_improved_dd_6_desc:0	"Schaltet Zerstörerlafetten für ~152mm Einzweckgeschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CZerstörer§!"
 
 nrm_battery_improved_dp_4:0	"Mehrzweck 90-115mm Batterie"
@@ -276,7 +276,7 @@ nrm_battery_improved_dp_4_desc:0	"Schaltet ~100mm-Mehrzweckgeschütze frei.\n\nV
 nrm_battery_improved_dp_5:0	"Mehrzweck Batterie 115-130mm"
 nrm_battery_improved_dp_5_desc:0	"Schaltet ~127mm-Mehrzweckgeschütze frei. \n\n§RHauptbatterie§! für §CTräger§!, §CKreuzer§! und §CZerstörer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!, §CKreuzer§!, §CTräger§! und §CLeichte Träger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_improved_dp_5h:0	"Mehrzweck Batterie 130-145mm"
-nrm_battery_improved_dp_5h_desc:0	"Schaltet ~139-mm-Mehrzweckgeschütze frei. \n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§! und §CTräger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
+nrm_battery_improved_dp_5h_desc:0	"Schaltet ~139mm-Mehrzweckgeschütze frei. \n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§! und §CTräger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
 
 nrm_battery_advanced_4:0	"Erweiterte 70-115mm Batterie"
 nrm_battery_advanced_4_desc:0	"Schaltet ~100mm Geschütze und ~75mm und ~100mm Steilfeuerkanonen frei.\n\nUsable as;\n\n§RHauptbatterie§! für §CZerstörer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!, §CKreuzer§!, §CTräger§! und §CLeichte Träger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
@@ -312,9 +312,9 @@ nrm_battery_advanced_dd_6_desc:0	"Schaltet Zerstörerlafetten für ~152mm Einzwe
 
 nrm_battery_advanced_dp_4:0	"Fortgeschrittene Mehrzweck Batterie 90-115mm"
 nrm_battery_advanced_dp_4_desc:0	"Schaltet ~100mm-Mehrzweckgeschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CTräger§! und §CZerstörer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!, §CKreuzer§!, §CTräger§! und §CLeichte Träger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
-nrm_battery_advanced_dp_5:0	"Fortschrittliche 115-130-mm-Mehrzweckbatterie"
+nrm_battery_advanced_dp_5:0	"Fortschrittliche 115-130mm-Mehrzweckbatterie"
 nrm_battery_advanced_dp_5_desc:0	"Schaltet ~127mm-Mehrzweckgeschütze frei. \n\n§RHauptbatterie§! für §CTräger§!, §CKreuzer§! und §CZerstörer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!, §CKreuzer§!, §CTräger§! und §CLeichte Träger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
-nrm_battery_advanced_dp_5h:0	"Fortgeschrittene 130-145-mm-Mehrzweckbatterie"
+nrm_battery_advanced_dp_5h:0	"Fortgeschrittene 130-145mm-Mehrzweckbatterie"
 nrm_battery_advanced_dp_5h_desc:0	"Schaltet ~139mm-Mehrzweckgeschütze frei. \n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§! und §CTräger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_advanced_dp_6:0	"Doppelt verwendbare 145-160mm Batterie"
 nrm_battery_advanced_dp_6_desc:0	"Schaltet ~152mm-Mehrzweckgeschütze frei. \n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§! \n\n§RSekundärbatterie§! für §CGroßkampfschiffe§! und §CTräger§! \n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
@@ -324,7 +324,7 @@ nrm_battery_modern_6_desc:0	"Schaltet ~152mm Geschütze frei. \n\n§RHauptbatter
 nrm_battery_modern_8:0	"Schnellfeuer Batterie 180-210mm"
 nrm_battery_modern_8_desc:0	"Schaltet ~203mm-Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!"
 
-nrm_battery_modern_dp_6:0	"Erweiterte 145-160-mm-Mehrzweckbatterie"
+nrm_battery_modern_dp_6:0	"Erweiterte 145-160mm-Mehrzweckbatterie"
 nrm_battery_modern_dp_6_desc:0	"Schaltet ~152mm-Mehrzweckgeschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§! und §CTräger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
 
 advanced_heavy_shell:0	"Superschwere panzerbrechende Granate"

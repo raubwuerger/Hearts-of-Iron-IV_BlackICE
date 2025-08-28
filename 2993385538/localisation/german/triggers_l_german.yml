@@ -116,7 +116,7 @@ TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_AT_MOST:0	"Hat höchstens $AMOUNT|H$ Flugzeu
 TRIGGER_HAS_ANY_WAR_SCORE_AT_LEAST:1	"In jedem aktiven Krieg mit mindestens $VALUE|H$§H%§! an §HKriegsteilnahme§!"
 TRIGGER_HAS_ANY_WAR_SCORE_AT_MOST:1	"In jedem aktiven Krieg mit höchstens $VALUE|H$§H%§! der §HKriegsteilnahme§!"
 TRIGGER_HAS_LAND_DOCTRINE_LEVEL_AT_LEAST:0	"Verfügt über mindestens $VALUE|H$ erforschte Landdoktrinenstufe"
-TRIGGER_HAS_LAND_DOCTRINE_LEVEL_AT_MOST:0	"Hat höchstens $VALUE|H$ erforschte Landdoktrin-Stufe"
+TRIGGER_HAS_LAND_DOCTRINE_LEVEL_AT_MOST:0	"Hat höchstens $VALUE|H$ erforschte Landdoktrinstufe"
 TRIGGER_HAS_BUILT:0	"Hat $MISSING|H$ oder mehr $TYPE|H$ gebaut"
 TRIGGER_HAS_NOT_BUILT:0	"Gebaut $MISSING|H$ oder weniger $TYPE|H$"
 TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_OF_TYPE_AT_LEAST:0	"Hat mindestens $AMOUNT|H$ $TYPE|H$ Flugzeuge eingesetzt"

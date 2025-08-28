@@ -446,13 +446,13 @@
  EAI_config_ARMY_N2_dropdown_text:0 "[EAI_GetDDFocus]"
  EAI_config_ARMY_N2-_text:0 "-"
  EAI_config_ARMY_N2a_text:0 "Aus"
- EAI_config_ARMY_N2b_text:0 "Aufklärungs-Zerstörer"
+ EAI_config_ARMY_N2b_text:0 "Aufklärungszerstörer"
 
- EAI_config_ARMY_N2b_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf U-Boot-Zerstörern.§!"
+ EAI_config_ARMY_N2b_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt dieses Landes auf U-Boot Zerstörern.§!"
  EAI_config_ARMY_N2b_dropdown_text:0 "[EAI_GetASWDDFocus]"
  EAI_config_ARMY_N2b-_text:0 "-"
  EAI_config_ARMY_N2ba_text:0 "Aus"
- EAI_config_ARMY_N2bb_text:0 "U-Jagd-Zerstörer"
+ EAI_config_ARMY_N2bb_text:0 "U-Jagd Zerstörer"
 
  EAI_config_ARMY_N3_text:0 "Leichte Kreuzer"
  EAI_config_ARMY_N3_tt:0 "§LDies bestimmt den Forschungs- und Produktionsschwerpunkt des Landes auf leichte Kreuzer.§!"

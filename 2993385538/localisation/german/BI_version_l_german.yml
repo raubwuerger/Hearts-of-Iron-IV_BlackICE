@@ -19,7 +19,7 @@
  BICE_STARTUP_LAND_UPDATE_DESC:0 " - Die KI-Luftproduktion wurde überarbeitet und ist jetzt durch die Obergrenze der Luftwaffe begrenzt. \n - Neue Marine-Invasions-KI, die eine viel bessere Risikoeinschätzung hat und es ihr ermöglicht, schwache Garnisonen dynamisch auszunutzen"
  #AIR 
  BICE_STARTUP_AIR_UPDATE_TITLE:0 "Luftwechsel mit 1.12"
- BICE_STARTUP_AIR_UPDATE_DESC:0 "Mit 1.12 Airwings gibt es jetzt feste Größen von 50/25 Flugzeugen für Landgestützte Staffeln und 5 für Trägerstaffeln. Ein Flugzeugkonstrukteur ist geplant, aber vorerst bleiben Flugzeuge einzigartige Technologien."
+ BICE_STARTUP_AIR_UPDATE_DESC:0 "Mit 1.12 Luftgeschwader gibt es jetzt feste Größen von 50/25 Flugzeugen für Landgestützte Staffeln und 5 für Trägerstaffeln. Ein Flugzeugkonstrukteur ist geplant, aber vorerst bleiben Flugzeuge einzigartige Technologien."
  #Former_version_text:0 "Flugzeuge und Luftkämpfe wurden umfassend überarbeitet. Die Daten für jedes Flugzeug wurden überprüft und auf der Grundlage gemeinsamer Formeln für Feuerkraft, Verteidigung, Agilität und Kosten angepasst. Die Reichweiten-/Nutzlastdaten wurden basierend auf typischen Reichweiten bei bestimmten Lasten angepasst. Die Luftkampfwerte wurden überarbeitet, um zu höheren Einsatz- und Kampfverlusten zu führen. Air Tech Trees wurden überprüft, in einigen Fällen neu organisiert und aufgeräumt. Die folgenden neuen Flugzeugtypen wurden hinzugefügt; Leichter Jäger, Marine-Mehrzweckflugzeug, Marine-Abfangjäger, Träger-Mehrzweckflugzeug, Nachtjäger, Schwerer Marinebomber, Marinebomber (Lenkbomben). In Ländern ohne Transportflugzeugmodelle wurden Transportflugzeugmodelle hinzugefügt."
  #NAVAL 
  BICE_STARTUP_NAVY_UPDATE_TITLE:0 "Andere Änderungen"

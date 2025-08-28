@@ -1349,7 +1349,7 @@ generic_mio_trait_fully_cast_turret:	"Vollständig gegossener Turm"
 generic_mio_trait_commander_cupola:	"Kommandantenkuppel"
 generic_mio_trait_simplified_layout:	"Vereinfachtes Layout"
 generic_mio_trait_high_explosive_shells:	"Hochexplosive Granaten"
-generic_mio_trait_apcr_hvap_shells:	"APCR/HVAP-Granaten"
+generic_mio_trait_apcr_hvap_shells:	"APCR/HVAP Granaten"
 
 
 ##################################### ""
@@ -1446,7 +1446,7 @@ generic_mio_trait_raider_escort_requirements:	"Kapereskorten Anforderungen"
 generic_mio_trait_unescorted_raider_requirements:	"Unbegleitete Kaperanforderungen"
 generic_mio_trait_raiding_cruisers:	"Kaperkreuzer"
 generic_mio_trait_raiding_submarines:	"Kaper U-Boote"
-generic_mio_trait_spotting_tops:	"Erkennungs Tops"
+generic_mio_trait_spotting_tops:	"Beobachtungsplattformen"
 generic_mio_trait_large_torpedo_banks:	"Große Torpedoabschussvorrichtung"
 generic_mio_trait_mass_produced_raiders:	"Serienmäßig hergestellte Kaperschiffe"
 

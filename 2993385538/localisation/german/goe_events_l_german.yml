@@ -632,7 +632,7 @@ GOE_RAJ_generals.9.desc:	"[ENG.GetLeader] hat auf unser Angebot geantwortet und 
 GOE_RAJ_generals.9.a:	"Das ist sehr schade."
 GOE_RAJ_transfered_commander_tt:	"Übertragen auf [RAJ.GetNameDefCap]"
 currentStateResistance:	"  Derzeit §R[?var:THIS.resistance]%§! Widerstand."
-currentStateCompliance:	"  Derzeit §Y[?var:THIS.resistance]%§! Compliance."
+currentStateCompliance:	"  Derzeit §Y[?var:THIS.resistance]%§! Zustimmung."
 PER_fawzia_married:	"Fawzia Fuad Verheiratet"
 PER_teymourtash_married:	"Teymourtash Verheiratet"
 PER_irandokht_married:	"Irandokht Verheiratet"

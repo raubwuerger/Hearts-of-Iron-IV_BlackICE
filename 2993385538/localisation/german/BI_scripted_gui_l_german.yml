@@ -67,7 +67,7 @@ allied_anger_TT_1:0	"Gilt für alle [?ENG.num_faction_members|Y0] Mitglieder der
 allied_anger_TT_2:0	"Mit jeder Erhöhung erhöhen sich die Boni proportional. Die Rechtfertigung eines Kriegsziels wird die Wut der Alliierten regelmäßig erhöhen, und eine Kriegserklärung wird den §RZorn der Alliierten§! erhöhen auf Max. Stufe für §Y180§! Tage.\n\n Derzeit ist §Y[ENG.GetFactionName]§! Erhalte die folgenden Boni:\n\n"
 allied_anger_TT_3:0	"      /  Keiner"
 
-ALLIED_ANGER_INCREASE_EXTRA_TT:0	"Aufgrund unserer §YJüngsten Grundstückserwerbe§! der §RVerbundene Zorn§! erhöht sich um §R[?anger|1] +[?extra_anger|1]§!"
+ALLIED_ANGER_INCREASE_EXTRA_TT:0	"Aufgrund unserer §YJüngsten territorialen Annexionen§! der §RAllierte Zorn§! erhöht sich um §R[?anger|1] +[?extra_anger|1]§!"
 ALLIED_ANGER_INCREASE:0	"§RAllierter Zorn§! wird um §R+[?anger|1]§! erhöht"
 
 
@@ -560,7 +560,7 @@ ROCKET_INTERCEPTOR_EQUIPMENT_WEIGHT:0	"Raketenabfangjäger: §Y1.0§!\n\n"
  
 ARMY_STRENGTH_TITLE:0	"§YHeeresstärke§!\nUnsere aktuelle Heeresstärke ist [?army_strength|1Y]\nFür die nächste Stufe erforderliche Stärke: §Y[Root.GetArmyStrengthNextLevel]§!\n\n§YBatallione§! tragen je nach Typ unterschiedlich viel zu unserer Stärke bei.\n"
 ARMY_STRENGTH_MULTIPLICATOR:0	"Multipliziert mit der aktuellen §YFeldstärke§! ([?field_strength|Y%0])\n\n"
-ARMY_STRENGTH_IDEA:0	"£army_experience Landdoktrin-Forschungsgeschwindigkeit: §Y[Root.GetArmyStrengthResearchValue]§!"
+ARMY_STRENGTH_IDEA:0	"£army_experience Landdoktrin Forschungsgeschwindigkeit: §Y[Root.GetArmyStrengthResearchValue]§!"
 INFANTRY_WEIGHT:0	"\nInfanterie: §Y1.00§!\n"
 LIGHT_INFANTRY_WEIGHT:0	"Leichte Infanterie: §Y0.75§!\n"
 GARRISON_WEIGHT:0	"Garnison: §Y0.50§!\n"

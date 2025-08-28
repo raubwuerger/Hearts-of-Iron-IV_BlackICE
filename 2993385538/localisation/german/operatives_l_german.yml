@@ -401,7 +401,7 @@ CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED:0	"Aktive Entschlüsselungsboni sind ak
 CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED_ALL:0	"Aktive Entschlüsselungsboni sind aktiviert. Du erhältst folgende Boni für $NUM|H$ Tage:"
 CRYPTO_ENEMY_CRYPTO_IS_BROKEN_TITLE:0	"Feindliche Chiffre ist entschlüsselt"
 CRYPTO_ENEMY_CRYPTO_IS_BROKEN_DESC:0	"Die Chiffre für $COUNTRY_NAMES|H$ ist vollständig entschlüsselt."
-CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_TITLE:0	"Unsere Chiffre wurde vom Feind §RBroken§!"
+CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_TITLE:0	"Unsere Chiffre wurde vom Feind §Rentschlüsselt§!"
 CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_DESC:1	"$COUNTRY|H$ hat unsere Chiffren entschlüsselt und damit begonnen, die aus dem Lesen unserer Nachrichten gewonnenen Informationen den Feldkommandeuren zur Verfügung zu stellen. Sie werden für $NUMDAYS|H$ Tage verschiedene Kampfboni gegen uns erhalten."
 CRYPTO_DELETE_DECRYPTION:0	"§REntschlüsselung löschen§!"
 CRYPTO_DELETE_TITLE:0	"Entschlüsselung löschen"
