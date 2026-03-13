@@ -165,3 +165,7 @@ RESOURCE_DETAILS_NET_SURPLUS:	"Wir haben einen Nettoüberschuss von $SURPLUS|G$ 
 RESOURCE_DETAILS_NET_DEFICIT:	"Wir haben ein Nettodefizit von $DEFICIT|R$ Einheiten von $RESOURCE|H$."
 MAP_RESOURCE_ICON_VAL:	"$VAL$/$MAX$"
 ROUTE_EFFICIENCY:1	"    Effizienz der Route: $EFF|%R$"
+TRADEVIEW_RES_TRANSFERRED_FROM_SUBJECT_DETAILS:	"- $NUM|H$ $TYPE|H$ ($FACTOR|%0H$) übertragen von $SUBJECT|H$"
+TRADEVIEW_EXPORT_TO_OVERLORD_DETAILS:	"$NUM|H$ $RES|H$ ($FACTOR|%0H$) wird an den Oberherrn gesendet $OVERLORD|H$"
+CONVOY_DOMINANCE_COST_REDUCTION:	"(£naval_dominance_texticon£: $REDUCTION|%0-=$)"
+CONVOY_DOMINANCE_COST_REDUCTION_EXPLANATION:	"£naval_dominance_texticon£ §YSeemacht§! kann den Konvoibedarf auf vollständig kontrollierten Schifffahrtsrouten um bis zu $REDUCTION|%0+$ reduzieren. \n"

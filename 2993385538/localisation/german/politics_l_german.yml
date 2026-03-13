@@ -251,3 +251,5 @@ IDEOLOGY_ANTI_COMMUNIST_ADVISOR:	"Ideologie: §YAnti Kommunistisch§!, die Folge
 IDEOLOGY_ANTI_FASCIST_ADVISOR:	"Ideologie: §YAnti Faschistisch§!, die gewährt:\n$fascism_drift$: §R-0.01§!"
 IDEOLOGY_APOLITICAL_ADVISOR:	"Ideologie: §YApolitisch§!, die Folgendes gewährt:\n$opposition_party_drift$: §R+0,01§!"
 COMMAND_POWER_CAP_ADD_ADVISOR:	"\nMax. Befehlsgewalterhöhung (£command_power ): $VALUE|+=0$"
+POLITICS_IDEA_ONLY_DISABLED:	"£trigger_no"
+ideology_advisor_tooltip_delayed:	"Berater mit einer ideologischen Ausrichtung tragen §G+0,01§! zu ihrer täglichen politischen Parteibewegung bei."

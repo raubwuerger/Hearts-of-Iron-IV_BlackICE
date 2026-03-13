@@ -1481,3 +1481,7 @@ OFFICER_CORP_COUP_PROGRESS:0	"Der Coup schreitet mit der folgenden Rate voran: $
 OFFICER_CORP_COUP_POSITIVE_PROGRESS:0	"Faktoren, die den Putsch vorantreiben: $VAL|0+%$"
 OFFICER_CORP_COUP_NEGATIVE_PROGRESS:0	"Faktoren, die den Putsch rückgängig machen: $VAL|0+%$"
 ARMY_MOTORIZATION_PRIORITY:0	"§NMotorisierungspriorität§!\nMotorisierung priorisiert Lastwagen aus dem Vorrat, um diese Armee mit notwendigem Nachschub von Nachschubknotenpunkten zu versorgen, die sonst außer Reichweite wären.\n§GKlick§!, um die Prioritäten durchzugehen."
+NAVAL_HEADQUARTER_ROSTER:	"Hauptquartier"
+NAVAL_HEADQUARTER_ROSTER_COLORED:	"§YMarinehauptquartier§!"
+NAVAL_HEADQUARTER_ROSTER_DELAYED:	"Zum Öffnen der §YMarinehauptquartier§! Liste hier klicken"|"
+NAVAL_HEADQUARTER_ASSIGN_ADMIRAL:	"Zum Zuweisen eines Admirals hier klicken"

@@ -145,3 +145,5 @@ STATE_BUILDINGS_BACKGROUND_TOOLTIP:	"Gebäude, die auf Staatsebene gebaut werden
 SHARED_BUILDINGS_BACKGROUND_TOOLTIP:	"Gebäude, die auf der Ebene eines Staates gebaut werden können und die sich Gebäudeplätze auf der Ebene des Staates untereinander teilen."
 PROVINCE_BUILDINGS_BACKGROUND_TOOLTIP:	"Gebäude, die individuell auf Provinzebene gebaut werden können und die eine eigene Stufenobergrenze pro Gebäudetyp haben."
 FACILITY_BUILDINGS_BACKGROUND_TOOLTIP:	"Gebäude auf Provinzebene, die nur maximal ein Gebäude pro Staat zulassen."
+LACK_OF_POWER_DESC:	"£Werkzeugmaschinen  Mangel an Werkzeugmaschinen: $VAL|R%$"
+BUILDING_SPEED_TOOLTIP:	"Zeigt den §YBauzeitmodifikator§! dieses Gebäudes an."

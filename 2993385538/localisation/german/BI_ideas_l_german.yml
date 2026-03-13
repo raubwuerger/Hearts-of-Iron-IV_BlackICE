@@ -846,14 +846,14 @@ piaggio_desc:0	"Gruppo Piaggio"
  #piaggio_air_desc:0 "Gruppo Piaggio"
  
  ## Monarchy/Republic law set ""
-monarchy_republic:0	"Monarchie/Republik" ##vielleicht Regierungsform??#
-constitutional_monarchy:0	"Monarchie" ##vielleicht nur Monarchie??#
+monarchy_republic:0	"Monarchie/Republik" ##vielleicht Regierungsform??
+constitutional_monarchy:0	"Monarchie" ##vielleicht nur Monarchie??
 constitutional_monarchy_desc:0	"Eine Monarchie ist eine Regierungsform, in der eine Gruppe, im Allgemeinen eine Familie, die eine Dynastie repräsentiert, die nationale Identität des Landes verkörpert und deren Oberhaupt, der Monarch, die Rolle der Souveränität ausübt."
-constitutional_monarchy2:0	"Konstitutionelle Monarchie" ##vielleicht instabile/unbegründete/unkonstitutionelle Monarchie??#
+constitutional_monarchy2:0	"Konstitutionelle Monarchie" ##vielleicht instabile/unbegründete/unkonstitutionelle Monarchie??
 constitutional_monarchy2_desc:0	"Eine Monarchie ist eine Regierungsform, in der eine Gruppe, im Allgemeinen eine Familie, die eine Dynastie repräsentiert, die nationale Identität des Landes verkörpert und deren Oberhaupt, der Monarch, die Rolle der Souveränität ausübt."
-constitutional_republic:0	"Republik" ##vielleicht nur Republik??#
+constitutional_republic:0	"Republik" ##vielleicht nur Republik??
 constitutional_republic_desc:0	"Eine Republik ist eine Regierungsform, in der das Land als "öffentliche Angelegenheit" und nicht als Privatangelegenheit oder Eigentum der Monarchen betrachtet wird."
-constitutional_republic2:0	"Konstitutionelle Republik" ##vielleicht instabile/unbegründete/unkonstitutionelle Republik??#
+constitutional_republic2:0	"Konstitutionelle Republik" ##vielleicht instabile/unbegründete/unkonstitutionelle Republik??
 constitutional_republic2_desc:0	"Eine Republik ist eine Regierungsform, in der das Land als "öffentliche Angelegenheit" und nicht als Privatangelegenheit oder Eigentum von Monarchen betrachtet wird."
 crowned_republic:0	"Gekrönte Republik"
 crowned_republic_desc:0	"Eine Regierungsform, bei der der Monarch (und seine Familie) eine offizielle zeremonielle Einrichtung ohne politische Macht ist."
@@ -1265,3 +1265,36 @@ naval_payments:	"Zahlungen an die Marine"
 ship_building:	"Schiffskontrakte"
 SIA_state_media:	"Staatliche Medien"
 SIA_crown_lands_scandal:	"Land-Skandal"
+GER_enigma_code_1:	"Der Enigma-Code I"
+GER_enigma_code_2:	"Der Enigma-Code II"
+GER_enigma_code_3:	"Der Enigma-Code III"
+GER_enigma_code_4:	"Der Enigma-Code IV"
+GER_enigma_code_5:	"Der Enigma-Code V"
+GER_enigma_code_6:	"Der Enigma-Code VI"
+GER_enigma_code_1_desc:	"$GER_enigma_code_desc$"
+GER_enigma_code_2_desc:	"$GER_enigma_code_desc$"
+GER_enigma_code_3_desc:	"$GER_enigma_code_desc$"
+GER_enigma_code_4_desc:	"$GER_enigma_code_desc$"
+GER_enigma_code_5_desc:	"$GER_enigma_code_desc$"
+GER_enigma_code_6_desc:	"$GER_enigma_code_desc$"
+GER_enigma_tt:	"\n§Y[ENG.GetNameWithFlag]§! wird daran arbeiten, unsere Codes zu knacken und die Sichtbarkeit unserer U-Boote zu erhöhen. Wir können sie aufhalten, indem wir unsere §YKryptologie-Stärke§! erhöhen."
+ENG_enigma_tt:	"Wir werden daran arbeiten, die deutschen Enigma-Maschinen zu knacken, aber das wird Zeit brauchen. Die Verbesserung unserer §YEntschlüsselungsleistung§! wird den Prozess beschleunigen.\n\n"
+ENG_enigma_tt_2:	"Die neuen M4-Maschinen sind wesentlich schwieriger zu knacken. Unsere Kryptologen benötigen deutlich mehr Zeit."
+Bletchley_Park_desc:	"$ENG_bletchley_desc$"
+Bletchley_Park_lar_desc:	"$ENG_bletchley_desc$"
+changing_enigma_codes_lar:	"Geänderte Enigma-Codes"
+changing_enigma_codes_lar_desc:	"Wir haben kürzlich unsere Enigma-Codes geändert, und es scheint, als könnten unsere Feinde unsere Schritte nun immer weniger vorhersehen ..."
+changing_enigma_codes_desc:	"$changing_enigma_codes_lar_desc$"
+enigma_m4:	"Enigma M4 eingeführt"
+enigma_m4_desc:	"Die neu verteilte Enigma M4 ermöglicht eine sichere Kommunikation des Oberkommandos mit unseren U-Booten und führte zu einem Massaker im Atlantik."
+ADVISOR_REMOVAL_COST:	"Entfernungskosten (£pol_power ): §R$COST$§!"
+ENG_preserved_food_desc:	"$ENG_Compass_desc$"
+CW_Farms:	"Verbesserungen in der Landwirtschaft"
+CW_Farms_desc:	"Die Straffung des innerimperialen Handels zwischen unseren Territorien verbessert die Stabilität der Nahrungsmittelversorgung."
+CW_scrap_program:	"Recyclingprogramme"
+CW_great_depression_1_desc:	"$great_depression_desc$"
+CW_great_depression_2_desc:	"$great_depression_desc$"
+CW_great_depression_3_desc:	"$great_depression_desc$"
+CW_great_depression_4_desc:	"$great_depression_desc$"
+CW_great_depression_5_desc:	"$great_depression_desc$"
+CW_great_depression_6_desc:	"$great_depression_desc$"

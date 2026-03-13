@@ -282,3 +282,6 @@ PEACE_CONFERENCE_BID_WILL_RESULT_IN_CONFLICT:0	"Das Einreichen dieser Forderung 
 PEACE_CONFERENCE_BID_WILL_PULL_BACK_PLAYER:0	"Dieser Spieler hat £accept_decline_icon|2 die Konferenz verlassen. Wenn Sie diese Forderung stellen, wird er wieder teilnehmen."
 PEACE_CONFERENCE_SELECT_A_VICTOR:0	"Wählen Sie einen Sieger, um seinen Standpunkt zu erfahren"
 TRIGGER_PC_CURRENT_TURN:0	"Aktuelle Runde"
+PEACE_COST_BREAKDOWN_MODIFIER_FACTION_POWER_PROJECTION:	"Machtprojektion der Fraktion: $PERC$"
+PEACE_WAR_SCORE_REDISTRIBUTION_FROM_TOP_FACTION_INFLUENCE:	"Erhalten, weil du zu den $AMOUNT|Y$ einflussreichsten Mitgliedern deiner Fraktion gehörst"
+PEACE_WAR_SCORE_REDISTRIBUTION_TO_TOP_FACTION_INFLUENCE:	"Vergeben an die $AMOUNT|Y$ einflussreichsten Mitglieder deiner Fraktion"

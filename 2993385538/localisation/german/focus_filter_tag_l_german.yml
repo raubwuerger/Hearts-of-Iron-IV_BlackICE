@@ -43,3 +43,5 @@ FOCUS_INDUSTRIAL_COMPLEX_STATE_NEEDED:0	"Acquiring a §Ystate§! will have this 
 FOCUS_INFRASTRUCTURE_STATE_NEEDED:0	"Acquiring a §Ystate§! will have this focus add §Y[?add] $infrastructure$§!"
 FOCUS_BUILDING_STATE_NEEDED:0	"Acquiring a §Ystate§! will have this focus add §Y[?add] [?building.GetTokenLocalizedKey]§!"
 FOCUS_BUILDING_COASTAL_NEEDED:0	"Wenn Sie einen §Ycoastal§! Staat erwerben, wird dieser Fokus hinzugefügt §Y[?add] [?building.GetTokenLocalizedKey]§!"
+FOCUS_FILTER_POLITICS:	"Politisch"
+FOCUS_FILTER_ANGER:	"Verärgerung der Verbündeten"

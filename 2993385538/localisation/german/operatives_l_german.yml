@@ -475,3 +475,8 @@ token_navy_desc:	"$OPERATION_TOKEN_INFILTRATED_NAVY_DESC$ $OPERATION_TOKEN_INFIL
 token_civilian_desc:	"$OPERATION_TOKEN_INFILTRATED_CIVILIAN_DESC$ $OPERATION_TOKEN_INFILTRATED_CIVILIAN_DESC$"
 token_resistance_contacts_desc:	"$OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS_DESC$ $OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS_DESC$"
 OPERATION_TOKEN_NAME_TOOLTIP_DELAYED:0	"§L[GetAssetDesc]§!"
+BECOME_SPY_MASTER_COST_FI:	"Es kostet £faction_initiative_texticon£ $VALUE$, um $HEADOF|H$ zu werden."
+OPERATIVE_CAPTURED_FACTION:0	"Vom Feind gefangene Agenten deiner Fraktion"
+OPERATIVE_KILLED_FACTION:0	"Vom Feind getötete Agenten deiner Fraktion"
+AVAILABLE_SLOTS_FACTION:	"Gesamtzahl der verfügbaren Plätze in der Fraktion: $SLOTS|H$"
+OPERATIVE_COUNT_FACTION:	"Rekrutierte Agenten nach Fraktion: $COUNT|H$"
