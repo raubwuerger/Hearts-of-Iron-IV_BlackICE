@@ -1,5 +1,5 @@
 ﻿l_german:
- ##### SS ##### ""
+ ##### SS #####
  ss_event.500.b:0 "Kein Bedarf"
  ss_event.590.t:0 ""
  ss_event.591.t:0 ""
@@ -236,9 +236,9 @@
  ss_event.743.d:0 "Die 2. SS-Division "Das Reich" war eine Division der nationalsozialistischen Waffen-SS während des Zweiten Weltkriegs. Sie war eine der achtunddreißig Divisionen, die von der Waffen-SS aufgestellt wurden. Das Reich diente während der Invasion Frankreichs und nahm an mehreren großen Schlachten an der Ostfront teil, unter anderem an der Schlacht von Prochorowka gegen die 5. Panzerarmee in der Schlacht von Kursk. Anschließend wurde sie in den Westen verlegt und nahm an den Kämpfen in der Normandie und der Ardennenoffensive teil, die den Krieg in Ungarn und Österreich beendete."
  ss_event.743.a:0 "Aufstellung SS-Division 'Das Reich'"
 
- ### news-events "### news-events"
+ ### news-events
  ss_poppup.1.t:0 "Die folgenden Waffen-SS-Einheiten sind in diesem Monat für den Einsatz verfügbar:§R[month.GetDateStringShortMonth]§!"
- ### news_event descriptions "### news_event descriptions"
+ ### news_event descriptions
  ss_poppup.1.d:0 "\n\nVerfügbar ab:\n§B5 Januar 1936: SS-Verfügungstruppe Regiment 'GERMANIA'.\n5 Januar 1936: SS-Verfügungstruppe Regiment 'DEUTSCHLAND'.§!\n\nÜberprüfen Sie das §RWaffen-SS Fenster§!"
  ss_poppup.2.d:0 "\n\nVerfügbar ab:\n§B5 Februar 1936: SS-Verfügungstruppe Brigade§!\n\nKontrollieren Sie den §RWaffen-SS Fenster§!"
  ss_poppup.3.d:0 "\n\nVerfügbar ab:\n§BAnschluss: SS-Standarte 'Der Führer'§!\n§B4. SS Totenkopf Standarte 'Ostmark'§!\n\nKontrollieren Sie den §RWaffen-SS Fenster§!"
@@ -281,8 +281,8 @@
  ss_poppup.40.d:0 "\n\nVerfügbar ab:\n§B5 Oktober 1944: 31. SS-Freiwilligen-Grenadier-Division§!\n§B5 September 1944: 25. Waffen-SS-Grenadier-Division 'Hunyadi'§!\n\nÜberprüfen Sie das §RWaffen-SS Fenster§!"
  ss_poppup.41.d:0 "\n\nVerfügbar ab:\n§B5 November 1944: 26. Waffen-Grenadier-Division der SS 'Hunyadi'§!\n\nÜberprüfen Sie das §RWaffen-SS Fenster§!"
  ss_poppup.42.d:0 "\n\nVerfügbar ab:\n§B5 Januar 1945: 29. Waffen-Grenadier-Division der SS§!\n§B5 Januar 1945: 32. SS-Freiwilligen-Grenadier-Division '30.Januar'§!\n§B5 Januar 1945: 33. Waffen-SS-Grenadier-Division 'Charlemagne'§!\n§B10 Januar 1945: 34. SS Freiwilligen-Grenadier-Division 'Landstorm Nederland'§!\n§B10 Januar 1945: 35. SS Polizei-Grenadier-Division§!\n§B10 Januar 1945: 36. Waffen-SS-Grenadier-Division§!\n§B12 Januar 1945: 37. SS Freiwilligen-Kavallerie-Division 'Lützow' §! \n\nPrüfen Sie den §RWaffen-SS Fenster§!Kein Bedarf"
-
-
-
-
- ## EOF ## ""
+ 
+ 
+ 
+ 
+ ## EOF ##

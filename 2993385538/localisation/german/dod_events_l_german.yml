@@ -759,7 +759,7 @@
  DOD_romania.158.a:0 "Verdammt"
  BICE_romania.159.t:0 "Deutschland lehnt unsere Einladung ab!"
  BICE_romania.159.desc:0 "Leider haben die Deutschen nicht den Wunsch, militärische Beziehungen zu uns aufzubauen..."
- BICE_romania.159.a:0 "Verdammt"
+
  DOD_romania.999.a:0 "Eine großartige Idee!"
  DOD_romania.999.b:0 "Eher nicht"
 
@@ -839,7 +839,7 @@
  DOD_hungary.191.t:0 "Aktualisierung der Volkszählung"
  DOD_hungary.191.desc:0 "Nach der Übernahme Österreichs und der Tschechoslowakei haben wir nun Zugriff auf die kampffähige Bevölkerung dieser beiden Länder! Mögen sich diese zusätzlichen Soldaten als überflüssig erweisen!"
  DOD_hungary.191.a:0 "Ausgezeichnet!"
- DOD_hungary.192.t:0 "Volkszählung Update"
+
  DOD_hungary.192.desc:0 "Da wir weder Österreich noch die Tschechoslowakei mehr kontrollieren, haben wir auch keinen Zugriff mehr auf die dortigen Arbeitskräftepools. Hoffentlich brauchen wir sie nicht mehr, um unsere Armeen aufzufüllen..."
  DOD_hungary.192.a:0 "Verdammt!"
 
@@ -925,6 +925,3 @@
  dod_news.4.c:0 "Sie haben weise gewählt."
  dod_news.4.e:0 "Hätten wir etwas tun können?"
  DOD_romania.999.t:0 "Eine Hommage an die Liebe"
- DOD_romania.999.desc:0 "Ein außergewöhnlich betrunkener und emotionaler König Karol II. hat die heutige Strategiesitzung unterbrochen und die Aufmerksamkeit aller auf eine "brillante" Idee gelenkt, die ihm am Vorabend gekommen war. Der König, der im Grunde seines Herzens ein Romantiker ist, erklärte mit Tränen in den Augen, er wünsche sich, dass die Frauen in seinem Leben die intensive und wahre Liebe kennenlernen, die er für sie empfindet. In einem langen, wenn auch etwas undeutlichen Monolog an die Stabschefs und das Kabinett appellierte er an deren zarteste und tiefste Empfindungen, um dann feierlich die Umbenennung zweier großer Städte des Feindes zu fordern, als Tribut an das größte und tiefste aller Gefühle, die der Mensch kennt: die Liebe.\n\nDer König hat sich ganz klar auf diese Idee fixiert, und es ist sehr unwahrscheinlich, dass er sich leicht davon abbringen lässt, wenn wir ihn davon abbringen wollen."
- DOD_romania.a:0 "Er ist wahrlich ein Genie, das vom Himmel herabgestiegen ist!"
- DOD_romania.b:0 "Schmeißt stattdessen eine Party, um ihn abzulenken. Eine - wirklich - große Party."

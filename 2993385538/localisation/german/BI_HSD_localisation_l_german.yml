@@ -1,24 +1,24 @@
-﻿ l_german:
+﻿l_german:
 HSD_COST_TT:0	"[HSD_COST_COLOR] £navy_experience [?cost|0]"
  
 Y_C:0	"§Y"
 R_C:0	"§R"
  
- ### United States ""
- 
- 
- #HSD_USA_CV_wasp_refit_name:0 "Umrüsten 1941"
- #HSD_USA_CV_wasp_refit_tooltip:0 "[!HSD_USA_CV_wasp_refit_button_click_enabled]\n§YAuswirkungen, wenn ausgewählt§!:\n[!HSD_USA_CV_wasp_refit_button_click]"
- #HSD_USA_CV_wasp_refit_desc:0 "HSD_USA_CV_wasp_refit_desc"
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ #GER
+ BB_scharnhorst: "Scharnhorst Class"##### NOT TRANSLATED #####
+ BB_scharnhorst_38cm: "Scharnhorst Class (38cm)"##### NOT TRANSLATED #####
+ BB_bismarck: "Bismarck Class"##### NOT TRANSLATED #####
+ BB_hindenburg: "Hindenburg Class"##### NOT TRANSLATED #####
+ BB_ulrich_von_hutten: "Ulrich von Hutten Class"##### NOT TRANSLATED #####
+ BC_derfflinger: "Derfflinger Class"##### NOT TRANSLATED #####
+ PS_graf_spee: "Deutschland Class"##### NOT TRANSLATED #####
+ CA_admiral_hipper: "Admiral Hipper Class"##### NOT TRANSLATED #####
+ CL_munchen: "München Class"##### NOT TRANSLATED #####
+ PS_roon: "Roon Class"##### NOT TRANSLATED #####
+ CL_dresden: "Dresden Class"##### NOT TRANSLATED #####
+ CV_graf_zeppelin: "Graf Zeppelin Class"##### NOT TRANSLATED #####
+ CV_elbe: "Elbe Class"##### NOT TRANSLATED #####
+ CV_europa: "Europa Class"##### NOT TRANSLATED #####
  
  
  
@@ -41,7 +41,7 @@ R_C:0	"§R"
  
  
  
- 
+ #USA
  
  
  ### Japan ""
@@ -90,7 +90,7 @@ R_C:0	"§R"
  
  
  
- 
+ #ENG
  
  
  ### Soviet Union ""
@@ -105,7 +105,7 @@ DD_Zerstorer1942:	"Zerstörer 1942 Klasse"
 DD_Zerstorer1944:	"Zerstörer 1944 Klasse"
 DD_Zerstorer1945:	"Zerstörer 1945 Klasse"
 DE_Geleitboot1941:	"Geleitboot 1941 Klasse"
-TB_Type35:	"Typ 35 Klasse"
+ 
 TB_Type37:	"Typ 37 Klasse"
 TB_Type39:	"Typ 39 Klasse"
 TB_Type41:	"Typ 41 Klasse"
@@ -134,8 +134,8 @@ CA_baltimore:	"Baltimore Klasse"
 CA_oregon_city:	"Oregon City Klasse"
 CA_des_moines:	"Des Moines Klasse"
 CL_brooklyn:	"Brooklyn Klasse"
-CL_stlouis:	"St.Louis Klasse"
-CL_atlanta:	"Atlanta Klasse"
+ 
+ #JAP
 CL_cleveland:	"Cleveland Klasse"
 CL_fargo:	"Fargo Klasse"
 CL_worcester:	"Worcester Klasse"
@@ -182,8 +182,8 @@ CL_dido:	"Dido Klasse"
 CL_fiji:	"Fidschi Klasse"
 CL_swiftsure:	"Swiftsure Klasse"
 DD_I_class:	"I Klasse"
-DD_Tribal:	"Tribal Klasse"
-DD_JK_class:	"J/K Klasse"
+ 
+ #ITA
 DD_LM_class:	"L/M Klasse"
 DD_OP_class:	"O/P Klasse"
 DD_QR_class:	"Q/R Klasse"
@@ -204,8 +204,8 @@ FF_River:	"Fluss Klasse"
 FF_Loch:	"Loch Klasse"
 FF_Bay:	"Bucht Klasse"
 MS_Bangor:	"Bangor Klasse"
-MS_Algerine:	"Algerine Klasse"
-SS_T_class:	"T Klasse"
+ 
+ #FRA
 SSc_U_class:	"U Klasse"
 SSc_V_class:	"V Klasse"
 SS_A_class:	"A Klasse"
@@ -229,76 +229,10 @@ DD_yugumo:	"Yugumo Klasse"
 DD_shimikaze:	"Shimikaze Klasse"
 DD_akizuki:	"Akizuki Klasse"
 DD_super_shimikaze:	"Super-Shimikaze Klasse"
-DD_super_akizuki:	"Super Akizuki Klasse"
-DDE_matsu:	"Matsu Klasse"
+ 
+ #SOV
 DDE_tachibana:	"Tachibana Klasse"
 E_shimushu:	"Shimushu Klasse"
 E_etorofu:	"Etorofu Klasse"
 E_mikura:	"Mikura Klasse"
-E_hiburi:	"Hiburi Klasse"
-E_ukuru:	"Ukuru Klasse"
-E_hashidate:	"Hashidate Klasse"
-E_type_c:	"Typ-C Klasse"
-E_type_d:	"Typ D Klasse"
-MS_w7:	"W-7 Klasse"
-MS_w19:	"W-19 Klasse"
-AM_sokuten:	"Sokuten Klasse"
-AM_hirashima:	"Hirashima Klasse"
-AM_minoo:	"Minoo Klasse"
-AM_kamishima:	"Kamishima Klasse"
-SC_junsena:	"Typ A Klasse"
-SC_junsenb:	"Typ B Klasse"
-SC_junsenc:	"Typ-C Klasse"
-SSc_ro100:	"Ro-100 Klasse"
-SSc_ha201:	"Ha-201 Klasse"
-SS_i400:	"I-400 Klasse"
-SS_kaichu7:	"Kaichu VII Klasse"
-SS_kaidai7:	"Kaidai VII Klasse"
-SS_i201:	"I-201 Klasse"
-CV_aquila:	"Aquila Klasse"
-BB_vittorio:	"Vittorio Veneto Klasse"
-BB_roma:	"Roma Klasse"
-CL_duca_degli_abruzzi:	"Duca degli Abruzzi Klasse"
-CL_capitani_romani:	"Capitani Romani Klasse"
-DD_Soldati:	"Soldati Klasse"
-DD_Comandanti:	"Comandanti Medaglie d'Oro Klasse"
-TB_Orsa:	"Orsa Klasse"
-TB_Ciclone:	"Ciclone Klasse"
-E_Gabbiano:	"Gabbiano Klasse"
-DE_Ariete:	"Ariete Klasse"
-SSc_Adua:	"Adua Klasse"
-SSc_Acciaio:	"Acciaio Klasse"
-SM_Foca:	"Foca Klasse"
-SC_Cagni:	"Cagni Klasse"
-SS_Brin:	"Brin Klasse"
-SS_Marcello:	"Marcello Klasse"
-SS_Liuzzi:	"Liuzzi Klasse"
-SS_Marconi:	"Marconi Klasse"
-SS_Fluto:	"Fluto Klasse"
-CV_joffre:	"Joffre Klasse"
-BB_richelieu:	"Richelieu Klasse"
-BB_alsace:	"Elsass Klasse"
-CA_algerie:	"Algérie Klasse"
-CA_saint_louis:	"Saint-Louis Klasse"
-CL_la_galissonniere:	"La Galissonnière Klasse"
-CL_de_grasse:	"De Grasse Klasse"
-DD_le_hardi:	"Le Hardi Klasse"
-DD_le_hardi_desc:0	"Deutlich größer und schneller als die Zerstörer der L'Adroit Klasse, wurden sie als Geleitschutz für die neuen Schlachtschiffe der Dunkerque Klasse konzipiert."
-DL_desaix:	"Desaix Klasse"
-DL_desaix_desc:0	"Entwürfe für eine neue Generation schwerer Zerstörer, die schnelle Schlachtschiffe einer Atlantiküberfalltruppe eskortieren sollten."
-TB_le_fier:	"Le Fier Klasse"
-TB_le_fier_desc:0	"Deutlich schwerer und stärker als die vorangegangenen Torpedoboote der Melpomene Klasse, ausgestattet mit Zweizweck-Hauptgeschützen."
-E_elan:	"Élan Klasse"
-E_elan_desc:0	"Ursprünglich als Minenjäger konzipiert, wurden die Schiffe dieser Klasse nie in dieser Rolle eingesetzt, sondern dienten hauptsächlich als Geleitschiffe."
-E_chamois:	"Chamois Klasse"
-E_chamois_desc:0	"Diese als Minensuchschaluppen konzipierten Schiffe ähnelten dem Design der Élan Klasse, wurden aber tatsächlich als U-Boot-Bekämpfungsschiffe, Konvoi-Eskorten und Patrouillenschiffe eingesetzt."
-SS_roland_morillot:	"Roland-Morillot Klasse"
-SS_roland_morillot_desc:0	"Große ozeanische U-Boote, eine verbesserte Version der Redoutable Klasse."
-SM_emeraude:	"Emeraude Klasse"
-SM_emeraude_desc:0	"Eine vergrößerte und verbesserte Version der Minenleger der Saphir Klasse."
-SSc_phenix:	"Phénix Klasse"
-SSc_phenix_desc:	"Küstennahe Weiterentwicklung der U-Boote der Aurore Klasse."
-BB_sovetskiy_soyuz:	"Sovetskiy Soyuz Klasse"
-CB_kronshtadt:	"Kronshtadt Klasse"
-CA_stalingrad:	"Stalingrad Klasse"
-CL_chapaev:	"Chapaev Klasse"
+ 

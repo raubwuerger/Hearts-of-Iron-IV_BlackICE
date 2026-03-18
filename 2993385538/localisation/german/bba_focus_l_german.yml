@@ -1,8 +1,8 @@
 ﻿l_german:
- #Opinion modifiers ""
-
- ### Ethiopia ""
- # triggers ""
+ #Opinion modifiers
+ 
+ ### Ethiopia
+ # triggers 
  has_war_escalation_level_1_tt:0 "Kriegseskalation mindestens 1"
  has_war_escalation_level_2_tt:0 "Kriegseskalation mindestens 2"
  has_war_escalation_level_3_tt:0 "Kriegseskalation mindestens 3"
@@ -19,16 +19,16 @@
  is_or_will_be_jimma_tt:0 "Ist $jimma$"
  is_or_will_be_gojjam_tt:0 "Ist $gojjam$"
 
- # global flags ""
+ # global flags 
  second_italo_ethiopian_war_flag:0 "Der 2. Italo-Äthiopische Krieg ist im Gange"
  ETH_selassie_left_flag:0 "$ETH_haile_selassie$ hat Äthiopien verlassen"
 
- #Tech bonuses ""
+ #Tech bonuses
  ETH_university_bonus:0 "Universität für [ROOT.Capital.GetCapitalVictoryPointName] Elektronikforschung"
  ETH_new_weapons_and_tactics_bonus:0 "Neue Waffen und Taktikforschung"
  ETH_shipbuilding_bonus:0 "[ETH.GetAdjective] Schiffbau"
-
- # Focuses ""
+ 
+ # Focuses
  ecole_militaire_haile_selassie_1er:0 "Militärakademie Haile Selassie 1er"
  holeta_military_academy:0 "Holeta Militärakademie"
  every_league_of_nations_member_tt:0 "Jedes Mitgliedsland des Völkerbundes:"
@@ -449,9 +449,9 @@
  ETH_demand_DJI_desc:0 "Mit der Befreiung von [AFA.GetName] regieren wir nun eine beträchtliche Anzahl von Afar-Völkern. Die Afar bleiben jedoch aufgrund der Besetzung von [FRA.GetAdjective] durch [DJI.GetName] gespalten. Indem wir die Befreiung des Afar-Volkes von der imperialistischen Herrschaft fordern, können wir vielleicht die Loyalität des Afar-Volkes gewinnen und dabei einen strategischen Hafen erobern."
  ETH_the_rif:0 "Das Rif"
  ETH_the_rif_desc:0 "Viele der Faschisten, die heute in Spanien um die Macht kämpfen, waren einst Soldaten, die die Rif-Republik in Nordmarokko zerschlagen haben. Wir sollten unsere engen Beziehungen zur [SPC.GetName] nutzen, um die Entkolonialisierung ihrer afrikanischen Besitzungen voranzutreiben. Wenn sie wirklich unsere Kameraden sind, werden sie sicher zustimmen. Und wenn nicht, wissen wir bereits, wie man mit dem Kolonialismus umgeht."
- #ETH_social_reforms: "Soziale Reformen"
- #ETH_social_reforms_desc: "Ohne die Bedrohung durch einen gemeinsamen Feind, der uns eint, sind wir oft aufgrund historischer, kultureller und religiöser Missstände gespalten. Wir brauchen eine Welle von Sozialreformen, um diese Spaltungen zu überwinden, damit wir vereint bleiben und den Prozess des Aufbaus einer besseren [ETH.GetName] fortsetzen können."
- #ETH_social_reforms_tt: "Entriegeln Sie anarcho-kommunistische Sozialreformbeschlüsse."
+ #ETH_social_reforms: "Social Reforms"
+ #ETH_social_reforms_desc: "Without the threat of a common enemy to unite us, we often find ourselves divided due to historic, cultural and religious grievances. We need a wave of social reforms to overcome these divisions so that we can remain united and continue the process of building a better [ETH.GetName]."
+ #ETH_social_reforms_tt: "Unlock anarcho-communist social reform decisions."
  ETH_communal_education:0 "Kommunale Bildung"
  ETH_communal_education_desc:0 "Um den Lebensstandard der Bevölkerung zu verbessern, muss sichergestellt werden, dass jede Gemeinde in [ETH.GetNameDef] Zugang zu Bildung durch Schulen und Bibliotheken hat."
  ETH_african_wildfire:0 "Afrikanischer Flächenbrand"
@@ -703,7 +703,7 @@
  ETH_seize_assets_default_title:0 "Besteuerung des Adels"
 
 
- # ITALY ""
+ # ITALY
  ITA_italian_highways_bba:0 "Italienische Autobahnen"
  ITA_italian_highways_bba_desc:0 "Die alten Römer haben Straßen gebaut, um die sie die ganze Welt beneidet hat. Jetzt glauben die aufstrebenden Deutschen, dass ihre Autobahnen allem, was wir bauen könnten, weit überlegen sind. Wir werden ihnen das Gegenteil beweisen."
  ITA_develop_libya:0 "Libyen entwickeln"
@@ -1041,7 +1041,7 @@
  ITA_flotta_d_evasione_admiral_traits_tt:0 "Zwei zufällige Admirale erhalten die Eigenschaft §Y$bold$§!: \n- $MODIFIER_NAVAL_SPEED$: §G+10%§! \n- $MODIFIER_NAVAL_DAMAGE_FACTOR$: §G+5.00%§! \n\n"
  ITA_heroes_of_the_nation_general_traits_tt:0 "\nDrei zufällige Generäle erhalten die Eigenschaft §Y$war_hero$§!: \n- $MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR$: §G-50.0%§! \n- $MODIFIER_REASSIGNMENT_DURATION_FACTOR$: §R+50.0%§! \n"
  ITA_mussolini_becomes_field_marshal_tt:0 "$ITA_benito_mussolini$ wird Feldmarschall."
- 
+
  ITA_the_italian_liberation_war:0 "Der italienische Befreiungskrieg"
  ITA_the_italian_liberation_war_desc:1 "Die Zeit ist gekommen, sich gegen die Faschisten zu erheben und ihr krankes Regime zu stürzen! Die antifaschistischen Partigiani aus ganz Italien sind bereit, in diesem nationalen Befreiungskrieg zu kämpfen und ihr Leben zu geben!"
  ITA_fronte_militare_clandestino:0 "Fronte Militare Clandestino"
@@ -1335,7 +1335,7 @@
  ITA_steel_industry_in_terni_ricostruzione_industriale_tt:0 "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$modifier_production_speed_arms_factory_factor$: §G+2,50%§! \n\n"
  ITA_power_plants_in_terni_ricostruzione_industriale_tt:0 "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$modifier_production_speed_industrial_complex_factor$: §G+5.00%§! \n\n"
  ITA_investments_in_edison_ricostruzione_industriale_tt:0 "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5.0%§! \n\n"
- 
+
  ITA_modify_military_industry_dynamic_modifier_ns_intro:0 "Ändern Sie §Y$ITA_military_industry_dynamic_modifier$§! durch"
  ITA_increase_production_military_industry_tt:2 "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR$: §G+20.00%§! \n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+5.00%§! \n$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: §R-4.00%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5.00%§! \n\n"
  ITA_keep_specialization_military_industry_tt:0 "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR$: §R-20.00%§! \n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+10.00%§! \n$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: §G+10.00%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5.00%§! \n\n"
@@ -1382,7 +1382,7 @@
  ITA_supremacy_in_the_skies_ra_tt:0 "$ITA_modify_regia_aeronautica_dynamic_modifier_ns_intro$ \n$MODIFIER_AIR_SUPERIORITY_EFFICIENCY$: §G+5%§!  \n$MODIFIER_AIR_INTERCEPT_EFFICIENCY$: §G+5%§! \n$MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT$: §G+5.0%§!\n\n"
  ITA_reduced_chance_of_air_accidents_tt:0 "\nVerringert die Wahrscheinlichkeit, dass Charaktere bei historischen Flugzeugunfällen ums Leben kommen."
  ITA_reggianes_exports_ricostruzione_industriale_tt:0 "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-1.0%§! \n\n"
-
+ 
  ITA_modify_regia_marina_dynamic_modifier_ns_intro:0 "Ändern Sie §Y[GetAppropriateRegiaMarinaNsName]§! um"
  ITA_regia_marina_name_default:0 "$ITA_regia_marina_dynamic_modifier$"
  ITA_regia_marina_name_alt:0 "$ITA_regia_marina_alt_dynamic_modifier$"
@@ -1461,11 +1461,11 @@
  ITA_independence_overlord_fallback_tt:0 "[ROOT.GetAdjective] Overlord:\n"
  ITA_independence_overlord_fallback_accept_tt:0 "[ROOT.GetAdjective] Overlord entfernt Marionette aus [ROOT.GetName]. \nErhält §Y$ITA_granted_us_independence$§! (Meinung von §Yformer Overlord§! §Y50§!)."
  ITA_independence_overlord_fallback_refuse_tt:0 "Erhält §Y$independence_wargoal$§! Kriegsziel gegen [ROOT.GetAdjective] Overlord. \nErhält §Y$ITA_refused_to_grant_us_independence$§! (Meinung von §Yformer overlord§! §Y-50§!)"
- 
+
  ITA_by_blood_alone_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIER_ARMY_MORALE_FACTOR$: §G+5.0%§! \n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+5%§! \n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+5.0%§! \n\n"
  ITA_by_blood_alone_ra_tt:0 "$ITA_modify_regia_aeronautica_dynamic_modifier_ns_intro$ \n$MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT$: §G+5.0%§! \n\n"
  ITA_by_blood_alone_rm_tt:0 "$ITA_modify_regia_marina_dynamic_modifier_ns_intro$ \n$MODIFIER_NAVAL_MORALE_FACTOR$: §G+5.0%§! \n\n"
-
+ 
  ITA_new_corporations_iri_tt:1 "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$modifier_production_speed_industrial_complex_factor$: §R-35.00%§! \n$MODIFIER_CONVERSION_COST_CIV_TO_MIL_FACTOR$: §G-15.00%§! \n\n"
  ITA_extraction_industry_iri_tt:0 "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+10.00%§! \n\n"
  ITA_extraction_industry_military_industry_tt:0 "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G-15.00%§! \n\n"
@@ -1662,15 +1662,15 @@
  ITA_novus_ordo_forts_tt:0 "Fügen Sie bis zu §Y10 Landforts§! in vollständig kontrollierten Staaten entlang der Grenzen Libyens hinzu."
  ITA_novus_ordo_create_units_tt:0 "Erstelle §Y[ROOT.GetFlag][ROOT.GetAdjective]§! Einheiten im eigenen und kontrollierten libyschen Staat:"
  ITA_novus_ordo_irregular_troops_tt:0 "Erstelle §Y5 $infantry$ Divisionen§!."
+ 
+ 
 
 
+######################################################################
+################     SWITZERLAND FOCUS TREE     ######################
+######################################################################
 
-
-###################################################################### ""
-################     SWITZERLAND FOCUS TREE     ###################### ""
-###################################################################### ""
-
-#########   Historical #################### ""
+#########   Historical ####################
  SWI_swiss_guiding_principles:0 "Schweizer Leitprinzipien"
  SWI_swiss_guiding_principles_desc:0 "[ROOT.GetNameDefCap] ist die älteste Demokratie des Kontinents, aber das rasante Tempo der Veränderungen in Europa gefährdet dies. Sollen wir den von der Eidgenossenschaft und der Verfassung von 1848 eingeschlagenen Weg fortsetzen, oder wird sich uns ein neuer Weg auftun?"
  SWI_increase_defense_budget:0 "Verteidigungshaushalt erhöhen"
@@ -1805,7 +1805,7 @@
  SWI_rig_infrastructure_to_blow_TT:0 "Wenn einer unserer Kernstaaten vom Feind eingenommen wird, werden alle §YInfrastruktur§!, §YEisenbahnen§!, §YSVersorgungszentren§! und §YBunker§! vollständig beschädigt. §YMilitär§! und §YZivile Fabriken§! werden teilweise beschädigt."
  SWI_create_anti_tank_template_TT:0 "Eine Vorlage für §YSwiss Militia Panzerabwehr§! wird erstellt."
 
-##### Submit to Germany ##### ""
+##### Submit to Germany #####
 
  SWI_closer_ties_with_germany:0 "Engere Beziehungen mit [SWI_get_fascist_neighbor_cap]"
  SWI_closer_ties_with_germany_desc:0 "Wir haben einen mächtigen und gefährlichen Nachbarn im Norden. Wenn wir überleben wollen, könnte es eine gute Idee sein, auf ihrer guten Seite zu bleiben, so dass sich eine Annäherung an sie auf der Suche nach besseren Beziehungen, während wir unsere neutrale Haltung beibehalten, als entscheidend erweisen würde."
@@ -1878,8 +1878,8 @@
  SWI_expand_federal_police_intelligence_desc:0 "Der Feind lauert im Schatten und kann jede Gestalt annehmen, auch die unserer eigenen Bevölkerung. Aus diesem Grund muss der Nachrichtendienst der föderalen Polizei über die nötigen Mittel verfügen, um abweichende Meinungen zu unterdrücken, wo immer sie auftauchen."
  SWI_martial_law:0 "Kriegsrecht"
  SWI_martial_law_desc:0 "Es gibt Situationen, die ein Skalpell erfordern, aber das ist in unserer Zeit nicht der Fall. [ROOT.GetNameDef] braucht einen Hammer, dem sie vertrauen kann, um unsere Feinde und unsere Bevölkerung unter Kontrolle zu halten."
-####### Weapons Industry Sub Branch ####### ""
-
+####### Weapons Industry Sub Branch ####### 
+ 
  SWI_expand_weapons_industry:0 "Waffenindustrie ausbauen"
  SWI_expand_weapons_industry_desc:0 "Unsere magere militärisch-industrielle Kapazität wird in einem totalen Krieg nicht ausreichen. Moderne Konflikte gewinnt derjenige, dem zuletzt die Kugeln ausgehen, also müssen wir dafür sorgen, dass wir schneller und länger Kriegsgerät herstellen können."
  SWI_swiss_armored_divisions:0 "Schweizer Panzerdivisionen"
@@ -1903,8 +1903,8 @@
  SWI_mountaneer_paratroopers:0 "Gebirgsfallschirmjäger"
  SWI_mountaneer_paratroopers_desc:0 "[ROOT.GetNonIdeologyName] ist in der ganzen Welt für seine imposanten Gipfel bekannt, und viele in unserer Bevölkerung nennen die Berge ihr Zuhause. Wir können diesen Vorteil nutzen, um einen überlegenen Bestand an Fallschirmjägern auszubilden, eine Truppe, die aus fremden Himmeln abspringen und fremde Berge für den Ruhm von [ROOT.GetNameDef] einnehmen kann."
 
-####### Allied/Aggrocratic ####### ""
-
+####### Allied/Aggrocratic ####### 
+ 
  SWI_purchase_american_planes:1 "[SWI_purchase_democratic_planes_title]"
  SWI_purchase_american_planes_usa:0 "Kaufe amerikanische Flugzeuge"
  SWI_purchase_american_planes_other:0 "Kaufe Flugzeuge von der Demokratischen Nation"
@@ -1959,10 +1959,10 @@
  SWI_exiled_government_desc:0 "Trotz unserer größten Bemühungen scheint es uns nicht gelungen zu sein, unser Heimatland zu verteidigen, so dass uns keine andere Möglichkeit bleibt, als aus der Ferne für seine Rückeroberung zu kämpfen. Die demokratischen Werte von [ROOT.GetAdjective] waren es, die unser Land so lange gedeihen ließen, und sie werden uns leiten, um es zurückzuerobern, denn [ROOT.GetName] wird nicht durch sein Territorium oder die Sprache seiner Bewohner definiert, sondern durch unseren gegenseitigen Respekt und unsere Unterstützung."
  SWI_join_the_allies:1 "Schließen Sie sich der Allianz an"
  SWI_join_the_allies_desc:0 "Die materiellen Opfer und moralischen Kompromisse, die die Aufrechterhaltung unserer Neutralität erfordert, werden immer unerträglicher. Für Neutralität ist kein Platz mehr, vor allem nicht in der derzeitigen politischen Lage Europas. Trotz ihrer Unzulänglichkeiten sind die Verbündeten unsere beste Option, wenn wir unser Land und unsere Konföderation bewahren wollen. Dies ist wirklich eine Zeit wie keine andere."
-
+ 
  SWI_gotthardbund_party_name:0 "Gotthardbund"
  SWI_gotthardbund_party_name_long:0 "Gotthardbund"
-
+   
 
  SWI_the_alpine_confederation:0 "Die Alpenkonföderation"
  SWI_the_alpine_confederation_desc:0 "Unser grosses Land hat sich über seine historischen Grenzen hinaus ausgedehnt, und während die neuen Kantone unter unseren Fittichen den gleichen Status wie Schwyz erhalten, müssen wir unseren neuen Zustand als Hüter der Alpen anerkennen. Eine neue demokratische Macht entsteht: Die Alpenkonföderation!"
@@ -2044,8 +2044,8 @@
  SWI_militias_turned_into_regulars:0 "Die Bürgermilizen wurden professionalisiert"
  SWI_old_switzerland_TT:0 "\n§YWenn der Krieg vorbei ist:§!\n"
  SWI_viable_fascist_in_europe:0 "Lebensfähige europäische §YFaschistische Nation§! existiert"
-
- # Horn of Africa ""
+ 
+ # Horn of Africa
  HOA_develop_capitalstate:0 "Entwickeln [Root.Capital.GetName]"
  HOA_develop_capitalstate_desc:0 "Wir müssen das Tempo der Industrialisierung zum Wohle unseres Volkes und zum Schutz von [ROOT.GetNameDef] erhöhen. Daher werden wir in das Gebiet um [ROOT.Capital.GetCapitalVictoryPointName] investieren und es in das industrielle Kernland der Nation verwandeln."
  HOA_the_state_bank_of_name:0 "Die Staatsbank von [ROOT.GetNameDef]"

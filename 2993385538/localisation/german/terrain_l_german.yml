@@ -1,5 +1,5 @@
 ﻿l_german:
- #New Bice terrain ""
+ #New Bice terrain
  capital:0 "Metropole"
  capital_desc:0 ""
  densecity:0 "Großstadt"
@@ -57,3 +57,4 @@
  forest_mod: "$forest$"
  jungle_mod: "$jungle$"
  marsh_mod: "$marsh$"
+ 

@@ -103,7 +103,7 @@
  ETH_aid_ethiopian_communists:0 "Helfen Sie den äthiopischen Kommunisten"
  ETH_aid_SPC:0 "Helfen Sie den spanischen Anarchisten"
  ETH_purge_ideology_boost_idea:0 "Säuberung kommunistischer und faschistischer Exilanten"
- #Foreign Industrialists ""
+ #Foreign Industrialists
  ETH_english_electric:0 "Englische Elektrik"
  ETH_CZE_skoda_works_2:0 "Skoda-Werke"
  ETH_CZE_skoda_artillery:0 "Skoda-Artillerie"
@@ -266,7 +266,7 @@
  ITA_papal_state_catholic_dominion_desc:1 "With the ascension of the Papacy as a major world power, it is up to us to enact the will of God and like a shepherd that guides his flock, protect faithful Christians from evil."
  ITA_papal_state_catholic_dominion_puppet_discount_tt:1 "§YReduzierte Kosten§! für die §Ymarionettierung§! von Staaten bei Friedenskonferenzen."
  ITA_cooperation_of_the_bourgeoisie:0 "Cooperation of the Bourgeoisie"
- #ITA_cooperation_of_the_bourgeoisie_desc: "NEEDED?" ""
+ #ITA_cooperation_of_the_bourgeoisie_desc: "NEEDED?"
  ITA_seizing_old_equipment:0 "Beschlagnahme alter Geräte"
  ITA_international_aid:0 "Internationale Hilfe"
  ITA_disgruntled_military:0 "Verärgertes Militär"
@@ -346,7 +346,7 @@
 
 
 
-### Switzerland ### ""
+### Switzerland ###
  SWI_spirit_of_resistance_idea:0 "Schweizer Widerstandsgeist"
  SWI_swiss_neutrality:0 "Schweizer Neutralität"
  SWI_werner_risch:0 "Werner-Risch"
@@ -448,3 +448,4 @@
  SWI_Ortswehren_dynamic_mod:0 "Ortswehren-Vorbereitungen"
  SWI_citizen_supply_mandate_mod:0 "Bürgerversorgungsauftrag"
  SWI_dissent_crackdown_idea:0 "Vorgehen gegen Andersdenkende"
+

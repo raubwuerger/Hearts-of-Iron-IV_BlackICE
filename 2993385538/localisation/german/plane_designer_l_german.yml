@@ -34,7 +34,7 @@
  EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_2_TITLE:0 "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$"
  EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_3_TITLE:0 "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$"
  EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_4_TITLE:0 "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$"
-
+ 
  bba_air_techs_folder:0 "$air_techs_folder$"
  bba_air_techs_folder_desc:0 "$air_techs_folder_desc$"
  engine_1_1x:0 "1x Triebwerk I"

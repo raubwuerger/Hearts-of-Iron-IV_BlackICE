@@ -11,3 +11,4 @@
  EQT_EQUIPMENT_IC_COST_TEXT:0 " £civ_days_icon  [?EQT_equipments_final_cost^i]"
  
  EQT_TOTAL_PURCHASE_COST_TEXT:0 "[?total_cost] £civ_days_icon"
+ 

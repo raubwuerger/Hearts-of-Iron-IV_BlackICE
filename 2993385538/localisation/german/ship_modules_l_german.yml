@@ -1,5 +1,5 @@
 ﻿l_german:
- ### EQUIPMENT MODULE CATEGORIES ### ""
+ ### EQUIPMENT MODULE CATEGORIES ###
  EQ_MOD_CAT_ship_light_battery_TITLE:0 "Schnellfeuerwaffen"
  EQ_MOD_CAT_ship_sub_snorkel_TITLE:0 "Schnorchel"
  EQ_MOD_CAT_ship_torpedo_TITLE:0 "Torpedo-Werfer"
@@ -29,7 +29,7 @@
  EQ_MOD_CAT_ship_deck_space_TITLE:0 "Hangarraum"
  EQ_MOD_CAT_ship_extra_fuel_tank_TITLE:0 "Treibstofftank"
  EQ_MOD_CAT_ship_mine_layer_TITLE:1 "Minenlegerausrüstung"
- ### EQUIPMENT MODULE SLOTS ### ""
+ ### EQUIPMENT MODULE SLOTS ###
  EQ_MOD_SLOT_fixed_ship_battery_slot_TITLE:0 "Hauptbatterie"
  EQ_MOD_SLOT_fixed_ship_internal_slot_TITLE:0 "Innenraum"
  EQ_MOD_SLOT_fixed_ship_secondaries_slot_TITLE:0 "Sekundärbatterie"
@@ -48,7 +48,7 @@
  EQ_MOD_SLOT_mid_3_custom_slot_TITLE:0 "Mitte 3 Benutzerdefiniert"
  EQ_MOD_SLOT_rear_1_custom_slot_TITLE:0 "Hinten 1 Benutzerdefiniert"
  EQ_MOD_SLOT_rear_2_custom_slot_TITLE:0 "Hinten 2 Benutzerdefiniert"
- #BICE ""
+ #BICE
  EQ_MOD_CAT_cruiser_hull_single_turrets_TITLE:0 "Einzelturm"
  EQ_MOD_CAT_cruiser_hull_twin_turrets_TITLE:0 "Zwillingstürme"
  EQ_MOD_CAT_cruiser_hull_triple_turrets_TITLE:0 "Drillingstürme"
@@ -56,29 +56,29 @@
  EQ_MOD_CAT_light_hull_twin_turrets_TITLE:0 "Zwillingstürme"
  EQ_MOD_CAT_light_hull_triple_turrets_TITLE:0 "Drillingstürme"
  EQ_MOD_CAT_ship_crew_quarters_TITLE:0 "Innenbereich"
-
+ 
  crew_quarters:0 "Crew-Quartiere"
-
+ 
  cruiser_hull_experimental_single_turret:0 "Experimenteller Einzelturm"
  cruiser_hull_standard_single_turret:0 "Standard Einzelturm"
  cruiser_hull_improved_single_turret:0 "Fortgeschrittener Einzelturm"
-
+ 
  cruiser_hull_experimental_twin_turret:0 "Experimenteller Zwillingsturm"
  cruiser_hull_standard_twin_turret:0 "Standard Zwillingsturm"
  cruiser_hull_improved_twin_turret:0 "Fortgeschrittener Zwillingsturm"
-
+ 
  cruiser_hull_experimental_triple_turret:0 "Experimenteller Drillingsturm"
  cruiser_hull_standard_triple_turret:0 "Standard Drillingsturm"
  cruiser_hull_improved_triple_turret:0 "Fortgeschrittener Drillingsturm"
-
+ 
  light_hull_experimental_single_turret:0 "Experimenteller Einzelturm"
  light_hull_standard_single_turret:0 "Standard Einzelturm"
  light_hull_improved_single_turret:0 "Fortgeschrittener Einzelturm"
-
+ 
  light_hull_experimental_twin_turret:0 "Experimenteller Zwillingsturm"
  light_hull_standard_twin_turret:0 "Standard Zwillingsturm"
  light_hull_improved_twin_turret:0 "Fortgeschrittener Zwillingsturm"
-
+ 
  light_hull_unarmoured_mounts:0 "Ungepanzerte Lafetten"
  light_hull_unarmoured_mounts_desc:0 "Einfache, ungepanzerte Lafetten für kleinkalibrige Geschütze hielten die Kosten niedrig, machten den Matrosen aber anfällig für Granatfeuer und Splitter."
  light_hull_twin_unarmoured_mounts:0 "Ungepanzerte Zwillingslafetten"
@@ -88,8 +88,8 @@
  twin_splinter_screen:0 "Zwillingssplitterschutz"
  casemates:0 "Kasematten"
  casemates_desc:0 "Die Kasematten waren eine einfache und zuverlässige Alternative zu den Geschütztürmen, aber aufgrund des engen Schussfelds waren sie gewichtsmäßig ineffizient und konnten nicht zur Flugabwehr eingesetzt werden."
-
- ### EQUIPMENT MODULES ### ""
+ 
+ ### EQUIPMENT MODULES ###
  ship_light_battery_1:0 "85 mm RF. Kanone"
  ship_light_battery_1_short:0 "Leichte Batterie I"
  ship_light_battery_1_desc:0 "Eine relativ kleine für den Einsatz auf Zerstörern und kleineren Schiffen."
@@ -344,7 +344,7 @@
  ship_armor_carrier_deck_short:0 "Flugdeck-Panzerung"
  ship_armor_carrier_deck_desc:0 "Schwere Panzerplatten schützen die Hangarräume vor Treffern durch feindliche Bomber auf Kosten von weniger Arbeitsraum."
  SHIP_DESIGNER_MODULE_SELECTION:0 "Modul auswählen"
- ### Nation Specific Modules ""
+ ### Nation Specific Modules
  ENG_ship_light_battery_1:0 "4 in QF Mk V"
  ENG_ship_light_battery_2:0 "4.7 in QF Mk IX"
  ENG_ship_light_battery_3:0 "4.7 in QF Mk XI"
@@ -708,7 +708,7 @@
  ITA_ship_armor_bc_2:0 "305mm Gurt/100mm Deck"
  ITA_ship_armor_bb_3:0 "295mm Gürtel/162mm Deck"
  ITA_ship_armor_bc_3:0 "330mm Gürtel/130mm Deck"
- #ITA_ship_armor_cruiser_2:0 "24mm Gürtel/20mm Deck"
+ #ITA_ship_armor_cruiser_2:0 "24mm Belt/20mm Deck" 
  ITA_ship_armor_cruiser_1:0 "70mm Gürtel/50mm Deck"
  ITA_ship_armor_cruiser_2:0 "100mm Gürtel/50mm Deck"
  ITA_ship_armor_cruiser_3:0 "150mm Gürtel/70mm Deck"
@@ -1263,11 +1263,11 @@
  TUR_heavy_ship_engine_1:0 "Parsons 52.000 PS"
  TUR_ship_armor_bc_1:0 "270mm Gürtel/50mm Deck"
  TUR_ship_armor_cruiser_1:0 "70 mm Gürtel/38 mm Deck"
-
+ 
  URG_ship_light_battery_1:0 "120 mm/45 Krupp QF"
  URG_ship_light_battery_2:0 "120 mm/50 Kanone"
  URG_ship_torpedo_1:0 "2x 450mm Torpedowerfer"
-
+ 
  YUG_ship_light_battery_1:0 "120 mm/46 Skoda"
  YUG_ship_light_battery_2:0 "120 mm/56 Skoda"
  YUG_ship_secondaries_1:0 "83 mm/52 Skoda"

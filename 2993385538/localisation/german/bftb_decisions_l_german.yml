@@ -73,7 +73,7 @@
  GRE_debt_0:0 "§Y0%§!"
  GRE_no_debt_paid:0 "§YNKeine Schulden wurden bezahlt§!."
 
-
+ 
  GRE_small_installment_payment_ENG:0 "Kleine Schuldentilgung an die [FROM.GetAdjective]"
  GRE_small_installment_payment_FRA:0 "Kleine Schuldentilgung Zahlung an die [FROM.GetAdjective]"
  GRE_small_installment_payment_ITA:0 "Geringe Rückzahlung an die [FROM.GetAdjective]s"
