@@ -1,5 +1,4 @@
 ﻿l_german:
- ### events ###
  man.3.t:0 "Chinesische Marionette in Peking einrichten?"
  man.3.d:0 "Unsere Nordchinesische Gebietsarmee hat Peking erfolgreich erobert, vielleicht wird die Einsetzung einer Marionettenregierung dort unsere Kosten für die Besetzung des Gebiets senken."
  man.3.a:0 "Chinesen mit Chinesen bekämpfen."
@@ -157,7 +156,6 @@
  man.55.t:0 "Der Krieg geht weiter"
  man.55.d:0 "Unser Vertreter wurde von der japanischen Militärpolizei verhaftet."
  man.55.b:0 "Ungeheuerlich!"
- ## 19/1/2017 ##
  man.57.t:0 "Regierungsumstrukturierung in [From.GetName]"
  man.57.d:0 "[From.GetLeader] hat seine Regierung auf eigene Faust umstrukturiert, und ihre Politik ist unseren Interessen immer weniger zuträglich."
  man.57.a:0 "Wir müssen ihre Autonomie ergreifen, um weiteren Schaden für unsere Interessen zu verhindern."
@@ -172,18 +170,9 @@
  man.60.t:0 "[From.GetName] annektiert"
  man.60.d:0 "Im Wissen, dass dies zum Wohle des [From.GetNameADJ] und des [Root.GetNameADJ]-Volkes ist, hat [From.GetLeader] zugestimmt, dass [From.GetName] Teil von [Root.GetNameDEF] wird."
  man.60.a:0 "Ein glorreicher Tag."
- ## news ##
- 
-
- ### focus ###
  MAN_command:0 "Kaiserliche Garde gründen"
  MAN_command_desc:0 ""
- 
- ### trait ###
  overlord_guy:0 "Untertan"
-
- 
- ### country ###
  puyi:0 "Puyi"
  kantogun_administration:0 "Verwaltung der Kwantung-Armee"
  hotsumi_ozaki:0 "Hotsumi Ozaki"
@@ -209,7 +198,6 @@
  tadashi_katakura:0 "Tadashi Katakura"
  manshu_hikoki:0 "Manshuria Flugzeug"
  south_manchuria_railway:0 "Südmandschurei-Eisenbahn"
- 
  MEN_equipment_effort:0 "Aufwand für Ausrüstung"
  MEN_equipment_effort_desc:0 "Die Grenzen der Ausrüstung, die von der Infanterie getragen werden kann, werden ständig verschoben. Wir werden uns darauf konzentrieren, unseren Truppen die bestmögliche Ausrüstung zu geben."
  MEN_motorization_effort:0 "Bemühung um Motorisierung"
@@ -243,69 +231,48 @@
  MEN_request_zaibatsu_investment_on_military_industry_desc:0 "Die Japaner können in unsere Wirtschaft investieren, um den Wiederaufbau der Rüstungsindustrie zu unterstützen."
  MEN_request_zaibatsu_investment_on_industry:0 "Zaibatsu-Industrie-Investitionen"
  MEN_request_zaibatsu_investment_on_industry_desc:0 "Die Japaner können in unsere Wirtschaft investieren, um den Wiederaufbau der zivilen Industrie zu unterstützen."
- 
  MEN_sow_anti_japanese_sentiment:0 "Anti-japanische Stimmung säen"
  MEN_sow_anti_japanese_sentiment_desc:0 "Wenn jemand in unseren Reihen die Japaner als Retter sieht, wird der Plan zur Wiederherstellung unserer einst freien Nation zweifellos auf einige Hindernisse stoßen. Die Verbreitung von Informationen, die dem Image der Japaner schaden, soll helfen, die Situation zu verbessern."
  MEN_assassination_of_japanese_officials:0 "Ermordung japanischer Beamter"
  MEN_assassination_of_japanese_officials_desc:0 "Lokale japanische Beamte stellen eine Bedrohung für den Wiederherstellungsplan dar. Um die Gefahr einer Beeinträchtigung des Plans zu minimieren, müssen sie beseitigt werden."
  MEN_freedom:0 "Freiheit"
  MEN_freedom_desc:0 "Nehmen Sie den Krieg des Widerstands wieder auf!"
- 
  MEN_jap_industrial_development_company:0 "£tech_mod Japanische Investitionen"
  MEN_jap_industrial_development_company_desc:0 "Japanische Kapitalisten können es kaum erwarten, Geld in unsere Wirtschaft zu stecken, in der Hoffnung auf ein gutes Geschäft, jetzt, wo die Wirtschaft auf dem Tiefpunkt ist."
-
- 
  MEN_japanese_advisors:0 "Militärische Berater anfordern"
  MEN_japanese_advisors_desc:0 "Die hier stationierten japanischen Offiziere haben viel Erfahrung, die unser Militär verbessern könnte. Die Einstellung eines solchen Offiziers als Militärberater wäre für unser Militär von großem Nutzen und würde auch unsere Beziehungen zu Japan verbessern."
-
  MEN_embrace_the_opium_trade:0 "Umarmung des Opiumhandels"
  MEN_embrace_the_opium_trade_desc:0 "Opium ist für die Menschen ein zweischneidiges Schwert, aber wir können die Seite, die auf den Feind zeigt, schärfen, um den Profit aus den Plantagen zu erhöhen."
- 
  MEN_claim_territory:0 "Chinesisches Territorium beanspruchen"
  MEN_claim_territory_desc:0 ""
- 
  MEN_ban_communism:0 "Kommunismus verbieten"
  MEN_ban_communism_desc:0 ""
- 
  MEN_war_propaganda:0 "Kriegspropaganda"
  MEN_war_propaganda_desc:0 ""
- 
  MEN_military_first:0 "£tech_mod Militär zuerst"
  MEN_military_first_desc:0 ""
- 
  MEN_study_foreign_ship:0 "Studium ausländischer Schiffskonstruktionen"
  MEN_study_foreign_ship_desc:0 ""
- 
  MEN_planning_our_empire:0 "Das Reich zurückfordern"
  MEN_planning_our_empire_desc:0 ""
- 
  MEN_military_dictatorship:0 "Militärische Kontrolle durchsetzen"
  MEN_military_dictatorship_desc:0 ""
- 
  MEN_supreme_leader:0 "Diktatur festigen"
  MEN_supreme_leader_desc:0 ""
- 
  MEN_demand_taiwan:0 "Übertragung von Taiwan beantragen"
  MEN_demand_taiwan_desc:0 ""
- 
  MEN_taiwan_fleet_hub:0 "Flottenstützpunkt Taiwan"
  MEN_taiwan_fleet_hub_desc:0 ""
- 
  MEN_pacific_fleet:0 "Schwerpunkt Pazifikflotte"
  MEN_pacific_fleet_desc:0 ""
- 
  MEN_sea_fleet:0 "Schwerpunkt Asiatische Flotte"
  MEN_sea_fleet_desc:0 ""
- 
  MEN_pacific_expansion:0 "Kapital-Doktrin"
  MEN_pacific_expansion_desc:0 ""
- 
  MEN_sea_expansion:0 "Doktrin der leichten Truppen"
  MEN_sea_expansion_desc:0 ""
- 
  MEN_chen_gongbo:0 "Chen Gongbo"
  MEN_chu_minyi:0 "Chu Minyi"
-
 MEN_police_action:0 "Aufbau lokaler Polizeikräfte"
 MEN_government_shang:0 "6. Nationalkongress der Kuomintang"
 MEN_equipment_shipment:0 "Japanische Lieferung von Polizeiausrüstung"

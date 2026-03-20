@@ -108,12 +108,9 @@ INDUSTRIAL_ORG_EQUIPMENT_modern_tank_aa_chassis: "$modern_tank_aa_chassis$"
 INDUSTRIAL_ORG_EQUIPMENT_modern_tank_artillery_chassis: "$modern_tank_artillery_chassis$"
 INDUSTRIAL_ORG_EQUIPMENT_modern_tank_destroyer_chassis: "$modern_tank_destroyer_chassis$"
 INDUSTRIAL_ORG_EQUIPMENT_gw_tank_equipment: "$gw_tank_equipment$"
-
-#BICE
 INDUSTRIAL_ORG_EQUIPMENT_mortar_equipment: "$mortar_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_HMG_equipment: "$HMG_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_SMG_equipment: "$SMG_equipment$"
-
 INDUSTRIAL_ORG_EQUIPMENT_mountain_artillery_equipment: "$mountain_artillery_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_medartillery_equipment: "$medartillery_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_Hvartillery_equipment: "$Hvartillery_equipment$"
@@ -122,24 +119,20 @@ INDUSTRIAL_ORG_EQUIPMENT_infantrygun_equipment: "$infantrygun_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_medanti_tank_equipment: "$medanti_tank_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_HVanti_tank_equipment: "$HVanti_tank_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_HVanti_air_equipment: "$HVanti_air_equipment$"
-
 INDUSTRIAL_ORG_EQUIPMENT_radio_equipment: "$radio_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_recon_equipment: "$recon_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_garrison_equipment: "$garrison_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_infantry_uniforms: "$infantry_uniforms$"
-
 INDUSTRIAL_ORG_EQUIPMENT_para_equipment: "$para_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_amph_equipment: "$amph_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_mount_equipment: "$mount_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_desert_equip: "$desert_equip$"
 INDUSTRIAL_ORG_EQUIPMENT_arctic_equipment: "$arctic_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_jungle_equipment: "$jungle_equipment$"
-
 INDUSTRIAL_ORG_EQUIPMENT_mechanized_hmg: "$mechanized_hmg$"
 INDUSTRIAL_ORG_EQUIPMENT_mechanized_mortar: "$mechanized_mortar$"
 INDUSTRIAL_ORG_EQUIPMENT_mechanized_at: "$mechanized_at$"
 INDUSTRIAL_ORG_EQUIPMENT_mechanized_aa: "$mechanized_aa$"
-
 INDUSTRIAL_ORG_EQUIPMENT_artytruck_equipment: "$artytruck_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_artytractor_equipment: "$artytractor_equipment$"
 INDUSTRIAL_ORG_EQUIPMENT_recon_mot_equipment: "$recon_mot_equipment$"

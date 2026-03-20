@@ -1,36 +1,65 @@
 ﻿l_german:
- role_infantry_title: "Infantry Division"##### NOT TRANSLATED #####
- role_assault_infantry_title: "Assault Infantry Division"##### NOT TRANSLATED #####
- role_garrison_title: "Garrison Division"##### NOT TRANSLATED #####
- role_light_infantry_title: "Light Infantry Division"##### NOT TRANSLATED #####
- role_heavy_infantry_title: "Heavy Infantry Division"##### NOT TRANSLATED #####
- role_cavalry_title: "Cavalry Division"##### NOT TRANSLATED #####
- role_motorized_title: "Motorized Division"##### NOT TRANSLATED #####
- role_light_armor_title: "Light Armor Division"##### NOT TRANSLATED #####
- role_light_armor_alt_title: "Light Armor Division (alt)"##### NOT TRANSLATED #####
- role_medium_armor_title: "Medium Armor Division"##### NOT TRANSLATED #####
- role_medium_armor_alt_title: "Medium Armor Division (alt)"##### NOT TRANSLATED #####
- role_heavy_armor_title: "Heavy Armor Division"##### NOT TRANSLATED #####
- role_heavy_armor_alt_title: "Heavy Armor Division (alt)"##### NOT TRANSLATED #####
- role_marines_title: "Marines Division"##### NOT TRANSLATED #####
- role_mountaineers_title: "Mountaineers Division"##### NOT TRANSLATED #####
- role_militia_title: "Militia Division"##### NOT TRANSLATED #####
- role_infantry: "infantry"##### NOT TRANSLATED #####
- role_assault_infantry: "assault_infantry"##### NOT TRANSLATED #####
- role_garrison: "garrison"##### NOT TRANSLATED #####
- role_light_infantry: "light_infantry"##### NOT TRANSLATED #####
- role_heavy_infantry: "heavy_infantry"##### NOT TRANSLATED #####
- role_cavalry: "cavalry"##### NOT TRANSLATED #####
- role_motorized: "motorized"##### NOT TRANSLATED #####
- role_light_armor: "light_armor"##### NOT TRANSLATED #####
- role_light_armor_alt: "light_armor_alt"##### NOT TRANSLATED #####
- role_medium_armor: "medium_armor"##### NOT TRANSLATED #####
- role_medium_armor_alt: "medium_armor_alt"##### NOT TRANSLATED #####
- role_heavy_armor: "heavy_armor"##### NOT TRANSLATED #####
- role_heavy_armor_alt: "heavy_armor_alt"##### NOT TRANSLATED #####
- role_marines: "marines"##### NOT TRANSLATED #####
- role_mountaineers: "mountaineers"##### NOT TRANSLATED #####
- role_militia: "militia"##### NOT TRANSLATED #####
-	
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+role_infantry_title:	"Infanteriedivision"
+role_assault_infantry_title:	"Sturm-Infanteriedivision"
+role_garrison_title:	"Garnisonsdivision"
+role_light_infantry_title:	"Leichte Infanteriedivision"
+role_heavy_infantry_title:	"Schwere Infanteriedivision"
+role_cavalry_title:	"Kavalleriedivision"
+role_motorized_title:	"Motorisierte Division"
+role_light_armor_title:	"Leichte Panzerdivision"
+role_light_armor_alt_title:	"Leichte Panzerdivision (alt)"
+role_medium_armor_title:	"Mittlere Panzerdivision"
+role_medium_armor_alt_title:	"Mittlere Panzerdivision (alt)"
+role_heavy_armor_title:	"Schwere Panzerdivision"
+role_heavy_armor_alt_title:	"Schwerpanzerdivision (alt)"
+role_marines_title:	"Marinedivision"
+role_mountaineers_title:	"Gebirgsjägerdivision"
+role_militia_title:	"Milizdivision"
+role_infantry:	"Infanterie"
+role_assault_infantry:	"Sturmtruppen"
+role_garrison:	"Garnison"
+role_light_infantry:	"Leichte Infanterie"
+role_heavy_infantry:	"Schwere Infanterie"
+role_cavalry:	"Kavallerie"
+role_motorized:	"Motorisierte"
+role_light_armor:	"Leichte Panzer"
+role_light_armor_alt:	"leichte_Panzerung_alt"
+role_medium_armor:	"mittlere_Panzerung"
+role_medium_armor_alt:	"mittlere_Panzerung_alt"
+role_heavy_armor:	"schwere_Panzerung"
+role_heavy_armor_alt:	"schwere_Rüstung_alt"
+role_marines:	"Marines"
+role_mountaineers:	"Bergsteiger"
+role_militia:	"Miliz"

@@ -1,6 +1,4 @@
 ﻿l_german:
-
-########### BICE #############
 mio_cat_eq_all_artillery:	"Alle Artillerie"
 mio_cat_eq_all_anti_tank:	"Alle Panzerabwehrkanonen"
 mio_cat_eq_all_anti_air:	"Alle Flugabwehrgeschütze"
@@ -9,9 +7,6 @@ mio_cat_eq_all_special_forces:	"Alle Spezialeinheitenausrüstung"
 mio_cat_eq_all_infantry_weapons:	"Alle Infanteriewaffen"
 mio_cat_eq_all_mechanized:	"Alle mechanisierten Geräte"
 mio_cat_eq_transport:	"Alle motorisierten und Transportgeräte"
-
-
-#### Horse Organisation ###
 generic_horsey_organization:	"Pferderanch"
 mio_header_horse:	"Pferde"
 mio_header_wagon:	"Wagen und Karren"
@@ -22,9 +17,6 @@ generic_mio_trait_cold_training:	"Pferdedecken"
 generic_mio_trait_prefab:	"Vorgefertigte Waggons"
 generic_mio_trait_sturdy:	"Robuste Materialien"
 generic_mio_trait_lightweight:	"Leichte Materialien"
-##################################
-#### Infantry Weapons         ####
-##################################
 generic_mio_trait_personal_grenades:	"Persönliche Granaten"
 generic_mio_trait_bullet_design:	"Projektil Designer"
 generic_mio_trait_fast_reload:	"Clip-Magazine"
@@ -42,69 +34,6 @@ generic_mio_trait_heat_resistance:	"Wüstenanpassung"
 generic_mio_trait_cold_resistance:	"Wärmeschutz"
 generic_mio_trait_rations:	"Spezialisierte Rationen"
 generic_mio_trait_anti_tank_rounds:	"Hohlspitzgeschoss"
-
-
-###################
-####### USA #######
-###################
-
-
-###################
-###### JAPAN ######
-###################
-
-
-######################
-#### SOVIET UNION ####
-######################
-
-########################
-#### UNITED KINGDOM ####
-########################
-
-################
-#### FRANCE ####
-################
-
-FRA_hotchkiss_organization:	"$hotchkiss$"
-
-#################
-#### GERMANY ####
-#################
-
-GER_hugo_boss_organization:	"$Hugo_Boss$"
-
-##################
-###### ITALIEN ######
-##################
-
-
-##################
-#### AUSTRALIEN ####
-##################
-
-AST_generic_artillery_organization:	"$maribyrnong_artillery_manufacturer$"
-AST_generic_motorized_mechanized_organization:	"$rover_motorized_equipment_manufacturer$"
-
-### AUS ###
-AUS_generic_artillery_organization:	"$AUS_hirtenberger$"
-
-### BEL ###
-BEL_generic_artillery_organization:	"$frc_BEL$"
-
-### BH ###
-BRA_generic_infantry_equipment_organization:	"$ITAJUBA$"
-
-### BUL ###
-
-######################
-#### SOVIET UNION ####
-######################
-
-### TUN ###
-TUN_generic_infantry_equipment_organization:	"$TUN_infantry_equipment_manufacturer$"
-TUN_generic_motorized_mechanized_organization:	"$TUN_motorized_equipment_manufacturer$"
-TUN_generic_artillery_organization:	"$TUN_artillery_manufacturer$"
 JAP_hitachi_organization:	"Hitachi"
 JAP_mitsubishi_tank_organization:	"Mitsubishi"
 JAP_mitsubishi_air_organization:	"Mitsubishi"
@@ -183,9 +112,9 @@ SOV_mio_astrov_dual_circuit_power_steering:	"Zweikreis-Servolenkung"
 SOV_mio_astrov_cassette_loading_system:	"Kassetten-Ladesystem"
 SOV_mio_astrov_advanced_spall_protection:	"Verbesserter Schutz vor Splittern"
 
-########################
-#### UNITED KINGDOM ####
-########################
+
+
+
 
 SOV_mio_okmo_increased_fuel_tanks:	"Vergrößerte Treibstofftanks"
 SOV_mio_okmo_cooling_improvements:	"Verbesserungen der Kühlung"
@@ -240,14 +169,14 @@ ENG_mio_vickers_idle_reduction_technology:	"Technologie zur Reduzierung des Leer
 ENG_mio_vickers_ricardo_expertise:	"Ricardo Kompetenz"
 ENG_mio_vickers_alternative_propulsion_systems:	"Alternative Antriebssysteme"
 
-################
-#### FRANCE ####
-################
 
 
-#################
-#### GERMANY ####
-#################
+
+
+
+
+
+
 
 ENG_vauxhall_specialized_factory_floor_rails:	"Spezialisierte Fabrikbodenschienen"
 ENG_vauxhall_specialized_engines_for_heavy_tanks:	"Spezialisierte schwere Panzermotoren"
@@ -255,6 +184,7 @@ ENG_vauxhall_redesign_airflow:	"Redesign Luftstrom"
 ENG_vauxhall_mudguards:	"Schutzbleche"
 ENG_vauxhall_improved_engine_pumps:	"Verbesserte Motorpumpen"
 ENG_vauxhall_resource_saving_construction:	"Ressourcenschonende Konstruktion"
+
 
 ENG_vauxhall_state_of_the_art_carburators:	"Hochmoderne Vergaser"
 ENG_vauxhall_improved_stowage:	"Verbesserte Verstauung"
@@ -286,6 +216,7 @@ GER_mio_improvisor:	"Verbesserer"
 GER_mio_krupp_steel_specialist:	"Stahlspezialist"
 GER_henschel_kessel_factory:	"Produzent von Lokomotiven"
 GER_porsche_mio_fuhrer_friend:	"Hitlers Favorit"
+GER_hugo_boss_organization:	"$Hugo_Boss$"
 ger_rhe_mio_party_ally:	"Der größte Parteiverbündete"
 ger_rhe_mio_flexible_research:	"Flexible Forschung"
 ger_rhe_mio_zeiss_optics:	"Zeiss-Optik"
@@ -331,7 +262,7 @@ GER_porsche_special_tooling:	"Spezialisierte Werkzeuge"
 GER_porsche_emergency_scape_hatches:	"Notausstiegsluken"
 GER_porsche_breaks_armor_protection:	"Zusätzliche Panzerung an den Brüchen"
 GER_porsche_Kurskreisel:	"Kurskreisel"
-GER_daimler_benz_organization: "Daimler Benz"##### NOT TRANSLATED #####
+
 GER_porsche_torsion_bar_suspension_2:	"Verbesserte Torsionsstabaufhängung"
 GER_porsche_gas_super_turbochargers:	"Gas-Turbolader"
 mio_cat_eq_medium_only:	"Alle mittleren Panzer (keine SPGs)"
@@ -358,6 +289,7 @@ GER_man_hydrostatic_transmission:	"Hydrostatisches Getriebe"
 GER_man_sleeve_bearings:	"Hülsenlager"
 GER_man_incendiary_charges:	"Brandbomben"
 GER_man_improved_recoil_mechanism:	"Verbesserter Rückspul-Mechanismus"
+
 GER_db_marenfeld_expansion:	"Marenfeld-Erweiterung"
 GER_db_adapt_the_factories:	"Fabriken anpassen"
 GER_db_improved_carburators:	"Verbesserte Vergaser"
@@ -413,9 +345,9 @@ GER_mio_krupp_long_range_shells:	"Langstreckengeschosse"
 GER_mio_krupp_face_harden_armor:	"Gehärtete Panzerung"
 GER_mio_krupp_enlarged_exhaust_pipe:	"Vergrößerte Auspuffrohre"
 
-###################
-###### ITALY ######
-###################
+
+
+
 
 GER_mio_krupp_man_engines:	"MAN-Motoren"
 GER_mio_krupp_piercing_technology:	"Durchschlagende"
@@ -443,22 +375,83 @@ ITA_mio_trait_military_expansion:	"Militärische Expansion"
 ITA_mio_trait_engine_expansion:	"Erweiterung der Motorenproduktion"
 ITA_mio_trait_tank_assembly_expansion:	"Ausbau der Panzerproduktion"
 
-###################
-#### AUSTRALIA ####
-###################
 
 
-### AUS ###
 
-### BEL ###
 
-### BRA ###
 
-### BUL ###
+
+
+
+
+
+
+
+
+
+
+
+
 ITA_mio_up_gunning_2:	"Verbesserte Kanonen"
 
-### TIB ###
+
+AST_generic_artillery_organization:	"$maribyrnong_artillery_manufacturer$"
+AST_generic_motorized_mechanized_organization:	"$rover_motorized_equipment_manufacturer$"
+AUS_generic_artillery_organization:	"$AUS_hirtenberger$"
+BEL_generic_artillery_organization:	"$frc_BEL$"
+BRA_generic_infantry_equipment_organization:	"$ITAJUBA$"
+
+
+TUN_generic_infantry_equipment_organization:	"$TUN_infantry_equipment_manufacturer$"
+TUN_generic_motorized_mechanized_organization:	"$TUN_motorized_equipment_manufacturer$"
+TUN_generic_artillery_organization:	"$TUN_artillery_manufacturer$"
 GER_mio_test:0	"Sie können diese Eigenschaft freischalten, indem Sie mit dem MIOS eine Motorenentwicklung durchführen."
-
-### TUN ###
-
+SOV_mio_astrov_crew_ergonomics:	"Ergonomie der Besatzung"
+SOV_mio_astrov_gas_purging_systems:	"Gasreinigungssysteme"
+SOV_mio_astrov_digital_instruments:	"Digitale Instrumente"
+SOV_mio_okmo_conical_turret:	"Konischer Turm"
+SOV_mio_okmo_underturret_box:	"Unterturmgehäuse"
+ENG_mio_vickers_field_modifications:	"Feldmodifikationen"
+ENG_mio_vickers_armor_metallurgic_theory:	"Metallurgische Theorie"
+ENG_mio_vickers_sectional_track_links:	"Segmentierte Kettenglieder"
+ENG_mio_vickers_compartmentalized_fuel_tanks:	"Unterteilte Treibstofftanks"
+ENG_mio_vickers_low_profile_turrets:	"Türme mit niedrigem Profil"
+ENG_mio_vickers_high_profile_turrets:	"Türme mit hohem Profil"
+ENG_mio_vickers_advanced_targeting_systems:	"Fortschrittliche Zielerfassungssysteme"
+ENG_mio_vickers_steel_quality_control:	"Stahlqualitätskontrolle"
+ENG_mio_vickers_Hydropneumatic_Suspension_System:	"Hydropneumatisches Federungssystem"
+ENG_vauxhall_production_lines:	"Fertigungslinien"
+ENG_vauxhall_manganese_steels:	"Manganstähle"
+ENG_vauxhall_bostik_sealed_seams:	"Bostik-versiegelte Nähte"
+ENG_mio_nuffield_fire_suppression_systems:	"Brandbekämpfungssysteme"
+GER_porsche_innovator:	"Unermüdlicher Innovator"
+GER_porsche_minimal_quality_control:	"Minimale Qualitätskontrolle"
+GER_porsche_torsion_bar_suspension:	"Torsionsstab-Aufhängung"
+GER_daimler_benz_organization:	"Daimler Benz"
+GER_mio_krupp_remove_tachometers:	"Drehzahlmesser entfernen"
+GER_mio_krupp_improved_air_flow_cooling:	"Verbesserte Luftkühlung"
+GER_mio_krupp_steel_tires:	"Stahlreifen"
+GER_mio_krupp_maybach_engines:	"Maybach-Motoren"
+GER_mio_krupp_db_engines:	"Daimler-Benz-Motoren"
+ITA_mio_trait_local_machine_tool_industry:	"Lokale Werkzeugmaschinenindustrie"
+ITA_mio_trait_aerodynamics_department:	"Abteilung für Aerodynamik"
+ITA_mio_trait_italian_made:	"Made in Italy"
+ITA_mio_trait_new_combustion_chambers:	"Neue Brennkammern"
+ITA_mio_trait_reinforced_rivets:	"Verstärkte Nieten"
+ITA_mio_trait_german_metallurgic_technology:	"Deutsche Metallurgietechnik"
+ITA_mio_trait_specialized_terrain_components:	"Spezialkomponenten für unwegsames Gelände"
+ITA_mio_trait_muzzle_breaks:	"Mündungsbremsen"
+ITA_mio_trait_chromium_plating:	"Verchromung"
+ITA_mio_trait_improved_gearboxes:	"Verbesserte Getriebe"
+ITA_mio_trait_advanced_propellants:	"Fortschrittliche Treibstoffe"
+ITA_mio_trait_extra_horsepower:	"Zusätzliche PS"
+ITA_mio_trait_suspension_improvements:	"Verbesserungen am Fahrwerk"
+ITA_mio_trait_german_optics:	"Deutsche Optik"
+ITA_mio_up_gunning:	"Aufrüstung der Bewaffnung"
+ITA_mio_up_engine:	"Verbesserter Motor"
+ITA_mio_up_suspension:	"Verbesserte Federung"
+ITA_mio_up_armor:	"Verbesserte Panzerung"
+ITA_mio_up_engine_2:	"Fortschrittliche Motoren"
+ITA_mio_radio_tech:	"Funktechnik"
+BUL_generic_motorized_mechanized_organization:	"$chavdar$"
+TIB_generic_infantry_equipment_organization:	"$drabshi_lekhoung_arsenal_section$"

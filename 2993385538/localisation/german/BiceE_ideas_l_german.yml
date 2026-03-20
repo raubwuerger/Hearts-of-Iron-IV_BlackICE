@@ -44,22 +44,42 @@ FRA_victors_of_wwi_2:0	"Die Sieger des Großen Krieges"
 FRA_victors_of_wwi_2_desc:0	"Der Sieg Frankreichs im Ersten Weltkrieg hat zu einer gefährlichen Selbstüberschätzung und Selbstgefälligkeit der Militärs geführt. Strategische Fortschritte und Reformen kommen nur langsam und zögernd voran."
 FRA_victors_of_wwi_1:0	"Die Sieger des Großen Krieges"
 FRA_victors_of_wwi_1_desc:0	"Der Sieg Frankreichs im Ersten Weltkrieg hat zu einer gefährlichen Selbstüberschätzung und Selbstgefälligkeit der Militärs geführt. Strategische Fortschritte und Reformen kommen nur langsam und zögernd voran."
+
+
+
+
 FRA_protected_by_the_maginot_line_2:0	"Geschützt durch die Maginot-Linie"
 FRA_protected_by_the_maginot_line_2_desc:0	"Wir haben unser Vertrauen in die Maginot-Linie gestärkt."
 maginot_line:	"Geschützt durch die Maginot-Linie"
 FRA_defensive_doc:0	"Geschützt durch die Maginot-Linie"
+
+
+
+
 FRA_stable_desc:0	"Unsere Versprechen für wirtschaftlichen Wohlstand haben das Vertrauen der Bevölkerung in unsere Regierung gestärkt."
 FRA_cut_maginot:0	"Kürzung der Maginot-Finanzierung"
 FRA_maginot_fund_army:0	"Finanzierung unserer Armee"
 FRA_maginot_fund_navy:0	"Finanzierung der Marine"
+
+
+
+
 FRA_final_push_idea:0	"Großoffensive"
 FRA_strat_bombing:0	"Strategische Bombardierung verstärken"
 FRA_abandon_navy:0	"Abschaffung der Marine"
 FRA_abandon_navy_desc:0	"Angesichts der zunehmenden Spannungen in Europa können wir es uns nicht leisten, Ressourcen für unsinnige Unternehmungen zu verschwenden. Die Royal Navy ist bei weitem die stärkste Marine der Welt. Solange wir mit Großbritannien verbündet sind, werden wir uns auf ihre Marine verlassen und alle unsere Ressourcen auf unsere Armee und Luftwaffe konzentrieren."
+
+
+
+
 FRA_commie_resistance_1:0	"Französischer kommunistischer Widerstand"
 FRA_commie_resistance_2:0	"Französischer kommunistischer Widerstand"
 FRA_defeatism_1:0	"Niederlagen"
 FRA_defeatism_1_desc:0	"Der Verlust des französischen Festlandes hat den Geist unseres Volkes gebrochen. Um wieder in den Kampf einzusteigen, müssen wir zunächst den Glauben der Bevölkerung an unseren Sieg wiederherstellen."
+
+
+
+
 FRA_allied_fuel_imports:0	"Treibstoffimporte der Alliierten"
 FRA_free_dragoon_idea:0	"In Südfrankreich einmarschieren!"
 FRA_allied_fuel_imports_desc:0	"Unsere Verbündeten haben zugestimmt, uns mit Treibstoff für unser Militär zu versorgen."
@@ -68,17 +88,27 @@ FRA_free_fra_airforce_1:0	"Freies Frankreich Luftwaffe"
 
 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ## EOF ##
+design_cost_factor_5_TT:	"$category_tanks$ Stückkosten: §R+500,00 %§!\n$category_motmech$ Stückkosten: §R+500,00 %§!"
+design_cost_factor_4_TT:	"$category_tanks$ Stückkosten für Konstruktion: §R+400,00 %§!\n$category_motmech$ Stückkosten: §R+400,00 %§!"
+design_cost_factor_3_TT:	"$category_tanks$ Stückkosten für Konstruktion: §R+300,00 %§!\n$category_motmech$ Stückkosten für Konstruktion: §R+300,00 %§!"
+design_cost_factor_2_TT:	"$category_tanks$ Stückkosten für Konstruktion: §R+200,00 %§!\n$category_motmech$ Entwicklungskosten pro Einheit: §R+200,00 %§!"
+FRA_defensive_doc_desc:0	"Wir haben unser Vertrauen in die Maginot-Linie gestärkt."
+FRA_offensive_doc:0	"Geschützt durch die Maginot-Linie"
+FRA_offensive_doc_desc:0	"Wir haben unser Vertrauen in die Maginot-Linie verringert."
+FRA_stable:0	"Versprochenes Wirtschaftswachstum"
+FRA_maginot_fund_air:0	"Finanzierung unserer Luftwaffe"
+FRA_attack_westwall_idea:0	"In der Offensive"
+FRA_phony_war_idea:0	"Der lange Krieg"
+FRA_hold_out:0	"Inspirierte Verteidigung"
+FRA_freedom_resistance_1:0	"Französischer Widerstand"
+FRA_freedom_resistance_2:0	"Französischer Widerstand"
+FRA_freedom_resistance_3:0	"Französischer Widerstand"
+FRA_freedom_resistance_4:0	"Französischer Widerstand"
+FRA_defeatism_2:0	"Defätismus"
+FRA_defeatism_2_desc:0	"Der Verlust des französischen Festlands hat den Kampfgeist unseres Volkes gebrochen. Um wieder in den Kampf einzusteigen, müssen wir zunächst das Vertrauen des Volkes in unseren Sieg wiederherstellen."
+FRA_defeatism_3:0	"Defätismus"
+FRA_defeatism_3_desc:0	"Der Verlust des französischen Festlands hat den Kampfgeist unseres Volkes gebrochen. Um wieder in den Kampf zurückzukehren, müssen wir zunächst das Vertrauen des Volkes in unseren Sieg wiederherstellen."
+FRA_repair_roads:0	"Programm zur Instandsetzung der Infrastruktur"
+FRA_repair_factories:0	"Programm zur Instandsetzung der Fabriken"
+FRA_colonies:	"Französische Fremdenlegion"
+ENG_BEF_idea:0	"Einsatz der britischen Expeditionsstreitkräfte"

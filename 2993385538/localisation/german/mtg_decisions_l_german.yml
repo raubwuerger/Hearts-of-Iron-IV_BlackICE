@@ -255,7 +255,6 @@
  ENG_impose_martial_law_on_canada_desc:0 "Das kanadische Volk ist fehlgeleitet und muss vor sich selbst geschützt werden. Während dieser Zeit können wir sie umerziehen und für ihre Regierung sorgen."
  ENG_impose_martial_law_tt:1 "Die KI wird 180 Tage lang daran gehindert, auszubrechen."
  ENG_cannot_leave_faction:1 "Es herrscht Kriegsrecht."
-
  ENG_propaganda_campaigns_in_canada:1 "Propagandakampagnen in Kanada"
  ENG_propaganda_campaigns_in_canada_desc:0 "Wir werden eine große Propagandakampagne starten, um das kanadische Volk über die Torheiten seiner Regierung und die Notwendigkeit britischer Führung aufzuklären."
  ENG_replace_government_in_canada_fascism:1 "Einsetzung einer faschistischen Regierung in Kanada"
@@ -593,5 +592,4 @@
  USA_freedom_for_Papua:0 "Freiheit für Papua"
  USA_indonesian_liberation:0 "Indonesische Befreiung"
  USA_decolonization:0 "Entkolonisierung"
- 
  CONSERVATISM_COALITION_OFFER_TT:0 "Die §YConservatist§! Partei ist bereit, sich einer Koalition mit uns anzuschließen.\n\nPartei-Ideen:\n§GForderungen§!\n\n§YAbneigungen§!\n\n§RPVerhinderungen§!"

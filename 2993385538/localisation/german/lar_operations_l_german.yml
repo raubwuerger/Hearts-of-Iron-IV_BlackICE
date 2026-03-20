@@ -318,48 +318,91 @@ launch_coup_exfiltration_outcome_fail:0	"In den Wirren des Aufstandes haben wir 
 free_agency_upgrade_tt:0	"Gewinnen Sie eine zufällige §YSpionageabteilungsverbesserung§!"
 
 operation_warsaw_uprising_desc:0	"Die tapferen Widerstandskämpfer Polens sehnen sich danach, Warschau, unser Land, von unseren Feinden zu befreien. Wir müssen ihnen nur das Signal geben und Polen wird wieder leben!"
+
 raid_trotskys_villa:0	"Stürmen Sie Trotzkis Villa"
+
 
 raid_trotskys_villa_attack:0	"Stürmen Sie die Villa"
 raid_trotskys_villa_attack_desc:0	"Eine kleine Gruppe unter der Führung eines NKVD-Offiziers wird in die Villa eindringen, alle Wachen überwältigen, Trotzki finden und ihn wegen Verbrechen gegen den Staat hinrichten."
+
+
 murder_trotsky_desc:0	"Ein direkter Angriff ist unwahrscheinlich. Wir sollten subtilere Mittel einsetzen, um an Trotzki heranzukommen und ihn dann niederzuschlagen, während er uns den Rücken zuwendet."
 murder_trotsky_outcome_tt:0	"Wir werden versuchen, Trotzki mit Hilfe eines Agenten zu ermorden, den wir in seinem Umfeld platziert haben."
+
+
 murder_trotsky_infiltration_outcome:0	"Unser Agent hat sich erfolgreich das Vertrauen von Trotzki und seinen Wachen erschlichen, indem er den Zugang zu seinem gefälschten Pass genutzt hat."
 murder_trotsky_attack:0	"Attentat"
+
+
 murder_trotsky_exfiltration:0	"Flucht"
 murder_trotsky_exfiltration_desc:0	"Unser Agent wird versuchen, die Verwirrung und das Chaos zu nutzen, um zu fliehen und sich einem Verhör zu entziehen."
+
+
 nuclear_espionage:0	"Atomwaffenprogramm infiltrieren"
 nuclear_espionage_desc:0	"Unser Atomwaffenprogramm ist anderen Ländern hinterher. Wir sollten eine Operation planen, um ausländische Atomwaffenprogramme zu infiltrieren und an wichtige Blaupausen und Daten zu gelangen."
+
+
 sabotage_burn_fuel_storage:0	"Brennstoff-Silo verbrennen"
 sabotage_burn_fuel_storage_desc:0	"Unsere Agenten haben Lagereinheiten entdeckt, die hochentzündliche Verbindungen enthalten. Im Schutze der Nacht werden unsere Agenten das Lager in Brand setzen und sich dann in dem anschließenden Durcheinander zurückziehen."
+
+
 
 sabotage_fuel_explosives_outcome:0	"Das Team platzierte den Sprengstoff erfolgreich und brachte die Anlage zum Einsturz. Es wurden umfangreiche Schäden an den Treibstoffsilos gemeldet, wobei eine Menge Treibstoff vernichtet wurde."
 sabotage_burn_oil_refinery:0	"Brennstoffraffinerie verbrennen"
 sabotage_burn_oil_refinery_desc:0	"Unsere Agenten haben Lagereinheiten entdeckt, die hochentzündliche Verbindungen enthalten. Im Schutze der Nacht setzen unsere Agenten das Lager in Brand und ziehen sich dann in dem darauf folgenden Durcheinander zurück."
+
+
+
 sabotage_oil_explosives_outcome:0	"Das Team platzierte den Sprengstoff erfolgreich und brachte die Anlage zum Einsturz. Die Ölraffinerie wurde erheblich beschädigt, die Produktion kam vollständig zum Stillstand."
 sabotage_burn_radar:0	"Radar verbrennen"
 sabotage_burn_radar_desc:0	"Unsere Agenten haben Elektronik entdeckt, die durch einfache Brandstiftung stark beschädigt werden kann. Im Schutze der Nacht schleichen sie sich zur Radarstation und zünden sie an."
+
+
+
 sabotage_radar_explosives_outcome:0	"Das Team hat den Sprengstoff erfolgreich platziert und die Anlage zum Einsturz gebracht. Es wurden erhebliche Schäden an der Radarstation gemeldet. Der Feind ist nun völlig blind in der Luft!"
 sabotage_burn_port:0	"Hafen verbrennen"
 sabotage_burn_port_desc:0	"Unsere Agenten haben ein großes Konvoischiff entdeckt, das derzeit im Hafen angedockt ist. Sie werden sich an Bord schleichen, ein Feuer legen und so den gesamten Hafen für andere Schiffe mit den entstehenden Trümmern blockieren."
+
+
+
 sabotage_port_explosives_outcome:0	"Das Team platziert den Sprengstoff erfolgreich und bringt die Anlage zum Einsturz. Es wurden umfangreiche Schäden an der Marinebasis gemeldet. Feindliche Schiffe werden Schwierigkeiten beim Andocken haben."
 target_leader_suitcase_bomb:	"Aktenkoffer-Bombe"
 target_leader_suitcase_bomb_desc:	"Unsere Agenten infiltrieren das feindliche Armeehauptquartier und schmuggeln eine Bombe in einer Aktentasche mit sich. Sie platzieren sie im Besprechungsraum und zünden sie, wenn die Offiziere ihre Besprechung beginnen."
+
+
+
 target_leader_ambush_outcome:	"Durch die Blockade der Straße mit einem Lastwagen gelingt es unseren Agenten, den feindlichen Konvoi anzugreifen. Der General wurde verwundet und kam nur knapp mit dem Leben davon. Unsere Agenten mussten sich zurückziehen, bevor die feindliche Verstärkung eintraf."
 target_leader_sabotage_vehicle:	"Fahrzeug sabotieren"
 target_leader_sabotage_vehicle_desc:	"Unsere Agenten werden das persönliche Fahrzeug des feindlichen Anführers sabotieren und ein paar Schrauben entfernen. Dann erledigen Zeit und Geschwindigkeit den Rest."
+
+
+
 target_attache_suitcase_bomb_outcome:	"Unsere Agenten haben das Hauptquartier der Armee erfolgreich infiltriert und die Aktentasche platziert. Die Bombe wurde mit Hilfe eines zeitgesteuerten Sprengstoffs gezündet, als die Offiziere mit ihrer Besprechung begannen."
 target_attache_ambush:	"Überfall auf der Straße"
 target_attache_ambush_desc:	"In Zusammenarbeit mit unserem lokalen Netzwerk erhalten unsere Agenten Informationen über die genauen Routen, die der Feind nehmen wird. Sie legen einen Hinterhalt auf der Straße und feuern auf den Attache und seine Eskorte."
+
+
+
 target_attache_sabotage_vehicle_outcome:	"Unsere Agenten haben das persönliche Fahrzeug des feindlichen Attachés erfolgreich sabotiert. Dem Funkverkehr zufolge kam es kurz darauf zu einem Unfall, bei dem der Attache verwundet wurde."
 compliance_drop_leaflets:	"Flugblätter abwerfen"
 compliance_drop_leaflets_desc:	"Unsere Agenten werden Flugblätter über die wahre Lage an den Fronten an die Zivilbevölkerung verteilen und sie über die Gräueltaten der Besatzungstruppen informieren."
+
+
+
 compliance_uncover_propaganda_outcome:	"Unsere Agenten haben erfolgreich Radios an die Bevölkerung verteilt und werden sie häufig über den wahren Stand des Krieges informieren."
 agency_upgrade_cost:	"Nachrichtendienst"
 AGENCY_UPGRADE_TOOLTIP:	"§Y[?v.GetTokenLocalizedKey]§!\n[!upgrade_button_click_enabled]\n[!upgrade_button_click]"
- 
- 
+
+
+AGENCY_UPGRADE_DURATION_MODIFIER:	"Modifikatoren: [?modifiers|-=%0]"
+AGENCY_UPGRADE_DURATION_SHARED:	"[?best_discount_tag.GetFlag][?best_discount_tag.GetName] hat diese Aufrüstung abgeschlossen: [?best_discount|%0-=]"
+AGENCY_UPGRADE_DURATION_FACTION:	"    Austausch von Fraktionsinformationen: [?num_intel_sharing|%ß-=]"
+
+
+
 AGENCY_MUTUALLY_EXCLUSIVE:	"§RMutually exclusive with $AGAINST$§!"
+AGENCY_UPGRADE_TAB_TOOLTIP:	"[?days_remaining|Y0] Tage"
+is_assigned_as_faction:	"Kann Fraktionsberater sein"
 keep_asset_chance_bad:	"[?asset_chance|%0R]"
 keep_asset_chance_ok:	"[?asset_chance|%0Y]"
 keep_asset_chance_good:	"[?asset_chance|%0G] [?asset_chance|%0G]"
@@ -367,300 +410,677 @@ civilian_asset_status_tooltip:	"Max. zivile Vermögenswerte: [?max_asset_civilia
 army_asset_status_tooltip:	"Max. Armeemittel: [?max_asset_army|=+0]\nChance, Armeemittel zu verwenden: [GetArmyAssetChance]"
 air_asset_status_tooltip:	"Max Luftwaffenmittel: [?max_asset_air|=+0]\nChance, Luft-Vermögenswerte zu verwenden: [GetAirAssetChance]"
 navy_asset_status_tooltip:	"Max Marinemittel: [?max_asset_navy|=+0]\nChance, Marine-Mittel zu verwenden: [GetNavyAssetChance]"
+
 upgrade_steal_tech_special_project_tt:	"\n§YStufe: 3§!\n§YSpezialprojekt§! gestohlener Fortschritt wird §Ysubtrahiert§! vom Opfer."
 upgrade_training_centers_tt:	"\n§YStufe: 3§!\nEntsperrt §YLocal Agent Recruitment§! Entscheidungen"
- 
- 
+
+
+
+
+
+
+
+
+
 disable_cryptology_department:	"Abteilung für Kryptologie sperren: §RYes§!"
- 
- 
+
+
+
+
 enable_operations:	"Geheimdienstoperationen freischalten"
 UNLOCK_OPERATION:	"Schaltet die Operation frei: §Y$OPERATION$§!"
 UNLOCK_OPERATION_ALL:	"Intelligence-Operationen freischalten: §GJa§!"
- 
+
 CAPTIVE_LIST_TOOLTIP:	"[!captive_click_enabled]\n[!captive_click]"
 CAPTURED_OPERATIVE_TOOLTIP:	"Geschicklichkeit: [?skill|Y0]\n"
 ASSET_NEED_OPERATIVE:	"Hat ein Agent aktiv gegen §Y[?v.GetNameWithFlag]§!"
 RESISTANCE_ACTION_FOCUS_TT:	"[!asset_setting_resistance_acquire_asset_click]"
 RESISTANCE_SABOTAGE_FOCUS_TT:	"[!asset_setting_resistance_sabotage_industry_click]"
 RESISTANCE_RESOURCE_FOCUS_TT:	"[!asset_setting_resistance_sabotage_resources_click]"
+
 RESISTANCE_AREA_TOOLTIP_DELAYED:	"§YKlicken Sie§!, um dieses Widerstandsgebiet als Ziel für Operationen auszuwählen."
- 
+RESISTANCE_AREA_SELECTED:	"Dieses Widerstandsgebiet ist §Gausgewählt§!. §YWiderstand stärken§! & §YBesetzte Zivilisten unterstützen§! wird es als §GEinsatzgebiet§! nutzen. \n"
+RESISTANCE_AREA_CLEAR:	"Dieses Widerstandsgebiet ist nicht mehr aktiv. Zum Löschen hier klicken."
+
 FAKE_INTEL_UNIT_MAX:	"Höchstens [?num_to_create|Y0] gefälschte Geheimdienstdivisionen (25% unserer gesamten Armee oder mindestens 24 Einheiten). Aktuell: [?num_fake_intel_divisions]"
- 
+
 ADD_INTEL_TOKEN:	"Erhalten Sie §Y$TOKEN$§! in §Y[From.GetNameWithFlag]§!, der Ihnen gewährt: $MODIFIER$: $AMOUNT$%"
 LOCAL_OPERATION_EFFECT_TOOLTIP:	"Lokaler Operationseffekt: [?local_effect|%+=1]"
+
+
+
 ADD_NAVY_ASSET:	"Erhöht £text_infiltrate_navy_token §YMarine Mittel§! um §G+1§!"
+
+
+
+
+
+
 REQUIRE_CIVILIAN_ASSET:	"Benötigt £text_infiltrate_civilian_token §YZivile Assets§! gegenüber §Y[From.GetFlag][From.GetNameDef]§!."
+
 REQUIRE_AIR_ASSET:	"Benötigt £text_infiltrate_air_token §YLuftwaffen Mittel§! in Richtung §Y[From.GetFlag][From.GetNameDef]§!"
 REQUIRE_NAVY_ASSET:	"Benötigt £text_infiltrate_navy_token §YMarine Mittel§! zu §Y[From.GetFlag][From.GetNameDef]§!"
- 
+
 CRITICAL_SUCCESS:	"§GKritischer Erfolg!§! §YWir erhalten die folgenden Boni:§!\n "
+
 OPERATION_CHANCE_ARMY_TOKEN:	"Diese Operation hat eine [GetArmyAssetChance] Chance, einen £text_infiltrate_army_token §YArmee Mittel§!\n zu verbrennen"
- 
+
+
+
+COLLABORATION_POTENTIAL_OUTCOME:	"\n    Basis: [?base|%+=]\n    [?ROOT.current_party_ideology_group.GetTokenLocalizedKey] Unterstützung: [?ideology|+=%]\n    Skaliert durch bestehende Zusammenarbeit: §Yx[?scale|2]§!"
+
 STEAL_TECH_CIVILIAN_TOOLTIP:	"Erhalten Sie die folgenden Effekte für die nächsten [?operation_steal_tech_civilian_uses@FROM|G0] Technologien, die §Y[From.GetNameWithFlag]§! erforscht:\n - Bonus für die Forschungsgeschwindigkeit: [?operation_steal_tech_civilian_bonus@FROM|%G0]\n - Bonus für den Zeitvorsprung: [?operation_steal_tech_civilian_ahead_of_time@FROM|%G0]"
 STEAL_TECH_CIVILIAN_OUTCOME_POTENTIAL_TOOLTIP:	"Erhalten Sie die folgenden Effekte für die nächsten [?uses|G0] Technologien, die §Y[From.GetNameWithFlag]§! erforscht:\n - Forschungsgeschwindigkeitsbonus: [?bonus|%G0]\n - Zeitvorsprungsbonus: [?aot_bonus|%G0]\n§YCritical Success Chance:§! §G[?CRITICAL_SUCCESS]%§!, die gewährt:\n"
 STEAL_TECH_ARMY_TOOLTIP:	"Erhalten Sie die folgenden Effekte für die nächsten [?operation_steal_tech_army_uses@FROM|G0] Technologien §Y[From.GetNameWithFlag]§! Forschungen:\n - Forschungsgeschwindigkeitsbonus: [?operation_steal_tech_army_bonus@FROM|%Y0]\n - Zeitvorsprungsbonus: [?operation_steal_tech_army_ahead_of_time@FROM|%Y0]"
+
 STEAL_TECH_AIR_TOOLTIP:	"Erhalten Sie die folgenden Effekte für die nächsten [?operation_steal_tech_air_uses@FROM|G0] Technologien §Y[From.GetNameWithFlag]§! Forschungen:\n - Forschungsgeschwindigkeitsbonus: [?operation_steal_tech_air_bonus@FROM|%Y0]\n - Zeitvorsprungsbonus: [?operation_steal_tech_air_ahead_of_time@FROM|%Y0]"
 STEAL_TECH_AIR_OUTCOME_POTENTIAL_TOOLTIP:	"Erhalten Sie die folgenden Effekte für die nächsten [?uses|G0] Technologien, die §Y[From.GetNameWithFlag]§! erforscht:\n - Forschungsgeschwindigkeitsbonus: [?bonus|%G0]\n - Zeitvorsprungsbonus: [?aot_bonus|%G0]\n§YCritical Success Chance:§! §G[?CRITICAL_SUCCESS]%§!, die gewährt:\n"
 STEAL_TECH_NAVY_TOOLTIP:	"Erhalten Sie die folgenden Effekte für die nächsten [?operation_steal_tech_navy_uses@FROM|G0] Technologien §Y[From.GetNameWithFlag]§! Forschungen:\n - Forschungsgeschwindigkeitsbonus: [?operation_steal_tech_navy_bonus@FROM|%Y0]\n - Zeitvorsprungsbonus: [?operation_steal_tech_navy_ahead_of_time@FROM|%Y0]"
 STEAL_TECH_NAVY_OUTCOME_POTENTIAL_TOOLTIP:	"Erhalten Sie die folgenden Effekte für die nächsten [?uses|G0] Technologien, die §Y[From.GetNameWithFlag]§! erforscht:\n - Forschungsgeschwindigkeitsbonus: [?bonus|%G0]\n - Zeitvorsprungsbonus: [?aot_bonus|%G0]\n§YKritische Erfolgschance:§! §G[?CRITICAL_SUCCESS]%§!, die gewährt:\n"
 civilian_steal_tech_critical:	"Gestohlene industrielle Blaupausen"
 army_steal_tech_critical:	"Gestohlene militärische Blaupausen"
- 
+
+
 operation_sabotage_fuel:	"Sabotage von Treibstoffsilos"
- 
+
+
+
 SABOTAGE_FUEL_SPREAD_TOOLTIP:	"§Y(Ausbreitungseffekt)§! §YBrennstoffsilo:§!\n - Erhielt [?ROOT.operation_sabotage_fuel_damage_spread@FROM|R] Schadensstufen.\n - Erhielt [?ROOT.operation_sabotage_fuel_repair_spread@FROM|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur."
+
 operation_sabotage_infra:	"Sabotage der Infrastruktur"
+
 SABOTAGE_INFRA_OUTCOME_POTENTIAL_TOOLTIP:	"§YInfrastruktur§!:\n - Erhalten Sie $DAMAGE|R$ Schadensstufen.\n - Erhalten Sie §R$REPAIR$%§! Reparaturgeschwindigkeit bis zur vollständigen Reparatur.\n§YSpread Effect§! zielt auf alle benachbarten Staaten.\n§YCritical Success Chance:§! §G[?CRITICAL_SUCCESS]%§!, die gewährt:\n - Entfernen Sie §R1§! Infrastruktur"
 SABOTAGE_INFRA_TOOLTIP:	"§Y[From.From.GetName]§!\n§YInfrastruktur:§!\n - Erhält [?effect|R] Schadensstufen.\n - Erhält [?repair|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur."
 SABOTAGE_INFRA_SPREAD_TOOLTIP:	"§Y(Ausbreitungseffekt)§! §YJeder Nachbarstaat:§!\n - Erhielt [?spread_effect|R] Schadensstufen.\n - Erhielt [?spread_repair|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur."
- 
+
+SABOTAGE_INFRA_TOOLTIP_CRITICAL_EVENT:	"\nEntferne §Y1 Infrastruktur§!"
+
 operation_sabotage_oil:	"Sabotierte Ölraffinerien"
 operation_sabotage_oil_desc:	"§Ölraffinerien, die Treibstoffprodukte herstellen, sind das Lebenselixier der gegnerischen Kriegswirtschaft. Ohne sie kommen die gegnerischen Panzer-, Luft- und Seestreitkräfte zum Stillstand.§!"
+
+
+
 SABOTAGE_OIL_CRITICAL_TOOLTIP:	" - Erhielt zusätzliche £resources_strip|1 Oil Extraction: §R-25%§!"
+
+
+
+
+
+
+
 TARGET_ARMY_LEADER_CRITICAL_OUTCOME_POTENTIAL_TOOLTIP:	"§YKritische Erfolgschance:§! §G[?CRITICAL_SUCCESS]%§!, die gewährt:\n§YHauptheerführer im Zielstaat§!:\n - erhält §YSchwer verwundet§! für [?critical|Y0] Tage."
 TARGET_ARMY_LEADER_STATE_TOOLTIP:	"Ist ein Grenzstaat oder ein Frontstaat"
- 
+
+
 TARGET_ATTACHE_TOOLTIP:	"§Y[?target_country.GetFlag][?target_country.GetName]:§!\nAbbrechen §YSend Attache§! with §Y[?attache_target.GetNameWithFlag]§! for [?days|Y0] days.\n - Während dieser Zeit kann kein weiterer Attache geschickt werden."
 TARGET_ATTACHE_CRITICAL_TOOLTIP:	" - Der Attache §Rwont belebt§! nach Ablauf der Dauer nicht wieder."
 TARGET_ATTACHE_OUTCOME_POTENTIAL_TOOLTIP:	"Abbrechen §YSend Attache§! mit §YTarget Country§! für [?days|Y0] Tage.\n - Während dieser Zeit kann kein weiterer Attache gesendet werden."
+
 operation_fortification_plans:	"Abrufen von Festungsplänen"
- 
+
+
 operation_fort_layout_critical:	"Schwachstellen der Festung aufgedeckt Kritisch"
+
+
+
 FORT_PLANS_CRITICAL_TOOLTIP:	" - Erhaltener §R-75%§! §YBunker§! Reparaturgeschwindigkeitsfaktor"
 COORDINATED_STRIKE_TOOLTIP:	"§Y[GetCoordinatedStrikeRegion]§!\n - Unsere Luftwaffe hat [?effect|G0] §YStrategic Bombing§! und §YPort Strike§! Missionen geflogen, ohne dass der Feind sie abfangen konnte."
 
 COORDINATED_STRIKE_CRITICAL_TOOLTIP:	" - £repairing Factory Repair Speed: §R-50%§! für §Y30§! Tage."
+
+
 operation_sabotage_radar_desc:	"§Stören Sie äußerst wertvolle Radarsysteme, die der Feind zur Verfolgung unserer Luftwaffe einsetzt."
 SABOTAGE_RADAR_OUTCOME_POTENTIAL_TOOLTIP:	"§YRadar Station§!:\n - Erhalten Sie $DAMAGE|R$ Schadensstufen.\n - Erhalten Sie §R$REPAIR$%§! Reparaturgeschwindigkeit bis zur vollständigen Reparatur.\n§YSpread Effect§! wird den nächstgelegenen Staat anvisieren. \n§YKritische Erfolgschance:§! §G[?CRITICAL_SUCCESS]%§!, die gewährt:\n §YRadar Station:§!\n - Verringern Sie das Gebäudeniveau um §G1§!."
 SABOTAGE_RADAR_TOOLTIP:	"§YRadar Station:§!\n - Erhalten Sie [?effect|R] Schadensstufen.\n - Erhalten Sie [?repair|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur."
+
 SABOTAGE_RADAR_CRITICAL_TOOLTIP:	"§YRadar Station:§!\n - Reduzieren Sie das Gebäudelevel um §G1§!."
- 
+
+
 operation_sabotage_port_desc:	"§Zielen Sie auf Marinestützpunkte und zerstören Sie sie, um die gegnerische Bewegung von Nachschub, Schiffen und Truppen auf dem Seeweg zu behindern.§!."
 SABOTAGE_PORT_TOOLTIP:	"§YHöchste Stufe Marinestützpunkt:§!\n - Erhält [?effect|R] Schadensstufen.\n - Erhält [?repair|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur."
 SABOTAGE_PORT_SPREAD_TOOLTIP:	"§Y(Ausbreitungseffekt) Zweithöchste Marinebasis:§!\n - Erhielt [?ROOT.operation_sabotage_port_damage_spread@FROM|R] Schadensstufen.\n - Erhielt [?ROOT.operation_sabotage_port_repair_spread@FROM|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur."
 SABOTAGE_PORT_CRITICAL_TOOLTIP:	" - Erhielt §Y10%§! Schaden an allen Schiffen, die sich in der höchsten Marinebasis befinden."
 SABOTAGE_PORT_OUTCOME_POTENTIAL_TOOLTIP:	"§YHöchster Marinestützpunkt§!:\n - Erhalten $DAMAGE|R$ Schaden.\n - Erhalten §R$REPAIR$%§! Reparaturgeschwindigkeit bis zur vollständigen Reparatur.\n§YSpread Effect§! zielt auf den zweithöchsten §Ynavalstützpunkt§! im Staat. \n§YKritische Erfolgschance:§! §G[?CRITICAL_SUCCESS]%§!, die gewährt:\n - Erhalten Sie §Y10%§! Schaden an allen Schiffen, die sich in der höchsten Marinebasis befinden."
+
 MAKE_RESISTANCE_CONTACT_TOOLTIP:	"Erhalten Sie §YWiderstandsführerschaft§! über §Y[From.From.GetName]§!."
- 
+
+
+
 STRENGTHEN_RESISTANCE_TOOLTIP:	"§Y[?ROOT.selected_resistance_area@FROM.GetName]:§!\nDie folgenden Effekte gelten für §Y120§! Tage:\n - Erhalten [?effect|R%0] Widerstandsziel\n - Erhalten [?growth|R%0] Widerstandszuwachs"
 STRENGTHEN_RESISTANCE_SPREAD_TOOLTIP:	"§Y(Ausbreitungseffekt) Jeder Nachbarstaat:§!\n - Empfangen [?ROOT.operation_strengthen_resistance_target_spread@FROM|R%0] Widerstandsziel\n - Empfangen [?ROOT.operation_strengthen_resistance_growth_spread@FROM|R%0] Widerstandswachstum"
+
+
+
 operation_boost_society:	"Unterstützt besetzte Zivilisten"
- 
+
+
 STRENGTHEN_SOCIETY_SPREAD_TOOLTIP:	"§Y(Ausbreitungseffekt) Jeder Nachbarstaat:§!\n - Erhalten [?ROOT.operation_strengthen_society_target_spread@FROM|R%0] Zustimmungswachstum\n - Erhalten [?ROOT.operation_strengthen_society_growth_spread@FROM|R%0] täglicher Zustimmungsgewinn"
 STRENGTHEN_SOCIETY_OUTCOME_POTENTIAL_TOOLTIP:	"§YZielstaat:§!\nDie folgenden Effekte gelten für §Y120§! Tage:\n - Erhalten Sie [?compliance_growth|R0%] Zustimmungswachstum\n - Erhalten Sie [?compliance_gain|R0%] täglicher Zustimmungsgewinn\n§YSpread Effect§! zielt auf alle Nachbarstaaten."
+
 ASSET_ACTION_TOOLTIP:	"§Y[?asset_action.GetTokenLocalizedKey]§!\n[!asset_action_button_click_enabled]\n[!asset_action_button_click]"
+ASSET_ACTION_COOLDOWN_TOOLTIP:	"Hat in den letzten §Y90§! Tagen keine Asset-Aktion genutzt"
 asset_risk_days_tooltip:	"Tage: [?asset_days|Y0][GetAssetCPCost]"
 asset_cp_cost:	"\nKosten: [?cp_cost|Y1]£command_power"
- 
+
+
+
+
+
+
+asset_mio_overview_result:	"Größe: [?size|Y0] | Eigenschaften: [?number_of_unlocked_traits|Y0] | Aufgaben: [?number_of_currently_assigned_tasks|Y0]\n"
 asset_civilian_request_most_built_area_result:	"§Y[GetMostBuildArea]§!, mit insgesamt [?highest_num_buildings|Y0] Gebäuden."
 army_request_doctrine_result:	"$TYPE$: $DOCTRINE$\n"
- 
+
 army_request_doctrine_title:	"Land Doctrine Übersicht\n"
+
+
+
 asset_army_request_highest_armor_result:	"Die stärkste Panzereinheit hat einen Panzerungswert von [?max_armor]."
+
+asset_air_request_air_location_result:	"§Y[GetMostBuildArea]§!, mit insgesamt [?highest_amount|Y0] Flugzeugen."
 air_request_doctrine_result:	"Luft-Doktrin: $DOCTRINE$\n"
- 
+
 air_request_doctrine_ww2:	"Gesamtzahl der erforschten Luft-Doktrinen: [?FROM.FROM.modifier@air_doctrine_level] (Wir: [?[?FROM.modifier@air_doctrine_level])\n"
+
+
+
+
+
 navy_request_doctrine_ww2:	"Gesamtzahl der erforschten Marinedoktrinen: [?FROM.FROM.modifier@navy_doctrine_level] (Us: [?[?FROM.modifier@navy_doctrine_level])\n"
- 
+
+
 asset_navy_request_navy_capacity_uses:	"    - Ungenutzt: [?unused]"
 asset_navy_request_navy_assembly:	"\nGesamtkapital Werften: [?From.From.num_capital_shipyard]"
- 
+
+
 civilian_request_most_built_area:	"Industrielles Herz"
+
+
 civilian_request_current_research_desc:	"Rufen Sie Informationen über ihre aktuelle Forschung ab."
 army_request_doctrine:	"Armee-Doktrin-Stufe"
- 
+
 army_request_highest_armor:	"Höchster Panzerungswert"
+
 army_request_highest_pierce:	"Höchster Durchschlagswert"
 army_request_highest_pierce_desc:	"Rufen Sie Informationen über die stärkste Panzerabwehrwaffe ab."
+army_request_earned_mio:	"Aufschlüsselung der militärisch-industriellen Organisationen"
+
+
+
 air_request_air_capacity:	"Luftproduktionskapazität"
- 
+
+
+air_request_air_location_desc:	"Informationen über die Region mit den meisten eingesetzten Flugzeugen abrufen."
+air_request_earned_mio:	"Aufschlüsselung der militärisch-industriellen Organisationen"
+air_request_earned_mio_desc:	"Informationen über die Größe und Aufgaben ihrer militärisch-industriellen Organisationen abrufen."
+
 navy_request_doctrine_desc:	"Rufen Sie Informationen über den Stand ihrer Marine-Doktrinen ab."
- 
+
+
+
+
+navy_request_earned_mio:	"Aufschlüsselung der militärisch-industriellen Organisationen"
+
+
 asset_setting_resistance_sabotage_industry:	"Priorisieren Sie Industrie-Sabotage"
- 
+
+
 subasset_resistance_offensive:	"Offensive Widerstandshandlungen"
+subasset_resistance_offensive_desc:	""
 subasset_resistance_defensive:	"Defensive Widerstandshandlungen"
+
 subasset_civilian_research_steal:	"$operation_steal_tech_civilian$ Ergebnis"
 subasset_civilian_research_steal_desc:	""
 subasset_civilian_research_steal_tooltip:	"[?PREV.research_steal_uses_civilian@ROOT|Y0] nutzt verbleibende\n[?PREV.research_steal_bonus_civilian@ROOT|G0%] Bonus Forschungsgeschwindigkeit\n[?PREV.research_steal_ahead_of_time_civilian@ROOT|C2] vorzeitiger Bonus"
- 
+
 subasset_army_research_steal_desc:	""
- 
+
+
+
 subasset_air_research_steal_tooltip:	"[?PREV.research_steal_uses_air@ROOT|Y0] nutzt verbleibende\n[?PREV.research_steal_bonus_air@ROOT|G0%] Bonus-Forschungsgeschwindigkeit\n[?PREV.research_steal_ahead_of_time_air@ROOT|C2] vorzeitigen Bonus"
+
 subasset_navy_research_steal_desc:	""
 subasset_navy_research_steal_tooltip:	"[?PREV.research_steal_uses_navy@ROOT|Y0] nutzt verbleibende\n[?PREV.research_steal_bonus_navy@ROOT|G0%] Bonus-Forschungsgeschwindigkeit\n[?PREV.research_steal_ahead_of_time_navy@ROOT|C2] vorzeitiger Bonus"
 upgrade_army_enemy_intel_reduction:	"Armeeberichte klassifizieren"
+
 upgrade_army_no_token_use:	"Effiziente Agentennetwerke"
 upgrade_army_enemy_counter_intel:	"Schnelles Eingreifteam"
- 
- 
+
+
+
 upgrade_navy_enemy_counter_intel:	"Schnelles Eingreifteam"
- 
+
+
 upgrade_air_no_token_use:	"Effiziente Agentennetwerke"
 upgrade_air_enemy_counter_intel:	"Schnelles Eingreifteam"
 upgrade_economy_enemy_intel_reduction:	"Klassifizierung von Wirtschaftsberichten"
 upgrade_economy_stackable:	"Weitreichende Agentennetwerke"
 upgrade_economy_no_token_use:	"Effiziente Agentennetwerke"
- 
- 
+
+
+
 upgrade_steal_tech_uses:	"Breit angelegte Spionage"
 upgrade_steal_tech_aot:	"Prototypische Forschung"
+
+
 upgrade_operation_target_army_leader_meeting:	"Bombenanschläge auf Stabssitzungen"
 upgrade_operation_target_attache:	"Liquidierung von Attentaten"
- 
+
+
 upgrade_operation_sabotage_uses:	"Sabotage-Netzwerke"
 upgrade_operation_sabotage_repair:	"Strukturelle Schwachstellen"
+
+
 upgrade_operation_strengthen_resistance_uses:	"Grenzüberschreitende Widerstandsbewegungen"
+
 upgrade_operation_strengthen_society_effect:	"Lokale zivile Kontakte"
+
+
 upgrade_operation_infiltrate_critical_success:	"Hochrangige Bestechungen"
 upgrade_operation_infiltrate_risk:	"Konservative Infiltrationen"
- 
+
 upgrade_army_defense_sweep:	"Regelmäßige Sicherheitsüberprüfungen"
 upgrade_air_defense_sweep:	"Regelmäßige Sicherheitsüberprüfungen"
+
 upgrade_civilian_defense_sweep:	"Regelmäßige Sicherheitsüberprüfungen"
 upgrade_defense_operative_detection:	"Operative Verteidigung Erkennungsverbesserung"
 upgrade_defense_operative_capture:	"Operative Verteidigung Gefangennahmeverbesserung"
 upgrade_defense_harmed:	"Rücksichtslose Aufstandsbekämpfung"
 upgrade_defense_intel_extraction:	"Verhörtechniken"
- 
+
 upgrade_agency_second_upgrade:	"Großer Nachrichtendienst"
+
 operation_outcome:	"£operatives_build_intel_network_texticon Operation Erfolgschance"
 operation_critical_success_chance:	"£operatives_build_intel_network_texticon Operation Kritische Erfolgschance"
 enemy_operation_critical_success_chance:	"£counter_intelligence_texticon Feindliche Operation Kritische Erfolgschance"
 operation_cost:	"£Operative_build_intel_network_texticon Operation Kosten"
 operation_infiltrate_outcome:	"£Operationskosten £operatives_build_intel_network_texticon Infiltrationserfolgschance"
 operation_steal_tech_bonus_factor:	"£Operationsplan_build_intel_network_texticon Tech-Bonusfaktor stehlen"
- 
- 
+
+
 operation_resistance_max_asset:	"£text_contact_resistance_token Maximale Widerstandsressourcen"
+
 operation_army_max_asset:	"£text_infiltrate_army_token Max Armee Mittels"
 operation_army_enemy_effect:	"£Operatives_build_intel_network_texticon Feindliche Armee Operation Effekt"
+
 operation_navy_keep_asset_chance:	"Chance, Marinemittel im Einsatz zu behalten"
+
 operation_navy_enemy_effect:	"£operatives_build_intel_network_texticon Feindliche Marine Operation Effekt"
+
+
+
 operation_air_enemy_effect:	"£operatives_build_intel_network_texticon Wirkung feindlicher Luftoperationen"
+
 operation_economy_keep_asset_chance:	"Chance, ein ziviles Asset im Einsatz zu behalten £text_infiltrate_civilian_token"
 operation_economy_max_asset:	"£text_infiltrate_civilian_token Max Civilian Assets"
 operation_economy_enemy_effect:	"£Operatives_build_intel_network_texticon Feindliche zivile Operation Effekt"
+
 agency_upgrades:	"£operatives_build_intel_network_texticon Max. gleichzeitige Spionageabteilungsverbesserungen"
- 
+
+
+
+
 
 operation_target_army_leader_effect:	"£Operatives_build_intel_network_texticon Ziel Heerführer Verwundet Dauer"
+
+
 
 operation_sabotage_cost:	"Kosten der Sabotageaktion £operatives_build_intel_network_texticon Sabotageaktion Kosten"
 operation_sabotage_damage:	"£operatives_build_intel_network_texticon Sabotageaktion Schaden"
 operation_sabotage_spread:	"£Impressum_build_intel_network_texticon Verbreitung von Sabotageakten"
 
+
 operation_strengthen_resistance_cost:	"Kosten für Widerstand stärken £operatives_build_intel_network_texticon"
 operation_strengthen_resistance_risk:	"Widerstand stärken Risiko"
+
+
+
+
+
 
 operation_strengthen_society_spread:	"Unterstützung besetzter Zivilisten Verbreitung"
 
 operation_coordinated_strike_damage:	"Koordinierte Angriffe Schaden"
 operation_fortification_plans_outcome:	"£Operatives_build_intel_network_texticon Erfolgschance bei der Wiederherstellung des Festungslayouts"
 
+
+
 active_decryption_operation:	"£operatives_build_intel_network_texticon Auswirkung der Operation gegen das Zielland: §G+25.0%§!"
 local_operation_effect:	"£operatives_build_intel_network_texticon Lokaler Operationseffekt"
+
+
 
 resistance_damage_to_resources:	"Widerstand Schaden an Ressourcen £political_violence_texticon"
 resistance_damage_to_resources_duration:	"Widerstand Ressourcensabotage Dauer"
 
-lar_operative_event.7.a:	"Verstanden"
-lar_operative_event.8.t:	"[From.GetAdjective] Marine Mittel verloren!"
-lar_operative_event.8.a:	"Verstanden"
-lar_operative_event.9.desc:	"[This.GetName], ein Agent von [From.GetNameDef] war heute kurz davor, einen unserer Geheimdienstagenten in ihren Seestreitkräften zu enttarnen. Unser Agent hat schnell alle notwendigen Vorkehrungen getroffen, um sie abzuschütteln."
-
-lar_operative_event.10.t:	"[From.GetAdjective] Luftwaffen Mittel gefunden!"
-lar_operative_event.11.t:	"[From.GetAdjective] Luftwaffen Mittel verloren!"
-
-lar_operative_event.12.desc:	"[This.GetName], ein Agent von [From.GetNameDef] war heute kurz davor, einen unserer Geheimdienstagenten in ihren Luftstreitkräften zu enttarnen. Unser Agent hat schnell alle notwendigen Vorkehrungen getroffen, um sie abzuschütteln."
-
-lar_operative_event.14.a:	"Verstanden"
-
-lar_operative_event.15.a:	"Verstanden"
-
-lar_operative_event.18.desc:	"[This.GetName], ein Agent von [From.GetNameDef] war heute kurz davor, einen unserer Geheimdienstagenten in seiner Wirtschaft zu entdecken. Unser Agent hat schnell alle notwendigen Vorkehrungen getroffen, um sie abzuschütteln."
-lar_operative_event.18.a:	"Verstanden"
-lar_operative_event.19.desc:	""
-lar_operative_event.19.c:	"[?From.attache_targets^2.GetName]"
-lar_operative_event.19.e:	"[?From.attache_targets^4.GetName]"
-operative_linguist_tt:	"Möglichkeit zum Erwerb einer ausländischen Staatsangehörigkeit: §G+20%§!"
-AGENCY_UPGRADE_DURATION_MODIFIER:	"Modifikatoren: [?modifiers|-=%0]"
-AGENCY_UPGRADE_DURATION_SHARED:	"[?best_discount_tag.GetFlag][?best_discount_tag.GetName] hat diese Aufrüstung abgeschlossen: [?best_discount|%0-=]"
-SABOTAGE_INFRA_TOOLTIP_CRITICAL_EVENT:	"\nEntferne §Y1 Infrastruktur§!"
 operative_discover_civilian_asset:	"Kurz vor der Entdeckung des feindlichen Verwaltungsbereichs..."
+
 operative_discover_army_asset:	"Kurz vor der Entdeckung der feindlichen Armee..."
 operative_discover_army_asset_desc:	""
 operative_discover_air_asset:	"Kurz vor der Entdeckung der feindlichen Luftwaffe..."
 operative_discover_air_asset_desc:	""
 operative_discover_navy_asset:	"Entdeckung der feindlichen Marine steht kurz bevor..."
+
+
+
+lar_operative_event.7.a:	"Verstanden"
+lar_operative_event.8.t:	"[From.GetAdjective] Marine Mittel verloren!"
+
+lar_operative_event.8.a:	"Verstanden"
+
+lar_operative_event.9.desc:	"[This.GetName], ein Agent von [From.GetNameDef] war heute kurz davor, einen unserer Geheimdienstagenten in ihren Seestreitkräften zu enttarnen. Unser Agent hat schnell alle notwendigen Vorkehrungen getroffen, um sie abzuschütteln."
+
+lar_operative_event.10.t:	"[From.GetAdjective] Luftwaffen Mittel gefunden!"
+
+
+lar_operative_event.11.t:	"[From.GetAdjective] Luftwaffen Mittel verloren!"
+
+
+
+lar_operative_event.12.desc:	"[This.GetName], ein Agent von [From.GetNameDef] war heute kurz davor, einen unserer Geheimdienstagenten in ihren Luftstreitkräften zu enttarnen. Unser Agent hat schnell alle notwendigen Vorkehrungen getroffen, um sie abzuschütteln."
+
+
+
+
+
+
+lar_operative_event.14.a:	"Verstanden"
+
+
+lar_operative_event.15.a:	"Verstanden"
+
+
+
+
+
+
+
+lar_operative_event.18.desc:	"[This.GetName], ein Agent von [From.GetNameDef] war heute kurz davor, einen unserer Geheimdienstagenten in seiner Wirtschaft zu entdecken. Unser Agent hat schnell alle notwendigen Vorkehrungen getroffen, um sie abzuschütteln."
+lar_operative_event.18.a:	"Verstanden"
+
+lar_operative_event.19.desc:	""
+
+
+lar_operative_event.19.c:	"[?From.attache_targets^2.GetName]"
+
+lar_operative_event.19.e:	"[?From.attache_targets^4.GetName]"
+
+operative_linguist_tt:	"Möglichkeit zum Erwerb einer ausländischen Staatsangehörigkeit: §G+20%§!"
 lar_operative_event.100.t:	"Treibstoffsilo sabotiert!"
 lar_operative_event.100.desc:	"Feindliche Agenten haben es geschafft, unseren Agenten zu entkommen und eines unserer Treibstofflager zu sabotieren."
 lar_operative_event.101.t:	"Ölraffinerie sabotiert!"
+
+
+
 lar_operative_event.103.t:	"Radarstation sabotiert!"
 lar_operative_event.103.desc:	"Feindlichen Agenten ist es gelungen, sich unseren Agenten zu entziehen und eine unserer Radarstationen zu sabotieren."
-AGENCY_UPGRADE_DURATION_FACTION:	"    Austausch von Fraktionsinformationen: [?num_intel_sharing|%ß-=]"
-AGENCY_UPGRADE_TAB_TOOLTIP:	"[?days_remaining|Y0] Tage"
-is_assigned_as_faction:	"Kann Fraktionsberater sein"
-RESISTANCE_AREA_SELECTED:	"Dieses Widerstandsgebiet ist §Gausgewählt§!. §YWiderstand stärken§! & §YBesetzte Zivilisten unterstützen§! wird es als §GEinsatzgebiet§! nutzen. \n"
-RESISTANCE_AREA_CLEAR:	"Dieses Widerstandsgebiet ist nicht mehr aktiv. Zum Löschen hier klicken."
-COLLABORATION_POTENTIAL_OUTCOME:	"\n    Basis: [?base|%+=]\n    [?ROOT.current_party_ideology_group.GetTokenLocalizedKey] Unterstützung: [?ideology|+=%]\n    Skaliert durch bestehende Zusammenarbeit: §Yx[?scale|2]§!"
-ASSET_ACTION_COOLDOWN_TOOLTIP:	"Hat in den letzten §Y90§! Tagen keine Asset-Aktion genutzt"
-asset_mio_overview_result:	"Größe: [?size|Y0] | Eigenschaften: [?number_of_unlocked_traits|Y0] | Aufgaben: [?number_of_currently_assigned_tasks|Y0]\n"
-asset_air_request_air_location_result:	"§Y[GetMostBuildArea]§!, mit insgesamt [?highest_amount|Y0] Flugzeugen."
- 
-army_request_earned_mio:	"Aufschlüsselung der militärisch-industriellen Organisationen"
-air_request_air_location_desc:	"Informationen über die Region mit den meisten eingesetzten Flugzeugen abrufen."
-air_request_earned_mio:	"Aufschlüsselung der militärisch-industriellen Organisationen"
-air_request_earned_mio_desc:	"Informationen über die Größe und Aufgaben ihrer militärisch-industriellen Organisationen abrufen."
-navy_request_earned_mio:	"Aufschlüsselung der militärisch-industriellen Organisationen"
 
-subasset_resistance_offensive_desc:	""
+
+
+
+
+
 lar_operative_event.105.tt:	"Der Attaché wird sich in [?FROM.operation_target_attache_damage@ROOT|Y0] Tagen von seinen Verletzungen erholt haben."
- lar_operative_event.7.t: "[From.GetAdjective] Navy Asset found!"##### NOT TRANSLATED #####
- lar_operative_event.7.desc: "Today [This.GetName], tasked with Counter Intelligence against foreign threats, has successfully liquidated a [From.GetAdjective] intelligence asset operating inside our Naval Forces."##### NOT TRANSLATED #####
- lar_operative_event.8.desc: "Incoming reports from [From.GetNameDef] indicate that [This.GetName] has successfully liquidated one of our navy assets."##### NOT TRANSLATED #####
- lar_operative_event.9.t: "[From.GetAdjective] Navy Asset almost lost!"##### NOT TRANSLATED #####
- lar_operative_event.9.a: "Understood"##### NOT TRANSLATED #####
- 
- lar_operative_event.10.desc: "Today [This.GetName], tasked with Counter Intelligence against foreign threats, has successfully liquidated a [From.GetAdjective] intelligence asset operating inside our Aerial Forces."##### NOT TRANSLATED #####
- lar_operative_event.10.a: "Understood"##### NOT TRANSLATED #####
- lar_operative_event.11.desc: "Incoming reports from [From.GetNameDef] indicate that [This.GetName] has successfully liquidated one of our airforce assets."##### NOT TRANSLATED #####
- lar_operative_event.11.a: "Understood"##### NOT TRANSLATED #####
- lar_operative_event.12.t: "[From.GetAdjective] Airforce Asset almost lost!"##### NOT TRANSLATED #####
- lar_operative_event.12.a: "Understood"##### NOT TRANSLATED #####
- 
- lar_operative_event.13.t: "[From.GetAdjective] Army Asset found!"##### NOT TRANSLATED #####
- lar_operative_event.13.desc: "Today [This.GetName], tasked with Counter Intelligence against foreign threats, has successfully liquidated a [From.GetAdjective] intelligence asset operating inside our Armed Forces."##### NOT TRANSLATED #####
- lar_operative_event.13.a: "Understood"##### NOT TRANSLATED #####
- lar_operative_event.14.t: "[From.GetAdjective] Army Asset lost!"##### NOT TRANSLATED #####
- lar_operative_event.14.desc: "Incoming reports from [From.GetNameDef] indicate that [This.GetName] has successfully liquidated one of our army assets."##### NOT TRANSLATED #####
- lar_operative_event.15.t: "[From.GetAdjective] Army Asset almost lost!"##### NOT TRANSLATED #####
- lar_operative_event.15.desc: "[This.GetName], an operative from [From.GetNameDef] today came close to uncovering one of our intelligence assets in their Armed Forces. Our asset quickly took all necessary precautions to throw them of their tail."##### NOT TRANSLATED #####
- 
- lar_operative_event.16.t: "[From.GetAdjective] Civilian Asset found!"##### NOT TRANSLATED #####
- lar_operative_event.16.desc: "Today [This.GetName], tasked with Counter Intelligence against foreign threats, has successfully liquidated a [From.GetAdjective] intelligence asset operating inside our economy."##### NOT TRANSLATED #####
- lar_operative_event.16.a: "Understood"##### NOT TRANSLATED #####
- lar_operative_event.17.t: "[From.GetAdjective] Civilian Asset lost!"##### NOT TRANSLATED #####
- lar_operative_event.17.desc: "Incoming reports from [From.GetNameDef] indicate that [This.GetName] has successfully liquidated one of our civilian assets."##### NOT TRANSLATED #####
- lar_operative_event.17.a: "Understood"##### NOT TRANSLATED #####
- lar_operative_event.18.t: "[From.GetAdjective] Civilian Asset almost lost!"##### NOT TRANSLATED #####
- 
- lar_operative_event.19.t: "Select Attache Target"##### NOT TRANSLATED #####
- lar_operative_event.19.a: "[?From.attache_targets^0.GetName]"##### NOT TRANSLATED #####
- lar_operative_event.19.b: "[?From.attache_targets^1.GetName]"##### NOT TRANSLATED #####
- lar_operative_event.19.d: "[?From.attache_targets^3.GetName]"##### NOT TRANSLATED #####
- lar_operative_event.19.f: "[?From.attache_targets^5.GetName]"##### NOT TRANSLATED #####
- 
- 
- lar_operative_event.101.desc: "Enemy Operatives managed to evade our agents and sabotaged one of our oil refineries."##### NOT TRANSLATED #####
- lar_operative_event.102.t: "Infrastructure Sabotaged!"##### NOT TRANSLATED #####
- lar_operative_event.102.desc: "Enemy Operatives managed to evade our agents and sabotaged infrastructure."##### NOT TRANSLATED #####
- lar_operative_event.104.t: "Naval Base Sabotaged!"##### NOT TRANSLATED #####
- lar_operative_event.104.desc: "Enemy Operatives managed to evade our agents and sabotaged one of our naval bases."##### NOT TRANSLATED #####
- lar_operative_event.105.t: "Military Attache injured!"##### NOT TRANSLATED #####
- lar_operative_event.105.desc: "Enemy Operatives operating unlawfully on the territory of [?FROM.attache_target@ROOT.GetNameDef] managed to injure our military attache. He will take some time to recover from his wounds and resume his service."##### NOT TRANSLATED #####
- lar_operative_event.106.t: "Military Attache killed!"##### NOT TRANSLATED #####
- lar_operative_event.106.desc: "Enemy Operatives operating unlawfully on the territory of [?FROM.attache_target@ROOT.GetNameDef] managed to kill our military attache!"##### NOT TRANSLATED #####
- 
+operation_warsaw_uprising:0	"Der Warschauer Aufstand"
+warsaw_uprising_operation_tt:0	"Lösen Sie einen nationalen Aufstand in Polen aus und schaffen Sie neue Einheiten in den dortigen Provinzen."
+raid_trotskys_villa_desc:0	"Trotzki hat sich in seiner Villa verschanzt und korrespondiert mit anderen Parteimitgliedern, um gegen den Sowjetstaat zu intrigieren. Wir können ein kleines Team entsenden, um sein Haus anzugreifen und dem ein Ende zu setzen."
+raid_trotskys_villa_outcome_tt:0	"Eine kleine Gruppe von Attentätern wird zu Trotzkis Villa geschickt, um zu versuchen, ihn zu töten."
+raid_trotskys_villa_attack_outcome:0	"Das Team drang in die Villa ein und lieferte sich ein Feuergefecht mit Trotzkis Wachen."
+murder_trotsky:0	"Diskrete Ermordung"
+murder_trotsky_infiltration:0	"Gefälschte Dokumente"
+murder_trotsky_infiltration_desc:0	"Mit einem gefälschten kanadischen Pass wird unser Agent zu Trotzkis Aufenthaltsort reisen und sich mit dessen Leibwächtern anfreunden."
+murder_trotsky_attack_desc:0	"Unser Agent wird Trotzki von seinen Leibwächtern isolieren, indem er ihm einen Artikel zeigt, den er unter vier Augen besprechen möchte. Sobald sie allein sind, wird er Trotzki mit einem Eispickel ermorden."
+murder_trotsky_attack_outcome:0	"Dem Agenten gelang es, Trotzki allein zu erwischen, und er versetzte ihm einen schweren Schlag mit einem Eispickel. Dies tötete Trotzki nicht sofort, doch er starb später im Krankenhaus."
+murder_trotsky_exfiltration_outcome:0	"In der Verwirrung nach dem Angriff gelang es unserem Agenten zu fliehen, ohne dass jemand sein Gesicht genau erkennen konnte."
+murder_trotsky_exfiltration_outcome_fail:0	"Unser Agent wurde von Trotzkis Leibwache festgenommen und den Behörden übergeben. Er wurde wegen Mordes angeklagt."
+nuclear_espionage_outcome_tt:0	"Wir werden einen Agenten in das [FROM.GetAdjective] Atomforschungsprogramm einschleusen, der versuchen wird, technische Unterlagen weiterzugeben, die für unser eigenes Atomprojekt genutzt werden können."
+SWI_boost_resistance_buff:0	"\nDie §YOperation "Widerstand stärken"§! wird deutlich effektiver."
+sabotage_burn_fuel_storage_outcome:0	"Dem Team gelang es, die örtlichen Brennstoffsilos in Brand zu setzen, wodurch Hunderte Tonnen gelagerten Brennstoffs zerstört wurden und die Fähigkeit zur Aufrechterhaltung der Vorräte erheblich beeinträchtigt wurde."
+sabotage_fuel_explosives:0	"Sprengstoff in der Anlage"
+sabotage_fuel_explosives_desc:0	"In Zusammenarbeit mit unserem lokalen Netzwerk werden unsere Agenten mitten in der Nacht in das Treibstoffsilo eindringen, Sprengstoff an kritischen Schwachstellen anbringen und so die gesamte Treibstofflagerstätte gleichzeitig zerstören."
+sabotage_burn_oil_refinery_outcome:0	"Das Team hat die örtlichen Treibstoffsilos erfolgreich in Brand gesetzt, wodurch Hunderte Tonnen gelagerten Treibstoffs zerstört und die Fähigkeit zur Aufrechterhaltung der Vorräte erheblich beeinträchtigt wurden, was die Produktion zum Erliegen brachte."
+sabotage_oil_explosives:0	"Sprengstoff in der Anlage"
+sabotage_oil_explosives_desc:0	"In Zusammenarbeit mit unserem lokalen Netzwerk werden unsere Agenten mitten in der Nacht in die Ölraffinerie eindringen, Sprengstoff an kritischen Schwachstellen anbringen und so die gesamte Anlage zerstören."
+sabotage_burn_radar_outcome:0	"Das Team hat die Radarstation erfolgreich in Brand gesetzt, dabei kritische Komponenten zerstört und das gesamte Radarsystem für lange Zeit außer Betrieb gesetzt."
+sabotage_radar_explosives:0	"Sprengstoff anbringen"
+sabotage_radar_explosives_desc:0	"In Zusammenarbeit mit unserem lokalen Netzwerk werden unsere Agenten mitten in der Nacht die Radarstation infiltrieren, Sprengstoff an kritischen Schwachstellen anbringen und so die gesamte Anlage zerstören."
+sabotage_burn_port_outcome:0	"Das Team hat sich erfolgreich an Bord des Schiffes geschlichen und ein Feuer gelegt. Das Wrack blockiert den Marinestützpunkt auf absehbare Zeit."
+sabotage_port_explosives:0	"Sprengstoff platzieren"
+sabotage_port_explosives_desc:0	"In Zusammenarbeit mit unserem lokalen Netzwerk werden unsere Agenten mitten in der Nacht in die Marinebasis eindringen, Sprengstoff an kritischen Schwachstellen platzieren und so die gesamte Basis unbrauchbar machen."
+target_leader_suitcase_bomb_outcome:	"Unsere Agenten sind erfolgreich in das Armeehauptquartier eingedrungen und haben den Koffer platziert. Mithilfe eines zeitgesteuerten Sprengsatzes detonierte die Bombe genau in dem Moment, als die Offiziere ihre Besprechung begannen."
+target_leader_ambush:	"Straßenüberfall"
+target_leader_ambush_desc:	"In Zusammenarbeit mit unserem lokalen Netzwerk werden unsere Agenten Informationen über die genauen Routen des Feindes beschaffen. Sie werden einen Straßenüberfall vorbereiten und auf den General und seine Eskorte schießen."
+target_leader_sabotage_vehicle_outcome:	"Unsere Agenten haben das Privatfahrzeug des feindlichen Anführers erfolgreich sabotiert. Laut Funkverkehr kam es kurz darauf zu einem Unfall, bei dem der General verletzt wurde."
+target_attache_suitcase_bomb:	"Aktentaschenbombe"
+target_attache_suitcase_bomb_desc:	"Unsere Agenten werden das Hauptquartier der feindlichen Armee infiltrieren und eine Bombe in einer Aktentasche einschmuggeln. Sie werden diese im Besprechungsraum platzieren und sie detonieren lassen, sobald die Offiziere ihre Besprechung beginnen."
+target_attache_ambush_outcome:	"Durch das Blockieren der Straße mit einem Lkw gelang es unseren Agenten, den feindlichen Konvoi anzugreifen. Der Attaché wurde verwundet und entkam nur knapp mit dem Leben. Unsere Agenten mussten sich zurückziehen, bevor feindliche Verstärkung eintraf."
+target_attache_sabotage_vehicle:	"Fahrzeugsabotage"
+target_attache_sabotage_vehicle_desc:	"Unsere Agenten werden das Privatfahrzeug des feindlichen Attachés sabotieren und einige Schrauben entfernen. Dann werden Zeit und Geschwindigkeit den Rest erledigen."
+compliance_drop_leaflets_outcome:	"Unsere Agenten haben erfolgreich Informationsflugblätter über das Land verteilt. Die Einheimischen sind entsetzt über die Handlungen der Besatzungsmächte."
+compliance_uncover_propaganda:	"Propaganda widerlegen"
+compliance_uncover_propaganda_desc:	"Unsere Agenten werden Radios verteilen, um die Bevölkerung über den wahren Stand des Krieges zu informieren, die feindliche Propaganda zu widerlegen und ihren Kampfeswillen zu stärken."
+AGENCY_UPGRADE_COST:	"Kosten: [?cost|Y0]"
+AGENCY_UPGRADE_DURATION:	"Dauer: [?duration|0Y] Tage\n    Basis: [?base|0Y]"
+AGENCY_MODIFIER_LEVEL:	"\n§YStufe: $LEVEL$§!\n$MODIFIER$: [?$VALUE$|$STATUS$=]"
+AGENCY_MODIFIER:	"$MODIFIER$: [?$VALUE$|$STATUS$=]"
+AGENCY_UPGRADE_XP_TRIGGER:	"§YFortschritt erzielen, wenn:§!\n    -$XP_TRIGGER$ $XP_TRIGGER_2$"
+resistance_asset_status_tooltip:	"Max. Anzahl an Widerstands-Assets: [?max_asset_resistance|=+0]\nChance, ein Widerstands-Asset einzusetzen: [GetResistanceAssetChance]"
+upgrade_operation_target_army_leader_meeting_tt:	"\n§YStufe: 1§!\nAktiviert einen §YAusbreitungseffekt§! in Richtung der Ziele §YHeergruppe§!"
+upgrade_operation_target_attache_tt:	 "\n§YStufe: 1§!\nSchaltet eine Operation frei, um einen ausländischen §YMilitärattaché§!"
+upgrade_steal_tech_switch_critical_tt:	"\n§YStufe: 1§!\nSchaltet eine allgemeine Operation zum Stehlen von Technologien frei, die einen Forschungsbonus für die nächsten X Technologien gewährt, die das Ziel erforscht."
+agency_modifier_positive_percentage:	"[?modifier_value@var:v^i|%+=]"
+agency_modifier_negative_percentage:	"[?modifier_value@var:v^i|%-]"
+agency_modifier_positive_number:	"[?modifier_value@var:v^i|0+=]"
+agency_modifier_positive_number_1:	"[?modifier_value@var:v^i|1+=]"
+agency_modifier_negative_number:	"[?modifier_value@var:v^i|0+]"
+agency_modifier_positive_boolean:	"§GJa§!"
+disable_cryptology:	"Sabotierte Kryptologieabteilung"
+operation_max_asset_trigger:	"§RWir verfügen bereits über die maximale Anzahl an Ressourcen ([?t])§!"
+AGENCY_UPGRADE_QUEUE:	"Upgrade-Warteschlange"
+AGENCY_UPGRADE_QUEUE_DESC:	"§GKlicken Sie§! auf ein Upgrade, um §Yes dieser Warteschlange hinzuzufügen.§!"
+AGENCY_AI_SCORE:	"KI: [?ai_score]\n[?ai_type.GetTokenKey]"
+RESISTANCE_AREA_TOOLTIP:	"[GetResistanceAreaSelected]\nWiderstandsgebiet: §Y[?resistance_area.GetName]§!, mit [?resistance_area^num|Y0] benachbarten Staaten.\n£Widerstand  Durchschnittlicher Widerstand: §R[?average_resistance|1]%§!\n        - Gesamtwachstum des Widerstands: [?resistance_speed_total|+=]\n£Konformität  Durchschnittliche Konformität: §Y[?average_compliance|1]%§!\n        - Gesamtwachstum der Konformität: [?compliance_speed_total|-=]"
+FAKE_INTEL_UNIT_TOOLTIP:	"§YGefälschte Intel-Abteilungen§!\n[!open_fake_unit_click_enabled]\n[!open_fake_unit_click]"
+FAKE_INTEL_UNIT_AMOUNT:	"Erstellen [?num_to_create|G0] §YFiktive Geheimdienstabteilungen§!, die dazu dienen, unsere Feinde zu täuschen. Sie existieren nur theoretisch und werden im Kampf sofort aufgedeckt und aufgelöst. Nach §Y365§! Tagen werden sie sich automatisch auflösen, sofern wir ihre Ausrüstungskosten nicht rechtzeitig begleichen."
+ADD_CIVILIAN_ASSET:	"Erhöht £text_infiltrate_civilian_token §YZivile Ressourcen§! um §G+1§!"
+ADD_ARMY_ASSET:	"Erhöht £text_infiltrate_army_token §YArmee-Ressource§! um §G+1§!"
+ADD_AIR_ASSET:	"Erhöht £text_infiltrate_air_token §YLuftwaffen-Ressource§! um §G+1§!"
+ADD_RESISTANCE_ASSET:	"Erhöht £text_contact_resistance_token §YWiderstandsressourcen§! um §G+1§!"
+SUBTRACT_CIVILIAN_ASSET:	"Verringert £text_infiltrate_civilian_token §YZivilressource§! um §R-1§!"
+SUBTRACT_ARMY_ASSET:	"Verringert £text_infiltrate_army_token §YArmee-Ressource§! um §R-1§!"
+SUBTRACT_AIR_ASSET:	"Verringert £text_infiltrate_air_token §YLuftwaffenressource§! um §R-1§!"
+SUBTRACT_NAVY_ASSET:	"Verringert £text_infiltrate_navy_token §YMarine-Ressource§! um §R-1§!"
+SUBTRACT_RESISTANCE_ASSET:	"Verringert £text_contact_resistance_token §YWiderstandswert§! um §R-1§!"
+REQUIRE_ARMY_ASSET:	 "Erfordert £text_infiltrate_army_token §YArmee-Ressource§! in Richtung §Y[From.GetFlag][From.GetNameDef]§!"
+OPERATION_KEEP_ASSET:	" Wir behalten unsere Ressource"
+OPERATION_OUTCOME_CRITICAL_SUCCESS:	"\n§YChance auf kritischen Erfolg:§! §G[?CRITICAL_SUCCESS]% §!, was Folgendes gewährt:\n"
+OPERATION_CHANCE_AIR_TOKEN:	"Diese Operation hat eine [GetAirAssetChance] Chance, ein £text_infiltrate_air_token §YLuftwaffen-Einheit§!\n"
+OPERATION_CHANCE_NAVY_TOKEN:	"Diese Operation hat eine [GetNavyAssetChance] Chance, ein £text_infiltrate_navy_token §YMarine-Einheit§!\n"
+OPERATION_CHANCE_CIVILIAN_TOKEN:	"Diese Operation hat eine [GetCivilianAssetChance] Chance, ein £text_infiltrate_civilian_token §Yziviles Objekt§!\n zu zerstören"
+COLLABORATION_OUTCOME:	"Basis: [?base|%+=]\n    [?ROOT.current_party_ideology_group.GetTokenLocalizedKey] Unterstützung: [?ideology|+=%]\n    Skaliert nach bestehender Zusammenarbeit: §Yx[?scale|2]§!"
+STEAL_TECH_ARMY_OUTCOME_POTENTIAL_TOOLTIP:	"Erhalten Sie die folgenden Effekte für die nächsten [?uses|G0] Technologien §Y[From.GetNameWithFlag]§! Forschungen:\n – Forschungsgeschwindigkeitsbonus: [?bonus|%G0]\n - Vorzeitigkeitsbonus: [?aot_bonus|%G0]\n§YChance auf kritischen Erfolg:§! §G[?CRITICAL_SUCCESS]% §!, was Folgendes gewährt:\n"
+air_steal_tech_critical:	"Gestohlene Baupläne der Luftfahrtindustrie"
+navy_steal_tech_critical:	"Gestohlene Baupläne der Marine"
+operation_sabotage_fuel_desc:	"§LNehmen Sie leicht entzündliche und explosive Treibstoffsilos ins Visier, die für die Kriegsanstrengungen des Feindes von entscheidender Bedeutung sind.§!"
+SABOTAGE_FUEL_OUTCOME_POTENTIAL_TOOLTIP:	"§YTreibstoffsilo§!:\n - Erhalten $DAMAGE|R$ Schadensstufen.\n - Erhalten §R$REPAIR$%§! Reparaturgeschwindigkeit, bis die Reparatur abgeschlossen ist. \n§YAusbreitungseffekt§! zielt auf einen zufälligen Zustand ab.\n§YChance auf kritischen Erfolg:§! |___CC006707 ___|[?CRITICAL_SUCCESS]%§!, was Folgendes gewährt: \n §YInfrastruktur:§!\n  - Erhalten Sie §R2,0§! Schadensstufen."
+SABOTAGE_FUEL_TOOLTIP:	"§YTreibstoffsilo:§!\n - Erlitten [?ROOT.operation_sabotage_fuel_damage@FROM|R] Schadensstufen.\n - Erhalten [?ROOT.operation_sabotage_fuel_repair@FROM|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur."
+SABOTAGE_FUEL_CRITICAL_TOOLTIP:	"§YInfrastruktur:§!\n - Erhalten §R2,00§! Schadensstufen."
+operation_sabotage_infra_desc:	"§LDie Zerstörung lebenswichtiger Infrastruktur, die für den Transport von Soldaten und Material genutzt wird, wird die Fähigkeit des Feindes, weitere Kriegswaffen herzustellen, erheblich beeinträchtigen. §!"
+SABOTAGE_INFRA_TOOLTIP_EVENT:	"§YInfrastruktur:§!\n - Erlittene [?effect|R] Schadensstufen.\n - Erlittene [?repair|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur."
+operation_oil_damaged:	"Sabotierte Ölraffinerien"
+SABOTAGE_OIL_OUTCOME_POTENTIAL_TOOLTIP:	"§YÖlraffinerie§!:\n - Erhalten $DAMAGE|R$ Schadensstufen.\n - Erhalten §R$REPAIR$%§! Reparaturgeschwindigkeit, bis vollständig repariert.\n - Erhalten §R -[?damage|%0]§! £resources_strip|1 Ölgewinnung, bis vollständig repariert.\n§YAusbreitungseffekt§! zielt auf den nächstgelegenen Staat ab.|___NL00 3897___|§YChance auf kritischen Erfolg:§! §G[?CRITICAL_SUCCESS]% §!, was Folgendes gewährt:\n - £resources_strip|1 Ölförderung: §R-25 %§!"
+SABOTAGE_OIL_TOOLTIP:	"§YÖlraffinerie:§!\n - Erhalten [?effect|R] Schadensstufen.\n - Erhalten [?repair|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur.\n - Erhalten £resources_strip|1 Ölförderung: §R-25 %§!"
+SABOTAGE_OIL_SPREAD_TOOLTIP:	"§Y(Ausbreitungseffekt)§! §YNächstgelegene Ölraffinerie:§!\n - Erhalten [?ROOT.operation_sabotage_oil_damage_spread@FROM|R] Schadensstufen.\n - Erhalten [?ROOT.operation_sabotage_oil_repair_spread@FROM|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur.\n - Erhalten £resources_strip|1 Ölförderung: §R-25 %§!"
+SABOTAGE_OIL_TOOLTIP_EVENT:	"§YÖlraffinerie:§!\n - Erhalten [?effect|R] Schadensstufen.\n - Erhalten [?repair|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur.\n - Erhalten £resources_strip|1 Ölförderung: [?critical|%R0]"
+operation_target_army_leader:	"Ziel: Armeeführer"
+operation_target_army_leader_desc:	"§LHochqualifizierte Offiziere und Generäle, die die feindlichen Armeen anführen, haben bei der Ausschaltung höchste Priorität, da sie den Feind verwirren und es uns ermöglichen, hart zuzuschlagen. §!"
+TARGET_ARMY_LEADER_TOOLTIP:	"§YHauptarmeeführer in [From.From.GetName]§!: \n – Erhält §YVerwundete§! für [?effect|Y0] Tage."
+TARGET_ARMY_LEADER_SPREAD_TOOLTIP:	" §Y(Ausbreitungseffekt)§! Zielarmeegruppe:\n – Erhält §YVerwundete§! für [?spread_effect|Y0] Tage."
+TARGET_ARMY_LEADER_CRITICAL_TOOLTIP:	"§YFührer der Hauptarmee in [From.From.GetName]§!: \n - Gewinne §YSchwer verwundet§! für [?ROOT.operation_target_army_leader_damage_critical@FROM|Y0] Tage."
+TARGET_ARMY_LEADER_OUTCOME_POTENTIAL_TOOLTIP:	"§YAnführer der Hauptarmee im Zielstaat§!: \n – Erhält §YVerwundete§! für [?days|Y0] Tage. \n§YAusbreitungseffekt§! zielt auf die Heeresgruppe ab, der das Ziel zugeordnet ist."
+operation_target_attache:	"Ziel: Militärattaché im Ausland"
+operation_target_attache_desc:	"§LNehmen Sie einen feindlichen Militärattaché ins Visier, der in einen Konflikt entsandt wurde, um zu verhindern, dass er wertvolle Erkenntnisse über die Kriegsführung gewinnt.§!"
+TARGET_ATTACHE_CRITICAL_POTENTIAL_TOOLTIP:	"§YChance auf kritischen Erfolg:§! §G[?CRITICAL_SUCCESS]% §!, was Folgendes gewährt:\n – Der Attaché §Rwird nach Ablauf der Dauer§! nicht wieder eingesetzt."
+operation_fortification_plans_desc:	"§LBeschaffen Sie Baupläne und Grundrisse der Befestigungsanlagen, um deren Wirksamkeit erheblich zu mindern und Schwachstellen auszunutzen.§!"
+operation_fort_layout:	"Schwachstellen der Befestigungsanlagen aufgedeckt"
+FORT_PLANS_OUTCOME_POTENTIAL_TOOLTIP:	"§YZielstaat§!:\n - Erhalten §YSchwachstellen der Befestigungsanlagen aufgedeckt§! für §Y90§! Tage, was Folgendes gewährt:\n - $MODIFIER_LAND_BUNKER_EFFECTIVENESS_FACTOR$: [?effect|+%]\n - $MODIFIER_COASTAL_BUNKER_EFFECTIVENESS_FACTOR$: [?effect|+%]"
+FORT_PLANS_CRITICAL_OUTCOME_POTENTIAL_TOOLTIP:	"§YChance auf kritischen Erfolg:§! §G[?CRITICAL_SUCCESS]%§!, was Folgendes gewährt: \n - Erhalten §R-75 %§! §YBunker§! Reparaturgeschwindigkeitsfaktor"
+FORT_PLANS_TOOLTIP:	"§YZielstatus§!:\n - Erhalten §YSchwachstellen der Befestigung aufgedeckt§! für §Y90§! Tage, was Folgendes gewährt: \n - $MODIFIER_LAND_BUNKER_EFFECTIVENESS_FACTOR$: [?effect|+%]\n - $MODIFIER_COASTAL_BUNKER_EFFECTIVENESS_FACTOR$: [?effect|+%]"
+COORDINATED_STRIKE_OUTCOME_POTENTIAL_TOOLTIP:	"§YZielregion:§!\n - Unsere Luftwaffe wird [?damage|G0] §Ystrategische Bombardements§! sowie §YHafenangriffe§! durchführen, ohne dass der Feind sie abfangen kann. \n§YChance auf kritischen Erfolg:§! §G[?CRITICAL_SUCCESS|0]%§!, was Folgendes gewährt:\n - Reparaturgeschwindigkeit des Staates: §R-50 %§! für §Y30§! Tage."
+operation_coordinated_strike_critical:	"Koordinierter kritischer Angriff"
+operation_sabotage_radar:	"Sabotage an Radarstation"
+SABOTAGE_RADAR_SPREAD_TOOLTIP:	"§Y(Ausbreitungseffekt)§! §YNächstgelegene Radarstation:§!\n - Erhalten [?ROOT.operation_sabotage_radar_damage_spread@FROM|R] Schadensstufen.\n - Erhalten [?ROOT.operation_sabotage_radar_repair_spread@FROM|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur."
+SABOTAGE_RADAR_TOOLTIP_CRITICAL_EVENT:	"\nEntfernen §Y1 Radarstation§!"
+operation_sabotage_port:	"Marinestützpunkt sabotieren"
+SABOTAGE_PORT_SPREAD_TOOLTIP_EVENT:	"§YZweitgrößter Marinestützpunkt:§!\n - Erhalten [?effect|R] Schadensstufen.\n - Erhalten [?repair|R%] Reparaturgeschwindigkeit bis zur vollständigen Reparatur."
+MAKE_RESISTANCE_CONTACT_OUTCOME_POTENTIAL_TOOLTIP:	"Erhalten §YFührung des Widerstands§! über den §YZielstaat§!"
+MAKE_RESISTANCE_CONTACT_STATE_TOOLTIP:	"Hat noch keinen Widerstandsführer oder grenzt an einen Staat mit einem solchen"
+operation_resistance:	"Widerstand stärken"
+STRENGTHEN_RESISTANCE_OUTCOME_POTENTIAL_TOOLTIP:	"§YZielstaat:§!\nDie folgenden Effekte gelten für §Y120§! Tage: \n - Erhalten Sie [?resistance_target|R0%] Widerstandsziel\n - Erhalten Sie [?resistance_growth|R0%] Widerstandswachstum\n§YAusbreitungseffekt§!, der auf alle benachbarten Staaten wirkt."
+STRENGTHEN_RESISTANCE_OUTCOME_POTENTIAL_TOOLTIP_CRITICAL:	" - Erhalten §R5 %§! sofortigen Widerstand"
+operation_compliance:	"Unterstützung besetzter Zivilisten"
+operation_boost_society_desc:	"§LDie vom Feind besetzten Zivilisten müssen in ihrem Willen zum Widerstand und zum Kampf bestärkt werden, indem Propaganda widerlegt und sie in ihrem passiven Widerstand unterstützt werden.§!"
+STRENGTHEN_SOCIETY_TOOLTIP:	"§Y[?ROOT.selected_resistance_area@FROM.GetName]:§!\nDie folgenden Effekte gelten für §Y120§! Tage:\n – Erhalten [?effect|R%0] Konformitätswachstum\n – Erhalten [?growth|R%0] Täglicher Konformitätsgewinn"
+STRENGTHEN_SOCIETY_OUTCOME_POTENTIAL_TOOLTIP_CRITICAL:	" - Erhalten §R-5 %§! Sofortige Compliance"
+asset_action_generic_desc:	"[This.GetName] hat seinen Abschlussbericht übermittelt."
+asset_action.2.t:	"Bericht empfangen"
+asset_action.2.desc:	"[This.GetName] hat seinen Abschlussbericht übermittelt. Das am stärksten industrialisierte Gebiet von [From.From.GetNameWithFlag] ist:"
+asset_action.4.desc:	"[This.GetName] hat seinen Abschlussbericht übermittelt. [From.From.GetNameWithFlag] forscht derzeit zu:"
+asset_action.25.desc:	"[This.GetName] hat seinen Abschlussbericht übermittelt. Die meisten Flugzeuge sind versammelt in:"
+asset_action.27.desc:	" [This.GetName] hat seinen Abschlussbericht übermittelt. Die meisten Schiffe sind versammelt in: "
+army_request_doctrine_none:	"Hat die Forschung zu $TYPE$ noch nicht begonnen."
+army_request_doctrine_ww2:	"Gesamtzahl der erforschten Landdoktrinen des Zweiten Weltkriegs: [?FROM.FROM.modifier@land_doctrine_level] (USA: [?[?FROM.modifier@land_doctrine_level])\n"
+army_request_doctrine_ww1:	"Gesamtzahl der erforschten Landdoktrinen des Ersten Weltkriegs: [?FROM.FROM.modifier@ww1_doctrine_level] (USA: [?[?FROM.modifier@ww1_doctrine_level])\n"
+asset_army_request_highest_pierce_result:	"Die leistungsfähigste Panzerabwehr-Einheit hat einen Durchschlagwert von [?max_piercing]"
+asset_army_request_earned_traits:	"$TRAIT$: $VAL$"
+air_request_doctrine_none:	"Die Forschung zu Luftdoktrinen wurde noch nicht begonnen."
+asset_air_request_air_capacity_production:	"Gesamte Luftproduktionskapazität: [From.From.GetTrueAirProduction]"
+asset_air_request_air_capacity_consumed:	"    - Verwendet: [?From.From.resource_consumed@air_production]"
+asset_air_request_air_capacity_uses:	"    - Ungenutzt: [?unused]"
+asset_air_request_air_assembly:	"\nGesamtzahl der Luftfahrt-Montagewerke: [?From.From.num_air_assembly]"
+asset_air_request_air_assembly_modifier:	"    - Kapazität pro Werk: [?From.From.modifier@air_production_capacity]"
+asset_navy_request_navy_capacity_production:	"Gesamtkapazität der Großschiffwerften: [From.From.GetTrueCapitalProduction]"
+asset_navy_request_navy_capacity_consumed:	"    - Ausgenutzt: [?From.From.resource_consumed@shipyard_capital]"
+asset_navy_request_navy_assembly_modifier:	"    - Kapazität pro Werft: [?From.From.modifier@shipyard_capital_capacity]"
+asset_navy_request_navy_location_result:	"§Y[?highest_navy_region_id.GetName]§!, mit insgesamt [?highest_amount|Y0] Schiffen. "
+civilian_request_most_built_area_desc:	"Informationen über das am stärksten industrialisierte Gebiet des Landes abrufen."
+civilian_request_current_research:	"Aktuelle Forschung"
+army_request_doctrine_desc:	"Informationen über den Stand ihrer Landdoktrinen abrufen."
+army_request_highest_armor_desc:	"Informationen über die am stärksten gepanzerte Panzereinheit abrufen."
+army_request_earned_mio_desc:	"Informationen über die Größe und Aufgaben ihrer militärisch-industriellen Organisationen abrufen."
+air_request_doctrine:	"Stand der Luftwaffendoktrin"
+air_request_doctrine_desc:	"Informationen über den Stand ihrer Luftdoktrinen abrufen."
+air_request_air_capacity_desc:	"Informationen über ihre Luftproduktionskapazität abrufen."
+air_request_air_location:	"Luftstreitkräfte-Einsatz"
+navy_request_doctrine:	"Stand der Marinestrategie"
+navy_request_csy_production:	"Kapazität der Großschiffwerft"
+navy_request_csy_production_desc:	"Informationen über die Kapazität ihrer Großschiffwerft abrufen."
+navy_request_navy_location:	"Hauptmarinestützpunkt"
+navy_request_navy_location_desc:	"Informationen über den Marinestützpunkt mit den meisten dort stationierten Schiffen abrufen."
+navy_request_earned_mio_desc:	"Informationen über die Größe und Aufgaben ihrer militärisch-industriellen Organisationen abrufen."
+asset_setting_resistance_sabotage_resources:	"Ressourcensabotage priorisieren"
+subasset_resistance_sabotage:	"Sabotage-Welle"
+subasset_resistance_sabotage_desc:	""
+subasset_resistance_defensive_desc:	""
+subasset_army_research_steal:	"$operation_steal_tech_army$ Ergebnis"
+subasset_army_research_steal_tooltip:	"[?PREV.research_steal_uses_army@ROOT|Y0] verbleibende Einsätze\n[?PREV.research_steal_bonus_army@ROOT|G0%] Bonus auf Forschungsgeschwindigkeit\n[?PREV.research_steal_ahead_of_time_army@ROOT|C2] Vorab-Bonus"
+subasset_air_research_steal:	"$operation_steal_tech_airforce$ Ergebnis"
+subasset_air_research_steal_desc:	""
+subasset_navy_research_steal:	"$operation_steal_tech_navy$ Ergebnis"
+upgrade_army_stackable:	"Umfangreiche operative Netzwerke"
+upgrade_navy_enemy_intel_reduction:	"Marineberichte klassifizieren"
+upgrade_navy_stackable:	"Umfangreiche operative Netzwerke"
+upgrade_navy_no_token_use:	"Effiziente operative Netzwerke"
+upgrade_air_enemy_intel_reduction:	"Luftwaffenberichte klassifizieren"
+upgrade_air_stackable:	"Umfangreiche operative Netzwerke"
+upgrade_economy_enemy_counter_intel:	"Schnelleinsatzteam"
+upgrade_operation_steal_tech:	"Industriespionage"
+upgrade_steal_tech_effect:	"Gezielte Spionage"
+upgrade_operation_target_unit_leader:	"Armeegeneräle ins Visier nehmen"
+upgrade_operation_target_army_leader_sick:	"Uneingeschränkte Attentate"
+upgrade_operation_sabotage:	"Industriesabotage"
+upgrade_operation_sabotage_damage:	"Plastiksprengstoff"
+upgrade_operation_strengthen_resistance:	"Widerstand stärken"
+upgrade_operation_strengthen_resistance_effect:	"Aufbau lokaler Widerstandsbewegungen"
+upgrade_operation_strengthen_society:	"Unterstützung der besetzten Zivilbevölkerung"
+upgrade_operation_strengthen_society_uses:	"Zivile Widerstandsbewegung"
+upgrade_operation_infiltrate:	"Infiltrationstechniken"
+upgrade_operation_infiltrate_cost:	"Erpressungsziele"
+upgrade_navy_defense_sweep:	"Regelmäßige Sicherheitsüberprüfungen"
+upgrade_defense_critical_success:	"Sicherheitsabteilungen vor Ort"
+upgrade_agency_third_upgrade:	"Globale Geheimdienstbehörde"
+operation_steal_tech_aot_factor:	"£operatives_build_intel_network_texticon  Technologie vorzeitig stehlen"
+operation_resistance_keep_asset_chance:	"£text_contact_resistance_token  Chance, Widerstands-Ressource weiter nutzen"
+operation_army_keep_asset_chance:	"£text_infiltrate_army_token  Chance, Armee-Ressource im Einsatz zu halten"
+enemy_army_asset_discover_chance:	"£counter_intelligence_texticon  Chance, Armee-Ressource zu entdecken"
+operation_navy_max_asset:	"£text_infiltrate_navy_token  Maximale Anzahl an Marine-Einheiten"
+enemy_navy_asset_discover_chance:	"£counter_intelligence_texticon  Chance, eine Marine-Einheit zu entdecken"
+operation_air_keep_asset_chance:	"£text_infiltrate_air_token  Chance, Luftwaffenressource im Einsatz zu behalten"
+operation_air_max_asset:	"£text_infiltrate_air_token  Max. Luftwaffenressourcen"
+enemy_air_asset_discover_chance:	"£counter_intelligence_texticon  Chance, eine Luftwaffenressource zu entdecken"
+enemy_economy_asset_discover_chance:	"£counter_intelligence_texticon  Chance, eine zivile Ressource zu entdecken"
+operation_steal_tech_cost:	"£operatives_build_intel_network_texticon  Kosten für Technologie-Diebstahl"
+operation_steal_tech_uses:	"£operatives_build_intel_network_texticon  Bonus-Einsätze für Technologie-Diebstahl"
+operation_target_army_leader_outcome:	"£operatives_build_intel_network_texticon  Erfolgschance des Ziel-Armeeführers"
+operation_target_army_leader_risk:	"£operatives_build_intel_network_texticon  Risiko des Ziel-Armeeführers"
+operation_target_army_leader_cost:	"£operatives_build_intel_network_texticon  Kosten des Ziel-Armeeführers"
+operation_target_army_leader_spread:	"£operatives_build_intel_network_texticon  Streuung des Ziel-Armeeführers"
+operation_sabotage_outcome:	"£operatives_build_intel_network_texticon  Erfolgschance der Sabotageaktion"
+operation_sabotage_risk:	"£operatives_build_intel_network_texticon  Risiko der Sabotageaktion"
+operation_sabotage_repair:	"£operatives_build_intel_network_texticon  Reparaturgeschwindigkeit der Sabotageaktion"
+operation_strengthen_resistance_outcome:	"£operatives_build_intel_network_texticon  Erfolgschance der Widerstandsstärkung"
+operation_strengthen_resistance_effect:	"£operatives_build_intel_network_texticon  Wirkung der Widerstandsstärkung"
+operation_strengthen_resistance_spread:	"£operatives_build_intel_network_texticon  Ausbreitung der Widerstandsstärkung"
+operation_strengthen_society_outcome:	"£operatives_build_intel_network_texticon  Erfolgschance bei der Unterstützung besetzter Zivilisten"
+operation_strengthen_society_cost:	"£operatives_build_intel_network_texticon  Kosten für die Unterstützung besetzter Zivilisten"
+operation_strengthen_society_risk:	"£operatives_build_intel_network_texticon  Risiko bei der Unterstützung besetzter Zivilisten"
+operation_strengthen_society_effect:	"£operatives_build_intel_network_texticon  Wirkung der Unterstützung besetzter Zivilisten"
+operation_infiltrate_critical_success:	"£operatives_build_intel_network_texticon  Wahrscheinlichkeit eines kritischen Erfolgs bei der Infiltration"
+operation_fortification_plans_cost:	"£operatives_build_intel_network_texticon  Kosten für den Erfolg beim Abrufen des Befestigungsplans"
+operation_fortification_plans_risk:	"£operatives_build_intel_network_texticon  Risiko beim Abrufen des Festungslayouts"
+passive_decryption_operation:	"£operatives_build_intel_network_texticon  Operationseffekt gegen Land: §G+7,0 %§!"
+resistance_chance_buildings:	"£civ_factory_sabotage  Fokus auf Sabotage von Widerstandsgebäuden"
+resistance_chance_resource:	"£sabotaged_resource_texticon  Schwerpunkt Sabotage der Ressourcen des Widerstands"
+resistance_damage_to_buildings:	"£political_violence_texticon  Schaden des Widerstands an Gebäuden"
+resistance_operation_effect_in_our_states:	"£political_violence_texticon  Auswirkungen von Widerstandsoperationen in unseren eigenen Staaten"
+operative_discover_civilian_asset_desc:	""
+operative_discover_navy_asset_desc:	""
+lar_operative_event.7.t:	"[From.GetAdjective] Marineeinheit entdeckt!"
+lar_operative_event.7.desc:	"Heute [This.GetName], beauftragt mit der Spionageabwehr gegen ausländische Bedrohungen, hat erfolgreich eine [From.GetAdjective] Spionageeinheit ausgeschaltet, die innerhalb unserer Seestreitkräfte operierte."
+lar_operative_event.8.desc:	"Eingehende Berichte von [From.GetNameDef] deuten darauf hin, dass [This.GetName] einen unserer Marineagenten erfolgreich eliminiert hat."
+lar_operative_event.9.t:	"[From.GetAdjective] Marineagent fast verloren!"
+lar_operative_event.9.a:	"Verstanden"
+lar_operative_event.10.desc:	"Heute hat [This.GetName], beauftragt mit der Spionageabwehr gegen ausländische Bedrohungen, erfolgreich einen [From.GetAdjective] Geheimdienstinformanten eliminiert, der innerhalb unserer Luftstreitkräfte operierte. "
+lar_operative_event.10.a:	"Verstanden"
+lar_operative_event.11.desc:	"Eingehende Berichte von [From.GetNameDef] deuten darauf hin, dass [This.GetName] einen unserer Luftwaffen-Agenten erfolgreich eliminiert hat."
+lar_operative_event.11.a:	"Verstanden"
+lar_operative_event.12.t:	"[From.GetAdjective] Luftwaffen-Einheit fast verloren!"
+lar_operative_event.12.a:	"Verstanden"
+lar_operative_event.13.t:	"[From.GetAdjective] Armee-Einheit gefunden!"
+lar_operative_event.13.desc:	"Heute [This.GetName], beauftragt mit der Spionageabwehr gegen ausländische Bedrohungen, hat erfolgreich ein [From.GetAdjective] nachrichtendienstliches Ziel eliminiert, das innerhalb unserer Streitkräfte operierte."
+lar_operative_event.13.a:	"Verstanden"
+lar_operative_event.14.t:	"[From.GetAdjective] Armee-Informant verloren!"
+lar_operative_event.14.desc:	"Eingehende Berichte von [From.GetNameDef] deuten darauf hin, dass [This.GetName] einen unserer Armee-Informanten erfolgreich eliminiert hat."
+lar_operative_event.15.t:	"[From.GetAdjective] Armee-Informant fast verloren!"
+lar_operative_event.15.desc:	"[This.GetName], ein Agent von [From.GetNameDef], stand heute kurz davor, einen unserer Geheimdienstinformanten in deren Streitkräften zu enttarnen. Unser Informant ergriff umgehend alle notwendigen Vorsichtsmaßnahmen, um sie abzuschütteln."
+lar_operative_event.16.t:	"[From.GetAdjective] Ziviler Informant aufgedeckt!"
+lar_operative_event.16.desc:	"Heute hat [This.GetName], der mit der Spionageabwehr gegen ausländische Bedrohungen beauftragt ist, erfolgreich einen [From.GetAdjective] Geheimdienstinformanten ausgeschaltet, der innerhalb unserer Wirtschaft operierte."
+lar_operative_event.16.a:	"Verstanden"
+lar_operative_event.17.t:	"[From.GetAdjective] Ziviler Agent verloren!"
+lar_operative_event.17.desc:	"Eingehende Berichte von [From.GetNameDef] deuten darauf hin, dass [This.GetName] einen unserer zivilen Informanten erfolgreich ausgeschaltet hat. "
+lar_operative_event.17.a:	"Verstanden"
+lar_operative_event.18.t:	"[From.GetAdjective] Ziviles Objekt fast verloren!"
+lar_operative_event.19.t:	"Attaché-Ziel auswählen"
+lar_operative_event.19.a:	"[?From.attache_targets^0.GetName]"
+lar_operative_event.19.b:	"[?From.attache_targets^1.GetName]"
+lar_operative_event.19.d:	"[?From.attache_targets^3.GetName]"
+lar_operative_event.19.f:	"[?From.attache_targets^5.GetName]"
+lar_operative_event.101.desc:	"Feindlichen Agenten ist es gelungen, unseren Agenten zu entkommen und eine unserer Ölraffinerien zu sabotieren."
+lar_operative_event.102.t:	"Infrastruktur sabotiert!"
+lar_operative_event.102.desc:	"Feindliche Agenten konnten unseren Agenten entkommen und haben die Infrastruktur sabotiert."
+lar_operative_event.104.t:	"Marinestützpunkt sabotiert!"
+lar_operative_event.104.desc:	"Feindliche Agenten konnten unseren Agenten entkommen und haben einen unserer Marinestützpunkte sabotiert."
+lar_operative_event.105.t:	"Militärattaché verletzt!"
+lar_operative_event.105.desc:	"Feindliche Agenten, die sich unrechtmäßig auf dem Territorium von [?FROM.attache_target@ROOT.GetNameDef] aufhielten, haben unseren Militärattaché verletzt. Es wird einige Zeit dauern, bis er sich von seinen Verletzungen erholt hat und seinen Dienst wieder aufnehmen kann."
+lar_operative_event.106.t:	"Militärattaché getötet!"
+lar_operative_event.106.desc:	"Feindliche Agenten, die sich unrechtmäßig auf dem Territorium von [?FROM.attache_target@ROOT.GetNameDef] aufhielten, haben unseren Militärattaché getötet!"

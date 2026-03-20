@@ -172,18 +172,155 @@ DIPLOMACY_CALL_ALLY_NO_LEADING_WAR:0	"Du kannst keine Verbündeten herbeirufen, 
 DIPLOMACY_JOIN_ALLY_TITLE:0	"Kriege beitreten"
 DIPLOMACY_JOIN_ALLY_DESC:0	"Beantrage, dass wir $COUNTRY|Y$ in ihrem Krieg beitreten."
 DIPLOMACY_JOIN_ALLY_ACTION_DESC:0	"Einem Verbündeten in diesem Krieg beitreten"
+
+DIPLOMACY_NAVAL_BLOCKADE_DESC:	"Das Land einer Seeblockade unterziehen"
+DIPLOMACY_NAVAL_BLOCKADE_ACTION_DESC:	"Seeblockade des Landes"
+DIPLOMACY_NAVAL_BLOCKADE_REVOKE_TITLE:	"Seeblockade aufheben"
+
+
 DIPLOMACY_JOIN_ALLY_PUPPET_MASTER:2	"Da du ein Untertan bist, kannst du nur an den Kriegen deines Herrn teilnehmen."
 DIPLOMACY_JOIN_ALLY_OTHER_PUPPETS:0	"Du kannst nicht mit Untertanen anderer Nationen in einen Krieg ziehen."
 DIPLOMACY_JOIN_ALLY_REQUEST_DESC:1	"$COUNTRY|UY$ möchte uns bei unseren Kriegsanstrengungen helfen."
 DIPLOMACY_JOIN_ALLY_NO_FACTION:0	"Wir müssen einer Fraktion angehören, um mit Mitgliedern dieser Fraktion in den Krieg zu ziehen."
 DIPLOMACY_JOIN_ALLY_NOT_ALLY:1	"$COUNTRY|UY$ ist kein Mitglied deiner Faction."
 DIPLOMACY_JOIN_ALLY_NO_LEADING_WAR:0	"Du musst deine §Yjoin war§!-Anfrage an den Kriegsführer senden."
+
+
+
+
+
+
 DIPLOMACY_MERGED_WAR_DESC:0	"Unser Krieg $OUR_WAR|Y$ wurde mit $NEW_WAR|Y$ zusammengelegt\nUnsere Verbündeten in diesem Krieg sind nun:\n$ALLIES_LIST|Y$\n\nUnd unsere Feinde sind:\n$ENEMIES_LIST|Y$"
 DIPLOMACY_DROPPED_COUNTRIES_FROM_WAR_DESC:1	"Durften dem fusionierten Krieg nicht beitreten:\n$COUNTRY_LIST|Y$"
 DIPLOMACY_IMPROVERELATION_TITLE:0	"Verbesserung der Beziehungen"
 DIPLOMACY_IMPROVERELATION_DESC:0	"Verbessern Sie die diplomatischen Beziehungen."
 DIPLOMACY_IMPROVERELATION_ACTION_DESC:0	"Verbessern Sie die diplomatischen Beziehungen."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IMPROVE_RELATION_NEXT_FAVOUR_DATE_THEORETICAL:	"Wenn wir heute damit beginnen würden, §Ydie Beziehungen zu verbessern§!, könnte der nächste Pakt in [?next_favour|Y] Monaten vorgeschlagen werden."
+
+
+
+
+
+
+
+
+THIS_add_opinion_to_PREV:	"Gewinne §YVerbesserte Beziehung§! (Meinung von [Prev.GetFlag]§Y[Prev.GetName]§! [?opinion|+=0])"
+RELATION_MODIFIER_TOOLTIP:	"[!relation_icon_click]"
+DIPLOMACY_FOREIGN_POLICY:	"[!foreign_policy_click]"
+DIPLOMACY_SURRENDER_PROGRESS:	"[?surrender_progress|%1+]"
+DIPLOMACY_SURRENDER_PROGRESS_TOOLTIP:	"§YFortschritt der Kapitulation§!\n[From.GetName] ist [?From.surrender_progress|Y%0] in Richtung Kapitulation."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABORT_FAVOUR_DESC:	"Alle unsere Bündnisse mit §Y[?notification_sender^i.GetNameWithFlag]§! wurden aufgrund sich verschlechternder Beziehungen gekündigt."
+
+
+
+
+
+
+
+
+
+
+
+FAVOUR_AI_DECLINE:0	"§YSie werden NICHT akzeptieren§!\n"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alert_diplo_naval_bonus:	"§YMarinekooperation§!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DIPLOMACY_CANCEL_IMPROVERELATION_TITLE:0	"Beziehungen nicht mehr verbessern"
+
+
+
+
+
 DIPLOMACY_NONAGGRESSIONPACT_REQUEST_DESC:1	"$COUNTRY|UY$ möchte, dass wir einen Nichtangriffspakt unterzeichnen."
 DIPLOMACY_NONAGGRESSIONPACT_ACTION_DESC:0	"Versprechen Sie, sich nicht gegenseitig den Krieg zu erklären."
 DIPLOMACY_REVOKE_NONAGGRESSIONPACT_TITLE:0	"Nichtangriffspakt kündigen"
@@ -196,6 +333,7 @@ DIPLOMACY_CREATE_FACTION_DESC:0	"Bildet ein Militärbündnis mit $COUNTRY|Y$. Be
 DIPLOMACY_CREATE_FACTION_REQUEST_DESC:1	"$COUNTRY|UY$ möchte, dass wir sie unterstützen, indem wir eine Fraktion gründen: $FACTION|Y$.\nSollten Freiwillige zwischen uns gesendet oder empfangen worden sein, werden sie zurückgeschickt."
 DIPLOMACY_CREATE_FACTION_ACTION_DESC:0	"Bitte um Erstellung einer Fraktion"
 DIPLOMACY_CREATE_FACTION_ALREADY_IN_FACTION:1	"$COUNTRY|UY$ ist bereits in einer Fraktion"
+
 DIPLOMACY_JOIN_FACTION_TITLE:0	"Fraktionsbeitritt beantragen"
 DIPLOMACY_JOIN_FACTION_ACTION_DESC:0	"Wenn wir einer Fraktion beitreten, haben wir die Möglichkeit, ihren Kriegen beizutreten, und sie haben die Möglichkeit, unseren Kriegen beizutreten. Wir werden dann gemeinsam kämpfen!"
 DIPLOMACY_JOIN_FACTION_REQUEST_DESC:2	"$COUNTRY|UY$ möchte unserer Fraktion $FACTION|Y$ beitreten.\nWenn Freiwillige zwischen den Faction-Mitgliedern gesendet oder empfangen wurden, werden sie zurückgeschickt.\nInszenierte Coups zwischen $COUNTRY|H$ und uns werden automatisch annulliert."
@@ -212,6 +350,7 @@ DIPLOMACY_KICK_FROM_FACTION_POPUP_DESC:1	"$COUNTRY|UY$ wird gezwungen sein, $FAC
 DIPLOMACY_KICK_FROM_FACTION_PLAYER_MESSAGE:1	"$COUNTRY|U$ hat dich aus $FACTION$ rausgeschmissen"
 DIPLOMACY_KICK_FROM_FACTION_IS_A_SUBJECT:1	"$COUNTRY|UY$ ist ein Subjekt von $MASTER|H$"
 DIPLOMACY_KICK_FROM_FACTION_IS_A_NEW_MEMBER:1	"$COUNTRY|UY$ ist vor kurzem der Faction beigetreten. Du kannst ihn nicht vor $DATE|Y$ rauswerfen."
+
 DIPLOMACY_JOIN_FACTION_ACTION_DETAILED_DESC:0	"Inszenierte Coups zwischen dir und ihnen werden automatisch abgebrochen, wenn du ihrer Fraktion beitrittst"
 DIPLOMACY_JOIN_FACTION_DESC:0	"Bitte $COUNTRY|H$, $FACTION|H$ beizutreten. Dies erlaubt euch, euch gegenseitig zum Krieg aufzurufen. Der Anführer der Fraktion ist $LEADER|H$.\nWenn du Freiwillige zu den Fraktionsmitgliedern geschickt hast, werden sie zurückgeschickt."
 DIPLOMACY_ESPIONAGE_TITLE:0	"Spionage"
@@ -245,10 +384,12 @@ DIPLOMACY_ACTION_MAINTAIN_COST:0	"Kosten für die Aufrechterhaltung: £pol_power
 DIPLOMACY_ACTION_COST:0	"Kosten £pol_power $VALUE|-0$"
 DIPLOMACY_SEND_ATTACHE_IMMEDIATE_COST:0	"Es kostet £pol_power $VALUE$, einen Attaché zu schicken."
 DIPLOMACY_SEND_ATTACHE_REQUEST_DESC:1	"$COUNTRY|UY$ möchte uns bei unseren Kriegsanstrengungen helfen, indem es einen Militärattaché entsendet. Dafür erhalten sie von uns Informationen und militärische Erfahrung."
- 
+
 DIPLOMACY_SEND_ATTACHE_CP_IMMEDIATE_COST:0	"Es wird £command_power $VALUE$ verwenden, um den Attaché zu unterhalten."
 DIPLOMACY_ACTION_NEGATIVE_COST_COMPACT:0	"£pol_power $VALUE|-0$ "
 DIPLOMACY_ACTION_NEUTRAL_COST_COMPACT:0	"£pol_power $VALUE|Y0$ "
+
+
 DIPLOMACY_ACTION_CP_NEGATIVE_COST_COMPACT:0	"£command_power $VALUE|-0$ "
 DIPLOMACY_ACTION_CP_NEUTRAL_COST_COMPACT:0	"£command_power $VALUE|Y0$ "
 DIPLOMACY_NOT_ENOUGH_POLITICAL_POWER:0	"Nicht genug politische Macht."
@@ -272,7 +413,7 @@ DIPLOMACY_LEND_LEASE_PRODUCTION:0	"Unsere Produktion"
 DIPLOMACY_LEND_LEASE_HEADER_IN_STORAGE:0	"Im Lager"
 DIPLOMACY_LEND_LEASE_HEADER_PRODUCING:0	"Produzierend"
 DIPLOMACY_LEND_LEASE_HEADER_LL:0	"Leih-Leasing"
- 
+
 DIPLOMACY_LEND_LEASE_SET_FROM_PRODUCTION:0	"Oder wählen Sie einen Prozentsatz der aktuellen Produktion."
 DIPLOMACY_LEND_LEASE_REASON_ENEMY:0	"Wir können nicht mit Feinden leasen."
 DIPLOMACY_LEND_LEASE_REASON_TARGET_AT_WAR:0	"Um die Leihgabe zu senden, muss @$TAG$$WHO|H$ im Krieg sein."
@@ -284,42 +425,144 @@ DIPLOMACY_LEND_LEASE_NUMBER:1	"Monatlich"
 DIPLOMACY_LEND_LEASE_DAILY:0	"Täglich"
 DIPLOMACY_LEND_LEASE_PERCENT:0	"Prozentsatz"
 DIPLOMACY_LEND_LEASE_ONCE:0	"Einmal"
- 
- DIPLO_OVERLAY_TOOLTIP: "[!diplo_bg_click]\n\n[!diplo_bg_click_enabled]"##### NOT TRANSLATED #####
+
+
 DIPLOMACY_LEND_LEASE_DAILY_DESC_NUMBER:0	"Einheiten Täglich"
- justify_war_goal: "Justify War goal"##### NOT TRANSLATED #####
- send_volunteers: "Send Volunteers"##### NOT TRANSLATED #####
- negotiate_licenses: "Negotiate Licenses"##### NOT TRANSLATED #####
- send_attache: "Send attaché"##### NOT TRANSLATED #####
- adjust_ai_defense: "Country Defence Settings"##### NOT TRANSLATED #####
- adjust_ai_defense_desc: "Adjust which countries should defend §Y[From.GetNameWithFlag]§! or be defended by it"##### NOT TRANSLATED #####
- adjust_ai_production: "Manage Production"##### NOT TRANSLATED #####
- adjust_ai_production_desc: "Adjust AI Unit Production"##### NOT TRANSLATED #####
- diplomacy_bypass_volunteer_ideology: "\nWe will be able to support §Y[This.GetName]§! with §YVolunteers§!, regardless of their §YRuling Party§!"##### NOT TRANSLATED #####
- diplomacy_disable_land_volunteers: "\nWe will not be able to send §YArmy Volunteers§!"##### NOT TRANSLATED #####
- diplomacy_disable_air_volunteers: "\nWe will not be able to send §YAir Volunteers§!"##### NOT TRANSLATED #####
- diplo_modifier_positive_number: "[?modifier@var:v|+=0]"##### NOT TRANSLATED #####
+
+
+
+
+
+
+
+
+
+
+
+
 DIPLOMACY_LEND_LEASE_ONCE_TOOLTIP:0	"Wählen Sie eine Anzahl von Ausrüstungseinheiten, die einmalig gesendet werden sollen."
- diplo_modifier_positive_percentage: "[?modifier@var:v|+=%0]"##### NOT TRANSLATED #####
- diplo_modifier_negative_percentage: "[?modifier@var:v|-%=0]"##### NOT TRANSLATED #####
- diplomacy_opinion_gain_factor: "Improve Relations Opinion Gain: [?opinion_gain_factor|%]\n Flat Modifier: [?modifier@opinion_gain_monthly]"##### NOT TRANSLATED #####
- DIPLO_VOLUNTEER_ICON_TOOLTIP: "[!volunteer_allowance_click]"##### NOT TRANSLATED #####
- diplomacy_allow_both_volunteers: "We can support them with §GArmy§! and §RAir§! volunteers"##### NOT TRANSLATED #####
- diplomacy_allow_land_volunteers: "We can support them with §GArmy§! volunteers"##### NOT TRANSLATED #####
- diplomacy_allow_air_volunteers: "We can support them with §RAir§! volunteers"##### NOT TRANSLATED #####
+
+
+
+
+
+
+
+
 LEND_LEASE_DETAILS_DELIVERED_NONE:0	"§RKeine§!"
 LEND_LEASE_DETAILS_NEXT_DELIVERY_DATE:0	"\nNächste Lieferung erwartet in $DAY|Y$ Tagen."
 LEND_LEASE_DETAILS_NEXT_DELIVERY_ASAP:0	"\nNächste Lieferung erwartet in §Yany time§!."
 LEND_LEASE_DETAILS_EQUIPMENT_SUNK:0	"\nAusrüstung versenkt seit $DATE|Y$:"
 LEND_LEASE_VEHICLES_BUTTON:0	"§TLeih und Pacht gepanzerte Fahrzeuge§!"
+
+
+
+
+
+
+
+
+
+
+
+
 LEND_LEASE_CURRENT_NONE:0	"Kein aktuelles Lend-Leasing"
+
+
+
+
+
+
+
+
+
+
+
+
+DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET:1	"Unsere Autonomiestufe reduziert die Weltspannungsgrenze mit unserem Meister"
+
+
+
+
 DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_REQUEST_LICENSED_PRODUCTION:0	"Unser Antrag auf Lizenzproduktion wurde von §G$COUNTRY$§! §Rabgelehnt.§!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DIPLOMACY_ESTIMATED_VALUE_ACCURATE:0	"$VALUE$"
+
+
+
 ESTIMATED_NAVY_FORCES:0	"Geschätzte Seestreitkräfte in Anzahl der Schiffe"
 ESTIMATED_AIR_FORCES:0	"Geschätzte Luftstreitkräfte in Anzahl der Flugzeuge"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+offer_military_access:0	"Militärischer Zugang"
+
+
+
+
 at_war_active:0	"befindet sich im Krieg"
+
+
+
+
+
+
+
+
+
+
+
 non_aggression_pact_active:0	"hat einen Nichtangriffspakt mit"
 improve_relation_active:0	"verbessert die Beziehungen zu"
+
 DIPLOMACY_OPEN:0	"§GKlicke, um die Diplomatie mit @$TAG$$COUNTRY|H$ zu eröffnen§!"
 DIPLOMACY_FACTION:1	"§T@$TAG$$TARGET|UH$ ist Mitglied von $FACTION|H$§!"
 DIPLOMACY_FACTION_LEADER:1	"§T@$TAG$$TARGET|UH$ ist der Fraktionsvorsitzende von $FACTION|H$§!"
@@ -327,11 +570,13 @@ DIPLOMACY_FACTION_OTHER_MEMBERS:0	"§TWeitere Mitglieder von $FACTION|H$ sind:§
 DIPLOMACY_NOFACTION:1	"§T$TARGET|UH$ ist kein Mitglied einer Fraktion.§!"
 DIPLOMACY_FACTION_DESC:0	"Eine Faction ist eine Koalition von Nationalstaaten, die miteinander verbündet sind. Wenn jemand einem Fraktionsmitglied den Krieg erklärt, treten alle anderen Fraktionsmitglieder automatisch dem Krieg bei. Fraktionsmitglieder können aufgefordert werden, sich an Angriffskriegen zu beteiligen, aber sie können sich auch weigern.\n\nNur der Fraktionsführer kann neue Mitglieder in die Fraktion einladen."
 anti_comintern_pact_opinion:0	"Unterzeichner des Anti-Komintern-Pakts"
+anti_comintern_pact_member:	"Unterzeichner des Anti-Komintern-Paktes"
 anti_soviet_pact_call_refused:0	"Weigerte sich, den Antisowjetischen Pakt zu ehren"
 refused_anti_comintern_pact_opinion:0	"Abgelehnter Anti-Komintern-Pakt"
 tripartite_pact_opinion:1	"Unterzeichner des Antisowjetischen Pakts"
 refused_tripartite_pact_opinion:1	"Abgelehnter Antisowjetischer Pakt"
 pact_against_us:0	"Unterzeichner des Anti-Komintern-Pakts"
+
 condemn_aggression:0	"Verurteilte Aggression"
 western_betrayal:0	"Westlicher Verrat"
 offered_support:0	"Angebotene Unterstützung"
@@ -340,6 +585,11 @@ abandoned_yugoslavia:0	"Aufgegebenes Jugoslawien"
 MR_pact:0	"Molotow-Ribbentrop-Pakt"
 MR_pact_cheated:0	"Betrogen Molotow-Ribbentrop-Pakt"
 refused_MR_pact:0	"Verweigerte Molotow-Ribbentrop-Pakt"
+
+
+
+
+
 fascists_in_government:0	"Faschisten in der Regierung"
 communists_in_government:0	"Kommunisten in der Regierung"
 refused_help:0	"Weigerte sich zu helfen"
@@ -352,6 +602,7 @@ similar_ruling_party:0	"Basis"
 different_party_types:0	"Basis"
 allow_elections:0	"Wir trauen diesen Demokraten nicht."
 allow_elections_dictator:0	"Wir trauen diesen Diktatoren nicht."
+
 protest_action_light:0	"Leichter Protest"
 protest_action_strong:0	"Scharfer Protest"
 old_friend:0	"Vergangene Beziehungen"
@@ -369,6 +620,7 @@ MAPMODE_ENEMY_TARGET:1	"§T$COUNTRY|UH$ is at war with $FROM|H$.§!"
 MAPMODE_FACTION_TARGET:1	"§T$COUNTRY|UH$ sind Teil einer Fraktion mit $FROM|H$.§!"
 MAPMODE_GOOD_OPINION_TARGET:1	"§T$COUNTRY|UH$ hat eine sehr gute Meinung von $FROM|H$.§!"
 MAPMODE_BAD_OPINION_TARGET:1	"§T$COUNTRY|UH$ hat eine sehr schlechte Meinung von $FROM|H$.§!"
+
 REPLY_NO:0	"§YSie werden es NICHT akzeptieren§!"
 REPLY_NOT_NEEDED:0	"§YAkzeptanz nicht erforderlich§!"
 DR_WAR_REASON:1	"§Y$THEM|U$§! befindet sich im Krieg: "
@@ -392,6 +644,13 @@ DR_STRATEGIC_DONT_JOIN:1	"§Y$US|U$§! hat strategische Gründe, nicht in den Kr
 DR_PLAYER_ASKING_FACTION:1	"§Y$THEM|U$§! ist ein Akteur: "
 DR_OPINION:1	"§Y$US|U$§! Meinung über §Y$THEM$§!: "
 DR_OPINION_DIPLOMATIC_PRESSURE:1	"£operative_mission_icons_small|7£ Diplomatischer Druck: "
+DR_TRADE_INFLUENCE:0	"§Y$US|U$§! Handelseinfluss über §Y$THEM$§!: "
+DR_TRADE_EMBARGO:0	"§Y$THEM$§! wurde von §Y$US$§! mit einem Embargo belegt: "
+DR_HAS_NON_AGGRESSION_PACT:0	"§Y$THEM$§! hat einen Nichtangriffspakt mit §Y$US$§!: "
+DR_MARKET_CONTRACT_DURATION:0	"Dauer des Vertrages: "
+DR_MARKET_NO_TRADE_ROUTE:0	"Keine gültige Handelsroute zwischen den Ländern: "
+DR_MARKET_TRADE_POS_DESIRE:0	"§Y$US$§! ist bereit, mit §Y$THEM$§! zu handeln: "
+DR_MARKET_TRADE_NEG_DESIRE:0	"§Y$US$§! ist nicht bereit, mit §Y$THEM$§! zu handeln: "
 DR_YEARS_DIFFERENCE:0	"Technischer Unterschied der angeforderten Ausrüstung: "
 DR_LEND_LEASE:0	"Die Hilfe ist willkommen: "
 DR_LEND_LEASE_NO_EQUIPMENT_OR_REQUEST_HAS:1	"$SENDER|UH$$ hat unzureichende Ausrüstung oder §YWir§! haben zu viel Ausrüstung im Vorrat."
@@ -402,9 +661,13 @@ DR_CONTAIN_SUPPORT:0	"Sie wollen ein Land eindämmen, das wir bekämpfen oder be
 DR_PROTECT_AGAINST:0	"Sie fühlen sich gegen mindestens ein Land geschützt, das wir als Feind betrachten: "
 DR_WANTS_ACCESS:1	"§Y$US|U$§! will Zugang durch §Y$THEM$§!: "
 DR_AI_CHEAT:0	"KI-Akzeptanzbetrug: "
+
 DR_DEFENSIVE_WAR:0	"Zu einem Verteidigungskrieg aufgerufen werden: "
 DR_OFFENSIVE_WAR:0	"Die Demokratie wird zu einem Angriffskrieg aufgerufen: "
 DR_GUARANTEE:1	"§Y$US|U$§! wird von §Y$THEM$§! garantiert: "
+
+
+
 DR_FACTION_LOW_TENSION:0	"Die Weltspannung ist §R$TENSION_DIFF$§! zu gering, als dass §Y$THEM$§! eine Fraktion mit §Y$US$§! eingehen könnte."
 DR_FACTION_TENSION:0	"Welt-Spannung: §G$TENSION_DIFF$§!"
 DR_FACTION_SURRENDER:1	"§Y$THEM|U$§! verliert einen Krieg: "
@@ -429,6 +692,7 @@ DR_HAS_CORE_ON_ANY_STATE:1	"$COUNTRY|UY$ hat mindestens einen der Zielstaaten al
 DR_HAS_CLAIM_ON_ANY_STATE:1	"$COUNTRY|UY$ hat einen Anspruch auf mindestens einen der Zielstaaten: "
 DR_TRUST_THE_PLAYER:1	"$COUNTRY|UY$ vertraut auf das Urteil eines anderen Fraktionsmitglieds: "
 DR_NOT_CONTROLING_ENOUGH_TERRITORY:1	"$COUNTRY|UY$ kontrolliert nicht genug besetzte Gebiete, um welche abtreten zu wollen: "
+
 DR_NO_PARTICIPATION:1	"$COUNTRY|UY$ wird Ihnen nicht die Kontrolle über irgendwelche Staaten geben, da Sie keine Kriegsbeteiligung haben"
 DR_TRUCE_BREAK:0	"Dies würde sie dazu zwingen, einen Waffenstillstand zu brechen, was sie £pol_power $COST|Y0$ kosten würde: "
 fabricate_claim:0	"Anspruch rechtfertigen"
@@ -440,16 +704,95 @@ NO_FACTION:1	""
 WARGOAL_THREAT_VALUE:0	"Die Rechtfertigung dieses Kriegsziels wird die Weltspannung auf $VALUE|Y%0$ erhöhen."
 FACTION:0	"Fraktion"
 FACTION_LABEL:0	"Fraktion:"
+
+
 STRENGTH_LABEL:0	"Stärke:"
+
+
+
+
+
+overlord_opinion:0	"Oberbefehlshaber"
+
+
+
 long_term_trade_partner:0	"Handelspartner"
+refused_market_trade:0	"Handel mit Ausrüstung abgelehnt"
+cancelled_market_trade:0	"Handel mit Ausrüstung abgebrochen"
+
+
+
+
+
 ger_sov_alliance_focus:0	"Deutsch-Sowjetisches Bündnis Schwerpunkt"
+
+
+
+
+
+
+
+
 ger_pol_diplomacy_focus:0	"Fokus Deutsch-Polnische Diplomatie"
 ger_naval_intimidation_focus:0	"Deutsche Einschüchterung durch die Marine Fokus"
 GER_anschluss_rejected:0	"Österreich verweigert Anschluss"
 GER_demand_sudetenland_rejected:0	"Tschechoslowakei lehnt Sudetenland ab"
 GER_FRA_join_germany_reject:0	"Frankreich lehnte Anschluss an die Achse ab"
+
+
+
+
+
+
+
+
+
+
+
+
 GER_second_ljubljana_award_noland:0	"Zweiter Ljubljana Award"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 anti_fascist_diplomacy_focus:0	"Antifaschistische Diplomatie Schwerpunkt"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 GU_NOT_THEY_ARE_TOO_POWERFUL:0	"Sie sind zu mächtig im Vergleich zu uns, und unsere Garantie würde nicht ernst genommen werden."
 BORDER_WAR_POWER_DESC:0	"Die Kampfwerte werden durch die Kampfstärke der Divisionen und die Doktrinstufe des Landes bestimmt"
 BORDER_WAR_POWER:0	"Unsere militärische Stärke in dem Gebiet: $VAL|*0H$"
@@ -457,22 +800,71 @@ BORDER_WAR_POWER_ENEMY:0	"Ihre militärische Stärke in dem Gebiet: $VAL|*0H$"
 BORDER_WAR_POWER_RATIO:0	"Verhältnis der militärischen Stärke zu unseren Gunsten: $VAL|2%H$"
 BORDER_WAR_ATTRITION:0	"Zermürbung durch Grenzkonflikt: $VAL|=-%$"
 BORDER_WAR_HEADER:0	"§HGrenzkonflikt§!"
+
+
+
+
+
+
+
+
+
+
 SEND_VOL_SENT_VOL_TO_ENEMY:1	"Wir haben bereits freiwillige Truppen an den Feind von @$TAG$$WHO|H$ geschickt oder von ihm die Erlaubnis erhalten, Luftangriffe durchzuführen."
+
+
+
 SEND_EXP_TARGET_AT_WAR:0	"Um ihnen Expeditionskräfte zu schicken, muss sich @$TAG$$WHO|H$ im Krieg befinden."
 SEND_EXP_NOT_A_MASTER:0	"Als Marionette können wir nur Expeditionsstreitkräfte zu unserem Herrn schicken."
 SEND_EXPEDITIONARY_DESCRIPTION:0	"Schicke $SEND|H$ Divisionen.\nDu hast derzeit $CURRENT|H$ Divisionen als Expeditionsstreitkräfte."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DIPLOMACY_CANCEL_GENERATE_WARGOAL_ACTION_DESC:0	"Beende die Rechtfertigung eines Kriegsziels gegen das Land."
 
+
+
+
+
+
+
+
+
+
 REQUEST_EXP_TOO_MANY_EXP_FORCES:1	"Diese Anfrage übersteigt ihr Limit für Expeditionsstreitkräfte"
+
 REQUEST_EXP_COUDLNT_NO_ORDERS_TO_EVALUATE:0	"Es gibt keine zu bewertenden Befehle in diesem Antrag"
 REQUEST_EXP_KILLING_MY_EXPEDITIONARIES:1	"Sie haben unter unseren Befehlen viele Verluste erlitten."
 REQUEST_EXP_WE_NEED_OUR_FORCES:1	"Sie behaupten, dass sie ihre Armeen anderweitig benötigen"
-
 REQUEST_EXPEDITIONARY_FORCES_DESC:0	"Beantrage die Kontrolle über $COUNT|H$ Divisionen von $TARGET|H$."
 REQUEST_SLIDER:0	"$VAL$"
 DIPLOMACY_WARGOAL_ADDED:1	"$COUNTRY|UH$ hat ein neues Kriegsziel hinzugefügt: "
 NO_VALID_EXPEDITIONS:0	"Keine gültigen Einheiten zu senden.\nEinheiten müssen sich in Provinzen befinden, die vom Ziel kontrolliert werden, um erlaubt zu sein."
 NO_VALID_VOLUNTEERS:0	"Keine gültigen Einheiten zu senden."
+
+CAN_SEND_AIR_VOLUNTEERS:	"Wir können bis zu $AIRWINGS|H$ Luftgeschwader schicken, weil wir $PLANES|H$ Flugzeuge haben"
+LIMITED_TO_AIR_VOLUNTEERS:	"Wir sind durch @$TAG$$COUNTRY|Y$ Luftwaffenstützpunktkapazität ($LEVEL|H$) auf $AIRWINGS|H$ Luftgeschwader beschränkt"
 REQUEST_AIR_VOLUNTEERS_SENT:0	"§RErlaubnis für Luftwaffenfreiwillige bereits erhalten!§!"
 holds_our_cores:0	"Sie halten unsere Kernprovinzen"
 holds_our_claims:0	"Sie halten unsere beanspruchten Provinzen"
@@ -480,6 +872,7 @@ claims_on_us:0	"Sie haben unser Territorium beansprucht!"
 at_war_with_faction:0	"Im Krieg mit unseren Fraktionsmitgliedern"
 NO_NATIONAL_FOCUS:0	"Kein nationaler Fokus gesetzt"
 UNKNOWN_INFO:0	"Unbekannter Fokus"
+
 INTEL_IS_TOO_LOW:1	"Unsere Informationen sind zu gering, um Informationen darüber zu erhalten, was sie in ihrem nationalen Fokusbaum bereits erreicht haben."
 justifying_war_goal:0	"Kriegsziel Rechtfertigung"
 DIPLOMACY_DEM_NO_THREAT_ON_DEPENDENDY:0	"In einer Marionettenbeziehung ist es nicht möglich, Kriegsziele gegeneinander zu rechtfertigen."
@@ -488,6 +881,11 @@ DIPLOMACY_TOO_LOW_TENSION:0	"Wir brauchen die Weltspannung bei $LIMIT|%0Y$ (derz
 DIPLOMACY_TOO_LOW_TENSION_REASON:0	"Unser Weltspannungslimit für diese Aktion aufgrund von:\n$REASON$"
 DIPLOMACY_TOO_LOW_TENSION_REVERSED:0	"Sie brauchen eine Weltspannung von $LIMIT|%0Y$ (derzeit: $TENSION|%0Y$)."
 DIPLOMACY_TOO_LOW_TENSION_REVERSED_REASON:0	"Ihre Weltspannungsgrenze für diese Aktion aufgrund von:\n$REASON$"
+
+
+
+
+
 democratic_leanings_bad:0	"Demokratische Tendenzen"
 fascism_leanings_good:0	"Faschistische Tendenzen"
 fascism_leanings_good_temp:0	"Faschistische Tendenzen"
@@ -500,6 +898,7 @@ tizard_relations:0	"Die Tizard-Mission"
 tizard_refused:0	"Tizard-Mission abgelehnt"
 sanctions:0	"Handelssanktionen"
 minor_sanctions:0	"Geringfügige Handelssanktionen"
+
 minor_sanctions_relations:0	"Geringfügige Handelssanktionen"
 burma_road_good:0	"Die Straße nach Birma"
 burma_road_bad:0	"Die Straße nach Birma"
@@ -517,6 +916,7 @@ DIPLOMACY_BOOST_PARTY_POPULARITY_TITLE:0	"Die Popularität einer Partei steigern
 DIPLOMACY_BOOST_PARTY_POPULARITY_ACTION_DESC:0	"Versuch, die Unterstützung für eine politische Partei zu erhöhen."
 DIPLOMACY_BOOST_PARTY_POPULARTIY_ALREADY_BOOSTING:0	"Steigert bereits die Popularität einer Partei"
 DIPLOMACY_BOOST_PARTY_POPULARTIY_CIVIL_WAR:0	"Man kann die Popularität nicht während eines Bürgerkriegs steigern."
+
 DIPLOMACY_BOOST_PARTY_POPULARITY_NO_PARTY_SELECTED:0	"Wähle eine Ideologie zum Steigern"
 DIPLOMACY_BOOST_PARTY_POPULARITY_DESC:0	"Tägliche Drift $DAILYDRIFT|Y$ kostet $DAILYCOST|Y$ Politische Macht pro Tag"
 indian_national_army_setup:0	"Die Indische Nationalarmee wurde gegründet"
@@ -541,6 +941,13 @@ DIPLOMACY_FAILED_COUP_REASON_UNITY:0	"Er scheiterte an der hohen Stabilität des
 DIPLOMACY_FAILED_COUP_REASON_POPULARITY:0	"Es scheiterte an der geringen politischen Unterstützung für unsere Ideologie"
 DIPLOMACY_CIVIL_WAR_FAILED:0	"Die Welt brennt bereits in Flammen, die Menschen weigern sich, Revolutionen jeglicher Art zu unterstützen!"
 DIPLOMACY_CIVIL_WAR_ALREADY_AT_WAR_FAILED:0	"Es scheiterte an dem bereits laufenden Krieg im Land."
+
+
+
+
+
+
+
 scandinavian_intervention:0	"Skandinavische Intervention"
 ger_ita_tech_treaty:0	"Technologie-Abkommen"
 ger_ita_tech_treaty_rejected:0	"Abgelehnter Vertrag"
@@ -551,9 +958,13 @@ rejected_demands:0	"Abgelehnte Forderungen"
 boost_party_popularity_active:0	"Steigerung der Popularität der Partei in"
 DIPLOMACY_BOOST_PARTY_POPULARITY_IDEOLOGY:0	"$IDEOLOGY$ ($PARTY$): $POPULARITY|0%$ ($CHANGE$)"
 DIPLOMACY_BOOST_PARTY_POPULARITY_IDEOLOGY_NO_PARTY:0	"Keine Partei mit $IDEOLOGY$ im Land"
+
 DIPLOMACY_CANCEL_BOOST_PARTY_POPULARITY_ACTION_DESC:0	"Popularitätssteigerung aufheben"
 DIPLOMACY_CANCEL_BOOST_PARTY_POPULARITY_TITLE:0	"Abbrechen Popularität steigern"
 DIPLOMACY_CANCEL_BOOST_PARTY_POPULARITY_DESC:0	"Möchten Sie stornieren?"
+
+
+
 DIPLOMACY_RETURN_ATTACHE:0	"Attaché abrufen"
 DIPLOMACY_SEND_ATTACHE_TITLE:0	"Attaché abschicken"
 DIPLOMACY_SEND_ATTACHE_DESC:1	"Wir werden erhalten:"
@@ -578,31 +989,114 @@ VOLUNTEER_MESSAGE_RETURNED:0	"Freiwillige Kräfte, die in $SENDER|H$ gekämpft h
 VOLUNTEERS_ARRIVED_TITLE:0	"Freiwillige Kräfte bereit zum Kampf!"
 VOLUNTEER_REINFORCEMENTS_TITLE:0	"Freiwillige Kräfte kommen uns zu Hilfe!"
 VOLUNTEERS_RETURNED_TITLE:0	"Truppen kehren nach Hause zurück!"
+
 SEND_VOLUNTEER_THREAT:0	"Schickt $COUNT$ Freiwilligendivisionen zum $TARGET$"
 DIPLOMACY_WAR_NO_WAR_WITH_MAJOR:0	"Notstandsbefugnisse für Kriegserklärungen können in Kraft gesetzt werden, wenn wir uns bereits im Krieg mit einer glaubwürdigen Bedrohung befinden (Der Feind muss mindestens $LIMIT|Y0%$ unserer Industrie haben, derzeit haben sie nur $RATIO|Y0%$)."
 DIPLOMACY_WAR_NO_WAR_WARGOAL_NO_NEIGBOR_WARS:0	"Wir können nur ungerechtfertigte Kriege gegen unsere Nachbarn und Länder erklären, die sich bereits im Krieg mit unseren Fraktionsmitgliedern befinden und deren Nachbarn sind."
 DYPLOMACY_FILTER_CONTINENTS:0	"Kontinente"
- 
+
 DYPLOMACY_FILTER_FACTIONS:0	"Fraktionen"
 small_decrease:0	"Abnehmen der Meinung"
 medium_decrease:0	"Abnehmende Meinung"
 large_decrease:0	"Abnehmende Meinung"
 small_increase:0	"Zunahme der Meinung"
 medium_increase:0	"Zunehmende Meinung"
- 
+
+
 FRA_leftist_rhetoric_communism:0	"Linke Rhetorik"
- 
+
+
+
+
+
+
+
+
+
 FRA_scw_intervention_nationalists_SPR:0	"Nationalistische Intervention"
 FRA_scw_intervention_republicans_SPA:0	"Republikanische Intervention"
 FRA_scw_intervention_republicans_SPR:0	"Republikanische Intervention"
+
+
+
+
+
+
+
 DIPLOMACY_LEAVE_FACTION_FIGHTING_WAR_TOGETHER:0	"Nicht erlaubt, wenn man gemeinsam Krieg führt"
+
+
+
+
+
+
+
+
 our_liberators:0	"Unsere Befreier"
 DIPLOMACY_PEACE_PROPOSAL_DURATION_TO_SHORT:0	"Der Krieg wütet erst seit $DURATION|Y$ der $LIMIT|Y$ Monate, die für die Kapitulation benötigt werden"
 DIPLOMACY_PEACE_PROPOSAL_NOT_WARSCORE_ENOUGH:1	"Der Kriegsstand zu Gunsten der anderen Seite muss mindestens $LIMIT|%0Y$ betragen, derzeit $WARSCORE|%0Y$"
 DIPLOMACY_PEACE_PROPOSAL_YOU_NOT_WAR_LEADER:1	"Du bist nicht Kriegsführer für die verlierende Seite."
 DIPLOMACY_PEACE_PROPOSAL_THEY_NOT_WAR_LEADER:1	"Du kannst nur vor dem stärksten Gegner kapitulieren, $LEADER|H$"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_IN_ALL_WARS:0	"Wir müssen in allen Kriegen des aktuellen Fraktionsführers sein."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ACTIVE_THREATS:0	"Aktive Bedrohungen:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DR_TEMPLATE:0	"$DESC$$VALUE$\n"
 DR_POSITIVE_VALUE:0	"$VALUE|G$"
 DR_NEGATIVE_VALUE:0	"$VALUE|R$"
@@ -610,23 +1104,78 @@ DR_POSITIVE_FACTOR:0	"$VALUE|G$§G%§!"
 DR_NEGATIVE_FACTOR:0	"$VALUE|R$§R%§!"
 DR_AT_WAR_WITH_ALLY_RELUCTANCE:1	"§Y$SENDER$§! im Krieg mit Verbündeten: "
 hostile_status:0	"Feindlich"
+
+
+
+
+
+
+
+
+
+
 RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP_REASON_HEADER:0	"§HSie können die Führung aus folgenden Gründen noch nicht übernehmen:§!"
+
+
+
 wargoal_initiator_extended_desc:1	"$COUNTRY1|UY$ hat Kriegsziele gegen $COUNTRY2|Y$:"
 wargoal_receiver_desc:1	"$COUNTRY|UY$ ist das Ziel fremder Kriegsziele"
 wargoal_receiver_extended_desc:1	"$COUNTRY1|UY$ hat Kriegsziele gegen $COUNTRY2|Y$:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 timed_stage_coup_initiator_desc:1	"$COUNTRY|UY$ inszeniert einen Putsch gegen eine ausländische Regierung"
+
+
+
+
 non_aggression_pact_general_extended_desc:1	"$COUNTRY1|UY$ hat einen Nichtangriffspakt mit $COUNTRY2|Y$"
+
+
+
+
+
+
 send_attache_initiator_extended_desc:1	"$COUNTRY1|UY$ hat einen Militärattaché nach $COUNTRY2|Y$ entsandt"
 send_attache_receiver_desc:1	"$COUNTRY|UY$ wird von ausländischen Attachés besucht"
+
 military_access_initiator_desc:1	"$COUNTRY|UY$ hat militärischen Zugang zu anderen Nationen"
 military_access_initiator_extended_desc:1	"$COUNTRY1|UY$ hat militärischen Zugang zu $COUNTRY2|Y$"
 military_access_receiver_desc:1	"$COUNTRY|UY$ gewährt anderen Nationen militärischen Zugang"
 military_access_receiver_extended_desc:1	"$COUNTRY1|UY$ hat militärischen Zugang zu $COUNTRY2|Y$"
+
+
+
+
 offer_military_access_initiator_desc:1	"$COUNTRY|UY$ gewährt anderen Nationen militärischen Zugang"
 offer_military_access_initiator_extended_desc:1	"$COUNTRY2|UY$ hat militärischen Zugang zu $COUNTRY1|Y$"
 offer_military_access_receiver_desc:1	"$COUNTRY|UY$ hat militärischen Zugang zu anderen Nationen"
 offer_military_access_receiver_extended_desc:1	"$COUNTRY2|UY$ hat militärischen Zugang zu $COUNTRY1|Y$"
 guarantee_initiator_desc:1	"$COUNTRY|UY$ garantiert die Unabhängigkeit anderer Nationen"
+
+
+
 puppet_initiator_desc:1	"$COUNTRY|UY$ hat andere Nationen als Untertanenstaaten"
 puppet_initiator_extended_desc:1	"$COUNTRY2|UY$ ist ein Subjekt von $COUNTRY1|Y$"
 puppet_receiver_desc:1	"$COUNTRY|UY$ ist ein Marionettenstaat einer fremden Macht"
@@ -634,6 +1183,7 @@ puppet_receiver_extended_desc:1	"$COUNTRY2|UY$ ist eine Marionette von $COUNTRY1
 lend_lease_initiator_desc:1	"$COUNTRY|UY$ betreibt eine Leihpolitik mit anderen Nationen"
 lend_lease_initiator_extended_desc:1	"$COUNTRY1|UY$ unterstützt $COUNTRY2|Y$ durch ein Lend-Lease"
 lend_lease_receiver_desc:1	"$COUNTRY|UY$ wird durch eine Lend-Lease-Politik von anderen Nationen unterstützt"
+
 boost_party_popularity_initiator_desc:1	"$COUNTRY|UY$ unterstützt das Wachstum einer politischen Partei im Ausland"
 boost_party_popularity_initiator_extended_desc:1	"$COUNTRY1|UY$ unterstützt das Wachstum einer politischen Partei in $COUNTRY2|Y$"
 boost_party_popularity_receiver_desc:0	"Das Wachstum einer politischen Partei in $COUNTRY|Y$ wird von einer ausländischen Macht unterstützt"
@@ -642,6 +1192,11 @@ truce_desc:1	"$COUNTRY|UY$ hat Waffenstillstände mit anderen Nationen"
 truce_general_desc:1	"$COUNTRY|UY$ hat einen Waffenstillstand mit anderen Nationen"
 truce_general_extended_desc:1	"$COUNTRY1|UY$ hat einen Waffenstillstand mit $COUNTRY2|Y$"
 WARGOAL_MODIFIER_DESC:0	"Kriegsziel Modifikatoren"
+
+
+
+
+
 DR_PREFER_OTHER_FACTION:1	"$THEM|UY$ möchte lieber Teil von $FACTION|Y$ sein: "
 AI_MESSAGE_CAT1_MES1:0	"Gut gemacht, dass du dich dort eingemeindet hast, $OTHER$. Wir sind alle stolz auf dich."
 AI_MESSAGE_CAT1_MES2:0	"Ahahahah $OTHER$ ist schrecklich in diesem Spiel."
@@ -658,6 +1213,7 @@ AI_MESSAGE_CAT2_MES2:0	"Bald wird jeder in $OTHER$ $US_ADJ$ sprechen."
 AI_MESSAGE_CAT2_MES3:0	"Seht euch diesen $OTHER_ADJ$-Mistkerl an, der versucht, meine überlegenen $US_ADJ$-Truppen zu schlagen. Es wäre lustig, wenn es nicht so traurig wäre!"
 AI_MESSAGE_CAT2_MES4:0	"Du nennst das einen Krieg, $OTHER$? Ich nenne es einen Schwächling."
 AI_MESSAGE_CAT2_MES5:0	"Sorgt dafür, dass die $OTHER_ADJ$-Fabriken schön poliert sind, ich werde sie bald benutzen!"
+
 AI_MESSAGE_CAT2_MES7:0	"Hey $OTHER$, vielleicht würde es dir nicht so schlecht gehen, wenn du aufhören würdest, wegzulaufen und tatsächlich versuchen würdest zu kämpfen?"
 AI_MESSAGE_CAT2_MES8:0	"LOL, schau dir $COUNTRY$ an, wie sie versuchen, gegen mich zu kämpfen! Als hätte man einem komatösen Frettchen das Kommando über eine Armee gegeben!"
 AI_MESSAGE_CAT2_MES9:0	"Die Aussicht in $COUNTRY$ ist um diese Jahreszeit wirklich schön. Meine Armeen genießen es wirklich!"
@@ -676,6 +1232,7 @@ DIPLOMACY_WAR_NO_WAR_ON_SUBJECTS:0	"Sie sind eine Marionette, also musst du stat
 attitude_neutral:0	"neutral"
 attitude_hostile:0	"feindlich"
 attitude_friendly:0	"freundlich"
+
 attitude_outraged:0	"empört"
 attitude_threatened:0	"bedroht"
 attitude_allied:0	"verbündet"
@@ -700,6 +1257,13 @@ AST_the_swpa_menace_boycot_JAP:0	"Die SWPA-Bedrohung"
 CAN_supply_the_red_army_trade:0	"Versorgt die Rote Armee"
 CAN_patriation_mod:0	"Geforderte Patriation"
 SAF_anti_colonialist_crusaders:0	"Antikolonialistische Kreuzfahrer"
+
+
+
+
+
+
+
 DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_INCREASED_BODY:1	"$SUBJECT|UY$ änderte Autonomiestufe von $FROM_LEVEL|Y$ auf $TO_LEVEL|Y$.\n\n"
 DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_LOWERED_TITLE:0	"Unser Autonomiegrad wurde verringert"
 DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_LOWERED_BODY:1	"$OVERLORD|UY$ hat unsere Autonomiestufe von $FROM_LEVEL|Y$ auf $TO_LEVEL|Y$.\n\n geändert"
@@ -710,9 +1274,13 @@ AVERAGE_MEMBER_STRENGTH:0	"Durchschnittliche Mitgliederstärke"
 DR_SAME_FACTION_AS:0	"In einer Faction mit $COUNTRY|H$: "
 DR_COMPETING_FACTIONS:	"In einer anderen Fraktion als $COUNTRY|H$:"
 DR_US_HELPED_THEM_WITH_COUP:1	"§Y$US|U$§! hat §Y$THEM$§! bei dem Putsch geholfen: "
+
 embargo:1	"Embargo für den Industriesektor"
 backed_our_cause:0	"Unterstützte unsere Sache"
 betrayed_our_cause:0	"Verriet unsere Sache"
+
+
+
 HUN_SOV_betrayal:0	"Sowjetischer Verrat"
 HUN_split_CZE:0	"Einigung in der tschechischen Frage"
 HUN_split_CZE_betrayed:0	"brach das Abkommen"
@@ -737,32 +1305,174 @@ CHI_cooperation_with_the_nationalists_negative:0	"Zusammenarbeit mit den Nationa
 POR_rejected_lease:0	"Abgelehnte Pacht"
 USA_special_relationship:0	"Besondere Beziehung"
 pan_american_goodwill:0	"Panamerikanisches Wohlwollen"
+
 betrayed_alliance:0	"Verratene Allianz"
+
+
+
+DIPLOMACY_AIR_BASE_ACCESS_ACTION_DESC:	"Um die Erlaubnis bitten, deren Luftwaffenstützpunkte nutzen zu dürfen."
+DIPLOMACY_AIR_BASE_ACCESS_REQUEST_DESC:	"$COUNTRY|UY$ möchte unsere Luftwaffenstützpunkte nutzen."
+DIPLOMACY_REVOKE_AIR_BASE_ACCESS_TITLE:	"Unseren Zugang zu den Luftwaffenstützpunkten aufheben"
+DIPLOMACY_REVOKE_AIR_BASE_ACCESS_DESC:	"Wir werden die Luftwaffenstützpunkte in $COUNTRY|Y$ nicht mehr nutzen können?"
+DIPLOMACY_REVOKE_AIR_BASE_ACCESS_ACTION_DESC:	"Unseren Zugang zu den Luftwaffenstützpunkten aufheben"
+DIPLOMACY_OFFER_AIR_BASE_ACCESS_TITLE:	"Zugang zu den Luftwaffenstützpunkten anbieten"
+DIPLOMACY_OFFER_AIR_BASE_ACCESS_DESC:	"Ein Angebot des Zugangs zu den Luftwaffenstützpunkten würde es ermöglichen, dass ihre Flugzeuge auf unseren Luftwaffenstützpunkten stationiert werden."
+
+
+
+
+
 DIPLOMACY_DOCKING_RIGHTS:0	"Andockrechte"
 DIPLOMACY_DOCKING_RIGHTS_TITLE:0	"Bitte um Andockrechte"
 DIPLOMACY_DOCKING_RIGHTS_DESC:1	"Andockrechte würden es unserer Marine ermöglichen, sich in ihren Häfen zu versorgen."
+
 DIPLOMACY_DOCKING_RIGHTS_REQUEST_DESC:1	"$COUNTRY|UY$ möchte seine Schiffe in unseren Häfen versorgen."
 DIPLOMACY_REVOKE_DOCKING_RIGHTS_TITLE:0	"Aufhebung unserer Andockrechte"
 DIPLOMACY_REVOKE_DOCKING_RIGHTS_DESC:0	"Wir werden nicht mehr in den Häfen von $COUNTRY|Y$ andocken können?"
 DIPLOMACY_REVOKE_DOCKING_RIGHTS_ACTION_DESC:0	"Unsere Andockrechte aufheben"
 DIPLOMACY_OFFER_DOCKING_RIGHTS_TITLE:0	"Andockrechte anbieten"
 DIPLOMACY_OFFER_DOCKING_RIGHTS_DESC:0	"Das Anbieten von Andockrechten würde es ihrer Marine erlauben, in unseren Häfen Nachschub zu liefern."
+
+
 DIPLOMACY_REVOKE_OFFER_DOCKING_RIGHTS_TITLE:0	"Kündigen Sie ihre Andockrechte"
+
+
+
+
 DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_DOCKING_RIGHTS:0	"Andockrechte abgelehnt"
 DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_DOCKING_RIGHTS:0	"\n§Y$COUNTRY|U$§! hat unseren Antrag auf Andockrechte §Rabgelehnt!§!"
 DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_OFFER_DOCKING_RIGHTS:0	"Andockrechte gewährt"
 DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_OFFER_DOCKING_RIGHTS:1	"\nUnser Antrag auf Andockrechte wurde von §Y$COUNTRY$§! §Gangenommen.§! Sie können nun ihre Schiffe in unseren Häfen stationieren, um sie zu versorgen und zu reparieren."
+
+
+
+
+
 docking_rights_receiver_extended_desc:1	"$COUNTRY1|UY$ hat Andockrechte an $COUNTRY2|Y$"
 offer_docking_rights_initiator_desc:1	"$COUNTRY|UY$ vergibt Andockrechte an andere Nationen"
 offer_docking_rights_initiator_extended_desc:1	"$COUNTRY2|UY$ hat Andockrechte an $COUNTRY1|Y$"
+
+
+
+
+air_base_access_receiver_desc:0	"$COUNTRY|UY$ gewährt anderen Nationen Zugang zu Luftwaffenstützpunkten"
+air_base_access_receiver_extended_desc:0	"$COUNTRY1|UY$ hat Zugang zu einem Luftwaffenstützpunkt in $COUNTRY2|Y$"
+offer_air_base_access_receiver_desc:0	"$COUNTRY|UY$ hat Zugang zu einem Luftwaffenstützpunkt in anderen Ländern"
+
+
+
+
+
+NAVAL_BLOCKADE_TRADE_ROUTE_TITLE:	"Unsere derzeitige Handelsroute unterliegt einer Seeblockade"
+
+
+
+
+
+
 DIPLOMACY_REQUEST_EXPEDITIONARY_ACCEPTED_INFO:0	"$COUNTRIES$ hat unsere Anfrage nach Expeditionsstreitkräften akzeptiert und $NUM|H$ Divisionen an unser Kommando übergeben."
+
+
+
+
+
+
+
+
 HOL_essential_dutch_trade:0	"Wesentlicher holländischer Handel"
 HOL_caved_to_the_germans_ger_trade:0	"Nachgiebig gegenüber den Deutschen"
 HOL_caved_to_the_british_ger_trade:0	"Nachgiebigkeit gegenüber den Briten"
 ENG_imperial_conference_approved_resolution:0	"Angenommene Resolution der Imperial Conference"
 ENG_non_interference_treaty:0	"Nichteinmischungsvertrag"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_REQUEST_FOREIGN_MANPOWER:0	"Antrag auf Garnisonsunterstützung abgelehnt"
+
+
+
+
+
+
+
+
+
+
+
+
+DIPLOMACY_HEAD_OF_COUNTERINTEL_ACTION_DESC:	"Sie sind derzeit §HLeiter des Spionageabwehrdienstes§! unserer Fraktion. \nBitten Sie ihn, der neue §HLeiter der Spionageabwehr§! zu werden."
+DIPLOMACY_HEAD_OF_COUNTERINTEL_REQUEST_DESC:	"$COUNTRY|UY$ möchte unser §HLeiter der Spionageabwehr§! werden."
+
+
+
+
+
+
+
+
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_CRYPTOLOGY:	"Sie sind nun Leiter der Kryptologie."
+
+
+
+
+
+
+
+DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_OPERATIONS:	"Leiter des operativen Geschäfts übernimmt – abgelehnt"
+
+DIPLOMACY_SPYMASTER_TITLE:	"Spionagechef übernehmen"
+DIPLOMACY_SPYMASTER_ACTION_DESC:	"Er ist der derzeitige §HSpionagechef§! unserer Fraktion. \nBitten Sie sie, der neue §HSpionagechef§! zu werden."
+DIPLOMACY_SPYMASTER_REQUEST_DESC:	"$COUNTRY|UY$ möchten unser §HSpionagechef§! werden."
+DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_SPYMASTER:	"Spionagechef übernehmen – Akzeptiert"
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_SPYMASTER:	"Sie sind nun Spionagechef."
+DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_SPYMASTER:	"Spionagechef übernehmen – Abgelehnt"
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_SPYMASTER:	"$COUNTRY|UY$ hat §Runsere Anfrage, §!Spionagechef§Hzu werden,§!abgelehnt."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IN_THE_SAME_FACTION:	"$COUNTRY|UY$ ist ein Mitglied unserer Fraktion."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_SUBJECT:	"$COUNTRY|UY$ ist unser Vasallenstaat."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_SUBJECT_OF_FACTION_MEMBER:	"$COUNTRY|UY$ ist ein Untertan von $OVERLOARD|UY$, das zu den Mitgliedern unserer Fraktion gehört."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_AT_WAR_WITH:	"Wir befinden uns im Krieg mit $COUNTRY|UY$."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_LANDLOCKED_COUNTRY:	"$COUNTRY|UY$ ist ein Binnenstaat."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_NO_ACCESS_TO_SEA:	"Wir sind ein Binnenstaat."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_NO_FLEET:	"Wir haben keine Marine."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_OVERLORD:	"$COUNTRY|UY$ ist unser Oberherr."
 DIPLOMACY_JOINED_WAR_EXTRA_CALLED_SINGLE:0	"\n$COUNTRY|UY$ tritt auch in den Krieg mit ein."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 GRE_treacherous_little_filcher:0	"Verräterische kleine Filcher!"
 GRE_tobacco_exports:0	"Tabak-Exporte"
 GRE_luxury_exports:0	"Luxus-Exporte"
@@ -770,11 +1480,49 @@ GRE_strong_trading_ties:0	"Starke Handelsbeziehungen"
 TUR_reliable_trade_partner:0	"Verlässlicher Handelspartner"
 TUR_regional_force_of_stability:0	"Regionale Kraft der Stabilität"
 TUR_valued_strategic_partners:0	"Geschätzter strategischer Partner"
+
+
+
+
+
+
+
+
+
+
 TUR_oppressors_of_turks:0	"Unterdrücker der Türken"
+
+
+
 BUL_condemned_imro:0	"Verurteilte IMRO"
 BUL_supported_imro:0	"Unterstützte IMRO"
 BUL_supplied_imro:1	"Schickte Waffen an IMRO"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 BUL_balkan_communism:0	"Balkan-Kommunismus"
+
 BUL_communist_menace:0	"Kommunistische Bedrohung"
 BUL_communist_menace_trade:0	"Kommunistische Bedrohung"
 BUL_threatening_neighbor:0	"Bedrohender Nachbar"
@@ -790,18 +1538,23 @@ BFTB_incongruous_neighbors:0	"Unvereinbare Nachbarn"
 BFTB_balkan_pact_ally:0	"Der Balkanpakt"
 BFTB_balkan_pact_enemy:0	"Der Balkanpakt"
 bolshevik_threat:0	"Nicht vertrauenswürdige Bolschewiken"
-past_sale_4:0	"Waffenlieferant"
+
+
 the_london_naval_treaty:0	"Anhänger des Londoner Flottenabkommens"
 world_fair:0	"Weltausstellung"
 
 GER_returned_our_land:0	"Unser Land zurückgegeben"
-
 rejected_our_claims_1:0	"Ablehnung unserer Ansprüche"
+
+
 
 
 add_rejected_our_claims_TT:0	"Gains §YRejected our Claims [?target_value]§! (Meinung von [Prev.GetFlag][Prev.GetName]: [?opinion_value|+0]"
 add_cheated_after_supported_war_TT:0	"Gains §YCheated on in Conference [?target_value]§! (Meinung von [Prev.GetFlag][Prev.GetName]: [?opinion_value|+0]"
 neutrality_friend:0	"Unterstützung der Nichteinmischung"
+
+
+
 SOV_pressured_our_government:0	"Druck auf unsere Regierung"
 SOV_stirring_the_masses:0	"Aufwiegelung der Massen"
 SOV_supported_china_good:0	"Unterstützung Chinas in dem Konflikt"
@@ -821,6 +1574,7 @@ SOV_cordial_relations_developed_by_soviet_diplomat:0	"Sowjetischer Diplomat entw
 SOV_strengthened_relations_with_us:0	"Stärkung der Beziehungen zu uns"
 SOV_strengthened_relations_with_us_trade:0	"Stärkung der Beziehungen zu uns"
 SOV_complied_with_our_demands:0	" Erfüllt unsere Forderungen"
+
 SOV_attempted_to_infiltrate_manhattan_project:0	"Versuchte, das Manhattan-Projekt zu unterwandern"
 SOV_attempted_to_infiltrate_our_atomic_program:0	"Versuchte, unser Atomprogramm zu unterwandern"
 SOV_policies_of_collective_security_opinion:0	"Politik der kollektiven Sicherheit"
@@ -829,6 +1583,11 @@ SOV_international_socialist_association:0	"Internationale Sozialistische Vereini
 SOV_international_socialist_association_bad:0	"$SOV_international_socialist_association$"
 SOV_support_for_exiles:0	"Unterstützung für die Exilanten"
 SOV_fourth_international_good:0	"Unterstützt die Vierte Internationale"
+
+
+
+
+
 HAS_NOT_EMBARGO:0	"Wir embargieren sie nicht"
 EMBARGO_COST2:0	"Ein Embargo gegen $NAME|Y$ wird $COST|Y$£pol_power£.\n kosten"
 DIPLOMACY_EMBARGO_TITLE:0	"Handelsembargo erlassen"
@@ -845,6 +1604,7 @@ DIPLOMACY_EMBARGO_SENT_DESC:0	"Wir haben alle Exporte nach $COUNTRY|H$ eingestel
 embargoed_us:0	"Embargo"
 DIPLOMACY_EMBARGO_THREAT_THRESHOLD_DESC:0	"Sie haben keine $THREAT|H0$ World Tension erzeugt."
 embargo_receiver_desc:0	"$COUNTRY|H$ wird von anderen Ländern mit einem Embargo belegt"
+
 embargo_initiator_desc:0	"$COUNTRY|H$ hat ein Embargo gegen andere Länder"
 embargo_initiator_extended_desc:0	"$COUNTRY1|Y$ unterliegt einem Embargo von $COUNTRY2|Y$"
 refused_sanctions_modifier:0	"Verweigert Embargo gegen uns"
@@ -856,7 +1616,7 @@ ITA_ceded_destroyers:0	"Hat italienische Zerstörer an uns abgetreten"
 ITA_granted_us_independence:0	"Hat uns die Unabhängigkeit zugestanden"
 ITA_refused_to_grant_us_independence:0	"Verweigerte uns die Anerkennung der Unabhängigkeit"
 ITA_complied_to_church_demands:0	"Erfüllte die Forderungen der Kirche"
- 
+
 DR_DISTANCE_BETWEEN_CAPITALS:0	"Entfernung (Reduziert durch Spannung): "
 DW_VERY_LIKELY_JOIN_FACTION:0	" - $COUNTRY|H$ kann sich $FACTION|H$ anschließen."
 POSSIBLE_FACTION_INVITES:0	"Wenn wir den Krieg erklären:"
@@ -866,10 +1626,6 @@ ETH_closer_cooperation:0	"Engere Zusammenarbeit"
 ETH_uncooperative_subject:0	"Unkooperatives Subjekt"
 HOA_african_cooperation:0	"Afrikanische Zusammenarbeit"
 Hosting_ETH:0	"Aufnahme der äthiopischen Exilregierung"
-
-
- ##### SWI Absolute Neutrality System ########## ""
-
 SWI_mild_breach_of_neutrality:0	"Leichter Verstoß gegen die Neutralität"
 SWI_considerable_breach_of_neutrality:0	"Erheblicher Verstoß gegen die Neutralität"
 SWI_grave_breach_of_neutrality:1	"Schwerer Verstoß gegen die Neutralität"
@@ -893,6 +1649,7 @@ SWI_broke_trade_agreement:1	"Gebrochenes Handelsabkommen"
 SWI_fascism_friendly_confederation_president:0	"Faschismusfreundlicher Präsident der Konföderation"
 SWI_diplomatic_visit:0	"Diplomatischer Besuch"
 SWI_suspicions_of_coverup:0	"Verdacht auf Vertuschung in der Gustloff-Affäre"
+
 SWI_swift_retribution_for_gustloff:0	"Rasche Vergeltung für die Ermordung Gustloffs"
 SWI_slow_retribution_for_gustoff:0	"Bestrafung des Gustloff-Mörders"
 SWI_sentenced_frankfurter_without_a_trial:0	"Verurteilung von David Frankfurter ohne Gerichtsverfahren"
@@ -917,6 +1674,13 @@ SWI_close_ties:0	"Enge Bande"
 SWI_close_ties_with_fascists:0	"Enge Beziehungen zu Faschisten"
 SWI_suspicious_preparations:0	"Verdächtige Vorbereitungen"
 SWI_supporting_intelligence:0	"Unterstützung nachrichtendienstlicher Bestrebungen"
+
+
+
+
+
+
+
 SWI_country_positive_opinion_TT:0	"Hat eine positive Meinung von [ROOT.GetNameDef]"
 SWI_country_is_angry_TT:0	"Hat eine schlechte Meinung von [ROOT.GetNameDef]"
 SWI_country_is_happy_TT:0	"Hat eine gute Meinung von [ROOT.GetNameDef]"
@@ -925,10 +1689,13 @@ GER_holds_colonies:0	"Hat unsere historischen Kolonien"
 trade_treaty:0	"Handelsvertrag"
 naval_agreements:0	"Marineabkommen"
 
- #DANNES ""
+
+
 ITA_military_cooperation_acceptance:0	"Militärische Zusammenarbeit"
+
 ITA_recognized_the_empire:0	"Hat das Italienische Reich anerkannt"
 ITA_dismissed_the_empire:0	"Hat das Italienische Reich abgelehnt"
+
 
 DR_CONDITIONAL_SURRENDER_WORLD_THREAT_SCALED:0	"Aktuelle globale Spannungen: "
 DR_CONDITIONAL_SURRENDER_WAR_SUPPORT:0	"Kriegsunterstützung: "
@@ -936,101 +1703,817 @@ DR_CONDITIONAL_SURRENDER_EMBARGO:0	"Verhängte Embargos: "
 DR_CONDITIONAL_SURRENDER_OWN_SURRENDER_LEVEL:0	"Eigener Kapitulationsfortschritt: "
 DR_CONDITIONAL_SURRENDER_MINOR_WAR:0	"Minderheitenkonflikt: "
 embargo_relation_tt:0	"Ein Embargo wird die Beziehungen zwischen zwei Ländern beeinträchtigen."
-
-DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET:1	"Unsere Autonomiestufe reduziert die Weltspannungsgrenze mit unserem Meister"
-offer_military_access:0	"Militärischer Zugang"
-DR_TRADE_INFLUENCE:0	"§Y$US|U$§! Handelseinfluss über §Y$THEM$§!: "
-DR_TRADE_EMBARGO:0	"§Y$THEM$§! wurde von §Y$US$§! mit einem Embargo belegt: "
-DR_HAS_NON_AGGRESSION_PACT:0	"§Y$THEM$§! hat einen Nichtangriffspakt mit §Y$US$§!: "
-DR_MARKET_CONTRACT_DURATION:0	"Dauer des Vertrages: "
-DR_MARKET_NO_TRADE_ROUTE:0	"Keine gültige Handelsroute zwischen den Ländern: "
-DR_MARKET_TRADE_POS_DESIRE:0	"§Y$US$§! ist bereit, mit §Y$THEM$§! zu handeln: "
-DR_MARKET_TRADE_NEG_DESIRE:0	"§Y$US$§! ist nicht bereit, mit §Y$THEM$§! zu handeln: "
-refused_market_trade:0	"Handel mit Ausrüstung abgelehnt"
-cancelled_market_trade:0	"Handel mit Ausrüstung abgebrochen"
+DIPLO_FORBID_REVOKE_ACCESS:	"Regel festlegen: £GFX_trigger_no  Kann widerrufen $TARGET$ $TYPE$."
 DIPLOMACY_REQUEST_EQUIPMENT_PURCHASE_TITLE:0	"Kaufanfrage"
 DIPLOMACY_REQUEST_EQUIPMENT_PURCHASE_DESCRIPTION:0	"$REQUESTER|H$ möchte kaufen:\n$EQUIPMENT$\n\n$DELIVERIES$\n$FINISHDATEDESC$\n\n Wir erhalten insgesamt: £civ_factory_output£$TOTAL_PAYMENT|0Y$"
 DIPLOMACY_REQUEST_EQUIPMENT_PURCHASE_DESCRIPTION_WE_WILL_GET:0	"Wir erhalten £civ_factory_output£$DELIVERY_PAYMENT|0Y$/Lieferung"
 DIPLOMACY_REQUEST_EQUIPMENT_PURCHASE_ACTION_DESC:0	"[TODO] Ausrüstung zum Kauf anfordern."
 DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_TITLE:0	"[TODO] Stornieren Sie den Kauf von Ausrüstung "
 DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_ACTION_DESC:0	"[TODO] Ausrüstung zum Kauf stornieren."
+
 DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_MESSAGE_DESC:0	"Der $COUNTRY|H$ hat unseren $CONTRACT_TYPE$ storniert. Der Vertrag wurde $PROGRESS|%H$ abgeschlossen.\n\nWir haben erhalten:\n$RECEIVED$\n\nWir haben geliefert:\n$DELIVERED$\n\nRückgabe an uns:\n$RETURNED$"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 equipment_purchase_contract_relation_active:0	"verkauft Ausrüstung an"
- 
- ### BICE
+
+
 equipment_purchase_contract_relation_initiator_desc:0	"$COUNTRY|UY$ verkauft Ausrüstung an andere Nationen"
-anti_comintern_pact_member:	"Unterzeichner des Anti-Komintern-Paktes"
- 
- 
-CAN_SEND_AIR_VOLUNTEERS:	"Wir können bis zu $AIRWINGS|H$ Luftgeschwader schicken, weil wir $PLANES|H$ Flugzeuge haben"
-LIMITED_TO_AIR_VOLUNTEERS:	"Wir sind durch @$TAG$$COUNTRY|Y$ Luftwaffenstützpunktkapazität ($LEVEL|H$) auf $AIRWINGS|H$ Luftgeschwader beschränkt"
+
+
 impressive_display:	"Beeindruckendes Display"
-overlord_opinion:0	"Oberbefehlshaber"
- 
- 
-DIPLOMACY_NAVAL_BLOCKADE_DESC:	"Das Land einer Seeblockade unterziehen"
-DIPLOMACY_NAVAL_BLOCKADE_ACTION_DESC:	"Seeblockade des Landes"
-DIPLOMACY_NAVAL_BLOCKADE_REVOKE_TITLE:	"Seeblockade aufheben"
-IMPROVE_RELATION_NEXT_FAVOUR_DATE_THEORETICAL:	"Wenn wir heute damit beginnen würden, §Ydie Beziehungen zu verbessern§!, könnte der nächste Pakt in [?next_favour|Y] Monaten vorgeschlagen werden."
-THIS_add_opinion_to_PREV:	"Gewinne §YVerbesserte Beziehung§! (Meinung von [Prev.GetFlag]§Y[Prev.GetName]§! [?opinion|+=0])"
-RELATION_MODIFIER_TOOLTIP:	"[!relation_icon_click]"
-DIPLOMACY_FOREIGN_POLICY:	"[!foreign_policy_click]"
-DIPLOMACY_SURRENDER_PROGRESS:	"[?surrender_progress|%1+]"
-DIPLOMACY_SURRENDER_PROGRESS_TOOLTIP:	"§YFortschritt der Kapitulation§!\n[From.GetName] ist [?From.surrender_progress|Y%0] in Richtung Kapitulation."
-ABORT_FAVOUR_DESC:	"Alle unsere Bündnisse mit §Y[?notification_sender^i.GetNameWithFlag]§! wurden aufgrund sich verschlechternder Beziehungen gekündigt."
-FAVOUR_AI_DECLINE:0	"§YSie werden NICHT akzeptieren§!\n"
 
-
- ##### SWI Absolute Neutrality System ##########
-
-alert_diplo_naval_bonus:	"§YMarinekooperation§!"
-DIPLOMACY_AIR_BASE_ACCESS_ACTION_DESC:	"Um die Erlaubnis bitten, deren Luftwaffenstützpunkte nutzen zu dürfen."
-DIPLOMACY_AIR_BASE_ACCESS_REQUEST_DESC:	"$COUNTRY|UY$ möchte unsere Luftwaffenstützpunkte nutzen."
-DIPLOMACY_REVOKE_AIR_BASE_ACCESS_TITLE:	"Unseren Zugang zu den Luftwaffenstützpunkten aufheben"
-DIPLOMACY_REVOKE_AIR_BASE_ACCESS_DESC:	"Wir werden die Luftwaffenstützpunkte in $COUNTRY|Y$ nicht mehr nutzen können?"
-DIPLOMACY_REVOKE_AIR_BASE_ACCESS_ACTION_DESC:	"Unseren Zugang zu den Luftwaffenstützpunkten aufheben"
-DIPLOMACY_OFFER_AIR_BASE_ACCESS_TITLE:	"Zugang zu den Luftwaffenstützpunkten anbieten"
-DIPLOMACY_OFFER_AIR_BASE_ACCESS_DESC:	"Ein Angebot des Zugangs zu den Luftwaffenstützpunkten würde es ermöglichen, dass ihre Flugzeuge auf unseren Luftwaffenstützpunkten stationiert werden."
-air_base_access_receiver_desc:0	"$COUNTRY|UY$ gewährt anderen Nationen Zugang zu Luftwaffenstützpunkten"
-air_base_access_receiver_extended_desc:0	"$COUNTRY1|UY$ hat Zugang zu einem Luftwaffenstützpunkt in $COUNTRY2|Y$"
-offer_air_base_access_receiver_desc:0	"$COUNTRY|UY$ hat Zugang zu einem Luftwaffenstützpunkt in anderen Ländern"
-
- #DANNES
-NAVAL_BLOCKADE_TRADE_ROUTE_TITLE:	"Unsere derzeitige Handelsroute unterliegt einer Seeblockade"
-
-
-DIPLOMACY_HEAD_OF_COUNTERINTEL_ACTION_DESC:	"Sie sind derzeit §HLeiter des Spionageabwehrdienstes§! unserer Fraktion. \nBitten Sie ihn, der neue §HLeiter der Spionageabwehr§! zu werden."
-DIPLOMACY_HEAD_OF_COUNTERINTEL_REQUEST_DESC:	"$COUNTRY|UY$ möchte unser §HLeiter der Spionageabwehr§! werden."
- 
- #Fake country rule
-DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_CRYPTOLOGY:	"Sie sind nun Leiter der Kryptologie."
- 
-DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_OPERATIONS:	"Leiter des operativen Geschäfts übernimmt – abgelehnt"
-DIPLOMACY_SPYMASTER_TITLE:	"Spionagechef übernehmen"
-DIPLOMACY_SPYMASTER_ACTION_DESC:	"Er ist der derzeitige §HSpionagechef§! unserer Fraktion. \nBitten Sie sie, der neue §HSpionagechef§! zu werden."
-DIPLOMACY_SPYMASTER_REQUEST_DESC:	"$COUNTRY|UY$ möchten unser §HSpionagechef§! werden."
-DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_SPYMASTER:	"Spionagechef übernehmen – Akzeptiert"
-DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_SPYMASTER:	"Sie sind nun Spionagechef."
-DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_SPYMASTER:	"Spionagechef übernehmen – Abgelehnt"
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_SPYMASTER:	"$COUNTRY|UY$ hat §Runsere Anfrage, §!Spionagechef§Hzu werden,§!abgelehnt."
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IN_THE_SAME_FACTION:	"$COUNTRY|UY$ ist ein Mitglied unserer Fraktion."
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_SUBJECT:	"$COUNTRY|UY$ ist unser Vasallenstaat."
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_SUBJECT_OF_FACTION_MEMBER:	"$COUNTRY|UY$ ist ein Untertan von $OVERLOARD|UY$, das zu den Mitgliedern unserer Fraktion gehört."
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_AT_WAR_WITH:	"Wir befinden uns im Krieg mit $COUNTRY|UY$."
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_LANDLOCKED_COUNTRY:	"$COUNTRY|UY$ ist ein Binnenstaat."
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_NO_ACCESS_TO_SEA:	"Wir sind ein Binnenstaat."
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_NO_FLEET:	"Wir haben keine Marine."
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_OVERLORD:	"$COUNTRY|UY$ ist unser Oberherr."
-DIPLO_FORBID_REVOKE_ACCESS:	"Regel festlegen: £GFX_trigger_no  Kann widerrufen $TARGET$ $TYPE$."
 allied_reciever_tt:	"Empfänger gehört zu den Verbündeten"
+
 mex_reciever_tt:	"Empfänger ist [MEX.GetNameWithFlag]"
 spain_reciever_tt:	"Empfänger ist [SPR.GetNameWithFlag]"
+
 stalin_the_jerk_tt:	"Aufgrund der [SOV.GetLeader]-Paranoia müssen alle Abkommen mit den Sowjets von sowjetischen Diplomaten initiiert werden"
- german_reciever_tt: "Receiver is [GER.GetNameWithFlag]"##### NOT TRANSLATED #####
- china_reciever_tt: "Receiver is [CHI.GetNameWithFlag] or [PRC.GetNameWithFlag]"##### NOT TRANSLATED #####
- aid_sent: "Sent us aid"##### NOT TRANSLATED #####
- 
- 
- 
- 
- 
+
+DIPLOMACY_NAVAL_BLOCKADE_TITLE:	"Seeblockade"
+DIPLOMACY_NAVAL_BLOCKADE_REVOKE_ACTION_DESC:	"Seeblockade für das Land aufheben"
+DIPLOMACY_NAVAL_BLOCKADE_DAILY_COST:	"Seeblockade: §R-$TOTAL|2$§! (§R-$COST|2$§! Pro Blockade)"
+DIPLOMACY_JOINED_WAR_ENEMY:1	"$COUNTRY1|UY$ hat sich $COUNTRY2|Y$ als unser §RFeind§! in $WAR|Y$ angeschlossen!"
+DIPLOMACY_CALLED_WAR_ENEMY:1	"$COUNTRY1|UY$ hat $COUNTRY2|Y$ als unseren §RFeind§! in $WAR|Y$ bezeichnet!"
+DIPLOMACY_JOINED_WAR_ALLY:1	"$COUNTRY1|UY$ hat sich $COUNTRY2|Y$ als unser §GVerbündeter§! in $WAR|Y$ angeschlossen!"
+DIPLOMACY_CALLED_WAR_ALLY:1	"$COUNTRY1|UY$ hat $COUNTRY2|Y$ als unseren §GVerbündeten§! in $WAR|Y$ benannt!"
+DIPLOMACY_JOINED_WAR_TITLE:0	"Neuer Kriegsteilnehmer"
+DIPLOMACY_MERGED_WAR:0	"Kriege wurden zusammengelegt"
+improve_relations:	"Beenden Sie die Verbesserung der Beziehungen"
+THIS_is_improving_relation_with_PREV:	"Verbessert die Beziehung zu [Prev.GetNameWithFlag]"
+THIS_is_improving_relation_with_ROOT:	"Verbessert die Beziehung zu [Root.GetNameWithFlag]"
+THIS_set_favour_with_PREV:	 "Aktiviert §Y[?favour_v.GetTokenLocalizedKey]§! mit §Y[?receiver.GetFlag][?receiver.GetName]§!, was gewährt:\n[GetFavourEffectTooltip]"
+ROOT_set_favour_with_THIS:	 "Aktiviert §Y[?favour_v.GetTokenLocalizedKey]§! mit §Y[?sender.GetFlag][?sender.GetName]§!, was gewährt: \n[GetFavourEffectTooltip]"
+THIS_request_favour_with_PREV:	 "Schlagen Sie §Y[?favour_v.GetTokenLocalizedKey]§! vor an §Y[?receiver.GetFlag][?receiver.GetName]§!. Wenn sie zustimmen, werden wir folgende Auswirkungen erzielen:\n[GetFavourEffectTooltip]"
+ROOT_request_favour_with_THIS:	 "§Y[?sender.GetFlag][?sender.GetName]§! schlägt vor §Y[?favour_v.GetTokenLocalizedKey]§!. Wenn sie zustimmen, ergeben sich folgende Auswirkungen:\n[GetFavourEffectTooltip]"
+IMPROVE_RELATION_BONUS:	"Erhält einen [?$VALUE$|+=%0] Bonus auf §YVerbesserung der Beziehungen§! zu §Y[? $RECEIVER$.Flagge erhalten][?$RECEIVER$.Name erhalten]§!"
+FAVOUR_COST_BONUS:	" Erhält einen Kostenmodifikator von [?$VALUE$|+=%0] beim Unterzeichnen von §YPakt§! mit §Y [?$RECEIVER$.GetFlag][?$RECEIVER$.GetName]§!"
+FAVOUR_RAMP_COST_BONUS:	"Erhält einen[?$VALUE$|+=%0] stapelbaren Kostenmodifikator beim Abschluss von §YPakt§! mit §Y[?$RECEIVER$.GetFlag] [?$RECEIVER$.GetName]§!"
+improved_relation:	"Verbesserung der Beziehungen"
+improved_relation_decay:	"Verbesserung der Beziehungen"
+IMPROVE_RELATION_TOOLTIP:	"Verbesserung der diplomatischen Beziehungen."\n\n[!diplo_bg_clickable_click]"
+IMPROVE_RELATION_MONTHLY_GAIN:	"Monatlicher Meinungszuwachs: [?gain|+=]\n    Basis: [?base|+=2]"
+IMPROVE_RELATION_TOOLTIP_ENTRY:	"    $SOURCE$: [?$VAR$|$FORMAT$]"
+IMPROVE_RELATION_MAX:	"Maximaler Meinungszuwachs: [?max_befriend|Y0]\n    Basis: [?base|Y0]"
+IMPROVE_RELATION_FAVOUR_GAIN:	"Für §Y[?next_required_opinion]§! durch die Verbesserung der Beziehungen gewonnene Ansehen kann ein §GPakt§! vorgeschlagen werden. Für jeden aktiven oder möglichen Pakt erhöht sich die erforderliche Zustimmung um §Y[?per_pact_cost|0]§!."
+IMPROVE_RELATION_NEXT_FAVOUR_DATE:	" Bei der aktuellen Geschwindigkeit des Meinungszuwachses kann der nächste Pakt in [?next_favour|Y] Monaten vorgeschlagen werden."
+IMPROVE_RELATION_CANCEL_AT_MAX:	"Bei maximaler Meinung abbrechen" "
+IMPROVE_RELATION_RESTART_TO_MAX:	"Neustart bei Unterschreiten der maximalen Zustimmung"
+IMPROVE_RELATION_APPLY_GLOBALLY:	"Einstellungen global anwenden"
+IMPROVE_RELATION_DISABLED_CANCEL:	"§RDie Verbesserung der Beziehungen kann erst nach 30 Tagen abgebrochen werden.§!"
+IMPROVE_RELATION_SETTING:	"§GKlicken Sie auf§!, um die Einstellungen zu öffnen"
+IMPROVE_RELATION_CANCEL_AT_MAX_TT:	"§GKlicken Sie§!, um §Ydie Verbesserung der Beziehungen§! automatisch abzubrechen, wenn wir die maximale Zustimmung in diesem Land erreicht haben."
+IMPROVE_RELATION_RESTART_TO_MAX_TT:	"§GKlicken Sie§!, um automatisch fortzufahren §YVerbesserung der Beziehungen§!, wenn unsere Beliebtheit bei diesem Land unter das Maximum fällt."
+FAVOUR_LIST_TITLE:	"Verträge vorschlagen"
+SELECT_FAVOUR_TOOLTIP:	"[!select_favour_click]\n[!select_favour_click_enabled][!abort_click_enabled] "
+SELECT_THEIR_FAVOUR_TOOLTIP:	"[!select_their_favour_click] "
+FAVOUR_THEIR_ACTIVE_TOOLTIP:	"§Y[This.GetNameWithFlag]§! hat §Y[?favour_v.GetTokenLocalizedKey]§! aktiv mit |___CC005 794___|[?favour@var:favour_v.GetNameWithFlag]§!"
+FAVOUR_THEIR_INACTIVE_TOOLTIP:	"§Y[This.GetNameWithFlag]§! hat §Y[?favour_v.GetTokenLocalizedKey]§! mit keinem Land."
+VIEW_THEIR_FAVOUR:	"§YKlicken Sie§!, um die aktiven Pakte anzuzeigen."
+VIEW_OUR_FAVOUR:	"§YKlicken Sie§!, um ihnen Pakte vorzuschlagen. "
+REQUEST_FAVOUR_DESC:	"§Y[?notification_sender^i.GetNameWithFlag]§! hat folgenden Pakt vorgeschlagen: \n[?v.GetTokenLocalizedKey], der Folgendes gewährt:\n[GetFavourRequestEffect]"
+REQUEST_FAVOUR_EFFECT:	"\nVorschlagen §Y[?favour_v.GetTokenLocalizedKey]§!, was Folgendes gewährt:\n"
+CANCEL_FAVOUR_TRIGGER:	"\n§YWird storniert, wenn:§! "
+FAVOUR_OPINION_CANCEL:	"Die Meinung von §Y[Root.GetNameWithFlag]§! ist kleiner als §Y0§!"
+CANCEL_FAVOUR_EFFECT:	"Abbrechen §Y[?favour_v.GetTokenLocalizedKey]§!:"
+CANCEL_FAVOUR_AND_REQUEST_EFFECT:	"§RDieser Pakt ist bereits aktiv! Wenn Sie diesen Pakt einem anderen Land vorschlagen, wird unser Pakt mit [?ROOT.favour@var:favour_v.GetName] gekündigt.§!"
+ACCEPT_FAVOUR_DESC:	"Unser Angebot von [?notification_target^i.GetTokenLocalizedKey] wurde von §Y[?notification_sender^i.GetNameWithFlag]§! angenommen. \n\n[GetFavourEffect]"
+DECLINE_FAVOUR_DESC:	" Unser Angebot von [?notification_target^i.GetTokenLocalizedKey] wurde von §Y[?notification_sender^i.GetNameWithFlag]§! abgelehnt."
+CANCEL_FAVOUR_DESC:	"[?notification_target^i.GetTokenLocalizedKey] wurde von §Y[?notification_sender^i.GetNameWithFlag]§! storniert. Wir profitieren nicht mehr davon."
+PROPOSE_FAVOUR_WAR:	"\n§R- Wir können keine Bündnisse mit unseren Feinden vorschlagen§!"
+PROPOSE_FAVOUR_OPINION:	" \n§R- Erfordert die Meinung "Beziehungen verbessern" von mindestens [?favour_opinion_required]§! §L(Aktuell: [?ROOT.relation@THIS])|___CC005829 ___|"
+FAVOUR_AI_ACCEPTANCE_TOOLTIP:	"[!accept_icon_click]"
+FAVOUR_AI_ACCEPTANCE_BASE:	"Grundlegende Zurückhaltung: §R-[?base_reluctance|0]§!"
+FAVOUR_AI_ACCEPTANCE_OPINION:	" §Y[This.GetAdjective]§! Meinung von §Y[Root.GetNameDef]§!: [?opinion|+0]"
+FAVOUR_AI_ACCEPTANCE_PREFER:	"§Y[This.GetName]§! bevorzugt einen Pakt mit §Y[Root.GetNameDef]§!: [?favour_prefer|+0]"
+FAVOUR_AI_ACCEPTANCE_SUBJECT:	" §Y[This.GetNameDef]§! ist ein Untertan von §Y[Root.GetNameDef]§!: [?subject|+0]"
+FAVOUR_AI_ACCEPTANCE_FACTION:	"In einer Fraktion mit §Y[This.GetNameDef]§!: [?faction|+0]"
+FAVOUR_AI_ACCEPTANCE_FAVOUR:	"§Y[This.GetName]§! bereits einen Pakt mit einem anderen Land geschlossen hat: [?favour_already|+0]"
+FAVOUR_AI_DESCRIPTION:0	"\nPositiv: [?positive|G0]\nNegativ: §R -[?negative|0]§!\n\nWir benötigen mindestens §Y1§! weitere §Gpositive|___ CC005853___| als §Rnegative§! Gründe für eine Annahme. Derzeit haben wir [?ai_score|Y0].\n\n"
+FAVOUR_AI_ACCEPT:0	"§YSie werden akzeptieren§!\n"
+cancelled_favour:	"Pakt gekündigt"
+diplo_trade_bonus:	"Handelsabkommen"
+diplo_trade_bonus_tt:	" Wir erhalten eine §G30 %§! Kostenreduzierung auf £resources_texticon §YRohstoffhandel§! untereinander."
+diplo_command_bonus:	"Militärischer Austausch"
+diplo_command_bonus_tt:	"Wir erhalten §G25 %§! der jeweiligen £command_power_texticon §YBefehlsstärke§!."
+diplo_command_bonus_active:	"\n[Root.GetFlag]§YWir erhalten derzeit den folgenden Bonus:§!\n£command_power_texticon Kommandokraftgewinn: [?ROOT.diplo_command_bonus|+=]\n[This.GetFlag]§YSie erhalten derzeit folgenden Bonus:§!\n£command_power_texticon Kommandokraftgewinn: [?diplo_command_bonus|+=]"
+diplo_law_bonus:	"Politische Union"
+diplo_law_bonus_tt:	"Wir erhalten eine §G40 % §! Kostenreduktion bei der Auswahl einer £pol_power §YNationalen Politik§! die die andere Seite bereits aktiv hat."
+diplo_production_bonus:	"Industrielles Wissen"
+diplo_production_bonus_tt:	 "Wir erhalten einen £mil_factory_output  §YFabrikleistung§! Bonus von bis zu §G10 %§!, abhängig von der Differenz zwischen unserer Leistung."
+diplo_production_bonus_active:	"\n[Root.GetFlag]§YDerzeit erhalten wir folgenden Bonus: §!\n£mil_factory_output  Fabrikleistung: [?ROOT.diplo_production_bonus|+=%]\n[This.GetFlag]§YSie erhalten derzeit den folgenden Bonus: §!\n£mil_factory_output  Fabrikproduktion: [?diplo_production_bonus|+=%]"
+diplo_resource_bonus:	"Ressourcenpakt"
+diplo_resource_bonus_tt:	"Wir erhalten §G20 %§! der jeweiligen £resources_texticon §YFaktor für die Gewinnung mineralischer Ressourcen§!."
+diplo_resource_bonus_active:	"\n[Root.GetFlag]§YWir erhalten derzeit folgenden Bonus: §!\n£resources_texticon Faktor für die Gewinnung von Bodenschätzen: [?ROOT.diplo_resource_bonus|+=%]\n[This.GetFlag]§YSie erhalten derzeit folgenden Bonus: §!\n£resources_texticon Faktor für die Gewinnung mineralischer Ressourcen: [?diplo_resource_bonus|+=%]"
+diplo_experience_bonus:	"Militärische Erkenntnisse teilen"
+diplo_experience_bonus_tt:	"Wir erhalten §G35 %§! voneinander £experience_neutral_texticon §YTäglicher Erfahrungsgewinn§! von Beratern oder Geistern."
+diplo_experience_bonus_active:	"\n[Root.GetFlag]§YWir erhalten derzeit folgenden Bonus: §!\n£army_experience Armee-Erfahrungsgewinn: [?ROOT.diplo_experience_bonus_army|+=]\n£air_experience Luftwaffen-Erfahrungsgewinn: [?ROOT.diplo_experience_bonus_air|+=]\n£navy_experience Marineerfahrung: [?ROOT.diplo_experience_bonus_navy|+=]\n[This.GetFlag]§YSie erhalten derzeit folgenden Bonus: §!\n£army_experience Armee-Erfahrungsgewinn: [?diplo_experience_bonus_army|+=]\n£air_experience Luftwaffen-Erfahrungsgewinn: [?diplo_experience_bonus_air|+=]\n£navy_experience Marineerfahrung: [?diplo_experience_bonus_navy|+=]"
+diplo_license_bonus:	"Optimierte Lizenzen"
+diplo_license_bonus_tt:	"Wir erhalten einen §G15 %§! £production_licence_texticon §YProduktionsgeschwindigkeitsbonus§! auf die Lizenzen der anderen. "
+diplo_intelligence_bonus:	"Vereinheitlichte Intelligenz"
+diplo_intelligence_bonus_tt:	"Wir erhalten eine §G25 %§! Zeitverkürzung für die Durchführung £counter_intelligence_texticon §YAgentur-Upgrades§!, die die andere Seite bereits abgeschlossen hat."
+diplo_research_bonus:	"Forschungspakt"
+diplo_research_bonus_tt:	"Wir erhalten einen £research_speed_texticon §YForschungsgeschwindigkeitsbonus§! von bis zu §G10 % §!, der sich um §Y0,01 %§! für jede Technologie erhöht, die die andere Seite abgeschlossen hat."
+diplo_research_bonus_active:	"\n[Root.GetFlag]§YWir erhalten derzeit folgenden Bonus:§!\n£research_speed_texticon Forschungsgeschwindigkeit: [?ROOT.diplo_research_bonus|+=%]\n[This.GetFlag]§YSie erhalten derzeit folgenden Bonus:§!\n£research_speed_texticon Forschungsgeschwindigkeit: |___NS00224 2___|"
+diplo_naval_bonus:	"Maritime Zusammenarbeit"
+diplo_naval_bonus_tt:	"Wir erhalten einen £nic_factory_output  §YWerftleistung§! Bonus von bis zu §G10 %§!, abhängig von der Differenz unserer Produktion."
+diplo_naval_bonus_active:	"\n[Root.GetFlag]§YWir erhalten derzeit folgenden Bonus:§!\n£nic_factory_output  Werftproduktion: [?ROOT.diplo_naval_bonus|+=%]\n[This.GetFlag]§YSie erhalten derzeit den folgenden Bonus:§!\n£nic_factory_output  Werftleistung: [?diplo_naval_bonus|+=%]"
+alert_diplo_trade_bonus:	"§YHandelsabkommen§!"
+alert_diplo_command_bonus:	"§YMilitärischer Austausch§!"
+alert_diplo_law_bonus:	"§YPolitische Union§!"
+alert_diplo_production_bonus:	"§YIndustrielles Know-how§!"
+alert_diplo_resource_bonus:	"§YRessourcenpakt§!"
+alert_diplo_experience_bonus:	"§YMilitärische Erkenntnisse teilen§!"
+alert_diplo_license_bonus:	"§YVereinfachte Lizenzen§!"
+alert_diplo_intelligence_bonus:	 "§YGemeinsamer Nachrichtendienst§!"
+alert_diplo_research_bonus:	"§YForschungsabkommen§!"
+alert_favour_request_desc:	" §Y[?v.GetTokenLocalizedKey]§! angefordert von [?alerts_sender^i.GetName]\n§GZum Öffnen anklicken\nZum Akzeptieren Umschalt-Klick\nRechtsklick zum Ablehnen§!"
+DIPLO_OVERLAY_TOOLTIP:	"[!diplo_bg_click]\n\n[!diplo_bg_click_enabled]"
+DIPLO_MODIFIER_TOOLTIP:	"[!diplo_modifier_entry_click]"
+justify_war_goal:	"Kriegsziel rechtfertigen"
+send_volunteers:	"Freiwillige entsenden"
+negotiate_licenses:	"Lizenzen aushandeln"
+send_attache:	"Attaché entsenden"
+adjust_ai_defense:	"Einstellungen zur Landesverteidigung"
+adjust_ai_defense_desc:	 "Festlegen, welche Länder verteidigen sollen §Y[From.GetNameWithFlag]§! oder von diesem verteidigt werden sollen"
+adjust_ai_production:	"Produktion verwalten"
+adjust_ai_production_desc:	"KI-Einheitenproduktion anpassen"
+diplomacy_bypass_volunteer_ideology:	" \nWir können §Y[This.GetName]§! mit §YFreiwilligen§! unterstützen, unabhängig von deren |___CC005952 ___|Regierungspartei§!"
+diplomacy_disable_land_volunteers:	"\nWir werden nicht in der Lage sein, §YArmee-Freiwillige§!"
+diplomacy_disable_air_volunteers:	"\nWir werden nicht in der Lage sein, §YLuftwaffen-Freiwillige§!"
+diplo_modifier_positive_number:	"[?modifier@var:v|+=0]"
+diplo_modifier_positive_number_2:	"[?modifier@var:v|+=2]"
+diplo_modifier_positive_percentage:	"[?modifier@var:v|+=%0]"
+diplo_modifier_negative_percentage:	"[?modifier@var:v|-%=0]"
+diplomacy_opinion_gain_factor:	"Meinungsgewinn durch Verbesserung der Beziehungen: [?opinion_gain_factor|%]\n Pauschaler Modifikator: [?modifier@opinion_gain_monthly]"
+DIPLO_VOLUNTEER_ICON_TOOLTIP:	"[!volunteer_allowance_click]"
+diplomacy_allow_both_volunteers:	" Wir können sie mit §GArmee§! und §RLuftwaffe§! Freiwilligen unterstützen"
+diplomacy_allow_land_volunteers:	"Wir können sie mit §GArmee§! Freiwilligen unterstützen"
+diplomacy_allow_air_volunteers:	"Wir können sie mit §RLuftwaffe§! Freiwilligen unterstützen"
+DIPLOMACY_CANCEL_IMPROVERELATION_DESC:0	"Beenden Sie die Verbesserung der diplomatischen Beziehungen."
+DIPLOMACY_CANCEL_IMPROVERELATION_ACTION_DESC:0	"Beenden Sie die Verbesserung der diplomatischen Beziehungen."
+DIPLOMACY_NONAGGRESSIONPACT:0	"Nichtangriffspakt"
+DIPLOMACY_NONAGGRESSIONPACT_TITLE:0	"Nichtangriffspakt"
+DIPLOMACY_NONAGGRESSIONPACT_DESC:0	"Versprechen, einander keinen Krieg zu erklären."
+DIPLOMACY_CREATE_FACTION_AT_WAR_WITH:	"Einige Fraktionsmitglieder befinden sich im Krieg mit $FACTION|UY$"
+DIPLOMACY_KICK_FROM_FACTION_RULE_SET:	"Aus den Fraktionsregeln:"
+CP_ATTACHE:0	"Entsendung eines Attachés nach $COUNTRY|H$"
+DIPLOMACY_ACTION_NEUTRAL_COST_COMPACT_FI:0	"£faction_initiative_texticon£  $VALUE|Y0$ "
+DIPLOMACY_ACTION_NEGATIVE_COST_COMPACT_FI:0	"£faction_initiative_texticon£  $VALUE|-0$ "
+DIPLOMACY_LEND_LEASE_AMOUNT_AND_FREQ_DESC:0	"Wählen Sie die Menge der Ausrüstung, die jeden Monat geliefert werden soll."
+DIPLOMACY_LEND_LEASE_NEXT_SHIPMENT:0	"Nächste Lieferung:"
+DIPLOMACY_LEND_LEASE_NO_EQUIPMENT_CATEGORY:0	"In dieser Kategorie ist keine Ausrüstung für Leih- und Pachtverträge verfügbar"
+DIPLOMACY_LEND_LEASE_DAILY_DESC_PERCENT:0	"Tägliche Produktion"
+DIPLOMACY_LEND_LEASE_DESC_NUMBER:0	"Einheiten monatlich"
+DIPLOMACY_LEND_LEASE_DESC_PERCENT:0	"Aus der monatlichen Produktion"
+DIPLOMACY_LEND_LEASE_DESC_ONCE:0	"Einheiten"
+DIPLOMACY_LEND_LEASE_IN_STOCK_VALUE:0	"$VALUE|0^W$"
+DIPLOMACY_LEND_LEASE_RECEIVE:0	"Wir erhalten:"
+DIPLOMACY_LEND_LEASE_CANCEL:0	"Abbrechen"
+DIPLOMACY_LEND_LEASE_SEND:0	"Wir senden:"
+DIPLOMACY_LEND_LEASE_NUMBER_TOOLTIP:0	"Wählen Sie die Anzahl der Ausrüstungseinheiten aus, die monatlich versendet werden sollen."
+DIPLOMACY_LEND_LEASE_DAILY_TOOLTIP:0	"Wählen Sie die Anzahl der täglich zu versendenden Einheiten aus."
+DIPLOMACY_LEND_LEASE_DAILY_PERCENT_TOOLTIP:0	"Wählen Sie einen Prozentsatz der täglichen Produktion aus, der versendet werden soll."
+DIPLOMACY_LEND_LEASE_PERCENT_TOOLTIP:0	"Wählen Sie einen Prozentsatz der monatlichen Produktion aus, der versendet werden soll."
+DIPLOMACY_LEND_LEASE_EQUIPMENT_TOOLTIP:0	"In Produktion: $PRODUCING|Y$\nIm Lager: $STORAGE|Y$"
+DIPLOMACY_LEND_LEASE_SELECT_ALL_IN_STOCKPILE:0	"Alle in Ihrem Lagerbestand auswählen"
+DIPLOMACY_LEND_LEASE_DESELECT_ALL_IN_STOCKPILE:0	"Alle in Ihrem Lagerbestand abwählen"
+LEND_LEASE_DETAILS_TOTAL_SINCE:0	"\nSeit $DATE|Y$: \n"
+LEND_LEASE_DETAILS_HEADER:0	"§gAusrüstung: Benötigt / Produziert / Transportiert§!"
+LEND_LEASE_DETAILS_ENTRY:2	"  - $REQ|0$ / $COL|0$ / $PREP|%2$ $EQ|Y$ "
+LEND_LEASE_DETAILS_ENTRY_PERCENTAGE:2	"  - $REQ|%0$/ $COL$ - $PREP|%2$ $EQ|Y$ "
+LEND_LEASE_DETAILS_DELIVERY_EFFICIENCY:0	"\n§GLieferleistung: §! $EFF$%."
+LEND_LEASE_VEHICLES_BUTTON_DISABLED:0	"§TWir produzieren keine Ausrüstung für gepanzerte Fahrzeuge und haben auch keine auf Lager§!"
+INCOMING_LEND_LEASE_VEHICLES_BUTTON_DISABLED:0	" §TUns sind keine für den Export verfügbaren Ausrüstungsgegenstände für gepanzerte Fahrzeuge bekannt§!"
+LEND_LEASE_INFANTRY_BUTTON:0	"§TLeih- und Pacht-Ausrüstung für Infanterie und Artillerie§!"
+LEND_LEASE_INFANTRY_BUTTON_DISABLED:0	"§TWir produzieren keine Ausrüstung für Infanterie und Artillerie und haben auch keine auf Lager§!"
+INCOMING_LEND_LEASE_INFANTRY_BUTTON_DISABLED:0	 "§TUns sind keine für den Export verfügbaren Ausrüstungsgegenstände für Infanterie und Artillerie bekannt§!"
+LEND_LEASE_AIRCRAFT_BUTTON:0	"§TLend-Lease-Flugzeuge§!"
+LEND_LEASE_AIRCRAFT_BUTTON_DISABLED:0	"§TWir produzieren keine Flugzeugausrüstung und haben auch keine auf Lager§!"
+INCOMING_LEND_LEASE_AIRCRAFT_BUTTON_DISABLED:0	" §TUns sind keine für den Export verfügbaren Flugzeugausrüstungen bekannt§!"
+LEND_LEASE_NAVAL_BUTTON:0	"§TLeih- und Pachtkonvois§!"
+LEND_LEASE_NAVAL_BUTTON_DISABLED:0	"§TWir produzieren keine Konvoi-Ausrüstung und haben auch keine auf Lager§!"
+INCOMING_LEND_LEASE_NAVAL_BUTTON_DISABLED:0	"§TUns sind keine für den Export verfügbaren Convoys-Ausrüstungsgegenstände bekannt§!"
+LEND_LEASE_CURRENT_HEADER:0	"Aktuelles Lend-Lease:"
+LEND_LEASE_PROMPT:0	" "
+LEND_LEASE_CONVOYS_REQUIREMENT:0	"$USED$/$NEEDED$"
+LEND_LEASE_CONVOYS_REQUIREMENT_DESC:1	"$COUNTRY|UH$ verfügt über $USED$/ $NEEDED$ benötigt. Konvois verfügbar."
+LEND_DISABLED_PERCENTAGE:0	"§RSie produzieren dies nicht.§!"
+DIPLOMACY_INCOMING_LEND_LEASE_TITLE:0	"Lend-Lease beantragen"
+DIPLOMACY_INCOMING_LEND_LEASE_ACTION_DESC:0	"Wir können andere Länder bitten, uns mit Ausrüstung zu unterstützen."
+DIPLOMACY_INCOMING_LEND_LEASE_EXISTING_TITLE:0	"Eingehendes Lend-Lease ändern"
+DIPLOMACY_INCOMING_LEND_LEASE_EXISTING_ACTION_DESC:0	"Wir können andere Länder bitten, uns mit Ausrüstung zu unterstützen."
+DIPLOMACY_INCOMING_LEND_LEASE_CANCEL_TITLE:0	"Eingehende Leihgabe stornieren"
+DIPLOMACY_INCOMING_LEND_LEASE_CANCEL_ACTION_DESC:0	"Keine Ausrüstung mehr vom aktuellen Land annehmen."
+DIPLOMACY_INCOMING_LEND_LEASE_REASON_ENEMY:0	"Wir können keine Leihgabe von unseren Feinden anfordern."
+DIPLOMACY_INCOMING_LEND_LEASE_REASON_TARGET_AT_WAR:0	"Um Leih- und Pachtlieferungen anzufordern, müssen wir sich im Krieg befinden."
+DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET_DESC:0	"Dies wird unsere Autonomie beeinträchtigen"
+DIPLOMACY_REQUEST_LICENSED_PRODUCTION_TITLE:0	"Lizenzproduktion anfordern"
+DIPLOMACY_MANAGE_LICENSED_PRODUCTION_EXISTING_TITLE:0	"Lizenzen verwalten"
+DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_REQUEST_LICENSED_PRODUCTION:1	"$COUNTRY|U$ Unser Antrag wurde abgelehnt"
+DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_REQUEST_LICENSED_PRODUCTION:1	"$COUNTRY|U$ Unser Antrag wurde angenommen"
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_REQUEST_LICENSED_PRODUCTION:0	"Unser Antrag auf Lizenzproduktion wurde §Gangenommen§! von §Y$COUNTRY$§!."
+DIPLOMACY_REQUEST_LICENSED_PRODUCTION_ACTION_DESC:1	"Beantragen Sie eine Lizenz zur Herstellung ausländischer Ausrüstung für den Eigengebrauch."
+DIPLOMACY_MANAGE_LICENSED_PRODUCTION_EXISTING_ACTION_DESC:0	"Beantragen Sie neue Lizenzen oder beenden Sie derzeit aktive Lizenzen."
+DIPLOMACY_REQUEST_LICENSED_PRODUCTION_COST_DESC:0	"Kosten:\n£civ_factory $COST$"
+DIPLOMACY_REQUEST_LICENSED_PRODUCTION_REQUEST_DESC:1	 "$COUNTRY|UY$ beantragt die Lizenz zur Herstellung von: $LIST|Y$ \nSie zahlen $COST|Y$ £civ_factory während die Lizenz gültig ist. "
+DIPLOMACY_MANAGE_LICENSED_PRODUCTION_EXISTING_REQUEST_DESC:0	"$COUNTRY|UY$ beantragt zusätzliche Produktionslizenzen für: $LIST|Y$ \nSie zahlen insgesamt $COST|Y$ £civ_factory für alle ihre aktiven Lizenzen."
+DIPLOMACY_SHOW_ACTIVE_LICENSES:0	"Zeige §Haktive Lizenzen§! "
+DIPLOMACY_SHOW_AVAILABLE_LICENSES:0	"Anzeigen §Hverfügbare Lizenzen§!"
+DIPLOMACY_CANCEL_LICENSED_PRODUCTION_TITLE:0	"Produktionslizenzen kündigen"
+DIPLOMACY_CANCEL_LICENSED_PRODUCTION_ACTION_DESC:0	"Alle kündigbaren Produktionslizenzen kündigen"
+DIPLOMACY_REQUEST_ACCESS_TO_LICENCE_PRODUCTION_TITLE:0	"Lizenzen verhandeln"
+DIPLOMACY_REQUEST_ACCESS_TO_LICENCE_PRODUCTION_ACTION_DESC:0	"Zugriff auf Produktionslizenzen anfordern"
+DIPLOMACY_REQUEST_ACCESS_TO_LICENCE_PRODUCTION_REQUEST_DESC:0	"$COUNTRY|H$ bittet um Zugriff auf Ihre Produktion, um eine Produktionslizenz anzufordern"
+DIPLOMACY_CANCEL_ACCESS_TO_LICENCE_PRODUCTION_ACTION_DESC:0	"Zugriff auf unsere Produktionslizenzen widerrufen"
+REQUEST_ACCESS_TO_LICENCE_PRODUCTION_DESC:0	"Sie benötigen Zugriff auf die Produktion von $TARGET|H$, um einen Antrag auf eine Produktionslizenz zu stellen."
+licence_production_access_receiver_desc:0	"$COUNTRY|UY$ gewährt anderen Ländern Zugriff auf seine Produktionslizenzen."
+licence_production_access_receiver_extended_desc:0	"$COUNTRY2|UY$ gewährt $COUNTRY1|Y$ Zugriff auf seine Produktion"
+licence_production_access_active:0	"hat Zugriff auf die Produktion von"
+DIPLOMACY_CANCEL_ACCESS_TO_LICENCE_PRODUCTION_TITLE:0	"Lizenzzugriff widerrufen"
+CANCEL_ACCESS_TO_LICENCE_PRODUCTION_DESC:0	"Möchten Sie den Zugriff von $TARGET|H$ auf Ihre Produktion widerrufen? Diese Person kann dann keine Produktionslizenzen mehr beantragen."
+INCOMING_LEND_LEASE_PROMPT:0	""
+DIPLOMACY_INCOMING_LEND_LEASE_DEAL_DESC:0	"Wir beantragen:\n$TYPE$"
+DIPLOMACY_NO_POLITICAL_POWER:0	"Wir verfügen über keine politische Macht"
+DIPLOMACY_LOW_STABILITY:0	"Um einen Staatsstreich durchzuführen, sollte die Stabilität des Ziellandes unter $MIN|0H%$ (derzeit $CURRENT|0H%$) liegen"
+DIPLOMACY_RELATIONS_TAB:0	"Diplomatie"
+DIPLOMACY_INFO_TAB:0	"Details"
+DIPLOMACY_IDEA_EMPTY:0	"Leerer Platz"
+CAN_DEACTIVATE_AFTER:0	"Kann nicht vor dem $DATE|H$"
+CAN_CANCEL_ALL_AFTER:0	"Keine Lizenz kann vor dem folgenden Zeitpunkt storniert werden: $DATE|H$"
+CAN_NOT_SEND_LICENSE_NO_ACTIONS:0	"§RKeine Aktionen ausgewählt§!"
+CAN_NOT_SEND_LICENSE_NO_FACTORIES:0	"§RNicht genügend zivile Fabriken verfügbar§!"
+DIPLOMACY_ESTIMATED_VALUE:0	"$MIN$ - $MAX$"
+THEY_DIFFERENT_FACTION:0	"Wir sind kein Mitglied ihrer Fraktion ($FACTION|Y$)"
+DIPLOMACY_INTELLIGENCE:0	"Geheimdienstinformationen"
+ESTIMATED_MILITARY_FORCES:0	"Geschätzte militärische Bodentruppen in Divisionen"
+ESTIMATED_CIVIL_INDUSTRY:0	"Geschätzte Anzahl ziviler Fabriken"
+ESTIMATED_MIL_INDUSTRY:0	"Geschätzte Anzahl militärischer Fabriken"
+ESTIMATED_NAVAL_INDUSTRY:0	"Geschätzte Anzahl von Marinewerften"
+ESTIMATED_CONVOYS_ICON:0	"Geschätzte Anzahl der Konvois für Schifffahrt und Transport"
+ESTIMATED_MANPOWER:0	"Geschätzte Personalstärke"
+DIPLOMACY_ATTACKERS:0	"Angreifer"
+DIPLOMACY_DEFENDERS:0	"Verteidiger"
+OPINIONSELF:0	"Wir lieben uns selbst!"
+OPINIONOF:0	"§T$WHO_ADJ|H$ Meinung von @$TAG$$NAME|H$ ist $VALUE$§!"
+FABRICATE_CLAIMS_ONSUCCESS_TITLE:0	"Behauptung erfolgreich begründet auf $COUNTRY$"
+FABRICATE_CLAIMS_ONSUCCESS_MESSAGE:0	"Unser Spion $SPY$ konnte die Ansprüche erfolgreich begründen auf §Y$COUNTRY$§!"
+guarantee:0	"Garantieren"
+guarantee_target:0	"Garantiert"
+danzig_for_guarantees:0	"Danzig für Garantien"
+betrayed_guarantee:1	"Verratene Garantie"
+BREAKING_GUARANTEE_DESC:3	"Wenn wir ablehnen, brechen wir unsere Garantie. Wir werden $STABILITY|H%$ Stabilität verlieren und $TARGET$s Meinung wird sich um $VALUE|H$"
+at_war:0	"Im Krieg"
+in_faction:0	"In Fraktionen"
+military_access:0	"Militärischer Zugang"
+lend_lease:0	"Leih- und Pachtgesetz"
+non_aggression_pact:0	"Nichtangriffspakt"
+guarantee_active:0	"garantiert die Unabhängigkeit von"
+embargo_active:0	"verhängt ein Embargo gegen"
+COUNTRY_AT_WAR:1	"$COUNTRY|UH$ befindet sich im Krieg"
+COUNTRY_ALREADY_AT_OUR_WARS:1	"$COUNTRY|UH$ beteiligt sich bereits an allen unseren verfügbaren Kriegen"
+WE_ALREADY_AT_COUNTRYS_WARS:0	"Wir beteiligen uns bereits an allen Kriegen von $COUNTRY|H$"
+WE_AT_WAR_WITH_COUNTRY_FRIEND:0	"Wir befinden uns im Krieg gegen ein Land, das gemeinsam mit $COUNTRY|H$ Krieg führt"
+WE_FRIENDS_WITH_COUNTRY_AT_WAR:0	"Wir führen gemeinsam mit einem Land Krieg, das sich im Krieg mit $COUNTRY|H$ befindet"
+in_faction_active:0	"mit einer Fraktion verbündet ist"
+military_access_active:0	"militärischen Zugang erhält von"
+offer_military_access_active:0	"gewährt militärischen Zugang zu"
+docking_rights_active:0	"erhält Anlegerechte von"
+offer_docking_rights_active:0	"gewährt Anlegerechte an"
+lend_lease_active:0	"hat ein Leih- und Pachtabkommen mit"
+send_attache_active:0	"hat einen Attaché nach ... entsandt"
+worse_pact_against_us:1	"Unterzeichner des Anti-Sowjet-Paktes"
+MR_pact_fascists:0	"Molotow-Ribbentrop-Pakt"
+FACTION_NAME_IS_AVALIABLE:0	"§GFraktionsname ist verfügbar§!"
+FACTION_NAME_IS_EXISTS:0	"§RFraktionsname existiert bereits§! "
+FACTION_NAME_IS_EMPTY:0	"§RDer Name der Fraktion ist leer!§!"
+DAYS_TRANSFER:0	"$DAYS|H$ Tage"
+protest_action:0	"Protestaktion"
+REPLY_YES:0	"§YSie werden akzeptieren§!"
+DR_AI_UNABLE_TO_ACCEPT:0	"Dieser Deal kann nicht akzeptiert werden: "
+DR_GUARANTEEING:1	"§Y$US|U$§! garantiert §Y$THEM$§!: "
+DR_SAME_IDEOLOGY:0	"§Y$THEM|U$§! vertritt dieselbe Ideologie: "
+DR_DIFFERENT_IDEOLOGY:0	"§Y$THEM|U$§! vertritt eine andere Ideologie: "
+DR_NOT_ENOUGH_PARTICIPATION:1	"$COUNTRY|UY$ ist der Ansicht, dass die Übertragung der Kontrolle über die Besatzung an Sie Ihnen einen unfairen Anteil an besetztem Gebiet verschaffen würde: "
+FACTIONS_LABEL:0	"Fraktionen:"
+MEMBERS_LABEL:0	"Mitglieder:"
+OPEN_COUNTRY_LIST:0	"Liste der offenen Länder"
+OUR_FEAR:0	"Unsere Angst vor ihnen: $FEAR|H$"
+THEIR_FEAR:0	"Ihre Angst vor uns: $FEAR|H$"
+troops_on_our_borders:0	"Truppen an unseren Grenzen:"
+puppet_opinion:0	"Thema"
+overlord_opinion_trade:	"Thema"
+puppet_active:0	"ist Herrscher über"
+fleets_on_our_borders:0	"Flotten an unseren Grenzen:"
+sov_ger_treaty:0	"Sowjetisch-deutscher Vertrag"
+usa_jap_treaty_trade:0	"Handelsvertrag zwischen den USA und Japan"
+sov_ger_treaty_trade:0	"Sowjetisch-deutscher Vertrag"
+SOV_FRA_join_comintern_reject:0	"Lehnte den Beitritt Frankreichs zur Komintern ab"
+SOV_ultimatum_to_greece_thrace:0	"Zwang Griechenland zur Abtretung von Thrakien"
+ger_jap_diplomacy_focus:0	"Schwerpunkt der deutsch-japanischen Diplomatie"
+withdrew_advisors:0	"Zog Berater ab"
+ger_chi_diplomacy_focus:0	"Schwerpunkt der deutsch-chinesischen Diplomatie"
+supported_the_chinese:0	"Unterstützung der Chinesen"
+ger_tur_diplomacy_focus:0	"Schwerpunkt der deutsch-türkischen Diplomatie"
+ger_cze_diplomatic_focus:0	"Schwerpunkt der deutsch-tschechoslowakischen Diplomatie"
+ger_ita_alliance_focus:0	"Schwerpunkt Deutsch-italienisches Bündnis"
+ger_spa_alliance_focus:0	"Schwerpunkt Deutsch-spanisches Bündnis"
+GER_demand_slovenia_YUG:0	"Forderte Slowenien"
+GER_first_vienna_award_GER:0	"Erster Wiener Schiedsspruch"
+GER_first_vienna_award_other:0	"Erster Wiener Schiedsspruch"
+GER_second_vienna_award_HUN_north:0	"Zweiter Wiener Schiedsspruch"
+GER_second_vienna_award_HUN_all:0	"Zweiter Wiener Schiedsspruch"
+GER_second_vienna_award_other:0	"Zweiter Wiener Schiedsspruch"
+GER_second_vienna_award_ROM_north:0	"Zweiter Wiener Schiedsspruch"
+GER_second_vienna_award_ROM_all:0	"Zweiter Wiener Schiedsspruch"
+GER_second_vienna_award_noland:0	"Zweiter Wiener Schiedsspruch"
+GER_first_ljubljana_award_GER:0	"Erster Ljubljana-Schiedsspruch"
+GER_first_ljubljana_award_other:0	"Erster Ljubljana-Preis"
+GER_second_ljubljana_award_GER:0	"Zweiter Ljubljana-Preis"
+GER_second_ljubljana_award_other:0	"Zweiter Ljubljana-Preis"
+GER_aided_in_ceremony_preparations:0	"Unterstützung bei den Vorbereitungen für die Zeremonie"
+GER_treaty_of_craiova_GER:0	"Vertrag von Craiova"
+GER_treaty_of_craiova_noland:0	"Vertrag von Craiova"
+GER_treaty_of_craiova_other:0	"Vertrag von Craiova"
+ROM_seek_alliance_GER:0	"Rache an der Sowjetunion"
+ROM_seek_alliance_SOV:0	"Rache an Deutschland"
+ROM_bought_guns:0	"Kauf von Waffen"
+ROM_sold_guns:0	"Verkauf von Waffen"
+ROM_arms_trade:0	"Waffenhandel"
+ROM_industrial_investments_in_romania:0	"Industrieinvestitionen in Rumänien"
+befriended_the_dutch:0	"Freundschaft mit den Niederländern"
+claimed_western_yugoslavia:0	"Anspruch auf Westjugoslawien"
+ita_supported_spain_civil_war:0	"Freiwillige im Bürgerkrieg"
+ita_diplomacy_focus:0	"Fokus auf italienische Diplomatie"
+ITA_FRA_woo_italy_reject:0	"Französische Fraktion abgelehnt"
+pact_of_steel_opinion:0	"Stahlpakt"
+anti_fascist_diplomacy_fascists:0	"Schwerpunkt auf antifaschistischer Diplomatie"
+anti_fascist_diplomacy_focus_temp:0	"Schwerpunkt auf antifaschistischer Diplomatie"
+anti_capitalist_diplomacy_focus:0	"Schwerpunkt auf antikapitalistischer Diplomatie"
+anti_capitalist_diplomacy_capitalists:0	"Schwerpunkt auf antikapitalistischer Diplomatie"
+anti_capitalist_diplomacy_capitalists_temp:0	"Fokus auf antikapitalistische Diplomatie"
+operation_zet_chi:0	"Operation Zet"
+operation_zet_jap:0	"Operation Zet"
+middle_east_expansionism:0	"Expansionismus im Nahen Osten"
+border_conflict_problems:0	"Anhaltende Grenzstreitigkeiten"
+border_conflict_reconciled:0	"Grenzkonflikt beigelegt"
+threat_to_baltic:0	"Ansprüche im Baltikum"
+claimed_bessarabia:0	"Ansprüche auf Bessarabien"
+claimed_bucovina:0	"Anspruch auf die Bukowina"
+claimed_eastern_poland:0	"Anspruch auf Ostpolen"
+war_plan_black:0	"Kriegsplan Schwarz"
+war_plan_red:0	"Kriegsplan Rot"
+war_plan_white:0	"Kriegsplan Weiß"
+war_plan_orange:0	"Kriegsplan Orange"
+nine_powers_investments:0	"Investitionsmöglichkeiten"
+monroe_doctrine_interventionism:0	"Geschichte des Interventionismus"
+GUARANTEEE_COST2:0	"Wir garantieren derzeit $COUNT|Y$ Nationen, und das Garantieren $NAME|Y$ kostet dann $COST|Y$£pol_power£,, da jede Garantie die Kosten erhöht.\n"
+WARGOAL_COST_AT_WAR_WITH_MAJOR:1	"$COUNTRY|UY$ sich in einem großen Krieg befindet: $VALUE$"
+MISSING_PP:1	"Benötigt £pol_power §Y$PP|0$§! mehr politische Macht."
+MISSING_FACTION_INITIATIVE:	"Benötigt £faction_initiative_texticon£ §Y$INITIATIVE|0$§! mehr Fraktionsinitiative"
+BORDER_WAR_NOT_OURS:0	" §HIn diesem Staat herrscht ein Grenzkonflikt§!"
+BORDER_WAR_LOSS:0	"Wir werden verlieren bei $VAL|2%H$ Verhältnis oder niedriger"
+BORDER_WAR_WIN:0	" Wir gewinnen bei $VAL|2%H$ Verhältnis oder höher"
+BORDER_WAR_HINT:0	"Verlegen Sie mehr Divisionen in die Staaten mit Grenzkonflikten, um Ihr militärisches Stärkeverhältnis zu erhöhen und den Verlust durch den Grenzkonflikt zu verringern."
+DIPLOMACY_SEND_EXP_FORCE_ACTION_DESC:0	"Wir können Expeditionsstreitkräfte entsenden, um anderen Ländern bei ihren Kriegsanstrengungen zu helfen."
+DIPLOMACY_SEND_VOLUNTEERS_ACTION_DESC:0	"Wir können Freiwillige entsenden, um anderen Ländern bei ihren Kriegsanstrengungen zu helfen, solange diese nicht unsere Verbündeten sind."
+SEND_VOL_TARGET_IS_ALLY:0	"Wir sind mit @$TAG$$WHO|H$ verbündet. Die Entsendung von Freiwilligen an Verbündete ist nicht möglich. Schließen Sie sich stattdessen ihrem Krieg an und entsenden Sie Expeditionsstreitkräfte."
+SEND_VOL_TARGET_AT_WAR:0	"Um ihnen Freiwilligentruppen zu entsenden, muss @$TAG$$WHO|H$ sich im Krieg befinden."
+SEND_VOL_TARGET_CAPITULATED:1	"@$TAG$$WHO|UH$ hat kapituliert."
+SEND_VOL_WE_NOT_AT_WAR:1	"Wir müssen uns im Frieden befinden, um Freiwilligentruppen zu entsenden."
+SEND_VOL_NOT_ENOUGH_DIVISIONS:0	"Wir benötigen mindestens $NUM|H$ Divisionen, um Freiwilligentruppen entsenden zu können."
+SEND_VOL_CONTROL_OF_HOME:1	"@$TAG$$WHO|UH$ muss sein Heimatgebiet kontrollieren."
+SEND_VOL_ENEMY_OF_FRIEND:1	"@$TAG$$WHO|UH$ befindet sich im Krieg mit unserem Verbündeten."
+SEND_EXPEDITIONARY_DESCRIPTION_NO_DIVISIONS:1	"§RSie müssen eine oder mehrere Armeen auswählen, die entsandt werden sollen.§!\nEs können nur Divisionen verlegt werden, die sich derzeit in Provinzen befinden, die vom Zielgebiet kontrolliert werden. \nSie verfügen derzeit über $CURRENT|H$ Divisionen als Expeditionsstreitkräfte."
+SEND_VOLUNTEERS_DESCRIPTION:0	"Senden Sie $SEND|H$ Divisionen. \nSie verfügen über $CURRENT|H$ Divisionen als Freiwilligenstreitkräfte und Ihre maximale Gesamtgrenze beträgt $MAX|H$ (begrenzt durch $LIMITREASON$)."
+SEND_VOLUNTEERS_DESCRIPTION_NO_DIVISIONS:1	" §RSie müssen eine oder mehrere Armeen auswählen, um das Angebot zu senden.§!\nSie verfügen über $CURRENT|H$ Divisionen als Freiwilligenstreitkräfte und Ihre maximale Gesamtgrenze beträgt $MAX|H$ (begrenzt durch $LIMITREASON$)."
+SEND_VOLUNTEERS_DESCRIPTION_NO_DIVISIONS_BUT_PLANES:0	"§RSie müssen entweder eine oder mehrere Armeen oder Luftwaffen-Freiwillige auswählen, um das Angebot zu senden. §!\nSie verfügen über $CURRENT|H$ Divisionen als Freiwilligentruppen und Ihre maximale Gesamtgrenze beträgt $MAX|H$ (begrenzt durch $LIMITREASON$)."
+SEND_VOLUNTEERS_DESCRIPTION_TOO_MANY_DIVISIONS:1	"§RSie haben mehr Divisionen ($SEND$) ausgewählt, als Sie entsenden dürfen. Heben Sie die Auswahl einiger Armeen auf oder teilen Sie Armeen in kleinere Einheiten auf.§!\nSie haben $CURRENT|H$ Divisionen als Freiwilligentruppen und Ihre maximale Gesamtgrenze beträgt $MAX|H$ (begrenzt durch $LIMITREASON$)."
+SEND_VOLUNTEERS_CAP_REASON_DIVISIONS:0	"Ihre Armeestärke"
+SEND_VOLUNTEERS_CAP_REASON_PROVINCES:0	"Anzahl ihrer Provinzen"
+SEND_VOLUNTEERS_DESCRIPTION_ALL_SENT_BUT_PLANES_AVAILABLE:0	"§RSie haben bereits so viele Divisionen entsandt, wie Ihnen derzeit erlaubt ist. §!\n§GDas Entsenden von Luftwaffen-Freiwilligen ist möglich§!\nSie verfügen über $CURRENT|H$ Divisionen als Freiwilligenkräfte und Ihre maximale Gesamtgrenze beträgt |___NE001 971___| (begrenzt durch $LIMITREASON$)."
+SEND_VOLUNTEERS_DESCRIPTION_ALL_SENT:0	" §RSie haben bereits so viele Divisionen entsandt, wie Ihnen derzeit erlaubt ist.§!\nSie verfügen über $CURRENT|H$ Divisionen als Freiwilligenkräfte und Ihre maximale Gesamtgrenze beträgt $MAX|H$ (begrenzt durch $LIMITREASON$)."
+SEND_VOLUNTEERS_EAGER_AI:1	"§Y$THEM|U$§! würde jede Hilfe im Kampf gegen unsere gemeinsamen Feinde gerne annehmen: "
+CAN_SEND_VOLUNTEERS:0	"Kann Freiwilligentruppen entsenden"
+SEND_VOL_RULES_DONT_ALLOW:0	"Ihr Land darf keine Freiwilligentruppen entsenden."
+alert_expeditionary_force_instant:0	"§HExpeditionsstreitkräfte§!"
+alert_expeditionary_force_delayed:0	"Sie verfügen über Expeditionsstreitkräfte in diesem Einsatzgebiet."
+SEND_VOLUNTEER_REQUEST:1	"$FROM|UH$ möchte $COUNT|H$ Divisionen als Freiwillige entsenden, um uns zu helfen."
+SEND_VOLUNTEER_REQUEST_PLANES:1	"$FROM|UH$ möchte ihre Luftflotten als Freiwillige entsenden, um uns zu helfen."
+SEND_VOLUNTEER_REQUEST_UNITS_AND_PLANES:1	"$FROM|UH$ möchte $COUNT|H$ Divisionen und ihre Luftflotten als Freiwillige entsenden, um uns zu helfen."
+SEND_EXPEDITIONARY_REQUEST:1	"$FROM|UH$ möchte $COUNT|H$ Divisionen als Expeditionsstreitkräfte entsenden, um uns zu helfen."
+RETURN_ALL_EXPEDITIONARY_FORCES_DESC:0	"Rufen Sie alle Expeditionsstreitkräfte aus $TARGET|H$ zurück. Sie verfügen über $COUNT|H$ Divisionen und erlangen sofort wieder die Kontrolle über diese."
+DIPLOMACY_GENERATE_WARGOAL_TITLE:0	"Kriegsziel rechtfertigen"
+DIPLOMACY_GENERATE_WARGOAL_DESC:0	"Das Kriegsziel kostet Sie $DAILYCOST|Y$ politische Macht und dauert $DAYS|Y$ Tage"
+DIPLOMACY_GENERATE_WARGOAL_ACTION_DESC:0	"Rechtfertigen Sie ein Kriegsziel gegen sie."
+DIPLOMACY_CANCEL_GENERATE_WARGOAL_TITLE:0	"Rechtfertigung aufheben"
+DIPLOMACY_CANCEL_GENERATE_WARGOAL_DESC:0	"Aufheben $NAME|Y$ ($PROGRESS|Y0%$)"
+SEND_EXP_WE_NOT_AT_WAR:0	"Die Entsendung von Expeditionsstreitkräften ist ein Akt der Aggression. Wir müssen zunächst gemeinsam mit @$TAG$$WHO|H$ in einen Krieg ziehen."
+SEND_EXP_MUST_BE_IN_SAME_FACTION:0	"Wir müssen derselben Fraktion angehören, um Expeditionsstreitkräfte zu entsenden."
+DIPLOMACY_REQUEST_EXP_FORCE_TITLE:0	"Truppen anfordern"
+DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC:0	"Fordern Sie die Kontrolle über eine bestimmte Anzahl von Divisionen von einem Marionettenstaat an. Da Sie einen so starken Einfluss auf dessen Regierung haben, wird dieser Antrag stets bewilligt."
+REQUEST_EXP_NOT_AI:0	"Sie können nur von KI-gesteuerten Ländern Expeditionstruppen anfordern. "
+REQUEST_EXP_MUST_BE_IN_SAME_FACTION:0	"Sie gehören nicht derselben Fraktion an wie Sie."
+REQUEST_EXP_NOT_SHARING_WAR:0	"Die Entsendung von Expeditionsstreitkräften gilt als Kriegshandlung und kann nicht von einem Land durchgeführt werden, das sich nicht im Krieg befindet."
+REQUEST_EXP_WE_ARE_NOT_AT_WAR:0	"Sie müssen sich im Krieg befinden, um Expeditionsstreitkräfte zu erhalten."
+REQUEST_EXP_NOT_A_MASTER:0	"Als Marionette können sie Expeditionsstreitkräfte nur an ihren Herrn entsenden."
+REQUEST_EXP_NOT_LEADER:0	"Sie sind nicht der Fraktionsführer."
+REQUEST_EXP_COUDLNT_FIND_UNITS_SUITABLE:1	"Sie glauben nicht, dass sie über genügend Einheiten verfügen, die für diesen Befehl geeignet sind."
+REQUEST_AIR_VOLUNTEERS:0	"Beantragen Sie die Erlaubnis, dass bis zu $COUNT|H$ unserer Luftflotten sich als Freiwillige am Krieg beteiligen."
+INTEL_IS_TOO_LOW_LOW:1	"Unsere Informationen reichen nicht aus, um Erkenntnisse über den aktuellen Fortschritt ihres nationalen Fokus zu erhalten."
+DIPLOMACY_TOO_LOW_TENSION_OTHER:1	"$WHO|U$ ist $IDE$ und benötigt eine weltweite Spannung von $LIMIT|%0Y$, um der Fraktion beizutreten (derzeit: |___ NE001996___|)."
+DIPLOMACY_TENSION_REDUCTION_AT_WAR:0	"$AT_WAR|$: $AMOUNT|%0G$"
+DIPLOMACY_JOIN_FACTION_AT_WAR_WITH:0	"Wir befinden uns im Krieg mit $NAME|Y$."
+DIPLOMACY_OFFER_FACTION_AT_WAR_WITH:0	"Sie befinden sich im Krieg mit $NAME|Y$, der Mitglied von $FACTION$ ist."
+democratic_leanings_good:0	"Demokratische Tendenzen"
+sanctions_relations:0	"Handelssanktionen"
+DIPLOMACY_BOOST_PARTY_POPULARTIY_NO_BOOSTABLE_PARTY:0	"Sie können die Popularität anderer Ideologien nicht steigern, und die Popularität Ihrer Ideologie kann nicht gesteigert werden."
+DIPLOMACY_CIVIL_WAR_INSTANT_FAILED:0	"Es ist aufgrund der geringen politischen Unterstützung für unsere Ideologie gescheitert"
+DIPLOMACY_ACTIVITIES_WARGOAL_MODIFIER:0	"Begründungen für andauernde Kriege: $VALUE|1-=%$"
+COUP_STRENGTH_TOOLTIP:1	"§HDie Stärke eines Staatsstreichs§! wird durch die Popularität der unterstützten Ideologie im Zielland bestimmt. \n\nEin Putschversuch ist umso stärker, je geringer die £stability_texticon §YStabilität§! des Ziellandes ist, und umso schwächer, wenn Sie nicht die gesamte erforderliche Ausrüstung entsenden."
+COUP_SMALL_TOOLTIP:0	"In einem kleinen Land gelingt ein Putsch automatisch, ohne einen Bürgerkrieg auszulösen, solange die Ideologie mindestens $POPULARITY|%1H$ Unterstützung genießt. Bei weniger als diesem Wert scheitert der Putsch. Die aktuelle Unterstützung beträgt $CURRENT$"
+COUP_CURRENT_FILLED:0	 "§G$VALUE|1$%§!"
+COUP_CURRENT_NOT_FILLED:0	"§R$VALUE|1$%§!"
+unprovoked_aggression:0	"Unprovozierte Aggression"
+DIPLOMACY_CANCEL_BOOST_PARTY_POPULARITY_ACTION:0	"Beliebtheitsschub aufheben"
+THEY_WILL_RECEIVE:0	"Sie erhalten:"
+DIPLOMACY_IMPROVERELATION:0	"Verbesserung der Beziehungen"
+DIPLOMACY_SEND_ATTACHE:0	"Attaché entsenden"
+SEND_VOLUNTEERS_GENERATE_THREAT:0	"\n\nWill generate §H$THREAT|1$%§! threat.\n"
+DYPLOMACY_FILTER_IDEOLOGIES:0	"Ideologien"
+large_increase:0	"Zunahme der Zustimmung"
+FRA_ban_communism:0	"Verbot des Kommunismus"
+FRA_leftist_rhetoric_democratic:0	"Linke Rhetorik"
+FRA_leftist_rhetoric_fascism:0	"Linke Rhetorik"
+FRA_right_wing_rhetoric_communism:0	"Rechte Rhetorik"
+FRA_right_wing_rhetoric_democratic:0	"Rechte Rhetorik"
+FRA_right_wing_rhetoric_fascism:0	"Rechte Rhetorik"
+FRA_extend_the_maginot_line_focus_neg:0	"Ausweitung der Maginot-Linie"
+FRA_extend_the_maginot_line_focus_pos:0	"Ausweitung der Maginot-Linie"
+FRA_go_with_britain_reject:0	"Ablehnung des Beitritts Frankreichs zu den Alliierten"
+FRA_scw_intervention_nationalists_SPA:0	"Nationalistische Intervention"
+FRA_scw_support_republican:0	"Intervention in Spanien"
+monroe_doctrine_trade:0	"Monroe-Doktrin"
+ENG_imperial_trade:0	"Imperialer Handel"
+balkan_strategy_good:0	"Balkan-Strategie"
+balkan_strategy_bad:0	"Balkan-Strategie"
+aided_industry:0	"Unterstützte industrielle Entwicklung"
+DIPLOMACY_LEAVE_FACTION_NOT_LEADER:1	"$LEADER|UH$ ist der Anführer der Fraktion"
+DIPLOMACY_WAR_NO_WAR_FIGHTING_WAR:0	"Nicht zulässig, wenn gemeinsam Krieg geführt wird"
+DIPLOMACY_LEAVE_FACTION_TITLE:0	"Fraktion verlassen"
+DIPLOMACY_LEAVE_FACTION_ACTION_DESC:0	"Fraktion verlassen"
+DIPLOMACY_LEAVE_FACTION_DESC:0	"Verlassen $FACTION|H$"
+DIPLOMACY_FACTION_UNAVAILABLE_THEM_PUPPET:1	"Nicht erlaubt, da sie ein Untertan von $MASTER|H$"
+DIPLOMACY_FACTION_UNAVAILABLE_US_PUPPET:1	"Nicht erlaubt, da wir ein Untertan von $MASTER|H$"
+faction_traitor:0	"Fraktionsverräter"
+faction_traitor_trade:0	"Fraktionsverräter"
+DIPLOMACY_DISMANTLE_FACTION_LEADER_NOT_ALONE:0	"Der Fraktionsanführer darf eine Fraktion, die nur aus ihm selbst und Marionetten besteht, nur verlassen"
+DIPLOMACY_DISMANTLE_FACTION_TITLE:0	" Fraktion auflösen"
+DIPLOMACY_DISMANTLE_FACTION_ACTION_DESC:0	"Unsere Fraktion wird nicht mehr existieren."
+DIPLOMACY_DISMANTLE_FACTION_DESC:0	"Auflösen $FACTION|H$"
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TITLE:0	"Fraktion übernehmen"
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_ACTION_DESC:0	"Die Führung der Fraktion $FACTION|H$ übernehmen."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_POLITICAL_POWER_COST_DESC:	"Die Übernahme kostet $COST|Y$ £pol_power"
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COOLDOWN_DESC:	"Andere Fraktionsmitglieder können für die nächsten $COOLDOWN|Y$ Tage keine Führung übernehmen."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_RECIPIENT_DESC:0	"$COUNTRY|U$ hat die Fraktionsführung von $FACTION$ übernommen."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_OTHERS_DESC:0	"$COUNTRY|U$ hat die Fraktionsführung von $FACTION$ übernommen."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_MANPOWER:0	" Um die eingesetzten Truppen des derzeitigen Anführers und seiner Untergebenen deutlich zu übertreffen, benötigen wir und unsere Untergebenen eine effektive Truppenstärke von $NEEDED|*Y$, verfügen jedoch nur über $CURRENT|*Y$."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_FACTORIES:0	"Um die Anzahl der Fabriken des derzeitigen Anführers ausreichend zu übertreffen, benötigen wir $NEEDED|*Y$ Fabriken, verfügen jedoch nur über $CURRENT|*Y$."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_INFLUENCE:	" Um den Einfluss des derzeitigen Anführers deutlich zu übertreffen, benötigen wir $NEEDED|%Y$ Einfluss, verfügen jedoch nur über $CURRENT|%Y$."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TO_MUCH_INFLUENCE:	"Um den Einfluss so gering zu halten, dass er den des derzeitigen Anführers nicht übersteigt, benötigen wir weniger als $NEEDED|%Y$ Einfluss, verfügen jedoch nur über $CURRENT|%Y$."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_HIGHEST_INFLUENCE:	"Wir müssen den höchsten Einflussrang in der Fraktion haben, der derzeit bei $CURRENT|Y$ liegt."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_HIGHEST_INFLUENCE:	"Wir dürfen nicht den höchsten Einflussrang in der Fraktion haben"
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IS_SUBJECT:0	"Wir dürfen kein Untertan eines anderen Landes sein."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_HAS_CAPITULATED:0	"Wir dürfen nicht kapituliert haben. "
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_RECENTLY_CHANGED:0	"Wir müssen warten, bis die ersten $COOLDOWN|Y$ Tage der Herrschaft des derzeitigen Anführers vorbei sind, was am $DATE|Y$ der Fall ist."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_SUBJECT_PROGRESS:0	"   §RUntertan§! eines anderen Landes."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_CAPITULATED_PROGRESS:0	"   §RKapituliert§! in einem andauernden Krieg."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COOLDOWN_PROGRESS:0	"   $CURRENT|R$ Tage seit $NEEDED|Y$ der derzeitige Fraktionsführer die Macht übernommen hat."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IN_ALL_WARS_PROGRESS:0	"   $CURRENT|R$ Feinde von $NEEDED|Y$ gemeinsam mit dem Fraktionsführer."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_MANPOWER_PROGRESS:0	"   $CURRENT|*R$ eingesetzte Arbeitskräfte von $NEEDED|*Y$ benötigten."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_FACTORY_PROGRESS:0	"   $CURRENT|R$ Fabriken von $NEEDED|Y$ benötigt."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_INFLUENCE_PROGRESS:	"   $CURRENT|R1%$ Einfluss von $NEEDED|Y1%$ benötigt."
+DIPLOMACY_CALL_FLAG_CALL_ALLY:0	"Ist ein Verbündeter von $COUNTRY|H$"
+DIPLOMACY_CALL_FLAG_CALL_GUARANTY:0	"Garantiert $COUNTRY|H$"
+DIPLOMACY_CALL_FLAG_CALL_PUPPET:0	"Ist eine Marionette von $COUNTRY|H$"
+DIPLOMACY_CALL_FLAG_CALL_OVERLORD:0	"Ist Herrscher über $COUNTRY|H$"
+DIPLOMACY_CALL_FLAG_CALL_SAME_OVERLORD:0	"Hat denselben Herrscher wie $COUNTRY|H$"
+DIPLOMACY_WARGOAL_FLAG_HAS:0	"Hat bereits ein gültiges Kriegsziel gegen $COUNTRY|H$"
+DIPLOMACY_WARGOAL_FLAG_GENERATES:0	"Rechtfertigt Kriegsziel gegen $COUNTRY|H$"
+DIPLOMACY_STAGE_GOUP_POLITICAL_POWER_NEED:0	" Die Durchführung eines Staatsstreichs kostet täglich £pol_power£$DAILY|1H$, bis insgesamt £pol_power£$TOTAL|0H$ erreicht ist."
+POTENTIAL_ENEMIES:0	"Mögliche Feinde:"
+DIPLOMACY_RELATION_IMPROVEMENT_SAME_IDEOLOGY_DESC:0	"Wenn das Land, mit dem wir die Beziehungen verbessern wollen, eine andere Ideologie hat, verringert sich die Geschwindigkeit, mit der wir an Zustimmung gewinnen. \n\nDies verursacht tägliche Kosten in Höhe von £pol_power $VALUE|3R$."
+DIPLOMACY_RELATION_IMPROVEMENT_DEFAULT_DESC:0	"Wenn das Land, mit dem wir die Beziehungen verbessern wollen, eine andere Ideologie hat, verringert sich die Geschwindigkeit, mit der wir an Ansehen gewinnen.\n\nDies verursacht tägliche Kosten in Höhe von £pol_power $VALUE|3R$"
+DIPLOMACY_RELATION_IMPROVEMENT_INVALID:0	"Eines der Länder ist ungültig, keine Verbesserung der Beziehungen."
+DIPLOMACY_SEND_ATTACHE_COST_DESC:0	"Dies verursacht zudem tägliche Kosten in Höhe von £pol_power $VALUE|1H$."
+DIPLOMACY_SEND_ATTACHE_COST_INVALID:0	"Eines der Länder ist ungültig, es kann kein Attaché entsandt werden."
+HUMAN_PLAYER_RESPONSE:0	" Diese Nation wird von einem Spieler kontrolliert und wird entsprechend dessen Wünschen reagieren."
+anti_imperialist:0	"Antiimperialistisch"
+ENG_benelux_intervention_USA:0	"Benelux-Intervention"
+ENG_benelux_intervention_BEL_HOL:0	"Benelux-Intervention"
+ALLIES:0	"§HVerbündete§!"
+ENEMIES:0	"§HFeinde§!"
+BREAKING_NAP_DESC:3	"Die Annahme dieses Angebots führt zum Bruch des Nichtangriffspakts in $COUNT|H$ Kriegen, und wir werden §RVerlieren§! $STABILITY|H%$ Stabilität!"
+DIPLOMACY_CALL_ALL_ALLIES:0	"Verbündete anrufen"
+DR_HELP_IS_NICE:0	"Hilfe wird geschätzt: "
+DR_US_DEMOCRATIC:1	"§Y$US|U$§! ist demokratisch: "
+DR_US_NEUTRAL:1	 "§Y$US|U$§! ist blockfrei: "
+DR_US_COMMUNIST:1	"§Y$US|U$§! ist kommunistisch: "
+DR_US_FASCIST:1	"§Y$US|U$§! ist faschistisch: "
+DR_US_INDUSTRY_STRENGTH:1	"§Y$US|U$§! Industrie im Vergleich zu Feinden: "
+DR_US_MILITARY_STRENGTH:1	"§Y$US|U$§! Militär im Vergleich zu Feinden: "
+DR_MODIFIER:1	"§Y$US|U$§! hat §Y$MODIFIER$§!: "
+DR_THEM_DO_NOT_WANT_US:0	"$THEM|UY$ will keinen Krieg führen mit §Y$US|U$§!: "
+DR_THEM_WANTS_US:0	"$THEM|UY$ möchte Krieg führen gegen §Y$US|U$§!: "
+cheat_opinion_modifier_good:0	"cheat_opinion_modifier_good"
+unstable_alliance:0	"Instabile Allianz"
+DIPLOMACY_HOSTILE_STATUS:0	"Wir stehen uns derzeit feindlich gegenüber"
+faction_general_desc:1	"$COUNTRY|UY$ gehört zur $FACTION|Y$ Fraktion mit anderen Nationen."
+faction_general_extended_desc:1	"$COUNTRY2|UY$ und $COUNTRY1|Y$ gehören derselben $FACTION|Y$ Fraktion an."
+FACTION_MEMBER_IS_FACTION_LEADER:0	"$COUNTRY|UY$ ist der Fraktionsführer."
+RELATION_FACTION_MEMBERS_NEAR_ASSUMING_LEADERSHIP_HEADER:0	"Die folgenden Mitglieder sind derzeit in der Lage oder fast in der Lage, die Führung dieser Fraktion zu übernehmen:"
+RELATION_FACTION_MEMBER_THAT_CAN_ASSUME_LEADERSHIP:0	"   $COUNTRY|UY$"
+RELATION_FACTION_MEMBER_CAN_ASSUME_LEADERSHIP:0	"$COUNTRY|UY$ ist derzeit in der Lage, die Führung dieser Fraktion zu übernehmen."
+RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP:0	"$COUNTRY|UY$ ist fast in der Lage, die Führung dieser Fraktion zu übernehmen. ($PROGRESS|0%Y$)"
+war_initiator_desc:1	"$COUNTRY|UY$ führt einen Offensivkrieg"
+war_receiver_desc:1	"$COUNTRY|UY$ führt einen Verteidigungskrieg"
+wargoal_initiator_desc:1	"$COUNTRY|UY$ verfolgt Kriegsziele gegen andere Nationen"
+timed_wargoal_initiator_desc:1	"$COUNTRY|UY$ rechtfertigt Kriegsziele"
+timed_wargoal_initiator_extended_desc:1	"$COUNTRY1|UY$ rechtfertigt Kriegsziele gegen $COUNTRY2|Y$:"
+timed_wargoal_receiver_desc:1	"$COUNTRY|UY$ ist das Ziel der Rechtfertigung ausländischer Kriegsziele"
+timed_wargoal_receiver_extended_desc:1	"$COUNTRY1|UY$ rechtfertigt Kriegsziele gegen $COUNTRY2|Y$:"
+demilitarized_zone_initiator_desc:0	"$COUNTRY|UY$ verfügt über eine entmilitarisierte Zone"
+demilitarized_zone_initiator_extended_desc:0	"$COUNTRY1|UY$ verfügt über eine entmilitarisierte Zone, die von $COUNTRY2|Y$ durchgesetzt wird: "
+demilitarized_zone_receiver_desc:0	"$COUNTRY|UY$ setzt die entmilitarisierte Zone durch"
+demilitarized_zone_receiver_extended_desc:0	 "$COUNTRY2|UY$ setzt die entmilitarisierte Zone in $COUNTRY1|Y$ durch:"
+war_reparation_initiator_desc:0	"$COUNTRY|UY$ überträgt zivile Fabriken als Kriegsentschädigung"
+war_reparation_initiator_extended_desc:0	"$COUNTRY1|UY$ überträgt zivile Fabriken an $COUNTRY2|Y$ als Kriegsentschädigung:"
+war_reparation_receiver_desc:0	"$COUNTRY|UY$ erhält zivile Fabriken als Kriegsentschädigung"
+war_reparation_receiver_extended_desc:0	"$COUNTRY2|UY$ erhält zivile Fabriken an $COUNTRY1|Y$ als Kriegsentschädigung:"
+resource_rights_initiator_desc:0	"$COUNTRY|UY$ überträgt Ressourcenrechte"
+resource_rights_initiator_extended_desc:0	"$COUNTRY1|UY$ überträgt Ressourcenrechte an $COUNTRY2|Y$:"
+resource_rights_receiver_desc:0	"$COUNTRY|UY$ erhält Ressourcenrechte"
+resource_rights_receiver_extended_desc:0	" $COUNTRY2|UY$ erhält Ressourcenrechte an $COUNTRY1|Y$:"
+volunteers_initiator_desc:1	"$COUNTRY|UY$ entsendet Freiwillige in andere Nationen"
+volunteers_initiator_extended_desc:1	" $COUNTRY2|UY$ hat Freiwillige aus $COUNTRY1|Y$."
+volunteers_receiver_desc:1	"$COUNTRY|UY$ hat Freiwillige aus anderen Nationen"
+volunteers_receiver_extended_desc:1	"$COUNTRY2|UY$ entsendet Freiwillige nach $COUNTRY1|Y$."
+expeditionaries_initiator_desc:1	"$COUNTRY|UY$ verfügt über Expeditionsstreitkräfte, die in andere Nationen entsandt wurden"
+expeditionaries_initiator_extended_desc:1	"$COUNTRY2|UY$ verfügt über Expeditionsstreitkräfte aus $COUNTRY1|Y$."
+expeditionaries_receiver_desc:1	" $COUNTRY|UY$ verfügt über Expeditionsstreitkräfte aus anderen Nationen"
+expeditionaries_receiver_extended_desc:1	"$COUNTRY2|UY$ entsendet Expeditionsstreitkräfte nach $COUNTRY1|Y$."
+timed_stage_coup_initiator_extended_desc:1	"$COUNTRY1|UY$ führt einen Staatsstreich in $COUNTRY2|Y$ durch"
+timed_stage_coup_receiver_desc:1	"$COUNTRY|UY$ ist das Ziel eines bevorstehenden Staatsstreichs, der von ausländischen Mächten unterstützt wird"
+timed_stage_coup_receiver_extended_desc:1	"$COUNTRY1|UY$ führt einen Staatsstreich in $COUNTRY2|Y$ durch"
+non_aggression_pact_general_desc:1	"$COUNTRY|UY$ hat Nichtangriffspakte mit anderen Nationen geschlossen"
+improve_relation_initiator_desc:1	" $COUNTRY|UY$ verbessert seine diplomatischen Beziehungen zu anderen Nationen"
+improve_relation_initiator_extended_desc:1	"$COUNTRY1|UY$ verbessert die Beziehungen zu $COUNTRY2|Y$"
+improve_relation_receiver_desc:1	"$COUNTRY|UY$ wird von ausländischen diplomatischen Gesandten besucht, die zur Verbesserung der Beziehungen entsandt wurden"
+improve_relation_receiver_extended_desc:1	"$COUNTRY1|UY$ verbessert die Beziehungen zu $COUNTRY2|Y$"
+war_relation_active:0	"befindet sich im Krieg mit"
+send_attache_initiator_desc:1	" $COUNTRY|UY$ entsendet seine Attachés in andere Länder"
+send_attache_receiver_extended_desc:1	"$COUNTRY1|UY$ hat einen Militärattaché nach $COUNTRY2|Y$ entsandt"
+naval_blockade_initiator_desc:	"$COUNTRY|UY$ verhängt eine Seeblockade gegen andere Nationen."
+naval_blockade_initiator_extended_desc:	"$COUNTRY1|UY$ verhängt eine Seeblockade gegen $COUNTRY2|Y$"
+naval_blockade_receiver_desc:	"$COUNTRY|UY$ wird von anderen Nationen mit einer Seeblockade belegt."
+naval_blockade_receiver_extended_desc:	"$COUNTRY2|UY$ wird von $COUNTRY1|Y$ mit einer Seeblockade belegt"
+guarantee_initiator_extended_desc:1	"$COUNTRY1|UY$ garantiert die Unabhängigkeit von $COUNTRY2|Y$"
+guarantee_receiver_desc:0	"Die Unabhängigkeit von $COUNTRY|Y$ wird von anderen Nationen garantiert"
+guarantee_receiver_extended_desc:0	"Die Unabhängigkeit von $COUNTRY2|Y$ wird von $COUNTRY1|Y$ garantiert"
+lend_lease_receiver_extended_desc:1	"$COUNTRY1|UY$ unterstützt $COUNTRY2|Y$ durch ein Leih- und Pachtgesetz"
+WARGOAL_COST_VOLUNTEERS_VALUE:1	"$COUNTRY|UY$ entsendet Freiwillige zu unseren Feinden: $VALUE|G$"
+WARGOAL_COST_OUR_MODIFIER:1	"$COUNTRY|UY$ Modifikatoren: "
+WARGOAL_COST_THEIR_MODIFIER:1	"$COUNTRY|UY$ Modifikatoren: "
+DR_COMMUNIST_NOT_NEIGHBOUR:1	"$THEM|UY$ grenzt nicht an die Fraktion: "
+DR_ATTITUDE:1	"$US|UY$ $ATTITUDE|Y$ in Richtung $THEM|Y$: "
+AI_MESSAGE_CAT2_MES6:0	"Hören Sie das, $OTHER$? Das ist das Geräusch davon, wie sehr ich Sie gerade in die Schranken weise."
+attitude_protective:0	"beschützend"
+SAF_anti_british_sentiment:0	"Anti-britische Stimmung"
+NZL_strengthen_ties:0	"Gestärkte Beziehungen"
+DIPLOMACY_REDUCEAUTONOMY_TITLE:0	"Die Autonomie des Subjekts einschränken"
+DIPLOMACY_REDUCEAUTONOMY_ACTION_DESC:0	"Den Grad der Autonomie des Subjekts verringern"
+DIPLOMACY_INCREASEAUTONOMY_TITLE:0	"Unsere Autonomie erhöhen"
+DIPLOMACY_INCREASEAUTONOMY_ACTION_DESC:0	"Unser Autonomiegrad erhöhen"
+DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_INCREASED_TITLE:0	"Der Autonomiegrad des Untertanen wurde erhöht"
+huge_increase:0	"Enormer Anstieg der Zustimmung"
+HUN_stubborn_fools:0	"Hartnäckige Narren"
+HUN_refused_alliance:0	"Allianz abgelehnt"
+HUN_renegade:0	"Abtrünnige Handlungen"
+unilateral_war:0	"Einseitiger Krieg"
+DIPLOMACY_AIR_BASE_ACCESS:	"Zugang zum Luftwaffenstützpunkt"
+DIPLOMACY_AIR_BASE_ACCESS_TITLE:	"Um Zugang zu Luftwaffenstützpunkten bitten"
+DIPLOMACY_AIR_BASE_ACCESS_DESC:	"Der Zugang zu Luftwaffenstützpunkten würde es unseren Flugzeugen ermöglichen, auf deren Stützpunkten stationiert zu sein."
+DIPLOMACY_OFFER_AIR_BASE_ACCESS_ACTION_DESC:	"Bieten Sie ihnen an, unsere Luftwaffenstützpunkte nutzen zu dürfen."
+DIPLOMACY_OFFER_AIR_BASE_ACCESS_REQUEST_DESC:	"$COUNTRY|UY$ schlägt vor, dass unsere Flugzeuge ihre Luftwaffenstützpunkte nutzen können."
+DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_TITLE:	"Ihren Zugang zu den Luftwaffenstützpunkten widerrufen"
+DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_DESC:	"Halten wir die abscheulichen $COUNTRY|Y$ von unseren Luftwaffenstützpunkten fern."
+DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_ACTION_DESC:	"Ihren Zugang zu den Luftwaffenstützpunkten widerrufen" "
+DIPLOMACY_DOCKING_RIGHTS_ACTION_DESC:1	"Bitten Sie darum, unsere Marine in ihren Häfen versorgen zu dürfen."
+DIPLOMACY_OFFER_DOCKING_RIGHTS_ACTION_DESC:0	"Bieten Sie an, ihnen zu gestatten, ihre Marine in unseren Häfen zu versorgen."
+DIPLOMACY_OFFER_DOCKING_RIGHTS_REQUEST_DESC:1	"$COUNTRY|UY$ schlägt vor, dass unsere Marine in ihren Häfen Nachschub erhält."
+DIPLOMACY_REVOKE_OFFER_DOCKING_RIGHTS_DESC:0	"Halten wir die abscheulichen $COUNTRY|Y$ aus unseren Gewässern fern."
+DIPLOMACY_REVOKE_OFFER_DOCKING_RIGHTS_ACTION_DESC:0	"Entziehen Sie ihnen die Anlegerechte"
+DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_DOCKING_RIGHTS:0	"Anlegerechte gewährt"
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_DOCKING_RIGHTS:1	"\nUnser Antrag auf Anlegerechte wurde §Gangenommen§! von §Y$COUNTRY$§!.\n\nWir können unsere Schiffe nun in deren Häfen stationieren, um sie zu versorgen und zu reparieren."
+DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_OFFER_DOCKING_RIGHTS:0	"Anlegerechte verweigert"
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_OFFER_DOCKING_RIGHTS:0	"\n§Y$COUNTRY|U$§! hat §Runseren Antrag auf Anlege- und Reparaturrechte abgelehnt! "
+docking_rights_initiator_desc:1	"$COUNTRY|UY$ verfügt über Anlegerechte für andere Nationen"
+docking_rights_initiator_extended_desc:1	"$COUNTRY1|UY$ verfügt über Anlegerechte für $COUNTRY2|Y$"
+docking_rights_receiver_desc:1	"$COUNTRY|UY$ gewährt anderen Nationen Anlegerechte"
+offer_docking_rights_receiver_desc:1	 "$COUNTRY|UY$ verfügt über Anlegerechte bei anderen Nationen"
+offer_docking_rights_receiver_extended_desc:1	"$COUNTRY2|UY$ verfügt über Anlegerechte bei $COUNTRY1|Y$"
+air_base_access_initiator_desc:0	"$COUNTRY|UY$ hat Zugang zu Luftwaffenstützpunkten anderer Nationen"
+air_base_access_initiator_extended_desc:0	" $COUNTRY1|UY$ hat Zugang zu Luftwaffenstützpunkten in $COUNTRY2|Y$"
+offer_air_base_access_receiver_extended_desc:0	"$COUNTRY2|UY$ hat Zugang zu Luftwaffenstützpunkten in $COUNTRY1|Y$"
+offer_air_base_access_initiator_desc:0	"$COUNTRY|UY$ gewährt anderen Nationen Zugang zu Luftwaffenstützpunkten"
+offer_air_base_access_initiator_extended_desc:0	"$COUNTRY1|UY$ gewährt $COUNTRY2|Y$ Zugang zu Luftwaffenstützpunkten"
+ENG_spoke_out_against_us:0	"Hat sich gegen uns ausgesprochen"
+ENG_imperial_conference_opinion:0	"Imperiale Konferenz"
+NAVAL_BLOCKADE_TRADE_ROUTE_INFO:	"Unsere Handelsroute mit $TARGET|Y$ wird von $BLOCKER|Y$ bei $REGION|Y$ blockiert"
+NAVAL_BLOCKADE_TRADE_ROUTE_REESTABLISHED_TITLE:	"Unsere Handelsroute unterliegt keiner Seeblockade mehr"
+NAVAL_BLOCKADE_TRADE_ROUTE_REESTABLISHED_INFO:	"Unsere Handelsroute mit $TARGET|Y$ wurde wiederhergestellt"
+DIPLOMACY_REQUEST_EXPEDITIONARY_REJECTED:0	"Antrag auf Entsendung von Expeditionsstreitkräften abgelehnt"
+DIPLOMACY_REQUEST_EXPEDITIONARY_REJECTED_INFO:0	"$COUNTRY|UY$ hat unseren Antrag auf Entsendung von Expeditionsstreitkräften abgelehnt."
+DIPLOMACY_REQUEST_EXPEDITIONARY_ACCEPTED:0	"Antrag auf Entsendung von Expeditionsstreitkräften angenommen"
+DIPLOMACY_REQUEST_EXPEDITIONARY_NO_UNITS_REQUESTED:0	"Keine Einheiten angefordert"
+DIPLOMACY_REQUEST_SOME_COUNTRIES_ARE_NOT_ACCEPTING:0	"§REinige unserer Anträge sind nicht akzeptabel.§!"
+ENG_imperial_loyalist:0	"Imperialer Loyalist"
+HOL_caved_to_the_germans_ger:0	"Den Deutschen nachgegeben"
+HOL_caved_to_the_germans_eng:0	"Den Deutschen nachgegeben"
+HOL_maintained_trade_neutrality:0	"Handelsneutralität gewahrt"
+HOL_caved_to_the_british_ger:0	"Hat den Briten nachgegeben"
+HOL_caved_to_the_british_eng:0	"Hat den Briten nachgegeben"
+default_scripted_diplo_action_request_desc:0	"$REQUESTER|H$ hat $ACTION|H$ diplomatische Maßnahmen angefordert."
+default_scripted_diplo_action_send_desc:0	"Möchten Sie $ACTION|H$ diplomatische Schritte bei $RECEPIENT|H$ unternehmen?"
+refused_naval_treaty:0	"Weigerte sich, den Seevertrag zu unterzeichnen"
+ENG_commonwealth_ties:0	"Verbindungen zum Commonwealth"
+POR_anglo_portuguese_alliance:0	"Anglo-portugiesisches Bündnis"
+DIPLOMACY_REQUEST_FOREIGN_MANPOWER_TITLE:0	"Unterstützung für Garnisonen anfordern"
+DIPLOMACY_REQUEST_FOREIGN_MANPOWER_ACTION_DESC:0	"Ausländische Arbeitskräfte anfordern, um unsere Garnisonen zu besetzen."
+DIPLOMACY_REQUEST_FOREIGN_MANPOWER_ACTION_DESC_MORE:0	"Anforderung weiterer ausländischer Arbeitskräfte zur Besetzung unserer Garnisonen.\n(Wir verfügen bereits über $NUMBER|H*$ Arbeitskräfte aus diesem Land)"
+DIPLOMACY_REQUEST_FOREIGN_MANPOWER_REQUEST_DESC:2	"$COUNTRY|UY$ fordert Arbeitskräfte für ihre Garnisonen an. "
+DIPLOMACY_REQUEST_FOREIGN_MANPOWER_REQUEST_DESC_MORE:0	"$COUNTRY|UY$ fordert mehr Arbeitskräfte für ihre Garnisonen an.\nSie verfügen bereits über $NUMBER|H*$ Arbeitskräfte von uns. "
+DIPLOMACY_REQUEST_FOREIGN_MANPOWER_REQUEST_DETAILS:0	"Benötigte Arbeitskräfte zur Aufrechterhaltung ihrer Politik: $NEEDED|H*$ \nAktueller Gesamtbestand an ausländischen Arbeitskräften: $CURRENT|H*$"
+DIPLOMACY_CANCEL_FOREIGN_MANPOWER_TITLE:0	"Garnisonsunterstützung aufheben"
+DIPLOMACY_CANCEL_FOREIGN_MANPOWER_ACTION_DESC:1	"Die von uns für ihre Garnisonen bereitgestellten Arbeitskräfte zurückziehen ($NUMBER|H*$)."
+DIPLOMACY_CANCEL_FOREIGN_MANPOWER_MESSAGE_ACTION_DESC:1	"$COUNTRY|UY$ hebt die Garnisonsunterstützung auf. \n\nSie ziehen die bereitgestellten Truppen zurück ($NUMBER|H*$)."
+DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_REQUEST_FOREIGN_MANPOWER:0	"Antrag auf Garnisonsunterstützung angenommen"
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_REQUEST_FOREIGN_MANPOWER:0	"$COUNTRY|UY$ hat §Gunseren Antrag auf Garnisonsunterstützung angenommen§!. \n\nSie haben uns $MANPOWER|H*$ Personal zur Verfügung gestellt."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_REQUEST_FOREIGN_MANPOWER:0	"$COUNTRY|UY$ hat §Runsere Anfrage nach Garnisonsunterstützung abgelehnt§!."
+REQUEST_FOREIGN_MANPOWER_MUST_BE_IN_SAME_FACTION:0	"Wir müssen derselben Fraktion angehören oder ihr Oberherr sein, um Garnisonsunterstützung anfordern zu können."
+foreign_manpower_initiator_desc:0	"$COUNTRY|UY$ stellt anderen Nationen Arbeitskräfte für deren Garnisonen zur Verfügung"
+foreign_manpower_initiator_extended_desc:0	"$COUNTRY1|UY$ stellt $COUNTRY2|Y$ Arbeitskräfte für deren Garnisonen zur Verfügung"
+foreign_manpower_receiver_desc:0	"$COUNTRY|UY$ nutzt Arbeitskräfte aus anderen Nationen für ihre Garnisonen"
+foreign_manpower_receiver_extended_desc:0	"$COUNTRY1|UY$ nutzt Arbeitskräfte aus $COUNTRY2|Y$ für ihre Garnisonen"
+FOREIGN_MANPOWER_REASON_NO_NEED:1	"Wir benötigen eigentlich keine weiteren ausländischen Arbeitskräfte: "
+FOREIGN_MANPOWER_REASON_NOT_ENOUGH:1	"$COUNTRY|UY$ verfügt nicht über genügend Arbeitskräfte, um uns welche zur Verfügung zu stellen: "
+FOREIGN_MANPOWER_REASON_ALREADY_ENOUGH:1	"$COUNTRY|UY$ will uns keine weiteren Arbeitskräfte zur Verfügung stellen: "
+FOREIGN_MANPOWER_REASON_COOLDOWN:0	"$COUNTRY|UY$ hat uns kürzlich Arbeitskräfte zur Verfügung gestellt. Sie werden vor $DATE|H$ keine neue Anfrage annehmen: "
+DIPLOMACY_NUMBER_FOREIGN_MANPOWER_SENT:0	"Senden Sie $MANPOWER|H$ Personal an $COUNTRY|H$."
+DIPLOMACY_HEAD_OF_COUNTERINTEL_TITLE:	"Übernahme der Leitung der Spionageabwehr"
+DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_COUNTERINTEL:	"Übernahme der Leitung der Spionageabwehr akzeptiert"
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_COUNTERINTEL:	"Sie sind nun Leiter der Spionageabwehr."
+DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_COUNTERINTEL:	"Übernahme der Leitung der Spionageabwehr abgelehnt"
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_COUNTERINTEL:	"$COUNTRY|UY$ hat §Runsere Anfrage, §!Leiter der Spionageabwehr zu werden, §Habgelehnt§!."
+DIPLOMACY_HEAD_OF_CRYPTOLOGY_TITLE:	"Übernahme der Leitung der Kryptologie"
+DIPLOMACY_HEAD_OF_CRYPTOLOGY_ACTION_DESC:	"Sie sind derzeit §HLeiter der Kryptologie§! unserer Fraktion. \nBitten Sie sie, der neue §HLeiter der Kryptologie§! zu werden."
+DIPLOMACY_HEAD_OF_CRYPTOLOGY_REQUEST_DESC:	"$COUNTRY|UY$ möchte unser §HLeiter der Kryptologie§! werden."
+DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_CRYPTOLOGY:	"Übernahme des Amtes als Leiter der Kryptologie akzeptiert"
+DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_CRYPTOLOGY:	"Leiter der Kryptologie übernimmt – Abgelehnt"
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_CRYPTOLOGY:	 "$COUNTRY|UY$ hat §Runsere Bitte, §!Leiter der Kryptologie§Hzu werden,§!abgelehnt."
+DIPLOMACY_HEAD_OF_OPERATIONS_TITLE:	"Leiter der Operationen übernehmen"
+DIPLOMACY_HEAD_OF_OPERATIONS_ACTION_DESC:	" Er ist derzeit §HLeiter der Operationen§! unserer Fraktion.\nBitten Sie ihn, der neue §HLeiter der Operationen§! zu werden."
+DIPLOMACY_HEAD_OF_OPERATIONS_REQUEST_DESC:	"$COUNTRY|UY$ möchte unser §HLeiter des operativen Geschäfts§! werden."
+DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_OPERATIONS:	"Leiter des operativen Geschäfts übernehmen Akzeptiert"
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_OPERATIONS:	" Sie sind nun Leiter des operativen Geschäfts."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_OPERATIONS:	"$COUNTRY|UY$ hat §Runsere Anfrage abgelehnt§!, §HLeiter des operativen Geschäfts§!zu werden."
+DIPLOMACY_JOINED_WAR_EXTRA_CALLED_ENTRY:0	"$COUNTRY|Y$"
+DIPLOMACY_JOINED_WAR_EXTRA_CALLED_FIRST_ENTRY:0	"$COUNTRY|YU$"
+DIPLOMACY_JOINED_WAR_EXTRA_CALLED_MULTIPLE:0	"\n$LIST$ sich ebenfalls gemeinsam mit ihnen am Krieg zu beteiligen."
+POR_sold_guns:0	"Verkaufte Waffen"
+POR_arms_trade:0	"Waffenhandel"
+POR_bought_guns:0	"Gekaufte Waffen"
+POR_ships_trade:0	"Schiffshandel"
+POR_sold_ships:0	"Verkaufte Schiffe"
+POR_bought_ships:0	"Gekaufte Schiffe"
+GRE_discarded_the_schachtplan:0	"Verwarf den Schachtplan"
+GRE_reneged_on_debt:0	"Schuldenerlass"
+GRE_strategic_partners:0	"Strategische Partner"
+GRE_denied_our_ambitions:0	"Unsere Ambitionen vereitelt"
+GRE_denied_our_ambitions_ITA:0	"Unsere Ambitionen vereitelt"
+GRE_honored_their_promise:0	"Ihr Versprechen eingehalten"
+GRE_left_us_to_fight_alone:0	"Ließen uns allein kämpfen"
+GRE_exploited_our_generosity:0	"Ausnutzten unsere Großzügigkeit"
+GRE_shunned_our_investors:0	"Wiesen unsere Investoren zurück"
+GRE_greek_turncoats:0	"Griechische Überläufer"
+GRE_underhanded_rogues:0	"Hinterhältige Schurken"
+GRE_aegean_troublemakers:0	"Unruhestifter in der Ägäis"
+GRE_strategic_enemy:0	"Strategischer Feind"
+GRE_fascist_leanings:0	"Faschistische Tendenzen"
+GRE_fascist_trading_bloc:0	"Faschistischer Handelsblock"
+TUR_clodius_agreement:0	"Das Clodius-Abkommen"
+TUR_imperialist_puppets:0	"Imperialistische Marionette"
+TUR_aiding_our_enemies:0	"Unterstützung unserer Feinde"
+TUR_likeminded_ultranationalists:0	"Gleichgesinnte Ultranationalisten"
+TUR_righteous_traditionalists:0	"Rechte Traditionalisten"
+TUR_assertive_regional_defender:0	"Entschlossener Verteidiger der Region"
+TUR_turkish_meddlers:0	" Türkische Einmischer"
+TUR_unreliable_debt_ditchers:0	"Unzuverlässige Schuldner"
+TUR_traitors_of_the_revolution:0	"Verräter der Revolution"
+TUR_released_hatay_to_us:0	"Hatay an uns übergeben"
+TUR_pact_of_power:0	"Machtpakt"
+TUR_insulted_our_honour:0	"Unsere Ehre verletzt"
+TUR_joint_resource_extraction:0	"Gemeinsame Bemühungen zur Rohstoffgewinnung"
+BUL_approached_germany:0	"Hat Deutschland angesprochen"
+BUL_approached_italy:0	"Hat Italien angesprochen"
+BUL_approached_the_uk:0	"Hat das Vereinigte Königreich angesprochen"
+BUL_approached_the_ussr:0	"Hat die Sowjetunion angesprochen"
+BUL_approached_yugoslavia:0	"Hat Jugoslawien angesprochen"
+BUL_approached_greece:0	"Wurden an Griechenland herangetreten"
+BUL_strengthened_relations_with_us:0	"Stärkte die Beziehungen zu uns"
+BUL_bulgarian_claims_recognized:0	"Unsere Ansprüche anerkannt"
+BUL_bulgarian_claims_not_recognized:0	"Unsere Ansprüche nicht anerkannt"
+BUL_donated_aircraft:0	"Flugzeugspenden"
+BUL_rejected_our_donation:0	"Unsere Spende abgelehnt"
+BUL_complied_with_our_demands:0	"Unseren Forderungen nachgekommen"
+BUL_rejected_our_demands:0	"Unsere Forderungen abgelehnt"
+BUL_honored_bulgarian_claims:0	"Bulgarische Ansprüche anerkannt"
+BUL_lifted_arms_restrictions:0	"Unsere Waffenembargos aufgehoben"
+BUL_refused_to_lift_arms_restrictions:0	"Aufhebung der Waffenembargos verweigert"
+BUL_granted_uranium_mining_rights:0	"Gewährte Uranabbau-Rechte"
+BUL_industrial_investments_in_bulgaria:0	"Industrieinvestitionen in Bulgarien"
+BUL_seized_our_bulgarian_subsidiaries:0	"Beschlagnahmte unsere bulgarischen Tochtergesellschaften"
+BUL_bought_guns:0	"Kaufte Waffen"
+BUL_sold_guns:0	"Waffen verkauft"
+BUL_arms_trade:0	"Waffenhandel"
+BUL_rejected_our_proposal:0	"Unseren Vorschlag abgelehnt"
+BUL_helped_in_civil_war:0	"Uns im Bürgerkrieg geholfen"
+BUL_balkan_communism_trade:0	"Balkan-Kommunismus"
+past_sale:0	"Waffenlieferant"
+chinese_relations:0	"Beziehungen zu China"
+olympic_attendee:0	"Olympischer Ruhm"
+rejected_our_claims_2:0	"Unsere Forderungen abgelehnt"
+rejected_our_claims_3:0	"Unsere Forderungen abgelehnt"
+rejected_our_claims_4:0	"Unsere Forderungen abgelehnt"
+rejected_our_claims_5:0	"Unsere Forderungen abgelehnt"
+TUR_diplomacy:0	"Türkische Diplomatie"
+religous_values:0	"Religiöse Werte"
+friendship_treaty:0	"Freundschaftsvertrag"
+SOV_rejected_our_demands:0	"Unsere Forderungen abgelehnt"
+SOV_fourth_international_bad:0	"Anhänger der stalinistischen Doktrin"
+HAS_EMBARGO:0	"Wir haben bereits ein Embargo gegen sie verhängt"
+DIPLOMACY_PUPPET_NO:0	"Wir sind eine Marionette"
+DIPLOMACY_OUR_PUPPET_NO:0	"Sie sind unser Untertan"
+THEY_OUR_FACTION:0	"Sie befinden sich ebenfalls in $FACTION|H$"
+embargo_receiver_extended_desc:0	"$COUNTRY2|Y$ unterliegt einem Embargo durch $COUNTRY1|Y$"
+ITA_supported_the_new_government:0	"Unterstützung für die neue Regierung"
+SWI_recruited_assasin_as_agent:0	"Bekannten Killer als Agenten rekrutiert"
+SWI_investing_in_switzerland:0	"Investitionen in der Schweiz"
+SWI_gold_trade:0	"Nutzung der Schweiz für den Goldhandel"
+SWI_gold_seized_opinion_bad:0	"Unsere Goldreserven beschlagnahmt!"
+SWI_backchannel_negotiations_opinion_modifier:0	"Hintertürverhandlungen"
+SWI_too_costly_to_invade:0	"Einmarsch in die Schweiz wäre zu kostspielig"
+SWI_obstructing_anschluss:0	"Behinderung des Anschlusses"
+SWI_supporting_resistance:0	"Unterstützung von Widerstandsgruppen auf unserem Territorium"
+friend_of_lon:	"Freund des Bundes"
+friend_of_lon_temp:	"Freund des Bundes"
+jealous:	"Eifersüchtig"
+ITA_military_cooperation_rejection:0	"Militärische Zusammenarbeit abgelehnt"
+DIPLOMACY_CONDITIONAL_SURRENDER_POINT_FRACTION:0	"Sie erhalten $VALUE|%H$ der maximal verfügbaren Konferenzpunkte."
+DR_COMPARED_DEPLOYED_MANPOWER:0	"Eingesetzte Truppenstärke im Vergleich zu uns: "
+DIPLOMACY_CANCEL_EQUIPMENT_PURCHASE_MESSAGE_TITLE:0	"$CONTRACT_TYPE|U$ abgesagt"
+DIPLOMACY_REQUEST_INTERNATIONAL_MARKET_ACCESS_RIGHTS_TITLE:0	"Marktzugang aushandeln"
+DIPLOMACY_REQUEST_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC:0	"Gewähren Sie sich gegenseitig Marktzugang für Ausrüstung, die dem internationalen Markt hinzugefügt wird."\n\nDie Zugehörigkeit zur selben Fraktion gewährt automatisch Marktzugang. Der Zugang zum Markt eines Fraktionsanführers gewährt auch Zugang zu den Märkten aller Mitglieder."
+DIPLOMACY_REQUEST_INTERNATIONAL_MARKET_ACCESS_RIGHTS_DESC:0	"Marktzugang würde es uns ermöglichen, Ausrüstung vom Markt des jeweils anderen zu kaufen."
+DIPLOMACY_REQUEST_INTERNATIONAL_MARKET_ACCESS_RIGHTS_REQUEST_DESC:0	"$COUNTRY|UY$ bittet um Marktzugang, damit wir Ausrüstung untereinander kaufen und verkaufen können."
+DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_TITLE:0	"Marktzugang aufheben"
+DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC:0	"Unseren Marktzugang und den ihren aufheben.\n\nWir können dann keine Ausrüstung mehr voneinander kaufen."
+DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC_FACTION:0	"§RMarktzugang für Fraktionsmitglieder kann nicht aufgehoben werden. §!"
+DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC_SUBJECT:0	"§RDer Marktzugang zu einem Untertan kann nicht aufgehoben werden.§!"
+DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC_OVERLORD:0	"§RDer Marktzugang für Ihren Oberherrn kann nicht aufgehoben werden.§!"
+DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC_SAME_OVERLORD:0	"§RDer Marktzugang für andere Untertanen Ihres Oberherrn kann nicht aufgehoben werden. §!"
+DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_DESC:0	"Wir können keine Ausrüstung mehr voneinander kaufen."
+DIPLOMACY_CLOSED_MARKET:0	"$COUNTRY|H$ kann aufgrund von $REASON$ keinen Marktzugang gewähren"
+market_access_rights_general_desc:0	"$COUNTRY|UY$ hat Marktzugang zu anderen Nationen"
+market_access_rights_general_extended_desc:0	"$COUNTRY1|UY$ hat Marktzugang zu $COUNTRY2|Y$"
+market_access_rights_active:0	"hat Marktzugang zu"
+equipment_purchase_contract_relation_receiver_desc:0	"$COUNTRY|UY$ kauft Ausrüstung aus anderen Ländern"
+equipment_purchase_contract_relation_receiver_extended_desc:0	"$COUNTRY2|UY$ kauft Ausrüstung von $COUNTRY1|Y$"
+equipment_purchase_contract_relation_initiator_extended_desc:0	"$COUNTRY1|UY$ verkauft Ausrüstung an $COUNTRY2|Y$"
+unpaid_debts:0	"Unbezahlte Schulden"
+eden_malbran_treaty:	"Eden-Malbran-Vertrag"
+german_reciever_tt:	"Empfänger ist [GER.GetNameWithFlag]"
+china_reciever_tt:	"Empfänger ist [CHI.GetNameWithFlag] oder [PRC.GetNameWithFlag]"
+aid_sent:	"Hat uns Hilfe geschickt"

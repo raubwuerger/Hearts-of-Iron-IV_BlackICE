@@ -1,5 +1,4 @@
 ﻿l_german:
- ## Equipment versions PRC ##
  PRC_EQUIPMENT_VERSION_0:0 "v1"
  PRC_EQUIPMENT_VERSION_1:0 "v2"
  PRC_EQUIPMENT_VERSION_2:0 "v3"
@@ -16,7 +15,6 @@
  PRC_EQUIPMENT_VERSION_13:0 "v14"
  PRC_EQUIPMENT_VERSION_14:0 "v15"
  PRC_EQUIPMENT_VERSION_15:0 "v16"
- ## Equipment versions ROC ##
  CHI_EQUIPMENT_VERSION_0:0 "v1"
  CHI_EQUIPMENT_VERSION_1:0 "v2"
  CHI_EQUIPMENT_VERSION_2:0 "v3"
@@ -33,9 +31,6 @@
  CHI_EQUIPMENT_VERSION_13:0 "v14"
  CHI_EQUIPMENT_VERSION_14:0 "v15"
  CHI_EQUIPMENT_VERSION_15:0 "v16"
-
- ## PRC ###
- ## PLA Air Force Generic tree ##
  PRC_fighter_equipment_1933:0 "Polikarpow I-15"
  PRC_fighter_equipment_1933_short:0 "I-15"
  PRC_fighter_equipment_1936:0 "Polikarpow I-16"
@@ -133,7 +128,6 @@
  PRC_cv_fighter_equipment_1944_short:0 "Jak-9T"
  PRC_transport_plane_equipment_1:0 "Lisunow Li-2 Transport"
  PRC_transport_plane_equipment_1_short:0 "Li-2 Transport"
- ## PLA Ground Forces ## 
  PRC_motorized_lia_equipment_01:0 "BAW BJ212"
  PRC_motorized_lia_equipment_01_short:0 "BAW BJ212"
  PRC_motorized_lia_equipment_01_desc:0 "Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Einsatz verwendet werden."
@@ -358,7 +352,6 @@
  PRC_HVanti_tank_equipment_1_short:0 "85mm D-44"
  PRC_HVanti_tank_equipment_2:0 "100mm Feldgeschütz M1944 (BS-3)"
  PRC_HVanti_tank_equipment_2_short:0 "100mm M1944 (BS-3)"
- ## PRC Infantry weapons ##
  PRC_assault_rifle_equipment_0:0 "AS-44 Sturmgewehr"
  PRC_assault_rifle_equipment_0_short:0 "AS-44"
  PRC_assault_rifle_equipment_0_desc:0 ""
@@ -421,7 +414,6 @@
  PRC_HMG_equipment_3:0 "Degtyaryov-Shpagin Großkaliber-Maschinengewehr 1938 Maschinengewehr IV"
  PRC_HMG_equipment_3_desc:0 "Maschinengewehr-Teams innerhalb des Bataillons"
  PRC_HMG_equipment_3_short:0 "DShK-38"
- ### PLA Navy ###
  PRC_submarine_1:0 "AG Klasse"
  PRC_submarine_1_desc:0 "Die U-Boote der Amerikansky-Golland Klasse (Amerikanisch-Holland) wurden in Kanada gebaut und während des Ersten Weltkriegs nach Russland geliefert, wo sie schließlich montiert wurden. Sie waren die direkte Kopie der erfolgreichen U-Boote vom Typ Holland. Sie waren als gute Seeboote konzipiert und für ihre Zeit gut bewaffnet."
  PRC_submarine_2:0 "Serie V Schtschuka"
@@ -478,9 +470,6 @@
  PRC_carrier_3_desc:0 "Die Träger des Projekts 71B wurden Mitte bis Ende der 1930er Jahre entworfen. Sie sollten den neuen Überwasserflotten, die Stalin in seinem Plan anordnete, Luftschutz bieten. Geplant waren zwei Schiffe mit einer Verdrängung von etwa 30.000 Tonnen, einer starken Flakbewaffnung, guter Panzerung und einer angemessenen Luftflotte. Die deutsche Invasion führte dazu, dass der Bau dieser Schiffe eingestellt wurde."
  PRC_carrier_4:0 "Liaoning Klasse"
  PRC_carrier_4_desc:0 "Bei den Flugzeugträgern des Projekts 72 handelte es sich um die verbesserten Versionen der vorherigen Schiffe des Projekts 71. Die Konstruktionsstudien wurden in den frühen 1940er Jahren abgeschlossen und führten zu einem größeren Schiff mit dünnerer Panzerung. Der zusätzliche Platz wurde genutzt, um eine stärkere Flak-Bewaffnung zu installieren und eine größere Luftwaffengruppe zu befördern."
-
- ### Republic of China - Nationalist China ###
- ### Army ###
  CHI_assault_rifle_equipment_0:0 "M2-Sturmgewehr"
  CHI_assault_rifle_equipment_0_short:0 "M2"
  CHI_assault_rifle_equipment_0_desc:0 ""
@@ -554,10 +543,8 @@
  CHI_heavy_tank_equipment_3_short:0 "Typ 43 Dà"
  CHI_modern_tank_equipment_1:0 "M-47 Patton"
  CHI_modern_tank_equipment_1_short:0 "M-47 Patton"
- ### Navy ###
  CHI_destroyer_1:0 "Jianwei Klasse"
  CHI_destroyer_1_desc:0 "Die Jianwei Klasse war eine Klasse von großen Torpedobooten, die für die nationalistische chinesische Marine gebaut und 1904 in Dienst gestellt wurde. Zwei Schiffe der Klasse wurden modernisiert und waren zum Zeitpunkt der japanischen Invasion noch im Dienst. Nach der Modernisierung verdrängten sie 870 Tonnen und waren mit zwei 4,7-Zoll-Hauptkanonen bewaffnet."
- ### Air ###
  CHI_fighter_equipment_1933:0 "I-153 Chái ka"
  CHI_fighter_equipment_1933_short:0 "I-153 Tschái ka"
  CHI_fighter_equipment_1936:0 "Polikarpow I-16"
@@ -668,7 +655,6 @@
  CHI_cv_fighter_equipment_1944_short:0 "P-51 Yěma"
  CHI_cv_transport_plane_equipment_1:0 "Lisunow Li-2 Transport"
  CHI_transport_plane_equipment_1_short:0 "Li-2 Transport"
- ### Warlords ###
  GXC_pre_war_mr_equipment_1:0 "Curtiss Hawk II"
  GXC_pre_war_mr_equipment_1_short:0 "Hawk-II-Jagdbomber"
  GXC_prewar_cas_equipment_1:0 "Douglas O-2MC-3/5/6"
@@ -769,4 +755,3 @@
  MAN_SMG_equipment_2_short:0 "Nambu Typ II Exp."
  MAN_SMG_equipment_3:0 "Nambu Typ II B"
  MAN_SMG_equipment_3_short:0 "Nambu Typ II B"
- ## EOF ##

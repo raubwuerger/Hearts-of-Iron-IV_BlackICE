@@ -1,6 +1,4 @@
 ﻿l_german:
-#######Middle East Rework########
-   ##BMP
 britain.500.t:0	"Das Mandat fordert Palästina"
 britain.500.d:0	"Uns wurde ein absurdes Ultimatum gestellt, in dem die sofortige Übergabe Palästinas an die Juden gefordert wird. Ein Kampf könnte jedoch mehr Ärger bedeuten, als er wert ist."
 britain.500.a:0	"Wir können uns den Forderungen der Terroristen nicht beugen!"
@@ -122,7 +120,6 @@ bmpisrael.1.d:0	"Mit der Gründung unserer neuen Nation musste auch eine Armee g
 bmpisrael.1.a:0	"Wir heißen sie willkommen!"
 bmpisrael.2.t:0	"Kriegsaufrufe" 
 bmpisrael.2.d:0	"Die westlichen Kolonialmächte haben ihre ehemaligen arabischen Untertanen vernachlässigt. Die Gründung Israels, einer jüdischen Nation, ist nicht nur eine Beleidigung für die in Palästina lebenden Araber, sondern vor allem eine Bedrohung. Überall in unserem Land rufen Menschen zum Krieg auf, um unsere Brüder zu befreien!"
- ###############The Arab League calls upon us to aid our brothers in Palestine, who are currently losing their homeland to the Israelites
 bmpisrael.2.a:0	"Wir sollten unsere Möglichkeiten prüfen. #Wir müssen ihnen helfen!"
 bmpisrael.3.t:0	"Die Altalena-Affäre"
 bmpisrael.3.d:0	"Unsere Regierung hat hart daran gearbeitet, die vielen paramilitärischen Organisationen in die israelischen Verteidigungskräfte zu verwandeln. Die Irgun hat sich zwar gegen unsere Bemühungen gewehrt, aber bis jetzt haben sie an der Seite der IDF gekämpft. Nach ihrem verhängnisvollen Versuch, über die Altalena französische Waffen für ihre Kämpfer einzuschmuggeln, und nach dem Aufruhr, den die Tötung von Irgun-Mitgliedern durch die IDF in einem Streit um diese Waffen ausgelöst hat, ist jedoch klar, dass wir nicht länger zulassen können, dass eine abtrünnige Armee von unseren Grenzen aus agiert und Geschäfte mit ausländischen Mächten macht."
@@ -131,7 +128,6 @@ bmpisrael.3.b:0	"Wir können nicht zulassen, dass eine solch feindselige Gruppe 
 bmpisrael.4.t:0	"Das Ende des arabisch-israelischen Krieges"
 bmpisrael.4.d:0	"Die israelischen Streitkräfte haben sich behauptet, und die Friedensgespräche sind in vollem Gange."
 bmpisrael.4.a:0	"The End of the Arab-Israeli war"
- ###IRQ
 iraq.1.t:0	"Schickt die Armee, um die Schiiten zu vernichten "
 iraq.1.d:0	"Die schiitischen Stämme rebellieren weiter, es ist an der Zeit, ihnen unsere ganze Kraft zu zeigen"
 iraq.1.a:0	"Zeigt keine Gnade"
@@ -164,7 +160,6 @@ iraq.8.t:0	"Putsch am Goldenen Platz"
 iraq.8.d:0	"Faschisten ergreifen die Macht im Irak"
 iraq.9.t:0	"Anglo-irakischer Krieg"
 iraq.9.d:0	"England erklärt den Krieg"
- ##Arab
 Arab.1:0	"Stammes-Bewegungen"
 Arab.1.t:0	"Stammesbezogene Bewegungen"
 Arab.1.desc:0	"Zahlreiche nomadische Stämme sind in letzter Zeit in Bewegung geraten und haben unsere politische Position destabilisiert"
@@ -197,7 +192,6 @@ Arab.9.t:0	"Jemen tritt dem Vertrag über die Arabische Allianz zwischen Irak un
 Arab.9.d:0	"Der Jemen ist offiziell dem Vertrag über die Arabische Allianz zwischen dem Irak und Saudi-Arabien beigetreten. Der Beitritt des Jemen zum Vertrag ist ein wichtiger Schritt in den Bemühungen um eine Stärkung der Einheit und Zusammenarbeit zwischen den arabischen Staaten. Mit dem Beitritt zum Vertrag erkennt der Jemen die Bande der islamischen Gemeinschaft und nationalen Einheit an, die ihn mit dem Irak und Saudi-Arabien verbinden. Der Vertrag verpflichtet die Unterzeichner, in den Bereichen Verteidigung, Sicherheit und Wirtschaft zusammenzuarbeiten und sich für die Aufrechterhaltung der Stabilität und Sicherheit in der arabischen Region einzusetzen.\nDurch den Beitritt des Jemen zum Vertrag wurde das Bündnis zwischen dem Irak und Saudi-Arabien weiter gestärkt und die Einheit und Zusammenarbeit zwischen den arabischen Staaten gefestigt."
 Arab.10.t:0	"Ägypten und Saudi-Arabien bekräftigen und verstärken Freundschaftsvertrag"
 Arab.10.d:0	" Ägypten und Saudi-Arabien haben ihren ein Jahr zuvor unterzeichneten Freundschaftsvertrag bekräftigt und gestärkt. Die erneute Bestätigung des Vertrages war ein Beweis für die starken Bande der Freundschaft und Zusammenarbeit zwischen den beiden Ländern. Im Rahmen des verstärkten Vertrages verpflichten sich sowohl Ägypten als auch Saudi-Arabien, ihre wirtschaftlichen, politischen und kulturellen Beziehungen zu vertiefen. Die beiden Länder werden in den Bereichen Bildung, Gesundheitswesen, Technologie und Infrastruktur zusammenarbeiten, um das Wohlergehen ihrer Bevölkerung zu verbessern."
- ### Iran
 persia.1.t:0	"Frankreich ruft seine Kommandeure zurück"
 persia.1.d:0	"Unter Hinweis auf die zunehmenden Spannungen in der Welt und die Notwendigkeit, dass alle fähigen Militärs einsatzbereit sein müssen, hat Frankreich uns mitgeteilt, dass es die 9 Kommandeure, die zu unserer Hilfe entsandt wurden, dringend zurückruft."
 persia.1.a:0	"Höchst bedauerlich"
@@ -219,32 +213,59 @@ persia.6.t:0	"Die Sowjets ergreifen die Macht"
 persia.6.d:0	"Die Tudeh-Partei wurde immer verdächtigt, nur Marionetten Stalins zu sein, aber nach einem erfolgreichen Putsch zum Sturz des Königs haben sie den Iran offiziell unter den Einfluss der Sowjetunion gebracht"
 persia.6.a:0	"Man hat uns überlistet"
 persia.7.t:0	"Das Iran-Problem"
-persia.7.d:0	"Angesichts der aktuellen Situation mit Deutschland können wir keine Falten im Nahen Osten zulassen. Obwohl König Reza offiziell neutral ist, hat er wiederholt mit den Deutschen verhandelt und lehnt unseren Einfluss weiterhin ab."
+
+persia.7.desc_repeated:0	"Trotz unserer entschlossenen Haltung hat [PER.GetNameDef] sich geweigert und kooperiert weiterhin aktiv mit [GER.GetNameDef] im wirtschaftlichen Bereich."
+persia.7.desc_2:	"Zwar ist es uns gelungen, die besondere wirtschaftliche Zusammenarbeit zwischen [PER.GetNameDef] und [GER.GetNameDef] zu unterbrechen, doch der Handel zwischen ihnen läuft weiterhin, wenn auch in geringerem Umfang."
+persia.7.desc_2_repeated:	"[PER.GetNameDefCap] hat sich geweigert, unseren Forderungen nachzukommen und den gesamten Handel mit [GER.GetNameDef] einzustellen."
+
 persia.7.a:0	"Fordern, dass deutsche Unternehmen vertrieben werden"
 persia.7.b:0	"Fordern Sie ein Embargo gegen die Achsenmächte"
 persia.7.c:0	"Fordern, dass sie sich der britischen Kontrolle unterwerfen"
 persia.7.e:0	"Es gibt keinen Grund, sie zu stören"
+
+
+
+
 persia.9.t:0	"Großbritannien fordert ein Embargo"
 persia.9.d:0	"Britische Diplomaten sind an uns herangetreten und haben uns aufgefordert, den Handel mit den Achsenmächten sofort einzustellen. Der Handel ist jedoch entscheidend für das weitere Wachstum unseres Landes, was sollen wir tun?"
 persia.10.t:0	"Briten fordern Unterwerfung"
 persia.10.d:0	"Britische Diplomaten sind an uns herangetreten und fordern, dass wir uns der britischen Herrschaft unterwerfen, was das Ende unserer unabhängigen Nation bedeutet und uns zu einem Teil des britischen Empire macht."
+
+
+
+
 persia.11.c:0	"Fordern Sie die Unterwerfung unter unsere Herrschaft"
 persia.12.t:0	"Stalin fordert unser Öl"
 persia.12.d:0	"Sowjetische Diplomaten haben sich an uns gewandt und verlangt, dass wir ihnen die Rechte am Öl in Ishfahan geben"
+
+
+
+persia.14.d:	"Sowjetische Diplomaten haben sich an uns gewandt und gefordert, dass wir uns der sowjetischen Herrschaft unterwerfen, was faktisch das Ende unserer unabhängigen Nation bedeuten und uns zu einem Teil von [SOV.GetNameDef] machen würde."
 persia.15.t:0	"Straßenproteste"
+
+
+
 persia.15.c:0	"Ernennung des bekannten Klerikers Abol-Ghasem Kashani in unser Kabinett"
 persia.16.t:0	"Vertrag über Handel und Schifffahrt"
 persia.16.d:0	"Vertreter des Irans und der Sowjetunion treffen sich in Moskau, um den zuvor unterzeichneten Vertrag über die Errichtung, den Handel und die Schifffahrt zu bekräftigen, der besagt, dass nur russische und iranische Schiffe im Kaspischen Meer fischen dürfen. In dem neuen Vertrag wurde auch festgelegt, dass kein Land die 10-Meilen-Grenze für die Seeschifffahrt überschreiten darf. Der Vertrag enthält keine Klauseln über den Abbau des Meeresbodens."
 persia.16.a:0	"Wir werden beide von diesem Abkommen profitieren."
-persia.7.desc_repeated:0	"Trotz unserer entschlossenen Haltung hat [PER.GetNameDef] sich geweigert und kooperiert weiterhin aktiv mit [GER.GetNameDef] im wirtschaftlichen Bereich."
-persia.7.desc_2:	"Zwar ist es uns gelungen, die besondere wirtschaftliche Zusammenarbeit zwischen [PER.GetNameDef] und [GER.GetNameDef] zu unterbrechen, doch der Handel zwischen ihnen läuft weiterhin, wenn auch in geringerem Umfang."
-persia.7.desc_2_repeated:	"[PER.GetNameDefCap] hat sich geweigert, unseren Forderungen nachzukommen und den gesamten Handel mit [GER.GetNameDef] einzustellen."
-persia.14.d:	"Sowjetische Diplomaten haben sich an uns gewandt und gefordert, dass wir uns der sowjetischen Herrschaft unterwerfen, was faktisch das Ende unserer unabhängigen Nation bedeuten und uns zu einem Teil von [SOV.GetNameDef] machen würde."
 persia.18.t:	"[PER.GetNameDefCap] akzeptiert unsere Forderungen"
 persia.18.d:	"[PER.GetLeader] hat angekündigt, dass [PER.GetNameDef] den Forderungen von [ROOT.GetAdjective] vollständig nachkommen wird."
- 
- 
- 
- 
- 
- 
+
+persia.7.desc:0	"Angesichts der aktuellen Lage mit Deutschland dürfen wir uns im Nahen Osten keine Unstimmigkeiten leisten. Obwohl offiziell neutral, [PER.GetAdjective] [PER.GetLeader] unterhält [GER.GetNameDef] seit jeher wirtschaftliche Beziehungen und setzt diese trotz unserer Vorbehalte fort."
+persia.7.desc_3:	"Die Unterbrechung aller Verbindungen zwischen [PER.GetNameDef] und [GER.GetNameDef] hat unsere Position im Nahen Osten verbessert, doch da sich der Krieg an einem kritischen Punkt befindet, könnte ein unabhängiges [PER.GetNonIdeologyName] unsere Bemühungen in der Region weiterhin behindern – ein Risiko, das wir nicht eingehen können."
+persia.8.t:0	"Großbritannien fordert, dass wir deutsche Investoren ausweisen"
+persia.8.d:0	"Britische Diplomaten haben sich an uns gewandt und gefordert, dass wir unverzüglich alle deutschen Investoren aus unserem Land ausweisen. Deutsche Investitionen sind jedoch entscheidende Säulen unserer Wirtschaft."
+persia.8.a:0	"Das ist völlig unzumutbar!"
+persia.8.b:0	"Wir haben keine Wahl"
+persia.11.t:0	"Das Iran-Problem"
+persia.11.d:0	"Angesichts der aktuellen Lage mit Deutschland können wir uns keine Unruhen im Nahen Osten leisten. Obwohl offiziell neutral, [PER.GetAdjective] [PER.GetLeader] hat eine Geschichte der wirtschaftlichen Zusammenarbeit mit [GER.GetNameDef] und setzt diese trotz unserer Vorbehalte fort."
+persia.11.a:0	"Druck auf den Iran wegen seines Öls"
+persia.11.b:0	"Druck auf den Iran wegen Khorasan"
+persia.13.t:	"Die Sowjetunion fordert Grenzregionen"
+persia.13.d:	"Sowjetische Diplomaten haben sich an uns gewandt und gefordert, dass wir unverzüglich die Grenzregion [416.GetName] zur Nutzung als Pufferstaat übergeben."
+persia.14.t:	"Die Sowjetunion fordert Unterwerfung"
+persia.15.d:0	"Als Reaktion auf unsere umstrittenen neuen Gesetze haben viele Geistliche und Imame zu groß angelegten öffentlichen Protesten aufgerufen."
+persia.15.a:0	"Ignoriere sie"
+persia.15.b:0	"Stimme einigen Zugeständnissen zu"
+persia.18.a:	"Eine kluge Entscheidung"

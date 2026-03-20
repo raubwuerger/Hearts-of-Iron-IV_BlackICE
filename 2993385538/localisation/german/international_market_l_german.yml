@@ -37,7 +37,6 @@ INTERNATIONAL_MARKET_OPEN_MARKET_VIEW_TOOLTIP_HAVE_ACCESS: "Sie haben §YMarktzu
 INTERNATIONAL_MARKET_OPEN_MARKET_VIEW_TOOLTIP_NO_ACCESS: "Du §Rnicht§! Zugang zu jedem Markt haben."
 INTERNATIONAL_MARKET_OPEN_MARKET_VIEW_TOOLTIP_GENERAL: "Bevor Sie Ausrüstung kaufen oder verkaufen können, müssen Sie §YMarktzugang§! verhandeln mit einem anderen Land."
 INTERNATIONAL_MARKET_MARKET_ACCESS_OVERVIEW_TITLE: "Marktzugang"
-
 PURCHASE_CONTRACT_PROGRESS_EQUIPMENT_HEADER: "§YAusrüstung geliefert§!"
 PURCHASE_CONTRACT_SUNK_PROGRESS: " Versunken /"
 PURCHASE_CONTRACT_SUNK_PROGRESS_AMOUNT: " $AMOUNT|0R$ /"
@@ -46,11 +45,9 @@ SORT_EQUIPMENT_BY_AMOUNT: "Sortieren Sie nach Menge auf dem Markt"
 SORT_EQUIPMENT_BY_COST: "Sortieren Sie nach den Kosten auf dem Markt"
 PURCHASE_CONTRACT_PROGRESS_EQUIPMENT_INEFFICIENT_LAST_DELIVERY: "§RLetzte Lieferung§!§g:$SUNK$ Geliefert / Erwartet§!"
 PURCHASE_CONTRACT_PROGRESS_EQUIPMENT_LAST_DELIVERY: "§gLetzte Lieferung:$SUNK$ geliefert / erwartet§!"
-
 PURCHASE_CONTRACT_PROGRESS_EQUIPMENT_EXPECTED: "§gErwartet§!"
 PURCHASE_CONTRACT_EQUIPMENT_ENTRY: "  $EQUIPMENT$ ($TYPE$): $AMOUNT|0Y$"
 PURCHASE_CONTRACT_PROGRESS_EQUIPMENT_ENTRY: "  $EQUIPMENT$ ($TYPE$):$SUNK$ $PARTIAL|0Y$ / $TOTAL|0Y$"
-
 PURCHASE_CONTRACT_PROGRESS_PAYMENT: "§YWirtschaftlichkeitszahlung§!"
 PURCHASE_CONTRACT_PROGRESS_TOTAL_PAYMENT_PRODUCED: "Produziert:"
 PURCHASE_CONTRACT_PROGRESS_TOTAL_PAYMENT_PRODUCED_VALUE: "$PRODUCED|0Y$ / $EXPECTED|0Y$"
@@ -58,20 +55,15 @@ PURCHASE_CONTRACT_PROGRESS_BASE_PAYMENT: "    - Basis: $VALUE|0Y$"
 PURCHASE_CONTRACT_PROGRESS_BASE_PAYMENT_PER_DAY: "    - Basis: §Y+$VALUE|0$§! / Tag"
 PURCHASE_CONTRACT_PROGRESS_SUBSIDY_PAYMENT: "    - Subventionen: $VALUE|0G$"
 PURCHASE_CONTRACT_PROGRESS_SUBSIDY_PAYMENT_PER_DAY: "    - Subventionen: §G+$VALUE|0$§! / Tag"
-
 PURCHASE_CONTRACT_PROGRESS_TOTAL_PAYMENT: "§gZahlung: Geliefert / Angefordert§!"
 PURCHASE_CONTRACT_PROGRESS_TOTAL_PAYMENT_VALUE: "£civ_factory_output£: $DELIVERED|0Y$ / $TOTAL|0Y$"
-
 PURCHASE_CONTRACT_PROGRESS_LAST_PAYMENT: "§gLetzte Lieferung: Geliefert / Erwartet§!"
 PURCHASE_CONTRACT_PROGRESS_INEFFICIENT_LAST_PAYMENT: "§RLetzte Lieferung§!§g: Geliefert / Erwartet§!"
-
 PURCHASE_CONTRACT_PROGRESS_LAST_PAYMENT_VALUE: "£civ_factory_output£: $DELIVERED|0Y$ / $EXPECTED|0Y$"
 PURCHASE_CONTRACT_PROGRESS_EXPECTED_PAYMENT: "§gProduziert / Erwartet§!"
 PURCHASE_CONTRACT_PROGRESS_EXPECTED_PAYMENT_VALUE: "£civ_factory_output£: $COLLECTED|0Y$ / $EXPECTED|0Y$"
-
 PURCHASE_CONTRACT_PROGRESS_SINGLE_SUBSIDY: "Subvention:"
 PURCHASE_CONTRACT_PROGRESS_MULTIPLE_SUBSIDIES: "Zuschüsse:"
-
 PURCHASE_CONTRACT_DRAFT_EXPECTED_UNITS_DELIVERED_WITH_SUBSIDY: "Während angehängte Subventionen aktiv sind, betragen die erwarteten Einheiten pro Lieferung:"
 PURCHASE_CONTRACT_DRAFT_EXPECTED_UNITS_DELIVERED_WITHOUT_SUBSIDY: "Ohne Subventionen betragen die erwarteten Einheiten pro Lieferung:"
 PURCHASE_CONTRACT_DRAFT_EQUIPMENTS_DELIVERED: "$AMOUNT|0Y$ von $NAME|0Y$"
@@ -90,18 +82,14 @@ PURCHASE_CONTRACT_REQUIRED_CONVOYS_EFFICIENCY_TT: "Routeneffizienz: $EFFICIENCY$
 PURCHASE_CONTRACT_REQUIRED_CONVOYS_DEFICIENCY_TT: "Es besteht ein §RDefizit§! von §YKonvois§! zu diesem Vertrag. Dies wirkt sich auf die Lieferung der Ausrüstung und die Vertragslaufzeit aus."
 PURCHASE_CONTRACT_REQUIRED_CONVOYS_REQUIRE_TT: "Dieser Vertrag erfordert §YKonvois§! um die angeforderte Ausrüstung zu transportieren."
 PURCHASE_CONTRACT_REQUIRED_CONVOYS_SUNK_IN_LAST_DAYS: " §YKonvois§! an diesen Vertrag gebunden sind §Rsunk§! im Seekampf in den letzten $DAYS|Y$ Tagen."
-
 PURCHASE_CONTRACT_REQUIRED_CONVOYS_DISTURBED: "Die §YKonvois§! wurden §Rgestört§! Dies wirkt sich auf die Lieferung der Ausrüstung und die Vertragsdauer aus."
 PURCHASE_CONTRACT_REQUIRED_CONVOYS_RECOVERING: "Die §YKonvois§! wurden §Rgestört§!, erholen sich jedoch derzeit. Dies wirkt sich auf die Lieferung der Ausrüstung und die Vertragsdauer aus."
-
 PURCHASE_CONTRACT_REQUIRED_CIVS_DISTURBED: "Die §YZivilfabriken§! wurden §Rgestört§!. Dies wirkt sich auf die Lieferung der Ausrüstung und die Vertragsdauer aus."
 PURCHASE_CONTRACT_REQUIRED_CIVS_DISTURBED_NOEFFECT: "Die §YZivilfabriken§! wurden §Rgestört§!, aber die angeforderte Lieferung wird trotzdem erfüllt."
 PURCHASE_CONTRACT_REQUIRED_CIVS_RECOVERING: "Die §YZivilfabriken§! wurden §Rgestört§!, erholen sich jedoch derzeit. Dies wirkt sich auf die Lieferung der Ausrüstung und die Vertragsdauer aus."
-
 PURCHASE_CONTRACT_CIVS_TITLE_TT: "§YAzugewiesene zivile Fabriken§!"
 PURCHASE_CONTRACT_ALL_PAYMENT_COLLECTED_TT: "Alle erforderlichen §YWirtschaftsleistungen§! wurde abgeholt und wartet auf die Auslieferung."
 PURCHASE_CONTRACT_REQUIRED_CIVS_EXPLANATION_TT: "Dies ist die Anzahl der Fabriken, die der Käufer zur Bezahlung des Vertrags zugewiesen hat. Je mehr Fabriken zugewiesen werden, desto weniger Lieferungen gibt es."
-
 PURCHASE_CONTRACT_IS_ALLOCATING_TT: "$COUNTRY|Y$ weist Folgendes zu:"
 PURCHASE_CONTRACT_CIVILIAN_FACTORIES_TT: "Zivile Fabriken"
 PURCHASE_CONTRACT_CONVOYS_TT: "Konvois"
@@ -155,7 +143,6 @@ EDIT_MARKET_COUNTRY_STOCKPILE_CHANGE_LOW_VALUE: "$AMOUNT|^+=1$"
 EDIT_MARKET_COUNTRY_STOCKPILE_CHANGE_HIGH_VALUE: "$AMOUNT|^+=0$"
 EDIT_MARKET_COUNTRY_STOCKPILE_CHANGE_ADD_TOOLTIP: "Dem Markt hinzugefügt: $AMOUNT$"
 EDIT_MARKET_COUNTRY_STOCKPILE_CHANGE_REMOVE_TOOLTIP: "Vom Markt entfernt: $AMOUNT$"
-
 INTERNATIONAL_MARKET_ONE_CONVOY_FOR_CONVOYS: "Bei Konvoiverträgen wird jeweils nur ein Konvoi zugewiesen."
 INTERNATIONAL_MARKET_CANCEL_POPUP_TITLE: "Vertrag stornieren"
 INTERNATIONAL_MARKET_CANCEL_POPUP_DESC: "Sind Sie sicher, dass Sie Ihren Vertrag mit $COUNTRY|Y$ §Rstornieren§! möchten?"
@@ -249,7 +236,6 @@ INTERNATIONAL_MARKET_CIC_BANK: "$CIC_BANK_HEADER$: £civ_factory_output£ $VALUE
 INTERNATIONAL_MARKET_ADD_TO_STOCKPILE_BUTTON_TOOLTIP: "Füge Ausrüstung aus deinem §YVorrat§! dem Markt hinzu. Damit Länder, die §YMarktzugang§! haben sie für £civ_factory_output£ §YWirtschaftskraft§! kaufen können!"
 INTERNATIONAL_MARKET_OPTIONS: "Marktoptionen"
 INTERNATIONAL_MARKET_NO_TRADE_ROUTE_FOR_CONTRACT: "§RSie haben keine gültige Handelsverbindung§! in dieses Land, sodass Sie keinen Vertrag mit ihnen abschließen können."
-
 INTERNATIONAL_MARKET_REQUEST_AUTOMATION_WINDOW_INFO: "§GWählen§! welche automatisierten Optionen Sie aktiv haben möchten."
 INTERNATIONAL_MARKET_REQUEST_AUTOMATION_AUTO_ACCEPT_MARKET_ACCESS_DESC: "§YMarktzugang erhalten§! automatisch akzeptieren"
 INTERNATIONAL_MARKET_REQUEST_AUTOMATION_AUTO_ACCEPT_MARKET_ACCESS_TOOLTIP: "§GKlick§! um die automatische Annahme aller §YMarktzugangangebote§! zu deaktivieren. Dadurch werden Anfragen von anderen Spielern nicht automatisch akzeptiert."
@@ -257,16 +243,13 @@ INTERNATIONAL_MARKET_REQUEST_AUTOMATION_AUTO_SEND_MARKET_ACCESS_DESC: "§YMarktz
 INTERNATIONAL_MARKET_REQUEST_AUTOMATION_AUTO_SEND_MARKET_ACCESS_TOOLTIP: "§GKlick§! um das automatische Versenden von §YMarktzugang anbieten§! zu deaktivieren. Diese werden nicht an Länder gesendet, die von einem Spieler kontrolliert werden."
 INTERNATIONAL_MARKET_REQUEST_AUTOMATION_AUTO_ACCEPT_PURCHASE_DESC: "§YKaufanfragen§! automatisch annehmen"
 INTERNATIONAL_MARKET_REQUEST_AUTOMATION_AUTO_ACCEPT_PURCHASE_TOOLTIP: "§GKlick§! um die automatische Annahme aller §YKaufanfragen§! die an Sie gesendet werden umzuschalten."
-
 INTERNATIONAL_MARKET_PLAYER_STOCKPILE: "Sie haben $AMOUNT|0Y$ $EQUIPMENT|Y$ Ausrüstung auf dem Markt verfügbar."
 INTERNATIONAL_MARKET_OTHER_STOCKPILE: "$COUNTRY|Y$ verfügt über $AMOUNT|0Y$ $EQUIPMENT|Y$ Ausrüstung auf dem Markt."
 INTERNATIONAL_MARKET_SOLD_BY: "Verkauft von $COUNTRY|Y$"
 INTERNATIONAL_MARKET_CREATED_BY: "Erstellt von $COUNTRY|Y$"
-
 INTERNATIONAL_MARKET_FILTER_COUNTRY_BUTTON: "Filtern Sie nach Verkäuferland"
 INTERNATIONAL_MARKET_FILTERED_COUNTRY: "Filterung nach $COUNTRY|Y$"
 INTERNATIONAL_MARKET_FILTER_DEFAULT: "Alle Länder"
-
 INTERNATIONAL_MARKET_DELETE_ALL_CONTRACTS: "Sind Sie sicher, dass Sie Ihre gesamte Ausrüstung vom Markt §Rentfernen§! möchten?"
 INTERNATIONAL_MARKET_DELETE_TARGET_CONTRACT: "Sind Sie sicher, dass Sie $EQUIPMENT|Y$ vom Markt §Rentfernen§! möchten?"
 INTERNATIONAL_MARKET_DELETE_DESC: "Die gesamte Ausrüstung wird zurück in Ihren Vorrat übertragen."

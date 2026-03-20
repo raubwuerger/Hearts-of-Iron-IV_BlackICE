@@ -1,6 +1,4 @@
 ﻿l_german:
- ###### CONTINENT OCEANIA ######
- #### Australia ####
  VICTORY_POINTS_1085:0 "Malaita"
  VICTORY_POINTS_1269:0 "Guadalcanal"
  VICTORY_POINTS_1283:0 "Daru"
@@ -71,7 +69,6 @@
  VICTORY_POINTS_12948:0 "Madura"
  VICTORY_POINTS_12957:0 "Carpentaria"
  VICTORY_POINTS_12990:0 "Esperance"
- #### New Zealand ####
  VICTORY_POINTS_1746:0 "Rotorua"
  VICTORY_POINTS_4718:0 "Tauranga"
  VICTORY_POINTS_7692:0 "Palmerston Nord"
@@ -79,4 +76,3 @@
  VICTORY_POINTS_8232:0 "Queenstown"
  VICTORY_POINTS_8241:0 "Invercargill"
  VICTORY_POINTS_12632:0 "Nelson"
-### EOF ###

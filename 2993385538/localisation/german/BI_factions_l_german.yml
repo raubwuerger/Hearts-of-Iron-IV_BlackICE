@@ -1,84 +1,149 @@
 ﻿l_german:
-|___KY000334___|	"Auswärtige Diplomatie"
-|___KY000335___|	"Armeeausbau"
-|___KY000336___|	"Seemacht"
-|___KY000337___|	"Luftmacht"
-|___KY000338___|	"Strategische Ziele"
- 
-|___KY000340___|	"Amerikanische Länder, die demokratisch sind oder mindestens |___CC000300___|75 %|___CC000301___| Unterstützung für demokratische Parteien insgesamt haben"
-|___KY000341___|	"Mitglieder des Völkerbundes, die unserer Fraktion angehören oder eine Meinung von 50 oder höher haben"
-|___KY000342___|	"Mindestens |___CC000302___|1|___CC000303___| Fraktionsmitglied kontrolliert ein |___CC000304___||___NE000159___||___CC000305___|"
-|___KY000343___|	"Garantierte Kostensenkung um 30 %"
- 
-|___KY000345___|	"Die Republik China hat sich als wertvoller Verbündeter und Testfeld für neue Waffen erwiesen. Mit dem Wohlstand Chinas wird sich auch unsere Position auf der Weltbühne verbessern."
- 
-|___KY000347___|	"Kontrolle über Pantelleria"
-|___KY000348___|	"Der Besitz von Pantelleria würde es ermöglichen, die Versorgungslinien des Feindes zu unterbrechen und Macht im gesamten zentralen Mittelmeerraum auszuüben."
-|___KY000349___|	"Luftfahrtproduktion"
-|___KY000350___|	"Der Wohlstand der Liga"
-|___KY000351___|	"Durch die Stärkung unseres Ansehens innerhalb der Liga können wir sicherstellen, dass der globale Handel zu unseren Gunsten funktioniert."
-|___KY000352___|	"Arsenal der Demokratie"
-|___KY000353___|	"Der einzige Weg, die Welt vor der faschistischen Bedrohung zu retten, ist die Produktion einer größeren Menge und Qualität von Waffen."
-|___KY000354___|	"Gute Nachbarschaftspolitik"
-|___KY000355___|	"Die Monroe-Doktrin hat in den letzten Jahren einige Rückschläge erlitten, aber wenn wir die Selbstbestimmung bekräftigen und mit Amerika Handel treiben, können wir alle prosperieren."
-|___KY000356___|	" Amerikanische Länder, die sich in einer |___CC000310___|Fraktion|___CC000311___| befinden oder eine |___CC000312___|Meinung|___CC000313___| von mehr als |___CC000314___|50|___CC000315___| von | ___NS000043___|"
-|___KY000357___|	"Ein Leben in der Landwirtschaft"
-|___KY000358___|	"Ernährungssicherheit und Überfluss"
-|___KY000359___|	"Mindestens |___CC000316___|2000|___CC000317___| |___IC000010___||10 in der Fraktion produziert. Derzeit: |___NS000044___|"
-|___KY000360___|	"Kontrolle der Produktionsmittel"
-|___KY000361___|	"Die faschistische und imperiale Wirtschaft übertrifft weiterhin die der Sowjetunion. Wir müssen eine massive Industrialisierung vorantreiben, um gleiche Wettbewerbsbedingungen zu schaffen."
-|___KY000362___|	"Pax Britannica"
-|___KY000363___|	"Das Britische Empire ist das größte und einflussreichste Land der Welt, unübertroffen in seiner Macht und Dominanz. Der Status quo kommt uns sehr zugute und muss erhalten bleiben."
-|___KY000364___|	"20 % weltweite Spannungen"
-|___KY000365___|	"0 % weltweite Spannungen"
-|___KY000366___|	"Betrag |___IC000011___||8 , |___IC000012___||3 , |___IC000013___||1  & |___IC000014___||10  in Fraktionskontrolle|___NL000085___|"
-|___KY000367___|	"Global |___IC000015___||8 , |___IC000016___||3 , |___IC000017___||1  & |___IC000018___||10 "
-|___KY000368___|	"Gesamtzahl der Fraktionsfabriken"
-|___KY000369___|	"Gesamtzahl der globalen Fabriken"
-|___KY000370___|	"Mindestens produziert |___CC000318___|20000|___CC000319___| |___CC000320___||___NE000161___||___CC000321___| (|___CC000322___||___NS000045___||___CC000323___|), |___CC000324___|1000|___CC000325___| |___CC000326___||___NE000162___||___CC000327___| (|___CC000328___||___NS000046___||___CC000329___|), |___CC000330___|1000|___CC000331___| |___CC000332___||___NE000163___||___CC000333___| (|___CC000334___||___NS000047___||___CC000335___|) & |___CC000336___|500|___CC000337___| |___CC000338___||___NE000164___||___CC000339___| (|___CC000340___||___NS000048___||___CC000341___|) in Faction"
-|___KY000371___|	"Tube Alloys"
-|___KY000372___|	"mindestens |___NS000049___| |___IC000019___||10 in Fraktion"
-|___KY000373___|	"mindestens |___NS000050___| |___IC000020___||7 in Fraktion"
-|___KY000374___|	"mindestens |___NS000051___| |___IC000021___||9 in Fraktion"
-|___KY000375___|	"mindestens |___NS000052___| |___IC000022___||8 in Fraktion"
-|___KY000376___|	"Mehr als |___NE000165___| Konvois in der Fraktion produziert (derzeit: |___NE000166___|)"
-|___KY000377___|	"Mehr als |___NE000167___| Konvois in der Fraktion produziert"
-|___KY000378___|	"Füge |___CC000342___|1 Militärfabrik|___CC000343___| in der Hauptstadt hinzu"
-|___KY000379___|	"Füge |___NS000053___| Erfahrung zu allen aktiven Wissenschaftlern hinzu"
-|___KY000380___|	"|___CC000344___|Jedes Fraktionsmitglied|___CC000345___|, das mindestens |___CC000346___|250 Fabriken|___CC000347___| kontrolliert:"
-|___KY000381___|	"Jedes Fraktionsmitglied ist das erste weltweit, das in der Lage ist, eine |___CC000348___|Atombombe|___CC000349___| herzustellen."
-|___KY000382___|	"Jedes Land, das nicht zu unserer Fraktion gehört, ist das erste Land weltweit, das in der Lage ist, eine |___CC000350___|Atombombe|___CC000351___| herzustellen."
- 
-|___KY000384___|	"|___CC000352___|Jedes Fraktionsmitglied|___CC000353___|, das einen der folgenden Staaten besitzt:"
-|___KY000385___|	"|___CC000354___|Jedes Fraktionsmitglied|___CC000355___| mit einer |___CC000356___|Atomforschungsanlage|___CC000357___|:"
-|___KY000386___|	"|___CC000358___|Jedes Fraktionsmitglied|___CC000359___| mit einem |___CC000360___|Geheimdienst|___CC000361___|:"
-|___KY000387___|	"|___CC000362___|Jedes Fraktionsmitglied|___CC000363___| mit einer |___CC000364___|Einrichtung|___CC000365___|:"
-|___KY000388___|	"|___CC000366___|Jedes Fraktionsmitglied|___CC000367___| mit mindestens |___CC000368___|1|___CC000369___| Werft:"
-|___KY000389___|	"|___CC000370___|Jedes Fraktionsmitglied|___CC000371___| mit mindestens |___CC000372___|5|___CC000373___| Werften:"
-|___KY000390___|	"|___CC000374___|Jedes Fraktionsmitglied|___CC000375___| produziert mindestens |___CC000376___|150 Nahrung|___CC000377___|:"
-|___KY000391___|	"|___CC000378___|Jedes Fraktionsmitglied|___CC000379___| mit mindestens 20 % Einfluss:"
-|___KY000392___|	"|___CC000380___|Jedes Fraktionsmitglied|___CC000381___| mit weniger als 30 % Einfluss:"
-|___KY000393___|	"|___CC000382___|Alle anderen Fraktionsmitglieder|___CC000383___|"
-|___KY000394___|	"|___CC000384___|Jedes Fraktionsmitglied|___CC000385___| mit mindestens |___CC000386___|50|___CC000387___| Militärfabriken:"
-|___KY000395___|	"|___CC000388___|Jedes Fraktionsmitglied|___CC000389___| mit mindestens |___CC000390___|50|___CC000391___| Zivilfabriken:"
-|___KY000396___|	"|___CC000392___|Jedes Fraktionsmitglied|___CC000393___| mit mindestens |___CC000394___|50|___CC000395___| Strategische Bomber:"
-|___KY000397___|	"|___CC000396___|Jedes Fraktionsmitglied|___CC000397___| mit mindestens |___CC000398___|50|___CC000399___| Öl:"
-|___KY000398___|	"|___CC000400___|Jedes Fraktionsmitglied|___CC000401___| mit mindestens |___CC000402___|2 Millionen|___CC000403___| Armee im Einsatz:"
-|___KY000399___|	"|___CC000404___|Jedes Fraktionsmitglied|___CC000405___| mit |___CC000406___|Marines|___CC000407___| erforscht:"
-|___KY000400___|	"|___CC000408___|Jedes Fraktionsmitglied|___CC000409___| mit |___CC000410___|Fallschirmjägern|___CC000411___| erforscht:"
-|___KY000401___|	"|___CC000412___|Jedes Fraktionsmitglied|___CC000413___| mit |___CC000414___|Bergsteiger|___CC000415___| erforscht:"
-|___KY000402___|	"|___CC000416___|Jedes Fraktionsmitglied|___CC000417___| mit mindestens |___CC000418___|25|___CC000419___| U-Booten:"
-|___KY000403___|	"|___CC000420___|Jedes Fraktionsmitglied|___CC000421___| mit mindestens |___CC000422___|25|___CC000423___| Screening-Schiffen:"
-|___KY000404___|	"|___CC000424___|Jedes Fraktionsmitglied|___CC000425___| mit mindestens |___CC000426___|250|___CC000427___| Kampfflugzeuge:"
-|___KY000405___|	"|___CC000428___|Jedes Fraktionsmitglied|___CC000429___|"
-|___KY000406___|	"Terrain halten"
-|___KY000407___|	"Wir müssen die Welt vor unprovozierten Angriffen verteidigen"
-|___KY000408___|	"Staaten im Besitz der Fraktion"
-|___KY000409___|	"Staaten im Besitz und unter Kontrolle der Fraktion"
 FOCUS_FILTER_FOREIGN_DIPLOMACY_FACTION_GOAL_FILTER:	"Außenpolitik"
 FOCUS_FILTER_ARMY_FACTION_GOAL_FILTER:	"Ausbau der Streitkräfte"
 FOCUS_FILTER_NAVY_FACTION_GOAL_FILTER:	"Seemacht"
 FOCUS_FILTER_AIR_FACTION_GOAL_FILTER:	"Luftüberlegenheit"
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOCUS_FILTER_CP_FACTION_GOAL_FILTER:	"Strategische Ziele"
+COLLECTION_COUNTRIES_AMERICAS:	"Länder in Nord- und Südamerika"
+COLLECTION_COUNTRIES_AMERICAS_DEMOCRACY:	"Amerikanische Länder, die demokratisch sind oder mindestens §G75 %§! Unterstützung für die demokratischen Parteien insgesamt haben"|"
+COLLECTION_LON_LOVES_OR_FACTION_MEMBERS:	"Mitglieder des Völkerbundes, die unserer Fraktion angehören oder eine Meinung von 50 oder höher haben"|"
+COLLECTION_FACTION_NUCLEAR_FACILITY:	"Mindestens §Y1§! Fraktionsmitglied kontrolliert ein §Y$nuclear_facility$§!"
+guarantee_cost_reduction_25:	"Garantierte Kostensenkung um 30 %"
+strengthen_china_goal_name:	"Stärkung Chinas"
+strengthen_china_goal_desc:	"Die Republik China hat sich als wertvoller Verbündeter und Testfeld für neue Waffen erwiesen; unsere Position auf der Weltbühne wird sich verbessern, wenn China prosperiert"
+china_ww1s:	"China verfügt über mindestens 30 §H$ww1_doctrine$§! (§g[?CHI.modifier@ww1_doctrine_level]§!)"
+control_pantelleria_goal_name:	"Kontrolle über Pantelleria"
+control_pantelleria_goal_desc:	"Der Besitz von Pantelleria würde es ermöglichen, die Versorgungslinien des Feindes zu unterbrechen und Macht im gesamten zentralen Mittelmeerraum auszuüben."
+air_production_goal_name:	"Luftwaffenproduktion"
+lon_prosper_goal_name:	"Die Liga floriert"
+lon_prosper_goal_desc:	"Indem wir unseren Ruf innerhalb der Liga stärken, können wir sicherstellen, dass der globale Handel zu unseren Gunsten verläuft"
+arsenal_of_democracy_goal_name:	"Arsenal der Demokratie"
+arsenal_of_democracy_goal_desc:	"Der einzige Weg, die Welt vor der faschistischen Bedrohung zu retten, besteht darin, Waffen in größerer Menge und besserer Qualität zu produzieren"
+the_americas_goal_name:	"Politik der guten Nachbarschaft"
+the_americas_goal_desc:	"Die Monroe-Doktrin hat in den letzten Jahren einige Rückschläge erlitten, aber wenn wir Selbstbestimmung bekräftigen und mit den amerikanischen Ländern Handel treiben, können wir alle prosperieren"
+AMERICA_LOVES_OR_FACTION_MEMBERS:	" Amerikanische Länder, die einer §YFraktion§! angehören oder eine §YMeinung§! von mehr als §G50§! haben, von [USA.GetName]"
+farming_life_goal_name:	"Ein Leben als Landwirt"
+farming_life_goal_desc:	"Ernährungssicherheit und Überfluss"
+faction_goal_farming_life_trigger:	"Mindestens §Y2000§! £resources_strip|10 in der Fraktion produziert. Derzeit: [?faction_food_total|Y0]"
+means_production_goal_name:	"Kontrolle über die Produktionsmittel"
+means_productionl_name_desc:	"Die faschistische und die imperiale Wirtschaft übertreffen weiterhin die der Sowjetunion. Wir müssen eine Industrialisierung in großem Maßstab vorantreiben, um gleiche Wettbewerbsbedingungen zu schaffen."
+pax_britannica_goal_name:	"Pax Britannica"
+pax_britannica_desc:	"Das Britische Empire ist das größte und einflussreichste Land der Welt, unübertroffen in seiner Macht und Dominanz. Der Status quo kommt uns sehr zugute und muss erhalten bleiben."
+faction_manifest_pax_britannica_completed_tt:	"20 % weltweite Spannungen"
+faction_manifest_pax_britannica_total_tt:	"0 % weltweite Spannungen"
+faction_manifest_strategic_resource_control_completed_tt:	"Anzahl der £resources_strip|8 , £resources_strip|3 , £resources_strip|1  & £resources_strip|10  unter Fraktionskontrolle\n"
+faction_manifest_strategic_resource_control_total_tt:	"Global £resources_strip|8 , £resources_strip|3 , £resources_strip|1  & £resources_strip|10 "
+faction_manifest_means_production_completed_tt:	"Gesamtzahl der Fraktionsfabriken"
+faction_manifest_means_production_total_tt:	"Gesamtzahl der globalen Fabriken"
+faction_goal_production_quotas_TT:	"Mindestens produziert §Y20000§! §Y$infantry_equipment$§! (§L[?total_infantry]§!), §Y1000§! §Y$artillery_equipment$§! (§L[?total_artillery]§!), §Y1000§! §Y$motorized_equipment$§! (§L[?total_motorized]§!) & §Y500§! §Y$armor$§! (§L[?total_armor]§!) in Fraktion"
+tube_alloys_goal_name:	"Tube Alloys"
+faction_food_goal:	"mindestens [?food_required|Y0] £resources_strip|10 in Fraktion"
+faction_bauxite_goal:	"mindestens [?bauxite_required|Y0] £resources_strip|7 in Fraktion"
+faction_iron_goal:	"mindestens [?iron_required|Y0] £resources_strip|9 in der Fraktion"
+faction_coal_goal:	"mindestens [?coal_required|Y0] £resources_strip|8 in der Fraktion"
+faction_goal_convoy_sufficiency_trigger:	"Mehr als $RIGHT|Y0$ Konvois in der Fraktion produziert (Derzeit: $LEFT|0$)"
+faction_goal_convoy_sufficiency_trigger_temp:	"Mehr als $RIGHT|Y0$ Konvois in der Fraktion produziert"
+ADD_1_MIC_IN_CAPITAL:	"Füge §Y1 Militärfabrik§! in der Hauptstadt hinzu"
+SCIENTIST_ADD_XP:	"Füge [?xp_gain|Y0] Erfahrung für alle aktiven Wissenschaftler hinzu"
+AT_LEAST_250_FACTORIES:	"§YJedes Fraktionsmitglied§!, das mindestens §Y250 Fabriken§!kontrolliert:"
+HAS_FACTION_NUKE:	"Jedes Fraktionsmitglied ist das erste weltweit, das in der Lage ist, eine §YAtombombe§! herzustellen"
+HAS_FACTION_NUKE_NOT:	"Jedes Land, das nicht zu unserer Fraktion gehört, ist das erste weltweit, das in der Lage ist, eine §YAtombombe§! herzustellen"
+EQUIPMENT_SMALL_FIGHTER:	"Kampfflugzeug"
+FACTION_OWNS_LISTED_STATE:	"§YJedes Fraktionsmitglied§!, das einen der Staaten besitzt:"
+FACTION_OWNS_NUCLEAR_FACILITY:	"§YJedes Fraktionsmitglied§! mit einer §YAtomforschungsanlage§!:"
+FACTION_WITH_AGENCY:	"§YJedes Fraktionsmitglied§! mit einem §YGeheimdienst§!:"
+FACTION_WITH_FACILITY:	"§YJedes Fraktionsmitglied§! mit einer §YEinrichtung§!:"
+AT_LEAST_1_DOCKYARD:	"§YJedes Fraktionsmitglied§! mit mindestens §Y1§! Werft:"
+AT_LEAST_5_DOCKYARD:	"§YJedes Fraktionsmitglied§! mit mindestens §Y5§! Werften:"
+AT_LEAST_150_FOOD:	"§YJedes Fraktionsmitglied§! das mindestens §Y150 Nahrung§! produziert:"
+INFLUENCE_ABOVE_20_PERCENT:	"§YJedes Fraktionsmitglied§! mit mindestens 20 % Einfluss:"
+INFLUENCE_BELOW_30_PERCENT:	"§YJedes Fraktionsmitglied§! mit weniger als 30 % Einfluss:"
+EVERY_OTHER_FACTION_MEMBER:	"§YJedes andere Fraktionsmitglied§!"
+AT_LEAST_50_MIC:	"§YJedes Fraktionsmitglied§! mit mindestens §Y50§! Militärfabriken:"
+AT_LEAST_50_CIC:	"§YJedes Fraktionsmitglied§! mit mindestens §Y50§! zivilen Fabriken:"
+FACTION_MEMBERS_WITH_50_BOMBERS:	"§YJedes Fraktionsmitglied§! das mindestens §Y50§! strategische Bomber einsetzt:"
+AT_LEAST_50_OIL:	"§YJedes Fraktionsmitglied§! mit mindestens §Y50§! Öl:"
+HAS_DEPLOYED_AT_LEAST_2M_MANPOWER:	"§YJedes Fraktionsmitglied§! mit mindestens §Y2 Millionen§! Armee im Feld:"
+ALL_FACTION_MEMBERS_WITH_MARINE_TECH:	"§YJedes Fraktionsmitglied§! mit §YMarines§! erforscht:"
+ALL_FACTION_MEMBERS_WITH_PARATROOPER_TECH:	"§YJedes Fraktionsmitglied§! mit §YFallschirmjägern§! erforscht:"
+ALL_FACTION_MEMBERS_WITH_MOUNTAINEER_TECH:	"§YJedes Fraktionsmitglied§! mit §YBergsteiger§! erforscht:"
+FACTION_MEMBERS_WITH_25_SUBMARINES:	"§YJedes Fraktionsmitglied§! mit mindestens §Y25§! U-Booten:"
+FACTION_MEMBERS_WITH_25_SCREENING_SHIPS:	"§YJedes Fraktionsmitglied§! mit mindestens §Y25§! Begleitschiffe:"
+FACTION_MEMBERS_WITH_250_FIGHTERS:	"§YJedes Fraktionsmitglied§! mit mindestens §Y250§! Kampfflugzeugen:"
+ALL_FACTION_MEMBER:	"§YJedes Fraktionsmitglied§!"
+the_allies_goal_name:	"Stellung halten"
+the_allies_desc:	"Wir müssen die Welt vor unprovozierten Angriffen verteidigen"
+COLLECTION_FACTION_OWNED_STATES:	"Staaten im Besitz der Fraktion"
+COLLECTION_FACTION_OWNED_CONTROLLED_STATES:	"Staaten im Besitz und unter der Kontrolle der Fraktion"

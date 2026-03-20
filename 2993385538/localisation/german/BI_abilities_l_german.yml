@@ -9,7 +9,3 @@
  ABILITY_ABILITY_ENCIRCLEMENT_BREAKOUT_DESC:0 "Deine Einheiten bereiten sich auf einen Ausbruch aus ihrer miserablen Position vor."
  makeshift_bridges_trigger_TT:0 "£trigger_no Benötigt 25 Brücken und Angriffsboote zur Aktivierung. \n Die Befehlsgewaltkosten sinken, wenn die Auslöser erfüllt sind."
  ABILITY_TOOLTIP_COST:0 "£command_power_texticon Befehlsgewaltkosten: $VALUE|H$"
- 
- 
- 
- 

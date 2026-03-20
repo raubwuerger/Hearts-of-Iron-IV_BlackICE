@@ -1,5 +1,4 @@
 ﻿l_german:
-### Common Arab Idea's ####
  Arab_Minor:0 "Arabische Minderheit"
  Arab_Minor_desc:0 "Wir sind ein sehr kleiner Akteur auf der gobalen Bühne und haben nicht den Einfluss anderer Nationen"
  Arab_Minor1:0 "Arabisch Klein"
@@ -93,15 +92,11 @@
  arab_eng_advice:0 "Hubert Moresby"
  arab_sov_advice:0 "Iwan Nebogatow"
  Arab_spies:0 "Engagement für die Sache"
- ##### JOR
- #ministers
  JOR_Abdullah:0 "Abdullah I. bin Al-Hussein"
  JOR_ibrahim_hashem:0 "Ibrahim Haschem"
  JOR_tawfik_huda:0 "Tawfik Abu Al-Huda"
  JOR_samir_rifai:0 "Samir Rifai"
  JOR_abdullah_siraj:0 "Abdullah Siraj"
- ##### BMP
- #BMP Advisors
  BMP_amin_al_husseini:0 "Amin al-Husseini"
  BMP_zev_jabotinsky:0 "Ze'ev Schabotinski"
  BMP_haim_moshe_shapira:0 "Haim-Moshe Schapira"
@@ -116,7 +111,6 @@
  BMP_palestine_railways:0 "Palästina-Eisenbahnen"
  BMP_palestine_electric_company:0 "Palästinensische Elektrizitätsgesellschaft"
  BMP_orde_wingate1:0 "Orde Wingate"
- #BMP National Spirits
  BMP_jewish_militias1:0 "Jüdische Milizen"
  BMP_jewish_militias1_desc:0 "Um die palästinensischen Polizeikräfte bei der Niederschlagung des arabischen Aufstands zu unterstützen, haben wir Juden für die vom Mandat geförderten Milizen rekrutiert."
  BMP_jewish_immigration:0 "Jüdische Einwanderung"
@@ -137,7 +131,6 @@
  BMP_peel_commission_desc:0 "Die Briten haben Lord Peel mit der Leitung einer Kommission beauftragt, die die Ursachen für die Unruhen im Mandatsgebiet untersuchen soll. Glücklicherweise scheint sich das Chaos der Revolten und des Generalstreiks während der Untersuchung gelegt zu haben. Die Kommission wird ihren Bericht voraussichtlich im April veröffentlichen."
  BMP_Riots:0 "Unruhen"
  BMP_Riots_desc:0 "Die Nation befindet sich fast in einem Zustand der totalen Revolte, ein gewisses Gleichgewicht der Ordnung muss sofort wiederhergestellt werden!"
- #ISR Advisors
  ISR_generic_fascist_demagogue:0 "Abba Ahimeir"
  ISR_generic_democratic_reformer:0 "David Ben-Gurion"
  ISR_generic_communist_revolutionary:0 "Meir Vilner"
@@ -156,13 +149,10 @@
  ISR_israel_electric_corporation:0 "Israelische Elektronische Gesellschaft"
  ISR_yitzhak_rabin:0 "Jitzhak Rabin"
  ISR_ernst_david_bergmann:0 "Ernst David Bergmann"
- #ISR National Spirit
  ISR_jewish_immigration:0 "Jüdische Einwanderung"
  ISR_jewish_immigration_desc:0 "Ob sie in ihre Heimat zurückkehren, der Verfolgung entkommen oder aus dem vom Krieg verwüsteten Europa fliehen wollen - Juden aus aller Welt kommen nach Israel."
  ISR_unexpected_war:0 "Unerwarteter Krieg"
  ISR_unexpected_war_desc:0 "Viele unserer Bürger hatten erwartet, die britische Herrschaft friedlich zu verlassen. Jetzt protestieren sie gegen die Kriegsanstrengungen und senken die Moral, wo immer sie hingehen."
- ########## IRAQ
- ###Ideas###
  IRQ_iraqi_navy:0 "Fluss-Werften"
  IRQ_iraqi_navy_desc:0 "Unsere kleine Küste erlaubt es uns nicht, Werften zu bauen. Unsere einzige Möglichkeit ist der Bau von Werften an den Flüssen Tigris und Euphrat."
  IRQ_nationalism:0 "Freie Irak-Bewegung"
@@ -173,7 +163,6 @@
  IRQ_internal_conflict2_desc:0 "Interner Konflikt"
  IRQ_revolt:0 "Schiitische Revolten"
  IRQ_revolt_desc:0 "Die Rumaytha- und Diwaniyya-Revolte von 1935 oder die irakischen Schiitenrevolten von 1935-1936 waren eine Reihe von Aufständen schiitischer Stämme in der Region am mittleren Euphrat gegen die sunnitisch dominierte Autorität des Königreichs Irak."
- #In each revolt, the response of the Iraqi government was to use military force to crush the rebellions with little mercy. #removed because now the player does it or can choose not to
  IRQ_treaty:0 "Anglo-irakischer Vertrag"
  IRQ_treaty_desc:0 "Der anglo-irakische Vertrag gewährt dem Vereinigten Königreich die freie Durchreise durch unser Land und den Zugang zu unseren Ölreserven, im Gegenzug bieten sie eine gewisse militärische Entwicklung. Die ungleichen Bedingungen des Vertrages führten jedoch zu einer Unterströmung von Unmut"
  IRQ_ambushed_1:0 "Irakischer Hinterhalt!"
@@ -183,7 +172,6 @@
  IRQ_can_prepare_more_tt:0 "Es gibt mehrere Positionen, die wir besetzen können, bevor wir zuschlagen. Je mehr wir planen, desto besser wird unser Hinterhalt sein."
  IRQ_Ambush:0 "Greift die Briten aus dem Hinterhalt an!"
  IRQ_Ambush_desc:0 "Lasst uns diesen Abschaum aus unserem Land vertreiben, für den Ruhm des Irak!"
- ###Ministers###
  IRQ_ghazi_faisal:0 "Ghazi bin Faisal"
  IRQ_abd_al-ilah:0 "Abd al-Ilah von Hedschas"
  IRQ_sherif_sharaf:0 "Scherif Scharaf"
@@ -206,7 +194,6 @@
  IRQ_ibrahim_kemal:0 "Ibrahim Kemal"
  IRQ_al-shabibi:0 "Mohammed Ridha Al-Shabibi"
  IRQ_nasrat_farisi:0 "Nasrat al-Farisi"
- ### IEA
  IEA_patrols: "Italienische Patrouillen"
  IEA_patrols_desc:0 "Italienische Truppen patrouillieren nun regelmäßig in dem Gebiet, so dass unsere Projekte ungehindert durchgeführt werden können."
  IEA_kings_men:0 "Arbegnocks"
@@ -233,11 +220,9 @@
  IEA_francesc_caroselli_desc:0 "Gouverneur von Somaliland"
  IEA_emilio_faldella:0 "Emilio Faldella"
  IEA_vezio_lucchini:0 "Vezio Lucchini"
- ########## AFG
  AFG2_graveyard_of_empires:0 "Der Friedhof der Reiche"
  AFG2_graveyard_of_empires_desc:0 "Afghanistan ist als "Friedhof der Reiche" bekannt, da es keinem Invasor gelungen ist, das Land erfolgreich zu besetzen, da das Land zu sehr von Stämmen geprägt ist und die zentrale Autorität aus Kabul nicht akzeptieren will. Dies ist auf die geografische Lage des Landes zurückzuführen, das von Hügeln und Bergen bedeckt ist. Aufgrund dieser geografischen Lage hat die Hauptstadt Kabul Schwierigkeiten, ihre Autorität über den Rest des Landes auszuüben."
  AFG2_opium_trade:0 "Afghanischer Opiumhandel"
- ##### PER
  PER_politics:0 "Schule für Politik"
  PER_medicine:0 "Medizinische Fakultät"
  PER_aioc_idea:0 "Anglo-iranische Ölgesellschaft (AIOC)"
@@ -288,6 +273,3 @@
  PER_ghasem_kashani:0 "Abol-Ghasem Kashani"
  PER_religion:0 "Religiöse Zugeständnisse"
  Per_culture:0 "Persische Kultur"
- 
- 
- 

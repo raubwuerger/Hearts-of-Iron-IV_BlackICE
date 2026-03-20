@@ -147,6 +147,13 @@ CONFIRMASSIGNUNITS_CONFIRM_DESC:0	"Sind Sie sicher, dass Sie die §HNeuzuweisung
 CAN_NOT_UNASSIGN_BORDER_WAR:0	"§RDie Zuweisung von Einheiten zu einem Grenzkrieg ist nicht möglich!§!"
 OPERATION_SELECT:0	"§GKlick zum Auswählen§!"
 OPERATION_DESELECT:0	"§GKlick zum Abwählen§!"
+OPERATION_OPEN:0	"§GKlick§! zum Öffnen"
+OPERATION_ADD:0	"§GKlick§! zum Hinzufügen"
+OPERATION_REMOVE:0	"§GKlick§! zum Entfernen"
+SHIFT_CLICK_TO_SELECT_ALL:0	"§GShift+Klick§! zum Auswählen aller"
+SHIFT_CLICK_TO_DESELECT_ALL:0	"§GShift+Klick§! zum Aufheben der Auswahl"
+SHIFT_CLICK_TO_ADD_ALL:0	"§GShift+Klick§! zum Hinzufügen aller"
+SHIFT_CLICK_TO_REMOVE_ALL:0	"§GShift+Klick§! um alle zu entfernen"
 CONFIRMUNASSIGNTEXT:0	"Sind Sie sicher, dass Sie $NAME|H$ abziehen wollen?"
 CONFIRDISBANDGROUPTEXT:2	"Alle §GArmeen§! die keine §YDivisionen§! haben, werden automatisch §Rgelöscht§! und alle Aufträge werden §Raufgehoben§!"
 REASSIGN_FULL_ORDERS_GROUP_HEADER:1	"Armeen neu zuordnen"
@@ -154,9 +161,22 @@ REASSIGN_FULL_ORDERS_GROUP_TEXT:2	"Alle §YArmeen§!, die keine §YDivisionen§!
 REASSIGN_ALL_SHIPS_HEADER:0	"Kampfgruppe neu zuweisen"
 REASSIGN_ALL_SHIPS_TEXT:0	"Bist du sicher, dass du alle Schiffe von $TASKFORCES|H$ zu $PARENT|H$ zuordnen und die leere Kampfgruppen §Rauflösen§! willst?"
 REASSIGN_ALL_TASKFORCES_HEADER:0	"Flotten neu zuordnen"
+
+
+
+
+
+
+
+
+
+
+CONFIRMCHANGE_SC_IN_TRANSFER_TEXT:	"$NAME|H$ ist bereits einer anderen §GArmee§! zugewiesen, die als §YFreiwillige§! entsandt wurde. \nMöchtest du den §RKommandanten§! wirklich §Gneu zuweisen§!?"
 CONFIRMCHANGE_GROUP_LEADER_IN_TRANSFER_TEXT:1	"$NAME|H$ ist bereits einer anderen §GArmee§! zugewiesen, die als §YFreiwillige§! entsandt wurde.\nSind Sie sicher, dass Sie den §GBefehlshaber§! §Rneu zuweisen§! wollen?"
 CONFIRMCHANGE_NAVY_LEADER:0	"Den Kommandanten neu zuweisen"
-CONFIRMCHANGE_NAVY_LEADER_TEXT:0	"$NAME|H$ ist bereits einer anderen §GFlotte§! zugewiesen und wird neu zugewiesen.\nSind Sie sicher, dass Sie den §GKommandant§! §Rneu zuweisen§! wollen?"
+
+
+
 CONFIRMCHANGE_UNIT_TEMPLATE:1	"Divisionsvorlage ändern"
 CONFIRMCHANGE_UNIT_TEMPLATE_SINGLE:1	"Sind Sie sicher, dass Sie die §YDivisionsvorlage§! in $TEMPLATE|H$ für diese §YEinheit§! §Yändern§! wollen? Es kann eine Weile dauern, bis die neue Ausrüstung eintrifft."
 CONFIRMCHANGE_UNIT_TEMPLATE_MULTI:1	"Sind Sie sicher, dass Sie die §YDivisionsvorlagen§! zu $TEMPLATE|H$ für diese $COUNT|Y$ §YEinheiten§! §Yändern§! wollen? Es kann eine Weile dauern, bis die neuen Geräte eintreffen."
@@ -165,11 +185,35 @@ CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NEEDED_NOT_ENOUGHT:1	"$AMOUNT|0H$ $EQUIPME
 CONFIRMCHANGE_UNIT_TEMPLATE_GAIN:0	"$AMOUNT|0H$ $EQUIPMENT$"
 CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NOT_NEEDED:0	"Es wird keine zusätzliche Ausrüstung benötigt."
 CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NEEDED_TITLE:1	"Wir brauchen:"
+
+
 FE_CONTENT:0	"Inhalt"
 DLC_NEWITEMINSTALLED_TITLE:0	"Neuer Gegenstand installiert"
 DLC_NEWITEMINSTALLED_DESC:0	"$NAME$ wurde installiert, du solltest EU4 neu starten."
+
+
+
+
+
+
+
+
+
+
+PROGRESS_RATIO_DESC_TOTAL:	"\nvon $TOTAL_NAME|Y$"
+
+PROGRESS_TOTAL_AMOUNT:	"§YGesamtbetrag§!"
+
+
+
+
+
+
 MUSIC_CUR_PLAYING:0	"Derzeit gespielte Musik: '$MUSIC|Y$'."
 MUSIC_NO_CUR_PLAYING:0	"Im Moment wird keine Musik gespielt."
+
+
+
 GAME_START_WHEN_ALL_READY:0	"Das Spiel beginnt, sobald alle Spieler bereit sind."
 COUNTRY_LOCKED_BY_SERVER:0	"$COUNTRY$ ist durch den Server gesperrt."
 FE_IRONMAN:0	"Ironman-Modus"
@@ -189,11 +233,35 @@ KNOWN_SHIPS:0	"Bekannte Schiffe:"
 DIVISION_TEMPLATE_HEADER:0	"$AMOUNT|H$ von $TEMPLATE|H$ ($COUNTRY|H$)"
 DIVISION_TEMPLATE_HEADER_FRIEND:0	"$AMOUNT|H$ von $TEMPLATE|H$ ($COUNTRY|G$)"
 DIVISION_TEMPLATE_HEADER_HOSTILE:0	"$AMOUNT|H$ von $TEMPLATE|H$ ($COUNTRY|R$)"
+
+
 RAILWAY_GUN_HEADER_MULTIPLE:0	"$COUNT|Y$ Eisenbahngeschütze ($COUNTRY|H$)"
 RAILWAY_GUN_NAME_PATTERN:0	"$VARIANT$ $NR$"
 PLAYER_AI_PREFS_DISABLED:0	"Diese Option ist nur im Mehrspielermodus erlaubt."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ACHIEVEMENTS_DISABLED_WRONG_PLAYER:0	"§YDieses Spiel soll als $COUNTRY$ gespielt werden. Errungenschaften werden deaktiviert.§!"
 ACHIEVEMENTS_ENABLED:0	"Errungenschaften aktiviert."
+
+
+
 SAVEITEM_SYNCED:0	"Cloud synchronisiert: $YESNO$"
 SAVEITEM_MULTIPLAYER:0	"Mehrspieler: $YESNO$"
 SAVEITEM_DIFFICULTY:0	"Schwierigkeit: $DIFFICULTY$"
@@ -206,21 +274,48 @@ LOADING_SAVEGAME_NO_NAME:0	"Savegame laden"
 LOADING_DATABASES:0	"Laden von Datenbanken"
 LOADING_MAP_SPRITES:0	"Sprites laden"
 OLD_SAVEGAME:0	"§RDieser Spielstand stammt aus einer anderen Version des Spiels und kann nicht geladen werden.§!"
+OLD_SAVEGAME_POPUP:0	"Dieser Spielstand stammt aus einer anderen Version des Spiels und kann nicht geladen werden."
 OLD_SAVEGAME_ALLOWED:0	"§RDieser Spielstand stammt aus einer anderen Version des Spiels und kann sich beim Laden unvorhersehbar verhalten.§!"
+
+CANTCONTINUEGAME_TITLE:0	"Spielstand konnte nicht geladen werden"
 CONFIRMUNSYNCTITLE:0	"Datei unsynchronisieren"
 CONFIRMUNSYNCTEXT:0	"Sind Sie sicher, dass Sie $NAME|H$ aus der Cloud entfernen wollen?"
 CLOUDSAVE_SPACE_NEEED:0	"$NEEDED$ wird zum Speichern des Spiels benötigt."
 CLOUDSAVE_UNSYNC_LABEL:0	"Wählen Sie das/die Spiel(e) aus, das/die aus der Cloud entfernt werden soll(en).\nDie Datei(en) wird/werden nicht vom lokalen Computer entfernt."
 CONTENTVIEW_PUBLISH:0	"Veröffentlichen"
 CONTENTVIEW_PUBLISH_HEADER:0	"Im Steam-Workshop veröffentlichen"
+
+
 CONTENTVIEW_UPDATE:0	"Aktualisieren"
 CONTENTVIEW_MANAGE:0	"Verwalten"
 CONTENTVIEW_TERMS:0	"Mit dem Einreichen dieses Artikels stimmst du den Allgemeinen Geschäftsbedingungen für den Workshop zu."
+
+
+
+
+
+
+
+
+
+
+
+
 LOAD_GFX_PDXMAP_TEXTURES:0	"Karte laden (Texturen erstellen)..."
+
 LOAD_GFX_PDXMAP_RIVERS:0	"Laden der Karte(Erstellen von Flüssen)..."
 LOAD_GFX_PDXMAP_STATIC_OBJECTS:0	"Karte laden (Objekte erstellen)..."
+
+
+
+
+
+
 weather_rain_light:0	"Regen"
 rain_light_icon:0	"GFX_modifiers_wetter_icons:1"
+
+
+
 snow_icon:0	"GFX_modifiers_wetter_icons:3"
 weather_blizzard:0	"Schneesturm"
 blizzard_icon:0	"GFX_modifiers_wetter_icons:4"
@@ -233,99 +328,205 @@ water_deep_ocean_icon:0	"GFX_modifiers_terrain_icons:2"
 water_fjords_icon:0	"GFX_modifiers_terrain_icons:3"
 weather_extreme_cold:0	"Extrem kalt"
 weather_very_cold:0	"Sehr kalt"
+
 weather_extreme_hot:0	"Extrem heiß"
+
+
 water_modifier_shark_infested_name:0	"Haifischverseuchte Gewässer"
 water_modifier_shark_infested_icon:0	"GFX_modifiers_weather_icons:6"
 resistance_effect:0	"§HLokaler Wiederstand§!"
 WEATHER_LEVEL_OF_RAINFALL:0	"$VAL|H$ Zentimeter §HRegen§!"
 WEATHER_LEVEL_OF_SNOWFALL:0	"$VAL|H$ Zentimeter §HSchnee§!"
 weather_period_duration:0	"Früheste Wetteränderung auf $VAL|H$"
+
+
 MP_PAUSE_TOOLTIP:0	"$WHO|H$ hat das Spiel pausiert. Das Spiel wird für weitere $SEC|0Y$ Sekunden pausiert, bis $WHO|Y$ oder der Gastgeber die Pause aufhebt."
 CORE_PAUSE:0	"Klicken Sie, um das Spiel zu pausieren"
 CORE_UNPAUSE:0	"Klicken Sie, um die Pause zu beenden"
+
+
+
+
+
+
+
+
+
+
+
+
 MENU_BAR_QUIT:0	"Spiel beenden"
+
 MENU_BAR_GAME_OPTIONS:0	"Spiel Optionen"
 MENU_BAR_GAME_WIKI:0	"Hearts of Iron Wiki"
+
+
+
+
+
+
 MENU_BAR_SAVE_PLAY:0	"Speichern & Spielen"
 MENU_BAR_IRONMAN_SAVE:0	"Ironman Spiel speichern"
+
+
+
 MENU_FORUM:0	"Hearts of Iron IV Forum"
 MENU_FACEBOOK:0	"Hearts of Iron IV Facebook"
 MENU_TWITTER:0	"Hearts of Iron IV Twitter"
+
+
+
 MENU_PRIVACY_POLICY:0	"Datenschutzrichtlinien"
 MAIN_MENU:0	"Hauptmenü"
 MAIN_MENU_BACK:0	"Zurück zum Menü"
 HELP_MENU:0	"Hilfe"
+ACHIEVEMENTS_VIEW:1	"Errungenschaften ansehen"
+
 ACHIEVEMENT_UNLOCKED_WHEN:0	"Werden verdient, wenn:"
 ACHIEVEMENT_AVAILABLE:0	"Verfügbar"
 ACHIEVEMENT_COMPLETED:0	"Abgeschlossen"
 ACHIEVEMENT_NOT_AVAILABLE:0	"Nicht verfügbar"
 DISMISSED_ALERTS_MENU:0	"§HDAbgewiesene Warnungen§!"
+
 DISMISSED_ALERTS_DESC_HEADER:0	"Diese Warnungen werden hinzugefügt:"
+
+
 ENDGAME_SORT_FACTION:0	"Nach Fraktion sortieren"
 ENDGAME_SORT_SCORE:0	"Nach Gesamtpunktzahl sortieren"
 ENDGAME_SORT_ARMY:0	"Nach Armeegröße sortieren"
 ENDGAME_SORT_NAVY:0	"Nach Marinegröße sortieren"
 ENDGAME_SORT_AIR:0	"Nach Luftwaffe sortieren"
 ENDGAME_SORT_INDUSTRY:0	"Nach Industrie sortieren"
+
+
 SCORE_CALC_TOTAL:0	"Armee Wertung: $ARMY$\nMarine-Wertung: $NAVY$\nLuft-Wertung: $AIR$"
 SCORE_CALC_ARMY:0	"Anzahl der Divisionen: $ARMIES$"
 SCORE_CALC_NAVY:0	"Zahl der Flotten: $NAVIES$"
+
+
+
 SCORE_CALC_SCORE_MULT:0	"\nx $MULT$ Punkte-Multiplikator"
 CLOSE:0	"Schließen"
 CLOSE_TOOLTIP:0	"§TClose§!"
+
+
+
+
 FE_NEW:0	"Neues Spiel"
 BACK:0	"Zurück"
+
+
+
+
+
 CREATING_PROVINCE:0	"Provinz erstellen"
+
 CREATING_CHKSUM:0	"Prüfsumme erstellen"
 GENERATING_GRADIENT_BORDERS:0	"Gradientengrenzen generieren"
+
+
+
+
+
+
 FREQUENCY_MONTH:0	"§TMonat(e)§!"
 FREQUENCY_MONTHLY:0	"monatlich"
+
+
+
+
 SUPPLY_CONTROL_EDGE:0	"§YKontrolle der ankommenden Randprovinzen§!: $EDGE|0%$"
 SUPPLY_SUPPORTED_BASE:0	"Lokale Versorgungsbasis: $VAL|+=$"
 SUPPLY_SUPPORTED_BONUS_INPUT:0	"Spillover der Nachbarn ($SPILL|Y%0$): $VAL|+=$"
+
+
+
 AIR_SUPPLY_CHUNK_DESC:0	"Diese Provinz wird unterstützt durch §YLuftversorgung§!.\nAbgeworfene Vorräte: $VAL|+=$"
 WING_AIR_SUPPLY_CAPABILITY:0	"Luftversorgungsfähigkeit: $VAL|+=H$"
 SUPPLY_SUPPORTED_LOCAL_MODIFIERS:0	"Flächenmodifikatoren: $MOD|=%+1$"
 SUPPLY_SUPPORTED_INFRA:0	"§YInfrastruktur§!: $VAL|+=$"
+
+
 SUPPLY_INFO_FOREIGN:0	"§YUnterstützt§!: $SUP$"
 SUPPLY_INCOMING_INFRA_LIMIT:1	"§RLokale Infrastruktur: $VAL$§!"
 SUPPLY_INCOMING_FROM_PREV_INFRA:0	"§R $PREV_BONUS|0%$ der bisherigen Infrastruktur: $PREV$§!"
 SUPPLY_INCOMING_PORT_LIMIT:0	"§RLokale(r) Marinestützpunkt(e) begrenzt auf: $VAL$§!"
 SUPPLY_SUPPORTED_CAP:0	"Bisheriger Engpass$WHERE$: $CAP|R$"
+
 SUPPLY_SUPPORTED_CAP_BOTTLENECK_INFRA:0	" (Infrastruktur in $WHERE|R$)"
+
+
 NAVAL_MISSION_ACTIVATE:0	"Aktivieren Sie"
 NAVAL_MISSION_NAME_NONE:0	"Warten auf Befehle"
 NAVAL_MISSION_NAME_PATROL:0	"Patrouille"
 NAVAL_MISSION_NAME_PATROL_DESC:2	"Befehlen Sie dem Einsatzverband, im Einsatzgebiet der Flotte zu patrouillieren.\n\n Eine Einsatzverband kann immer nur in einer Region patrouillieren.\n Sie wird versuchen, feindliche Flotten in ihrer aktiven Region zu entdecken. Radar und Luftüberlegenheit helfen ihr dabei, den Feind schneller zu entdecken. Beachten Sie, dass der Feind Sie entdecken und angreifen kann, bevor Sie ihn entdecken."
 NAVAL_MISSION_NAME_SEARCH_AND_DESTROY:0	"Suchen und Zerstören"
 NAVAL_MISSION_NAME_STRIKE_FORCE:0	"Eingreiftruppe"
+NAVAL_MISSION_NAME_STRIKE_FORCE_DESC:	"Befiehl der Einsatzgruppe, in der nächstgelegenen Marinebasis zu warten, bis eine feindliche Einsatzgruppe gesichtet wird.\nSobald ein Feind von einer deiner Patrouilleneinsatzgruppen gesichtet wird, wird deine Angriffstruppe ausrücken, um ihn abzufangen. \n\nWenn keine Feinde aktiv bekämpft werden, verbraucht diese Mission $PERCENT|%0G$ Treibstoff."
+
 NAVAL_MISSION_NAME_CONVOY_RAIDING:0	"Konvoiüberfälle"
 NAVAL_MISSION_NAME_CONVOY_RAIDING_DESC:1	"Befehlen Sie einem Einsatzverband, feindliche Konvois in der/den ausgewählten Region(en) zu überfallen."
 NAVAL_MISSION_NAME_CONVOY_ESCORT:0	"Geleitzugsicherung"
 NAVAL_MISSION_NAME_CONVOY_ESCORT_DESC:1	"Beauftragen Sie einen Einsatzverband, Konvois in der/den ausgewählten Region(en) zu eskortieren und vor feindlichen Überfällen zu schützen."
+
+
+
 NAVAL_MISSION_NAME_MINES_PLANTING_DESC:2	"Befehlen Sie einem Einsatzkommando, in den ausgewählten Regionen Seeminen zu legen. Die höchste mögliche Strafe für Ihre Feinde ist:\n"
 NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SHORE_BOMBARDMENT:0	"£mapicon_unit_invalid_orders£ Geringe Küstenbombardierungsfähigkeiten"
 NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SHORE_BOMBARDMENT_DESC:0	"Der Einsatzverband wird aufgrund seiner geringen Küstenbombardierungsfähigkeiten nicht in der Lage sein, Divisionen an der Küstenlinie im Kampf effizient zu unterstützen. Erwägen Sie die Aufnahme von Schiffen mit §Ygroßkalibrigen Geschützen§! in den Einsatzverband."
+
+
+
+
 NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SURFACE_DETECTION:0	"£mapicon_unit_invalid_orders£ Geringe Oberflächenentdeckung"
 NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SURFACE_DETECTION_DESC:0	"Der Einsatztrupp kann potenzielle Feinde nur langsam erkennen. Erwäge, mehr Schiffe mit §YRadars§! und §YFlugzeugkatapulten§! einzusetzen."
+
+
+
+
+
 NAVAL_MISSION_SET_REASON_FOR_SWEEPING_NO_SHIPS:0	"Minenräumung ist §Rnicht möglich§!, weil keines der Schiffe in deiner Flotte eine Fähigkeit dazu hat!"
+
 NAVAL_MISSION_NAME_MINES_SWEEPING:0	"Minenräumung"
 NAVAL_MISSION_NAME_MINES_SWEEPING_DESC:2	"Beauftragen Sie einen Einsatztrupp mit der Suche und Neutralisierung von Seeminen in den ausgewählten Regionen. Die höchste potentielle Strafe, die Sie durch feindliche Minen erleiden können, ist:\n"
+
+
+
+
+
+
+NAVAL_BTN_SET_TARGET_NO_TASKFORCE:	"§RKeine Flotte ausgewählt.§!"
+NAVAL_BTN_SET_TARGET:	"§HOptionen zur Zielauswahl für die Marine§!"
+NAVAL_BTN_SET_TARGET_DELAYED_DESCRIPTION:	"Ermöglicht es dir auszuwählen, welche Schiffstypen deine Einsatzgruppen angreifen sollen und welche sie bei einer Begegnung meiden und vor denen sie sich zurückziehen sollen."
+NAVAL_MISSION_TARGET_IS_SELECTED:	"$TYPE$ §Rwerden nicht in den Kampf verwickelt§!"
+NAVAL_MISSION_TARGET_IS_DESELECTED:	"$TYPE$ §Gwerden in den Kampf verwickelt§!"
 NAVAL_CONFIRM_REMOVE_ALL_REGIONS:0	"Alle Regionen entfernen"
 NAVAL_CONFIRM_REMOVE_ALL_REGIONS_TEXT:0	"Sind Sie sicher, dass Sie §Raus allen Regionen entfernen§! für diese Flotte wünschen?"
+
+
+
+
 NAVAL_STRIKE_FORCE_STATUS_ENGAGING:0	"£trigger_yes£ in Bewegung zum Angriff"
 NAVAL_STRIKE_FORCE_STATUS_ENGAGING_ANOTHER:0	"£trigger_no£ beschäftigt mit einem anderen Angriff"
 NAVAL_STRIKE_FORCE_STATUS_IN_COMBAT:0	"£trigger_no£ bereits im Kampf"
+
+
+
 NAVAL_STRIKE_FORCE_STATUS_VERY_LIKELY_TO_ENGAGE:0	"wird sehr wahrscheinlich angreifen"
 NAVAL_STRIKE_FORCE_STATUS_LIKELY_TO_ENGAGE:0	"wahrscheinlich angreifen"
 NAVAL_STRIKE_FORCE_STATUS_UNLIKELY_TO_ENGAGE:0	"unwahrscheinlich"
 NAVAL_STRIKE_FORCE_STATUS_VERY_UNLIKELY_TO_ENGAGE:0	"sehr unwahrscheinlich, dass er angreift"
+
+
 NAVAL_MISSION_NAME_RESERVE_FLEET_DESC:0	"Eine Reserveflotte wartet im Hafen und verstärkt die anderen Einsatzverbände ihres Schauplatzes, die automatische Verstärkung aktiviert haben."
 NAVAL_MISSION_NAME_HOLD:0	"Halten"
 NAVAL_MISSION_NAME_HOLD_DESC:3	"§GKlick§! oder £h \nBrechen Sie die aktuelle Mission und bewegen Sie sich zum nächstgelegenen Hafen.\n\n§GCtrl+Klick§! oder £ctrl +£h \nBrechen Sie die aktuelle Mission und bleiben Sie an Ort und Stelle.\n--------------\nKapitalschiffe, die in einer Seeprovinz, die an eine Landschlacht angrenzt, auf Halten gesetzt werden, können mit §HShore Bombardment§! aushelfen.\nTrägerschiffe, die auf Halten gesetzt werden, während sie sich auf See befinden, können ihre Tragflächen für Standard-Luftmissionen verwenden."
 NAVAL_MINES_REDUCTION_EFFECT_FROM_SWEEPING:0	"Unsere kombinierten Minenräumfähigkeiten werden die Auswirkungen feindlicher Minen um $FACTOR|0%$ für diesen Einsatzverband reduzieren."
 NAVAL_GUI_BTN_MOVE:0	"§GRechtsklick§! auf die Karte, um §HBewegen§! in die Provinz.\nWenn die Marine eine ausstehende Mission hat, wird sie vorübergehend deaktiviert.\nDie Einheit wird fortfahren, wenn die Formation gesammelt ist."
+
 NAVAL_GUI_BTN_DEACTIVATE:0	"§HBefehl deaktivieren§!"
+
+
 NAVAL_GUI_BTN_MERGE:1	"Zusammenführen der ausgewählten Einsatzverbands"
 NAVAL_GUI_BTN_NEW_FLEET_FROM_EXISTING:1	"§Herstellen einer neuen Flotte§!"
 NAVAL_GUI_BTN_NEW_FLEET_FROM_EXISTING_DESC:0	"Erstelle eine neue Flotte mit Schiffen aus dieser Flotte"
@@ -335,41 +536,80 @@ SHIP_ENGAGEMENT_BUTTON_FIRE_AT_WILL:0	"§HAktuelle Gefechtsregel - §RFeuern nac
 SHIP_ENGAGEMENT_BUTTON_FIRE_AT_WILL_DESC:1	"Die Einsatzverband wird den Feind immer angreifen. Bewegt sich die Flotte durch die Provinz, in der ein Feind gesichtet wurde, oder steht eine Schlacht bevor, wird die Flotte zum Angriff übergehen."
 SHIP_ENGAGEMENT_BUTTON_HOLD_FIRE:0	"§HAktuelle Gefechtsregel - §GGefecht vermeiden§!§!"
 SHIP_ENGAGEMENT_BUTTON_HOLD_FIRE_DESC:1	"Die Einsatzverband versucht zu vermeiden, den Feind anzugreifen, so dass sie sich durch die Provinzen bewegen kann, ohne dass feindliche Schiffe oder Kämpfe im Spiel sind, es sei denn, wir werden entdeckt und der Feind schießt zuerst."
-  
 SHIP_CURRENT_AGGRESSIVENESS_LEVEL:0	"Aktuelle Angriffsregel: $CURRENT|H$"
+
+
+SHIP_RIGHT_CLICK_TO_CHANGE_AGGRESSIVENESS_LEVEL:	"§GKlicken Sie rechts auf _§!, um zu $PREVIOUS|H$ zu wechseln."
+
 SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_2:1	"Bei geringem Risiko angreifen"
 SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_3:1	"Bei mittlerem Risiko angreifen"
 SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_4:1	"Einschalten bei hohem Risiko"
 SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_5:1	"Immer angreifen"
+
+
 SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_3_DESC:1	"Der Einsatzverband wird höhere Risiken beim Angreifen von Gegnern eingehen und Kämpfe gegen Kräfte mit vergleichbarer Stärke aufnehmen."
 SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_4_DESC:1	"Der Einsatzverband geht beim Angreifen von Gegnern ein sehr hohes Risiko ein und kämpft gegen gleich starke Truppen."
 SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_5_DESC:1	"Der Einsatzverband wird immer gegen gepunktete Feinde kämpfen."
+
+
+
+
 CURRENT_ASSIGNED_TASK_FORCE_FOR_PATROL:0	"Es gibt $NUM|H$ Einsatzkräfte, die im Einsatzgebiet der Flotte patrouillieren."
 CURRENT_ASSIGNED_TASK_FORCE_FOR_MISSION:0	"Es gibt $NUM|H$ Einsatzkräfte, die der Mission $MISSION|H$ in dieser Region zugeordnet sind."
-CURRENT_NO_ACTIVE_TASK_FORCE_FOR_SUPREMACY:0	"Aber keine von ihnen ist nahe genug, um §HÜberlegenheit der Marine§! zu geben."
+
+
+
+
+CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE:	"Aber nur $NUM|H$ von ihnen sind nah genug, um §HSeemacht§! zu gewährleisten."
+CURRENT_NO_ACTIVE_TASK_FORCE_FOR_DOMINANCE:	" Aber keiner von ihnen ist nah genug, um §HSeemacht§! zu gewährleisten."
+CURRENT_NO_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT:	"Aber keiner von ihnen ist nah genug, um §HUnterstützung bei einer Seelandung§! zu leisten."
+CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE_WARNING:	"§R£mapicon_unit_no_orders  Einige Einsatzverbände sind zu weit von dieser Region entfernt, um §HSeemacht!§!§! zu gewähren."
+
 SHIP_ENGAGEMENT_BUTTON_GENERAL_DESC:1	"\n--------------\n§GNicht angreifen§! funktioniert nur, wenn:\n - Der Einsatzverband hat keine Befehle\n - Der Einsatzverband patrouilliert\n§GNicht angreifen§! wird automatisch aktiviert, wenn der Einsatzverband besiegt wurde und zu einem Marinestützpunkt zurückkehrt, um repariert zu werden."
 SHIP_ENGAGEMENT_MAP_ICON:1	"Die Einsatzregel für den Einsatzverband lautet: §GNicht angreifen§! die Feinde."
- 
+
+
+
+
+NAVAL_INVASION_PLAN_CAP_REACHED:	"§RObergrenze des Marine-Invasionsplans ($CAP|Y$) erreicht.§!"
+
+
+
+
+
+
+
 NAVAL_PROV_DESC_FORMATION_SPREAD:0	"$SPR|%$"
 NAVAL_FORMATION_SPREAD_TITLE:0	"§HFormationsverteilung§!\n"
 NAVAL_EXCORT_FORMATION_SPREAD_TITLE:0	"§HSicherungs Formationsverteilung§!\n"
 NAVAL_FORMATION_SPREAD_DESC:0	"Wie weit die Flotte verteilt ist. Eine stärker verteilte Flotte deckt ein größeres Gebiet ab, was das Aufspüren des Feindes erleichtert, aber es dauert länger, bis sie sich für eine größere Schlacht zusammengefunden hat, wenn sie benötigt wird. Die Verteilung hängt hauptsächlich von der gewählten Mission ab."
- 
+
+
+
+
+
 NAVAL_PROV_DESC_REBASE_TO:0	"§YCTRL§!+§GRechtsklick§! zum Setzen als §GHeimatbasis§!"
 NAVAL_PROV_DESC_MOVE_TO_DEACTIVATE:0	"§R(Die aktuelle Mission wird deaktiviert)§!"
+
+
+
 FLEET_ACTIVE_IN_REGION:0	"Aktiv in Regionen: $NUM$"
 ALL_TASKFORCES_SELECTED:0	"Missionen - Alle Kampfgruppen"
 MULTIPLE_TASKFORCES_SELECTED:0	"Missionen - Mehrere Kampfgruppen"
 ONE_TASKFORCE_SELECTED:0	"Einsätze - $TASKFORCE$"
+
+
 NAVAL_BASE_TOOLTIP_HOLD_AND_GOTO_NAVALBASE:0	"§Gesteuert + Rechtsklick§! um die Mission abzubrechen und sich zu diesem Marinestützpunkt zu bewegen."
 NAVAL_BASE_TOOLTIP_SET_MAINBASE:1	"§GSteuerung + Rechts-Klick§! zum Einstellen als §GHeimatbasis§!"
-NAVAL_BASE_TOOLTIP_SELECTION_INFO:1	"§GKlick§! zum Auswählen von Truppen, die in diesem Stützpunkt stationiert oder für Reparaturen eingeteilt sind.\n§Gesteuerung + Klick§! zum Umschalten des Reparaturstatus.\n§GShift + Klick§! zum Anzeigen der Reparaturwarteschlange."
+
 NAVAL_BASE_NAVY_LIST_HEADER:0	"Flotten, die in diesem Stützpunkt stationiert sind:"
 NAVAL_BASE_NAVY_ENTRY:0	"$NAME|Y$ ($COUNTRY|Y$)"
 NAVY_HOME_BASE:0	"$NAME$ (Lv:$LVL|Y$)"
 FLEET_NAME:0	"$COUNTRY$ Flotte $NUMBER$"
 FLEET_NAME_USA:0	"USS Marine Gruppe $NUMBER$"
 FLEET_NAME_GER:0	"$COUNTRY$ Flotta $NUMBER$"
+
+
 TASK_FORCE_NAME:0	"$COUNTRY$ Einsatzgruppe $NUMBER$"
 COMPACT_SHIP_VIEW_DESC:0	"$NUM|Y$ Schiffe des Typs $TYPE|Y$."
 COMPACT_SHIP_VIEW_DESC_REQ:0	"$NUM|Y$ Erforderlich und automatisch verstärkt."
@@ -382,38 +622,85 @@ CREATE_NEW_FLEET_DESC:0	"Erstellen Sie eine neue leere Flotte"
 SPLIT_NAVY:0	"Teilen Sie die Flotte"
 NAVY_SPLIT_IN_HALF:1	"Teilen Sie die Flotte in zwei Teile"
 EQUALS:0	"ist gleich"
+
+
+
+
+
 TEMPORARY_BUFF_BOOL:0	"$BUFF_REASON$: $VALUE$ (§H$NUM_DAYS|0$§! Tage)\n"
 TEMPORARY_BUFF:0	"$BUFF_REASON$: §G+$VALUE|%+1$§! (§H$NUM_DAYS|0$§! Tage)\n"
 TEMPORARY_BUFF_NEGATIVE:0	"$BUFF_REASON$: §G$VALUE|%+1$§! (§H$NUM_DAYS|0$§! Tage)\n"
 BAD_TEMPORARY_BUFF:0	"$BUFF_REASON$: §R+$VALUE|%-1$§! (§H$NUM_DAYS|0$§! Tage)\n"
 BAD_TEMPORARY_BUFF_NEGATIVE:0	"$BUFF_REASON$: §R$VALUE|%-1$§! (§H$NUM_DAYS|0$§! Tage)\n"
+
+
 TEMPORARY_BUFF_TOOLTIP_BOOL:0	"$NAME$: $VALUE$\n"
 FEX_STATE_UNINITIALIZED:0	"?"
 FEX_STATE_WAITING:0	"Warten"
+
+
+
+
 FEX_STATE_SUNK:0	"Versenkt"
 SHIP_SUNK_BY:0	"Versenkt durch $NAME|R$"
+
+
 TOTAL_DAMAGED_SHIPS_REPAIR:0	"Bei $SHIPS|Y$ Schiffen, die repariert werden müssen, erhält jedes Schiff $REPAIR|+G%$ pro Stunde zurück."
+
+
+
+
+
+
 NAVAL_COMBAT_SHIP_STRENGTH:0	"Stärke: $STR|%Y$"
 NAVAL_COMBAT_SHIP_ORGANIZATION_FACTOR:0	" - Organisation: $ORG|%Y$"
+
+
+
+
+
+NAVAL_COMBAT_DEFENSE_AIRWING_TOOLTIP_SHOT_DOWN:	"\nVon Verteidigungsflugzeugen abgeschossen:"
+
+
+
+
+
+
+
 CARRIER_PLANES_EVAC_STATUS_DESTROYED:0	"Kein Evakuierungsflugplatz gefunden - seine Flugzeuge sind verloren gegangen."
 CARRUER_PLANES_EVAC_STATUS_STATE:0	"Seine Flugzeuge wurden zum Luftwaffenstützpunkt in $STATE|Y$ in $COUNTRY|Y$ evakuiert."
 AIR_SUPERIORITY_BAR_DISABLED:1	"Wir haben Lufteinheiten in dieser Region, aber entweder führen sie derzeit ihre Missionen nicht aus oder sind nicht in der Lage, die feindliche Luftüberlegenheit zu überwinden."
 AIR_SUPERIORITY_BAR_DISABLED_NO_WINGS:0	"Es sind derzeit keine Lufteinheiten in dieser Region aktiv."
 AIR_SUPERIORITY_BAR:0	"Mit der aktuellen Anzahl von Flugzeugen können wir $WE_COVERAGE|%0Y$ der Region effektiv abdecken."
+
+
+
+
+
 AIR_SUPERIORITY_AA_REDUCTION_OUR:0	"Reduziert durch unsere Luftabwehr in der Region = $RED|G1$"
+AIR_SUPERIORITY_SAM_MISSION_REDUCTION_OUR:0	"Reduziert durch unsere Boden-Luft-Raketen in der Region = $RED|G1$"
+AIR_SUPERIORITY_SAM_MISSION_REDUCTION_ENEMY:0	"Reduziert um die feindlichen Boden-Luft-Raketen in der Region = $RED|R1$"
 AIR_SUPERIORITY_TYPE_1:1	"Derzeit aktive Jäger"
+
+
+
 AIR_SUPERIORITY_FRIENDLY_PRESENCE_TYPE_1:0	"Es sind eigene Jäger in dem Gebiet aktiv"
 AIR_SUPERIORITY_FRIENDLY_PRESENCE_TYPE_2:0	"Es gibt aktive Bomber der eigenen Truppen in dem Gebiet"
 AIR_SUPERIORITY_FRIENDLY_PRESENCE_TYPE_3:0	"Es sind Unterstützungsflugzeuge der eigenen Truppen in dem Gebiet aktiv"
 AIR_SUPERIORITY_FRIENDLY_PRESENCE_TYPE_4:0	"Es gibt aktive Luftabwehrkanonen der eigenen Seite in diesem Gebiet"
+
+
 AIR_SUPERIORITY_ENEMY_TYPE_3:1	"Gegenwärtig aktive feindliche Unterstützungsflugzeuge"
 AIR_SUPERIORITY_ENEMY_TYPE_4:0	"Feindliche Luftabwehrkanonen"
+
 AIR_RESERVES_TYPE_2:0	"Bomber"
 AIR_RESERVES_TYPE_3:0	"Unterstützungsflugzeuge"
 LINECHART_DETAILS_YEARS:0	"Jahre"
 LINECHART_DETAILS_MONTHS:0	"Monate"
 LINECHART_DETAILS_DAYS:0	"Tage"
 REASON_NONE_TOTAL:0	"Gesamt: $SUM|0H$"
+
+
 REASON_AIR_COMBAT:0	"Abgeschossen im Luftkampf: $SUM|0H$"
 REASON_ARMORED_TRAINS:0	"Abgeschossen durch Panzerzüge: $SUM|0H$"
 REASON_ACCIDENT:0	"Verluste durch Unfall: $SUM|0H$"
@@ -427,21 +714,60 @@ AIRVIEW_DETAILS_CHANNEL_5:1	"Unsere Bomber verloren: $VAL|R0$"
 AIRVIEW_DETAILS_CHANNEL_6:1	"Unsere Unterstützung verloren: $VAL|R0$"
 AIRVIEW_DETAILS_CHANNEL_7:3	"Unsere Transporter verloren: $VAL|R0$"
 AIRVIEW_DETAILS_CHANNEL_8:3	"Unsere Bomber sind gestört: $VAL|R1$"
+
+
+
+
+
+AIRVIEW_DETAILS_CHANNEL_14:3	"Feindliche Truppen bombardiert: $VAL|G1$"
+
 AIRVIEW_DETAILS_CHANNEL_16:3	"Feindliche Bomber verloren: $VAL|G0$"
+AIRVIEW_DETAILS_CHANNEL_17:3	"Feindliche Bomber verloren: $VAL|G0$"
 AIRVIEW_DETAILS_CHANNEL_18:0	"Feindliche Transporter verloren: $VAL|G0$"
 AIRVIEW_DETAILS_CHANNEL_19:0	"Feindliche Bomber gestört: $VAL|G1$"
+AIRVIEW_DETAILS_CHANNEL_20:0	"Feindliche Bomber gestört: $VAL|G1$"
+AIRVIEW_DETAILS_CHANNEL_21:1	"Feindliche Züge verloren: $VAL|G0$"
 AIRVIEW_DETAILS_CHANNEL_22:0	"Feindliche Eisenbahnkanonen verloren: $VAL|G1$"
+
+AIRVIEW_DETAILS_CHANNEL_24:0	"Feindliche Raketen verloren: $VAL|G1$"
 AIRVIEW_GRAPH_VALUE:0	"$VALUE|1$"
+
 NAVAL_DETECTION_CHANCE_DETAILS_BASE:0	"    Basis: $VAL|0%Y$"
 NAVAL_DETECTION_CHANCE_DETAILS_COVERAGE:0	" x Regionsabdeckung: $COV|1%+$ (§Y$FOR$§! Formationsverbreitung: $NAME$)"
+
 NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_PATROL:0	"§YVery wide§!"
 NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_MINES_PLANTING:0	"§YVery wide§!"
 NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_MINES_SWEEPING:0	"§YVery wide§!"
+
+
+
+
 NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_TRAINING:0	"§YDicht§!"
 NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_RESERVE_FLEET:0	"§YDicht§!"
+
+
 NAVAL_DETECTION_CHANCE_DETAILS_WEATHER:0	" x Wettermultiplikator: $VAL$"
+
+
+
+
+
+
 SPOTTING_BASE_CHANCE_FROM_NAVY:1	"  Einsatzkräfte in der Region: $VAL|1%+=$\n"
 SPOTTING_BASE_CHANCE_FROM_AIR:1	"  Lufteinsätze in der Region: $VAL|1%+=$\n"
+
+
+
+
+
+
+
+
+
+
+
+
+
 NAVAL_SPOTTING_LEVEL_NONE_DESC:0	"Wir wissen von einer feindlichen Präsenz in der Region."
 NAVAL_SPOTTING_LEVEL_LOW_DESC:0	"Wir haben den Feind gesichtet und haben eine grobe Schätzung seiner Streitkräfte"
 NAVAL_SPOTTING_LEVEL_MEDIUM_DESC:0	"Wir haben den Feind gesichtet und können seine Streitkräfte genau einschätzen"
@@ -449,25 +775,41 @@ NAVAL_SPOTTING_LEVEL_DETAILED_UNITS_DESC:0	"Wir haben den Feind identifiziert un
 NAVAL_SPOTTING_SEARCHED_BY:0	"Der Feind wird von $NAME|H$ geortet."
 NAVAL_SPOTTING_PROGRESS:0	"Fortschritt: $PROGRESS|H%.0$"
 NAVAL_SPOTTING_DAILY_CHANGE:0	"Tägliche Änderung: $SPEED|%.2+=H$"
+
 NAVAL_SPOTTING_DESC:1	"Wenn ein Angriffstrupp vollständig gesichtet wird, kann er sich dem Kampf anschließen."
+NAVAL_SPOTTING_CLAMP:	"Mindestentdeckungsgeschwindigkeit: $SPEED|%.2+=$"
+
+
 NAVAL_ENTRY_DRAGDROP_DESC:1	"§GKlicke, um diese Gruppe von Schiffen zu nehmen und sie auf eine andere Einsatzverband zu setzen.\n§!"
 NAVAL_ENTRY_NEWFLEET_DESC:1	"§GKlicken Sie mit der rechten Maustaste, um eine neue Einsatzverband aus dieser Gruppe zu erstellen.§!"
+
 NAVAL_MINES_IN_REGION_HEADER:0	"§Havarieminen gelegt:§!"
 NAVAL_MINES_IN_REGION_BY_US:1	"\n §YWir§! haben $COUNT|G0$ Minen gelegt, $COUNT_DAMAGED|G0$ beschädigt und $COUNT_SUNK|G0$ Schiffe versenkt."
+
 NAVAL_MINES_IN_REGION_BY_ENEMIES:1	"\n Unsere §RFeinde§! haben $COUNT|R0$ Minen gelegt, $COUNT_DAMAGED|R0$ Schiffe beschädigt und $COUNT_SUNK|R0$ Schiffe versenkt."
+
+
 NAVAL_ACCIDENTS:0	"Unfälle auf See"
+
+
+
 NAVAL_ACCIDENTS_DAMAGED:0	"\n Gesamtschaden: $DMG|R1$"
 NAVAL_ACCIDENTS_SUNK:0	"\n Versenkte Schiffe: $SHIPS|R$"
 NAVAL_ACCIDENTS_SUMMARY:0	"Marineunfälle für Schiffe vom Typ $TYPE|H$:\n - $SUNK_MINES|R$ versenkt durch §YSeeminen§!\n - $SUNK_TRAINING|R$ versenkt wärend der §YAusbildung§!\n - $DAMAGE_MINES|R$ des Gesamtschadens durch §YSeeminen§!\n - $DAMAGE_TRAINING|R$ des Gesamtschadens während der §YAusbildung§!"
 NAVAL_ACCIDENTS_ACTIONS:0	"§GKlick§! zum Öffnen der Zusammenfassung der §YMarineunfälle§!.\n§GRechtsklick§! zum §RLöschen§! von §YMarineunfällen§! in dieser Region zu löschen."
+
+
 UNIT_VIEW_DIVISIONS_COUNT:0	"$DIV$/$MAX$"
 UNIT_VIEW_DIVISIONS_COUNT_NO_LIMIT:0	"$DIV$"
+
 UNIT_TOOLTIP_SUPPORT:0	"§GSupport§!"
 MAP_ARROWS_LOCALIZATION:1	"$ORDERNAME$ $DIVISIONS$ - $GROUP$"
 MAP_ARROWS_LOCALIZATION_EMPTY:0	"Keine Divisionen"
 MAP_ARROWS_DIVISIONS_COUNT:1	"$DIV$ Divisionen"
 MAP_ARROWS_DIVISIONS_COUNT_SHORT:1	"$DIV$ Divisionen"
 MAP_ARROWS_LOCALIZATION_EMPTY_SHORT:1	"Keine Divs"
+
+
 MAP_ARROWS_PARADROP_TRANSPORTS_COUNT:1	" - $TR$ Transporte"
 REQUEST_EXPEDITIONARIES_DIVISIONS_COUNT:0	"$NUM_DIVS|Y$ Abteilungen insgesamt"
 UNITS_VIEW_DIVISIONS_COUNT:0	"$DIV|G$ Abteilungen"
@@ -481,22 +823,62 @@ UNITS_VIEW_BTN_UNASSIGN_UNITS_TOOLTIP:1	"Anklicken, um §Rdie Zuordnung§! aller
 UNITS_VIEW_BTN_UNASSIGN_SINGLE_UNIT_TOOLTIP:1	"Klicken Sie hier, um §Rdie Zuordnung§! diese Einheit aus dem Befehlshaberheer zu entfernen."
 UNITS_VIEW_BTN_START_TRAINING:0	"Üben"
 UNITS_VIEW_BTN_STOP_TRAINING:0	"Anhalten"
+
+
+
+
+
+
+
 UNITS_VIEW_BTN_EXECUTE:0	"Ausführen von"
+
 UNITS_VIEW_BTN_EXECUTE_TOOLTIP_PLAY:0	"§YAKTIVIEREN§!"
 UNITS_VIEW_BTN_EXECUTE_TOOLTIP_STOP:0	"§YSTOP§!"
 UNITS_VIEW_BTN_EXECUTE_NONE_SET_TOOLTIP:1	"Diese Armee hat keine Befehle zum Ausführen. Um sie zu aktivieren, müssen Sie einen Plan erstellen."
+
+
 UNITS_VIEW_BTN_RESHAPE:0	"§HEditiermodus§!\nDurch Drücken dieser Schaltfläche schalten Sie den Modus um, oder halten Sie §GALT§!\n§GKlicken Sie mit der rechten Maustaste§! auf Schlachtpläne, die mit Stecknadeln enden, um sie zu bearbeiten.\n§GKlicken Sie mit der linken Maustaste§! auf den Vorrückungspfeil, um ihn umzuformen oder mit einem anderen Befehl zu verbinden.\n§GKlicken Sie mit der rechten Maustaste§! auf einen der blinkenden Befehle, um einen neuen Vorrückungspfeil zu malen."
+
+
 UNITS_VIEW_BTN_DRAW_DEFENCE_ARMY_GROUP:0	"§HFrontlinie§!\n - §GKlick§! auf eine der Grenzen gegen ein anderes Land, um die zugewiesene Front entlang der gesamten Grenze zu setzen.\n - §GShift + Klick§! auf eine der Grenzen gegen ein anderes Land, um die zugewiesene Front ohne Unterarmee-Fronten entlang der gesamten Grenze zu setzen.\n - §GRechtsklick und Ziehen der Maus§! auf eine der Grenzen gegen ein anderes Land, um die Front in einem kürzeren Intervall zu setzen. \n - §GShift + Rechtsklick und Ziehen der Maus§! auf eine der Grenzen gegen ein anderes Land, um die Front ohne Unterarmee in einem kürzeren Intervall zu setzen.\n - §GRechtsklick und Ziehen der Maus§! auf die bestehenden Frontlinienenden, um sie zu bearbeiten.\n\nFrontlinien sind der Startpunkt von Angriffen in feindliches Gebiet in Richtung Offensivlinien, ermöglichen aber auch die schnelle Positionierung von Divisionen entlang einer fremden Grenze."
+
 UNITS_VIEW_BTN_AREA_DEFENSE:3	"§HGebietsverteidigung§!\n - §GKlick§! auf Staaten, um sie der Armeeordnung hinzuzufügen/zu entfernen.\nEine Armee mit dieser Ordnung kann nicht gleichzeitig andere Typen haben.\n\nDivisionen, die einer Armee mit dieser Ordnung zugewiesen sind, werden sich über das zugewiesene Gebiet verteilen, um wichtige Städte, Häfen oder andere Objekte zu bewachen sowie kleinere feindliche Präsenz zu bewältigen."
 UNITS_VIEW_BTN_DRAW_NAVAL_INV:0	"§HLandungsunternehmen§!\nSchritt 1) §GKlick§! auf eine der hervorgehobenen Provinzen, um die Invasionsquelle festzulegen.\nSchritt 2) §GRechtsklick§! auf die gewünschte(n) Küstenprovinz(en), die eingenommen werden soll(en).\nSobald der Plan aktiviert ist, beginnt die Invasion, Konvois aus dem Pool Ihrer Länder vorzubereiten und zu reservieren."
+
 UNITS_VIEW_BTN_DRAW_OFFENCE_FRONT_LINE_FIRST:0	"§RSie müssen zuerst eine Frontlinie erstellen.§!"
 UNITS_VIEW_BTN_RESHAPE_NOTHING:0	"§RNichts zu bearbeiten.§!"
 UNITS_VIEW_BTN_UNASSIGN_NO_ORDERS:0	"§RNichts zum Aufheben von Zuweisungen.§!"
+
+
+
+
+UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_PLAN_CAP_REACHED:	"§RObergrenze des Marine-Invasionsplans ($CAP|Y$) erreicht.§!"
 UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_HARBOR:2	"§HSeeinvasion ORDER (Mit Unterstützung von schwimmenden Häfens)§!\nSchritt 1) §GKlick§! auf eine der hervorgehobenen Provinzen, um die Invasionsquelle festzulegen.\nSchritt 2) §GRechtsklick§! auf die gewünschte(n) Küstenprovinz(en), die eingenommen werden soll(en).\nSobald der Plan aktiviert ist, beginnt die Invasion mit der Vorbereitung und Reservierung von Konvois und eines schwimmenden Hafens aus Ihrem Vorrat."
 UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_HARBOR_NO_HARBOR:1	"§RFür diesen Plan wird kein §Hschwimmender Hafen§! benötigt§!"
+
+
 UNITS_HAS_NO_ORDERS_WARNING:1	"§RDivision gehört zu einer Armee, hat aber keine Befehle zugewiesen!§!\nZiehen Sie Defensiv-/Offensivlinien und weisen Sie ihnen Einheiten zu."
+
+
+
+
+
+
 UNITS_HAS_INVALID_RETREAT_WARNING:0	"§RNicht in der Lage, sich in die Zielprovinz zurückzuziehen§!"
 UNITS_HAS_LOW_SUPPLY_MOVE_WARNING:0	"§RWenn die Einheit sich weiterbewegen würde, würde sie in der nächsten Provinz mehr Vorräte benötigen, als dort vorhanden sind.\nEin expliziter Bewegungsbefehl kann die Einheit zwingen, sie trotzdem zu bewegen§!"
+
+
+
+
+
+
+
+
+
+
+
+
+
 BATTLE_PLANS:0	"Schlacht-Pläne"
 BATTLE_PLANS_X_WILL_BE_ASSIGNED:0	"$NUM|Y$ Divisionen werden zugewiesen."
 COMMAND_GROUP_NAME_GENERIC:1	"$N$. Heer"
@@ -504,26 +886,42 @@ ARMY_GROUP_NAME_GENERIC:0	"Heeresgruppe $N$"
 CORE_FILTER_BY_MAJOR:0	"§TFilter nach, ob eine Nation als Major gilt oder nicht§!"
 CARRIER_SHIP_ICON:1	"Dieser Luftwaffenstützpunkt beherbergt eine §HLuftflotte§! für §HFlugzeugträger§!.\n§gKlick zum Auswählen§!"
 ASSIGN_LEADER_TITLE:0	"Kommandant für $UNIT|Y$ auswählen"
+
 LEADER_NOT_IN_PORT:0	"§RAuf See§!"
+
+
+
 LEADER_RANK_WITH_PROGRESS:0	"$RANK|Y$ ($PROGRESS|%Y0$)"
 LEADER_FUNCTION_DESC:1	"Wenn einem Heer ein Kommandant zugewiesen ist, wird das Heer in verschiedenen Bereichen gestärkt, abhängig von der Fähigkeit des Kommandanten."
+
 LEADER_CAPACITY_DESC:1	"$NAME$ führt derzeit $CURRENT|Y$ Divisionen und ist in der Lage, $MAX|Y$ Divisionen effizient zu führen."
 LEADER_ARMY_GROUP_CAPACITY_DESC:0	"$NAME$ führt derzeit $CURRENT|Y$ Armeen und ist in der Lage, $MAX|Y$ Armeen effizient zu führen."
+
 LEADER_PROMOTE:0	"§GBeförderung nach§! $RANK|Y$"
+
+
 LEADER_PROMOTE_NO_SKILL:0	"Dieser Anführer ist nicht qualifiziert genug für eine Beförderung"
+
+
+
 DIPLOMACY_VIEW_CANCEL_SPY_MISSION:0	"Rechtsklick zum Abbrechen der Mission."
 DIPLOMACY_STAGE_COUP_NOT_IN_MP:0	"Etappen-Coup im MP nicht verfügbar."
 SPY_ON_STANDBY:0	"In Bereitschaft"
 DIPLOMACY_VIEW_SPY_MISSION:0	"@$TARGET$ $MISSION$"
 DIPLOMACY_VIEW_SPY_MISSION_NEW:0	"@$TARGET$"
+
+
 NO_ORG_GAIN_IN_NAVAL_INVASION:0	"Es gibt keinen Organisationsgewinn während einer Seeinvasion."
 ORG_OVER_SUPPLY_SOFT_CAP:0	"Die Organisation ist über dem Soft-Cap von $CAP|Y$, die Organisation wird jede Stunde um $LOSS|R$ reduziert."
+
 acquire_intel:0	"Erwerben Sie Geheimdienstinformationen"
 acquire_intel_desc:0	"$SPY|H$ versucht, Informationen in $TARGET|Y$ zu beschaffen."
 acquire_intel_general_desc:0	"Der Spion konzentriert sich auf das Sammeln von Informationen über das Land. Er wird militärische Truppen finden, die er sonst nicht gesehen hätte."
 boost_party_popularity:0	"Popularität der Partei steigern"
 boost_party:0	"Partei verstärken"
 boost_party_popularity_desc:0	"$SPY|H$ versucht, die Popularität einer Partei ($PARTY|Y$) in $TARGET|Y$ zu steigern."
+
+
 attempt_coup_desc:0	"$SPY|H$ unternimmt einen Putschversuch in $TARGET|Y$.\nEr hat $PROGRESS|G%1$ der Putschvorbereitung durchgeführt."
 on_standby:0	"Auf Bereitschaft"
 on_standby_general_desc:0	"Der Spion bleibt in Bereitschaft, bis eine neue Mission zugewiesen wird."
@@ -537,22 +935,62 @@ LEADER_ARMIES_COUNT:0	"Kann effizient $MAX|Y$ Armeen befehligen."
 LEADER_DIVISIONS_COUNT_AND_LIMIT:1	"Dieser Kommandant kann $MAX|Y$ Divisionen befehligen und befehligt derzeit $DIV|Y$."
 LEADER_SHIPS_COUNT:0	"Dieser Kommandant kann mit $MAX|Y$ Schiffen umgehen."
 LEADER_SHIPS_COUNT_AND_LIMIT:0	"Dieser Kommandant kann mit $MAX|Y$ Schiffen umgehen und befehligt derzeit $SHIP|Y$ Schiffe."
+
+
+
+
+
+
+
 RESISTANCE_TICK_SPEED_FROM_CAP:0	"\n - Widerstand höher als die Obergrenze $VAL|%2-=$"
+
 RESISTANCE_TICK_SPEED_FROM_POLICY:0	"\n - Berufspolitischer Multiplikator: $VAL|%0-=$"
 RESISTANCE_TICK_SPEED_TOTAL:1	"\n---------------\nWiderstandswachstum pro Tag: $TOT|%2-=$ ( Gedeckelt bei $SUPPRESSION|Y%2$ ab Unterdrückung )"
 RESISTANCE_NOT_OPERATIONAL:1	"§gWiderstand kann nur in voll besetzten Nicht-Kernstaaten wachsen§!"
+
+
 RESISTANCE_VIEW_POLICY_TITLE:0	"Besetzungspolitik:"
+
+
 OCCUPATION_POLICY_COST:0	"Besetzungen: $VALUE|+$"
+
 SHOW_ACTIVE:0	"Aktiv anzeigen"
 FE_NO_COUNTRY_SELECTED:0	"Kein Land ausgewählt"
+
 FE_SELECTED_NATION:0	"Als $NATION$ spielen"
 FE_SELECT_SCENARIO:0	"Szenario wählen"
 FE_CHANGE_SCENARIO:0	"Szenario ändern"
+
+
+
+
+
 LEADER:0	"Führer"
 GOVERNMENT:0	"Regierung"
+
+
 FE_MISC_STATS:0	"Zus. Statistiken"
+
+
+
+
+
+
 MAP_ICON_NAVIES:0	"Marinen: $VALUE|Y$"
 MAP_ICON_NAVY_SHIPS:1	"$NAVY|H$ ($COUNTRY|H$): $VALUE|Y$ Schiffe ($VALUE2|Y$ Großkampfschiffe)"
+
+
+
+
+
+
+
+
+
+
+
+
+
 RAILWAY_GUN_CLICK_HEADER:0	"§GKlick§! zum Auswählen des Eisenbahngeschützes.\n§GShift+Klick§! zum Umschalten der Auswahl.\n§GRechts-Klick§! zum Schwenken auf das Eisenbahngeschütz"
 UNIT_BUTTON_DESC:0	"Vorlage: §Y$TYPE$§!"
 UNIT_BUTTON_FAKE_ARMY_DESC:0	"Pseudespionageeinheiten Vorlage: §Y$TYPE$§!"
@@ -560,30 +998,52 @@ UNIT_BUTTON_ACTION:0	"(Klicken, um Details zu sehen)"
 UNIT_DESTINATION:0	"Ziel: $STATE|Y$"
 NUCLEAR_BOMB:0	"Atombomben"
 NUCLEAR_PRODUCTION_ETA:0	"Die nächste Atombombe ist $PROGRESS|1G%$ fertig und wird ungefähr in $DAYS|G$ Tagen fertig sein."
+
+
+
+
+NAVAL_SERIES_DECREASE_DESC:3	"Verringern Sie die Anzahl der zu produzierenden Schiffe.\n§GCtrl+Klick§! um §H10§!\n§GShift+Klick§! um §H100§! zu verringern."
 RAILWAY_GUN_SERIES_INCREASE_DESC:0	"Erhöhe die Anzahl der zu produzierenden Eisenbahngeschütze.\n§GStrg+Klick§! um §H10§ hinzuzufügen!\n§GShift+Klick§! um §H100§! hinzuzufügen!"
+
+
+
 SUPPLY_MAPICON_SUPPORTED_LIMITED_DESC:0	"Dieser Knotenpunkt könnte mehr Nachschub unterstützen, ist aber durch einige §R'Engpässe'§! in seiner Route begrenzt.\nVerbessern Sie die §GInfrastruktur§! entlang der Route.\nVerbessern Sie auch die Marinestützpunkte, wenn die Route den Seeweg umfasst.\nDenken Sie dann über die notwendige Anzahl von Konvois und Eskorten nach."
 SUPPLY_MAPICON_SUPPORTED_DESC:0	"Dieser Knotenpunkt unterstützt bisher genug Nachschub.\nDenken Sie daran, dass der Verbrauch steigen wird, wenn mehr Truppen in dem Gebiet sind."
+
 SUPPLY_MAPICON_INFRA_DESC_CLICK_TO_INC:1	"\n§GKlicken Sie auf§! um den Bau in die Warteschlange zu stellen."
 SUPPLY_MAPICON_INFRA_PENDING_DESC:0	"\n§GWir sind bereits dabei, die §Yinfrastruktur§! in diesem Gebiet zu verbessern.§!"
+
 SUPPLY_MAPICON_PORT_PENDING_DESC:0	"\n§GWir sind bereits dabei, die lokale beste §Ynaval-Basis§! zu verbessern.§!"
+
+
 PROV_TEXT_UNITS_PARACHUTED_WITH_LOSSES:0	"Abgefallene Einheiten mit Verlusten"
+
+
+
 ACE_FULL_NAME_WITH_CALLSIGN:0	"$NAME$ '$CALL$' $SUR$"
 ACE_UNASSIGNED:0	"Nicht zugewiesen"
 ACE_ASSIGNED_TO:0	"Zugewiesen dem Geschwader von $NUM|H$x $UNIT|H$ in $LOC|H$"
 ACE_SELECTION_TITLE:0	"Wählen Sie das Ass, das $UNIT|H$ in $LOC|H$ zugewiesen werden soll"
 ACE_PILOT_HEADER:0	"Piloten Ass $FULLNAME$"
+
+
 ACE_PILOT_STATUS_KIA:0	"§RKIA§!"
 ACE_PILOT_UNASSIGN_HOTKEY:0	"\n§GRechtsklick§! zum Aufheben der Zuweisung"
+
 ACE_PILOT_CANT_ASSIGN_KIA:0	"Kann das Piloten-Ass nicht zuweisen, wegen §RKIA STATUS§!."
 ACE_PILOT_CANT_ASSIGN_UNFAMILIAR:0	"Kann das Piloten-Ass nicht zuweisen, weil §Richtlinie§! mit diesem Flugzeugtyp nicht vertraut ist."
 ACE_PILOT_ASSIGN_ACE:0	"Klicken Sie auf , um das Piloten-Ass auszuwählen."
 ACE_PILOT_ELIGIBLE_TYPES:0	"Kann Luftgeschwadern der Typen zugewiesen werden: "
 ace_Erich_Hartmann_desc:0	"§LErich Alfred Hartmann. Geboren am 19. April 1922. Von seinen Kameraden 'Bubi' genannt. Gilt als das beste Flieger-Ass der deutschen Luftwaffe.§!"
+RELEASE:1	"Nation freigeben"
 QUIT_TITLE:0	"Spiel beenden"
+
+
 RESIGN_DESC:0	"Sind Sie sicher, dass Sie das Spiel beenden und zum Hauptmenü zurückkehren wollen?\n\nEin ungespeicherter Fortschritt geht verloren."
 BASE:0	"Basis:"
 DEPLOYMENT_SELECT_AREA:0	"§GKlick§! auf eine grüne Provinz, um ausgewählte Einheiten aufzustellen."
 CONVEYOR_ASSIGN_LOCATION_SELECT_DMZ_AREA:0	"Es können keine Divisionen in der entmilitarisierten Zone §Raufgestellt§! werden."
+CONVEYOR_ASSIGN_LOCATION_SELECT_AREA:1	"Jede grüne Provinz kann als Einsatzort ausgewählt werden.\n\n§GClick§! um $PROV$ auszuwählen."
 CONVEYOR_ASSIGN_LOCATION_SELECT_HOME_AREA:0	"§RKann hier nicht aufgestellt werden§!\nAufstellung ausserhalb des Heimatgebiets nicht erlaubt"
 CONVEYOR_ASSIGN_ORDER_SELECT_AREA:1	"§GKlick§! auf eine Kartenreihenfolge oder ein Anführerporträt, um einen Einsatz zuzuweisen."
 AND:0	"und "
@@ -593,28 +1053,80 @@ RANDOM_EFFECT:0	"§T$CHANCE|%0H$ chance of: §!\n"
 ---_fascist:0	"jedes faschistische Land"
 ---_communist:0	"jedes kommunistische Land"
 DETAILS:0	"Einzelheiten"
+
+
+
+
+STATE_MODIFIERS:0	"Status-Modifikatoren"
+STATE_BUILDING_STATE_MODIFIERS:0	"Gebäude-Status-Modifikatoren"
+STATE_BUILDING_MODIFIER_HEADING:0	"$BUILDING|Y$:"
+STATE_BUILDING_MODIFIER_PREFIX:0	"  "
+
+
+ADD_BACKGROUND:	"§HKlicken, um Hintergrund zur Rotation hinzuzufügen§!"
+REMOVE_BACKGROUND:	"§HKlicken, um Hintergrund aus der Rotation zu entfernen§!"
+CHANGE_BACKGROUND:	"Hintergrund ändern"
+CHANGE_BACKGROUND_TT_TITLE:	"§HIntervall für den Hintergrundwechsel§!"
+CHANGE_BACKGROUND_TT_DESC:	"Wie viele Sekunden vergehen, bis zum nächsten Hintergrund gewechselt wird, wenn mehrere ausgewählt sind; der Zyklus ist deaktiviert, solange dieses Fenster geöffnet ist"|"
+
 DESELECT_ALL:0	"Alle abwählen"
 STATE_PROVINCE:0	"Bundesland"
 STATE_PROVINCE_PLUS_TAG:0	"Provinz $TAG$"
+STATE_PROVINCE_NAME_OCCUPIED_COLOR:0	"$PROVINCE|R$"
 STATE_PROVINCE_DESC:0	"Diese Provinz wird von ihrem Besitzer, $CONTROLLER|H$, kontrolliert"
 STATE_PROVINCE_OCCUPIED_DESC:0	"Diese Provinz ist besetzt von $CONTROLLER|H$"
+
 ACTIVE_IN:0	"§TAktive in:§!"
 BUTTON_DETAILS:0	"Einzelheiten"
 BUTTON_OK:0	"Ok"
+
+
+
 CONFIRM_STOP_TRAINING:0	"Übung stoppen"
+
+
 UNITS_VIEW_BTN_TRAIN_UNITS_TOOLTIP:1	"Klicken Sie, um eine §GÜbung§! mit dieser Armee zu starten. Die Einheiten verbrauchen Ausrüstung, während sie an Erfahrung gewinnen. Ihr Land erhält außerdem £army_experience Armeeerfahrung von jeder Einheit, deren Erfahrungsstufe mindestens $VAL|Y$ - $NAME|Y$ beträgt."
+
 AIR_WING_XP_BONUS_NONE:0	"§HKein Bonus aus Erfahrung§!"
 AIR_WING_XP_BONUS_HEADER:1	"§HDies hat folgende Auswirkungen:§!"
+
 AIR_WING_XP_TRAINING_DAILY_PROGRESS:1	"Täglicher Erfahrungsfortschritt bis zur nächsten Stufe aus §YPilotenübungen§!: $EXP|Y%1$"
 AIR_WING_XP_TRAINING_MAX_REACHED:1	"Dieses §YLuftwaffengeschwader§! kann keine zusätzliche Erfahrung durch ein §YPilotentraining§! erlangen."
 AIR_WING_XP_LOSS_INFO:0	"Wenn das §YLuftwaffengeschwader§! Schaden nimmt, verliert es Erfahrung. Der Verlust wird um $FRIENDLY|+%0$ über befreundetem Gebiet reduziert."
+
+
+
+
+
 EXP_COMBAT_BONUS:1	"Bonus auf Kampferfahrung: $EFFECT|+=%0$"
+EXP_MISSION_BONUS:	"Bonus auf Missionserfahrung: $EFFECT|+=%0$"
 EXP_TRAINING_BONUS:2	"Ausbildungserfahrungsbonus: $EFFECT|+=%0$"
+
+
 FOCUS_TREE_VIEW_HEADER:0	"$COUNTRY$ Fokusbaum"
+
+
+
+
+
 STOP_FOCUS:0	"Anhalten"
+
 FOCUS_IN_PROGRESS:0	"Du bist bereits fokussiert auf dies!"
 FOCUS_OTHER_IN_PROGRESS:0	"Du bist gerade auf $FOCUS|Y$ fokussiert. Sie müssen warten, bis dieser Fokus abgeschlossen ist, bevor Sie einen neuen auswählen."
+
+
+
+
 FOCUS_CANNOT_BE_CANCELLED_MANUALLY:0	"§RKann nicht manuell abgebrochen werden§!"
+
+
+
+
+
+
+
+
+
 FOCUS_STATUS_COMPLETED_TOOLTIP:0	"§Gabgeschlossen§!"
 FOCUS_STATUS_INPROGRESS_TOOLTIP:0	"Fertigstellungszeit: $DAYS|0H$ Tage. ($LEFT|0H$ Tage übrig)"
 FOCUS_STATUS_INPROGRESS_NO_INTEL_TOOLTIP:0	"Nicht genug Informationen für den aktuellen Fortschritt."
@@ -631,33 +1143,59 @@ PROVINCE_CLICK_VIEW:0	"§GKlick§! auf §YAnzeige Zustand§!."
 PROVINCE_UNIT_MOVE_NO_TIME:0	"Es gibt §RKeine verfügbare§! Landroute zu dieser Provinz."
 PROVINCE_UNIT_MOVE_NO_RAILWAY:1	"Es gibt §RKeine verfügbare§! umgewandelte Eisenbahnstrecke zu dieser Provinz."
 PROVINCE_UNIT_ATTACK_FROM_NEUTRAL:0	"§RArmeen können den Feind nicht aus dem neutralen Land angreifen.§!"
+
+
+
 PROVINCE_UNIT_MOVE_HOURS:3	"Ankunft der ersten Division in: $HOURS|Y$ §Yhour(s)§!."
+
+
 UNIT_VIEW_MOVE_DAYS_HOURS:0	"Wird am endgültigen Standort in $DAYS|Y$ §Yday(s)§! und $HOURS|Y$ §Yhour(s)§! ankommen."
+
+
+
 MOVING_STRATEGIC_REDEPLOYMENT_RAIL:0	"Strategischer Verlagerungsmodus.\nGeschwindigkeit: $VALUE|H1$ km/h\n Basis: $BASE|H1$ km/h\n Eisenbahnzugabe: $ADD|=G1$ km/h."
 MOVING_STRATEGIC_REDEPLOYMENT_ORG:0	"Bewegt sich im Modus der strategischen Umgruppierung. Während der Bewegung wird die Organisation immer auf $VALUE|H%$ gesetzt."
 MOVING_NAVAL_TRANSFER_ORG:0	"Bewegt sich im Modus "Marineverlegung". Während der Bewegung ist die Organisation immer auf $VALUE|H%$ gesetzt."
+
 NAVAL_TRANSFER_MOVING:0	"Die Division verlegt zur See.\nGeschwindigkeit: $VALUE|H$ km/h\nBasis: $BASE|H$ km/h\nMarinebewegungsmodifikator: $NAVAL|H%$."
 ZERO_ORG_MOVEMENT_MODIFIER:1	"Niedrige Organisation: $VALUE|+%$"
+
 COMBAT_SPEED_MODIFIER:1	"Im Gefecht: x$VALUE|H%$"
+
+
+SNOW_SPEED_MODIFIER:0	"Schnee: $VALUE|+=%$"
 RIVER_MODIFIER:1	"Fluss: $VALUE|+=%$"
+
+
+
+
+
 INFRASTRUCTURE_SPEED_MODIFIER:1	"Infrastruktur: $VALUE|+=%$"
 RETREAT_SPEED_MODIFIER:1	"Rückzug: $VALUE|+=%$"
 WITHDRAW_SPEED_MODIFIER:1	"Rückzug: $VALUE|+=%$"
 TERRAIN_MOVE_COST:1	""
 TRAINING_ARMY_ORG:1	"Diese Division führt §HArmeeübungen§! durch. Während der Übung ist die Organisation immer auf $VALUE|H%$ gesetzt."
+
 MOVING_TO_ENEMY_TERRITORY:0	"Die Division bewegt sich auf feindliches Gebiet zu."
+
 PROVINCE_UNIT_MOVE_NAVAL_MISSION:0	"§GRechtsklick§! um das Gebiet zur aktuellen Mission hinzuzufügen."
 UNIT_MOVING_HOURS:0	"Die Einheit wird ihr Ziel in $HOURS|Y$ §Yhour(s)§! erreichen."
+
 UNIT_MOVING_DAYS_HOURS_NONPLAYER:0	"Die Einheit wird in der nächsten Provinz in $DAYS|Y$ §Yday(s)§! und $HOURS|Y$ §Yhour(s)§! ankommen."
 UNIT_MOVING_HOURS_NONPLAYER:0	"Die Einheit wird in der nächsten Provinz in $HOURS|Y$ §Yhour(s)§! ankommen."
 FOCUS_EXCLUSIVE_SINGLE:0	"Dieser Fokus kann nur gewählt werden, wenn du nicht bereits $FOCUS$"
 HAS_NOT_EXCLUSIVE:0	"$NAME|G$"
 HAS_EXCLUSIVE:0	"$NAME|R$"
+
 HAS_EXCLUSIVE_LIST:0	"   $NAME|R$\n"
+
+
 UNLOCK_COMPLETE_EFFECT:0	"$WHO|H$ schließt den Fokus ab $LIST|H$"
+
 UNCOMPLETE_FOCUS_EFFECT:0	"$WHO|H$ schließt den Fokus $LIST|H$ auf"
 TECH_LIMITED_BONUS:0	"$VAL|%0$"
 HISTORICAL_FOCUS:0	"Dieser Fokus war Teil des historischen Pfades."
+
 alert_select_focus_delayed:0	"Du solltest einen neuen Fokus für deine Nation wählen."
 alert_battleplans_with_no_divs_instant:0	"§HSchlachtpläne ohne zugewiesene Einheiten§!"
 alert_battleplans_with_no_divs_delayed:0	"§HDu solltest den Schlachtplänen einige Divisionen zuweisen.§!"
@@ -667,32 +1205,94 @@ FOCUS_SINGLE_PREREQ:0	"§RBenötigt $FOCUS$§!"
 FOCUS_SINGLE_PREREQ_HAS:0	"§GErfordert $FOCUS$§!"
 FOCUS_MIX_PREREQ_HEADER:0	"§HErfordert alles Folgende:\n§!"
 FOCUS_MIX_AND_PREREQ:0	"§R- $FOCUS$\n§!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 FOCUS_WILL_CONTINUE:0	"Dieser Fokus wird auch dann fortgesetzt, wenn die Anforderungen nicht mehr erfüllt sind."
 FOCUS_MESSAGE_UNLOCKED_TITLE:0	"Nationaler Fokus Beendet"
+FOCUS_SIDE_MESSAGE_UNLOCKED_DESC:0	"$FOCUS|H$ wurde abgeschlossen durch $ORIGINATOR|Y$."
+FOCUS_SIDE_MESSAGE_UNLOCKED_TOOLTIP:0	"$FOCUS|H$ wurde abgeschlossen durch $ORIGINATOR|Y$.\n\n$REWARD$"
+FOCUS_SIDE_MESSAGE_CLICK_ACTION:0	"§GLinks Klick§!, um Details zum Fokus anzuzeigen."
 FOCUS_POPUP_NAME:0	"$FOCUS|H$"
+
 FOCUS_FOUND_CYCLE:0	"$CUR$/$NUM$ Gefunden"
 FOCUS_FILTERED:0	"$NUM$ Gefiltert"
+
 FOCUS_TREE_FILTER:0	"Gefiltert"
 FOCUS_NOT_FOUND:0	"Nicht gefunden"
 FOCUS_FILTER_LIST_TOOLTIP:0	"Es gibt $NUM|H$ Fokusse, die zu diesem Filter gehören: $NAMES$"
+
+
+FOCUS_ALTERNATE_ICON_DESC:0	"Umschalten der Anzeige alternativer Symbole für einen Satz von Fokussen"
+
 AUTO_COMPLETE_FOCUS_HEADER:0	"Übersprungen seit:\n"
+
+
 FOCUS_CANCEL_HEADER:0	"§HWird aufgegeben, wenn:\n§!"
+
 FOCUS_MESSAGE_BYPASSED_TITLE:0	"Nationaler Fokus §Yübersprungen§!"
 POLITICS_SELECT_FOCUS:0	"Wählen Sie einen Nationalen Fokus"
 CURRENT_FOCUS:0	"$FOCUS|H$"
-BYPASS_FOCUS:1	"Bypass"
+
+
+BBYPASS_FOCUS:1	"Bypass"
+FOCUS_ORIGINATOR:0	"Originator ($TAG$$COUNTRY|UH$):"
+FOCUS_OTHER_MEMBERS:0	"Andere Mitglieder ($LIST$):"
+FOCUS_EVERY_MEMBER:0	"Jedes Mitglied:"
 DIPLOMACY_CREATE_FACTION_OPP_IDEO:0	"$COUNTRY$ muss $IDE$ sein, um in einer Faction mit uns zu sein.\n"
+
 DIPLOMACY_NOT_ENOUGH_IDEOLOGY_POPULARITY:0	"$NAME|H$ erfordert, dass das beitretende Land eine $IDEOLOGY|H$ Popularität größer als $MIN|H%0$ hat (derzeit $CUR|H%0$)"
 CLICK_OPEN_FOCUS:0	"\n\n§GKlicken Sie, um Ihren Fokusbaum anzuzeigen§!"
 FOCUS_DAYS_SAVED:0	"Gespeicherte $DAYS|0H$ von $TOTAL|0H$ Tagen.\nBei Auswahl eines Fokus wird $VALUE|0H$ £pol_power£ verwendet"
+
+
+
+
+
 MORE_TECH_BONUSES:0	"+ $COUNT|H$ weitere Boni."
+
 TOGGLE_ALLIED_BATTLEPLANS_EXPLAIN:1	"Schalte die Anzeige der §YSchlachtpläne§! für unsere §YVerbündeten§! ein."
+
+
 TOGGLE_ALLIED_BATTLEPLANS_LIST_ENTRY:1	"\n - $FLAG$ $NAME|Y$"
+
+
+
+
+
 DIPLOMACY_SEND_EXP_FORCE_TITLE:0	"Expeditionsstreitkräfte"
+
 EXP_MULTIPLE_DIVISIONS:0	"$COUNT$/$TOTAL$ Divisionen"
 EXP_SINGLE_DIVISION:0	"1 Division"
+
 VOL_SINGLE_DIVISION:0	"1 Abteilung"
+
+
+
+
 DIPLOMACY_RETURN_EXP_FORCE_ACTION_DESC:0	"Gewinnen Sie die Kontrolle über alle Expeditionsstreitkräfte, die in ihr Land geschickt werden."
+
+
+
+
+
+
+
+
+
 CAN_BE_CALLED_TO_WAR:0	"Diese Nation befindet sich nicht im Krieg, kann aber in den Krieg gerufen werden"
 UNITS_DEPLOYED_TO_OVERLORD:0	"Die Kontrolle über eingesetzte Einheiten geht an den Overlord"
 CONFIRM_SAVEGAME_TITLE:0	"Spielstand überschreiben"
@@ -709,81 +1309,196 @@ WE:0	"Wir"
 SEARCH:0	"Suche"
 RELEASE_AS_PUPPET:0	"Als Marionette freilassen"
 PLAY_AS:0	"Spielen als"
+
+
 ORG_HIT_WHEN_ADVANCING_WITH_MOD:0	"Bewegend: $VAL|=+%2$ ($MOD$)\n"
 ORG_HIT_WHEN_OOS:0	"Außerhalb des Angebots: $VAL|=+2$\n"
 LOW_ORG_REGAIN:0	"Niedrige Organisation: $VAL|=+%2$"
+
 WEATHER_ORG_IMPACT:0	"Wetter: $VAL|=+%2$\n"
+
+RELIABILITY_WEATHER_ORG_IMPACT:0	"Multipliziert mit §R$VAL|2$§! aufgrund der Zuverlässigkeit\n"
+
 COMBAT_ICON_PROGRESS:0	"$VAL|0$"
+
+
+
 POSITIVE_VALUE_HOUR:0	"$VALUE|G0$ §HH§"
 NEGATIVE_VALUE_HOUR:0	"$VALUE|R0$ §HH§"
 NEUTRAL_VALUE_HOUR:0	"$VALUE|H0$ §HH§"
 POSITIVE_VALUE:0	"$VALUE|G0$"
+
 NEUTRAL_VALUE:0	"$VALUE|H0$"
 POSITIVE_VALUE_PERCENTAGE:0	"$VALUE|G0%$"
+
 NEUTRAL_VALUE_PERCENTAGE:0	"$VALUE|H0%$"
+
+
+
 NAVAL_HISTORY_KILLED:0	"Versenkt $NAME|Y$ ($SHIPCLASS|Y$)"
 NAVAL_STATS_LABEL:0	"Statistiken"
 NAVAL_HISTORY_LABEL:0	"Geschichte"
 NAVAL_TERRAIN_LABEL:0	"Terrain"
 NAVAL_DESIGN_LABEL:0	"Entwurf"
 NAVAL_COMBAT_RESULT_HEADER:0	"§HSchiffskampf§!"
+
 NAVAL_COMBAT_RESULT_HEADER_DATE:0	" ($DATE$) "
+
+
+
 NAVAL_COMBAT_RESULT_LOSSES_BY_COUNT:1	"$NUM|H$x $WHAT|Y$"
 NAVAL_COMBAT_RESULT_DISPATCH_HOTKEY:1	"§GRechtsklick§! auf §Rentfernen§! alle Kampfergebnisse."
 NAVAL_COMBAT_RESULT_DISPATCH_TITLE:0	"Kampfergebnisse abschicken."
 NAVAL_COMBAT_RESULT_DISPATCH_DESC:0	"Sind Sie sicher, dass Sie alle Kampfergebnisse an diesem Ort versenden möchten?"
 NAVAL_COMBAT_RESULT_DISPATCH_IN_LOCATION_DESC:0	"Sind Sie sicher, dass Sie alle Kampfergebnisse an diesem Ort versenden wollen?"
+
 NAVY_REINFORCE_CANCEL_TITLE:0	"Abbrechen der Verstärkungsaufgabe."
+
 NAVY_REINFORCE_CANCEL_DESC_MULT:0	"$NUM|H$ Flotten sind auf dem Weg zu ihren ursprünglichen Einsatzkräften, um sich mit ihnen zu vereinigen.\nSoll diese Aufgabe abgebrochen werden?"
 NAVY_REFIT_ABORT_TITLE:0	"§RAbort§! Umrüstungsaufgabe."
+
 NAVY_REFIT_PROGRESS_LIST_ENTRY:0	"  $SHIP|H$: $PROGRESS|%1$\n"
 NAVY_REFIT_PROGRESS_LIST_ENTRY_COMPLETE:0	"  $SHIP|H$: §Gvertiggestellt§!\n"
 NAVY_REFIT_ABORT_CONFIRM_BUTTON_TEXT:0	"§RScuttle§!"
 NAVY_REFIT_CANCEL_TITLE:0	"Umrüstungsaufgabe abbrechen."
 NAVY_REFIT_CANCEL_DESC:0	"Ausgewählte Einsatzkräfte werden gerade mit Fortschritt umgerüstet:\n$PROGRESS_LIST$\nDer Fortschritt geht verloren.\nMöchten Sie diese Aufgabe abbrechen?"
+
 NAVY_REFIT_CANCEL_DESC_MULT:0	"$NUM|H$ Flotten sind auf dem Weg zu Marinestützpunkten, um nachzurüsten.\nSoll diese Aufgabe abgebrochen werden?"
+
+
 NAVY_REPAIR_CANCEL_ONE_SHIP:1	"Wenn du die Reparaturen abbrichst, wird die übergeordnete Taskforce auf §RNever Repair§! gesetzt."
+
 NAVY_REPAIR_CANCEL_DESC_ONE_IN_BASE:0	"$FLEET|H$ repariert gerade in $TARGET|H$.\nMöchten Sie diese Aufgabe abbrechen?"
 NAVY_REPAIR_CANCEL_DESC_ONE:0	"$FLEET|H$ ist auf dem Weg nach $TARGET|H$, um zu reparieren.\nWollen Sie diese Aufgabe abbrechen?"
 NAVY_REPAIR_CANCEL_DESC_MULT:0	"$NUM|H$ Flotten sind auf dem Weg zu Marinestützpunkten, um sie zu reparieren.\nSolltest du diese Aufgabe abbrechen?"
 NAVY_REPAIR_CANCEL_DESC_REUNITE:1	"\nSie werden zurückkehren und sich mit dem Einsatzverband zusammenschließen, von dem sie abgetrennt wurden."
+
 NAVY_REPAIR_BECAUSE_OF_REFIT_CANCEL_NOTIFY:0	"Das Schiff wird repariert, weil es einen geplanten Umrüstungsprozess hat. Wird die Reparatur abgebrochen, wird auch die Umrüstung abgebrochen."
 NAVY_FORMATION_SPREAD:0	"Formationsverteilung: $VALUE|H%0$ ($TYPE|H$)"
 NAVY_FORMATION_SPREAD_DESC:0	"Die Formationsverteilung gibt an, wie weit sich die Flotte über das Einsatzgebiet verteilt hat. Je weiter die Schiffe verteilt sind, desto größer ist die Chance, dass sie den Feind entdecken, aber desto weniger Schiffe können anfangs in den Kampf eingreifen."
 NAVY_NAME_DETACHMENT_POSTFIX:0	" - (Abgekoppelt)"
+NAVY_REPAIR_POLICY_MIXED:	"Die meisten Einsatzgruppen: $REPAIR_POLICY|$"
+NAVY_REPAIR_PRIORITY:	"§YReparaturpriorität auswählen§!"
 NAVY_REPAIR_POLICY_0:1	"§RDer Einsatzverband wird sich nie dazu entschließen, von sich aus zur Heimatbasis zurückzukehren.§!"
 NAVY_REPAIR_POLICY_1:1	"§RReparaturpriorität - Niedrig.§!\nDer Einsatzverband beschließt, zu einem Marinestützpunkt zurückzukehren, wenn die Schiffe §RSchwer§! beschädigt wurden."
 NAVY_REPAIR_POLICY_2:1	"§YReparaturpriorität - Mittel.§!\nDer Einsatzverband beschließt, zu einem Marinestützpunkt zurückzukehren, wenn die Schiffe §RMittel§! beschädigt wurden."
 NAVY_REPAIR_POLICY_3:1	"§GReparaturpriorität - Hoch.§!\nDer Einsatzverband beschließt, nach Hause zurückzukehren, wenn die Schiffe §RLight§! beschädigt sind."
 NAVY_REPAIR_POLICY_DESC:1	"Das Reparatur-und-Rückkehr-System ermöglicht es, beschädigte Schiffe zur Reparatur nach Hause zu schicken, ohne dass der Spieler eingreifen muss. Die Prioritätseinstellung lässt den Spieler entscheiden, was wichtiger ist...\nDie Mission um jeden Preis fortsetzen?\nOder um jeden Preis überleben?"
+
+
+NAVY_REPAIR_POLICY_RIGHT_CLICK_TO_CHANGE_TO:	"§GRechtsklick§! um zu $LEVEL|$ zu wechseln"
+
+NAVY_REPAIR_POLICY_SPLIT_MIXED:	"Die meisten Einsatzkräfte: §Automatische Abspaltung§! sind jetzt $ON_OFF|H$.\n"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 NAVY_REPAIR_POLICY_SPLIT_DESC:2	"Die Option §YAufteilung erlauben§! erlaubt es den am stärksten beschädigten Schiffen, sich abzukoppeln und zu einem nahegelegenen Marinestützpunkt zurückzukehren, um dort Reparaturen durchzuführen, während der Rest des Einsatzverbandes seine Mission fortsetzt.\nDie abgekoppelten Schiffe sind während ihrer Rückkehr sehr anfällig für Angriffe.\nNach Abschluss der Reparaturen kehren die Schiffe zu den ihnen zugewiesenen Einsatzverbänden zurück.\n\nDie Anzahl der abgekoppelten Schiffe hängt von der Einstellung der Reparaturpriorität sowie vom Schaden an jedem einzelnen Schiff ab."
+
 NAVY_REPAIR_NOW_CANCEL:1	"§RAbbrechen§! der Reparaturaufgabe."
+
+NAVY_REPAIR_NOW_DISABLED:	"Dieses Schiff ist beschädigt. Bringe seine Task Force näher an einen deiner eigenen Marinestützpunkte, um es zu reparieren."
+
+
+ALL_TASK_FORCES_REPAIR_NOW_DISABLED:	"Wenn Ihre Einsatzgruppen beschädigt sind und sich in der Nähe einer Ihrer eigenen Marinestützpunkte befinden, können Sie sie zur Reparatur zum Heimatstützpunkt schicken."
+NAVY_CARRIER_DEFENSIVE_STANCE:	"§YVerteidigungsstellung auswählen§!"
+
+
+CARRIER_DEFENSIVE_STANCE_SELECTION_0:	"Vollständig defensiv"
+CARRIER_DEFENSIVE_STANCE_SELECTION_1:	"Vorsichtig"
+CARRIER_DEFENSIVE_STANCE_SELECTION_2:	"Ausgewogen"
+CARRIER_DEFENSIVE_STANCE_SELECTION_3:	"Aktiv"
+
+
+
+CARRIER_DEFENSIVE_STANCE_SELECTION_2_DESC:	"§G50 %§! der Flugzeuge werden für Verteidigungsaktionen eingesetzt"
+
+CARRIER_DEFENSIVE_STANCE_SELECTION_4_DESC:	"Alle Flugzeuge werden für Offensivaktionen eingesetzt"
+CARRIER_DEFENSIVE_STANCE_SORTIE_VALUES:	"$OFFENSIVE|0%Y$ Offensivflug\n$DEFENSIVE|0%Y$ Defensivflug"
+NAVY_AGGRESSIVENESS:	"§YAggressivität auswählen§!"
 SHIP_REPAIR_NOW:3	"§HJetzt reparieren!§!\nDas Schiff löst sich als separater Einsatzverband ab und kehrt zur Reparatur in einen nahegelegenen Marinestützpunkt zurück.\nDas Schiff kehrt zu seinem aktuellen Einsatzverband zurück, sobald es vollständig repariert ist.\n§GKlick§! zum Ablösen.\n§GShift+Klick§! um mehrere Schiffe zu markieren und sie als einen Einsatzverband abzulösen, wenn Sie §GShift§! loslassen."
+
 SHIP_REFIT_TOOLTIP:0	"§HSchiff umrüsten§!\n Rüstet die ausgewählten Schiffe auf ein anderes kompatibles Schiffsdesign um."
 SHIP_REFIT_NO_SHIPS_TOOLTIP:0	"§REs sind derzeit keine Schiffe ausgewählt§!"
 SHIP_REFIT_NO_COMPATIBLE_DESIGNS_TOOLTIP:0	"§REs gibt keine verfügbaren Schiffsdesigns, die als Umrüstungsziele für alle derzeit ausgewählten Schiffe in Frage kommen.§!"
+
 SHIP_REFIT_TOOLTIP_DELAYED:1	"Nach der Auswahl des Zielschiffsdesigns lösen sich die ausgewählten Schiffe als separate §HEinsatzverband§! ab und kehren zur Umrüstung zu einer nahe gelegenen §HMarinestützpunkt§! zurück.  Während der Umrüstung kann der Fortschritt im Produktionsfenster verfolgt werden.\n\nNach Abschluss der Umrüstung kehren sie zu ihrer aktuellen §HEinsatzverband§! zurück.\n\n§GShift + Klick§! zur Auswahl mehrerer Schiffe.\n§GCtrl + Klick§! zum Umschalten der Schiffsauswahl."
 SHIP_REFIT_CANCEL_TOOLTIP:1	"§RAbbrechen§! der Umrüstungsaufgabe."
 SHIP_REFIT_CANCEL_TOOLTIP_DELAYED:0	"Die Schiffe kehren zu ihrem ursprünglichen Einsatzverband zurück und nehmen ihre vorherige Mission wieder auf."
+
+
+
+
 SHIP_REFIT_ON_THE_WAY:0	"Umrüsten: Kurs auf $TARGET|Y$"
+
+
 SHIP_REPAIR_PROGRESS:0	"Reparieren: $PROGRESS|Y%1$"
+
 SHIP_REFIT_CONFIRM_DESCRIPTION:0	"§HRüste die ausgewählten Schiffe ($COUNT$) auf das Schiffsdesign $VARIANT_NAME|H$ um§! Die Schiffe kehren zu einer nahe gelegenen §HMarinestützpunkt§! zurück und werden dort eingesperrt, bis der Vorgang abgeschlossen ist. Bei maximaler Zuweisung von §HSchiffswerften§! kann dies bis zu $DAYS|H$ Tage dauern.\n\nWird die §HSchiffswerften§! in der sie umgerüstet werden, bombardiert, wird ihr Produktionsfortschritt reduziert.  Wenn sie erobert werden, sind die Schiffe für den Feind verloren.\n\nSind Sie sicher, dass Sie umrüsten wollen?"
 SHIP_OPEN_TASKFORCE_COMPOSITION_EDITOR:0	"Erstelle eine neue Einsatzverband von Grund auf"
 SHIP_TYPE_DESC:0	"$TYPE$ ($VARIANT$)"
+
+
+
+
+LMB_TO_SELECT:0	"§GKlicken§! zum Auswählen"
+
+
+
 COARSE_COUNTER_NAVIES_DESC:0	"$SHIPS|H$ Schiffe in $NAVIES|H$ Flotten."
+
 WORLD_TENSION_NAME:0	"Weltweite Spannungen"
 WORLD_TENSION_WARS:0	"Aktuelle Kriege"
 DATE_NAME:0	"Datum"
+
+
+
+
+WAR_HAS_MAJOR:1	"Krieg mit mindestens einer Großmacht"
+
 BROWSER_BACK:0	"Zurück"
+
 BROWSER_RELOAD:0	"Neu laden"
+
+
 RESEARCH:0	"Forschung"
+
+
+
+
+
 UNITS_VIEW_BORDER_CONFLICT:0	"Diese Armee befindet sich in einem Grenzkonflikt"
+
 AREA_DEFENSE_REPLACE_OTHER:0	"Warnung"
 AREA_DEFENSE_REPLACE_OTHER_DESC:0	"Wenn du einen Befehl mit diesem Werkzeug zeichnest, werden alle anderen stehenden Befehle der Gruppe entfernt."
+
 DLC_IS_NOT_ENABLED:0	"$DLC|Y$ ist nicht aktiviert."
+
+
+
+
 DLC_POLISH_UNIT_PACK:0	"Polnisches Einheitenpaket"
+
+
+
+
 SURRENDERED_SPECIAL_TITLE:1	"Wir haben auch beschlagnahmt:"
 SURRENDERED_SPECIAL_ITEM:0	"$AMOUNT|0H$ von $EQUIPMENT|H$($TYPE|H$)"
+
+
+
+
+
 SYSTEM_SERVER_LOST:0	"Server verloren"
 FE_CUSTOM_DIFFUCULTY:0	"Benutzerdefinierter Schwierigkeitsgrad"
 GARRISON_ORDER_CONF:2	"Verteidigung (Min. Divisionen: $REQ_DIVS|Y$)"
@@ -794,21 +1509,27 @@ GARRISON_CONF_PORT:0	"§HMarinebasen§! bewachen"
 GARRISON_CONF_COAST:0	"§HKüstenlinie§! bewachen"
 GARRISON_CONF_FORT:0	"§HFestungen§! bewachen"
 GARRISON_CONF_AIRBASE:0	"§HLuftstützpunkte§! bewachen"
+GARRISON_CONF_BORDERS:0	"§HGrenzen§! bewachen"
 GARRISON_CONF_RAIL:0	"§HNachschubknotenpunkte und Eisenbahn§! bewachen"
+GARRISON_CONF_FACILITY:0	"§HForschungseinrichtungen§! bewachen"
 AIR_WING_NAME_FALLBACK:0	"$NUMBER$. $TYPE$ Geschwader"
-  #AIR_WING_NAME_FALLBACK:0 "$COUNTRY$ $TYPE$ Luftwaffe $NUMBER$"
 AIR_WING_NAME_GER_FALLBACK:0	"$TYPE$ $NUMBER$"
 AIR_WING_NAME_GER_GENERIC:0	"$NAME$ $NR$"
 AIR_WING_NAME_USA_FALLBACK:0	"$NUMBER$. $TYPE$ Gruppe"
 AIR_WING_NAME_USA_GENERIC:0	"$NR$. $NAME$"
 AIR_WING_NAME_USA_CARRIER:0	"$NAME$-$NR$"
 AIR_WING_NAME_FRA_GENERIC:0	"$NAME$ Nr. $NR$"
+
 AIR_WING_NAME_FRA_CARRIER:0	"$NR$ $NAME$"
+
 AIR_WING_NAME_ENG_FALLBACK:0	"Nr. $NUMBER$ Geschwader RAF"
 AIR_WING_NAME_ENG_CARRIER:0	"$NR$ $NAME$"
 AIR_WING_NAME_ITA_FALLBACK:0	"$NUMBER$° Stormo"
+AIR_WING_NAME_ITA_GENERIC:0	"$NR$° $NAME$"
 AIR_WING_NAME_JAP_FALLBACK:0	"$NUMBER$. Hikodan"
 AIR_WING_NAME_JAP_CARRIER:0	"$NR$. $NAME$"
+NAVAL_SHIP_NAME_JAP:	"$NAME$ $NR$-Los"
+NAVAL_SHIP_NAME_FRA:	"$NR$. $NAME$"
 AIR_WING_NAME_SOV_GENERIC:0	"$NR$ $NAME$"
 AIR_WING_NAME_SOV_FALLBACK:0	"$NUMBER$ SAD"
 AIR_WING_NAME_SOV_CARRIER:0	"$NR$ $NAME$"
@@ -824,15 +1545,28 @@ AIR_WING_NAME_HUN_FALLBACK:0	"$NUMBER$. Repülöszázad"
 AIR_WING_NAME_YUG_GENERIC:0	"$NR$. $NAME$"
 AIR_WING_NAME_YUG_FALLBACK:0	"$NUMBER$. Puk"
 AIR_WING_NAME_CZE_GENERIC:0	"$NR$. $NAME$"
+
 AIR_WING_NAME_BEL_GENERIC:0	"$NAME$ $NR$"
+
+
+
 AIR_WING_NAME_BUL_GENERIC:0	"$NR$-ti $NAME$"
+
+
+
 AIR_WING_NAME_CHI_GENERIC:0	"$NR$ $NAME$"
+AIR_INVASION_PLAN_CAP_REACHED:	"§RObergrenze des Luftlandungsplans ($CAP|Y$) erreicht.§!"
 MP_TIME_TOOLTIP:1	"$WHO|Y$ hat das Spiel pausiert.\nKlicke, um das Spiel zu pausieren."
 CONFIRMCONSOLIDATEUNITS:0	"Abteilungen konsolidieren"
 CONFIRMCONSOLIDATEUNITSTEXT:2	"Sind Sie sicher, dass Sie $NUM|Y$ Abteilungen zusammenführen wollen? Die stärksten Divisionen in der Auswahl werden von den anderen konsolidiert."
+
 CONFIRMCONSOLIDATEUNITSAREENCIRCLED:0	"§RAusgewählte Einheiten sind eingekesselt, Sie verlieren ihre gesamte Ausrüstung und $VALUE|%0$ ihrer Mannstärke!§!"
 CONFIRMCONSOLIDATE_EQUIPMENT_GAIN_CONSOLIDATE_TITLE:0	"Die folgenden Einheiten werden in das §HWaffenarsenal§! den §HSoldatenpool§! zurückgegeben:"
+
 CONFIRMCONSOLIDATE_ARMY_INFO_NOT_FULL:0	"$ARMY|H$ wird auf die folgende Stärke verstärkt:"
+
+
+
 CONSOLIDATE_NOT_POSSIBLE:0	"Konsolidierung ist §Rnicht möglich§!"
 CONSOLIDATE_NOT_POSSIBLE_TOOLTIP:0	"Um Einheiten zu konsolidieren, müssen die folgenden Kriterien erfüllt sein:"
 CONSOLIDATE_NOT_POSSIBLE_SAME_TEMPLATE:0	"- Ist vom gleichen §YVorlagentyp§!"
@@ -841,71 +1575,172 @@ CONSOLIDATE_NOT_POSSIBLE_NOT_IN_COMBAT:0	"- Befindet sich nicht im aktiven Kampf
 CONSOLIDATE_NOT_POSSIBLE_NOT_AN_EXPEDITION:0	"- Ist keine §YExpedition§! Einheit"
 CONSOLIDATE_NOT_POSSIBLE_AT_FULL_STRENGTH:0	"- Ist nicht in voller Stärke"
 CONSOLIDATE_NOT_POSSIBLE_FOR_SOME_UNITS:0	"- Ist für einige der Einheiten deaktiviert"
+
 DECISION_AMOUNT_DAYS:0	"§H$AMOUNT$ Tage§!"
+
+
+
 DECISION_WHILE_ACTIVE:0	"§HWährend aktiv:§!"
 DECISION_FOR_AMOUNT_DAYS_MODIFIER:0	"§Hfür $AMOUNT|H$ Tage:§!"
 DECISION_REMOVE_HEADER:1	"§HEffekte wenn entfernt:§!"
 DECISION_WILL_BE_REMOVED_IF:1	"§HWird sofort entfernt, wenn:§!"
 DECISION_WILL_BE_CANCELLED_IF:0	"§HSofort abgebrochen, wenn:§!"
 EVENT_AMOUNT_DAYS:0	"$AMOUNT$ Tage"
+
 TIMED_DECISION_TIMEOUT_EFFECT_HEADER_GOOD:0	"§HWirkt in $TIMEOUT|0$ Tagen:§!"
+
 TIMED_DECISION_COMPLETE_EFFECT_HEADER_BAD:0	"§HAuswirkung bei Abschluss:§!"
 TIMED_DECISION_COMPLETE_EFFECT_HEADER_GOOD:0	"§HAuswirkungen, wenn fehlgeschlagen:§!"
+
 TIMED_DECISION_MODIFIER_HEADER_NORMAL_INF:0	"§HWenn abgeschlossen:§!"
 TIMED_DECISION_MODIFIER_HEADER_NORMAL_DAYS:0	"§HFür $AMOUNT|H$ Tage nach Abschluss:§!"
 TIMED_DECISION_MODIFIER_HEADER_SELECTABLE_INF:0	"§HWenn ausgewählt:§!"
 TIMED_DECISION_MODIFIER_HEADER_SELECTABLE_DAYS:0	"§HFür $AMOUNT|H$ Tage, wenn ausgewählt:§!"
 TIMED_DECISION_FAILED:0	"Gescheitert"
+
 TIMED_DECISION_PREREQUISITES_HEADER_BAD:0	"§HFertigstellen:§!"
+
+
 DECISION_CANCEL_HEADER:0	"§HWenn abgebrochen:§!"
+
 SEND_PING_TOOLTIP:0	"§GStrg + Alt + Klick§! zum Senden eines Pings an Verbündete."
 SEND_PING_OFFENSIVE_TOOLTIP:0	"§GStrg + Alt + Shift + Klick§! um einen offensiven Ping an Verbündete zu senden."
 SEND_MINIMAP_HANDLE_TITLE:0	"§Hminimap§! umschalten"
 SEND_DEFENSIVE_PING_MINIMAP_TITLE:0	"§HVerteidiguns§! Ping senden"
+
 SEND_OFFENSIVE_PING_MINIMAP_TITLE:0	"Sende §HOffensiv§! Ping"
 SEND_OFFENSIVE_PING_MINIMAP_DESCRIPTION:0	"§HKlick§! auf diese Schaltfläche und dann §HKlick§! auf §Hminimap/Spielplan§!, um einen §GOffensiv§!-Ping an Ihre Verbündeten zu senden."
 SHORTCUT_SAVED:0	"Abkürzung wurde gespeichert"
 cold_climate:0	"Kälte Akklimatisierung"
+
+
 ACCLIMATIZATION_GAIN_ENTRY_YES:0	"£trigger_yes"
 ACCLIMATIZATION_GAIN_ENTRY_NO:0	"£trigger_no"
 ACCLIMATIZATION_GAIN_ENTRY:0	"$YES_NO$ £unitlist_acclimatization|$ICON$ $CLIMATE$ = $VALUE|+1$"
 ACCLIMATIZATION_GAIN_ENTRY_EACH_DAY:0	"\n $GAIN$ jeden Tag."
 ACCLIMATIZATION_CONDITIONS_HEADER:0	"Bedingungen für das Gewinnen:"
+
+
+
+
+
+
+
+
+
+
 CANNOT_RETREAT_WHILE_DEFENDING:0	"Kann sich während der Verteidigung nicht zurückziehen"
+
 ORG_DAMAGE_MULTIPLIER:0	"Schaden durch Organisation"
- #AIR_WING_NAME_FALLBACK:0 "$COUNTRY$ $TYPE$ Air Wing $NUMBER$"
+
+
+
+
+
+
+
+
 SOME_UNITS_IN_BORDER_WAR:1	"Divisionen im Grenzkonflikt: $NUM|H$"
+
 UNITLEADER_IS_EN_ROUTE:0	"$NAME|H$ ist derzeit §RUnterwegs§! von einem früheren Kommando. Er wird für weitere $DAYS|H$ Tage keine Fähigkeiten nutzen oder positive Buffs geben können."
+
+
+
 PROV_TOOLTIP_LOCATION_OWNER:0	"Besitzer: $NAME|Y$"
+
+
 PROV_TOOLTIP_SELECTION_NUM_DIVS:1	"$UNIT_TYPE_PLURAL|U$: $NUM|H$"
 PROV_TOOLTIP_TEMPERATURE:1	"$WEATHER$§H(§!$TEMP|0H$§H°C)§!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 FUEL_DAILY_GAIN_OIL_ONLY:0	"Täglicher Gewinn: $NUM|H$ (aus $OIL|H$£resources_strip|1 )"
+
 FUEL_DAILY_GAIN_BASE:0	"Basis-Gewinn: $NUM|H$"
 FUEL_DAILY_GAIN_FROM_STATES:0	"Von Raffinerien: $NUM|H$"
 FUEL_DAILY_GAIN_FROM_OIL:0	"Von $OIL$£resources_strip|1 : $NUM|H$"
+
 FUEL_DAILY_GAIN_FROM_OTHER:0	"Aus anderen Quellen: $NUM|H$"
 DAILY_FUEL_CONSUMPTION:1	"Aktiver Verbrauch: $NUM|H$"
 DAILY_FUEL_CONSUMPTION_MAX:0	"Potenzieller Verbrauch: $NUM|H$"
+
 OUT_OF_FUEL_INFO:0	"Bei den derzeitigen Verbrauchsraten wird der Treibstoff in $DUR|R$ ausgehen"
+
+
+
 FUEL_CAPACITY_FILL_INFO:0	"Mit der aktuellen Produktionsrate werden Sie Ihre Treibstoffkapazität in $DUR|G$ füllen"
+DURATION_HOURS:0	"$NUM|.0$ Stunden"
+
+
 DURATION_YEARS:0	"$NUM|.1$ Jahren"
+
 FUEL_STOCKPILE_EMPTY_SHORT:0	"§R0§!"
 FUEL_STOCKPILE_MAX:0	"§GLagerbestand ist voll.§!"
 FUEL_STOCKPILE_EMPTY:0	"§RLagerbestand ist leer.§!"
+
+
+
+
+
+
+
+
 FUEL_DAILY_REQUIRED_FROM_OTHER:0	"Aus zivilem Bedarf: $NUM|H$"
+
 FUEL_DAILY_REQUIRED_AND_RECEIVED:0	"Aktueller Bedarf: $REQUIRED|H$/Tag \n§R(Erhalten: $RECEIVED$/Tag)§!"
 FUEL_DAILY_REQUIRED_MAX:0	"Maximaler Verbrauch: $NUM|H$/Tag"
 FUEL_DAILY_REQUIRED_MAX_DESC_NAVY:1	"Der Verbrauch hängt von der aktuellen Aktivität ab. Er erreicht den maximalen Verbrauch während eines Kampfes."
+
+
+
+
+
+
 FUEL_STOCKPILE_HEADER:0	"\n§HTreibstoff Lagerkapazität: $NUM$§!"
+
 FUEL_CAPACITY_FROM_STATES:0	"In Staaten: $NUM|H$"
+
+
 TOO_MANY_REGIONS_FOR_CONVOY_RAID_WARNING:0	"§R£mapicon_unit_no_orders Geringe Effizienz bei Konvoiüberfällen§!"
+
+
+
+
+
 NOT_ENOUGH_TASK_FORCES_FOR_CONVOY_ESCORT_DETAILED:0	"Eine Sicherungseinsatzverband ist nicht bereit, wenn sie entweder bereits in ein Gefecht verwickelt ist oder sich nicht in Reparatur befindet."
+
 TOO_MANY_CONVOYS_FOR_CONVOY_ESCORT_DETAILED:2	"Bei geringerer Effizienz können die Konvoieskorte Einsatzverbände nicht alle Konvois vollständig abdecken. Wenn Konvois angegriffen werden, stehen zu Beginn des Kampfes weniger Schiffe zur Verfügung, um sie zu schützen."
 TOO_MANY_CONVOYS_FOR_CONVOY_ESCORT_REMEDY:0	"Das Hinzufügen von mehr Schiffen zur Mission erhöht die Geleiteffizienz"
+
 CONVOY_ESCORT_MISSION_EFFECTIVENESS:0	"Effektivität der Mission: $VALUE|H$"
+
+
+
+
 CONVOY_ESCORT_PRESENCE_IN_REGION:0	"Eskortpräsenz in der Region: $VALUE|H$"
+
+
+
+
 FACTION_LEADER_CAPITULATED_HEADER:0	"Fraktionsführerschaft"
 FACTION_LEADER_CAPITULATED_WE_ARE_NEW_LEADER:0	"Nach der Kapitulation von $OLDLEADER|H$ sind wir nun der Anführer von $FACTION|H$."
+
+
+
+
+
 RESEARCH_XP_BOOST_TOOLTIP:0	"Erfahrungsschub: $VAL|+%0$"
 RESEARCH_ONE_TIME_BONUS:0	"Bonus für begrenzte Nutzung: $VAL|+%0$"
 RESEARCH_GLOBAL_BONUS:0	"Bonus für Forschungsgeschwindigkeit: $VAL|+%0$"
@@ -916,21 +1751,27 @@ RESEARCH_AIR_EXPERIENCE:0	"$VALUE|.0Y$£air_experience "
 RESEARCH_AHEAD_OF_TIME_YEARS:0	"$VAL|.1Y$ Jahre"
 REQUEST_EXPEDITIONARIES:0	"Anfrage Expeditionstruppen"
 TOTAL_UNITS:0	"Einheiten gesamt:"
+
 QUEUED:0	"In Warteschlange"
+
 NAVAL_ACCESS:0	"Zugriff"
-SUPREMACY_DETAILS:0	"§HÜberlegenheit der Marine§! errechnet sich aus der Summe der Gesamtüberlegenheit der befreundeten Schiffe in der Region gegenüber der feindlichen Gesamtüberlegenheit.\n\nDie Gesamtüberlegenheit einer Marine hängt davon ab, welche Art von Mission sie durchführt, wie effektiv sie in der Region ist, wie viele Schiffe sie hat und wie groß diese sind.\n\n"
 REPAIR_ASSIGNMENT_INFO:0	"Dies ist die maximale Anzahl von §HWerften§!, die für Schiffsreparaturen eingesetzt werden können."
 TOO_MANY_SHIPS_TO_REPAIR:0	"§RDie Kapazität der Marinebasis ist zu gering, um alle Schiffe in der Warteschlange zu reparieren.§!"
 TOO_MANY_SHIPS_TO_REPAIR_NO_DOCKYARDS:0	"§RSie haben nicht genug Werften für Reparaturen zugewiesen, um die volle Kapazität der Marinebasis zu nutzen§!"
 SHIPS_THAT_AR_BEING_REPAIRED_IN_ALLY_INFO:0	"Schiffe, die im Marinestützpunkt eines anderen Verbündeten repariert werden, nutzen dessen Werften für Reparaturen."
 DOCKYARD_REPAIR_INFO:0	"Es gibt $CUR|H$ Schiffe, die auf Reparaturen warten.\nDieser §YMarinestützpunkt§! kann maximal $MAX|H$ gleichzeitige Reparaturen unterstützen."
 NAVAL_REPAIR_QUEUE_DOCKYARD_SHIP_TOOLTIP:0	"Zurzeit befinden sich $NUM|H$ Schiffe in der Warteschlange für Reparaturen in dieser Marinebasis."
+
 NAVAL_REPAIR_QUEUE_SHIP_TOOLTIP:0	"§GZiehen und Ablegen§! zum Verschieben von Schiffen innerhalb der Reparaturwarteschlange oder zum Zuweisen an einen anderen Marinestützpunkt"
+
 NAVAL_REPAIR_QUEUE_EXPAND_COLLAPSE_ALL:0	"§GKlick§! zum Auf- und Zuklappen aller Warteschlangen."
 NAVAL_REPAIR_BUTTON_INFO:1	"§HMarine Reparaturwarteschlange§!\n§GKlick§! zum Anzeigen der Warteschlange und Bearbeiten der Reparaturlinien."
 WILL_BE_REMOVED:0	"Verbleibende Tage: $NUM|H$"
+
 OFF_REFITTING:0	"Aus Umrüstung"
 MERGING:0	"Zusammenführen"
+
+
 REFIT_CANCEL:0	"Abbrechen"
 REFIT_DESCRIPTION:1	"Rüste die ausgewählten Schiffe ($COUNT$) auf das unten stehende Design um:"
 REFIT_NO_SHARED_MATCHES:0	"§REs gibt kein existierendes Schiffsdesign, auf das alle ausgewählten Schiffe umgerüstet werden können. Erstelle ein neues Schiffsdesign oder beschränke deine Auswahl auf ähnliche Schiffe.§!"
@@ -946,16 +1787,29 @@ SCORCHED_EARTH_STATE_PREVENT_REPAIRS:0	"Die Reparaturen sind wegen der verbrannt
 SCORCHED_EARTH_STATE_DOES_NOT_CONTROL_STATE:1	"£trigger_no! Zustand nicht unter deiner Kontrolle.\n"
 SCORCHED_EARTH_STATE_ALREADY_SCORCHED:1	"£trigger_no! Verbrannte Erde wird bereits in diesem Zustand angewendet.\n"
 SCORCHED_EARTH_STATE_CANT_AFFORD:1	"£trigger_no! Unzureichende politische Macht.\n\n"
+
 SCORCHED_EARTH_STATE:2	"\n§HScorched Earth§!\n\nSperrung von Eisenbahnen in diesem Staat für £pol_power §H$COST$§!, wodurch sie beschädigt und Reparaturen verhindert werden."
+
+
+
 FLEET_MAX_TASKFORCE_DESCRIPTION:0	"$ADMIRAL|H$ kann maximal $NUM|H$ aktive Kampfgruppen führen."
+
+
+
 FE_IRONMAN_NOPOPS_TOOLTIP:0	"Ironman erfordert, dass der Benutzer mit einem Paradox-Konto eingeloggt ist."
+
 MSGRDK_SIGNIN_FAILED_TEXT:0	"Wir konnten Sie nicht mit Ihrem Microsoft-Konto anmelden. Einige Spielfunktionen sind möglicherweise nicht verfügbar."
 MSGRDK_NO_PERMISSION_TITLE:0	"Kontoberechtigung"
 MSGRDK_NO_UGC_TEXT:0	"Sie haben keine Berechtigung, auf nutzergenerierte Inhalte zuzugreifen. Mods werden deaktiviert."
+
 MSGRDK_COMMUNICATIONS_UNAVAILABLE_PRIVILEGE_CHAT:0	"*** Die Nachricht wurde blockiert, da Ihr Benutzerprofil nicht über die Berechtigung zur Kommunikation verfügt ***"
 MSGRDK_UGC_MULTIPLAYER_UNAVAILABLE:0	"Blockiert wegen fehlender Berechtigung für benutzergenerierte Inhalte für Ihr Microsoft-Konto"
 FOCUS_FILTER_TAG_LIST:0	"§HFilters:§! $FILTERS$"
+
 FAKE_INTEL_ARMY_NAME:0	"Gefälschter Spionagearmeename: $NAME$"
+
+
+
 INTEL_DIVISION_REVEALED:0	"Gefälschte Informationen aufgedeckt"
 FOCUS_SEARCH_TYPE_TEXT:0	"Typ zum Suchen"
 EFFECTS_FOR_COUNTRY:0	"Effekte für $COUNTRY|H$:"
@@ -964,71 +1818,175 @@ MAP_MODE_CLICK_INFO:0	"§GLinks-Klick§! zum Ändern des Kartenmodus"
 MAP_MODE_ASSIGN_INFO:0	"§GLinks-Klick§! weist $NEW_MAP_MODE|H$ der Taste $OLD_MAP_MODE_KEY$ $OLD_MAP_MODE|H$ zu und schließt das Menü.\n§GRechts-Klick§! zuweisen ohne das Menü zu schließen"
 MAP_LOADING_ERROR_TITLE:0	"Die Karte konnte nicht geladen werden"
 MAP_LOADING_ERROR_INTRO:0	"Einige Fehler sind in der Map-Definition vorhanden und wurden in der Datei error.log\n\n protokolliert."
+
 MAP_LOADING_ERROR_MITIGATION_STEAM:0	"Wenn dies fehlschlägt, überprüfen Sie die Integrität der Spieldateien in Steam.\n"
+
+
+
 MAP_LOADING_ERROR_INGAME_MITIGATION:0	"Du kannst immer noch auf den §HNudger§! zugreifen, um zu versuchen, die Probleme zu beheben.\n\nWenn du vom §HNudger§! zurückkommst, ist es am besten, das Spiel neu zu starten, um sicherzustellen, dass alles richtig neu geladen wird.\nStarte ein Spiel auf eigene Gefahr!"
 STATE_RESOURCE_COST:0	"Zustand Verbrauch: $VALUE|-.0$"
 SETTINGS_ACCESSIBILITY:0	"Zugänglichkeit"
 SETTINGS_ACCESSIBILITY_TTS:0	"Multiplayer-Chat Text in Sprache"
 SETTINGS_ACCESSIBILITY_TTS_INFO:0	"Aktivieren Sie die Übersetzung von Text in Sprache im Mehrspieler-Chat."
 SETTINGS_ACCESSIBILITY_STT:0	"Multiplayer-Chat Sprache zu Text"
+
 SETTINGS_ACCESSIBILITY_VISUAL_ALERTS:0	"Multiplayer-Chat Visuelle Benachrichtigungen"
+
 SETTINGS_ACCESSIBILITY_USE_STT_SHORTCUT:0	"Umschalttaste für Sprache in Text"
 SETTINGS_ACCESSIBILITY_USE_STT_SHORTCUT_INFO:0	"Drücken Sie die Taste, um die Sprache-zu-Text-Übersetzung ein-/auszuschalten"
+
 SETTINGS_ACCESSIBILITY_STT_VALUE_INFO:0	"Umschalten von §HSpeech To Text§! ein oder aus"
 SETTINGS_ACCESSIBILITY_VISUAL_ALERTS_VALUE_INFO:0	"§HVisuelle Warnungen§! ein- oder ausschalten"
 SETTINGS_ACCESSIBILITY_USE_STT_SHORTCUT_VALUE_INFO:0	"§HSpeech to Text Shortcut§! ein- oder ausschalten"
 SETTINGS_ACCESSIBILITY_CHAT_LARGE_FONTS:0	"Multiplayer-Chat Große Schriftarten"
 SETTINGS_ACCESSIBILITY_CHAT_LARGE_FONTS_INFO:0	"Große Schriftarten für Multiplayer-Chat-Nachrichten verwenden"
+
 SETTINGS_ACCESSIBILITY_STT_SHORTCUT_INPUT:0	"Multiplayer-Chat-Verknüpfung Sprache zu Text"
+
+
+
 CHAT_CVAA_SYSTEM_NAME:0	"System"
+
 SUPPLY_TRUCKS:0	"Schwere Lastwagen"
 SUPPLY_TRUCKS_DESC:2	"§YSchwere LKWs§!\nAktuell im Gebrauch: $CURRENT_USAGE|H$\n"
 SUPPLY_TRUCKS_EMPTY:0	""
 SUPPLY_TRUCKS_DESC_DETAILED:1	"Schwere Lastwagen werden für die Lieferung von Nachschub aus Versorgungszentren an Armeen verwendet."
+
 MOVE_SUPPLY_CAPITAL_POPUP_DESC:0	"Sind Sie sicher, dass Sie Ihr Nachschubkapital verschieben wollen? Sie werden erst nach $NUM|R$ Tagen wieder vollen Nachschub erhalten."
 CANT_MOVE_SUPPLY_CAPITAL_SURRENDER_LIMIT:1	"§RDu kannst dein Nachschubkapital nicht verschieben, wenn dein Land über dem $VALUE|%.0H$ Überlassungslimit liegt§!"
 CANT_MOVE_SUPPLY_CAPITAL_NOT_CONTROLLED:1	"§RSie können Ihr Nachschubkapital nicht in nicht kontrollierte Provinzen verschieben§!"
 CANT_MOVE_SUPPLY_CAPITAL_NO_BUILD_NODE:2	"§RSie können Ihr Nachschubkapital nicht in eine Provinz ohne Nachschubzentrum verschieben§!"
+
+
 ARMY_BADGE_ORG_STR_INDICATOR_TOOLTIP:0	"§HOrganisation§!\nMittelwert: §H$ORG_MEAN$%§!\nMedian: §H$ORG_MEDIAN$%§!\n\n§HKampfstärke§!\nMean: §H$STR_MEAN$%§!\nMedian: §H$STR_MEDIAN$%§!"
 RAILWAY_CONSTUCTION_TOOLTIP:0	"Bau eine Stufe $TARGET_LEVEL|H$ Eisenbahnen in $RAILWAY_NAME|H$"
 RAILWAY_UPGRADE_TOOLTIP:1	"Höherstufung von $START_LEVEL|H$-Eisenbahnen in $RAILWAY_NAME|H$ auf Level $TARGET_LEVEL|H$"
 RAILWAY_CONSTRUCTION_ALL_COMPLETE:0	"Zeit für die Fertigstellung: $TIME$"
 RAILWAY_CONSTRUCTION_ALL_COMPLETE_NEEDED_RAILWAYS:0	"Benötigte Bahnen für die Fertigstellung: $NUM|H$"
+
+
+
+
+
+
+
+
+
+
 SUPPLYMODE_TOOLTIP_CAPITAL_NODE_DOCKYARDS:0	"Von Werften: $SUPPLY|.1H$ £supply_texticon£"
+
 SUPPLYMODE_TOOLTIP_NAVALBASE_NODE_HEADER:0	"§YMarinestützpunkt§! in $PROVINCE_NAME|H$, Ebene $LEVEL|H$:"
+SUPPLYMODE_TOOLTIP_FOREIGN_HOMEBASE_NODE_HEADER:	"§YAusländische Heimatbasis§! in $PROVINCE_NAME|H$, Stufe $LEVEL|H$:"
+
+
+
+
+
+
+
 SUPPLYMODE_TOOLTIP_DISCONNECTED:0	"§RKein Versorgungsanschluss von Hauptstadt§!"
+
 SUPPLYMODE_TOOLTIP_ENEMY_DISRUPTION:0	"§HFeindliche Störungen:§! $AMOUNT$"
+
+
+
 SUPPLYMODE_TOOLTIP_TRAINS_NEEDED:0	"Benötigte Züge: $ALLOCATED|H.0$/$NEEDED|H$ £GFX_infrastructure_texticon£ ($PERCENTAGE|H$)"
+
+
 RAILWAY_UPGRADE:0	"§GKlick§! zum Aufrüsten"
 RAILWAY_CANCEL_UPGRADE:0	"§GRechtsklick§! zum Abbrechen der Aufrüstung"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 RATIO_SATISFIED:0	"$SATISFIED$: $RATIO|.0%H$"
+
 TRUCKS_LOST_KILLED:0	"Verluste durch feindliche Bombardierung (30 Tage): §R$NUM|.0$§!"
 LOGISTICS_CAPACITY:1	"Logistikübersicht"
 LOGISTICS_CAPACITY_DETAILED_DESC:1	"Die logistische Kapazität zeigt an, wie ausreichend ihre Versorgung mit Nachschub ist. Wenn Ihr Land nicht über die Züge oder die schweren Lastwagen verfügt, die für den Transport aller Nachschubgüter benötigt werden, erhalten Ihre Einheiten weniger Nachschub und werden mit Nachschub-Strafpunkten belegt."
+
 SUPPLY_NODE_TRUCK_TOOLTIP:0	"§H$TRUCKS$§!\n $NEEDED$: $NUM_NEEDED|H$\n $SATISFIED$: $RATIO$"
 SUPPLY_NODE_CONVOY_TOOLTIP:0	"§HGesamtzahl der Konvois§!\n $NEEDED$: $NUM_NEEDED|H$\n $RECEIVED$: $NUM_ASSIGNED|H$\n $EFFICIENCY$: $RATIO$"
 STATE_SUPPLY_HEADER:2	"§HNachschub aus Region§!" 
+
 BASE_STATE_SUPPLY:2	"Basis: $VAL|.2H$"
+
+
+
 STATE_VP_SUPPLY_PLUR:0	"Von Siegpunkten: $VAL|.2H$"
+
+
+
 CONSUMER_SUPPLY_TOOLTIP:2	"$LABEL$: §H$VAL|.2$§!"
+
 NEEDED_SUPPLY_WITH_VALUE:0	"$NEEDED_SUPPLY$: §H$VAL|.2$§! £supply_texticon£"
 SUPPLY_DIVISION_DEMAND:0	"Abteilungen: §H$AMOUNT$§! (§H$VAL|.2$§!)"
 SUPPLY_AIRPLANE_DEMAND:0	"Flugzeuge: §H$AMOUNT$§! (§H$VAL|.2$§!)"
+
+
+
+
+
+
+
+
 SUPPLY_FLOW_DISRUPTION:0	"Unterbrochen durch feindliche Logistik Luftangriffe: §R-$SUPPLY$§!"
+
 RAILWAY_CONNECTION_NAME_SINGLE:1	"Eisenbahnverbindung (Stufe $LEVEL$) in $NAME|H$\n"
 RAILWAY_CONNECTION_NAME:1	"Eisenbahnverbindung (Stufe $LEVEL$) $NAME|H$ - $NAME2|H$\n"
 BOTTLENECK_CONNECTION_NAME:0	"$NAME|H$ - $NAME2|H$"
+
+
+
+
+
+
+LIST_OR:0	", oder "
 CHARACTER_NAME_TOOLTIP:0	"$NAME|Y$"
+
 CHARACTER_ADVISOR_ON_REMOVE_TOOLTIP:0	""
+
+
 RAILWAY_CONNECTION_TOOLTIP_HEADER:0	"§HEisenbahnverbindung§! Ebene $LEVEL|H$"
+
+
+
+
+
 RAILWAY_CONNECTION_TOOLTIP_CURRENTLY_UPGRADING:0	"Derzeitiger Ausbau von §HEisenbahnverbindung§! auf Stufe $LEVEL|H$"
+
 WEEKLY_FROM_OTHER_SOURCES:0	"\n§HWir erhalten auch§!:\nWöchentlich Mannstärke: $VALUE|G$"
 SUPPLY_NODE_MOVE_CAPITAL:0	"§HVerlege Hauptversorgungsdepot hierhin§!"
 SUPPLY_NODE_UPGRADE_TO_CAPITAL:2	"§HVerbesserung von Engpässen§!\nDie Aufrüstung von Eisenbahn- und Hafenengpässen auf dem Weg von Capital Hub wird in die Warteschlange gestellt. Dies erhöht das verfügbare Versorgungspotential in allen von diesem Knotenpunkt betroffenen Provinzen."
+
 SUPPLY_NODE_BUILD_RAIL:0	"§HEisenbahn bauen§!\nBauen Sie von diesem Versorgungsknoten aus eine Eisenbahn.\n§GHalten Sie die Umschalttaste§! gedrückt, während Sie auf diese Schaltfläche klicken, um automatisch den optimalen Pfad zu verwenden."
+
+
+
+
 SUPPLY_FLOW_PROVINCE_ACCUMULATED:0	"Gesamt: $VALUE|H$ £supply_texticon£"
+
+
+
+
 SUPPLY_PROVINCE_MODIFIED_BY:0	"\n§HVersorgungseffizienz§! wird beeinflusst durch:"
 SUPPLY_FLOW_PROVINCE_FROM_OTHERS:0	"...und $TOTAL|H$ £supply_texticon£ von $NUM_SOURCES|H$ Quellen."
+
+
+
+
+
 ARMY_XP_TITLE:0	"§HTäglicher Erfahrungsgewinn des Heeres durch Offiziere§!"
 NAVY_XP_TITLE:0	"§HTäglicher Erfahrungsgewinn der Marine durch Offiziere§!"
 AIR_XP_TITLE:0	"§HTäglicher Erfahrungsgewinn der Luftwaffe durch Offiziere§!"
@@ -1039,7 +1997,9 @@ XP_OC_PARTIAL:0	"Dieser Wert trägt zu unserem täglichen Gesamtgewinn bei, der 
 CP_OC_PARTIAL:0	"Dieser Wert reduziert unsere maximale Kommandomacht, die in der oberen Leiste zu finden ist."
 CAN_BE_BUILT_IN_ALLIED_TERRITORY:0	"\n§GDieses Gebäude kann auf verbündetem Gebiet errichtet werden§!"
 NOT_ENOUGH_CP_TO_PROMOTE_ADVISOR:0	"£trigger_no£ Wir haben nicht die erforderliche $COST|0R$ £command_power"
+
 REMOTE_STORAGE_WARNING_DESC:0	"Beim Speichern in der Cloud ist etwas schief gelaufen.\nIhr Spiel ist NICHT gespeichert. Bitte überprüfe, ob du mit dem Internet verbunden bist und genügend Speicherplatz in der Cloud vorhanden ist."
+
 DIVISION_COMMANDER_CLICK_TO_GOTO:0	"§G Rechtsklick§! um zu dieser Abteilung zu wechseln."
 ARMY_BUTTON_DIV_COMMAND_TOOLTIP_LEADER:0	"$ARMY_NAME|H$\n$LEADER$"
 ARMY_BUTTON_DIV_COMMAND_TOOLTIP_NO_LEADER:0	"$ARMY_NAME|H$\nKein Kommandant"
@@ -1048,133 +2008,1031 @@ PLAN_COHESION_LOOSE_TITLE:0	"§HFlexibler Zusammenhalt§!"
 PLAN_COHESION_LOOSE_DESC:0	"Divisionen verlagern sich aus großer Entfernung, um eine Kampflinie aufrechtzuerhalten."
 PLAN_COHESION_BALANCED_TITLE:0	"§HAusgewogener Zusammenhalt§!"
 PLAN_COHESION_BALANCED_DESC:1	"Divisionen verlagern sich nur aus mittleren Entfernungen, um eine Kampflinie aufrechtzuerhalten."
+
 PLAN_COHESION_STRICT_DESC:1	"Divisionen verlagern sich nur aus sehr kurzen Entfernungen, um eine Kampflinie aufrechtzuerhalten.\n\n§RDiese Einstellung ist nicht für dünn besiedelte oder sich schnell verändernde Frontlinien geeignet - hier ist besondere Aufmerksamkeit erforderlich.§!"
+
 UNIT_LEADER_NEW_LEADER_DIVC:0	"Feldkommandeure anzeigen"
 PLANE_COUNTS_IN_REGION:0	"$COUNTS$"
 PLANE_COUNTS_PASSING_THROUGH_REGION:0	" ($COUNTS$)"
+
 PLANES_PASSING_THROUGH_REGION:0	"\n§HFlugzeuge, die die Region durchfliegen§!\n"
 OPEN_COUNTRY_LOGISTICS:0	"Öffne Logistikmenü"
+
+
 war_support_during_war:0	"Kriegsunterstützung"
 LOGISTICS_ONLY_FOR_ALLIES:0	"Wir können das Logistikmenü nur für Fraktionsmitglieder oder Untertanen anzeigen."
 TRAINING_ACCIDENT:0	"ein Trainingsunfall"
 SUNK_BY_MINES:0	"Minen"
-DIVISION_VIEW_HAS_MEDALS:0	"Diese Abteilung kann mit einer §HMedaille§! ausgezeichnet werden.\n§GKlicken Sie hier, um die Medaillenansicht zu öffnen.§!"
-  #### BICE ### ""
-  
-OPERATION_OPEN:0	"§GKlick§! zum Öffnen"
-OPERATION_ADD:0	"§GKlick§! zum Hinzufügen"
-OPERATION_REMOVE:0	"§GKlick§! zum Entfernen"
-SHIFT_CLICK_TO_SELECT_ALL:0	"§GShift+Klick§! zum Auswählen aller"
-SHIFT_CLICK_TO_DESELECT_ALL:0	"§GShift+Klick§! zum Aufheben der Auswahl"
-SHIFT_CLICK_TO_ADD_ALL:0	"§GShift+Klick§! zum Hinzufügen aller"
-SHIFT_CLICK_TO_REMOVE_ALL:0	"§GShift+Klick§! um alle zu entfernen"
-OLD_SAVEGAME_POPUP:0	"Dieser Spielstand stammt aus einer anderen Version des Spiels und kann nicht geladen werden."
-CANTCONTINUEGAME_TITLE:0	"Spielstand konnte nicht geladen werden"
-ACHIEVEMENTS_VIEW:1	"Errungenschaften ansehen"
-SHIP_RIGHT_CLICK_TO_CHANGE_AGGRESSIVENESS_LEVEL:	"§GKlicken Sie rechts auf _§!, um zu $PREVIOUS|H$ zu wechseln."
-AIR_SUPERIORITY_SAM_MISSION_REDUCTION_OUR:0	"Reduziert durch unsere Boden-Luft-Raketen in der Region = $RED|G1$"
-AIR_SUPERIORITY_SAM_MISSION_REDUCTION_ENEMY:0	"Reduziert um die feindlichen Boden-Luft-Raketen in der Region = $RED|R1$"
-AIRVIEW_DETAILS_CHANNEL_14:3	"Feindliche Truppen bombardiert: $VAL|G1$"
-AIRVIEW_DETAILS_CHANNEL_17:3	"Feindliche Bomber verloren: $VAL|G0$"
-AIRVIEW_DETAILS_CHANNEL_20:0	"Feindliche Bomber gestört: $VAL|G1$"
-AIRVIEW_DETAILS_CHANNEL_21:1	"Feindliche Züge verloren: $VAL|G0$"
-AIRVIEW_DETAILS_CHANNEL_24:0	"Feindliche Raketen verloren: $VAL|G1$"
-NAVAL_SERIES_DECREASE_DESC:3	"Verringern Sie die Anzahl der zu produzierenden Schiffe.\n§GCtrl+Klick§! um §H10§!\n§GShift+Klick§! um §H100§! zu verringern."
-RELEASE:1	"Nation freigeben"
-CONVEYOR_ASSIGN_LOCATION_SELECT_AREA:1	"Jede grüne Provinz kann als Einsatzort ausgewählt werden.\n\n§GClick§! um $PROV$ auszuwählen."
-STATE_MODIFIERS:0	"Status-Modifikatoren"
-STATE_BUILDING_STATE_MODIFIERS:0	"Gebäude-Status-Modifikatoren"
-STATE_BUILDING_MODIFIER_HEADING:0	"$BUILDING|Y$:"
-STATE_BUILDING_MODIFIER_PREFIX:0	"  "
-STATE_PROVINCE_NAME_OCCUPIED_COLOR:0	"$PROVINCE|R$"
-SNOW_SPEED_MODIFIER:0	"Schnee: $VALUE|+=%$"
-FOCUS_SIDE_MESSAGE_UNLOCKED_DESC:0	"$FOCUS|H$ wurde abgeschlossen durch $ORIGINATOR|Y$."
-FOCUS_SIDE_MESSAGE_UNLOCKED_TOOLTIP:0	"$FOCUS|H$ wurde abgeschlossen durch $ORIGINATOR|Y$.\n\n$REWARD$"
-FOCUS_SIDE_MESSAGE_CLICK_ACTION:0	"§GLinks Klick§!, um Details zum Fokus anzuzeigen."
-FOCUS_ALTERNATE_ICON_DESC:0	"Umschalten der Anzeige alternativer Symbole für einen Satz von Fokussen"
-FOCUS_ORIGINATOR:0	"Originator ($TAG$$COUNTRY|UH$):"
-FOCUS_OTHER_MEMBERS:0	"Andere Mitglieder ($LIST$):"
-FOCUS_EVERY_MEMBER:0	"Jedes Mitglied:"
-NAVY_REPAIR_POLICY_MIXED:	"Die meisten Einsatzgruppen: $REPAIR_POLICY|$"
-NAVY_REPAIR_POLICY_RIGHT_CLICK_TO_CHANGE_TO:	"§GRechtsklick§! um zu $LEVEL|$ zu wechseln"
-NAVY_REPAIR_POLICY_SPLIT_MIXED:	"Die meisten Einsatzkräfte: §Automatische Abspaltung§! sind jetzt $ON_OFF|H$.\n"
-LMB_TO_SELECT:0	"§GKlicken§! zum Auswählen"
-WAR_HAS_MAJOR:1	"Krieg mit mindestens einer Großmacht"
-GARRISON_CONF_BORDERS:0	"§HGrenzen§! bewachen"
-GARRISON_CONF_FACILITY:0	"§HForschungseinrichtungen§! bewachen"
-DURATION_HOURS:0	"$NUM|.0$ Stunden"
-LIST_OR:0	", oder "
+
+
+
 VALUE_CLICK_ADD_2:0	"§GCtrl + Click§! um §Y+$NUM$§! hinzuzufügen"
+
 VALUE_CLICK_SUB_1:0	"§GClick§! zum Subtrahieren §Y$NUM$§!"
 VALUE_CLICK_SUB_2:0	"§GCtrl + Click§! zum Subtrahieren §Y$NUM$§!"
 VALUE_CLICK_SUB_3:0	"§GShift + Klick§! zum Subtrahieren §Y$NUM$§!"
 CLEAR_ALL:0	"Alles löschen"
+
 TECH_DISALLOWED_BECAUSE:0	"§RDiese Technologie benötigt:§!"
 SUBUNIT_PER_BATTALION_MODIFIER_DESC:0	"\n§LBattalionsmodifikatoren addieren ihre aufgeführten Werte multipliziert mit der Anzahl der Zielbataillone in der Division.§!"
+DIVISION_VIEW_HAS_MEDALS:0	"Diese Abteilung kann mit einer §HMedaille§! ausgezeichnet werden.\n§GKlicken Sie hier, um die Medaillenansicht zu öffnen.§!"
 REPAIR_ASSIGNMENT_INFO_FACTORIES:0	"Dies ist die Anzahl der §HFabriken§!, die Gebäudereparaturen Vorrang vor Bauarbeiten geben."
 INFO_POPUP_CLOSE_TOOLTIP:0	"§GKlicken Sie mit der rechten Maustaste auf§!, um den Vorgang abzubrechen."
+
+
 value_limit_min:0	"$MIN$"
 value_limit_max:0	"höchstens $MAX$"
 value_limit_exact:0	"genau $MIN$"
 value_limit_invalid:0	"§$MAX$ GENAU $MIN$ FEHLER§!"
 EQUIPMENT_DESIGNER_SAVE_PRESET:	"Voreinstellung speichern"
+
+
+
+
+
+
+
+
+
+
 IMPORT_EQUIPMENT_DESIGN_SUCCESS_TITLE:	"Design importiert"
+
 IMPORT_EQUIPMENT_DESIGN_FAILURE_TITLE:	"Importieren fehlgeschlagen"
+
+
+
+
+
+
+
+
+
 CREATE_FOLDER_POPUP_BODY:	"Geben Sie einen Namen für diesen Ordner ein:"
+
 CREATE_NEW_FOLDER_TOOLTIP:	"Klicken Sie, um einen neuen Ordner mit Designs zu erstellen."
+
+
+
 DELETE_PRESET_TOOLTIP:	"§HDelete Saved Design§!\nKlicken Sie, um ein gespeichertes Design zu entfernen. Dadurch wird er aus dem Spiel und aus Ihren auf der Festplatte gespeicherten Dateien entfernt."
+
+
 BYPASS_EFFECTS:	"Effekte umgehen:"
 NO_FOLDER:	"Kein Ordner"
+
+
+
+
 CHANGE_FOLDER_TOOLTIP:	"§GKlicken Sie auf§!, um zu ändern, zu welchem Ordner dieser Entwurf gehört."
 CHANGE_DESIGN_FOLDER_POPUP_TITLE:	"Ordner ändern"
 CHANGE_DESIGN_FOLDER_POPUP_BODY:	"Wählen Sie einen bestehenden Ordner aus, in den Sie diesen Entwurf verschieben möchten, oder geben Sie einen Namen ein, um einen neuen Ordner zu erstellen."
-OVERWRITE_EXISTING_DESIGN_DESC:	"§GKlicken Sie auf§!, um die Einstellung Design überschreiben zu aktivieren.\nDieses Design wurde aus einer bestehenden Vorlage erstellt. Wenn dies markiert ist, wird das vorhandene Design überschrieben."
-CONFIRMCHANGE_SC_IN_TRANSFER_TEXT:	"$NAME|H$ ist bereits einer anderen §GArmee§! zugewiesen, die als §YFreiwillige§! entsandt wurde. \nMöchtest du den §RKommandanten§! wirklich §Gneu zuweisen§!?"
-PROGRESS_RATIO_DESC_TOTAL:	"\nvon $TOTAL_NAME|Y$"
- 
-PROGRESS_TOTAL_AMOUNT:	"§YGesamtbetrag§!"
 
-NAVAL_MISSION_NAME_STRIKE_FORCE_DESC:	"Befiehl der Einsatzgruppe, in der nächstgelegenen Marinebasis zu warten, bis eine feindliche Einsatzgruppe gesichtet wird.\nSobald ein Feind von einer deiner Patrouilleneinsatzgruppen gesichtet wird, wird deine Angriffstruppe ausrücken, um ihn abzufangen. \n\nWenn keine Feinde aktiv bekämpft werden, verbraucht diese Mission $PERCENT|%0G$ Treibstoff."
-NAVAL_BTN_SET_TARGET_NO_TASKFORCE:	"§RKeine Flotte ausgewählt.§!"
-NAVAL_BTN_SET_TARGET:	"§HOptionen zur Zielauswahl für die Marine§!"
-NAVAL_BTN_SET_TARGET_DELAYED_DESCRIPTION:	"Ermöglicht es dir auszuwählen, welche Schiffstypen deine Einsatzgruppen angreifen sollen und welche sie bei einer Begegnung meiden und vor denen sie sich zurückziehen sollen."
-NAVAL_MISSION_TARGET_IS_SELECTED:	"$TYPE$ §Rwerden nicht in den Kampf verwickelt§!"
-NAVAL_MISSION_TARGET_IS_DESELECTED:	"$TYPE$ §Gwerden in den Kampf verwickelt§!"
-CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE:	"Aber nur $NUM|H$ von ihnen sind nah genug, um §HSeemacht§! zu gewährleisten."
-CURRENT_NO_ACTIVE_TASK_FORCE_FOR_DOMINANCE:	" Aber keiner von ihnen ist nah genug, um §HSeemacht§! zu gewährleisten."
-CURRENT_NO_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT:	"Aber keiner von ihnen ist nah genug, um §HUnterstützung bei einer Seelandung§! zu leisten."
-CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE_WARNING:	"§R£mapicon_unit_no_orders  Einige Einsatzverbände sind zu weit von dieser Region entfernt, um §HSeemacht!§!§! zu gewähren."
-NAVAL_INVASION_PLAN_CAP_REACHED:	"§RObergrenze des Marine-Invasionsplans ($CAP|Y$) erreicht.§!"
-NAVAL_COMBAT_DEFENSE_AIRWING_TOOLTIP_SHOT_DOWN:	"\nVon Verteidigungsflugzeugen abgeschossen:"
-NAVAL_SPOTTING_CLAMP:	"Mindestentdeckungsgeschwindigkeit: $SPEED|%.2+=$"
-UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_PLAN_CAP_REACHED:	"§RObergrenze des Marine-Invasionsplans ($CAP|Y$) erreicht.§!"
-ADD_BACKGROUND:	"§HKlicken, um Hintergrund zur Rotation hinzuzufügen§!"
-REMOVE_BACKGROUND:	"§HKlicken, um Hintergrund aus der Rotation zu entfernen§!"
-CHANGE_BACKGROUND:	"Hintergrund ändern"
-CHANGE_BACKGROUND_TT_TITLE:	"§HIntervall für den Hintergrundwechsel§!"
-CHANGE_BACKGROUND_TT_DESC:	"Wie viele Sekunden vergehen, bis zum nächsten Hintergrund gewechselt wird, wenn mehrere ausgewählt sind; der Zyklus ist deaktiviert, solange dieses Fenster geöffnet ist"|"
-EXP_MISSION_BONUS:	"Bonus auf Missionserfahrung: $EFFECT|+=%0$"
-BBYPASS_FOCUS:1	"Bypass"
-RELIABILITY_WEATHER_ORG_IMPACT:0	"Multipliziert mit §R$VAL|2$§! aufgrund der Zuverlässigkeit\n"
-NAVY_REPAIR_PRIORITY:	"§YReparaturpriorität auswählen§!"
-NAVY_REPAIR_NOW_DISABLED:	"Dieses Schiff ist beschädigt. Bringe seine Task Force näher an einen deiner eigenen Marinestützpunkte, um es zu reparieren."
-ALL_TASK_FORCES_REPAIR_NOW_DISABLED:	"Wenn Ihre Einsatzgruppen beschädigt sind und sich in der Nähe einer Ihrer eigenen Marinestützpunkte befinden, können Sie sie zur Reparatur zum Heimatstützpunkt schicken."
-NAVY_CARRIER_DEFENSIVE_STANCE:	"§YVerteidigungsstellung auswählen§!"
-CARRIER_DEFENSIVE_STANCE_SELECTION_0:	"Vollständig defensiv"
-CARRIER_DEFENSIVE_STANCE_SELECTION_1:	"Vorsichtig"
-CARRIER_DEFENSIVE_STANCE_SELECTION_2:	"Ausgewogen"
-CARRIER_DEFENSIVE_STANCE_SELECTION_3:	"Aktiv"
-CARRIER_DEFENSIVE_STANCE_SELECTION_2_DESC:	"§G50 %§! der Flugzeuge werden für Verteidigungsaktionen eingesetzt"
-CARRIER_DEFENSIVE_STANCE_SELECTION_4_DESC:	"Alle Flugzeuge werden für Offensivaktionen eingesetzt"
-CARRIER_DEFENSIVE_STANCE_SORTIE_VALUES:	"$OFFENSIVE|0%Y$ Offensivflug\n$DEFENSIVE|0%Y$ Defensivflug"
-NAVY_AGGRESSIVENESS:	"§YAggressivität auswählen§!"
-AIR_WING_NAME_ITA_GENERIC:0	"$NR$° $NAME$"
-NAVAL_SHIP_NAME_JAP:	"$NAME$ $NR$-Los"
-NAVAL_SHIP_NAME_FRA:	"$NR$. $NAME$"
-AIR_INVASION_PLAN_CAP_REACHED:	"§RObergrenze des Luftlandungsplans ($CAP|Y$) erreicht.§!"
-SUPPLYMODE_TOOLTIP_FOREIGN_HOMEBASE_NODE_HEADER:	"§YAusländische Heimatbasis§! in $PROVINCE_NAME|H$, Stufe $LEVEL|H$:"
+OVERWRITE_EXISTING_DESIGN_DESC:	"§GKlicken Sie auf§!, um die Einstellung Design überschreiben zu aktivieren.\nDieses Design wurde aus einer bestehenden Vorlage erstellt. Wenn dies markiert ist, wird das vorhandene Design überschrieben."
 ALWAYS_SHOW_REGIONS:	"Regionsnamen immer anzeigen"
 ALWAYS_SHOW_REGIONS_DESC:	"Kartenmodi, die strategische Regionsnamen anzeigen, zeigen den Namen der Region, über der sich der Mauszeiger befindet, nur an, wenn diese Einstellung deaktiviert ist."
 LOCK_MAP_TOOLTIP:	"Position des Karten-Tooltips fixieren"
 LOCK_MAP_TOOLTIP_DESC:	"Karten-Tooltips werden in der unteren rechten Ecke des Bildschirms angezeigt, anstatt an der Position des Mauszeigers."
 DEBUG_CLICK_SWITCH_COUNTRY_TOOLTIP:	"§GTab + Klick§! um zu diesem Land zu wechseln (Debug)"
+
+
+
+
+
+
+
+
+REASSIGN_ALL_TASKFORCES_TEXT:0	"Möchten Sie wirklich alle Einsatzgruppen von $FLEETS|H$ den leeren Flotten $PARENT|H$ und §RAuflösen§! zuweisen?"
+CONFIRMDELETE_ORDERS_GROUP_HEADER:1	"Armee entfernen"
+CONFIRMDELETE_ORDERS_GROUP_TEXT:1	"Alle Einheiten dieser Armee werden nicht mehr zugewiesen, und alle festgelegten Befehle werden gelöscht. \nSind Sie sicher, dass Sie §REntfernen§! die §RArmee§!?"
+CONFIRMDELETE_ARMY_GROUP_HEADER:0	"Armeegruppe entfernen"
+CONFIRMDELETE_ARMY_GROUP_TEXT:0	"Alle Einheiten, die zu Unterarmeen gehören, werden freigegeben, und alle festgelegten Befehle werden gelöscht. \nSind Sie sicher, dass Sie §Rdie §! §RArmeegruppe§! entfernen möchten?"
+CONFIRMCHANGE_GROUP_LEADER:0	"Kommandanten neu zuweisen"
+CONFIRMCHANGE_GROUP_LEADER_TEXT:1	"$NAME|H$ ist bereits einer anderen §GArmee§! zugewiesen und wird neu zugewiesen.\nMöchten Sie wirklich §Rden §! den §GKommandanten§! neu zuweisen?"
+CONFIRMCHANGE_GROUP_LEADER_TEXT_SUPREME_COMMANDER:	"$NAME|H$ ist bereits als §GOberbefehlshaber§! Ihrer Fraktion zugewiesen und wird neu zugewiesen. \nSind Sie sicher, dass Sie §Rneu zuweisen§! möchten §Gden §!Kommandanten|?"
+CONFIRMCHANGE_SC_TEXT:	 "$NAME|H$ ist bereits einer anderen §GArmee§! zugewiesen und wird neu zugewiesen.\nSind Sie sicher, dass Sie §Rneu zuweisen§! den §GKommandanten§!?"
+CONFIRMCHANGE_SC_TEXT_SUPREME_COMMANDER:	" $NAME|H$ ist bereits einem anderen §GEinsatzgebiet§! zugewiesen und wird neu zugewiesen.\nSind Sie sicher, dass Sie §Rneu zuweisen§! den §GKommandanten§!?"
+CONFIRMCHANGE_NAVY_LEADER_FLEET_TEXT:0	"$NAME|H$ ist bereits einer anderen §GFlotte§! zugewiesen und wird neu zugewiesen. \nSind Sie sicher, dass Sie §RNeu zuweisen§! den §GKommandanten§!?"
+CONFIRMCHANGE_NAVY_LEADER_HEADQUARTER_TEXT:0	"$NAME|H$ ist bereits einem §GMarinehauptquartier§! zugewiesen und wird neu zugewiesen.\nSind Sie sicher, dass Sie §RNeu zuweisen§! den §GKommandanten§!?"
+CONFIRMCHANGE_NAVY_LEADER_SUPREME_COMMANDER:	"$NAME|H$ ist bereits als §GOberbefehlshaber §! und wird neu zugewiesen.\nSind Sie sicher, dass Sie §Rden §!Kommandanten§Gneu zuweisen§!möchten?"
+CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_GAIN_TITLE:0	"Erhalten Sie:"
+MENU_BAR_DISK_QUOTA:0	"$AVAIL$ kostenlos $TOTAL$"
+DLC_AVAILABLE_TITLE:0	"Verfügbare Inhalte"
+DLC_AVAILABLE_DESC:0	"Es gibt $NUM|H$ verfügbare DLCs, die auf Ihre Aufmerksamkeit warten."
+CONTENTVIEW_HEADER:0	"Installierte Inhalte"
+CONTENTVIEW_ACTIVE:0	"Aktiv"
+CONTENTVIEW_INACTIVE:0	"Inaktiv"
+CONTENTVIEW_BROWSE:0	"Durchsuchen"
+CONTENTVIEW_DLC:0	"DLC"
+CONTENTVIEW_MOD:0	"Mod "
+PROGRESS_TOOLTIP:	"§YFortschritt§!: $PROGRESS|%0$"
+PROGRESS_RATIO_DESC:	"\n$faction_divider_dashes$\n\nFertigstellung: $PROGRESS|Y%0$\nUnser aktueller Fortschritt beträgt $COMPLETED|Y.0$/$TOTAL|Y.0$\n|___NL001 870___|§gDiese Werte leiten sich ab aus:§!\n$NAME|H$ ($COMPLETED|Y.0$)$TOTAL_DESC$ ($TOTAL|Y.0$)"
+PROGRESS_RATIO_DESC_TOTAL_OF:	"\nvon $RANGE|%0Y$ von $TOTAL_NAME|Y$"
+PROGRESS_RATIO_OUT_OF:	 " von einem Ziel von"
+PROGRESS_SECTION_DESC:	"$NAME|Y$\nBereich: $MIN|%Y$ - $MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$ "
+PROGRESS_SECTION_MODIFIER:	"§YModifikatoren:§!\n$DESC$"
+PROGRESS_SECTION_RULE:	" §YRegeln:§!\n$DESC$"
+PROGRESS_SECTION_ACTIVATION_EFFECT:	"\n§YAktivierungseffekt:§!\n$DESC$"
+PROGRESS_SECTION_DEACTIVATION_EFFECT:	"\n§YDeaktivierungseffekt:§!|___NL0018 83___|$DESC$"
+GAME_BOOT_IN:0	"Das Spiel startet in $MIN$ Minuten."
+GAME_START_IN:0	" Das Spiel beginnt in $MIN$ Minuten."
+GAME_ENDS_IN:0	"Das Spiel endet in $MIN$ Minuten."
+DIVISION_TEMPLATE_HEADER_NEUTRAL:0	"$AMOUNT|H$ von $TEMPLATE|H$ ($COUNTRY$)"
+RAILWAY_GUN_HEADER_SINGLE:0	"$NAME|Y$ ($COUNTRY|H$)"
+PLAYER_AI_PREFS_HEADER:0	"KI-Einstellungen"
+PLAYER_AI_PREFS_DESC:0	"In diesem Fenster können Sie das KI-Verhalten Ihres Landes festlegen, wenn Sie die Multiplayer-Sitzung verlassen.\nDie Einstellungen werden in der Speicherdatei gespeichert. Wenn die anderen Spieler das Spiel ohne Sie fortsetzen, steuert die KI Ihr Land gemäß diesen Einstellungen."
+PLAYER_AI_PREFS_OPTION1_TITLE:0	"Kriege beginnen"
+PLAYER_AI_PREFS_OPTION2_TITLE:0	"Allianzen beibehalten"
+PLAYER_AI_PREFS_OPTION3_TITLE:0	"Schnellen Frieden anstreben"
+PLAYER_AI_PREFS_OPTION4_TITLE:0	"Händler versetzen"
+PLAYER_AI_PREFS_OPTION1_DESC:0	"Legt fest, ob die KI Kriege beginnen darf"
+PLAYER_AI_PREFS_OPTION2_DESC:0	"Legt fest, ob die KI Ihre aktuellen Allianzen beibehält und Aufrufe zu den Waffen befolgt"
+PLAYER_AI_PREFS_OPTION3_DESC:0	"Legt fest, ob die KI in Kriegen versucht, so schnell wie möglich Frieden zu schließen"
+PLAYER_AI_PREFS_OPTION4_DESC:0	"Legt fest, ob die KI Händler zu anderen Knoten verschieben darf"
+PLAYER_AI_PREFS_TIMEOUT_TITLE:0	"Zeitlimit-Datum: $DATE$"
+PLAYER_AI_PREFS_TIMEOUT_DESC:0	"Zeitlimit-Beschreibung"
+PLAYER_AI_PREFS_TIMEOUT_NEVER:0	"Nie"
+DEFAULT:0	"Standard"
+DELETE_TASK_FORCE:0	"§RTask Force löschen§!"
+DELETE_SHIP:0	"§RSchiff löschen§!"
+DELETE_RAILWAY_GUN:0	"§REisenbahnkanone löschen§!"
+ACHIEVEMENTS_DISABLED_MODIFIED_SAVE:0	"§YDer Spielstand gehört einem anderen Benutzer oder wurde bearbeitet. Erfolge werden deaktiviert.§!"
+ACHIEVEMENTS_DISABLED_MODIFIED_GAME:0	"§YEU4 läuft mit einem Mod oder wurde auf andere Weise verändert. Erfolge werden deaktiviert.§!"
+SAVEITEM_PLAYER_COUNTRY:0	"Spieler: $COUNTRY$"
+SAVEITEM_DATE:0	"Datum:$DATE_WITH_INTRO_SPACE$"
+SAVEITEM_IRONMAN:0	" Ironman: $YESNO$"
+CANTCONTINUEGAME:0	"Das Spiel kann nicht vom letzten Speicherpunkt fortgesetzt werden $SAVE$"
+CONTENTVIEW_PUBLISH_TITLE_LABEL:0	"Titel:"
+CONTENTVIEW_PUBLISH_DESC_LABEL:0	"Beschreibung: "
+FE_IRONMAN_MULTIPLAYER:0	"Ironman ist im Mehrspielermodus nicht verfügbar."
+FE_IRONMAN_NOCLOUD:0	"Für Ironman muss Steam Cloud aktiviert sein und der Benutzer muss bei Steam angemeldet sein."
+MAP_SAVED:0	"Karte gespeichert!"
+SCREENSHOT_TAKEN:0	"Screenshot aufgenommen!"
+AUTOSAVING:0	"Automatisches Speichern..."
+AUTOSAVING_OOS_DUMP:0	"Automatisches Speichern eines nicht synchronisierten Dumps...\n$DUMP_NAME$"
+CONFIRMLOADSAVETITLE:0	"Spiel laden"
+CONFIRMLOADSAVETEXT:0	"Möchten Sie wirklich den Spielstand laden $NAME$ und Ihr aktuelles Spiel abbrechen?"
+CANT_BUILD_UNDER_SIEGE:0	"In einer belagerten Provinz kann nicht gebaut werden."
+LOAD_GFX_PDXMAP_SHADERS:0	"Karte wird geladen (Shader werden erstellt) ..."
+LOAD_GFX_PDXMAP_TERRAIN:0	"Karte wird geladen (Gelände wird erstellt) ..."
+LOAD_GFX_PDXMAP_BORDERS:0	"Karte wird geladen (Grenzen werden erstellt) ..."
+LOAD_GFX_PDXMAP_TREES:0	"Karte wird geladen (Bäume werden erstellt) ..."
+LOAD_INIT:0	"Spiel wird initialisiert..."
+LOAD_EVENTS:0	"Ereignisse werden geladen"
+weather_none:0	" Löschen"
+weather_mud:0	"Schlamm"
+flooded:0	"Überschwemmt"
+unplanned_offensive:0	"Ungeplante Offensive"
+weather_rain_heavy:0	"Sturm"
+rain_heavy_icon:0	"GFX_modifiers_weather_icons:2"
+weather_snow:0	"Es schneit"
+weather_very_hot:0	"Sehr heiß"
+weather_ground_snow_medium:0	"Schnee"
+weather_ground_snow_high:0	"Tiefschnee"
+TECH_RESEARCH_TIME_LABEL:0	"Forschungszeit: $WEEKS|H$ Woche(n)"
+THEATRE_NAME:0	"$THEATRE|H$ Theater"
+CORE_PAUSED:0	"Angehalten"
+CORE_UNPAUSED:0	"Fortsetzen"
+SPEED_INCREASE:0	 "§TGeschwindigkeit erhöhen§!"
+SPEED_DECREASE:0	"§TGeschwindigkeit verringern§!"
+FE_SINGLE_PLAYER:0	"Einzelspieler"
+FE_MULTI_PLAYER:0	"Mehrspieler"
+FE_TUTORIAL:0	"Tutorial"
+FE_CREDITS:0	"Abspann"
+FE_EXIT:0	"Beenden"
+OPTIONS:0	"Optionen"
+MENU_BAR_LOAD_GAME:0	"Spiel laden"
+MENU_BAR_LOAD:0	"Laden"
+MENU_BAR_SAVE_GAME:0	"Spiel speichern"
+MENU_BAR_GAME_RESIGN:0	"Zum Menü zurück"
+MENU_BAR_MESSAGE_SETTINGS:0	"Meldungen"
+MENU_BAR_CLOSE:0	"Schließen"
+MENU_BAR_SAVE:0	"Speichern"
+MENU_BAR_SAVE_GAME_FILENAME:0	"Dateiname des gespeicherten Spiels:"
+MENU_BAR_SAVED_GAME_RULES_FILENAME:0	"Dateiname der Spielregeln für das gespeicherte Spiel:"
+MENU_BAR_IRONMAN_PLAIN:0	"Ironman"
+MENU_ACHIEVEMENTS:0	"Hearts of Iron IV-Erfolge"
+MENU_HOMEPAGE:0	"Hearts of Iron IV-Homepage"
+MENU_INSTAGRAM:0	" Hearts of Iron IV Instagram"
+MENU_DISCORD:0	"Hearts of Iron IV Discord"
+MENU_YOUTUBE:0	"Hearts of Iron IV YouTube"
+ACHIEVEMENTS_VIEW_LOCKED:1	"§RErfolge sind nicht verfügbar§!"
+DISMISSED_ALERTS_NONE:0	"Es sind keine aktiven Warnmeldungen vorhanden"
+ENDGAME_CONTINUE:0	"Spiel fortsetzen, ab diesem Zeitpunkt werden keine weiteren Punkte mehr erfasst"
+ENDGAME_SORT_NAME:0	"Nach Name sortieren"
+ENDGAME_SORT_PROVINCE:0	"Nach Landpunktzahl sortieren"
+SCORE:0	"Punktzahl"
+SCORE_CALC_AIR:0	"Gesamte Luftüberlegenheit: $AIR_SUP$"
+SCORE_CALC_INDUSTRY:0	"Anzahl der zivilen Fabriken: $NUM_CIV$\nAnzahl der militärischen Fabriken: $NUM_MIL$\nAnzahl der Marinefabriken: $NUM_NAVAL$"
+SCORE_CALC_LAND:0	"Anzahl der kontrollierten Provinzen: $NUM_PROV$"
+LOAD_GFX:0	"Grafiken werden geladen"
+LOAD_FLAGS:0	"Flaggen werden erstellt"
+PROC_FLAGS:0	"Flaggen werden verarbeitet"
+FE_CONTINUE:0	"Weiter"
+SELECT:0	"Auswählen"
+M_MENU_BUTTON:0	"Hauptmenü"
+SHORTCUT:0	"Shortcut: $KEY$"
+ADD_NEW_AIRWING:1	"Neue Fliegerstaffel hinzufügen"
+ADD_NEW_AIRWING_VOLUNTEER_BASE:0	" §RLuftflügel kann auf dem freiwilligen Luftwaffenstützpunkt nicht erstellt werden§!"
+EXECUTE_HISTORY:0	"Verlauf wird ausgeführt"
+PRECALC_NAVAL_DIST:0	"Seestrecken werden vorab berechnet "
+FREQUENCY_INSTANT:0	"Sofort"
+FREQUENCY_DAY:0	"Tag(e)"
+FREQUENCY_DAILY:0	"täglich"
+FREQUENCY_WEEK:0	"Woche(n)"
+FREQUENCY_WEEKLY:0	"wöchentlich"
+FREQUENCY_YEAR:1	"Jahr(e)"
+FREQUENCY_YEARLY:0	"jährlich"
+INIT_MAP_LOGIC:0	"Kartenlogik initialisieren"
+INIT_GAMESTATE:0	"Spiel initialisieren"
+SUPPLY_SUPPORTED_NAVAL_ROUTE_PENALTY:0	"Effizienz der Seeroute: $PEN|%R$"
+SUPPLY_SUPPORTED_VP:0	"$VP|H$ Siegpunkt: $VAL|+=$"
+SUPPLY_SUPPORTED_AIR_SUPPLY:0	"Luftversorgung: $VAL|+=$"
+SUPPLY_PENALTY_VALUE:0	"§R($PERC|%0$ von $VAL|Y$ aufgrund geteilter Eigentumsverhältnisse)§!"
+SUPPLY_INFO:1	" §YErforderlich§!: $REQ$\n  §YArmee§!: $REQ_ARMY$ ( Unser: $REQ_OUR_ARMY|Y$, Alliierte: $REQ_ALLIED_ARMY|Y$ )\n  §YMarine§!: $REQ_NAVY$\n  §YLuftwaffe§!: $REQ_AIR$\n\n§YUnterstützt§!: $SUP$"
+SUPPLY_SUPPORTED_CAP_BOTTLENECK_PORT:0	" (Häfen in $WHERE|R$)"
+SUPPLY_LOCAL_TITLE:0	"§HLokal§!: $VAL|+=$"
+SUPPLY_INCOMING_TITLE:0	"§HEingehend§!: $VAL|+=$"
+NAVAL_MISSION_NAME_SEARCH_AND_DESTROY_DESC:1	"Befehlen Sie der Task Force, feindliche Flotten in den ausgewählten Regionen aktiv aufzuspüren und anzugreifen."
+NAVAL_MISSION_NAME_INVASION:0	"Transport/Invasion"
+NAVAL_MISSION_NAME_INVASION_DESC:1	"Befehlen Sie einer Task Force, den Truppentransport und Invasionen in den ausgewählten §YInvasionsbefehle§!. \n§GKlicken Sie§!, um diese Mission zu aktivieren, und dann §GKlicken Sie§! auf den Invasionspfeil, falls Sie einen gezogen haben. "
+NAVAL_MISSION_NAME_MINES_PLANTING:0	"Minenaufstellung"
+NAVAL_MISSION_MISSED_REQUIREMENT_WARN_DEPTH_CHARGES:0	"£mapicon_unit_invalid_orders£ Geringe Anzahl an §YWasserbomben§!"
+NAVAL_MISSION_MISSED_REQUIREMENT_WARN_DEPTH_CHARGES_DESC:0	 "Es ist unwahrscheinlich, dass die Einsatzgruppe U-Boote beschädigen wird. Erwägen Sie, Schiffe mit mehr §HWasserbomben§! hinzuzufügen."
+NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SUB_SURFACE_DETECTION:0	"£mapicon_unit_invalid_orders£ Geringe U-Boot-Erkennung"
+NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SUB_SURFACE_DETECTION_DESC:0	"Es ist unwahrscheinlich, dass die Einsatzgruppe im Kampf U-Boote entdeckt. Erwägen Sie, weitere Schiffe mit §YSonaren§!, §YRadargeräte§! oder §YFlugzeugkatapulte§! hinzuzufügen."
+NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SPEED:0	"£mapicon_unit_invalid_orders£ Geringe Höchstgeschwindigkeit"
+##### |___KY01 3773___|„Die Durchschnittsgeschwindigkeit der Einsatzgruppe ist zu niedrig und beeinträchtigt ihre Erkennungsfähigkeit. Erwägen Sie, langsame Schiffe zu entfernen oder schnellere hinzuzufügen.“
+NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SURFACE_VISIBILITY:0	"£mapicon_unit_invalid_orders£ Hohe Sichtbarkeit an der Oberfläche"
+NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SURFACE_VISIBILITY_DESC:0	" Die Task Force ist zu gut sichtbar und kann vom Feind leicht entdeckt und/oder umgangen werden. Erwägen Sie den Einsatz kleinerer oder weniger gepanzerter Schiffe mit geringerer Sichtbarkeit an der Oberfläche."
+NAVAL_MISSION_SET_REASON_FOR_PLANTING_NO_SHIPS:0	"Das Auslegen von Minen ist §Rnicht möglich§!, da keines der Schiffe in Ihrer Flotte über die entsprechende Fähigkeit verfügt!"
+NAVAL_MISSION_SET_REASON_FOR_NO_WAR:0	"Sie müssen sich §Rim Krieg befinden§!, um diese Mission zu aktivieren."
+NAVAL_MISSION_NAME_NAVAL_INVASION_SUPPORT:0	"Unterstützung bei Seelandungen"
+NAVAL_MISSION_NAME_NAVAL_INVASION_SUPPORT_DESC:1	"Befehlen Sie Schiffen, Seelandungen zu eskortieren und diese durch Küstenbeschuss zu unterstützen."
+NAVAL_MISSION_NAME_TRAINING:1	"Marineübungen"
+NAVAL_MISSION_NAME_TRAINING_DESC:2	"Befehlen Sie einer Task Force, Übungen in der Region durchzuführen, die an den nächstgelegenen Marinestützpunkt angrenzt."\nDies kann im Laufe der Zeit zu Schäden an Schiffen führen.\nDie Besatzung sammelt keine Erfahrung mehr, sobald sie die Stufe "Regular" erreicht hat. \nSie sammeln §YMarineerfahrung§! während des Trainings.\nDer §YStolz der Flotte§! gerät seltener in einen Unfall verwickelt zu werden."
+NAVAL_BTN_REMOVE_REGIONS:0	 "§HRegion entfernen§!\n§GKlicken Sie§! auf diese Schaltfläche und dann auf die Region, die Sie für die aktuell ausgewählte Flotte entfernen möchten. \n§GKlicken Sie mit der rechten Maustaste§! auf diese Schaltfläche, um §Ralle Regionen§! für die aktuell ausgewählte Flotte zu entfernen."
+NAVAL_BTN_REMOVE_REGIONS_NO_REGIONS:0	" §RKeine Regionen zum Entfernen.§!"
+NAVAL_NO_STRIKE_FORCE_IN_REGION:0	"Keine Angriffstruppe in der Region im Einsatz"
+NAVAL_STRIKE_FORCE_STATUS_HEADER:0	"§HStatus der Angriffstruppen:§!"
+NAVAL_STRIKE_FORCE_STATUS_ENTRY:0	" - $NAME|H$: "
+NAVAL_STRIKE_FORCE_STATUS_READY:0	"£trigger_yes£ bereit zum Angriff"
+NAVAL_STRIKE_FORCE_STATUS_ENEMY_TOO_STRONG:0	"£trigger_no£ Ziel zu stark"
+NAVAL_STRIKE_FORCE_STATUS_NOT_READY:0	" £trigger_no£ nicht bereit"
+NAVAL_STRIKE_FORCE_STATUS_NOT_ENOUGH_INTEL:0	"unbekannte Feindstärke"
+NAVAL_STRIKE_FORCE_STATUS_ENGAGEMENT_SETTING_DESC:0	"    Regel für den Einsatz: $SETTING|H$"
+NAVAL_MISSION_NAME_RESERVE_FLEET:0	"Reserve"
+NAVAL_GUI_BTN_ACTIVATE:0	"Befehl aktivieren"
+NAVAL_GUI_BTN_ACTIVATE_DESC:0	" Befehl umschalten §HAktiv§! Status.\nUm ihn zu aktivieren, müssen Sie zunächst eine oder mehrere §YRegionen§! und mindestens einen §YBefehl§! zuweisen."
+NAVAL_GUI_BTN_REGIONS:0	"Klicken Sie auf die Karte:\n§GRechtsklick§!, um §Yhinzuzufügen§!, oder §YUmschalt§!+§GRechts -Klick§! auf §YEntfernen§! von Regionen.\nRegionen müssen aneinandergrenzen.\n§GRechtsklick|___CC0 04228___| auf diese Schaltfläche, um §Ralle Regionen zu löschen§!."
+SHIP_MIXED_AGGRESSIVENESS_LEVEL:	"Häufigste Regel für die Einbindung: $CURRENT|H$"
+SHIP_CLICK_TO_CHANGE_AGGRESSIVENESS_LEVEL:0	"§GKlicken Sie§!, um zu $NEXT|H$"
+SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_1:1	"Nicht angreifen"
+SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_1_DESC:1	"Die Einsatzgruppe wird niemals versuchen, einen gesichteten Feind anzugreifen. §HPatrouillenschiffe§! werden ihr aktuelles Ziel weiterhin verfolgen und §HAngriffstruppen§! bleiben an ihrer Basis."
+SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_2_DESC:1	"Die Einsatzgruppe wird bei der Bekämpfung von Feinden Vorsicht walten lassen und nur gegen deutlich kleinere Streitkräfte kämpfen."
+SHIP_ENGAGEMENT_BUTTON_DISABLED_BECAUSE_DETACHED:0	"§REine Änderung der Aggressivitätseinstellung ist für eine abgetrennte Einsatzgruppe nicht möglich§!"
+SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_GENERAL_DESC:1	"\n------------ --\n§GKlicken§! oder §GRechtsklick§!, um zwischen verschiedenen Aggressivitätseinstellungen zu wechseln. Höhere Aggressivitätseinstellungen führen dazu, dass Ihre Einsatzkräfte Kämpfe mit stärkeren Gegnern aufnehmen."
+##### |___KY0 13803___|„|___CC004243___|Die Einsatzgruppe führt eine Reparatur durch|___CC004244___|“
+SHIP_ENGAGEMENT_BUTTON_BACK_TO_REPAIR_DESC:1	"Klicken Sie hier, um die Reparatur abzubrechen. Die Schiffe kehren zu ihrer Mission zurück."
+CURRENT_ACTIVE_TASK_FORCE_FOR_MISSION:0	"Von diesen $NUM|H$ sind derzeit in der Region aktiv."
+CURRENT_NO_ACTIVE_TASK_FORCE_FOR_MISSION:0	"Aber derzeit ist keine in der Region aktiv."
+CURRENT_ALL_ACTIVE_TASK_FORCE_FOR_MISSION:0	"Alle sind derzeit in der Region aktiv."
+CURRENT_ACTIVE_SHIPS_FOR_NAVAL_INVASION_SUPPORT:1	 "Insgesamt befinden sich $NUM|H$ Einsatzverbände auf $MISSION_NAME|H$ Mission in dieser Region, und derzeit $NUM2|H$ von ihnen eskortieren Invasionsarmeen und $NUM3|H$ von ihnen unterstützen Küstenkämpfe."
+CURRENT_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT_WARNING:	"§R£mapicon_unit_no_orders  Einige Einsatzverbände sind zu weit von dieser Region entfernt, um §HUnterstützung bei der Seelandung zu leisten!§!§!"
+NAVAL_CAN_NOT_MOVE_THERE:0	"§RUnsere Flotte hat keinen Zugang zu dieser Region§!"
+SHIP_CANNOT_GOTO_MISSION_AREA:0	"§RDie Einsatzgruppe kann keines der ausgewählten Gebiete ihrer Flotte erreichen.§!"
+NAVAL_INVASION_CLICK_TO_ASSIGN_FLEETS:0	"§GKlicken Sie§!, um die Flotten dieser §YInvasion§! zuzuweisen. "
+NAVAL_INVASION_MOVE_MOUSE_OVER_INVASION:1	"Bewegen Sie die Maus über den §YInvasion§! Pfeil und §GKlicken§!, um die Flotten diesem zuzuweisen.\nFalls Sie den Invasionsbefehl noch nicht festgelegt haben, können Sie dies tun, indem Sie die §YArmee§! auswählen und das §GNaval Invasion Order§!-Werkzeug verwenden."
+NAVAL_PROV_DESC_ADD_REGION:0	"§GRechtsklick§!, um §Yeine§!Region hinzuzufügen. "
+NAVAL_PROV_DESC_RIGHT_CLICK_TO_MOVE:0	"§GRechtsklick§!, um an den Standort zu gelangen."
+NAVAL_PROV_DESC_REMOVE_REGION:0	"§GUmschalt+Rechts -Klick§! um §Ydie Region zu entfernen§!."
+NAVAL_PROV_DESC_REMOVE_REGION_CLICK:0	"§GKlicken Sie§! um §Yentfernen§! Region."
+NAVAL_PROV_DESC_HOLD_AND_GO_TO:0	"§GStrg+Rechtsklick§! um die Mission abzubrechen und zum Standort zu gelangen."
+NAVAL_PROV_DESC_NO_MISSIONS:0	" \n§HIn dieser Region sind keine Missionen festgelegt.§!"
+NAVAL_PROV_DESC_MISSION_ENTRY:0	"§G$UNIT$§! - $STATUS$"
+NAVAL_MISSIONS_LOCAL_HEADER:0	"§HSeemissionen: §!"
+NAVAL_MISSION_THIS_IS_LAND_REGION:0	"In dieser Region gibt es keine Seeprovinzen."
+HOME_BASE_TITLE:1	"§HHeimatbasis§!"
+HOME_BASE_DESC:0	"Der Stützpunkt, von dem aus diese Flotte ihre Missionen durchführt."\n§YCTRL§!+§GRechtsklick§! auf einen Marinestützpunkt, um und eine neue §GHeimatbasis§! festzulegen."
+NAVAL_PROV_DESC_MOVE_TO:0	 "§GRechtsklick§! um §Yzu §! in die Provinz zu bewegen."
+NAVAL_PROV_DESC_MOVE_TO_MAX_REGIONS_ALL:0	"§RMaximale Anzahl an Missionsregionen für alle ausgewählten Einheiten erreicht§!"
+NAVAL_PROV_DESC_MOVE_TO_MAX_REGIONS_INDIVIDUAL:0	" §REinheiten, die ihre maximale Anzahl an Missionsregionen bereits erreicht haben:§!"
+NAVAL_PROV_DESC_MOVE_TO_MAX_REGIONS_ITEM:0	" $NAME|R$"
+NAVAL_PROV_DESC_MOVE_TO_COASTAL_WARNING:1	"§HHinweis:§! §gStillstehende Flotten in Küstengebieten können Meerengen blockieren, können jedoch von Divisionen entdeckt werden. Gilt nicht für Flotten, die ausschließlich aus U-Booten bestehen.§!"
+NAVAL_BASE_TOOLTIP_GOTO_NAVALBASE:0	"§GRechtsklick§!, um zu diesem Marinestützpunkt zu gelangen."
+NAVAL_BASE_TOOLTIP_SELECTION_INFO:2	"§GKlicken§!, um Taskforces auszuwählen, die in diesem Marinestützpunkt stationiert oder zur Reparatur dort eingeteilt sind. \n§GStrg + Klick§!, um den Reparaturstatus umzuschalten. \n§GUmschalt + Klicken§!, um die Reparaturwarteschlange anzuzeigen.\n§GStrg + Rechtsklick§!, um als |___CC004 317___|Heimatbasis§! festzulegen."
+FLEET_NAME_SOV:0	"$NUMBER$-ja Sovetskaja Flotilija"
+RESERVE_FLEET_NAME:0	"$COUNTRY$ Reserveflotte $NUMBER$"
+LESS_THAN:0	"kleiner als"
+GREATER_THAN:0	"größer als"
+BASE_VALUE:0	"Basiswert: §Y$VALUE|1$§!"
+BASE_VALUE2:0	"Basiswert: §Y$VALUE|2$§!"
+COMMAND_POWER_BASE:1	"Basisverstärkung: §Y$VALUE|1$§!"
+TEMPORARY_BUFF_TOOLTIP:0	"$NAME$: $VALUE$\n"
+TEMPORARY_BUFF_TOOLTIP_VAL:0	"$VALUE|%1$"
+FEX_STATE_FIGHTING:0	"Im Kampf"
+FEX_STATE_ON_THE_WAY:0	"Unterwegs"
+FEX_STATE_ESCAPING:0	"Zieht sich zurück"
+FEX_STATE_RUN_AWAY:0	"Aus dem Kampf gezogen"
+ONLY_REPAIR_IN_NAVAL_BASE:0	"Kann nur in einem Marinestützpunkt repariert werden."
+REPAIR_READY_ETA:0	"Die Reparatur wird voraussichtlich um $WHEN|Y$ abgeschlossen sein."
+NAVAL_BASE_REPAIR_INFO:2	" Dieser Marinestützpunkt verfügt über eine Stufe von $SIZE|Y0$, von denen $FUNCTIONAL|Y0$ funktionsfähig sind; jede Stufe bietet eine maximale Reparaturstärke von $EFFECT|Y$ bei einem lokalen Versorgungsniveau von $SUPPLY|Y%$; die maximale stündliche Reparaturleistung beträgt insgesamt $POWER|Y2%$.\n"
+NAVAL_COMBAT_SHIP_TOOLTIP:0	"$FLAG$ $NAME|$ $STATUS|Y$ - "
+NAVAL_COMBAT_SHIP_TOOLTIP_ATTACKING:0	 "\n§YAngriff§! $FLAG$ $TARGET|R$"
+NAVAL_COMBAT_SHIP_TOOLTIP_APPROACHING:0	"\n|___CC0 04327___|Annäherung§! $FLAG$ $TARGET|R$ (§Y$DIST|0$km§! außerhalb der Reichweite) "
+NAVAL_COMBAT_DIST_TO_ARRIVE:0	"\n  Entfernung bis zum Ziel: $DIST|0Y$km"
+NAVAL_COMBAT_HOURS_TO_ARRIVE:0	"\n  Ankunftszeit in Stunden: $NUM|0Y$"
+NAVAL_COMBAT_SHIP_STRENGTH_DESC:0	" Die Stärke gibt an, wie viel Schaden ein Schiff einstecken kann, bevor es zerstört wird"
+NAVAL_COMBAT_INCOMING_UNKNOWN:0	"§RUnbekannte Schiffe nähern sich.§!"
+NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER:3	"$NUM|G$/$TOT|G$ $MOD|Y$ aus Richtung $FROM|Y$. $DEAD|R$ abgeschossen. $WINGS_STRIKING|H0$/$TOTAL_WINGS|G0$ Die Flügel sind in der Lage, die feindliche Flotte anzugreifen."
+NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER_EXTERNAL:2	"$NUM|G$ $MOD|Y$ von $FROM|Y$. Beitritt vor $HOUR|Y$ Stunden. $DEAD|R$ abgeschossen. $WINGS_STRIKING|H0$/ $TOTAL_WINGS|G0$ Flügel sind in der Lage, die feindliche Flotte anzugreifen."
+NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN:0	"\nAbgeschossen:"
+NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN_ENTRY:2	"\n   $NUM|G$ x |___NE 001218___|"
+NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED:1	"\nFeindliche Schiffe beschädigt:"
+NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED_ENTRY:2	"\n   $NAVY|Y$: $PERC|G%$ "
+NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED_LAST_HIT:1	" (§GTödlicher Schlag§!)"
+NAVAL_COMBAT_RECEIVED_CRITICALS:0	"Erhalten $NUM|R$ kritische Treffer."
+NAVAL_COMBAT_HIDDEN_SUBS:0	"§RGenaue Position ist unbekannt.§!\n"
+NAVAL_TRANSFER_BLOCKED:1	"§RSie können keine Schiffe zwischen Einsatzverbänden in verschiedenen Marinestützpunkten verlegen§!"
+AIR_SUPERIORITY_BAR_TOOLTIP:0	" §YLuftüberlegenheit:§! $PERC$"
+AIR_SUPERIORITY_BAR_OUR:0	"\nUnsere Luftstreitkräfte: $OUR$"
+AIR_SUPERIORITY_BAR_ENEMY:0	 "\nLuftmacht des Gegners: $ENEMY$"
+AIR_SUPERIORITY_BAR_EXPLANATION:0	"Jeder Typ einer Luftflotte verfügt über einen festgelegten Wert für die Überlegenheitskraft, der angibt, wie effektiv sie bei der Beherrschung des Luftraums ist. Die Überlegenheitskraft in der Region ergibt sich aus der Summe aller Ihrer (und der Ihrer Verbündeten) aktiven Luftflotten in dieser Region. Je mehr Luftflotten, desto höher der Wert; beachten Sie jedoch, dass der Wert bei geringer Regionalabdeckung ebenfalls verringert wird. Denken Sie also daran, Ihre Luftflotten neu zu stationieren, um eine optimale Regionalabdeckung zu erzielen."
+AIR_SUPERIORITY_AA_REDUCTION_ENEMY:0	"Reduziert durch die feindliche Luftabwehr in der Region = $RED|R1$"
+AIR_SUPERIORITY_TYPE_2:1	"Derzeit aktive Bomber"
+AIR_SUPERIORITY_TYPE_3:1	"Derzeit aktive Unterstützungsflugzeuge"
+AIR_SUPERIORITY_TYPE_4:0	"Flugabwehrgeschütze "
+AIR_SUPERIORITY_ENEMY_TYPE_1:1	"Derzeit aktive feindliche Jagdflugzeuge"
+AIR_SUPERIORITY_ENEMY_TYPE_2:1	"Derzeit aktive feindliche Bomber"
+AIR_RESERVES_TYPE_1:0	"Jagdflugzeuge"
+REASON_NONE_TOTAL_DETAILED:0	"Gesamt: $SUM|2H$"
+REASON_LAND_COMBAT:0	"Von der Flugabwehr abgeschossen: $SUM|0H$"
+AIRVIEW_DETAILS_CHANNEL_9:4	"Unsere Züge verloren: $VAL|-0$"
+AIRVIEW_DETAILS_CHANNEL_10:3	"Unsere verlorenen Lastwagen: $VAL|-1$"
+AIRVIEW_DETAILS_CHANNEL_11:4	"Unsere verlorenen Eisenbahnkanonen: $VAL|-1$"
+AIRVIEW_DETAILS_CHANNEL_12:3	"Unsere verlorenen Raketen: $VAL|-1$"
+AIRVIEW_DETAILS_CHANNEL_13:3	"$VAL|+2$ Gebombte feindliche Gebäude"
+AIRVIEW_DETAILS_CHANNEL_15:5	 "$VAL|+0$ Feindliche Schiffe versenkt"
+AIRVIEW_DETAILS_CHANNEL_23:0	"$VAL|+1$ Feindliche Eisenbahnkanonen verloren"
+NAVAL_DETECTION_CHANCE:0	"§YOberfläche§!/§YU-Boot§! Erkennungswahrscheinlichkeit: $SUR|=1%+$/$SUB|=1%+$ "
+NAVAL_DETECTION_CHANCE_DETAILS_SUPPLY:0	" x Versorgungsstatus der Basis: $SUPPLY|1%+$"
+NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_SEARCH_AND_DESTROY:0	" §YKnapp§!"
+NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_CONVOY_RAIDING:0	"§YNormal§!"
+NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_CONVOY_ESCORT:0	" §YEng§!"
+NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_INVASION:0	"§YEng§!"
+NAVAL_DETECTION_CHANCE_DETAILS_RADARS:0	" + Von Radargeräten: $VAL|=2%+$"
+NAVAL_DETECTION_CHANCE_DETAILS_AIR_SUP:0	" + Durch Luftüberlegenheit: $VAL|=2%+$"
+NAVAL_DETECTION_CHANCE_DETAILS_DECRYPT:0	"\n Wenn unsere Entschlüsselung besser ist als die Verschlüsselung feindlicher Schiffe, erhalten wir $VAL|G0%$ eine verbesserte Erkennung pro Stufe."
+NAVAL_DETECTION_CHANCE_DETAILS_SURF_DET:0	" x Ausrüstung Oberflächenerkennung: $VAL|0%+$"
+NAVAL_DETECTION_CHANCE_DETAILS_SUB_DET:0	" x Ausrüstung Unterwassererkennung: $VAL|0%+$"
+NAVAL_DETECTION_CHANCE_DETAILS_TRUE_VAL:0	"§gDie tatsächliche Erkennungswahrscheinlichkeit hängt auch von der Sichtbarkeit feindlicher Schiffe ab.§!"
+SPOTTING_BASE_CHANCE_TOTAL:1	"§HGrundlegende Erkennung in der Region: $VAL|1%+$§!\n "
+SPOTTING_BASE_CHANCE:1	"  Basis: $VAL|1%+=$\n"
+SPOTTING_BASE_CHANCE_FROM_RADAR:1	"  Radarabdeckung in der Region: $VAL|1%+=$\n"
+SPOTTING_BASE_CHANCE_FROM_DECRYPTION:2	"  Intelligenzunterschied: $VAL|1%+=$\n"
+NAVAL_SPOTTING_SPEED_SURFACE:0	"Sichtung: $VAL|2%+=$"
+NAVAL_SPOTTING_SPEED_SUB:0	"Sichtungsgeschwindigkeit unter Wasser: $VAL|2%+=$"
+NAVAL_SPOTTING_SURFACE_DETECTION:0	"Oberflächenerkennung: $VAL|2%+$ "
+NAVAL_SPOTTING_SUB_DETECTION:1	"Erkennung unter Wasser: $VAL|2%+$"
+NAVAL_SPOTTING_OUR_DETECTION:0	"Unsere Erkennungswahrscheinlichkeit: $VAL|2%+=$"
+NAVAL_SPOTTING_THEIR_DETECTION:0	"Ihre Erkennungswahrscheinlichkeit: §R-§!$VAL|2%-$"
+NAVAL_SPOTTING_THEIR_VISIBILITY:0	"Ihre Sichtbarkeit: $VAL|0%H$"
+NAVAL_SPOTTING_DUE_TO_SPEED_DELTA:0	"Geschwindigkeitsunterschied: $VAL|2%+=$"
+NAVAL_SPOTTING_COORDINATION_FACTOR:0	"Koordination: $VAL|0%H$"
+NAVAL_SPOTTING_STATE:0	"Es gibt §Y$NUM$§! unentdeckte Schiffe\n"
+SPOTTING_DETECTION_PROCESS_PER_TASK_FORCE:1	"  $NAME$: Fortschritt $VAL|0%+$ Begegnungswahrscheinlichkeit $CHANCE|1%+$ ($TARGET$)\n"
+NAVAL_SPOTTING_HOURLY_CHANGE:0	"§HStündliche Veränderung: $SPEED|%.2+=$§!"
+ACTIVE_COMBAT_STATUS:0	 "Es finden $NUM|H$ derzeit Kämpfe in dieser Region statt.\n\n§GKlicken Sie§!, um durch die Kämpfe zu blättern. "
+COMBAT_RESULT_STATUS:0	"In dieser Region liegen $NUM|H$ Kampfergebnisse vor.\n\n§GKlicken Sie§!, um sie durchzublättern. "
+NAVAL_ENTRY_NEWFLEET_COMBAT_DESC:1	"§RKann während des Kampfes keiner neuen Task Force zugewiesen werden.§!"
+NAVAL_MINES_IN_REGION_BY_FRIENDS:1	"\n  Unsere §GVerbündeten §! haben $COUNT|G0$ Minen gelegt, $COUNT_DAMAGED|G0$ Schiffe beschädigt $COUNT_SUNK|G0$ und versenkt."
+NAVAL_MINES_IN_REGION_BY_NEUTRAL:0	"\n  $COUNTRY|Y$ hat $COUNT|R0$ Minen gelegt."
+NAVAL_MINES_PENALTIES_FROM_ENEMY:0	"\n§HStrafen durch feindliche Minen:§!\n"
+NAVAL_ACCIDENTS_TRAINING:0	"Unfälle! durch §HAusbildung§!: $NUM$"
+NAVAL_ACCIDENTS_MINES:0	"Unfälle durch §Hfeindliche Seeminen|___CC0 04376___|: $NUM$"
+NAVAL_ACCIDENTS_ENEMY:0	"Feindliche Unfälle durch §HSeeminen§!: $NUM$"
+NAVAL_ACCIDENT_DISPATCH_TITLE:0	"Daten zu Seeunfällen übermitteln"
+NAVAL_ACCIDENT_DISPATCH_DESC:0	"Sind Sie sicher, dass Sie alle Daten zu Seeunfällen in dieser Region übermitteln möchten?"
+UNIT_TOOLTIP_BATTALIONS:1	"§GBataillone§!"
+MAP_ARROWS_PARATROOPERS_COUNT:1	"$DIV$ Fallschirmjäger"
+MAP_ARROWS_INVASION_TRANSPORTS_COUNT:1	" - $TR$ Transportschiffe"
+UNITS_VIEW_BTN_STOP_TRAINING_TOOLTIP:0	"Klicken Sie hier, um die §RÜbung§! mit dieser Armee zu beenden."
+UNITS_VIEW_BTN_STOP_TRAINING_TOOLTIP_WILL_STOP_AT_MAX_INFO:0	"§RÜbung§! wird automatisch beendet, sobald alle Einheiten die maximale Ausbildungsstufe erreicht haben."
+UNITS_VIEW_BTN_DISBAND_GROUP:1	"Entfernen"
+UNITS_VIEW_BTN_DISBAND_GROUP_TOOLTIP:1	"Klicken Sie hier, um §REntfernen§! diese Armee zu entfernen. Alle ihre Divisionen werden nicht mehr zugewiesen."
+ARMY_LEADER_EXPEDITIONARY_FORCE_ICON:0	" Diese Armee ist eine leere Armee, die für die Anforderung von Expeditionsstreitkräften erstellt wurde."
+ARMY_LEADER_CREATE_EXPEDITIONARY_FORCE_GROUP:0	"Klicken Sie hier, um eine leere Armee für die Anforderung von Expeditionsstreitkräften zu erstellen."
+UNITS_VIEW_BTN_EXECUTION_STOP:0	"Stoppen"
+UNITS_VIEW_BTN_EXECUTE_TOOLTIP:1	" §GKlicken Sie§! auf $ACTION$ die Ausführung des §Ygesamten Plans.§!\n§GSh ift + Klicken§! und dann §Yklicken Sie auf den gewünschten Befehl§!, um die Ausführung umzuschalten\n§GStrg + Klicken§!, um die Ausführung aller zugewiesenen Divisionen und Armeen"
+UNITS_VIEW_BTN_EXECUTE_POINT_OUT:0	"Klicken Sie nun auf der Karte auf die gewünschten Befehle, um deren Ausführung umzuschalten."
+UNITS_VIEW_BTN_DELETE_ORDER:1	"§HBefehl löschen§!\n§GKlicken Sie§! auf diese Schaltfläche und dann auf den Befehl auf der Karte, den Sie löschen möchten.|___ NL001943___|§GKlicken Sie mit der rechten Maustaste§! auf diese Schaltfläche, um §Ralle Befehle§! der aktuell ausgewählten Armee zu löschen."
+UNITS_VIEW_BTN_DRAW_OFFENCE:3	"§HAngriffslinie§!\n§GRechts -Klick und halten Sie die Maustaste§! auf der Karte, um §Yeine Angriffslinie§!zu zeichnen. \nLinien können nur auf Gebieten gezeichnet werden, denen Sie eine §HFrontlinie§! oder §HSeelandung§! zugewiesen haben.\n\nDivisionen, die einem Plan mit einer Offensivlinie zugewiesen sind, versuchen, Gebiete zu erobern, um ihre Frontlinie dorthin zu verlegen. \n\n§GHalten Sie die Maustaste gedrückt§! und §Glassen Sie sie los§! auf einer Schaltfläche zur Verhaltensausführung, um den Ausführungstyp des Plans zu ändern"
+UNITS_VIEW_BTN_DRAW_DEFENCE:1	 "§HFrontlinie§!\n - §GKlicken§! Sie auf eine der Grenzen zu einem anderen Land, um die zugewiesene Front entlang der gesamten Grenze festzulegen.\n - §GKlicken Sie mit der rechten Maustaste und ziehen Sie die Maus§! auf eine der Grenzen zu einem anderen Land, um die Front in kürzeren Abschnitten festzulegen.\n - §GKlicken Sie -klicken und ziehen Sie die Maus§! auf die Endpunkte der bestehenden Frontlinien, um diese zu bearbeiten.\n\nFrontlinien sind der Ausgangspunkt für Angriffe in feindliches Gebiet in Richtung der Offensivlinien, ermöglichen es Ihnen aber auch, Divisionen schnell entlang einer ausländischen Grenze zu positionieren. "
+UNITS_VIEW_BTN_DRAW_FALLBACK:1	"§HAusweichlinie§!\n - §GRechts -Klicken und ziehen Sie die Maus§! auf dem eigenen Gebiet, um den §YEinmalige Verwendung§! Verteidigungsbefehl zu zeichnen. \n\nRückzugslinien sind nützlich, um Divisionen zur Verteidigung zu positionieren, beispielsweise hinter einem Fluss oder an einer anderen Stelle im eigenen Gebiet."
+UNITS_VIEW_BTN_DRAW_PARADROP:0	"§HFallschirmjäger-Befehl§!\nSchritt 1) §GKlicken Sie§! auf unseren Luftwaffenstützpunkt, um den Startpunkt festzulegen. Der Luftwaffenstützpunkt muss über verfügbare Transportflugzeuge verfügen.\nSchritt 2) §GRechtsklick§! auf die Provinz, die sich in Reichweite der lokalen Transportflugzeuge befindet, um den Absprungort festzulegen.\n§gBeachten Sie, dass nur Einheiten mit Fallschirmjägerfähigkeit transportiert werden.§! "
+UNITS_VIEW_BTN_UNASSIGN_DEFENCE_ORDER:1	"§REinheiten können nicht aus dem §YGebietsverteidigungsbefehl§! entlassen werden.§!"
+UNITS_VIEW_BTN_DELTE_NOTHING:0	"§RNichts zu löschen. §!"
+UNITS_VIEW_BTN_DRAW_PARADROP_NO_PARATROOPERS:0	"§RKeine Fallschirmjäger in der Kommandogruppe.§!"
+UNITS_VIEW_BTN_IN_RESHAPE_MODE:0	"§RSie bearbeiten derzeit Befehle. §! "
+UNITS_VIEW_BTN_UNITS_ASSIGN:2	"§HModus zur Zuweisung von Divisionen§!\nKlicken Sie auf diese Schaltfläche, um den Modus umzuschalten, oder halten Sie §GSTRG§!. \nWählen Sie anschließend eine der hervorgehobenen Fronten aus, um die aktuell ausgewählten Einheiten zuzuweisen."
+UNITS_VIEW_BTN_UNITS_UNASSIGN:0	"§HDivisionen abweisen§!\nKlicken Sie auf diese Schaltfläche, um die aktuell ausgewählten Divisionen von ihren Befehlen abzuziehen."
+UNITS_HAS_NO_ORDERS_WARNING_BUT_HAS_ARMY_GROUP:0	 "§RDie Division gehört zu einer Armee ohne Befehle; sie wird stattdessen den Befehl der Heeresgruppe ausführen.§! "
+UNITS_HAS_INVALID_ORDERS_WARNING:0	"§REinheiten sind nicht willens oder nicht in der Lage, den zugewiesenen Befehl auszuführen!§!\nEinheiten dürfen keine entmilitarisierten Zonen betreten und werden ohne spezifische Bewegungsbefehle keine selbstmörderischen Schlachtpläne ausführen."
+##### |___KY0139 49___|„|___CC004461___|Einheit kann sich nicht in eine Provinz auf ihrem Weg bewegen|___CC004462___|“
+UNITS_HAS_INVALID_PATH_WARNING:0	"§RKein gültiger Weg zum Ziel gefunden§!"
+UNITS_HAS_INVALID_TRANSPORT_WARNING:0	"§RTransport zum Ziel nicht möglich§!"
+UNITS_HAS_INVALID_MOVE_WARNING:0	" §RBewegung zur nächsten Zielprovinz nicht möglich§!"
+UNITS_UNWILLING_ATTACK_WARNING:0	"§REinheit hält einen Angriff für zu gefährlich.\nEin expliziter Bewegungsbefehl kann die Einheit zwingen, ihn trotzdem auszuführen.§!"
+UNITS_INVALID_ATTACK_WARNING:0	" §RAngriff auf Zielprovinz nicht möglich§!"
+UNITS_NO_POSSIBLE_ATTACK_WARNING:0	"§RKein gültiges Angriffsziel gefunden§!"
+UNITS_AWAITING_ORDERS:0	"§YEinheit hat ihre Befehle ausgeführt und wartet auf neue§!"
+UNITS_HAS_LOST_ITS_WAY:1	 "§YEinheit kann ihre Befehle nicht ausführen.§!"
+UNITS_TOO_WEAK_TO_ATTACK:0	"§RDie Organisation der Einheit ist zu schwach, um vorzurücken. §!\nBitte warten Sie, bis sie sich neu formiert hat, oder erwägen Sie, die §YAggressivität§! der Ausführung der Schlachtpläne zu ändern."
+UNITS_DMZ_MOVE_WARNING:0	"§RDie Einheit wird nicht in die entmilitarisierte Zone vorrücken§!"
+EXECUTE_ORDERS_POINT_OUT:0	"§GKlicken Sie§!, um die Ausführung dieses Befehls umzuschalten. "
+EXECUTE_ORDERS_POINT_OUT_CAN_T_TOGGLE:1	"§RDieser Befehl gehört zu einer anderen Armee.§!"
+EXECUTE_ORDERS_POINT_OUT_NO_ORDERS_HERE:0	" Bitte bewegen Sie den Mauszeiger über einen der Befehle, dessen Ausführung Sie umschalten möchten."
+CORE_FILTER_BY:0	"§TFiltern nach: $NAME|H$§!"
+MAJOR:0	"Wichtige Länder"
+EXECUTION:0	"Ausführung"
+DIMININSHING_RETURNS:0	"Bei dieser Parteipopularität werden die Effekte skaliert auf $SCALE|Y2%$"
+LEADER_SKILL_DESC:0	" Fähigkeit: $S|Y$"
+LEADER_SKILL_WITH_PROGRESS:0	"Fähigkeit: $SKILL|Y$ ($PROGRESS|%Y0$)"
+LEADER_SKILL_AT_CAP:0	"Fähigkeit: $SKILL|Y$ (Max)"
+LEADER_FUNCTION_NAVY_DESC:0	"Die Zuweisung eines Admirals zu einer Flotte stärkt die Einsatzkräfte in verschiedenen Bereichen, je nach der Fähigkeit des Admirals."
+LEADER_ENDLESS_CAPACITY_DESC:0	"$NAME$ ist Feldmarschall und unterliegt keiner Befehlsbegrenzung."
+LEADER_PROMOTE_DESC:0	"Auf Kosten einer Fertigkeitsstufe wird dieser Anführer in den nächsten Rang befördert"
+LEADER_CANNOT_PROMOTE:0	"§RKann nicht befördert werden§!"
+LEADER_PROMOTE_MAX_RANK:0	"Dieser Anführer hat den höchstmöglichen Rang"
+MAX:0	"Max"
+CANT_CHANGE_NAVAL_LEADER_DESC:0	"§RDer Flottenkommandant kann nur in Häfen gewechselt werden§!"
+TOTAL_MODIFIER_IS:0	 "Geändert auf $VALUE|Y%$ aufgrund von"
+NO_ORG_GAIN_IN_COMBAT:0	"Im Kampf gibt es keinen Organisationsgewinn."
+MAX_EXPERIENCE_TEXT:0	""
+boost_party_popularity_general_desc:0	"Stärkt eine bestimmte politische Gruppe in der Nation, was bedeutet, dass diese bei Wahlen gewinnen oder einen zukünftigen Staatsstreich wirkungsvoller gestalten könnte"
+attempt_coup:0	"Putschversuch"
+NO_LEADER_SHIPS_COUNT_AND_LIMIT:0	"Eine Einheit ohne Kommandanten kann bis zu $MAX|Y$ Schiffe befehligen. Derzeit $SHIP|Y$ Schiffe."
+SPY_CANCEL_DELAY_DESC:0	"Vorherige Mission abgebrochen (bereit $DATE$)."
+UNIT_VIEW_NAVAL_EXPERIENCE:0	"Erfahrung"
+UNIT_VIEW_ARMY_EXPERIENCE:0	"Erfahrung:"
+RESISTANCE_TICK_SPEED_FROM_VP:0	"\n - $VP|Y$: $VAL|%2-=$"
+RESISTANCE_TICK_SPEED_FROM_UNITS:0	"\n - Spaltungen im Staat: $VAL|%2-=$"
+RESISTANCE_TICK_SPEED_FROM_NEIGHBORS:0	"\n - Widerstand in Nachbarstaaten: $VAL|%2-=$"
+RESISTANCE_TICK_SPEED_DECAY:0	"\n - Natürlicher Rückgang: $VAL|%2-=$"
+RESISTANCE_OCCUPATION_POLICY:0	"---------------\nBesatzungspolitik $NAM|Y$:"
+RESISTANCE_VIEW_TITLE:0	"Stärke des lokalen Widerstands: $TOT|%0-=$"
+RESISTANCE_VIEW_GROWTH:0	"Wachstum: $GR|%2-=$"
+OCCUPIED_COUNTRY_COST:0	"$VALUE$ Politische Macht/Tag"
+CHOOSE_LEADER:0	"Wählen Sie einen Kommandanten"
+FE_HOST:0	"§R$COLOR$Gastgeber§!"
+FE_INTERESTING_COUNTRIES:0	"Interessante Länder"
+FE_SELECT_COUNTRY:0	"Land auswählen"
+FE_COUNTRY_INFO_TITLE:0	"Informationen"
+FE_COUNTRY_SPIRIT:0	"Nationalstolz"
+FE_COUNTRY_HISTORY_TITLE:0	"Kurze Geschichte"
+RULING_PARTY:0	"Regierungspartei"
+ELECTIONS:0	"Wahlen"
+FE_LOADING_HISTORY:0	"Geschichte wird aktualisiert ..."
+IDEOLOGY:0	"Ideologie"
+LOADING_MAIN_MENU:0	"Hauptmenü wird geladen"
+EXITING_TO_FRONTEND:0	"Zurück zum Hauptmenü"
+MAP_ICON_UNITS:0	"Einheiten: $VALUE|Y$"
+MAP_ICON_DIVISIONS:0	"$VALUE|Y$ Divisionen"
+MAP_ICON_SHIPS:0	"Schiffe: $VALUE|Y$"
+UNIT_ORG:0	"Organisation: $VALUE|H$"
+UNIT_AVERAGE_ORG:1	"Durchschnittliche Organisation: $VALUE|%0H$"
+UNIT_AVERAGE_STR:0	" Durchschnittliche Stärke: $VALUE|%0H$"
+ARMY_UNIT_ORG:0	"Organisation: $VALUE|%H$"
+ARMY_UNIT_SUPPLY:1	"§TVersorgungsstatus: §! $VALUE|%0Y$"
+ARMY_UNIT_SUPPLY_DESC_OK:2	"§TLieferstatus:§! $VALUE|%0Y$ (Gelagert: $BUFFER_VALUE|Y%0$)"
+ARMY_UNIT_SUPPLY_DESC_BAD:3	"§TLieferstatus:§! $VALUE|%0R$ (Gelagert: $BUFFER_VALUE|Y%0$)"
+RAILWAY_GUN_SUPPLY_DESC_OK:0	"§TLieferstatus: §! $VALUE|%0Y$"
+RAILWAY_GUN_SUPPLY_DESC_BAD:0	"§TLieferstatus:§! $VALUE|%0R$"
+ARMY_CLICK_HEADER:1	"§GKlicken Sie§!, um eine Abteilung auszuwählen.\n§GUmschalt+Klick§!, um die Auswahl umzuschalten. \n§GDoppelklick§!, um alle Divisionen mit derselben Vorlage auszuwählen\n§GRechtsklick§!, um zur Division zu schwenken"
+##### |___ KY014020___|„|___CC004515___|Rechtsklick|___CC004516___|, um zur Flotte (oder einem Hafen) zu schwenken“
+FLEET_CLICK_HEADER:0	"§GKlicken§!, um diese Flotte auszuwählen.\n"
+NUCLEAR_PRODUCTION_STOPPED:0	"Nächste $NUKE_TYPE|H$ ist $PROGRESS|1G%$ fertiggestellt und wird derzeit nicht produziert. Im Lagerbestand: $NUM_COMPLETED|H$"
+NUCLEAR_PRODUCTION_NONE:0	"Derzeit produzieren wir keine Atombomben."
+NAVAL_SERIES_INCREASE_DESC:3	" Erhöhen Sie die Anzahl der zu produzierenden Schiffe.\n§GStrg+Klick§! um §H10§!\n|___CC00452 3___|Umschalt+Klick§! um hinzuzufügen §H100§!"
+NAVAL_SERIES_AMOUNT_DESC:1	"Anzahl der noch zu produzierenden Schiffe."
+RAILWAY_GUN_SERIES_AMOUNT_DESC:0	"Anzahl der noch zu produzierenden Eisenbahnkanonen."
+RAILWAY_GUN_SERIES_DECREASE_DESC:0	"Verringern Sie die Anzahl der noch zu produzierenden Eisenbahnkanonen. \n§GStrg+Klick§! zum Kürzen §H10§!\n§GUmschalt+Klick§! um §H100§!"
+CLAIM_LIST_DESC:0	"Länder mit Ansprüchen auf diesen Staat."
+SUPPLY_MAPICON_INFRA_DESC:1	" Die durchschnittliche Infrastruktur der Staaten in diesem Gebiet ($AVG|1Y$) erhöht die Menge an Lieferungen, die durch dieses Gebiet transportiert werden kann.\nDas Gesamtniveau der §YInfrastruktur§! in diesem Gebiet beträgt $LVL|G$. "
+SUPPLY_MAPICON_PORT_DESC:0	"Der höchste Stand §Ydes Marinestützpunkts§! beträgt $LVL|G$."
+DEBUG_TOOLTIP_HINT:0	" Halten Sie §GStrg + Alt§! gedrückt, um §HDebug§! anzuzeigen"
+PROV_TEXT_UNITS_PARACHUTED:0	"Einheiten per Fallschirm abgesetzt"
+STATE_VIEW_WICTORY_POINTS:0	"$VALUE$ £victory_points£"
+STATE_VIEW_WICTORY_POINTS_DESC:0	"Wie viele £victory_points  §HSiegpunkte §! diese Provinz wert ist."
+ACE_FULL_NAME:0	"$NAME$ $SUR$ "
+ACE_PILOT_STATUS:0	"Aktueller Status: $STATUS$\n"
+ACE_PILOT_STATUS_ACTIVE:0	"§GAKTIV§!"
+ACE_PILOT_CANT_ASSIGN_NO_ACES:0	"In unserem Land gibt es noch keine Ass-Piloten. Piloten können nach erfolgreichen Missionen befördert werden."
+QUIT_DESC:0	"Möchten Sie Hearts of Iron IV wirklich beenden?\n\nAlle ungespeicherten Spielstände gehen verloren. "
+RESIGN_TITLE:0	"Spiel beenden"
+EQUIPMENT_DETAILS:0	"Ausrüstungsdetails"
+SUNK_SHIP_DETAILS:0	"Verlorene Schiffe"
+SUNK_SHIPS:0	"Verlorene Schiffe"
+OWNER:0	"Staatlicher Eigentümer"
+OR:0	"oder"
+CLICK_DETAILS:1	"§GFür Details klicken\nUmschalt+Klick, um mehrere Fenster zu öffnen§!"
+SELECT_ALL:0	 "Alle auswählen"
+UNASSIGN:0	"Zuordnung aufheben"
+BUTTON_DISMISS:0	"Entlassen"
+CONFIRM_START_TRAINING:0	"Übung starten"
+CONFIRM_START_TRAINING_DESC:1	"Möchten Sie, dass diese Armee eine Militärübung beginnt?"\nEinheiten sammeln während einer Übung langsam Erfahrung, und es wird auch nationale militärische Erfahrung hinzugefügt. Einheiten können durch die Übung nicht über $MAX|Y$ hinaus fortschreiten. Wenn Sie eine Armee auf Übung setzen, sinkt die Organisation jeder Einheit, bis die Übung beendet wird. Einheiten in der Übung können sich nicht bewegen und erleiden $ATTRITION|R%0$ Verluste."
+CONFIRM_STOP_TRAINING_DESC:1	"Möchten Sie, dass diese Armee die Übung beendet?\nSie sammeln keine Erfahrung mehr und die Einheiten gewinnen langsam ihre Organisation zurück."
+TRAINING_ATTRITION:0	"Übung: $VALUE$"
+UNITS_VIEW_BTN_TRAIN_UNITS_TOOLTIP_SHIFT_CLICK_INFO:0	"Klicken Sie bei gedrückter Umschalttaste, um eine §GÜbung§! zu starten, die so lange dauert, bis alle Einheiten ausgebildet sind."
+AIR_WING_XP_BONUS_NEXT_LEVEL:0	"Erfahrungsprogress zum nächsten Level: $EXP|Y%0$"
+NAVY_XP_BONUS_NONE:0	"§HKein Bonus durch Erfahrung§!"
+NAVY_XP_BONUS_HEADER:1	 "§HDies hat folgende Auswirkungen:§!"
+EXP_TOOLTIP:0	"Erfahrungsstufe $NUMBER$ / 21 - $LEVEL|Y$ "
+EXP_TOOLTIP_ARMY:0	" Erfahrungsstufe $NUMBER$ / 21 - $LEVEL|Y$\nDies ergibt einen $COMBAT$ Modifikator im Kampf.\nErfahrungsfortschritt bis zur nächsten Stufe: $EXP|Y%1$"
+EXP_DETAILS:1	"Erfahrungsprogress bis zur nächsten Stufe: $EXP|Y%0$"
+CANNOT_EXECUTE_ORDERS_WHILE_TRAINING:1	" Diese Armee führt derzeit eine §YÜbung§! durch und kann keine Befehle ausführen. Beenden Sie die Übung, wenn Sie ihre Befehle ausführen möchten."
+UNIT_COUNTER_TOOLTIP:0	" $DIVISION|H$"
+CONTINUOUS_FOCUS_TREE_HEADER:0	"Kontinuierliche Schwerpunkte"
+CONTINUOUS_FOCUS_TREE_DESC:0	"Bleibt aktiv, bis Sie den Schwerpunkt erneut ändern"
+CONTINUOUS_FOCUS_LOCKED_DESC:0	"§REntsperren $LEFT|H$ weiterer Fokus §!"
+CONTINUOUS_FOCUS_UNLOCKED_DESC:0	"§GKontinuierliche Fokus entsperrt|___CC0045 60___|"
+START_FOCUS:0	"Start"
+CANCEL_FOCUS:0	"Abbrechen"
+FOCUS_ALREADY_COMPLETE:0	"Dieser Fokus wurde bereits abgeschlossen."
+FOCUS_CAN_START:0	"§GKlicken Sie hier, um mit der Fokussierung auf dieses Ziel zu beginnen.§!"
+FOCUS_CANNOT_START:0	"§RSie erfüllen die Voraussetzungen nicht!§!"
+FOCUS_CANNOT_START_CAPITULATED:0	"§RNicht verfügbar, wenn Ihr Land kapituliert hat!§!"
+FOCUS_CANNOT_BYPASS:0	 "§REin Fokus kann nicht umgangen werden, solange ein sich gegenseitig ausschließender Fokus läuft§! "
+FOCUS_CANCEL_BUTTON_DESC:0	"§HKlicken Sie hier, um diesen Fokus abzubrechen.§!\n$DAYS|0H$ §HTage§! Fortschritt wird gespeichert."
+FOCUS_STATUS_IN_PROGRESS:0	"Fortschritt $CURR|Y0$/$TOT|0Y$ Tage "
+CONTINUOUS_FOCUS_ACTIVE_STATUS:0	"Aktiv"
+CONTINUOUS_FOCUS_NOT_ACTIVE_STATUS:0	"Nicht aktiv"
+WHEN_FOCUS_COMPLETED:0	"und nach Abschluss:\n"
+FOCUS_STATUS_COMPLETED:0	"Abgeschlossen"
+FOCUS_STATUS_COST:0	" $TOT|0$ Tage"
+FOCUS_STATUS_TOOLTIP:0	"Fertigstellungszeit: $DAYS|0H$ Tage"
+PROVINCE_UNIT_CLICK:2	"§GRechtsklick§!, um den Divisionen zu befehlen, §Yhierher zu ziehen§!."
+PROVINCE_UNIT_SAFE_STRATEGIC_REDEPLOYMENT:0	"Armeen §Rkönnen§! im strategischen Umgruppierungsmodus nicht in feindliches Gebiet vorrücken."
+PROVINCE_UNIT_CTRL_CLICK:2	" §GStrg + Rechtsklick§! um den Divisionen zu befehlen, §Yden Angriff§! hier zu unterstützen."
+PROVINCE_UNIT_MOVE_DAYS_HOURS:3	"Ankunft der ersten Division in: $DAYS|Y$ §YTag(e)§! und $HOURS|Y$ §YStunde(n)§!."
+UNIT_VIEW_MOVE_HOURS:0	"Wird am Endziel ankommen in $HOURS|Y$ §YStunde(n)§! "
+UNIT_COUNTER_MOVE_HOURS:0	"Wird am nächsten Standort ankommen in $HOURS|Y$ §YStunde(n)§!"
+UNIT_COUNTER_MOVE_DAYS_HOURS:0	 "Wird am nächsten Standort in $DAYS|Y$ §YTag(en)§! und $HOURS|Y$ §YStunde(n) §!"
+MOVING_STRATEGIC_REDEPLOYMENT:1	"Modus für strategische Umverteilung.\nGeschwindigkeit: $VALUE|H1$ km/h\n  Basis: $BASE|H1$ km/h\n  Infrastrukturzusatz: $ADD|=G1$ km/h. "
+MOVING_AMPHIBIOUS_INVASION:0	"Die Division führt eine amphibische Invasion durch. Ihre Geschwindigkeit ist auf $VALUE|H$ km/h festgelegt."
+MOVEMENT_SPEED_DESC:0	"Geschwindigkeit: $VALUE|H$ km/h\nBasis: $BASE|H$ km/h"
+TERRAIN_SPEED_MODIFIER:2	"$NAME$: $VALUE|+=%$"
+FORT_SPEED_MODIFIER:0	"Festung: $VALUE|+=%$"
+LARGE_RIVER_MODIFIER:1	"Großer Fluss: $VALUE|+=%$"
+AIR_SUPERIORITY_SPEED_MODIFIER:1	"Luftüberlegenheit: $VALUE|+=%$"
+SUPPLY_SPEED_MODIFIER:1	"Versorgung: $VALUE|+=%$ "
+NON_CORE_SUPPLY_SPEED_MODIFIER:2	"Keine Anbindung an das Versorgungsnetz: $VALUE|+=%$"
+NON_CORE_SUPPLY_AIR_SPEED_MODIFIER:2	"Keine Anbindung an das Versorgungsnetz (Versorgung durch Luftabwürfe): $VALUE|+=%$"
+TRAINING_NAVY_ORG:0	"Diese Einsatzgruppe führt §HMarineübungen§! durch. Während der Übungen ist ihre derzeitige Organisation auf $VALUE|H%$ begrenzt."
+MOVING_TO_FRIEND_TERRITORY:0	"Die Division bewegt sich in Richtung befreundetes Gebiet."
+UNIT_MOVING_DAYS_HOURS:0	"Die Einheit wird ihr Ziel in $DAYS|Y$ §YTag(en)§! und $HOURS|Y$ §YStunde(n)|___CC 004600___|."
+HAS_NOT_EXCLUSIVE_LIST:0	"   $NAME|G$\n"
+FOCUS_EXCLUSIVE_LIST:0	"Dieser Fokus kann nur ausgewählt werden, wenn Sie noch keinen der folgenden haben:\n"
+UNLOCK_FOCUS_EFFECT:0	"$WHO|H$ schaltet Fokus frei $LIST|H$"
+UNLOCK_COMPLETE_EFFECT_FOR:0	"$WHO|H$ Fokus abschließen $FOCUS|H$ für $FOR|H$"
+alert_select_focus_instant:0	"§HKein nationaler Fokus festgelegt§!"
+FOCUS_MIX_AND_PREREQ_HAS:0	"§G- $FOCUS$\n§!"
+FOCUS_NO_PREREQ:0	"Keine Voraussetzungen für einen nationalen Schwerpunkt"
+FOCUS_SINGLE_OR_PREREQ_HEADER:0	"§HErfordert eine der folgenden Voraussetzungen:\n§! "
+FOCUS_SINGLE_OR_PREREQ:0	"§R- $FOCUS$\n§!"
+FOCUS_SINGLE_OR_PREREQ_HAS:0	"§G- |___ NE001369___|\n§!"
+FOCUS_AND_PREREQ_HEADER:0	" §HErfordert alle folgenden Elemente:\n§!"
+FOCUS_AND_PREREQ:0	"§R - $FOCUS$\n§!"
+FOCUS_AND_PREREQ_HAS:0	"§G- $FOCUS$\n§!"
+FOCUS_MIX_OR_PREREQ_HEADER:0	"§R - Eine der folgenden:\n§!"
+FOCUS_MIX_OR_PREREQ_HEADER_HAS:0	"§G- Eine der folgenden:\n§! "
+FOCUS_MIX_OR_PREREQ:0	"     $FOCUS|R$\n"
+FOCUS_MIX_OR_PREREQ_HAS:0	"     $FOCUS|G$\n"
+HAS_EXCLUSIVE_FOCUS:0	"§RDies kann nicht vorhanden sein und $FOCUS$§!"
+FOCUS_WILL_PAUSE:0	"\nDieser Fokus wird angehalten, wenn die Anforderungen nicht erfüllt sind."
+FOCUS_WILL_CANCEL:0	"\nDieser Fokus wird abgebrochen, wenn die Anforderungen nicht erfüllt sind."
+FOCUS_WILL_BYPASS_IF_UNAVAILABLE:0	"Dieser Fokus wird übersprungen, wenn die Anforderungen nicht erfüllt sind."
+FOCUS_FOUND:0	"$NUM$ Gefunden"
+FOCUS_FILTERED_CYCLE:0	"$CUR$/$NUM$ Gefiltert"
+FOCUS_SEARCH_TOOLTIP:0	"§HFokusbaum-Suche §!\n\nGeben Sie einen Text ein, um in Fokusnamen und -beschreibungen zu suchen. \n\n£tab : Durch die gefundenen Fokusse blättern.\n£RETURN : Detailfenster für den aktuellen Fokus öffnen."
+FOCUS_FILTER_TOOLTIP:0	 "§HFokusbaum-Filter§!\n\n§GKlicken Sie§!, um das Menü der Fokusbaum-Filter ein- oder auszublenden.|___NL002017 ___|\nSobald ein Filter ausgewählt ist, können Sie mit der £tab£-Taste durch die gefilterten Fokuspunkte blättern."
+FOCUS_ZOOM_SLIDER_TOOLTIP:1	"Klicken Sie oder verwenden Sie §Gdas Mausrad§!, um den Fokusbaum zu vergrößern/verkleinern"
+CANCEL_FOCUS_HEADER:0	"Verworfen seit:\n"
+FOCUS_CANCEL:0	"\n§HWird aufgegeben, wenn:\n§!"
+FOCUS_MESSAGE_CANCELED_TITLE:0	" §RNationaler Fokus aufgehoben§!"
+FOCUS_AUTOMATIC_BYPASS_DISABLED:	" (§Yautomatische Umgehung ist deaktiviert§!)"
+BYPASS_FOCUS_TRIGER:1	"Folgendes umgeht den Fokus$AUTOMATIC_BYPASS_DISABLED$:"
+DIPLOMACY_CREATE_FACTION_NOT_OPP_IDEO:0	" $COUNTRY$ darf nicht $IDE$ in einer Fraktion mit uns sein."
+CLICK_OPEN_FRIEND_FOCUS:0	"\n\n§GKlicken Sie hier, um den Fokusbaum anzuzeigen|___CC0 04638___|"
+RESEARCH_BONUS_USED:0	"Verbraucht den Forschungsbonus von $NAME|H$ ($BONUS$) . Für jede Forschung wird nur ein Bonus verwendet.\n"
+RESEARCH_BONUS:0	"$NAME|H$ ($BONUS$) könnte ebenfalls gelten.\n"
+RESEARCH_BONUS_VALUE:2	"$BONUS|%0H$ Forschungsgeschwindigkeit"
+RESEARCH_BONUS_PENALTY:1	"$BONUS|.1H$ Jahre Vorab-Strafrabatt"
+TOGGLE_ALLIED_BATTLEPLANS:0	"Alliierte Schlachtpläne"
+TOGGLE_ALLIED_BATTLEPLANS_NO_ALLIES:1	"§RWir sind derzeit mit niemandem verbündet.§!"
+TOGGLE_ALLIED_BATTLEPLANS_LIST:1	"Wir sind mit den folgenden Ländern verbündet:"
+TOGGLE_UNIT_COUNTER_MODE:1	"Umschalten §YEinheitsfarbe§! zwischen: \n§YLänder§! oder §YAllianz§!"
+TOGGLE_NIGHT_ENABLED:1	 "Anzeige der §YTag/Nacht§! Schleife umschalten."
+TOGGLE_FOG_OF_WAR:0	"Anzeige des §YNebel des Krieges§! umschalten"
+TOGGLE_RADAR:0	"Anzeige von §YRadargeräten§! umschalten."
+TOGGLE_PLAYER_COUNTERS_ONLY:1	" Anzeige von §YEinheitszählern§! umschalten zwischen:\n§YAlle§! oder §YSpieler §!"
+DIPLOMACY_SEND_VOLUNTEERS_TITLE:0	"Freiwillige entsenden"
+VOL_MULTIPLE_DIVISIONS:0	"$COUNT$ Divisionen"
+SEND:0	"Entsenden"
+UNASSIGNED_EXPEDITIONARY_UNITS:1	"Keine Armee"
+ELIGIBLE_UNASSIGNED_DIVISIONS:0	"$DIVISION_COUNT$ berechtigte Divisionen, die keiner Armee zugewiesen sind."
+DIPLOMACY_RETURN_EXP_FORCE_TITLE:0	"Expeditionen zurücksenden"
+RETURN_ALL_EXPEDITIONARY_FORCES_NO_FORCES:0	"Sie haben keine Expeditionsstreitkräfte in diesem Land."
+CAN_GENERATE_FAMALE_ACES:0	"Frauen in Ihrem Land dürfen Militärpilotinnen werden"
+CAN_USE_KAMIKAZE_PILOTS:0	"Kann Kamikaze-Piloten einsetzen"
+CAN_LOWER_TENSION:0	"Senkt die weltweite Spannung durch Garantien"
+CAN_CREATE_FACTIONS:0	"Kann Fraktionen gründen"
+CAN_JOIN_OPPOSITE_FACTIONS:0	"Kann Fraktionen beitreten, die von einer anderen Ideologie angeführt werden"
+CAN_OCCUPY_NON_WAR:0	"Kann Gebiete halten, die einem Land gehören, mit dem es sich nicht im Krieg befindet"
+CAN_DECLINE_CALL_TO_WAR:0	"Kann einen Kriegsaufruf ablehnen"
+CAN_NOT_DECLARE_WAR:0	"Kann keine Kriege erklären"
+ORG_HIT_WHEN_ADVANCING:0	"Bewegung: $VAL|=+%2$\n"
+ORG_HIT_NON_RATIO_WHEN_ADVANCING:0	"Bewegung: $VAL|=+2$\n"
+HIGH_ORG_REGAIN:0	"Hohe Organisation: $VAL|=+%2$ "
+RELIABILITY_ORG_IMPACT:0	"Zuverlässigkeit: $VAL|=+%2$\n"
+NOT_AVAILABLE_IN_BUILD:0	"§RIn dieser Version nicht verfügbar.§!"
+MODIFIER_BASE_VALUE:0	"Basiswert: $VALUE|H0$"
+MODIFIER_BASE_VALUE_PERCENTAGE:0	"Basiswert: $VALUE|H0%$"
+MODIFIER_BASE_VALUE_STR:0	"Basiswert: $VALUE$"
+NEGATIVE_VALUE:0	"$VALUE|R0$"
+NEGATIVE_VALUE_PERCENTAGE:0	"$VALUE|R0%$"
+DEFAULT_DIV_TEMPL_SYMBOL:0	"Standardsymbol"
+DIV_TEMPL_SYMBOL_TOOLTIP:0	"§GKlicken Sie§!, um die Teilungsvorlage §YSymbol§!zu ändern."
+NAVAL_HISTORY_ASSISTED_KILL:0	"Beigetragen zur Versenkung |___NE00 1398___| ($SHIPCLASS|Y$)"
+PORT_STRIKE_RESULT_HEADER:1	"§HPort Strikes§!"
+PORTS_STRIKE_HEADER_DATE:0	" (aktuell: $DATE$) "
+NAVAL_COMBAT_RESULT_PARTICIPANTS:0	"($A$ vs $D$)\n"
+NAVAL_COMBAT_RESULT_LOSSES:1	"  $WHO$ §Wverloren§! $NAME$\n"
+CONFIRMDISMANTLE_FACTION_TEXT:0	" Sind Sie sicher, dass Sie §Rdie $NAME|H$Fraktion§!auflösen§Rmöchten?"
+NAVY_REINFORCE_CANCEL_DESC_ONE:0	"$FLEET|H$ ist auf dem Weg nach $TARGET|H$, um sich mit ihnen zu vereinen.\nMöchten Sie diese Aufgabe abbrechen?"
+NAVY_REFIT_ABORT_DESC:0	"Ausgewählte Einsatzgruppen werden derzeit umgerüstet, Fortschritt: \n$PROGRESS_LIST$\nZum jetzigen Zeitpunkt sind die Schiffe nicht seetüchtig. Sie können entweder warten, bis die Umrüstung abgeschlossen ist, oder Sie können §Rsie versenken§!.|___NL0020 36___|Möchten Sie §Rdie Schiffe versenken§! $NUM_SHIPS|H$?\nDies ist unwiderruflich!"
+NAVY_REFIT_CANCEL_DESC_ONE:0	" $FLEET|H$ ist auf dem Weg nach $TARGET|H$ zur Überholung.\nMöchten Sie diese Aufgabe abbrechen?"
+NAVY_REPAIR_CANCEL_TITLE:1	"Reparaturauftrag abbrechen."
+NAVY_REPAIR_CANCEL_ALLY_SHIP:1	"Das Abbrechen der Reparaturen eines verbündeten Schiffes führt zur Stornierung der Reparaturen und zwingt dessen Einsatzgruppe, sich in einen ihrer eigenen Häfen zu begeben."
+DO_YOU_WANT_TO_CONTINUE:0	" Möchten Sie fortfahren?"
+NAVY_REPAIR_CANCEL_DESC_WARN_ON_POLICY:0	"\n§RBeachten Sie§!, dass $FLEET|H$ diese Schiffe zurückschicken könnte, es sei denn, Sie ändern die Reparaturrichtlinie auf §RNie reparieren§!."
+NAVY_REPAIR_POLICY_BLOCK_BECAUSE_DETACHED:0	"§REine Änderung der Reparaturrichtlinie ist für losgelöste Einsatzverbände nicht möglich§! "
+NAVY_REPAIR_POLICY_CLICK_TO_CHANGE_TO:	"§GKlicken Sie§!, um zu $LEVEL|$"
+NAVY_REPAIR_POLICY_SPLIT:0	"§HDie automatische Abspaltung§! ist nun $ON_OFF|H$.\n"
+NAVY_SPLIT_TASKFORCE_IN_HALF:0	"Teilen Sie die ausgewählte Task Force in zwei Hälften"
+NAVY_SPLIT_TASKFORCE_IN_HALF_TOO_SMALL:0	"§RDie Task Force ist zu klein, um geteilt zu werden§!"
+NAVY_DOCKYARD_REPAIR_POLICY_DISABLED:0	"§RNie reparieren§!"
+NAVY_DOCKYARD_REPAIR_POLICY_0:0	"§RNie reparieren§!"
+NAVY_DOCKYARD_REPAIR_POLICY_1:0	"§RReparaturpriorität – Niedrig§!"
+NAVY_DOCKYARD_REPAIR_POLICY_2:0	"§YReparaturpriorität – Mittel§!"
+NAVY_DOCKYARD_REPAIR_POLICY_3:0	"§GReparaturpriorität – Hoch§!"
+NAVY_DOCKYARD_REPAIR_POLICY_INFO:1	"Die Marinestützpunkte mit höherer Priorität sichern sich für ihre Reparaturen zuerst die Werften. \n\n§GKlicken Sie§!, um die Reparaturpriorität zu ändern. §GRechtsklick§!, um die Werft für Reparaturen zu deaktivieren oder zu aktivieren."
+NAVY_ALLY_DOCKYARD_REPAIR_INFO:0	" Dieser Marinestützpunkt wird von einem Verbündeten kontrolliert, und die für Reparaturen erforderlichen Werften werden von diesem bereitgestellt; nur dieser kann die Einstellungen des Marinestützpunkts ändern.\n\n§GKlicken Sie§!, um die Werft für Reparaturen zu deaktivieren oder zu aktivieren."
+ENABLED:0	"Aktiviert"
+DISABLED:0	"Deaktiviert"
+FIND:0	"Suchen"
+TYPE_HERE:0	"Hier eingeben"
+GOTO_CAPITAL:0	"Zurück zur Startseite"
+NAVY_REPAIR_NOW:3	" §HJetzt reparieren!§!\nDie Einsatzgruppe kehrt zur Reparatur zu einem nahegelegenen Marinestützpunkt zurück.\n§GKlicken Sie§!, um zu senden. Nach vollständiger Reparatur kehrt sie zur aktuellen Aufgabe zurück.\n§GStrg+Klick§! zum Senden. Danach verbleibt sie im Marinestützpunkt."
+NAVY_REPAIR_NOW_CANCEL_RETURN:0	"\nKehren Sie zurück und schließen Sie sich wieder der $FLEET|H$ an."
+ALL_TASK_FORCES_REPAIR_NOW:0	" §HJetzt reparieren!§!\nAlle ausgewählten Einsatzgruppen kehren zur Heimatbasis zurück, um repariert zu werden.\n§GKlicken Sie§!, um den Befehl zu senden. Sie werden ihre aktuellen Aufgaben wieder aufnehmen, sobald sie vollständig repariert sind.\n§GStrg+Klick§! zum Senden. Danach bleiben sie im Marinestützpunkt."
+ALL_TASK_FORCES_REPAIR_NOW_CANCEL:	"§GKlicken§!, um alle Reparaturaufträge für die ausgewählten Einsatzgruppen abzubrechen."
+NAVY_CARRIER_DEFENSIVE_STANCE_CONFLICT:	"Die meisten Einsatzverbände: $CURRENT|G$"
+NAVY_CARRIER_DEFENSIVE_STANCE_CURRENT:	"Aktuelle Verteidigungshaltung – $CURRENT|G$"
+CARRIER_DEFENSIVE_STANCE_SELECTION_4:	"Aggressiv"
+CARRIER_DEFENSIVE_STANCE_SELECTION_0_DESC:	"Alle Flugzeuge werden für Verteidigungsmaßnahmen eingesetzt"
+CARRIER_DEFENSIVE_STANCE_SELECTION_1_DESC:	"§G75 %§! der Flugzeuge werden für Verteidigungsmaßnahmen eingesetzt"
+CARRIER_DEFENSIVE_STANCE_SELECTION_3_DESC:	"§G25 %§! der Flugzeuge werden für Verteidigungsmaßnahmen eingesetzt"
+SHIP_REPAIR_NOW_WITHOUT_DETACHING:0	"§HJetzt reparieren!§!\n§GKlicken Sie§!, um das Schiff in die Reparaturwarteschlange aufzunehmen."
+SHIP_REFIT_UPGRADE_TOOLTIP:0	"§HSchiff aufrüsten§!\nRüsten Sie dieses Schiff um, um ein verbessertes Design zu verwenden."
+SHIP_REFIT_IN_PROGRESS_TOOLTIP:1	"Dieses Schiff wird derzeit auf ein anderes Schiffsdesign umgerüstet, $VARIANT_NAME|H$. "
+SHIP_REFIT_IN_PROGRESS_TOOLTIP_CAN_CANCEL:1	"\n\nEs ist §Gerlaubt§!, den Vorgang abzubrechen, da der Fortschritt noch nicht weit genug fortgeschritten ist."
+SHIP_REFIT_IN_PROGRESS_TOOLTIP_CAN_NOT_CANCEL:0	"\n\nEs ist §Rnicht erlaubt§!, den Vorgang abzubrechen, da der Fortschritt zu weit fortgeschritten ist. Zum Abbruch können Sie das Schiff nur §Rversenken§!."
+SHIP_REFIT_IN_PROGRESS_TOOLTIP_DELAYED:1	"Der Produktionsfortschritt kann im Produktionsfenster überwacht werden."
+SHIP_REFIT_PROGRESS:0	"Umrüstung: $PROGRESS|%1$"
+SHIP_REINFORCING:0	"Verstärkung mit: $TARGET|Y$"
+SHIP_REFIT_CONFIRM_TITLE:0	"Schiffe umrüsten"
+EXP_DAILY_GAIN:0	"Täglicher Erfahrungsfortschritt zum nächsten Level durch Kämpfe: $EXP|Y%2$"
+RMB_TO_SELECT_ALL:0	"§GRechtsklick§!, um alles auszuwählen."
+LMB_TO_SELECT_ALL:0	"§GKlick§!, um alles auszuwählen."
+RMB_TO_SELECT:0	"§GRechtsklick§! zum Auswählen"
+COARSE_COUNTER_KNOWN_UNITS:0	"§HBekannte Einheiten:§!"
+COARSE_COUNTER_UNKNOWN_UNITS:0	"Unzureichende Informationen"
+COARSE_COUNTER_ARMIES_DESC:0	"$ARMIES|H$ Divisionen."
+COARSE_COUNTER_RAILWAY_GUNS_DESC:0	"$RAILWAY_GUNS|H$ Eisenbahnkanonen."
+SORT_BY_TENSION:0	"Nach weltweiter Spannung sortieren"
+SORT_BY_DATE:0	"Nach Datum sortieren"
+SORT_BY_COUNTRY:0	"Nach Land sortieren"
+SHOW_WARS:0	"Alle derzeit aktiven Kriege anzeigen"
+CLICK_FOR_WAR_OVERVIEW:0	"Klicken Sie hier, um die Kriegsübersicht für $WAR_NAME|Y$"
+BROWSER_FORWARD:0	"Weiter"
+BROWSER_FORUM:0	"Forum"
+BROWSER_HOME:0	"Startseite"
+RESEARCH_WITH_XP:0	"Forschung mit XP"
+UNLOCK_WITH_XP:1	"Freischalten $XPICON$ $VALUE|Y0$"
+BROWSER_LINK:0	"Platzhalter für coolen Link"
+UNITS_VIEW_EXERCISING:1	"Diese Armee übt"
+UNITS_VIEW_EXERCISING_UNTIL_TRAINED:0	"Diese Armee wird so lange üben, bis sie vollständig ausgebildet ist"
+UNITS_DEFENDING_AREA:0	"Diese Armee verteidigt ihr Territorium"
+DLC_IS_ENABLED:0	"$DLC|Y$ ist aktiviert."
+DLC_MISSING:0	"Dieses Spiel kann erst gestartet werden, wenn fehlende DLCs wieder aktiviert sind:\n"
+SAVED_GAME_RULES_DLC_MISSING:0	"Fehlende DLCs:\n"
+DLC_MISSING_ITEM:0	"$NAME|R$"
+MODS_MISSING:0	"Fehlende Mods:\n"
+DLC_TOGETHER_FOR_VICTORY:0	"Together for Victory"
+SURRENDERED_TITLE:0	"$TAG_ADJ$ Ausrüstung beschlagnahmt"
+SURRENDERED_DESC:0	"$TAG|H$ hat kapituliert und uns Zugang zu $VALUE|0H%$ ihrer gelagerten Ausrüstung gewährt"
+SURRENDERED_OTHER:0	"Sonstiges"
+SURRENDERED_SPECIAL_ITEM_WITHOUT_TYPE:1	"$AMOUNT|H$ $EQUIPMENT|H$"
+from_trade:0	"Aus Handel:"
+owned:0	"Im Besitz:"
+CHAT:0	"Chat"
+FORT:0	"Fort"
+AIR_WING_NAME_FRA_FALLBACK:0	"$NUMBER$. Escadre"
+AIR_WING_NAME_ENG_GENERIC:0	"Nr. $NR$ $NAME$ Flügel RAF"
+AIR_WING_NAME_POL_GENERIC:0	"$NR$. $NAME$"
+AIR_WING_NAME_HOL_GENERIC:0	"$NR$e $NAME$"
+AIR_WING_NAME_SWE_GENERIC:0	"$NR$. $NAME$"
+AIR_WING_NAME_TUR_GENERIC:0	"$NR$. $NAME$"
+AIR_WING_NAME_FIN_FALLBACK:0	"Lentorykmentti $NUMBER$"
+AIR_WING_NAME_FIN_BOMBER:0	"$NR$. $NAME$"
+AIR_WING_NAME_BRA_GENERIC:0	"$NR$. $NAME$"
+CONFIRMCONSOLIDATEUNITSAREOVERSEA:0	"§RAusgewählte Einheiten befinden sich nicht im Heimatgebiet, Sie verlieren $VALUE|%0$ einen Teil ihrer Ausrüstung!§!"
+CONFIRMCONSOLIDATE_ARMY_INFO:0	" Die folgenden $NUM|H$ Divisionen werden auf volle Stärke verstärkt: $ARMIES|H$"
+CONFIRMCONSOLIDATE_GAIN_RESULT:0	"$AMOUNT|0H$/$MAX|0H$ $EQUIPMENT$"
+CONSOLIDATE:0	"Zusammenlegen"
+CONSOLIDATE_TOOLTIP:1	"Unterbesetzte und beschädigte Einheiten zusammenlegen. Die Erfahrung der zusammengefassten Einheiten bleibt erhalten. Personal und Ausrüstung werden addiert."
+CONSOLIDATE_NOT_POSSIBLE_NOT_MULTIPLE_UNITS:0	"- Es ist mehr als eine Einheit ausgewählt"
+DECISION_PREREQUISITES_HEADER:0	"§HVoraussetzungen:§!"
+DECISION_SELECT_HEADER:0	" §HAuswirkungen bei Auswahl:§!"
+DECISION_ACTIVE_FOR_AMOUNT_DAYS:0	"Aktiv für $AMOUNT|H$ Tage."
+TIMED_DECISION_TIMEOUT_EFFECT_HEADER_BAD:0	"§HAuswirkungen, wenn nicht innerhalb von $TIMEOUT|0$ Tagen abgeschlossen:§!"
+TIMED_DECISION_TIMEOUT_EFFECT_HEADER_SELECTABLE:0	"§HAuswirkungen, wenn nicht innerhalb von $TIMEOUT|0$ Tagen ausgewählt:§!"
+TIMED_DECISION_COMPLETE_EFFECT_HEADER_SELECTABLE:0	"§HAuswirkungen bei Auswahl:§!"
+TIMED_DECISION_COMPLETED:0	"Abgeschlossen"
+TIMED_DECISION_PREREQUISITES_HEADER_GOOD:0	"§HScheitert, wenn:§!"
+TIMED_DECISION_PREREQUISITES_HEADER_SELECTABLE:0	"§HVoraussetzungen:§!"
+TIMED_DECISION_ABORT_HEADER:0	" §HWird abgebrochen, wenn:§!"
+SEND_DEFENSIVE_PING_MINIMAP_DESCRIPTION:0	 "§HKlicken Sie§! auf diese Schaltfläche und dann§Hklicken Sie§! auf§Hdie Minikarte/Spielkarte§!, um einen|___CC0 04765___|defensiven§! Ping an Ihre Verbündeten zu senden."
+hot_climate:0	"Schnelle Akklimatisierung"
+ACCLIMATIZATION:0	"Akklimatisierung"
+ACCLIMATIZATION_GAINED_WHEN:0	"  $NAME|H$erhalten, wenn:"
+ACCLIMATIZATION_GAINED_WHEN_ENTRY:0	"    $YES_NO$ $WEATHER$"
+ACCLIMATIZATION_PENALTY_REDUCTIONS:0	"Aktuelle Strafminderungen:"
+ACCLIMATIZATION_PENALTY_ENTRY:0	"  $NAME$ = $PENALTY|%1=R$ £right_arrow $AFTER_RED|%1=Y$"
+ACCLIMATIZATION_PENALTY_REDUCTION_NONE:0	"  §RKeine§!"
+ACCLIMATIZATION_DESCRIPTION:0	"Befindet sich eine Division in einem rauen Klima, erlangt sie eine Akklimatisierung, die die Malusse verringert."
+COMBAT_ATTACK_BUFF:0	"Angriff"
+COMBAT_DEFENSE_BUFF:0	"Verteidigung"
+COMBAT_BREAKTHROUGH_BUFF:0	"Durchbruch"
+COMBAT_ENTRENCHMENT_BUFF:0	"Eingraben"
+CANNOT_RETREAT_WHILE_ATTACKING:0	"Kein Rückzug während eines Angriffs"
+STR_DAMAGE_MULTIPLIER:0	"Erlittener Stärke-Schaden"
+WAR_SUPPORT_REDUCTION_ON_DAMAGE:0	"Reduzierung der Kriegsunterstützung bei Schaden"
+DEBUG_IN_MULTIPLAYER_FORBIDDEN:0	"Es ist verboten, Multiplayer-Sitzungen mit aktiviertem DEBUG auszuführen. Bitte starten Sie das Spiel ohne das Argument -debug."
+COMMAND_POWER_CONSUMPTION_ENTRY:0	"$NAME$: $VALUE|2+$"
+COMMAND_POWER_CONSUMPTION_ENTRY_WITH_REASON:0	"$NAME$ ($REASON$): $VALUE|2+$"
+INFASTRUCTURE_DAMAGE:0	"Infrastrukturschaden: $VALUE|%+0$"
+UNCOLORED_FRACTION:0	"$NUM$/$DEN$"
+ARMY_FIGHTING_IN_BORDER_WAR:0	"§RDiese Armee kämpft in einem Grenzkonflikt. \n\nSie können Einheiten keine direkten Befehle erteilen, keine Divisionen aus der Armee entfernen und die Befehlskette nicht ändern.§!\n\n"
+SOME_UNITS_IN_BORDER_WAR_DESC:0	 "§RDiese Divisionen können nicht gesteuert werden.§!"
+TRIGGER_CAPITAL:0	"Hauptstadtstaat"
+PROV_TOOLTIP_LOCATION_HEADER:0	"£location_pointer  "
+PROV_TOOLTIP_LOCATION_STATE:1	"Eine $TERRAIN|H$ Provinz in $NAME|Y$"
+PROV_TOOLTIP_LOCATION_CONTROLLER:0	"§RController§!: $COUNTRY|Y$"
+PROV_TOOLTIP_SELECTION:0	"£divisions Derzeit ausgewählt:"
+PROV_TOOLTIP_WEATHER_MODIFIER:0	"£weather|$FRAME$  $TEXT|H$ "
+PROV_TOOLTIP_TEMPERATURE_MODIFIER:0	"£temperature|$FRAME$  $TEXT|H$"
+PROV_TOOLTIP_LOCAL_TIME:0	"Ortszeit: £daynight|$FRAME$ $TIME|H$"
+PROV_TOOLTIP_DIVS_RETREATING:1	"$UNIT_TYPE_PLURAL|U$ sich zurückziehend: $NUM|R$"
+PROV_TOOLTIP_DIVS_WITHDRAWING:1	"$UNIT_TYPE_PLURAL|U$ Rückzug: $NUM|G$"
+GARRISON_ORDER_EXTRA_CAPACITY:1	"\n\nDie maximale Kapazität von Armeen mit Befehlen zur Gebietsverteidigung wird erhöht auf $NUM|+%$"
+USE_DEFAULT_MODEL:0	"Beste Übereinstimmung verwenden"
+GENERIC:0	"Generisch"
+CULTURAL_GENERIC:0	"Kulturell generisch"
+FUEL_TITLE:0	"§HTreibstoff§!"
+FUEL:0	"Treibstoff"
+CURRENT_FUEL:0	"Aktueller Treibstoff: $NUM|H$"
+FUEL_CAPACITY:0	"£fuel_texticon  Tankinhalt: $NUM|H$"
+FUEL_DAILY:0	"$AMOUNT|H$/Tag"
+FUEL_DAILY_GAIN_NON_OIL_ONLY:0	"Täglicher Zuwachs: $NUM|H$"
+FUEL_DAILY_GAIN:0	"Täglicher Zuwachs: $NUM|H$"
+FUEL_DAILY_GAIN_FROM_LEND_LEASE:0	"Aus Leih- und Pacht: $NUM|H$"
+DAILY_FUEL_CONSUMPTION_WITH_RECEIVED:1	"Aktiver Verbrauch: $NUM|H$ §R(Erhalten: $NUM2|%.0$)§!"
+FUEL_GAIN_BY_STATES_FACTOR_TOOLTIP:1	"Aktueller Treibstoffgewinnbonus: $FACTOR|+%.0$"
+RESOURCE_GAIN_BY_STATES_TOOLTIP:0	"Aktueller £resources_strip|$FRAME$ Gewinnbonus: $VALUE|+.0$"
+MAX_FUEL_BY_STATES_FACTOR_TOOLTIP:0	"Die Treibstoffkapazität wird angepasst von $FACTOR|=+%.0$ auf: $TOTAL|.2H$"
+DURATION_DAYS:0	"$NUM|.0$ Tage"
+DURATION_MONTHS:0	"$NUM|.1$ Monate"
+FUEL_STOCKPILE_MAX_SHORT:0	"§GVoll§!"
+OTHER_FUEL_CONSUMPTION:1	"Ziviler Kraftstoffverbrauch: $NUM|H$"
+FUEL_REQUIRED:0	"Erforderlich: $NUM|H$"
+FUEL_REQUIRED_WITH_RECEIVED:0	"Erforderlich: $NUM|H$ §R(Erhalten: $NUM2$)§!"
+FUEL_REQUIRED_WITH_RECEIVED_PERC:0	"Erforderlich: $NUM|H$ §R(Eingegangen: $NUM2|%.0$)§!"
+FUEL_DAILY_REQUIRED_COMBINED:0	"Aktueller Tagesverbrauch: $NUM|H$"
+FUEL_DAILY_REQUIRED_COMBINED_MAX:0	"Maximaler Tagesverbrauch: $NUM|H$"
+FUEL_DAILY_REQUIRED_FROM_MILITARY:0	"Vom Militär: $NUM|H$"
+FUEL_DAILY_REQUIRED_FROM_LEND_LEASE:0	"Aus Leih- und Pacht: $NUM|H$"
+FUEL_DAILY_REQUIRED:0	"Aktueller Verbrauch: $NUM|H$/Tag"
+FUEL_TOTAL_REQUIRED:0	"Gesamtbedarf: $NUM|H$"
+FUEL_TOTAL_REQUIRED_WITH_RECEIVED:0	"Gesamtbedarf: $NUM|H$ §R(Erhalten: $NUM2$)§!"
+FUEL_TOTAL_REQUIRED_WITH_RECEIVED_PERC:0	"Gesamtbedarf: $NUM|H$ §R(Eingegangen: $NUM2|%.0$)§!"
+FUEL_SUPPORTED:0	"Unterstützt: $NUM|H$"
+FUEL_DESC:0	" §HTreibstoff§! wird aus dem überschüssigen Öl Ihres Landes gewonnen. Jedes Land verfügt über eine maximale Kapazität für §HTreibstoff§!, die durch den Bau von §HSilos|___CC00 4794___|. §HTreibstoff§! wird von Panzern/mechanisierten Einheiten, Schiffen und Flugzeugen verbraucht und über §HVersorgungslinien§! geliefert."
+LACK_OF_FUEL:0	"Treibstoffmangel: $VAL|%0R$"
+BASE_FUEL_CAPACITY:0	"Stützpunkt: $NUM|H$"
+REGION_WITH_NO_PATROL:1	"§R£mapicon_unit_no_orders  Ihre Flotten verfügen nicht über genügend aktive Patrouillenkräfte, um dieses Gebiet abzudecken.§!"
+AGRESSIVE_MISSION_WITH_NO_AGGRESSIVENESS:1	"§R£mapicon_unit_no_orders  Die Task Force $NAME|H$ befindet sich in der Einstellung §HNicht angreifen§!. §!"
+TOO_MANY_REGIONS_FOR_CONVOY_RAID:0	"§R$NAME|H$ kann höchstens $NUM|H$ Regionen effizient für Konvoiüberfälle abdecken. Ihre Effizienz ist auf $EFFICIENCY|%.0H$ gesenkt.§!"
+CONVOY_RAID_EFFICIENCY_DESC:2	"$NAME|H$ kann bis zu $NUM|H$ Regionen effizient für Konvoiüberfälle abdecken. Es arbeitet derzeit mit maximaler Effizienz. "
+TOO_MANY_REGIONS_FOR_CONVOY_RAID_DETAILED:1	"Bei geringerer Effizienz fällt es den Einsatzkräften für Konvoiüberfälle schwerer, feindliche Konvois zu entdecken, und es stehen zu Beginn des Gefechts weniger Schiffe zur Verfügung."
+TOO_MANY_CONVOYS_FOR_CONVOY_ESCORT:2	"§R£mapicon_unit_no_orders  Geringe Effizienz der Konvoieskorte§!"
+NOT_ENOUGH_TASK_FORCES_FOR_CONVOY_ESCORT:0	"§R£mapicon_unit_no_orders  Geringe Eskortenpräsenz§!"
+NOT_ENOUGH_TASK_FORCES_FOR_CONVOY_ESCORT_REMEDY:1	" Wenn mehr Einsatzverbände als Teil derselben Flotte den Auftrag ausführen, trägt dies dazu bei, dass stets ein Einsatzverband bereitsteht, um die Konvoiverteidigung zu übernehmen."
+CONVOY_DEFENSE_EFFICIENCY_DESC:2	"$NAME|H$ kann bis zu $NUM|H$ Konvois effizient eskortieren. Derzeit arbeitet er mit voller Effizienz."
+CONVOY_ESCORT_TASK_FORCES_IN_REGION_COUNT:0	"Eskort-Task Forces in der Region: $COUNT|H$"
+CONVOY_ESCORT_EFFICIENCY_NO_CONVOY_IN_FLEETS_AOO:1	"Kein Handelskonvoi, der im Einsatzgebiet der Flotte eskortiert werden muss"
+CONVOY_ESCORT_EFFICIENCY_CONVOYS_IN_AREA_OF_OPERATION:2	"Anzahl der eskortierten Konvois, wobei dieselben Konvois in jeder Region gezählt werden: $VALUE|H$"
+CONVOY_ESCORT_EFFICIENCY_IN_REGION:2	"Effizienz der Konvoieskorte in den abgedeckten Regionen: $VALUE|H$"
+CONVOY_ESCORT_PRESENCE_IN_REGION_EXPANDED:0	"Im letzten Monat standen unsere Begleiteinheiten $HOURS_WITH$/$HOURS_TOTAL|H$ Stunden ($PERCENT|H$)"
+CONVOY_ESCORT_EFFICIENCY_FLEET_DESC:4	"Die Flotte $FLEET|H$ verfügt über $NUM|.0H$ verfügbare Schiffe und $NUM_TASKFORCES|.0H$ verfügbare Einsatzgruppen in der Region und kann bis zu $COVERED_CONVOY|.0H$ Konvois eskortieren oder bis zu |___NE001539 ___| Regionen.($EFFICIENCY|H$)"
+CONVOY_RAIDING_EFFICIENCY_IN_REGION:0	"Durchschnittliche Effizienz bei Konvoiüberfällen in der Region: $VALUE$"
+CONVOY_RAIDING_TASK_FORCE_EFFICIENCY_DESC:0	"$TASK_FORCE|H$ kann Konvois in bis zu $REGIONS|H$ ($EFFICIENCY|H$) verschiedenen Regionen effizient überfallen."
+RESEARCH_WITH_XP_TEXT:1	"Geben Sie $XP_TEXT$"
+RESEARCH_WITH_XP_TEXT_TOOLTIP:0	"Geben Sie $XP_TEXT$ aus, um während der Forschung einen $NUM|+%.0$-Bonus zu erhalten."
+RESEARCH_TECH_IS_ALREADY_BOOSTED_BY_XP:0	"Die Technologie wurde bereits durch XP verbessert"
+RESEARCH_NOT_ENOUGH_XP_TO_BOOST:0	"§RSie verfügen nicht über genügend Erfahrung, um diese Forschung zu beschleunigen.§!"
+RESEARCH_NOT_ENOUGH_XP_TO_UNLOCK:0	"§RSie verfügen nicht über genügend Erfahrung, um diese Forschung freizuschalten. §!"
+MOVING:0	"In Bearbeitung"
+FINISHED:0	"Abgeschlossen"
+NAVAL_REPAIR_QUEUE_DOCKYARD_TOOLTIP:0	"§GKlicken Sie§!, um die Liste der Schiffswarteschlange ein- oder auszublenden\n§GRechtsklick§!, um zur Marinebasis zu schwenken"
+NAVAL_REPAIR_QUEUE_SHIP_TASKFORCE_TOOLTIP:0	"§GKlicken§!, um die Einsatzgruppe dieses Schiffes auszuwählen"
+OFF_REPAIRING:0	"In Reparatur"
+REFIT:0	"Überholen"
+REFIT_TOOLTIP:0	"Schiffe zu einem Marinestützpunkt schicken, um sie nach dem ausgewählten Entwurf umzubauen."
+SCORCHED_EARTH_STATE_NO_SUPPLY_BUILDINGS:1	"£trigger_no! Der Staat enthält keine Versorgungsgebäude.\n"
+SCORCHED_EARTH_STATE_UNDO:0	"Befehlen Sie, die Eisenbahnen in diesem Staat zu reparieren."
+FLEET_ACTIVE_ONLY_TASKFORCE_DESCRIPTION:0	"$FLEET_NAME|H$ verfügt über $NUM|H$ aktive Einsatzgruppen. "
+FLEET_TASKFORCE_DESCRIPTION:0	"$FLEET_NAME|H$ verfügt über $NUM|H$ aktive und $NUM_2|H$ inaktive Einsatzgruppen. "
+FLEET_OVERCAPACITY_DESCRIPTION:0	"Eine Überkapazität Ihrer Flotte verringert die Effektivität des Admirals auf $VALUE|%.0R$"
+TEMPORARILY_DETACHED:0	"§HVorübergehend abgezogen:§!"
+MODIFIED_BY:0	"§HGeändert von:§!"
+MSGRDK_SIGNIN_FAILED_TITLE:0	"Es gab ein Problem"
+MSGRDK_NO_MULTIPLAYER_TEXT:0	"Sie müssen bei einem Benutzerprofil mit Multiplayer-Rechten angemeldet sein, um online spielen zu können"
+TODAY:0	"Heute"
+FAKE_UNIT_INFO_TOOLTIP:0	"Diese Armee stellt eine für Ihre Feinde generierte Scheininformation dar. Sie verfügt über keine Kampffähigkeiten."
+fake_intel_unit:0	"Fake-Intelligence-Bataillon"
+FAKE_ARMY_REAL_INFO:0	"Diese Armee erscheint für Nicht-Verbündete als $REAL_TEMPLATE|H$."
+MAP_LOADING_ERROR_GENERAL_MITIGATION_PRELUDE:0	" Sie sollten Ihre Mods deaktivieren und es erneut versuchen.\n"
+MAP_LOADING_ERROR_MITIGATION_MSGR:0	""
+MAP_LOADING_ERROR_GENERAL_MITIGATION_EPILOG:0	"Sollte dies fehlschlagen, löschen Sie bitte Ihr Benutzerverzeichnis über den Launcher.\n"
+MAP_LOADING_ERROR_INGAME:0	"§RDer Versuch, ein Spiel zu starten, führt wahrscheinlich zu einem Absturz§!\n\n"
+SETTINGS_ACCESSIBILITY_STT_INFO:0	"Aktivieren Sie die Sprach-zu-Text-Übersetzung im Multiplayer-Chat"
+SETTINGS_ACCESSIBILITY_CHAT_VISUAL_ALERTS_INFO:0	"Aktivieren Sie visuelle Benachrichtigungen für Multiplayer-Chat-Nachrichten"
+SETTINGS_ACCESSIBILITY_TTS_VALUE_INFO:0	"Schalten Sie §HText-to-Speech§! ein oder aus"
+SETTINGS_ACCESSIBILITY_CHAT_LARGE_FONTS_VALUE_INFO:0	"Schalten Sie die Verwendung großer Schriftarten für Multiplayer-Chat-Nachrichten ein oder aus"
+SETTINGS_ACCESSIBILITY_STT_SHORTCUT_INPUT_INFO:0	"Tastenkombination zum Ein- und Ausschalten von §HText-zu-Sprache§! anpassen"
+SETTINGS_ACCESSIBILITY_IN_GAME_CLOCK:0	"Uhr im Spiel anzeigen"
+CHAT_CVAA_MESSAGE:0	"$NAME$ sagt $MESSAGE$"
+RED_X:0	"§RX§!"
+MOVE_SUPPLY_CAPITAL_POPUP_TITLE:0	"Versorgungskapital verlegen"
+CANT_MOVE_SUPPLY_CAPITAL_ON_COOLDOWN:1	"§RSie können Ihr Versorgungskapital erst in $NUM$ Tagen verlegen. §!"
+ARMY_BADGE_DIVISIONS_SUMMARY_ITEM_HEADER:0	"§GKlicken Sie§!, um Divisionen auszuwählen.\n§GUmschalt + Klicken§!, um die Auswahl umzuschalten."
+RAILWAY_CLICK_TO_INCREASE_RAILWAY_LEVEL:0	"§GKlicken Sie§!, um die Ziel-Gleisebene zu erhöhen"
+RAILWAY_CLICK_TO_DECREASE_RAILWAY_LEVEL:0	" §GKlicken§! um die Ziel-Eisenbahnstufe zu verringern"
+RAILWAY_AT_MAX_LEVEL:2	"Die Ziel-Eisenbahnstufe ist bereits auf dem Höchstwert"
+RAILWAY_AT_BASE_LEVEL:1	"Die Ziel-Eisenbahnstufe ist bereits auf dem aktuellen Wert"
+SUPPLYMODE_TOOLTIP_CAPITAL_NODE_HEADER:0	"§YHauptknotenpunkt§! in $PROVINCE_NAME|H$:"
+SUPPLYMODE_TOOLTIP_CAPITAL_NODE_SUPPLY_CAP:0	"Versorgungskapazität: $SUPPLY_CAP|.1H$ £supply_texticon£"
+SUPPLYMODE_TOOLTIP_CAPITAL_MOVED_RECENTLY:0	"Hauptversorgungsknoten wurde kürzlich verlegt. \nTage bis zur vollen Effizienz:$DAYS|H$\nAktuelle Effizienz: $PERCENTAGE|H$"
+SUPPLYMODE_TOOLTIP_CAPITAL_NODE_BASE:0	"Von der Basis: $SUPPLY|.1H$ £supply_texticon£"
+SUPPLYMODE_TOOLTIP_CAPITAL_NODE_CIVILIAN:0	"Von zivilen Fabriken: $SUPPLY|.1H$ £supply_texticon£"
+SUPPLYMODE_TOOLTIP_CAPITAL_NODE_MILITARY:0	"Von militärischen Fabriken: $SUPPLY|.1H$ £supply_texticon£"
+SUPPLYMODE_TOOLTIP_SUPPLY_NODE_HEADER:0	"§YVersorgungszentrum§! in $PROVINCE_NAME|H$:"
+SUPPLYMODE_TOOLTIP_FLOATINGHARBOR_NODE_HEADER:0	"§YSchwimmender Hafen§! in $PROVINCE_NAME|H$:"
+SUPPLYMODE_TOOLTIP_FLOATINGHARBOR_EXPIRATION:0	"$DAYS|H$ Tage bis zur Erschöpfung"
+SUPPLYMODE_TOOLTIP_NODE_CONTROLLED_BY:0	"Kontrolliert von $COUNTRY|H$"
+SUPPLYMODE_TOOLTIP_NODE_CONVOY_ZERO_EFFICIENCY:0	"§RKeine Konvois haben Zugang! Versorgung unterbrochen!§!"
+SUPPLYMODE_TOOLTIP_DEMANDED_SUPPLY:0	"Geforderte Vorräte: $CURRENT_SUPPLIES|H.1$ £supply_texticon£"
+SUPPLYMODE_TOOLTIP_SUPPLY_FROM_CAPITAL:0	"Versorgungsverbindung aus der Hauptstadt: $CURRENT_SUPPLIES|H.1$ £supply_texticon£"
+SUPPLYMODE_TOOLTIP_SUPPLY_FROM_ALLY:1	"$COUNTRY$ kann bei der Versorgung bis zu $VALUE|H.1$ £supply_texticon£"
+SUPPLYMODE_TOOLTIP_DISCONNECTED_DESC:1	"Dies kann entweder daran liegen, dass keine gültige Verbindung besteht, oder daran, dass Teile der Strecke kürzlich vom Feind erobert wurden"
+SUPPLYMODE_TOOLTIP_RAILWAY_BOTTLENECKS:0	"§HEisenbahnengpässe:§!"
+SUPPLYMODE_TOOLTIP_RIVER_BOTTLENECKS:0	"§HFlussengpässe:§!"
+SUPPLYMODE_TOOLTIP_NAVAL_BOTTLENECKS:0	"§HSeeweg-Engpässe:§!"
+SUPPLYMODE_TOOLTIP_CONVOYS_NEEDED:0	"Erforderliche Konvois: $ALLOCATED|H.0$/$NEEDED|H$ £convoy_texticon£ ($PERCENTAGE|H$)"
+RAILWAY_IN_COOLDOWN:0	"§REinige Eisenbahnstrecken auf dieser Route wurden kürzlich vom Feind erobert und müssen umgerüstet werden, um den Nachschub transportieren zu können.\n\nVerbleibende Tage: $DAYS$§!"
+TRAINS:0	"Züge"
+TRAINS_COLON:0	"$TRAINS$:"
+TRUCKS:0	"Schwerlast-LKWs"
+TRUCKS_COLON:0	"$TRUCKS$:"
+CONVOYS_COLON:0	"$CONVOYS$:"
+NEEDED:0	"Benötigt"
+NUM_NEEDED:0	"$NEEDED$: $NUM|H$"
+RECEIVED:0	"Empfangen"
+NUM_RECEIVED:0	"$RECEIVED$: $NUM|H$"
+BUFFERED:0	"Zwischengelagert"
+NUM_BUFFERED:0	"$BUFFERED$: $NUM|H$"
+IN_STOCKPILES:0	"In Lagerbeständen"
+NUM_IN_STOCKPILES:0	"$IN_STOCKPILES$: $NUM|H$"
+SATISFIED:0	"Erfüllt"
+EFFICIENCY:0	"Effizienz"
+TRUCKS_LOST_ATTRITION:0	"Durch Fluktuation verloren (30 Tage): §R$NUM|.0$§!"
+SUPPLY_NODE_TRAIN_TOOLTIP:0	"§H$TRAINS$§!\n  $NEEDED$: $NUM_NEEDED|H$\n  $SATISFIED$: $RATIO$"
+TOTAL_STATE_SUPPLY:2	"Gesamt: $VAL|.2H$ £supply_texticon£"
+STATE_INFRA_SUPPLY:1	"Aus Infrastruktur: $VAL|.2H$"
+STATE_POP_SUPPLY:0	"Aus Bevölkerung: $VAL|.2H$"
+STATE_VP_SUPPLY_SING:0	"Von $NAME|H$ Siegpunkten: $VAL|.2H$"
+STATE_AIRDROP_SUPPLY:0	"Von Luftabwürfen: $VAL|.2H$"
+STATE_SUPPLY_CONTROL_SCALE:0	"§RDie Vorräte des Staates werden auf $RATIO|.0%R$ skaliert, da keine vollständige Kontrolle über den Staat besteht§!"
+STATE_SUPPLY_MODIFIER:0	"Die Versorgung wird angepasst durch $VAL|.0%+$"
+NEEDED_SUPPLY:1	"Von folgenden Schiffen angeforderte Vorräte"
+SUPPLY_SHIP_DEMAND:0	"Schiffe: §H$AMOUNT$§! (§H$VAL|.2$§!)"
+RECEIVED_SUPPLY:1	"Vorräte erhalten von"
+RECEIVED_SUPPLY_WITH_VALUE:2	"$RECEIVED_SUPPLY$: §H$VAL|.2$§! £supply_texticon£ ($RATIO$)"
+FROM_STATE:1	"Bundesstaat"
+FROM_SUPPLY_NODES:1	"Versorgungszentren"
+FROM_AIR_DROPS:1	"Luftabwürfe"
+SUPPLY_USED_TRUCKS:0	"Nutzung §H$ACTUAL|.0$§! / §H$WANTED|.0$§! $TRUCKS$ £unit_motorized_icon_small£"
+SUPPLY_FLOW_REDUCTION:1	"Fehlerhafter Versorgungsfluss: §R-$PERCENT$§!"
+FLOATING_HARBOR:0	"Schwimmender Hafen"
+BOTTLENECK_CONNECTION_NAME_SINGLE:0	"Auf $NAME|H$"
+BOTTLENECK_CONNECTION_REASON_RIVER:0	"Vom Fluss: $NUMBER|.0R$"
+BOTTLENECK_CONNECTION_REASON_DAMAGE:0	"Durch Beschädigung: §R -$NUMBER$§! (§R-$PERCENTAGE|.0$§!)"
+BOTTLENECK_CONNECTION_REASON_LEVEL:0	"Vom Level $LEVEL|H$: $NUMBER$"
+GENERATE:0	"Generieren"
+LIST_AND:0	", und "
+CHARACTER_ADVISOR_ON_ADD_TOOLTIP:0	" "
+CHARACTER_ADVISOR_CANT_BE_FIRED_ONCE_HIRED:0	"§HBerater kann nach der Einstellung nicht entlassen werden§!"
+CHARACTER_ADVISOR_CANT_BE_FIRED:0	"§RBerater kann nicht entlassen werden§!"
+RAILWAY_CONNECTION_TOOLTIP_BETWEEN:0	"$PLACE1|H$ bis $PLACE2|H$"
+RAILWAY_CONNECTION_TOOLTIP_THROUGHPUT:0	"Versorgungsdurchsatzgrenze: $SUPPLY|H$ £supply_texticon£"
+RAILWAY_CONNECTION_TOOLTIP_FROM_CAPITAL:0	"Durch Kapital begrenzt: $SUPPLY|H$"
+RAILWAY_CONNECTION_TOOLTIP_FROM_LEVEL:0	"Durch Eisenbahnstufe begrenzt: $SUPPLY$"
+RAILWAY_CONNECTION_TOOLTIP_FROM_DAMAGE:0	"Durch Schaden: $SUPPLY|R$ (§R-$PERCENTAGE$§!)"
+RIVER_CONNECTION_TOOLTIP_HEADER:0	"§HFlussverbindung§!"
+SUPPLY_NODE_TOGGLE_ALLIES:0	"§HVerbündete Versorgung§!\nZugang zum Versorgungszentrum für Ihre Verbündeten umschalten"
+SUPPLY_NODE_PRIORITY:0	" §HZugpriorität§!\nLieferknoten-Priorität für die Zuweisung von Zügen festlegen\n§GKlicken Sie§!, um durch die Prioritäten zu blättern."
+SUPPLY_NODE_MOTORIZATION_PRIORITY:1	"§HMotorisierungsgrad§!\nDie Motorisierung des Versorgungszentrums nutzt Lastwagen aus dem Vorrat und erweitert die Versorgungsreichweite des Zentrums sowie die Menge der an die Provinzen gelieferten Vorräte. \n§GKlicken Sie§!, um durch die Prioritäten zu blättern."
+SUPPLY_FLOW_PROVINCE_ACCUMULATED_HEADER:1	"Standort: $PROVINCE|H$\n\n§HVersorgung aus Hubs§!"
+SUPPLY_CAP_AVAILABLE:0	" Verbleibende Versorgung in der Provinz: "
+SUPPLY_FLOW_PROVINCE_BREAKDOWN:1	"$VALUE|H$ von $PROVINCE$"
+SUPPLY_FLOW_PROVINCE_BREAKDOWN_OWNER:1	"$VALUE|H$ aus $PROVINCE$ ($OWNER$)"
+SUPPLY_FLOW_SHOW_RANGE:1	" §HVersorgungszentren§! verteilen die Versorgung an benachbarte Provinzen. Ihre Reichweite und Effizienz hängen von Wetter, Bodenbedingungen, Infrastruktur, Eisenbahnniveau und der Motorisierung.\n\nUm die Reichweite und die Versorgungsleistung eines §HVersorgungszentrums§! zu erhöhen, sollten Sie den Einsatz des §HEisenbahnausbaus§! oder eine Änderung des §HMotorisierungsgrades§!. \n\nHalten Sie §GUmschalt§! gedrückt, um die Reichweite anzuzeigen.\n§GUmschalt -Klick§!, um die Motorisierung umzuschalten.\n§GStrg-Klick§!, um die Versorgung der Verbündeten umzuschalten."
+SUPPLY_FLOW_DELAYED_DESC:5	"§HVerbleibende Versorgung§! gibt an, wie viel Versorgung dieser Provinz zur Verfügung steht, und setzt sich aus der staatlichen Versorgung und den Hubs innerhalb der Reichweite zusammen. Die Reichweite der Hubs wird durch Wetter, Bodenbeschaffenheit, Infrastruktur, Eisenbahnniveau und Motorisierung beeinflusst. \n\n§HDivisionen§! verbrauchen die provinzielle Versorgung entsprechend ihrem Versorgungsgewicht. Wenn ihr §HLagerbestand§! über dem an ihrem Standort bereitgestellten Versorgungsanteil liegt, verbrauchen sie aus ihrem internen Vorrat, bis der gelagerte Vorrat auf dem gleichen Niveau wie der lokale Vorrat ist.\n\nHalten §GSteuerung§!, um die Flussquellen anzuzeigen. "
+XP_OFFICER_CORPS_MAGNITUDE:0	"$VALUE|+=$"
+XP_CHAR_TOTAL:0	""
+XP_CHAR_ENTRY:0	"|___TAB___|- $PERSON$: $VALUE|+=$"
+PEOPLE_TIP:0	"$LIST$"
+NO_CURRENT_XP_GAIN_OC:0	"Unser Offizierskorps generiert derzeit keine."
+REMOTE_STORAGE_WARNING_TITLE:0	"Das Speichern in der Cloud ist fehlgeschlagen"
+REMOTE_STORAGE_USAGE:0	"Verbleibender Speicherplatz in der Cloud: $VALUE$ / $TOTAL$"
+PLAN_COHESION_STRICT_TITLE:0	"§HStarre Kohäsion§!"
+PLAN_COHESION_MODE:0	"Kohäsionsmodus festlegen"
+PLANES_IN_REGION_SUBTITLE:0	"§HEbenen in der Region§!\n"
+DIVISION_COMMANDER_DESCRIPTION_TEXT:0	" §HFeldoffiziere§! sind die für Ihre Divisionen verantwortlichen Offiziere. Ihre Division kann verschiedene Kampfhandlungen ausführen, für die sie mit Auszeichnungen belohnt werden können, die Vorteile mit sich bringen. Darüber hinaus kann der Offizier während des Kommandos über seine Division gesammelte Erfahrung und Persönlichkeitsmerkmale erwerben, die bei einer Beförderung zum Armeegeneral zum Tragen kommen."
+BASE_CONTRIBUTION:0	"\nProzentsatz des Maximums: $VALUE|H%$\n"
+PARADROP_PLANES_REQUIRED:0	"\n§RDieser Befehl kann nicht ausgeführt werden:§!\nEs sind zusätzliche $WINGS|H$ Transportflügel erforderlich."
+##### |___KY01 4504___|„Staaten mit unserem Kern behalten“
+VALUE_CLICK_ADD_1:0	"§GKlicken Sie§!, um §Y+$NUM$§!hinzuzufügen"
+VALUE_CLICK_ADD_3:0	"§GUmschalt + Klicken§! zum Hinzufügen §Y+$NUM$§!"
+REMOVE:0	"Entfernen"
+COUNTRY_LEADER_FORMATTER_TRAIT:	"$NAME|Y$\n$DESC$"
+value_limit_min_max:0	"$MIN$-$MAX$"
+SAVE_AS_PRESET_TOOLTIP:	"§HIn Datei speichern§!\nSpeichern Sie diesen Entwurf in einer Datei, damit Sie bei zukünftigen Durchläufen darauf zugreifen können. "
+IMPORT_PRESET_TOOLTIP:	"§HVoreinstellung(en) aus der Zwischenablage importieren§!\nWenn Sie Entwürfe in Ihre Zwischenablage exportiert haben, klicken Sie hier, um diese zu importieren."
+OPEN_PRESETS_TOOLTIP:	" §HGespeicherte Designs anzeigen§!\nKlicken Sie hier, um Ihre Liste der gespeicherten Designs anzuzeigen. "
+EXPORT_PRESET_TOOLTIP:	"§HIn die Zwischenablage exportieren§!\nKlicken Sie hier, um dieses Design in Ihre Zwischenablage zu exportieren."
+EXPORT_PRESET_FOLDER_TOOLTIP:	"§HAusgewählte Ordner in die Zwischenablage exportieren§!\nKlicken Sie hier, um alle Designs aus den ausgewählten Ordnern in die Zwischenablage zu exportieren, damit Sie sie einfach teilen können."
+SAVE_DESIGN_POPUP_TITLE:	"Design als Datei speichern"
+SAVE_DESIGN_POPUP_BODY:	"Oder erstellen Sie einen neuen Ordner:"
+SAVE_DESIGN_POPUP_BODY_2:	"Oder wählen Sie einen vorhandenen Ordner für dieses Design aus:"
+IMPORT_EQUIPMENT_DESIGN_BAD_STRING_TITLE:	"Ungültige Design-Importzeichenfolge"
+IMPORT_EQUIPMENT_DESIGN_BAD_STRING_DESC:	"Ihre Zwischenablage enthält keine gültige Design-Importzeichenfolge."
+IMPORT_EQUIPMENT_DESIGN_PARTIAL_SUCCESS_TITLE:	"Entwürfe teilweise importiert"
+IMPORT_EQUIPMENT_DESIGN_SUCCESS_DESC:	"Die folgenden Entwürfe wurden erfolgreich importiert:"
+IMPORT_EQUIPMENT_DESIGN_SUCCESS_ENTRY:	"$DESIGN|G$"
+IMPORT_EQUIPMENT_DESIGN_WRONG_CHASSIS_ENTRY:	"$DESIGN|Y$ (Öffnen Sie den Chassis-Typ $CHASSIS|Y$, um das Design anzuzeigen)"
+IMPORT_EQUIPMENT_DESIGN_INCOMPATIBLE_DESC:	"Die folgenden Designs wurden importiert, sind jedoch mit der aktuellen DLC- und Mod-Konfiguration nicht kompatibel:"
+IMPORT_EQUIPMENT_DESIGN_INCOMPATIBLE_ENTRY:	"$DESIGN|R$"
+IMPORT_EQUIPMENT_DESIGN_WRONG_DESIGNER_DESC:	" Die folgenden Designs sind nicht für das $DESIGNER|Y$ bestimmt, bitte öffnen Sie den entsprechenden Designer und importieren Sie sie erneut:"
+IMPORT_EQUIPMENT_DESIGN_WRONG_DESIGNER_ENTRY:	"$DESIGN|R$"
+BUTTON_YES:	"Bestätigen"
+CREATE_FOLDER_POPUP_TITLE:	"Designs-Ordner erstellen"
+BUTTON_CREATE_NEW_DESIGN:	"Ordner erstellen"
+BUTTON_SHOW_ALL_DESIGNS:	"Nicht zugeordnet"
+SHOW_ALL_CUSTOM_DESIGNS_TOOLTIP:	"Klicken Sie hier, um Entwürfe ohne Ordner anzuzeigen."
+CHOOSE_EXISTING_FOLDER:	"Wählen Sie einen vorhandenen Ordner aus:"
+DELETE_DESIGN_POPUP_TITLE:	"Design löschen"
+DELETE_DESIGN_POPUP_BODY:	"Möchten Sie dieses Design wirklich löschen?"
+HISTORICAL_PRESET:	"Verlauf"
+RENAME_FOLDER_POPUP_TITLE:	"Ordner löschen oder umbenennen"
+RENAME_FOLDER_POPUP_BODY:	"Geben Sie einen neuen Namen für diesen Ordner ein oder lassen Sie das Feld leer, um ihn zu löschen. Die Designs im Ordner werden nicht gelöscht."
+FOLDER_ITEM_TOOLTIP:	" §GStrg-Klick§!, um diesen Ordner umzubenennen oder zu entfernen."
+OVERWRITE_EXISTING:	"Die Vorlage überschreiben, aus der dieser erstellt wurde?"
+RAID_RANGE_FACTOR_TOOLTIP:	"Zusätzlicher Reichweitenfaktor: $RANGE_FACTOR|+=%$"
+RAID_MODIFIED_AIR_RANGE_TOOLTIP:	"Geändert auf $RESULT$ aufgrund eines zusätzlichen Reichweitenfaktors für den Raid-Typ von $RANGE_FACTOR|+=%$"
+ENABLE_TELEMETRY:	"Telemetrie aktivieren"
+ENABLE_TELEMETRY_DESC:	"Wenn aktiviert, werden Telemetriedaten gesendet, um uns bei der Verbesserung des Spiels zu helfen."
+NOT_PARADROP_PREPARED:	"Der Fallschirmabwurf bereitet sich noch vor $CURRENT|R0$/$REQUIRED|Y0$ Tage."
+PLAN_COHESION_IMMOBILE_TITLE:	"§HUnbeweglich§!"
+PLAN_COHESION_IMMOBILE_DESC:	"Divisionen werden §Rniemals§! ihren Standort wechseln!"
+PLANNING_SPEED_COHESION_IMMOBILE_FACTOR:	"$PLAN_COHESION_IMMOBILE_TITLE$ Zusammenhalt: x$FACTOR|R$"

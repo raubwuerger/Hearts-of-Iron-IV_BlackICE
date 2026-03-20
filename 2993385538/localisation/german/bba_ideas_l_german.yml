@@ -103,7 +103,6 @@
  ETH_aid_ethiopian_communists:0 "Helfen Sie den äthiopischen Kommunisten"
  ETH_aid_SPC:0 "Helfen Sie den spanischen Anarchisten"
  ETH_purge_ideology_boost_idea:0 "Säuberung kommunistischer und faschistischer Exilanten"
- #Foreign Industrialists
  ETH_english_electric:0 "Englische Elektrik"
  ETH_CZE_skoda_works_2:0 "Skoda-Werke"
  ETH_CZE_skoda_artillery:0 "Skoda-Artillerie"
@@ -125,7 +124,6 @@
  ETH_renault_fra:0 "Renault"
  ETH_landsverk:0 "AB Landsverk"
  ETH_henschel:0 "Henschel"
-
  ITA_army_of_africa_disheartened_idea:0 "Armee Afrikas entmutigt"
  ITA_public_questions_war_effort_idea:0 "Kriegseinsatz in Frage gestellt"
  ITA_regio_esercito_dynamic_modifier:0 "Regio Esercito"
@@ -184,7 +182,6 @@
  ITA_caligulas_pride_dynamic_modifier_tt:0 "§Y$ship_hull_super_heavy_1$§!: $production_cost_tt$ §G-15.00%§! \n§Y$ship_hull_super_heavy_1$§!: Panzerung: §G+10%§! \n"
  ITA_the_king_of_the_skies_dynamic_modifier_tt:0 "§Y$large_plane_airframe$§!: $production_cost_tt$ §G-15.00%§! \n§Y$large_plane_airframe$§!: Zuverlässigkeit: §G+10%§! \n"
  production_cost_tt:0 "£production_cost Produktionskosten:"
-
  ITA_offensive_in_ethiopia:0 "Offensive in Äthiopien"
  ITA_offensive_in_ethiopia_desc:1 "Unsere Armeen sind entschlossen, den Feind zurückzudrängen – egal, was dazu nötig ist!"
  ITA_logistics_in_ethiopia:0 "Logistik in Äthiopien"
@@ -266,7 +263,6 @@
  ITA_papal_state_catholic_dominion_desc:1 "With the ascension of the Papacy as a major world power, it is up to us to enact the will of God and like a shepherd that guides his flock, protect faithful Christians from evil."
  ITA_papal_state_catholic_dominion_puppet_discount_tt:1 "§YReduzierte Kosten§! für die §Ymarionettierung§! von Staaten bei Friedenskonferenzen."
  ITA_cooperation_of_the_bourgeoisie:0 "Cooperation of the Bourgeoisie"
- #ITA_cooperation_of_the_bourgeoisie_desc: "NEEDED?"
  ITA_seizing_old_equipment:0 "Beschlagnahme alter Geräte"
  ITA_international_aid:0 "Internationale Hilfe"
  ITA_disgruntled_military:0 "Verärgertes Militär"
@@ -279,7 +275,6 @@
  ITA_anti_fascist_fervor:0 "Antifaschistischer Eifer"
  ITA_anti_fascist_agents:0 "Antifaschistische Agenten"
  ITA_socialist_cooperation:0 "Sozialistische Zusammenarbeit"
-
  ITA_cantiere_oto:0 "Odero-Terni-Orlando"
  ITA_navalmeccanica:0 "Navalmeccanica"
  ITA_cantiere_navale_di_ancona:0 "Cantiere Navale di Ancona"
@@ -301,7 +296,6 @@
  ITA_southern_designer_improved_tt:0 "§YDieser Südstaaten-Designer wurde bereits verbessert§!."
  ITA_has_crda_tt:0 "Hat Schiffsdesigner §Y$crda$§!"
  ITA_has_fiat_tt:0 "Hat Panzerdesigner §Y$fiat$§!"
-
  ITA_italian_highways_modifier:0 "$ITA_italian_highways_bba$"
  ITA_libyan_railway_modifier:0 "Libysche Eisenbahn"
  ITA_pacified_italian_east_africa_modifier:0 "Befriedetes Italienisch-Ostafrika"
@@ -312,7 +306,6 @@
  ITA_mafia_on_the_rise_no_lar:0 "$ITA_mafia_on_the_rise$"
  ITA_established_mafia:0 "Etablierte Mafia"
  ITA_established_mafia_no_lar:0 "$ITA_established_mafia$"
-
  ITA_italia_irredenta_achieved:0 "Italia Irredenta erreicht"
  AOI_africa_orientale_italiana_idea:0 "Africa Orientale Italiana"
  ITA_banda_carita_non_la_resistance:0 "Banda Carità"
@@ -320,7 +313,6 @@
  ITA_dodecanese_treaty_idea:0 "Der Dodekanes-Vertrag"
  ITA_italys_destiny_idea:0 "Italiens Schicksal"
  ITA_vento_aureo:0 "Der goldene Wind"
-
  ITA_shadow_of_mussolini:0 "Der Schatten Mussolinis"
  ITA_shadow_of_mussolini_desc:1 "Auch wenn er von der Macht verdrängt wurde, kann man sich dem Schatten Mussolinis kaum entziehen, da er immer noch einen großen Einfluss auf die italienische Politik hat."
  ITA_divino_duce_1:0 "Divino Duce"
@@ -341,12 +333,6 @@
  ITA_impero_italiano_desc:1 "Die Ausrufung des Italienischen Reiches hat unseren Truppen Mut gemacht und unsere Ansprüche in Afrika legitimiert."
  ITA_novus_ordo_modifier:0 "Novus Ordo"
  ITA_expanded_corporatism_modifier:0 "Erweiterter Korporatismus"
-
-
-
-
-
-### Switzerland ###
  SWI_spirit_of_resistance_idea:0 "Schweizer Widerstandsgeist"
  SWI_swiss_neutrality:0 "Schweizer Neutralität"
  SWI_werner_risch:0 "Werner-Risch"
@@ -448,4 +434,3 @@
  SWI_Ortswehren_dynamic_mod:0 "Ortswehren-Vorbereitungen"
  SWI_citizen_supply_mandate_mod:0 "Bürgerversorgungsauftrag"
  SWI_dissent_crackdown_idea:0 "Vorgehen gegen Andersdenkende"
-

@@ -1,104 +1,79 @@
 ﻿l_german:
- ### Custom Effect tooltips
- ### GERMANY
  GERnoneed_1:0 "Es ist nicht nötig, diese Einheit auszubilden.\n§RDiese Wahl beendet die Ereigniskette!!!§!\n"
  GERnoneed_2:0 "Sie müssen diese Einheit jetzt nicht ausbilden.\n§YSie können die Einheitenvorlage jederzeit selbst ändern.§!\n"
-
  GER_czech_equipment:0 "In mehreren Lagerhäusern gefundene militärische Ausrüstung wurde beschlagnahmt und unserem Lagerbestand hinzugefügt."
  GER_aw_1:0 "Startet die Ereigniskette für die verbleibenden §R'Welle 1 Inf.-Div.'§! gebildet werden."
- #GER Pz-Divisions
  GER_123_Pz_Div_tt:0 "Werte die Einheiten auf:\n§Y1. Panzerdivision in Weimar§!\n§Y2. Panzerdivision in Würzburg§!\n§Y3. Panzerdivision in Wünsdorf§!\n"
  GER_123_PZ_DIV_1939_tt:0 "Ändern Sie die Vorlagen für Einheiten:\n§Y1. Panzerdivision§!\n§Y2. Panzerdivision§!\n§Y3. Panzerdivision§!\n"
  GER_2_pzdiv_fight_tt:0 "§R2. Panzerdivision§! muss sich aus allen Kämpfen zurückziehen, da sie neu organisiert wird."
  GER_4_Pz_Div_tt:0 "Bilden Sie die Einheit:\n§Y4. Panzerdivision in Würzburg§!\n"
  GER_4_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 4. Panzerdivision§!\n"
- 
  GER_4_Pz_Div_1939_tt:0 "Rüsten Sie die Einheit mit neu produzierten Pz III und IV aus. Die Einheit erscheint in ihrer ursprünglichen Garnisonsstadt §CWürzburg§!.\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nEs fallen zusätzliche PP-Kosten an: §R-10 §!.\nSie erhalten:\n**Ausrüstung max. 25 %\n**Erfahrungsstufe 14.\n\n"
  GER_4_Pz_Div_1939_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y4. Panzerdivision§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RPz-Div 4§!\n"
  GER_4_PZ_Div_1939_no_tt:0 "Sie entscheiden sich dafür, dieses Gerät nicht zu aktualisieren. Dies bedeutet auch, dass Sie im Oktober 1940 nicht zur Aufstellung der 14. Panzerdivision kommen werden. Dieses Ereignis ist für die Aufstellung der 14. Panzerdivision zwingend erforderlich."
  GER_4_Pz_Div_1939_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 4. Panzerdivision§!\nMit Pz-III und Pz-IV.\n"
- 
  GER_4_Pz_Div_1940_tt:0 "Detach 36. Pz-Regt. ab 4. Pz.-Div TOE.\nNeu 4. Pz.-Div. wird in ihrer ursprünglichen Garnisonsstadt erscheinen §CWürzburg§!.\n\n§RAnmerkung!!§!\nDiese Einheit benötigt etwas neue Ausrüstung und hat etwas weniger XP.\nEs fallen zusätzliche PP-Kosten an: §R- 10§!.\nDer Neuzugang zur 4. Pz.-Div. erhält:\n**Ausrüstung: §Rmax 90%§!\n**Erfahrungsstufe §R15 Erfahrene Soldaten III§!.\nDies ist hauptsächlich auf neu erhaltene Ausrüstung zurückzuführen.\n"
  GER_4_Pz_Div_1940_no_tt:0 "Sie entscheiden sich dafür, das 36. Pz.-Regt. nicht abzutrennen. ab 4. Pz.-Div.\nDies bedeutet auch, dass Sie nicht zur 14. Panzerdivision gelangen.\nDiese Option löscht auch die Vorlagen für die neu zu bildenden Einheiten."
  GER_4_Pz_Div_1940_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y4. Panzerdivision§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R4 Pz-Div§!\n"
  GER_4_Pz_Div_1940_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 4. Panzerdivision§!\n"
- 
  GER_5_Pz_Div_tt:0 "Bilden Sie die Einheit:\n§Y5. Panzerdivision in Oppeln§!\n"
  GER_5_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 5. Panzerdivision§!\n"
  GER_5_Pz_Div_1939_tt:0 "Rüsten Sie die Einheit mit Pz38(T) aus. Die Einheit erscheint in ihrer ursprünglichen Garnisonsstadt §COppeln§!.\n\n§RHINWEIS!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nEs fallen zusätzliche PP-Kosten an: §R-10 §!.\nSie erhalten:\n**Ausrüstung max. 50 %\n**Erfahrungsstufe 14.\n\n"
  GER_5_Pz_Div_1939_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y5. Panzerdivision§! zu Vorlage §C5 Pz-Div§!\n\nNach der Änderung können Sie die alte Vorlage löschen:\n§R Pz-Div 5§!\n"
  GER_5_Pz_Div_1939_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 5. Panzerdivision§!\n"
- 
  GER_6_Pz_Div_tt:0 "Bilden Sie die Einheit aus:§Y1. Leichte-Div.§!§R =>§!§Y 6. Panzerdivision§!\n\n§RHinweis!!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie erhalten:\n* *Ausrüstung max. 20 %\n**Erfahrungsstufe 14.§!\n\n"
  GER_6_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 6. Panzerdivision§!\n"
  GER_6_Pz_Div_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y1. Leichte Division§! zu §CPz-Div 6§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RL-Div 1§! oder §RL-Div 1 Pz35t§!\n"
  GER_6_Pz_Div_1940_tt:0 "Bilden Sie die Einheit:\n§Y6. Panzerdivision in Gera§!\n"
  GER_6_Pz_Div_1940_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§YPz-Div 6§!§R=>§!§Y 6 Pz-Div§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RPz-Div 6§!\n"
- 
  GER_7_Pz_Div_tt:0 "Bilden Sie die Einheit aus:§Y2. Leichte-Div.§!§R =>§!§Y 7. Panzerdivision§!\n\n§RHinweis!!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie erhalten:\n* *Ausrüstung max. 20 %\n**Erfahrungsstufe 14.§!\n\n"
  GER_7_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 7. Panzerdivision§!\n"
  GER_7_Pz_Div_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y2. Leichte Division§! zu §CPz-Div 7§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RL-Div 2§! oder §RL-Div 2 Pz38t§!\n"
  GER_7_Pz_Div_1940_tt:0 "Bilden Sie die Einheit:\n§Y7. Panzerdivision in Gera§!\n"
  GER_7_Pz_Div_1940_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§YPz-Div 7§!§R=>§!§Y 7 Pz-Div§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RPz-Div 7§!\n"
- 
  GER_8_Pz_Div_tt:0 "Bilden Sie die Einheit:\n§Y8. Panzerdivision in Baumholder§!\n"
  GER_8_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 8. Panzerdivision§!\n"
  GER_8_Pz_Div_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y3. Leichte Division§! zu §CPz-Div 8§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RL-Div 3§! oder §RL-Div 3 Pz35t§!\n"
  GER_8_Pz_Div_1940_tt:0 "Bilden Sie die Einheit:\n§Y8. Panzerdivision§! in der Nähe von Bocholt in der Region Wesel.\n"
  GER_8_Pz_Div_1940_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y8. Panzerdivision§! zu §C8 Pz-Div§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RPz-Div 8§!\n"
- 
  GER_9_Pz_Div_1940_tt:0 "Bilden Sie die Einheit:\n§Y9. Panzerdivision in Wien§!\n\n§RHinweis§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n\n"
  GER_9_Pz_Div_1940_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 9. Panzerdivision§!\n"
  GER_9_Pz_Div_1940_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y4. Leichte Division§! zu §C9 Pz-Div§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RL-Div 4§!\n"
  GER_9_Pz_Div_AUG_1940_tt:0 "Aktualisieren/erneuern Sie die Ausrüstung:\n§Y9. Panzerdivision in Wien§!\n\n§RHinweis§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n\n"
  GER_9_Pz_Div_AUG_1940_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y9. Panzerdivision§! zu §CPz-Div 9§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R9 Pz-Div§!\n"
  GER_9_Pz_Div_AUG_1940_dec_tt:0 "Erstellt Vorlage mit Pz III's + Pz IV's für Einheit:§Y 9. Panzerdivision§!\n"
-
  GER_10_Pz_Div_tt:0 "Bilden Sie die Einheit:\n§Y10. Panzerdivision in Prag§!\n"
  GER_10_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 10. Panzerdivision§!\n"
  GER_10_Pz_Div_1940_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y10. Panzerdivision§!§R=>§!§Y 10 Pz-Div§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RPz-Div 10§!\n"
-  
  GER_11_Pz_Div_tt:0 "Reorganisieren Sie die Einheit:\n§Y5. Panzerdivision§!\nBildung der Einheit:\n§Y11. Panzerdivision(mot.)§!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nEs fallen zusätzliche PP-Kosten an: §R-10§!.\nSie erhält:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n"
  GER_11_Pz_Div_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y5. Pz.-Div.§!§R + §!§Y 11. Pz.-Div.§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R5. Pz-Div§!\n"
  GER_11_Pz_Div_dec_tt:0 "Erstellt eine neue Vorlage für Einheit:§Y 5. Panzerdivision§!\nErstellt eine Vorlage für Einheit:\n§Y11. Panzerdivision§!\n"
- 
  GER_12_Pz_Div_tt:0 "Die Einheit bilden:\n§Y12. Panzerdivision§!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie kostet zusätzlich PP: §R-10§!.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n"
  GER_12_Pz_Div_ct_tt:0 "Ändern Sie die Vorlagen von Einheit:\n§Y2 Inf.-Div(mot.)§!§R =>§!§Y Pz.-Div 12§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R2 Inf.-Div(mot.)§!\n"
  GER_12_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 12. Panzerdivision§!\n"
- 
  GER_13_Pz_Div_tt:0 "Die Einheit bilden:\n§Y13. Panzerdivision§!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie kostet zusätzlich PP: §R-10§!.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n"
  GER_13_Pz_Div_ct_tt:0 "Ändern Sie die Vorlagen von Einheit:\n§Y13 Inf.-Div(mot.)§!§R =>§!§Y Pz.-Div 13§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R13 Inf.-Div(mot.)§!\n"
  GER_13_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 13. Panzerdivision§!\n"
- 
  GER_14_Pz_Div_tt:0 "Die Einheit bilden:\n§Y14. Panzerdivision§!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie kostet zusätzlich PP: §R-10§!.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n"
  GER_14_Pz_Div_no_tt:0 "Sie entscheiden sich dafür, die 14. Pz.-Div. nicht zu bilden.\nDiese Option löscht auch die Vorlage für die 14. Pz.-Div."
  GER_14_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 14. Panzerdivision§!\n"
- 
  GER_24_Pz_Div_tt:0 "Die Einheit bilden:\n§Y24. Panzerdivision§!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nSie kostet zusätzlich PP: §R-10§!.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n"
  GER_24_Pz_Div_ct_tt:0 "Ändern Sie die Vorlagen von Einheit:\n§YKav.-Div 1.§!§R =>§!§Y Pz.-Div 24§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RKav.-Div 1.§! bei Bedarf.\n"
  GER_24_Pz_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 24. Panzerdivision§!\n"
- 
- #GER Leichte Divisions
  GER_1_L_DIV_tt:0 "Bilden Sie die Einheit:\n§Y1. Leichte Division in Wuppertal§!"
  GER_1_L_Div_Pz35_tt: "Neuausrüsten der Einheit: §Y1. Leichte Divsion§!.\n§RÄndern Sie die Divisionsvorlage auf:§! §CL-Div 1 Pz35t§!\n\n§RHinweiß!§!\nNachdem die Vorlage geändert wurde, können Sie die nicht verwendete Vorlage §YLDiv 1§!\n löschen."
  GER_1_L_DIV_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 1. Leichte Division§!\n"
- 
  GER_2_L_DIV_tt:0 "Bilden Sie die Einheit:\n§Y2. Leichte Division in Gera§!\n"
  GER_2_L_DIV_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 2. Leichte Division§!\n"
  GER_2_LDIV_Pz38_tt: "Neuausrüsten der Einheit: §Y2. Leichte Divsion§!.\n§RÄndern der Divisionsvorlage zu:§! §CL-Div 2 Pz38t§!\n\n§RHinweiß!§!\nNachdem die Vorlage geändert wurde, können Sie die nicht verwendete Vorlage löschen §YLDiv 2§!\n." "\nFormieren Sie die Einheit:\n§Y3. Leichte Division in Cottbus§!\n"
- 
  GER_3_L_DIV_tt:0 "Bilden Sie die Einheit:\n§Y3. Leichte Division in Cottbus§!\n"
  GER_3_L_DIV_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 3. Leichte Division§!\n"
  GER_3_L_DIV_Pz35_tt: "Neuausrüsten der Einheit: §Y3. Leichte Divsion§!.\n§RÄndern der Divisionsvorlage zu:§! §CL-Div 3 Pz35t§!\n\n§RHinweiß!§!\nNachdem die Vorlage geändert wurde, können Sie die nicht verwendete Vorlage löschen §YLDiv 3§!\n." "\nFormieren Sie die Einheit:\n§Y4. Leichte Division in Wien§!\n"
- 
  GER_4_L_DIV_tt:0 "\nBilden Sie die Einheit:\n§Y4. Leichte Division in Wien§!\n"
  GER_4_L_DIV_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 4. Leichte Division§!\n"
- #GER Grossdeutschland
  GER_wachrgt_berlin:0 "Bilden Sie die Einheit:\n§YWach-Regiment Berlin§!\n"
  GER_GD_regt_39:0 "Umwandlung des Wach-Regiments in das GD-Infanterie-Regiment in West-Berlin"
- #GER Gebirgsjäger-Divisions
  GER_1_Gebirgs_tt:0 "Bilden Sie die Einheit:\n§Y1. Gebirgs-Brigade in München§!\n"
- 
  GER_1_Gebirgs_Div_tt:0 "Bilden Sie die Einheit:\n§Y1. Gebirgs-Division in Garmisch-Partenkirchen§!\n"
  GER_1_Gebirgs_Div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 1. Gebirgsjäger-Division§!\n"
  GER_gen_Kubler_tt:0 "General Ludwig Kübler kann zum Kommandeur der 1. Gebirgs-Division ernannt werden"
@@ -109,12 +84,8 @@
  GER_3_Gebirgs_Div_tt:0 "Bilden Sie die Einheit:\n§Y3. Gebirgsäger-Abteilung in Graz§!\n"
  GER_3_Gebirgs_Div_dec_tt:0 "Erstellt Vorlage für Einheit:\n§Y 3. Gebirgsjäger-Division§!\n"
  GER_gen_Dietl_tt:0 "General Eduard Dietl kann zum Kommandeur der 3. Gebirgs-Division ernannt werden"
- 
- #GER Kav Divisions
  GER_1_kav_div_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 1. Kavallerie-Division§!\n\nDiese Option gibt Ihnen die Wahl, wann Sie die Einheit aktualisieren möchten. Danach müssen Sie die alte Vorlage manuell entfernen"
  GER_1_kav_div_tt:0 "Kav-Brigade zur 1. Kav-Division in Insterburg aufrüsten\n\nDiese Option ersetzt die aktuelle Kav-Brigade und entfernt die Vorlage §CKavallerie-Brigade§!."
-
- #GER Welle 1 Divisions
  GERinfdiv_1:0 "Bildung der Einheiten:\n§Y25. Infanteriedivision in Ludwigsburg\n26. Infanteriedivision in Köln\n33. Infanterie-Division in Darmstadt\n34. Infanterie-Division in Koblenz§!\n"
  GERinfdiv_2:0 "Bildung der Einheiten:\n§Y27. Infanteriedivision in Augsburg\n28. Infanteriedivision in Breslau\n29. Infanterie-Division in Erfurt\n30. Infanteriedivision in Lübeck§!\n"
  GERinfdiv_3:0 "Bildung der Einheiten:\n§Y31. Infanterie-Division in Braunschweig\n32. Infanteriedivision in Köslin\n35. Infanteriedivision in Karlsruhe\n36. Infanteriedivision in Kaiserslautern§!\n"
@@ -131,7 +102,6 @@
  GERinfdiv_60_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 60. Infanterie-Division§!\n"
  GERinfdiv_60_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§YGruppe Eberhardt§!§R=>§!§Y 60. Infanterie-Division§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§RGruppe Eberhardt§!\n"
  GER_InfDiv_72_tt:0 "Die Einheit bilden:\n§Y72. Infanterie-Division in Trier§!\n"
- #GER Mot Inf.Div.
  GER_mot_2_tt:0 "Bilden Sie die Einheit aus:§Y 2. Inf.-Div.§!§R =>§!§Y 2. Inf.-Div(mot.)§!\n\n§RAnmerkung!!§!\nDiese Einheit wird Sie benötigen mehr neue Ausrüstung und haben weniger XP.\nEs fallen zusätzliche PP-Kosten an: §R-10§!.\nSie erhalten:\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n\n"
  GER_mot_2_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y2. Inf.-Div.§!§R =>§!§Y 2. Inf._Div(mot.)§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R2. Inf.-Div.§!\n"
  GER_mot_2_dec_tt:0 "Sie können nun die Einheit §Y2 bilden. Infanterie-Division(mot.)§! unter Verwendung von 1 Vorlage §CInfanterie-Division(mot.)§! Ereignis für ereignisgesteuerte Einheiten.\n"
@@ -158,12 +128,9 @@
  GERinfdiv_60_mot_tt:0 "Formierung der Einheit:\n§Y 60. Infanterie-Division(mot.) in Danzig§!\n"
  GERinfdiv_60_mot_ct_tt:0 "Ändern Sie die Vorlagen für Einheit:\n§Y60. Infanterie-Division§!§R=>§!§Y 60. Infanterie-Division(mot.)§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R60. Inf.-Div.§!\n"
  GERinfdiv_60_mot_dec_tt:0 "Sie können nun die Einheit §Y60 bilden. Infanterie-Division(mot.)§! unter Verwendung von 1 Vorlage §CInfanterie-Division(mot.)§! Ereignis für ereignisgesteuerte Einheiten.\n"
- #GER Pzgren.Div.
  GER_pzgren_29_dec_tt:0 "Erstellt Vorlage für Einheit:§Y 29. Pz.Grenadier-Division§!\n"
  GER_pzgren_29_tt:0 "Die Einheit bilden:\n§Y29. Pz.Gren-Division§!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger EP.\nEs fallen zusätzliche PP-Kosten an: §R-10§!.\nSie erhalten :\n**Ausrüstung max. 20 %\n**Erfahrungsstufe 14.\n"
  GER_pzgren_29_ct_tt:0 "Ändern Sie die Vorlagen von Einheit:\n§Y29. Inf._Div(mot.)§!§R =>§!§Y 29. Pz.Gren-Div§!\nNach der Änderung können Sie die alte Vorlage löschen:\n§R29 Inf-Div(mot.)§! \n"
- 
- ### GER FLAGS ###
  GERinfdiv_Grp_EH:0 " §RErledigt:§!§Y Gruppe Eberhardt§!"
  GERinfdiv_Grp_EH_no:0 " §RErledigt:§!§Y Keine Gruppe Eberhardt§!"
  GERinfdiv_60:0 " §RErledigt:§!§Y 60. Inf.-Div.§!"
@@ -177,7 +144,6 @@
  GER_4_LDIV:0 " §RErledigt:§! §G4. Leichte Division§!\n"
  GER_44_INFDIV:0 " §RErledigt:§! §G44. Infanterie-Division§!\n"
  GER_45_INFDIV:0 " §RErledigt:§! §G45. Infanterie-Division§!\n"
- 
  GER_kav_div_1:0 " §RErledigt:§!§Y 1. Kav.-Div.)§!"
  mot_2:0 " §RErledigt:§!§Y 2. Inf.-Div.(mot.)§!"
  mot_10:0 " §RErledigt:§!§Y 10. Inf.-Div.(mot.)§!"
@@ -186,7 +152,6 @@
  mot_20:0 " §RErledigt:§!§Y 20. Inf.-Div.(mot.)§!"
  mot_25:0 " §RErledigt:§!§Y 25. Inf.-Div.(mot.)§!"
  mot_29:0 " §RErledigt:§!§Y 29. Inf.-Div.(mot.)§!"
-
  GER_123_PZ_DIV_1939:0 " §RHat die Aufrüstung durchgeführt:§!§Y 1-2-3. Panzerdivision§!"
  GER_4_PDiv:0 " §RErledigt:§!§Y 4. Panzerdivision§!"
  GER_4_PDiv_no:0 " §RNicht erledigt:§!§Y 4. Panzerdivision§!"
@@ -213,19 +178,14 @@
  GER_13_PDiv:0 " §RErledigt:§!§Y 13. Panzerdivision§!"
  GER_14_PDiv:0 " §RErledigt:§!§Y 14. Panzerdivision§!"
  GER_24_PDiv:0 " §RErledigt:§!§Y 24. Panzerdivision§!"
- 
  GER_Pzgren_29:0 "§RErledigt:§!§Y 29. Pzgren.Div.§!"
- 
- #Großdeutschland
  wachrgt_berlin:0 " §RErledigt:§! §GWach Regt. Berlin§!\n"
  gd_regt_39:0 " §RErledigt:§! §GInfanterie-Regiment 'Großdeutschland'§!\n"
  gd_regt_39_mot:0 " §RErledigt:§! §YInfanterie-Regiment(mot.) 'Großdeutschland'§!\n"
- ### GER SS FLAGS
  SS_enabled:0 " §RErledigt:§!§Y SS-aktiviert§!\n"
  SS_LSSAH_I:0 " §RErledigt:§!§Y Wach Btl 'LSSAH'§!"
  SS_Start:0 " §RErledigt:§!§Y Historische Waffen-SS§!"
  SS_Start_II:0 " §RErledigt:§!§Y SS-Regiment 'Der Führer'§!"
- 
  SS_Kav_regt:0 " §RErledigt:§!§Y Umbenennung/Neuanpassung 1./2. TK-Reiterstandarten-Regiment§!\n"
  SS_Kav_brig:0 " §RErledigt:§!§Y Umbenennung/Neuanpassung 1./2. TK-Reiterstandarten-Regiment§!\n"
  LSSAH_regiment_38:0 " §RErledigt:§!§Y Bildung des SS-Infanterieregiments 'LSSAH'§!\n"
@@ -235,7 +195,6 @@
  LSSAH_mot_div_42:0 " §RErledigt:§!§Y Form SS Inf.-Div.(mot.) 'LSSAH'§!\n"
  LSSAH_pzgren_div_42:0 " §RErledigt:§!§Y Form SS Pzgren.-Div. 'LSSAH'§!\n"
  LSSAH_pz_div_43:0 " §RErledigt:§!§Y Formular SS Pz.-Div. 'LSSAH'§!\n"
- 
  SS_TV:0 " §RErledigt:§!§YSS-Totenkopfverbände§!"
  SS_TV_4_OSTMARK:0 " §RErledigt:§!§Y4. SS-Totenkopfstandarte 'Ostmark'§!\n"
  SS_TV_5:0 " §RErledigt:§!§Y5. SS-Totenkopfstandarte 'Dietrich Eckart'§!\n"
@@ -246,7 +205,6 @@
  SS_TV_10:0 " §RErledigt:§!§Y10. SS-Totenkopfstandarte§!\n"
  SS_TV_11:0 " §RErledigt:§!§Y11. SS-Totenkopfstandarte§!\n"
  SS_tv_fuhrer:0 " §RErledigt:§!§YSS Standarte 'Der Führer'§!\n"
- 
  totenkopf_div_39:0 " §RErledigt:§!§Y Aufstellung der SS-Inf.-Div. (mot.) 'Totenkopf'§!\n"
  totenkopf_pzgren_div_42:0 " §RErledigt:§!§Y Form SS Pzgren.-Div 'Totenkopf'§!\n"
  SS_TK_Reiter:0 " §RErledigt:§!§Y SS-Totenkopfreiter§!\n"
@@ -254,18 +212,15 @@
  SS_TK_Reiter_regt:0 " §RErledigt:§!§Y Aufstellung des 1. und 2. TK-Reiterstandarten-Regiments§!\n"
  SS_Kav_brigade:0 " §RErledigt:§!§Y Aufstellung der SS-Kav.-Brigade§!\n"
  SS_florian_geyer:0 " §RErledigt:§!§Y Aufstellung der SS-Kav.-Division 'Florian Geyer'§!\n"
- 
  ss_polizei_division_39:0 " §RErledigt:§!§Y Polizei-Division§!\n"
  ss_polizei_division_40:0 " §RErledigt:§!§Y SS-Polizei-Division§!\n"
  ss_polizei_gren_division:0 " §RErledigt:§!§Y SS-Polizei-Grenadier-Division§!\n"
  ss_polizei_pzgren_division:0 " §RErledigt:§!§Y 4. SS-Polizei-PzGren-Division§!\n"
- 
  SS_VT_G_D:0 " §RErledigt:§!§Y SS-Verfügungstruppe Regt. 'GERMANIA'/'DEUTSCHLAND'§!\n"
  SS_VT_brig:0 " §RErledigt:§!§Y SS-Verfügungstruppe-Brigade§!\n"
  ss_vt_division_39:0 " §RErledigt:§!§Y SS-Verfügungstruppe-Division§!\n"
  ss_division_reich:0 " §RErledigt:§!§Y SS Inf.-Div.(mot.) 'Reich'§!\n"
  ss_pzgren_division_dasreich:0 " §RErledigt:§!§Y SS PzGren.-Div. 'Das Reich'§!\n"
- 
  LSSAH_regiment_38_tt:0 "Aufstellung der Einheit:\n§YSS Infanterie-Regiment 'LSSAH'§!\n"
  GER_SS_TK_Reiter_dec_tt:0 "Erstellt Vorlage für Einheit:§Y SS TK-Reiter-standarte§!\n"
  GER_SS_TK_Reiter_tt:0 "Aufstellung der Einheit:\n§YSS TK-Reiter-Standarte-Regiment§!\n"
@@ -276,31 +231,21 @@
  GER_SS_Kavallerie_brigade_dec_tt:0 "Erstellt eine Vorlage für die Einheit:§Y SS-Kavallerie-Brigade§!\n"
  GER_SS_Kav_brigade_tt:0 "Bildet die Einheit:§Y SS-Kavallerie-Brigade§!\n\n§RAnmerkung!!§!\nDiese Einheit benötigt mehr neue Ausrüstung und hat weniger XP.\nEs fallen zusätzliche PP-Kosten an: §R-10§!. \nSie erhalten:\n**Ausrüstung max. 85 %\n**Trainingsniveau 85 %.\n"
  GER_ss_8_florian_geyer_dec_tt:0 "Erstellt Vorlagen für:§Y SS-Kavallerie-Division 'Florian Geyer' + SS-Kavallerie-Division§!"
- 
  ss_wiking_regts:0 " §RErledigt:§!§Y SS-Regimenter 'Westland'+ 'Nordland'§!\n"
  ss_wiking_mot:0 " §RErledigt:§!§Y SS Inf.-Div.(mot.) 'Wiking'§!\n"
  ss_wiking_pzgren:0 " §RErledigt:§!§Y SS PzGren.-Div. 'Wiking'§!\n"
- 
  SS_Kampfgruppe_nord:0 " §RErledigt:§!§Y SS-Kampggruppe 'NORD'§!\n"
  SS_Division_nord:0 " §RErledigt:§!§Y SS-Division 'NORD'§!\n"
  SS_Gebirgs_Division_nord:0 " §RErledigt:§!§Y SS-Gebäude-Division 'NORD'§!\n"
  SS_6_Gebirgs_Division_nord:0 " §RErledigt:§!§Y 6. SS-Gebäude-Division 'NORD'§!\n"
- 
  ss_infantry_brigade:0 " §RErledigt:§!§Y 1. SS-Infanteriebrigade§!\n"
  ss_geb_prinz_eugen:0 " §RErledigt:§!§Y SS-Freiwillige Gebirgsjäger-Division 'Prinz Eugen'§!\n"
- 
- #GER NF
  waffen_ss_div_btn:0 "£unlocked_small Schaltet §YWaffen SS Division Builder§ frei!"
  controls_at_least_one_tt:0 "Kontrolliert mindestens einen der aufgeführten Staaten"
- #SOVIET
  SOV_naval_infantry_sf:0 "Bilden Sie Brigade Morskoi"
- 
  SOV_scorched_earth_civ_tooltip:0 "Zivile Fabriken werden nun automatisch über den Ural hinaus verlegt, wenn der Staat von den Achsenmächten erobert wird. Der Umzug einer Fabrik dauert bis zu 30 Tage."
- 
- #Romania
  ROM_soviet_accept:0 "$Wenn die Sowjetunion Ihrem Vorschlag zustimmt, wird Rumänien zu einer Marionette.$"
  carol_head_of_state_tt:0 "Carol II. ist Staatsoberhaupt."
- #MISC
  temp_boost:0 "Kleiner Schub"
  con_bigger_social_TT:0 "Konservatismus > Sozialismus Popularität"
  lib_bigger_social_TT:0 "Liberalismus > Sozialismus Popularität"

@@ -1,5 +1,4 @@
 ﻿l_german:
- #New Bice terrain
  capital:0 "Metropole"
  capital_desc:0 ""
  densecity:0 "Großstadt"
@@ -39,7 +38,6 @@
  TERRAIN_COMBAT_WIDTH_COMB:0 "£combat_width_texticon Kampfbreite: $VALUE|0Y$ (Zusätzliche Angriffe: $ADD|0Y$)"
  TERRAIN_COMBAT_WIDTH:0 "£combat_width_texticon Kampfbreite: $VALUE|0Y$"
  TERRAIN_ADDITIONAL_WIDTH:0 "£combat_width_texticon Kampfbreite pro zusätzliche Richtung: $VALUE|=0Y$"
-
  hills_custom_tooltip: "£enemy_air_superiority_texticon Feindlicher Luftüberlegenheitsbonus im Kampf: §G-20,00 %§!\n£cas_texticon Bodenangriffsfaktor: §R-20,00 %§!"
  mountain_custom_tooltip: "£enemy_air_superiority_texticon Feindlicher Luftüberlegenheitsbonus im Kampf: §G-40.00%§!\n£cas_texticon Bodenangriffsfaktor: §R-40.00%§!"
  urban_custom_tooltip: "£dig_in_speed_texticon Verschanzungsgeschwindigkeitsfaktor: §G+75.0%§!\n£enemy_air_superiority_texticon Feindlicher Luftüberlegenheitsbonus im Kampf: §G-50.00%§!\n£cas_texticon Bodenangriffsfaktor: §R-50.00%§!"
@@ -48,7 +46,6 @@
  forest_custom_tooltip: "£enemy_air_superiority_texticon Feindlicher Luftüberlegenheitsbonus im Kampf: §G-25,00 %§!\n£cas_texticon Bodenangriffsfaktor: §R-25,00 %§!"
  jungle_custom_tooltip: "£enemy_air_superiority_texticon Feindlicher Luftüberlegenheitsbonus im Kampf: §G-40,00 %§!\n£cas_texticon Bodenangriffsfaktor: §R-40,00 %§!"
  marsh_custom_tooltip: "£enemy_air_superiority_texticon Feindlicher Luftüberlegenheitsbonus im Kampf: §G-15,00 %§!\n£cas_texticon Bodenangriffsfaktor: §R-15,00 %§!"
- 
  hills_mod: "$hills$"
  mountain_mod: "$mountain$"
  urban_mod: "$urban$"
@@ -57,4 +54,3 @@
  forest_mod: "$forest$"
  jungle_mod: "$jungle$"
  marsh_mod: "$marsh$"
- 

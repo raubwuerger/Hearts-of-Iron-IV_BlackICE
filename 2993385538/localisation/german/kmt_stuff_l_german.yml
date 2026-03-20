@@ -1,5 +1,4 @@
 ﻿l_german:
- ### decisions ###
 KMT_has_weaker_public_iliteracy_tt:0	"Hat keinen Nationalgeist §YÖffentlicher Analphabetismus§!, oder hat seine Strafe mindestens einmal gesenkt.\n"
 KMT_no_public_iliteracy_tt:0	"Hat keinen Nationalgeist §YÖffentlicher Analphabetismus§!.\n"
 KMT_has_3_lowered_lack_skilled_personnel_tt:0	"Verfügt nicht über den Nationalgeist §YLack Skilled Personnel§!, oder hat seine Strafe mindestens dreimal gesenkt.\n"
@@ -194,7 +193,6 @@ KMT_consolidate_our_naval_doctrine:0	"Konsolidierung unserer Marinedoktrin"
 KMT_consolidate_our_naval_doctrine_desc:0	""
 PRC_covert_means:0	"Verdeckte Mittel"
 PRC_covert_means_desc:0	""
- ## 30/05/2018 ##
 KMT_dcat_integrate_the_communists:0	"Die Kommunisten einbinden"
 KMT_dcat_integrate_the_communists_desc:0	"Obwohl die Kommunisten der [Root.GetRulingParty] die Treue geschworen haben, wird ihnen im Gegenzug ein hohes Maß an Autonomie gewährt. Viele hochrangige Beamte sehen in der kommunistischen Verwaltung jedoch immer noch eine Zeitbombe, die entschärft werden muss, bevor sie hochgeht."
 KMT_incorporate_communist_generals:0	"Kommunistische Generäle anlocken"
@@ -203,16 +201,9 @@ KMT_incorporate_communist_talents:0	"Kommunistische Verwalter an die Macht bring
 KMT_incorporate_communist_talents_desc:0	"Wir können einigen kommunistischen Politikern oder Verwaltungsbeamten in der Region einen angemessenen Platz in unserer Regierung anbieten. Das wird ihre Koordination und ihre Fähigkeit, einen Aufstand zu organisieren, schwächen."
 KMT_replace_local_officials:0	"Lokale Beamte austauschen"
 KMT_replace_local_officials_desc:0	"Nun, da alles vorbereitet ist, können wir die lokalen Beamten durch unsere Leute ersetzen und die unverdiente Autonomie der Kommunisten beenden, die wir ihnen fälschlicherweise gewährt haben."
- ## 05/07/2018 ##
 KMT_use_postal_romanisation_tt:0	"Postromanisierung für Ortsnamen in China verwenden"
- ## 25/07/2018 ##
 KMT_grant_falkenhausen_more_power:0	"Geben Sie Falkenhausen mehr Macht"
-
-
- 
- ## 22/9/2016 ##
 kmt_scale_with_excav_tech:0	"Die Wirkung dieses Fokus skaliert mit §YAbbautechnologien§!.\n"
- ## 10/10/2016 ##
 kmt_mbf_go_lead_xsm:0	"Ma Bufang wird nun deine Armee verlassen und die Ma's anführen."
 kmt_nw_insurgence_tt:0	"Entweder Sie, §YXi Bei San Ma§! oder §YPRC§! kontrollieren §YGansu§!, §YNingxia§! und §YQinghai§!."
 kmt_yangtze_partition:0	"§RIf PRC stimmt zu:§!\n Sie werden der Besitzer von China südlich des Jangtse werden, und PRC wird den Teil nördlich davon nehmen."
@@ -234,15 +225,11 @@ KMT_placate_former_puppet_government_desc:0	"Die ehemaligen japanischen Marionet
 KMT_harsh_takeover_focus:0	"Ergreift das Hanjian"
 KMT_harsh_takeover_focus_desc:0	"Es gibt keinen Grund, mit Verrätern höflich zu sein. Wir werden sie alle verhaften und ihre Ressourcen zu unserer Verfügung stellen."
 kmt_incorporate_warlord_tt:0	"Does not have national spirit §YWarlord Cliques§!"
- ## 20/10/2016 ## Tomorrow I can play Civ VI !!!
 kmt_no_remove_warlord_army_tt:0	"Nationaler Geist §YWarlord-Armeen§! wird von nun an nicht mehr entfernt werden."
- ## 22/10/2016 ##
 KMT_increase_sino_german_cooperation:0	"Verstärkte deutsch-chinesische Zusammenarbeit"
 KMT_increase_sino_german_cooperation_desc:0	"Wir sollten mehr mit Deutschland zusammenarbeiten. Auf diese Weise werden wir einen besseren Vorsprung vor unseren Feinden haben."
- ## 29/10/2016 ##
 KMT_jap_indus_assist_tt:0	"Fügen Sie §Y1 Zivile Fabrik§! in einem zufällig kontrollierten Staat hinzu.\nFügen Sie §Y2 Militärische Fabriken§! in einem zufällig kontrollierten Staat hinzu.\n"
 KMT_jap_navy_indus_assist_tt:0	"Fügen Sie §Y2 Marinewerften§! in zwei zufällig kontrollierten Staaten hinzu.\n"
- ## 14/11/2016 ##
 KMT_support_pro_japanese_faction:0	"Pro-japanische Fraktion unterstützen"
 KMT_support_pro_japanese_faction_desc:0	"Vielleicht können wir, anstatt die Japaner zu verärgern, eine friedlichere Lösung finden?" 
 KMT_re_elaborate_hakko_ichiu:0	"Vorschlag für eine chinesisch-japanische Allianz"
@@ -276,19 +263,13 @@ KMT_join_the_axis_desc:0	"Es ist an der Zeit, dass wir unsere Verbindung zu unse
 KMT_oust_colonisers_available_tt:0	"Jeder Kernstaat von :\n §YVietnam§!\n §YKambodscha§!\n §YLaos§!\n §YMalaysia§!\n §YIndonesien§!\n §YIndien§!\n ist nicht im Besitz des jeweiligen Eigentümers.\n Oder sie sind Marionetten von nicht-asiatischen Nationen."
 KMT_oust_the_colonizers_tt:0	"Gewinnen Sie ein Kriegsziel gegenüber allen Kolonisatoren in Asien.\n\n§YSie haben die Wahl, jede oben genannte asiatische Nation zu befreien, wenn Sie ihren Kernstaat kontrollieren.§!"
 KMT_spread_the_revolution_tt:0	"Die kolonisierten asiatischen Nationen werden sich in ihren Kernstaaten erheben und eine kommunistische Revolution wird in British Raj und Siam beginnen."
- ## 21/11/2016 ##
 KMT_integrate_warlord_army_tt:0	"Einer der Kriegsherren muss entweder :\n §YIst mit Ihnen im Bunde§!\n §YIst Ihre Marionette§!\n §YIst nicht vorhanden§!"
- ## 24/12/2016 ##
 KMT_allow_krupp_tt:0	"Krupp als Industriekonzern verfügbar"
- ## 1/1/2017 ##
 KMT_yangtze_requirement_tt:0	"Nur die VR China ist im Krieg mit Ihnen"
- ## 5/1/2017 ##
 kmt_harsh_takover_oob_tt:0	"15 Divisionen versammeln sich in Nanking.\n"
- ## 13/1/2017 ##
 KMT_receive_lendlease_tt:0	"§YDer folgende Effekt tritt im Abstand von 30 Tagen ein§!\n\n"
 kmt_no_incompetent_tt:0	"Does not have national spirit §YIncompetent Industry§!"
 kmt_no_incompetent_navy_tt:0	"Hat keinen nationalen Geist §YInkompetente Marineindustrie§!"
- ## 14/1/2017 ##
 KMT_continuous_naval_production:0	"Produktion in der Marine"
 KMT_continuous_naval_production_desc:0	"Durch die Konzentration der Ressourcen auf unsere Werften und die Freistellung qualifizierter Schiffsbauer vom Militärdienst können wir die Produktionszeit für Schiffe drastisch reduzieren."
 KMT_continuous_air_production:0	"Luftverkehrsproduktion"
@@ -309,26 +290,18 @@ KMT_continuous_restrict_freedom:0	"Untertanen unterdrücken"
 KMT_continuous_restrict_freedom_desc:0	"Unsere kolonialen Untertanen haben ziemlich alberne Vorstellungen von Dingen wie "Selbstbestimmung" oder "nationaler Unabhängigkeit" entwickelt. Es ist an der Zeit, sie von diesen Vorstellungen zu befreien."
 KMT_continuous_request_lendlease:0	"Lend-Lease beantragen"
 KMT_continuous_request_lendlease_desc:0	"Unsere Industrieproduktion kann die im Einsatz verloren gegangene Ausrüstung nicht schnell genug ersetzen. Unter diesen Umständen sind ausländische Hilfen für unsere Kriegsanstrengungen unerlässlich."
- ## 29/1/2017 ##
 KMT_science_effort:0	"Akademie Sinica"
 KMT_science_effort_desc:0	"Die 1928 gegründete Academia Sinica beaufsichtigt und koordiniert die wissenschaftliche, sozialwissenschaftliche und humanistische Forschung in allen staatlich geförderten Forschungsinstituten und Universitäten der Republik China. Im Gegensatz zu anderen staatlich geförderten Forschungsinstituten ist die Academia Sinica direkt dem Präsidenten unterstellt."
- ## 5/2/2017 ##
- ## 9/2/2017 ##
 kmt_dtdc_tt:0	"Ermöglicht §HDen Tod Wagen Abteilungen§!.\nAlle Fussoldaten : \n Verteidigung : §G+15%§!\n Panzerungsdurchschlag : §G+5%§!\n Erfahrene Soldatenverluste : §R+3%§!"
- ## 13/2/2017 ##
 KMT_north_plan_tt:0	"Einer der folgenden Staaten :\n §YSouth Chahar§!\n §YChahar§!\n §YEast Herbei§!\n §YJehol§!\n §YLiaotung§!\n §YLiaoning§!\n §YKirin§!\n §YSongkiang§!\n §YHeilungkiang§!      §YNorth Xing'an§!      §YEast Xing'an§!\n ist nicht im Besitz von [Root.GetName], und ihr Besitzer muss in Frieden mit [Root.GetName] sein."
 KMT_north_plan_bypass_tt:0	"Alle der folgenden Staaten :\n §YSouth Chahar§!\n §YChahar§!\n §YEast Herbei§!\n §YJehol§!\n §YLiaotung§!\n §YLiaoning§!\n §YKirin§!\n §YSongkiang§!\n §YHeilungkiang§!      §YNorth Xing'an§!      §YEast Xing'an§!\n sind im Besitz von [Root.GetName]"
- ## 17/2/2017 ##
 KMT_29_available:0	"Das 29. Arsenal, das als Industrieunternehmen verfügbar ist\n"
- ## 17/3/2017 ##
 KMT_lure_them_in_effect_tt:0	"§GWenn ausgewählt :§!\n"
 KMT_prep_2_tt:0	"Füge 2 §YInfrastruktur§! und 1 §YLuftwaffenstützpunkt§! in allen Nachbarstaaten der VR China hinzu"
 KMT_warlord_after_civil_war:0	"China vereinen"
 KMT_warlord_after_civil_war_desc:0	"Nun, da die kommunistischen Banditen vernichtet sind, ist es an der Zeit, dass die Kriegsherren das Schwert ergreifen."
- ## 29/3/2017 ##
 KMT_deal_with_SIK:0	"Sinkiang-Problem"
 KMT_deal_with_SIK_desc:0	"Sinkiang ist ein unveräußerlicher Teil Chinas, der dortige Gouverneur hat sich als Seperatist erwiesen. Deshalb wird ihre rasche und sofortige Unterwerfung gefordert, und wenn dieses Ultimatum nicht wirkt, sollte unser Militär ausreichen, um sie zur Kapitulation zu bewegen."
- ## 10/4/2017 ##
 KMTwarlords_continuous_naval_production:0	"Flottenproduktion"
 KMTwarlords_continuous_naval_production_desc:0	"Indem wir die Ressourcen auf unsere Werften konzentrieren und qualifizierte Schiffsbauer vom Militärdienst freistellen, können wir die Produktionszeit für Schiffe drastisch reduzieren."
 KMT_navy_sci:0	"£tech_mod Marineforschung"
@@ -354,37 +327,24 @@ KMTwarlords_claim_central_government_con_focus_desc:0	"China soll unter unsere H
 KMT_claim_central_government_con_focus:0	"Beansprucht die Position der Zentralregierung"
 KMT_claim_central_government_con_focus_desc:0	"China soll unter unsere Herrschaft kommen!"
 KMT_own_central_gov_capital_tt:0	"Besitzen Sie das derzeitige Kapital der Zentralregierung: §Y[KMT_central_gov_capital_state.GetName]§!\n"
- ## 24/4/2017 ##
 KMT_enables_united_front_tt:0	"\n§GEnables United Front§!\n§RDisables Lianguang Incident and Xi'an Incident§!\n"
 KMT_no_united_front_unless_xian_incident_agreed_tt:0	"\n§RVereinigte Front wird sich verzögern§!\n"
- ## 25/4/2017 ##
 KMT_will_take_scc_if_nk_falls_tt:0	"\n§YWird [SCC.GetName] bedingungslos annektieren, wenn Nanking fällt§!"
- ## 8/6/2017 ##
 KMT_take_SEA_tt:0	"§YErstelle Kriegsziele gegen Besitzer von Staaten im südostasiatischen Raum.§!"
 KMT_take_pacific_tt:0	"§YErstelle Kriegsziele gegen Besitzer von Staaten im pazifischen Raum.§!"
- ## 6/9/2017 ##
 KMT_stall_time_tt:0	"Hat sich entschieden, während eines Nachkriegstreffens mit der [PRC.GetLeader] Zeit zu schinden."
- ## 7/10/2017 ##
 kmt_nw_infra_tt:0	"Füge 3 §YInfrastruktur§! in §Y[283.GetName]§!, §Y[616.GetName]§!, §Y[604.GetName]§!, §Y[756.GetName]§!, §Y[755.GetName]§!, §Y[754.GetName]§!, §Y[287.GetName]§!, §Y[619.GetName]§!, §Y[617.GetName]§!, §Y[759.GetName]§!, §Y[760.GetName]§! und §Y[618.GetName]§! wenn Sie diese besitzen."
 kmt_south_infra_tt:0	"Füge 3 §YInfrastruktur§! in §Y[591.GetName]§!, §Y[594.GetName]§!, §Y[599.GetName]§!, §Y[593.GetName]§!, §Y[592.GetName]§!, §Y[326.GetName]§!, §Y[729.GetName]§!, §Y[728.GetName]§!, §Y[763.GetName]§! und §Y[325.GetName]§! wenn Sie diese besitzen."
- ## 22/10/2017 ##
 kmt_forts_in_shanghai_tt:0	"Füge 3 §YLandfestungen§! in §YShanghai§! hinzu."
 kmt_forts_in_nanking_tt:0	"Füge 3 §YLandfestungen§! in §YNanking§!.\n hinzu"
- ## 20/11/2017 ##
 KMT_is_not_a_puppet_or_is_puppet_of_CHI_tt:0	"Mindestens einer der folgenden Warlords/Regierungen existiert und ist keine Marionette oder eine Marionette von §Y[CHI.GetName]§! :\n §Y[GXC.GetName]\n [QIA.GetName]\n [XIA.GetName]\n [ZXL.GetName]\n [SDC.GetName]\n [SHX.GetName]\n [SCC.GetName]\n [SKC.GetName]\n [XSM.GetName]\n [YUN.GetName]\n [YUT.GetName]\n [PGrenadier-GetName]\n [MEN.GetName]§!"
 KMT_none_is_puppet_or_is_puppet_of_CHI_tt:0	"Keiner der folgenden Kriegsherren/Regierungen existiert oder ist eine Marionette und ist keine Marionette von §Y[CHI.GetName]§! \n §Y[GXC.GetName]\n [QIA.GetName]\n [XIA.GetName]\n [ZXL.GetName]\n [SDC.GetName]\n [SHX.GetName]\n [SCC.GetName]\n [SKC.GetName]\n [XSM.GetName]\n [YUN.GetName]\n [YUT.GetName]\n [PGrenadier-GetName]\n [MEN.GetName]§!"
- ## 21/11/2017 ##
 kmt_resources_focus_tootip_tt:0	"§GDas Beenden dieses Fokus löst Ereignisse zum Hinzufügen von Ressourcen in den jeweiligen Regionen aus.§!"
 kmt_resources_focus_1_tootip_tt:0	"§Gibt man diesen Fokus auf, werden Ereignisse ausgelöst, um Ressourcen in den Regionen Zentralchinas hinzuzufügen.§!\n\n"
- ## 23/11/2017 ##
 KMT_external_defense_requirement_tt:0	"Führt keinen Krieg mit einem der folgenden Kriegsherren/Regierungen:\n §Y[GXC.GetName]\n [QIA.GetName]\n [XIA.GetName]\n [ZXL.GetName]\n [SDC.GetName]\n [SHX.GetName]\n [SCC.GetName]\n [SKC.GetName]\n [XSM.GetName]\n [YUN.GetName]\n [YUT.GetName]§!"
- ## 25/11/2017 ##
 KMT_fortify_land_tt:0	"Füge §Y10 Landforts§! entlang der Nordgrenze hinzu.\n"
- ## 26/12/2017 ##
 KMT_supported_fyx_tt:0	"Feng Yuxiang nicht unterstützt haben, als Chiang Kai-shek während des Xian-Zwischenfalls getötet wurde\n"
- ## 29/12/2017 ##
 KMT_german_approved_tt:0	"§Y[GER.GetName]§! hat eine weitere Zusammenarbeit zwischen unseren beiden Ländern vereinbart.\n"
- ## 2/1/2018 ##
 KMT_PRC_agrees_to_work_with_us_tt:0	"[PRC.GetName] hat sich bereit erklärt, mit uns zusammenzuarbeiten.\n"
 KMT_will_get_reinforcements_when_launch_coup_tt:0	"§GWird zusätzliche Truppen bekommen, wenn der Fokus§! §RTDie Rote Revolution§! §Gerfolgreich war.§!\n"
 KMT_coup_prc_can_join_tt:0	"§Y[PRC.GetName]§! §GGeschieht es, dass der Putsch zu einem Bürgerkrieg eskaliert, kann er sich Ihnen anschließen.§!\n"
@@ -392,7 +352,6 @@ KMT_gain_additional_pp_tt:0	"§GGewinnen Sie zusätzliche politische Macht, wenn
 KMT_chen_duxiu_becomes_leader_tt:0	"§GChen Duxiu wird der Führer der kommunistischen Partei, wenn der Fokus§! §RDer rote Putsch§! §Geendet.§!\n"
 KMT_coup_depends_on_commie_pop_tt:0	"§YDie Wirkung dieses Fokus hängt von der Popularität der kommunistischen Partei ab.§!\n\n"
 KMT_PRC_not_agrees_to_work_with_us_tt:0	"[PRC.GetName] hat sich nicht bereit erklärt, mit uns zusammenzuarbeiten.\n"
- ## 3/1/2018 ##
 KMT_ger_accepts_chi_into_faction_tt:0	"[GER.GetName] hat uns in seine Fraktion aufgenommen."
 KMT_jap_accepts_chi_into_faction_tt:0	"[JAP.GetName] hat uns in seine Fraktion aufgenommen."
 KMT_sov_accepts_chi_into_faction_tt:0	"[SOV.GetName] hat uns in seine Fraktion aufgenommen."
@@ -403,45 +362,32 @@ KMT_sov_no_accepts_chi_into_faction_tt:0	"[SOV.GetName] hat uns nicht in seine F
 KMT_eng_no_accepts_chi_into_faction_tt:0	"[ENG.GetName] hat uns nicht in seine Fraktion aufgenommen."
 KMT_eng_didnt_accepts_chi_into_faction_tt:0	"[ENG.GetName] hat uns nicht in seine Fraktion aufgenommen."
 KMT_sov_didnt_accepts_chi_into_faction_tt:0	"[SOV.GetName] hat uns nicht in seine Fraktion aufgenommen."
- ## 6/1/2018 ##
 KMT_promote_new_officers:0	"Reform des Oberkommandos"
 KMT_promote_new_officers_desc:0	"Während des Staatsstreichs waren nicht viele Offiziere des Oberkommandos bei uns, und es ist derzeit extrem unterbesetzt. Wir sollten nach geeigneten Kandidaten suchen, um die vakanten Posten zu besetzen."
 KMT_get_some_new_high_commands:0	"§GEinige neue Offiziere des Oberkommandos einstellen.§!"
- ## 11/1/2018 ##
 KMT_bypass_some_commie_focus:0	"Bestimmte Maßnahmen während der Ereigniskette des Xian-Zwischenfalls ergriffen"
- ## 12/1/2018 ##
- ## 14/1/2018 ##
 KMT_finished_one_industrial_focus:0	"Hat einen Industrialisierungsschwerpunkt abgeschlossen"
 KMT_finished_two_industrial_focus:0	"Hat zwei Industrialisierungsschwerpunkte abgeschlossen"
- ## 15/1/2018 ##
- ## 21/1/2018 ##
 KMT_if_have_completed_democratic_tt:0	"\n§CWenn der Fokus abgeschlossen ist§! §YSchluss mit der Vorherrschaft des Volkes§! \n\n"
 KMT_if_have_completed_fascism_tt:0	"\n\n§CWenn der Fokus abgeschlossen ist§! §YMilitärische Diktatur§! \n\n"
 KMT_if_have_completed_bb_tt:0	"\n§CWenn der Fokus abgeschlossen ist§! §YSchlachtschiff-Überlegenheit§! \n\n"
 KMT_if_have_completed_cv_tt:0	"\n§CWenn der Fokus abgeschlossen ist§! §YMarinefliegerei§! \n\n"
- ## 22/1/2018 ##
 KMT_USA_agreed_to_assist_tt:0	"§Y[USA.GetName]§! hat sich auf weitere Zusammenarbeit geeinigt"
 KMT_JAP_agreed_to_assist_tt:0	"§Y[JAP.GetName]§! hat sich auf weitere Zusammenarbeit geeinigt"
 KMT_FRA_agreed_to_assist_tt:0	"§Y[FRA.GetName]§! hat sich auf weitere Zusammenarbeit geeinigt"
 KMT_ENG_agreed_to_assist_tt:0	"§Y[ENG.GetName]§! hat sich auf weitere Zusammenarbeit geeinigt"
 KMT_JAP_refused_to_assist_tt:0	"§Y[JAP.GetName]§! hat eine weitere Zusammenarbeit abgelehnt"
- ## 23/1/2018 ##
 KMT_will_have_the_following_idea_tt:0	"§CDer folgende nationale Geist wird bei der Auswahl hinzugefügt:§!\n\n"
 KMT_will_remove_the_above_idea_tt:0	"\n§CDer oben genannte nationale Geist wird entfernt, wenn der Fokus beendet ist.§!\n\n"
 KMT_there_are_some_events_tt:0	"§YEinige Ereignisse werden im Verlauf dieses Fokus ausgelöst und haben leichte Auswirkungen auf die Wirkung dieses Fokus.§!\n\n"
- ## 24/1/2018 ##
 KMT_if_have_completed_eng_tt:0	"\n§CWenn§! §Y[ENG.GetName]§! den §CNationalgeist§! §YHilfe für China§! hat\n\n"
 KMT_if_have_completed_usa_tt:0	"\n§CWenn§! §Y[USA.GetName]§! den §CNationalgeist§! §YHilfe für China§! hat\n\n"
- ## 31/1/2018 ##
 KMT_jet:0	"Projekt Yin-Yang" 
 KMT_jet_desc:0	"Der Luftkampf ist ein untrennbarer Bestandteil der modernen Kriegsführung geworden. Wenn wir unser Land vor ausländischen Bedrohungen schützen wollen, brauchen wir eine kompetente Luftwaffe. Zu diesem Zweck müssen wir fortschrittliche einheimische Kampfflugzeuge entwickeln, um unser Volk zu verteidigen."
- ## 2/2/2018 ##
 KMT_SOV_agreed_to_assist_tt:0	"§Y[SOV.GetName]§! hat sich auf eine weitere Zusammenarbeit geeinigt"
 KMT_more_if_in_defensive_war_tt:0	"\n§YC kann im Falle eines Verteidigungskrieges mehr Ausrüstung erhalten§!\n"
- ## 9/2/2018 ##
 KMT_elite_marine_tt:	"Erhalten Sie eine gut ausgebildete §YMarinesoldatenabteilung§!.\n"
 KMT_elite_mountaineers_tt:	"Erhalten Sie eine gut ausgebildete §YGebirgsjägerdivision§!.\n"
- ## 12/2/2018 ##
 KMT_if_have_not_1922_1936_dd_researched_tt:0	"\n§CWenn Sie Zerstörer von 1922 und 1936 nicht erforscht haben:§!\n\n"
 KMT_if_have_1922_1936_dd_researched_tt:0	"\n§CWenn Sie Zerstörer von 1922 und 1936 erforscht haben:§!\n\n"
 KMT_if_have_not_1922_1936_cl_researched_tt:0	"\n§CWenn Sie leichte Kreuzer von 1922 und 1936 nicht erforscht haben:§!\n\n"
@@ -450,7 +396,6 @@ KMT_if_have_not_1922_1936_ca_researched_tt:0	"\n§CWenn Sie schwere Kreuzer von 
 KMT_if_have_1922_1936_ca_researched_tt:0	"\n§CWenn Sie schwere Kreuzer von 1922 und 1936 erforscht haben:§!\n\n"
 KMT_if_have_not_1922_1936_ss_researched_tt:0	"\n§CWenn Sie U-Boote von 1922 und 1936 nicht erforscht haben:§!\n\n"
 KMT_if_have_1922_1936_ss_researched_tt:0	"\n§CWenn Sie U-Boote von 1922 und 1936 erforscht haben:§!\n\n"
- ## 17/3/2018 ##
 KMT_incorporate_warlord_forces:0	"[Root.GetIncorporateWarlordForcesName]"
 KMT_INTEGRATE_WARLORD_FORCES:0	"Warlord Forces integrieren"
 KMT_DESTROY_FACTIONS_IN_THE_ARMY:0	"Fraktionen in der Armee zerstören"
@@ -467,7 +412,6 @@ KMT_focus_on_our_own_army_desc:0	"[Root.GetFocusOnCentralArmyDesc]"
 KMT_FOCUS_ON_CENTRAL_ARMY_DESC:0	"Die undisziplinierten Warlord-Truppen verdienen nicht unsere Aufmerksamkeit. Sie dienen nur als Kanonenfutter und Köder, während unsere Zentralarmee unseren Feinden den Todesstoß versetzt."
 KMT_ENCOURAGE_FACTIONALISM_IN_THE_ARMY_DESC:0	"Der Fraktionszwang in unserer Armee hat zwar zu kleineren Schwierigkeiten bei der Koordinierung von Angriffen und Verteidigungen geführt, aber der Konkurrenzkampf zwischen den verschiedenen Fraktionen hat die Soldaten dazu gebracht, härter zu kämpfen, um ihrer Clique Vorteile zu verschaffen. Wir können uns diese Phänomene zunutze machen, um eine schlagkräftigere Armee zu schaffen."
 KMT_MILITIA_ASSAULT_TACTICS_DESC:0	"Bauern und Arbeiter haben während unserer Revolution gegen das alte Regime lose organisierte Milizen gebildet. Diese Milizen haben zwar nur unterdurchschnittliche Kampffähigkeiten, können aber als Sturmtruppen oder Kanonenfutter eingesetzt werden, um unsere Feinde zu zermürben, bevor unsere regulären Streitkräfte den letzten Schlag ausführen."
- ## 12/4/2018 ##
 KMT_closer_tie_with_fra:0	"Wenden Sie sich an [FRA.GetName]"
 KMT_closer_tie_with_fra_desc:0	"Die [FRA.GetAdjective] hat den Großen Krieg gewonnen und ihre Armee gilt als eine der stärksten der Welt, wir könnten unsere verbessern, wenn es uns gelingt, ein Abkommen mit ihnen zu schließen."
 KMT_closer_tie_with_eng:0	"[ENG.GetAdjective] Unterstützung"
@@ -577,11 +521,6 @@ KMT_falkenhausen_citizenship:0	"Entsendung von Kadetten an [GER.GetAdjective]-Ak
 KMT_falkenhausen_citizenship_desc:0	"Die Entsendung von Kadetten zum Studium an Militärakademien in [GER.GetAdjective] könnte uns einen Einblick in fortschrittlichere militärische Strategien gewähren."
 CHI_claim_soviet:0	"Sowjetisches Territorium zurückgewinnen"
 CHI_claim_soviet_desc:0	"Hunderte von Jahren lang galt der Nordosten Chinas als das Gebiet der heutigen Sowjetunion. Das Russische Reich hatte 1689 mit dem Vertrag von Nertschinsk ein Grenzabkommen mit der Qing-Dynastie geschlossen. Die Russen nutzten den Taiping-Aufstand und annektierten 1858 und 1860 einen Großteil dieses Gebiets. Es ist an der Zeit, unseren Anspruch auf das Land unserer Vorfahren wieder geltend zu machen!"
-
-
-
-
- ### ideas ###
 KMT_propaganda:0	"Propaganda zur Landesverteidigung"
 KMT_propaganda_desc:0	"Da die Japaner unsere Existenz bedrohen, muss sich das gesamte chinesische Volk gegen sie vereinen."
 KMT_propaganda_busted:0	"Propaganda zur Landesverteidigung diskreditiert"
@@ -634,7 +573,6 @@ KMT_rear:0	"Großer Plan von hinten"
 KMT_rear_desc:0	"§RDieser Nationalgeist wird erlöschen, wenn der Krieg mit Japan vorbei ist!§!"
 KMT_lure_them_in:0	"Anlockungsstrategie"
 KMT_lure_them_in_desc:0	"§RDieser Nationalgeist wird erlöschen, sobald der Krieg mit Japan vorbei ist!§!"
- ### 9/7/2016 ###
 KMT_warlord_cliques_pre_war:0	"Kriegsherren-Cliquen"
 KMT_warlord_cliques_pre_war_desc:0	"Die über ganz China verstreuten Kriegsherrencliquen haben die Zentralregierung geschwächt."
 KMT_warlord_cliques_3:0	"Kriegsherren-Cliquen"
@@ -642,13 +580,10 @@ KMT_warlord_cliques_2:0	"Kriegsherren-Cliquen"
 KMT_warlord_cliques_desc:0	"Die über ganz China verstreuten Kriegsherrencliquen haben die Zentralregierung geschwächt."
 KMT_warlord_cliques_1:0	"Kriegsherren-Cliquen"
 KMT_warlord_cliques_1_desc:0	"Die über ganz China verstreuten Kriegsherrencliquen haben die Zentralregierung geschwächt."
- ## 10/7/2016 ##
 sino_jap_war_fail_naisen:0	"Naisen"
 sino_jap_war_fail_naisen_desc:0	"Das Scheitern bei der Eroberung Chinas hat zu einer Zersplitterung der Regierung und der Öffentlichkeit geführt, unsere Nation steht nun am Rande des totalen Zusammenbruchs!"
- ## 14/7/2016 ##
 KMT_chennault:0	"US-Luftfahrt-Berater"
 KMT_chennault_desc:0	"Mit der pensionierten USAAC-Fliegerin Claire Lee Chennault als Luftfahrtberaterin wird unsere Luftwaffe in der Praxis besser funktionieren."
- ## 22/8/2016 ##
 kmt_western_volunteers:0	"Chinesische Freiwillige"
 kmt_chinese_support:0	"Chinesische Unterstützungsgruppen"
 incompetent_government:0	"Inkompetente Regierung"
@@ -670,25 +605,19 @@ public_iliteracy_2:0	"Öffentlicher Analphabetismus"
 public_iliteracy_2_desc:0	"Das chinesische Bildungssystem liegt nach Jahren der Unruhen und des Bürgerkriegs in Trümmern."
 kmt_military_youth:0	"MIlitärische Jugend"
 kmt_dare_to_die_corps_idea:0	"Korps der Todeskandidaten"
- ## 6/9/2016 ##
 communism_defeated_kmt:0	"Der Kommunismus ist besiegt"
 kmt_planning_the_civil_war:0	"Planung des Bürgerkriegs"
 kmt_planning_the_civil_war_desc:0	"Mao will nicht, dass irgendjemand von dem bevorstehenden Bürgerkrieg zwischen den Chinesen profitiert. Dies ist eine chinesische Angelegenheit."
- ## 8/9/2016 ##
 kmt_national_treasure_ransacked:0	"Verlust der nationalen Schätze"
 kmt_defend_the_treasures:0	"Verteidigen Sie die nationalen Schätze!"
- ## 3/10/2016 ##
 KMT_jinyuanquan_inflation:0	"Hyperinflation"
 KMT_jinyuanquan_inflation_desc:0	"Unsere Methode, mehr Gold-Yuan zu drucken, um die Kommunisten ohne zusätzliches Gold zu bezahlen, hat eine schwere Inflation in unserer Wirtschaft verursacht! Und die unzufriedenen Bürger und Soldaten desertieren nun zu den Kommunisten!"
 KMT_corrupted_kmt:0	"Gestärkter Wille"
 KMT_corrupted_kmt_desc:0	"Die korrupten Beamten unseres Feindes haben den Willen unserer Genossen gestärkt, ihre verrottete Struktur zu Fall zu bringen!"
 KMT_aid_to_xsm:0	"Hilfe aus China"
- ## 16/10/2016 ##
 KMT_let_bygones_be_bygones:0	"Tolerante Regierung"
 KMT_harsh_takeover:0	"Harte Übernahme"
- ## 20/10/2016 ## Tomorrow I can play Civ VI !!!
 KMT_sino_german_joint_research:0	"Deutsch-chinesische gemeinsame Militärforschung"
- ## 29/10/2016 ##
 incompetent_industry_fake_navy:0	"Inkompetente Marineindustrie"
 incompetent_industry_fake_navy_desc:0	"China war schon immer eine Landmacht. Eine Blauwasserflotte bleibt nur ein Wunschtraum."
 incompetent_industry_real_navy:0	"Inkompetente Marineindustrie"
@@ -701,39 +630,29 @@ incompetent_industry_real_4_navy:0	"Inkompetente Marineindustrie"
 incompetent_industry_real_4_navy_desc:0	"China war schon immer eine Landmacht. Eine Blue-Water-Marine bleibt nur ein Wunschtraum."
 incompetent_industry_real_5_navy:0	"Inkompetente Marineindustrie"
 incompetent_industry_real_5_navy_desc:0	"China war schon immer eine Landmacht. Eine Blue-Water-Marine bleibt nur ein Wunschtraum."
- ## 30/10/2016 ##
 KMT_jap_military_advisors:0	"Japanische Militärberater"
- ## 6/11/2016 ##
 KMT_sov_military_advisors:0	"Sowjetische Militärberater"
 strive_for_independence:0	"Streben nach Unabhängigkeit"
 RAJ_commie_revolution:0	"Revolution!"
 KMT_resist_the_reds:0	"Den Kommunisten widerstehen"
 KMT_resist_the_reds_desc:0	"§YErhält Buff, wenn er Krieg gegen die kommunistische Regierung führt!§!"
-KMT_anti_communism_sentiment:0	"Anti-Kommunismus-Stimmung"
-KMT_anti_communism_sentiment_desc:0	"§RWird entfernt, wenn kein Krieg mit Kommunisten geführt wird!§!"
+KMT_anti_communism_sentiment_spirit:0	"Antikommunistische Stimmung"|"
+
 JAP_kodoha_idea:0	"Kodoha an der Macht"
 JAP_toseiha_idea:0	"Toseiha an der Macht"
- ## 24/12/2016 ##
 incompetent_industry_bookmark:0	"Inkompetente Industrie"
 incompetent_industry_bookmark_desc:0	"Chinas junge und unerfahrene Industrie ist auf den kommenden Sturm nicht vorbereitet."
 KMT_chennault_air_chief:0	"Claire Lee Chennault"
- ## 1/1/2017 ##
 KMT_chinese_matter:0	"Chinesische Angelegenheit"
- ## 1/12/2017 ##
- ## 22/1/2017 ##
 KMT_continue_the_national_revolution:0	"Die nationale Revolution fortsetzen"
- ## 27/1/2017 ##
- ## 29/1/2017 ##
 KMT_chongqing_steel:0	"Das 29. Arsenal"
 KMT_central_wireless:0	"Zentrale Gesellschaft für drahtlose Ausrüstung"
 Taiyuan_armory:0	"Taiyuan-Arsenal"
 KMT_motorised_company:0	"China Automobile Manufacture Company"
 KMT_retreat_to_taiwan_idea:0	"Rückzug nach Taiwan!"
 KMT_science_funding:0	"Academia Sinica"
- ## 3/2/2017 ##
 KMT_warlord_cliques_4:0	"Kriegsherren-Cliquen"
 KMT_warlord_cliques_4_desc:0	"Die über ganz China verstreuten Warlord-Cliquen haben die Zentralregierung geschwächt."
- ## 4/2/2017 ##
 GXC_huang_xuchu:0	"Huang Xuchu" 
 GXC_huang_shaohong_pa:0	"Huang Shaohong" 
 YUT_hu_hanwen:0	"Hu Hanmin" 
@@ -754,40 +673,33 @@ YUT_xu_heng:0	"Xu Heng"
 YUT_zhou_baoheng:0	"Zhou Baoheng" 
 KMT_media_pressure:0	"Druck der Massenmedien"
 KMT_media_pressure_2:0	"Druck durch die Massenmedien"
- ## 5/2/2017 ##
 KMT_anti_chiang_idea:0	"Anti-Chiang"
 KMT_dai_li:0	"Dai Li"
 KMT_dai_li_intel:0	"Dai Li"
- ## 19/2/2017 ##
 KMT_weak_army:0	"Inkompetente Armee"
 KMT_weak_army_desc:0	"Die NRA besteht aus unzureichend ausgebildeten Soldaten und inkompetenten Befehlshabern.\n\n§YMindestens 200 Armeeerfahrung zu haben, wird ein Ereignis auslösen, das die Strafe senkt§!"
 KMT_weak_army_lesser:0	"Inkompetente Armee"
 KMT_weak_army_lesser_desc:0	"Die NRA besteht aus unzureichend ausgebildeten Soldaten und inkompetenten Befehlshabern.\n\n§YDer Besitz von mindestens 200 Armeeerfahrung löst ein Ereignis aus, das die Strafe senkt§!"
 KMT_powerful_blueshirts:0	"Mächtige Blueshirts"
 KMT_powerful_blueshirts_desc:0	"Die BIS ist ein Geheimdienst der Blauhemden, der eine wichtige Rolle bei der Machtübernahme durch das derzeitige Regime gespielt hat. Jetzt, da sie vom aktuellen Machthaber mehr Macht erhalten haben, kann sich niemand mehr ihrem Zugriff entziehen."
- ## 9/3/2017 ##
 KMT_sichuan_famine_no_aid:0	"Hungersnot in Sichuan"
 KMT_sichuan_famine_aid:0	"Kampf gegen die Hungersnot"
 KMT_united_front:0	"Vereinte Front"
 KMT_doolittle_failed:0	"Abgewehrter Luftangriff"
 KMT_doolittle_raid:0	"Doolittle-Angriff"
- ## 17/3/2017 ##
 KMT_lure_them_in_4:0	"Lockvogel-Strategie"
 KMT_lure_them_in_2:0	"Lure-Them-In-Strategie"
 KMT_lure_them_in_1:0	"Lure-Them-In-Strategie"
 KMT_lure_them_in_3:0	"Lure-Them-In-Strategie"
 KMT_united_front_desc:0	"§RWenn Sie einer der Kriegsherren sind, werden Sie automatisch von der @CHI annektiert, wenn Sie kapitulieren!§!"
- ## 10/4/2017 ##
 KMT_central_government_idea:0	"Zentralregierung"
 KMT_central_government_idea_desc:0	"Diese Nation wird als die einzige rechtmäßige Regierung Chinas proklamiert."
 KMT_central_government_lost:0	"Position der Zentralregierung verloren"
 KMT_central_government_lost_desc:0	"Diese Nation hat ihre Position als Zentralregierung Chinas verloren, was sich nachteilig auf sie auswirkt."
- ## 13/4/2017 ##
 KMT_long_yun:0	"Long Yun"
 KMT_ma_bufang:0	"Ma Bufang"
 KMT_yan_xishan:0	"Yan Xishan"
 KMT_sun_lijen:0	"Sun Li-jen" 
- ## 14/4/2017 ##
 XIA_zhao_hengti:0	"Zhao Hengti" 
 XIA_zhang_zhizhong:0	"Zhang Zizhong" 
 XIA_chen_mingren:0	"Chen Mingren" 
@@ -810,19 +722,16 @@ SCC_liu_wenhui:0	"Liu Wenhui"
 SCC_tang_shizun:0	"Tang Shizun" 
 SCC_wang_zuanxu:0	"Wang Zuanxu" 
 SCC_tian_song_yao:0	"Tian Songyao" 
- ## 20/4/2017 ##
 QIA_he_zhizhong:0	"He Zhizhong" 
 QIA_bo_huizhang:0	"Bo Huizhang" 
 QIA_hou_zhidan:0	"Hou Zhidan" 
 QIA_you_guocai:0	"You Guocai" 
 QIA_jiang_zaizhen:0	"Jiang Zaizhen" 
 QIA_wang_jialie:0	"Wang Jialie" 
- ## 21/4/2017 ##
 SDC_liang_shuming:0	"Liang Shuming" 
 ZXL_li_bo_hai:0	"Li Bohai" 
 KMT_he_jian_proposal:0	"Streitkräfte an der Frontlinie"
 KMT_hejian_proposal_xia:0	"Streitkräfte in Bereitschaft"
- ## 23/4/2017 ##
 KMT_warlord_cliques_5:0	"Warlord-Cliquen"
 KMT_warlord_cliques_5_desc:0	"Die über ganz China verstreuten Warlord-Cliquen haben die Zentralregierung geschwächt."
 KMT_warlord_cliques_6:0	"Warlord-Cliquen"
@@ -832,39 +741,29 @@ KMT_warlord_cliques_7_desc:0	"Die über ganz China verstreuten Warlord-Cliquen h
 KMT_warlord_cliques_8:0	"Warlord-Cliquen"
 KMT_warlord_cliques_8_desc:0	"Die über ganz China verstreuten Warlord-Cliquen haben die Zentralregierung geschwächt."
 KMT_zhu_de:0	"Zhu De"
- ## 6/5/2017 ##
 KMT_fight_for_survival:0	"Kampf ums Überleben"
 KMT_fight_for_survival_2:0	"Kampf ums Überleben"
- ## 20/5/2017 ##
 KMT_sino_german_joint_research_ger_adv:0	"Gemeinsame deutsch-chinesische Militärforschung"
- ## 7/6/2017 ##
 KMT_aggresion:0	"Aggression"
- ## 8/6/2017 ##
 camco_light:0	"CAMCO"
 camco_bomb:0	"CAMCO"
 camco_cas:0	"CAMCO"
 navy_air_est:0	"Naval Air Establishment"
 cg_warlords:0	"Ist Warlord"
- ## 9/6/2017 ##
 KMT_student_soldiers:0	"Zwangseinberufung"
 KMT_weak_army_lesserer:0	"Inkompetente Armee"
 KMT_weak_army_lesserer_desc:0	"Die NRA besteht aus unzureichend ausgebildeten Soldaten und inkompetenten Befehlshabern.\n\n§YDer Besitz von mindestens 350 Armeeerfahrungen löst ein Ereignis aus, das diesen nationalen Geist beseitigt§!"
- ## 14/6/2017 ##
 KMT_treasure_abroad_idea:0	"Ins Ausland gesandte Artefakte"
 KMT_wai_chingkuo:0	"Chiang Ching-kuo"
- ## 26/8/2017 ##
 KMT_harsh_takeover_desc:0	"Unsere harte Behandlung der ehemaligen japanischen Kollaborateure hat zur Desertion unter den reorganisierten Truppen geführt. Dies wird die Stärke unserer Streitkräfte untergraben."
 KMT_collaborate_with_collaborators:0	"Mit Kollaborateuren zusammenarbeiten"
 KMT_collaborate_with_collaborators_desc:0	"Trotz ihres Verrats könnten sich diese Kollaborateure in den kommenden Kriegen gegen unsere potenziellen Feinde als nützlich erweisen..."
 KMT_harsh_takeover_prc:0	"Kollaborateure Überläufer"
- ## 27/8/2017 ##
 KMT_harsh_takeover_prc_purge:0	"Kollaborateure Überläufer"
 KMT_purge_collaborators:0	"Tod für alle Verräter!"
 KMT_purge_collaborators_desc:0	"Ein brutaler Prozess der Hinrichtung aller sich ergebenden japanischen Kollaborateure ist im Gange. Diejenigen, die unsere Partei verraten wollen, werden es sich sicher zweimal überlegen, wenn sie sehen, wie mit den Verrätern verfahren wird."
- ## 29/8/2017 ##
 GXC_bribed_men:0	"Abtrünnige"
 GXC_bribed_men_desc:0	"Einige unserer Männer haben das Bestechungsgeld des Feindes angenommen und sind übergelaufen!"
- ## 31/8/2017 ##
 KMT_jinyuanquan_inflation_2:0	"Hyperinflation"
 KMT_jinyuanquan_inflation_3:0	"Hyperinflation"
 KMT_jinyuanquan_inflation_4:0	"Hyperinflation"
@@ -876,32 +775,25 @@ KMT_li_chiang_rivalry:0	"Chiang-Li-Rivalität"
 KMT_li_chiang_rivalry_desc:0	"Die Rivalität zwischen Chiang und Li hat die Koordinierung des Militärs beeinträchtigt."
 KMT_li_chiang_rivalry_2:0	"Chiang-Li-Rivalität"
 KMT_li_chiang_rivalry_2_desc:0	"Die Rivalität zwischen Chiang und Li hat die Koordination des Militärs beeinträchtigt."
- ## 14/10/2017 ##
 KMT_SOV_air_volunteers:0	"Sowjetische Freiwillige"
- ## 16/10/2017 ##
 KMT_PRC_bandits:0	"Ländliche Banditen"
 KMT_PRC_crack_down_on_deserters:0	"Hartes Durchgreifen bei Desertion"
 KMT_PRC_deserters:0	"Deserteure"
 KMT_ex_commie_partisans:0	"Ehemalige Partisanen der Roten Armee"
 KMT_sun_lijen_theorist:0	"Sun Li-jen"
 KMT_chiang_kaishek_high_command:0	"Chiang Kai-shek"
- ## 18/11/2017 ##
- ## 4/12/2017 ##
 KMT_national_resources_committee:0	"Kommission für nationale Ressourcen"
 KMT_faster_fortification:0	"Verstärkte Anstrengungen"
 KMT_more_appeasement:0	"Mehr Appeasement"
 KMT_more_appeasement_shanghai:0	"Shanghai aufgegeben"
 KMT_pro_jap_propaganda_2:0	"Pro-japanische Propaganda"
 KMT_pro_jap_propaganda:0	"Pro-japanische Propaganda"
- ## 27/12/2017 ##
 KMT_lack_popular_support:0	"Fehlende Unterstützung der Bevölkerung"
 KMT_pro_jap_ROOT_penalty:0	"BIS-Infiltration"
 KMT_pro_jap_infiltrated_gov_idea:0	"Regierung in Aufruhr"
 KMT_pro_jap_contacted_hyq_idea:0	"Abtrünnige"
 KMT_xian_firm_stance:0	"Feste Haltung"
- ## 28/12/2017 ##
 KMT_more_concession:0	"Mehr Zugeständnisse"
- ## 2/1/2018 ##
 KMT_into_mao_2:0	"Kommunistische Propaganda"
 KMT_peasants_revolution_1:0	"Die Bauernrevolution"
 KMT_peasants_revolution_2:0	"Die Bauernrevolution"
@@ -917,13 +809,10 @@ KMT_revolution_4:0	"Die Revolution!"
 KMT_revolution_5:0	"Revolution!"
 KMT_revolution_6:0	"Revolution!"
 KMT_revolution_7:0	"Revolution!"
- ## 3/1/2018 ##
 KMT_triumphant_revolution:0	"Triumphierende Revolution"
 KMT_from_each_to_each:0	"Jedem nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen"
 KMT_soviet_knowledge:0	"Sowjetisches Wissen"
- ## 4/1/2018 ##
 KMT_into_mao_3:0	"Kommunistische Propaganda"
- ## 5/1/2018 ##
 KMT_weng_wenhao:0	"Weng Wenhao" 
 KMT_lu_zuofu:0	"Lu Zuofu" 
 KMT_qian_changzhao:0	"Qian Changzhao" 
@@ -931,7 +820,6 @@ KMT_yu_dawei:0	"Yu Dawei"
 KMT_he_lian:0	"He Lian" 
 KMT_dong_xianguang:0	"Dong Xianguang" 
 KMT_zhang_qun:0	"Zhang Qun" 
- ## 6/1/2018 ##
 KMT_zhou_fohai:0	"Zhou Fohai" 
 KMT_li_shiqun:0	"Li Shiqun" 
 KMT_chen_bijun:0	"Chen Bijun" 
@@ -950,8 +838,6 @@ KMT_lin_biao:0	"Lin Biao"
 KMT_zhu_de_army_chief:0	"Zhu De"
 KMT_xu_xiangqian:0	"Xu Xiangqian"
 KMT_peng_dehuai:0	"Peng Dehuai"
- ## 12/1/2018 ##
- ## 21/1/2018 ##
 KMT_new_constitution_democratic:0	"Eine neue Verfassung"
 KMT_new_constitution_fascism:0	"Eine neue Verfassung"
 KMT_new_constitution_democratic_ccotm:0	"Eine neue Verfassung"
@@ -970,482 +856,1086 @@ KMT_joint_tank_development_department_fra:0	"Gemeinsame Abteilung für Forschung
 KMT_joint_tank_development_department_ger:0	"Gemeinsame Abteilung für Forschung und Entwicklung im Bereich Rüstung"
 KMT_joint_tank_development_department_sov:0	"Gemeinsame Abteilung für Forschung und Entwicklung im Bereich Rüstung"
 KMT_chi_general_staff:0	"Chinesischer Generalstab"
- ## 22/1/2018 ##
 KMT_empire_plan:0	"Das Land der Ahnen zurückerobern!"
- ## 23/1/2018 ##
 KMT_navy_shipyard_battleship_supremacy:0	"Büro für Schiffbau der Marine"
 KMT_navy_shipyard_naval_aviation:0	"Büro für Marineschiffbau"
- ## 25/1/2018 ##
 KMT_tft_reorganised:0	"Reorganisierte Luftwaffe"
 KMT_tft:0	"US Aviation Advisor"
- ## 31/1/2018 ##
 KMT_training_in_india:0	"[ENG.GetAdjective] Ausbildung"
 KMT_air_command_light:0	"Luftwaffenkommando"
 KMT_air_command_med:0	"Luftwaffenkommando"
 KMT_air_command_heavy:0	"Luftwaffenkommando"
- ## 2/2/2018 ##
 KMT_sov_advisor_ssnap:0	"Sowjetische Berater"
 KMT_chi_general_staff_wargaming:0	"Chinesischer Generalstab"
- ## 3/2/2018 ##
 KMT_camco_assembly_plants_1:0	"CAMCO Montagewerke"
 KMT_camco_assembly_plants_2:0	"CAMCO-Montagewerke"
 KMT_camco_assembly_plants_3:0	"CAMCO Montagewerke"
 KMT_camco_assembly_plants_4:0	"CAMCO Montagewerke"
- ## 11/2/2018 ##
 KMT_the_hump_idea:0	"Der Buckel"
 KMT_burma_road_idea:0	"Burma-Straße"
 KMT_ledo_road_idea:0	"Ledo-Straße"
 KMT_yunnan_bahn_idea:0	"Yunnan-Haiphong-Eisenbahn"
- ## 9/3/2018 ##
 KMT_jiangnan_shipyard_group:0	"Jiangnan-Werft-Gruppe"
- ## 14/3/2018 ##
 KMT_assistance_to_CHI:0	"Unterstützung für China"
- ## 15/2/2018 ## ""
- ## 15/2/2018 ##
+
+
 KMT_the_hump_idea_close_desc:0	"Der Hump ist nun nicht mehr verfügbar. Wenn wir keine andere Route für ausländische Lieferungen finden, müssen wir uns damit begnügen."
+
 KMT_burma_road_idea_close_desc:0	"Die Burma Road ist ab sofort nicht mehr verfügbar. Solange wir keine andere Route für den Nachschub aus dem Ausland finden, müssen wir uns damit begnügen."
+
 KMT_ledo_road_idea_close_desc:0	"Die Ledo Road ist nun nicht mehr verfügbar. Wenn wir keine andere Route für ausländische Lieferungen finden, müssen wir uns damit begnügen."
+
 KMT_yunnan_bahn_idea_close_desc:0	"Die Eisenbahn ist jetzt nicht mehr verfügbar. Solange wir keine andere Route für den Nachschub aus dem Ausland finden, müssen wir uns damit begnügen."
+
 KMT_burma_road_idea_desc:0	"Die Burma Road ist eine Landversorgungsroute von Lashio nach Kunming."
+
 KMT_yunnan_bahn_idea_desc:0	"Die Yunnan-Haiphong-Eisenbahn ist eine Landversorgungsroute von Haiphong nach Yunnan."
- ## 17/3/2018 ##
+
 KMT_EFFICIENT_INTEGRATION:0	"Effiziente Integration"
+
 KMT_MILITIAS_DISBANDED:0	"Milizen aufgelöst"
+
 KMT_EFFICIENT_INTEGRATION_DESC:0	"Die reibungslose und effiziente Integration der Streitkräfte des Kriegsherrn gibt uns mehr Kontrolle über das Militär und eine schnellere Entscheidungsfindung."
+
 KMT_MILITIAS_DISBANDED_DESC:0	"Die lose organisierten Milizen, die während der Revolution gegen das alte Regime entstanden sind, wurden aufgelöst. Die allgemeine Kampfkraft unserer Streitkräfte hat zugenommen."
+
 KMT_FOCUS_ON_CENTRAL_ARMY_IDEA:0	"Konzentration auf die Zentralarmee"
+
 KMT_FACTIONALISM_ENCOURAGED:0	"Faktionalismus wird gefördert"
+
 KMT_focus_on_own_army_desc:0	"[Root.GetFocusOnOwnArmyIdeaDesc]"
+
 KMT_FACTIONALISM_ENCOURAGED_DESC:0	"Obwohl die Fraktionsbildung innerhalb unserer Armee die Durchführung gut koordinierter Operationen verhindert, würden die Soldaten der einzelnen Cliquen auf dem Schlachtfeld härter kämpfen, um die lukrativen Belohnungen zu erhalten, die wir anbieten."
+
 KMT_warlord_cliques_war:0	"[Root.GetWarlordArmyName]"
+
 KMT_FACTIONS_WITHIN_THE_ARMY:0	"Fraktionen innerhalb der Armee"
+
 KMT_warlord_cliques_war_desc:0	"[Root.GetWarlordArmyDesc]"
+
 KMT_FACTIONS_WITHIN_THE_ARMY_DESC:0	"Mächtige Figuren in der Armee haben Cliquen gebildet, um ihre Positionen zu sichern. Obwohl sie keine Bedrohung für unsere Herrschaft darstellen, haben Konflikte zwischen den Cliquen zu Schwierigkeiten bei der Koordinierung militärischer Operationen geführt."
+
 KMT_has_sun_li_jen_tt:0	"Setzen Sie §YSun Li-jen§! als General ein."
+
 KMT_has_chen_shaokuan_tt:0	"Nehmt §YChen Shaokuan§! als Marinekommandeur"
- ## 11/4/2018 ##
+
 KMT_cadet_in_GER_idea_sf:0	"Heereskadett in der Deutschen Militärakademie - Überlegene Feuerkraft"
+
 KMT_cadet_in_GER_idea_ma:0	"Heereskadett in der Deutschen Militärakademie - Massenangriff"
+
 KMT_cadet_in_GER_idea_ti:0	"Marinekadett in der Militärakademie - Handelsverbote"
+
 KMT_cadet_in_GER_idea_sd:0	"Luftkadett in der Militärakademie - Strategische Zerstörung"
+
 KMT_cadet_in_GER_idea_oi:0	"Luftkadett in der Militärakademie - Operation Integrität"
- ## 30/5/2018 ##
+
 KMT_defectors_PRC_desc:0	"Unsere Weigerung, dass [From.GetRulingParty] lokale Beamte in [Root.Capital.GetName] ersetzt, hat zu bewaffneten Konflikten geführt, und unsere Männer sind nicht bereit, die Feinde zu bekämpfen, einige sind sogar zur anderen Seite übergelaufen.\n\n§RDieser nationale Geist wird erst erlöschen, wenn man sich nicht mehr im Krieg befindet§!"
- ## 05/07/2018 ##
+
 PRC_zel_left:0	"Zhou Enlai hat uns verlassen"
 
-
- ### slots stuff ###
 aware_unavailable_idea_desc:0	"Dieser Mechaniker ist für Ihr Land (noch)\n nicht verfügbar"
-cg_true:0	"Ist die Zentralregierung von China"
-central_gov_binary:0	"Status der Zentralregierung"
-jap_aware_0_desc:0	"Die Japaner wissen nichts von unserem Plan.\n"
-KMT_8_warlords_tt:0	"Es gibt mindestens 8 Kriegsherren\n"
-KMT_6_warlords_tt:0	"Es gibt höchstens 6 Kriegsherren\n"
-KMT_4_warlords_tt:0	"Es gibt höchstens 4 Kriegsherren\n"
-KMT_2_warlords_tt:0	"Es gibt höchstens 2 Kriegsherren\n"
-KMT_no_warlords_tt:0	"Es gibt keine Kriegsherren\n"
-cu_cg_warlords_7:0	"Kriegsherren-Cliquen"
-cu_cg_warlords_5:0	"Kriegsherren-Cliquen"
-cu_cg_warlords_3:0	"Kriegsherr Cliquen"
-cu_cg_warlords_1:0	"Kriegsherren-Cliquen"
-cg_warlords_ssc:0	"Sheng-Shicai-Clique"
-cg_communist_resistence:0	"Kommunistischer Widerstand"
-china_unification:0	"Kriegsherren"
-cu_unified:0	"Vereinigtes China"
-cu_communist_resistence:0	"Kommunistischer Widerstand"
- ## 19/11/2017 ## ""
- ## 19/11/2017 ##
-KMT_li_xiangyang:0	"Li Hsiang-yang"
-KMT_gui_yongqing:	"Gui Yongqing"
-KMT_soong_ml:0	"Soong Mei-ling"
-KMT_chen_lifu:0	"Chen Lifu"
- ## 19/12/2017 ##
 
- ### diplomacy ###
+cg_true:0	"Ist die Zentralregierung von China"
+
+central_gov_binary:0	"Status der Zentralregierung"
+
+jap_aware_0_desc:0	"Die Japaner wissen nichts von unserem Plan.\n"
+
+KMT_8_warlords_tt:0	"Es gibt mindestens 8 Kriegsherren\n"
+
+KMT_6_warlords_tt:0	"Es gibt höchstens 6 Kriegsherren\n"
+
+KMT_4_warlords_tt:0	"Es gibt höchstens 4 Kriegsherren\n"
+
+KMT_2_warlords_tt:0	"Es gibt höchstens 2 Kriegsherren\n"
+
+KMT_no_warlords_tt:0	"Es gibt keine Kriegsherren\n"
+
+cu_cg_warlords_7:0	"Kriegsherren-Cliquen"
+
+cu_cg_warlords_5:0	"Kriegsherren-Cliquen"
+
+cu_cg_warlords_3:0	"Kriegsherr Cliquen"
+
+cu_cg_warlords_1:0	"Kriegsherren-Cliquen"
+
+cg_warlords_ssc:0	"Sheng-Shicai-Clique"
+
+cg_communist_resistence:0	"Kommunistischer Widerstand"
+
+china_unification:0	"Kriegsherren"
+
+cu_unified:0	"Vereinigtes China"
+
+cu_communist_resistence:0	"Kommunistischer Widerstand"
+
+
+KMT_li_xiangyang:0	"Li Hsiang-yang"
+
+KMT_gui_yongqing:	"Gui Yongqing"
+
+KMT_soong_ml:0	"Soong Mei-ling"
+
+KMT_chen_lifu:0	"Chen Lifu"
+
 PRC_SHX_refused:0	"Rückseite geschützt"
+
 CHI_join_britain_rejected:0	"Fraktionsbeitritt abgelehnt"
+
 never_like_them_anyway:0	"Ich mag sie sowieso nicht"
+
 tolerance:0	"Duldung"
+
 SOV_CHI_join_comintern_reject:0	"Abgelehnter Beitritt Chinas zur Komintern"
- ## 7/7/2016 ## ""
- ## 7/7/2016 ##
- ## 8/7/2016 ##
+
+
 hk_kept:0	"Hongkong Beibehalten"
- ## 22/8/2016 ## ""
- ## 22/8/2016 ##
+
+
 jap_friendship_trade:0	"Fokus Japan Diplomatie"
+
 still_border_dispute:0	"Grenzkonflikt"
+
 aggresion:0	"Aggression"
- ## 27/8/2016 ##
+
 hk_kept_tp:0	"Hongkong Beibehalten"
- ## 6/10/2016 ## ""
- ## 6/10/2016 ##
+
+
 liberator_of_korea:0	"Befreier von Korea"
- ## 19/10/2016 ##
- ## 20/10/2016 ## Tomorrow I can play Civ VI!!! ""
- ## 20/10/2016 ## Tomorrow I can play Civ VI!!!
+
+
 more_sino_german_coop:0	"Mehr deutsch-chinesische Zusammenarbeit"
- ## 4/11/2016 ##
- ## 6/11/2016 ## ""
- ## 6/11/2016 ##
+
+
 KMT_trans_pacific_friendship:0	"China Diplomatischer Fokus"
- ## 15/11/2016 ##
- ## 3/1/2017 ## ""
- ## 3/1/2017 ##
- ## 9/3/2017 ## ""
- ## 9/3/2017 ##
+
+
+
 KMT_doolittle_pilots_given_to_JAP:0	"Übergabe des Piloten an Japan"
+
 KMT_doolittle_pilots_detained_SOV:0	"Pilot inhaftiert"
+
 KMT_doolittle_pilots_help:0	"Geholfene Piloten"
- ## 20/4/2017 ## ""
- ## 20/4/2017 ##
+
+
 KMT_disobedience:0	"Ungehorsam"
- ## 23/4/2017 ##
+
 KMT_xian_incident_sov_pos_trade:0	"Xi'an-Zwischenfall"
+
 KMT_xian_incident_sov_neg_trade:0	"Xi'an-Zwischenfall"
- ## 6/6/2017 ##
- ## 16/6/2017 ## ""
- ## 16/6/2017 ##
- ## 31/8/2017 ## ""
- ## 31/8/2017 ##
+
+
+
 KMT_damaged_colonial_interest:0	"Beschädigte koloniale Interessen"
- ## 1/9/2017 ##
- ## 11/10/2017 ## ""
- ## 11/10/2017 ##
+
+
 gzw_demo_kpt:0	"Guangzhouwan Beibehalten"
- ## 14/10/2017 ## ""
- ## 14/10/2017 ##
- ## 1/1/2018 ## ""
- ## 1/1/2018 ##
- ## 22/1/2018 ## ""
- ## 22/1/2018 ##
+
+
+
+
 KMT_not_offered_assistance:0	"Verweigerte weitere Zusammenarbeit"
- ## 12/2/2018 ##
+
 KMT_ledo_road_om:0	"Bau der Ledo-Straße"
- ## 4/3/2018 ##
+
 KMT_recognise_rival_government_trade:0	"Anerkannte rivalisierende Regierung"
 
- ### flag ###
 baihua_completed:0	"Die Kampagne ist beendet"
+
 CHI_warred_with_JAP:0	"Der Krieg mit Japan ist beendet"
+
 PRC_refuse_yangtze_partisan:0	"Jangtse-Teilung abgelehnt"
+
 jap_civil_war_sf:0	"Der japanische Bürgerkrieg ist ausgebrochen"
- ## 2/1/2017 ## ""
- ## 2/1/2017 ##
- ## 4/2/2017 ## ""
- ## 4/2/2017 ##
+
+
+
 jyut_generals_defected:0	"Übergelaufen zur KMT"
+
 chen_jitang_join_gxc:0	"Chen Jitang hat sich uns angeschlossen"
- ## 10/4/2017 ##
+
 KMT_central_gov_capital:0	"Ist die Hauptstadt der Zentralregierung"
- ## 12/4/2017 ##
+
 xsm_sumitted:0	"Xi Bei San Ma hat vorgelegt"
+
 yun_sumitted:0	"Yunnan hat vorgelegt"
+
 kmt_cjt_flag:0	"Chen Jitang hat sich unserer Armee angeschlossen"
+
 kmt_mbf_flag:0	"Ma Bufang hat sich unserer Armee angeschlossen"
+
 kmt_ly_flag:0	"Long Yun hat sich unserer Armee angeschlossen"
+
 KMT_cjt_tt:0	"Chen Jitang ist der Anführer der Yue-Clique"
+
 KMT_lzr_tt:0	"Li Zongren ist der Anführer der Guangxi Clique"
+
 KMT_yxs_tt:0	"Yan Xishan ist der Anführer von Shanxi"
+
 KMT_zhu_de_joined:0	"Zhu De hat sich uns angeschlossen"
- ## 1/9/2017 ##
- ## 14/10/2017 ## ""
- ## 14/10/2017 ##
- ## 5/1/2018 ## ""
- ## 5/1/2018 ##
+
+
+
 KMT_slj_unavailable:0	"Sun Li-jen ist nicht verfügbar"
+
 KMT_hyq_executed:0	"Neutralisiert"
+
 KMT_chiang_dead:0	"Verstorben"
+
 KMT_pro_japanese_coup:0	"Die pro-japanische Fraktion hat die Macht ergriffen"
- ## 6/1/2018 ## ""
- ## 6/1/2018 ##
+
+
 KMT_integrated_prc:0	"Integrierte KPCh"
- ## 8/1/2018 ##
- ## 22/1/2018 ## ""
- ## 22/1/2018 ##
+
+
 KMT_clamp_corruption:0	"Korruption eindämmen"
+
 KMT_end_corruption:0	"Der Korruption ein Ende setzen"
 
 
- ### misc ###
 kmt_tibet_add_to_faction_if_any:0	"§YTibet§! tritt der Fraktion bei, wenn §Y[Root.GetName]§! in einer Fraktion ist und der Fraktionsvorsitzende ist.\n"
+
 kmt_coastal_bunker_zhej_tt:0	"Füge §Y2 Küstenfestungen§! in §YHangzhou§!, §YNingbo§! und §YWenzhou§! hinzu."
+
 kmt_coastal_bunker_fj_tt:0	"Hinzufügen von §Y2 Küstenforts§! in §YXiamen§! und §YFuzhou§!\n"
+
 tactic_dtd_operation_attack:0	"Flankierendes Manöver"
+
 KMT_krupp:0	"Krupp"
+
 the_peoples_tutelage:0	"Die Volksmundschaft"
+
 KMT_mauser:0	"Mauser"
+
 KMT_hanyang_arsenal_tank:0	"Hanyang Arsenal"
+
 true_marxist_lennenist:0	"True Marxist Leninist" 
+
 JAP_toseiha_trait:0	"Toseiha an der Macht"
+
 JAP_kodoha_trait:0	"Kodoha An der Macht"
+
 JAP_kodoha:0	"Kodoha"
+
 JAP_taiseiyokusankai:0	"Taisei Yokusankai"
+
 autonomy_warlords:0	"Kriegsherr"
+
 YUT_neutrality:0	"Yue-Klüngel"
+
 YUT_neutrality_ADJ:0	"Kantonesisch"
+
 YUT_fascism_DEF:0	"Der Großkanton-Staat"
+
 YUT_communism:0	"Kanton-Gemeinde"
+
 YUT_communism_ADJ:0	"Kantonesisch"
+
 YUT_democratic_DEF:0	"Die Kantonische Republik"
+
 KMT_blueshirt:0	"Blauhemden"
+
 anti_chiang:0	"Vereinigte Anti-Chiang-Front"
+
 hanyang_rifles:0	"Hanyang-Gewehre"
+
 KMT_CPWDP:0	"CPWDP"
+
 rommel_of_the_east:0	"Rommel des Ostens"
+
 RYU_neutrality_DEF:0	"Das Königreich Ryukyu"
+
 RYU_fascism:0	"Reich der Drei Berge"
+
 RYU_fascism_ADJ:0	"Ryukyuan"
+
 RYU_communism_DEF:0	"Die Ryukyu-Gemeinde"
+
 RYU_democratic:0	"Republik Ryukyu"
+
 RYU_democratic_ADJ:0	"Ryukyu"
+
 CentralGov_democratic_DEF:0	"Die Republik China"
+
 CentralGov_communism_DEF:0	"Die Volksrepublik China"
+
 CentralGov_fascism_DEF:0	"Das Chinesische Kaiserreich"
+
 CentralGov_neutrality_DEF:0	"China"
+
 CKSclique_democratic_DEF:0	"Die Nationale Revolutionsarmee"
+
 CKSclique_communism_DEF:0	"Die Kommune des chinesischen Volkes"
+
 CKSclique_fascism_DEF:0	"Die Blauhemden"
+
 CKSclique_neutrality_DEF:0	"Die Kuomintang"
+
 XIA_neutrality:0	"Hunan-Klüngel"
+
 XIA_neutrality_ADJ:0	"Hunaner"
+
 XIA_fascism_DEF:0	"Das Kaiserreich Hunan"
+
 XIA_communism:0	"Kommune Hunan"
+
 XIA_communism_ADJ:0	"Hunanisch"
+
 XIA_democratic_DEF:0	"Die Republik Hunan"
+
 SCC_neutrality:0	"Die Sichuan-Clique"
+
 SCC_neutrality_ADJ:0	"Sichuanisch"
+
 SCC_fascism_DEF:0	"Der Shu-Staat"
+
 SCC_communism:0	"Volkskommune Sichuan"
+
 SCC_communism_ADJ:0	"Sichuanisch"
+
 SCC_democratic_DEF:0	"Der Demokratische Staat von Sichuan"
+
 QIA_neutrality:0	"Guizhou-Klüngel"
+
 QIA_neutrality_ADJ:0	"Guizhou"
+
 QIA_fascism_DEF:0	"Der nationalistische Staat von Guizhou"
+
 QIA_communism:0	"Anarchistisches Guizhou"
+
 QIA_communism_ADJ:0	"Guizhou"
+
 QIA_democratic_DEF:0	"Die Republik Guizhou"
+
 QIA_neutrality_party:0	"Guizhou-Klüngel"
+
 ZXL_neutrality_DEF:0	"Die nordöstliche Armee"
+
 ZXL_fascism:0	"Fengtian-Reich"
+
 ZXL_fascism_ADJ:0	"Fengtian"
+
 ZXL_communism_DEF:0	"Die Kommune Fengtian"
+
 ZXL_democratic:0	"Die Republik Fengtian"
+
 ZXL_democratic_ADJ:0	"Fengtian"
+
 SDC_neutrality_DEF:0	"Die Shandong-Clique"
+
 SDC_fascism:0	"Freistaat Shandong"
+
 SDC_fascism_ADJ:0	"Shandong"
+
 SDC_communism_DEF:0	"Die Volksrepublik Shandong"
+
 SDC_democratic:0	"Demokratischer Staat Shandong"
+
 SDC_democratic_ADJ:0	"Shandong"
+
 kmt_mod_slot:0	"Mod-Inhalt"
+
 PRC_communists_china:0	"Chinesische Kommunisten"
+
 KMT_opportunitist_trait:0	"Opportunistisch"
+
 KMT_lzr_defensive_focus:0	"Defensiver Fokus"
+
 north_west_insurgence:0	"Aufstand im Nordwesten"
+
 TWKMT_neutrality_DEF:0	"Die Republik China"
+
 TWKMT_democratic:0	"Republik China"
+
 TWKMT_democratic_ADJ:0	"Taiwanesisch"
+
 TWKMT_communism_DEF:0	"Die Kommune Taiwan"
+
 TWKMT_fascism:0	"Unabhängiger Staat Formosa"
+
 TWKMT_fascism_ADJ:0	"Taiwanesische"
+
 custom_diff_strong_warlords:0	"Stärkung der chinesischen Warlords"
+
 SKC_neutrality_DEF:0	"Die Xikang-Armee"
+
 SKC_communism:0	"Xikang-Kommune"
+
 SKC_communism_ADJ:0	"Xikang"
+
 SKC_democratic_DEF:0	"Der Demokratische Staat Xikang"
+
 SKC_fascism:0	"Staat Xikang"
+
 SKC_fascism_ADJ:0	"Xikang"
+
 WAR_NAME_PRC_CHI:0	"Chinesischer Bürgerkrieg"
+
 WAR_NAME_CHI_HYQ:0	"Chinesischer Bürgerkrieg"
+
 inspirational_leader_slj:0	"Charismatisch"
+
 organisational_leader_slj:0	"Organisation zuerst"
+
 HCAC_fascism:0	"Autonomer Rat der Hopeh-Chahar"
+
 KMT_new_line_tt:0	"\n\n"
+
 KMT_new_cpc:0	"Neue Kommunistische Partei Chinas"
- ## 5/1/2018 ## ""
- ## 5/1/2018 ##
+
+
 KMT_geologist:0	"Geologe"
- ## 6/1/2018 ## ""
- ## 6/1/2018 ##
+
+
 KMT_arrogant_capitalist:0	"Arroganter Kapitalist"
- ## 21/1/2018 ##
+
 mobile_tank:0	"Designer für mobile Panzer"
- ## 22/1/2018 ## ""
- ## 22/1/2018 ##
+
+
 KMT_generalissimo_dictator:0	"Diktator"
- ## 23/1/2018 ##
+
 KMT_naval_aviation_trait:0	"Seeluftfahrt"
- ## 31/1/2018 ##
+
 KMT_camco_fighter_manufacturer:0	"Hersteller von Kampfflugzeugen"
- ## 12/3/2018 ## ""
- ## 12/3/2018 ##
- ## 15/3/2018 ## ""
- ## 15/3/2018 ##
+
+
+
 DPK_neutrality_DEF:0	"Das Joseon-Königreich"
+
 DPK_communism:0	"Demokratische Volksrepublik Korea"
+
 DPK_communism_ADJ:0	"Joseon"
+
 DPK_democratic_DEF:0	"Die Republik Joseon"
+
 DPK_fascism:0	"Kaiserreich Joseon"
+
 DPK_fascism_ADJ:0	"Joseon"
+
 DPK_communism_party:0	"WPK"
+
 KMTKOR_communism:0	"Syndikalistischer koreanischer Staat"
+
 KMTKOR_communism_ADJ:0	"Koreanisch"
+
 KMTKOR_democratic_DEF:0	"Die Republik Korea"
+
 KMTKOR_fascism:0	"Daehan Jeguk"
+
 KMTKOR_fascism_ADJ:0	"Koreanisch"
+
 KMTKOR_neutrality_DEF:0	"Goryeo"
- ## 13/4/2018 ## ""
- ## 13/4/2018 ##
- ## 14/4/2018 ## ""
- ## 14/4/2018 ##
+
+
+
 KMT_cks_generalissimo_desc:0	"Der Generalissimo ist der oberste Chef der Armee, der Marine und der Luftwaffe unserer Nation."
 
- ### state ###
 Ryukyu_shuri_capital:0	"Shuri"
+
 VICTORY_POINTS_12074:0	"Weifang"
+
 VICTORY_POINTS_12069:0	"Jining"
+
 VICTORY_POINTS_12067:0	"Yancheng"
+
 VICTORY_POINTS_1168:0	"Taizhou"
+
 VICTORY_POINTS_9963:0	"Yangjiang"
+
 VICTORY_POINTS_10057:0	"Ji'an"
+
 VICTORY_POINTS_10040:0	"Suzhou"
+
 VICTORY_POINTS_4519:0	"Nanyang"
+
 VICTORY_POINTS_1034:0	"Linfen"
+
 VICTORY_POINTS_10474:0	"Xiangyang"
+
 VICTORY_POINTS_10757:0	"Yichang"
+
 VICTORY_POINTS_12436:0	"Hechi"
+
 VICTORY_POINTS_10763:0	"Zunyi"
+
 VICTORY_POINTS_1976:0	"Xi'an"
+
 VICTORY_POINTS_12880:0	"Bayan Nur"
+
 VICTORY_POINTS_8127:0	"Alxa"
+
 VICTORY_POINTS_12327:0	"Wuwei"
+
 VICTORY_POINTS_8126:0	"Deqen"
+
 VICTORY_POINTS_11986:0	"Quanzhou"
+
 VICTORY_POINTS_6837:0	"Huludao"
+
 VICTORY_POINTS_934:0	"Chaoyang"
+
 VICTORY_POINTS_4503:0	"Songyuan"
+
 VICTORY_POINTS_1627:0	"Hinggan"
+
 VICTORY_POINTS_1588:0	"Qiqihar"
+
 VICTORY_POINTS_11906:0	"Mudanjiang"
+
 VICTORY_POINTS_4823:0	"Altay"
+
 VICTORY_POINTS_7792:0	"Bayingol"
+
 VICTORY_POINTS_5080:0	"Nagqu"
+
 VICTORY_POINTS_10397:0	"Zhangjiakou"
+
 VICTORY_POINTS_1395:0	"Chengdu"
+
 VICTORY_POINTS_7648:0	"Xilin Gol"
+
 VICTORY_POINTS_12819:0	"Leshan"
+
 VICTORY_POINTS_1474:0	"Tongren"
+
 VICTORY_POINTS_10144:0	"Ankang"
+
 VICTORY_POINTS_2067:0	"Ya'an"
+
 VICTORY_POINTS_12014:0	"Shaoguan"
+
 dare_to_die_corps:0	"Korps der Todesmutigen"
+
 KMT_yenan_rom:0	"Yenan"
+
 KMT_4181_postal:0	"Lini"
+
 KMT_7109_postal:0	"Paoting"
+
 KMT_1168_postal:0	"Taichow"
+
 KMT_7108_postal:0	"Tungkuan"
+
 KMT_7067_postal:0	"Schwaben"
+
 KMT_11920_postal:0	"Kingwha"
+
 KMT_10040_postal:0	"Suchow"
+
 KMT_7158_postal:0	"Tatung"
+
 KMT_7167_postal:0	"Siaokan"
+
 KMT_12436_postal:0	"Hochi"
+
 KMT_1018_postal:0	"Yamchow"
+
 KMT_11972_postal:0	"Luchow"
+
 KMT_1976_postal:0	"Sian"
+
 KMT_7911_postal:0	"Tenshui"
+
 KMT_2028_postal:0	"Kiuchuan"
+
 KMT_11986_postal:0	"Chinchew"
+
 KMT_4809_postal:0	"Da Shingan Ling"
+
 KMT_4503_postal:0	"Sungyun"
+
 KMT_10612_postal:0	"Manchowli"
+
 KMT_1545_postal:0	"Kiamusze"
+
 KMT_10397_postal:0	"Kalgan"
+
 KMT_1395_postal:0	"Chengtu"
+
 KMT_1474_postal:0	"Tungjen"
+
 KMT_8049_postal:0	"Fusze"
+
 KMT_9942_postal:0	"Kanchow"
+
 KMT_7191_postal:0	"Hangchow"
+
 KMT_4196_postal:0	"Foochow"
+
 KMT_1047_postal:0	"Kanton"
+
 KMT_7965_postal:0	"Tali"
+
 KMT_7101_postal:0	"Changteh"
+
 KMT_9958_postal:0	"Chengchow"
+
 KMT_4495_postal:0	"Tolun"
+
 KMT_1150_postal:0	"Dairen"
+
 KMT_10000_postal:0	"Tsingtao"
+
 KMT_6837_postal:0	"Hulutao"
+
 KMT_11822_postal:0	"Tungchow"
+
 KMT_1070_postal:0	"Haikow"
+
 KMT_postal_STATE_757:0	"Tsinan"
+
 KMT_postal_STATE_760:0	"Kanchow"
+
 KMT_postal_STATE_763:0	"Schiukwan"
+
 KMT_postal_STATE_753:0	"Nord Shingan"
+
 KMT_postal_STATE_608:0	"Peiping"
+
 KMT_postal_STATE_622:0	"Shensi"
+
 KMT_postal_STATE_597:0	"Halbinsel Shantung"
+
 KMT_postal_STATE_607:0	"Honan"
+
 KMT_postal_STATE_613:0	"Schanghai"
+
 KMT_postal_STATE_595:0	"Fukien"
+
 KMT_postal_STATE_592:0	"Kanton"
+
 KMT_postal_STATE_600:0	"Kiangsi"
+
 KMT_postal_STATE_605:0	"Szechwan"
+
 KMT_postal_STATE_601:0	"Sikang"
+
 KMT_postal_STATE_745:0	"Ichang"
+
 KMT_postal_STATE_616:0	"Ningsia"
+
 KMT_postal_STATE_604:0	"Tsinghai"
+
 KMT_postal_STATE_728_returned:0	"Tsamkong"
+
 KMT_STATE_728_returned:0	"Zhanjiang"
+
 KMT_shenyang:0	"Shenyang"
+
 KMT_shandong_peninsula:0	"Halbinsel Shandong"
+
 KMT_kanto_shu:0	"Kanto-shu"
- #STATE_763:0 "Shaoguan"
- #STATE_764:0 "Deqen"
- #STATE_765:0 "Wuhan"
- #STATE_766:0 "Myitkyina"
- #STATE_767:0 "East Xing'an"
- #STATE_768:0 "East Chahar"
- #STATE_769:0 "Shanghai"
- #STATE_770:0 "Jinan"
- #STATE_771:0 "Nanyang"
- #STATE_772:0 "Xiangyang"
- #STATE_773:0 "Ganzhou"
- #STATE_774:0 "Ji'an"
- #STATE_775:0 "Huaihua"
+
 KMT_2099_postal:0	"Tulan"
+
 KMT_10490_postal:0	"Kweiteh"
 
 
- ####################################
- #      FOR TESTING PURPOSES        #
- ####################################
 KMT_VIN_v_test:0	"[?VIN.KMT_spread_revolution_int_match_check]"
+
 KMT_test_desc:0	"tägliche Erhöhung [?Root.KMT_subject_num]"
+
 autonomy_warlord:0	"Kriegsherr"
+
 develop_suiyuan_resources:0	"Deutsche Expertise für die Entwicklung von Suiyuan nutzen"
+
 develop_shanxi_resources:0	"Deutsche Expertise für die Entwicklung von Shanxi nutzen"
+
 develop_hubei_resources:0	"Einsatz von German Expertise für die Entwicklung von Hubei"
+
 develop_yulin_resources:0	"Nutzen Sie German Expertise für die Entwicklung von Nanjing"
+
 develop_guangdong_resources:0	"Nutzung von German Expertise zur Entwicklung von Guangdong"
+
 develop_changde_resources:0	"Nutzen Sie deutsches Know-how für die Entwicklung von Changde"
+
 CHI_improve_industy:0	"Verbessern Sie unsere Industrie"
+
 CHI_chinese_tribute:0	"Republikanische Industrie"
+
 KMT_HOL_friend:0	"Niederländischer Schiffbau"
+
 KMT_ITA_friend:0	"Polizeiausbildung in Tientsin"
 
- 
 
- 
- #### more
+
 CHI_military_first:0	"Militärische Erste"
+
 KMT_cadet_in_GER_idea_fib:0	"Kadetten in Deutschland"
+
 KMT_jz_anti_communism_campaign:0	"Jz Anti-Kommunismus-Kampagne"
+
 KMT_promote_pro_jap_idea:0	"Förderung pro-japanischer Ideen"
+
 KMT_reorganising_military:0	"Reorganisation des Militärs"
- 
+
 PRC_integrate_SHX:0	"[FROM.GetName] integrieren"
+
 CHI_integrate_warlords_cost_blocked:0	"£command_power §R20§!"
-KMT_anti_communism_sentiment_spirit:0	"Antikommunistische Stimmung"|"
- 
+
+KMT_anti_communism_sentiment_spirit_desc:0	"§RWird entfernt, wenn kein Krieg gegen die Kommunisten herrscht.§!"
+KMT_assistance_to_CHI_desc:	" [CHI.GetNameDefCap] wird von den imperialistischen Ambitionen von [JAP.GetNameDef] bedroht, das sich als einzige Großmacht in Asien etablieren will, wobei alle anderen lokalen Nationen unter seinem Einfluss oder seiner Besatzung stehen sollen. Sie benötigen dringend Unterstützung, um ihren Widerstand fortsetzen zu können."
+KMT_the_hump_idea_closed:0	"The Hump (Nicht verfügbar)"
+KMT_burma_road_idea_closed:0	"Burma Road (nicht verfügbar)"
+KMT_ledo_road_idea_closed:0	"Ledo Road (Nicht verfügbar)"
+KMT_yunnan_bahn_idea_closed:0	"Yunnan-Haiphong-Eisenbahn (Nicht verfügbar)"
+KMT_the_hump_idea_desc:0	"Der Hump ist eine Luftversorgungsroute durch den gefährlichen Himalaya, von Assam nach Kunming, um ausländische Hilfsgüter nach China zu fliegen und so dessen Kriegsanstrengungen zu unterstützen."
+KMT_ledo_road_idea_desc:0	"Die Ledo-Straße ist eine Landversorgungsroute von Ledo nach Kunming."
+KMT_effective_integration:0	"Effiziente Integration"
+KMT_FACTIONS_IN_ARMY_DESTROYED:0	"Fraktionen in der Armee zerschlagen"
+KMT_effective_integration_desc:0	"[Root.GetEffectiveIntegrationIdeaDesc]"
+KMT_FACTIONS_IN_ARMY_DESTROYED_DESC:0	"Früher gab es Fraktionen innerhalb unserer Armee, die die Koordination zwischen den verschiedenen Streitkräften erschwerten. Nun besteht diese Situation nicht mehr, und unsere Streitkräfte können wieder gut geplante und gut koordinierte Operationen durchführen."
+KMT_focus_on_own_army:0	"Fokus auf die Zentralarmee"
+KMT_INTEGRATE_WARLORD_FORCES_IDEA:0	"Integration der Truppen der Kriegsherren"
+KMT_MILITIA_STORMTROOPERS:0	"Miliz-Sturmtruppen"
+KMT_FOCUS_ON_CENTRAL_ARMY_IDEA_DESC:0	" Die Truppen der Kriegsherren sind zu schlecht ausgerüstet und undiszipliniert; wir sollten uns eher auf unsere Zentralarmee als auf ihre verlassen, um keine wichtigen Mittel zu verschwenden."
+KMT_MILITIA_STORMTROOPERS_DESC:0	"Die unterdurchschnittliche Kampfkraft der Milizen macht sie unterlegen, wenn sie allein agieren. Als Sturmtruppen an der Front können sie uns jedoch dabei helfen, unsere Feinde zu zermürben, bevor unsere regulären Streitkräfte eingreifen und den endgültigen Schlag versetzen."
+KMT_WARLORD_ARMIES:0	"Armeen der Kriegsherren"
+KMT_MILITIAS:0	"Milizen"
+KMT_WARLORD_ARMIES_DESC:0	"Obwohl sich die Armeen der Kriegsherren in unsere integriert haben, sind sie offensichtlich nur ihrem Herrn treu."
+KMT_MILITIAS_DESC:0	"Lokale Bauern und Arbeiter haben Milizgruppen gebildet, um unsere Sache zu unterstützen. Diese Einheiten verfügen jedoch nur über geringe Kampffähigkeiten und lösen manchmal sogar Konflikte mit unseren regulären Streitkräften aus."
+KMT_has_tu_yu_ming_tt:0	"Haben Sie §YTu Yu-ming§! als General"
+KMT_cadet_in_GER_idea_mw:0	"Armee-Kadett an der deutschen Militärakademie – Bewegliche Kriegsführung"
+KMT_cadet_in_GER_idea_gb:0	"Armee-Kadett an der deutschen Militärakademie – Großer Schlachtplan"
+KMT_cadet_in_GER_idea_fiv:0	"Marine-Kadett an der deutschen Militärakademie – Flotte im Aufbau"
+KMT_cadet_in_GER_idea_bs:0	"Marinekadett an der deutschen Militärakademie – Basisangriff"
+KMT_cadet_in_GER_idea_battlefield_support:0	"Luftwaffenkadett an der deutschen Militärakademie – Unterstützung auf dem Schlachtfeld"
+KMT_defectors_PRC:0	"Überläufer"
+KMT_zhou_enlai_joined:0	"Zhou Enlai hat sich uns angeschlossen"
+aware_unavailable_idea:0	"Nicht verfügbar"
+cg_false:0	"Ist nicht die Zentralregierung Chinas"
+jap_awareness:0	"Japanisches Bewusstsein"
+jap_aware_0:0	"Unbewusst"
+cg_true_low:0	"Geringe Legitimität"
+KMT_7_warlords_tt:0	"Es gibt höchstens 7 Kriegsherren"\n""
+KMT_5_warlords_tt:0	"Es gibt höchstens 5 Kriegsherren"\n""
+KMT_3_warlords_tt:0	"Es gibt höchstens 3 Kriegsherren\n"
+KMT_1_warlords_tt:0	"Es gibt höchstens 1 Kriegsherrn\n"
+cu_cg_warlords_all:0	"Kriegsherren-Cliquen"
+cu_cg_warlords_6:0	"Kriegsherren-Cliquen"
+cu_cg_warlords_4:0	"Kriegsherren-Cliquen"
+cu_cg_warlords_2:0	"Kriegsherren-Cliquen"
+cu_cg_warlords_0:0	"Warlords eliminiert"
+cg_displaced_warlords:0	"Verdrängter Warlord"
+cg_PRC_new_china:0	"Neues China"
+cu_not_chinese_nation:0	"Ist kein Warlord"
+cu_is_warlord:0	"Ist Warlord"
+cu_new_china:0	"Neues China"
+KMT_bai_chongxi:0	"Bai Chongxi"
+KMT_hsueh_yueh:0	"Xue Yue"
+KMT_tu_yu_ming:0	"Du Yuming"
+KMT_soong_tv:0	"T.V. Soong"
+KMT_SHX_refused:0	"Angebot abgelehnt"
+no_collaboration_with_CHI_COM:0	"Angriff auf die VR China"
+false_document_trusted:0	"Fälschung als echt anerkannt"
+recognition:0	"Anerkennung"
+wtever:0	"Magie!"
+KMT_commie_banned:0	"Kommunismus verboten"
+gzw_kept:0	"Guangzhouwan behalten"
+macau_kept:0	"Macau behalten"
+no_interv_in_tp:0	"Intervention abgelehnt"
+jap_friendship:0	"Fokus auf japanische Diplomatie"
+sov_better_trade:0	"Wären Sie an einem Handelsabkommen mit der Sowjetunion interessiert?"
+gzw_kept_tp:0	"Guangzhouwan behalten"
+mc_kept_tp:0	"Macau behalten"
+war_against_communist_china:0	"Krieg gegen das kommunistische China"
+ignore_claim:0	"Unsere Ansprüche auf Indochina ignoriert"
+sino_german_cooperation:0	"Chinesisch-deutsche Zusammenarbeit"
+GER_CHI_join_germany_reject:0	"Chinas Beitritt zur Achse abgelehnt"
+KMT_closer_to_britain:0	"Diplomatischer Fokus auf China"
+KMT_sino_japanes_friendship:0	"Chinesisch-japanische Freundschaft"
+pro_jap_traitor:0	"Pro-japanischer Verräter"
+KMT_doolittle_pilots_help_arrest:0	"Auslieferung eines amerikanischen Piloten"
+KMT_doolittle_pilots_help_JAP_reaction:0	"Hilfe für amerikanischen Piloten"
+KMT_doolittle_pilots_detained:0	"Pilot inhaftiert"
+KMT_assist_in_war:0	"Doolittle-Raid"
+KMT_discontent:0	"Unzufriedenheit"
+KMT_xian_incident_sov_pos:0	"Zwischenfall von Xi’an"
+KMT_xian_incident_sov_neg:0	"Zwischenfall von Xi’an"
+KMT_closer_to_britain_ENG:0	"Diplomatischer Schwerpunkt China"
+CHI_KR_fd:0	"Diplomatischer Schwerpunkt China"
+KMT_indochina_liberator:0	"Befreier"
+KMT_returned_indochina:0	"Indochina zurückerobert"
+mc_demo_kpt:0	"Macau behalten"
+hk_demo_kpt:0	"Hongkong behalten"
+KMT_SOV_neutrality_pact:0	"Chinesisch-sowjetischer Nichtangriffspakt"
+boycott_comitern:0	"Gegensätzliche politische Ansichten"
+KMT_offered_assistance:0	"Zusammenarbeit"
+KMT_the_hump_om:0	"Der Hump"
+KMT_recognise_rival_government:0	"Anerkannte rivalisierende Regierung"
+mao_is_greatest:0	"Abgeschlossenes Ziel: Integration der Regierung"
+full_control_by_root:0	"Wird von Ihnen kontrolliert und gehört Ihnen"
+PRC_civil_war_started:0	"Der Bürgerkrieg mit dem kommunistischen China ist ausgebrochen"
+jap_support_chi_pro_jap:0	"Japan unterstützt uns"
+KMT_any_state_chi_core_jap_own_tt:0	"Jeder chinesische Kern gehört Japan oder ist eine Marionette Japans"
+KMT_pro_japanese:0	"Unterstützte pro-japanische Fraktion in China"
+liangguang_incident:0	"Der Liangguang-Zwischenfall ist im Gange"
+huhanwen_dead:0	"Hu Hanmin ist verstorben"
+KMT_central_government_flag:0	"Ist derzeit die Zentralregierung"
+yut_sumitted:0	"Die Yue-Clique hat sich unterworfen"
+gxc_sumitted:0	"Die Guangxi-Clique hat sich unterworfen"
+shx_sumitted:0	"Shanxi hat sich unterworfen"
+kmt_lzr_flag:0	"Li Zongren hat sich unserer Armee angeschlossen"
+kmt_yxs_flag:0	"Yan Xishan hat sich unserer Armee angeschlossen"
+kmt_yhm_flag:0	"Yu Hanmou hat sich unserer Armee angeschlossen"
+KMT_yhm_tt:0	"Yu Hanmou ist der Anführer der Yue-Clique"
+KMT_mbf_tt:0	"Ma Bufang ist der Anführer von Xi Bei San Ma"
+KMT_ly_tt:0	"Long Yun ist der Anführer von Yunnan"
+KMT_li_left:0	"Li Left"
+GER_JAP_tripartite_pact_tt:0	"[JAP.GetName] hat die Annäherung an die Achsenmächte abgeschlossen und [GER.GetName] hat dies genehmigt."
+KMT_csk_unavailable:0	"Chen Shaokuan ist nicht verfügbar"
+KMT_hyq_unavailable:0	"He Yingqin ist nicht verfügbar"
+cks_killed_xian:0	"Bei dem Vorfall in Xian getötet"
+KMT_pro_jap_contacted_hyq:0	"He Yingqin kontaktiert"
+KMT_tym_unavailable:0	"Tu Yu-ming ist nicht erreichbar"
+WJW_established:0	"Das Wang-Jingwei-Regime wurde errichtet"
+KMT_red_coup_finish:0	"Die Kommunisten haben die Macht übernommen"
+KMT_purged_wjw:0	"Ausgemerzt"
+KMT_clamp_corruption_desc:0	""
+KMT_end_corruption_desc:0	""
+kmt.64.a_tt:0	"Falls sie zustimmen:"
+kmt_coastal_bunker_sd_tt:0	 "Fügen Sie §Y2 Küstenfestungen§! in §YWeihaiwei§! und §YQingdao§!|___NL003 847___|"
+kmt_coastal_bunker_sh_tt:0	"Hinzufügen §Y3 Küstenfestungen§! in §YShanghai§!\n"
+kmt_coastal_bunker_tj_tt:0	"Hinzufügen §Y2 Küstenfestungen§! in §YTianjin§!\n "
+KMT_ig_faben:0	"IG Farben"
+Hanyang_armory:0	"Hanyang-Arsenal"
+the_peoples_tutelage_desc:0	"Die Volksvormundschaft ist eine von Sun Yat-sen festgelegte Entwicklungsphase Chinas. In dieser Phase regiert die Kuomintang China als Einparteienstaat, entwickelt das Land weiter und bereitet das Volk auf die Demokratie vor."
+KMT_army_ordnance_department:0	"US Army Ordnance Department"
+german_training:0	"Deutscher Berater"
+KMT_trick_war:0	" China erklärt Japan überraschend den Krieg"
+JAP_toseiha_trait_chi_ally:0	"Toseiha an der Macht"
+JAP_kodoha_trait_chi_ally:0	"Kodoha an der Macht"
+JAP_toseiha:0	"Toseiha"
+ya_zhou_lian_meng:0	"Da Dong Ya Gong Rong Quan"
+KMT_kmt_party_name:0	"Kuomintang"
+YUT_neutrality_DEF:0	"die Yue-Clique"
+YUT_fascism:0	"Großkantonstaat"
+YUT_fascism_ADJ:0	"Kantonesen"
+YUT_communism_DEF:0	"die Kanton-Kommune"
+YUT_democratic:0	"Republik Kanton"
+YUT_democratic_ADJ:0	"Kantonesen"
+KMT_wjw:0	"Wang-Jingwei-Regime"
+taiyuan_artillery:0	"Taiyuan-Artillerie"
+CKS_regime:0	"Kuomintang"
+KMT_CPWDP_long:0	"Chinesische Demokratische Partei der Bauern und Arbeiter"
+RYU_neutrality:0	"Königreich Ryukyu"
+RYU_neutrality_ADJ:0	"Ryukyuaner"
+RYU_fascism_DEF:0	"das Reich der drei Berge"
+RYU_communism:0	"Ryukyu-Kommune"
+RYU_communism_ADJ:0	"Ryukyuaner"
+RYU_democratic_DEF:0	"die Republik Ryukyu"
+CentralGov_democratic:0	"Republik China"
+CentralGov_communism:0	"Volksrepublik China"
+CentralGov_fascism:0	"Chinesisches Reich"
+CentralGov_neutrality:0	"China"
+CKSclique_democratic:0	"Nationale Revolutionsarmee"
+CKSclique_communism:0	"Kommune des chinesischen Volkes"
+CKSclique_fascism:0	"Blaue Hemden"
+CKSclique_neutrality:0	"Kuomintang"
+anti_lzr_faction:0	"Anti-Li Zongren"
+XIA_neutrality_DEF:0	"die Hunan-Clique"
+XIA_fascism:0	"Reich von Hunan"
+XIA_fascism_ADJ:0	"Hunanesen"
+XIA_communism_DEF:0	"die Hunan-Kommune"
+XIA_democratic:0	"Republik Hunan"
+XIA_democratic_ADJ:0	"Hunanesen"
+SCC_neutrality_DEF:0	"die Sichuan-Clique"
+SCC_fascism:0	"Staat Shu"
+SCC_fascism_ADJ:0	"Shu"
+SCC_communism_DEF:0	"die Volkskommune Sichuan"
+SCC_democratic:0	"Demokratischer Staat Sichuan"
+SCC_democratic_ADJ:0	"Sichuaner"
+QIA_neutrality_DEF:0	"die Guizhou-Clique"
+QIA_fascism:0	"Nationalistischer Staat Guizhou"
+QIA_fascism_ADJ:0	"Guizhou"
+QIA_communism_DEF:0	"Anarchistisches Guizhou"
+QIA_democratic:0	"Republik Guizhou"
+QIA_democratic_ADJ:0	"Guizhou"
+ZXL_neutrality:0	" Nordostarmee"
+ZXL_neutrality_ADJ:0	"Fengtian"
+ZXL_fascism_DEF:0	"das Kaiserreich Fengtian"
+ZXL_communism:0	"Fengtian-Kommune"
+ZXL_communism_ADJ:0	"Fengtian"
+ZXL_democratic_DEF:0	"die Republik Fengtian"
+SDC_neutrality:0	"Shandong-Clique"
+SDC_neutrality_ADJ:0	"Shandong"
+SDC_fascism_DEF:0	"Freistaat Shandong"
+SDC_communism:0	"Volksrepublik Shandong"
+SDC_communism_ADJ:0	"Shandong"
+SDC_democratic_DEF:0	"Demokratischer Staat Shandong"
+warlords:0	"Kriegsherr"
+unavailable_trait:0	"Für Ihr Land (noch) nicht verfügbar"
+KMT_kmt_faction:0	"Antikommunistische Front"
+KMT_lack_public_support:0	"Fehlende Unterstützung"
+KMT_dislike_communism:0	"Ablehnung des Kommunismus"
+TWKMT_neutrality:0	"Republik China"
+TWKMT_neutrality_ADJ:0	"Taiwanesen"
+TWKMT_democratic_DEF:0	"die Republik China"
+TWKMT_communism:0	"Taiwan-Kommune"
+TWKMT_communism_ADJ:0	"Taiwanesen"
+TWKMT_fascism_DEF:0	"Der unabhängige Staat Formosa"
+custom_diff_strong_prc:0	"Stärkung des kommunistischen China"
+SKC_neutrality:0	"Xikang-Armee"
+SKC_neutrality_ADJ:0	"Xikang"
+SKC_communism_DEF:0	"die Xikang-Kommune"
+SKC_democratic:0	"Xikang-Demokratischer Staat"
+SKC_democratic_ADJ:0	"Xikang"
+SKC_fascism_DEF:0	"der Xikang-Staat"
+WAR_NAME_JAP_CHI:0	"Chinesisch-japanischer Krieg"
+WAR_NAME_CHI_PRC:0	"Chinesischer Bürgerkrieg"
+WAR_NAME_HYQ_CHI:0	"Chinesischer Bürgerkrieg"
+inspirational_leader_slj_desc:0	"Ein geborener Anführer. Männer stellen sich ihren schlimmsten Ängsten, wenn sie von einem mächtigen Anführer unterstützt werden."
+organisational_leader_slj_desc:0	"Kennt jeden Trick, um schneller als jeder andere Verstärkung zu erhalten."
+HCAC_fascism_DEF:0	"Der Autonome Rat von Hopeh-Chahar"
+KMT_coup_new_line_tt:0	"----------Pause----------\n"
+KMT_new_cpc_short:0	"NCPC"
+KMT_infrastructure_engineer:0	"Infrastrukturingenieur"
+KMT_talented_economist:0	"Begabter Ökonom"
+KMT_falkenhausen:0	"Alexander von Falkenhausen"
+infantry_support_tank:0	"Konstrukteur von Infanterie-Unterstützungspanzern"
+quantity_tank:0	"Wellen aus Stahl"
+KMT_has_same_ideo_with_ROOT_tt:0	"Hat dieselbe Ideologie wie §Y[Root.GetName]§!"
+KMT_battleship_supremacy_trait:0	"Überlegenheit der Schlachtschiffe"
+KMT_camco_null:0	"Flugzeugkompanie"
+KMT_camco_bomber_manufacturer:0	"Bomberhersteller"
+KMT_cks_generallissimo:0	"Generalissimus"
+DPK_neutrality:0	"Königreich Joseon"
+DPK_neutrality_ADJ:0	"Joseon"
+DPK_communism_DEF:0	"Demokratische Volksrepublik Korea"
+DPK_democratic:0	"Republik Joseon"
+DPK_democratic_ADJ:0	"Joseon"
+DPK_fascism_DEF:0	"Joseon-Reich"
+DPK_neutrality_party:0	"Kim-Dynastie"
+DPK_communism_party_long:0	"Arbeiterpartei Koreas"
+KMTKOR_communism_DEF:0	"der syndikalistische koreanische Staat"
+KMTKOR_democratic:0	"Republik Korea"
+KMTKOR_democratic_ADJ:0	"koreanisch"
+KMTKOR_fascism_DEF:0	"Daehan Jeguk"
+KMTKOR_neutrality:0	"Goryeo"
+KMTKOR_neutrality_ADJ:0	"Koreanisch"
+autonomy_kmt_coalition_government:0	"Koalitionsregierung"
+KMT_cks_generalissimo:0	"Generalissimus"
+Ryukyu_state:0	"Ryukyu"
+VICTORY_POINTS_1200:0	"Yantai"
+VICTORY_POINTS_4181:0	"Linyi"
+VICTORY_POINTS_7109:0	"Baoding"
+VICTORY_POINTS_1029:0	"Lianyun"
+VICTORY_POINTS_7108:0	"Dongguan"
+VICTORY_POINTS_7067:0	"Shanwei"
+VICTORY_POINTS_12019:0	"Huizhou"
+VICTORY_POINTS_10098:0	"Shangqiu"
+VICTORY_POINTS_12344:0	"Taiyuan"
+VICTORY_POINTS_7158:0	"Datong"
+VICTORY_POINTS_7167:0	"Xiaogan"
+VICTORY_POINTS_7502:0	"Hengyang"
+VICTORY_POINTS_4028:0	"Guigang"
+VICTORY_POINTS_8026:0	"Bazhong"
+VICTORY_POINTS_7314:0	"Yulin"
+VICTORY_POINTS_8081:0	"Yinchuan"
+VICTORY_POINTS_1630:0	"Lanzhou"
+VICTORY_POINTS_2028:0	"Jiuquan"
+VICTORY_POINTS_1383:0	"Pu’er"
+VICTORY_POINTS_10084:0	"Sanming"
+VICTORY_POINTS_11764:0	"Yingkou"
+VICTORY_POINTS_1567:0	"Hsinking"
+VICTORY_POINTS_1638:0	"Tongliao"
+VICTORY_POINTS_10612:0	"Manzhouli"
+VICTORY_POINTS_1545:0	"Jiamusi"
+VICTORY_POINTS_1783:0	"Karamay"
+VICTORY_POINTS_12656:0	"Urumqi"
+VICTORY_POINTS_4704:0	"Kumul"
+VICTORY_POINTS_4809:0	"Da Hinggan Ling"
+VICTORY_POINTS_11752:0	"Zhangbei"
+VICTORY_POINTS_2045:0	"Guangyuan"
+VICTORY_POINTS_9966:0	"Aba"
+VICTORY_POINTS_4999:0	"Garze"
+VICTORY_POINTS_12086:0	"Jingzhou"
+VICTORY_POINTS_12408:0	"Shiyan"
+VICTORY_POINTS_10856:0	"Qamdo"
+KMT_Nanking_state:0	"Nanjing"
+KMT_peking_rom:0	"Peking"
+KMT_1200_postal:0	"Chefoo"
+KMT_12069_postal:0	"Tsining"
+KMT_4190_postal:0	"Shihkiachwuang"
+KMT_1055_postal:0	"Wenchow"
+KMT_9963_postal:0	"Yuengkong"
+KMT_10057_postal:0	"Kian"
+KMT_10335_postal:0	"Hwaihwa"
+KMT_10098_postal:0	"Shangkiu"
+KMT_10474_postal:0	"Siangyang"
+KMT_10757_postal:0	"Ichang"
+KMT_4028_postal:0	"Kweikang"
+KMT_10763_postal:0	"Tsunyi"
+KMT_8026_postal:0	"Bachung"
+KMT_8081_postal:0	"Yuchwan"
+KMT_1630_postal:0	"Lanchow"
+KMT_1383_postal:0	"Puerh"
+KMT_3900_postal:0	"Chinwangtao"
+KMT_7633_postal:0	"Chihfeng"
+KMT_1638_postal:0	"Tungliao"
+KMT_1588_postal:0	"Tsitsihar"
+KMT_11906_postal:0	"Mutankiang"
+KMT_9938_postal:0	"Chaochow"
+KMT_2045_postal:0	"Kwuangyun"
+KMT_12086_postal:0	"Kingchow"
+KMT_12014_postal:0	"Shiukwan"
+KMT_11913_postal:0	"Nanking"
+KMT_9974_postal:0	"Ningpo"
+KMT_7071_postal:0	"Amoy"
+KMT_10404_postal:0	"Kweilin"
+KMT_4504_postal:0	"Kweiyang"
+KMT_6999_postal:0	"Chungking"
+KMT_9843_postal:0	"Peiping"
+KMT_12068_postal:0	"Kaohsiung"
+KMT_10068_postal:0	"Tientsin"
+KMT_1627_postal:0	"Shingan"
+KMT_11764_postal:0	"Yingkow"
+KMT_1069_postal:0	"Tsinan"
+KMT_12019_postal:0	"Hweichow"
+KMT_postal_STATE_759:0	"Siangyang"
+KMT_postal_STATE_761:0	"Kian"
+KMT_postal_STATE_754:0	"Ost-Shingan"
+KMT_postal_STATE_609:0	"Ost-Hopeh"
+KMT_postal_STATE_615:0	"Shansi"
+KMT_postal_STATE_752:0	"Sian"
+KMT_postal_STATE_614:0	"Hopeh"
+KMT_postal_STATE_598:0	"Kiangsu"
+KMT_postal_STATE_596:0	"Chekiang"
+KMT_postal_STATE_593:0	"Kwangtung"
+KMT_postal_STATE_599:0	"Kwangsi"
+KMT_postal_STATE_603:0	"Kweichow"
+KMT_postal_STATE_751:0	"Ost-Sikang"
+KMT_postal_STATE_620:0	"Hupeh"
+KMT_postal_STATE_744:0	"Luchow"
+KMT_postal_STATE_283:0	"Kansu"
+KMT_postal_STATE_728:0	"Kwangchow Wan"
+KMT_postal_STATE_775:0	"Hwaihwa"
+KMT_changchun:0	"Changchun"
+KMT_beiping:0	"Beiping"
+KMT_takao:0	"Takao"
+VICTORY_POINTS_2099:0	"Dulan"
+VICTORY_POINTS_10490:0	"Guide"
+VICTORY_POINTS_2074:0	"Charkliq"
+KMT_white_peace_tooltip_test_tt:0	"[From.GetName][Root.GetName]"
+KMT_test:0	"[?Root.KMT_subject_pp]"
+autonomy_major_warlord:0	"Großer Kriegsherr"
+develop_bejing_resources:0	"Nutzen Sie deutsches Fachwissen, um Peking zu entwickeln"
+develop_shandong_resources:0	"Nutzen Sie deutsches Fachwissen, um Xiangyang zu entwickeln"
+develop_henan_resources:0	"Nutzen Sie deutsches Fachwissen, um Henan zu entwickeln"
+develop_nanjing_resources:0	"Nutzen Sie deutsches Fachwissen, um Nanjing zu entwickeln"
+develop_ganling_resources:0	"Nutzen Sie deutsches Fachwissen, um Ganling zu entwickeln"
+develop_jiangmen_resources:0	"Nutzen Sie deutsches Fachwissen, um Jiangmen zu entwickeln"
+german_teams_working:0	"Deutsche Teams bei der Arbeit"
+CHI_lure_them_in_enemy:0	"Locken Sie sie mit Guerillataktiken an"
+CHI_chinese_tribute_desc:0	"Ein Großteil unserer Industrieproduktion fließt direkt an die republikanische Zentralregierung"
+KMT_HOL_friend_desc:0	"Die Niederländer blicken auf eine lange Geschichte als Herrscher der Meere zurück; wir können sie bitten, uns bei der Modernisierung unserer Flotten zu helfen"
+KMT_ITA_friend_desc:0	"Die Italiener haben angeboten, eine Reihe von Militärpolizisten in ihrer Konzession in Tientsin auszubilden"
+is_chinese_nations:0	"Ist ein Land mit chinesischer Staatsangehörigkeit"
+CHIJAP_kang_ri_jiu_wang_idea:0	"Kang Ri Jiu Wang"
+KMT_cadet_in_GER_idea_ao:0	"Kadetten nach Deutschland"
+KMT_fyx_democratic_focus:0	"Fyx Democratic Focus"
+KMT_lzr_army_reform:0	"Armee-Reformen"
+KMT_rebellious_warlord_forces:0	"Rebellische Kriegsherren-Truppen"
+CHI_integrate_warlords:0	"Integrieren [FROM.GetName]"
+CHI_integrate_warlords_cost:0	"£command_power §H20§!"
+CHI_is_annexing_warlord:0	"Integriert einen Kriegsherrn"

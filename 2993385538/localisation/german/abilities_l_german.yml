@@ -1,25 +1,71 @@
 ﻿l_german:
- ABILITY_TOOLTIP_NAME:0 "$NAME|H$"##### NOT TRANSLATED #####
+
+
 ABILITY_TOOLTIP_DETAILED_COST:0	"    - Grundkosten: $VALUE|H2$ (jeweils für $UNITS|H0$ Bataillone)"
+
 ABILITY_TOOLTIP_DAILY_COST:0	"4 Tägliche Kosten: $VALUE|H2$"
+
 ABILITY_TOOLTIP_NOT_ENOUGH_CP:0	"§RZu wenig Befehlsgewalt.§!"
+
 ABILITY_TOOLTIP_IS_IN_COOLDOWN:0	"§RFähigkeit befindet sich in der Abklingzeit.§!"
+
 ABILITY_TOOLTIP_DURATION:0	"Dauer: $VALUE|H$"
+
 ABILITY_TOOLTIP_ALREADY_ACTIVE_GROUP:0	"§RDiese Fähigkeit ist bereits auf der Ebene der Heeresgruppe aktiv.§!"
+
+
 ALLOCATED_CP_ENTRY:0	"$NAME$ ($DURATION$)"
 ABILITY_DUR_HOURS:0	"$num|H$ Stunden"
+
+
 ABILITY_LAST_STAND_TOOLTIP:0	"Letztes Gefecht ($LEADER$)"
 ABILITY_LAST_STAND_DESC:0	"Deine Armeen erhalten einen Verteidigungsbonus auf Kosten einiger Nachteile."
+
+
 ABILITY_FORCE_ATTACK_DESC:0	"Deine Armeen erhalten einen Offensivbonus auf Kosten einiger Nachteile."
 ABILITY_STAFF_OFFICE_PLAN:0	"Stabsstellenplan"
+
+
 ABILITY_STAFF_MORE_GROUND_CREWS_DESC:0	"Du erhältst einen Effizienzschub für eine strategische Region."
 ABILITY_SIEGE_ARTILLERY:0	"Belagerungsartillerie"
+
+
 ABILITY_GLIDER_PLANES_ARTILLERY_DESC:1	"Die Zuweisung von Segelflugzeugen erhöht die Transportkapazität für Fallschirmjägeraufträge."
 ABILITY_FASTER_NAVAL_PLANNING:0	"Marineangriffsplan"
+
+
 ABILITY_PROBING_ATTACK_DESC:1	"Divisionen verlieren beim Angriff nicht ihren Verschanzungsbonus, gehen aber nicht vollständig in die Schlacht."
 ABILITY_MAKESHIFT_BRIDGES:0	"Behelfsmäßige Brücken"
+
+
 ABILITY_EXTRA_SUPLIES_DESC:1	"Zusätzliche Vorräte werden für die Truppen erworben."
 ABILITY_REQUISITION_WINTER_GEAR:0	"Anforderung von Winterausrüstung"
+
+
 ABILITY_ON_HOURLY:0	"Zu jeder Stunde:"
 ABILITY_ON_DAILY:0	"An jedem Tag:"
- anger_added_TT: "[?anger] is  Anger, [?multi] is  multi, countrys multi is [?anger_modifier]"##### NOT TRANSLATED #####
+
+ABILITY_TOOLTIP_NAME:0	"$NAME|H$"
+ABILITY_TOOLTIP_NAME_CANCEL:0	"§RAbbrechen: $NAME|H$§!"
+ABILITY_TOOLTIP_DETAILED_COST_FACTOR:0	"    - Kosten der Fähigkeiten: $FACTOR|+%$"
+ABILITY_TOOLTIP_ALLOCATION:0	"Verteilung der Kommandokraft: $VALUE|H2$"
+ABILITY_TOOLTIP_IS_ALREADY_ACTIVE:0	"§RFähigkeit ist bereits aktiv.§!"
+ABILITY_LEADER_CANNOT_USE_ABILITIES:1	"§REinheitsanführer ist krank oder verwundet und kann keine Fähigkeiten einsetzen.§!"
+ABILITY_TOOLTIP_COOLDOWN:0	"Abklingzeit: $VALUE|H$"
+ABILITY_TOOLTIP_ALREADY_ACTIVE_CHILD_GROUPS:0	"§RDiese Fähigkeit ist bereits für alle untergeordneten Gruppen aktiv.§!"
+ABILITY_TOOLTIP_ALREADY_ACTIVE_SOME_CHILD_GROUPS:0	"§RDiese Fähigkeit ist bereits aktiv für:\n$LEADERS$§!"
+ABILITY_DUR_DAYS:0	"$num|H$ Tage"
+ABILITY_LAST_STAND:0	"Letzter Widerstand"
+ABILITY_FORCE_ATTACK:0	"Angriff erzwingen"
+ABILITY_FORCE_ATTACK_TOOLTIP:0	"Angriff erzwingen ($LEADER$)"
+ABILITY_STAFF_OFFICE_PLAN_DESC:0	"Deine Einheiten erhalten einen erheblichen Schub bei ihrer Planungsgeschwindigkeit."
+ABILITY_STAFF_MORE_GROUND_CREWS:0	"Mehr Bodenpersonal"
+ABILITY_SIEGE_ARTILLERY_DESC:1	"Spezialisierte Belagerungsartillerie fügt Festungen schweren Schaden zu und gewährt einen Bonus bei Festungsangriffen."
+ABILITY_GLIDER_PLANES_ARTILLERY:0	"Segelflugzeuge"
+ABILITY_FASTER_NAVAL_PLANNING_DESC:1	"Fordere zusätzliche Landungsboote und Ressourcen für eine Seelandung an."
+ABILITY_PROBING_ATTACK:0	"Probierangriff"
+ABILITY_MAKESHIFT_BRIDGES_DESC:1	"Der Bau von Behelfsbrücken verringert die Malusse beim Überqueren von Flüssen im Kampf."
+ABILITY_EXTRA_SUPLIES:1	"Zusätzliche Vorräte"
+ABILITY_REQUISITION_WINTER_GEAR_DESC:1	"Winterausrüstung gewährt einen Bonus auf die Akklimatisierung an kaltes Wetter."
+ABILITY_ON_ADD:0	"Bei Ausführung:"
+anger_added_TT:	"[?anger] ist  Wut, [?multi] ist  multi, Länder-multi ist [?anger_modifier]"

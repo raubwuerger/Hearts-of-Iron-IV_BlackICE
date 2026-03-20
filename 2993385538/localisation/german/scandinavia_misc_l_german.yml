@@ -1,6 +1,4 @@
 ﻿l_german:
-
- ####tooltips
  scandinavian_king:0 "König im Rat"
  mathematician:0 "Mathematiker"
  sweden.62.t:0 "Skandinavische Sozialistische Union"
@@ -14,7 +12,6 @@
  northern_lights_research_desc:0 "Nordlicht-Forschung"
  motti_warfare:0 "Motti-Taktik"
  SWE_demand_aland_threat:0 "Schweden fordert Åland"
- ####manufacterers and ideas
  kungens_regering:0 "König im Rat"
  trekungamotet:0 "Treffen der Könige"
  samlingsregeringen:0 "Kabinett Hansson III"
@@ -22,7 +19,6 @@
  cfv:0 "Centrala Flygverkstäderna"
  flygforvaltningens_flygverkstad:0 "Flygförvaltningens Flygverkstäder"
  marinvarkstaderna:0 "Marinverkstäderna"
- #marinvarkstaderna:0 "Karlskronavarvet"
  kockums:0 "Kockums Malmö"
  lkab:0 "LKAB"
  skf:0 "SKF"
@@ -60,7 +56,6 @@
  saltsjobad:0 "Saltsjöbad Abkommen"
  scandinavianism:0 "Skandinavien"
  strive_for_peace_lon:0 "Abrüstung"
- #strive_for_peace_lon:0 "Strive for Peace"
  strive_for_peace_lon_desc:0 "Ein Gründungsmitglied des Völkerbundes bekennt sich zu dessen friedlichen Werten. Nach dem Ersten Weltkrieg hat Schweden umfangreiche Abrüstungsmaßnahmen durchgeführt und den Großteil seiner Ressourcen in die zivile und politische Gesellschaft umgeleitet."
  hemvarnet:0 "Hemvärnet"
  SWE_factory_den:0 "Dänische Fabrik-Kooperation"
@@ -86,7 +81,6 @@
  SWE_national_expansion:0 "Nationell Beredskap"
  frivilligkaren_norden:0 "Frivilligkåren"
  SWE_lars_brising:0 "Lars Brising"
-####modifiers
  SWE_german_cooperation_agreement:0 "Deutsches Kooperationsabkommen"
  SWE_baltic_involvement:0 "Baltikum-Beteiligung"
  SWE_finnish_involvement:0 "Finnische Beteiligung"
@@ -98,8 +92,6 @@
  SWE_independence:0 "Unterstützte die isländische Unabhängigkeit"
  SWE_sthlm_conf:0 "Stockholmer Kommuniqué"
  SWE_aland_convention:0 "Åland-Konvention"
-
- ###### Finland events
  finland.45.t:0 "Schweden weigert sich, mitzumachen"
  finland.45.d:0 "Die Schweden haben nicht den nötigen Willen, sich unserem Krieg anzuschließen, das ist sehr bedauerlich!"
  finland.45.a:0 "Verrat!"
@@ -119,7 +111,6 @@
  exileunits.2.t:0 "Polistrupper rekrutiert und trainiert"
  exileunits.2.d:0 "In einer verdeckten Operation wurden Polistrupper rekrutiert und ausgebildet, wobei Freiheitskämpfer aus Dänemark und Norwegen eingesetzt wurden. Sie wurden in der Nähe von Göteborg und Malmö stationiert und warten auf unsere Befehle."
  exileunits.2.a:0 "Schöner Zusatz"
- ##### ICELAND
  iceland.1.t:0 "Isländische Meuterei"
  iceland.2.t:0 "Island erklärt die Unabhängigkeit!"
  iceland.2.d:0 "Die isländischen Nationalisten haben zu den Waffen gegriffen und ihre Unabhängigkeit von uns erklärt. Politische Strömungen und Rufe nach nationaler Souveränität sind schon seit mehreren Jahren zu hören und werden immer lauter. Unsere Nachrichtendienste bestätigen, dass die Schweden die Rebellen bewaffnet und diese Meuterei unterstützt haben. Wie sollen wir darauf reagieren?"
@@ -142,7 +133,6 @@
  iceland.10.t:0 "Bewaffnung der Fjölnismenn"
  iceland.10.d:0 "Wir haben erfolgreich Waffen und Offiziere zu den isländischen Nationalisten transportiert. Die Fjölnismenn, wie sie sich selbst nennen, waren sehr an unserer Unterstützung interessiert und bereiten sich nun auf einen Aufstand vor. Sind wir bereit, ihn zu Ende zu führen?"
  iceland.10.a:0 "Oh, wir werden!"
- ##### News-events
  news.900.t:0 "Schweden putscht gegen Norwegen"
  news.900.d:0 "Die schwedische Regierung hat beschlossen, in Norwegen zu intervenieren, da die jüngsten politischen Bestrebungen die Unsicherheit in der Region geschürt haben. Die Trennung Norwegens von Schweden im Jahr 1905 wurde von beiden Seiten akzeptiert, aber die Schweden haben ihre Zweifel an der Fähigkeit Norwegens, sich selbst zu regieren, zum Ausdruck gebracht. Nach Ansicht schwedischer Beamter sind die Norweger dieser Aufgabe nicht gewachsen, was Schweden veranlasst hat, einzugreifen und die konstitutionelle Monarchie zu unterwerfen."
  news.900.a:0 "Unangenehm"
@@ -184,9 +174,6 @@
  news.912.a:0 "Wie werden die Dänen reagieren?"
  news.912.b:0 "Gute Nachrichten!"
  news.912.c:0 "Unerhört!"
- ##############
- ### Norway ###
- ##########Focuses
  NOR_support_the_industry:0 "Unterstützen Sie die Industrie"
  NOR_construction_effort_I:0 "Bertel O. Steen"
  NOR_construction_effort_II:0 "Veidekke"
@@ -237,9 +224,7 @@
  NOR_equipment_effort_2:0 "Artillerieausrüstung"
  NOR_motorization_effort:0 "Motorisierung"
  NOR_special_forces:0 "Spesialstyrke"
- #########ideas
  monarkin_norge:0 "Kongehuset"
- #######EVENTS
  norway.2.t:0 "Gewerkschaften drängen auf kollektive Vertretung"
  norway.2.d:0 "Die Gewerkschaften haben von anderen Sozialdemokraten im Ausland massive Mittel erhalten und eine Zeit lang viele Kampagnen und Kundgebungen durchgeführt. Dies hat nun seinen Höhepunkt erreicht und sie fordern eine stärkere Vertretung in der Regierung. Entweder wir machen einige parlamentarische Zugeständnisse oder wir akzeptieren Henry Wilhelm Kristiansen, einen kommunistischen Revolutionär, als politischen Berater. Andernfalls werden sie streiken."
  norway.2.a:0 "Machen Sie parlamentarische Zugeständnisse"
@@ -260,11 +245,7 @@
  import.6.d:0 "Leider halten die Schweden es für zu riskant und werden uns weder Truppen noch Ausrüstung schicken."
  import.6.a:0 "Sie haben uns verraten!"
  allianse.8.t:0 "Osloer Bündnisgespräche"
- #########Custom tool tip
  importNOR:0 "Bitte um Ausrüstung für 2 komplette Divisionen "
- ###############
- ### Denmark ###
- ##########Focuses
  DEN_industry_research:0 "Industri Forskning"
  DEN_industry_research_desc:0 "Der Bereich der Industrie verändert sich heutzutage ständig und wird immer komplexer, was mehr Forschung und Wissen erfordert, um sich effektiv zu bewegen. Durch die Schaffung einer eigenen Universität und von Fakultäten für industrielle Innovation machen wir uns die Industrie, die um uns herum wächst, zunutze."
  DEN_destroyer_effort:0 "Jager"
@@ -433,22 +414,18 @@
  DEN_iceland_desc:0 ""
  DEN_greenland:0 "Ausbeutung der natürlichen Ressourcen in Grönland"
  DEN_greenland_desc:0 ""
- 
  denmark.5.t:0 "Das Kommuniqué von Kopenhagen"
  denmark.5.d:0 "Der dänische Staatschef Christensen X hat die Staatsoberhäupter Schwedens, Dänemarks und Finnlands zu einem Treffen in Kopenhagen eingeladen, um die wirtschaftlichen Herausforderungen zu erörtern, die in einem unsicheren Europa vor uns liegen. Hauptdiskussionspunkt wird das veränderte geopolitische Umfeld sein und die Frage, wie sich die nordischen Länder in den kommenden Unruhen behaupten werden. Diese Konferenz wird die Handelsbeziehungen zwischen den skandinavischen Ländern fördern und vielleicht als Grundlage für eine künftige Zusammenarbeit dienen."
  denmark.5.a:0 "Teilnahme an der Konferenz"
  denmark.5.b:0 "Nein, das ist nicht in unserem Interesse"
- 
  denmark.6.t:0 "Dänemark fordert einen Nichtangriffspakt"
  denmark.6.d:0 "Der dänische Staatschef Christensen X hat die Staatsoberhäupter Schwedens, Dänemarks und Finnlands zu einer Konferenz in Gøteburg eingeladen, um über die zunehmenden Bedrohungen in einem unsicheren Europa zu diskutieren. Hauptdiskussionspunkt wird das veränderte geopolitische Umfeld sein und die Frage, wie sich die nordischen Länder gegenseitig ewige Freundschaft und Unterstützung zusichern können."
  denmark.6.a:0 "Einigen Sie sich auf den Pakt"
  denmark.6.b:0 "Nein, das ist nicht in unserem Interesse"
- 
  denmark.7.t:0 "Dänemark lädt uns in seine Fraktion ein"
  denmark.7.d:0 "Da die zunehmenden Spannungen in der Welt sowohl im Ausland als auch im eigenen Land zu Instabilität führen, strebt die dänische Regierung ein Bündnis mit uns an. Dies ist in vielerlei Hinsicht höchst willkommen, doch sollte man nicht vergessen, dass ein Bündnis in beide Richtungen funktioniert. Die Risiken in unserer geopolitischen Sphäre sind erheblich, und eine solche Entscheidung muss sehr sorgfältig abgewogen werden. Sollten wir uns entscheiden, das Bündnis anzunehmen, könnte die Zukunft eine umfassende Zusammenarbeit bringen, die uns helfen kann, effektivere Produktionslinien zu bilden."
  denmark.7.a:0 "Allianz annehmen"
  denmark.7.b:0 "Antrag ablehnen"
- 
  DEN_support_the_industry:0 "Unterstützen Sie die Industrie"
  DEN_support_the_industry_desc:0 ""
  DEN_construction_effort_I:0 "FLSmidth & Co."
@@ -460,18 +437,9 @@
  DEN_nuclear_effort:0 "Kernekraft"
  DEN_extra_tech_slot_2:0 "Udvidet Forskning"
  DEN_motstand:0 "Holger Danske"
-
- 
-
- 
  DEN_claim_schleswig:0 "Anspruch Schleswig"
-
  DEN_coerce_sweden_den_ger:0 "Einflussnahme Schweden"
- 
  DEN_greenland_agreement:0 "Grönland Abkommen"
-
-
- #########ideas
  DEN_Christian_X:0 "Kong Christian X"
  DEN_Christian_X_desc:0 "Kong Christian X., ein beliebtes und verantwortungsbewusstes Staatsoberhaupt, verschafft Dänemark bedeutende Handels- und Industriebeziehungen."
  tradesmen_culture:0 "Kultur des Handwerks"
@@ -481,7 +449,6 @@
  DEN_kipa_idea:0 "HIPA"
  DEN_ground:0 "Schwerpunkt Land"
  DEN_sea:0 "Schwerpunkt See"
- #########Custom tool tip
  importDEN:0 "Antrag auf Ausrüstung für 2 komplette Divisionen "
  DEN_facto_use_good_tt:0 "§GVerringert§! die Anzahl der §YZivilfabriken§! welche in die Wirtschaft investieren."
  DEN_facto_use_bad_tt:0 "§RErhöht§! die Anzahl der §YZivilfabriken§! welche in die Wirtschaft investiren."
@@ -497,7 +464,6 @@
  DEN_stable_bad_tt:0 "§RVerringert§! §YParteistabilität und Popularität§!"
  DEN_facto_use_removed_tt:0 "Erlangen Sie die direkte Kontrolle über alle §YZivilen Fabriken§! die in die Wirtschaft investiert werden"
  loves_den_tt:0 "Jedes Land, das mit uns kooperiert, erhält eine externe §YMilitärische Fabrik§! und wir werden die"
- #####Events
  denmark.1.t:0 "Dominium Maris Baltici"
  allianse.1.t:0 "Kopenhagener Bündnisgespräche"
  import.1.t:0 "Anfrage der dänischen Polizei nach Truppen"
@@ -510,4 +476,3 @@
  import.3.t:0 "Die schwedische Regierung lehnt unser Ersuchen ab"
  import.3.d:0 "Leider halten die Schweden es für zu riskant und werden uns weder Truppen noch Ausrüstung schicken."
  import.3.a:0 "Sie haben uns verraten!"
- ### EOF ###
