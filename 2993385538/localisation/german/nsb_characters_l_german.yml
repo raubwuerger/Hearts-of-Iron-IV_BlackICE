@@ -391,7 +391,6 @@ FRA_leon_blum:0	"$leon_blum$"
 FRA_marcel_bucard:0	"$marcel_bucard$"
 FRA_rene_massigli:0	"$rene_massigli$"
 FRA_georges_bonnet:0	"$georges_bonnet$"
-
 ENG_stanley_baldwin:0	"Stanley Baldwin"
 ENG_harry_pollitt:0	"$harry_pollitt$"
 ENG_neville_chamberlain:0	"Neville Chamberlain"
@@ -451,7 +450,6 @@ ENG_john_beckett:0	"$john_beckett$"
 ENG_stewart_menzies:0	"$eng_stewart_menzies$"
 ENG_edmund_kitchener:0	"Edmund Kitchener"
 ENG_herbert_kitchener:0	"Herbert Kitchener"
-
 GER_konrad_adenauer:0	"Konrad Adenauer"
 GER_wilhelm_pieck:0	"Wilhelm Pieck"
 GER_gunther_von_kluge:0	"Günther von Kluge"
@@ -487,14 +485,12 @@ GER_erich_bey:0	"Erich Bey"
 GER_viktor_schutze:0	"Viktor Schütze"
 GER_wilhelm_ii:0	"Wilhelm II."
 GER_victoria:0	"Viktoria"
-
 ROM_gheorghe_tatarescu:0	"Gheorghe Tatarescu"
 ROM_constantin_ion_parhon:0	"Constantin Ion Parhon"
 ROM_king_michael:0	"Michael I."
 ROM_octavian_goga:0	"Oktavian Goga"
 ROM_corneliu_codreanu:0	"Corneliu Codreanu"
 ROM_petre_dumitrescu:0	"Petre Dumitrescu"
-
 TUR_mustafa_kemal_ataturk:0	"Mustafa Kemal Atatürk"
 TUR_mehmet_recep_peker:0	"Mehmet Recep Peker"
 TUR_izzettin_chalishlar:0	"İzzettin Çalışlar"
@@ -509,7 +505,6 @@ TUR_nazmi_solok:0	"Nazmi Solok"
 GER_hans_von_luck:0	"Hans von Luck"
 TUR_durrushehvar_i:0	"Dürrüşehvar I."
 TUR_abdulmejid_ii:0	"Abdulmejid II."
-
 JAP_emperor_hirohito:0	"Kaiser Hirohito"
 JAP_kyuichi_tokuda:0	"Kyuichi Tokuda"
 JAP_okada_keisuke:0	"Okada Keisuke"
@@ -561,7 +556,6 @@ JAP_tateo_kato:0	"Tateo Kato"
 JAP_chuichi_nagumo:0	"Shuichi Nagumo"
 JAP_sanzo_nosaka:0	"Sanzo Nosaka"
 JAP_kijuro_shidehara:0	"Kijuro Shidehara"
-
 HUN_miklos_horthy:0	"Nicholas Horthy"
 HUN_arpad_szakasits:0	"Árpád Szakasits"
 HUN_franz_friedrich:0	"Friedrich Franz von Mecklenburg-Schwerin"
@@ -598,7 +592,6 @@ HUN_jozsef_bajnoczy:0	"Jozsef Bajnoczy"
 HUN_vilmos_nagybaczoni_nagy:0	"Wilhelm der Große"
 HUN_aurel_rohr:0	"Aurel Rohr"
 HUN_beni_varga:0	"Beni Varga"
-
 POL_anna_andersson:0	"Anastasia Romanow"
 POL_karl_albrecht:0	"Karl Albrecht I."
 POL_friedrich_christian:0	"Friedrich Christian"
@@ -627,19 +620,16 @@ POL_wincenty_kowalski:0	"Wincenty Kowalski"
 POL_stefan_frankowski:0	"Stefan Frankowski"
 POL_karol_korytowski:0	"Karol Korytowski"
 POL_boleslaw_bierut:0	"Bolesław Bierut"
-
 CZE_edvard_benesh:0	"Edvard Beneš"
 CZE_jaroslav_krejchi:0	"Jaroslav Krejčí"
 CZE_vojtyech_luzha:0	"Vojtěch Luža"
 CZE_josef_shnejdarek:0	"Josef Šnejdárek"
 CZE_richard_tesarzhik:0	"Richard Tesařík"
 CZE_sergej_vojcechovsky:0	"Sergej Vojcechovský"
-
 EST_konstantin_pats:0	"Konstantin Päts"
 EST_artur_sirk:0	"Artur Sirk"
 EST_jaan_anvelt:0	"Jaan Anvelt"
 EST_herbert_brede:0	"Herbert Brede"
-
 LAT_karlis_ulmanis:0	"Kārlis Ulmanis"
 LAT_gustavs_celminsh:0	"Gustavs Celmiņš"
 LAT_alberts_kvesis:0	"Albert Kviesis"
@@ -648,7 +638,6 @@ LAT_martinsh_penikis:0	"Mārtiņš Peniķis"
 LAT_hermanis_buks:0	"Hermanis Buks"
 LAT_fricis_virsaitis:0	"Fricis Virsaitis"
 LAT_andrejs_krustinsh:0	"Andrejs Krustiņš"
-
 LIT_antanas_smetona:0	"Antanas Smetona"
 LIT_wilhelm_karl:0	"Mindaugas II"
 LIT_karl_gero:0	"Mindaugas III"
@@ -657,21 +646,18 @@ LIT_augustinas_voldemaras:0	"Augustinus Voldemaras"
 LIT_edvardas_adamkavicius:0	"Edvardas Adamkavicius"
 LIT_kazys_skuchas:0	"Kazys Skučas"
 LIT_stasys_pundzevichius:0	"Stasys Pundzevičius"
-
 SWE_per_albin_hansson:0	"Per Albin Hansson"
 SWE_sven_olov_lindholm:0	"Sven Olov Lindholm"
 SWE_sven_linderot:0	"Sven Linderot"
 SWE_axel_pehrssonbramstorp:0	"Axel Pehrsson-Bramstorp"
 SWE_folke_hogberg:0	"Folke Högberg"
 SWE_erik_af_edholm:0	"Erik af Edholm"
-
 YUG_paul_i:0	"Paul I."
 YUG_milan_stojadinovic:0	"Milan Stojadinović"
 YUG_milan_grol:0	"Milan Grol"
 YUG_peter_ii:0	"Peter II."
 YUG_vladimir_Cukavac:0	"Vladimir Čukavac"
 YUG_josef_depre:0	"Josef Depre"
-
 GRE_konstantinos_demertzis:0	"Konstantinos Demertzis"
 GRE_nikos_zachariadis:0	"Nikos Zachariadis"
 GRE_george_mercouris:0	"Georgios Mercouris"
@@ -680,7 +666,6 @@ GRE_charalambos_katsimitros:0	"Charalambos Katsimitros"
 GRE_markos_drakos:0	"Markos Drakos"
 GRE_theodoros_pangalos:0	"Theodoros Pangalos"
 GRE_dimitrios_psarros:0	"Dimitrios Psarros"
-
 CAN_mackenzie_king:0	"Mackenzie König"
 CAN_adrien_arcand:0	"Adrien Arcand"
 CAN_tim_buck:0	"Tim Buck"
@@ -695,7 +680,6 @@ CAN_james_d_prentice:0	"James D. Prentice"
 CAN_harry_dewolf:0	"Harry DeWolf"
 CAN_j._s._woodsworth:0	"J. S. Woodsworth"
 CAN_francois_edinger:0	"Francois Edinger"
-
 MEX_salvador_abascal:0	"Salvador Abascal"
 MEX_adolfo_de_la_huerta:0	"Adolfo de la Huerta"
 MEX_dionisio_encina:0	"Dionisio Encina"
@@ -710,16 +694,13 @@ MEX_francisco_mugica:0	"Francisco Múgica"
 MEX_jesus_degollado_guizar:0	"Jesús Degollado Guízar"
 MEX_alberto_gorostieta_vega:0	"Alberto Gorostieta Vega"
 MEX_dionisio_navarro_anguiano:0	"Dionisio Navarro Anguiano"
-
 HOL_lou_de_visser:0	"Lou de Visser"
 HOL_dirk_jan_de_geer:0	"Dirk Jan de Geer"
 HOL_pieter_sjoerds_gerbrandy:0	"Pieter Sjoerds Gerbrandy"
-
 INS_sukarno:0	"Sukarno"
 INS_a_t_van_starkenborgh_stachouwer:0	"A. T. van Starkenborgh Stachouwer"
 INS_amir_sjarifuddin_harahap:0	"Amir Sjarifuddin Harahap"
 INS_suharto:0	"Suharto"
-
 RAJ_lord_linlithgow:0	"Lord Linlithgow"
 RAJ_p_krishna_pillai:0	"P. Krishna Pillai"
 RAJ_b_p_sitaramayya:0	"B. P. Sitaramayya"
@@ -732,7 +713,6 @@ RAJ_lakshmi_sahgal:0	"Lakshmi Sahgal"
 RAJ_orde_wingate:0	"Orde Wingate"
 RAJ_kodandera_madappa_cariappa:0	"Kodandera Madappa Cariappa"
 RAJ_kodandera_subayya_thimayya:0	"Kodandera Subayya Thimayya"
-
 AST_john_curtin:0	"John Curtin"
 AST_eric_campbell:0	"Eric Campbell"
 AST_richard_dixon:0	"Richard Dixon"
@@ -747,13 +727,11 @@ AST_john_northcott:0	"John Northcott"
 AST_harold_farncomb:0	"Harold Farncomb"
 AST_victor_crutchley:0	"Victor Crutchley"
 AST_iven_mackay:0	"Iven Mackay"
-
 SAF_j_b_m_hertzog:0	"J. B. M. Hertzog"
 SAF_moses_kotane:0	"Moses Kotane"
 SAF_pixley_ka_isaka_seme:0	"Pixley Ka Isaka Seme"
 SAF_jan_smuts:0	"Jan Smuts"
 SAF_george_edwin_brink:0	"George Edwin Brink"
-
 NZL_michael_joseph_savage:0	"Michael Joseph Savage"
 NZL_sidney_holland:0	"Sidney Holland"
 NZL_john_ormond:0	"John Ormond"
@@ -763,41 +741,33 @@ NZL_bernard_freyberg:0	"Bernard Freyberg"
 NZL_robert_row:0	"Robert Row"
 NZL_william_stevens:0	"William Stevens"
 NZL_edmund_rupert_drummond:0	"Edmund Rupert Drummond"
-
 FIN_risto_heikki_ryti:0	"Risto Heikki Ryti"
 FIN_aimo_aaltonen:0	"Aimo Aaltonen"
 FIN_kyosti_kallio:0	"Kyösti Kallio"
 FIN_carl_gustaf_emil_mannerheim:0	"Carl Gustaf Emil Mannerheim"
 FIN_erik_heinrichs:0	"Erik Heinrichs"
-
 BRA_getulio_vargas:0	"Getúlio Vargas"
 BRA_arlindo_veiga_dos_santos:0	"Arlindo Veiga dos Santos"
 BRA_plinio_salgado:0	"Plínio Salgado"
 BRA_luis_carlos_prestes:0	"Luís Carlos Prestes"
 BRA_armando_sales:0	"Armando Sales"
 BRA_mascarenhas_de_morais:0	"Mascarenhas de Morais"
-
 BEL_hubert_pierlot:0	"Hubert Pierlot"
 BEL_joseph_jacquemotte:0	"Joseph Jacquemotte"
 BEL_mcl_keyaerts:0	"M.C.L. Keyaerts"
 BEL_georges_timmermans:0	"Georges Timmermans"
-
 PER_reza_shah_pahlavi:0	"Reza Schah Pahlavi"
 PER_soleyman_mirza_eskandari:0	"Soleyman Mirza Eskandari"
 PER_hasan_arfa:0	"Hasan Arfa"
 PER_dalir_pesyan:0	"Dalir Pesyan"
-
 SWI_federal_council:0	"Bundesrat"
 SWI_ernest_beuin:0	"Ernest Béuin"
 SWI_dr_max_leo_keller:0	"Dr. Max Leo Keller"
 SWI_fritz_platten:0	"Fritz Platten"
-
 ETH_haile_selassie:0	"Haile Selassie"
 ETH_fitawrari_yeebio_woldai:0	"Fitawrari Yeebio Woldai"
 ETH_seyoum_mengesha:0	"Seyoum Mengesha"
 ETH_amare_makonnen:0	"Amare Makonnen"
-
-
 BEL_achille_van_acker:0	"Achille van Acker"
 BEL_paulhenri_spaak:0	"Paul Henri Spaak"
 BEL_alexandre_galopin:0	"Alexandre Galopin"
@@ -1175,7 +1145,6 @@ GER_falkenhorst_nikolaus_von:0	"Nikolaus von Falkenhorst"
 GER_hube_hansvalentin:0	"Hans-Valentin Hube"
 GER_raus_erhard:0	"Erhard Raus"
 GER_straus_adolf:0	"Adolf Strauß"
-
 GER_reichenau_walter_von:0	"Walter von Reichenau"
 GER_brandenberger_erich:0	"Erich Brandenberger"
 GER_michael_lippert:0	"Michael Lippert"
@@ -1321,7 +1290,6 @@ HON_manuel_ferrera:0	"Manuel Ferrera"
 HON_carlos_figueroa:0	"Carlos Figueroa"
 HON_pedro_figueroa:0	"Pedro Figueroa"
 HON_justo_arbenz:0	"Justo Arbenz"
-
 INS_a:0	"A. T. van Starkenborgh Stachouwer"
 INS_malaka:0	"Malaka"
 INS_nasution:0	"Nasution"
@@ -1351,1310 +1319,652 @@ IRQ_as_sabbagh:0	"als Sabbagh"
 IRQ_abd_alkarim_ibn_mustafa:0	"Abd Alkarim ibn Mustafa"
 IRQ_iskandar_ibn_mustafa:0	"Iskandar ibn Mustafa"
 IRQ_karim_ibn_hasan:0	"Karim ibn Hasan"
-
-
-
-
 JAP_yamashita_tomoyuki:0	"Tomoyuki Yamashita"
 JAP_muto_akira:0	"Muto, Akira"
 JAP_ishiwara_kanji:0	"Ishiwara, Kanji"
-
-
-
 JAP_ando_rikichi:0	"Ando, Rikichi"
 JAP_higashikuni_morihiro:0	"Higashikuni, Morihiro"
 JAP_itagaki_seishiro:0	"Seishirō Itagaki"
-
-
-
 JAP_ueda_kenkichi:0	"Ueda, Kenkichi"
 JAP_honjo_shigeru:0	"Honjo, Shigeru"
 JAP_umezu_yoshijiro:0	"Umezu, Yoshijiro"
-
-
-
 JAP_fujie_keisuke:0	"Fujie, Keisuke"
 JAP_higuchi_kiichiro:0	"Higuchi, Kiichiro"
 JAP_homma_masaharu:0	"Homma, Masaharu"
-
-
-
 JAP_kanda_masatane:0	"Kanda, Masatane"
 JAP_koiso_kuniaki:0	"Koiso, Kuniaki"
 JAP_anami_korechika:0	"Anami, Korechika"
-
-
-
 JAP_kita_seiichi:0	"Kita, Seiichi"
 JAP_iida_shojiro:0	"Iida, Shōjirō"
 JAP_nakamura_kotaro:0	"Nakamura, Kōtarō"
-
-
-
 JAP_nagumo_chuichi:0	"Chuichi Nagumo"
 JAP_koga_mineichi:0	"Mineichi Koga"
 JAP_hasegawa_kiyoshi:0	"Hasegawa, Kiyoshi"
-
-
-
 JAP_toyoda_soemu:0	"Soemu Toyoda"
 JAP_ozawa_jisaburo:0	"Jisaburo Ozawa"
 JAP_yoshida_zengo:0	"Yoshida, Zengo"
-
-
-
 JAP_endo_yoshikazu:0	"Endo, Yoshikazu"
 JAP_fukudome_shigeru:0	"Fukudome, Shigeru"
 JAP_kobayashi_sonosuke:0	"Kobayashi, Sonosuke"
-
-
-
 JAP_nagano_osami:0	"Osami Nagano"
 JAP_nakamura_motoji:0	"Nakamura, Motoji"
 JAP_nishimura_shoji:0	"Nishimura, Shoji"
-
-
-
 JAP_tanaka_raizo:0	"Tanaka, Raizo"
 JAP_yamaguchi_gizaburo:0	"Yamaguchi, Gizaburo"
 JAP_horie_ikumi:0	"Horie, Ikumi"
-
-
-
 JAP_ukita_hidehiko:0	"Ukita, Hidehiko"
 JAP_maruyama_genki:0	"Maruyama, Genki"
 JAP_tagami_umi:0	"Tagami, Umi"
-
-
-
 JAP_hino_kumazo:0	"Hino Kumazo"
 JAP_yoshitoshi_tokugawa:0	"Yoshitoshi Tokugawa"
 JAP_minoru_genda:0	"Minoru Genda"
-
-
-
 JAP_arisue_seizo:0	"Seizō Arisue"
 JAP_koki_hirota:0	"Kōki Hirota"
 JAP_okinori_kaya:0	"Okinori Kaya"
-
-
-
 JAP_shozo_murata:0	"Shozo Murata"
 JAP_ryoichi_sasakawa:0	"Ryoichi Sasakawa"
 JAP_hideki_tojo:0	"Hideki Tojo"
-
-
-
 JAP_shigetaro_shimada:0	"Shigetarō Shimada"
 JAP_eikichi_katagiri:0	"Eikichi Katagiri"
 JAP_torashiro_kawabe:0	"Torashiro Kawabe"
-
-
-
 JAP_sukeyuki_oyama:0	"Sukeyuji Oyama"
 JAP_masatake_nakamuta:0	"Masatake Nakamuta"
 JAP_Hikonojo_honjo:0	"Hikonojo Honjo"
-
-
-
 JOR_John_Bagot_Glubb:0	"John Bagot Glubb"
 JOR_fuad_nassar:0	"Fu"
 JOR_peake_frederick:0	"Peake, Frederick"
-
-
-
 JOR_shukri_ibn_halil:0	"Schukri ibn Halil"
 LAT_fricis_menders:0	"Fricis Menders"
 LAT_basko:0	"Basko"
-
-
-
 LAT_alberts_ozolins:0	"Albert Ozolins"
 LEB_hashim_alatassi:0	"Hashim al"
 LEB_emile_edde:0	"Émile Eddé"
-
-
-
 LEB_farajallah_elhelou:0	"Farajallah el"
 LEB_ibrahim_ibn_ali:0	"Ibrahim ibn Ali"
 LEB_jamal_ibn_hisham:0	"Dschamal ibn Hischam"
-
-
-
 LIB_davis:0	"Davis"
 LIB_mulzac:0	"Mulzac"
 LIB_robert_griffin:0	"Robert Griffin"
-
-
-
 LIB_joseph_tubman:0	"Joseph Tubman"
 LIB_frederick_remond:0	"Frederick Remond"
 LIB_colin_mink:0	"Colin Mink"
-
-
-
 LIT_vygantas_almenas:0	"Vygantas Almenas"
 LIT_stasys_avizienis:0	"Stasys Avizienis"
 LIT_vladimiras_simonavicius:0	"Vladimiras Simonavicius"
-
-
-
 LUX_gerard_devaux:0	"Gérard Devaux"
 LUX_jeanfrancois_du_val_de_beaulieu:0	"Jean Francois du val de Beaulieu"
 LUX_georges_fendius:0	"Georges Fendius"
-
-
-
 MAL_shenton_thomas:0	"Shenton Thomas"
 MAL_lai_teck:0	"Lai Teck"
 MAL_ibrahim_hj_yaacob:0	"Ibrahim Hj Yaacob"
-
-
-
 MAL_david_leiper:0	"David Leiper"
 MAL_cyril_roberts:0	"Cyril Roberts"
 MAN_emperor_puyi:0	"Aisin Gyoro Puyi"
-
-
-
 MAN_zhang_yanqing:0	"Zhang Yanqing"
 MAN_zhang_huanxiang:0	"Zhang Huanxiang"
 MAN_daisaku_komoto:0	"Daisaku Komoto"
-
-
-
 MAN_genrikh_lyushkov:0	"Genrikh Lyushkov"
 MAR_fatih_taqi:0	"Fatih Taqi"
 MAR_hazem_nahri:0	"Hazem Nahri"
-
-
-
 MEN_prince_demchugdongrub:0	"Prinz Demchugdongrub"
 MEN_yondonwangchug:0	"Yondonwangchug"
 MEN_mahrholz:0	"Mahrholz"
-
-
-
 MEX_abelardo_l:0	"Abelardo L. Rodríguez"
 MEX_manuel_Avila_camacho:0	"Manuel Ávila Camacho"
 MEX_figueroa_figueroa:0	"Figueroa Figueroa"
-
-
-
 MEX_heriberto_jara_corona:0	"Heriberto Jara Corona"
 MEX_paul_suarez:0	"Paul Suarez"
 MEX_coello_ochoa:0	"Coello Ochoa"
-
-
-
 MEX_gaspar_Alvarez:0	"Gaspar Álvarez"
 MEX_ernesto_Alvarez:0	"Ernesto Álvarez"
 MEX_efrain_rodriguez_berrios:0	"Éfrain Rodriguez Berrios"
-
-
-
 MON_peljidiin_genden:0	"Peljidiin Genden"
 MON_sambadondogiin_tserendorj:0	"Sambadondogiin Tserendorj"
 MOR_luis_orgaz_yoldi:0	"Luis Orgaz Yoldi"
-
-
-
 MOR_arturo_Alvarezbuylla_godino:0	"Arturo Álvarez-Buylla Godino"
 MOR_juan_moles_ormella:0	"Juan Moles Ormella"
 MOR_manuel_rico_avello:0	"Manuel Rico Avello"
-
-
-
 MOR_alber_jay:0	"Alber Jota"
 MOR_aali_benhima:0	"Aali Benhima"
 MOR_isaac_sultan:0	"Isaak Sultan"
-
-
-
 NEP_pushpa_lal_shrestha:0	"Pushpa Lal Shrestha"
 NEP_tanka_prasad_acharya:0	"Tanka Prasad Acharya"
 NIC_juan_bautista_sacasa:0	"Juan Bautista Sacasa"
-
-
-
 NIC_alejandro_lopez:0	"Alejandro López"
 NOR_otto_ruge:0	"Otto Ruge"
 NOR_henry_diesen:0	"Heinrich Diesen"
-
-
-
 NOR_elias_corneliussen:0	"Elias Corneliussen"
 NOR_andreas_anderssen:0	"Andrew Anderssen"
 NOR_olav_bergensen:0	"Olav Bergensen"
-
-
-
 NOR_adolph_fleischer:0	"Adolph Fleischer"
 NOR_jacob_petersen:0	"Jacob Petersen"
 NZL_george_forbes:0	"Georg Forbes"
-
-
-
 NZL_guy_mitchell:0	"Guy Mitchell"
 NZL_bill_barnard:0	"Bill Barnard"
 OMA_said_bin_taimur:0	"Said bin Taimur"
-
-
-
 OMA_fawzi_ibn_timur:0	"Fawzi ibn Timur"
 OMA_geoffrey_claydon:0	"Geoffrey Claydon"
 OMA_hafs_mohammed:0	"Hafs Mohammed"
-
-
-
 PAN_remon_cantera:0	"Remón Cantera"
 PAN_navarro_toro:0	"Navarro Toro"
 PAN_jose_maria_montiel:0	"José María Montiel"
-
-
-
 PAN_juan_antonio_aguilar:0	"Juan Antonio Aguilar"
 PAN_aniceto_montes:0	"Aniceto Montes"
 PAN_andres_montiel:0	"Andrés Montiel"
-
-
-
 PAR_stroessner_matiauda:0	"Stroessner Matiauda"
 PAR_miguel_echenique:0	"Miguel Echenique"
 PAR_ramon_altamirano:0	"Ramón Altamirano"
-
-
-
 PAR_miguel_Agreda:0	"Miguel Ágreda"
 PAR_rufino_Agreda:0	"Rufino Ágreda"
 PER_mohammad_reza_pahlavi:0	"Mohammad Reza Pahlavi"
-
-
-
 PGR_tong_linge:0	"Tong Linge"
 PGR_wang_shuchang:0	"Wang Shuchang"
 PGR_wang_kemin:0	"Wang Kemin"
-
-
-
 PGR_jonas_brown:0	"Jonas Braun"
 PGR_bob_wilson:0	"Bob Wilson"
 PGR_jonas_white:0	"Jonas Weiß"
-
-
-
 PHI_hermano_rizal:0	"Hermano Rizal"
 PHI_jacinto_bonifacio:0	"Jacinto Bonifacio"
 PHI_valentine_aguainaldo:0	"Valentíne Aguainaldo"
-
-
-
 POL_ignacy_moscicki:0	"Ignacy Mościcki"
 POL_wladyslaw_anders:0	"Władysław Anders"
 POL_fieldorfnil:0	"Fieldorf"
-
-
-
 POL_jarnuszkiewicz:0	"Jarnuszkiewicz"
 POL_czernicki:0	"Xawery Czernicki"
 POL_grudzinski:0	"Grudzinski"
-
-
-
 POL_stankiewicz:0	"Stankiewicz"
 POL_steyer:0	"Steyer"
 POL_swirski:0	"Swirski"
-
-
-
 POL_filip_kaminski:0	"Filip Kamiński"
 POR_francisco_de_barcelos_rolao_preto:0	"Francisco de Barcelos Rolão Preto"
 POR_mario_soares:0	"Mário Soares"
-
-
-
 POR_neto:0	"Neto"
 POR_castro_sais:0	"Castro Saïs"
 POR_deus_tomas:0	"Deus Tomas"
-
-
-
 POR_andre_gil:0	"André Gil"
 PRC_zhu_de:0	"Zhu De"
 PRC_xu_xiangqian:0	"Xu XiangQian"
-
-
-
 PRC_zuo_quan:0	"Zuo Quan"
 PRC_ye_ting:0	"Ye Ting"
 PRC_xiang_yin:0	"Xiang Yin"
-
-
-
 PRC_hua_guofeng:0	"Hua Guofeng"
 PRC_zhang_guo_tao:0	"Zhang Guo Tao"
 PRU_Oscar_benavides:0	"Óscar Benavides"
-
-
-
 PRU_diego_zapata:0	"Diego Zapata"
 PRU_ladislao_zapata:0	"Ladislao Zapata"
 PRU_bernardo_abaroa:0	"Bernardo Abaroa"
-
-
-
 RAJ_v._d._savarkar:0	"V. D. Savarkar"
 RAJ_p:0	"P. Krishna Pillai"
 RAJ_p._Krishna_pillai:0	"P. Krishna Pillai"
-
-
-
 RAJ_edward_quinan:0	"Edward Quinan"
 RAJ_horatio_fisher:0	"Horatio Fisher"
 ROM_ion_antonescu:0	"Ion Antonescu"
-
-
-
 ROM_michael_i:0	"Michael I."
 ROM_petru_groza:0	"Petru Groza"
 ROM_nicolae_titulescu:0	"Nicolae Titulescu"
-
-
-
 ROM_mihail_manoilescu:0	"Mihail Manoilescu"
 ROM_mihail_sturdza:0	"Mihail Sturdza"
 ROM_istrate_micescu:0	"Istrat Micescu"
-
-
-
 ROM_mihail_moruzov:0	"Mihail Moruzov"
 ROM_eugen_cristescu:0	"Eugen Cristescu"
 ROM_dumitru_iuca:0	"Dumitru Iuca"
-
-
-
 ROM_constantin_titel_petrescu:0	"Constantin Petrescu"
 ROM_gyorgy_bethlen:0	"Georg Bethlen"
 ROM_aldea_aurel:0	"Aldea, Aurel"
-
-
-
 ROM_nicolae_mazarini:0	"Nicolae Mazarini"
 ROM_constantin_pantazi:0	"Constantin Pantazi"
 ROM_constantin_constantinescu_claps:0	"Constantin Constantinescu-Klappen"
-
-
-
 ROM_hugo_schwab:0	"Hugo Schwab"
 ROM_dumitru_damaceanu:0	"Dumitru Damaceanu"
 ROM_corneliu_dragalina:0	"Corneliu Dragalina"
-
-
-
 ROM_avramescu_gheorghe:0	"Avramescu, Gheorghe"
 ROM_baldescu_radu:0	"Baldescu, Radu"
 ROM_boiteanu_ion:0	"Boiteanu, Ion"
-
-
-
 ROM_ionescusinaia_gheorghe:0	"Gheorghe Ionescu-Sinaia"
 ROM_korne_radu:0	"Korne, Radu"
 ROM_lacatusu_mihail:0	"Lăcătuşu, Mihail"
-
-
-
 ROM_phleps_artur:0	"Phleps, Artur"
 ROM_nicolae_macici:0	"Nicolae Macici"
 ROM_racovita_ioan_mihail:0	"Racovita, Ioan Mihail"
-
-
-
 ROM_caranfil_nicolae_george:0	"Caranfil, Nicolae George"
 ROM_colesca_ioan:0	"Colesca, Ioan"
 SAF_j:0	"J. B. M. Hertzog"
-
-
-
 SAF_hendrik_de_beer:0	"Hendrik de Beer"
 SAU_abdulaziz_ibn_saud:0	"Abdulaziz Ibn Saud"
 SAU_hamdi:0	"Hamdi"
-
-
-
 SAU_abu_bakr_ibn_ishaq:0	"Abu Bakr ibn Ishaq"
 SAU_hasan_ibn_ali:0	"Hasan ibn Ali"
 SAU_iskandar_ibn_hasan:0	"Iskandar ibn Hasan"
-
-
-
 SCC_sun_zhen:0	"Sun Zhen"
 SCC_deng_xihou:0	"Deng Xihou" 
 SCC_liu_xiang:0	"Liu Xiang"
-
-
-
 SCC_xiong_wang:0	"Xiong Wang"
 SCC_ding_jin:0	"Ding Jin"
 SCC_yuan_yao:0	"Yuan Yao"
-
-
-
 SDC_he_kong:0	"He Kong"
 SDC_zhu_chen:0	"Zhu Chen"
 SDC_luo_kong:0	"Luo Kong"
-
-
-
 SHX_fu_zuoyi:0	"Fu Zuoyi"
 SHX_yan_xishan:0	"Yan Xishan"
 SHX_belchurkin:0	"Belchurkin"
-
-
-
 SHX_rudin:0	"Rudin"
 SHX_rymakov:0	"Rymakow"
 SHX_shang_zhen:0	"Shang Zhen"
-
-
-
 SHX_von_doring:0	"von Döring"
 SHX_krolcheff:0	"Krolcheff"
 SHX_hu_liliang:0	"Hu Liliang"
-
-
-
 SHX_qiu_genzhou:0	"Qiu Genzhou"
 SHX_fang_wupen:0	"Fang Wupen"
 SHX_yi_genzhou:0	"Yi Genzhou"
-
-
-
 SIA_phromyothi:0	"Phromyothi"
 SIA_rama_prichulangkorn:0	"Rama Prichulangkorn"
 SIA_preechacholayudha:0	"Preechacholayudha"
-
-
-
 SIA_chulalongkorn_suriyawongse:0	"Chulalongkorn Suriyawongse"
 SIA_plaek_nitithada:0	"Nitithada-Platz"
 SIA_chao_nitithada:0	"Chao Nitithada"
-
-
-
 SIK_muhammad_amin_bughra:0	"Muhammad Amin Bughra"
 SIK_pan_xiwang:0	"Pan Xiwang"
 SIK_zhong_genzhou:0	"Zhong Genzhou"
-
-
-
 SKC_liu_wenhui:0	"Liu Wenhui"
 SKC_lin_fouxing:0	"Lin Fouxing"
 SKC_yang_sun:0	"Yang Sun"
-
-
-
 SKC_jiang_sun:0	"Jiang Sun"
 SKC_cui_xiaoping:0	"Cui Xiaoping"
 SLO_jozef_tiso:0	"Tiso, Joseph"
-
-
-
 SLO_cyril_kuchta:0	"Kuchta, Kyrill"
 SLO_svoboda:0	"Swoboda"
 SOV_joseph_vissarionovich_stalin:0	"Josef Wissarionowitsch Stalin"
-
-
-
 SOV_voroshilov_kliment:0	"Kliment Woroschilow"
 SOV_tukhachevsky_mikhail:0	"Tuchatschewski, Michail"
 SOV_budyonny_semyon:0	"Budjonny, Semjon"
-
-
-
 SOV_yakir_iona:0	"Jakir, Iona"
 SOV_blyukher_vasily:0	"Wassili Blücher"
 SOV_belov_ivan:0	"Below, Iwan"
-
-
-
 SOV_ivan_bezugly:0	"Iwan Bezugly"
 SOV_dybenko_pavel:0	"Dybenko, Pawel"
 SOV_velikanov_mikhail:0	"Welikanow, Michail"
-
-
-
 SOV_levandovskiy_mikhail:0	"Lewandowskij, Michail"
 SOV_gryaznov_ivan:0	"Grjasnow, Iwan"
 SOV_rokossovsky_konstantin:0	"Konstantin Rokossowsky"
-
-
-
 SOV_lepin_andrey:0	"Lepin, Andrej"
 SOV_radin_fedor:0	"Radin, Fjodor"
 SOV_chernyshev_vasiliy:0	"Tschernyschew, Wasilij"
-
-
-
 SOV_lepsis_robert:0	"Lepsis, Robert"
 SOV_viktorov_mikhail:0	"Wiktorow, Michail"
 SOV_grigoriy_kireev:0	"Grigoriy, Kireev"
-
-
-
 SOV_sivkov_alexander:0	"Siwkow, Alexander"
 SOV_dushenov_konstantin:0	"Dushenow, Konstantin"
 SOV_kadatskiyrudnev_ivan:0	"Kadatskij"
-
-
-
 SOV_zelting_arnold:0	"Zelting, Arnold"
 SOV_shteingauzen_pavel:0	"Schteingauzen, Pawel"
 SOV_pyshnov_alexander:0	"Pyshnov, Alexander"
-
-
-
 SOV_panteleev_yuriy:0	"Pantelejew, Jurij"
 SOV_drozd_valentin:0	"Drozd, Valentin"
 SOV_viktor_abakumov:0	"Wiktor Abakumow"
-
-
-
 SOV_aleksandr_loktionov:0	"Aleksandr Loktionow"
 SOV_vladimir_gurko:0	"Wladimir Gurko"
 SOV_lavr_pavlov:0	"Lawr Pawlow"
-
-
-
 SPA_military_junta:0	"Militärjunta"
 SPA_jose_diaz:0	"Díaz, José"
 SPA_andres_saliquet:0	"Saliquet, Andrés"
-
-
-
 SPA_francisco_moreno_fernandez:0	"Fernández, Francisco Moreno"
 SPR_central_committee_of_fai:0	"Zentralkomitee der FAI"
 SPR_jose_sanjurjo:0	"José Sanjurjo"
-
-
-
 SPR_jose_maria_gilrobles:0	"José Maria Gilrobles"
 SPR_jose_calvo_sotelo:0	"Sotelo, José Calvo"
 SPR_alfonso_xiii:0	"Alfonso XIII."
-
-
-
 SPR_wenceslao_carrillo_alonso_forjador:0	"Alonso Forjador Wenceslao Carrillo"
 SPR_salvador_madariaga_y_rojo:0	"Rojo, Slavador Madariaga Y"
 SPR_ramon_serrano_suner:0	"Suner, Ramon Serrano"
-
-
-
 SPR_alejandro_lerroux_garcia:0	"Garcia, Alejandro Lerroux"
 SPR_federico_salmon_amorin:0	"Amorin, Fedrico Lachs"
 SPR_benigno_portillo:0	"Portillo, Benigno"
-
-
-
 SPR_andres_garcia_calle:0	"Andrés García La Calle"
 SPR_louis_gonzalez_ubieta:0	"Luis González de Ubieta"
 SPR_tomas_de_azcarate:0	"Tomás de Azcárate"
-
-
-
 SPR_Alvarez_santiago:0	"Santiago, Álvarez"
 SPR_aranguren_roldan:0	"Roldán, Aranguren"
 SPR_coronel_hans:0	"Hans, Coronel"
-
-
-
 SPR_sebastian_pozas:0	"Sebastián Pozas"
 SPR_davila_martinez:0	"Martínez, Davilá"
 SPR_gomez_barredo:0	"Barredo, Gomez"
-
-
-
 SWE_thornell:0	"Thörnell"
 SWE_dyrssen:0	"Dyrssen"
 SWE_grefberg:0	"Grefberg"
-
-
-
 SWI_george_bovet:0	"Georg Bovet"
 SWI_dr:0	"Dr. Max Leo Keller"
 SWI_constam:0	"Constam"
-
-
-
 SWI_melchior_von_donatz:0	"Melchior von Donatz"
 SWI_wilhelm_herzog:0	"Wilhelm Herzog"
 SYR_hashim_alatassi:0	"Hashim al"
-
-
-
 SYR_abd_alkarim_ibn_yusuf:0	"Abd al"
 SYR_fawzi_ibn_abd_alqadir:0	"Fawzi ibn Abd al"
 SYR_hisham_ibn_uthman:0	"Hischam ibn Uthman"
-
-
-
 TAN_kolpakchi:0	"Kolpakchi"
 TAN_deng_shangzhi:0	"Deng Shangzhi"
 TAN_tong_xingde:0	"Tong Xingde"
-
-
-
 TAN_zhao_linge:0	"Zhao Linge"
 TAN_sonin_kangan:0	"Sonin Kang"
 TIB_yutok_tashi_dondrub:0	"Yutok Tashi Dondrub"
-
-
-
 TIB_jamphel_yeshe_gyaltsen:0	"Jamphel Yeshe Gyaltsen"
 TIB_thubten_kunphela:0	"Thubten Kunphela"
 TIB_namgang_dazang_damdu:0	"Namgang Dazang Damdu"
-
-
-
 TIB_gendun_chophel:0	"Gendün Chöphel"
 TUN_ahmed_hilmi_pasha:0	"Ahmed Hilmi Pascha"
 TUN_amin_alhusseini:0	"Amin al"
-
-
-
 TUN_abdulrahman_korbi:0	"Abdul"
 TUN_ahmed_melliti:0	"Ahmed Melliti"
 TUN_haider_bhairi:0	"Haider Bhairi"
-
-
-
 TUR_celal_bayar:0	"Celal Bayar"
 TUR_yusuf_hikmet_bayur:0	"Yusuf Hikmet Bayur"
 TUR_cemil_cahit_toydemir:0	"Cemil Cahit Toydemir"
-
-
-
 TUR_ahmet_celal_pasa:0	"Ahmet Celal Pasa"
 TUR_talat_ozsu:0	"Talat Özsü"
 TUR_musa_gurman:0	"Musa Gürman"
-
-
-
 URG_fructuoso_diaz:0	"Fructuoso Díaz"
 URG_salvador_ellauri:0	"Salvador Ellauri"
 URG_roberto_pedernera:0	"Roberto Pedernera"
-
-
-
 URG_santiago_justo:0	"Santiago Justo"
 URG_manuel_meza:0	"Manuel Meza"
 USA_truscott_lucian:0	"Truscott, Lucian"
-
-
-
 USA_hartle_russell:0	"Hartle, Russell"
 USA_gerow_leonard:0	"Gerow, Leonard"
 USA_brooks_edward:0	"Brooks, Edward"
-
-
-
 USA_collins_j:0	"Collins, J. Lawton"
 USA_griswold_oscar:0	"Griswold, Oscar"
 USA_rose_maurice:0	"Rose, Maurice"
-
-
-
 USA_busbey_g:0	"Busbey, G."
 USA_dewitt_john_l:0	"DeWitt, John L."
 USA_hardaway_t:0	"Hardaway, Thomas"
-
-
-
 USA_burke_arleigh:0	"Burke, Arleigh"
 USA_cooke_jr_charles_m:0	"Cooke Jr., Charles M."
 USA_anderson_george_w:0	"Anderson, George W."
-
-
-
 USA_cote_:0	"Cote,"
 USA_edwards_richard_s:0	"Richard S. Edwards"
 USA_english_robert_h:0	"Englisch, Robert H."
-
-
-
 USA_hart_thomas_c:0	"Hart, Thomas C."
 USA_hall_john:0	"Halle, John"
 USA_lockwood_charles_a:0	"Lockwood, Charles A."
-
-
-
 USA_mccormick_lynde_d:0	"McCormick, Lynde D."
 USA_oldendorf_jesse_b:0	"Oldendorf, Jesse B."
 USA_price_john_d:0	"Preis, John D."
-
-
-
 USA_scott_norman:0	"Scott, Norman"
 USA_wright_jerauld:0	"Wright, Jerauld"
 USA_withers_thomas:0	"Withers, Thomas"
-
-
-
 USA_jerome_powell:0	"Jerome Powell"
 USA_charles_caldwell:0	"Charles Caldwell"
 USA_thomas_doubleday:0	"Thomas Doubleday"
-
-
-
 USA_robert_taft:0	"Robert Taft"
 USA_harry_truman:0	"Harry Truman"
 USA_chester_nimitz:0	"Chester Nimitz"
-
-
-
 USA_robert_oppenheimer:0	"Robert Oppenheimer"
 USA_curtis_lemay:0	"Curtis Lemay"
 USA_frank_knox:0	"Frank Knox"
-
-
-
 USA_henry_arnold:0	"Henry Arnold"
 USA_john_mccain:0	"John McCain"
 USA_oscar_westover:0	"Oscar Westover"
-
-
-
 USA_harold_mcclelland:0	"Harold McClelland"
 USA_william_standley:0	"William Standley"
 USA_john_nance_garner:0	"John Nance Garner"
-
-
-
 USA_joseph_stilwell:0	"Joseph Stilwell"
 USA_charles_mcnary:0	"Charles Mcnary"
 USA_henry_wallace:0	"Henry Wallace"
-
-
-
 USA_carl_spaatz:0	"Carl Spaatz"
 USA_george_marshall:0	"George Marshall"
 USA_jimmy_doolittle:0	"Jimmy Doolittle"
-
-
-
 USA_malin_craig:0	"Malin Craig"
 USA_william_leahy:0	"William Leahy"
 USA_dwight_eisenhower:0	"Dwight Eisenhower"
-
-
-
 USA_dewey:0	"Thomas Dewey"
 USA_norman_thomas:0	"Norman Thomas"
 USA_john_winant:0	"John Winant"
-
-
-
 USA_arthur_vandenberg:0	"Arthur Vandenberg"
 USA_j_edgar_hoover:0	"J. Edgar Hoover"
 USA_ray_wilbur:0	"Ray Wilbur"
-
-
-
 USA_allen_dulles:0	"Allen Dulles"
 USA_hoyt_s_vandenberg:0	"Hoyt S. Vandenberg"
 USA_henry_stimson:0	"Henry Stimson"
-
-
-
 USA_harry_woodring:0	"Harry Woodring"
 USA_louis_johnson:0	"Louis Johnson"
 USA_harry_hopkins:0	"Harry Hopkins"
-
-
-
 USA_raymond_e_baldwin:0	"Raymond E. Baldwin"
 USA_hl_hunt_jr:0	"Hl. Hunt Jr."
 USA_henry_ashurst:0	"Henry Ashurst"
-
-
-
 VEN_elias_guiterrez:0	"Elías Guiterrez"
 VEN_gonzalez_lopez:0	"Gonzalez Lopez"
 VEN_larrazabal_ugueto:0	"Larrazabal Ugueto"
-
-
-
 VEN_villa_lobos:0	"Villa Lobos"
 VEN_ruperto_figueroa:0	"Ruperto Figueroa"
 VEN_alejandro_baquedano:0	"Alejandro Baquedano"
-
-
-
 VEN_jose_miguel_guilarte:0	"José Miguel Guilarte"
 VIC_leon_blum:0	"Léon Blum"
 VIC_nogues_charles:0	"Nogues, Charles"
-
-
-
 XIA_zou_guan:0	"Zou Guan"
 XIA_jiang_chen:0	"Jiang Chen"
 XIA_ding_guan:0	"Ding Guan"
-
-
-
 XIA_peng_jun:0	"Peng Jun"
 XSM_ma_hongkui:0	"Ma Hongkui"
 XSM_zhang_genzhou:0	"Zhang Genzhou"
-
-
-
 XSM_lai_gan:0	"Lai Gan"
 XSM_gao_manzu:0	"Gao Manzu"
 XSM_yuan_xingfu:0	"Yuan Xingfu"
-
-
-
 YEM_hisham_ibn_yusuf:0	"Hischam ibn Yusuf"
 YEM_fawzi_ibn_abd_alqadir:0	"Fawzi ibn Abd al"
 YEM_nur_aldin_ibn_uthman:0	"Nur al"
-
-
-
 YEM_mustafa_ibn_hasan:0	"Mustafa ibn Hasan"
 YEM_ahmad_al_hamid:0	"Ahmad al Hamid"
 YUG_josip_broz_tito:0	"Josip Broz Tito"
-
-
-
 YUG_laxa:0	"Laxa"
 YUG_nadj:0	"Nadj"
 YUG_steinfl:0	"Steinfl"
-
-
-
 YUG_danilo_jokic:0	"Danilo Jokic"
 YUN_lu_han:0	"Lu Han"
 YUN_kurukikov:0	"Kurukikov"
-
-
-
 YUN_kang_qingnan:0	"Kang Qingnan"
 YUN_cai_bing:0	"Cai Bing"
 YUN_xiang_niaoka:0	"Xiang Niaoka"
-
-
-
 YUT_bai_an:0	"Bai An"
 YUT_wang_jun:0	"Wang Jun"
 YUT_fan_bing:0	"Fan Bing"
-
-
-
 YUT_shen_yao:0	"Shen Yao"
 ZXL_zhang_xueliang:0	"Zhang Xueliang"
 ZXL_yang_hucheng:0	"Yang Hucheng"
-
-
-
 ZXL_chen_dewei:0	"Chen Dewei"
 ZXL_kong_xing:0	"Kong Xing"
 ZXL_cao_deshi:0	"Cao Deshi"
-
-
-
 AFG_sardar_khan:0	"Sardar Khan"
 ALB_agimi:0	"Agimi"
-
-
-
 ALB_xhemal_aranitasi:0	"Xhemal Aranitasi"
 ARG_fanny_jabcovsky:0	"Fanny Jabcovsky"
 ARG_florit:0	"Florit"
-
-
-
 ARG_mosconi:0	"Mosconi"
 ARG_nimo_de_anquin:0	"Nimio de Anquín"
 ARG_peron:0	"Peron"
-
-
-
 ARG_sueyro_benito:0	"Benito Sueyro"
 ARG_teisaire_alberto:0	"Alberto Teisaire"
 ARG_videla:0	"Videla"
-
-
-
 AST_julius_streeter:0	"Julius Streeter"
 AST_robert_menzies:0	"Robert Menzies"
 AUS_arthur_seyssinquart:0	"Arthur Seyss-Inquart"
-
-
-
 AUS_hickmann:0	"Hickmann"
 AUS_kubena:0	"Kubena"
 AUS_von_brudermann:0	"Rudolf von Brudermann"
-
-
-
 BEL_baesens_auguste:0	"Auguste Baesens"
 BEL_bergen_edouard_van_den:0	"Edward van den Bergen"
 BEL_charles_bus:0	"Karl Bus"
-
-
-
 BEL_jef_francois:0	"Jef François"
 BEL_keyaerts_m:0	"M. Keyaerts"
 BEL_king_leopold_iii:0	"Leopold III."
-
-
-
 BEL_victor_de_laveleye:0	"Victor de Laveleye"
 BEL_paul_emile_janson:0	"Paul-Emile Janson"
 BHU_jigme_wangchuck:0	"Jigme Wangchuck"
-
-
-
 BMP_harold_alfred_macmichael:0	"Harold MacMichael"
 BMP_hussam_jarallah:0	"Hussam ad-Din Jarallah"
 BMP_leopold_trepper:0	"Leopold Trepper"
-
-
-
 BMP_yitzhak_zvi:0	"Jitzhak Ben-Zvi"
 BOL_basutto_arancha:0	"Arancha Basutto"
 BOL_diego_melgarejo:0	"Carlos Quintanilla"
-
-
-
 BOL_jose_luis_tejada_sorzano:0	"José Luis Tejada Sorzano"
 BOL_juan_francisco_de_la_cruz:0	"Gualberto Villarroel"
 BOL_ladislao_gamarra:0	"Ladislao Gamarra"
-
-
-
 BRA_abreu_hugo_de:0	"Hugo De Abreu"
 BRA_alencar_faria_de:0	"Faria de Alencar"
 BRA_assis_de:0	"De Assis"
-
-
-
 BRA_costa_pereira_da:0	"Costa Pereira"
 BRA_cunha_tavares_da:0	"Cunha e Tavares"
 BRA_custodio_jordao:0	"Custodio Jordao"
-
-
-
 BRA_getulio_c_vargas:0	"Getúlio Vargas"
 BRA_gois_monteiro_pedro_aurelio_de:0	"Pedro Aurélio de Góis Monteiro"
 BRA_henrique_vieja_do:0	"Vieja do Henrique"
-
-
-
 BRA_marais_guilhem_do:0	"Guilhem do Marais"
 BRA_mascarenhas_de_morais_joao_batista:0	"Mascarenhas de Morais"
 BRA_nelson_de_melo:0	"Nelson De Melo"
-
-
-
 BRA_pinhas:0	"Pinhas"
 BRA_pinto_macedo_correa:0	"António Correia Pinto de Macedo"
 BRA_pitaluga_plinio:0	"Pitaluga Plinio"
-
-
-
 BRA_silva_junior_francisco_jose_da:0	"Francisco José da Silva Júnior"
 BRA_silva_simoes_da:0	"Simones da Silva"
 BRA_soares_loesch:0	"Soares Loesch"
-
-
-
 BUL_georgi_kyoseivanov:0	"Georgi Kjosejewanow"
 BUL_georgi_nikolov_popov:0	"Georgi Popow"
 BUL_ivanov:0	"Iwanow"
-
-
-
 BUL_vasil_tenev_boydev:0	"Wassil Bojdev"
 BUL_vladimir_dimitrov_stoychev:0	"Wladimir Stoitschev"
 BUL_zivko_topalovic:0	"Živko Topalović"
-
-
-
 BUR_u_pu:0	"U. Pu"
 BUR_w_l_o_twiss:0	"W.L.O. Twiss"
-
-
-
-
 CAN_abraham_heaps:0	"Abraham Albert Heaps"
-
-
 CAN_h_t_bailliegrohman:0	"H.T. Baillie-Grohman"
 CAN_maurice_duplessis:0	"Maurice Le Noblet Duplessis"
 CAN_hoffmeister_bert:0	"Bert Hoffmeister"
 CAN_montague_john:0	"John Montague"
-
 CHI_kwong_jiang:0	"Kwong Jiang"
 CHI_liao_wupen:0	"Liao Wupen"
-
-
-
-
 CHI_zhang_wupen:0	"Zhang Wupen"
-
-
 CHL_carlos_contreras_labarca:0	"Carlos Contreras Labarca"
 CHL_jaramillo_luis_alvarez:0	"Luis Fernando Álvarez Jaramillo"
 CHL_jorge_gonzalez_von_marees:0	"Jorge González de Marées"
 CHL_otarola_escudero_oscar:0	"Óscar Escudero"
-
 CHL_reyes_del_rio_olegario:0	"Reyes del Rio Olegario"
 COS_oscar_mejia:0	"Oscar Mejia"
-
-
-
-
 ENG_barker_evelyn:0	"Evelyn Barker"
-
-
 ENG_cassels_jim:0	"Jim Cassels"
 ENG_combe_john:0	"John Combe"
 ENG_herbert_lumsden:0	"Herbert Lumsden"
 ENG_alan_bourne:0	"Alan Bourne"
-
 ENG_darcy_john:0	"John Darcy"
 ENG_dempsey_miles:0	"Miles Dempsey"
-
-
-
-
 ENG_giffard_george:0	"George Giffard"
-
-
 ENG_hutton_thomas_jacomb:0	"Thomas Jacomb Hutton"
 ENG_jfc_fuller:0	"J.F.C. Fuller"
 ENG_keightley_charles:0	"Charles Keightley"
 ENG_laycock_edward:0	"Edward Laycock"
-
 ENG_oconnor_richard:0	"Richard O'Connor"
 ENG_oswald_mosley:0	"Oswald Mosley"
-
-
-
-
 ENG_ritchie_neil:0	"Ritchie Neil"
-
-
 ENG_stockwell_hugh:0	"Hugh Stockwell"
 ENG_wavell_archibald:0	"Archibald Wavell"
 ENG_wilson_henry:0	"Henry Wilson"
 ENG_winston_churchill:0	"Winston Churchill"
-
 EST_johannes_kabin:0	"John Kabin"
 FIN_pietari_salmenoja:0	"Peter Salmenoy"
-
-
-
-
 FRA_andre_le_troquer:0	"Andre Le Troquer"
-
-
 FRA_audet_sylvestre:0	"Audrey Sylvestre"
 FRA_ayme_georges:0	"Georges-Albert Aymé"
 FRA_barjot_pierre:0	"Pierre Barjot"
 FRA_benoit_frachon:0	"Benoît Frachon"
-
 FRA_bethouart_antoine:0	"Antoine Béthouart"
 FRA_billotte_gaston:0	"Gaston Billotte"
-
-
-
-
 FRA_bougrain_gabriel:0	"Gabriel Bougrain"
-
-
 FRA_brosseau_t:0	"T. Brosseau"
 FRA_cabanier_georges:0	"Georges Cabanier"
 FRA_caldairou_louis:0	"Benoît Frachon"
 FRA_callies_jean:0	"Jean-Jules Alexis Callies"
-
 FRA_carpentier_marcel:0	"Marcel Carpentier"
 FRA_castex_raoul:0	"Raoul Castex"
-
-
-
-
 FRA_daniel_renoult:0	"Daniel Renoult"
-
-
 FRA_de_la_porte_du_theil_joseph:0	"Paul Marie Joseph de La Porte du Theil"
 FRA_de_larminat_rene:0	"Edgard de Larminat"
 FRA_decoux_jean:0	"Jean Decoux"
 FRA_delestraint_charles:0	"Charles Delestraint"
-
 FRA_dronne_raymond:0	"Raymond Dronne"
 FRA_edouard_herriot:0	"Édouard Herriot"
-
-
-
-
 FRA_gabriel_auphan:0	"Gabriel Auphan"
-
-
 FRA_gensoul_marcel:0	"Marcel-Bruno Gensoul"
 FRA_georges_alphonse:0	"Alphonse Joseph Georges"
 FRA_georges_durand_viel:0	"Georges Durand-Viel"
 FRA_georges_levy:0	"Georges Levy"
-
 FRA_giraud_henri:0	"Henri Giraud"
 FRA_girot_de_langlade_paul:0	"Paul von Langlade"
-
-
-
-
 FRA_henri_bourdeaux:0	"Heinrich Bordeaux"
-
-
 FRA_jacques_correze:0	"Jacques Corrèze"
 FRA_jacques_doriot:0	"Jacques Doriot"
 FRA_jean_jerome:0	"Jean Jerome"
 FRA_jean_moulin:0	"Jean Moulin"
-
 FRA_juin_alphonse:0	"Alphonse Juin"
 FRA_jules_moch:0	"Jules Moch"
-
-
-
-
 FRA_le_bigot_jules:0	"Jules Le Bigot"
-
-
 FRA_legentilhomme_paul:0	"Paul Legentilhomme"
 FRA_louis_marin:0	"Louis Marin"
 FRA_magnan_joseph:0	"Joseph-Abraham-Auguste-Pierre-Edouard Magnan"
 FRA_malaguti_michel:0	"Michel Malaguti"
-
 FRA_marcel_deat:0	"Marcel Déat"
 FRA_marcel_gitton:0	"Marcel Gitton"
-
-
-
-
 FRA_mauss_q:0	"Q. Masse"
-
-
 FRA_noiret_charles:0	"Henri Charles"
 FRA_olleris_pierre:0	"Olleris, Pierre-Armand-Marie-Robert"
 FRA_ortoli_paul:0	"Paul Ortoli"
 FRA_paul_faure:0	"Paul Faure"
-
 FRA_pierre_etienne_flandin:0	"Pierre-Étienne Flandin"
 FRA_pierre_mathe:0	"Pierre Mathé"
-
-
-
-
 FRA_rene_pleven:0	"Rene Pleven"
-
-
 FRA_richard_alfred_louis:0	"Alfred Louis Richard"
 FRA_rousseau_n:0	"N. Rousseau"
 FRA_schlesser_guy:0	"Guy Schlesser"
 FRA_sevez_francois:0	"François Sevez"
-
 FRA_touzet_du_vigier_jean:0	"Jean Touzet du Vigier"
 FRA_vaillancourt_d:0	"D. Vaillancourt"
-
-
-
-
 FRA_zeller_henri:0	"Henri Zeller"
-
-
 GER_herberternst_vahl:0	"Herbert-Ernst Vahl"
 GRE_konstantinos_maniadakis:0	"Konstantinos Maniadakis"
 HOL_adrianus_rudolphus_van_den_bent:0	"Adrianus Rudolphus van den Bent"
 HOL_andries_dirk_de_graaf:0	"Andries Cornelis Dirk de Graeff"
-
 HOL_antonie_pannekoek:0	"Antonie Pannekoek"
 HOL_cornelis_van_geelkerken:0	"Cornelis van Geelkerken"
-
-
-
-
 HOL_meinout_rost_van_tonningen:0	"Meinoud Rost van Tonningen"
-
-
 LIT_aleksandras_stulginskis:0	"Aleksandras Stulginskis"
 LIT_jonas_staugaitis:0	"Jonas Staugaitis"
 LIT_kazys_grinius:0	"Kazys Grinius"
 LIT_vytautas_petrulis:0	"Vytautas Petrulis"
-
 MEN_Chen_Gongbo:0	"Chen Gongbo"
 MEX_ernesto_alvarez:0	"Ernesto Álvarez"
-
-
-
-
 NEW_alfred_howell:0	"Alfred Howell"
-
-
 NEW_david_coffey:0	"David Coffey"
 NEW_francis_roche:0	"Francis Roche"
 NEW_harold_lake:0	"Harold Lake"
 NEW_humphrey_walwyn:0	"Humphrey Walwyn"
-
 NEW_maxwell_coles:0	"Maxwell Coles"
 NEW_pierre_edouard_leclerc:0	"Pierre Edouard Leclerc"
-
-
-
-
 NZL_toko_ratana:0	"Toko Ratana"
-
-
 PER_sajjadi:0	"Sajjadi"
 POR_marcelo_caetano:0	"Marcelo Caetano"
 PRC_chen_geng:0	"Chen Geng"
 PRU_oscar_benavides:0	"Oscar Benavides"
-
 SIK_khoja_niaz:0	"Khoja Niyaz"
 SPR_alvarez_alegria:0	"Algerien Alvarez"
-
-
-
-
 TIB_dorji_gyaltsen:0	"Dorji Gyaltsen"
-
-
 USA_keyes_geoffrey:0	"Geoffrey Keyes"
 USA_james_gavin:0	"James Gavin"
 USA_roy_geiger:0	"Roy Geiger"
 USA_Simon_Buckner_Jr:0	"Simon Buckner"
-
 USA_stanley_ford:0	"Stanley Ford"
 USA_hugh_drum:0	"Hugh Drum"
-
-
-
-
 USA_Joseph_McNarney:0	"Joseph McNarney"
-
-
 YUG_aleksandar_markovic:0	"Aleksandar Marković"
 YUG_dura_jankovic:0	"Duro Jankovic"
 YUG_ivo_lola_ribar:0	"Ivo Lola Ribar"
 YUG_petar_kosic:0	"Petar Kosić"
 FIN_toivo_kivimaki:0	"Toivo Mikael Kivimäki"
-
-
-
-
-
-
-
-
-
 GER_konstantin_von_neurath_party_alt:	"£apolitical_alt Konstatin von Neurath"
 GER_joachim_von_ribbentrop_party:	"£Faschismus Joachim von Ribbentrop"
 GER_joachim_von_ribbentrop_party_alt:	"£fascism_alt Joachim von Ribbentrop"
@@ -2662,13 +1972,6 @@ GER_heinrich_himmler_party:	"£Faschismus Heinrich Himmler"
 GER_heinrich_himmler_party_alt:	"£fascism_alt Heinrich Himmler"
 GER_reinhard_heydrich_party:	"£Faschismus Reinhard Heydrich"
 GER_reinhard_heydrich_party_alt:	"£fascism_alt Reinhard Heydrich"
-
-
-
-
-
-
-
 GER_hjalmar_schacht_party_alt:	"£conservatism_alt Hjalmar Schacht"
 GER_hermann_goering_party:	"£Faschismus Hermann Göring"
 GER_hermann_goering_party_alt:	"£fascism_alt Hermann Göring"
@@ -2676,13 +1979,6 @@ GER_walther_funk_party:	"£anti_kommunist Walter Funk"
 GER_walther_funk_party_alt:	"£anti_communist_alt Walter Funk"
 GER_alfried_krupp_party:	"£Faschismus Alfried Krupp"
 GER_alfried_krupp_party_alt:	"£fascism_alt Alfried Krupp"
-
-
-
-
-
-
-
 GER_franz_schlegelberger_party_alt:	"£fascism_alt Franz Schlegelberger"
 GER_hans_kerrl_party:	"£Faschismus Hans Kerrl"
 GER_hans_kerrl_party_alt:	"£fascism_alt Hans Kerrl"
@@ -2690,13 +1986,6 @@ GER_bernhard_rust_party:	"£Faschismus Bernhard Rust"
 GER_bernhard_rust_party_alt:	"£fascism_alt Bernhard Rust"
 GER_wilhelm_ohnesorge_party:	"£Faschismus Wilhelm Ohnesorge"
 GER_wilhelm_ohnesorge_party_alt:	"£fascism_alt Wilhelm Ohnesorge"
-
-
-
-
-
-
-
 SOV_joseph_vissarionovich_stalin_party_alt:	"£communism_alt Joseph Vissarionovich Stalin"
 SOV_mikhail_kalinin_party:	"£Kommunismus Michail Kalinin"
 SOV_mikhail_kalinin_party_alt:	"£communism_alt Michail Kalinin"
@@ -2704,13 +1993,6 @@ SOV_nikita_khrushchyov_party:	"£Kommunismus Nikita Chruschtschow"
 SOV_nikita_khrushchyov_party_alt:	"£communism_alt Nikita Chruschtschow"
 SOV_vyacheslav_molotov_party:	"£Kommunismus Wjatscheslaw Molotow"
 SOV_vyacheslav_molotov_party_alt:	"£communism_alt Vyacheslav Molotov"
-
-
-
-
-
-
-
 SOV_viktor_abakumov_party_alt:	"£communism_alt Viktor Abakumov"
 SOV_andrei_bubnov_party:	"£unpolitischer Andrei Bubnov"
 SOV_andrei_bubnov_party_alt:	"£apolitical_alt Andrei Bubnov"
@@ -2718,13 +2000,6 @@ SOV_vladimir_milyutin_party:	"£Kommunismus Wladimir Milyutin"
 SOV_vladimir_milyutin_party_alt:	"£communism_alt Vladimir Milyutin"
 SOV_nikolai_voznesensky_party:	"£Kommunismus Nikolai Voznesensky"
 SOV_nikolai_voznesensky_party_alt:	"£communism_alt Nikolai Voznesensky"
-
-
-
-
-
-
-
 SOV_boris_vannikov_party_alt:	"£communism_alt Boris Vannikov"
 USA_franklin_delano_roosevelt_party:	"£Liberalismus Franklin Delano Roosevelt"
 USA_franklin_delano_roosevelt_party_alt:	"£liberalism_alt Franklin Delano Roosevelt"
@@ -2732,13 +2007,6 @@ USA_wendell_willkie_party:	"£Konservatismus Wendel Willkie"
 USA_wendell_willkie_party_alt:	"£conservatism_alt Wendel Willkie"
 USA_robert_taft_party:	"£Konservatismus Robert Taft"
 USA_robert_taft_party_alt:	"£conservatism_alt Robert Taft"
-
-
-
-
-
-
-
 USA_charles_mcnary_party_alt:	"£conservatism_alt Charles Mcnary"
 USA_henry_wallace_party:	"£Sozialismus Henry Wallace"
 USA_henry_wallace_party_alt:	"£socialism_alt Henry Wallace"
@@ -2746,13 +2014,6 @@ USA_alf_m_landon_party:	"£Konservatismus Alf M Landon"
 USA_alf_m_landon_party_alt:	"£conservatism_alt Alf M Landon"
 USA_dewey_party:	"£Konservatismus Thomas Dewey"
 USA_dewey_party_alt:	"£conservatism_alt Thomas Dewey"
-
-
-
-
-
-
-
 USA_john_foster_dulles_party_alt:	"£conservatism_alt John Foster Dulles"
 USA_gerald_nye_party:	"£Konservatismus Gerald Nye"
 USA_gerald_nye_party_alt:	"£conservatism_alt Gerald Nye"
@@ -2760,13 +2021,6 @@ USA_arthur_vandenberg_party:	"£Konservatismus Arthur Vandenberg"
 USA_arthur_vandenberg_party_alt:	"£conservatism_alt Arthur Vandenberg"
 USA_j_edgar_hoover_party:	"£anti_communist J Edgar Hoover"
 USA_j_edgar_hoover_party_alt:	"£anti_communist_alt J Edgar Hoover"
-
-
-
-
-
-
-
 USA_hoyt_s_vandenberg_party_alt:	"£conservatism_alt Hoyt S Vandenberg"
 USA_henry_stimson_party:	"£Konservatismus Henry Stimson"
 USA_henry_stimson_party_alt:	"£conservatism_alt Henry Stimson"
@@ -2774,13 +2028,6 @@ USA_donald_nelson_party:	"£Liberalismus Donald Nelson"
 USA_donald_nelson_party_alt:	"£liberalism_alt Donald Nelson"
 USA_henry_morgenthau_party:	"£Liberalismus Henry Morgenthau"
 USA_henry_morgenthau_party_alt:	"£liberalism_alt Henry Morgenthau"
-
-
-
-
-
-
-
 USA_harold_ickes_party_alt:	"£liberalism_alt Harold Ickes"
 USA_john_d_rockefeller_jr_party:	"£Konservatismus John D Rockefeller Jr."
 USA_john_d_rockefeller_jr_party_alt:	"£conservatism_alt John D Rockefeller Jr."
@@ -2788,13 +2035,6 @@ USA_raymond_e_baldwin_party:	"£Konservatismus Raymond E. Baldwin"
 USA_raymond_e_baldwin_party_alt:	"£conservatism_alt Raymond E Baldwin"
 USA_hl_hunt_jr_party:	"£apolitischer Hl Hunt Jr"
 USA_hl_hunt_jr_party_alt:	"£apolitical_alt Hl Hunt Jr"
-
-
-
-
-
-
-
 USA_william_mcadoo_party_alt:	"£liberalism_alt William Gibbs McAdoo"
 USA_james_mead_party:	"£Liberalismus James Michael Mead"
 USA_james_mead_party_alt:	"£liberalism_alt James Michael Mead"
@@ -2802,13 +2042,6 @@ USA_charles_plumley_party:	"£Konservatismus Charles Albert Plumley"
 USA_charles_plumley_party_alt:	"£conservatism_alt Charles Albert Plumley"
 USA_john_bricker_party:	"£Konservatismus John Bricker"
 USA_john_bricker_party_alt:	"£conservatism_alt John Bricker"
-
-
-
-
-
-
-
 ENG_edward_viii_party_alt:	"£fascism_alt Edward VIII"
 ENG_arthur_greenwood_party:	"£Sozialismus Arthur Greenwood"
 ENG_arthur_greenwood_party_alt:	"£socialism_alt Arthur Greenwood"
@@ -2816,13 +2049,6 @@ ENG_herbert_morrison_party:	"£Konservatismus Herbert Morrison"
 ENG_herbert_morrison_party_alt:	"£conservatism_alt Herbert Morrison"
 ENG_sir_samuel_hoare_party:	"£Konservatismus, Sir Samuel Hoare"
 ENG_sir_samuel_hoare_party_alt:	"£conservatism_alt Sir Samuel Hoare"
-
-
-
-
-
-
-
 ENG_lord_halifax_party_alt:	"£conservatism_alt Lord Halifa"X
 ENG_neville_chamberlain_party:	"£Konservatismus Neville Chamberlain"
 ENG_neville_chamberlain_party_alt:	"£conservatism_alt Neville Chamberlain"
@@ -2830,13 +2056,6 @@ ENG_maxwell_aitken_party:	"£Konservatismus Maxwell Aitken"
 ENG_maxwell_aitken_party_alt:	"£conservatism_alt Maxwell Aitken"
 ENG_leslie_hore_belisha_party:	"£Liberalismus Leslie Hore-Belisha"
 ENG_leslie_hore_belisha_party_alt:	"£liberalism_alt Leslie Hore-Belisha"
-
-
-
-
-
-
-
 ENG_harold_wilson_party_alt:	"£socialism_alt Harold Wilson"
 ENG_harry_pollitt_party:	"£Sozialismus Harry Pollitt"
 ENG_harry_pollitt_party_alt:	"£socialism_alt Harry Pollitt"
@@ -2844,13 +2063,6 @@ ENG_george_hall_party:	"£sozialismus George Henry Hall"
 ENG_george_hall_party_alt:	"£socialism_alt George Henry Hall"
 ENG_euan_wallace_party:	"£Konservatismus David Euan Wallace"
 ENG_euan_wallace_party_alt:	"£conservatism_alt David Euan Wallace"
-
-
-
-
-
-
-
 ENG_walter_elliot_party_alt:	"£conservatism_alt Walter Elliot Elliot"
 ENG_chuter_ede_party:	"£sozialismus James Chuter Ede"
 ENG_chuter_ede_party_alt:	"£socialism_alt James Chuter Ede"
@@ -2858,13 +2070,6 @@ ENG_herbrand_sackville_party:	"£sozialismus Herbrand Edward Dundonald Brassey S
 ENG_herbrand_sackville_party_alt:	"£socialism_alt Herbrand Edward Dundonald Brassey Sackville"
 ENG_stephen_furness_party:	"£Liberalismus Stephen Noel Furness"
 ENG_stephen_furness_party_alt:	"£liberalism_alt Stephen Noel Furness"
-
-
-
-
-
-
-
 FRA_paul_reynaud_party_alt:	"£conservatism_alt Paul Reynaud"
 FRA_pierre_laval_party:	"£Faschismus Pierre Laval"
 FRA_pierre_laval_party_alt:	"£fascism_alt Pierre Laval"
@@ -2872,13 +2077,6 @@ FRA_albert_sarraut_party:	"£Liberalismus Albert Sarraut"
 FRA_albert_sarraut_party_alt:	"£liberalism_alt Albert Sarraut"
 FRA_leon_blum_party:	"£Sozialismus Léon Blum"
 FRA_leon_blum_party_alt:	"£socialism_alt Léon Blum"
-
-
-
-
-
-
-
 FRA_albert_lebrun_party_alt:	"£apolitical_alt Albert Lebrun"
 FRA_benoit_frachon_party:	"£Kommunismus Benoît Frachon"
 FRA_benoit_frachon_party_alt:	"£communism_alt Benoît Frachon"
@@ -2886,13 +2084,6 @@ FRA_jacques_duclos_party:	"£Kommunismus Jacques Duclos"
 FRA_jacques_duclos_party_alt:	"£communism_alt Jacques Duclos"
 FRA_georges_valois_party:	"£Faschismus Georges Valois"
 FRA_georges_valois_party_alt:	"£fascism_alt Georges Valois"
-
-
-
-
-
-
-
 FRA_georges_bonnet_party_alt:	"£conservatism_alt Georges Bonnet"
 FRA_henri_queuille_party:	"£Liberalismus Henri Queuille"
 FRA_henri_queuille_party_alt:	"£liberalism_alt Henri Queuille"
@@ -2900,13 +2091,6 @@ FRA_edouard_herriot_party:	"£Liberalismus Édouard Herriot"
 FRA_edouard_herriot_party_alt:	"£liberalism_alt Édouard Herriot"
 FRA_marcel_cachin_party:	"£Kommunismus Marcel Cachin"
 FRA_marcel_cachin_party_alt:	"£communism_alt Marcel Cachin"
-
-
-
-
-
-
-
 FRA_marx_dormoy_party_alt:	"£socialism_alt Marx Dormoy"
 FRA_claudine_chomat_party:	"£Kommunismus Claudine Chomat"
 FRA_claudine_chomat_party_alt:	"£communism_alt Claudine Chomat"
@@ -2914,13 +2098,6 @@ FRA_henri_bourdeaux_party:	"£Kommunismus Henry Bordeau"X
 FRA_henri_bourdeaux_party_alt:	"£communism_alt Henry Bordeau"X
 FRA_jean_moulin_party:	"£Liberalismus Jean Moulin"
 FRA_jean_moulin_party_alt:	"£liberalism_alt Jean Moulin"
-
-
-
-
-
-
-
 FRA_maurice_henri_gauche_party_alt:	"£apolitical_alt Maurice-Henri Gauche"
 FRA_waldeck_rochet_party:	"£Kommunismus Waldeck Rochet"
 FRA_waldeck_rochet_party_alt:	"£communism_alt Waldeck Rochet"
@@ -2928,13 +2105,6 @@ FRA_zivony_peshkov_party:	"£anti_fascist Zivony Peshkov"
 FRA_zivony_peshkov_party_alt:	"£anti_fascist_alt Zivony Peshkov"
 FRA_felix_gouin_party:	"£Sozialismus Félix Gouin"
 FRA_felix_gouin_party_alt:	"£socialism_alt Félix Gouin"
-
-
-
-
-
-
-
 FRA_jean_jerome_party_alt:	"£communism_alt Jean Jérôme"
 FRA_georges_levy_party:	"£Kommunismus Georges Levy"
 FRA_georges_levy_party_alt:	"£communism_alt Georges Levy"
@@ -2942,13 +2112,6 @@ FRA_daniel_renoult_party:	"£Kommunismus Daniel Renoult"
 FRA_daniel_renoult_party_alt:	"£communism_alt Daniel Renoult"
 FRA_rene_pleven_party:	"£unpolitischer Rene Pleven"
 FRA_rene_pleven_party_alt:	"£apolitical_alt Rene Pleven"
-
-
-
-
-
-
-
 FRA_marcel_deat_party_alt:	"£fascism_alt Marcel Déat"
 FRA_rene_belin_party:	"£Faschismus Rene Belin"
 FRA_rene_belin_party_alt:	"£fascism_alt Rene Belin"
@@ -2956,13 +2119,6 @@ FRA_eugene_schueller_party:	"£Faschismus Eugène Schueller"
 FRA_eugene_schueller_party_alt:	"£fascism_alt Eugène Schueller"
 FRA_jacques_correze_party:	"£Faschismus Jacques Corrèze"
 FRA_jacques_correze_party_alt:	"£fascism_alt Jacques Corrèze"
-
-
-
-
-
-
-
 FRA_lucien_lamoureux_party_alt:	"£liberalism_alt Lucien Lamoureu"X
 FRA_roger_roche_party:	"£Kommunismus Roger Roche"
 FRA_roger_roche_party_alt:	"£communism_alt Roger Roche"
@@ -2970,30 +2126,18 @@ FRA_aime_berthod_party:	"£Liberalismus Aimé Berthod"
 FRA_aime_berthod_party_alt:	"£liberalism_alt Aimé Berthod"
 FRA_albert_rivaud_party:	"£Neutralität Albert Rivaud"
 FRA_albert_rivaud_party_alt:	"£neutrality_alt Albert Rivaud"
-
-
-
-
-
-
 ITA_gian_galeazzo_ciano_party:	"£fascism  Gian Galeazzo Ciano"
 ITA_gian_galeazzo_ciano_party_alt:	"£fascism_alt  Gian Galeazzo Ciano"
 ITA_dino_grandi_party:	"£fascism  Dino Grandi"
 ITA_dino_grandi_party_alt:	"£fascism_alt  Dino Grandi"
 ITA_paolo_thaon_di_revel_party:	"£fascism  Paolo Thaon di Revel" 
 ITA_paolo_thaon_di_revel_party_alt:	"£fascism_alt  Paolo Thaon di Revel" 
-
-
 ITA_crollalanza_party:	"£fascism  Araldo di Crollalanza"
 ITA_crollalanza_party_alt:	"£fascism_alt  Araldo di Crollalanza"
-
-
 ITA_arrigo_solmi_party:	"£fascism  Arrigo Solmi"
 ITA_arrigo_solmi_party_alt:	"£fascism_alt  Arrigo Solmi"
 ITA_ferruccio_lantini_party:	"£fascism  Ferruccio Lantini"
 ITA_ferruccio_lantini_party_alt:	"£fascism_alt  Ferruccio Lantini"
-
-
 ITA_alessandro_lessona_party:	"£fascism  Alessandro Lessona"
 ITA_alessandro_lessona_party_alt:	"£fascism_alt  Alessandro Lessona"
 ITA_attilio_teruzzi_party:	"£fascism  Attilio Teruzzi"
@@ -3008,12 +2152,6 @@ ITA_giovanni_marinelli_party:	"£fascism  Giovanni Marinelli"
 ITA_giovanni_marinelli_party_alt:	"£fascism_alt  Giovanni Marinelli"
 ITA_roberto_farinacci_party:	"£fascism  Roberto Farinacci"
 ITA_roberto_farinacci_party_alt:	"£fascism_alt  Roberto Farinacci"
-
-
-
-
-
-
 ITA_umberto_II_party:	"£monarchism  Umberto II di Savoia"
 ITA_umberto_II_party_alt:	"£monarchism_alt  Umberto II di Savoia"
 JAP_hirohito_party:	"£Monarchismus Hirohito"
@@ -3232,22 +2370,12 @@ RAJ_frank_anthony_party:	"£Neutralität Frank Anthony"
 RAJ_frank_anthony_party_alt:	"£neutrality_alt Frank Anthony"
 RAJ_harry_haig_party:	"£Neutralität Harry Graham Haig"
 RAJ_harry_haig_party_alt:	"£neutrality_alt Harry Graham Haig"
-
-
 RAJ_agha_khan_iii_party:	"£Konservatismus Agha Khan III"
 RAJ_agha_khan_iii_party_alt:	"£conservatism_alt Agha Khan III"
 RAJ_hindu_mahasabha_party:	"£Sozialismus Hindu Mahasabha"
 RAJ_hindu_mahasabha_party_alt:	"£socialism_alt Hindu Mahasabha"
 RAJ_anugrah_sinha_party:	"£Sozialismus Anugrah Narayan Sinha"
 RAJ_anugrah_sinha_party_alt:	"£socialism_alt Anugrah Narayan Sinha"
-
-
-
-
-
-
-
-
 NZL_keith_j_holyoake_party:	"£Konservatismus Keith J. Holyoake"
 NZL_keith_j_holyoake_party_alt:	"£conservatism_alt Keith J. Holyoake"
 NZL_apirana_ngata_party:	"£Liberalismus Āpirana Ngata"
@@ -3797,117 +2925,6 @@ PER_yusuf_party_alt:	"£apolitical_alt Youssef Moschar"
 PER_sajjadi_party:	"£monarchism Sajjadi"
 PER_sajjadi_party_alt:	"£monarchism_alt Sajjadi"
 PER_azizullah_party:	"£Monarchismus Azizullah Zarghami"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 FRA_charles_maurras:0	"$charles_maurras$"
 ENG_leopold_cardigan:0	"Leopold Cardigan"
 GER_august_von_mackensen:0	"August von Mackensen"

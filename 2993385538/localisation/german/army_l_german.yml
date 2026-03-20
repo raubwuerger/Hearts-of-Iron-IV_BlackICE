@@ -195,58 +195,30 @@ COMMANDER_ROSTER_ARMY_TOOLTIP:0	"§HGeneräle§!"
 COMMANDER_ROSTER_ARMY_TOOLTIP_DELAYED:0	"Generäle und Feldmarschälle mit einer Fertigkeitsstufe von 4 oder höher und der richtigen Eigenschaft können eine Beraterrolle erhalten und in Ihr Offizierskorps als Militärisches Oberkommando oder Chef der Armee eingesetzt werden."
 COMMANDER_ROSTER_NAVY_TOOLTIP:0	"§HAdmirale§!"
 COMMANDER_ROSTER_NAVY_TOOLTIP_DELAYED:0	"Admirale mit einer Fertigkeitsstufe von 4 oder höher und der richtigen Eigenschaft können eine Beraterrolle erhalten und in Ihr Offizierskorps als Militärisches Oberkommando oder als Chef der Marine eingesetzt werden."
-
-
-
-
 OFFICER_HIRE:0	"Anheuern"
 OFFICER_FIRE:0	"Feuern"
 OFFICER_DISMISS:0	"Beseitigen"
 OFFICER_REMOVE:0	"Offizier entfernen"
-
-
-
-
 OFFICERS_SELECT:0	"Wählen Sie §HOfficers§!"
 OFFICERS_SELECT_CUSTOM:0	"Wählen Sie §H$NAME$§!"
 OFFICERS_FIRE_CUSTOM:0	"Wählen Sie zu §RFire§!"
 OFFICERS_DISMISS_CUSTOM:0	"Wählen Sie zu §RPurge§!"
-
-
-
-
 OFFICER_ADVISORS:0	"Berater/Theoretiker"
 OFFICERS_NEW_ADVISORS:0	"Verfügbare Berater"
 ARMY_GENERATE_ADVISOR:0	"Heer anheuern £pol_power $COST|-0$"
 AIR_GENERATE_ADVISOR:0	"Luft anheuern £pol_power $COST|-0$"
-
-
-
-
 OFFICER_CORP_AIR_DOCTRINE:1	"Kommando Luftwaffe"
 OFFICER_CORP_SPIRITS:0	"Geister"
 OFFICER_CORP_PREFERED_TACTICS:0	"Bevorzugte Taktiken"
 OFFICER_CORP_PREFERRED_TACTICS_SELECTION:0	"Bevorzugte Taktiken Auswahl\n"
-
-
-
-
 PREFERRED_TACTIC_CHARACTER_SELECTION_LIST_HEADER:0	"Charakter auswählen Bevorzugte Taktik"
 PREFERRED_TACTIC_SELECTION_FILTER_ATTACK:0	"Angreifen"
 PREFERRED_TACTIC_SELECTION_FILTER_DEFEND:0	"Verteidigen"
 PREFERRED_TACTIC_SELECTION_FILTER_ALL:0	"Alle"
-
-
-
-
 ARMY_LEADER_CURRENT_PREFERRED_TACTIC:0	"Dauerhaft ausgewählte bevorzugte Anführertaktik: $TACTIC|H$ \n"
 ARMY_LEADER_SELECT_TACTIC_CONFIRMATION_DESC:0	"Sind Sie sicher, dass Sie $TACTIC|H$ als bevorzugte Taktik für $NAME$ auswählen möchten? \n\nDie Wahl ist dauerhaft.\n"
 ARMY_LEADER_ALREADY_HAS_PREFERRED_TACTIC:0	"Dieser Charakter hat bereits eine bevorzugte Taktik ausgewählt.\n"
 PREFERRED_TACTIC_DESC:2	"Die bevorzugte Taktik des Landes hat eine zusätzliche $CHANCE|H$ Chance, im Kampf ausgewählt zu werden."
-
-
-
-
 OFFICER_CORP_COUP_POSITIVE_PROGRESS:0	"Faktoren, die den Putsch vorantreiben: $VAL|0+%$"
 OFFICER_CORP_COUP_NEGATIVE_PROGRESS:0	"Faktoren, die den Putsch rückgängig machen: $VAL|0+%$"
 ARMY_MOTORIZATION_PRIORITY:0	"§NMotorisierungspriorität§!\nMotorisierung priorisiert Lastwagen aus dem Vorrat, um diese Armee mit notwendigem Nachschub von Nachschubknotenpunkten zu versorgen, die sonst außer Reichweite wären.\n§GKlick§!, um die Prioritäten durchzugehen."

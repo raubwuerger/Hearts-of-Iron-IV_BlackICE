@@ -2,27 +2,12 @@
 HSD_COST_TT:0	"[HSD_COST_COLOR] £navy_experience [?cost|0]"
 Y_C:0	"§Y"
 R_C:0	"§R"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 DD_Zerstorer1936:	"Zerstörer 1936 Klasse"
 DD_Zerstorer1938A:	"Zerstörer 1938A Klasse"
 DD_Zerstorer1942:	"Zerstörer 1942 Klasse"
 DD_Zerstorer1944:	"Zerstörer 1944 Klasse"
 DD_Zerstorer1945:	"Zerstörer 1945 Klasse"
 DE_Geleitboot1941:	"Geleitboot 1941 Klasse"
-
 TB_Type37:	"Typ 37 Klasse"
 TB_Type39:	"Typ 39 Klasse"
 TB_Type41:	"Typ 41 Klasse"
@@ -51,8 +36,6 @@ CA_baltimore:	"Baltimore Klasse"
 CA_oregon_city:	"Oregon City Klasse"
 CA_des_moines:	"Des Moines Klasse"
 CL_brooklyn:	"Brooklyn Klasse"
-
-
 CL_cleveland:	"Cleveland Klasse"
 CL_fargo:	"Fargo Klasse"
 CL_worcester:	"Worcester Klasse"
@@ -99,8 +82,6 @@ CL_dido:	"Dido Klasse"
 CL_fiji:	"Fidschi Klasse"
 CL_swiftsure:	"Swiftsure Klasse"
 DD_I_class:	"I Klasse"
-
-
 DD_LM_class:	"L/M Klasse"
 DD_OP_class:	"O/P Klasse"
 DD_QR_class:	"Q/R Klasse"
@@ -121,8 +102,6 @@ FF_River:	"Fluss Klasse"
 FF_Loch:	"Loch Klasse"
 FF_Bay:	"Bucht Klasse"
 MS_Bangor:	"Bangor Klasse"
-
-
 SSc_U_class:	"U Klasse"
 SSc_V_class:	"V Klasse"
 SS_A_class:	"A Klasse"
@@ -146,79 +125,10 @@ DD_yugumo:	"Yugumo Klasse"
 DD_shimikaze:	"Shimikaze Klasse"
 DD_akizuki:	"Akizuki Klasse"
 DD_super_shimikaze:	"Super-Shimikaze Klasse"
-
-
 DDE_tachibana:	"Tachibana Klasse"
 E_shimushu:	"Shimushu Klasse"
 E_etorofu:	"Etorofu Klasse"
 E_mikura:	"Mikura Klasse"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 BB_scharnhorst:	"Scharnhorst class"
 BB_scharnhorst_38cm:	"Scharnhorst class (38 cm)"
 BB_bismarck:	"Bismarck class"

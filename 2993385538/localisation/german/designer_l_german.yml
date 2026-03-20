@@ -2,63 +2,34 @@
 DESIGNER_LOCKED:0	"§RLocked§!"
 DESIGNER_ADD:1	"§GKlick zum Hinzufügen§!"
 DESIGNER_CHANGE:1	"§GKlick zum Ändern§!"
-
 DESIGNER_DUPLICATE_TO_MODIFY:0	"§RDuplizieren der Vorlage zum Ändern§!"
-
-
 DESIGNER_BLOCKED_TECH_DESC:0	"\n £trigger_no §H$NAME$ ($CATEGORY$)§!"
 DESIGNER_BLOCKED_BY_NOT_HANDLED:0	"§Um sie freizuschalten, muss der Spieler bestimmte Bedingungen erfüllen:§!"
-
 DESIGNER_REPLACE_DESC:0	"Kosten $VALUE|H0$ £army_experience zu ersetzen"
 DESIGNER_ADD_DESC:0	"Kosten $VALUE|H0$ £army_experience zum Hinzufügen"
 DESIGNER_REMOVE_DESC:0	"Kosten $VALUE|H0$ £army_experience zum Entfernen"
 DESIGNER_REMOVE_NO_COST:1	"Keine Kosten für das Entfernen"
 DESIGNER_NO_COST:0	"Keine Kosten für das Ersetzen"
-
-
-
-
-
 DESIGNER_COMBATWIDTH:0	"Kampfbreite: "
 DESIGNER_COMBATWIDTH_DESC:0	"Die Kampfbreite gibt an, wie viel Platz diese Abteilung im Kampf einnehmen wird. Wenn ein Kampf zum Beispiel eine Gesamtbreite von §Y75§! hat, können Sie §Y3§! Abteilungen mit einer Breite von §Y25§! unterbringen."
 DESIGNER_MANPOWER:0	"£manpower_texticon Soldaten: "
 DESIGNER_MANPOWER_DESC:0	"Wie viel Soldaten wird benötigt, um diese Abteilung zu füllen."
 DESIGNER_TRAINING_TIME:0	"£training_speed_texticon Ausbildungszeit: "
-
-
-
-
-
 DESIGNER_DUPLICATE:0	"Duplizieren"
 DESIGNER_DUPLICATE_DESC:1	"Duplizieren, um eine neue Vorlage für §Gfree§! zu erstellen, wenn Sie diese Vorlage speichern. Die ursprüngliche Vorlage bleibt unverändert und Sie können sie weiter verwenden, während Sie die neue Vorlage einsetzen."
 DESIGNER_DUPLICATE_OF_NAME:0	"Kopie von $TEMPLATE_NAME$"
 DESIGNER_NO_XP:0	"Keine Erfahrungspunkte zum Ausgeben"
 DESIGNER_EXPENSIVE:0	"Der Entwurf ist zu teuer"
-
-
-
-
-
 DESIGNER_AIR_SAVE:1	"Kosten £air_experience $VALUE|Y0$"
 DESIGNER_INFANTRY_LABEL:0	"Infanterie"
 DESIGNER_INFANTRY_RATIO:0	"Infanterie: $VALUE|%Y$"
 DESIGNER_ARMORED_LABEL:0	"Gepanzert"
 DESIGNER_ARMORED_RATIO:0	"Gepanzert: $VALUE|%Y$"
-
-
-
-
-
 DESIGNER_CREATE_VARIANT:0	"Variante erstellen"
 DESIGNER_MODIFY_VARIANT:0	"Variante ändern"
 DESIGNER_RENAME:0	"Umbenennen"
 DIVISION_DIVISION:0	"Abteilung Designer"
 CURRENT_EXPERIENCE:0	"Aktuelle Erfahrungspunkte"
-
-
-
-
-
 NEW_EQUIPMENT_NOW_FORBIDDEN:0	"Die Verwendung von neuer Ausrüstung ist jetzt verboten\n"
 NEW_EQUIPMENT_NOW_ALLOWED:0	"Verwendung neuer Ausrüstung ist jetzt erlaubt\n"
 ARMOR_DIRECTORY:0	"Modul Panzer"
@@ -67,138 +38,71 @@ NAVAL_DIRECTORY:0	"Schiffsmodul"
 EQUIPMENT_TYPE_NOW_FORBIDDEN:0	"\nAusrüstungstypen sind jetzt §Rverboten§!:\n"
 EQUIPMENT_TYPE_NOW_ALLOWED:0	"\nAusrüstungstypen sind jetzt §Gerlaubt§!:\n"
 EQUIPMENT_TYPE_ALL_FORBIDDEN:0	"- $EQUIPMENT_TYPE|H$ (§Rbenötigt§!)\n"
-
-
 ALLOWED_EQUIPMENT_CHANGED_FOR_TYPE:0	"\nErlaubte Ausrüstung wurde geändert für:\n"
 ALLOWED_AND_TOTAL_EQUIPMENT_OF_TYPE:0	"$EQUIPMENT_TYPE|H$ ($ALLOWED$/$TOTAL$)\n"
 NO_INTERSECTED_EQUIPMENT_TITLE:0	"Gefährliche Änderung"
-
-
-
 DIVISION_PRODUCTION_RESOURCE_DESC:0	"Ressourcen, die für die Produktion von Ausrüstung für diese Vorlage verwendet werden."
 DIVISION_PRODUCTION_COST_DESC:0	"Dies sind die §YMinimal§! und §YMaximal§! Produktionskosten für die aktuelle Division."
-
-
-
 DESIGNER_REFIT_COST_FROM_ORIGINAL:2	"Die Kosten für die Umrüstung eines Schiffes des Typs §Horiginal design§! auf diesen Typ."
 DESIGNER_REFIT_COST_FROM_ORIGINAL_LAND:0	"Die Kosten für die Umrüstung von Ausrüstung des §Horiginaldesign§! auf dieses Design."
 DESIGNER_REFIT_COST_FROM_PARENT:2	"Die Kosten für die Umrüstung eines Schiffes des Designs $PARENT_NAME|H$ auf dieses Design."
-
-
 DIVISION_PRODUCTION_COST_LAND_MAX:1	"Produktionskosten: £production_cost $VALUE|2$/$MAX|0$"
 DIVISION_PRODUCTION_COST_LAND_MAX_EXCEEDED:0	"Herstellungskosten: £production_cost $VALUE|2R$/$MAX|0$"
 DIVISION_PRODUCTION_COST_NAVAL:2	"Herstellungskosten: £navprod_cost£ $VALUE|0$"
-
-
-
 DIVISION_MODIFICATION_HEADER:1	"Diese Änderung der Vorlage wirkt sich auf die Abteilungen $AMOUNT|H$ aus."
 DIVISION_GARRISON_MODIFICATION_HEADER:0	"Diese Änderung wirkt sich auf $AMOUNT|H$ Divisionen und die Garnison von $NUMGARRISON|H$ Staaten aus."
-
-
-
 DIVISION_MODIFICATION_NEED_NOT_FILLED_GARRISON:0	"\t- $AMOUNT|H0$ zusätzlich $EQUIPMENT|H$ benötigt, um Divisionen und Garnisonen zu füllen ( §R$STOCK_AMOUNT|H0^$ verfügbar§! )"
 DIVISION_MODIFICATION_NEED_FILLED_GARRISON:0	"\t- $AMOUNT|H0$ zusätzliches $EQUIPMENT|H$ benötigt zur Besetzung von Divisionen und Garnisonen ( $STOCK_AMOUNT|H0^$ verfügbar )"
 DIVISION_MODIFICATION_LESS_EQUIPMENT_NEEDED_GARRISON:0	"\t- $AMOUNT|H0$ abzüglich $EQUIPMENT|H$ benötigt, um Divisionen und Garnisonen zu füllen"
-
-
 DESIGNER_EMPTY_REGIMENT:0	"§RSie müssen ein Kampfbataillon hinzufügen, um eine neue Divisionsvorlage zu erstellen§!"
 DESIGNER_EMPTY_NAME:0	"§RDivisionsvorlage sollte keinen leeren Namen haben§!"
 DESIGNER_TEMPLATE_NAME_EXISTS:0	"§RAnother division template with the same name already exists§!"
-
-
-
 REINFORCE_WITH_RESEARCHED_EQUIPMENT_FORBIDDEN:0	"Neue Ausrüstung ist derzeit verboten."
 REINFORCE_WITH_EQUIPMENT:1	"Aktivieren, um mit dieser Ausrüstung zu verstärken. \n§GShift-Klick§! um alle Ausrüstungen dieses Typs zu verbieten.\n"
-
-
-
 REINFORCE_WITH_TYPE_OF_EQUIPMENT:1	"Verstärkung mit dieser Art von Ausrüstung umschalten.\n"
 ALLOWED_EQUIPMENT_OF_TYPE:0	"Anzahl der erlaubten Ausrüstungen in dieser Kategorie."
 ALLOWED_EQUIPMENT_STRING_FORMAT:0	"$ALLOWED$ / $TOTAL$"
-
-
 DIVISION_NAMES_GROUP_LIST_ENTRY:0	"\n $NAME$"
 DIVISION_NAMES_GROUP_LIST_ENTRY_ETC:0	"\n ..."
 DIVISION_NAMES_GROUP_LIST_ENTRY_FALLBACK:0	"\n\n§HRückzugslinie name:§!\n $NAME$"
-
-
-
 EQUIPMENT_DESIGNER_REPLACE_DESC:1	"Kosten £$EXPERIENCE_TYPE$ $VALUE|H0$ zu ersetzen"
 EQUIPMENT_DESIGNER_REPLACE_NEGATIVE_DESC:1	"Ersetzen, um £$EXPERIENCE_TYPE$ $VALUE|H0$ zu erhalten"
-
-
-
 EQUIPMENT_DESIGNER_MODULE_SLOT_NOT_AVAILABLE:1	"Dieser Slot ist für diesen Ausrüstungstyp nicht verfügbar."
 EQUIPMENT_DESIGNER_SAVE:0	"Sparen Sie £$XPICON$ $XPCOST|Y0$"
 EQUIPMENT_DESIGNER_SAVE_DESC:1	"Geben Sie £$XPICON$ $XPCOST|Y0$ aus, um dies als §Hneuen Entwurf§! zu speichern."
-
-
 EQUIPMENT_DESIGNER_UPDATE_DESC:1	"Geben Sie £$XPICON$ $XPCOST|Y0$ aus, um die Änderungen an §Hdiesem Entwurf§! zu speichern."
 EQUIPMENT_DESIGNER_UPDATE_DESC_OBSOLETE_PARENT:1	"Da der ursprüngliche Entwurf §Hin use§! ist, wird ein neuer Entwurf erstellt. Der ursprüngliche Entwurf wird §Haushalt§! außer Betrieb genommen."
 EQUIPMENT_DESIGNER_UPDATE_DESC_NEW_ROLE:1	"Da die §HRolle§! geändert wurde, wird ein neues Muster erstellt."
-
-
-
 EQUIPMENT_DESIGNER_EMPTY_NAME:1	"§RDem Muster muss ein Name gegeben werden§!"
 EQUIPMENT_DESIGNER_NOT_ENOUGH_XP:0	"§REntwurf ist zu teuer.§!"
-
-
 EQUIPMENT_DESIGNER_NEGATIVE_STATS:0	"§RKann keine negativen Werte haben§!"
-
 EQUIPMENT_DESIGNER_DUPLICATE_DESC:1	"§HSave As New§!\nWenn Sie diesen Entwurf speichern, erstellen Sie einen neuen Entwurf für §Hfree§! Das ursprüngliche Geschmacksmuster bleibt unverändert, und Sie können es weiter verwenden, während Sie das neue Geschmacksmuster einsetzen."
 EQUIPMENT_DESIGNER_DUPLICATE_DESC_NEW_DESIGN:0	"Dies ist bereits ein neues Muster, das getrennt von dem Muster, auf dem es basiert, gespeichert wird."
 EQUIPMENT_DESIGNER_RESET:0	"Zurücksetzen"
-
-
 TANK_DESIGNER_TITLE:0	"Panzer-Designer"
 PLANE_DESIGNER_TITLE:0	"Flugzeug-Designer"
 EQUIPMENT_DESIGNER_IS_CAPITAL_SHIP_TOOLTIP:0	"Schiffe, die dieses Design verwenden, sind §HGroßkampfschiffe§!"
 EQUIPMENT_DESIGNER_IS_CAPITAL_SHIP_EFFECTS_TOOLTIP:0	"§HGroßkampfschiffe§! zeigen ein anderes Verhalten im Kampf und werden von anderen Modifikatoren beeinflusst als andere Schiffskategorien."
-
-
-
 EQUIPMENT_DESIGNER_VARIABLE_CATEGORY_TOOLTIP:0	"§YDie Wahl der Ausrüstungsmodule kann die Schiffskategorie dieses Entwurfs beeinflussen.§!"
 EQUIPMENT_DESIGNER_PRODUCTION_RESOURCE_DESC:1	"Die §HRessourcen§!, die für die Herstellung dieses Entwurfs verwendet werden."
-
-
-
-
 EQUIPMENT_DESIGNER_AIR_XP_COST:0	"£air_experience Entwurfskosten: $COST|Y0$"
 EQUIPMENT_DESIGNER_SLOT_NAME_TOOLTIP:0	"§HModule Slot:§! $NAME$"
 EQUIPMENT_DESIGNER_SLOT_MODULE_TOOLTIP:0	"§HInstalled Module:§! $NAME$"
-
-
 EQUIPMENT_DESIGNER_SLOT_ALLOWED_CATEGORIES_TOOLTIP:0	"§HErlaubte Modulkategorien§!"
 EQUIPMENT_DESIGNER_SLOT_REQUIRED_TOOLTIP:0	"Auf diesem Steckplatz muss ein Modul installiert sein."
 EQUIPMENT_DESIGNER_TORPEDO_ATTACK_ICON_TOOLTIP:0	"Torpedo-Angriff"
 EQUIPMENT_DESIGNER_LG_ATTACK_ICON_TOOLTIP:0	"Leichter Geschützangriff"
-
-
-
 ILLEGAL_EQUIPMENT_CATEGORY:1	"§RDer aktuelle Entwurf kann nicht in der $ROLE|H$-Rolle verwendet werden§!"
 REQUIRED_MODULE_EMPTY:0	"§RDem Entwurf fehlen ein oder mehrere erforderliche Module:§!"
-
-
-
-
 EQUIPMENT_MODULE_LIMIT_TITLE_EMPTY:1	"§RLeere Modul-Slots§!"
 EQUIPMENT_MODULE_LIMIT_TITLE_NAME:1	"$NAME$ §RModule§!"
 EQUIPMENT_MODULE_LIMIT_TITLE_UNKNOWN:1	"§Rspezifische Module§!"
-
-
 EQUIPMENT_DESIGNER_AUTO_BUTTON:0	"Auto"
 EQUIPMENT_DESIGNER_AUTO_BUTTON_DESC:1	"§HAuto Design§!\nErstellen Sie einen vollständigen Entwurf, der dem aktuellen Entwurf am besten entspricht."
 EQUIPMENT_DESIGNER_AUTO_BUTTON_DESC_DELAYED:0	"Sie können den generierten Entwurf überprüfen und ändern, bevor Sie ihn genehmigen und die Erfahrungskosten bezahlen."
 EQUIPMENT_DESIGNER_AUTO_BUTTON_ACTION_TO_ADJUST:0	"§GKlicken§! Sie auf §Hanpassen§!, um den aktuellen Entwurf anzupassen."
-
-
-
 EQUIPMENT_DESIGNER_AUTO_UPGRADED_CHECKBOX_BUTTON_DESC:1	"§HWenn dieses Kontrollkästchen aktiviert ist, wird der Entwurf automatisch aktualisiert, wenn bessere Fahrgestell und Module verfügbar sind.§!"
 EQUIPMENT_DESIGNER_ROLE_CHANGE_DISALLOWED:0	"§Rollenwechsel nicht erlaubt§!"
-
-
-
-
 EQUIPMENT_DESIGNER_PLANE_ROLE_REQUIRE_WEAPON:0	"Hauptbewaffnung hinzufügen, um Rolle zu geben"
 EQUIPMENT_DESIGNER_DYNAMIC_VERSION_CHECKBOX_BUTTON_DESC:0	"§HDisplay Dynamic Version Numbering§!\nWenn diese Variante markiert ist, wird eine dynamische Versionsnummerierung neben ihrem Namen angezeigt."
 ship_designer_submarine:0	"$EQUIPMENT_SUBMARINE$"
@@ -206,16 +110,6 @@ ship_designer_capital_ship:0	"$EQUIPMENT_CAPITAL_SHIP$"
 ship_designer_screen:0	"$EQUIPMENT_SCREEN$"
 ship_designer_carrier:0	"$EQUIPMENT_CARRIER$"
 tank_designer_armor:0	"Panzer"
-
-
-
-
-
-
-
-
-
-
 tank_designer_heavy_tank_chassis_role_disallowed:0	"Entferne das Modul, das die Rolle $tank_designer_heavy_tank_chassis|H$ verhindert."
 tank_designer_super_heavy_tank_chassis:0	"Superschwerer Panzer"
 tank_designer_super_heavy_tank_chassis_role_disallowed:0	"Entferne das Modul, das die Rolle $tank_designer_super_heavy_tank_chassis|H$ verhindert."
@@ -226,16 +120,6 @@ tank_designer_amphibious_tank_chassis_role_disallowed:0	"Entferne das Modul, das
 tank_designer_amphibious:0	"Amphibisch"
 tank_designer_amphibious_role_disallowed:0	"Fügen Sie ein Modul hinzu, das die Rolle §HAmphibisch§! erlaubt."
 tank_designer_anti_air:0	"Luftabwehr"
-
-
-
-
-
-
-
-
-
-
 tank_designer_motorized_role_disallowed:0	"Fügen Sie ein Modul hinzu, das die Rolle §HAufklärung§! ermöglicht."
 tank_designer_support:1	"Kommando-Panzer"
 tank_designer_support_role_disallowed:0	"Fügen Sie ein Modul hinzu, das die Rolle §HKommandopanzer§! ermöglicht."
@@ -244,86 +128,41 @@ plane_designer_interceptor:0	"Abfangjäger"
 plane_designer_tactical_bomber:0	"Taktischer Bomber"
 plane_designer_strategic_bomber:0	"Strategischer Bomber"
 plane_designer_cas:0	"CAS"
-
-
-
-
-
-
 NAME_THEME_FISH:0	"Fische"
 NAME_THEME_ANIMALS:0	"Tiere"
 NAME_THEME_HISTORICAL_CARRIERS:0	"Historische Flugzeugträger"
 NAME_THEME_BATTLES:0	"Berühmte Schlachten"
 NAME_THEME_HISTORICAL_DESTROYERS:0	"Historische Zerstörer"
-
-
-
-
 NAME_THEME_HISTORICAL_CA:0	"Historische Schwere Kreuzer"
-
-
-
-
-
 NAME_THEME_CITIES:0	"Städte"
 NAME_THEME_PROVINCES:0	"Provinzen"
 NAME_THEME_KINGS:0	"Könige"
 NAME_THEME_HISTORICAL_FIGURES:0	"Historische Figuren"
-
 NAME_THEME_NORDIC_MYTHOLOGY:0	"Nordische Mythologie"
 NAME_THEME_SLAVIC_MYTHOLOGY:0	"Slawische Mythologie"
 NAME_THEME_GERMANIC_MYTHOLOGY:0	"Germanische Mythologie"
 NAME_THEME_IMPERIAL_DD:0	"Kaiserliche Zerstörer"
 NAME_THEME_IMPERIAL_CL:0	"Kaiserliche Leichte Kreuzer"
-
-
-
-
-
-
-
-
-
 NAME_THEME_HISTORICAL_PC:0	"Historische Patrouillenschiffe"
 NAME_THEME_HISTORICAL_SC:0	"Historische U-Jagdboote"
 NAME_THEME_HISTORICAL_CVL:0	"Historische Leichte/Escort-Träger"
 NAME_THEME_HISTORICAL_CVL_ONLY:0	"Historische Leichte Transportschiffe"
-
 NAME_THEME_HISTORICAL_CLAA:0	"Historische Flak-Kreuzer"
 NAME_THEME_HISTORICAL_MINELAYERS:0	"Historische Minenleger"
 NAME_THEME_HISTORICAL_MINESWEEPERS:0	"Historische Minenräumboote"
 NAME_THEME_LEADERS:0	"Berühmte Führungspersönlichkeiten"
 NAME_THEME_MYTHOLOGY:0	"Mythologie"
-
-
-
-
 NAME_THEME_TRIBES:0	"Eingeborene Stämme"
-
-
-
-
-
 NAME_THEME_INSPIRATION:0	"Inspirierend"
 NAME_THEME_WEAPONS:0	"Waffen"
 NAME_THEME_WEATHER:0	"Wetter"
 NAME_THEME_NATURE:0	"Natur"
-
 NAME_THEME_CONFEDERATE_DD:0	"Konföderierte Zerstörer"
 NAME_THEME_CONFEDERATE_CL:0	"Leichte Kreuzer der Konföderation"
 NAME_THEME_CONFEDERATE_CA:0	"Schwere Kreuzer der Konföderation"
 NAME_THEME_CONFEDERATE_BC:0	"Konföderierte Schlachtkreuzer"
 NAME_THEME_CONFEDERATE_BB:0	"Konföderierte Schlachtschiffe"
-
-
-
-
 NAME_THEME_HISTORICAL_LENINETS:0	"Historische Leninets-U-Boote"
-
-
-
-
-
 NAME_THEME_HISTORICAL_AGSERIES:0	"Historische Amerikanskiy Golland Abos"
 NAME_THEME_HISTORICAL_SUBS_OCLASS:0	"Historische Abos der O Klasse"
 NAME_THEME_HISTORICAL_SUBS_KCLASS:0	"Historische U-Boote der K Klasse"
@@ -333,16 +172,6 @@ EQUIPMENT_UPGRADE_CURRENT_MAX_LEVEL:0	"Aktuelle Höchststufe: $LEVEL|H0$"
 EQUIPMENT_UPGRADE_LEVEL_AND_UP:0	"Stufe $LEVEL|H$ und höher:"
 EQUIPMENT_UPGRADE_ALREADY_AT_HIGHEST_LEVEL:1	"Bereits auf höchster Stufe"
 EQUIPMENT_UPGRADE_ALREADY_AT_LOWEST_LEVEL:1	"Bereits auf der niedrigsten Stufe"
-
-
-
-
-
-
-
-
-
-
 EQUIPMENT_MODULE_MISSING_DIRECT_REQUIREMENT_ENTRY:1	"- $MODULE|H$ in einem $SLOT|H$-Slot"
 EQUIPMENT_MODULE_CATEGORY_NOT_ALLOWED:1	"§RModule der Kategorie $CATEGORY|H$ sind für den Slot $SLOT|H$ nicht erlaubt§!"
 EQUIPMENT_MODULE_CATEGORY_NOT_ALLOWED_BY_MODULE:0	"§R$MODULE|H$ verbieten Module der Kategorie $CATEGORY|H$§!\n\n"
@@ -353,16 +182,6 @@ DESIGNER_COMPOSITION_HEADER:0	"§YZusammensetzung§!\n"
 DESIGNER_COMPOSITION_SPECIAL_HEADER:0	"\nSie erhält auch Boni, die darauf basieren:\n"
 DESIGNER_COMPOSITION_DELAYED:0	"Die Zusammensetzung einer Division steuert, welche Boni von Beratern und Kommandeuren angewendet werden."
 EQUIPMENT_DESIGNER_BLUEPRINT_TYPE_NAME:0	"$TYPE|T$"
-
-
-
-
-
-
-
-
-
-
 EQUIPMENT_TYPE_FORBIDDEN:1	"Ausrüstung dieses Typs ist verboten.\n"
 DESIGNER_SELECT_NICHE:0	"Wählen Sie ein §YAusrüstungskennzeichen§!"
 DESIGNER_SELECT_NICHE_DELAYED:0	"Hier können Sie Ihre Entwürfe klassifizieren, um sie zu organisieren und eine spezifischere Verstärkung Ihrer Divisionen zu ermöglichen."
@@ -373,13 +192,6 @@ MODULE_ALLOW_MISSION:0	"Ermöglicht die Mission $MISSION|H$"
 MODULE_MISSION_RESTRICTED_STATS_HEADER:0	"Wenn auf $MISSIONS$:"
 MODULE_MISSION_RESTRICTED_STATS_DISABLED_DESC:0	"Diese Bewaffnung wird bei $MISSIONS$ nicht verwendet, da eine andere installierte Bewaffnungskategorie Marinezielen größeren Schaden zufügt."
 EQUIPMENT_COMPARISON:0	"Vergleich der Ausrüstung"
-
-
-
-
-
-
-
 HISTORICAL_TEMPLATE_ENABLED:0	"Erstellen Sie eine $ROLE|H$ Vorlage, die der $NAME|H$ so weit wie möglich entspricht."
 HISTORICAL_TEMPLATE_DISABLED:0	"Sie benötigen die folgenden Module, um dieses $ROLE|H$ Design zu erstellen:\n\n$RESTRICTIONS$"
 SLOT_TITLE_REQUIRED:0	"$SLOT|H$:"

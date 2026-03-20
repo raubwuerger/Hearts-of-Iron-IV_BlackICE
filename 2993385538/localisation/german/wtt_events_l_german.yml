@@ -1062,36 +1062,22 @@ generic.17.t:0	"[From.GetName] Wird krank"
 generic.17.d:0	"In [From.GetHerHis] Dienst an [From.From.GetNameDef] hat [From.GetRank] [From.GetName] anscheinend [From.GetHerselfHimself] zu weit getrieben. Als Folge des schlechten Klimas in ihrem Einsatzgebiet ist [From.GetRank] nun krank geworden und wird wahrscheinlich einige Zeit zur Erholung brauchen. Bis [From.GetSheHe] wieder gesund ist, wird [From.GetSheHe] nicht das übliche Leistungsniveau von [From.GetHerHis] erreichen."
 generic.18.t:0	"[From.GetName] Verwundet"
 generic.18.d:0	"Bei der erfolgreichen Beendigung der Schlacht hat [From.GetRank] [From.GetName] [From.GetHerselfHimself] anscheinend etwas zu sehr in Gefahr gebracht, während er [From.GetHerHis] Männer anführte. [From.GetSheHeCap] wurde verwundet, und es wird wahrscheinlich einige Zeit dauern, bis die Wunden vollständig verheilt sind, und bis dahin wird [From.GetRank] nicht das übliche Niveau von [From.GetHerHis] erreichen."
-
-
-
 generic.19.t:0	"[From.GetName] missbraucht Substanz"
 generic.19.d:0	"Es scheint, dass [From.GetName] nach seiner jüngsten Krankheit, vielleicht aufgrund der Einnahme von zu vielen Medikamenten, Freude am Missbrauch von medizinischen Substanzen gefunden hat. Es wird einige Zeit dauern, bis [From.GetHerselfHimself] wieder auf dem gewohnten Niveau [From.GetHerHis] Männer führen kann."
-
-
-
 defense_skill_level_up_tt:0	"    £trait_defense Verteidigungsfertigkeit: [?FROM.defense_skill_gained|=+0]"
 planning_skill_level_up_tt:0	"    £trait_planning Planungsfertigkeit: [?FROM.planning_skill_gained|=+0]"
-
 maneuver_skill_level_up_tt:0	"    £trait_maneuvering Manöverfähigkeit: [?FROM.maneuver_skill_gained|=+0]"
-
 army_leader_level_up_chance_tt:	"\nChance, bestimmte Werte zu erhalten: \n£trait_attack [?attack_skill_chance|%]  £trait_defense [?defense_skill_chance|%]  £trait_planning [?planning_skill_chance|%]  £trait_logistics [?logistics_skill_chance|%]"
-
 is_army_leader_assigned_title:	" Ist ein §YArmeekommandant§!, derzeit §Gzugeteilt§! zum Kommando über [?num_units] Divisionen, mit einer Fähigkeit von: [?skill]"
 is_army_leader_title:	"Ist ein §YArmeekommandant§!, mit einer Fähigkeit von: [?skill]"
 is_navy_leader_assigned_title:	"Ist ein §YMarineführer§!, derzeit §Gzugeteilt§!, mit einer Fähigkeit von: [?skill]"
-
 attack_skill_display_tt:0	"£trait_attack Angriffsfertigkeit: [?attack_skill_level|+0]"
 defense_skill_display_tt:0	"£trait_defense Verteidigungsfertigkeit: [?defense_skill_level|+0]"
 planning_skill_display_tt:0	"£trait_planning Planungsfertigkeit: [?planning_skill_level|+0]"
 logistics_skill_display_tt:0	"£trait_logistics Logistikfertigkeit: [?logistics_skill_level|+0]"
-
-
-
 generic.21.d:0	"Einer unserer [Unit_leader.GetRank]s, [Unit_leader.GetName], hat mehrere Niederlagen durch die Hand unserer Feinde erlitten. Seine Soldaten trauen ihm nicht mehr so viel zu wie früher. Wenn [Unit_leader.GetName] die Kampfstrategien von [Unit_leader.GetHerHis] nicht verbessert, kann er seine Männer nicht effektiv führen."
 generic.22.t:0	"[Unit_leader.GetName]"
 generic.22.d:0	"[Unit_leader.GetName], ein erfahrener [Unit_leader.GetRank]s, der schon viele Schlachten geschlagen hat, hat seit Monaten keinen Einsatz mehr gesehen. Kriegsführung und Kampftaktiken ändern sich ständig, und es wird einige Zeit dauern, bis er wieder zu alter Stärke zurückfindet."
-
 generic.23.d:0	"[From.GetRank] [From.GetName] hat in den letzten Schlachten genug Erfahrung gesammelt. Er erhält einen Fähigkeitszuwachs von 1 auf [From.GetUnitLeaderLvlUp]."
 generic.24.t:0	"[Unit_leader.GetName]"
 generic.24.d:0	"[Unit_leader.GetRank] [Unit_leader.GetName] hat wiederholt seine Kompetenz und sein Können im Kampf unter Beweis gestellt, so sehr, dass sich seine Siege in der Bevölkerung herumgesprochen haben."
@@ -1101,28 +1087,12 @@ japan_border_conflict.1.t:0	"Japanische Provokation an unserer Grenze"
 japan_border_conflict.1.desc:0	"Im Rahmen der Aufrechterhaltung der Demarkationslinie an der Grenze zwischen uns und [JAP.GetNameDef] wurde ein Arbeitstrupp ausgesandt, um die Demarkationsmarkierungen in der Nähe des Khasan-Sees zu überprüfen. Bei der Annäherung an die Grenze wurde der Arbeitstrupp von einem örtlichen japanischen Vorposten unter Beschuss genommen. \n\n Wir haben einen formellen diplomatischen Protest eingelegt, aber der japanische Botschafter behauptet, dass die Arbeitsgruppe geschickt wurde, um die Markierungen zu verschieben, damit wir mehr Territorium beanspruchen können.\n\n Die Japaner haben uns versichert, dass sie die Grenze respektieren, aber keine \"Manipulationen\" an der aktuellen Demarkation zulassen und mit Gewalt reagieren werden, sollten wir dies versuchen.\n\n Das bedeutet, dass wir uns nicht mehr frei in unserem Territorium in diesem Gebiet bewegen können."
 japan_border_conflict.1.a:0	"Das ist inakzeptabel."
 japan_border_conflict.2.t:0	"Japanischer Sieg am Khasan-See"
-
 japan_border_conflict.2.a:0	"Wir haben diese Angelegenheit ehrenhaft geregelt."
-
-
-
 japan_border_conflict.3.a:0	"Es ist besser, ehrenvoll zu scheitern, als es überhaupt nicht zu versuchen."
-
-
-
-
-
-
-
-
-
-
 wtt_prc.30.a:0	"Wir haben im Hornissennest zugeschlagen."
-
 wtt_prc.32.desc:0	"Wir haben eine japanische Patrouille in [JAP.GetManchuriaPuppet] erfolgreich in einen Hinterhalt gelockt und ausgelöscht. Ihre Leichen wurden am Tatort zurückgelassen, um sicherzustellen, dass die Imperialisten die richtige Botschaft erhalten. \nie Zeit wird zeigen, ob sie diese Aktion als Grund genug für einen Krieg ansehen."
 wtt_prc.20.c:0	"Wir sollten uns ganz von diesem Kontinent zurückziehen."
 xinjiang.1.t:0	"Uiguren-Aufstand im Süden Xinjiangs"
-
 xinjiang.1.a:0	"Zu den Waffen!"
 xinjiang.2.t:0	"Sowjetische Hilfe?"
 xinjiang.2.d:0	"Die wahrscheinlichste Hilfe, die wir erhalten können, wird von den sowjetischen Streitkräften kommen, lasst uns um ihre Hilfe bitten, was auch immer die Kosten sein mögen"
@@ -1133,16 +1103,8 @@ xinjiang.3.d:0	"Obwohl er bereits teilweise in unserer Schuld steht, hat Sheng S
 xinjiang.3.a:0	"Schicken Sie die Rote Armee."
 xinjiang.3.b:0	"Sinkiang war ohnehin ein gescheitertes Experiment"
 xinjiang.4.t:0	"Stalin erklärt sich bereit, uns zu helfen"
-
 xinjiang.4.a:0	"Ich frage mich, was uns das kosten wird?"
-
-
-
 xinjiang.5.b:0	"Wir haben einen Krieg gewonnen, wie schwer kann ein zweiter sein?"
-
-
-
-
 generic.180.t:0	"[Root.GetName] durch einen Agenten verwundet"
 generic.180.d:0	"Nach Gefechten in der Region [FROM.FROM.Getname] wurde General [Root.GetName] Ziel eines Mordversuchs durch den Feind. [Root.GetSheHeCap] wurde verwundet, und es wird wahrscheinlich einige Zeit dauern, bis die Wunden vollständig verheilt sind; bis dahin wird der General nicht auf [Root.GetHerHis] seinem gewohnten Niveau arbeiten können."
 generic.181.d:0	"Während er mit seinen Kollegen die Lage an der Front in der Region [GetLiquidateState] besprach, wurde General [Root.GetName] Opfer eines Mordversuchs durch den Feind. Glücklicherweise war [Root.GetSheHe] nicht das Hauptziel und wurde nur leicht verwundet, doch es wird wahrscheinlich noch einige Zeit dauern, bis die Wunden vollständig verheilt sind; bis dahin wird der General nicht auf [Root.GetHerHis] seinem gewohnten Niveau arbeiten können."

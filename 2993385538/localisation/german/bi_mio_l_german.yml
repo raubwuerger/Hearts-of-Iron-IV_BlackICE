@@ -111,11 +111,6 @@ SOV_mio_astrov_propulsion_improvement:	"Verbesserung des Antriebs"
 SOV_mio_astrov_dual_circuit_power_steering:	"Zweikreis-Servolenkung"
 SOV_mio_astrov_cassette_loading_system:	"Kassetten-Ladesystem"
 SOV_mio_astrov_advanced_spall_protection:	"Verbesserter Schutz vor Splittern"
-
-
-
-
-
 SOV_mio_okmo_increased_fuel_tanks:	"Vergrößerte Treibstofftanks"
 SOV_mio_okmo_cooling_improvements:	"Verbesserungen der Kühlung"
 SOV_mio_okmo_GAZ_engines:	"GAZ-Motoren"
@@ -168,24 +163,12 @@ ENG_mio_vickers_lightweight_transmission:	"Leichtes Getriebe"
 ENG_mio_vickers_idle_reduction_technology:	"Technologie zur Reduzierung des Leerlaufs"
 ENG_mio_vickers_ricardo_expertise:	"Ricardo Kompetenz"
 ENG_mio_vickers_alternative_propulsion_systems:	"Alternative Antriebssysteme"
-
-
-
-
-
-
-
-
-
-
 ENG_vauxhall_specialized_factory_floor_rails:	"Spezialisierte Fabrikbodenschienen"
 ENG_vauxhall_specialized_engines_for_heavy_tanks:	"Spezialisierte schwere Panzermotoren"
 ENG_vauxhall_redesign_airflow:	"Redesign Luftstrom"
 ENG_vauxhall_mudguards:	"Schutzbleche"
 ENG_vauxhall_improved_engine_pumps:	"Verbesserte Motorpumpen"
 ENG_vauxhall_resource_saving_construction:	"Ressourcenschonende Konstruktion"
-
-
 ENG_vauxhall_state_of_the_art_carburators:	"Hochmoderne Vergaser"
 ENG_vauxhall_improved_stowage:	"Verbesserte Verstauung"
 ENG_vauxhall_up_gunning:	"Up Gunning"
@@ -205,7 +188,6 @@ ENG_mio_nuffield_christie_licenses:	"Christie-Lizenzen"
 ENG_mio_nuffield_on_our_own:	"Auf eigene Faust"
 ENG_mio_nuffield_crew_compartment_layout:	"Layout der Mannschaftskabine"
 ENG_mio_nuffield_high_endurance_tracks:	"Hochbelastbare Tracks"
-
 ENG_mio_nuffield_multi_turret_innovations:	"Multi-Turm-Innovationen"
 ENG_mio_nuffield_advanced_autoloader:	"Fortschrittlicher Autoloader"
 ENG_mio_nuffield_improved_shell_propellant:	"Verbesserte Treibladungspulver"
@@ -236,11 +218,9 @@ ger_opel_mio_trait_4_wheel_drive:	"4-Rad-Antrieb"
 ger_opel_mio_trait_standardized_production:	"Standardisierte Produktion"
 ger_opel_mio_trait_aircraft_contracts:	"Hersteller von Flugzeugteilen"
 ger_opel_mio_trait_american_mass_production:	"Amerikanische Massenproduktionsmethoden"
-
 GER_porsche_modernized_factories:	"Moderne Fabriken"
 GER_porsche_extensive_quality_control:	"Umfassende Qualitätskontrolle"
 GER_porsche_limited_quality_control:	"Begrenzte Qualitätskontrolle"
-
 GER_porsche_alloy_shortage:	"Extreme Maßnahmen"
 GER_porsche_specialized_heat_treatments:	"Spezialisierte Wärmebehandlungen"
 GER_porsche_interlocking_welds:	"Verzahnte Schweißnähte"
@@ -262,7 +242,6 @@ GER_porsche_special_tooling:	"Spezialisierte Werkzeuge"
 GER_porsche_emergency_scape_hatches:	"Notausstiegsluken"
 GER_porsche_breaks_armor_protection:	"Zusätzliche Panzerung an den Brüchen"
 GER_porsche_Kurskreisel:	"Kurskreisel"
-
 GER_porsche_torsion_bar_suspension_2:	"Verbesserte Torsionsstabaufhängung"
 GER_porsche_gas_super_turbochargers:	"Gas-Turbolader"
 mio_cat_eq_medium_only:	"Alle mittleren Panzer (keine SPGs)"
@@ -289,7 +268,6 @@ GER_man_hydrostatic_transmission:	"Hydrostatisches Getriebe"
 GER_man_sleeve_bearings:	"Hülsenlager"
 GER_man_incendiary_charges:	"Brandbomben"
 GER_man_improved_recoil_mechanism:	"Verbesserter Rückspul-Mechanismus"
-
 GER_db_marenfeld_expansion:	"Marenfeld-Erweiterung"
 GER_db_adapt_the_factories:	"Fabriken anpassen"
 GER_db_improved_carburators:	"Verbesserte Vergaser"
@@ -344,11 +322,6 @@ GER_mio_krupp_heavy_turret_pressing:	"Schweres Revolverpressen"
 GER_mio_krupp_long_range_shells:	"Langstreckengeschosse"
 GER_mio_krupp_face_harden_armor:	"Gehärtete Panzerung"
 GER_mio_krupp_enlarged_exhaust_pipe:	"Vergrößerte Auspuffrohre"
-
-
-
-
-
 GER_mio_krupp_man_engines:	"MAN-Motoren"
 GER_mio_krupp_piercing_technology:	"Durchschlagende"
 GER_mio_krupp_high_explosive_technology:	"Hochexplosiv"
@@ -374,34 +347,12 @@ ITA_mio_trait_new_industrialization_program:	"Neues Industrialisierungsprogramm"
 ITA_mio_trait_military_expansion:	"Militärische Expansion"
 ITA_mio_trait_engine_expansion:	"Erweiterung der Motorenproduktion"
 ITA_mio_trait_tank_assembly_expansion:	"Ausbau der Panzerproduktion"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ITA_mio_up_gunning_2:	"Verbesserte Kanonen"
-
-
 AST_generic_artillery_organization:	"$maribyrnong_artillery_manufacturer$"
 AST_generic_motorized_mechanized_organization:	"$rover_motorized_equipment_manufacturer$"
 AUS_generic_artillery_organization:	"$AUS_hirtenberger$"
 BEL_generic_artillery_organization:	"$frc_BEL$"
 BRA_generic_infantry_equipment_organization:	"$ITAJUBA$"
-
-
 TUN_generic_infantry_equipment_organization:	"$TUN_infantry_equipment_manufacturer$"
 TUN_generic_motorized_mechanized_organization:	"$TUN_motorized_equipment_manufacturer$"
 TUN_generic_artillery_organization:	"$TUN_artillery_manufacturer$"

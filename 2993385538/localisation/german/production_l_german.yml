@@ -235,129 +235,66 @@ PRODUCTION_EFF_GAIN_HINT:0	"§YEffizienzgewinngeschwindigkeit modifiziert durch:
 CARRIER_AIR_WING_COMPOSITION_TITLE:0	"Setzt die Standardzusammensetzung der Geschwader für diesen Träger"
 MISSILE_LAUNCHER_COMPOSITION_TITLE:	"Legen Sie die Standardzusammensetzung der Raketen für den Raketenwerfer fest"
 CARRIER_AIR_WING_LIMIT_UNDER:0	"$COUNT|Y$/$LIMIT$"
-
 CARRIER_AIR_WING_LIMIT_OVER:0	"$COUNT|R$/$LIMIT$"
-
 ROCKET_WING_LIMITS_DESC:	"Raketenkapazität"
 ROCKET_WING_LIMIT_DESC_UNDER:	"§YDie Kapazität dieses Raketenwerfers wird nicht voll ausgeschöpft§!"
-
 CARRIER_AIR_WING_LIMIT_DESC_UNDER:0	"§YDie Kapazität dieses Trägers wird nicht voll genutzt§!"
 CARRIER_AIR_WING_LIMIT_DESC_OVER:0	"§RDie Kapazität dieses Trägers wird überschritten und die dort stationierten Luftgeschwader erleiden eine Strafe§!"
 CARRIER_AIR_WING_INCREASE:0	"Betrag erhöhen §GCtrl+Klick zum Erhöhen um§! §H5§!\n§GShift+Klick zum Erhöhen um§! §H10§!"
 CARRIER_AIR_WING_DECREASE:0	"Betrag vermindern\n§GStrg+Klick zum Vermindern um§! §H5§!\n§GShift+Klick zum Verringern um§! §H10§!"
-
-
-
-
 PRODUCTION_EQUIPMENT_FILTER:0	"Infanterie & Artillerie Ausrüstung"
 PRODUCTION_ARMOR_FILTER:0	"Gepanzerte Fahrzeuge"
 PRODUCTION_AIR_FILTER:0	"Flugzeuge"
 PRODUCTION_CAPITAL_SHIPS_FILTER:0	"Große Schiffe"
-
-
-
-
 PRODUCTION_REINFORCING_FILTER:0	"Verstärkung"
 PRODUCTION_UPGRADING_FILTER:0	"Aufrüstung"
 PRODUCTION_OUTDATED_FILTER:1	"Neueste Ausrüstung"
 PRODUCTION_REFITTING_FILTER:0	"Nachrüstung"
-
-
-
-
 PRODUCTION_FILTER_RIGHTCLICK:0	"\n§GRechtsklick§! um alles aus dieser Kategorie auszublenden."
 PRODUCTION_FILTER_ARMS_FACTORIES:0	"Militärische Fabriken verwendet"
 PRODUCTION_FILTER_DOCKYARDS:0	"Verwendete Marinewerften"
-
-
-
-
 INTEL_DOCKYARDS_USED_ON_CAPITAL:0	"Geschätzte Marinewerften für Großkampfschiffe"
 INTEL_DOCKYARDS_USED_ON_SCREEN:0	"Schätzung der Marinewerften, die Bildschirmschiffe verwenden"
 INTEL_DOCKYARDS_USED_ON_OTHER:0	"Geschätzte Marinewerften für andere Schiffe"
-
-
-
-
 PRODUCTION_FACTORY_SCALE_DOWN:0	"§GKlick§! zum Verkleinern auf die Ansicht §Y1x§!"
 PRODUCTION_ADD_FACTORIES_CLICK:0	"§GKlick§! zum Hinzufügen von §Y+1§!\n§GStrg + Klick§! zum Hinzufügen von §Y+5§!\n§GShift + Klick§! zum Hinzufügen von §Y+10§!"
 PRODUCTION_SUB_FACTORIES_CLICK:0	"§GKlick§! zum Subtrahieren §Y1§!\n§GCtrl + Klick§! zum Subtrahieren §Y5§!\n§GShift + Klick§! zum Subtrahieren §Y10§!"
 PRODUCTION_ADD_1:0	"§GKlick§! zum Addieren §Y+1§!"
-
-
-
-
 PRODUCTION_SUB_10:0	"§GShift + Klick§! zum Subtrahieren §Y10§!"
 PRODUCTION_ADD_NAVAL_FACTORIES_CLICK:0	"§GKlick§! zum Addieren §Y+1§!"
 PRODUCTION_SUB_NAVAL_FACTORIES_CLICK:0	"§GKlick§! zum Subtrahieren von §Y1§!"
 PRODUCTION_CLICK_TO_APPEND_OR_INSERT:0	"§GKlick§! um eine neue Produktionslinie am Ende anzuhängen.\n§GShift + Klick§! um eine neue Produktionslinie an den Anfang zu setzen."
-
-
-
-
 PRODUCTION_LINE_CONVERT_ORDER_OF_CONVERSION_ENTRY:1	"$NUM|Y0$ von $VARIANT|G$ (§H$TYPE$§!) mit Kosten: "
 PRODUCTION_LINE_CONVERT_ORDER_OF_CONVERSION_ENTRY_NO_TYPE:0	"$NUM|Y0$ von $VARIANT|G$ mit Kosten: "
 PRODUCTION_LINE_CONVERT_ORDER_OF_CONVERSION_FREE_ENTRY:1	"$NUM|Y0$ von $VARIANT|G$ (§H$TYPE$§!)"
 PRODUCTION_LINE_CONVERT_ORDER_OF_CONVERSION_FREE_ENTRY_NO_TYPE:0	"$NUM|Y0$ von $VARIANT|G$"
-
-
-
-
 PRODUCTION_LINE_CONVERT_RES_NEED:0	"Benötigte Ressourcen für die Umwandlung von $NAME|Y$:"
 PRODUCTION_LINE_CONVERT_RES_NEED_ENTRY:1	"\n £resources_strip|$FRAME$: ($NEW|Y0$ - $OLD|G0$) = $SUM|R0$"
 PRODUCTION_LINE_SHIP_NAME_ALLOCATE:0	"Dieser Name ist noch keinem anderen Schiff zugewiesen. §GKlicke§! auf die Schaltfläche Hinzufügen, um diesen Namen dieser Produktionswarteschlange zuzuordnen."
 PRODUCTION_LINE_RAILWAY_GUN_NAME_ALLOCATE:0	"Dieser Name ist noch keinem anderen Eisenbahngeschütz zugewiesen. §GKlick§! Hinzufügen, um diesen Namen dieser Produktionswarteschlange zuzuordnen."
-
-
-
-
 LICENSED_EQUIPMENT_PRODUCTION_SPEED_NOT_FACTION:0	"Nicht mit dem Lizenzgeber im Bunde: $VALUE|+%$"
 LICENSED_EQUIPMENT_PRODUCTION_SPEED_NO_LICENSE:0	"Keine aktive Lizenz: $VALUE|+%$"
 LICENSED_EQUIPMENT_UPGRADE_XP_COST_MODIFIER:0	"Lizenzierte Ausrüstung: $VAL$"
 LICENSED_PURCHASE_CIC_COST:1	"§YLizenzkosten:§! £civ_factory $AMOUNT|Y$"
-
-
-
-
 PRODUCTION_RAILWAY_GUN_NAME_LIST_BUTTON_FALLBACK:0	"Eisenbahngeschütz-Namen"
 PRODUCTION_NAVAL_NAME_LIST_EMPTY_NOT_ALLOWED:0	"§RLeere Namen sind nicht erlaubt§!"
 PRODUCTION_NAVAL_NAME_LIST_TOO_FEW_PRODUCED:0	"§RNamen werden die Anzahl der Schiffe in der Produktionswarteschlange überschreiten.§!"
 PRODUCTION_NAVAL_NAME_LIST_REMOVE:0	"§GKlick§! auf §HName entfernen§!"
-
-
-
-
 PRODUCTION_SHIP_REFIT_TOTAL_COSTS:0	"§HGesamtkosten für $COUNT|T$ Schiffe:§!\n"
 PRODUCTION_SHIP_REFIT_BASE_ICCOST:1	"Rumpf: $ICCOST|H2$"
 PRODUCTION_SHIP_REFIT_MODULE_BUILD_ICCOST:0	"Neue Module: $ICCOST|H2$"
 PRODUCTION_SHIP_REFIT_MODULE_CONVERT_ICCOST:0	"Umgerüstete Module: $ICCOST|H2$"
-
-
-
-
 PRODUCTION_SHIP_REFIT_TOOLTIP_NO_STAT_CHANGES:0	"keine Änderung der Werte"
 PRODUCTION_SHIP_REFIT_TOOLTIP_MORE_VARIANTS:0	"und andere Ausrüstungsvarianten ($SHIP_COUNT|H$ ausgewählt)"
 PRODUCTION_TANK_REFIT_BASE_ICCOST:0	"Fahrgestell: $ICCOST|H2$"
 PRODUCTION_TANK_REFIT_QUICKEST_TIME:0	"Bei maximaler §HProduktionseffizienz§! wird jede zugewiesene Fabrik $NUM_UNITS_PER_TIME_PERIOD$ umsetzen."
-
-
-
-
 PRODUCTION_COST_MODIFIER_ITEM:	 "$REASON$: $VALUE|-%$ "
 BONUS_PRODUCTION_COST_FACTOR:	 "Produktionskosten "
 BONUS_PRODUCTION_CAPACITY_FACTOR:	 "Produktionsleistung "
-
-
-
-
 BONUS_PRODUCTION_CONVERSION_SPEED_FACTOR:	 "Produktionskonvertierungsgeschwindigkeit"
-
 PRODUCTION_NO_INTEL_ON_POWER:	"Wir haben keine Informationen zum Energieverbrauch in diesem Bundesstaat."
-
 PRODUCTION_STATE_ENERGY_USAGE_FACTORIES:	"Energieverbrauch von Fabriken: $VALUE|H$"
-
 PRODUCTION_STATE_ENERGY_USAGE_NAVAL_DOCKYARDS:	"  £nav_dockyard_texticon Energieverbrauch der Marinewerft: $VALUE|H$"
-
 CARRIER_AIR_WING_LIMIT_MATCH:0	"$COUNT|G$/$LIMIT$"
 CARRIER_AIR_WING_LIMIT_DESC:0	"Flugzeuge/Trägerkapazität"
 ROCKET_WING_LIMIT_DESC_OVER:	"§RDie Kapazität dieses Raketenwerfers wird überschritten, sodass nicht alle Raketen geladen werden können§!"

@@ -13,89 +13,44 @@ MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR:0	"£civ_factory Max. Fabriken in der Provi
 MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR_DESC:1	"Ändert die Anzahl der gemeinsam genutzten Gebäudeplätze in der Provinz."
 MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION:	"£resources_strip|Anforderungen an Werkzeugmaschinen in 4 lokalen Fabriken"
 MODIFIER_LOCAL_BUILDING_SLOTS:0	"£civ_factory Max. Fabriken in der Provinz"
-
 MODIFIER_ORG_LOSS_WHEN_MOVING:0	"£org_loss_when_moving_texticon Organisationsverlust beim Bewegen"
-
 MODIFIER_ORG_LOSS_AT_LOW_ORG_FACTOR:1	"£organization_texticon Organisationsverlust bei unter 25 %"
-
 MODIFIER_BUILDING_CONVERTION_FACTOR:0	"£equipment_conversion_texticon Gebäudeumrechnungsfaktor"
-
 MODIFIER_NAVAL_STRIKE:0	"£naval_strike_texticon Marineangriff"
-
 MODIFIER_CARRIER_TRAFFIC:0	"£carrier_texticon Trägerverkehr"
-
 MODIFIER_POLITICAL_POWER_GAIN:0	"£political_power_texticon Täglicher politischer Machtgewinn"
-
 MODIFIER_POLITICAL_POWER_FACTOR:0	"£political_power_texticon Politischer Machtgewinn"
-
 MODIFIER_NAVAL_SPEED:0	"£attacker_speed_texticon Seegeschwindigkeit"
-
 MODIFIER_SUBMARINE_ATTACK:0	"£attack_texticon U-Boot Angriff"
-
 MODIFIER_SPY_BOOST_PARTY_POPULARITY_EFFICIENCY:0	"£boost_popularity_texticon Steigern Sie die Popularität von Partys"
-
 MODIFIER_SPY_FABRICATE_CLAIM_FACTOR:0	"£territorial_expansion_texticon Anspruch begründen"
-
 MODIFIER_RESISTANCE_TICK_AUTO:0	"£political_violence_texticon Widerstandswachstum"
-
 MODIFIER_LOCAL_RESOURCES_FACTOR:0	"£resources_texticon Ressourcengewinneffizienz"
-
 MODIFIER_LOCAL_MANPOWER:0	"£manpower_texticon Lokale Rekruten"
-
 MODIFIER_LOCAL_FACTORIES:0	"£civ_factory Lokale Fabriken"
-
 MODIFIER_LOCAL_FACTORY_SABOTAGE:0	"£civ_factory_sabotage §WWahrscheinlichkeit, Konstruktionen zu sabotieren§!"
-
 MODIFIER_ATTRITION_DESC:0	"Wie viel Schaden erleiden unsere Divisionen durch Abnutzung beim Durchqueren?"
-
 MODIFIER_AIR_ACCIDENTS_FACTOR:0	"£air_accidents_texticon Wahrscheinlichkeit von Flugunfällen"
-
 MODIFIER_ARMY_ORG_REGAIN:0	"£increase_texticon Wiedererlangung der Armeeorganisation"
-
 occupation_policy_2:0	"Sanft"
-
 occupation_policy_4:0	"Am härtesten"
-
 WEATHER_PEACETIME:0	"Abnutzung durch das Wetter gilt nur, wenn sich der Besatzer im Krieg befindet"
-
-
 MODIFIER_DEFENCE:0	"£defence_texticon Verteidigung"
 MODIFIER_OFFENCE:0	"£attack_texticon Angriff"
-
-
-
 MODIFIER_THERMONUCLEAR_PRODUCTION_FACTOR:	"$thermonuclear_bomb|H$ Produktionsrate"
-
-
 MODIFIER_XP_GAIN_FACTOR:1	"£experience_neutral_texticon Erfahrungsgewinn für Führungskräfte"
 MODIFIER_XP_GAIN:0	"£experience_neutral_texticon Erfahrungsgewinn"
 MODIFIER_COMMAND_CAP:0	"£command_power_texticon Befehlslimit"
 MODIFIER_COMMAND_CAP_FACTOR:0	"£command_power_texticon Befehlslimit"
 MODIFIER_SUBMARINE_ATTACK_FACTOR:0	"£attack_texticon U-Boot Angriff"
 MODIFIER_GLOBAL_MONTHLY_POPULATION:0	"£population_texticon Monatliche Bevölkerung"
-
-
-
-
-
-
 MODIFIER_SPOTTING_CHANCE_FACTOR:1	"£spotting Aufklärungs Geschwindigkeit"
 MODIFIER_SPOTTING_CHANCE:1	"£spotting Aufklärungs Geschwindigkeit"
 MODIFIER_SPOTTING_CHANCE_MODIFIER:0	"£spotting Aufklärungs Geschwindigkeitsmodifikator:"
 MODIFIER_SPREAD_OUT_FACTOR:0	"£formation_spread_texticon Flottenverteilung"
 MODIFIER_SPREAD_OUT:0	"£formation_spread_texticon Flottenverteilung"
 MODIFIER_SHIPS_AT_BATTLE_START_FACTOR:0	"£ships_contact_texticon Anzahl der Schiffe im Erstkontakt"
-
-
-
-
-
-
-
-
-
 naval_general_support_value_factor:	"Unterstützungsschiffe – Unterstützungswert $RIGHT|+=%$"
-
 MODIFIER_OUT_OF_SUPPLY_FACTOR:1	"£out_of_supply_texticon Versorgungsmalus bei Nachschubmangel"
 MODIFIER_OUT_OF_SUPPLY_FACTOR_DESC:1	"Reduziert die Organisations- und Erholungsmali, wenn der Truppen die Vorräte ausgehen."
 MODIFIER_OUT_OF_SUPPLY:1	"£out_of_supply_texticon Nicht-Kampf-Strafen für Versorgungsunterbrechungen"
@@ -107,18 +62,7 @@ MODIFIER_DEFENCE_FACTOR:0	"£defence_texticon Verteidigung"
 MODIFIER_FLOATING_HARBOR_SUPPLY:0	"£floating_harbor_texticon Schwimmende Hafenversorgung"
 MODIFIER_FLOATING_HARBOR_RANGE:0	"£floating_harbor_texticon Schwimmende Hafenkette"
 MODIFIER_FLOATING_HARBOR_DURATION:0	"£floating_harbor_texticon Dauer des schwimmenden Hafens"
-
-
 TERRAIN_SUPPLY_FLOW_REDUCTION:	"£supply_consumption_texticon Reduzierung des Versorgungsstroms: $RIGHT|-=%1$"
-
-
-
-
-
-
-
-
-
 MODIFIER_AIR_ATTACK:0	"£attack_air_texticon Luftangriff"
 MODIFIER_AIR_ATTACK_FACTOR:0	"£attack_air_texticon Luftangriff"
 MODIFIER_AIR_DEFENCE:0	"£defence_texticon Luftverteidigung"
@@ -131,20 +75,7 @@ MODIFIER_AIR_BOMBING:0	"£dive_bombing_texticon Bodenbombardierung"
 MODIFIER_AIR_BOMBING_FACTOR:0	"£dive_bombing_texticon Bodenbombardierung"
 MODIFIER_AIR_BOMBING_TARGETTING:0	"£dive_bombing_texticon Zielen mit Bodenbomben"
 MODIFIER_STRATEGIC_BOMBER_BOMBING:0	"£strat_bombing_texticon Strategische Bombardierung"
-
-
-
-
-
-
-
-
-
-
-
-
 MODIFIER_NAVAL_STRIKE_AGILITY_FACTOR:0	"£naval_strike_texticon Marine-Agilität"
-
 MODIFIER_NAVAL_SUPPLY_CONSUMPTION_FACTOR_DESC:	"Wie viel Versorgungsgüter unsere Flotten benötigen, um effizient zu operieren."
 MODIFIER_SPOTTING_CHANCE_AGAINST_A_COUNTRY:	" Entdeckungswahrscheinlichkeit gegen ein Land"
 MODIFIER_AMPHIBIOUS_INVASION_AGAINST_A_COUNTRY:	" Amphibische Invasion gegen ein Land"
@@ -152,7 +83,6 @@ MODIFIER_NAVAL_HIT_CHANCE_AGAINST_A_COUNTRY:	" Trefferwahrscheinlichkeit der Mar
 MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR_AGAINST_A_COUNTRY:	" Angriff mit Großkampfschiffen gegen ein Land"
 MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_AGAINST_A_COUNTRY:	"Verteidigung mit Großkampfschiffen gegen ein Land"
 MODIFIER_NAVY_SCREEN_ATTACK_FACTOR_AGAINST_A_COUNTRY:	"Angriff mit Begleitschiffen gegen ein Land"
-
 MODIFIERS_SUBMARINE_ATTACK_FACTOR_AGAINST_A_COUNTRY:	"U-Boot-Angriff gegen ein Land"
 MODIFIERS_SUBMARINE_DEFENCE_FACTOR_AGAINST_A_COUNTRY:	"U-Boot-Verteidigung gegen ein Land"
 MODIFIER_NAVAL_INVASION_PREPARATION_AGAINST_A_COUNTRY:	"Vorbereitung einer Seeinmarsch gegen ein Land"
@@ -167,7 +97,6 @@ tactical_bomber_research:0	"£research_speed_texticon Taktische Bomber-Forschung
 armor_research:2	"£research_speed_texticon Rüstungsforschungsgeschwindigkeit"
 artillery_research:2	"£research_speed_texticon Forschungsgeschwindigkeit für Artillerie"
 naval_air_research:2	"£research_speed_texticon Forschungsgeschwindigkeit für Marineflugzeuge"
-
 motorized_equipment_research:1	"£research_speed_texticon Motorisierung Forschungsgeschwindigkeit"
 naval_equipment_research:1	"£research_speed_texticon Marineforschungsgeschwindigkeit"
 rocketry_research:1	"£research_speed_texticon Raketenforschungsgeschwindigkeit"
@@ -180,32 +109,10 @@ air_doctrine_research:1	"£air_experience Geschwindigkeit der Luftdoktrin-Forsch
 strategic_destruction_tree_research:1	"£research_speed_texticon Forschungsgeschwindigkeit für strategische Zerstörung"
 civilian_tech_research:1	"£research_speed_texticon Forschungsgeschwindigkeit für zivile Technologie"
 improve_relation:0	"Verbesserte Beziehungen"
-
-
 lend_leased_to_enemy:	"An den Feind ausgeliehen"
 volunteers_sent_to_enemy:	"Freiwillige an den Feind geschickt"
 volunteers_sent_against_us:	"Ihre Freiwilligen kämpfen gegen unsere"
-
-
-
-
-
-
-
-
-
 experience_gain_navy:0	"£navy_experience Erfahrungsgewinn Marine"
-
-
-
-
-
-
-
-
-
-
-
 MODIFIER_TRAINING_TIME_ARMY:0	"£training_speed_texticon Division-Trainingszeit"
 MODIFIER_TRAINING_TIME_ARMY_FACTOR:0	"£training_speed_texticon Division-Trainingszeit"
 MODIFIER_TRAINING_TIME_ARMY_FACTOR_DESC:	"Beeinflusst die Zeit, die eine Division für die Ausbildung während des Einsatzes benötigt"
@@ -220,7 +127,6 @@ MODIFIER_ARMY_ORG_FACTOR:0	"£organization_texticon Abteilungsorganisation"
 MODIFIER_NAVY_ORG:0	"£organization_texticon Marineorganisation"
 MODIFIER_NAVY_ORG_FACTOR:0	"£organization_texticon Marineorganisation"
 MODIFIER_AIR_ORG:0	"£organization_texticon Luftverkehrsorganisation"
-
 MODIFIER_TRAINING_TIME_AIR:0	"£training_speed_texticon Lufttrainingszeit"
 air_training_xp_gain_factor:0	"£training_speed_texticon Lufttrainingszeit"
 MODIFIER_TRAINING_TIME_AIR_FACTOR:0	"£training_speed_texticon Lufttrainingszeit"
@@ -232,36 +138,10 @@ MODIFIER_ARMY_MORALE_FACTOR:0	"£army_morale_texticon Divisions Auffrischungsrat
 MODIFIER_AIR_MORALE:1	"£army_morale_texticon Luftwaffen Auffrischungsrate"
 MODIFIER_AIR_MORALE_FACTOR:1	"£army_morale_texticon Luftwaffen Auffrischungsrate"
 MODIFIER_NAVAL_MORALE:1	"£army_morale_texticon Marine Auffrischungsrate"
-
 MODIFIER_MAX_ORGANISATION_FACTOR:	"£organization_texticon  Maximale Marineorganisation"
 MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE:	"Chance auf Schiffsbergung"
 MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE_FACTOR:	"Faktor für die Chance auf Schiffsbergung"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 MODIFIER_PARADROP_AGILITY:0	"£speed_paratroop_texticon Fallschirmjäger-Agilität"
-
-
-
-
-
-
-
-
-
-
-
 MODIFIER_STRATEGIC_BOMBER_AGILITY_FACTOR:0	"£speed_bomber_texticon Bomber-Agilität"
 MODIFIER_INTERCEPTION_AGILITY_FACTOR:0	"£speed_intercept_texticon Abfangjägeragilität"
 MODIFIER_AIR_SUPERIORITY_AGILITY_FACTOR:0	"£speed_air_texticon Luftüberlegenheit und Agilität"
@@ -280,7 +160,6 @@ MODIFIER_NAVAL_STRIKE_TARGETTING_WEATHER_FACTOR:0	"£naval_strike_targetting_tex
 MODIFIER_NAVAL_STRIKE_TARGETTING_WEATHER_DESC:0	"Wettereinfluss auf Seeangriffe."
 MODIFIER_NAVAL_STRIKE_TARGETTING_WEATHER_FACTOR_DESC:0	"Wettereinfluss (Faktor) auf Seeangriffe."
 MODIFIER_NAVAL_STRIKE_AGILITY_WEATHER:0	"£attacker_speed_texticon Wetter-Marineangriffs-Agilität"
-
 MODIFIER_NAVAL_STRIKE_AGILITY_WEATHER_DESC:0	"Einfluss des Wetters auf die Angriffsagilität der Marine."
 MODIFIER_NAVAL_STRIKE_AGILITY_WEATHER_FACTOR_DESC:0	"Einfluss des Wetters auf die Angriffsagilität der Marine."
 MODIFIER_AIR_RANGE_WEATHER:0	"£air_range_texticon Wetter-Luftreichweite"
@@ -292,36 +171,7 @@ MODIFIER_AIR_STRATEGIC_BOMBER_WEATHER_FACTOR:0	"£strat_bombing_texticon Wettere
 MODIFIER_AIR_STRATEGIC_BOMBER_WEATHER_DESC:0	"Wettereinfluss auf Bodenbombardierungen."
 MODIFIER_AIR_STRATEGIC_BOMBER_WEATHER_FACTOR_DESC:0	"Wettereinfluss auf Bodenbombardierungen."
 MODIFIER_AIR_MAX_SPEED_WEATHER:0	"£attacker_speed_texticon Wetter-Luft-Maximalgeschwindigkeit"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 MODIFIER_AIR_RANGE_NIGHT_FACTOR_DESC:0	"Luftreichweite während der Nacht."
-
-
-
-
-
-
-
-
-
-
-
 MODIFIER_AIR_ATTACK_NIGHT_FACTOR:0	"£attack_texticon Nächtlicher Luftangriff"
 MODIFIER_AIR_ATTACK_NIGHT_DESC:0	"Luftangriff in der Nacht."
 MODIFIER_AIR_ATTACK_NIGHT_FACTOR_DESC:0	"Luftangriff in der Nacht."
@@ -340,7 +190,6 @@ MODIFIER_NAVY_ANTI_AIR_TARGETTING_FACTOR:0	"£anti_air_gun_texticon Marine-Fluga
 MODIFIER_NAVY_ANTI_AIR_TARGETTING_DESC:0	"Marine zielt auf Flugzeuge."
 MODIFIER_NAVY_ANTI_AIR_TARGETTING_FACTOR_DESC:0	"Marine zielt auf Flugzeuge."
 MODIFIER_NAVY_ANTI_AIR_ATTACK:0	"£attack_texticon Marine-Flak-Angriff"
-
 MODIFIER_NAVY_ANTI_AIR_ATTACK_DESC:0	"Marineangriff auf Flugzeuge."
 MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR_DESC:0	"Marineangriff auf Flugzeuge."
 MODIFIER_NAVY_MAX_RANGE:0	"£navy_anchor_texticon Maximale Marinereichweite"
@@ -352,42 +201,12 @@ MODIFIER_OPINION_GAIN_MONTHLY_FACTOR:0	"£boost_popularity_texticon Verbessern S
 MODIFIER_OPINION_GAIN_MONTHLY_FACTOR_DESC:0	"Erhöht den Meinungsgewinn mit anderen Nationen durch die Verwendung von §HMeinung verbessern§!"
 MODIFIER_OPINION_GAIN_MONTHLY_SAME_IDEOLOGY:0	"£boost_popularity_texticon Gleiche Ideologie, monatliche Meinung"
 MODIFIER_OPINION_GAIN_MONTHLY_SAME_IDEOLOGY_FACTOR:0	"£boost_popularity_texticon Gleiche Ideologie, monatliche Meinung"
-
-
-
-
-
-
-
 MODIFIER_OUT_OF_POWER_FACTOR:	"£resources_strip|4 Reduzierung durch Mangel an Werkzeugmaschinen"
 MODIFIER_FACTION_SUBJECT_CONTRIBUTION_GAIN:	"Reduzierung des Beitrags als Untertan"
 MODIFIER_FACTION_SUBJECT_CONTRIBUTION_GAIN_DESC:	"Reduzierung des Beitragsgewinns durch Untertan-Status"
 MODIFIER_PRODUCTION_SPEED_FACILITY_FACTOR:	"Geschwindigkeit des Anlagenbaus"
 MODIFIER_PRODUCTION_SPEED_FACILITY_FACTOR_DESC:	"Ändert die Geschwindigkeit aller Anlagenkonstruktionen."
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_production_speed_coastal_bunker_factor:0	"£construction_speed_texticon §YKüstenfestung§! Baugeschwindigkeit"
-
-
-
-
-
-
-
-
-
-
-
 modifier_production_speed_nuclear_reactor_factor:0	"£construction_speed_texticon §YNuklearer Reaktor§! Baugeschwindigkeit"
 modifier_production_speed_nuclear_reactor_factor_desc:0	"Ändert die Baugeschwindigkeit des Kernreaktors"
 modifier_production_speed_nuclear_reactor_heavy_water_factor:0	"£construction_speed_texticon §YSchwerwasser-Kernreaktor§! Baugeschwindigkeit"
@@ -400,11 +219,9 @@ modifier_production_speed_supply_node_factor:0	"£construction_speed_texticon §
 modifier_production_speed_supply_node_factor_desc:0	"Ändert die Geschwindigkeit des Baus eines Versorgungszentrums."
 modifier_production_cost_arms_factory_factor:0	"£civ_factory_output  §YMilitärfabrik§! Baukosten"
 modifier_production_cost_industrial_complex_factor:0	"£civ_factory_output  §YZivile Fabrik§! Baukosten"
-
 modifier_production_speed_naval_headquarters_factor_desc:	"Ändert die Baugeschwindigkeit des Marinehauptquartiers."
 modifier_production_speed_naval_gun_battery_factor:	"§YMarinegeschützstellung§!Bauzeit"
 modifier_production_speed_naval_gun_battery_factor_desc:	"Ändert die Bauzeit der Marinegeschützstellung."
-
 modifier_production_speed_naval_supply_hub_factor_desc:	"Ändert die Baugeschwindigkeit des Marineversorgungszentrums." MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY:0 "£prod_eff_cap  Produktions-Effizienz-Obergrenze"
 MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_DESC:0	"Produktionseffizienzgrenze, die durch die Massenproduktion von Artikeln in einer einzigen Produktionslinie erreicht werden kann."
 MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR:0	"£efficiency_base_texticon Produktionseffizienzbasis"
@@ -421,7 +238,6 @@ MODIFIER_ENEMY_PARTISAN_EFFECT_FACTOR:0	"£political_violence_texticon Wirkung v
 MODIFIER_ENEMY_PARTISAN_EFFECT_FACTOR_DESC:0	"Wie effizient sich feindliche Partisanen in den von uns besetzten Gebieten organisieren"
 MODIFIERS_ARMY_ATTACK_FACTOR:0	"£attack_texticon Divisionsangriff"
 MODIFIERS_ARMY_DEFENCE_FACTOR:0	"£defence_texticon Divisionsverteidigung"
-
 MODIFIERS_ARMY_CORE_DEFENCE_FACTOR:0	"£defence_texticon Division Verteidigung im Kerngebiet"
 MODIFIERS_ARMY_CLAIM_ATTACK_FACTOR:	"Divisionangriff auf beanspruchtes Gebiet"
 MODIFIERS_ARMY_CLAIM_DEFENCE_FACTOR:	"Division-Verteidigung auf beanspruchtem Gebiet"
@@ -435,16 +251,8 @@ MODIFIERS_ARMY_ARTILLERY_ATTACK_FACTOR:0	"£attack_texticon Artillerieangriff"
 MODIFIERS_ARMY_ARTILLERY_DEFENCE_FACTOR:0	"£defence_texticon Artillerieverteidigung"
 MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR:0	"£special_forces_texticon Spezialeinheiten Angriff"
 MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR:0	"£special_forces_texticon Spezialeinheiten Verteidigung"
-
-
 MODIFIER_MECHANIZED_ATTACK_FACTOR:0	"£attack_texticon Mechanisierter Angriff"
 MODIFIER_MECHANIZED_DEFENCE_FACTOR:0	"£defence_texticon Mechanisierte Verteidigung"
-
-
-
-
-
-
 MODIFIER_CARRIER_FIGHTER_SORTIE_EFFICIENCY_FACTOR_DESC:0	"Die zusätzlichen Prozente zur Geschwindigkeit beim Auftanken und Aufrüsten von Kampfflugzeugen auf dem Träger während des Gefechts."
 MODIFIER_NAVY_SUBMARINE_ATTACK_FACTOR:0	"£attack_texticon U-Boot Angriff"
 MODIFIER_NAVY_SUBMARINE_ATTACK_FACTOR_DESC:0	"Ändert den Angriffswert von U-Booten"
@@ -453,54 +261,18 @@ MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR_DESC:0	"Ändert den Verteidigungswert von
 MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR:0	"£attack_texticon Großkampfschiff Angriff"
 MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR_DESC:0	"Ändert den Angriffswert aller Großkampfschiffe"
 MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR:0	"£defence_texticon Großkampfschiffrüstung"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR:0	"£attack_texticon Angriff der Infanteriedivision"
-
 MODIFIER_ARMY_ARMOR_ATTACK_FACTOR:0	"£attack_texticon Angriff der Panzerdivision"
 MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR:0	"£defence_texticon Verteidigung der Panzerdivision"
-
-
-
-
 democratic_drift:0	"£boost_popularity_texticon Tägliche Demokratieunterstützung"
-
-
-
-
-
-
 communism_acceptance:0	"£ai_texticon Akzeptanz der kommunistischen Diplomatie"
 democratic_acceptance:0	"£ai_texticon Akzeptanz der demokratischen Diplomatie"
-
-
 socialism_acceptance:0	"£ai_texticon Akzeptanz der sozialistischen Diplomatie"
 fascism_acceptance:0	"£ai_texticon Akzeptanz der faschistischen Diplomatie"
 neutrality_acceptance:0	"£ai_texticon Akzeptanz autoritärer Diplomatie"
 monarchism_acceptance:0	"£ai_texticon Akzeptanz der monarchistischen Diplomatie"
 MODIFIER_RESEARCH_SPEED_FACTOR:2	"£research_speed_texticon Forschungsgeschwindigkeit"
 MODIFIER_RESEARCH_SPEED_FACTOR_DESC:1	"Verkürzt die Zeit, die für die Erforschung einer neuen Technologie benötigt wird."
-
-
-
-
-
-
-
-
 MODIFIER_INDUSTRIAL_CAPACITY_POWERED_FACTOR:	"Leistung einer Fabrik mit Stromversorgung"
 industrial_capacity_factory:0	"£mil_factory_output §YFabrik§! Ausstoß"
 MODIFIER_INDUSTRIAL_CAPACITY_FACTOR_DESC:0	"Dadurch erhöht sich effektiv der Arbeitsaufwand, den jede Fabrik pro Tag erledigen kann."
@@ -518,31 +290,19 @@ MODIFIER_PRODUCTION_OIL_FACTOR:0	"£oil_texticon Kohleverflüssigung"
 MODIFIER_MAX_TRAINING_XP_FACTOR:0	"£training_max_texticon Maximales Training"
 MODIFIER_MIN_EXPORT_FACTOR:0	"£resources_texticon Verarbeitete Ressourcen für den Markt"
 MODIFIER_CONSCRIPTION_FACTOR:0	"£manpower_texticon Rekrutierbare Bevölkerung"
-
 MODIFIER_CONSCRIPTION_TOTAL_FACTOR:0	"£manpower_texticon Rekrutierbarer Bevölkerungsfaktor"
-
-
 MODIFIER_TRADE_OPINION_FACTOR_DESC:0	"Meinungswertfaktor bei Handelsgeschäften"
 MODIFIER_FACTION_TRADE_OPINION_FACTOR:0	"£boost_popularity_texticon Meinungsfaktor für Fraktionshandelsabkommen"
 MODIFIER_FACTION_TRADE_OPINION_FACTOR_DESC:0	"Meinungswertfaktor bei Handelsabkommen zwischen Mitgliedern derselben Fraktion."
 MODIFIER_GROUND_ATTACK:0	"£cas_texticon Bodenangriff"
-
 MODIFIER_AIR_TAC_GROUND_ATTACK:0	"£tac_bomber_texticon TAC-Angriff"
 MODIFIER_AIR_TAC_GROUND_ATTACK_DESC:0	"Bonus auf taktische Bomberangriffe auf Bodentruppen."
 MODIFIER_AIR_TAC_GROUND_ATTACK_FACTOR:0	"£tac_bomber_texticon TAC-Angriff"
 MODIFIER_AIR_TAC_GROUND_ATTACK_FACTOR_DESC:0	"Bonus auf taktische Bomberangriffe auf Bodentruppen."
 MODIFIER_AIR_CAS_GROUND_ATTACK:0	"£cas_texticon Sturzkampfbomber-Angriff"
 MODIFIER_AIR_CAS_GROUND_ATTACK_DESC:0	"Bonus für das Schließen von Luftunterstützungsangriffen auf Bodentruppen."
-
-
 MODIFIER_AIR_CAS_PRESENT_FACTOR:0	"£cas_texticon Bodenunterstützung"
 MODIFIER_AIR_CAS_PRESENT_FACTOR_DESC:0	"Mit gut koordinierten Flugzeugen, die im Kampf helfen, können Ihre Truppen besser kämpfen."
-
-
-
-
-
-
 MODIFIER_EXPERIENCE_LOSS_FACTOR:0	"£experience_loss_texticon Verluste erfahrener Soldaten"
 MODIFIER_EXPERIENCE_LOSS_FACTOR_DESC:0	"Wie viele zusätzliche Verluste erleiden erfahrene Soldaten im Vergleich zu neuen Rekruten?"
 MODIFIER_GENERATE_WARGOAL_TENSION_LIMIT:0	"£world_tension_texticon Erzeugt ein Kriegsziel-Spannungslimit"
@@ -552,61 +312,23 @@ MODIFIER_LEND_LEASE_TENSION_LIMIT:0	"£world_tension_texticon Lend-Lease-Spannun
 MODIFIER_LEND_LEASE_TENSION_LIMIT_WITH_OVERLORD:0	"Leih-und Pachtgesetzt Spannungsobergrenze von Marionette"
 MODIFIER_REQUEST_LEASE_TENSION_LIMIT:1	"£world_tension_texticon Leih-und Pachtgesetzt Spannungsobergrenze"
 MODIFIER_SEND_VOLUNTEERS_TENSION_LIMIT:0	"£world_tension_texticon Senden Sie die Spannungsgrenze der Freiwilligen"
-
-
-
-
 MODIFIER_AIR_VOLUNTEER_CAP:0	"£air_volunteers_texticon Luft Freiwilligen Obergrenze"
-
-
-
-
-
-
-
-
-
-
-
 MODIFIER_NAVAL_COORDINATION:0	"£coordination_texticon Flottenkoordination"
-
 MODIFIER_PLANNING_SPEED:0	"£planning_speed_texticon Planungsgeschwindigkeit"
 MODIFIER_PLANNING_SPEED_DESC:0	"Erhöht die Rate, mit der der Planungsbonus einer Abteilung akkumuliert wird."
-
-
-
-
 MODIFIER_PARTISANS_EFFECT_DESC:0	"Steuert, wie effektiv Partisanen sind."
-
-
-
-
-
-
 MODIFIER_MAX_DIG_IN_DESC:0	"Wie fortschrittlich unsere Truppen temporäre Befestigungen errichten können. Je höher die Stufe, desto mehr Tage können die Truppen ihre Verteidigung weiter verbessern."
 MODIFIER_LAND_NIGHT_ATTACK:0	"£land_night_attack_texticon Landnachtangriff"
-
-
 MODIFIER_POCKET_PENALTY_DESC:0	"Fähigkeit, auch dann noch zu funktionieren, wenn man umgeben ist."
 MODIFIER_NO_SUPPLY_GRACE:0	"£supply_grace_texticon Divisionsnachschub"
 MODIFIER_NO_SUPPLY_GRACE_DESC:0	"Maximaler Nachschub in Stunden, den eine Abteilung speichern kann.."
 MODIFIER_UNDER_AIR_SUPERIORITY_BONUS:0	"£army_air_superiority_texticon Luftüberlegenheitsbonus"
 MODIFIER_UNDER_AIR_SUPERIORITY_BONUS_DESC:0	"Bodentruppen, die sich keine Sorgen um den Himmel machen müssen, kämpfen besser."
 MODIFIER_STAT_CARRIER_SORTIE_EFFICIENCY:0	"£sortie_efficiency_texticon Ausfalleffizienz"
-
-
-
-
-
-
-
-
-
 MODIFIER_AIR_FIGHTER_ACE_CHANCE_DESC:0	"Wahrscheinlichkeit, im Kampf ein Kampf-Ass zu erhalten."
 MODIFIER_AIR_CAS_ACE_CHANCE:0	"£ace_generation_texticon Sturzkampfbomber-Ass-Wahrscheinlichkeit"
 MODIFIER_AIR_CAS_ACE_CHANCE_DESC:0	"Wahrscheinlichkeit, im Kampf ein Bodenangriffs-Ass zu erhalten."
 MODIFIER_AIR_BOMBER_ACE_CHANCE:0	"£ace_generation_texticon Bomber-Ass-Wahrscheinlichkeit"
-
 MODIFIER_RECON_FACTOR:0	"£recon_texticon Aufklärung"
 MODIFIER_COMBAT_WIDTH_FACTOR:0	"£combat_width_texticon Eigene Kampfbreite"
 MODIFIER_AI_CALL_ALLY_DESIRE_FACTOR:0	"£ai_call_ally_texticon KI-Modifikator: Den allierten Wünschen nachkommen"
@@ -618,34 +340,21 @@ MODIFIER_AI_GET_ALLY_DESIRE_FACTOR_DESC:0	"Wie sehr möchte das Land einer stark
 MODIFIER_AI_FOCUS_DEFENSE_FACTOR:0	"£ai_defence_texticon KI: Defensives Frontverhalten"
 MODIFIER_AI_FOCUS_DEFENSE_FACTOR_DESC:0	"Wie sehr konzentriert sich das Land auf Verteidigungstechnologien und -strategien?"
 MODIFIER_AI_FOCUS_AGGRESSIVE_FACTOR:0	"£ai_attack_texticon KI: Aggressives Frontverhalten"
-
 MODIFIER_AI_FOCUS_WAR_PRODUCTION_FACTOR:0	"£ai_mil_factory_texticon KI-Modifikator: Fokus auf Kriegsproduktion"
-
-
 MODIFIER_AI_FOCUS_MILITARY_ADVANCEMENTS_FACTOR_DESC:0	"Wie sehr konzentriert sich das Land auf die Erforschung fortschrittlicher Militärtechnologien?"
 MODIFIER_AI_FOCUS_MILITARY_EQUIPMENT_FACTOR:0	"£ai_research_texticon KI-Modifikator: Fokus auf militärische Ausrüstung"
 MODIFIER_AI_FOCUS_MILITARY_EQUIPMENT_FACTOR_DESC:0	"Wie sehr konzentriert sich das Land auf die Erforschung grundlegender militärischer Ausrüstung?"
 MODIFIER_AI_DESIRED_DIVISIONS_FACTOR:0	"AI: Gewünschter Teilungsfaktor"
-
 MODIFIER_AI_FOCUS_PEACEFUL_FACTOR:0	"£ai_peace_texticon KI-Modifikator: Fokus auf Frieden"
 MODIFIER_AI_FOCUS_PEACEFUL_FACTOR_DESC:0	"Wie sehr das Land auf friedliche Forschung und Politik setzt."
 MODIFIER_AI_FOCUS_NAVAL_FACTOR:0	"£ai_navy_texticon KI-Modifikator: Fokus auf Marine"
 MODIFIER_AI_FOCUS_NAVAL_FACTOR_DESC:0	"Wie sehr konzentriert sich das Land auf die Entwicklung seiner Marine?"
 MODIFIER_AI_FOCUS_NAVAL_AIR_FACTOR:0	"£ai_carrier_texticon KI-Modifikator: Fokus auf Marineluft"
 MODIFIER_AI_FOCUS_NAVAL_AIR_FACTOR_DESC:0	"Wie sehr konzentriert sich das Land auf die Entwicklung von Flugzeugträgern, Trägerflugzeugen und Marinebombern?"
-
-
 MODIFIER_AI_FOCUS_AVIATION_FACTOR_DESC:0	"Wie sehr konzentriert sich das Land auf die Forschung und den Aufbau seiner Luftwaffe?"
 MODIFIER_AIR_INVASION_DIVISION_CAP:0	"Division-Kapazität pro Luftlandung"
-
 MODIFIER_AIR_INVASION_PREPARATION_DESC:0	"Wie schnell wir einen Luftlandeeinmarsch vorbereiten können."
 MODIFIER_NAVAL_INVASION_PREPARATION:0	"£naval_invasion_texticon Invasionsvorbereitungszeit"
-
-
-
-
-
-
 MODIFIER_SLOTS_FROM_INFRASTRUCTURE_FACTOR:0	"£slot_texticon Bau von Slots aus der Infrastruktur"
 MODIFIER_SLOTS_FROM_INFRASTRUCTURE_FACTOR_DESC:0	"Wie stark beeinflusst die Infrastruktur das Infrastrukturgebäude-Slot-Limit?"
 MODIFIER_ADDITIONAL_SLOTS_CAP:0	"£slot_texticon Slots aus Technologie bauen"
@@ -655,65 +364,26 @@ MODIFIER_CONVERSION_COST_MIL_TO_CIV_FACTOR_DESC:0	"Wie effizient können militä
 MODIFIER_CONVERSION_COST_CIV_TO_MIL_FACTOR:0	"£equipment_conversion_texticon Kosten für den Umbau einer zivilen in eine militärische Fabrik"
 MODIFIER_CONVERSION_COST_CIV_TO_MIL_FACTOR_DESC:0	"Wie effizient können zivile Fabriken in militärische Fabriken umgewandelt werden?"
 MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR:0	"£sabotaged_resource_texticon Strafe wegen Ressourcenmangels"
-
-
-
-
 MODIFIER_AIR_NIGHT_PENALTY_DESC:0	"Reduziert die Nachteile für den Flugbetrieb während der Nacht"
-
-
-
-
-
-
-
-
-
-
-
 MODIFIER_AIR_NAV_EFFICIENCY_DESC:0	"Verbesserte Taktiken für Flugzeuge, die Seebombenangriffe oder Hafenangriffe durchführen, was zu erhöhten Fähigkeiten führt."
-
 MODIFIER_ANNEX_COST_FACTOR_DESC:0	"Ändert die Kosten für die Annektierung eines Landes."
 MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_PLAYERS:0	"Friedenspunktzahl auf Spieler übertragen"
-
-
-
-
 MODIFIER_TAKE_STATES_COST_FACTOR_DESC:0	"Ändert die Kosten für die Übernahme von Staaten aus einem Land."
-
-
-
-
-
-
 MODIFIER_NAVAL_INVASION_PENALTY_DESC:0	"Erhöht die Strafen für Seeinvasionen und verringert so die Kampfeffizienz."
 MODIFIER_OCCUPATION_COST:0	"£occupation_costs Beschäftigungskosten"
-
 MODIFIER_MINIMUM_TRAINING_LEVEL:0	"£training_texticon Mindesttrainingsniveau"
 MODIFIER_MINIMUM_TRAINING_LEVEL_DESC:0	"Reduziert das für den Einsatz der Einheit erforderliche Mindesttrainingsniveau"
 MODIFIER_AUTONOMY_MANPOWER_SHARE:0	"£manpower_cost_texticon Betreff: Personalbedarf"
-
 MODIFIER_TRADE_TO_OVERLORD_FACTOR:0	"£trade_texticon Zusätzlicher Handel für den Overlord"
 MODIFIER_TRADE_TO_OVERLORD_FACTOR_DESC:0	"Zusätzlich produzierte Ressourcen stehen dem Overlord zum Handel zur Verfügung"
 MODIFIER_TRADE_COST_FACTOR:1	"£trade_texticon Overlord-Handelskosten"
 MODIFIER_TRADE_COST_FACTOR_DESC:0	"Ressourcen pro Fabrik im Handel vom Untertan zum Oberherrn"
 MODIFIER_CIC_TO_OVERLORD_FACTOR:0	"£civ_factory Zivile Industrie zum Oberherrn"
 MODIFIER_CIC_TO_OVERLORD_FACTOR_DESC:0	"§YWie viele Zivilisten§! Fabriken werden von Untertanen kontrolliert"
-
-
-
-
-
-
-
-
-
-
 MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_DESC:0	"Auswirkung auf die Freiheit, die das Subjekt durch Leihpacht vom Oberherrn erlangt oder verliert"
 MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR:0	"£autonomy_texticon Freiheitsgewinn durch Leihpacht an den Oberherrn"
 MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR_DESC:0	"Auswirkung auf die Freiheit, die das Subjekt durch die Leihpacht an den Oberherrn erlangt oder verliert"
 MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR:0	"£autonomy_texticon Freiheitsgewinn nach Subjekt durch Leihpacht vom Oberherrn"
-
 MODIFIER_AUTONOMY_GAIN_WARSCORE:0	"£autonomy_texticon Freiheitsgewinn durch Kriegspunktzahl"
 MODIFIER_AUTONOMY_GAIN_WARSCORE_DESC:0	"Auswirkung auf die durch Kriegsteilnahme gewonnene Freiheit"
 MODIFIER_AUTONOMY_GAIN_WARSCORE_FACTOR:0	"£autonomy_texticon Freiheitsgewinn durch Kriegspunktzahl"
@@ -725,34 +395,19 @@ MODIFIER_AUTONOMY_SUBJECT_GAIN:0	"£autonomy_texticon Meisterwirkung"
 MODIFIER_CIVIL_WAR_INVOLVEMENT_TENSION:0	"Spannung im Bürgerkrieg"
 MASTER_BUILDS_FREEDOM_EFFECT:0	"£autonomy_texticon Autonomieeffekt vom Hauptgebäude"
 MASTER_BUILDS_FREEDOM_EFFECT_DESC:0	"Investitionen in die Wirtschaft einer unterworfenen Nation machten die Fortschritte auf dem Weg zur Unabhängigkeit zunichte."
-
 MODIFIER_ARMY_LEADER_COST_FACTOR_DESC:0	"Ändert die Kosten der Armeeführer"
-
-
 MODIFIER_MILITARY_LEADER_COST_FACTOR:0	"£command_power Militärführerkosten"
 MODIFIER_MILITARY_LEADER_COST_FACTOR_DESC:0	"Ändert die Kosten von Militärführern"
 MODIFIER_AUTONOMY_GAIN:0	"£autonomy_texticon Täglicher Autonomie-Fortschrittsgewinn"
 MODIFIER_ARMY_LEADER_START_LEVEL:1	"£army_level_texticon Startlevel neuer Armeeführer"
-
 MODIFIER_ARMY_LEADER_START_DEFENSE_LEVEL:0	"£army_level_texticon Start-Verteidigungsfähigkeitsniveau neuer Armeeführer"
 MODIFIER_ARMY_LEADER_START_LOGISTICS_LEVEL:0	"£army_level_texticon Beginn des Logistik-Fertigkeitsniveaus neuer Armeeführer"
 MODIFIER_ARMY_LEADER_START_PLANNING_LEVEL:0	"£army_level_texticon Beginn der Planungsfähigkeitsstufe neuer Armeeführer"
 MODIFIER_NAVY_LEADER_START_LEVEL:0	"£army_level_texticon Startlevel neuer Marineführer"
 MODIFIER_NAVY_LEADER_START_ATTACK_LEVEL:0	"£army_level_texticon Startangriff-Fertigkeitsstufe neuer Marineführer"
 MODIFIER_NAVY_LEADER_START_DEFENSE_LEVEL:0	"£army_level_texticon Anfangsniveau der Verteidigungsfähigkeiten neuer Marineführer"
-
-
 MODIFIER_NAVAL_NIGHT_ATTACK:0	"£attack_texticon Nächtlicher Angriff"
-
-
-
 MODIFIER_NIGHT_SPOTTING_CHANCE_DESC:0	"Ändert die Wahrscheinlichkeit, feindliche Schiffe nachts zu entdecken"
-
-
-
-
-
-
 MODIFIER_LOCAL_NON_CORE_MANPOWER:0	"£manpower_texticon Lokale Ausländische Freiwillige"
 MODIFIER_GLOBAL_NON_CORE_MANPOWER:0	"£manpower_texticon Globale Ausländische Freiwillige"
 MODIFIER_MOBILIZATION_SPEED:0	"£mobilisation_texticon Mobilisierungsgeschwindigkeit"
@@ -763,87 +418,41 @@ MODIFIER_LICENSE_INFANTRY_PURCHASE_COST:0	"£production_licence_texticon Kaufkos
 MODIFIER_LICENSE_ARMOR_PURCHASE_COST:0	"£production_licence_texticon Kaufkosten für die Panzerlizenz"
 MODIFIER_LICENSE_NAVAL_PURCHASE_COST:0	"£production_licence_texticon Kaufkosten für eine Marinelizenz"
 MODIFIER_LICENSE_PRODUCTION_SPEED:0	"£production_licence_texticon Produktionsgeschwindigkeit von Lizenz"
-
-
-
-
 MODIFIER_LICENSE_ANTI_TANK_EQ_TECH_DIFFERENCE_SPEED_FACTOR:0	"£production_licence_texticon Lizenzproduktionsgeschwindigkeit aus Technologieunterschied für Panzerabwehrausrüstung"
-
-
-
-
-
-
-
-
-
-
-
 press_cost_factor:0	"£political_power_texticon Kosten für Pressegesetze"
-
 trade_laws_cost_factor:0	"£political_power_texticon Handelspolitische Kosten"
-
 tariffs_cost_factor:0	"£political_power_texticon Kosten für Industriezölle"
 taxes_cost_factor:0	"£political_power_texticon Kosten der Steuerpolitik"
 conscription_law_cost_factor:0	"£political_power_texticon Kosten der Einberufungspolitik"
-
 nationalization_cost_factor:0	"£political_power_texticon Kosten der Verstaatlichungspolitik"
-
-
-
 security_cost_factor:	"£political_power_texticon  $security$ Kosten"
 cadet_training_standards_cost_factor:	"£political_power_texticon  $cadet_training_standards$ Kosten"
 officer_training_standards_cost_factor:	"£political_power_texticon  $officer_training_standards$ Kosten"
 recruitment_laws_cost_factor:	"£political_power_texticon  $recruitment_laws$ Kosten"
 civ_fuel_usage_cost_factor:	"£political_power_texticon  $civ_fuel_usage$ Kosten"
-
-
-
-
-
-
 tank_manufacturer_cost_factor:0	"£political_power_texticon Panzerherstellerkosten"
 tank_manufacturer_cost_factor_MIO:0	"£political_power_texticon Panzer §YMilitärische Industrieorganisation§! Kosten"
-
 naval_manufacturers_cost_factor:0	"£political_power_texticon Marine-Herstellerkosten"
 naval_manufacturers_cost_factor_MIO:0	"£political_power_texticon Marine §YMilitärisch-Industrielle-Organisation§! Kosten"
 aircraft_manufacturer_cost_factor:0	"£political_power_texticon Luftfahrzeughersteller Kosten"
 aircraft_manufacturer_cost_factor_MIO:	"£political_power_texticon Aircraft §YMilitary Industrial Organization§! cost"
-
-
-
 materiel_manufacturer_cost_factor_MIO:0	"£political_power_texticon Hersteller §YMilitärische Industrieorganisation§! Kosten"
-
-
 theorist_cost_factor:0	"£political_power_texticon Theoretische Kosten"
 supreme_commander_cost_factor:0	"£political_power_texticon Oberbefehlshaberkosten"
-
 navy_chief_cost_factor:0	"£political_power_texticon Kosten des Oberbefehlshabers der Marine"
 air_chief_cost_factor:0	"£political_power_texticon Kosten des Oberbefehlshabers der Luftwaffen"
 high_command_cost_factor:0	"£political_power_texticon Hohe Kommandokosten"
-
 foreign_minister_cost_factor:0	"£political_power_texticon Kosten des Außenministers"
 interior_minister_cost_factor:0	"£political_power_texticon Kosten des Innenministers"
 intel_minister_cost_factor:0	"£political_power_texticon Leiter der Geheimdienstkosten"
 economic_minister_cost_factor:0	"£political_power_texticon Wirtschaftsminister Kosten"
 domestic_minister_cost_factor:0	"£political_power_texticon Kosten des Innenministers"
 influence_minister_cost_factor:0	"£political_power_texticon Kosten des Propagandaministers"
-
-
 academy_spirit_cost_factor:0	"£Erfahrung_neutral_texticon Akademie Geist Kosten"
-
-
-
-
-
-
-
-
 MODIFIER_STABILITY_FACTOR:0	"£stability_texticon Basisstabilität"
 MODIFIER_STABILITY_WEEKLY:0	"£stability_texticon Wöchentliche Stabilität"
 MODIFIER_STABILITY_WEEKLY_FACTOR:0	"£stability_texticon Wöchentlicher Stabilitätsgewinnfaktor"
 MODIFIER_STABILITY_POPULARITY_FACTOR:0	"£stability_texticon Stabilitätsmodifikator für Parteipopularität"
-
 MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR:0	"£stability_texticon Offensive Kriegsstabilität"
 MODIFIER_STABILITY_DEFENSIVE_WAR_FACTOR:0	"£stability_texticon Defensive Kriegsstabilität"
 MODIFIER_SURRENDER_LIMIT:0	"£surrender_texticon Übergabelimit"
@@ -855,11 +464,8 @@ MODIFIER_WAR_SUPPORT_WEEKLY_FACTOR:0	"£war_support_texticon Wöchentlicher Vers
 MODIFIER_EQUIPMENT_CAPTURE:0	"£infantry_equipment_texticon Ausrüstungseroberungsverhältnisgewinn"
 MODIFIER_EQUIPMENT_CAPTURE_FOR_CONTROLLER:0	"Ausrüstungseroberungsverhältnisgewinn für Regionenbesitzer"
 MODIFIER_COMMAND_POWER_GAIN:0	"£command_power_texticon Täglicher Befehlsgewaltgewinn"
-
 MODIFIER_COMMAND_POWER_GAIN_MULT:0	"£command_power_texticon Täglicher Befehlsgewaltgewinn-Multiplikator"
-
 MODIFIER_COMMAND_ABILITIES_COST_FACTOR:0	"£command_power_texticon Kosten für Kommandantenfähigkeiten"
-
 MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES:0	"£attack_texticon Angriff auf ihr Kerngebiet"
 MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY:1	"£defence_texticon Verteidigungsbonus gegen Land"
 MODIFIER_CIVILIAN_FACTORY_USE:0	"£civ_factory Zivile Fabriknutzung"
@@ -875,17 +481,12 @@ MODIFIER_TERRAIN_PENALTY_REDUCTION:0	"£terrain_penalty_texticon Reduzierung der
 MODIFIER_EQUIPMENT_CAPTURE_FACTOR:0	"£infantry_equipment_texticon Ausrüstungs Eroberungsverhältnis Modifikator"
 MODIFIER_PARATROOPER_EXTRA_SUPPLY_GRACE:0	"£supply_grace_texticon Zusätzliche Nachschublieferung für Fallschirmjäger"
 MODIFIER_MARINE_EXTRA_SUPPLY_GRACE:0	"£supply_grace_texticon Zusätzliche Nachschublieferung für Marineinfanterie"
-
-
 MODIFIER_SHORE_BOMBARDMENT:0	"£naval_battery_texticon Küstenbombardierungsbonus"
 MODIFIER_RECON_FACTOR_WHILE_ENTRENCHED:0	"£recon_texticon Aufklärungsbonus im verschanzten Zustand"
-
 MODIFIER_UNIT_LEADER_SKILL_BONUS_FACTOR:0	"£army_level_texticon Anführerfähigkeitsboni"
 MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR:0	"£command_power_texticon Werbekosten"
 MODIFIER_SICKNESS_CHANCE:0	"£sick_texticon Wahrscheinlichkeit, krank zu werden"
 MODIFIER_RIVER_CROSSING_PENALTY_FACTOR:1	"£attacker_speed_texticon Geschwindigkeitsstrafe für Flussüberquerung"
-
-
 MODIFIER_DONT_LOSE_DIGIN_ON_ATTACK_MOVE:0	"£dig_in_texticon Keine Verschanzung bei Angriff verloren"
 MODIFIER_SPECIAL_FORCES_CAP:0	"£specops_texticon Kapazitätsmultiplikator für Spezialeinheiten"
 MODIFIER_SPECIAL_FORCES_MIN:0	"£specops_texticon Mindestkapazität für Spezialeinheiten"
@@ -896,19 +497,8 @@ MODIFIER_NAVAL_INVASION_CAPACITY:0	"£naval_invasion_texticon Marineinvasionskap
 MODIFIER_NAVAL_INVASION_DIVISION_CAP:0	"£naval_invasion_texticon  Divisionenkapazität pro Seelandungsoperation"
 MODIFIER_NAVAL_INVASION_DIVISION_CAP_DESC:0	"Maximale Anzahl an Divisionen, die einem Befehl zur Seelandungsoperation zugewiesen werden können."
 MODIFIER_NAVAL_INVASION_PREP_SPEED:0	"£naval_invasion_texticon Marineinvasion, Geschwindigkeit vorbereiten"
-
-
 MODIFIER_FORTIFICATION_COLLATERAL_DAMAGE:1	"£attacker_damage_texticon Festungsschaden durch Kampf"
-
-
-
 MODIFIER_MIC_TO_TARGET_FACTOR_DESC:0	"Wie viele §YMilitär§! Fabriken werden vom Zielland kontrolliert"
-
-
-
-
-
-
 MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR:1	"£out_of_supply_texticon Nicht kämpfende Spezialeinheiten haben keinen Nachschub mehr"
 MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC:1	"Reduziert die Organisations- und Wiederherstellungsstrafen, die unsere Spezialeinheiten erleiden, wenn ihnen die Vorräte ausgehen."
 MODIFIER_REASSIGNMENT_DURATION_FACTOR:0	"£time_texticon Faktor Neuzuweisungstage (Basis: 1 Tag)"
@@ -922,93 +512,32 @@ MODIFIER_NAVAL_INVASION_PLAN_CAP_DESC:	"Maximale Anzahl an Seelandungen, die gle
 MODIFIER_NAVAL_INVASION_PREPARATION_DAYS:	"£naval_invasion_texticon  Vorbereitungszeit für eine Seelandung"
 MODIFIER_NAVAL_INVASION_PREPARATION_DAYS_DESC:	"Wie viele Tage dauert es, eine Seelandung zu planen und vorzubereiten."
 MODIFIER_AIR_INVASION_PREPARATION_DAYS:	"£planning_speed  Vorbereitungszeit für Luftlandeeinsätze"
-
-
-
 MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR:0	"£anti_air_gun_texticon Statischer Luftabwehr-Schadensfaktor"
 MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR:0	"£anti_air_gun_texticon Statischer Luftabwehr-Trefferchancenfaktor"
 MODIFIER_NAVAL_CRITICAL_RECEIVE_CHANCE_FACTOR:0	"£critical_hit_texticon Wahrscheinlichkeit, einen kritischen Treffer zu erhalten"
-
-
-
-
 MODIFIER_NAVAL_CRITICAL_EFFECT_FACTOR_DESC:0	"Verändern Sie die globalen Auswirkungen der anhaltenden kritischen Treffer auf unsere Schiffe"
-
-
-
-
-
-
-
-
-
-
-
 MODIFIER_NAVAL_TORPEDO_COOLDOWN_FACTOR_DESC:0	"Verändert die Geschwindigkeit, mit der wir Torpedos abfeuern können."
-
 MODIFIER_NAVAL_TORPEDO_HIT_CHANCE_FACTOR_DESC:0	"Ändern Sie die Wahrscheinlichkeit, dass wir unser Ziel mit Torpedos treffen."
-
 MODIFIER_ARMY_FUEL_CONSUMPTION_FACTOR:0	"£fuel_texticon Kraftstoffverbrauch des Heeres"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 pride_of_the_fleet_country:0	"Hat Stolz der Flotte"
 pride_of_the_fleet_sunk_temporary:0	"Kürzlich verlorener Stolz der Flotte"
-
-
 MODIFIER_AIR_WING_XP_LOSS_WHEN_KILLED_FACTOR:0	"£air_experience Staffel Erfahrungsverlust bei Tod"
-
 MODIFIER_FACTORY_ENERGY_CONSUMPTION:	"£resources_strip|4 Werkzeugmaschinenbedarf"
-
-
-
-
 MODIFIER_FUEL_GAIN_ADD:1	"£fuel_texticon Kraftstoffgewinn pro Öl"
 MODIFIER_MAX_FUEL_FACTOR:0	"£fuel_texticon Kraftstoffkapazität"
-
-
-
-
-
-
-
 MODIFIER_DOCKYARD_DONATIONS:0	"£dockyard_texticon Werftzuwendungen"
 MODIFIER_NAVAL_VISIBILITY_FACTOR:0	"£spotting"
-
 MODIFIER_NAVAL_CASUALTY_ON_SINK_FACTOR:0	"£critical_hit_texticon Verluste beim Sinken"
 MODIFIER_NAVAL_ATTRITION_FACTOR:0	"£attrition_texticon Abnutzung"
-
 MODIFIER_OWN_EXILED_DIVISIONS_ATTACK_FACTOR:0	"£attack_texticon Angriff der eigenen Exil-Divisionen"
 MODIFIER_EXILED_DIVISIONS_DEFENSE_FACTOR:0	"£defence_texticon Verteidigung der Exiled Divisions"
 MODIFIER_OWN_EXILED_DIVISIONS_DEFENSE_FACTOR:0	"£defence_texticon Eigene Verteidigung der Exil-Divisionen"
-
 MODIFIER_TARGETED_LEGITIMACY_DAILY:0	"£occupation_costs Täglicher Legitimitätsgewinn"
 WARGOAL_COST_ASSISTING_ENEMY:0	"£war_goal_texticon Unterstützt den Feind"
 MODIFIER_NAVAL_MINE_HIT_CHANCE:0	"£minelaying_texticon Wahrscheinlichkeit, eine Marinemine zu treffen"
 MODIFIER_MASTER_IDEOLOGY_DRIFT:0	"£drift_defence_texticon Master Ideology Drift"
 MODIFIER_SCREENING_EFFICIENCY:0	"£armor_texticon Sicherungseffizienz"
 MODIFIER_POSITIONING:0	"£ships_contact_texticon Positionierung"
-
-
-
-
-
-
-
-
 MODIFIER_NAVAL_LIGHT_GUN_HIT_CHANCE_FACTOR:0	"Trefferchance einer leichten Waffe"
 MODIFIER_NAVAL_HEAVY_GUN_HIT_CHANCE_FACTOR:0	"Trefferchance durch schweres Geschütz"
 MODIFIER_CARRIER_SORTIE_HOURS_DELAY:0	"Ausfallverzögerung des Trägerjagfgeschwaders (Stunden)"
@@ -1017,14 +546,10 @@ MODIFIER_NAVAL_HAS_POTF_IN_COMBAT_ATTACK_DESC:0	"Angriffsbonus für alle Schiffe
 MODIFIER_NAVAL_HAS_POTF_IN_COMBAT_DEFENSE:0	"£defence_texticon Verteidigung im Kampf an der Seite des §YPride of the Fleet§!"
 MODIFIER_NAVAL_HAS_POTF_IN_COMBAT_DEFENSE_DESC:0	"Verteidigungsbonus für alle Schiffe, die an der Seite des Stolzes der Flotte kämpfen."
 modifier_production_cost_max_ship_hull_cruiser:0	"£navprod_cost Cruiser Max. Kosten"
-
-
-
 refit_speed:0	"£refitting Umrüstungsgeschwindigkeit"
 MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR_DESC:0	"Die Geschwindigkeit, mit der die Umrüstung einer Ausrüstung durchgeführt wird"
 MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR:0	"£refitting Umrüstungskosten"
 MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR_DESC:0	"Die IC-Kosten bei der Umrüstung eines Geräts"
-
 MODIFIER_EQUIPMENT_UPGRADE_XP_COST_DESC:0	"Erfahrungskostenfaktor beim Wechsel von Ausrüstungsgütern"
 MODIFIER_NAVAL_EQUIPMENT_UPGRADE_XP_COST:0	"£navy_experience Erfahrungskosten für Marineausrüstung"
 MODIFIER_NAVAL_EQUIPMENT_UPGRADE_XP_COST_DESC:0	"Erfahrungskostenfaktor beim Wechsel von Marinerüstungsgütern"
@@ -1036,11 +561,8 @@ MODIFIER_REPAIR_SPEED_FACTOR:0	"£repairing Schiffsreparaturgeschwindigkeit"
 MODIFIER_STRIKE_FORCE_MOVING_ORG:0	"£org_loss_when_moving_texticon Verlust der Strike Force Org"
 MODIFIER_STRIKE_FORCE_MOVING_ORG_DESC:0	"Der Org-Verlust der Strike Forces während der Bewegung wird hiervon betroffen sein"
 modifier_experience_gain_battle_cruiser_training_factor:1	"£navy_experience Schlachtkreuzer-Trainingserfahrungsgewinn"
-
 modifier_experience_gain_large_cruiser_training_factor:1	"£navy_experience Erfahrungsgewinn im Training für große Kreuzer"
-
 modifier_experience_gain_battleship_training_factor:1	"£navy_experience Erfahrungsgewinn im Schlachtschiff-Training"
-
 modifier_experience_gain_predreadnought_training_factor:1	"£navy_experience Erfahrungsgewinn vor dem Dreadnought-Training"
 modifier_experience_gain_predreadnought_combat_factor:1	"£navy_experience Gefechtserfahrungsgewinn vor dem Dreadnought"
 modifier_experience_gain_carrier_training_factor:1	"£navy_experience Erfahrungsgewinn im Trägertraining"
@@ -1057,19 +579,14 @@ modifier_experience_gain_escort_training_factor:1	"£navy_experience Escort-Trai
 modifier_experience_gain_escort_combat_factor:1	"£navy_experience Gefechtserfahrungsgewinn für Eskorte"
 modifier_experience_gain_heavy_cruiser_training_factor:1	"£navy_experience Erfahrungsgewinn im Training für schwere Kreuzer"
 modifier_experience_gain_heavy_cruiser_combat_factor:1	"£navy_experience Gefechtserfahrungsgewinn für schwere Kreuzer"
-
-
 modifier_experience_gain_light_cruiser_training_factor:1	"£navy_experience Leichter Kreuzer-Trainingserfahrungsgewinn"
 modifier_experience_gain_light_cruiser_combat_factor:1	"£navy_experience Gefechtserfahrungsgewinn für leichte Kreuzer"
-
 modifier_experience_gain_submarine_combat_factor:1	"£navy_experience U-Boot-Kampferfahrungsgewinn"
 modifier_experience_gain_rn_patrol_submarine_training_factor:0	"£navy_experience Erfahrungsgewinn im Patrouillen-U-Boot-Training"
 modifier_experience_gain_rn_lr_patrol_submarine_training_factor:0	"£navy_experience Erfahrungsgewinn im Langstrecken-Patrouillen-U-Boot-Training"
 modifier_experience_gain_rn_lr_patrol_submarine_combat_factor:0	"£navy_experience Erfahrungsgewinn im Langstrecken-Patrouillen-U-Boot-Kampf"
 modifier_experience_gain_fn_coastal_submarine_training_factor:0	"£navy_experience Erfahrungsgewinn im Küsten-U-Boot-Training"
 modifier_experience_gain_fn_coastal_submarine_combat_factor:0	"£navy_experience Erfahrungsgewinn im Küsten-U-Boot-Kampf"
-
-
 modifier_experience_gain_fn_ger_patrol_submarine_training_factor:0	"£navy_experience Erfahrungsgewinn im Patrouillen-U-Boot-Training"
 modifier_experience_gain_fn_ger_patrol_submarine_combat_factor:0	"£navy_experience Erfahrungsgewinn im Patrouillen-U-Boot-Kampf"
 modifier_experience_gain_coastal_submarine_training_factor:0	"£navy_experience Erfahrungsgewinn im Küsten-U-Boot-Training"
@@ -1077,22 +594,9 @@ modifier_experience_gain_coastal_submarine_combat_factor:0	"£navy_experience Er
 modifier_experience_gain_patrol_submarine_training_factor:0	"£navy_experience Erfahrungsgewinn im Patrouillen-U-Boot-Training"
 modifier_experience_gain_patrol_submarine_combat_factor:0	"£navy_experience Erfahrungsgewinn im Patrouillen-U-Boot-Kampf"
 modifier_experience_gain_rn_patrol_submarine_combat_factor:0	"£navy_experience Erfahrungsgewinn im Patrouillen-U-Boot-Kampf"
-
-
 modifier_experience_gain_rm_patrol_submarine_training_factor:0	"£navy_experience Erfahrungsgewinn im Patrouillen-U-Boot-Training"
-
-
 modifier_experience_gain_rm_coastal_submarine_combat_factor:0	"£navy_experience Erfahrungsgewinn im Küsten-U-Boot-Kampf"
-
-
-
 modifier_experience_gain_ijn_coastal_submarine_combat_factor:0	"£navy_experience Erfahrungsgewinn im Küsten-U-Boot-Kampf"
-
-
-
-
-
-
 modifier_experience_gain_ijn_minelayer_submarine_training_factor:0	"£navy_experience Erfahrungsgewinn im Minenleger-U-Boot-Training"
 modifier_experience_gain_ijn_minelayer_submarine_combat_factor:0	"£navy_experience MineLayer-U-Boot-Kampferfahrungsgewinn"
 modifier_experience_gain_sn_coastal_submarine_training_factor:0	"£navy_experience Erfahrungsgewinn im Küsten-U-Boot-Training"
@@ -1101,78 +605,21 @@ modifier_experience_gain_sn_patrol_submarine_training_factor:0	"£navy_experienc
 modifier_experience_gain_sn_patrol_submarine_combat_factor:0	"£navy_experience Erfahrungsgewinn im Patrouillen-U-Boot-Kampf"
 modifier_experience_gain_sn_lr_patrol_submarine_training_factor:0	"£navy_experience Erfahrungsgewinn im Langstrecken-Patrouillen-U-Boot-Training"
 modifier_experience_gain_sn_lr_patrol_submarine_combat_factor:0	"£navy_experience Erfahrungsgewinn im Langstrecken-Patrouillen-U-Boot-Kampf"
-
-
-
-
-
-
-
-
 modifier_experience_gain_pocket_battleship_training_factor:0	"£navy_experience Trainingserfahrung für Taschenschlachtschiffe"
 modifier_experience_gain_pocket_battleship_combat_factor:0	"£navy_experience Gefechtserfahrungsgewinn im Taschenschlachtschiff"
 modifier_experience_gain_armored_carrier_training_factor:0	"£navy_experience Erfahrungsgewinn im Training für gepanzerte Träger"
-
-
-
-
 modifier_experience_gain_escort_carrier_combat_factor:0	"£navy_experience Gefechtserfahrungsgewinn bei Flugzeugträger-Eskorten"
-
-
-
-
-
-
-
-
-
-
-
 modifier_army_sub_unit_militia_defence_factor:0	"Milizverteidigung"
-
 modifier_army_sub_unit_militia_max_org_factor:0	"Milizorganisation"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_production_speed_smallarms_factory_factor:0	"£construction_speed_texticon §YHandfeuerwaffenfabrik§! Baugeschwindigkeit"
 modifier_production_speed_smallarms_factory_factor_desc:0	"Ändert die Baugeschwindigkeit der Handfeuerwaffenfabrik"
-
-
 modifier_production_speed_artillery_factory_factor:0	"£construction_speed_texticon §YArtilleriegießerei§! Baugeschwindigkeit"
-
-
-
-
-
-
 modifier_production_speed_tank_assembly_factor_desc:0	"Ändert die Baugeschwindigkeit der Panzerfabrik"
 modifier_production_speed_air_assembly_factor:0	"£construction_speed_texticon §YFlugzeugmontageanlage§! Baugeschwindigkeit"
-
-
-
-
-
-
-
 modifier_production_speed_power_plant_factor:0	"£construction_speed_texticon §YKraftwerk§! Baugeschwindigkeit"
 modifier_production_speed_power_plant_factor_desc:0	"Ändert die Geschwindigkeit der Kraftwerksbaugeschwindigkeit"
-
 modifier_production_speed_pillbox_factor_desc:0	"Ändert die Geschwindigkeit des Bunkerbaus."
 modifier_production_speed_police_station_factor:0	"£construction_speed_texticon §YPolizeistation§! Baugeschwindigkeit"
-
 modifier_production_speed_nuclear_facility_factor:0	"£Baugeschwindigkeit_texticon §YNuclear Facility§! Baugeschwindigkeit"
 modifier_production_speed_nuclear_facility_factor_desc:0	"Ändert die Geschwindigkeit des Baus von Nuklearanlagen."
 modifier_production_speed_electronics_facility_factor:0	"£construction_speed_texticon §YElectronics Facility§! Baugeschwindigkeit"
@@ -1186,21 +633,12 @@ modifier_production_speed_land_facility_factor_desc:0	"Ändert die Geschwindigke
 ss_tech_research:1	"£tech_mod U-Boot-Forschungsgeschwindigkeit"
 dd_tech_research:1	"£tech_mod Forschungsgeschwindigkeit des Zerstörers"
 cl_tech_research:1	"£tech_mod Leichte Kreuzer-Forschungsgeschwindigkeit"
-
 ca_tech_research:1	"£tech_mod Forschungsgeschwindigkeit für schwere Kreuzer"
 cv_tech_research:1	"£tech_mod Carrier-Forschungsgeschwindigkeit"
 cvb_tech_research:1	"£tech_mod Forschungsgeschwindigkeit für gepanzerte Träger"
 cve_tech_research:1	"£tech_mod Forschungsgeschwindigkeit des Begleitträgers"
 cvl_tech_research:1	"£tech_mod Forschungsgeschwindigkeit für leichte Träger"
 fbb_tech_research:1	"£tech_mod Schnelle Schlachtschiff-Forschungsgeschwindigkeit"
-
-
-
-
-
-
-
-
 trade_war:0	"Handelskrieg"
 democratic_leanings_good_temp:0	"Demokratische Neigungen"
 BUL_treaty_of_eternal_friendship:0	"Vertrag der ewigen Freundschaft"
@@ -1209,14 +647,10 @@ BUL_permitted_airbases:0	"Zulässige Nutzung des Luftwaffenstützpunkts"
 BUL_honoured_slavic_allegiance:0	"Geehrte slawische Treue"
 BUL_signed_the_tripartite_pact:0	"Unterzeichnung des Dreiparteienpakts"
 BUL_expelled_soviet_diplomats:0	"Ausgewiesene sowjetische Diplomaten"
-
-
-
 kinda_angry:0	"Verärgert"
 fascism_banned:0	"Faschistische Partei verboten"
 communism_banned:0	"Kommunistische Partei verboten"
 neutrality_banned:0	"Autoritäre Partei verboten"
-
 monarchy_banned:0	"Monarchistische Partei verboten"
 irq_eng_treaty:0	"Anglo-irakischer Kooperationsvertrag"
 irq_eng_treaty_trade:0	"Anglo-irakischer Handel"
@@ -1225,10 +659,6 @@ anglo_iraq_treaty:0	"Anglo-irakischer Vertrag"
 break_anglo_iraq_treaty:0	"Brechen Sie den anglo-irakischen Vertrag"
 modifier_army_sub_unit_infantry_attack_factor:0	"Angriff des Infanteriebataillons"
 modifier_army_sub_unit_infantry_defence_factor:0	"Verteidigung des Infanteriebataillons"
-
-
-
-
 modifier_army_sub_unit_motorized_attack_factor:0	"Angriff des motorisierten Bataillons"
 modifier_army_sub_unit_motorized_defence_factor:0	"Motorisierte Bataillonverteidigung"
 modifier_army_sub_unit_motorized_speed_factor:0	"Geschwindigkeit des motorisierten Bataillons"
@@ -1241,7 +671,6 @@ modifier_army_sub_unit_category_all_armor_speed_factor:0	"£attacker_speed_texti
 modifier_army_sub_unit_category_all_artillery_attack_factor:0	"Angriff des Artilleriebataillons"
 modifier_army_sub_unit_category_all_artillery_defence_factor:0	"Verteidigung des Artilleriebataillons"
 modifier_army_sub_unit_category_all_artillery_speed_factor:0	"Geschwindigkeit des Artilleriebataillons"
-
 modifier_army_sub_unit_category_light_armor_defence_factor:0	"Verteidigung des Bataillons mit leichter Panzerung"
 modifier_army_sub_unit_category_light_armor_speed_factor:0	"Geschwindigkeit des leichten Panzerbataillons"
 modifier_army_sub_unit_category_medium_armor_attack_factor:0	"Angriff eines Bataillons mit mittlerer Panzerung"
@@ -1249,16 +678,13 @@ modifier_army_sub_unit_category_medium_armor_defence_factor:0	"Verteidigung des 
 modifier_army_sub_unit_category_medium_armor_speed_factor:0	"Geschwindigkeit des Bataillons mit mittlerer Panzerung"
 modifier_army_sub_unit_category_heavy_armor_attack_factor:0	"Angriff eines Bataillons mit schwerer Panzerung"
 modifier_army_sub_unit_category_heavy_armor_defence_factor:0	"Verteidigung des Schwerpanzerbataillons"
-
 modifier_army_sub_unit_category_superheavy_armor_attack_factor:0	"Angriff eines Bataillons mit superschwerer Panzerung"
 modifier_army_sub_unit_category_superheavy_armor_defence_factor:0	"Superschwere Panzerbataillonverteidigung"
 modifier_army_sub_unit_category_superheavy_armor_speed_factor:0	"Geschwindigkeit des superschweren Panzerbataillons"
 modifier_army_sub_unit_category_support_battalions_attack_factor:0	"Unterstützungsbataillon-Angriff"
 modifier_army_sub_unit_category_support_battalions_defence_factor:0	"Unterstützen Sie die Bataillonsverteidigung"
 modifier_army_sub_unit_category_support_battalions_speed_factor:0	"Unterstützungsbataillongeschwindigkeit"
-
 modifier_army_sub_unit_category_special_forces_defence_factor:0	"£defence_texticon Militärische Spezialkräfte Battalionsverteidigung"
-
 modifier_army_sub_unit_category_all_rocket_attack_factor:0	"Angriff des Raketenbataillons"
 modifier_army_sub_unit_category_all_rocket_defence_factor:0	"Verteidigung des Raketenbataillons"
 modifier_army_sub_unit_category_all_rocket_speed_factor:0	"Geschwindigkeit des Raketenbataillons"
@@ -1269,16 +695,7 @@ modifier_experience_gain_garrison_training_factor:0	"£experience_neutral_textic
 modifier_experience_gain_marine_training_factor:0	"£experience_neutral_texticon Marine-Erfahrungsgewinn beim Training"
 modifier_experience_gain_marine_assault_training_factor:0	"£experience_neutral_texticon Assault Marine-Erfahrungsgewinn beim Training"
 modifier_experience_gain_mountaineers_training_factor:0	"£experience_neutral_texticon Erfahrungsgewinn für Gebirgsjäger beim Training"
-
-
-
 modifier_experience_gain_cavalry_training_factor:0	"£experience_neutral_texticon Kavallerie-Erfahrungsgewinn beim Training"
-
-
-
-
-
-
 modifier_experience_gain_recon_training_factor:0	"£experience_neutral_texticon Aufklärungserfahrungsgewinn beim Training"
 modifier_experience_gain_recon_cav_training_factor:0	"£experience_neutral_texticon Kavallerie Aufklärungserfahrungsgewinn beim Training"
 modifier_experience_gain_recon_mot_training_factor:0	"£experience_neutral_texticon Motorisierten Aufklärungserfahrungsgewinn beim Training"
@@ -1287,246 +704,64 @@ modifier_experience_gain_artillery_brigade_mot_training_factor:0	"£experience_n
 modifier_experience_gain_artillery_brigade_mot_med_training_factor:0	"£experience_neutral_texticon Mittlere motorisierte Artillerie Erfahrungsgewinn beim Training"
 modifier_experience_gain_artillery_brigade_training_factor:0	"£experience_neutral_texticon Artilleriebataillons Erfahrungsgewinn beim Training"
 modifier_experience_gain_artillery_division_training_factor:0	"£experience_neutral_texticon Erfahrungsgewinn der Artilleriedivision beim Training"
-
-
-
-
-
-
-
-
-
 modifier_experience_gain_light_infantry_combat_factor:0	"£experience_neutral_texticon Erfahrungsgewinn der leichten Infanterie im Kampf"
 modifier_experience_gain_garrison_combat_factor:0	"£experience_neutral_texticon Garnisonserfahrungsgewinn im Kampf"
 modifier_experience_gain_marine_combat_factor:0	"£experience_neutral_texticon Marine-Erfahrungsgewinn im Kampf"
-
-
-
-
 modifier_experience_gain_militia_combat_factor:0	"£experience_neutral_texticon Erfahrungsgewinn der Miliz im Kampf"
-
-
-
-
-
-
-
-
-
-
-
 modifier_experience_gain_artillery_brigade_mot_med_combat_factor:0	"£experience_neutral_texticon Erfahrungsgewinn von motorisierten mittleren Artilleriebataillonim Kampf"
-
 modifier_experience_gain_artillery_division_combat_factor:0	"£experience_neutral_texticon Erfahrungsgewinn von Artilleriedivision im Kampf"
 modifier_experience_gain_artillery_brigade_med_combat_factor:0	"£experience_neutral_texticon Erfahrungsgewinn von mittleren Artilleriebataillonen im Kampf"
 modifier_experience_gain_mountain_artillery_brigade_combat_factor:0	"£experience_neutral_texticon Erfahrungsgewinn von Gebirgsartillerie im Kampf"
-
-
-
-
-
-
-
-
-
-
-
 modifier_experience_gain_trm_tankette_amphibious_armor_combat_factor:	"£experience_neutral_texticon $trm_tankette_amphibious_armor$ Erfahrungsgewinn im Kampf"
 modifier_experience_gain_trm_tankette_cs_armor_training_factor:	"£experience_neutral_texticon $trm_tankette_cs_armor$ Training XP Gewinn"
 modifier_experience_gain_trm_tankette_cs_armor_combat_factor:	"£experience_neutral_texticon $trm_tankette_cs_armor$ Kampf-EP-Gewinn"
 modifier_experience_gain_trm_tankette_tank_destroyer_training_factor:	"£experience_neutral_texticon $trm_tankette_tank_destroyer$ Training XP Gewinn"
-
 modifier_experience_gain_trm_tankette_assault_gun_training_factor:	"£experience_neutral_texticon $trm_tankette_assault_gun$ Training XP Gewinn"
 modifier_experience_gain_trm_tankette_assault_gun_combat_factor:	"£experience_neutral_texticon $trm_tankette_assault_gun$ Kampf-EP-Gewinn"
 modifier_experience_gain_trm_tankette_sp_artillery_training_factor:	"£experience_neutral_texticon $trm_tankette_sp_artillery$ Erfahrungspunkte für Training"
-
-
-
-
 modifier_experience_gain_trm_light_armor_combat_factor:	"£experience_neutral_texticon $trm_light_armor$ Kampf-EP-Gewinn"
-
-
-
-
-
-
-
-
-
-
-
 modifier_experience_gain_trm_light_sp_anti_air_support_combat_factor:	"£experience_neutral_texticon $trm_light_sp_anti_air_support$ Kampf-EP-Gewinn"
-
 modifier_experience_gain_trm_para_armor_combat_factor:	"£experience_neutral_texticon $trm_para_armor$ Kampf-EP-Gewinn"
 modifier_experience_gain_trm_para_airborne_armor_training_factor:	"£experience_neutral_texticon $trm_para_airborne_armor$ Erfahrungsgewinn für Training"
 modifier_experience_gain_trm_para_airborne_armor_combat_factor:	"£experience_neutral_texticon $trm_para_airborne_armor$ Kampf-EP-Gewinn"
-
-
-
-
-
-
 modifier_experience_gain_trm_medium_cs_armor_training_factor:	"£experience_neutral_texticon $trm_medium_cs_armor$ Erfahrungspunkte für Training"
 modifier_experience_gain_trm_medium_cs_armor_combat_factor:	"£experience_neutral_texticon $trm_medium_cs_armor$ Kampf-EP-Gewinn"
 modifier_experience_gain_trm_medium_tank_destroyer_training_factor:	"£experience_neutral_texticon $trm_medium_tank_destroyer$ Erfahrungspunkte für Training"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_experience_gain_trm_cavalry_armor_training_factor:	"£experience_neutral_texticon $trm_cavalry_armor$ Erfahrungsgewinn für Training"
 modifier_experience_gain_trm_cavalry_armor_combat_factor:	"£experience_neutral_texticon $trm_cavalry_armor$ Kampf-EP-Gewinn"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_experience_gain_trm_infantry_sp_anti_air_support_training_factor:	"£experience_neutral_texticon $trm_infantry_sp_anti_air_support$ Erfahrungsgewinn für Training"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_experience_gain_trm_superheavy_tank_destroyer_combat_factor:	"£experience_neutral_texticon $trm_superheavy_tank_destroyer$ Kampf-EP-Zuwachs"
 modifier_experience_gain_trm_superheavy_assault_gun_training_factor:	"£experience_neutral_texticon $trm_superheavy_assault_gun$ Erfahrungsgewinn für Training"
-
 modifier_experience_gain_trm_superheavy_sp_artillery_training_factor:	"£experience_neutral_texticon $trm_superheavy_sp_artillery$ Training XP gain"
 modifier_experience_gain_trm_superheavy_sp_artillery_combat_factor:	"£experience_neutral_texticon $trm_superheavy_sp_artillery$ Kampf-EP-Zuwachs"
 modifier_experience_gain_trm_superheavy_sp_anti_air_support_training_factor:	"£experience_neutral_texticon $trm_superheavy_sp_anti_air_support$ Training XP gain"
 modifier_experience_gain_trm_superheavy_sp_anti_air_support_combat_factor:	"£experience_neutral_texticon $trm_superheavy_sp_anti_air_support$ Erfahrungsgewinn im Kampf"
-
-
-
-
-
-
-
-
-
 MODIFIER_COMPLIANCE_GROWTH:0	"£occupation_costs Zustimmungs Wachstumsgeschwindigkeit"
-
-
-
-
-
 MODIFIER_ENEMY_LOCAL_SUPPLIES:	"£supply_texticon Feindliche lokale Vorräte"
-
 MODIFIER_ENEMY_ATTRITION:	"£attrition_texticon Feindliche Divisionsabnutzung"
-
-
-
 MODIFIER_ENEMY_INTEL_IMPACT:0	"£operatives_build_intel_network_texticon Feindlicher Spionageeinfluss"
-
-
-
-
-
-
-
-
-
 state_resource_chromium:1	"Legierungen"
-
 state_resource_coal:1	"Kohle"
-
-
-
-
-
-
-
-
-
-
-
-
 resources_factor:0	"£resources_texticon Mineralressourcen-Extraktionsfaktor"
 temporary_state_resource_oil:0	"£resources_strip|1 Öl"
 temporary_state_resource_aluminium:0	"£resources_strip|3 Aluminium"
-
 temporary_state_resource_tungsten:1	"£resources_strip|4 Wolfram"
 temporary_state_resource_steel:0	"£resources_strip|5 Stahl"
 temporary_state_resource_chromium:1	"£resources_strip|6 Legierungsmetalle"
 temporary_state_resource_bauxite:1	"£resources_strip|7 Bauxit"
 temporary_state_resource_coal:1	"£resources_strip|8 Kohle"
 temporary_state_resource_iron:1	"£resources_strip|9 Eisen"
-
-
-
-
-
-
-
-
 country_resource_rubber:0	"£resources_strip|3 Gummiproduktion"
 country_resource_tungsten:1	"£resources_strip|4 Wolframproduktion"
 country_resource_steel:0	"£resources_strip|5 Stahlproduktion"
 country_resource_chromium:1	"£resources_strip|6 Legierungsmetallproduktion"
 country_resource_bauxite:1	"£resources_strip|7 Bauxitproduktion"
 country_resource_coal:1	"£resources_strip|8 Kohleproduktion"
-
-
-
-
 country_resource_air_production:1	"£resources_strip|21 Flugzeugproduktionskapazität"
-
-
-
 state_resource_cost_aluminium:0	"£resources_strip|2 Aluminiumverbrauch"
 state_resource_cost_rubber:0	"£resources_strip|3 Gummiverbrauch"
 state_resource_cost_tungsten:1	"£resources_strip|4 Wolframverbrauch"
 state_resource_cost_steel:0	"£resources_strip|5 Stahlverbrauch"
-
 state_resource_cost_bauxite:1	"£resources_strip|7 Bauxitverbrauch"
 state_resource_cost_coal:1	"£resources_strip|8 Kohleverbrauch"
 state_resource_cost_iron:1	"£resources_strip|9 Eisenverbrauch"
@@ -1538,19 +773,13 @@ state_resource_cost_artillery_production:1	"£resources_strip|23 Reduzierung der
 state_resource_cost_engine_production:1	"£resources_strip|22 Reduzierung der Motorenproduktionskapazität"
 country_resource_cost_oil:0	"£resources_strip|1 Ölverbrauch"
 country_resource_cost_aluminium:0	"£resources_strip|2 Aluminiumverbrauch"
-
 country_resource_cost_tungsten:1	"£resources_strip|4 Wolframverbrauch"
-
-
-
 country_resource_cost_coal:1	"£resources_strip|8 Kohleverbrauch"
 country_resource_cost_iron:1	"£resources_strip|9 Eisenverbrauch"
 country_resource_cost_food:1	"£resources_strip|10 Lebensmittelverbrauch"
 country_resource_cost_shipyard_capital:1	"£resources_strip|24 Reduzierung der Großkampfschiffkapazität"
 country_resource_cost_tank_production:1	"£resources_strip|20 Reduzierung der Panzerproduktionskapazität um 20"
 country_resource_cost_air_production:1	"£resources_strip|21 Reduzierung der Flugzeugproduktionskapazität"
-
-
 war_games_cost:0	"£command_power_texticon Kriegsspiele Kosten"
 FACTORED_BY:0	"Faktorisiert durch $VALUE|+%$"
 DECRYPTION_TOTAL_BASE:0	"Gesamtbasiswert: $VALUE|+.0$"
@@ -1569,7 +798,6 @@ modifier_repair_speed_infrastructure_factor:0	"£repairing Infrastruktur Reparat
 modifier_repair_speed_industrial_complex_factor:0	"£repairing Zivilefabrik Reparaturgeschwindigkeit"
 modifier_repair_speed_arms_factory_factor:0	"£repairing Militärfabrik Reparaturgeschwindigkeit"
 modifier_repair_speed_rail_way_factor:0	"£repairing Eisenbahnreparaturgeschwindigkeit"
-
 modifier_repair_speed_naval_base_factor:0	"£repairing  Reparaturgeschwindigkeit von Marinestützpunkten"
 MODIFIER_CIVILIAN_INTEL_FACTOR:1	"£text_infiltrate_civilian_token Ziviler Geheimdienst"
 MODIFIER_ARMY_INTEL_FACTOR:1	"£text_infiltrate_army_token Geheimdienst der Armee"
@@ -1630,7 +858,6 @@ modifier_state_naval_base_max_level_terrain_limit:	"Maximal $naval_base$ Niveau"
 modifier_state_bunker_max_level_terrain_limit:	"£fort_texticon Maximal $bunker$ Niveau"
 modifier_state_coastal_bunker_max_level_terrain_limit:	"£coastal_fort_texticon Maximum $coastal_bunker$ level"
 modifier_supply_node_max_level_terrain_limit:	"$modifier_state_supply_node_max_level_terrain_limit$"
-
 modifier_naval_base_max_level_terrain_limit:	"$modifier_state_naval_base_max_level_terrain_limit$"
 modifier_bunker_max_level_terrain_limit:	"$modifier_state_bunker_max_level_terrain_limit$"
 modifier_coastal_bunker_max_level_terrain_limit:	"$modifier_state_coastal_bunker_max_level_terrain_limit$."
@@ -1639,9 +866,7 @@ modifier_coastal_bunker_max_level_terrain_limit_tt:	" $modifier_coastal_bunker_m
 modifier_state_supply_node_ocean_max_level_terrain_limit:	"Maximaler $supply_node$ Pegel in §Y$ocean$§!"
 modifier_state_rail_way_ocean_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$ocean$§!"
 modifier_state_naval_base_ocean_max_level_terrain_limit:	"Maximaler $naval_base$ Pegel in §Y$ocean$§!"
-
 modifier_state_coastal_bunker_ocean_max_level_terrain_limit:	"Maximaler $coastal_bunker$ Pegel in §Y$ocean$§!"
-
 modifier_rail_way_ocean_max_level_terrain_limit:	"$modifier_state_rail_way_ocean_max_level_terrain_limit$"
 modifier_naval_base_ocean_max_level_terrain_limit:	"$modifier_state_naval_base_ocean_max_level_terrain_limit$"
 modifier_bunker_ocean_max_level_terrain_limit:	"$modifier_state_bunker_ocean_max_level_terrain_limit$"
@@ -1651,42 +876,31 @@ modifier_state_rail_way_lakes_max_level_terrain_limit:	"Maximaler $rail_way$ Peg
 modifier_state_naval_base_lakes_max_level_terrain_limit:	"Maximaler $naval_base$ Pegel in §Y$lakes$§!"
 modifier_state_bunker_lakes_max_level_terrain_limit:	"Maximaler $bunker$ Pegel in §Y$lakes$§!"
 modifier_state_coastal_bunker_lakes_max_level_terrain_limit:	"Maximaler $coastal_bunker$ Pegel in §Y$lakes$§!"
-
-
 modifier_naval_base_lakes_max_level_terrain_limit:	"$modifier_state_naval_base_lakes_max_level_terrain_limit$"
 modifier_bunker_lakes_max_level_terrain_limit:	"$modifier_state_bunker_lakes_max_level_terrain_limit$"
 modifier_coastal_bunker_lakes_max_level_terrain_limit:	"$modifier_state_coastal_bunker_lakes_max_level_terrain_limit$"
 modifier_state_supply_node_forest_max_level_terrain_limit:	"Maximaler $supply_node$ Pegel in §Y$forest$§!"
 modifier_state_rail_way_forest_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$forest$§!"
 modifier_state_naval_base_forest_max_level_terrain_limit:	"Maximum $naval_base$ level in §Y$forest$§!"
-
 modifier_state_coastal_bunker_forest_max_level_terrain_limit:	"Maximaler $coastal_bunker$ Pegel in §Y$forest$§!"
 modifier_supply_node_forest_max_level_terrain_limit:	"$modifier_state_supply_node_forest_max_level_terrain_limit$"
 modifier_rail_way_forest_max_level_terrain_limit:	"$modifier_state_rail_way_forest_max_level_terrain_limit$"
-
 modifier_bunker_forest_max_level_terrain_limit:	"$modifier_state_bunker_forest_max_level_terrain_limit$"
 modifier_coastal_bunker_forest_max_level_terrain_limit:	"$modifier_state_coastal_bunker_forest_max_level_terrain_limit$"
 modifier_state_supply_node_hills_max_level_terrain_limit:	"Maximaler $supply_node$ Pegel in §Y$hills$§!"
-
 modifier_state_naval_base_hills_max_level_terrain_limit:	"Maximum $naval_base$ level in §Y$hills$§!"
 modifier_state_bunker_hills_max_level_terrain_limit:	"Maximum $bunker$ level in §Y$hills$§!"
-
 modifier_supply_node_hills_max_level_terrain_limit:	"$modifier_state_supply_node_hills_max_level_terrain_limit$"
 modifier_rail_way_hills_max_level_terrain_limit:	"$modifier_state_rail_way_hills_max_level_terrain_limit$"
 modifier_naval_base_hills_max_level_terrain_limit:	"$modifier_state_naval_base_hills_max_level_terrain_limit$"
-
 modifier_coastal_bunker_hills_max_level_terrain_limit:	"$modifier_state_coastal_bunker_hills_max_level_terrain_limit$"
 modifier_state_supply_node_mountain_max_level_terrain_limit:	"Maximaler $supply_node$ Pegel in §Y$mountain$§!"
 modifier_state_rail_way_mountain_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$mountain$§!"
-
 modifier_state_bunker_mountain_max_level_terrain_limit:	"Maximum $bunker$ level in §Y$mountain$§!"
 modifier_state_coastal_bunker_mountain_max_level_terrain_limit:	"Maximaler $coastal_bunker$ Pegel in §Y$mountain$§!"
 modifier_supply_node_mountain_max_level_terrain_limit:	"$modifier_state_supply_node_mountain_max_level_terrain_limit$"
 modifier_rail_way_mountain_max_level_terrain_limit:	"$modifier_state_rail_way_mountain_max_level_terrain_limit$"
-
-
 modifier_coastal_bunker_mountain_max_level_terrain_limit:	"$modifier_state_coastal_bunker_mountain_max_level_terrain_limit$"
-
 modifier_state_rail_way_plains_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$plains$§!"
 modifier_state_naval_base_plains_max_level_terrain_limit:	"Maximum $naval_base$ level in §Y$plains$§!"
 modifier_state_bunker_plains_max_level_terrain_limit:	"Maximum $bunker$ level in §Y$plains$§!"
@@ -1694,23 +908,18 @@ modifier_state_coastal_bunker_plains_max_level_terrain_limit:	"Maximaler $coasta
 modifier_supply_node_plains_max_level_terrain_limit:	"$modifier_state_supply_node_plains_max_level_terrain_limit$"
 modifier_rail_way_plains_max_level_terrain_limit:	"$modifier_state_rail_way_plains_max_level_terrain_limit$"
 modifier_naval_base_plains_max_level_terrain_limit:	"$modifier_state_naval_base_plains_max_level_terrain_limit$"
-
 modifier_coastal_bunker_plains_max_level_terrain_limit:	"$modifier_state_coastal_bunker_plains_max_level_terrain_limit$"
 modifier_state_supply_node_urban_max_level_terrain_limit:	"Maximaler $supply_node$ Pegel in §Y$urban$§!"
 modifier_state_rail_way_urban_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$urban$§!"
-
 modifier_state_bunker_urban_max_level_terrain_limit:	"Maximal $bunker$ Niveau in §Y$urban$§!"
 modifier_state_coastal_bunker_urban_max_level_terrain_limit:	"Maximaler $coastal_bunker$ Pegel in §Y$urban$§!"
 modifier_supply_node_urban_max_level_terrain_limit:	"$modifier_state_supply_node_urban_max_level_terrain_limit$"
-
 modifier_naval_base_urban_max_level_terrain_limit:	"$modifier_state_naval_base_urban_max_level_terrain_limit$"
 modifier_bunker_urban_max_level_terrain_limit:	"$modifier_state_bunker_urban_max_level_terrain_limit$"
 modifier_coastal_bunker_urban_max_level_terrain_limit:	"$modifier_state_coastal_bunker_urban_max_level_terrain_limit$"
 modifier_state_supply_node_jungle_max_level_terrain_limit:	"Maximaler $supply_node$ Pegel in §Y$jungle$§!"
 modifier_state_rail_way_jungle_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$jungle$§!"
 modifier_state_naval_base_jungle_max_level_terrain_limit:	"Maximaler $naval_base$ Pegel in §Y$jungle$§!"
-
-
 modifier_supply_node_jungle_max_level_terrain_limit:	"$modifier_state_supply_node_jungle_max_level_terrain_limit$"
 modifier_rail_way_jungle_max_level_terrain_limit:	"$modifier_state_rail_way_jungle_max_level_terrain_limit$"
 modifier_naval_base_jungle_max_level_terrain_limit:	"$modifier_state_naval_base_jungle_max_level_terrain_limit$"
@@ -1718,56 +927,39 @@ modifier_bunker_jungle_max_level_terrain_limit:	"$modifier_state_bunker_jungle_m
 modifier_coastal_bunker_jungle_max_level_terrain_limit:	"$modifier_state_coastal_bunker_jungle_max_level_terrain_limit$"
 modifier_state_supply_node_marsh_max_level_terrain_limit:	"Maximaler $supply_node$ Pegel in §Y$marsh$§!"
 modifier_state_rail_way_marsh_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$marsh$§!"
-
 modifier_state_bunker_marsh_max_level_terrain_limit:	"Maximum $bunker$ level in §Y$marsh$§!"
-
 modifier_supply_node_marsh_max_level_terrain_limit:	"$modifier_state_supply_node_marsh_max_level_terrain_limit$"
 modifier_rail_way_marsh_max_level_terrain_limit:	"$modifier_state_rail_way_marsh_max_level_terrain_limit$"
-
 modifier_bunker_marsh_max_level_terrain_limit:	"$modifier_state_bunker_marsh_max_level_terrain_limit$"
 modifier_coastal_bunker_marsh_max_level_terrain_limit:	"$modifier_state_coastal_bunker_marsh_max_level_terrain_limit$"
-
 modifier_state_rail_way_desert_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$desert$§!"
 modifier_state_naval_base_desert_max_level_terrain_limit:	"Maximal $naval_base$ Niveau in §Y$desert$§!"
-
 modifier_state_coastal_bunker_desert_max_level_terrain_limit:	"Maximaler $coastal_bunker$ Pegel in §Y$desert$§!"
-
-
 modifier_naval_base_desert_max_level_terrain_limit:	"$modifier_state_naval_base_desert_max_level_terrain_limit$"
 modifier_bunker_desert_max_level_terrain_limit:	"$modifier_state_bunker_desert_max_level_terrain_limit$"
-
 modifier_state_supply_node_water_fjords_max_level_terrain_limit:	"Maximaler $supply_node$ Pegel in §Y$water_fjords$§!"
 modifier_state_rail_way_water_fjords_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$water_fjords$§!"
-
 modifier_state_bunker_water_fjords_max_level_terrain_limit:	"Maximum $bunker$ level in §Y$water_fjords$§!"
 modifier_state_coastal_bunker_water_fjords_max_level_terrain_limit:	"Maximaler $coastal_bunker$ Pegel in §Y$water_fjords$§!"
 modifier_supply_node_water_fjords_max_level_terrain_limit:	"$modifier_state_supply_node_water_fjords_max_level_terrain_limit$"
-
 modifier_naval_base_water_fjords_max_level_terrain_limit:	"$modifier_state_naval_base_water_fjords_max_level_terrain_limit$"
 modifier_bunker_water_fjords_max_level_terrain_limit:	"$modifier_state_bunker_water_fjords_max_level_terrain_limit$"
 modifier_coastal_bunker_water_fjords_max_level_terrain_limit:	"$modifier_state_coastal_bunker_water_fjords_max_level_terrain_limit$"
 modifier_state_supply_node_water_shallow_sea_max_level_terrain_limit:	"Maximaler $supply_node$ Pegel in §Y$water_shallow_sea$§!"
 modifier_state_rail_way_water_shallow_sea_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$water_shallow_sea$§!"
-
 modifier_state_bunker_water_shallow_sea_max_level_terrain_limit:	"Maximum $bunker$ level in §Y$water_shallow_sea$§!"
 modifier_state_coastal_bunker_water_shallow_sea_max_level_terrain_limit:	"Maximaler $coastal_bunker$ Pegel in §Y$water_shallow_sea$§!"
 modifier_supply_node_water_shallow_sea_max_level_terrain_limit:	"$modifier_state_supply_node_water_shallow_sea_max_level_terrain_limit$"
 modifier_rail_way_water_shallow_sea_max_level_terrain_limit:	"$modifier_state_rail_way_water_shallow_sea_max_level_terrain_limit$"
-
 modifier_bunker_water_shallow_sea_max_level_terrain_limit:	"$modifier_state_bunker_water_shallow_sea_max_level_terrain_limit$"
 modifier_coastal_bunker_water_shallow_sea_max_level_terrain_limit:	"$modifier_state_coastal_bunker_water_shallow_sea_max_level_terrain_limit$"
-
 modifier_state_rail_way_water_deep_ocean_max_level_terrain_limit:	"Maximaler $rail_way$ Pegel in §Y$water_deep_ocean$§!"
 modifier_state_naval_base_water_deep_ocean_max_level_terrain_limit:	"Maximal $naval_base$ Niveau in §Y$water_deep_ocean$§!"
-
 modifier_state_coastal_bunker_water_deep_ocean_max_level_terrain_limit:	"Maximaler $coastal_bunker$ Pegel in §Y$water_deep_ocean$§!"
-
 modifier_rail_way_water_deep_ocean_max_level_terrain_limit:	"$modifier_state_rail_way_water_deep_ocean_max_level_terrain_limit$"
 modifier_naval_base_water_deep_ocean_max_level_terrain_limit:	"$modifier_state_naval_base_water_deep_ocean_max_level_terrain_limit$"
-
 modifier_coastal_bunker_water_deep_ocean_max_level_terrain_limit:	"$modifier_state_coastal_bunker_water_deep_ocean_max_level_terrain_limit$"
 MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR:0	"£construction_speed_texticon Lokale Baugeschwindigkeit"
-
 intel_network_state_level_bonus:0	"£operative_mission_icons_small|1£Spionagenetzwerks"
 intel_network_state_level_penalty:0	"£operative_mission_icons_small|1£Feindliches Spionagenetzwerks"
 created_intelligence_agency:0	"Geheimdienst"
@@ -1819,10 +1011,8 @@ operation_collaboration_government_risk:0	"£pol_idea Zusammenarbeit vorbereiten
 operation_collaboration_government_cost:0	"£pol_idea Vorbereitung der Zusammenarbeit, Kosten für die Regierung"
 operation_coup_government_outcome:0	"£stage_coup_texticon Effektivität von Putschversuchen"
 operation_coup_government_risk:0	"£stage_coup_texticon Risiko von Putschversuchen"
-
 operation_rescue_operative_outcome:0	"£operatives_build_intel_network_texticon Erfolgsaussicht von Agentenrettung"
 operation_rescue_operative_risk:0	"£operatives_build_intel_network_texticon Risiko für Agentenrettung"
-
 operation_make_resistance_contacts_outcome:0	"£political_violence_texticon Machen Sie Widerstandskontakte wirksam"
 operation_make_resistance_contacts_risk:0	"£political_violence_texticon Machen Sie Widerstandskontakte zu einem Risiko"
 operation_make_resistance_contacts_cost:0	"£political_violence_texticon Kosten für Widerstandskontakte"
@@ -1830,7 +1020,6 @@ operation_risk:0	"£operatives_build_intel_network_texticon Betriebsrisiko"
 MODIFIER_AGENCY_UPGRADE_TIME:0	"£time_texticon Spionageabteilung Verbesserungszeit"
 MODIFIER_CIVILIAN_INTEL_DECRYPTION_BONUS:0	"£decryption_texticon Bonus für Zivilchiffre entschlüsseln $VALUE$"
 MODIFIER_ARMY_INTEL_DECRYPTION_BONUS:0	"£decryption_texticon Bonus für Armeechiffre entschlüsseln $VALUE$"
-
 MODIFIER_AIRFORCE_INTEL_DECRYPTION_BONUS:0	"£decryption_texticon Bonus für Luftwaffenchiffre entschlüsseln $VALUE$"
 country_is_at_war:0	"Das Land befindet sich im Krieg"
 country_is_at_peace:0	"Im Land herrscht Frieden"
@@ -1843,7 +1032,6 @@ MODIFIER_FEMALE_ADMIRAL_CHANCE:0	"£divisions_texticon Chance auf weibliche Admi
 MODIFIER_FEMALE_COUNTRY_LEADER_CHANCE:0	"£divisions_texticon Chance für eine weibliche Landesleiterin hinzugefügt: $VALUE$"
 MODIFIER_TRUCK_ATTRITION:0	"£attrition_texticon Abnutzung von Transport-LKWs"
 MODIFIER_TRUCK_ATTRITION_FACTOR:0	"£attrition_texticon Abnutzung von Transport-LKWs"
-
 MODIFIERS_ARMY_DEFENCE_AGAINST_MINOR_FACTOR:0	"£defence_texticon Verteidigung gegen kleinere Länder"
 MODIFIERS_ARMY_BREAKTHROUGH_AGAINST_MINOR_FACTOR:0	"£breakthrough_texticon Durchbruch gegen kleinere Länder"
 MODIFIERS_ARMY_ATTACK_AGAINST_MAJOR_FACTOR:0	"£attack_texticon Angriff gegen große Länder"
@@ -1853,9 +1041,7 @@ MODIFIER_AIR_DOCTRINE_COST_FACTOR:0	"£air_doctrine_cost_texticon Kosten der Luf
 MODIFIER_LAND_DOCTRINE_COST_FACTOR:0	"£army_doctrine_cost_texticon Kosten der Landdoktrin"
 MODIFIER_NAVAL_DOCTRINE_COST_FACTOR:0	"£navy_doctrine_cost_texticon Kosten der Marinedoktrin"
 cat_mobile_warfare_cost_factor:0	"£army_doctrine_cost_texticon Kosten der Doktrin der mobilen Kriegsführung"
-
 cat_grand_battle_plan_cost_factor:0	"£army_doctrine_cost_texticon Große Schlachtplan-Doktrinkosten"
-
 cat_strategic_destruction_cost_factor:0	"£air_doctrine_cost_texticon Kosten der Strategic Destruction Doctrine"
 cat_battlefield_support_cost_factor:0	"£air_doctrine_cost_texticon Kosten für die Battlefield-Unterstützungsdoktrin"
 cat_operational_integrity_cost_factor:0	"£air_doctrine_cost_texticon Kosten der Operational Integrity Doctrine"
@@ -1868,16 +1054,7 @@ modifier_trait_air_controller_xp_gain_factor:0	"Erfahrungsgewinn für die Eigens
 modifier_trait_ambusher_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Hinterhältigkeit"
 modifier_trait_arctic_water_expert_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Experte für arktisches Wasser."
 modifier_trait_armor_officer_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Rüstungsoffizier"
-
-
-
 modifier_trait_BALTIC_ex_russian_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Baltische Ex-Russischen"
-
-
-
-
-
-
 modifier_trait_brilliant_strategist_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Brillanter Stratege"
 modifier_trait_camouflage_expert_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Tarnungsexperte"
 modifier_trait_career_officer_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Berufsoffizier."
@@ -1886,121 +1063,26 @@ modifier_trait_cavalry_expert_xp_gain_factor:0	"Erfahrungsgewinn für die Eigens
 modifier_trait_cavalry_leader_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Kavallerieanführer"
 modifier_trait_cavalry_officer_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Kavallerieoffizier"
 modifier_trait_chief_engineer_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Chefingenieur"
-
-
-
-
-
-
 modifier_trait_cuts_corners_xp_gain_factor:0	"Reduziert den Erfahrungsgewinn für Eigenschaften"
 modifier_trait_defensive_doctrine_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Verteidigungsdoktrin"
 modifier_trait_demoted_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Degradierter"
 modifier_trait_desert_fox_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Wüstenfuchs"
-
 modifier_trait_disgruntled_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Verärgert."
 modifier_trait_dive_bomber_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Sturzkampfbomber"
 modifier_trait_exiled_leader_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Verbannter Anführer"
-
-
-
-
 modifier_trait_fleet_protector_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Flottenbeschützer"
-
-
-
-
-
-
-
-
-
-
-
 modifier_trait_hunter_killer_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Hunter-Killer"
-
 modifier_trait_infantry_leader_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Infanterieanführer"
 modifier_trait_infantry_officer_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Infanterieoffizier"
 modifier_trait_inflexible_strategist_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Unflexibler Stratege"
-
-
-
-
-
-
 modifier_trait_jungle_rat_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Dschungelkämpfer"
 modifier_trait_lancer_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Lanzenreiter"
 modifier_trait_loading_drill_master_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Ausbildungsexperte"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_trait_operative_natural_orator_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft begabter Redneragenten."
 modifier_trait_operative_safe_cracker_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Tresorknackeragenten."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_trait_spotter_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Späher"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_trait_SPA_nationalist_sympathies_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft SPA Nationalisten Sympathien"
 modifier_trait_SPR_anti_stalinist_loyalties_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft SPR Antistalinistische Loyalität"
-
 modifier_trait_SPR_stalinist_loyalties_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft SPR Stalinistloyalist"
 modifier_trait_TUR_kemalist_champion_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft TUR Kemalist"
 modifier_trait_trickster_CC_xp_gain_factor:0	"Erfahrungsgewinn für die Eigenschaft Täuscher"
@@ -2019,7 +1101,6 @@ MODIFIER_AIR_MANPOWER_REQUIREMENT_FACTOR:0	"£manpower_cost_texticon Bedarf an F
 MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR:0	"£organization_texticon Organisationsschaden von Luftnahunterstützung"
 MODIFIER_AIR_ADVISOR_COST_FACTOR:0	"£political_power_texticon Kosten für Luftwaffenoffiziere"
 MODIFIER_NAVY_ADVISOR_COST_FACTOR:0	"£political_power_texticon Kosten für Marineoffiziere"
-
 MODIFIER_AIR_UNTRAINED_PILOTS_PENALTY_FACTOR:1	"£untrained_pilot_texticon Strafe für ungeschulte Piloten für neue Luftgeschwader"
 MODIFIER_AIR_HOME_DEFENCE_FACTOR:0	"£home_defence_texticon £defence_texticon Luft-Heimverteidigungsfaktor"
 MODIFIER_AIR_POWER_PROJECTION_FACTOR:0	"£power_projection_texticon Luftleistungsprojektionsfaktor"
@@ -2030,7 +1111,6 @@ MODIFIER_RAILWAY_GUN_BOMBARDMENT_FACTOR:0	"£railway_gun_texticon Eisenbahnbesch
 MODIFIER_UNIT_LEADER_AS_ADVISOR_CP_COST_FACTOR:0	"£command_power_texticon Kosten für Kommandant als Berater"
 MODIFIER_INITIATIVE_FACTOR:0	"£initiative_texticon Initiative"
 MODIFIER_NAVAL_INVASION_PLANNING_SPEED:0	"£naval_invasion_texticon Planung einer Marineinvasion"
-
 NAVAL_INVASION_PLANNING_BONUS_MALUS:0	"£naval_invasion_texticon Basis Marineinvasion Malus: $VALUE|R0$§R%§!"
 MODIFIER_TERRAIN_TRAIT_XP_GAIN_FACTOR:0	"£experience_neutral_texticon Geländemerkmale Erfahrungsgewinn"
 modifier_experience_gain_motorized_combat_factor:0	"£experience_neutral_texticon Motorisierter Erfahrungsgewinn durch Kampf"
@@ -2041,7 +1121,6 @@ modifier_production_cost_supply_node_factor_desc:0	"Ändert die Kosten für den 
 MODIFIER_SUPPLY_PENALTY_ON_CORE:0	"£supply_consumption_texticon Versorgungskampfstrafen im Kerngebiet"
 supply_combat_penalties_on_core_factor:0	"£supply_consumption_texticon Versorgungskampfstrafen im Kerngebiet"
 MODIFIER_COORDINATION_BONUS:0	"£coordination_texticon Koordination"
-
 MODIFIER_EQUIPMENT_CONVERSION_IC_COST_FACTOR:0	"£equipment_conversion_texticon Ausrüstungsumwandlungskosten"
 MODIFIER_ARMOR:0	"Rüstungswertfaktor"
 MODIFIER_ARMY_STRENGTH:0	"£strenght_texticon Division HP"
@@ -2052,7 +1131,6 @@ modifier_state_production_speed_arms_factory_factor:0	"£construction_speed_text
 modifier_state_production_speed_arms_factory_factor_desc:0	"Ändert die Geschwindigkeit des Baus einer Militärfabrik."
 modifier_state_production_speed_industrial_complex_factor:0	"£construction_speed_texticon §YZivilfabrik§! Baugeschwindigkeit"
 modifier_state_production_speed_industrial_complex_factor_desc:0	"Ändert die Geschwindigkeit der Zivilfabrik."
-
 modifier_state_production_speed_air_base_factor_desc:0	"Ändert die Geschwindigkeit des Luftwaffenstützpunktbaus."
 modifier_state_production_speed_naval_base_factor:0	"£construction_speed_texticon §YMarinebasis§! Baugeschwindigkeit"
 modifier_state_production_speed_naval_base_factor_desc:0	"Ändert die Geschwindigkeit des Marinestützpunktbaus."
@@ -2063,7 +1141,6 @@ modifier_state_production_speed_coastal_bunker_factor_desc:0	"Ändert die Geschw
 modifier_state_production_speed_dockyard_factor:0	"£construction_speed_texticon §YWerft§! Baugeschwindigkeit"
 modifier_state_production_speed_dockyard_factor_desc:0	"Ändert die Geschwindigkeit des Werftbaus."
 modifier_state_production_speed_anti_air_building_factor:0	"£construction_speed_texticon §YFlugabwehr§! Baugeschwindigkeit"
-
 modifier_state_production_speed_synthetic_refinery_factor:0	"£construction_speed_texticon §YSynthetische Raffinerie§! Baugeschwindigkeit"
 modifier_state_production_speed_synthetic_refinery_factor_desc:0	"Ändert die Geschwindigkeit des Baus einer synthetischen Raffinerie."
 modifier_state_production_speed_radar_station_factor:0	"£construction_speed_texticon §YRadarstation§! Baugeschwindigkeit"
@@ -2073,7 +1150,6 @@ modifier_state_production_speed_rocket_site_factor_desc:0	"Ändert die Geschwind
 modifier_state_production_speed_nuclear_reactor_factor:0	"£construction_speed_texticon §YKernreaktor§! Baugeschwindigkeit"
 modifier_state_production_speed_nuclear_reactor_factor_desc:0	"Ändert die Baugeschwindigkeit des Kernreaktors"
 modifier_state_production_speed_nuclear_reactor_heavy_water_factor:0	"£construction_speed_texticon §YSchwerwasser-Kernreaktor§! Baugeschwindigkeit"
-
 modifier_state_production_speed_fuel_silo_factor_desc:0	"Ändert die Geschwindigkeit beim Bau eines Brennstoffsilos."
 modifier_production_speed_nuke_effect_factor:0	"Nuklearschadensfaktor"
 modifier_production_speed_dummy_3_factor:0	"£construction_speed_texticon §YAusrüstungsfabrik§! Baugeschwindigkeit"
@@ -2083,7 +1159,6 @@ law_economy_switch_speed_factor:0	"£economy_laws_time_texticon Wirtschaftspolit
 law_mobilization_switch_speed_factor:0	"£economy_laws_time_texticon Geschwindigkeitsfaktor für die Mobilisierung der Armee"
 law_cadet_training_switch_speed_factor:0	"£training_speed_texticon Trainingsstandards Reorganisationsgeschwindigkeitsfaktor"
 law_officer_training_switch_speed_factor:0	"£training_speed_texticon Offiziersausbildungsstandards Reorganisationsgeschwindigkeitsfaktor"
-
 max_experience:0	"£experience_neutral_texticon Maximale Erfahrung"
 max_experience_factor:0	"£experience_neutral_texticon Maximaler Erfahrungsfaktor"
 max_army_experience:0	"£army_experience Maximale Heereserfahrung"
@@ -2093,7 +1168,6 @@ max_army_experience_15:0	"£army_experience Maximale Heereserfahrung: §G+15§!"
 max_air_experience_15:0	"£air_experience Maximale Lufwaffenerfahrung: §G+15§!"
 max_navy_experience_15:0	"£navy_experience Maximale Marineerfahrung: §G+15§!"
 max_army_experience_factor:0	"£army_experience Maximaler Heereserfahrungsfaktor"
-
 max_navy_experience_factor:0	"£navy_experience Maximaler Marineerfahrungsfaktor"
 tank_production_capacity:0	"£extra_capacity_tank §YPanzerproduktionskapazität§! pro Montagewerk"
 air_production_capacity:0	"£extra_capacity_air §YFlugzeugproduktionskapazität§! pro Montagewerk"
@@ -2101,7 +1175,6 @@ artillery_production_capacity:0	"£extra_capacity_artillery §YArtillerieprodukt
 engine_production_capacity:0	"£extra_capacity_engine §YMotorenproduktionskapazität§! pro Montagewerk"
 max_equipment_factory:0	"Max §YAusrüstungsfabrik§!"
 max_equipment_factory_factor:0	"Max §YAusrüstungsfabrik§! Faktor"
-
 max_tank_factory_factor:0	"Max §YPanzerfabrik§! Faktor"
 max_vehicle_factory:0	"Max §YFahrzeugfabrik§!"
 max_vehicle_factory_factor:0	"Max §YFahrzeugfabrik§! Faktor"
@@ -2112,7 +1185,6 @@ max_smallarms_factory_factor:0	"Max §YHandfeuerwaffenfabrik§! Faktor"
 max_artillery_factory:0	"Max §YArtilleriefabrik§!"
 max_artillery_factory_factor:0	"Max §YArtilleriefabrik§! Faktor"
 max_light_aircraft_factory:0	"Max §YLeichtflugzeugfabrik§!"
-
 max_heavy_aircraft_factory:0	"Max §YSchwerflugzeugfabrik§!"
 max_heavy_aircraft_factory_factor:0	"Max §YSchwerflugzeugfabrik§! Faktor"
 max_jet_aircraft_factory:0	"Max. §YMontagehalle für strahlgetriebene Flugzeug§!"
@@ -2122,7 +1194,6 @@ max_shipyard_factor:0	"Max §YWerft§! Faktor"
 max_subyard:0	"Max. §YU-Boot Werften§!"
 max_subyard_factor:0	"Max. §YU-Boot Werften§! Faktor"
 tank_factory_use:0	"§YPanzerfabrik§! Instandhaltung"
-
 smallarms_factory_use:0	"§YHandfeuerwaffenfabrik§! Instandhaltung"
 uniform_factory_use:0	"§YUniformfabrik§! Instandhaltung"
 artillery_factory_use:0	"§YArtilleriefabrik§! Instandhaltung"
@@ -2133,7 +1204,6 @@ shipyard_use:0	"§YWerft§! Instandhaltung"
 subyard_use:0	"§YU-Boot Werft§! Instandhaltung"
 league_of_nations_member:0	"Mitgliedsstaat des Völkerbundes"
 mountaineer_special_forces_weight:0	"£mountain_texticon §YGebirgsjäger§! Gewicht der Spezialeinheiten"
-
 marine_special_forces_weight:0	"§YMarine§! Gewicht der Spezialeinheiten"
 marine_special_forces_weight_factor:0	"§YMarine§! Gewichtsfaktor der Spezialeinheiten"
 paratrooper_special_forces_weight:0	"§YFallschirmjäger§! Gewicht der Spezialeinheiten"
@@ -2144,7 +1214,6 @@ commando_special_forces_free:0	"Free §YKommando§! Obergrenze von Spezialeinhei
 mount_support_special_forces_weight:0	"§YBergunterstützung§! Gewicht der Spezialeinheiten"
 mount_support_special_forces_weight_factor:0	"§YBergunterstützung§! Gewichtsfaktor der Spezialeinheiten"
 amph_support_special_forces_weight:0	"§YAmphibische Unterstützung§! Gewicht der Spezialeinheiten"
-
 truck_factory_cost_factor:0	"Kostenfaktor der LKW-Fabrik"
 uniform_factory_cost_factor:0	"Einheitlicher Fabrikkostenfaktor"
 artillery_factory_cost_factor:0	"Kostenfaktor der Artilleriefabrik"
@@ -2155,145 +1224,34 @@ cv_fighter_design_cost_factor:0	"Designkosten für Trägerjäger"
 heavy_fighter_equipment_design_cost_factor:0	"Designkosten für schwere Jäger"
 jet_fighter_design_cost_factor:0	"Designkosten für Düsenjäger"
 ship_hull_light_design_cost_factor:0	"Designkosten für leichte Schiffe"
-
 ship_hull_carrier_design_cost_factor:0	"Designkosten für Flugzeugträger"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_unit_combat_engineer_design_cost_factor:0	"$combat_engineer$ Stückentwurfskosten"
-
-
 modifier_unit_combat_engineer_arm_design_cost_factor:0	"$combat_engineer_arm$ Stückkonstruktionskosten"
-
-
-
-
-
-
-
 modifier_unit_marine_design_cost_factor:0	"Designkosten für Marineeinheiten"
-
-
-
-
-
-
 modifier_unit_motorcycle_infantry_design_cost_factor:0	"Designkosten für Motorradeinheiten"
-
-
-
-
-
 modifier_unit_light_cruiser_design_cost_factor:0	"Designkosten für leichte Kreuzereinheiten"
-
-
-
-
-
-
-
-
-
 modifier_unit_mot_recon_design_cost_factor:0	"Kosten für die Konstruktion motorisierter Aufklärungskompanie-Einheiten"
-
 modifier_unit_light_tank_recon_design_cost_factor:0	"Designkosten für Einheiten der Panzeraufklärungskompanie"
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_unit_super_heavy_sp_artillery_brigade_design_cost_factor:0	"Designkosten für superschwere SP-Artillerieeinheiten"
 modifier_unit_modern_sp_artillery_brigade_design_cost_factor:0	"Designkosten für moderne SP-Artillerieeinheiten"
 modifier_unit_modular_light_sp_artillery_brigade_design_cost_factor:0	"modular_light_sp_artillery_brigade Kosten für das Einheitendesign"
-
 modifier_unit_modular_heavy_sp_artillery_brigade_design_cost_factor:0	"modular_heavy_sp_artillery_brigade Kosten für das Einheitendesign"
 modifier_unit_super_heavy_armor_design_cost_factor:0	"Designkosten für superschwere Panzereinheiten"
 modifier_unit_light_tank_destroyer_brigade_design_cost_factor:0	"Designkosten für leichte Jagdpanzer-Einheiten"
 modifier_unit_medium_tank_destroyer_brigade_design_cost_factor:0	"Designkosten für mittlere Jagdpanzereinheiten"
 modifier_unit_heavy_tank_destroyer_brigade_design_cost_factor:0	"Designkosten für schwere Jagdpanzereinheiten"
 modifier_unit_super_heavy_tank_destroyer_brigade_design_cost_factor:0	"Designkosten für superschwere Jagdpanzereinheiten"
-
-
-
-
-
-
-
-
 modifier_module_dp_light_battery_design_cost_factor:0	"Designkosten für 127 mm Dual-Purpose-Batterien"
 modifier_module_ship_heavy_battery_1_design_cost_factor:0	"Schiff 28 cm Kanone Designkosten"
 modifier_module_ship_heavy_battery_2_design_cost_factor:0	"Schiff 30,5 cm Kanone Designkosten"
 modifier_module_ship_heavy_battery_3_design_cost_factor:0	"Schiff 38 cm Kanone Designkosten"
 modifier_module_ship_heavy_battery_4_design_cost_factor:0	"Schiff 40,6 cm Kanone Designkosten"
 modifier_module_ship_super_heavy_battery_1_design_cost_factor:0	"Schiff 46 cm Kanone Designkosten"
-
-
-
-
 modifier_module_ship_light_medium_battery_1_design_cost_factor:0	"Schiff 14,5 cm Kanone Designkosten"
-
-
-
 modifier_module_ship_secondaries_1_design_cost_factor:0	"Schiff 75mm RF. Kanonenkonstruktionskosten"
 modifier_module_ship_secondaries_2_design_cost_factor:0	"Schiff 120 mm RF. Kanonenkonstruktionskosten"
 modifier_module_dp_ship_secondaries_design_cost_factor:0	"Kosten für die Konstruktion einer 127-mm-Sekundärbatterie mit doppeltem Verwendungszweck"
 modifier_module_ship_anti_air_1_design_cost_factor:0	"Designkosten für 12.7-mm Flugabwehrschiffe"
-
 modifier_module_ship_anti_air_3_design_cost_factor:0	"Designkosten für 37-mm-Flugabwehrschiffe"
 modifier_module_ship_anti_air_4_design_cost_factor:0	"Designkosten für das Schiff 40 mm Quad AA"
 modifier_module_ship_fire_control_system_0_design_cost_factor:0	"Designkosten für die zentrale Entfernungsmessung des Schiffs"
@@ -2305,20 +1263,13 @@ modifier_module_ship_radar_2_design_cost_factor:0	"Designkosten für verbesserte
 modifier_module_ship_radar_3_design_cost_factor:0	"Designkosten für zentrimetrisches Schiffssuchradar"
 modifier_module_ship_radar_4_design_cost_factor:0	"Designkosten für schiffsintegriertes Feuerleitradar"
 modifier_module_light_ship_engine_1_design_cost_factor:0	"Schiff: 35.000 PS, Motorkonstruktionskosten"
-
 modifier_module_light_ship_engine_3_design_cost_factor:0	"Schiff: 45.000 PS, Motorkonstruktionskosten"
-
-
-
 modifier_module_sub_ship_engine_3_design_cost_factor:0	"Schiffskonstruktionskosten für 3.000 PS-Motoren"
 modifier_module_sub_ship_engine_4_design_cost_factor:0	"Schiffskonstruktionskosten für 4.000 PS-Motoren"
 modifier_module_cruiser_ship_engine_1_design_cost_factor:0	"Schiff: 60.000 PS, Motorkonstruktionskosten"
 modifier_module_cruiser_ship_engine_2_design_cost_factor:0	"Schiff: 70.000 PS, Motorkonstruktionskosten"
 modifier_module_cruiser_ship_engine_3_design_cost_factor:0	"Schiff: 80.000 PS, Motorkonstruktionskosten"
 modifier_module_cruiser_ship_engine_4_design_cost_factor:0	"Schiff: 90.000 PS, Motorkonstruktionskosten"
-
-
-
 modifier_module_heavy_ship_engine_4_design_cost_factor:0	"Schiff: 210.000 PS, Motorkonstruktionskosten"
 modifier_module_carrier_ship_engine_1_design_cost_factor:0	"Schiff: 50.000 PS, Motorkonstruktionskosten"
 modifier_module_carrier_ship_engine_2_design_cost_factor:0	"Schiff: 120.000 PS, Motorkonstruktionskosten"
@@ -2340,8 +1291,6 @@ modifier_module_ship_depth_charge_2_design_cost_factor:0	"Designkosten für Schi
 modifier_module_ship_depth_charge_3_design_cost_factor:0	"Kosten für die Konstruktion von U-Boot-Mörsern für Schiffe"
 modifier_module_ship_depth_charge_4_design_cost_factor:0	"Kosten für die Konstruktion fortschrittlicher U-Boot-Mörser für Schiffe"
 modifier_module_ship_sub_snorkel_1_design_cost_factor:0	"Grundlegende Kosten für die Konstruktion eines Schnorchels"
-
-
 modifier_module_ship_airplane_launcher_2_design_cost_factor:0	"Kosten für verbessertes Schiffskatapult-Design für Wasserflugzeuge"
 modifier_module_ship_deck_space_design_cost_factor:0	"Kosten für die Raumgestaltung des Schiffshangars"
 modifier_module_ship_extra_fuel_tank_design_cost_factor:0	"Konstruktionskosten für zusätzliche Kraftstofftanks für Schiffe"
@@ -2366,7 +1315,6 @@ modifier_module_tank_gas_turbine_engine_design_cost_factor:0	"Designkosten für 
 modifier_module_tank_riveted_armor_design_cost_factor:0	"Designkosten für genietete Panzerpanzerung"
 modifier_module_tank_cast_armor_design_cost_factor:0	"Designkosten für Panzergusspanzerung"
 modifier_module_tank_welded_armor_design_cost_factor:0	"Designkosten für geschweißte Panzerpanzerung"
-
 modifier_module_tank_christie_suspension_design_cost_factor:0	"Designkosten der Panzer Christie-Aufhängung"
 modifier_module_tank_bogie_suspension_design_cost_factor:0	"Konstruktionskosten für die Panzer Drehgestellaufhängung"
 modifier_module_tank_interleaved_suspension_design_cost_factor:0	"Designkosten für verschachtelte Panzer-Straßenräder"
@@ -2387,149 +1335,21 @@ modifier_module_tank_modern_tank_turret_design_cost_factor:0	"Kosten für das mo
 modifier_module_tank_heavy_machine_gun_design_cost_factor:0	"Konstruktionskosten für schwere Panzermaschinengewehre"
 modifier_module_tank_auto_cannon_design_cost_factor:0	"Kosten für die Konstruktion automatischer Panzerkanonen"
 modifier_module_tank_auto_cannon_2_design_cost_factor:0	"Kosten für die Konstruktion der verbesserten automatischen Kanone des Panzers"
-
-
 modifier_module_tank_anti_air_cannon_3_design_cost_factor:0	"Kosten für die Konstruktion fortschrittlicher Luftabwehrkanonen des Panzers"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_module_amphibious_drive_design_cost_factor:0	"Designkosten für Panzer-Amphibienantriebe"
-
-
-
-
-
-
-
-
-
 nrm_ship_hull_destroyer_escort_design_cost_factor:0	"£navy_experience Designkosten für Zerstörer Eskorte"
-
-
-
-
-
-
-
-
-
 trm_tankette_tank_chassis_design_cost_factor:0	"£army_experience Tankette Designkosten"
-
-
-
-
-
-
-
-
-
 trm_light_tank_assault_gun_chassis_design_cost_factor:0	"£army_experience Designkosten für leichte Sturmgeschütze"
-
-
-
-
-
-
-
-
 trm_cavalry_tank_assault_gun_chassis_design_cost_factor:0	"£army_experience Designkosten für Kavallerie Sturmgeschütze"
-
-
-
-
-
-
-
 trm_medium_tank_artillery_chassis_design_cost_factor:0	"£army_experience Mittlere Designkosten für selbstfahrende Artillerie"
 trm_medium_tank_aa_chassis_design_cost_factor:0	"£army_experience Designkosten für mittlere Panzer"
-
-
-
-
-
-
-
-
-
-
-
 trm_infantry_tank_assault_gun_chassis_design_cost_factor:0	"£army_experience Konstruktionskosten für Infanterie-Sturmgeschütze"
-
-
-
-
-
-
-
-
-
 trm_heavy_tank_amphibious_chassis_design_cost_factor:0	"£army_experience Designkosten für schwere Amphibienpanzer"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 modifier_army_sub_unit_category_dockyard_attack_factor:0	"£nic_factory_output §YWerft§! Ausstoß"
-
-
-
-
-
-
-
 mutinies_chance:0	"£pol_violence Chance auf Meutereien der Armee"
-
-
-
-
-
-
-
-
-
 recall_volunteers:0	"Freiwillige im Ausland"
-
-
-
-
-
-
-
 superior_tactician_trait:0	"Kann beim Verlieren §YÜberlegener Taktiker§! erhalten"
-
-
-
-
-
-
-
 navy_attack_skill_chance:0	"£attack_battleship_texticon Wahrscheinlichkeit auf Steigerung der Angriffsfähigkeit (Marineführer)"
-
 planning_skill_chance:0	"£planning_trait_texticon Wahrscheinlichkeit auf Steigerung der Planungsfähigkeit (Armeeführer)"
 logistics_skill_chance:0	"£logistics_texticon Wahrscheinlichkeit auf Steigerung der Logistikfähigkeit (Armeeführer)"
 coordination_skill_chance:0	"£coordination_texticon Wahrscheinlichkeit auf Steigerung der Koordinationsfähigkeit (Marineführer)"
@@ -2571,11 +1391,9 @@ food_need_coastal:0	"£food_resources_texticon Küstenprovinz §YLebensmittel§!
 food_need_occupied:0	"£food_resources_texticon Besetzter Staat §YLebensmittel§! Verbrauchsfaktor"
 food_decay_factor:0	"£food_resources_texticon §YLebensmittel§! Zerfallsfaktor"
 min_ore_export:0	"£ore_resources_texticon Erzressourcen für den Markt"
-
 storage_output_factor:0	"Speicherausgabefaktor"
 enemy_capitulation_capture:	"Feindliche Kapitulation Eroberung von Ausrüstung"
 own_capitulation_capture:	"Eigene Kapitulation Ausrüstungsverlust"
-
 MODIFIER_EMBARGO_THRESHOLD_FACTOR:0	"£world_tension_texticon Embargo-Spannungsgrenze"
 MODIFIER_EMBARGO_THRESHOLD_FACTOR_DESC:0	"Ändert den Weltspannungsschwellenwert, den ein Ziel erreicht haben muss, um ein Embargo zu verhängen."
 MODIFIER_EMBARGO_COST_FACTOR:0	"£political_power_texticon Embargokosten"
@@ -2583,20 +1401,17 @@ MODIFIER_EMBARGO_COST_FACTOR_DESC:0	"Ändert die Kosten für das Versenden eines
 MODIFIER_WEEKLY_CASUALTIES_WAR_SUPPORT:0	"Wöchentliche Kriegsunterstützung (Kampfverluste)"
 MODIFIER_WEEKLY_CONVOYS_WAR_SUPPORT:0	"Wöchentliche Kriegsunterstützung (versenkte Konvois)"
 MODIFIER_WEEKLY_BOMBING_WAR_SUPPORT:0	"Wöchentliche Kriegsunterstützung (feindliche Bombardierung)"
-
 MODIFIER_ACE_EFFECTIVENESS_FACTOR:0	"Ace-Effektivität"
 MODIFIER_POWER_BALANCE_DAILY:0	"Tägliche Kräfteverhältnisse ändern sich"
 MODIFIER_POWER_BALANCE_WEEKLY:0	"Wöchentliche Änderung der Kräfteverhältnisse"
 MODIFIER_LOCAL_SUPPLY_IMPACT:0	"Auswirkungen auf die lokale Versorgung"
 dense_rural_infrastructure:0	"Dicht besiedeltes ländliches Gebiet"
 dense_rural_infrastructure_desc:0	"Die Infrastrukturnetze in diesem Gebiet sind durch eine dichte lokale Bevölkerung bereits stark ausgelastet.\n\nKann entfernt werden, indem die maximale §HInfrastruktur§! erreicht wird in diesem Staat."
-
 MODIFIER_GRANT_MEDAL_COST_FACTOR:0	"Kosten für die Gewährung einer Medaille"
 MODIFIER_FIELD_OFFICER_PROMOTION_PENALTY:0	"Strafe der Field Officer Division"
 MODIFIER_FEMALE_DIVISIONAL_COMMANDER_CHANCE:0	"Chance für weibliche Divisionskommandantin"
 MODIFIER_PARATROOPERS_SPECIAL_FORCES_CONTRIBUTION_FACTOR:	"Beitrag zur Obergrenze der Fallschirmjäger-Spezialeinheiten"
 MODIFIER_MARINES_SPECIAL_FORCES_CONTRIBUTION_FACTOR:	"Beitrag zur Obergrenze der Marine-Spezialeinheiten"
-
 modifier_unit_mountaineers_ski_design_cost_factor:	"Designkosten für Skitruppen"
 modifier_unit_rangers_support_design_cost_factor:	"Ranger Designkosten"
 MODIFIER_BRIGADE_SIZE:	"Brigadegröße"
@@ -2607,9 +1422,7 @@ military_industrial_organization_research_bonus_tt:	"$MODIFIER_MIO_RESEARCH_BONU
 MODIFIER_MIO_DESIGN_TEAM_ASSIGN_COST:	"Zuweisungskosten für Entwicklungsteams"
 MODIFIER_MIO_DESIGN_TEAM_CHANGE_COST:	"Änderungskosten für Entwicklungsteams"
 MODIFIER_MIO_INDUSTRIAL_MANUFACTURER_ASSIGN_COST:	"Zuweisungskosten für Industriehersteller"
-
 MODIFIER_MIO_FUNDS_SIZE_UP_REQUIREMENT:	"Anforderung für Vergrößerung"
-
 military_industrial_organization_funds_gain:	"Militärisch-industrieller Komplex $MODIFIER_MIO_FUNDS_GAIN$"
 military_industrial_organization_funds_gain_tt:	"Militärisch-industrieller Komplex $MODIFIER_MIO_FUNDS_GAIN$: $RIGHT|+=%1$"
 MODIFIER_MIO_POLICY_COST_FACTOR:	"Richtlinienkosten"
@@ -2622,218 +1435,73 @@ army_spirit_category_type_cost_factor:	"Kosten für Armeekommandogeist"
 air_spirit_category_type_cost_factor:	"Kosten für Air Force Command Spirit"
 navy_spirit_category_type_cost_factor:	"Navy-Kommandogeistkosten"
 resistance_damage_to_garrison_on_our_occupied_states_tt:	"Schaden an feindlichen Garnisonen in unseren vom Feind besetzten Staaten: $RIGHT|+=%1$"
-
-
-
 special_forces_cap_flat_tt:	"$MODIFIER_SPECIAL_FORCES_CAP_FLAT$: $RIGHT|+=%0$"
-
-
 MODIFIER_RESOURCE_TRADE_COST_BONUS_PER_FACTORY:	"Handel mit zusätzlichen Ressourcen pro Fabrik"
 resource_trade_cost_bonus_per_factory_tt:	"$MODIFIER_RESOURCE_TRADE_COST_BONUS_PER_FACTORY$: $RIGHT|+=0$ $RIGHT|+=0$"
-
 special_project_speed_factor_tt:	" $MODIFIER_SPECIAL_PROJECT_SPEED_FACTOR$: $RIGHT|+=%1$"
 MODIFIER_SPECIAL_PROJECT_FACILITY_SUPPLY_CONSUMPTION_FACTOR:	"Forschungseinrichtung Nachschubverbrauch: $FACTOR$"
-
 MODIFIER_SCIENTIST_RESEARCH_BONUS_FACTOR:	"Forschungsbonus"
-
-
-
-
-
-
-
 MODIFIER_FACTION_INFLUENCE_WAR_SCORE:	"Gewinn an Kriegs-Einfluss"
-
 MODIFIER_FACTION_INFLUENCE_POWER:	"Modifikator für Macht-Einfluss"
 MODIFIER_FACTION_INFLUENCE_GOV_IN_EXILE:	"Einflussmodifikator für die Aufnahme einer Exilregierung"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 sp_land_flamethrower_tank_speed_factor:	"Flammenwerfer-Panzer Forschungsgeschwindigkeit"
-
 sp_air_helicopter_speed_factor_tt:	" $sp_air_helicopter_speed_factor$: $RIGHT|+=%1$."
 sp_air_intercontinental_bomber_speed_factor_tt:	" $sp_air_intercontinental_bomber_speed_factor$: $RIGHT|+=%1$"
-
 sp_air_jet_engine_speed_factor_tt:	" $sp_air_jet_engine_speed_factor$: $RIGHT|+=%1$"
-
-
-
-
-
-
-
 sp_rockets_cruise_missile_speed_factor_tt:	" $sp_rockets_cruise_missile_speed_factor$: $RIGHT|+=%1$"
-
-
-
-
-
-
 sp_land_self_propelled_super_heavy_howitzer_speed_factor_tt:	" $sp_land_self_propelled_super_heavy_howitzer_speed_factor$: $RIGHT|+=%1$"
-
-
-
-
-
 sp_naval_nuclear_missile_submarine_speed_factor_tt:	" $sp_naval_nuclear_missile_submarine_speed_factor$: $RIGHT|+=%1$"
-
-
-
 sp_naval_modern_carrier_speed_factor_tt:	" $sp_naval_modern_carrier_speed_factor$: $RIGHT|+=%1$"
-
-
-
-
-
-
 sp_naval_torpedo_cruiser_speed_factor_tt:	" $sp_naval_torpedo_cruiser_speed_factor$: $RIGHT|+=%1$"
-
 sp_air_earthshaker_bomb_speed_factor_tt:	" $sp_air_earthshaker_bomb_speed_factor$: $RIGHT|+=%1$"
 sp_air_parasite_aircraft_speed_factor_tt:	" $sp_air_parasite_aircraft_speed_factor$: $RIGHT|+=%1$"
 sp_rockets_rocket_engine_speed_factor_tt:	" $sp_rockets_rocket_engine_speed_factor$: $RIGHT|+=%1$"
-
-
-
-
-
 specialization_electronics_speed_factor:	"$specialization_electronics$ Sonderprojekte Geschwindigkeit"
-
-
-
-
-
-
-
 sp_tag_helicopter_speed_factor:	"Hubschrauber Sonderprojekte Geschwindigkeit"
 sp_tag_helicopter_speed_factor_tt:	" $sp_tag_helicopter_speed_factor$: $RIGHT|+=%1$"
 sp_tag_jet_speed_factor:	"Jet Spezialprojekte Geschwindigkeit"
-
 sp_tag_rocket_speed_factor:	"Raketenprojekte Geschwindigkeit"
 sp_tag_rocket_speed_factor_tt:	" $sp_tag_rocket_speed_factor$: $RIGHT|+=%1$"
-
-
-
-
 sp_tag_tank_speed_factor:	"Panzer Spezialprojekte Geschwindigkeit"
-
-
-
 sp_tag_artillery_speed_factor:	"Artillerie Sonderprojekte Geschwindigkeit"
-
-
 sp_tag_submarine_speed_factor_tt:	" $sp_tag_submarine_speed_factor$: $RIGHT|+=%1$"
 sp_tag_torpedo_speed_factor:	"Torpedo Sonderprojekte Geschwindigkeit"
 sp_tag_torpedo_speed_factor_tt:	" $sp_tag_torpedo_speed_factor$: $RIGHT|+=%1$"
-
 sp_tag_asw_speed_factor_tt:	" $sp_tag_asw_speed_factor$: $RIGHT|+=%1$"
 sp_tag_surface_ship_speed_factor:	"Überwasserschiff-Spezialprojekte Geschwindigkeit"
 sp_tag_surface_ship_speed_factor_tt:	" $sp_tag_surface_ship_speed_factor$: $RIGHT|+=%1$"
 sp_tag_nuclear_warfare_speed_factor:	"Nuklearkriegsführung Spezialprojekte Geschwindigkeit"
-
 sp_tag_nuclear_power_speed_factor:	"Nukleare Energie Spezialprojekte Geschwindigkeit"
 sp_tag_nuclear_power_speed_factor_tt:	" $sp_tag_nuclear_power_speed_factor$: $RIGHT|+=%1$"
 sp_tag_radar_speed_factor:	"Radar Spezialprojekte Geschwindigkeit"
 sp_tag_radar_speed_factor_tt:	" $sp_tag_radar_speed_factor$: $RIGHT|+=%1$"
-
-
 GER_aid_to_SPA:	"Wirtschaftshilfe für Spanien"
 stresa_front:	"Stresa-Front"
 abyssinia_crisis:	"Abessinien-Krise"
 FRA_phoney_war:	"drôle de guerre"
 FRA_phoney_war_desc:	"Eine seltsame Art von Krieg in der Tat, aber das Sitzen in Festungen und das Abwerfen von Flugblättern auf die Deutschen trägt wenig zur Inspiration der französischen Armee bei"
 FRA_PHONEY_MULTIPLIER_TT:	"Multipliziert §Y$FRA_phoney_war$§! den wöchentlichen Verfall um $RIGHT|+=%$"
-
 FRA_high_command_consensus:	"Oberkommando vereinigen"
 FRA_inspire_troops:	"Die Truppen inspirieren"
-
-
-
 FRA_hold_southern_france:	"Südfrankreich halten"
-
-
-
-
 FRA_army_speed_TT:	"$army_speed_factor$: $RIGHT|%+=$"
-
-
-
-
 FRA_capitulation_TT:	"$own_capitulation_capture$: $RIGHT|%-=$"
 FRA_air_power_TT:	"$air_power_projection_factor$: $RIGHT|%+=$"
 food_sent:	"£GFX_food_resources_texticon Täglich gesendete Lebensmittel"
 food_received:	"£GFX_food_resources_texticon Täglich erhaltene Lebensmittel"
 sia_treaty:	"Vertrag über Freundschaft, Handel und Schifffahrt"
-
-
-
-
-
-
-
-
 MODIFIER_NAVAL_MISSION_XP_FACTOR:	"£navy_experience  Erfahrungsfaktor für Marineeinsätze"
-
-
 MODIFIER_NAVAL_HQ_XP_GAIN_FACTOR:	"£navy_experience  Erfahrungsgewinn durch Marinehauptquartier"
 headquarters_experience_gain_factor:	"£navy_experience  Erfahrungsgewinn durch das Marinehauptquartier"
 MODIFIER_GRANT_MEDAL_CHANCE:	"Chance auf automatische Medaille"
-
 unit_medal_effectiveness:	"$MODIFIER_MEDAL_EFFECTIVENESS$"
 automatic_grant_medal_chance:	"$MODIFIER_GRANT_MEDAL_CHANCE$"
 MODIFIER_SHORE_BOMBARDMENT_COLLATERAL_DAMAGE_FACTOR:	"£naval_battery_texticon  Kollateralschaden durch Küstenbeschuss"
 shore_bombardment_collateral_damage_factor:	"£naval_battery_texticon  Kollateralschäden durch Küstenbeschuss"
-
 MODIFIER_ARMY_EXPERIENCE_FROM_VOLUNTEERS:	"£army_experience  Armeeerfahrung von Freiwilligen"
 MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS:	"£manpower_cost_texticon  Personalbedarf der untersuchten Einheiten"
 MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS_DESC:	"Von den untersuchten Streitkräften geforderter Personalbedarf"
 autonomy_manpower_share_from_subjects_tt:	" $MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS$: $RIGHT|Y=%1$"
-
-
-
-
-
-
 MODIFIER_ENERGY_SCALE_PER_TRADE_FACTORY_EXPORT_FACTOR:	"Auswirkungen des Handels auf den Energieverbrauch von Fabriken"
 MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION_PER_INFRASTRUCTURE:	"Energiebedarf von Fabriken pro Infrastruktur"
 MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE:	"Ressourcengewinn pro Infrastruktur"

@@ -16,221 +16,92 @@ INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP:	"Details des Militärisch-industriel
 INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP_DELAYED:	"$NAME|Y$ hat $NUMBER|Y0$ Eigenschaftspunkte, die ausgegeben werden können."
 INDUSTRIAL_ORG_LIST_INITIAL_TRAIT_NAME:	"$NAME|Y$"
 INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON:	"Eigenschaftswarteschlange"
-
-
-
-
 INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON_WITH_ITEMS:	"$INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON$ ($NUMBER_ITEMS$)"
 INDUSTRIAL_ORG_QUEUE_WINDOW_INSTRUCTION:	"Wenn diese Organisation über Eigenschaftspunkte verfügt, wird die erste verfügbare Eigenschaft in dieser Warteschlange abgeschlossen. §GUmschalt + Klick§! auf eine Eigenschaft, um §Ysie dieser Warteschlange hinzuzufügen§!. §GDrag & Drop§!, um §Ydie Reihenfolge in der Warteschlange zu ändern§!."
-
-
 INDUSTRIAL_ORG_QUEUE_WINDOW_REMOVE_TOOLTIP:	"Aus der Warteschlange entfernen"
-
-
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_VARIANTS_HEADER:	"Forschungs- und Designer-Verlauf"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_PRODUCTION_HEADER:	"Produktionslinienverlauf"
-
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_NO_UPGRADE_TOOLTIP:	"§gDie Ausrüstung verfügt bereits über die Boni der neuesten Eigenschaften. Es ist nicht erforderlich, die Variante zu aktualisieren.§!"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_UPGRADE_VARIANTS_TOOLTIP_CANT_AFFORD:	"§RSie haben nicht genug Erfahrung, um die Variante zu aktualisieren.§!"
-
-
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_FLAVOR_RESEARCH_DATE:	"Erforscht: $DATE$"
-
-
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_UPGRADE_VARIANTS_CONFIRM_POPUP_HEADER:	"Aufrüstung mit den neuesten Eigenschaften"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_UPGRADE_VARIANTS_CONFIRM_POPUP_DESC:	"Sind Sie sicher, dass Sie $EQUIPMENT_NAME|Y$ mit den neuesten Eigenschaften upgraden möchten ?\n\nDie Verbesserung kostet $XPCOST|Y$."
 INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_PROD_LINE_TOOLTIP:	"§GKlicken§! um diese Produktionslinie §Yzuzuordnen§!."
 INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_SHIP_REFIT_TOOLTIP:	"§GKlicken§! um dieses Schiff der Umrüstung §Yzuzuordnen§!."
-
-
-
-
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TANK:	"Panzer"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_SHIP:	"Schiffe"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_PLANE:	"Flugzeuge"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_MATERIEL:	"Ausrüstung"
-
-
-
-
 INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_TOTAL:	"Gesamt: $VALUE$"
 INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_BASE:	"  Basis: $VALUE$"
 INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_FROM_TRAITS:	"  Von Eigenschaften & Richtlinien: $VALUE$"
-
 INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_VALUE:	"$VALUE$"
-
-
-
 INDUSTRIAL_ORG_DETAIL_TRAIT_POINTS:	"Eigenschaftspunkte: $VALUE|H$"
-
 INDUSTRIAL_ORG_DETAIL_RESEARCH_BONUS:	"Forschungsbonus: $VALUE|0%$"
 INDUSTRIAL_ORG_DETAIL_TASK_CAPACITY:	"Aufgabenkapazität: $VALUE|0%$"
 INDUSTRIAL_ORG_DETAIL_MIO_MODIFIER_ITEM:	"$NAME$: $VALUE$"
-
 INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_HEADER:	"§YFunds§!"
-
-
-
 INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_PER_PROD_LINE:	"$EQUIPMENT_NAME|Y$ ($FUNDS|+2$ Mittel/Tag)"
-
 INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_PER_RESEARCH_SLOT:	"$TECH_NAME|Y$ ($FUNDS|+0$ Mittel in $DAYS|Y$ Tag(en))"
 INDUSTRIAL_ORG_DETAIL_TOOLTIP_DESIGN_TEAM_CHANGE_COST_DELAYED:	"Wenn Sie eine §YMilitärisch-industrieller Komplex§! zu Ausrüstungsvarianten hinzufügen, kostet Sie das §YErfahrung§!. Je nach Ausrüstungstyp handelt es sich entweder um £GFX_army_experience Armeerfahrung, £GFX_navy_experience Marineerfahrung oder £GFX_air_experience Lufterfahrung."
-
 INDUSTRIAL_ORGANIZATION_TOOLTIP_EQUIPMENT_WILL_GET:	"$EQUIPMENT|H$ erhält:"
-
-
-
 INDUSTRIAL_ORGANIZATION_TOOLTIP_SIZE:	"Größe: $GR|Y0$ ($PROZ|Y%0$)"
-
 INDUSTRIAL_ORGANIZATION_TOOLTIP_COST:	"Kosten: "
 INDUSTRIAL_ORGANIZATION_TOOLTIP_RESEARCH_BONUS:	"Forschungsbonus: $VALUE|0%+=$"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_GAINED_FUNDS_PROD_LINE:	"Finanzmittel: $VALUE|+2$ §HIndustriekapazität§! produziert"
-
 INDUSTRIAL_ORGANIZATION_TOOLTIP_GAINED_FUNDS_DESIGNER:	"Mittel: $VALUE|+0$"
-
-
 INDUSTRIAL_ORG_MANUFACTURER:	"Industrieller Hersteller"
-
 INDUSTRIAL_ORG_MANUFACTURER_TOOLTIP_NAME:	"$NAME|H$"
-
 INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_CHANGE:	"§GKlicken§! zum Ändern."
-
 INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_HEADER:	"§YAufrüstung mit den neuesten Modifikationen§!"
-
 INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_CREATE_VARIANT:	"Dadurch wird eine neue Variante erstellt."
-
 INDUSTRIAL_ORG_TOOLTIP_NO_UPGRADE_ALREADY_ASSIGNED_MIO:	"Es gibt keine neuen Modifikationen, die auf diese Ausrüstung anwendbar sind. Es ist nicht notwendig, eine Aufrüstung durchzuführen."
-
 INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION:	"Sie können diesem Ausrüstungstyp keine zuweisen."
-
-
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_LIMIT_TYPE:	"Nur für $TYPE|H$:"
-
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_ASSIGN_TO_TECH:	"Bei Zuweisung zu einer Technologie:"
-
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_ASSIGN_TO_PRODUCTION_LINE:	"Bei Zuweisung zu einer Produktionslinie:"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_TECH_CANCELLED:	"Wenn die zugewiesene Technologie abgebrochen wird:"
-
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_UNASSIGN_FROM_PRODUCTION_LINE:	"Wenn die Zuweisung zu einer Produktionslinie aufgehoben wird:"
-
-
-
-
-
 INDUSTRIAL_ORG_TASK_CAPACITY_TITLE:	"§HEinsatzkapazität§!"
 INDUSTRIAL_ORG_TASK_CAPACITY_DESC:	"Kapazität: $NUM_ASSIGNED|H$/$CAPACITY|H$"
-
 INDUSTRIAL_ORG_TASK_RESEARCH_DESC:	"Forschung: $RESEARCH|H$"
-
 INDUSTRIAL_ORG_TASK_NOT_ASSIGNED:	"Derzeit keiner Aufgabe zugewiesen."
-
 INDUSTRIAL_ORG_EMPTY_PRODUCE:	"Produzieren ohne einen §HMilitärisch-industrieller Komplex§!"
-
 INDUSTRIAL_ORG_EMPTY_RESEARCH:	"Forschen ohne einen §HMilitärisch-industrieller Komplex§!"
-
-
-
 INDUSTRIAL_ORG_RESEARCH_TOOLTIP_MIO_ALREADY_ASSIGNED:	"§GKlicken§! um zu forschen\n§GUmschalt + Klicken§! um mit $ORG|H$ zu forschen"
-
-
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_TITLE:	"Modifikationen abschließen"
-
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS:	"Aktualisiert die Ausrüstungsvarianten $VALUE|H0$ mit den neuesten §YEntwicklungsteam Modifikationen§! für $XPCOST$"
-
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_NO_UPGRADE_VARIANTS:	"§gAktualisiere die Ausrüstungsvarianten mit den neuesten §!§YEntwicklungsteams Modifikationen§!"
-
-
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_CANT_AFFORD:	"§RDu hast nicht genug Erfahrung, um die betroffenen Varianten zu verbessern.§!"
-
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_COST_ENTRY:	"- $VARIANT|H$: $XPCOST$"
-
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_NOT_VALID_ANYMORE_TOOLTIP:	"§RDie Freischaltung dieser Modifikationen ist nicht mehr gültig§!"
-
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ADD_TO_QUEUE_UNLOCK:	"§GUmschalt + Klicken§! um §YEigenschaft zur Abschlusswarteschlange hinzuzufügen§!"
-
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_NOT_ENOUGH_FUNDS:	"§REigenschaften können nur durch die Zuweisung von Geldern aus Forschungs- oder Produktionslinien abgeschlossen werden§!"
-
-
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_TRAIT_AVAILABLE:	"§GDie Modifikationen ist verfügbar§!"
-
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_PARENT_NOT_UNLOCKED:	"§RDiese Modifikationen hat ein noch nicht abgeschlossenes Elternteil§!"
-
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_PICK_CENTRAL_TREE:	"Wähle eine Spezialisierung aus oder zeige eine Vorschau an, um die Modifikationen zu sehen"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_COMPLETE:	"Wenn abgeschlossen:"
 INDUSTRIAL_ORG_POLICY_BUTTON:	"Richtlinien"
-
 INDUSTRIAL_ORG_POLICY_ATTACH_POLICY_POPUP_TITLE:	"Richtlinie anhängen"
-
-
-
-
 INDUSTRIAL_ORG_POLICY_SWAP_POLICY_POPUP_DESC:	"Sind Sie sicher, dass Sie die Richtlinie $OLDPOLICY|Y$ durch die Richtlinie $NEWPOLICY|Y$ in $INDUSTRIAL_ORG|Y$ ersetzen möchten?"
-
 INDUSTRIAL_ORG_POLICY_COOLDOWN:	"Sie können die Richtlinie für $VALUE|H$ Tage nicht ändern."
 INDUSTRIAL_ORG_POLICY_AVAILABLE:	"§GDie Richtlinie ist verfügbar§!"
 INDUSTRIAL_ORG_POLICY_NOT_AVAILABLE:	"§RDie Richtlinie ist nicht verfügbar§!"
 INDUSTRIAL_ORG_POLICY_IN_COOLDOWN:	"§RKANN die Richtlinie erst nach $NBDAYS$ Tagen ändern§!"
-
 INDUSTRIAL_ORG_POLICY_ON_ATTACH:	"Wenn angehängt: "
-
-
-
-
 INDUSTRIAL_ORG_POLICY_CLICK_TO_UNATTACH:	"§GKlicken Sie auf§!, um aus dem §YMilitärisch-industrieller Komplex auszutreten!§!"
-
 INDUSTRIAL_ORG_POLICY_TOOLTIP_HEADER:	"§YRichtlinien§!"
 INDUSTRIAL_ORG_POLICY_TOOLTIP_POLICY_NAME:	"$NAME|Y$"
 INDUSTRIAL_ORG_POLICY_TOOLTIP_NO_POLICY_AVAILABLE:	"Es ist keine §YRichtlinie§! verfügbar"
 INDUSTRIAL_ORG_POLICY_TOOLTIP_NO_POLICY_SELECTED:	"Es wurde keine §YRichtlinie§! ausgewählt"
-
 INDUSTRIAL_ORG_POLICY_DESCRIPTION_TT:	"Richtlinien helfen Ihrer §YMilitärisch-Industriellen Organisation§! sich auf bestimmte Aspekte der Forschung oder Produktion zu spezialisieren."
-
-
-
 INDUSTRIAL_ORG_EQUIPMENT_HEADER_DESIGN_TEAM_BONUSES:	"§YBoni für Ausrüstungsvarianten:§!"
-
 INDUSTRIAL_ORG_EQUIPMENT_HEADER_AFFECTED_EQUIPMENT:	"§YBetroffene Ausrüstung:§!"
-
 INDUSTRIAL_ORG_EQUIPMENT_HEADER_LIMIT_TYPE_ALSO:	"Auch nur für $TYPE|H$:"
-
 INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM:	" - $NAME|H$"
-
 INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM_WITH_CAPACITY_FULL:	"$INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM$: (Aufgabenkapazität: $TASKS|R$/$CAPACITY|R$)"
-
 INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO:	"Wenn Sie einer "§YMilitärisch-industrieller Komplex§!" eine Produktionslinienaufgabe zuweisen, werden Produktionsboni auf diese Linie angewendet."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 my_custom_mio:	"Meine benutzerdefinierte MIO"
-
 my_custom_mio_custom_1:	"Mein Top-Left-Merkmal"
 FRA_my_custom_mio_custom_1:	"Mon Trait en haut à gauche"
 my_custom_mio_initial_trait:	"Anfangsmerkmal"
@@ -238,22 +109,15 @@ FRA_my_custom_mio_initial_trait:	"Trait Initial"
 mio_cat_eq_all_light_tank:	"Alle leichten Panzerausrüstungen"
 mio_cat_eq_all_medium_tank:	"Alle mittleren Panzerausrüstungen"
 mio_cat_eq_all_heavy_tank:	"Alle schweren Panzerausrüstungen"
-
 mio_cat_eq_all_tank_destroyers:	"Alle Jagdpanzerausrüstungen"
 mio_cat_eq_all_spgs:	"Alle Sturmgeschütze & Selbstfahrende Artillerie"
 mio_cat_eq_all_carrier:	"Alle Trägerschiffe"
-
 mio_cat_eq_all_cruiser:	"Alle Kreuzer"
 mio_cat_eq_all_destroyer:	"Alle Zerstörer"
 mio_cat_eq_all_escort:	"Alle Eskorten"
-
 mio_cat_eq_all_surface:	"Alle Überwasserschiffe"
-
 mio_cat_eq_all_small_plane:	"Alle kleinen Flugzeuge und Trägerflugzeuge"
-
 mio_cat_eq_all_medium_plane:	"Alle mittleren Flugzeuge"
-
-
 mio_cat_eq_all_close_air_support:	"Alle Luftnahunterstützungs-Flugzeuge"
 mio_cat_eq_only_light_fighter:	"Jäger und Trägerjäger"
 mio_cat_eq_only_light_fighter_no_cv:	"Jäger"
@@ -261,56 +125,23 @@ mio_cat_eq_only_heavy_fighter:	"Alle Schwere/Nachtjäger"
 mio_cat_eq_only_recon_aircraft:	"Alle Aufklärungsflugzeuge"
 mio_cat_eq_only_tactical_bomber:	"Taktische Bomber"
 mio_cat_eq_only_fast_bomber:	"Alle schnellen Bomber"
-
 mio_cat_eq_all_cv_aircraft:	"Alle Trägerflugzeuge"
 mio_cat_eq_all_cv_fighter:	"Alle Trägerkampfflugzeuge"
 mio_cat_eq_all_cv_bomber:	"Alle Trägerbomber"
 mio_cat_eq_all_naval_aircraft:	"Alle Marineflugzeuge"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 mio_header_engines:	"Motoren"
-
 mio_header_engine_and_suspension:	"Motor und Aufhängung"
-
 mio_header_engine_and_drive_system:	"Motor und Antriebssystem"
-
-
 mio_header_equipment_and_specialization:	"Ausrüstung und Spezialisierung"
 mio_header_long_range_focus:	"Langstrecken-Fokus"
 mio_header_stealth_focus:	"Tarnkappen-Fokus"
 mio_header_supremacy_focus:	"Überlegenheits-Fokus"
-
-
 mio_header_fighter_aircraft:	"Kampfflugzeuge"
-
 mio_header_naval_aircraft:	"Marineflugzeuge"
 mio_header_light_aircraft:	"Leichtflugzeuge"
 mio_header_medium_aircraft:	"Mittlere Flugzeuge"
-
-
 mio_header_anti_tank:	"Panzerabwehr"
 mio_header_protection:	"Schutz"
-
-
-
-
-
-
 mio_policy_land_armor_welding_specialists:	"Panzerschweißspezialisten"
 mio_policy_land_casting_specialists:	"Gussspezialisten"
 mio_policy_land_heavy_gantry_cranes:	"Schwere Portalkräne"
@@ -325,77 +156,27 @@ mio_policy_navy_welding_specialists:	"Schweißspezialisten"
 mio_policy_navy_space_efficient_design:	"Raumsparendes Design"
 mio_policy_navy_stable_platforms:	"Stabile Schießplattformen"
 mio_policy_navy_great_sea_keeping:	"Große Seetüchtigkeit"
-
-
-
-
 USA_detroit_arsenal:	"$detroit_arsenal$"
 USA_tank_destroyer_board_organization:	"$tank_destroyer_board$"
 USA_norfolk_naval_yard_organization:	"$norfolk_naval_yard$"
-
-
 USA_newport_news_shipbuilding_organization:	"$newport_news_shipbuilding$"
 USA_new_york_shipbuilding_coorperation_organization:	"$new_york_shipbuilding_coorperation$ $new_york_shipbuilding_coorperation$"
-
-
-
-
-
-
-
-
-
-
 USA_mio_trait_strict_design_specifications:	"Strenge Konstruktionsvorgaben"
 USA_mio_trait_expanded_production_facilities:	"Erweiterte Produktionsanlagen"
 USA_mio_trait_periscope_sights:	"Periskopvisiere"
 USA_mio_trait_superfortress:	"Superfortress"
 USA_mio_trait_smooth_finish:	"Glatte Oberfläche"
-
-
-
-
-
-
-
-
-
-
-
-
 marmon_herrington_mio_trait_all_wheel_steering:	"Allradlenkung"
 front_ditch_roller:	"Vordere Grabenwalze"
-
-
-
 glider_droppable:	"Segelflugzeug Entwicklungen"
-
-
-
-
-
-
-
-
-
 USA_mio_trait_mass_production_of_armor:	"Massenproduktion von Panzerung"
-
-
 USA_mio_trait_large_scale_organisation:	"Groß angelegte Organisation"
-
-
-
-
-
 JAP_aichi_organization:	"$aichi$"
 JAP_nakajima_organization:	"$nakajima$"
 JAP_yokosuka_organization:	"$yokosuka$"
 JAP_kawasaki_organization:	"$kawasakiair$"
 JAP_sasebo_naval_arsenal_organization:	"$sasebo_naval_arsenal$"
-
-
 JAP_nissan_organization:	"$nissan$"
-
 JAP_mio_trait_extra_strength_duralumin:	"Extra starkes Duraluminium"
 JAP_mio_osaka_statistical_firepower:	"Statistische Methoden"
 JAP_hitachi_organization_initial:	"Mobile Feuerunterstützung"
@@ -403,26 +184,18 @@ JAP_mitsubishi_tank_organization_initial:	"Industrielle Panzerproduktion"
 JAP_mio_osaka_initial:	"Armee-Panzerhersteller"
 SOV_mytishchy_machine_building_plant_organization:	"$SOV_mytishchy_machine_building_plant$"
 SOV_tupolev_design_bureau_organization:	"$tupolev_design_bureau$"
-
 SOV_morozov_initial:	"Konstruktionsbüro Kharkov"
-
 SOV_mio_astrov_intial:	"$astrov_design_bureau$"
 SOV_okmo_organization:	"$okmo$"
 SOV_mio_okmo_initial:	"OKMO Konstruktionsbüro"
 SOV_kirov_organization_mio:	"Konstruktionsbüro Kirov £tech_mod "
 SOV_mio_kirov_initial:	"Kirov Design Bureau"
 SOV_nevskoye_design_bureau_organization:	"$nevskoye_design_bureau$"
-
-
-
-
 SOV_lavochkin_design_bureau_organization:	"$lavochkin_design_bureau$"
-
 SOV_yakovlev_design_bureau_organization:	"$yakovlev_design_bureau$"
 SOV_grabin_design_bureau_organization:	"$grabin_design_bureau$"
 SOV_tula_arms_plant_organization:	"$tula_arms_plant$"
 SOV_gaz_organization:	"$gaz$"
-
 SOV_Plant37_organization_initial:	"Werk Nr. 37"
 SOV_kharkov_locomotive_plant_organization:	"Lokomotivwerk Kharkov £production_cost "
 SOV_kharkov_locomotive_plant_initial:	"Lokomotivwerk Charkow"
@@ -451,51 +224,21 @@ plant_early_patton_process_TT:	""
 Agarkov_Movement:	"Agarkow-Bewegung"
 Improved_V2_Engines:	"Verbesserte V2-Motoren"
 ENG_harland_wolff_organization:	"$harland_wolff$"
-
 ENG_yarrow_shipbuilders_organization:	"$yarrow_shipbuilders$"
 ENG_john_brown_organization:	"$john_brown_company$"
 ENG_supermarine_organization:	"$supermarine$"
-
-
-
-
-
-
 ENG_vickers_armstrong_eng_organization:	"$vickers_armstrong_eng$"
-
 ENG_avro_organization:	"$avro$"
-
-
-
 ENG_mio_trait_super_charges:	"Aufladung"
-
-
-
 ENG_mio_trait_piat:	"PIAT"
-
-
 ENG_mio_trait_expanded_production_facilities:	"Erweiterte Produktionsanlagen"
-
-
-
 FRA_panhard_organization:	"$FRA_panhard$"
-
-
 FRA_apx_organization:	"$FRA_APX$"
 FRA_amx_organization:	"$FRA_AMX$"
-
-
-
-
-
-
-
 FRA_fcm_organization:	"$fcm$"
 FRA_aeb_organization:	"$aeb$"
 FRA_acl_organization:	"$acl$"
-
 FRA_mio_trait_light_tank_improvements:	"Leichte Panzer"
-
 FRA_mio_trait_automitrailleuses:	"Selbstfahrlafetten"
 FRA_mio_trait_production_division:	"AMX Production Division"
 FRA_mio_trait_standardized_turrets:	"APX Turrets"
@@ -505,85 +248,33 @@ GER_porsche_organization:	"$porsche$"
 GER_henschel_organization:	"$henschel$"
 GER_man_organization:	"$GER_MAN$"
 GER_germaniawerft_organization:	"$germaniawerft$"
-
 GER_blohm_und_voss_organization:	"$blohm_und_voss$"
 GER_messerschmitt_organization:	"$messerschmitt$"
-
-
-
-
-
-
-
-
-
-
-
-
-
 GER_mio_trait_minengeschoss:	"Minengeschoss"
 GER_messerschmitt_initial:	"Konstrukteur Kampfflugzeug"
 ITA_fiat_organization:	"$fiat$"
 ITA_crda_organization:	"$crda$"
 ITA_cantiere_oto_organization:	"$ITA_cantiere_oto$"
-
-
-
-
-
-
-
-
-
 ITA_crda_cant_organization:	"$ITA_crda_cant$"
-
-
-
 ITA_breda_organization:	"$breda$"
 ITA_brescia_arsenal_organization:	"$ITA_brescia_arsenal$"
 ITA_officine_meccaniche_organization:	"$ITA_officine_meccaniche$"
-
 ITA_mio_trait_air_race_pedigree:	"Air Race Pedigree"
-
 ITA_mio_trait_remote_operated:	"Remote Operated"
-
 ITA_new_ricostruzione_industriale_motorized:	"$ITA_new_ricostruzione_industriale$ (Motorisiert)"
 ITA_new_ricostruzione_industriale_mechanized:	"$ITA_new_ricostruzione_industriale$ (Mechanisiert)"
-
 NZL_port_chalmers_shipbuilding_organization:	"$NZL_port_chalmers_shipbuilding$"
-
-
-
-
-
-
 AST_new_south_wales_rc_organization:	"$new_south_wales_rc$"
 AST_lysaghts_works_organization:	"$lysaghts_works$"
 AST_lithgow_saf_organization:	"$lithgow_saf$"
-
-
 RAJ_garden_reach_shipbuilders_organization:	"$garden_reach_shipbuilders$"
-
-
-
 RAJ_hindustan_aircraft_organization:	"$hindustan_aircraft$"
-
-
 CAN_halifax_shipyard_organization:	"$halifax_shipyard_limited$"
-
-
 CAN_small_arms_limited_organization:	"$small_arms_limited$"
 CAN_de_havilland_organization:	"$de_havilland$"
 CAN_canadian_car_foundry_organization:	"$canadian_car_foundry$"
 CAN_fairchild_aircraft_ltd_organization:	"$CAN_fairchild_aircraft_ltd$"
 CAN_handley_page_organization:	"$CAN_handley_page$"
-
-
-
-
-
-
-
 CZE_zbrojovka_brno_organization:	"$CZE_zbrojovka_brno$"
 CZE_skoda_artillery_organization:	"$CZE_skoda_artillery$"
 CZE_praga_organization:	"$CZE_praga$"
@@ -591,179 +282,50 @@ CZE_ckd_praga_organization:	"$CZE_ckd_praga$"
 CZE_avia_organization:	"$CZE_avia$"
 CZE_aero_organization:	"$CZE_aero$"
 CZE_letov_organization:	"$CZE_letov$"
-
-
-
 HUN_femaru_fegyver_es_gepgyar_organization:	"$HUN_femaru_fegyver_es_gepgyar$"
-
 HUN_mio_trait_naval_warfare:	"$HUN_naval_warfare$"
-
-
-
-
-
-
-
-
-
-
-
 ROM_opel_organization:	"$ROM_opel$"
 ROM_iar_organization:	"$ROM_iar$"
 ROM_icar_organization:	"$ROM_ICAR$"
 ROM_set_organization:	"$ROM_SET$"
-
-
-
-
-
 ROM_mio_trait_black_sea_weapons:	"Black Sea Weapons"
 ROM_mio_trait_coastal_defense_weapons:	"Coastal Defense Weapons"
-
-
-
-
 YUG_ikarus_organization:	"$YUG_ikarus$"
-
 YUG_zmaj_organization:	"$YUG_zmaj$"
-
-
-
 CHI_jiangnan_shipyard_group_organization:	"$jiangnan_shipyard_group$"
 CHI_dagu_shipyard_organization:	"$dagu_shipyard$"
-
-
-
-
-
-
-
 CHI_camco_medium_organization:	 "$CHI_camco_1$"
 CHI_camco_fighter_organization:	"$CHI_camco_2$"
-
-
-
-
-
-
-
-
-
 MAN_mamc_light_organization:	"$MAN_mamc_light$"
 MAN_mamc_medium_organization:	"$MAN_mamc_medium$"
 MAN_mamc_heavy_organization:	"$MAN_mamc_heavy$"
-
-
-
-
 HOL_koolhoven_organization:	"$koolhoven$"
-
-
-
-
-
 MEX_tga_organization:	"$MEX_tga$"
 MEX_GER_porsche_organization:	"$MEX_germano_mexican_tanks$"
 MEX_SOV_morozov_design_bureau_organization:	"$MEX_russo_mexican_tanks$"
 MEX_USA_chrysler_organization:	"$MEX_american_mexican_tanks$"
 MEX_astimar_gulf_organization:	"$MEX_astimar_gulf$"
 MEX_astimar_pacific_organization:	"$MEX_astimar_pacific$"
-
-
-
-
 SPR_secn_vanilla_organization:	"$secn$"
 SPR_secn_organization:	"$secn$"
-
 SPR_casa_vanilla_organization:	"$casa$"
-
-
-
 SPR_esperanza_y_cia_organization:	"$SPR_esperanza_y_cia$"
 SPR_llama_gabilondo_y_cia_organization:	"$SPR_llama_gabilondo_y_cia$"
 SPR_hispano_suiza_organization:	"$SPR_hispano_suiza$"
-
-
-
-
-
-
-
 TUR_ticaret_organization:	"$koc_ticaret_as_armor$"
 TUR_tulomsas_organization:	"$tulomsas$"
-
-
-
-
-
-
-
 TUR_cgt_organization:	"$cgt$"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 EST_paldiski_port_organization:	"$paldiski_port$"
 EST_arsenal_organization:	"$arsenal$"
-
-
 LIT_anbo_organization:	"$anbo$"
 SWE_bofors_organization:	"Bofors"
 SWE_landsverk_organization:	"Landsverk"
 SWE_volvo_organization:	"Volvo"
 SWE_scania_vabis_organization:	"Scania-Vabis"
-
-
-
-
-
-
-
 SWE_mio_trait_defense_in_depth:	"Fortgeschrittene panzerbrechende Munition"
 SWE_mio_trait_high_capacity_dockyard:	"Werft mit hoher Kapazität"
 SWE_mio_trait_forefront_of_aeroplane_development:	"Vorreiter bei der Flugzeugentwicklung"
 SWE_mio_trait_booming_domestic_production:	"Boomende Inlandsproduktion"
-
-
-
-
-
-
-
-
-
-
 FIN_mio_trait_salvaged_and_retooled:	"Geborgen und umgerüstet"
 FIN_mio_trait_repurposed_equipment:	"Umfunktionierte Ausrüstung"
 FIN_mio_trait_oy_tikkakoski:	"Oy Tikkakoski"
@@ -773,76 +335,20 @@ FIN_mio_trait_deep_sea_raiders:	"$FIN_deep_sea_raiders$"
 FIN_mio_trait_repurposed_equipment_trigger_tt:	"Hat §Y$FIN_mechanized_equipment_3$§ erforscht! (1944 Mechanisierte Technologie)"
 FIN_mio_trait_wartsila_engine_production:	"$FIN_wartsila_engine_production$"
 FIN_mio_trait_modernization_program:	"Modernisierungsprogramm"
-
-
-
-
-
-
 DEN_flyvemaskinevaerksted_organization:	"Orlogsværftet Flyvemaskineværksted"
 DEN_mio_trait_burmeister_wain_engines:	"Burmeister & Wain Engines"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 NOR_morozov_design_bureau_nord_organization:	"$SOV_morozov_design_bureau_organization$ Nord"
 NOR_rubin_design_bureau_nord_organization:	"$SOV_rubin_design_bureau_organization$ Nord"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 BRA_amrj_organization:	"Arsenal de Marinha do Rio de Janeiro"
 BRA_rossi_organization:	"Amadeo Rossi"
 BRA_cbc_organization:	"Companhia Brasileira de Cartuchos"
-
-
-
-
-
-
-
-
-
 CHL_famae_rama_de_artilleria_organization:	"FAMAE - Rama de Artillería"
 CHL_willys_famae_corvo_organization:	"Willys FAMAE Corvo"
 CHL_csav_organization:	"CSAV"
-
-
 ARG_astarsa_organization:	"Astarsa"
 ARG_fma_organization:	"FMA"
 ARG_fabricaciones_militares_organization:	"Fabricaciones Militares"
 ARG_fabricaciones_militares_art_organization:	"Fabricaciones Militares - Departamento De Artillería"
-
-
-
-
 generic_tank_organization:	"Panzerhersteller"
 generic_mio_initial_trait_standardized_production:	"Standardisierte Produktion"
 generic_mio_trait_simplified_suspension:	"Vereinfachte Aufhängung"
@@ -850,17 +356,9 @@ generic_mio_trait_crew_ergonomics:	"Ergonomie der Besatzung"
 generic_mio_trait_improved_tracks:	"Verbesserte Ketten"
 generic_mio_trait_command_upgrades:	"Befehlsverbesserungen"
 generic_mio_trait_standardized_components:	"Standardisierte Komponenten"
-
-
-
-
-
-
 generic_infantry_tank_organization:	"Hersteller von Infanteriepanzern"
 generic_mio_initial_trait_infantry_tanks_designer:	"Konstrukteure von Infanteriepanzern"
 generic_mio_trait_light_tank_improvements:	"Verbesserungen an leichten Panzern"
-
-
 generic_mio_trait_production_division:	"Produktionsabteilung"
 generic_mio_trait_standardized_turrets:	"Standardisierte Geschütztürme"
 generic_mio_trait_improved_protection:	"Verbesserter Schutz"
@@ -868,16 +366,8 @@ generic_mio_trait_improved_wheel_protection:	"Verbesserter Radschutz"
 generic_mio_trait_gun_improvements:	"Verbesserungen an Geschützen"
 generic_mio_trait_speed_improvements:	"Verbesserungen an der Geschwindigkeit"
 generic_mio_trait_modular_construction:	"Modulare Bauweise"
-
-
 generic_mio_trait_heavy_tank_specialization:	"Spezialisierung auf schwere Panzer"
 generic_mobile_tank_organization:	"Mobiler Panzerhersteller"
-
-
-
-
-
-
 generic_mio_sloping_armor:	"Schräge Panzerung"
 generic_mio_lighter_materials:	"Leichtere Materialien"
 generic_mio_armor_hardening_process:	"Panzerhärtungsprozess"
@@ -885,97 +375,31 @@ generic_mio_enlarged_breech:	"Vergrößerter Verschluss"
 generic_mio_gunner_sight_improvements:	"Verbesserungen der Richtschützenvisiere"
 generic_mio_quality_assurance_routines:	"Qualitätssicherungsroutinen"
 generic_mio_streamlined_production:	"Optimierte Produktion"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 generic_mio_trait_wide_tracks:	"Breite Ketten"
 generic_mio_trait_fire_extinguishers:	"Feuerlöscher"
 generic_mio_trait_one_piece_hull_side_coverings:	"Einteilige Rumpfseitenverkleidung"
 generic_mio_trait_simplified_transmission_system:	"Vereinfachtes Getriebesystem"
 generic_mio_trait_improved_engine_output:	"Verbesserte Motorleistung"
-
-
-
-
-
-
 generic_mio_trait_high_explosive_shells:	"Hochexplosive Granaten"
 generic_mio_trait_apcr_hvap_shells:	"APCR/HVAP Granaten"
 generic_tank_refurbishment_plant_organization:	"Panzer Instandsetzungsanlage"
-
-
-
-
 generic_mio_trait_high_powered_engine_production:	"Produktion von Hochleistungsmotoren"
 generic_mio_trait_heavy_duty_machine_tools:	"Hochleistungs-Werkzeugmaschinen"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 generic_mio_trait_flight_deck_edge_aa_mounts:	"Flugdeckkante AA-Halterungen"
 generic_mio_trait_gyro_stabilized_mounts:	"Kreiselstabilisierte Halterungen"
 generic_mio_trait_rapid_fire_guns:	"Schnellfeuerwaffen"
 generic_mio_trait_advanced_fitting_works:	"Fortgeschrittene Ausstattungsarbeiten"
 generic_mio_trait_carrier_flight_operations_center:	"Flugbetriebszentrum des Trägers"
 generic_mio_trait_primary_fire_director_control:	"Primäre Feuerleitanlage"
-
-
-
-
 generic_mio_trait_internal_armor_belt:	"Interner Panzerungsgürtel"
 generic_mio_trait_hardened_critical_components:	"Gehärtete kritische Komponenten"
-
-
-
-
-
-
-
 generic_mio_trait_semi_armor_piercing_shells:	"Halb-Panzerbrechende Granaten"
-
-
-
-
 generic_mio_trait_fleet_escorts:	"Flottenbegleitung"
 generic_mio_trait_anti_air_ships:	"Flugabwehrschiffe"
 generic_mio_trait_escort_in_force:	"Begleitschutz"
 generic_mio_trait_improved_anti_air_gun_mounting:	"Verbesserte Flugabwehrgeschütz Montage"
 generic_mio_trait_mass_production:	"Massenproduktion"
 generic_mio_trait_improved_light_gun_mounting:	"Verbesserte leichte Geschütz Montage"
-
-
-
-
-
-
-
-
 generic_mio_trait_high_quality_optics:	"Hochwertige Optik"
 generic_mio_trait_raider_escort_requirements:	"Kapereskorten Anforderungen"
 generic_mio_trait_unescorted_raider_requirements:	"Unbegleitete Kaperanforderungen"
@@ -987,61 +411,27 @@ generic_mio_trait_mass_produced_raiders:	"Serienmäßig hergestellte Kaperschiff
 generic_submarine_organization:	"U-Boot-Hersteller"
 generic_mio_initial_trait_submarine_designer:	"U-Boot Designer"
 generic_mio_trait_decalin_fueled_torpedo:	"Decalin-betriebener Torpedo"
-
-
-
-
-
 generic_mio_trait_improved_torpedo_detonators:	"Verbesserte Torpedozünder"
 generic_mio_trait_simplified_pressure_hull_design:	"Vereinfachte Druckkörperkonstruktion"
-
-
-
-
-
 generic_mio_trait_advanced_sonar:	"Fortschrittliches Sonar"
 generic_mio_trait_deck_guns:	"Deckgeschütze"
 generic_mio_trait_high_capacity_mine_storage:	"Hochleistungs-Minenlager"
-
-
-
-
-
-
 generic_mio_trait_light_armor_piercing_guns:	"Panzerbrechende Geschütze"
 generic_mio_trait_brass_case_reloader:	"Nachlader mit Messinghülse"
 generic_mio_trait_anti_air_defense:	"Luftabwehr"
 generic_mio_trait_heavy_guns:	"Schwere Geschütze"
-
-
 generic_mio_trait_base_defense:	"Basisverteidigung"
 generic_mio_trait_state_sponsored_growth:	"Staatlich gefördertes Wachstum"
 generic_mio_trait_state_sponsored_research:	"Staatlich geförderte Forschung"
 generic_mio_trait_24h_shifts:	"24-Stunden-Schichten"
 generic_mio_trait_state_subsidizing:	"Staatliche Subventionen"
 generic_mio_trait_deck_guns_black_sea:	"Deckgeschütze"
-
-
-
-
-
-
-
-
-
-
-
 generic_mio_trait_advanced_scanners:	"Fortschrittliche Scanner"
 generic_mio_trait_capital_destroyer_shells:	"Kapitalzerstörergranaten"
 generic_mio_trait_naval_all_purpose_defense_systems:	"Mehrzweck-Verteidigungssysteme"
-
-
-
 generic_mio_trait_conservative_designs:	"Konservative Designs"
 generic_mio_trait_fighter_aircraft_specialists:	"Spezialisten für Kampfflugzeuge"
 generic_mio_trait_high_speed_design:	"Hochgeschwindigkeitsdesign"
-
-
 generic_mio_trait_bomber_aircraft_specialists:	"Spezialisten für Bomberflugzeuge"
 generic_mio_trait_bomb_trucks:	"Bomb Trucks"
 generic_mio_trait_fast_bombers:	"Fast Bombers"
@@ -1049,39 +439,15 @@ generic_mio_trait_bomber_aircraft_production:	"Produktion von Bomberflugzeugen"
 generic_mio_trait_naval_aircraft_specialists:	"Spezialisten für Marineflugzeuge"
 generic_mio_trait_naval_strike:	"Naval Strike"
 generic_mio_trait_naval_air_patrol:	"Naval Air Patrol"
-
 generic_light_aircraft_organization:	"Hersteller von Leichtflugzeugen"
 generic_mio_initial_trait_light_aircraft_designer:	"Konstrukteur von Leichtflugzeugen"
 generic_mio_trait_expanded_production_facilities:	"Erweiterte Produktionsanlagen"
-
-
-
-
-
-
-
-
-
-
 generic_mio_trait_multi_purpose_aircraft:	"Mehrzweckflugzeuge"
 generic_mio_trait_fighter_specialization:	"Kampfflugzeug-Spezialisierung"
 generic_mio_trait_close_air_support_specialization:	"Spezialisierung auf Luftnahunterstützung"
 generic_mio_trait_flexible_design:	"Flexible Konstruktion"
 generic_mio_trait_fighter_expertise:	"Kampfflugzeug-Expertise"
 generic_mio_trait_close_air_support_expertise:	"Expertise in Luftnahunterstützung"
-
-
-
-
-
-
-
-
-
-
-
-
-
 generic_mio_trait_heavy_fighter_specialization:	"Spezialisierung auf schwere Kampfflugzeuge"
 generic_mio_trait_tactical_bomber_specialization:	"Spezialisierung auf taktische Bomber"
 generic_mio_trait_skip_bombing:	"Bombenabwurf"
@@ -1090,69 +456,24 @@ generic_heavy_aircraft_organization:	"Hersteller schwerer Flugzeuge"
 generic_mio_initial_trait_heavy_aircraft_designer:	"Konstrukteur schwerer Flugzeuge"
 generic_mio_trait_reinforced_frames:	"Verstärkte Rahmen"
 generic_mio_trait_transport_conversions:	"Transportumbauten"
-
-
-
-
-
-
-
-
 generic_mio_trait_air_deployed_sonobuoys:	"Luftgestützte Sonobojen"
 generic_mio_trait_cockpit_controlled_remote_gun_turrets:	"Cockpitgesteuerte ferngesteuerte Geschütztürme"
 generic_mio_trait_flying_fortress:	"Fliegende Festung"
 generic_mio_trait_advanced_instruments:	"Fortschrittliche Instrumente"
-
-
 generic_mio_trait_selectional_construction:	"Selektive Konstruktion"
 generic_mio_trait_low_altitude_attacks:	"Angriffe in geringer Höhe"
-
-
-
-
-
-
-
-
-
-
 generic_mio_heat_bombs:	"HEAT-Bomben"
 generic_mio_cluster_bombs:	"Streubomben"
 generic_naval_aircraft_organization:	"Marineflugzeuge Organisation"
 generic_mio_initial_trait_naval_aircraft_designer:	"Marineflugzeug-Designer"
 generic_mio_trait_navigation_equipment:	"Navigationsausrüstung"
 generic_mio_trait_patrol_fuel_tanks:	"Patrouillen-Kraftstofftanks"
-
-
-
 generic_mio_agility_wing_design:	"Agiles Tragflächendesign"
-
-
-
-
-
-
-
-
-
 generic_mio_trait_armored_cockpit:	"Gepanzertes Cockpit"
 generic_mio_trait_escort_designs:	"Begleitflugzeug-Designs"
-
-
-
 generic_mio_trait_belly_shackles:	"Bauchverankerungen"
 generic_mio_trait_oversized_propeller:	"Übergroßer Propeller"
-
-
-
-
-
-
-
 generic_mio_trait_bubble_canopy:	"Blasenkuppel"
-
-
-
 generic_mio_trait_bigger_engines:	"Größere Motoren"
 generic_mio_trait_cantilever_wing_structure:	"Freitragende Tragflächenstruktur"
 generic_mio_trait_minimum_weapon_requirements:	"Mindestanforderungen an Waffen"
@@ -1163,11 +484,6 @@ generic_mio_trait_high_octane_fuels:	"Kraftstoffe mit hoher Oktanzahl"
 generic_mio_trait_interceptor:	"Abfangjäger"
 generic_mio_trait_gunboat:	"Kanonenboot"
 generic_mio_trait_fuel_injection_engines:	"Einspritzmotoren"
-
-
-
-
-
 generic_mio_trait_large_rudders_and_flaps:	"Große Ruder und Klappen"
 generic_mio_trait_variable_dihedral:	"Variable V-Form"
 generic_mio_trait_high_capacity_ammunition:	"Munition mit hoher Kapazität"
@@ -1181,23 +497,12 @@ generic_mio_trait_long_range_modifications:	"Modifikationen für große Reichwei
 generic_mio_trait_anti_interception_tactics:	"Taktiken gegen Abfangjäger"
 generic_mio_trait_high_explosive_payload:	"Hochexplosive Nutzlast"
 generic_mio_trait_long_range_fighters:	"Langstreckenjäger"
-
-
 generic_artillery_organization:	"Artilleriehersteller"
 generic_mio_initial_trait_artillery_manufacturer:	"$generic_artillery_organization$"
 generic_mio_trait_mobile_limbers:	"Mobile Auflieger"
 generic_mio_trait_stable_platforms:	"Stabile Plattformen"
-
-
-
-
-
-
-
-
 generic_mio_trait_gun_mass_production:	"Massenproduktion von Waffen"
 generic_mio_trait_super_charges:	"Superladungen"
-
 generic_infantry_equipment_organization:	"Hersteller von Infanterieausrüstung"
 generic_mio_initial_trait_infantry_manufacturer:	"Hersteller von Infanteriewaffen"
 generic_mio_trait_drum_pattern_sights:	"Drückjagdvisiere"
@@ -1205,17 +510,8 @@ generic_mio_trait_reinforced_stocks:	"Verstärkte Schäfte"
 generic_mio_trait_bolt_action:	"Repetierbüchsen"
 generic_mio_trait_semi_auto:	"Halbautomatische Gewehre"
 generic_mio_trait_medium_machineguns:	"Produktion von Maschinengewehren mittlerer Größe"
-
-
-
-
-
-
-
-
 generic_motorized_mechanized_organization:	"Motorisiert"
 generic_mio_initial_trait_motorized_mechanized_manufacturer:	"Automobilhersteller"
-
 generic_mio_trait_steel_cargo_bed:	"Stahlladefläche"
 generic_mio_trait_all_wheel_drive:	"Allradantrieb"
 generic_mio_trait_attached_wood_gas_generator:	"Angebrachter Holzgasgenerator"
@@ -1223,16 +519,9 @@ generic_mio_trait_high_powered_engine:	"Hochleistungsmotor"
 generic_mio_trait_medium_machinegun_mounts:	"Seitlich montierte mittlere Maschinengewehre"
 generic_mio_trait_armored_pulpit_mount:	"Gepanzerte Kanzelhalterung"
 generic_mio_trait_heavy_machinegun_mount:	"Schweres Maschinengewehr"
-
-
-
-
-
 generic_mio_trait_light_flame_projectors:	"Leichte Flammenwerfer"
 generic_mio_trait_land_mine_racks:	"Landminen-Racks"
 generic_support_equipment_organization:	"Hersteller von Unterstützungsausrüstung"
-
-
 generic_mio_trait_scrap_melting:	"Schrottschmelzen"
 generic_mio_trait_high_quality_material_blend:	"Hochwertige Materialmischung"
 generic_mio_trait_research_program:	"Forschungsprogramm"
@@ -1240,50 +529,14 @@ generic_mio_trait_efficient_scale_up:	"Effiziente Skalierung"
 generic_mio_trait_private_scientists_program:	"Programm für private Wissenschaftler"
 generic_mio_trait_private_tenders:	"Private Ausschreibungen"
 generic_mio_trait_anti_tank_rifle:	"Panzerabwehrgewehr"
-
 generic_mio_trait_small_sidearms:	"Kleine Handfeuerwaffen"
-
-
 generic_armored_car_organization:	"Panzerwagenhersteller"
-
-
-
-
-
-
-
-
-
-
 generic_mio_trait_reverser:	"Wendegetriebe"
 generic_mio_trait_officer_support_car:	"Offiziersunterstützungsfahrzeug"
 generic_mio_trait_heavy_anti_tank_gun:	"Schweres Panzerabwehrgeschütz"
-
 DEBUG_generic_tank_organization:	"$generic_tank_organization$"
-
-
-
-
-
-
-
-
-
-
-
-
-
 DEBUG_generic_medium_aircraft_organization:	"$generic_medium_aircraft_organization$"
 DEBUG_generic_heavy_aircraft_organization:	"$generic_heavy_aircraft_organization$"
-
-
-
-
-
-
-
-
-
 INDUSTRIAL_ORG_DETAIL_WINDOW_SAVE_QUEUE_DESCRIPTION:	"§HIn Datei speichern§!\nSpeichern Sie diese Eigenschaftswarteschlange in einer Datei, damit Sie in zukünftigen Durchläufen darauf zugreifen können."
 INDUSTRIAL_ORG_DETAIL_WINDOW_DELETE_QUEUE_DESCRIPTION:	"§HGespeicherte Warteschlange löschen§!\nKlicken Sie hier, um die aktuelle Eigenschaftswarteschlange zu löschen und die aktuell ausgewählte gespeicherte Eigenschaftswarteschlange zu entfernen. Wenn eine gespeicherte Warteschlange ausgewählt ist, wird dadurch §Rdie gespeicherte Warteschlange dauerhaft gelöscht die gespeicherte Warteschlange dauerhaft§!."
 INDUSTRIAL_ORG_DETAIL_WINDOW_DELETE_SPECIFIC_QUEUE_DESCRIPTION:	"§HGespeicherte Warteschlange löschen§!\n§RKlicken Sie hier, um die gespeicherte Merkmalswarteschlange dauerhaft zu löschen§!. "

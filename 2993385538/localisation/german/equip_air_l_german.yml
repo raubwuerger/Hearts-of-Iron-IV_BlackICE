@@ -184,10 +184,7 @@ CAS_equipment_1940:0	"Sturzkampfbomber 1940"
 CAS_equipment_1940_short:0	"Sturzkampfbomber 1940"
 CAS_equipment_1940_desc:0	"Die ersten Kriegserfahrungen haben gezeigt, dass für die Überlebensfähigkeit von Sturzkampfbomber gegenüber feindlichen Jägern und Bodenfeuer eine höhere Geschwindigkeit, Panzerung und Manövrierfähigkeit erforderlich sind. Diese nächste Generation von Bodenangriffsflugzeugen wird auch größere Bomben, Kanonen und Maschinengewehre einsetzen, um ihren Zielen größeren Schaden zuzufügen."
 CAS_equipment_1944:0	"Sturzkampfbomber 1944"
-
-
 jet_cas_equipment_1946:0	"Strahlgetriebene Sturzkampfbomber 1946"
-
 jet_cas_equipment_1946_desc:0	"Der Einsatz von Strahltriebwerken für die Sturzkampfbomber erweist sich als verheerend für feindliche Formationen"
 jet_fighter_equipment_1946:0	"Düsenjäger 1946"
 jet_fighter_equipment_1946_short:0	"Düsenjäger 1946"
@@ -239,29 +236,20 @@ rocket_suicide_equipment_1_short:0	"Kamikaze-Flugzeug"
 rocket_suicide_equipment_1_desc:0	"Bereiten Sie sich auf eine holprige Fahrt vor."
 interceptor_equipment:0	"Abfangjäger"
 interceptor_equipment_1936:0	"Abfangjäger 1936"
-
 interceptor_equipment_1936_desc:0	"Abfangjäger sind Kampfflugzeuge, die fast ausschließlich feindliche Flugzeuge angreifen sollen."
 interceptor_equipment_1940:0	"Abfangjäger 1940"
-
 interceptor_equipment_1940_desc:0	"Abfangjäger sind Kampfflugzeuge, die fast ausschließlich gegnerische Flugzeuge angreifen sollen."
 interceptor_equipment_1944:0	"Abfangjäger 1944"
-
 interceptor_equipment_1944_desc:0	"Abfangjäger sind Kampfflugzeuge, die fast ausschließlich gegnerische Flugzeuge angreifen sollen."
 mr_fighter:0	"Mehrzweckjagdflugzeug"
-
 mr_fighter_equipment_desc:0	"Mehrzweckjagdflugzeug sind Abfangjäger und können Bodenangriffe fliegen."
 mr_fighter_equipment_1936:0	"Mehrzweckjagdflugzeug 1936"
-
 mr_fighter_equipment_1936_desc:0	"Jäger, die als herkömmliche Abfangjäger eingesetzt werden können, aber auch im Bodenkampf eingesetzt werden können."
 mr_fighter_equipment_1940:0	"Mehrzweckjagdflugzeug 1940"
-
 mr_fighter_equipment_1940_desc:0	"Kampfflugzeuge, die als traditionelle Abfangjäger eingesetzt werden können und auch am Bodenkampf teilnehmen."
 mr_fighter_equipment_1944:0	"Mehrzweckjagdflugzeug 1944"
-
 mr_fighter_equipment_1944_desc:0	"Jagdflugzeuge, die als traditionelle Abfangjäger eingesetzt werden können, aber auch am Bodenkampf teilnehmen."
 quad_engine_bomber_equipment:0	"Schwerer Bomber"
-
-
 twin_cas:0	"Zweimotoriger Sturzkampfbomber"
 twin_cas_equipment:0	"Zweimotoriger Sturzkampfbomber"
 twin_cas_equipment_1936:0	"Zweimotorige Sturzkampfbomber 1936"
@@ -654,231 +642,117 @@ plane_drop_tank_upgrade:0	"Abwurftank"
 plane_drop_tank_upgrade_desc:0	"Hinzufügen von Einmal-Abwurftanks zur Erhöhung der Reichweite.\nErfordert §YFließbandfertigung§! für Stufe 1."
 plane_light_cannons_upgrade:0	"Leichte Kanonen"
 plane_light_cannons_upgrade_desc:0	"Hinzufügen von Kanonen bis zu 37 mm zur Verbesserung der Feuerkraft"
-
-
 plane_torpedo_upgrade:0	"Torpedo"
 plane_torpedo_upgrade_desc:0	"Hinzufügen eines Torpedos für Seeangriffsfähigkeit"
-
-
 plane_turret_defence_upgrade:0	"Verteidigungstürme"
 plane_turret_defence_upgrade_desc:0	"Hinzufügen von Verteidigungstürmen zur Abwehr von abfangenden Feinden"
-
-
 plane_radar_upgrade:0	"Radar in der Luft"
 plane_radar_upgrade_desc:0	"Hinzufügen eines flugzeugbasierten Radars für die Navigation und das erste Aufspüren von Feinden.\nErfordert §YVerbessertes Zentimeterradar§! für Stufe 1.\nErfordert §YFortschrittliches Zentimeterradar§! für Stufe 2."
-
-
 plane_heavy_cannons_upgrade:0	"Schwere Kanonen"
 plane_heavy_cannons_upgrade_desc:0	"Hinzufügen von Kanonen bis zu 75 mm zur Verbesserung der Bodenangriffsfähigkeiten"
-
-
 oboe_s8_upgrade:0	"Oboe"
 oboe_s8_upgrade_desc:0	"Oboe ist ein System, das die Bomber unabhängig vom Wetter zu ihrem Ziel führt und ihnen genau sagt, wann sie ihre Bomben abwerfen sollen."
-
-
 gun_700_s4_upgrade:0	"Bewaffnung"
 gun_700_s4_upgrade_desc:0	"Zusätzliche Waffen werden die Angriffskraft unseres Flugzeugs erhöhen."
-
-
 turret_19_s9_upgrade:0	"Geschützturm"
 turret_19_s9_upgrade_desc:0	"Hinzufügen eines zusätzlichen Geschützturms."
-
-
 gun_lysander_s5_upgrade:0	"Kanonen"
 gun_lysander_s5_upgrade_desc:0	"Durch den Einbau von zwei 20-mm-Kanonen können wir die Boden- und Luftangriffsfähigkeit des Lysander deutlich erhöhen."
-
-
 gun_100_s4_upgrade:0	"Geschütze"
 gun_100_s4_upgrade_desc:0	"Zusätzliche Waffen erhöhen die Angriffskraft unseres Flugzeugs."
-
-
 agilminusspeed_s9_upgrade:0	"Wendigkeit"
 agilminusspeed_s9_upgrade_desc:0	"Erhöht die Agilität auf Kosten der Geschwindigkeit."
-
-
 guns_83_s4_upgrade:0	"Geschütze"
 guns_83_s4_upgrade_desc:0	"Zusätzliche Waffen erhöhen die Angriffskraft unserer Flugzeuge."
-
-
 exp_engine_02_s2_upgrade:0	"Experimentelles Triebwerk"
 exp_engine_02_s2_upgrade_desc:0	"Ein experimentelles Triebwerk ermöglicht es uns, die Grenzen dessen, was mit dieser Flugzeugzelle erreicht werden kann, auszuloten, aber es wird Konsequenzen haben."
-
-
 droptanks_28_s10_upgrade:0	"Abwurftanks"
 droptanks_28_s10_upgrade_desc:0	"Wir können die Reichweite unseres Flugzeugs durch das Anbringen von Abwurftanks erhöhen."
-
-
 droptanks_57_s10_upgrade:0	"Abwurftanks"
 droptanks_57_s10_upgrade_desc:0	"Durch die Anbringung von Abwurftanks können wir die Reichweite unseres Flugzeugs vergrößern."
-
-
 engine_08_s1_upgrade:0	"Triebwerk"
 engine_08_s1_upgrade_desc:0	"Ein stärkerer Motor erhöht die Flugleistung unseres Flugzeugs."
-
-
 gun_bfg_s6_upgrade:0	"Große Kanone"
 gun_bfg_s6_upgrade_desc:0	"Eine 75-mm-Panzerabwehrkanone beeinträchtigt die Leistung drastisch, erhöht aber die Bodenangriffsfähigkeit unseres Flugzeugs."
-
-
 redesign_102_s8_upgrade:0	"Ki-102c"
 redesign_102_s8_upgrade_desc:0	"Umgestaltung der Zelle."
-
-
 engine_26_s1_upgrade:0	"Triebwerk"
 engine_26_s1_upgrade_desc:0	"Ein stärkeres Triebwerk erhöht die Flugleistung."
-
-
 bomb_33x3_s4_upgrade:0	"Bomben"
 bomb_33x3_s4_upgrade_desc:0	"Durch die Erhöhung der Bombenlast können wir die Angriffskraft unserer Bomber auf Kosten der Flugleistung steigern."
-
-
 engine_05_s1_upgrade:0	"Triebwerk"
 engine_05_s1_upgrade_desc:0	"Ein stärkeres Triebwerk erhöht die Flugleistung."
-
-
 fuel_50_s10_upgrade:0	"Treibstoff"
 fuel_50_s10_upgrade_desc:0	"Zusätzliche Treibstofftanks verringern die Flugleistung, erhöhen aber die Reichweite."
-
-
 gun_33x3_s6_upgrade:0	"Bewaffnung"
 gun_33x3_s6_upgrade_desc:0	"Zusätzliche Waffen ermöglichen es unseren Flugzeugen, sich besser zu verteidigen."
-
-
 bomb_56_s4_upgrade:0	"Bomben"
 bomb_56_s4_upgrade_desc:0	"Durch die Erhöhung der Bombenlast können wir die Angriffskraft unserer Bomber auf Kosten der Flugleistung steigern."
-
-
 gun_54_s4_upgrade:0	"Geschütze"
 gun_54_s4_upgrade_desc:0	"Stärkere Waffen erhöhen die Angriffskraft unserer Flugzeuge."
-
-
 droptank_40_s10_upgrade:0	"Abwurftanks"
 droptank_40_s10_upgrade_desc:0	"Abwurftanks werden es unseren Flugzeugen ermöglichen, weiter zu fliegen."
-
-
 gun_150_s4_upgrade_desc:0	"Stärkere Verteidigungswaffen werden es unseren Bombern ermöglichen, feindliche Angriffe besser zu überstehen."
 engine_20_s1_upgrade:0	"Triebwerk"
-
-
 gun_13_s4_upgrade_desc:0	"Zusätzliche Waffen erhöhen die Angriffskraft unserer Flugzeuge."
 droptanks_35_s10_upgrade:0	"Abwurftanks"
-
-
 armor_17_s7_upgrade_desc:0	"Eine stärkere Panzerung ermöglicht es unseren Flugzeugen, mehr Schaden zu überstehen, beeinträchtigt aber die Flugleistung."
 batbomb_s8_upgrade:0	"Bat-Bombe"
-
-
 gun_minus_s6_upgrade_desc:0	"Durch die Entfernung von Verteidigungswaffen können wir die Reichweite drastisch erhöhen. Auch die Flugleistung wird dadurch erhöht."
 bomb_67_s5_upgrade:0	"Bomben"
-
-
 bomb_100x2_s4_upgrade_desc:0	"Zusätzliche Bomben erhöhen die Bombardierungsfähigkeiten unserer Flugzeuge."
 gun_2_s4_upgrade:0	"Geschütze"
-
-
 armor_25_s8_upgrade_desc:0	"Eine stärkere Panzerung ermöglicht es unseren Flugzeugen, mehr Schaden zu überstehen, beeinträchtigt aber die Flugleistung."
 gun_25x4_s4_upgrade:0	"Geschütze"
-
-
 bomb_200x6_s6_upgrade_desc:0	"Zusätzliche Bomben erhöhen die Bombenkapazität unseres Flugzeugs."
 exp_engine_04_s3_upgrade:0	"Experimentelle Triebwerke"
-
-
 engine_02_s1_upgrade_desc:0	"Stärkere Triebwerke werden die Flugleistung des Flugzeugs erhöhen."
 gun_18_s4_upgrade:0	"Bewaffnung"
-
-
 p39n_s9_upgrade_desc:0	"Durch Einsparungen bei Waffen, Treibstoff und Panzerung können wir unser Flugzeug leichter machen und seine Flugleistung erhöhen."
 p39q_s8_upgrade:0	"Flugzeugzelle+"
-
-
 fuel_100_s1_upgrade_desc:0	"Zusätzlicher Treibstoff wird die Reichweite unseres Flugzeugs erhöhen."
 gun_29_s4_upgrade:0	"Bewaffnung"
-
-
 gun_43x2_s6_upgrade_desc:0	"Zusätzliche Waffen erhöhen die Angriffskraft unseres Flugzeugs."
 exp_engine_7_s3_upgrade:0	"Experimentelles Triebwerk"
-
-
 gun_43_s4_upgrade_desc:0	"Zusätzliche Waffen werden die Angriffskraft unseres Flugzeugs erhöhen."
 exp_engine_12_s2_upgrade:0	"Experimentelles Triebwerk"
-
-
 fuelinjection_ag10_s9_upgrade_desc:0	"Der Einbau einer Einspritzdüse in den Motor erhöht die Agilität des Flugzeugs."
 engine_067_minag_s2_upgrade:0	"Motor"
-
-
 gun_16x2_s5_upgrade_desc:0	"Zusätzliche Waffen werden die Angriffskraft unseres Flugzeugs erhöhen."
 bomb_100_s6_upgrade:0	"Bomben"
-
-
 gun_13_s5_upgrade_desc:0	"Indem wir die Angriffskraft unserer Flugzeuge erhöhen, können wir gegnerische Flugzeuge besser zerstören."
 bomb_50_s6_upgrade:0	"Bomben"
-
-
 fuel_125_s10_upgrade_desc:0	"Durch zusätzlichen Treibstoff können unsere Flugzeuge weiter fliegen."
 gun_60x5_s5_upgrade:0	"Geschütze"
-
-
 bomb_30x4_s4_upgrade_desc:0	"Das Mitführen zusätzlicher Bomben verringert die Flugleistung, erhöht aber unsere Fähigkeit, feindliche Ziele anzugreifen."
 engine_13x2_s1_upgrade:0	"Triebwerk"
-
-
 bomb_100_s5_upgrade_desc:0	"Das Mitführen zusätzlicher Bomben verringert die Flugleistung, erhöht aber unsere Fähigkeit, feindliche Ziele anzugreifen."
 bomb_50_x4_s4_upgrade:0	"Bomben"
-
-
 gun_66_s5_upgrade_desc:0	"Wenn wir die Angriffskraft unserer Flugzeuge erhöhen, können wir gegnerische Flugzeuge besser zerstören."
 bomb_100_x2_s5_upgrade:0	"Bomben"
-
-
 reliability_a20_s9_upgrade_desc:0	"Die Umstellung auf weniger leistungsstarke Triebwerke führt zwar zu einer drastischen Verringerung der Flugleistung, aber sie sind viel zuverlässiger."
 gun_bfg_s8_upgrade:0	"Kanone"
-
-
 bomb_73_s4_upgrade_desc:0	"Das Mitführen zusätzlicher Bomben verringert zwar die Flugleistung, erhöht aber unsere Fähigkeit, feindliche Ziele anzugreifen."
 gun_55_s6_upgrade:0	"Geschütze"
-
-
 armor_b25_s7_upgrade_desc:0	"Zusätzliche Panzerung erhöht zwar den Schutz, verringert aber die Leistung und Reichweite."
 engine_06_s3_upgrade:0	"Triebwerk"
-
-
 fuel_117_s10_upgrade_desc:0	"Erhöht die Reichweite des Flugzeugs."
 gun_20x3_s4_upgrade:0	"Geschütze"
-
-
 bomb_33_s6_upgrade_desc:0	"Das Mitführen zusätzlicher Bomben verringert die Flugleistung, erhöht aber unsere Fähigkeit, feindliche Ziele anzugreifen."
 engine_06_s1_upgrade:0	"Triebwerk"
-
-
 range_blackwidow_s10_upgrade_desc:0	"Wenn wir Bomben durch Treibstofftanks ersetzen, können wir die Reichweite auf Kosten der Boden- und Seeangriffe beträchtlich erhöhen."
 engine_165_s1_upgrade:0	"Triebwerk"
-
-
 exp_engine_03_s2_upgrade_desc:0	"Mit einem experimentellen Triebwerk können wir die Grenzen dessen ausloten, was mit dieser Zelle erreicht werden kann, aber es wird Konsequenzen haben."
 redesign_s9_upgrade:0	"Umgestaltung"
-
-
 bombsrockets_200_s4_upgrade_desc:0	"Bomben und Raketen werden den Angriff unserer Flugzeuge auf Bodenziele und Schiffe verstärken."
 engine_012_s3_upgrade:0	"Triebwerk"
-
-
 armor_20_s7_upgrade_desc:0	"Durch zusätzliche Panzerung können unsere Flugzeuge mehr Schaden überstehen."
 gunchange_s8_upgrade:0	"Kanone"
-
-
 gun_7_s5_upgrade_desc:0	"Indem wir die Angriffskraft unserer Flugzeuge erhöhen, können wir gegnerische Flugzeuge besser zerstören."
 fuel_776_s10_upgrade:0	"Reichweite"
-
-
 engine_03_s1_upgrade_desc:0	"Ein stärkerer Motor erhöht die Flugleistung unseres Flugzeugs."
-
-
 medium_airframe:0	"Mittlere Flugzeugzelle"
 medium_airframe_desc:0	"Flugzeuge mit mittlerer Zelle"
-
-
 MEX_fighter_equipment_1933:0	"TNCA "Tololoche" 3-E-130"
 MEX_fighter_equipment_1933_short:0	"Tololoche"
 MEX_cv_fighter_equipment_1933:0	"TNCA 'Tololoche' 3-E-130 (S.)"
@@ -953,7 +827,6 @@ tech_air_engine_jet_improved:0	"Verbesserte Düsentriebwerke"
 tech_air_engine_jet_improved_desc:0	"Eine Reihe von Verbesserungen an frühen Düsentriebwerken, die sowohl ihre Leistung als auch ihre Zuverlässigkeit erhöhen."
 tech_air_engine_motorjet:0	"Motorstrahltriebwerk"
 tech_air_engine_motorjet_desc:0	"Secondo Campini entwickelt seit mehreren Jahren ein so genanntes Thermojet. Diese Antriebsmethode könnte zu Hochleistungsflugzeugen führen, die nicht das gleiche Maß an fortschrittlichen Materialien und Konstruktionen benötigen wie herkömmliche Düsentriebwerke."
-
 CAS_equipment_1944_short:0	"CAS 1944"
 CAS_equipment_1944_desc:0	"Die ständig wachsende Leistungsfähigkeit der gegnerischen Flugabwehr und der feindlichen Abfangjäger erfordert eine Weiterentwicklung unserer CAS-Flugzeuge. Das neue Design umfasst eine höhere Motorleistung, Verbesserungen an der Flugzeugzelle für bessere Sturzflugfähigkeiten und besseren Schutz sowie noch größere Nutzlasten."
 jet_cas_equipment_1946_short:0	"Jet Close Air Support 1946"

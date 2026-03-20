@@ -1,5 +1,4 @@
 ﻿l_german:
-
 MAPMODE_ARMY_STRENGTH_MAPMODE_NAME:0	"Armeestärke"
 MAPMODE_ARMY_STRENGTH_MAPMODE_DESCRIPTION:0	"Zeigt die absolute Armeestärke aller Länder"
 MAPMODE_AIR_STRENGTH_MAPMODE:0	"Luftstärke Kartenmodus"
@@ -9,29 +8,24 @@ MAPMODE_NAVY_STRENGTH_MAPMODE:0	"Marinestärke Kartenmodus  "
 MAPMODE_NAVY_STRENGTH_MAPMODE_NAME:0	"Stärke der Marine"
 MAPMODE_NAVY_STRENGTH_MAPMODE_DESCRIPTION:0	"Zeigt die absolute Marinestärke aller Länder"
 MAPMODE_AIRBASE_MAPMODE:0	"Luftstützpunkt Kartenmodus"
-
 MAPMODE_AIRBASE_MAPMODE_DESCRIPTION:0	"Zeigt die Luftwaffenstützpunktstufe in jeder Provinz"
 MAPMODE_ANTI_AIR_MAPMODE:0	"Luftabwehrstufe Kartenmodus"
 MAPMODE_ANTI_AIR_MAPMODE_NAME:0	"Luftabwehr"
 MAPMODE_ANTI_AIR_MAPMODE_DESCRIPTION:0	"Zeigt die Luftabwehrstufe in jeder Provinz"
 MAPMODE_RESEARCH_CENTER_MAPMODE:0	"Forschungszentrum Kartenmdodus"
 MAPMODE_RESEARCH_CENTER_MAPMODE_NAME:0	"Forschungszentren"
-
 army_strength_mapmode_tooltip:0	"[FROM.CONTROLLER.army_strength_mapmode_tt]"
 army_strength_mapmode_tooltip_delayed:0	""
 air_strength_mapmode_tooltip:0	"[FROM.CONTROLLER.air_strength_mapmode_tt]"
 air_strength_mapmode_tooltip_delayed:0	""
 navy_strength_mapmode_tooltip:0	"[FROM.CONTROLLER.navy_strength_mapmode_tt]"
 navy_strength_mapmode_tooltip_delayed:0	""
-
 airbase_mapmode_tooltip_delayed:0	""
 anti_air_mapmode_tooltip:0	"[FROM.anti_air_mapmode_tt]"
 anti_air_mapmode_tooltip_delayed:0	""
-
 research_center_mapmode_tooltip_delayed:0	""
 MAPMODE_FRONT_STATE_MAPMODE:0	"Vordere Staaten"
 MAPMODE_FRONT_STATE_MAPMODE_NAME:0	"Vordere Zustände"
-
 MAPMODE_AI_INVASION_MAPMODE:0	"AI Invasion Fehlersuche"
 MAPMODE_AI_INVASION_MAPMODE_NAME:0	"AI Invasion Fehlersuche"
 ai_invasion_mapmode_tooltip:0	"AI Bereich Prioritätsgewicht: [?ROOT.ai_area_priority@var:FROM.ai_invasion_area]\n\nScore: [?ROOT.ai_invasion_area_score@var:FROM.ai_invasion_area] | Entfernung: [?ROOT.ai_invasion_area_distance@var:FROM.ai_invasion_area]"
@@ -41,14 +35,11 @@ ai_building_slot_score_tooltip:0	"[GetAIMapmodeTooltip]"
 ai_default_slot_score_tooltip:0	"ai_default_slot_score: [?FROM.ai_default_slot_score]"
 ai_airbase_slot_score_tooltips:0	"ai_airbase_slot_score: [?FROM.ai_airbase_slot_score] | Mult: [?FROM.ai_airbase_slot_score_mult] | Entfernung: [?FROM.distance_to_front] \n[GetRegionDeployedPlanes] | Kapazität: [?air_capacity] | Ratio: [?ratio|%]"
 ai_resource_slot_score_tooltip:0	"ai_resource_slot_score: [?FROM.ai_resource_slot_score]"
-
 ai_new_radar_slot_score_tooltip:0	"ai_new_radar_slot_score: [?FROM.ai_new_radar_slot_score]\n num_own_states: [?FROM.ai_new_radar_num_own_states]\n num_allied_states: [?FROM.ai_new_radar_num_allied_states]\n num_neutral_states: [?FROM.ai_new_radar_num_neutral_state]\n Anzahl_Feindliche_Staaten: [?FROM.ai_new_radar_num_enemy_states]\n num_potential_enemy_states: [?FROM.ai_new_radar_num_potential_enemy_states]"
 ai_radar_states_tooltip:0	"§CCyan:§! Vorbestimmter Radar-Status aus ai_radar_location trigger\n§BBlue:§! Neuer Radar-Status\n§RRed:§! Status mit Radar, der von der KI nicht erkannt wird (nicht vorbestimmt oder dynamisch hinzugefügt)"
 ai_resource_built_tooltip:0	"Infrastruktur gebaut: [?FROM.ai_built@infrastructure] | Aktuell: [?FROM.building_level@infrastructure]"
 ai_airbase_built_tooltip:0	"Luftwaffenstützpunkt gebaut: [?FROM.ai_built@air_base] | Aktuell: [?FROM.building_level@air_base]"
-
 ai_building_built_tooltip:0	"Alle gebaut: [GetAIBuiltAll]\n industrieller_komplex: [?FROM.ai_built@industrial_complex]\n waffenfabrik: [?FROM.ai_built@arms_factory]\n dockyard: [?FROM.ai_built@dockyard]\n air_assembly: [?FROM.ai_built@air_assembly]\n power_plant: [?FROM.ai_built@power_plant]\n stahl_raffinerie: [?FROM.ai_built@steel_refinery]\n aluminium_raffinerie: [?FROM.ai_built@aluminium_refinery]"
-
 MAPMODE_AI_DEFENSE_MAPMODE:0	"KI-Verteidigung"
 MAPMODE_AI_DEFENSE_MAPMODE_NAME:0	"KI-Verteidigung"
 ai_defense_mapmode_tooltip:0	"mapmode modding ist echt garbonzo"

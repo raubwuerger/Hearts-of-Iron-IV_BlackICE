@@ -278,53 +278,27 @@ RULE_OPTION_NORTH_EXPANSION:0	"Norden"
 RULE_OPTION_NORTH_EXPANSION_DESC:0	"Die japanische KI wird versuchen, das nördliche Ressourcengebiet in der Sowjetunion anzugreifen, indem sie während der Fünf-Minister-Konferenz die entsprechende Option wählt."
 RULE_OPTION_NORTH_EXPANSION_ALTERNATE:0	"Hokushin-ron (alternativ)"
 RULE_OPTION_NORTH_EXPANSION_ALTERNATE_DESC:0	"Die japanische KI wird versuchen, das nördliche Ressourcengebiet in der Sowjetunion anzugreifen, indem sie dem nationalen Fokuspfad Nördliche Expansionsdoktrin folgt."
-
-
 RULE_ALLOW_MILITARY_ACCESS_SAME_IDEOLOGY_TT:0	"Spielregel: §RLänder können militärischen Zugang und Andockrechte von Ländern erhalten, die dieselbe herrschende Ideologie teilen§!"
 RULE_ALLOW_MILITARY_ACCESS_BLOCKED_TT:0	"Spielregel: §RLänder können niemals militärischen Zugang und Andockrechte von einem anderen Land außerhalb einer Fraktion erhalten§!"
 RULE_ALLOW_LEND_LEASE_SAME_IDEOLOGY_TT:0	"Spielregel: §RLänder dürfen Ausrüstung nur an Länder mit derselben herrschenden Ideologie verleihen§!"
 RULE_ALLOW_LEND_LEASE_SAME_FACTION_TT:0	"Spielregel: §RLänder dürfen Ausrüstung nur an Länder der gleichen Fraktion verleihen§!"
-
-
-
-
 RULE_ASSUME_LEADERSHIP_BLOCKED_TOOLTIP:0	"Spielregel: §RLänder dürfen die Fraktionsführung nicht übernehmen§!"
 RULE_ALLOW_LEAVE_FACTION_BLOCKED_TOOLTIP:0	"Spielregel: §RLänder dürfen eine Fraktion nicht verlassen, außer durch nationale Schwerpunkte und Ereignisse§!"
 RULE_COUP_BLOCKED_TT:0	"Spielregel: §RLänder dürfen in keiner Nation einen Staatsstreich vorbereiten oder durchführen§!"
 RULE_COUP_AI_ONLY_TT:0	"Spielregel: §RLänder dürfen nur Putsche gegen Nationen vorbereiten und durchführen, die nicht von einem Menschen gespielt werden§!"
-
-
-
-
 RULE_ALLOW_LICENSING_BLOCKED_TT:0	"Spielregel: §RLänder können niemals Produktionslizenzen außerhalb von speziellen Entscheidungen und Ereignissen erwerben§!"
 RULE_ALLOW_LICENSING_SAME_FACTION_TT:0	"Spielregel: §RLänder können nur Produktionslizenzen von Ländern der gleichen Fraktion erwerben§!"
 RULE_ALLOW_LICENSING_SAME_IDEOLOGY_TT:0	"Spielregel: §RLänder dürfen nur Produktionslizenzen von Ländern erwerben, die dieselbe herrschende Ideologie teilen§!"
 RULE_OPTION_DEMOCRATIC_ENG_AI_DESC:0	"Die britische KI wird versuchen, Polen zu schützen und die Alliierten in ihrem Verteidigungskrieg gegen die Deutschen zu führen, indem sie den entsprechenden Pfad im nationalen Fokusbaum einschlägt."
-
-
-
-
 RULE_OPTION_DEMOCRATIC_NO_MORE_APPEASEMENT:0	"Kein Appeasement mehr"
 RULE_OPTION_DEMOCRATIC_NO_MORE_APPEASEMENT_ENG_AI_DESC:0	"Die britische KI wird versuchen, ihre Appeasement-Politik zu beenden und sie durch demokratischen Interventionismus zu ersetzen, indem sie den entsprechenden Pfad im nationalen Fokusbaum beschreitet."
 RULE_OPTION_ORGANIZE_THE_BLACKSHIRTS:0	"Organisieren Sie die Schwarzhemden"
 RULE_OPTION_ORGANIZE_THE_BLACKSHIRTS_ENG_AI_DESC:0	"Die britische KI wird versuchen, die Schwarzhemden zu organisieren und faschistisch zu werden, indem sie den entsprechenden Pfad im nationalen Fokusbaum einschlägt."
-
 RULE_OPTION_HISTORICAL_FEDERATION_DESC:0	"Die britische KI wird versuchen, Polen zu schützen und die Alliierten in ihrem Verteidigungskrieg gegen die Deutschen zu führen, indem sie den entsprechenden Pfad im nationalen Fokusbaum beschreitet.\nAußerdem wird sie versuchen, die Kaiserliche Föderation zu gründen."
-
 RULE_OPTION_HOME_DESC:0	"Die britische KI wird versuchen, sich auf ihre Marine und die Verteidigung ihrer Heimatinseln zu konzentrieren, indem sie den entsprechenden Weg im nationalen Fokusbaum einschlägt."
-
-
-
-
-
-
 RULE_OPTION_GLOBAL_EUROPE:0	"Globale Verteidigung (Europa)"
-
 RULE_OPTION_GLOBAL_EUROPE_FEDERATION:0	"Globale Verteidigung (Europa, Kaiserliche Föderation)"
 RULE_OPTION_GLOBAL_EUROPE_FEDERATION_DESC:0	"Die britische KI wird versuchen, sich auf den Aufbau eines globalen Einflusses zu konzentrieren, indem sie den entsprechenden Pfad im nationalen Fokusbaum beschreitet.\nSie wird sich auf die deutsche Aggression in Europa konzentrieren und präventiv in europäische Länder einfallen. Außerdem wird sie versuchen, die Imperiale Föderation zu gründen."
-
-
-
 RULE_OPTION_ORANJE_BOVEN:0	"Oranje Boven"
 RULE_OPTION_ORANJE_BOVEN_HOL_AI_DESC:0	"Die niederländische KI wird versuchen, den Monarchismus zu unterstützen und Königin Wilhelmina an die Macht zu bringen, indem sie den entsprechenden Weg im nationalen Fokusbaum einschlägt."
 RULE_OPTION_DEMOCRATIC_CONTINUE_THE_WAR_IN_BATAVIA:0	"Fortsetzung des Krieges in Batavia"
@@ -342,23 +316,6 @@ RULE_OPTION_SOCIAL_CATHOLICISM_DESC:0	"Gemäßigte Reformer innerhalb der kathol
 RULE_OPTION_FASCIST_DICTATORSHIP:0	"Faschistische Diktatur"
 RULE_OPTION_FASCIST_DICTATORSHIP_DESC:0	"Plutarco Calles, Saturnino Cedillo und die anderen militärischen Machthaber werden die aufkeimenden demokratischen Bestrebungen Mexikos zunichte machen und sich an Deutschland orientieren."
 RULE_OPTION_THEOCRATIC_ORDER:0	"Theokratische Ordnung"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 RULE_OPTION_DEFAULT_FRAGMENTATION_DESC:0	"Keine Nationalstaaten sind in ihre Bestandteile zersplittert."
 RULE_OPTION_ENG_FRAGMENTED:0	"Vereinigtes Königreich Fragmentiert"
 RULE_OPTION_ENG_FRAGMENTED_DESC:0	"Alle freizugebenden Nationen, aus denen das Vereinigte Königreich besteht, werden bei Spielbeginn als freie und unabhängige Nationen freigelassen."
@@ -375,40 +332,22 @@ RULE_GROUP_PEACE_SCORE:0	"Verteilung der Friedenspunkte"
 PEACE_SCORE_TO_OVERLORD:0	"Marionetten an Overlord"
 RULE_OPTION_PEACE_SCORE_TO_OVERLORD_YES_DESC:0	"Marionetten geben einen Teil ihres Friedenswerts an ihren Oberherrn ab. Das Verhältnis hängt von ihrer Autonomiestufe ab."
 RULE_OPTION_PEACE_SCORE_TO_OVERLORD_NO_DESC:0	"Die Puppets behalten den gesamten Friedenswert, den sie während des Krieges verdient haben."
-
-
-
-
-
-
-
-
-
-
-
-
-
 panzeroo_mode_no_DESC:0	"Nur Ihr normales BICE-Spiel"
 RULE_OPTION_panzeroo_mode_on:0	"Aktiviert"
 RULE_OPTION_panzeroo_mode_on_DESC:0	"Ich könnte es Ihnen sagen, aber das würde den Spaß verderben"
 RULE_MINOR_AI_RESEARCH:0	"Kleine KI-Forschung"
 RULE_OPTION_SCRIPTED:0	"Geskriptete Forschung"
 RULE_OPTION_NORMAL_RESEARCH:0	"Normale Forschung"
-
 ALLOW_ai_foreign_ministers:	"AI Ausländische Minister"
 RULE_OPTION_ALLOW_ai_foreign_ministers:	"Aktiviert"
 RULE_OPTION_ALLOW_ai_foreign_ministers_DESC:	"Alle AI Foreign Minsters erhalten Missionen wie Spieler"
 RULE_OPTION_DISABLE_ai_foreign_ministers:	"Deaktiviert"
 RULE_OPTION_DISABLE_ai_foreign_ministers_DESC:	"Keine KI-Auslandsminster erhalten Missionen (gut für die Leistung)"
 RULE_OPTION_DISABLE_all_foreign_ministers:	"Deaktiviert"
-
 RULE_OPTION_ALLOW_ai_major_foreign_ministers:	"Große KIs"
 RULE_OPTION_ALLOW_ai_major_foreign_ministers_DESC:	"Nur Major AI's Foreign Minsters erhalten Missionen"
-
 RULE_ALLOW_SCORCHED_EARTH:0	"Verbrannte Erde"
-
 RULE_ALLOW_SCORCHED_EARTH_BLOCKED_DESC:0	"Länder dürfen Verbrannte Erde unter keinen Umständen verwenden."
-
 RULE_ALLOW_GUARANTEES_SAME_IDEOLOGY_TOOLTIP:0	"Spielregel: §RLänder können nur Ländern Garantien gewähren, die ihre herrschende Ideologie teilen.§!"
 RULE_ALLOW_GUARANTEES_BLOCKED_TOOLTIP:0	"Spielregel: §RLänder können niemals anderen Ländern Garantien gewähren. §!"
 RULE_ALLOW_LEND_LEASE_BLOCKED_TT:0	"Spielregel: §RLänder dürfen niemals Ausrüstung an andere Länder im Rahmen des Leih- und Pachtgesetzes verleihen.§!"

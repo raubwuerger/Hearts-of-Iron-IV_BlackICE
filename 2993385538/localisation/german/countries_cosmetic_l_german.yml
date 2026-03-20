@@ -737,11 +737,6 @@ ECU_SOA_communism_DEF:0	"Südamerika"
 ECU_SOA_communism_ADJ:0	"Südamerika"
 CZE_reichskommissariat:0	"Böhmen und Mähren"
 CZE_reichskommissariat_DEF:0	"Böhmen und Mähren"
-
-
-
-
-
 SIA_thailand_monarchism_DEF:	"Königreich Thailand"
 PARTISANS_fascism:0	"Partisanen"
 PARTISANS_fascism_DEF:0	"Partisanen"
@@ -749,13 +744,6 @@ PARTISANS_socialism:0	"Partisanen"
 PARTISANS_socialism_DEF:0	"Partisanen"
 PARTISANS_conservatism:0	"Partisanen"
 PARTISANS_conservatism_DEF:0	"Partisanen"
-
-
-
-
-
-
-
 PARTISANS_communism_DEF:0	"Partisanen"
 PARTISANS_fascism_ADJ:0	"Partisanen"
 PARTISANS_neutrality_ADJ:0	"Partisanen"
@@ -763,7 +751,6 @@ PARTISANS_socialism_ADJ:0	"Partisan"
 PARTISANS_conservatism_ADJ:0	"Partisan"
 PARTISANS_liberalism_ADJ:0	"Partisan"
 PARTISANS_monarchism_ADJ:0	"Partisan"
-
 SIA_thailand_fascism:	"Thailand"
 SIA_thailand_fascism_DEF:	"Thailand"
 SIA_thailand_neutrality:	"Thailand"

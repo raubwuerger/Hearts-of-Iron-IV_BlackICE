@@ -35,216 +35,110 @@ POLITICS_REPLACE_IDEA_POLITICAL_POWER_DESC:0	"Wollen Sie §Y$OLD_IDEA$§! durch 
 CANT_TAKE_IDEAS:0	"§RDu kannst im Moment keine Minister zuweisen oder Gesetze ändern.§!\n§HKann keine Ideen zuweisen:§!"
 POLITICS_IDEA_COST:0	"Kosten (£pol_power ): $VALUE|-0$"
 POLITICS_IDEA_COST_COMPACT:1	"$VALUE$"
-
 DECISION_COST_COMPACT:1	"£pol_power $VALUE|0$"
-
 POLITICS_IDEA_REMOVE_COST:0	"Kosten für das Entfernen (£pol_power ): $VALUE|0$"
-
 POLITICS_IDEA_CANCEL_DESC:0	"Wird abgebrochen, wenn:"
-
 POLITICS_GOAL_OBJECTIVE:0	"§TZiele:§!"
-
 POLITICS_GOAL_NOREWARD:0	"§TKein Effekt.§!"
-
 POLITICS_NO_GOAL_SELECTED_OWN:0	"Wählen Sie ein Ziel für Ihre Nation"
-
 POLITICS_SELECT_GOAL_DESC:0	"Ein §YNationales Ziel§! ist so etwas wie ein Versprechen an die Nation.\n\n Die Wahl eines solchen Ziels kostet dich in der Regel §YPolitische Macht§!, aber du bekommst sie in der Regel zurück und noch mehr Belohnung, wenn du nachweisen kannst, dass du es erreichen konntest.\n\n Hier findest du sowohl große historische Unternehmungen als auch bescheidenere Wege zur Verbesserung deiner Nation."
-
 POLITICS_POLITICAL_POWER_INCREASE:0	"Machtveränderung: $VALUE|2=+$ pro Tag.\n"
-
 POLITICS_GOAL_COST:0	"Kosten (£pol_power ): $VALUE|0$"
-
 POLITICS_GOAL_SUCCEEDED:0	"Ziel erreicht!"
-
 POLITICS_GOAL_FAILED:0	"Ziel verfehlt!"
-
 POLITICS_GOAL_NOTIFY_ALL:0	"Alle Länder werden benachrichtigt."
-
 POLITICS_GOAL_NOTIFY_FACTION:0	"Benachrichtigt deine Fraktion."
-
 POLITICS_WARGOAL_INSTANT:0	"Wird sofort nach der Vorbereitung zum Kriegsziel."
-
 POLITICS_WARGOAL_UNLOCK:0	"Entriegelt Kriegsziel $NAME|Y$"
-
 POLITICS_GRACE_PERIOD_END:0	"Vorbereiten bis: $DATE|Y$."
-
 POLITICS_SUCCESS_PROGRESS:0	"Erfolg des Ziels bei: $PROGRESS|Y%0$"
-
 MANAGE_OCCUPIED_TERRITORIES:2	"Besetzte Territorien"
-
 manage_occupied_territories_no_occupation:0	"§RSie besetzen im Moment keine fremde Region§!"
-
 MANAGE_EXILED_GOVERNMENTS:0	"Exilregierungen"
-
 SHOW_COLLABORATIONS:0	"Kollaborationen"
-
 POLITICAL_RESEARCH_BONUS_ENTRY:2	"$CATEGORY$: $FACTOR|=+0%$"
-
 IDEA_SUB_CATEGORY_LIMIT:0	"§YDürfen nur eine haben§!"
-
 political_idea_desc:0	"Ideen, die derzeit die politische Landschaft beherrschen."
-
 economic_idea_desc:0	"Ideen, um die Wirtschaft des Landes auf den Krieg vorzubereiten."
-
 espionage_idea_desc:0	"Ideen darüber, wie unser Land Spionage betreibt."
-
 political:0	"Politisch"
-
 economic:0	"Wirtschaftlich"
-
 espionage:0	"Spionage"
-
 STABILITY_WEEKLY_TOTAL_CHANGE:0	"\nWöchentliche Veränderung: $VAL$"
-
 OCCUPATION_POLICY:0	"Berufspolitik"
-
 RELEASE_NATION_DESC:0	"Willst du $COUNTRY|H$ in $LIST|H$ befreien?"
-
 RETURN_TERRITORY_DESC:0	"Wollen Sie $LIST|H$ an $COUNTRY|H$ zurückgeben?"
-
 manage_occupied_territories_empty:0	"§RSie haben keine besetzten Gebiete zu verwalten§!"
-
 manage_occupied_territories_desc:0	"§TSie können Besetzungsrichtlinien festlegen und Länder freigeben, die Kerne in Ihren besetzten Gebieten haben.§!"
-
 REMOVE_GOAL_TITLE:0	"Ziel entfernen"
-
 REPLACE_GOAL_TITLE:0	"Ersetze Ziel"
-
 CHANGE_IDEA:0	"§GKlick um $IDEA|H$ zu ändern§!"
-
 REMOVE_IDEA_POLITICAL_POWER:0	"§RDu hast nicht genug §HPolitische Macht§! um diese Idee zu entfernen.\nKosten zum Entfernen (£pol_power ): $VALUE|0$§!"
-
 POLITICS_GOAL_LEADS_TO:0	"§TFührt zu zukünftigen Zielen:§!"
-
 MANAGE_GOVERNMENT_DESC:0	"Gesetze ändern, Minister einstellen oder entlassen und Unternehmen mit der Forschung beauftragen. Die meisten Aktionen hier kosten §YPolitische Macht§!"
-
 POLITICS_TIMEDACTIVITY_PROGRESS:0	": $PROGRESS|1Y%$"
-
 POLITICS_TIMED_ACTIVITY_STATES:0	"$TYPE|H$ $STATES|H$ von $TARGET|H$"
-
 POLITICS_TIMED_ACTIVITY_PP_DAILY:0	"Täglicher Anstieg ( £pol_power ): $PP|H1$"
-
 POLITICS_TIMED_ACTIVITY_FINISHED:0	"§TErwartetes Ende: $DATE|H$§!"
-
 FOCUS_AT_WAR:0	"§T$PEACE|H0$ braucht Tage, um den Krieg zu beenden§!"
-
 IDEA_WINDOW_TITLE:0	"$GROUP$"
-
 IDEA_WINDOW_SWITCH:0	"Ersetze §Y$IDEA$?§!"
-
 POLITICS_NATIONAL_SPIRIT:0	"Nationaler Geist"
-
 POLITICS_NO_MORE_IDEAS_FOR_COUNTRY:0	"Dein Land hat keine andere $GROUP|H$"
-
 POLITICS_ONLY_IDEA_FOR_COUNTRY:0	"$IDEA|H$ ist deine einzige $GROUP|H$"
-
 POLITICS_STAGE_COUP_TITLE:0	"Stufe Coup"
-
 POLITICS_STAGE_COUP_STATE:0	"Ausbreitung der Umdrehung Wind von $STATE|H$."
-
 POLITICS_STAGE_COUP_INVALIDATE:1	"\n\n§HA-Putsch wird automatisch abgebrochen, wenn das Ziel in einen Bürgerkrieg gerät, zur angestrebten Ideologie wechselt oder sich der gleichen Fraktion anschließt.§!"
-
 STABILITY_EFFECT_HEADER:0	"§HGegenwärtig beeinflusst von:§!\n"
-
 RELEASE_NATION:1	"Nation freigeben"
-
 RELEASE_NATION_STATES:0	"§TWählt $COUNTRY|H$ in $LIST|H$§!"
-
 RETURN_TERRITORY_STATES:0	"§TÜbergibt $LIST|H$ an $COUNTRY|H$§!"
-
 POLITICS_PAUSED_NO_POLITICAL_POWER:0	"§RDiese Aktion ist derzeit wegen mangelnder politischer Macht ausgesetzt§!"
-
 PARTY_AND_IDEOLOGY_GROUP:0	"$PARTY|H$ ($GROUP|H$)"
-
 RELEASE_NATION_NOT_POSSIBLE_EMPTY:1	"§TLiberating $COUNTRY|H$ is not possible:§!\n\n"
-
 RETURN_TERRITORY_NOT_POSSIBLE_EMPTY:0	"§TRückgabe von Territorien an $COUNTRY|H$§! ist nicht möglich:\n\n"
-
 RETURN_STATES_NOT_POSSIBLE_NOT_CONTROLLED:0	"Die Staaten in Rot werden nicht von Ihnen kontrolliert."
-
 POLITICS_IDEA_STAT_TRADE:1	"£resources_to_market_icon£ $VALUE|H0%$"
-
 IDEA_COST_COMPACT_POLITICAL_POWER:0	"£pol_power  $VALUE|0$"
-
 IDEA_COST_POLITICAL_POWER:0	"Kosten (£pol_power ): $VALUE|-0$"
-
 IDEA_NOT_AVAILABLE_ICON:0	"£trigger_no $VALUE$"
-
 COMMAND_POWER_ADVISOR_COST:0	"\nKosten (£command_power ): $VALUE|-0$"
-
 COMMAND_POWER_CAP_ADD_ADVISOR:	"\nMax. Befehlsgewalterhöhung (£command_power ): $VALUE|+=0$"
 POLITICS_ADVISOR_PP_COST_SHORT:0	"£pol_power $VALUE|-0$"
 POLITICS_ADVISOR_CP_COST_SHORT:0	"£command_power $VALUE|-0$"
-
-
 IDEA_COST_COMPACT_AIR_XP:0	"£air_experience $VALUE|0$"
 TOPBAR_OFFICER_CORP:0	"Offizierskorps"
-
-
 IDEA_COST_COMPACT_NAVY_XP:0	"£navy_experience  $VALUE|0$"
-
-
 LIT_appease_opinion:0	"Appeasement"
 partitioned_poland_together:0	"Teilung Polens"
-
-
 returned_vilnius_opinion:0	"Rückgabe von Vilnius"
 refused_to_give_vilnius_opinion:0	"Ablehnung der Abtretung von Vilnius"
-
-
 refused_baltic_entente_opinion:0	"Verweigerte die Baltische Entente"
 fortified_memel:0	"Festung Memelland"
-
-
 accepted_catholics:0	"Akzeptierte die Katholiken"
 annex_liberia_opinion:0	"Annektierung von Liberia"
-
 ideology_icon_communism:	"YYYcommunism"
-
-
 ideology_icon_neutrality:	"YYYneutrality"
 ideology_icon_socialism:	"YYYsocialism"
-
-
 ideology_icon_agrarianism:	"YYYagrarianism"
 ideology_icon_anti_communist:	"YYYanti_communist"
-
-
 ideology_icon_communism_alt:	"YYYcommunism_alt"
-
-
 ideology_icon_neutrality_alt:	"YYYneutrality_alt"
 ideology_icon_socialism_alt:	"YYYsocialism_alt"
-
-
 ideology_icon_agrarianism_alt:	"YYYAgrarianism_alt"
 ideology_icon_anti_communist_alt:	"YYYanti_communist_alt "
-
-
 ideology_advisor_list:	"[GetAdvisorConservatism][GetAdvisorLiberalism][GetAdvisorSocialism][GetAdvisorAgrarianism][GetAdvisorFascism][GetAdvisorCommunism][GetAdvisorMonarchism][GetAdvisorNeutrality][GetAdvisorApolitical]"
-
 ideology_advisor_tooltip_delayed:	"Berater mit einer ideologischen Ausrichtung tragen §G+0,01§! zu ihrer täglichen politischen Parteibewegung bei."
-
 ideology_icon_communism_num:	" [?t] £Kommunismus "
 ideology_icon_fascism_num:	" [?t] £Faschismus "
-
-
-
 ideology_icon_liberalism_num:	" [?t] £Liberalismus "
 ideology_icon_conservatism_num:	" [?t] £Konservatismus "
 ideology_icon_agrarianism_num:	" [?t] £agrarianism "
-
-
 IDEOLOGY_CONSERVATISM_ADVISOR:	"Ideologie: §YKonservativ§!, die Folgendes gewährt:\n$conservatism_drift$: §G+0,01§!"
-
 IDEOLOGY_SOCIALISM_ADVISOR:	"Ideologie: §YSozialistisch§!, die Folgendes gewährt:\n$socialism_drift$: §G+0,01§!"
-
 IDEOLOGY_NEUTRALITY_ADVISOR:	"Ideologie: §YAutoritär§!, die Folgendes gewährt:\n$neutrality_drift$: §G+0,01§!"
-
 IDEOLOGY_COMMUNISM_ADVISOR:	"Ideologie: §YKommunistisch§!, die gewährt:\n$communism_drift$: §G+0,01§!"
-
 IDEOLOGY_ANTI_FASCIST_ADVISOR:	"Ideologie: §YAnti Faschistisch§!, die gewährt:\n$fascism_drift$: §R-0.01§!"
-
 POLITICS_IDEA_ONLY_DISABLED:	"£trigger_no"
 POLITICS_IDEA_NOT_AVAILABLE_ICON:0	"£trigger_no $VALUE$"
 POLITICS_IDEA_NO_REMOVE:0	"§RKann nicht entfernt werden.§!\n"

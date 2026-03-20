@@ -817,7 +817,6 @@ trm_light_tank_equipment_usa_m2_1:0	"M2 Leichter Panzer"
 trm_light_tank_equipment_usa_m2_1_short:0	"M2 Leicht"
 trm_light_tank_chassis_usa_m2_2:0	"M2A4 Fahrgestell"
 trm_light_tank_equipment_usa_m2_2:0	"M2A4 Leichter Panzer"
-
 trm_light_tank_chassis_usa_m3_1:0	"M3 Fahrgestell"
 trm_light_tank_equipment_usa_m3_1:0	"M3 Leichter Panzer"
 trm_light_tank_equipment_usa_m3_1_short:0	"M3 Stuart"
@@ -826,163 +825,125 @@ trm_light_tank_equipment_usa_m3_2:0	"M3A3 Leichter Panzer"
 trm_light_tank_equipment_usa_m3_2_short:0	"M3A3 Stuart"
 trm_light_tank_chassis_usa_m5_1:0	"M5 Fahrgestell"
 trm_light_tank_equipment_usa_m5_1:0	"M5 Leichter Panzer"
-
 trm_light_tank_cs_chassis_usa_m5_1:0	"M5 Fahrgestell (Kav.Pz.)"
 trm_light_tank_cs_equipment_usa_m5_1:0	"M8 Haubitzen-Motorwagen"
-
 trm_light_tank_destroyer_chassis_usa_m5_1:0	"M5 Fahrgestell (JPz)"
 trm_light_tank_destroyer_equipment_usa_m5_1:0	"M8A1 Geschütz-Motorwagen"
-
 trm_light_tank_aa_chassis_usa_m3_2:0	"M3A3 Fahrgestell (FlaK)"
 trm_light_tank_aa_equipment_usa_m3_2:0	"T65B Mehrfachgeschütz-Motorwagen"
 trm_light_tank_aa_equipment_usa_m3_2_short:0	"T65B MGMC"
 trm_light_tank_aa_chassis_usa_m5_1:0	"M5 Fahrgestell (FlaK)"
 trm_light_tank_aa_equipment_usa_m5_1:0	"T65 Mehrfachgeschütz-Motorwagen"
-
 trm_light_tank_amphibious_chassis_usa_m3_2:0	"M3A3 Fahrgestell"
 trm_light_tank_amphibious_equipment_usa_m3_2:0	"M3A3 Leichter Panzer (Deep Wading)"
 trm_light_tank_amphibious_equipment_usa_m3_2_short:0	"M3A3 Stuart (DW)"
 trm_light_tank_amphibious_chassis_usa_m5_1:0	"M5 Fahrgestell"
 trm_light_tank_amphibious_equipment_usa_m5_1:0	"M5 Leichter Panzer (tiefes Waten)"
-
 trm_light_tank_chassis_usa_m24_1:0	"M24 Fahrgestell"
 trm_light_tank_equipment_usa_m24_1:0	"M24 Leichter Panzer"
-
 trm_light_tank_artillery_chassis_usa_m24_1:0	"M24 Fahrgestell (Sfl.)"
 trm_light_tank_artillery_equipment_usa_m24_1:0	"M37 Haubitzen-Motorwagen"
-
 trm_light_tank_aa_chassis_usa_m24_1:0	"M24 Fahrgestell (FlaK)"
 trm_light_tank_aa_equipment_usa_m24_1:0	"M19 Mehrfachgeschütz-Motorwagen"
-
 trm_light_tank_amphibious_chassis_usa_m24_1:0	"M24 Fahrgestell"
 trm_light_tank_amphibious_equipment_usa_m24_1:0	"M24 Leichter Panzer (Duplexantrieb)"
-
 trm_para_tank_chassis_usa_m22_1:0	"M22 Fahrgestell"
 trm_para_tank_equipment_usa_m22_1:0	"M22 Leichter Panzer für Luftlandung"
-
 trm_amph_tank_chassis_usa_lvt_1:0	"LVT-2 Fahrgestell"
 trm_amph_tank_equipment_usa_lvt_1:0	"LVT(A)-1 Amphibienfahrzeug"
-
 trm_medium_tank_chassis_usa_m2_1:0	"M2 Fahrgestell"
 trm_medium_tank_equipment_usa_m2_1:0	"M2 Mittlerer Panzer"
-
 trm_medium_tank_chassis_usa_m3_1:0	"M3 Fahrgestell"
 trm_medium_tank_equipment_usa_m3_1:0	"M3 Mittlerer Panzer"
-
 trm_medium_tank_artillery_chassis_usa_m3_1:0	"M3 Fahrgestell (Sfl.)"
 trm_medium_tank_artillery_equipment_usa_m3_1:0	"M12 Geschützmotorwagen"
-
 trm_medium_tank_chassis_usa_ram_1:0	"M3/Ram Fahrgestell"
 trm_medium_tank_equipment_usa_ram_1:0	"Ram Mk.II Kreuzer"
 trm_medium_tank_equipment_usa_ram_1_short:0	"Ram II"
 USA_trm_medium_tank_chassis_usa_ram_1:0	"M3/Ram Fahrgestell"
 USA_trm_medium_tank_equipment_usa_ram_1:0	"M4A5 Mittlerer Panzer"
-
 trm_medium_tank_artillery_chassis_usa_ram_1:0	"M3/Ram Fahrgestell (Sfl.)"
 trm_medium_tank_artillery_equipment_usa_ram_1:0	"Sexton Mk.I"
 trm_medium_tank_artillery_equipment_usa_ram_1_short:0	"Sexton I"
 USA_trm_medium_tank_artillery_chassis_usa_ram_1:0	"M3/Ram Fahrgestell (Sfl.)"
 USA_trm_medium_tank_artillery_equipment_usa_ram_1:0	"Sexton Haubitzen-Motorwagen"
-
 trm_medium_tank_chassis_usa_m4_1:0	"M4 Fahrgestell"
 trm_medium_tank_equipment_usa_m4_1:0	"M4 Mittlerer Panzer"
 trm_medium_tank_equipment_usa_m4_1_short:0	"M4 Sherman"
 trm_medium_tank_chassis_usa_m4_2:0	"M4A3 Fahrgestell"
 trm_medium_tank_equipment_usa_m4_2:0	"M4A3 Mittlerer Panzer"
-
 trm_medium_tank_cs_chassis_usa_m4_1:0	"M4 Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_usa_m4_1:0	"M4(105) Mittlerer Panzer"
 trm_medium_tank_cs_equipment_usa_m4_1_short:0	"M4(105) Sherman"
 trm_medium_tank_cs_chassis_usa_m4_2:0	"M4A3 Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_usa_m4_2:0	"M4A3(105) Mittlerer Panzer"
-
 trm_medium_tank_destroyer_chassis_usa_m4_1:0	"M4 Fahrgestell (JPz)"
 trm_medium_tank_destroyer_equipment_usa_m4_1:0	"M10 Kanonenmotorwagen"
 trm_medium_tank_destroyer_equipment_usa_m4_1_short:0	"M10 Vielfraß (Wolverine)"
 trm_medium_tank_destroyer_chassis_usa_m4_2:0	"M4A3 Fahrgestell (JPz)"
 trm_medium_tank_destroyer_equipment_usa_m4_2:0	"M36 Geschütz-Motorwagen"
-
 trm_medium_tank_artillery_chassis_usa_m4_1:0	"M4 Fahrgestell (Sfl.)"
 trm_medium_tank_artillery_equipment_usa_m4_1:0	"M7 Haubitzen-Motorwagen"
 trm_medium_tank_artillery_equipment_usa_m4_1_short:0	"M7B Priester"
 trm_medium_tank_artillery_chassis_usa_m4_2:0	"M4A3 Fahrgestell (Sfl.)"
 trm_medium_tank_artillery_equipment_usa_m4_2:0	"M40 Geschütz-Motorwagen"
-
 trm_medium_tank_amphibious_chassis_usa_m4_1:0	"M4 Fahrgestell"
 trm_medium_tank_amphibious_equipment_usa_m4_1:0	"M4 Mittlerer Panzer (Duplexantrieb)"
 trm_medium_tank_amphibious_equipment_usa_m4_1_short:0	"M4 Sherman (DD)"
 trm_medium_tank_amphibious_chassis_usa_m4_2:0	"M4A3 Fahrgestell"
 trm_medium_tank_amphibious_equipment_usa_m4_2:0	"M4A3 Mittlerer Panzer (Duplex-Antrieb)"
-
 trm_medium_tank_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell"
 trm_medium_tank_equipment_usa_grizzly_1:0	"Grizzly Mk.I Kreuzer"
 trm_medium_tank_equipment_usa_grizzly_1_short:0	"Grizzly I"
 USA_trm_medium_tank_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell"
 USA_trm_medium_tank_equipment_usa_grizzly_1:0	"M4 Grizzly Mittlerer Panzer"
-
 trm_medium_tank_cs_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_usa_grizzly_1:0	"Grizzly Mk.I CS Kreuzer"
 trm_medium_tank_cs_equipment_usa_grizzly_1_short:0	"Grizzly I CS"
 USA_trm_medium_tank_cs_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell (Kav.Pz.)"
 USA_trm_medium_tank_cs_equipment_usa_grizzly_1:0	"M4(105) Grizzly Mittlerer Panzer"
-
 trm_medium_tank_destroyer_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell (JPz)"
 trm_medium_tank_destroyer_equipment_usa_grizzly_1:0	"Achilles"
 trm_medium_tank_destroyer_equipment_usa_grizzly_1_short:0	"Achilles"
 USA_trm_medium_tank_destroyer_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell (JPz)"
 USA_trm_medium_tank_destroyer_equipment_usa_grizzly_1:0	"Achilles Kanonenmotorwagen"
-
 trm_medium_tank_artillery_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell (Sfl.)"
 trm_medium_tank_artillery_equipment_usa_grizzly_1:0	"Sexton Mk.II"
 trm_medium_tank_artillery_equipment_usa_grizzly_1_short:0	"Sexton II"
 USA_trm_medium_tank_artillery_chassis_usa_grizzly_1:0	"M4/Grizzly-Fahrgestell (Sfl.)"
 USA_trm_medium_tank_artillery_equipment_usa_grizzly_1:0	"Sexton Haubitzen-Motorwagen"
-
 trm_medium_tank_aa_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell (FlaK)"
 trm_medium_tank_aa_equipment_usa_grizzly_1:0	"Grizzly Mk.I Kreuzer"
 trm_medium_tank_aa_equipment_usa_grizzly_1_short:0	"Grizzly I"
 USA_trm_medium_tank_aa_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell (FlaK)"
 USA_trm_medium_tank_aa_equipment_usa_grizzly_1:0	"M4 Grizzly Mehrfachgeschütz-Motorwagen"
-
 trm_medium_tank_amphibious_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell"
 trm_medium_tank_amphibious_equipment_usa_grizzly_1:0	"Grizzly Mk.I Kreuzer (Duplexantrieb)"
 trm_medium_tank_amphibious_equipment_usa_grizzly_1_short:0	"Grizzly I (DD)"
 USA_trm_medium_tank_amphibious_chassis_usa_grizzly_1:0	"M4/Grizzly Fahrgestell"
 USA_trm_medium_tank_amphibious_equipment_usa_grizzly_1:0	"M4 Mittlerer Panzer (Duplex-Antrieb)"
-
 trm_medium_tank_chassis_usa_t23_1:0	"T23/25 Fahrgestell"
 trm_medium_tank_equipment_usa_t23_1:0	"T23 Mittlerer Panzer"
-
 trm_medium_tank_cs_chassis_usa_t23_1:0	"T23/25 Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_usa_t23_1:0	"T23(105) Mittlerer Panzer"
-
 trm_medium_advanced_tank_chassis_usa_m26_1:0	"M26 Fahrgestell"
 trm_medium_advanced_tank_equipment_usa_m26_1:0	"M26 Mittlerer Panzer"
-
 trm_medium_advanced_tank_destroyer_chassis_usa_m26_1:0	"M26 Fahrgestell (JPz)"
 trm_medium_advanced_tank_destroyer_equipment_usa_m26_1:0	"M26E4 Mittlerer Panzer"
-
 trm_medium_advanced_tank_cs_chassis_usa_m26_1:0	"M26 Fahrgestell (Kav.Pz.)"
 trm_medium_advanced_tank_cs_equipment_usa_m26_1:0	"M45 Mittlerer Panzer"
-
 trm_infantry_tank_chassis_usa_t14_1:0	"T14 Fahrgestell"
 trm_infantry_tank_equipment_usa_t14_1:0	"T14 Schwerer Panzer"
-
 trm_heavy_tank_chassis_usa_m6_1:0	"M6 Fahrgestell"
 trm_heavy_tank_equipment_usa_m6_1:0	"M6 Schwerer Panzer"
-
 trm_heavy_tank_chassis_usa_t29_1:0	"T29/30 Fahrgestell"
 trm_heavy_tank_equipment_usa_t29_1:0	"T29 Schwerer Panzer"
-
 trm_heavy_tank_chassis_usa_t32_1:0	"T32 Fahrgestell"
 trm_heavy_tank_equipment_usa_t32_1:0	"T32 Schwerer Panzer"
-
 trm_superheavy_tank_chassis_usa_t28_1:0	"T28 Fahrgestell"
 trm_superheavy_tank_equipment_usa_t28_1:0	"T28 Superschwerer Panzer"
-
 trm_tankette_tank_chassis_eng_cardenloyd_1:0	"Fahrgestell Tankette Mk.VI"
 trm_tankette_tank_equipment_eng_cardenloyd_1:0	"Tankette Mk.VI"
-
 trm_light_tank_chassis_eng_vickers_light_1:0	"Leichte Mk.I/II/III Fahrgestelle"
 trm_light_tank_equipment_eng_vickers_light_1:0	"Leichter Vickers-Panzer Mk.III"
 trm_light_tank_equipment_eng_vickers_light_1_short:0	"Leichter Mk.III"
@@ -994,19 +955,15 @@ trm_light_tank_equipment_eng_vickers_light_3:0	"Vickers Leichter Panzer Mk.V"
 trm_light_tank_equipment_eng_vickers_light_3_short:0	"Leichter Mk.V"
 trm_light_tank_chassis_eng_vickers_light_4:0	"Leichtes Mk.VI Fahrgestell"
 trm_light_tank_equipment_eng_vickers_light_4:0	"Vickers Leichter Panzer Mk.VI"
-
 trm_light_tank_aa_chassis_eng_vickers_light_4:0	"Leichtes Mk.VI Fahrgestell (FlaK)"
 trm_light_tank_aa_equipment_eng_vickers_light_4:0	"Vickers Leichter Panzer AA Mk.I"
-
 trm_light_tank_chassis_eng_vickers_e_1:0	"Vickers Mk.E Fahrgestell"
 trm_light_tank_equipment_eng_vickers_e_1:0	"Vickers Panzer Mk.E"
-
 trm_para_tank_chassis_eng_tetrarch_1:0	"Leichtes Mk.VII (A17) Fahrgestell"
 trm_para_tank_equipment_eng_tetrarch_1:0	"Leichter Mk.VII Tetrarch"
 trm_para_tank_equipment_eng_tetrarch_1_short:0	"Tetrarch"
 trm_para_tank_chassis_eng_mk8_1:0	"Leichtes Mk.VIII (A25) Fahrgestell"
 trm_para_tank_equipment_eng_mk8_1:0	"Leichte Mk.VIII Harry Hopkins"
-
 trm_cavalry_tank_chassis_eng_mk1_1:0	"Kreuzer Mk.I (A9) Fahrgestell"
 trm_cavalry_tank_equipment_eng_mk1_1:0	"Kreuzer Mk.I"
 trm_cavalry_tank_equipment_eng_mk1_1_short:0	"Kreuzer Mk.I"
@@ -1024,7 +981,6 @@ trm_cavalry_tank_equipment_eng_mk5_1:0	"Kreuzer Mk.V Covenanter"
 trm_cavalry_tank_equipment_eng_mk5_1_short:0	"Covenanter"
 trm_cavalry_tank_chassis_eng_mk6_1:0	"Kreuzer Mk.VI (A15) Fahrgestell"
 trm_cavalry_tank_equipment_eng_mk6_1:0	"Kreuzer Mk.VI Crusader"
-
 trm_cavalry_tank_cs_chassis_eng_mk1_1:0	"Kreuzer Mk.I (A9) Fahrgestell (Kav.Pz.)"
 trm_cavalry_tank_cs_equipment_eng_mk1_1:0	"Kreuzer Mk.I CS"
 trm_cavalry_tank_cs_equipment_eng_mk1_1_short:0	"Kreuzer Mk.I CS"
@@ -1042,10 +998,8 @@ trm_cavalry_tank_cs_equipment_eng_mk5_1:0	"Kreuzer Mk.V Covenanter CS"
 trm_cavalry_tank_cs_equipment_eng_mk5_1_short:0	"Covenanter CS"
 trm_cavalry_tank_cs_chassis_eng_mk6_1:0	"Kreuzer Mk.VI (A15) Fahrgestell (Kav.Pz.)"
 trm_cavalry_tank_cs_equipment_eng_mk6_1:0	"Kreuzer Mk.VI Crusader CS"
-
 trm_cavalry_tank_aa_chassis_eng_mk6_1:0	"Kreuzer Mk.VI (A15) Fahrgestell (FlaK)"
 trm_cavalry_tank_aa_equipment_eng_mk6_1:0	"Kreuzer Mk.VI Crusader AA"
-
 trm_medium_tank_chassis_ast_ac1_1:0	"Kreuzer AC1 Fahrgestell"
 trm_medium_tank_equipment_ast_ac1_1:0	"Kreuzer AC1 Sentinel"
 trm_medium_tank_equipment_ast_ac1_1_short:0	"AC1 Sentinel"
@@ -1054,7 +1008,6 @@ trm_medium_tank_equipment_ast_ac3_1:0	"Kreuzer AC3 Thunderbolt"
 trm_medium_tank_equipment_ast_ac3_1_short:0	"AC3 Thunderbolt"
 trm_medium_tank_chassis_ast_ac4_1:0	"Kreuzer AC4 Fahrgestell"
 trm_medium_tank_equipment_ast_ac4_1:0	"Kreuzer AC4 Woomera"
-
 trm_medium_tank_chassis_eng_mk7_1:0	"Cruiser Mk.VII (A24) Fahrgestell"
 trm_medium_tank_equipment_eng_mk7_1:0	"Kreuzer Mk.VII Kavalier"
 trm_medium_tank_equipment_eng_mk7_1_short:0	"Kavalier"
@@ -1066,7 +1019,6 @@ trm_medium_tank_equipment_eng_mk8_2:0	"Kreuzer Mk.VIII Cromwell"
 trm_medium_tank_equipment_eng_mk8_2_short:0	"Cromwell"
 trm_medium_tank_chassis_eng_mk8_3:0	"Kreuzer Mk.VIII (A30) Fahrgestell"
 trm_medium_tank_equipment_eng_mk8_3:0	"Kreuzer Mk.VII Challenger"
-
 trm_medium_tank_cs_chassis_eng_mk7_1:0	"Kreuzer Mk.VII (A24) Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_eng_mk7_1:0	"Kreuzer Mk.VII Cavalier CS"
 trm_medium_tank_cs_equipment_eng_mk7_1_short:0	"Kavalier CS"
@@ -1075,49 +1027,37 @@ trm_medium_tank_cs_equipment_eng_mk8_1:0	"Kreuzer Mk.VIII Centaur CS"
 trm_medium_tank_cs_equipment_eng_mk8_1_short:0	"Zentaur CS"
 trm_medium_tank_cs_chassis_eng_mk8_2:0	"Kreuzer Mk.VIII (A27M) Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_eng_mk8_2:0	"Kreuzer Mk.VIII Cromwell CS"
-
 trm_medium_tank_destroyer_chassis_eng_mk8_3:0	"Kreuzer Mk.VIII (A30) Fahrgestell (JPz)"
 trm_medium_tank_destroyer_equipment_eng_mk8_3:0	"Avenger"
-
 trm_medium_tank_aa_chassis_eng_mk8_1:0	"Kreuzer Mk.VIII (A27L) Fahrgestell (FlaK)"
 trm_medium_tank_aa_equipment_eng_mk8_1:0	"Kreuzer Mk.VIII Centaur AA"
 trm_medium_tank_aa_equipment_eng_mk8_1_short:0	"Zentaur AA"
 trm_medium_tank_aa_chassis_eng_mk8_2:0	"Kreuzer Mk.VIII (A27M) Fahrgestell (FlaK)"
 trm_medium_tank_aa_equipment_eng_mk8_2:0	"Kreuzer Mk.VIII Cromwell AA"
-
 trm_medium_tank_amphibious_chassis_eng_mk8_1:0	"Kreuzer Mk.VIII (A27L) Fahrgestell"
 trm_medium_tank_amphibious_equipment_eng_mk8_1:0	"Kreuzer Mk.VIII Centaur (Deep Wading)"
 trm_medium_tank_amphibious_equipment_eng_mk8_1_short:0	"Zentaur (DW)"
 trm_medium_tank_amphibious_chassis_eng_mk8_2:0	"Kreuzer Mk.VIII (A27M) Fahrgestell"
 trm_medium_tank_amphibious_equipment_eng_mk8_2:0	"Kreuzer Mk.VIII Cromwell (Tiefseetauchgang)"
-
 trm_medium_tank_chassis_eng_comet_1:0	"Comet (A34) Fahrgestell"
 trm_medium_tank_equipment_eng_comet_1:0	"Kreuzer Comet Mk.I"
-
 trm_medium_tank_cs_chassis_eng_comet_1:0	"Comet (A34) Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_eng_comet_1:0	"Comet Mk.I Kreuzer CS"
-
 trm_medium_advanced_tank_chassis_eng_centurion_1:0	"Centurion (A41) Fahrgestell"
 trm_medium_advanced_tank_equipment_eng_centurion_1:0	"Centurion Mk.I Kreuzer"
-
 trm_medium_advanced_cs_tank_chassis_eng_centurion_1:0	"Centurion (A41) Fahrgestell (Kav.Pz.)"
 trm_medium_advanced_cs_tank_equipment_eng_centurion_1:0	"Centurion Mk.IV Kreuzer"
-
 trm_infantry_tank_chassis_eng_vickers_medium_1:0	"Mittlere Mk.I/II Fahrgestelle"
 trm_infantry_tank_equipment_eng_vickers_medium_1:0	"Mittlere Mk.II"
-
 trm_infantry_tank_cs_chassis_eng_vickers_medium_1:0	"Mittleres Mk.I/II-Fahrgestell (Kav.Pz.)"
 trm_infantry_tank_cs_equipment_eng_vickers_medium_1:0	"Mittleres Mk.II CS"
-
 trm_infantry_tank_chassis_eng_matilda1_1:0	"Matilda Mk.I (A11) Fahrgestell"
 trm_infantry_tank_equipment_eng_matilda1_1:0	"Matilda Mk.I"
 trm_infantry_tank_equipment_eng_matilda1_1_short:0	"Matilda I"
 trm_infantry_tank_chassis_eng_matilda2_1:0	"Matilda Mk.II (A12) Fahrgestell"
 trm_infantry_tank_equipment_eng_matilda2_1:0	"Matilda Mk.II"
-
 trm_infantry_tank_cs_chassis_eng_matilda2_1:0	"Matilda Mk.II (A12) Fahrgestell (Kav.Pz.)"
 trm_infantry_tank_cs_equipment_eng_matilda2_1:0	"Matilda Mk.II CS"
-
 trm_infantry_tank_chassis_eng_valentine_1:0	"Valentine Mk.I (A15) Fahrgestell"
 trm_infantry_tank_equipment_eng_valentine_1:0	"Valentine Mk.I"
 trm_infantry_tank_equipment_eng_valentine_1_short:0	"Valentine I"
@@ -1126,10 +1066,8 @@ trm_infantry_tank_equipment_eng_valentine_2:0	"Valentin Mk.III"
 trm_infantry_tank_equipment_eng_valentine_2_short:0	"Valentin III"
 trm_infantry_tank_chassis_eng_valentine_3:0	"Fahrgestell Valentine Mk.IX (A15)"
 trm_infantry_tank_equipment_eng_valentine_3:0	"Valentin Mk.IX"
-
 trm_infantry_tank_cs_chassis_eng_valentine_2:0	"Valentine Mk.III (A15) Fahrgestell (Kav.Pz.)"
 trm_infantry_tank_cs_equipment_eng_valentine_2:0	"Valentin Mk.III CS"
-
 trm_infantry_tank_artillery_chassis_eng_valentine_1:0	"Valentine Mk.I (A15) Fahrgestell (Sfl.)"
 trm_infantry_tank_artillery_equipment_eng_valentine_1:0	"Bishop Mk.I"
 trm_infantry_tank_artillery_equipment_eng_valentine_1_short:0	"Bishop I"
@@ -1138,13 +1076,11 @@ trm_infantry_tank_artillery_equipment_eng_valentine_2:0	"Bischof Mk.II"
 trm_infantry_tank_artillery_equipment_eng_valentine_2_short:0	"Läufer II"
 trm_infantry_tank_artillery_chassis_eng_valentine_3:0	"Valentine Mk.IX (A15) Fahrgestell (Sfl.)"
 trm_infantry_tank_artillery_equipment_eng_valentine_3:0	"Bischof Mk.III"
-
 trm_infantry_tank_destroyer_chassis_eng_valentine_2:0	"Valentine Mk.III (A15) Fahrgestell (JPz)"
 trm_infantry_tank_destroyer_equipment_eng_valentine_2:0	"Bogenschütze Mk.I"
 trm_infantry_tank_destroyer_equipment_eng_valentine_2_short:0	"Schütze I"
 trm_infantry_tank_destroyer_chassis_eng_valentine_3:0	"Valentine Mk.IX (A15) Fahrgestell (JPz)"
 trm_infantry_tank_destroyer_equipment_eng_valentine_3:0	"Bogenschütze Mk.II"
-
 trm_infantry_tank_amphibious_chassis_eng_valentine_1:0	"Fahrgestell Valentine Mk.I (A15)"
 trm_infantry_tank_amphibious_equipment_eng_valentine_1:0	"Valentine Mk.I (Duplex-Antrieb)"
 trm_infantry_tank_amphibious_equipment_eng_valentine_1_short:0	"Valentine I (DD)"
@@ -1153,10 +1089,8 @@ trm_infantry_tank_amphibious_equipment_eng_valentine_2:0	"Valentine Mk.III (Dupl
 trm_infantry_tank_amphibious_equipment_eng_valentine_2_short:0	"Valentine III (DD)"
 trm_infantry_tank_amphibious_chassis_eng_valentine_3:0	"Valentine Mk.IX (A15) Fahrgestell"
 trm_infantry_tank_amphibious_equipment_eng_valentine_3:0	"Valentine Mk.IX (Duplex-Antrieb)"
-
 trm_heavy_tank_chassis_eng_independent_1:0	"Unabhängiges Fahrgestell (A1E1)"
 trm_heavy_tank_equipment_eng_independent_1:0	"Unabhängig"
-
 trm_heavy_tank_chassis_eng_churchill_1:0	"Churchill Mk.I (A22) Fahrgestell"
 trm_heavy_tank_equipment_eng_churchill_1:0	"Churchill Mk.I"
 trm_heavy_tank_equipment_eng_churchill_1_short:0	"Churchill I"
@@ -1171,7 +1105,6 @@ trm_heavy_tank_equipment_eng_churchill_4:0	"Churchill Schwarzer Prinz"
 trm_heavy_tank_equipment_eng_churchill_4_short:0	"Churchill BP"
 trm_heavy_tank_chassis_eng_excelsior_1:0	"Excelsior (A33) Fahrgestell"
 trm_heavy_tank_equipment_eng_excelsior_1:0	"Excelsior"
-
 trm_heavy_tank_cs_chassis_eng_churchill_1:0	"Churchill Mk.I (A22) Fahrgestell (Kav.Pz.)"
 trm_heavy_tank_cs_equipment_eng_churchill_1:0	"Churchill Mk.I CS"
 trm_heavy_tank_cs_equipment_eng_churchill_1_short:0	"Churchill I CS"
@@ -1183,7 +1116,6 @@ trm_heavy_tank_cs_equipment_eng_churchill_3:0	"Churchill Mk.VII CS"
 trm_heavy_tank_cs_equipment_eng_churchill_3_short:0	"Churchill VII CS"
 trm_heavy_tank_cs_chassis_eng_excelsior_1:0	"Excelsior (A33) Fahrgestell (Kav.Pz.)"
 trm_heavy_tank_cs_equipment_eng_excelsior_1:0	"Excelsior CS"
-
 trm_heavy_tank_destroyer_chassis_eng_churchill_1:0	"Churchill Mk.I (A22) Fahrgestell (JPz)"
 trm_heavy_tank_destroyer_equipment_eng_churchill_1:0	"Churchill Geschützträger Mk.I"
 trm_heavy_tank_destroyer_equipment_eng_churchill_1_short:0	"Churchill GC I"
@@ -1192,7 +1124,6 @@ trm_heavy_tank_destroyer_equipment_eng_churchill_2:0	"Churchill Geschützträger
 trm_heavy_tank_destroyer_equipment_eng_churchill_2_short:0	"Churchill GC III"
 trm_heavy_tank_destroyer_chassis_eng_churchill_3:0	"Churchill Mk.VII (A22) Fahrgestell (JPz)"
 trm_heavy_tank_destroyer_equipment_eng_churchill_3:0	"Churchill Waffenträger Mk.VII"
-
 trm_heavy_tank_assault_gun_chassis_eng_churchill_1:0	"Churchill Mk.I (A22) Fahrgestell (Stu.Pz.)"
 trm_heavy_tank_assault_gun_equipment_eng_churchill_1:0	"Churchill Waffenträger Mk.I"
 trm_heavy_tank_assault_gun_equipment_eng_churchill_1_short:0	"Churchill GC I"
@@ -1201,7 +1132,6 @@ trm_heavy_tank_assault_gun_equipment_eng_churchill_2:0	"Churchill Waffenträger 
 trm_heavy_tank_assault_gun_equipment_eng_churchill_2_short:0	"Churchill GC III"
 trm_heavy_tank_assault_gun_chassis_eng_churchill_3:0	"Churchill Mk.VII (A22) Fahrgestell (Stu.Pz.)"
 trm_heavy_tank_assault_gun_equipment_eng_churchill_3:0	"Churchill Waffenträger Mk.VII"
-
 trm_heavy_tank_amphibious_chassis_eng_churchill_1:0	"Churchill Mk.I (A22) Fahrgestell"
 trm_heavy_tank_amphibious_equipment_eng_churchill_1:0	"Churchill Mk.I (Tiefes Waten)"
 trm_heavy_tank_amphibious_equipment_eng_churchill_1_short:0	"Churchill I (DW)"
@@ -1213,325 +1143,149 @@ trm_heavy_tank_amphibious_equipment_eng_churchill_3:0	"Churchill Mk.VII (Tiefes 
 trm_heavy_tank_amphibious_equipment_eng_churchill_3_short:0	"Churchill VII (DW)"
 trm_heavy_tank_amphibious_chassis_eng_churchill_4:0	"Churchill Black Prince (A43) Fahrgestell"
 trm_heavy_tank_amphibious_equipment_eng_churchill_4:0	"Churchill Black Prince (Tiefes Waten)"
-
 trm_superheavy_tank_chassis_eng_tortoise_1:0	"Schildkröte (A39) Fahrgestell"
 trm_superheavy_tank_equipment_eng_tortoise_1:0	"Schildkröte"
-
-
-
-
-
 trm_amph_tank_equipment_eng_vickers_l1e3_1:0	"Vickers Amphibienfahrzeug L1E3"
 trm_amph_tank_equipment_eng_vickers_l1e3_1_short:0	"Vickers L1E3"
 trm_tankette_tank_chassis_jap_type92_1:0	"Typ 92 Fahrgestell"
 trm_tankette_tank_equipment_jap_type92_1:0	"Typ 92 Tankette"
 trm_tankette_tank_equipment_jap_type92_1_short:0	"Typ 92 Tankette"
-
-
-
-
-
-
 trm_light_tank_chassis_jap_type95_1:0	"Typ 95 Fahrgestell"
 trm_light_tank_equipment_jap_type95_1:0	"Typ 95 Leichter Panzer"
 trm_light_tank_equipment_jap_type95_1_short:0	"Typ 95 Ha-Go"
 trm_light_tank_chassis_jap_type98_1:0	"Typ 98 Fahrgestell"
 trm_light_tank_equipment_jap_type98_1:0	"Typ 98 Leichter Panzer"
-
-
-
-
-
-
 trm_light_tank_equipment_jap_type5_1_short:0	"Typ 5 Ke-Ho"
 trm_light_tank_cs_chassis_jap_type95_1:0	"Typ 95 Fahrgestell (Kav.Pz.)"
 trm_light_tank_cs_equipment_jap_type95_1:0	"Typ 4 Leichter Unterstützungspanzer"
 trm_light_tank_cs_equipment_jap_type95_1_short:0	"Typ 4 Ke-Nu"
-
-
-
-
-
 trm_light_tank_assault_gun_equipment_jap_type95_1_short:0	"Typ 4 Ho-To"
 trm_light_tank_aa_chassis_jap_type98_1:0	"Typ 98 Fahrgestell (FlaK)"
-
 trm_light_tank_aa_equipment_jap_type98_1_short:0	"Typ 98 Ta-Se"
-
-
-
 trm_medium_tank_chassis_jap_type89_2:0	"Typ 89B Fahrgestell"
-
-
 trm_medium_tank_chassis_jap_type97_1:0	"Typ 97 Fahrgestell"
 trm_medium_tank_equipment_jap_type97_1:0	"Typ 97 Mittlerer Panzer"
 trm_medium_tank_equipment_jap_type97_1_short:0	"Typ 97 Chi-Ha"
-
 trm_medium_tank_equipment_jap_type91_1:0	"Typ 1 Mittlerer Panzer"
 trm_medium_tank_equipment_jap_type1_1_short:0	"Typ 1 Chi-He"
-
-
-
 trm_medium_tank_chassis_jap_type4_1:0	"Typ 4 Fahrgestell"
-
-
 trm_medium_tank_cs_chassis_jap_type89_1:0	"Typ 89A Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_jap_type89_1:0	"Typ 89A Mittlerer Panzer"
-
 trm_medium_tank_cs_chassis_jap_type89_2:0	"Typ 89B Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_jap_type89_2:0	"Typ 89B Mittlerer Panzer"
-
-
-
 trm_medium_tank_cs_equipment_jap_type97_1_short:0	"Typ 97 Chi-Ha CS"
-
-
 trm_medium_tank_cs_equipment_jap_type1_1_short:0	"Typ 2 Ho-I"
 trm_medium_tank_cs_chassis_jap_type3_1:0	"Typ 3 Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_jap_type3_1:0	"Typ 3 Mittlerer Unterstützungspanzer"
-
 trm_medium_tank_cs_chassis_jap_type4_1:0	"Typ 4 Fahrgestell (Kav.Pz.)"
 trm_medium_tank_cs_equipment_jap_type4_1:0	"Typ 4 Mittlerer Unterstützungspanzer"
-
-
 trm_medium_tank_destroyer_equipment_jap_type97_1:0	"Typ 3 Mittlerer Jagdpanzer"
-
-
 trm_medium_tank_destroyer_equipment_jap_type4_1:0	"Typ 5 Mittlerer Jagdpanzer"
-
-
 trm_medium_tank_assault_gun_equipment_jap_type97_1:0	"Typ 1 Mittleres Sturmgeschütz"
 trm_medium_tank_assault_gun_equipment_jap_type97_1_short:0	"Typ 1 Ho-Ni"
 trm_medium_advanced_tank_chassis_jap_type5_1:0	"Typ 5 Fahrgestell"
-
 trm_medium_advanced_tank_equipment_jap_type5_1_short:0	"Typ 5 Chi-Ri"
-
-
-
-
-
 trm_medium_advanced_tank_destroyer_equipment_jap_type5_1_short:0	"Typ 5 Ho-Ri"
 trm_heavy_tank_chassis_jap_type91_1:0	"Typ 91 Fahrgestell"
-
 trm_heavy_tank_equipment_jap_type91_1_short:0	"Typ 91 Schwer"
 trm_heavy_tank_chassis_jap_type95_1:0	"Typ 95 Fahrgestell"
-
-
 trm_amph_tank_chassis_jap_type2_1:0	"Typ 2 Fahrgestell"
-
-
 trm_amph_tank_chassis_jap_type3_1:0	"Typ 3 Fahrgestell"
 trm_amph_tank_equipment_jap_type3_1:0	"Amphibischer Panzer Typ 3"
-
 trm_medium_tank_chassis_jap_apc_type4_1:0	"Typ 4 Trägerfahrgestell"
 trm_medium_tank_equipment_jap_apc_type4_1:0	"Typ 4 Raupentransporter"
-
 trm_medium_tank_destroyer_chassis_jap_apc_type4_1:0	"Typ 4 Trägerfahrgestell (JPz)"
-
-
-
 trm_tankette_tank_equipment_fra_amr33_1:0	"AMR-33 Panzerkampfwagen"
 trm_tankette_tank_equipment_fra_amr33_1_short:0	"AMR-33"
-
-
-
-
-
 trm_tankette_tank_destroyer_equipment_fra_amr35_1_short:0	"ZT-3"
 trm_light_tank_chassis_fra_ft17_1:0	"FT-17 Fahrgestell"
-
 trm_light_tank_equipment_fra_ft17_1_short:0	"FT-17"
 trm_light_tank_chassis_fra_h35_1:0	"H35 Fahrgestell"
-
-
-
 trm_light_tank_equipment_fra_h39_1:0	"H39 Panzer"
-
-
 trm_light_tank_equipment_fra_fcm36_1:0	"FCM 36 Tank"
 trm_light_tank_equipment_fra_fcm36_1_short:0	"FCM 36"
-
 trm_cavalry_tank_equipment_fra_amc34_1:0	"AMC-34 Panzer"
 trm_cavalry_tank_equipment_fra_amc34_1_short:0	"AMC-34"
-
-
-
 trm_cavalry_tank_chassis_fra_s35_1:0	"S35 Fahrgestell"
-
-
 trm_cavalry_tank_chassis_fra_s40_1:0	"S40 Fahrgestell"
 trm_cavalry_tank_equipment_fra_s40_1:0	"S40 Panzer"
 trm_cavalry_tank_equipment_fra_s40_1_short:0	"S40"
 trm_cavalry_tank_destroyer_chassis_fra_s35_1:0	"S35 Fahrgestell (JPz)"
 trm_cavalry_tank_destroyer_equipment_fra_s35_1:0	"SAu 40 Jagdpanzer"
-
-
-
-
-
 trm_medium_tank_equipment_fra_d2_1:0	"D2 Tank"
-
 trm_medium_tank_chassis_fra_amx38_1:0	"AMX 38 Fahrgestell"
 trm_medium_tank_equipment_fra_amx38_1:0	"AMX 38 Tank"
 trm_medium_tank_equipment_fra_amx38_1_short:0	"AMX 38"
 trm_medium_tank_chassis_fra_amx40_1:0	"AMX 40 Fahrgestell"
-
 trm_medium_tank_equipment_fra_amx40_1_short:0	"AMX 40"
-
-
-
 trm_infantry_tank_chassis_fra_r35_1:0	"R35 Fahrgestell"
-
 trm_infantry_tank_equipment_fra_r35_1_short:0	"R35"
 trm_infantry_tank_chassis_fra_r40_1:0	"R40 Fahrgestell"
 trm_infantry_tank_equipment_fra_r40_1:0	"R40 Tank"
-
 trm_heavy_tank_chassis_fra_2c_1:0	"2C Fahrgestell"
-
-
-
 trm_heavy_tank_equipment_fra_b1_1:0	"B1 Tank"
-
-
 trm_heavy_tank_equipment_fra_b1_2:0	"B1 bis Tank"
 trm_heavy_tank_equipment_fra_b1_2_short:0	"B1 bis"
 trm_heavy_tank_chassis_fra_tracteurb_1:0	"Tracteur B Fahrgestell"
-
 trm_heavy_tank_equipment_fra_tracteurb_1_short:0	"Tracteur B"
 trm_heavy_tank_chassis_fra_arl44_1:0	"ARL 44 Fahrgestell"
-
-
 trm_tankette_tank_chassis_gen_1936_1:0	"Tankette 1936 Fahrgestell"
-
-
-
-
-
 trm_light_tank_chassis_gen_1941_1:0	"Leichter Panzer 1941 Fahrgestell"
-
 trm_light_tank_equipment_gen_1941_1_short:0	"Leichter Panzer 1941"
 trm_medium_tank_chassis_gen_1943_1:0	"Mittlerer Panzer 1943 Fahrgestell"
-
-
-
 trm_tankette_tank_equipment_cze_t33_1:0	"Tančík vzor 33"
 trm_tankette_tank_equipment_cze_t33_1_short:0	"Tančík vz.33"
-
-
-
-
-
 trm_cavalry_tank_equipment_cze_lt34_1_short:0	"LT vz.34"
 trm_cavalry_tank_chassis_cze_lt35_1:0	"LT vz.35 Fahrgestell"
 trm_cavalry_tank_equipment_cze_lt35_1:0	"Lehký Panzer vzor 35"
-
 trm_cavalry_tank_chassis_cze_lt38_1:0	"LT vz.38 Fahrgestell"
 trm_cavalry_tank_equipment_cze_lt38_1:0	"Lehký Panzer vzor 38"
-
-
 trm_medium_tank_equipment_cze_st39_1:0	"Střední Panzer vzor 39"
-
 trm_light_tank_chassis_hun_toldi_1:0	"Toldi I Fahrgestell"
-
 trm_light_tank_equipment_hun_toldi_1_short:0	"Toldi I"
-
-
-
-
 trm_light_tank_equipment_hun_toldi_3:0	"43M Toldi III"
-
 trm_light_tank_destroyer_chassis_hun_toldi_2:0	"Toldi II Fahrgestell (JPz)"
 trm_light_tank_destroyer_equipment_hun_toldi_2:0	"42M Toldi II Pancelvadsz"
 trm_light_tank_destroyer_equipment_hun_toldi_2_short:0	"Toldi II Pancelvadsz"
-
 trm_light_tank_destroyer_equipment_hun_toldi_3:0	"43M Toldi III Pancelvadsz"
-
-
-
 trm_medium_tank_equipment_hun_turan_1_short:0	"Turan I"
-
 trm_medium_tank_equipment_hun_turan_2:0	"43M Turan III"
-
 trm_medium_tank_cs_chassis_hun_turan_2:0	"Turan II Fahrgestell"
-
 trm_medium_tank_cs_equipment_hun_turan_2_short:0	"Turan II"
 trm_medium_tank_destroyer_chassis_hun_turan_2:0	"Turan II Fahrgestell"
-
-
-
-
-
 trm_light_tank_chassis_hun_nimrod_1:0	"Nimrod Fahrgestell"
-
 trm_light_tank_equipment_hun_nimrod_1_short:0	"Nimrod" 
 trm_light_tank_aa_chassis_hun_nimrod_1:0	"Nimrod Fahrgestell (FlaK)"
-
-
-
 trm_tankette_tank_equipment_swe_m37_1:0	"Stridsvagn m/37"
 trm_tankette_tank_equipment_swe_m37_1_short:0	"Strv m/37"
-
-
 trm_light_tank_equipment_swe_m21_1_short:0	"Strv m/21" 
-
-
-
 trm_light_tank_chassis_swe_m39_1:0	"Strv m/39 Fahrgestell"
 trm_light_tank_equipment_swe_m39_1:0	"Stridsvagn m/39"
-
 trm_light_tank_chassis_swe_m40_1:0	"Strv m/40 Fahrgestell"
 trm_light_tank_equipment_swe_m40_1:0	"Stridsvagn m/40"
 trm_light_tank_equipment_swe_m40_1_short:0	"Strv m/40"
-
 trm_light_tank_aa_equipment_swe_m38_1:0	"Luftvärnsvärnskanonvagn m/38"
-
-
-
-
 trm_light_tank_aa_chassis_swe_m40_1:0	"Strv m/40 Fahrgestell"
-
 trm_light_tank_aa_equipment_swe_m40_1_short:0	"Lvkv m/40"
 trm_cavalry_tank_chassis_swe_m31_1:0	"Strv m/31 Fahrgestell"
 trm_cavalry_tank_equipment_swe_m31_1:0	"Stridsvagn m/31"
-
 trm_cavalry_tank_chassis_swe_m41_1:0	"Strv m/41 Fahrgestell"
-
-
-
 trm_cavalry_tank_destroyer_equipment_swe_m41_1:0	"Pansarvarnskanonvagn m/43"
-
 trm_cavalry_tank_assault_gun_chassis_swe_m41_1:0	"Strv m/42 Fahrgestell"
-
 trm_cavalry_tank_assault_gun_equipment_swe_m41_1_short:0	"Sav m/43"
 trm_medium_tank_chassis_swe_m42_1:0	"Strv m/42 Fahrgestell"
-
-
-
 trm_tankette_tank_equipment_pol_tk_1:0	"TK-3 Tankette"
 trm_tankette_tank_equipment_pol_tk_1_short:0	"TK-3"
-
-
-
 trm_tankette_tank_chassis_pol_4tp_1:0	"4TP Fahrgestell"
-
-
 trm_light_tank_chassis_pol_7tp_1:0	"7TP Fahrgestell"
 trm_light_tank_equipment_pol_7tp_1:0	"7TP Light Tank"
-
 trm_light_tank_chassis_pol_9tp_1:0	"9TP Fahrgestell"
 trm_light_tank_equipment_pol_9tp_1:0	"9TP Light Tank"
-
-
 trm_cavalry_tank_equipment_pol_10tp_1:0	"10TP Cruiser Tank"
-
-
 trm_cavalry_tank_equipment_pol_14tp_1:0	"14TP Cruiser Tank"
-
-
 trm_amph_tank_equipment_pol_pzinz130_1:0	"PZInz.130 Schwimmpanzer"
 trm_amph_tank_equipment_pol_pzinz130_1_short:0	"PZInz.130"
 trm_infantry_tank_chassis_nzl_bob_1:0	"Bob Semple Fahrgestell"
-
-
 trm_light_tank_equipment_usa_m2_2_short:0	"M2A4 Light"
 trm_light_tank_equipment_usa_m5_1_short:0	"M5 Stuart"
 trm_light_tank_cs_equipment_usa_m5_1_short:0	"M8 Scott"

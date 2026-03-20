@@ -9,114 +9,61 @@ STABILITY_WAR_FACTOR:0	"Im Krieg: $VALUE|+2%$"
 STABILITY_POPULARITY_FACTOR:0	"Beliebtheit der regierenden Partei: $VALUE|=+2%$"
 STABILITY_EFFECT_TITLE:0	"\n§HAuswirkungen unserer derzeitigen Stabilität:§!\n"
 STABILITY_PROPAGANDA:0	"£operative_mission_icons_small|8£ Ausländische Propaganda: $VALUE|+=2%$"
-
 WAR_SUPPORT_EFFECT_TITLE:0	"\n§HAuswirkungen unserer aktuellen Kriegsunterstützung:§!\n"
-
 WAR_SUPPORT_AT_DEFENSIVE_WAR:0	"Verteidigungskrieg: $VALUE|+=2%$"
-
 WAR_SUPPORT_BEING_BOMBED:0	"Feindliche Bombardierung: $VALUE|+=2%$"
-
 WAR_SUPPORT_HEROES_BEING_KILLED:1	"Verluste: $VALUE|+=2%$"
-
 WAR_SUPPORT_PROPAGANDA:0	"£operative_mission_icons_small|8£ Fremde Propaganda: $VALUE|+=2%$"
-
 POLITICAL_POWER_DESC:0	"Wie viel politische Macht die Führer dieses Landes haben."
-
 SERVICE_MANPOWER:1	"£manpower_texticon Wartungspersonal:"
-
 MAX_MANPOWER:0	"Max Mannstärke: "
-
 MANPOWER_TOTAL:0	"Gesamte Mannstärke: $MAX|0H*$"
-
 MANPOWER_USAGE_FOREIGN_GARRISON:0	"Ausländische Garnison: $GARRISON|^2H$"
-
 MANPOWER_CURRENT_MOBILIZATION:0	"Totale Mannstärke: $TOTAL|^2H$\n$PERC|2%H$ (ca. $MOB|+3H%$ wird pro Tag mobilisiert) der verfügbaren eigenen Bevölkerung ($ELIGIBLE|^H$)"
-
 MANPOWER_GROWTH:0	"§YMonatliches Wachstum in den Provinzen§!\nRekrutierbar: $RECRUITABLE|^G$\nZivilisten: $CIVILIAN|^G$"
 MANPOWER_GROWTH_TO_FACTION:	"Der Fraktion zur Verfügung stehende rekrutierbare Bevölkerung: $TOFACTION|^R$\n"
-
 MANPOWER_DESC:0	"Rekrutierbare Soldaten in diesem Land. Erlass strengerer Wehrpflicht oder Altersgesetze zur Erhöhung."
 MANPOWER_DIVISION:0	"Division Mannstärke"
-
-
 MANPOWER_DIVISION_SIZE_BREAKDOWN_DESC:0	"§TDiese §HDivision§! enthält $AMOUNT|G$ Soldaten. Sie hat eine Mannstärke von:§!"
 MANPOWER_GARRISON_BREAKDOWN_ENTRY:0	"$NUMBER|H*$ aus $COUNTRY|H$"
-
-
 MANPOWER_SHIP:0	"Schiffsbesatzungen"
 MANPOWER_SHIP_DESC:0	"§TDieses §HSchiff§! benötigt $AMOUNT|G$ an Mannschaften.§!"
-
-
 MANPOWER_AIRWING:0	"Jagdgeschwader Mannschaften"
 MANPOWER_AIRWING_DESC:0	"§TDieses §Luftgeschwader§! erfordert $AMOUNT|G$ an Mannschaften.§!"
-
-
 EQUIPMENT_DIVISION_DESC:0	"Zeigt an, wie die Abteilung mit der benötigten Ausrüstung ausgestattet ist."
 DIVISION_IN_TEMPLATE_TRANSFER:0	"Die Abteilung reorganisiert sich derzeit von $OLD|H$ auf $NEW|H$ Vorlage. Die Umstrukturierung wird abgeschlossen sein, wenn die erste benötigte Ausrüstung geliefert wird und die alte Ausrüstung dann in den Bestand zurückgeführt wird."
-
-
 MANPOWER_MONTHLY_BASE:0	"Basiswert: $VALUE|*Y0$"
 MANPOWER_MONTHLY_TECH_FACTOR:0	"Von Technik: $VALUE|+%$"
-
-
 INDUSTRIAL_CAPACITY_DESC:1	"Fabriken bilden die Grundlage der §Hindustriellen Kapazität§! des Landes. §HMilitärfabriken§! stellen Ausrüstung für die Armee und die Luftwaffe her, während §HMarinewerften§! Schiffe für die Marine bauen und reparieren. §HZivile Fabriken§! errichten und reparieren Gebäude und Infrastruktur sowie erleichtern den Handel. \n\n§YWerkzeugmaschinen§! werden benötigt, damit Fabriken mit voller Effizienz laufen können. Sie werden automatisch aus Ersatzteilen hergestellt £resources_strip|4 §YWolfram§!. Unterhalb von §Y50§! Fabriken ist unsere Industrie §Gklein genug, um ohne Werkzeuge zu funktionieren§!."
 INDUSTRIAL_CAPACITY_DESC_OCCUPATION:0	"Die Anzahl der Fabriken, die Sie von den besetzten Staaten erhalten, wird durch Ihre Besatzungspolitik beeinflusst."
-
 DOCKYARD_ENERGY_RATIO:	"Energieverhältnis Werft: $VAL|H1%$"
-
-
 MILITARY_IC:	"Militär-angetriebener IC: $VAL|H1$"
 NAVAL_IC:	"Marine-IC: $VAL|H1$"
-
-
 ARMY_EXPERIENCE:0	"Erfahrung des Heeres"
-
 ARMY_EXPERIENCE_GAIN_COMBAT:0	"Von §HArmee-Kampf§!: $VALUE|=+3$ täglich"
-
 NAVY_EXPERIENCE:0	"Erfahrung der Marine"
 NAVY_EXPERIENCE_GAIN_TRAINING:0	"Aus §HMarinemanöver§!: $VALUE|=+3$ täglich"
 NAVY_EXPERIENCE_GAIN_COMBAT:0	"Von §HMarine-Einsätze§!: $VALUE|=+3$ täglich"
-
 NAVY_EXPERIENCE_DESC:0	"Wenn deine Schiffe im Kampf und in §HMarineübungen§! eingesetzt werden, erhältst du Marineerfahrung. Bestimmte §HNationale Schwerpunkte§! geben zusätzliche Erfahrung und einige §HMinister§! können die gewonnene Erfahrung erhöhen.\n\nMarineerfahrung wird verwendet, um bessere Varianten bestehender Schiffe zu entwickeln."
 AIR_EXPERIENCE:0	"Erfahrung der Luftwaffe"
-
-
 AIR_EXPERIENCE_GAIN_TRAINING:0	"Aus §HLuftwaffenmanöver§!: $VALUE|=+3$ täglich"
 AIR_EXPERIENCE_DESC:0	"Wenn Ihre Flugzeuge den Feind in Missionen angreifen oder in §HPilotenübungen§! üben, sammeln Sie Lufterfahrung. Das bedeutet, dass Sie Lufterfahrung gewinnen können, wenn Ihre §HLuftgeschwader§! in den Kampf ziehen oder wenn Sie §HLeih und Pacht§! Ausrüstung an die Kriege Ihrer Verbündeten verleasen.\nBestimmte §HNational Focuses§! geben zusätzliche Erfahrung und einige §HMinister§! können die gewonnene Erfahrung erhöhen.\n\nLufterfahrung wird verwendet, um bessere Varianten von bestehenden Flugzeugen zu entwickeln."
 COMMAND_POWER:0	"Befehlsgewalt"
 COMMAND_POWER_DESC:0	"§HBefehlsgewalt§! wird für verschiedene militärische Operationen und die Beförderung von Generälen verwendet. Sie kann für einmalige Operationen ausgegeben oder für kontinuierliche Operationen eingesetzt werden. Das Wachstum und die maximale Kapazität der §HBefehlsgewalt§! kann durch verschiedene Doktrinen und Nationalgeister erhöht werden."
-
-
 MAX_COMMAND_POWER_TEXT:1	"Aktueller Höchstwert: $VALUE|Y0$"
 COMMAND_POWER_ALLOCATED:1	"Zugewiesen: $VALUE|R1$"
-
 COMMAND_POWER_ALLOCATED_TOOLTIP_ENTRY:1	"         - $NAME|0$: $VALUE|R0$"
-
-
 COMMAND_POWER_TOOLTIP_AIR_MISSION_UNASSIGNED:0	"$MISSION_TYPE$ ($WING_NAME|H$)"
 MANPOWER_IN_USE:0	"Mannstärke im Feld"
-
-
 EQUIPMENT_IN_USE_DESC:0	"Zeigt an, wie die Divisionen mit der benötigten Ausrüstung gefüllt sind."
 MANPOWER_IN_USE_GARRISON:0	"Mannstärke in Garnison"
-
-
-
-
 NAVY_EQUIPMENT_TOTAL_DESC:1	"Die Anzahl der Schiffe in allen Flotten und Einsatzgruppen."
 NAVAL_SERVICE_MANPOWER_DESC:0	"Matrosen wird von unserer Marine eingesetzt, um ihre Funktionsfähigkeit zu erhalten."
-
-
 AIR_EQUIPMENT_IN_USE:0	"Verhältnis der Flugzeuge im Einsatz"
-
 AIR_SERVICE_MANPOWER_DESC:0	"Wartungspersonal wird von unseren Luftstreitkräften zur Aufrechterhaltung ihrer Funktionsfähigkeit eingesetzt."
 EQUIPMENT_IN_USE_HEADER:0	"Ausrüstung im Einsatz"
-
-
 EQUIPMENT_VARIANTS_TOGGLE_OFF:0	"§GDetails ausblenden§!"
 CURRENT_EXPERIENCE_TOPBAR:1	"§TAktuelle Erfahrung: $VALUE|Y2$§!\n"
-
-
 RULES_TITLE:0	"§HZusammenfassung der Regelungen:§!"
 RULES_DESC:0	"Die Regeln deines Landes werden durch deine Ideologie, die Ideologie deiner Fraktion und deinen Nationalgeist bestimmt"
 DAILY_EXPERIENCE_GAIN_OFFICERS:0	"Täglicher Gewinn:"

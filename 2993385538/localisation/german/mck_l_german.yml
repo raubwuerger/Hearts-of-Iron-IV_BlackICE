@@ -15,756 +15,364 @@ jap.6.d:0	"Einige [CHI.GetRulingParty]-Loyalisten in unserer Polizei haben auf d
 jap.6.a:0	"Verflucht seien sie!"
 jap.7.d:0	"Einige Meuterer in Tungchow haben sich erhoben und einige ethnische Japaner und Koreaner getötet! Glücklicherweise wurden sie später von der örtlichen Polizei beseitigt."
 jap.7.a:0	"Wie konnte das nur passieren?"
-
-
-
 jap.9.t:0	"Wang Jingwei in Nanking einsetzen?"
-
 jap.11.t:0	"Mandschukuo hat seine Unabhängigkeit erklärt!"
-
 jap.11.a:0	"Bakayarou!"
-
 jap.12.t:0	"Attentate in der Mandschurei"
-
 jap.13.t:0	"[From.GetName] bittet um unsere Unterstützung für die Unabhängigkeit"
-
 jap.13.a:0	"Das ist der richtige Weg."
-
 jap.14.t:0	"[From.GetName] stimmt zu, unsere Unabhängigkeit zu unterstützen"
-
 jap.14.a:0	"Fantastisch!"
-
 jap.15.d:0	"[From.GetName] hat es abgelehnt, unsere Unabhängigkeit zu unterstützen. Sie erklärten, dass sie kein Interesse an dem Abkommen haben."
-
 jap.16.t:0	"[From.GetLeader] ruft zum Handeln auf"
-
 jap.16.a:0	"Erst wenn die Diplomatie nicht funktioniert, werden wir zum Krieg greifen."
-
 jap.16.c:0	"Lasst die Sonne untergehen!"
-
 jap.17.d:0	"[From.GetLeader] hat uns ein Ultimatum gestellt, in dem wir aufgefordert werden, [MCK.GetName] die Unabhängigkeit zu gewähren. Wenn wir dem nicht nachkommen, müssen wir möglicherweise mit ihnen in den Krieg ziehen."
-
 jap.17.b:0	"Wenn sie den Krieg wollen, werden wir ihn ihnen geben!"
-
 jap.18.d:0	"Die Antwort von [From.GetName] lautet, dass wir uns vorerst zurückhalten müssen. Denn sie haben bereits einen Plan im Kopf."
-
 jap.19.t:0	"[JAP.GetName] gewährt [MCK.GetName] die Unabhängigkeit"
-
 jap.19.a:0	"Eine rationale Entscheidung."
-
 jap.20.d:0	"[JAP.GetName] hat uns die Unabhängigkeit gewährt!"
-
 jap.21.t:0	"[JAP.GetName] weigert sich, [MCK.GetName] die Unabhängigkeit zu gewähren"
-
 jap.21.a:0	"Möge Gott ihnen gnädig sein."
-
 jap.22.d:0	"Die Zeit ist gekommen, wir kämpfen jetzt an der Seite des Leuchtturms der Demokratie gegen die tyrannischen Japaner!"
-
 jap.23.t:0	"[MCK.GetName] schließt sich [USA.GetName] an!"
-
 jap.23.a:0	"Bakayarou!"
-
 jap.28.d:0	"Durch das Mandat des Himmels, das der Kaiser hiermit erlässt, wird Euer Königreich nun eingeladen, ein Vasall des glorreichen Großen Qing-Reiches zu werden. Gehorcht. Andernfalls geht es unter der Macht des Himmlischen Reiches unter.\n\nBeachtet dies. "
-
 jap.28.b:0	"So ein Quatsch!"
-
 jap.29.d:0	"Durch den Erlass des Imperators ist [From.GetName] ein ehrenhafter Vasall unter [MCK.GetNameDef] geworden."
-
 jap.29.b:0	"Sie werden besser dran sein, wenn sie Teil des Reiches sind."
-
 jap.30.d:0	"Der arrogante [From.GetLeader] hat unser freundliches Angebot der Vasallisierung abgelehnt!"
-
 jap.31.t:0	"[MCK.GetName] will Kanto-Shu übernehmen"
-
 jap.31.a:0	"Einverstanden."
-
 jap.32.t:0	"Kanto-Shu erworben"
-
 jap.32.a:0	"Das ist das beste Ergebnis."
-
 jap.33.d:0	"Unser Vorschlag konnte die japanischen Beamten nicht überzeugen, Kanto-Shu bleibt in japanischer Hand."
-
 jap.34.t:0	"[MCK.GetName] bittet um Erlaubnis, die Marine zu erweitern"
-
 jap.35.t:0	"Erlaubnis erteilt"
-
 jap.36.t:0	"Erlaubnis verweigert"
-
 jap.37.t:0	"Industrielle Expansion"
-
 jap.37.a:0	"Lang lebe der Kaiser!"
-
 jap.39.d:0	"Obwohl die zivile Wirtschaft wichtig ist, darf der militärische Sektor nicht vernachlässigt werden. Wir sollten damit beginnen, an dem militärischen Aspekt unserer Industrie zu arbeiten."
-
 jap.40.d:0	"Die Anstrengungen im militärischen Bereich haben sich gelohnt. Unsere Produktionskapazität hat sich verbessert und das Verständnis für Kleinwaffen hat einen großen Sprung nach vorne gemacht."
-
 jap.42.t:0	"Blauwasser-Ambition"
-
 jap.43.t:0	"Schutz unseres Horizonts"
-
 jap.44.d:0	"Die Anstrengungen, die in die Luft- und Seeforschung gesteckt werden, bringen unschätzbare Ergebnisse. Wir können nun Flugzeuge in das gesamte Reich entsenden, und unsere Marineproduktion ist in die Höhe geschnellt."
-
 jap.45.d:0	"Wir haben die reichen Rohstoffvorkommen unter dem riesigen Territorium unseres Reiches entdeckt und begonnen, sie zu nutzen, um einen Beitrag zur Zukunft des Reiches zu leisten."
-
 jap.47.t:0	"RFP erbittet unsere Hilfe"
-
 jap.47.a:0	"Die Vernichtung der Bolschewiken ist die Pflicht eines jeden Menschen!"
-
 jap.47.c:0	"Es gibt keine Vögel mehr zu jagen, der beste Bogen ist jetzt nutzlos für uns."
-
 jap.49.t:0	"RFP erhebt sich gegen uns"
-
 jap.49.a:0	"Der Jagdhund hat seinen Zweck erfüllt, wir haben keine Verwendung mehr für ihn."
-
 jap.50.d:0	"Trotz schwerer Verluste ist unsere Armee aus der jüngsten Konfrontation mit der kommunistischen Guerilla siegreich hervorgegangen. Mehrere Anführer der Guerilla wurden während der Konfrontation getötet, dieser entscheidende Schlag wird ihre Stärke erheblich schwächen."
-
 jap.51.t:0	"Niederlage gegen die Guerilla"
-
 jap.51.a:0	"Undenkbar!"
-
 jap.52.d:0	"Wir haben die abscheulichen Japaner erfolgreich von unserem Heimatboden vertrieben. Sollten wir das Blutvergießen jetzt beenden?"
-
 jap.52.b:0	"Wir werden die Heimatinseln erobern!"
-
 jap.53.d:0	"Da unsere Truppen nicht in der Lage sind, ihre Verteidigung zu durchdringen, haben die Offiziellen von [MCK.GetNameADJ] einen Vorschlag für Friedensgespräche unterbreitet."
-
 jap.53.b:0	"Sie haben unsere Gnade mit Schwäche verwechselt!"
-
 jap.54.d:0	"Die japanische Regierung hat dem Friedensangebot zugestimmt!"
-
 jap.55.t:0	"Der Krieg geht weiter"
-
 jap.55.b:0	"Ungeheuerlich!"
-
 MCK_10_t_prepare_tt:0	"Dieses Ereignis wird sich nach zehn Monaten wiederholen, aber ohne diese Option."
-
-
 jap.57.d:0	"[From.GetLeader] hat die Regierung auf eigene Faust umstrukturiert, und ihre Politik ist weniger vorteilhaft für unsere Interessen geworden."
-
 jap.57.b:0	"Kein Grund zur Sorge."
-
 jap.58.d:0	"Angesichts unserer jüngsten Umstrukturierung innerhalb unserer Regierung hat [From.GetName] gefordert, dass wir unsere Autonomie aufgeben und Teil ihrer Nation werden."
-
 jap.58.b:0	"Sie sind zu mächtig."
-
 jap.59.d:0	"Abgesehen davon, dass er unser Angebot abgelehnt hat, hat sich [From.GetName] auch von unserer Oberherrschaft losgesagt."
-
 jap.60.t:0	"[From.GetName] annektiert"
-
 jap.60.a:0	"Ein glorreicher Tag."
 jap.64.t:0	"Japanische Unterstützung"
-
-
-
 jap.65.t:0	"Die zweite mongolische Generalversammlung"
 jap.65.d:0	"Nachdem Suiyuan in unsere Hand gefallen war, wurde die zweite mongolische Generalversammlung einberufen. Die Versammlung beriet über die Gründung von [Root.GetName] und hat [Root.GetLeader] zum Vorsitzenden ernannt."
 jap.65.a:0	"Der Ruhm des Mongolenreiches wird bald wiederhergestellt sein!"
-
-
-
 jap.67.d:0	"Die pro-japanische Haltung von [MEN.GetLeader] ist besorgniserregend, sein Überlaufen zu den Japanern ist nur eine Frage der Zeit. Wenn er mit seiner derzeitigen Macht zu den Japanern überläuft, wird unsere innermongolische Region vollständig unter japanischer Kontrolle stehen, was ihnen im Falle eines Krieges einen Vorteil verschaffen würde. Einige Beamte der [Root.GetRulingParty] haben dazu aufgerufen, die Macht von [MEN.GetLeader] zu schwächen, indem sie [MEN.GetNameDef] aufteilen und seine Macht auf die Region Chahar beschränken. Dadurch könnte ein größerer Gebietsverlust verhindert werden, aber der Kriegsherr Yan Xishan könnte einen Nutzen daraus ziehen."
 jap.67.a:0	"Teilen Sie das Komitee."
 jap.67.b:0	"Kein Grund zur Sorge."
-
-
-
 jap.69.t:0	"[Root.GetName]"
 jap.69.d:0	"[From.GetRulingParty] hat aus irgendeinem Grund beschlossen, unser mongolisches politisches Komitee zu spalten. Die Macht von [Root.GetLeader] wurde ausschließlich auf die Region Chahar beschränkt."
 jap.69.a:0	"Verflucht!"
-
-
-
 jap.71.t:0	"Kontaktaufnahme mit [MEN.GetName]?"
 jap.71.d:0	"Das jüngste Vorgehen der [CHI.GetRulingParty] hat innerhalb des [MEN.GetName] zu einiger Unzufriedenheit geführt. Wir haben eine enge Beziehung zu [MEN.GetLeader], vielleicht können wir diese Gelegenheit nutzen, um die Chinesen weiter zu schwächen?"
 jap.71.a:0	"Alles, was uns im kommenden Krieg einen Vorteil verschaffen kann."
-
-
-
 jap.72.a:0	"Dies wird die [CHI.GetRulingParty] schwächen."
 jap.73.t:0	"[From.GetLeader] abgelehnt"
 jap.73.d:0	"Trotz unserer Großzügigkeit hat [From.GetLeader] beschlossen, sich uns nicht anzuschließen und seine eigene Regierung in der Region Chahar zu gründen. Mit der Begründung, dass unsere Absicht weitaus schlimmer sei als das, was die [CHI.GetRulingParty] zu bieten hat."
-
-
 jap.78.t:0	"Radikale Propagierung"
-
 jap.78.a:0	"Lasst sie ihre Praxis fortsetzen."
-
 jap.79.t:0	"Der kleine Plan von [MCK.GetLeader]"
-
 jap.79.a:0	"Verräter des Imperiums müssen sterben!"
-
 jap.80.d:0	"Eine Gruppe von Anhängern der Restaurationisten hat eine Versammlung in der Nähe des Komplexes von [Root.GetLeader] in [Root.Capital.GetName] organisiert. Sie wollen dazu aufrufen, die Japaner zu vertreiben und das alte Reich wiederherzustellen. Es wurde darum gebeten, einen Petitionsbrief an [Root.GetLeader] zu übergeben. Wenn wir den Brief annehmen, könnten die Japaner vermuten, dass wir die Bewegung der Restaurationisten tatsächlich unterstützen. Wenn wir den Brief jedoch nicht annehmen, könnte unsere öffentliche Unterstützung schwinden."
-
 jap.80.b:0	"Lehnen Sie den Brief ab."
-
 jap.81.d:0	"Einige Schulen in unserem Land haben damit begonnen, Schülern heimlich monarchistisches Gedankengut beizubringen. Es wurde bestätigt, dass dies das Werk einiger Restaurationisten ist, die im Bildungssystem Macht haben. Obwohl dieser Unterricht für unseren Wiederherstellungsplan von Vorteil wäre, könnte dies das Misstrauen der Japaner wecken, wenn sie davon erfahren."
-
 jap.81.b:0	"Fordert die Einstellung solcher Praktiken."
-
 jap.82.d:0	"In einigen Gebieten unseres Landes haben Versammlungen begonnen, die darauf abzielen, die Japaner zu vertreiben. Einige haben sich sogar zu Konflikten zwischen pro- und antijapanischen Bürgern entwickelt. Obwohl diese Versammlungen einige Sachschäden verursachen könnten, könnten sie für unseren Plan nützlich sein. Aber überhaupt nicht zu reagieren, würde Illoyalität gegenüber den Japanern bedeuten."
-
 jap.82.b:0	"Gehen Sie gegen diese Aufwiegler vor!"
-
 jap.83.d:0	"Einige Politiker haben Abneigung gegen Japaner gezeigt. Die japanischen Beamten in unserer Regierung sind Ziel von Angriffen und Erpressungen geworden. Der Charakter unserer Regierung wandelt sich jetzt in alarmierendem Tempo zu einem antijapanischen Charakter. Einige Politiker haben sogar vorgeschlagen, allen Japanern zu verbieten, der Regierung beizutreten. Obwohl dies ein gewagter Vorschlag ist, könnte er mehr Nutzen als Schaden anrichten..."
-
 jap.83.b:0	"Haben die den Verstand verloren!?"
-
 jap.84.d:0	"Mit dem antijapanischen Wahn in unserem Land haben viele Menschen ihre Abneigung gegen die Japaner in unserem Land gezeigt, besonders diejenigen, die Macht haben. Und das gilt auch für unser Militär. In letzter Zeit haben einige unserer Soldaten Befehle japanischer Generäle offen missachtet und japanische Soldaten verprügelt. Diese Aktionen haben zu Unruhen und Chaos in unserer Armee und sogar zu einigen bewaffneten Konflikten zwischen unseren Männern und der Kwantung-Armee geführt. Wenn wir verhindern wollen, dass sich solche Konflikte wiederholen, ist es das wirksamste Mittel, den japanischen Einfluss in unserer Armee zu beseitigen. Ein solches Vorgehen würde die Japaner jedoch definitiv provozieren."
-
 jap.84.b:0	"Diejenigen, die hinter diesen meuterischen Handlungen stecken, werden vor ein Kriegsgericht gestellt."
-
 jap.85.d:0	"Vor kurzem sind einige antijapanische Fanatiker in einige japanische Haushalte eingebrochen und haben die Bewohner brutal ermordet. Diese Vorfälle haben die japanischen Gemeinschaften in unserem Land in Aufruhr versetzt, da sie sich über den Mangel an Sicherheit beklagen, den sie beim Leben hier empfinden. Wir mögen bei diesen Taten ein Auge zudrücken, aber es könnte ernste Folgen haben, wenn wir sie unkontrolliert lassen."
-
 jap.85.b:0	"Setzen Sie Ressourcen für die Verhaftung der Täter ein."
-
 jap.87.d:0	"Einige Restaurationisten haben einige Milizen finanziert, um Guerillagruppen zu bilden, die japanische Militärziele angreifen. Bislang haben sie der Kwantung-Armee einigen Schaden zugefügt, und auch die Kwantung-Armee hat Männer für Befriedungsoperationen entsandt. Die Zahl der Guerillagruppen nimmt weiter zu und könnte einen Punkt erreichen, an dem die Japaner eine groß angelegte Militäroperation durchführen müssen, um sie vollständig auszurotten. Wenn diese Guerillakämpfer gefangen genommen werden, riskieren wir, dass man uns vorwirft, mit ihnen in Verbindung zu stehen."
-
 jap.87.b:0	"Um der Sicherheit willen sollten Sie ihre Expansion stoppen."
-
 jap.88.d:0	"Antijapanische Fanatiker haben in letzter Zeit japanisches Eigentum verwüstet, darunter Geschäfte, Häuser und Fabrikanlagen für Veranstaltungen. Die geschätzten Kosten sind hoch und steigen weiter an. Diese Praktiken sind zwar hilfreich, um die antijapanische Stimmung zu verbreiten, könnten aber am Ende unserem Land mehr Schaden zufügen als den Japanern."
-
 jap.89.t:0	"Kühnes Ansinnen"
-
 jap.89.a:0	"Wer nicht wagt, der nicht gewinnt."
-
-
 MCK_jap_will_demand_submission_tt:0	"§R[JAP.GetName] wird Ihre sofortige Unterwerfung verlangen, wenn Sie dem nicht nachkommen, wird es Krieg geben§!\n\n"
-
 jap.90.d:0	"Eine Person, die von den Restaurationisten angeheuert wurde, um Flugblätter zu verteilen, wurde kürzlich von der japanischen Polizei in einem kleinen Vorort verhaftet. Die verhaftete Person scheint einige Informationen über die örtlichen Aktivitäten der Restauratoren weitergegeben zu haben, und unser regionales Hauptquartier dort ist nun in Gefahr."
-
 jap.90.b:0	"Sie werden uns nicht finden können, wir werden dort alle Beweise vernichten und umziehen."
-
 jap.91.d:0	"Ein Mitglied der restauratorischen Untergrundbewegung hat uns in letzter Zeit bei Versammlungen die Hölle heiß gemacht. Er behauptet immer wieder, dass die Japaner jetzt von unserem Plan wissen könnten und wir ihn ein für alle Mal stoppen sollten. Abgesehen von seinem mangelnden Glauben an die Bewegung, machen sich andere Mitglieder nun Sorgen, dass er unseren Plan den japanischen Behörden verraten könnte, um sein eigenes Leben zu retten, und erwägen, ihn zu beseitigen."
-
 jap.91.b:0	"Werden Sie ihn still und leise los."
-
 jap.92.d:0	"Ein geheimes Treffen wurde vereitelt, als ein japanischer Polizeibeamter den Raum betrat, in dem die Restauratoren ihre Zukunftspläne besprachen. Der Beamte wurde von den Restauratoren sofort ausgeschaltet und sie flohen vom Tatort, bevor weitere Polizisten eintrafen. Die Leiche des Offiziers wurde jedoch gefunden und einige Dokumente über die Bewegung wurden am Tatort zurückgelassen. Dies führte dazu, dass die Japaner die Existenz einer restauratorischen Untergrundgruppe vermuteten. Wenn wir einige Mitglieder der Bewegung anweisen, sich zum Wohle der Allgemeinheit zu stellen, könnte sich ihr Verdacht mit der Zeit zerstreuen."
-
 jap.92.b:0	"Erfolg erfordert Opfer."
-
 jap.93.d:0	"Gestern untersuchte ein japanischer Inspektor ein kleines Dorf, um festzustellen, ob es verdächtige Aktivitäten gab. Zu seinem Pech sind die Dorfbewohner den Japanern gegenüber nicht sehr aufgeschlossen. Bald entbrannte ein kleiner Konflikt und es wurde Blut vergossen. Während des Konflikts wurde der Inspektor getötet, und die überlebenden Assistenten des Inspektors forderten, dass das gesamte Dorf niedergebrannt und alle Dorfbewohner hingerichtet werden sollten. Wie sollten wir darauf reagieren?"
-
 jap.94.t:0	"Der Besuch eines japanischen Ermittlers"
-
 jap.94.a:0	"\nIch habe keine Ahnung, wovon du sprichst...\"  
-
 jap.95.t:0	"Stalker?"
-
 jap.95.a:0	"Wir müssen nur vorsichtiger sein, Lockvögel sind unnötig und kostspielig."
-
 jap.96.t:0	"Abgehörtes Telefon"
-
 jap.96.a:0	"Sagen Sie ihnen, dass sie weiterhin das Telefon benutzen sollen."
-
 increase_jap_awareness3_tt:0	"§RSteigern Sie den Bekanntheitsgrad der japanischen Regierung erheblich§!"
-
 jap.97.t:0	"Japanische Geheimpolizei"
-
 jap.97.a:0	"Wir dürfen nicht nachlassen!"
-
 jap.98.t:0	"[MCK.GetName]'s Verbot von Japanisch"
-
 jap.98.a:0	"Senden Sie das Ultimatum"
-
 jap.99.t:0	"Ultimatum von [From.GetName]"
-
 jap.99.a:0	"Wir können uns einfach nicht gegen sie verteidigen..."
-
 jap.100.t:0	"Verbot zurückgezogen"
-
 jap.100.a:0	"Nihon banzai!"
-
 jap.101.d:0	"Der Narr [From.GetLeader] hat beschlossen, gegen unsere Interessen zu handeln und sich zu weigern, das Verbot zurückzunehmen."
-
 jap.101.b:0	"Wir werden uns später mit ihnen befassen..."
-
 jap.102.d:0	"Die Beziehung von [MCK.GetLeader] zu den Restaurationisten ist sehr offensichtlich. Obwohl die Beamten ihn wirklich loswerden wollen, könnte dies die Einheimischen provozieren und den Chinesen mehr Kraft verleihen. In der gegenwärtigen Situation wäre es besser, ihn unter Hausarrest zu stellen, als ihn zu liquidieren."
-
 jap.102.b:0	"Das ist nicht nötig."
-
 jap.103.d:0	"Einige japanische Soldaten sind zum Komplex von [Root.GetLeader] gekommen und haben gesagt, es sei ihre Pflicht, ihn zu \"schützen" und zu \"bewachen". Die Wahrheit ist jedoch, dass [Root.GetLeader] auf Befehl aus Tokio unter Hausarrest steht. Die Restaurationisten sind empört über diese Aktion und planen nun, ihren Plan voranzutreiben, um die Autorität von [Root.GetLeader] zu sichern."
-
 jap.103.b:0	"Es ist noch nicht an der Zeit!"
-
 jap.104.d:0	"[From.GetLeader] hat beschlossen, zurückzuschlagen und seine Unabhängigkeit zu erklären! Ihre Truppen haben die Offensive gestartet!"
-
 jap.105.t:0	"[From.GetName] erklärt uns den Krieg"
-
 jap.105.a:0	"Lasst sie kommen!"
 jap.106.t:0	"Unsere alte Hauptstadt"
-
-
-
 jap.107.d:0	"[Root.GetLeader] war sehr lange krank, er ist schließlich an einer Krankheit verstorben. Nun wird ein neuer Anführer ernannt, um [Root.GetNameDef] zu beaufsichtigen."
 jap.107.a:0	"Wie auch immer."
-
-
-
 jap.74.b:0	"Wir sollten bei [CHI.GetAdjective] bleiben."
 jap.74.c:0	"Die [JAP.GetAdjective] sind schlimmer als die [CHI.GetAdjective]."
 jap.75.t:0	"[From.GetName] möchte sich uns anschließen"
-
-
-
 jap.76.t:0	"[From.GetName] Akzeptiert"
 jap.76.d:0	"[From.GetName] hat unsere Bitte angenommen!"
 jap.76.a:0	"Bravo!"
-
-
-
 jap.109.t:0	"Freundschaft zeigen"
-
-
-
 jap.111.b:0	"Wir kommen auch allein zurecht."
 jap.112.t:0	"[JAP.GetAdjective] Diplomaten"
 jap.112.d:0	"Diplomaten von [JAP.GetNameDef] sind in [Root.Capital.GetName] eingetroffen, um über ein Bündnis zwischen uns zu sprechen. Wenn das Abkommen zustande kommt, können wir vielleicht Hilfe von ihnen bekommen, wenn wir gegen [SOV.GetNameDef] in den Krieg ziehen."
-
-
-
 jap.113.d:0	"Wir haben jetzt ein Bündnis gegen [SOV.GetNameDef] mit [GER.GetNameDef] geschlossen."
 jap.113.a:0	"Schön"
 jap.114.t:0	"[GER.GetNameADJ] abgelehnt"
-
-
-
 jap.116.d:0	"[From.GetName] hat darum gebeten, dass wir unser Bündnis anerkennen und ihrem Krieg gegen [SOV.GetNameDef] beitreten."
 jap.116.a:0	"Gerne"
 jap.116.b:0	"Wir haben im Moment alle Hände voll zu tun."
-
-
-
 jap.118.t:0	"[From.GetName] Unehrenhafte Allianz"
 jap.118.d:0	"[From.GetName] hat sich geweigert, unserem Krieg gegen [SOV.GetNameDef] beizutreten, mit der Begründung, dass sie keine Ressourcen mehr entbehren können."
 jap.118.a:0	"Verflucht seien sie!"
-
-
-
 jap.109.a:0	"Wir können nur hoffen, dass sie uns im Gegenzug helfen werden."
 jap.109.b:0	"Wir können keinen Zweifrontenkrieg riskieren!"
 jap.110.t:0	"[From.GetName] erklärt [USA.GetName] den Krieg."
-
-
-
 jap.108.t:0	"Unsere Marionetten"
 jap.108.d:0	"Die Anzahl unserer Marionetten hat bei ihren Regierungen zu einigen Verwaltungsproblemen geführt. Vielleicht sollten wir versuchen, dieses Problem zu mildern, indem wir unserer größeren Marionette erlauben, einige der kleineren zu übernehmen?"
-
-
-
 jap.120.d:0	"Unser ehemaliger Oberherr [CHI.GetName] hat sich [JAP.GetNameDef] ergeben und wurde zu dessen Marionette. Jetzt ist es an der Zeit, dass wir unsere Wahl treffen."
 jap.120.a:0	"Reiht Euch ein..."
 jap.120.b:0	"Wir werden niemals Sklaven sein!"
-
-
-
 jap.129.t:0	"Die Bedrohung im Fernen Osten"
 jap.129.d:0	"Angesichts der militärischen Erfolge von [GER.GetName] in Europa scheint ein Krieg zwischen ihnen und dem Mutterland unvermeidlich. Außerdem haben sie einen Militärpakt mit [JAP.GetName] geschlossen, was eine große Bedrohung für unsere Interessen und unsere Sicherheit im Fernen Osten darstellt. Die gute Nachricht ist jedoch, dass [JAP.GetName] unsere militärische Stärke ebenfalls fürchtet und eine direkte Konfrontation mit unseren Streitkräften lieber vermeiden würde. Wir können dies als Gelegenheit nutzen, um einen Zweifrontenkrieg zu vermeiden."
-
-
-
 jap.130.d:0	"Unser Außenminister ist nach [From.Capital.GetName] gerufen worden, um über einen Nichtangriffspakt zwischen uns zu sprechen. Wenn wir diesen akzeptieren, hätten wir eine Bedrohung weniger, um die wir uns sorgen müssten, wenn wir mit anderen europäischen Mächten in den Krieg ziehen."
 jap.130.a:0	"Unterschreiben Sie."
 jap.130.b:0	"Das liegt nicht in unserem Interesse!"
-
-
-
 jap.132.t:0	"[From.GetName] lehnt ab"
 jap.132.d:0	"[From.GetName] hat unseren Vorschlag abgelehnt und weigert sich, einen Nichtangriffspakt mit uns zu schließen."
 jap.132.a:0	"Dann werden auch sie mit der Macht der Roten Armee konfrontiert werden."
-
-
 jap.138.t:0	"Angriff auf [SOV.GetNameDef]?"
 jap.138.d:0	"Wenn wir [SOV.GetNameDef] jetzt den Krieg erklären, können wir vielleicht die reichen Bodenschätze im Fernen Osten und in Sibirien erwerben."
-
-
-
 jap.139.d:0	"Da [SOV.GetNameDef] den Krieg verliert, hat [From.GetNameDef] beschlossen, ihnen den Krieg zu erklären, um ihren Anteil an der Beute einzufordern."
 jap.139.a:0	"Gefraessiger Opportunist."
 jap.140.t:0	"[From.GetName] erklärt uns den Krieg"
-
-
-
 jap.141.d:0	"Nach der Konferenz von Jalta haben uns unsere westlichen Verbündeten seit geraumer Zeit gedrängt, [JAP.GetNameDef] den Krieg zu erklären."
 jap.141.a:0	"Greifen Sie die [JAP.GetAdjective] an."
 jap.141.b:0	"Daran haben wir kein Interesse."
-
-
-
 KMT_will_be_requested_to_fight_jap_after_GER_surrender:0	"Es wird ein Ereignis geben, das es Ihnen ermöglicht, [JAP.GetName] den Krieg zu erklären, nachdem [GER.GetName] kapituliert hat.\n"
 jap.145.t:0	"[WJW.GetName] Errichtet"
-
-
 jap.146.t:0	"Sich [JAP.GetName] anschließen?"
 jap.146.d:0	"[CHI.GetName] hat beschlossen, [JAP.GetName] weitere Zugeständnisse zu machen, indem sie Nordchina aufgibt. Ihr Einfluss in der Region hat sich drastisch verringert, und wir können dies als Gelegenheit nutzen, uns [JAP.GetName] anzuschließen, ohne dass [CHI.GetAdjective] eingreift."
-
-
-
 jap.147.d:0	"[From.GetName] hat Vertreter geschickt, die ihren Wunsch zum Ausdruck bringen, in unseren Einflussbereich aufgenommen zu werden."
 jap.147.a:0	"Annehmbar."
 jap.147.b:0	"Das muss eine Art böser Plan sein..."
-
-
-
 jap.149.t:0	"[From.GetName] Abgelehnt"
 jap.149.d:0	"[From.GetName] hat unsere Bitte, sich ihnen anzuschließen, abgelehnt."
 jap.149.a:0	"Das funktioniert nicht wie geplant..."
-
-
-
 jap.151.t:0	"Rache"
 jap.151.d:0	"Jetzt, wo wir unsere Freiheit wiedererlangt haben, sollten wir uns an denen rächen, die uns in der Vergangenheit unterdrückt haben!"
-
-
-
 jap.152.d:0	"Wang Jingwei, ein Linker der Kuomintang, der für seine pazifistische Haltung im gegenwärtigen Krieg bekannt ist, hat sich mit uns in Verbindung gesetzt, um einen Vorschlag für eine neu zu bildende Regierung in [613.GetName] zu machen."
 jap.152.a:0	"Interessant"
-
-
-
-
 jap.115.b:0	"Wir haben unsere eigenen Gründe..."
 jap.115.c:0	"Was für ein erbärmlicher Versuch."
 jap.115.e:0	"Interessante Entwicklung."
-
-
 jap.126.d:0	"\nit Unterstützung der [JAP.GetAdjective]-Regierung wurde [WJW.GetLeader] in Nanking als Chef der [WJW.GetNameDef] mit Sitz in [WJW.Capital.GetName] an die Macht gebracht. Die Marionettenregierung wird bald von [JAP.GetName]'s Verbündeten und ihren anderen Marionetten anerkannt, während andere dies nicht tun.\n\n[WJW.GetLeader]'s Aktion würde von den Chinesen, die noch gegen die japanischen Invasoren kämpfen, als Verrat angesehen werden. Sollte der Krieg mit einer japanischen Niederlage enden, könnte er mit ernsten Konsequenzen rechnen."
-
 jap.126.b:0	"Japans Einflussbereich wächst..."
-
 jap.127.t:0	"[From.GetName] rebelliert gegen [JAP.GetName]"
-
 jap.127.a:0	"Verräter!"
-
 jap.127.c:0	"Ein Wolf, der in der Nähe gehalten wird, wird sich irgendwann gegen dich wenden."
-
-
 jap.133.a:0	"Ein Sieg für uns."
-
 jap.133.c:0	"Solch ein Verrat!!"
-
 jap.134.t:0	"[JAP.GetName] lehnt Nichtangriffspakt mit [SOV.GetName] ab"
-
 jap.134.a:0	"Verflucht seien diese gelben Gefahren!"
-
 jap.134.c:0	"Ein erbärmlicher Versuch."
-
 jap.134.f:0	"Eine Fehlkalkulation von [SOV.GetNameDef], vielleicht."
-
 jap.136.d:0	"\n[KMT_SJ_neutrality_broker.GetName] hat den sowjetisch-japanischen Neutralitätspakt gebrochen, indem er [KMT_SJ_neutrality_attacked.GetName] den Krieg erklärt hat. Die Kriegsmaschinen von [KMT_SJ_neutrality_broker.GetAdjective] haben die Grenze überquert und sind in die Gebiete von [KMT_SJ_neutrality_attacked.GetAdjective] eingedrungen. Obwohl sie über den Verrat von [KMT_SJ_neutrality_broker.GetName] schockiert ist, hat [KMT_SJ_neutrality_attacked.GetName] begonnen, Truppen zu mobilisieren, um die Front von [KMT_SJ_neutrality_broker.GetAdjective] zu verteidigen."
-
 jap.136.b:0	"Wir werden sie begraben!"
-
 jap.136.e:0	"Hinterhältige Bastarde!"
-
 jap.136.g:0	"Wir herrschen über alles!"
-
 JAP_establish_PGR:0	"Errichtet eine Marionettenregierung in [608.GetName]"
-
-
-
 JAP_establish_RGR_desc:0	"Wir haben jetzt die volle Kontrolle über [613.GetName], aber der Umgang mit der lokalen Bevölkerung und der Widerstand haben einige unserer Soldaten daran gehindert, sich an der Front zu engagieren. Sollten wir dort eine Marionettenregierung einsetzen, würde sich die neue Regierung um die Chinesen in den von uns besetzten Gebieten kümmern und unsere Verwaltungskosten für die Besetzung reduzieren."
 JAP_establish_WJW:0	"Einsetzung des Regimes von Wang Jingwei"
 JAP_establish_WJW_desc:0	"Wang Jingwei, ein Linker der Kuomintang, der für seine pazifistische Haltung im gegenwärtigen Krieg bekannt ist, hat sich mit uns in Verbindung gesetzt, um uns einen Vorschlag für die Einsetzung einer neuen Regierung in [613.GetName] zu unterbreiten."
-
-
-
-
-
 MCK_xie_jieshi:0	"Xie Jieshi"
 MCK_muto_nobuyoshi:0	"Muto Nobuyoshi"
 MCK_yukio_kasahara:0	"Kasahara Yukio"
-
-
-
 MCK_itagaki_seishiro:0	"Itagaki Seishiro"
 MCK_heitaro_kimura:0	"Kimura Heitaro"
 MCK_aisin_gioro_xiqia:0	"Aisin Gioro Xiqia"
-
-
-
 MCK_mangyo_idea:0	"Mangyo"
 MCK_mangyo_idea_desc:0	"Manshu Jukogyo Kaihatsu Kabushiki Kaisha (Manchurian Industrial Development Company), kurz Mangyo, ist eine Zaibatsu, die auf Veranlassung der kaiserlichen japanischen Armee gegründet wurde, um die Industrialisierung von Mandschukuo voranzutreiben und es insbesondere in der strategischen Schwerindustrie autark zu machen."
 MCK_opium_plantation:0	"Opiumanbau"
-
-
-
 MCK_msflm_idea:0	"Mandschu-Gesellschaft für Leichtmetall"
 MCK_msflm_idea_desc:0	"Die Mandschu-Gesellschaft für Leichtmetall wird gegründet, um die Ausbeutung der Aluminiumvorkommen in Liaoning zu erhöhen."
 MCK_increased_factory_output:0	"Aufrüsten!"
-
-
-
 MCK_labour_service_corps_idea_desc:0	"Diejenigen, die die Anforderungen der Wehrpflicht nicht erfüllen, werden als Arbeitsdienstkorps eingesetzt, das für Bauarbeiten zuständig ist."
 MCK_restoration_propaganda:0	"Restaurationistische Propaganda"
 MCK_anti_japanese_sentiment:0	"Anti-japanische Gesinnung"
-
-
-
 MCK_megata_toshiro:0	"Megata Toshiro"
 MCK_nalan_kang_an:0	"Nalan Kang An"
 MCK_songgotu_zhanshan:0	"Songgotu Zhanshan"
-
-
-
 MCK_kyoiji_tomonaga:0	"Kyoiji Tomonaga"
 MCK_hesehn_tiemei:0	"Hesehn Tiemei"
 MCK_hung_zhehuang:0	"Hung Zhehuang"
-
-
-
 MCK_RFP_white_movement:0	"Die Weiße Bewegung"
 MCK_efficient_command_structure:0	"Effiziente Kommandostruktur"
 MCK_cadets_in_jap_academy:0	"Kadetten in der japanischen Akademie"
-
-
-
 MCK_zongli_yamen:0	"Zongli Yamen"
 MCK_dongbei_partisan:0	"Dongbei Partisanen"
 MCK_dongbei_partisan_desc:0	"Seit der japanischen Besatzung haben kommunistische Partisanen im nördlichen Teil unserer Gebiete Stellung bezogen.\n\n§RZeitweise Schäden an Gebäuden und Infrastrukturen in den chinesischen Kernstaaten.§!"
-
-
-
 MCK_yoshisuke_aikawa_tfv:0	"Aikawa Yoshisuke"
 MCK_muto_nobuyoshi_tfv:0	"Muto Nobuyoshi"
-
-
-
 MCK_yoshiko_kawashima_tfv:0	"Kawashima Yoshiko"
 MCK_naoki_hoshino_tfv:0	"Hoshino Naoki"
 MCK_nakajima_kesago_tfv:0	"Nakajima Kesago"
-
-
-
 MCK_communist_influence:0	"Kommunistischer Einfluss"
 MCK_democratic_influence:0	"Demokratischer Einfluss"
 MCK_yukio_kasahara_tfv:0	"Yukio Kasahara"
-
-
 MCK_nationalism_military:0	"Starker Nationalismus im Militär"
-
 MCK_confidentiality_first:0	"Vertraulichkeit zuerst"
-
 MCK_halt_guerilla_expansion:0	"Guerilla-Expansion gestoppt"
-
 jap_aware_1:	"Geringes Bewusstsein"
-
 jap_aware_3:	"Interne Angelegenheiten stören"
-
 MCK_halt_propagation:0	"Bewegung gestoppt"
 ECR_li_shouxin:0	"Li Shouxin"
-
-
-
 JAP_hakko_ichiu:0	"Hakko Ichiu"
 JAP_hakko_ichiu_desc:0	"Es heißt, dass der legendäre Kaiser Jinmu einst sagte: Ich werde die acht Himmelsrichtungen umfassen und sie zu meinem Wohnsitz machen. Diese zweideutige Aussage wurde von einigen Japanern so interpretiert, dass Japan eines Tages die Welt beherrschen wird. Obwohl die militärischen Kreise innerhalb der Nation die gleiche Interpretation haben, ist ihre Auslegung im Vergleich zu anderen nicht besonders pazifistisch..."
-
-
 KMT_JAP_defend_the_home_islands:0	"Verteidigt die Heimatinseln!"
 WJW_li_shiqun:0	"Li Shiqun" 
-
-
-
-
-
-
 MCK_assassinated:0	"Ermordet"
-
-
 MCK_navy_allowed:0	"Erlaubnis von Japan erteilt"
-
-
 annexed_ECR:0	"Einverstanden, die mongolische Militärregierung einzusetzen"
-
-
-
 ceremonial_air:0	"Zeremoniell"
 ceremonial_army:0	"Zeremoniell"
 ceremonial:0	"Zeremoniell"
-
-
-
 army_chief_organizational_2_mck:0	"Heeresorganisation (japanisch)"
 military_theorist_mck:0	"Kantogun-Berater"
-
-
-
 army_regrouping_2_mck:0	"Heeresumgruppierung\n(japanisch)"
 army_infantry_2_mck:0	"Infanterie\n(Japanisch)"
 captain_of_industry_mck:0	"Begründer von Nissan"
-
-
 military_theorist_mck_tfv:0	"Kantogun-Berater"
-
 army_chief_drill_1_mck_tfv:0	"Armee Drill\n(Japanisch)"
-
 army_regrouping_2_mck_tfv:0	"Heeresumgruppierung\n(japanisch)"
-
 captain_of_industry_mck_tfv:0	"Begründer von Nissan"
-
 lawrence_of_manchuria_tfv:0	"Lawrence der Mandschurei"
-
 armaments_organizer_mck:0	"Rüstungsorganisator"
 MCK_under_house_arrest:0	"Unter Hausarrest"
-
-
-
 MCK_fascism_DEF:0	"Mandschukuo"
 MCK_neutrality:0	"Qing"
 MCK_neutrality_party:0	"Restauratoren"
-
-
-
 MCK_communism_ADJ:0	"Mandschu"
 MCK_communism_DEF:0	"Der sozialistische Mandschu-Staat"
 MCK_qing_restored:0	"Qing-Dynastie"
-
-
-
 MCK_RFP_rebelled_party:0	"RFP"
 MCK_RFP_rebelled_party_long:0	"Rossijskaja Faschistskaja Partija"
 CHI_JAP_fascism:0	"Reorganisierte Nationalistische Regierung"
-
-
-
 qing_dynasty:0	"Das himmlische Reich"
 PGR_neutrality_party:0	"Politischer Rat von Hebei-Chahar"
-
-
 MongalCouncilCtag_neutrality:0	"Politisches Komitee Mongal"
 MongalCouncilCtag_neutrality_DEF:0	"Das Politische Komitee der Mongolei"
-
-
-
 ChaharCouncilCtag_neutrality_DEF:0	"Das Politische Komitee Chahar Mongal"
 MMGmen_fascism:0	"Mongolische Militärregierung"
 MMGmen_fascism_DEF:0	"Die mongolische Militärregierung"
-
-
 mengjian_joint:0	"Gemeinsamer Ausschuss Mengjiang"
 ECSAR_fascism:0	"Autonome Sonderregion Ost-Chahar"
-
-
 PGR_fascism_ADJ:0	"Chinesisch"
-
 PGR_JAP_autonomy_puppet:0	"Provisorische Regierung der Republik China"
-
 GER_JAP_tripartite_defensive_SOV_tt:0	"[Root.GetName] und [GER.GetName] haben die Möglichkeit, sich gegenseitig zu unterstützen, wenn einer von ihnen von [SOV.GetName]\n angegriffen wird"
-
-
 MCK_infantry_equipment_0:0	"Hanyang Typ 88 & Hanyang M1935 Bajonett"
-
-
-
 MCK_support_weapons:0	"Typ 24 & Stokes Mörser"
 MCK_gw_tank_equipment:0	"FT 17 Renault"
 MCK_gw_tank_equipment_short:0	"FT 17"
-
-
 MEN_establish_new_regime:0	"Etablierung des neuen Regimes"
-
-
-
 MEN_seize_fishing_ships:0	"Beschlagnahme von Fischereischiffen"
 MEN_6th_national_congress:0	"6. Nationalkongress der Kuomintang"
 MEN_absorb_chinese_government:0	"Absorption der Reste der chinesischen Regierung"
-
-
-
 MEN_expand_the_police:0	"Ausweitung der Geheimpolizei"
 MEN_kempetai_integration:0	"Integration der Kempetai-Polizei"
 MEN_suppress_the_coast:0	"Unterdrückung des Widerstands an der Küste"
-
-
-
 MEN_army_expansion:0	"Ausbau der Armee"
 MEN_establish_nanjing_military_academy:0	"£tech_mod Gründung der Militärakademie in Nanjing"
 MEN_mechanized_experiments:0	"Experimente zur Mechanisierung"
-
-
-
 MEN_expand_the_academy:0	"Ausbau der Militärakademie in Nanjing"
 MEN_cooperate_with_zaibatsus:0	"Zusammenarbeit mit japanischen Zaibatsus"
 MEN_japanese_industrial_investments:0	"£tech_mod Japanische Industrieinvestitionen ausbauen"
-
-
-
 MEN_arms_modernization:0	"Modernisierung der Panzer"
 MEN_repair_chinese_factories:0	"Ruinierte Fabriken reparieren"
 MEN_rebuild_camco_factories:0	"Wiederaufbau von CAMCO-Fabriken"
-
-
-
 MEN_develop_naval_bombers:0	"Entwicklung von Marinebombern"
 MEN_study_foreign_ship_designs:0	"Studium ausländischer Schiffskonstruktionen"
 MEN_coastal_designs:0	"Entwürfe für Küstenschiffe"
-
-
-
 MEN_commit_to_pacific_war:0	"£tech_mod engagieren sich für den Pazifikkrieg"
 MEN_chinese_carriers:0	"Chinesische Flugzeugträgerexperimente"
 MEN_carrier_aircraft_experiments:0	"Träger-Flugzeug-Experimente"
-
-
-
 MEN_found_chinese_zaibatsu:0	"£tech_mod hat eine chinesische Zaibatsu gefunden"
 MEN_exploit_our_minerals:0	"Ausbeutung unserer Bodenschätze"
 MEN_synthetic_oil_experiments:0	"Experimente mit synthetischem Öl"
-
-
-
 MEN_towards_stability:0	"Auf dem Weg zur Stabilität"
 MEN_fight_illiteracy:0	"Bekämpfung des Analphabetismus"
 MEN_solidify_our_position:0	"Unsere Position festigen"
-
-
-
 MEN_complete_coast_control:0	"Vollständige Befriedung der Küste"
 MEN_drive_resistance_from_south:0	"Zerschlagung des Widerstands in Südchina"
 MEN_crush_resistance_in_south:0	"Niederschlagung des Widerstands in Südchina"
-
-
-
 MEN_complete_control_south:0	"Vollständige Befriedung in Südchina"
 MEN_crush_resistance_in_center:0	"Niederschlagung des Widerstands in Zentralchina"
 MEN_control_central_cities:0	"Kontrolle über die zentralen Städte"
-
-
-
 MEN_control_southwestern_cities:0	"Kontrolle über die südwestlichen Städte"
 MEN_complete_southwest_control:0	"Vollständige Befriedung im Südwesten Chinas"
 MEN_drive_resistance_from_north:0	"Niederschlagung des Widerstands in Nordchina"
-
-
-
 MEN_drive_resistance_from_northwest:0	"Niederschlagung des Widerstands im Nordwesten Chinas"
 MEN_crush_resistance_in_northwest:0	"Zerschlagung des Widerstands im Nordwesten Chinas"
 MEN_control_northwestern_cities:0	"Kontrolle über die Städte im Nordwesten"
-
-
-
 MEN_integrate_sinkiang:0	"Eingliederung von Sinkiang"
 MEN_integrate_tibet:0	"Eingliederung von Tibet"
-
-
-
 MEN_reduced_excavation2:0	"Ineffiziente Abbau II"
 MEN_mining_advancements:0	"Verbesserte Extraktionsmethoden"
 MEN_post_war_recovery:0	"Wiederaufbau nach dem Krieg"
-
-
-
 MEN_develop_air_doctrine:0	"Entwicklung der Luftfahrtdoktrin"
 MEN_puppet_government:0	"Japanische Marionettenregierung"
 MEN_partisans:0	"Partisanenwiderstand in der Nachkriegszeit"
-
-
-
 china.400.b:0	"Beende mein Leiden!"
 china.401.t:0	"Die Kapitulation Chinas!"
 china.401.d:0	"Die kaiserliche japanische Armee ist siegreich! Die Republik China hat kapituliert, und ihre Regierung wurde aufgelöst, aber wir können auf absehbare Zeit mit weiterem Partisanenwiderstand rechnen. Nun müssen wir entscheiden, ob wir unserer neu gebildeten Marionettenregierung die volle Kontrolle über die eroberten Gebiete übertragen wollen oder nicht."
-
-
-
 china.402.t:0	"Annektierung der Küste"
 china.402.d:0	"Annektierung der Küste"
 china.402.a:0	"Annektierung der Küste"

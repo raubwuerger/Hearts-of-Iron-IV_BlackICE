@@ -1691,2608 +1691,1186 @@ hungary_flavor.99.b:0	"Wir führen die eingeschränkte Forschung im Geheimen dur
 hungary_flavor.99.c:0	"Unser Bestes tun, um die Grenzen einzuhalten."
 hungary_flavor.99.tt:0	"Der Fortschritt des Györi-Programms wird leicht behindert werden."
 trianon_cheat:	"Verdacht auf Betrug"
-
 hungary_flavor.100.t:0	"Die Visegrád-Gruppe"
-
-
 hungary_flavor.100.d_pol:0	"Nur Polen stimmte zu, unserem Bündnis beizutreten. Dennoch wird die Fraktion gebildet werden, wenn auch nur mit zwei Gründungsmitgliedern."
 hungary_flavor.100.d_neither:0	"Eine Katastrophe! Weder die Tschechoslowakei noch Polen sind dem vorgeschlagenen Bündnis beigetreten. Wir stehen mit unserem Kampf allein da."
-
-
 hungary_flavor.100.c:0	"Zumindest unsere polnischen Freunde sind bereit, sich anzuschließen."
 hungary_flavor.100.e:0	"Es scheint, dass dieses Bündnis gestorben ist, bevor es geboren werden konnte."
-
-
 hungary_flavor.101.d_some:0	"Die baltische Erweiterung war ein Teilerfolg. Wir konnten nicht alle baltischen Staaten zum Beitritt bewegen, aber das Bündnis wird trotzdem erweitert."
 hungary_flavor.101.d:0	"Die Erweiterung des Baltikums war ein Teilerfolg. Wir konnten nicht alle baltischen Staaten überzeugen, dem Bündnis beizutreten, aber das Bündnis wird trotzdem erweitert."
-
-
 hungary_flavor.101.b:0	"Lassen Sie uns die neuen Mitglieder willkommen heißen."
 hungary_flavor.101.c:0	"Ein enttäuschendes Ergebnis."
-
-
 hungary_flavor.102.d_no_galicia:0	"Die Entscheidung ist gefallen. Österreich-Ungarn wird in eine Föderation umgewandelt, die aus 5 Mitgliedsstaaten besteht: Österreich, Ungarn, Böhmen, Siebenbürgen und Jugoslawien. Einige Staaten werden Unterteilungen haben, wo es die ethnischen Grenzen erfordern, aber größtenteils werden dies die selbstverwalteten Regionen der Föderation sein. Alle Staaten werden ernannte Vertreter haben, die an einem Rat teilnehmen, der unter der Aufsicht des Monarchen steht."
 hungary_flavor.102.a:0	"Sie wird Österreich-Ungarische Föderation genannt werden."
-
-
 hungary_flavor.103.t:0	"Albanien will sich unserer Fraktion anschließen"
-
-
 hungary_flavor.103.b:0	"Ist es nicht genug, dass wir ihnen Montenegro gegeben haben?"
-
-
 hungary_flavor.104.a:0	"Angliederung von Karpaten-Ruthenien."
 hungary_flavor.104.b:0	"Wir scheren uns nicht um Grenzen."
-
-
 hungary_flavor.105.a:0	"Heißen Sie sie in unserer Fraktion willkommen."
 hungary_flavor.105.b:0	"Lehnen Sie ihre Initiative höflich ab."
-
-
 hungary_flavor.106.a:0	"Ein großer Erfolg für unser Land."
-
-
 hungary_flavor.107.a:0	"Hoffen wir auf ein positives Ergebnis."
-
-
 hungary_flavor.108.a:0	"Sie können uns nicht ewig das Recht darauf verweigern."
 hungary_flavor.108.b:0	"Nutzen Sie unseren Einfluss in der Fraktion, um das Referendum zu erzwingen."
-
-
 hungary_flavor.109.a:0	"Ein durchschlagender Erfolg für das Bündnis."
-
-
 hungary_flavor.110.a:0	"Sie wissen nicht, was ihnen entgeht."
-
-
 hungary_flavor.111.a:0	"Und dennoch musste kein Blut vergossen werden."
-
-
 hungary_flavor.112.a:0	"Dennoch ist es ein faires Abkommen."
-
-
 hungary_flavor.113.a:0	"Eine Verschwendung von Mühe."
-
-
 hungary_flavor.114.a:0	"Ja, natürlich."
 hungary_flavor.114.b:0	"Wir haben keinen Bedarf an diesen Gebieten."
-
-
 hungary_flavor.115.a:0	"Wir wollen daran nicht teilhaben."
 hungary_flavor.115.b:0	"Wir werden uns mit dem Karpaten-Ruthenien zufrieden geben."
-
 hungary_flavor.116.t:0	"Hitler stimmt unserer Bitte zu"
-
-
 hungary_flavor.117.t:0	"Unschlüssiges Treffen"
-
-
 hungary_flavor.118.t:0	"Finnland nimmt das Bündnis an"
-
-
 hungary_flavor.119.t:0	"Finnland lehnt das Bündnis ab"
-
-
 hungary_flavor.120.t:0	"Frieden mit Großbritannien"
-
-
 hungary_flavor.120.b:0	"Wir sind mit diesem Krieg noch nicht fertig."
-
-
 hungary_flavor.121.a:0	"Endlich Frieden."
-
-
 hungary_flavor.122.a:0	"Sie werden bereuen, dass sie den Frieden nicht sofort unterzeichnet haben."
-
-
 hungary_flavor.123.a:0	"Wir werden keine neue Regierung gründen."
 hungary_flavor.123.b:0	"Wir werden die gesamte Slowakei als Marionettenstaat errichten."
-
 hungary_flavor.124.t:0	"Ansprüche an Jugoslawien"
-
-
 hungary_flavor.124.b:0	"Wir wollen immer noch die Gebiete, die eine ungarische Mehrheit haben."
 hungary_flavor.124.c:0	"Wir werden nicht auf irgendwelche Ansprüche verzichten."
-
-
 hungary_flavor.125.a:0	"Wir werden auf alle Ansprüche gegenüber Kroatien verzichten."
 hungary_flavor.125.b:0	"Wir halten alle Ansprüche gegenüber Kroatien aufrecht."
-
-
 hungary_flavor.126.a:0	"Lang lebe die Republik!"
-
-
 hungary_flavor.127.a:0	"Bieten Sie unsere Hilfe im Gegenzug für Siebenbürgen an."
 hungary_flavor.127.b:0	"Versuchen Sie, so lange wie möglich neutral zu bleiben."
-
-
 hungary_flavor.128.a:0	"Davon hätten wir beide profitieren können."
-
-
 hungary_flavor.129.a:0	"Heißen wir sie willkommen."
-
-
 hungary_flavor.130.a:0	"Eine echte Schande."
-
-
 hungary_flavor.131.a:0	"Damit müssen wir uns vorerst zufrieden geben."
-
-
 hungary_flavor.132.a:0	"Und niemand musste verletzt werden."
-
-
 hungary_flavor.133.a:0	"Sie werden diese Entscheidung noch bereuen."
-
-
 hungary_flavor.134.a:0	"Wir werden stärker."
-
-
 hungary_flavor.135.a:0	"Ohne uns werden sie bald untergehen."
-
-
 hungary_flavor.136.a:0	"Ok."
-
-
 hungary_flavor.137.a:0	"Lasst sie durch."
 hungary_flavor.137.b:0	"Wir werden unsere polnischen Freunde nicht verraten."
-
-
 hungary_flavor.138.a:0	"Lasst sie herein."
 hungary_flavor.138.b:0	"Wir werden nicht den Zorn der Deutschen riskieren."
-
-
 hungary_flavor.139.a:0	"Zaolzie gehört zu Polen."
 hungary_flavor.139.b:0	"Die Dinge sind in Ordnung, so wie sie sind."
-
-
 hungary_flavor.140.a:0	"Gute Nachrichten."
-
-
 hungary_flavor.141.a:0	"Ihr Stolz nützt ihnen jetzt wenig."
-
-
 hungary_flavor.142.a:0	"Es lebe der neue, trialistische Staat!"
-
-
 hungary_flavor.143.a:0	"Zu den Waffen!"
-
-
 hungary_flavor.144.a:0	"Wir werden keine neue Regierung gründen."
 hungary_flavor.144.b:0	"Wir werden die gesamte Karpatenukraine als Marionettenstaat einrichten."
-
 hungary_flavor.145.t:0	"Zusammenschluss von Slowakei und Karpatenruthenien"
-
-
 hungary_flavor.145.b:0	"Die Slowakei erhält die nördlichen Teile der Karpatenruthenie."
-
-
 hungary_flavor.146.a:0	"Die beiden Staaten sollen getrennt bleiben."
 hungary_flavor.146.b:0	"Die Karpatenukraine soll mit der Slowakei vereinigt werden."
-
-
 hungary_flavor.147.a:0	"Die Südslowakei wird bei der Slowakei bleiben."
 hungary_flavor.147.b:0	"Wir werden es der Karpato-Ukraine geben."
-
-
 hungary_flavor.148.t:0	"Selbstverwaltung Siebenbürgens"
-
-
 hungary_flavor.148.b:0	"Richten Sie Siebenbürgen als Marionettenstaat ein."
 hungary_flavor.148.c:0	"Siebenbürgen als Marionettenstaat einrichten, aber Banat und Partium behalten."
-
-
 hungary_flavor.149.a:0	"Ausgezeichnet."
-
-
 hungary_flavor.150.a:0	"Wie schade."
-
-
 hungary_flavor.151.a:0	"Wir werden das Abkommen einhalten."
 hungary_flavor.151.b:0	"Ich nehme an, wir könnten diese Schiffe einfach ignorieren."
-
-
 hungary_flavor.152.a:0	"Sie wollen sich allein gegen die Kapitalisten und Faschisten stellen?"
-
-
 hungary_flavor.153.a:0	"Wir haben alles versucht, um Genosse [SOV.GetLeader] zu überzeugen."
-
-
 hungary_flavor.154.a:0	"Unsere polnischen Freunde werden sich das in sie gesetzte Vertrauen sicherlich verdienen."
-
-
 hungary_flavor.155.a:0	"Sie werden sich dann mit der sowjetischen Führung begnügen müssen."
-
-
 hungary_flavor.156.a:0	"Wir versuchen, uns selbst nicht zu verwickeln."
 hungary_flavor.156.b:0	"Lassen Sie sie heimlich wissen, dass wir sie unterstützen."
-
 hungary_flavor.157.t:0	"Waffen für die deutschen Royalisten"
-
-
 hungary_flavor.157.b:0	"Fangt an, Ausrüstung für sie zu lagern."
 hungary_flavor.157.c:0	"Das ist unsere oberste Priorität. Wir werden ihnen geben, was wir können."
-
-
 hungary_flavor.158.a:0	"Sie müssen dies selbst planen."
 hungary_flavor.158.b:0	"Helfen Sie ihnen, Propagandamaterial zu verbreiten."
-
 hungary_flavor.159.t:0	"Versprechen militärischer Hilfe für die deutschen Royalisten"
-
-
 hungary_flavor.159.b:0	"Wir werden ihnen beistehen, wenn die Zeit gekommen ist."
-
-
 hungary_flavor.160.a:0	"Gemeinsam werden wir den alten Ruhm Deutschlands wiederherstellen!"
-
-
 hungary_flavor.161.a:0	"Eine lohnende Anstrengung."
-
-
 hungary_flavor.162.a:0	"Ausgezeichnet."
-
-
 hungary_flavor.163.a:0	"Eine Schande. Das hätte die Dinge für alle einfacher gemacht."
-
-
 hungary_flavor.164.a:0	"Wir dürfen keine Zeit verlieren. Wir müssen angreifen, während sie abgelenkt sind."
-
-
 hungary_flavor.165.a:0	"Natürlich werden wir die Vereinbarung einhalten."
 hungary_flavor.165.b:0	"Wenn ich es mir recht überlege, werden wir behalten, was wir haben."
-
-
 hungary_flavor.166.a:0	"Ich hätte wissen müssen, dass wir ihnen nicht trauen können!"
-
-
 hungary_flavor.167.a:0	"Erfolg!"
-
-
 hungary_flavor.168.a:0	"Vielleicht an einem anderen Tag."
-
-
 hungary_flavor.169.a:0	"Die Revolution ist da!"
-
-
 hungary_flavor.170.a:0	"Wir werden sofort damit beginnen, die zustimmenden Parteien zu unterstützen."
 hungary_flavor.170.b:0	"Sie haben falsche Visionen von der Zukunft der Revolution."
-
-
 hungary_flavor.171.a:0	"Eine gute Nachricht!"
-
-
 hungary_flavor.172.a:0	"Ausgezeichnete Neuigkeiten!"
-
-
 hungary_flavor.173.a:0	"Traurig zu hören."
-
-
 hungary_flavor.174.a:0	"Ausgezeichnete Neuigkeiten!"
-
-
 hungary_flavor.175.a:0	"Traurig zu hören."
-
-
 hungary_flavor.176.a:0	"Gemeinsam werden wir diesen Sturm überstehen."
-
-
 hungary_flavor.177.a:0	"Vielleicht können sie noch gerettet werden."
-
-
 hungary_flavor.178.a:0	"Wie können sie leugnen, dass diese Gebiete ukrainisch sind?"
-
-
 hungary_flavor.179.a:0	"Sie sollten sich stattdessen auf unsere wahren Feinde konzentrieren."
-
-
 hungary_flavor.180.a:0	"Wenigstens haben wir es versucht."
-
-
 hungary_flavor.181.a:0	"Ein großer Tag für unser Bündnis!"
-
-
 hungary_flavor.182.a:0	"Wählen Sie Milan Hodza."
 hungary_flavor.182.b:0	"Wählen Sie Jozef Tiso."
-
 hungary_flavor.183.t:0	"Danubische Arbeiter befreit"
-
-
 hungary_flavor.184.t:0	"Danubische Arbeiter im Ausland in Aufruhr"
-
-
 hungary_flavor.184.a:0	"Wir müssen ihnen helfen, sich zu befreien!"
 hungary_flavor.184.b:0	"Sie sind auf sich selbst gestellt."
-
-
 hungary_flavor.185.a:0	"Ein kleiner Preis, den wir für unsere Sicherheit zahlen."
-
-
 hungary_flavor.186.a:0	"Wir werden das Geld anderweitig auftreiben müssen."
-
-
 hungary_flavor.187.a:0	"Sie sind ohnehin nicht willkommen."
-
-
 hungary_flavor.188.a:0	"Sollen sie doch ihr verdammtes Geld woanders hinbringen."
-
-
 hungary_flavor.189.a:0	"Unsere Wirtschaft ist auch ohne sie stark genug."
-
-
 hungary_flavor.190.a:0	"Das ist nur natürlich. Sie sind jetzt unsere Feinde."
-
-
 hungary_flavor.191.a:0	"An Hitler appellieren, Zugeständnisse zu machen."
 hungary_flavor.191.b:0	"Um mehr militärische Koordinierung bitten."
-
 hungary_flavor.192.t:0	"Hitler stimmt einer verstärkten militärischen Zusammenarbeit zu."
-
-
 hungary_flavor.193.t:0	"Hitler lehnt verstärkte militärische Zusammenarbeit ab"
-
-
 hungary_flavor.194.t:0	"Ideologische Differenzen ausgeräumt"
-
-
 hungary_flavor.195.t:0	"Ideologische Differenzen bleiben bestehen"
-
-
 hungary_flavor.196.t:0	"Proteste gegen die Regierung"
-
-
 hungary_flavor.197.t:0	"Schnellwahlen"
-
-
 hungary_flavor.198.t:0	"Erneute kommunistische Säuberung"
-
-
 hungary_flavor_territory.1.t:0	"Integration der alten Länder"
-
-
 hungary_flavor_claim.1.t:0	"Alte Länder werden [Root.GetAdjective]"
-
-
 hungary_flavor_territory.2.t:0	"Widerstand gegen die Integration in der Region Transsylvanien"
-
-
 hungary_flavor_territory.2.b:0	"Lassen Sie dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.10.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.10.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.11.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.12.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.13.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.13.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.20.t:0	"Akquisition von Crisana "
-
-
 hungary_flavor_territory.20.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.21.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.22.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.23.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.23.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.30.t:0	"Erwerb von Südsiebenbürgen"
-
-
 hungary_flavor_territory.30.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.31.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.32.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.33.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.33.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.40.t:0	"Akquisition von Nordsiebenbürgen"
-
-
 hungary_flavor_territory.40.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.41.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.42.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.43.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.43.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.60.t:0	"Erwerb von Nordsiebenbürgen"
-
-
 hungary_flavor_territory.60.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.61.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.62.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.63.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.63.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.101.t:0	"Integration der slowakischen Region"
-
-
 hungary_flavor_territory.101.b:0	"Integrieren Sie die Region nicht."
 hungary_flavor_territory.101.c:0	"Entscheiden Sie später."
-
-
 hungary_flavor_territory.102.a:0	"Wir werden uns damit auseinandersetzen müssen."
 hungary_flavor_territory.102.b:0	"Lassen wir dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.110.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.110.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.111.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.112.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.113.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.113.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.120.t:0	"Akquisition der Ostslowakei"
-
-
 hungary_flavor_territory.120.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.121.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.122.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.123.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.123.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.130.t:0	"Erwerb der Karpatenruthenie"
-
-
 hungary_flavor_territory.130.b:0	"Der Staat ist gut so, wie er ist."
-
-
 hungary_flavor_territory.131.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.132.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.133.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.133.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.140.t:0	"Akquisition der Südslowakei"
-
-
 hungary_flavor_territory.140.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.141.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.142.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.143.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.143.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.201.t:0	"Integration der kroatischen Region"
-
-
 hungary_flavor_territory.201.b:0	"Integrieren Sie die Region nicht."
 hungary_flavor_territory.201.c:0	"Entscheiden Sie später."
-
-
 hungary_flavor_territory.202.a:0	"Wir werden uns damit auseinandersetzen müssen."
 hungary_flavor_territory.202.b:0	"Lassen Sie dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.210.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.210.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.211.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.212.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.213.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.213.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.220.t:0	"Akquisition von Fiume"
-
-
 hungary_flavor_territory.220.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.221.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.222.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.223.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.223.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.230.t:0	"Erwerb von Kroatien"
-
-
 hungary_flavor_territory.230.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.231.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.232.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.233.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.233.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.240.t:0	"Akquisition von Norddalmatien und Zara"
-
-
 hungary_flavor_territory.240.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.241.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.242.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.243.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.243.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.250.t:0	"Erwerb von Mitteldalmatien"
-
-
 hungary_flavor_territory.250.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.251.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.252.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.253.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.253.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.260.t:0	"Erwerb von Süddalmatien"
-
-
 hungary_flavor_territory.260.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.261.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.262.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.263.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.263.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.301.t:0	"Integration der Region Vojvodina"
-
-
 hungary_flavor_territory.301.b:0	"Integrieren Sie die Region nicht."
 hungary_flavor_territory.301.c:0	"Entscheiden Sie später."
-
-
 hungary_flavor_territory.302.a:0	"Wir werden uns damit auseinandersetzen müssen."
 hungary_flavor_territory.302.b:0	"Lassen Sie dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.310.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.310.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.311.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.312.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.313.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.313.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.320.t:0	"Erwerb von Syrmien"
-
-
 hungary_flavor_territory.320.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.321.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.322.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.323.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.323.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.331.t:0	"Belgrad hat (wieder) verloren"
-
-
 hungary_flavor_territory.332.t:0	"Belgrad integriert"
-
-
 hungary_flavor_territory.333.t:0	"Rebellion in Belgrad"
-
-
 hungary_flavor_territory.333.b:0	"Kämpfen Sie gegen die Rebellen."
 hungary_flavor_territory.333.c:0	"Verhandeln Sie mit ihnen."
-
-
 hungary_flavor_territory.401.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.401.b:0	"Integrieren Sie die Region nicht."
-
 hungary_flavor_territory.402.t:0	"Widerstände gegen die Integration im Burgenland"
-
-
 hungary_flavor_territory.402.b:0	"Lassen Sie dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.410.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.410.b:0	"Das Land ist gut so, wie es ist."
-
-
 hungary_flavor_territory.411.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.412.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.413.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.413.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.501.t:0	"Integration der böhmischen Region"
-
-
 hungary_flavor_territory.501.b:0	"Integrieren Sie die Region nicht."
 hungary_flavor_territory.501.c:0	"Entscheiden Sie später."
-
-
 hungary_flavor_territory.502.a:0	"Wir werden uns damit auseinandersetzen müssen."
 hungary_flavor_territory.502.b:0	"Lassen Sie dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.510.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.510.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.511.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.512.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.513.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.513.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.520.t:0	"Erwerb des Sudetenlandes"
-
-
 hungary_flavor_territory.520.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.521.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.522.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.523.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.523.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.525.t:0	"Akquisition von Prag"
-
-
 hungary_flavor_territory.525.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.526.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.527.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.528.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.528.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.530.t:0	"Erwerb des Ostsudetenlandes"
-
-
 hungary_flavor_territory.530.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.531.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.532.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.533.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.533.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.540.t:0	"Erwerb von Mähren"
-
-
 hungary_flavor_territory.540.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.541.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.542.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.543.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.543.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.601.t:0	"Integration der Region Galicien-Lodomerien"
-
-
 hungary_flavor_territory.601.b:0	"Integrieren Sie die Region nicht."
 hungary_flavor_territory.601.c:0	"Entscheiden Sie später."
-
-
 hungary_flavor_territory.602.a:0	"Damit müssen wir uns auseinandersetzen."
 hungary_flavor_territory.602.b:0	"Lassen Sie dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.610.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.610.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.611.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.612.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.613.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.613.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.620.t:0	"Akquisition von Krakau"
-
-
 hungary_flavor_territory.620.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.621.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.622.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.623.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.623.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.630.t:0	"Akquisition von Stanislawow"
-
-
 hungary_flavor_territory.630.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.631.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.632.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.633.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.633.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.640.t:0	"Akquisition von Lwow"
-
-
 hungary_flavor_territory.640.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.641.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.642.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.643.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.643.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.701.t:0	"Integration der slowenischen Region"
-
-
 hungary_flavor_territory.701.b:0	"Integrieren Sie die Region nicht."
 hungary_flavor_territory.701.c:0	"Entscheiden Sie später."
-
-
 hungary_flavor_territory.702.a:0	"Wir werden uns damit auseinandersetzen müssen."
 hungary_flavor_territory.702.b:0	"Lassen Sie dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.710.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.710.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.711.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.712.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.713.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.713.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.720.t:0	"Akquisition von Ljubljana"
-
-
 hungary_flavor_territory.720.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.721.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.722.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.723.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.723.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.725.t:0	"Erwerb von Prekmurje-Medimurje"
-
-
 hungary_flavor_territory.725.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.726.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.727.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.728.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.728.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.801.t:0	"Integration der Region Istrien und Südtirol"
-
-
 hungary_flavor_territory.801.b:0	"Integrieren Sie die Region nicht."
 hungary_flavor_territory.801.c:0	"Entscheiden Sie später."
-
-
 hungary_flavor_territory.802.a:0	"Wir werden uns damit auseinandersetzen müssen."
 hungary_flavor_territory.802.b:0	"Lassen Sie dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.810.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.810.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.811.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.812.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.813.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.813.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.820.t:0	"Akquisition von Istrien"
-
-
 hungary_flavor_territory.820.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.821.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.822.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.823.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.823.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.830.t:0	"Erwerb von Venetien"
-
-
 hungary_flavor_territory.830.b:0	"Der Staat ist gut so, wie er ist."
-
-
 hungary_flavor_territory.831.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.832.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.833.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.833.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.840.t:0	"Akquisition von Triest"
-
-
 hungary_flavor_territory.840.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.901.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.901.b:0	"Integrieren Sie die Region nicht."
-
 hungary_flavor_territory.902.t:0	"Widerstände gegen die Integration in der bosnischen Region"
-
-
 hungary_flavor_territory.902.b:0	"Lassen Sie dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.910.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.910.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.911.a:0	"Wir werden es schließlich zurückerobern."
-
-
 hungary_flavor_territory.912.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.913.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.913.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.920.t:0	"Erwerb von Livanjski"
-
-
 hungary_flavor_territory.920.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.921.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.923.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.923.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.930.t:0	"Erwerb von Visegrad"
-
-
 hungary_flavor_territory.930.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.931.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.933.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.933.b:0	"Kämpfen Sie gegen die Rebellen."
-
 hungary_flavor_territory.1001.t:0	"Integration der Bucovina-Region"
-
-
 hungary_flavor_territory.1001.b:0	"Integrieren Sie die Region nicht."
 hungary_flavor_territory.1001.c:0	"Entscheiden Sie später."
-
-
 hungary_flavor_territory.1002.a:0	"Wir werden uns damit auseinandersetzen müssen."
 hungary_flavor_territory.1002.b:0	"Lassen Sie dem Ganzen seinen Lauf."
-
-
 hungary_flavor_territory.1010.a:0	"Beginnen Sie den Integrationsprozess."
 hungary_flavor_territory.1010.b:0	"Der Staat ist in Ordnung, so wie er ist."
-
-
 hungary_flavor_territory.1011.a:0	"Wir werden sie schließlich zurückerobern."
-
-
 hungary_flavor_territory.1012.a:0	"Ausgezeichnet."
-
-
 hungary_flavor_territory.1013.a:0	"Lassen Sie sie gehen."
 hungary_flavor_territory.1013.b:0	"Kämpfen Sie gegen die Rebellen."
-
-
-
 hungary_flavor_elections.1.a:0	"Beibehaltung des derzeitigen Premierministers."
 hungary_flavor_elections.1.b:0	"Wählen Sie Pál Teleki (NEP)."
-
-
 hungary_flavor_elections.2.t:0	"Die Wahl von 1943"
-
-
 hungary_flavor_elections.2.b:0	"Wählen Sie László Bárdossy (NEP)."
 hungary_flavor_elections.2.c:0	"Wählen Sie Miklós Kállay (NEP)."
-
 hungary_flavor_elections.3.t:0	"Die Wahl von 1947"
-
-
 hungary_flavor_elections.3.b:0	"Wählen Sie László Bárdossy (NEP)."
 hungary_flavor_elections.3.c:0	"Wählen Sie Miklós Kállay (NEP)."
-
 horthy_inheritance.1.t:0	"Das Schicksal von Horthy"
-
-
 horthy_inheritance.1.b:0	"Nein, er soll ein rein symbolischer Regent bleiben"
 horthy_inheritance.2.t:0	"Horthy's Verrat"
-
-
 horthy_inheritance.2.b:0	"Dies ist ein ungarisches Problem, kein deutsches"
 horthy_inheritance.3.t:0	"Horthy versucht eine Rebellion"
-
-
 horthy_inheritance.4.t:0	"Gerüchte über eine Rebellion"
 horthy_inheritance.4.d:0	"Es gibt eindeutige Anzeichen dafür, dass Horthy versucht, Unterstützer gegen die Regierung zu sammeln. Leider haben unsere 'Verbündeten' in Deutschland von unserer Instabilität erfahren, bevor wir unsere Antwort formulieren können."
-
-
 horthy_inheritance.10.d:0	"Der Sohn unseres Regenten, István Horthy, ist auf tragische Weise bei einem Flugzeugabsturz ums Leben gekommen. Er befand sich auf seinem letzten Einsatz an der Front, als sein Flugzeug eine Fehlfunktion hatte und vom Himmel stürzte. István sollte nach diesem Einsatz nach Hause zurückkehren, so dass der Unfall verdächtig zufällig ist. Auf jeden Fall ist dies ein großer Verlust für unser Land und die [Root.GetAdjective] Luftfahrt."
 horthy_inheritance.10.a:0	"Die Nation trauert mit der Familie Horthy."
-
-
 horthy_inheritance.11.a:0	"Er soll nach Hause kommen, bevor etwas Schlimmeres passiert."
-
-
 horthy_inheritance.12.a:0	"Es wird ein Nachfolger bestimmt werden."
 horthy_inheritance.12.b:0	"Darüber braucht man sich noch keine Gedanken zu machen."
-
-
 horthy_inheritance.20.a:0	"Wir werden einen Nachfolger für ihn auswählen müssen."
 horthy_inheritance.20.b:0	"Ich bin sicher, dass es ihm gut gehen wird."
-
 horthy_inheritance.21.t:0	"Horthys Gesundheitszustand verschlechtert sich weiter"
-
-
 horthy_inheritance.21.b:0	"Ich bin sicher, er wird es schaffen."
 horthy_inheritance.21.c:0	"Gut, dass die Nachfolge gesichert ist."
-
-
 horthy_inheritance.22.a:0	"Wir können diese Entscheidung nicht weiter aufschieben. Wir müssen einen Nachfolger wählen."
 horthy_inheritance.22.b:0	"Der Nachfolger soll seinen rechtmäßigen Platz einnehmen."
-
-
 horthy_inheritance.23.a:0	"Er hat dem Land gut gedient. Nun ist es an der Zeit, dass sein Nachfolger das Amt übernimmt."
-
-
 horthy_inheritance.100.a:0	"Den Sohn von Horthy, István Horthy."
 horthy_inheritance.100.b:0	"Der Enkel von Horthy, István Horthy jr."
-
-
 horthy_inheritance.100.f:0	"Das Oberhaupt der Habsburger-Dynastie, Otto."
-
-
 horthy_inheritance.101.a:0	"Horthy's Sohn, István Horthy."
 horthy_inheritance.101.b:0	"Horthys Enkel, István Horthy jr."
-
-
 horthy_inheritance.101.f:0	"Das Oberhaupt der Habsburger-Dynastie, Otto."
-
-
 horthy_inheritance.102.d_istvan_jr:0	"Horthys junger Enkel, István Horthy, wurde heute als neues Staatsoberhaupt eingesetzt. Der Junge hat kaum eine Vorstellung von dem, was ihm widerfährt, und doch wurde ihm gerade die Herrschaft über ein ganzes Land übertragen. Natürlich werden ihm viele Berater zur Seite stehen, die an seiner Stelle regieren werden, bis er volljährig ist. Es gibt einige Leute im Land, die die Entscheidung des verstorbenen Regenten, ein Kind zu seinem Nachfolger zu ernennen, in Frage stellen, aber letztlich war dies sein Wunsch."
 horthy_inheritance.102.d_victor:0	"Der italienische König Victor Emmanuel ist heute auch zum König von [Root.GetName] gekrönt worden. In Budapest fand eine große königliche Parade statt, und die Nation feierte. Das Land hat nach den langen Jahren der Regentschaft endlich wieder einen König."
-
-
 horthy_inheritance.102.a:0	"Möge er lange regieren!"
-
-
 horthy_inheritance.110.a:0	"Wir werden die notwendigen Vorkehrungen treffen."
-
-
 horthy_inheritance.111.a:0	"Lassen Sie uns also unsere Optionen überprüfen."
-
-
 horthy_inheritance.112.a:0	"Wir werden dann jemand anderen wählen."
-
-
 horthy_inheritance.120.a:0	"Wir werden die notwendigen Vorkehrungen treffen."
-
-
 horthy_inheritance.121.a:0	"Lassen Sie uns also unsere Optionen überprüfen."
-
-
 horthy_inheritance.122.a:0	"Wir werden dann jemand anderen wählen."
-
-
 HUN_home_defense:0	"Landesverteidigung"
 HUN_home_defense_desc:0	"Nachdem wir uns nun offiziell von den dummen Ideen des Revisionismus losgesagt haben, ist es an der Zeit, uns auf das zu konzentrieren, was wir haben. Wir müssen unser Land verteidigen und unseren Bürgern zeigen, dass sie sich hier sicher fühlen können. Budapest ist nicht nur unsere Hauptstadt, sondern auch ein strategisch wichtiger Übergang über die Donau, der angemessen verteidigt werden muss. Wir sollten dort mit der Befestigung des Landes beginnen."
-
-
 HUN_armed_neutrality:0	"Bewaffnete Neutralität"
 HUN_armed_neutrality_desc:0	"Wir wollen in den kommenden Konflikten nach Möglichkeit neutral bleiben. Um mögliche Angreifer abzuschrecken, werden wir unsere Verteidigung verstärken und unsere Armee so gut wie möglich ausbauen."
-
-
 HUN_women_in_the_army:0	"Frauen in der Armee"
 HUN_women_in_the_army_desc:0	"Unser Land ist klein, und wenn wir in der Lage sein wollen, es zu verteidigen, werden wir alle verfügbaren Ressourcen benötigen. Die Beschränkung der Wehrpflicht auf Männer bedeutet nicht nur eine weitere Einschränkung für Frauen, sondern auch das Ausbleiben potenzieller Rekruten. Auch wenn diese Entscheidung einige der konservativeren Offiziere verärgern mag, müssen wir zum Wohle des Landes Frauen in der Armee zulassen."
-
-
 HUN_tax_reform:0	"Steuerreform"
 HUN_tax_reform_desc:0	"Der Krieg hat vielen Menschen in unserem Land unermessliches Leid gebracht, aber es gibt auch diejenigen, die während des Konflikts reich geworden und nach dem Krieg in der Gesellschaft aufgestiegen sind. Dies hat zu einer größeren Ungleichheit im Land geführt, die wir beheben könnten, indem wir die neuen Reichen in eine andere Steuerklasse einordnen, so dass sie mehr beitragen müssen."
-
-
 HUN_liberal_ideas:0	"Liberale Ideen"
 HUN_liberal_ideas_desc:0	"Es ist klar, dass es nicht die richtige Entscheidung war, sich mit den Deutschen zu verbünden, wie sich im Großen Krieg gezeigt hat. Um sicherzustellen, dass wir nie wieder auf der Verliererseite stehen, müssen wir uns die demokratischen Ideen der Sieger zu eigen machen, in der Hoffnung, ihre Unterstützung und ihren Schutz zu erlangen."
-
-
 HUN_convertible_factories:0	"Konvertierbare Fabriken"
 HUN_convertible_factories_desc:0	"Um uns auf einen möglichen Konflikt vorzubereiten, müssen wir unsere Fabriken leichter auf die Waffenproduktion umstellen können. Warum können Lebensmitteldosen nicht den gleichen Durchmesser wie Handgranaten haben?"
-
-
 HUN_strengthen_the_move:0	"Stärkung der MOVE"
 HUN_strengthen_the_move_desc:0	"Bei der MOVE handelt es sich um eine paramilitärische Organisation, die zum Teil von Bajcsy-Zsilinszky gegründet wurde und deren Zweck es war, die Armee zu unterstützen, die durch die in Trianon festgelegten Beschränkungen lahmgelegt wurde. Die Gruppe geriet im Laufe der Zeit in Vergessenheit, konnte aber wieder populär gemacht werden, um die nationale Moral zu stärken und die Bevölkerung darauf vorzubereiten, das Land im Bedarfsfall zu verteidigen."
-
-
 HUN_espirit_de_corps:0	"Korpsgeist"
 HUN_espirit_de_corps_desc:0	"Die Armee braucht dringend eine Auffrischung. Viele Offiziere und Generäle waren früher mit kommunistischen oder faschistischen Gruppen verbunden. Sie müssen durch Führungspersönlichkeiten ersetzt werden, denen die Interessen Ungarns am Herzen liegen."
-
-
 HUN_joining_the_right_cause:0	"Sich der richtigen Sache anschließen"
 HUN_joining_the_right_cause_desc:0	"Eine stabile, friedliche Welt beruht auf dem soliden Fundament der Demokratie. Es gibt diejenigen, die dieses Fundament zerstören und durch eine grausame Diktatur oder eine unmenschliche Ideologie ersetzen wollen. Wir müssen uns gegen diese Bedrohungen zur Wehr setzen, seien es die Faschisten in Deutschland oder die Kommunisten in der Sowjetunion. Die Zukunft Ungarns liegt in den Händen der Alliierten."
-
-
 HUN_british_scientific_exchange:0	"Britischer wissenschaftlicher Austausch"
 HUN_british_scientific_exchange_desc:0	"Unser gemeinsames Interesse gebietet, dass wir alles, was wir wissen, mit unseren Verbündeten teilen. Die Briten haben zugestimmt, einen wissenschaftlichen Austausch zu starten, damit wir von den technologischen Fortschritten des anderen lernen können."
-
-
 HUN_democratic_trade_focus:0	"Demokratischer Handel im Mittelpunkt"
 HUN_democratic_trade_focus_desc:0	"Wir können nicht einfach mit jedem Handel treiben. Wir müssen sicherstellen, dass unsere Handelspartner die richtige Sache unterstützen und nicht mit dem Teufel und seinesgleichen handeln. Bevor wir ein Handelsabkommen abschließen, prüft ein Ausschuss die Handelsgeschichte des Landes, und wenn sich herausstellt, dass das Land undemokratische Ziele unterstützt hat, ist das Geschäft vom Tisch."
-
-
 HUN_ask_for_szekler_autonomy:0	"Fordern Sie die Autonomie der Szekler"
 HUN_ask_for_szekler_autonomy_desc:0	"Der Verlust Siebenbürgens hat mehr als eine Million Ungarn außerhalb unserer Grenzen zurückgelassen. Die größte Gemeinschaft, die davon betroffen ist, ist die der Szekler, die die Rumänen seit Trianon um ein Stück Autonomie anflehen. Wenn wir unseren Einfluss geltend machen würden, wäre Rumänien vielleicht bereit, ihnen ihren Wunsch zu erfüllen."
-
-
 HUN_referendum_for_southern_slovakia:0	"Referendum für die Südslowakei"
 HUN_referendum_for_southern_slovakia_desc:0	"Wir haben uns von den nationalistischen Ideen der Vergangenheit verabschiedet, aber es gibt immer noch eine große Anzahl unserer Leute in fremden Ländern, und das ist eine Ungerechtigkeit, die wir nicht hinnehmen können. Wir werden mit der Südslowakei beginnen, indem wir der Tschechoslowakei ein demokratisches Referendum vorschlagen, in dem die Einheimischen entscheiden können, ob sie in der Tschechoslowakei bleiben oder sich stattdessen Ungarn anschließen wollen."
-
-
 HUN_the_visegrad_group:0	"Die Visegrád-Gruppe"
 HUN_the_visegrad_group_desc:0	"Ungarn kann sich nicht darauf verlassen, dass weit entfernte Mächte es beschützen, wenn die Faschisten anklopfen. Wir müssen die Initiative ergreifen und ein lokales Bündnis bilden, das in der Lage ist, seine Mitglieder zu schützen, ohne Hilfe aus dem Ausland. Einige Gleichgesinnte schlagen ein Dreiecksbündnis mit Polen und der Tschechoslowakei vor, und wir haben auch von deren Regierungen einige positive Rückmeldungen erhalten."
-
-
 HUN_invite_austria:0	"Österreich einladen"
 HUN_invite_austria_desc:0	"Österreich befindet sich in einer prekären Lage, da es zwischen Deutschland und Italien eingeklemmt ist. Ohne angemessenen Schutz würde es schnell von einem dieser beiden faschistischen Giganten geschluckt werden. Wir sollten ihnen eine Einladung aussprechen und den Schutz der Visegrád-Gruppe anbieten."
-
-
 HUN_economic_cooperation:0	"Wirtschaftliche Zusammenarbeit"
 HUN_economic_cooperation_desc:0	"Unser Bündnis ist, was es ist: ein Militärbündnis. Wenn wir es jedoch auch zu einer Wirtschaftsunion ausbauen könnten, könnten wir einen gemeinsamen Markt für alle Mitgliedsstaaten schaffen, der (unter Berücksichtigung der regionalen Fähigkeiten jedes Mitglieds) allen Beteiligten zugute kommen könnte."
-
-
 HUN_visegrad_technology_circle:0	"Visegráder Technologiekreis"
 HUN_visegrad_technology_circle_desc:0	"Wir teilen nun unsere Wirtschaft mit den Mitgliedern der Visegrád-Gruppe, warum also nicht auch unser Wissen teilen? Jeder würde von einem Forschungsaustausch profitieren, und womit könnten wir uns besser wappnen als mit dem gemeinsamen Wissen unserer Verbündeten?"
-
-
 HUN_the_rakosi_administration:0	"Die Rákosi-Regierung"
 HUN_the_rakosi_administration_desc:0	"Jetzt, da die richtige Regierung gebildet wurde, ist die Zeit reif, um das politische Spektrum von unliebsamen Personen zu säubern. Diejenigen, die sich gegen den Kommunismus stellen, stellen sich gegen das Gemeinwohl des Volkes."
-
-
 HUN_create_the_avo:0	"Die ÁVO schaffen"
 HUN_create_the_avo_desc:0	"Diejenigen, die nicht für uns sind, sind gegen uns. Die Feinde des Systems müssen beseitigt werden, und wir brauchen eine Geheimpolizei, um diese unliebsamen Elemente aufzuspüren und festzunehmen. Die Államvédelmi Osztály (ÁVO) wird als Spionageabwehr und als nationale Staatsschutzbehörde dienen."
-
-
 HUN_collectivization_desc:0	"Wer könnte die Ländereien und Fabriken des Landes besser nutzen, als die kommunistische Partei? Wir werden das Land, das sich im Besitz von Privatleuten befindet, auf ein Minimum reduzieren und die Dinge in die Hände des Staates legen."
 HUN_five_year_plan:0	"Fünfjahresplan"
-
-
 HUN_the_iron_curtain_desc:0	"Von den Kapitalisten und Faschisten im Westen kommt nie etwas Gutes. Wir müssen uns bemühen, unser Volk von den gefährlichen Ideen, die sie verbreiten, zu isolieren. Handel, Auswanderung und Einwanderung in nichtkommunistische Länder werden streng kontrolliert, und wir werden die diplomatischen Beziehungen zu ihnen einschränken."
 HUN_the_kadar_administration:0	"Die Kádár-Regierung"
-
-
 HUN_western_relations_desc:0	"Auch wenn wir den Kommunismus der Demokratie vorgezogen haben, wäre es töricht, den Westen gänzlich aufzugeben und unser Vertrauen nur auf unsere sowjetischen Brüder zu setzen. Wir werden der kommunistischen Sache treu bleiben, aber wir werden auch versuchen, Handelsbeziehungen und diplomatische Beziehungen zu westlichen Ländern zu knüpfen, um uns alle Möglichkeiten offen zu halten."
 HUN_goulash_communism:0	"Gulasch-Kommunismus"
-
-
 HUN_modernize_the_railway_network_desc:0	"Das ungarische Eisenbahnnetz ist stark verbesserungsbedürftig, da die Beschränkungen des Friedensvertrags von Trianon den Bau von mehrgleisigen Eisenbahnstrecken verbieten. Es wird ein umfassender Ausbauplan ausgearbeitet und umgesetzt, der die bestehenden Bahnlinien modernisiert und Platz für neue schafft."
 HUN_facilitate_full_employment:0	"Erleichterung der Vollbeschäftigung"
-
-
 HUN_one_nation_one_party_desc:0	"Mit dem glorreichen Aufstieg des Kommunismus an die Macht im Land braucht es keine anderen Parteien mehr, denn sie verwirren nur die Wähler. Die einzige KMP wird den Bedürfnissen Ungarns voll und ganz gerecht werden."
 HUN_communist_international:0	"Kommunistische Internationale"
-
-
 HUN_soviet_license_trade_desc:0	"Jetzt, da wir uns der glorreichen Sowjetunion angeschlossen haben, könnten wir sie vielleicht davon überzeugen, etwas von ihrem Wissen mit uns zu teilen. Schließlich ist der Fortschritt unseres Landes der Fortschritt des Kommunismus im Allgemeinen."
 HUN_hungarian_research_cities:0	"Ungarische Forschungsstädte"
-
-
 HUN_the_country_of_iron_and_steel_desc:0	"Die Sowjetunion ist reich an natürlichen Ressourcen, aber weniger reich an industriellen Kapazitäten zu deren Verarbeitung. Das von ihnen entsandte Handelskomitee hat beschlossen, dass unser Land ihre Stahlindustrie unterstützen soll. Wir werden Eisen und Kohle entgegennehmen und sie zu Stahl für die UdSSR verarbeiten. Wir haben auch die Erlaubnis erhalten, einen Teil des Stahls für unsere eigenen Zwecke in lokalen Fabriken zu verwenden."
 HUN_worker_spirit:0	"Arbeitergeist"
-
-
 HUN_spreading_the_revolution_desc:0	"Unser Land ist ein Bollwerk der Revolution, ein Licht in der Dunkelheit des Imperialismus. Was wir tun müssen, ist, dieses Licht in andere Länder zu tragen und die Samen der Revolution zu pflanzen oder sie zu unterstützen, wenn sie bereits vorhanden ist. Irgendwann wird sich die ganze Welt unserer Sache anschließen, und man wird sich an uns als die Paten des Kommunismus erinnern."
 HUN_soviet_officer_training:0	"Sowjetische Offiziersausbildung"
-
-
 HUN_german_revolution_desc:0	"Der größte unserer Feinde, Deutschland, ist bereit, uns an die Gurgel zu springen. Es wäre zwar eine heldenhafte Leistung, sich gegen sie zu stellen und sie abzuwehren, aber wir könnten sie auf unsere Seite ziehen, wenn wir unsere Karten richtig ausspielen. Eine kommunistische Revolution in Deutschland würde nicht nur unsere Sicherheit gewährleisten, sondern auch unsere Ideale in Europa insgesamt stärken, auch wenn es ein kostspieliges Unterfangen wäre."
 HUN_italian_revolution:0	"Italienische Revolution"
-
-
 HUN_polish_communism_desc:0	"Unsere polnischen Freunde haben sich den Kommunismus noch nicht zu eigen gemacht. Sie brauchen einen Anstoß in die richtige Richtung, und mit der notwendigen Unterstützung durch uns könnte ihnen der richtige Weg gezeigt werden."
 HUN_the_warsaw_pact:0	"Der Warschauer Pakt"
-
-
 HUN_armament_unificiation_desc:0	"Der Warschauer Pakt muss mehr sein als eine formale Zusammenarbeit seiner Mitglieder. Wenn wir uns gegen den imperialistischen Westen verteidigen wollen, müssen wir unsere Armeen und unsere Waffen koordinieren. Wir werden eine Vereinheitlichung der Waffen vorschlagen, die unter anderem Waffengrößen und Munitionstypen für alle Mitgliedsländer standardisiert."
 HUN_rescue_bela_kun:0	"Rettet Béla Kun"
-
-
 HUN_revolutionary_court_desc:0	"Jetzt, da die Räterepublik wiederhergestellt ist, müssen wir dafür sorgen, dass sie intakt bleibt und nicht den fehlgeleiteten Bemühungen der Konterrevolutionäre zum Opfer fällt. Das Revolutionsgericht wird ein Instrument sein, um unerwünschte Elemente zu unterdrücken und diejenigen zum Schweigen zu bringen, die den Kommunismus in Ungarn stürzen wollen."
 HUN_red_guard:0	"Rote Garde"
-
-
 HUN_the_council_of_nations_desc:0	"Die Zeit hat gezeigt, dass einsame kommunistische Republiken nicht stark genug sind, um an der Macht zu bleiben. Anstatt sich der immer weiter expandierenden Sowjetunion zu unterwerfen, müssen wir die Zusammenarbeit mit den umliegenden Nationalstaaten suchen. Wir werden die kommunistischen Parteien der Nachbarstaaten einladen und eine Föderation vorschlagen, die ein freier Zusammenschluss von kommunistischen Staaten sein wird."
 HUN_the_danube_federation:0	"Die Donauföderation"
-
-
 HUN_comittee_for_federal_security_desc:0	"Der Donaubund ist ein erfolgreiches Unterfangen, aber er ist noch zerbrechlich. Wir müssen ihn vor äußeren Bedrohungen schützen, seien sie nun militärischer oder ideologischer Natur. Es wird ein Komitee eingerichtet, das den Informationsfluss in und aus der Föderation überwacht und bei Bedarf eingreift."
 HUN_concentrated_construction_effort:0	"Konzentrierte Bauanstrengungen"
-
-
 HUN_federal_reserve_guard_desc:0	"Wir können nicht erwarten, dass die Mitglieder des Donaubundes einer Vereinheitlichung der Armeen des Bündnisses zustimmen, aber das bedeutet nicht, dass es keinen Raum für militärische Zusammenarbeit gibt. Wir werden eine Bundesreserve einrichten, für die jede Nation einen bestimmten Prozentsatz ihrer Reserven bereitstellen muss. Jedes Mitglied wird auf diese Reserven zurückgreifen können, was bei der Verteilung der Truppen nach Bedarf helfen wird."
 HUN_danube_scientific_institute:0	"Wissenschaftliches Institut Donau"
-
-
 HUN_a_bastion_against_fascism_desc:0	"Es liegt auf der Hand, dass wir uns auf einen eventuellen Krieg gegen den Faschismus vorbereiten müssen. Unsere nördlichen und westlichen Grenzen müssen entsprechend befestigt werden, wenn wir eine Chance haben wollen, den Vormarsch des Faschismus aufzuhalten."
 HUN_preparations_for_the_war:0	"Vorbereitungen für den Krieg"
-
-
 HUN_war_on_fascism_desc:0	"Wir sind jetzt gut vorbereitet auf den großen Krieg, der vor uns liegt. Der Krieg, um den Faschismus vom Antlitz der Erde zu tilgen."
 HUN_territorial_policy:0	"Territoriale Politik"
-
-
 HUN_integration_focus_desc:0	"Um die Bevölkerung in den neu erworbenen Gebieten zu assimilieren, müssen wir sie zur Kooperation bewegen, sonst werden sie sich nie als Teil von uns fühlen. Friedliche Integration ist der richtige Weg."
 HUN_transyl:0	"Entfesseln Sie Transsilvanien"
-
-
 HUN_transyl2_desc:0	"Nachdem die Entwicklung in Gang gekommen ist, ist es nun an der Zeit, die zivile Industrie auf die direkte Unterstützung der Kriegsanstrengungen umzulenken."
 HUN_minority_rights:0	"Rechte von Minderheiten"
-
-
 HUN_suppression_focus_desc:0	"In den neu erworbenen Gebieten ist die uneingeschränkte Mitarbeit der lokalen Bevölkerung erforderlich, wenn wir sie in der Armee einsetzen wollen. Deshalb müssen wir ihnen jegliche Gefühle des Nationalstolzes austreiben und sie so schnell wie möglich aggressiv assimilieren. Das mag mit einigen Verlusten verbunden sein, aber das Ziel heiligt die Mittel."
 HUN_hungarization:0	"Hungarisierung"
-
-
 HUN_revisionism_desc:0	"Im Vertrag von Trianon wurde Ungarn von Österreich getrennt und ein Großteil seines Territoriums wurde ihm zu Unrecht entrissen. Unser vorrangiges Ziel muss es sein, die früheren Gebiete des Landes wiederherzustellen und das Unrecht, das seinem Volk angetan wurde, zu korrigieren."
 HUN_celebrate_the_successful_revision:0	"Feiern Sie die erfolgreiche Revision"
-
-
 HUN_hungary_first_desc:0	"Wir sind allein in unserem Kampf um die Rückgewinnung unseres verlorenen Territoriums. Die Zeit hat bewiesen, dass niemand daran interessiert ist, den Vertrag von Trianon zu revidieren, also müssen wir die Sache selbst in die Hand nehmen und uns Verbündete suchen, oder wir stellen uns allein jedem, der sich uns widersetzt."
 HUN_conscription_reforms:0	"Reformen der Wehrpflicht"
-
-
 HUN_revisionist_education_desc:0	"Unser Bildungssystem muss sich die Ideen des Revisionismus zu eigen machen und den Geist an die jüngeren Generationen weitergeben. Der frühere Ruhm Ungarns soll in den Schulen gelehrt werden, um den Kindern den Nationalstolz in ihr Innerstes zu pflanzen. Der Bildungsminister Kuno von Klebelsberg hat einen detaillierten Plan zur Reform des Bildungssystems ausgearbeitet."
 HUN_budapest_research_group:0	"Forschungsgruppe Budapest"
-
-
 HUN_polish_hungarian_intelligence_exchange_desc:0	"Um unsere Nation bestmöglich zu schützen, müssen unsere Nachrichtendienste internationale Missionen durchführen und alle Informationen sammeln, die sie finden können. Polen, ein alter Freund Ungarns, wäre dabei ein wertvoller Partner, und solange die Vereinbarung auf Gegenseitigkeit beruht, wäre das Land bereit zu helfen."
 HUN_invite_poland:0	"Polen einladen"
-
-
 HUN_support_polish_claims_desc:0	"Nach dem Ersten Weltkrieg erhielt Polen über Danzig einen Zugang zum Meer, was die deutschen Grenzen verwundbar macht, und es sieht scheußlich aus. Es wäre viel sinnvoller, ganz Ostpreußen an Polen abzutreten, so dass beide Länder über ein konsolidiertes Territorium verfügen. Wir werden unseren Einfluss nutzen, um Polens Ansprüche in der Region zu unterstützen."
 HUN_invite_bulgaria:0	"Bulgarien einladen"
-
-
 HUN_burgas_industrial_development_project_desc:0	"Der militärische Charakter unseres Bündnisses mit Bulgarien mag uns von ihnen distanzieren, aber das wird uns nicht daran hindern, eine echte Freundschaft zwischen unseren Ländern aufzubauen. Wir werden ihnen bei der Entwicklung ihrer Industrie in einer der weniger fortgeschrittenen Regionen ihres Landes helfen, was sie sicherlich dankbar sein lassen und sie zu einem stärkeren Verbündeten machen wird."
 HUN_secure_dobrudja:0	"Die Süddobrudscha sichern"
-
-
 HUN_help_finland_desc:0	"Finnland wird von der Sowjetunion bedroht und ist dringend auf Hilfe angewiesen. Indem wir ihnen eine helfende Hand anbieten, könnten wir die Bemühungen der Kommunisten indirekt behindern."
 HUN_invite_finland:0	"Finnland einladen"
-
-
 HUN_turkish_alliance_desc:0	"Ungarn und die Türkei hatten in der Vergangenheit ihre Differenzen, aber wir sollten keinen jahrhundertealten Groll hegen, wenn eine Freundschaft für unsere beiden Länder von Vorteil ist. So wie sie im Großen Krieg auf unserer Seite gekämpft haben, können sie uns auch jetzt, da wir unser eigenes Bündnis geschlossen haben, unterstützen."
 HUN_turkish_troop_exchange:0	"Türkischer Truppenaustausch"
-
-
 HUN_reinforce_turkish_claims:0	"Türkische Ansprüche verstärken"
 HUN_reinforce_turkish_claims_desc:0	"Das einst stolze Osmanische Reich war nach dem Großen Krieg gezwungen, die Kontrolle über die meisten seiner Gebiete außerhalb Anatoliens aufzugeben. Viele wünschen sich, dass diese Gebiete an die Türken, unsere Verbündeten, zurückgegeben werden, und wenn wir sie stärker machen, würde das wiederum unser Bündnis stärken. Wir werden ihre Ansprüche auf Syrien und das östliche Mittelmeer offiziell unterstützen."
-
-
 HUN_megali_idea:0	"Unterstützt die Megali-Idee"
 HUN_megali_idea_desc:0	"Seitdem die Griechen ihre Unabhängigkeit von den Osmanen erklärt haben, träumen sie davon, alle ethnisch und historisch griechischen Gebiete zu vereinen. Dieser Traum ist unter dem Namen "Megali-Idee" bekannt geworden und umfasst viele Gebiete, die noch immer unter türkischer Herrschaft stehen. Die meisten Griechen wurden im Zuge des Bevölkerungsaustauschs von 1923 aus Anatolien umgesiedelt, erheben aber nach wie vor Anspruch auf diese Gebiete."
-
-
 HUN_befriend_austria:0	"Freundschaft mit Österreich"
 HUN_befriend_austria_desc:0	"Die einst blühende österreichisch-ungarische Freundschaft hat sich fast aufgelöst. Wenn wir hoffen, sie als unsere Verbündeten zu gewinnen, müssen wir diese sterbenden Beziehungen zwischen den beiden Ländern wiederbeleben."
-
-
 HUN_the_burgenland_referendum:0	"Die burgenländische Volksabstimmung"
 HUN_the_burgenland_referendum_desc:0	"Das Burgenland, ein kleines Stück Land, das nach dem Ersten Weltkrieg von Ungarn übernommen wurde, wird hauptsächlich von Ungarn bewohnt. Wenn wir Österreich davon überzeugen könnten, den Burgenländern eine Volksabstimmung zu ermöglichen, in der sie über den Anschluss an Ungarn entscheiden könnten, würden sie sicherlich dafür stimmen."
-
-
 HUN_trialism:0	"Trialismus"
 HUN_trialism_desc:0	"In den Jahren des Ersten Weltkriegs wurde die Idee des Trialismus - die Umwandlung der Doppelmonarchie in eine Dreistaatenmonarchie durch Hinzufügung Kroatiens - als Lösung für die wachsenden Spannungen zwischen den Nationalitäten des Reichs ins Gespräch gebracht. Wir könnten diese Idee wiederbeleben und unsere Nation auf der Zusammenarbeit von Deutschen, Ungarn und Slawen aufbauen."
-
-
 HUN_wilsons_10th_point:0	"Wilsons 10. Punkt"
 HUN_wilsons_10th_point_desc:0	"Präsident Woodrow Wilson hatte einen ganz anderen Plan für das Schicksal Österreich-Ungarns, als es dann tatsächlich eintrat. Er wollte das Land in eine Föderation umwandeln, in der die Nationalitäten ein gewisses Maß an Selbstverwaltung haben sollten. Wenn wir das Konzept ein wenig abändern, könnten wir es in eine föderale Monarchie umwandeln, in der die oberste Autorität immer noch der Monarch ist, aber regionale Entscheidungen an lokale Parlamente delegiert werden."
-
-
 HUN_remind_the_germans_of_the_glory_days:0	"Erinnern Sie die Deutschen an die glorreichen Zeiten"
 HUN_remind_the_germans_of_the_glory_days_desc:0	"Die meisten ausländischen Mächte waren gegen die Wiederherstellung Österreich-Ungarns, und sie werden dessen Existenz möglicherweise nicht lange dulden. Unsere alten Verbündeten in Deutschland haben sich vom traditionellen Imperialismus abgewandt, aber die Erinnerung an das glorreiche Deutsche Reich lebt in ihren Herzen weiter. Wir könnten versuchen, die Anhänger der alten Monarchie um den deutschen Kronprinzen Wilhelm zu scharen, der gerade an der Front kämpft."
-
-
 HUN_develop_austrian_ironworking:0	"Entwickeln Sie die österreichische Eisenverarbeitung"
 HUN_develop_austrian_ironworking_desc:0	"In den Bergen Österreichs gibt es tonnenweise unerschlossene Mineralien, die nur darauf warten, von uns abgebaut zu werden. Mit ein wenig Aufwand könnten wir die Stahlproduktion in der Region vervielfachen und genug für eine völlig neue Fabrik produzieren."
-
-
 HUN_skoda_steel_works:0	"Skoda-Stahlwerk"
 HUN_skoda_steel_works_desc:0	"Die Skoda-Werke sind einer der größten Industriebetriebe der tschechischen Wirtschaft. Wenn wir die lokalen Ressourcen voll ausschöpfen wollen, sollten wir sie mit staatlichen Aufträgen versorgen und ihnen die Möglichkeit geben, die Rohstoffe der Region zu nutzen."
-
-
 HUN_demand_galicia:0	"Fordern Sie Galizien"
 HUN_demand_galicia_desc:0	"Krakau und Galizien waren von Anfang an Teil des österreichisch-ungarischen Reiches. Polen muss daran erinnert werden, wem diese Territorien gehören. Wenn sie sich weigern, zu kooperieren, haben wir einen triftigen Grund, uns alles mit Gewalt zu nehmen."
-
-
 HUN_imperialist_coup_in_czechoslovakia:0	"Imperialistischer Coup in der Tschechoslowakei"
 HUN_imperialist_coup_in_czechoslovakia_desc:0	"Die Tschechoslowakei ist rechtmäßig ein Teil unseres Reiches. Wir können jedoch nicht einfach den Anschluss an das Land verlangen, da die derzeitige Regierung nicht zur Zusammenarbeit bereit ist. Wenn wir in dem Land einen pro-österreichisch-ungarischen Staatsstreich inszenieren würden, würde die neue Führung es uns sicherlich danken, indem sie uns bei unseren Bemühungen unterstützt."
-
-
 HUN_demand_italian_provinces:0	"Fordern Sie italienische Provinzen"
 HUN_demand_italian_provinces_desc:0	"Italien ist eine stolze Nation und trotz seiner vergangenen Fehler eine Kraft, mit der man rechnen muss. Aus diesem Grund könnte es sich als schwierig erweisen, mit den Italienern ein Abkommen zu schließen und sie zur Rückgabe alter Provinzen der Monarchie zu bewegen. Wir werden unseren Einfluss auf dem Balkan nutzen und ihre Expansion nach Griechenland sanktionieren. Sie können Epirus und Kreta haben, wenn sie Südtirol und Istrien zurückgeben."
-
-
 HUN_military_science_division:0	"Militärwissenschaftliche Abteilung"
 HUN_military_science_division_desc:0	"Obwohl unser Land stark ist, gibt es natürlich einige Bereiche, die verbesserungswürdig sind. Die Deutschen haben in verschiedenen technologischen Bereichen große Fortschritte gemacht, und da sie gute Freunde sind, bieten sie uns gerne ihre Hilfe an, wenn wir eine Gruppe von Wissenschaftlern zur Untersuchung ihrer Innovationen abstellen."
-
-
 HUN_negotiations_with_italy:0	"Verhandlungen mit Italien"
 HUN_negotiations_with_italy_desc:0	"Italien liegt direkt vor unserer Haustür, doch die diplomatischen Beziehungen zwischen unseren Ländern sind sehr unsicher. Wir sollten versuchen, einen Vertrag mit ihnen auszuhandeln, der unsere diplomatische Position stabilisiert und vielleicht beiden Ländern zugute kommt."
-
-
 HUN_cooperation_with_italy:0	"Zusammenarbeit mit Italien"
 HUN_cooperation_with_italy_desc:0	"Wir haben jetzt gemeinsame Forschungsinitiativen sowohl mit Deutschland als auch mit Italien. Es ist an der Zeit, die beiden zusammenzubringen und auf den Fortschritt unseres gesamten Bündnisses hinzuarbeiten, anstatt nur auf die einzelnen Länder darin."
-
-
 HUN_GER_AXIS:0	"Die Achse"
 HUN_GER_CENTRAL_POWERS:0	"Die Mittelmächte"
-
-
 HUN_exit_attempt_desc:0	"Wir sind von Deutschland in einen Krieg hineingezogen worden, und viele behaupten, dass wir diesen Krieg nicht gewinnen können. Wenn das tatsächlich der Fall ist, müssen wir uns sofort aus diesem Konflikt zurückziehen. Sollte sich eine Gelegenheit ergeben, werden wir versuchen, die Seiten zu wechseln. Dieser Versuch muss geheim gehalten werden, sonst könnten die Deutschen aggressiv eingreifen."
 HUN_fall_of_the_ussr:0	"Untergang der UdSSR"
-
-
 HUN_industrial_effort_desc:5	"Konzentrieren Sie alle Ihre politischen Bemühungen auf den Aufbau der zivilen Industrie in einem großen Sprung nach vorn."
 HUN_hungarian_german_research_effort:0	"Ungarisch-deutsche Forschungsanstrengungen"
-
-
 HUN_assistance_from_the_general_staff_desc:0	"Wir haben jetzt unsere Beziehungen zu Deutschland gestärkt und bewiesen, dass wir bereit sind, sie zu unterstützen. Wenn wir ihnen in Zukunft helfen wollen, müssen unsere militärischen Führer ihre Aktionen richtig koordinieren. Wir werden beantragen, dass ein Teil des Generalstabs nach Ungarn entsandt wird und mit unserem Oberkommando zusammenarbeitet."
 HUN_men_for_burgenland:0	"Männer für das Burgenland"
-
-
 HUN_men_for_burgenland_non_fascist_desc:0	"Die deutsche Kriegslage ist verzweifelt. Sie brauchen dringend neue Rekruten, wenn sie ihre Kriegsmaschinerie weiter anheizen wollen. Wir könnten ihnen einen Tausch vorschlagen, bei dem wir ihnen rekrutierbare Männer im Gegenzug für das Burgenland geben."
 HUN_extensive_conscription:0	"Umfassende Wehrpflicht"
-
-
 HUN_the_rongyos_garda_desc:0	"Nach unserer Niederlage im Ersten Weltkrieg hat die Rongyos Gárda - eine bunt zusammengewürfelte Truppe von Freiwilligen - dazu beigetragen, die westlichen Grenzen unseres kleinen Landes zu sichern, einschließlich Sopron, das ohne sie wahrscheinlich eine österreichische Stadt wäre. Auch nach den Ereignissen des Ersten Wiener Preises waren sie eine große Hilfe, um die Slowaken zu beschäftigen. Wir sollten sie mit staatlichen Mitteln und Unterstützung versorgen."
 HUN_military_land_survey:0	"Militärische Landvermessung"
-
-
 HUN_hungarist_ideas_desc:0	"Das Land könnte von einer nationalsozialistischen Regierung profitieren, die die Bevölkerung davon überzeugen kann, alles zu tun, um dem Land zu helfen. Die Pfeilkreuzlerpartei wird immer beliebter, und mit ein wenig Hilfe könnte sie bald die Regierungspartei werden."
 HUN_hungarian_ss:0	"Ungarische SS"
-
-
 HUN_declare_state_of_emergency_desc:0	"In diesen Zeiten internationaler Spannungen und Konflikte dürfen wir nicht zulassen, dass unser Land gespalten und unentschlossen ist. Eine einzige Person muss die Macht übernehmen, bis sich das Chaos gelegt hat, und das Land durch Not und Elend führen. Wir werden Ferenc Szálasi, dem Führer der Nation, alle Macht anvertrauen, die er braucht, um uns durch diese unsicheren Zeiten zu führen."
 HUN_social_reforms:0	"Soziale Reformen"
-
-
 HUN_national_socialist_industry_desc:0	"Im Geiste unserer neuen nationalen Ideale werden wir die Produktionsanlagen und -mittel beschlagnahmen, damit der Staat sie im Dienste der Nation einsetzen kann. Materieller Reichtum ist nur das Mittel zum Zweck, nicht der Zweck an sich. Der Einzelne muss sich der Sache der Nation unterordnen, wenn es uns gelingen soll, den idealen ungarischen Staat zu schaffen."
 HUN_the_order_of_the_working_nation:0	"Die Ordnung der arbeitenden Nation"
-
-
 HUN_industrial_and_work_reforms_desc:0	"Einige Industriezweige sind seit 1920 unnötig überentwickelt worden. Diese Entwicklung wird gestoppt, und es wird ein neues industrielles System eingeführt, das sich auf die Landwirtschaft stützt. Für diejenigen, die ungarische Ländereien und Betriebe aufbauen wollen, werden zinslose Kredite eingeführt, und Fragen des Landbesitzes werden in der Verfassung geregelt."
 HUN_domestic_focus:0	"Innerstaatlicher Fokus"
-
-
 HUN_the_industrialized_agrarian_state_desc:0	"Die Nation wird sich in eine moderne Agrargesellschaft verwandeln, und die soziale Struktur wird grundlegend umgestaltet. Industrielle und landwirtschaftliche Vorschriften werden in die Verfassung aufgenommen, und die Fabrikarbeiter werden gesetzlich verpflichtet, für eine bestimmte Zeit am selben Ort zu arbeiten."
 HUN_reinforce_the_gendarmerie:0	"Verstärkung der Gendarmerie"
-
-
 HUN_expand_the_levente_associations_desc:0	"Die Jugend unseres Landes wird im Rahmen der Levente-Vereinigungen patriotisch erzogen. Die Leventen erhalten auch eine vormilitärische Ausbildung und sind somit ein gutes Sprungbrett für diejenigen, die in die Armee eintreten wollen. Es ist an der Zeit, diese Einrichtung auszubauen, um sicherzustellen, dass kein Kind ohne nationalistische Indoktrination dasteht."
 HUN_enact_home_defense_law:0	"Gesetz zur Selbstverteidigung einführen"
-
-
 HUN_maintain_conservative_government_desc:0	"Unsere derzeitige Regierung ist stark, aber wir müssen Maßnahmen ergreifen, um unsere Macht unangefochten zu erhalten. Wir werden an den konservativen Ideen des derzeitigen Kabinetts festhalten und dafür sorgen, dass extremistische Bewegungen nicht zu viel Boden gewinnen."
 HUN_ban_the_arrow_cross_party:0	"Verbot der Pfeilkreuzlerpartei"
-
-
 HUN_state_ammunition_factory_desc:0	"Wir könnten unsere Volkswirtschaft ankurbeln, indem wir staatliche Gelder direkt in die Waffenindustrie investieren. Munitionsfabriken würden diesen Zweck gut erfüllen, abgesehen von der Versorgung der Armee."
 HUN_introduce_foreign_service:0	"Auslandsdienst einführen"
-
-
 HUN_swing_politics_desc:0	"Wir müssen uns unsere diplomatischen Optionen jederzeit offen halten, wenn wir nicht wieder auf der Verliererseite landen wollen. Indem wir zwischen den Verbündeten und der Achse hin- und herpendeln, können wir versuchen, so lange wie möglich unentschieden zu bleiben und uns erst dann für eine Seite zu entscheiden, wenn wir sicher sind, dass wir die richtige Wahl treffen."
 HUN_expansionism:0	"Expansionismus"
-
-
 HUN_countryside_development_desc:0	"Wir können nicht zulassen, dass das Kapital unsere einzige Quelle für industrielle Kapazitäten wird. Indem wir Fabriken über das ganze Land verteilen, werden wir immer über eine ausreichende Menge an Industrie verfügen, die wir bei Bedarf anzapfen können."
 HUN_elite_cavalry_division:0	"Elite-Kavallerie-Division"
-
-
 HUN_reassert_old_claims_desc:0	"Es ist schon schlimm genug, dass die Alliierten die vernünftige Forderung von Albert Apponyi im Vertrag von Versailles, die Gebietsverluste Ungarns zu begrenzen, ignoriert haben; seitdem scheint die Welt vergessen zu haben, dass unser Land einst zu den größten in der Region gehörte. Das historische Territorium des Königreichs Ungarn muss wiederhergestellt werden, daher melden wir offen unsere Ansprüche auf die verlorenen Provinzen an."
 HUN_claim_fiume:0	"Anspruch auf Fiume"
-
-
 HUN_demand_slovakia_desc:0	"Die Slowakei - oder auch die Tschechoslowakei - ist und war nie ein lebensfähiges Land. Sie ist lediglich ein Konstrukt von Trianon und wird als solches von der neuen ungarischen Regierung nicht anerkannt. Die Tschechoslowakei wird alle in Frage kommenden Gebiete abtreten, oder wir nehmen sie uns mit Gewalt. Die Drohung, ihr ganzes Land zu verlieren, könnte ausreichen, um die Hälfte davon loszulassen."
 HUN_yugoslavian_pact_of_eternal_friendship:0	"Jugoslawischer Vertrag der ewigen Freundschaft"
-
-
 HUN_partition_yugoslavia_desc:0	"Diese Ungeheuerlichkeit eines Landes namens Jugoslawien ist ein weiteres hässliches Produkt der Friedensverträge nach dem Ersten Weltkrieg. Wenn wir genügend Einfluss in der Region gewinnen oder einige Großmächte überzeugen können, uns zu unterstützen, könnten wir eine Neuaufteilung des jugoslawischen Territoriums erreichen."
 Yug_is_protected_TT:0	"Da Jugoslawien derzeit von anderen Nationen geschützt wird, ist es unwahrscheinlich, dass es unseren Forderungen nachgibt."
-
-
 HUN_demand_transylvania:0	"Verlangen Sie Siebenbürgen"
 HUN_demand_transylvania_desc:0	"Siebenbürgen, einer der ältesten Kernbereiche unseres Landes, wurde fälschlicherweise als rechtmäßiges rumänisches Land betrachtet und soll unverzüglich an unser glorreiches Land abgetreten werden. Wenn die rumänische Regierung beschließt, daran festzuhalten, könnten wir es einfach mit Gewalt einnehmen, und wenn wir schon dabei sind, können wir auch den Rest ihres Landes erobern."
-
-
 HUN_croatian_ports:0	"Kroatische Häfen"
 HUN_croatian_ports_desc:0	"Da wir jahrzehntelang vom Festland eingeschlossen waren, sind unsere Erfahrungen mit der Seefahrt etwas verblasst. Um uns wieder auf dem Meer etablieren zu können, müssen wir mit dem Ausbau unserer Marinekapazitäten beginnen. Die adriatischen Häfen Kroatiens sind allesamt ausbaufähig und könnten sich mit ein wenig Aufwand in brauchbare Marinestützpunkte verwandeln."
-
-
 HUN_croatian_smelting_industry:0	"Entwicklung der kroatischen Hüttenindustrie"
 HUN_croatian_smelting_industry_desc:0	"Kroatien verfügt über große Mengen an Ressourcen, die nicht richtig genutzt werden. Die Entwicklung der Hüttenindustrie in Kroatien und Slawonien würde es uns ermöglichen, das Bauxit und das Eisen in diesem Gebiet besser zu nutzen."
-
-
 HUN_mines_in_transylvania:0	"Bergwerke in Transsilvanien"
 HUN_mines_in_transylvania_desc:0	"Die vielen Berge Transsilvaniens sind reich an Ressourcen wie Eisen, Gold, Kupfer und Salz. Der Ausbau des Bergbaunetzes in diesem Gebiet wird die industrielle Kapazität unserer Nation steigern und unsere Bemühungen unterstützen."
-
-
 HUN_settle_the_matter_of_the_monarchy:0	"Klärung der Frage der Monarchie"
 HUN_settle_the_matter_of_the_monarchy_desc:0	"Unser Land ist seit dem Ende des Ersten Weltkriegs ohne König, obwohl wir uns ein Königreich nennen. Wir müssen dieses Problem angehen und es auf die eine oder andere Weise lösen."
-
-
 HUN_form_a_parliamentary_monarchy:0	"Eine parlamentarische Monarchie bilden"
 HUN_form_a_parliamentary_monarchy_desc:0	"Das Zeitalter der absoluten Herrschaft der Monarchen ist vorbei. Wenn wir die Monarchie wiederherstellen, dann sollte es eine parlamentarische Monarchie sein, in der der Monarch keine Macht über das Parlament hat und nur die Aufgaben eines Staatsoberhauptes wahrnimmt."
-
-
 HUN_otto_von_habsburg:0	"Otto von Habsburg"
 HUN_otto_von_habsburg_desc:0	"Die Monarchie ist jetzt stabil, und es gibt eine annehmbare Unterstützung für eine legitimistische Bewegung. Otto von Habsburg ist der rechtmäßige Thronfolger von Ungarn und soll als solcher wieder als König eingesetzt werden. Einige mögen über die Rückkehr eines Habsburgers besorgt sein, aber Otto ist nicht sein Großvater, und er wird unserem Land sicherlich Frieden und Wohlstand bringen."
-
-
 HUN_carl_wilhelm_of_sweden:0	"Carl Wilhelm von Schweden"
 HUN_carl_wilhelm_of_sweden_desc:0	"Vielleicht würde die Wahl eines Monarchen einer einflussreichen Macht die Neutralität des Landes gefährden. Mit dem König eines notorisch neutralen Landes wie Schweden wären wir besser dran. Carl Wilhelm, der zweite Sohn des Königs, wäre ein ausgezeichneter Kandidat, und gute Beziehungen zu Schweden könnten auch andere Vorteile mit sich bringen."
-
-
 HUN_enthrone_horthy:0	"Horthy inthronisieren"
 HUN_enthrone_horthy_desc:0	"Horthy regiert jetzt praktisch wie ein König, wenn auch nur dem Namen nach. Es gibt viele Menschen, die seine Krönung befürworten, und die Wiedereinsetzung eines Königs würde die Stimmung der Nation sicherlich heben."
-
-
 HUN_agricultural_modernisation:0	"Modernisierung der Landwirtschaft"
 HUN_agricultural_modernisation_desc:0	"Die Landwirtschaft ist und war schon immer die wichtigste wirtschaftliche Triebkraft unseres Landes. Wir können nicht zulassen, dass sich dieser Wirtschaftszweig verschlechtert, wenn wir auf Fortschritte in allen anderen Bereichen hoffen."
-
-
 HUN_found_maort:0	"MAORT gründen"
 HUN_found_maort_desc:0	"Einige amerikanische Geschäftsleute haben eine Erkundungsexpedition in unserem Land finanziert und in der Nähe der Dörfer Lovászi und Hahót beträchtliche Erdölvorkommen gefunden. Sie schlugen die Gründung eines gemeinsamen Unternehmens mit dem Namen MAORT (Magyar-Amerikai Olajipari Rt.) vor, das in diesem Gebiet tätig werden sollte. Der größte Teil des Öls würde in unseren Händen landen, wir haben also wenig zu verlieren."
-
-
 HUN_oil_surveys:0	"Öl-Untersuchungen"
 HUN_oil_surveys_desc:0	"In der Slowakei und in Backa wurden Anzeichen für Ölfelder gefunden. Wir müssen eine umfassende Untersuchung durchführen und alle unerschlossenen Ölreserven in diesen Gebieten kartieren."
-
-
 HUN_fortification_effort:0	"Verstärkte Anstrengungen"
 HUN_fortification_effort_desc:0	"Die Grenzen unseres Landes müssen auf eine Invasion gut vorbereitet werden. Eine gut befestigte Linie kann mehr wert sein als ein Dutzend Divisionen."
-
-
 HUN_miskolc_arms_factory:0	"Waffenfabrik Miskolc"
 HUN_miskolc_arms_factory_desc:0	"Miskolc liegt an einer strategisch wichtigen Stelle in der Nähe der Nordgrenze. Die Entwicklung der Rüstungsindustrie in der Stadt würde eine schnelle und kontinuierliche Versorgung mit Waffen ermöglichen, die schnell an die Front gelangen könnten."
-
-
 HUN_artillery_factory_in_gyor:0	"Artilleriefabrik in Györ"
 HUN_artillery_factory_in_gyor_desc:0	"Vor dem Ende des Ersten Weltkriegs gab es in Györ eine Artilleriefabrik, die 1919 von den rumänischen Besatzern geplündert und weitgehend zerstört wurde. Aufgrund seiner strategischen Lage ist Györ nach wie vor ein idealer Standort für eine Fabrik, so dass wir uns mit Nachdruck für den Wiederaufbau einsetzen sollten."
-
-
 HUN_hungarian_lloyd_aircraft_factory:0	"Ungarische Lloyd-Flugzeugfabrik"
 HUN_hungarian_lloyd_aircraft_factory_desc:0	"Die ursprüngliche Lloyd-Flugzeugfabrik wurde nach dem Ersten Weltkrieg abgerissen, da Ungarn die Herstellung von Flugzeugen untersagt war. Jetzt kann diese Beschränkung nicht mehr aufrechterhalten werden, und wir können die Fabrik wieder aufbauen und die Produktion von Militärflugzeugen wieder aufnehmen."
-
-
 HUN_the_debrecen_industrial_concern:0	"Der Debrecener Industriekonzern"
 HUN_the_debrecen_industrial_concern_desc:0	"Die östlichen Regionen des Landes sind im Vergleich zum Westen unterentwickelt. Die Förderung der lokalen Industrie könnte den nötigen Schwung für die Wiederbelebung der Region bringen."
-
-
 HUN_metal_mills:0	"Ausbau der Maschinenfabriken"
 HUN_metal_mills_desc:0	"Ohne die verarbeiteten Rohstoffe sind alle industriellen Bemühungen zum Scheitern verurteilt."
-
-
 HUN_land_clearance:0	"Abholzung"
 HUN_land_clearance_desc:0	"Einige bewaldete Gebiete schränken die Expansion unserer Industrie und des Straßennetzes ein. Die Abholzung dieser Gebiete würde einige vorübergehende Arbeitsplätze schaffen und viel Platz für die Expansion unserer Industrie schaffen."
-
-
 HUN_industrial_research_projects:0	"£tech_mod Industrielle Forschungsprojekte"
 HUN_industrial_research_projects_desc:0	"Durch den Ausbau der Industrie können wir die besten Ingenieure und Wissenschaftler unseres Landes zusammenbringen, damit sie ihren Verstand besser einsetzen und unsere Forschungskapazitäten verbessern können."
-
-
 HUN_post_war_reorganisation:0	"Nachkriegszeit: Reorganisation"
 HUN_post_war_reorganisation_desc:0	"Jetzt, wo wir unseren gerechten Anteil an Kämpfen hinter uns haben, sind einige Beförderungen sowohl für altgediente als auch für neue Offiziere unserer Armee angesagt. Diejenigen, die sich auf dem Schlachtfeld ausgezeichnet haben, werden mit hohen Führungspositionen belohnt."
-
-
 HUN_aviation_effort:0	"Luftverkehrsbemühungen"
 HUN_aviation_effort_desc:0	"Unsere Luftwaffe befindet sich in einem desolaten Zustand. Es gibt keine größeren Fabriken für den Bau von Flugzeugen, und die Ausbildungsroutinen sind veraltet. In der Nähe von Budapest wird eine Flugzeugfabrik errichtet, und ein Expertenteam wird mit der Entwicklung neuer Taktiken und Trainingsübungen beauftragt."
-
-
 HUN_air_superiority_focus:0	"Schwerpunkt Luftüberlegenheit"
 HUN_air_superiority_focus_desc:0	"Als kleines Land ist es von entscheidender Bedeutung, dass wir unseren Luftraum so gut wie möglich verteidigen, und daher sollten Kampfflugzeuge und Gefechtsfeldunterstützung unsere Priorität sein. Sollte es uns nicht gelingen, in der Luft einen Vorteil zu erlangen, werden unsere Bodentruppen mit Sicherheit scheitern."
-
-
 HUN_targeted_destruction_focus:0	"Fokus auf gezielte Zerstörung"
 HUN_targeted_destruction_focus_desc:0	"Mit unserer derzeitigen industriellen Kapazität können wir nicht darauf hoffen, die Luftstreitkräfte der Großmächte mit Kampfflugzeugen zu übertrumpfen. Wir könnten jedoch versuchen, so viel Schaden wie möglich anzurichten, indem wir uns auf strategisch wichtige Punkte konzentrieren und die Luftüberlegenheit nur so lange wie nötig erhalten."
-
-
 HUN_military_intelligence:0	"Militärischer Geheimdienst"
 HUN_military_intelligence_desc:0	"Ein unbekannter Feind ist ein gefährlicher Feind. Das Aufspüren feindlicher Flugzeuge und die Entschlüsselung feindlicher Funksprüche sind für unseren Erfolg im Einsatz unerlässlich. Weitere Investitionen in diese Technologien dürfen nicht vergeudet werden."
-
-
 HUN_jet_propulsion:0	"Strahlantrieb"
 HUN_jet_propulsion_desc:0	"Einige unserer Wissenschaftler haben einen Durchbruch auf dem Weg zum ultimativen Werkzeug für die Luftfahrt erzielt: dem Strahltriebwerk. Wenn das Projekt weiter finanziert würde, könnten Düsentriebwerke als Antrieb für unsere neuesten Flugzeuge eingesetzt werden, die wiederum nie dagewesene Geschwindigkeiten erreichen könnten."
-
-
 HUN_advanced_infantry_divisions:0	"Fortgeschrittene Infanteriedivisionen"
 HUN_advanced_infantry_divisions_desc:0	"Die Infanterie ist das Rückgrat einer jeden Armee. Um in allen anderen Bereichen erfolgreich zu sein, müssen wir zunächst sicherstellen, dass unsere Infanterie angemessen ausgerüstet und unterstützt wird."
-
-
 HUN_saint_ladislaus_paratrooper_division:0	"Fallschirmjägerdivision Sankt Ladislaus"
 HUN_saint_ladislaus_paratrooper_division_desc:0	"Andere Länder setzen schon seit geraumer Zeit erfolgreich Fallschirmjägereinheiten ein, und wir hinken in dieser Hinsicht hinterher. Wir müssen uns bemühen, eine eigene Fallschirmjägerdivision aufzustellen, die nach unserem berühmten König aus dem Mittelalter St. Ladislaus genannt wird. Die Einheit wird mit der notwendigen Ausrüstung und finanziellen Mitteln ausgestattet, so dass die Ausbildung sofort beginnen kann."
-
-
 HUN_motorization_effort:0	"Motorisierungsbemühungen"
 HUN_motorization_effort_desc:0	"Die Kavallerie stirbt in den Armeen der ganzen Welt langsam aus. Für friedenserhaltende Zwecke mag sie noch nützlich sein, aber die Zukunft der schnellen Kriegsführung liegt in motorisierten Divisionen. Wir müssen diesem Thema viel Zeit widmen, wenn wir mit dem Rest der Welt mithalten wollen."
-
-
 HUN_advanced_doctrines:0	"Fortgeschrittene Doktrinen"
 HUN_advanced_doctrines_desc:0	"Reine Kraft allein reicht nicht aus, um einen Krieg zu gewinnen. Unsere Generäle müssen informiert sein und sich mit den modernsten Taktiken auskennen, wenn wir auf dem Schlachtfeld bestehen wollen."
-
-
 HUN_german_license_trade:0	"Deutscher Lizenzhandel"
 HUN_german_license_trade_desc:0	"Unsere Forschungsanstrengungen können nicht alle Bereiche der Kriegsführung abdecken, und so müssen wir uns zumindest teilweise auf ausländische Technologie verlassen. Deutschland hat in letzter Zeit einige hervorragende Kampfflugzeuge und Leichtflugzeuge entwickelt, die wir sicherlich in unserer eigenen Luftwaffe verwenden könnten. Ein Geschäftsabschluss mit ihnen würde unsere Luftfahrtbemühungen ohne nennenswerte Investitionen fördern."
-
-
 HUN_reinstate_horthy:0	"Wiedereinsetzung von Horthy"
 HUN_reinstate_horthy_desc:0	"Miklós Horthy war der Konteradmiral der ungarischen Marine, als es diese noch gab. Da das Land an das Festland gefesselt wurde, übernahm er das Amt des Regenten des Landes. Manche würden sagen, dass sein politischer Hintergrund seine Position in der Marine beeinträchtigen könnte, aber seine Fähigkeiten als Admiral sind unbestreitbar."
-
-
 HUN_heavy_ship_effort:0	"Schwerer Schiffseinsatz"
 HUN_heavy_ship_effort_desc:0	"Eine Flotte von Zerstörern ist gut. Eine Flotte von Zerstörern, die von einigen Schlachtschiffen und Kreuzern umgeben ist, ist sogar noch besser. Wir sollten uns darauf konzentrieren, unsere Flotte zu diversifizieren und Schiffe für alle Aufgaben und Verwendungszwecke herzustellen."
-
-
 HUN_amphibious_operations:0	"Amphibische Operationen"
 HUN_amphibious_operations_desc:0	"Nun, da die Verteidigung gesichert ist, können wir uns der Offensive zuwenden. Es ist sehr gut möglich, dass wir in eine Situation geraten, in der wir einen amphibischen Angriff durchführen müssen, und die Vorbereitung darauf ist keine leichte Aufgabe. Deshalb werden wir auf diese Mühen verzichten und frühzeitig mit den Vorbereitungen beginnen."
-
-
 HUN_naval_tactical_advancements:0	"Taktische Fortschritte in der Marine"
 HUN_naval_tactical_advancements_desc:0	"Admirale sind im Lande nicht leicht zu finden. Dies bietet auch die Möglichkeit, junge, frischgebackene Admirale für unsere Bedürfnisse auszubilden und einer bestimmten Doktrin zu folgen."
-
-
 HUN_nuclear_technology:0	"Nukleartechnik"
 HUN_nuclear_technology_desc:0	"Der ungarische Wissenschaftler Leó Szilárd hat bereits 1933 die Idee der nuklearen Kettenreaktion entwickelt. Nun ist es an der Zeit, seine Konzepte weiterzuentwickeln und die Technologie nutzbar zu machen."
-
-
 HUN_secret_rearmament_focus:0	"Geheime Aufrüstung"
 HUN_secret_rearmament_focus_desc:0	"Auch wenn wir uns an die Beschränkungen des Vertrags von Trianon halten müssen, sollten wir die Verteidigung unseres Landes nicht vernachlässigen. Die Armee wird im Geheimen aufgerüstet, bis wir unsere Bemühungen wieder offenlegen können."
-
-
 HUN_bled_agreement:0	"Abkommen von Bled"
 HUN_bled_agreement_desc:0	"Angesichts der zunehmenden Bedrohung für den Frieden in Europa können wir die Fesseln des Friedensvertrags von Trianon nicht länger tatenlos hinnehmen. Sicherlich werden die Mitglieder der Kleinen Entente erkennen, dass Ungarn aufrüsten muss, da es sonst einer fremden Expansion zum Opfer fallen und auch ihre Grenzen preisgeben wird. Wir werden uns mit ihren Vertretern treffen, um über eine Lockerung der Beschränkungen zu sprechen."
-
-
 HUN_rapid_corps:	"Schnelles Korps"
 HUN_rapid_corps_desc:0	"Ein Schlüsselelement der Huba-Kampfordnung ist die Motorisierung der Armee. Dies soll durch die Aufstellung des Schnellen Korps und den Ausbau der mechanisierten Einheiten der Armee erreicht werden."
-
-
 HUN_improve_the_huba_order_of_battle:0	"Die Huba-Schlachtordnung verbessern"
 HUN_improve_the_huba_order_of_battle_desc:0	"Unsere Schlachtordnung muss angepasst werden, um den Bedürfnissen gerecht zu werden, die sich seit ihrer Einführung ergeben haben. In den ursprünglichen Plänen wurde die Rolle der Luftwaffe etwas vernachlässigt, die in unseren Strategien eine größere Rolle spielen muss."
-
-
 HUN_alfold_oil_fields:0	"Alföld-Ölfelder"
 HUN_alfold_oil_fields_desc:0	"Die derzeitige Ölproduktion in den Alföld-Ebenen reicht für unseren Bedarf nicht aus. Mit einigen Investitionen könnten die Raffinerien sowohl für die synthetische Produktion als auch für die Raffination von Naturöl ausgerüstet werden."
-
-
 HUN_recruitment:0	"Verstärkte Rekrutierung"
 HUN_recruitment_desc:0	"Es werden mehr Männer und mehr Uniformen benötigt."
-
-
 HUN_equipment_tt:0	"Wenn Sie das Abkommen von Bled abgeschlossen haben, erhalten Sie eine weitere §GMilitärfabrik§!"
 HUN_the_second_army:0	"Die zweite Armee"
-
-
 HUN_blitzkrieg_adoption_desc:0	"Das Zeitalter der mobilen Kriegsführung ist angebrochen. Wenn wir uns auf dem Schlachtfeld auszeichnen wollen, müssen wir die Blitzkriegstaktik Deutschlands übernehmen."
 HUN_italian_pilot_training:0	"Italienische Pilotenausbildung"
-
-
 HUN_hungarian_german_aircraft_manufacturing_desc:0	"Im Rahmen der deutschen Bemühungen um die Zerstreuung der Industrie hat Deutschland uns das Recht eingeräumt, die Lizenz für die Me-210 zu erwerben, und uns beim Aufbau einer Produktionsstätte in der Donau-Flugzeugfabrik unterstützt."
 HUN_expand_the_danube_aircraft_factory:0	"Die Donauflugzeugfabrik ausbauen"
-
-
 HUN_kossuth_order_of_battle_desc:0	"Auch wenn wir nicht über die Mannstärke der Sowjetunion verfügen, so können ihre Kampftechniken doch von unseren Armeen genutzt werden, um unsere Truppen effizient einzusetzen."
 HUN_tank_developments:0	"Panzer-Entwicklungen"
-
-
 HUN_assault_gun_focus_desc:0	" Die selbstfahrende Artillerie kann sich zusammen mit den gepanzerten Einheiten bewegen und bei Bedarf unterstützendes Feuer abgeben. Durch die Standardisierung der Herstellungsverfahren kann die Produktion dieser Einheiten gesteigert werden."
 HUN_pilis_order_of_battle:0	"Pilis Schlachtordnung"
-
-
 HUN_french_connection_desc:0	"Frankreich bietet die Möglichkeit, Offiziere in seinen eigenen Einrichtungen auszubilden. Unsere Piloten und Kavallerieoffiziere können in französischen Einrichtungen trainieren, um Zugang zu den neuesten Taktiken zu erhalten, die sie anbieten können."
 HUN_expand_the_raba:0	"Die Raba ausbauen"
-
-
 HUN_naval_tradition_desc:0	"Die Marine der österreichisch-ungarischen Monarchie hat sich im letzten Krieg hervorragend geschlagen. Wenn wir die Errungenschaften der Vergangenheit bewahren wollen, müssen wir in den Ausbau unserer Marine investieren."
 HUN_war_games:0	"Manöver"
-
-
 HUN_the_kuk_army_desc:0	"Wenn wir die wiedergewonnenen Gebiete der Monarchie effizient verwalten wollen, müssen wir ein neues Wehrpflicht-System einführen, das es uns ermöglicht, eine gesunde Personalreserve zu halten."
 HUN_rebuild_the_navy:0	"Wiederaufbau der Marine"
-
-
 HUN_infantry_tactics_desc:0	"Unsere Studien in den verschiedenen Bereichen der Kriegsführung haben Früchte getragen. Wir verfügen nun über die Mittel, um die beste Infanterietaktik zu entwickeln, die wir erreichen können."
 HUN_motorization_build:0	"Lkw-Produktion"
-
-
 revisionist_spirit_desc:0	"Das Land steht geschlossen hinter der Idee, verlorene Gebiete zurückzugewinnen."
 revisionist_spirit_fascism:0	"Revisionistischer Geist"
-
-
 revisionist_spirit_neutrality_desc:0	"Das Land steht geschlossen hinter der Idee, verlorene Gebiete zurückzuerobern."
 fascism_losing_popularity:0	"Rechter Flügel verliert an Popularität"
-
-
 spread_of_liberalism_desc:0	"Demokratische Ideen werden im Land immer beliebter."
 spread_of_communism:0	"Ausbreitung des Kommunismus"
-
-
 rakosi_administration_desc:0	"Die Regierung bringt die Opposition schnell zum Schweigen, sei es durch die Presse, politische Gegner oder interne Bedrohungen."
 single_party_system:0	"Einparteiensystem"
-
-
 underground_communism_desc:0	"Kommunistisches Gedankengut wird im Geheimen von Agenten eines fremden Landes verbreitet."
 spreading_the_revolution:0	"Ausbreitung der Revolution"
-
-
 communist_revolution_desc:0	"Eines der benachbarten kommunistischen Länder unternimmt große Anstrengungen, um eine Arbeiterrevolution in diesem Land zu ermöglichen."
 reformed_conscription:0	"Reformierte Wehrpflicht"
-
-
 supporting_italy_desc:0	"Wie im ungarisch-italienischen Vertrag vereinbart, ist Ungarn verpflichtet, Italien bei seinen Expansionsplänen nach Kräften zu unterstützen."
 support_from_hungary:0	"Unterstützung durch Ungarn"
-
-
 fortification_effort_desc:0	"Das Land konzentriert sich auf die Verbesserung seiner Verteidigungsanlagen, um sich auf eine Invasion vorzubereiten."
 fortification_effort_realism:0	"Festungsmaßnahmen"
-
-
 industrial_effort_realism_desc:0	"Das Land konzentriert sich auf die Entwicklung der Industrie, um seine Ziele zu erreichen."
 naval_rearmament:0	"Aufrüstung der Seestreitkräfte"
-
-
 naval_defense_desc:0	"Jetzt, wo wir eine Küste haben, die es zu schützen gilt, sollten wir alles in unserer Macht Stehende tun, um sie auch zu behalten."
 fighter_production_innovations:0	"Innovationen in der Kampfflugzeugproduktion"
-
-
 bomber_production_innovations_desc:0	"Es wurden Fortschritte in Richtung einer besseren, schnelleren und effizienteren Produktion von Ausrüstung erzielt."
 revisionist_education:0	"Revisionistische Bildung"
-
-
 worker_spirit_desc:0	"Unter der Flagge der Revolution arbeiten die Arbeiter der Nation unermüdlich, um alles zu produzieren, was das Land braucht."
 scientific_spirit:0	"Wissenschaftlicher Geist"
-
-
 war_preparation_desc:0	"Die Nation bereitet sich auf einen baldigen Krieg vor. Rekrutierung und Mobilisierung werden beschleunigt, und die Außenpolitik wird immer genauer definiert."
 funding_the_gyori_program:0	"Finanzierung des Györi-Programms"
-
-
 gyori_program_research_desc:0	"In der ersten Phase des Györi-Programms wird die Forschung stark subventioniert."
 gyori_program_industry:0	"Györi-Programm: Industrie"
-
-
 gyori_program_army_research_desc:0	"In der zweiten Phase des Györi-Programms steht die Entwicklung der Armee im Mittelpunkt."
 gyori_program_defense:0	"Györi-Programm: Verteidigung"
-
-
 gyori_program_air_research_desc:0	"In der dritten Phase des Györi-Programms wird der Forschung und Entwicklung von Flugzeugen Vorrang eingeräumt."
 gyori_program_air_production:0	"Györi-Programm: Produktion von Flugzeugen"
-
-
 gyori_program_navy_research_desc:0	"In der vierten Phase des Györi-Programms liegt der Schwerpunkt auf der Aufrüstung der Marine."
 gyori_program_navy_production:0	"Györi-Programm: Marineproduktion"
-
-
 assistance_from_german_general_staff_desc:0	"Es besteht eine enge militärische Zusammenarbeit zwischen Ungarn und Deutschland, eine Delegation des Generalstabs berät das Oberkommando in Budapest."
 trianon_restrictions:0	"Trianon-Beschränkungen"
-
-
 trianon_restrictions_bled_agreement_desc:0	"Obwohl es keinen Ausschuss mehr gibt, der die Bedingungen durchsetzt, leidet die ungarische Armee immer noch unter den militärischen Beschränkungen, die durch den Friedensvertrag von Trianon festgelegt wurden."
 multinational_state:0	"Multinationaler Staat"
-
-
 kadar_administration_desc:0	"Die Regierung konzentriert sich auf das Wohlergehen der Bevölkerung, anstatt gegen die Opposition vorzugehen. Diejenigen, die sich offen gegen das System stellen, werden nach wie vor zum Schweigen gebracht, aber die weniger lästigen Personen dürfen in Ruhe leben."
 levente_movement:0	"Levente-Bewegung"
-
-
 levente_movement_2_desc:0	"Die Jugend der Nation wird zum Teil in einer halbmilitaristischen, konservativen Einrichtung ausgebildet und erzogen."
 visegrad_military_council:0	"Visegrád-Militärrat"
-
-
 spread_of_nationalism_desc:0	"Nationalsozialistische und ungaristische Ideologien gewinnen im Land immer mehr an Popularität."
 successful_revision:0	"Erfolgreiche Revision"
-
-
 goulash_communism_desc:0	"János Kádár verfolgt während seines kommunistischen Regimes in Ungarn eine einzigartige Politik. Die Wohlfahrt hält die Bevölkerung bei Laune und sorgt für mehr Kooperation mit dem System. Das kostet den Staat zwar etwas Geld, aber es scheint seine Vorteile gegenüber dem traditionellen Kommunismus zu haben."
 hungarian_five_year_plan:0	"Fünfjahresplan"
-
-
 united_hungarian_lands_desc:0	"Wie von Ferenc Szálasi geplant, besitzt Ungarn nun endlich sein gesamtes rechtmäßiges Staatsgebiet. So wie die alten Ländereien wiederhergestellt wurden, so wurde auch das Vertrauen des Volkes in die Regierung wiederhergestellt."
 szalasi_social_reforms:0	"Die sozialen Reformen von Szálasi"
-
-
 domestic_focus_desc:0	"Neu eingeführte Gesetze verbieten Investitionen im Ausland und stellen die Verlagerung von Vermögenswerten ins Ausland grundsätzlich unter Strafe. Die Regierung legt großen Wert auf die inländische Entwicklung, und die Handelspolitik des Landes spiegelt diese Haltung wider."
 avo:0	"ÁVO"
-
-
 king_horthy_desc:0	"Nach der Auflösung der absoluten Monarchie und der Errichtung einer parlamentarischen Monarchie wurden Horthys Befugnisse beschnitten, er wurde jedoch offiziell zum König von Ungarn gekrönt."
 democracy_gaining_ground:0	"Demokratie auf dem Vormarsch"
-
-
 industrial_agrarian_state_desc:0	"Im Rahmen seiner zahlreichen Reformen begann Szálasi mit der Umwandlung Ungarns in eine agrarische und zugleich moderne Gesellschaft. Dazu gehörte eine gründliche Neuordnung der Sozialstruktur und eine Vielzahl von Gesetzen zu Industrie und Landbesitz."
 arrow_cross_party_banned:0	"Verbot der Pfeilkreuzlerpartei"
-
-
 german_subsidized_armor_production_desc:0	"Deutschland drängt die ungarische Industrie, mehr schwere Panzer zu produzieren. Ungarns Ressourcen sind für diese Aufgabe nicht gerade geeignet, aber mit dieser Hilfe können sie sicherlich eine höhere Produktionsrate erreichen."
 conservative_ideas:0	"Konservative Ideen"
-
-
 hungarian_expansionism_desc:0	"Das Land ist entschlossen, sein altes Territorium mit konventionellen Mitteln zurückzuerobern. Ungarn wird sich entweder durch einen Krieg durchsetzen oder in dem Konflikt untergehen."
 volunteers_for_finland:0	"Freiwillige für Finnland"
-
-
 foreign_service_desc:0	"Der Dienst in ausländischen Konflikten ist ein obligatorischer Teil des Militärdienstes."
 convertible_factories:0	"Konvertierbare Fabriken"
-
-
 rongyos_garda_desc:0	"Eine bunt zusammengewürfelte Gruppe von Freiwilligen, die Rongyos Gárda, hat dem Land in der Vergangenheit geholfen, indem sie feindliche Kräfte destabilisiert und sabotiert hat. Heute werden sie von der Regierung finanziert und sind ein Symbol für den Patriotismus der Nation."
 military_land_survey:0	"Militärische Landvermessung"
-
-
 leaning_towards_germany_fascism_desc:0	"Das Land nähert sich der faschistischen deutschen Regierung an."
 leaning_towards_germany_democratic:0	"Annäherung an Deutschland"
-
-
 leaning_towards_germany_communism_desc:0	"Das Land nähert sich der kommunistischen deutschen Regierung an."
 ubag_submarine_factory:0	"UBAG U-Boot-Fabrik"
-
-
 dunai_repulogepgyar_desc:0	"Die Danubian Aircraft Company mit Sitz auf dem Flughafen Tököli ist vor allem auf Flugzeuge zur Luftunterstützung spezialisiert."
 depleted_reserves:0	"Erschöpfte Reserven"
-
-
 kuk_army_desc:0	"Die reformierte Wehrpflicht der neuen k.u.k.-Armee ermöglicht einen effizienteren Einsatz von Regimentern, die aus neu erworbenen Gebieten rekrutiert werden."
 kingdom_without_a_king:0	"Ein Königreich ohne König"
-
-
 the_iron_curtain_desc:0	"Das Land hat den Kontakt nach außen zu nichtkommunistischen Nationen stark eingeschränkt. Dies wirkt sich auf alles aus, von der Diplomatie über den Handel bis hin zur Auswanderung."
 move:0	"MOVE"
-
-
 land_reform_desc:0	"Viele Ländereien des Landes wurden an Landwirte umverteilt, um ihnen die Möglichkeit zu geben, ihre eigenen Unternehmen zu gründen."
 espirit_de_corps:0	"Korpsgeist"
-
-
 soviet_officer_training_desc:0	"Die ungarischen Offiziere werden mit Hilfe der Generäle der sowjetischen Armee ausgebildet. Dies trägt dazu bei, die Erfahrungen erfahrener Offiziere weiterzugeben, und bringt die Streitkräfte beider Länder einander näher."
 aerotechnics_institute:0	"Aerotechnisches Institut"
-
-
 king_otto_von_habsburg_desc:0	"Der rechtmäßige Erbe der Monarchie, Otto von Habsburg, ist endlich nach Ungarn zurückgekehrt und beansprucht den Thron, der seinem Vater gehörte."
 king_franz_albrecht_von_habsburg:0	"König Albrecht II. Franz von Habsburg-Teschen"
-
-
 king_carl_wilhelm_desc:0	"Carl Wilhelm ist der Sohn des schwedischen Königs Gustav. Er wurde auf den ungarischen Thron gewählt, in der Hoffnung, dass er das Land durch diese unsicheren Zeiten führen würde."
 king_edward_of_windsor:0	"König Edward I. von Windsor"
-
-
 imperial_nostalgia_desc:0	"Der jüngste Krieg hat bei einigen Deutschen nostalgische Gefühle für die Zeiten geweckt, in denen Deutschland unangefochten eine Großmacht in Mitteleuropa war. Angehörige des ehemaligen deutschen Königshauses kämpfen im aktuellen Krieg für das Land und ernten dafür die Sympathie vieler."
 stockpiling_equipment_25:0	"Bevorratung von Ausrüstung"
-
-
 stockpiling_equipment_50_desc:0	"Die Nation legt einen Teil der produzierten Ausrüstung für Zwecke beiseite, die nur sie selbst kennt."
 german_empire_reborn:0	"Wiedergeburt des Deutschen Reiches"
-
-
 secret_agents_occupied_desc:0	"Alle Geheimagenten des Landes werden abgezogen, was nachrichtendienstliche Operationen anderswo erschwert."
 infantry_tactics:0	"Taktik der Infanterie"
-
-
 armament_unification_desc:0	"Die Länder des Warschauer Paktes haben die meisten ihrer Waffen standardisiert, einschließlich der Kalibergrößen und Munitionstypen, wodurch es einfacher wird, von anderen Ländern der Allianz hergestellte Ausrüstung zu verwenden."
 gendarmerie:0	"Gendarmerie"
-
-
 multinational_state_trialism_desc:0	"Die Ungleichheiten zwischen den verschiedenen Nationalitäten des Landes stellen eine große Belastung für den Staat dar."
 multinational_state_trialism_compromise:0	"Multinationaler Staat"
-
-
 multinational_state_federation_desc:0	"Die Ungleichheiten zwischen den verschiedenen Nationalitäten des Landes stellen eine große Belastung für den Staat dar."
 multinational_state_federation_elections:0	"Multinationaler Staat"
-
-
 regional_elections_desc:0	"Die Staaten des Landes halten in regelmäßigen Abständen Regionalwahlen ab, bei denen Vertreter in ein gemeinsames Regierungsgremium gewählt werden."
 cooperative_nationalities:0	"Kooperative Nationalitäten"
-
-
 kun_administration_desc:0	"Die neue Regierung von Béla Kun setzt langsam die gleiche Politik um, die die gescheiterte Räterepublik 1919 verfolgte."
 kun_administration_2:0	"Kun-Verwaltung"
-
-
 federal_reserve_guard_desc:0	"Die Reserven des Donaubundes können von jedem Mitgliedsstaat genutzt werden, so dass die Streitkräfte des Bundes in Notzeiten schneller eingesetzt werden können."
 federal_construction_effort:0	"Föderale Bauanstrengungen"
-
-
 comittee_for_federal_security_desc:0	"Das Komitee für föderale Sicherheit (CFFS) ist die gemeinsame Institution des Donaubundes, die für die Wahrung der Integrität der Föderation und ihrer Bevölkerung verantwortlich ist."
 armed_neutrality:0	"Bewaffnete Neutralität"
-
-
 women_in_the_army_desc:0	"Frauen sind nun in der Armee zugelassen. Dies missfällt einigen konservativen Elementen in der Armee, trägt aber zur Militarisierung des Landes bei."
 paying_reparations:0	"Zahlung von Reparationen"
-
-
 reparations_from_hungary_desc:0	"Das Land erhält Reparationen von Ungarn, wie in einem früheren Vertrag vereinbart."
 social_reconciliation:0	"Soziale Aussöhnung"
-
-
 tax_reform_desc:0	"Als Teil der Agenda der Sozialdemokraten, die jetzt Teil der Regierungskoalition sind, werden diejenigen, die während des Krieges reich geworden sind, in eine andere Steuerklasse eingestuft, was zu einer progressiven und gerechten Verteilung der Steuern führt."
 education_reform:0	"Bildungsreform"
-
-
 sending_supplies_to_hungary_desc:0	"Die Regierung ist in erster Linie Ungarn gegenüber loyal, was bedeutet, dass ein Teil der industriellen Kapazitäten des Landes zur Unterstützung der ungarischen Bemühungen abgezweigt wird."
 receiving_supplies_from_slovakia:0	"Erhalt von Hilfsgütern aus der Slowakei"
-
-
 french_plane_components_desc:0	"Wir haben den Kauf verschiedener Flugzeugkomponenten und Lizenzproduktionen aus Frankreich veranlasst. Dazu gehören vor allem Flugzeugtriebwerke."
 cooperative_romanian_population:0	"Kooperative rumänische Bevölkerung"
-
-
 ludovica_academy_desc:0	"Die Ludovica-Akademie ist das Rückgrat unserer Offiziersausbildung, und ihre jüngste Erweiterung hat die Führung unserer Armee verbessert."
 supporting_worker_revolt_abroad:0	"Unterstützung der Arbeiterrevolte im Ausland"
-
-
 danubian_saboteurs_desc:0	"Unzufriedene dänische Arbeiter sabotieren ständig unsere Versorgungslinien und Lager."
 emergency_industrial_measures:0	"Industrielle Notmaßnahmen"
-
-
 loan_payments_from_hungary_desc:0	"Ungarn zahlt das Rüstungsdarlehen zurück, das wir ihm gewährt haben."
 italian_armament_loan:0	"Italienisches Rüstungsdarlehen"
-
-
 italian_hungarian_naval_academy_desc:0	"Italienische und ungarische Admiräle und Marineforscher arbeiten zusammen, um die technologischen und Ausbildungsbemühungen beider Länder voranzutreiben."
 home_defense_law:0	"Gesetz zur Landesverteidigung"
-
-
 gyor_artillery_desc:0	"Die Artilleriefabrik in Gyôr wurde in den Dienst des Militärs gestellt und produziert Tag und Nacht Artilleriegeschütze."
 hindenburg_plan:0	"Hindenburg-Plan"
-
-
 production_control_desc:0	"Die industrielle Produktion wird in hohem Maße vom Staat reguliert."
 production_distrubance:0	"Störung der Produktion"
-
-
 foreign_military_mission_desc:0	"Ein verbündetes Land hat eine Militärmission in das Land entsandt, die die Führung berät und die militärischen Operationen beobachtet."
 disciplinary_regiments:0	"Disziplinarregimenter"
-
-
 home_defense_comittee_desc:0	"Ein Ausschuss, dem auch Mátyás Rákosi angehört, ist für die Planung und Gestaltung der Ausgaben für die Heimatverteidigung zuständig."
 dual_profile_factories:0	"Doppelprofil-Fabriken"
-
-
 foreign_investments_desc:0	"Ausländische Investoren stecken ihr Geld in den Aufbau der ungarischen Industrie und Infrastruktur."
 german_economic_connections:0	"Deutsche Wirtschaftsbeziehungen"
-
-
 military_cooperation_with_germany_desc:0	"Wie auf dem Berliner Treffen zwischen Szálasi und Hitler vereinbart, arbeitet die ungarische Armee verstärkt mit dem deutschen Oberkommando zusammen."
 anti_government_protests:0	"Anti-Regierungs-Proteste"
-
-
 shaky_government_desc:0	"Die neu gewählte Regierung ist aufgrund der plötzlichen Wahl etwas unvorbereitet."
 purge_of_communism:0	"Säuberung des Kommunismus"
-
-
-
 conscription_resistance_10:0	"Widerstand gegen die Wehrpflicht"
 conscription_resistance_10_desc:0	"Neu erworbene Gebiete befinden sich in einem Prozess der Integration. Die Bevölkerung dieser Gebiete ist schwieriger zu rekrutieren und im Allgemeinen weniger kooperativ, wenn es um die Verwaltung geht."
-
-
 conscription_resistance_20:0	"Widerstand gegen die Wehrpflicht"
 conscription_resistance_20_desc:0	"Neu erworbene Gebiete befinden sich in einem Prozess der Integration. Die Bevölkerung dieser Gebiete ist schwieriger zu rekrutieren und im Allgemeinen weniger kooperativ, wenn es um die Verwaltung geht."
-
-
 conscription_resistance_30:0	"Widerstand gegen die Wehrpflicht"
 conscription_resistance_30_desc:0	"Neu erworbene Gebiete befinden sich in einem Prozess der Integration. Die Bevölkerung dieser Gebiete ist schwieriger zu rekrutieren und im Allgemeinen weniger kooperativ, wenn es um die Verwaltung geht."
-
-
 conscription_resistance_40:0	"Widerstand gegen die Wehrpflicht"
 conscription_resistance_40_desc:0	"Neu erworbene Gebiete befinden sich in einem Prozess der Integration. Die Bevölkerung dieser Gebiete ist schwieriger zu rekrutieren und im Allgemeinen weniger kooperativ, wenn es um die Verwaltung geht."
-
-
 conscription_resistance_50:0	"Widerstand gegen die Wehrpflicht"
 conscription_resistance_50_desc:0	"Neu erworbene Gebiete befinden sich in einem Prozess der Integration. Die Bevölkerung dieser Gebiete ist schwieriger zu rekrutieren und im Allgemeinen weniger kooperativ, wenn es um die Verwaltung geht."
-
-
 conscription_resistance_60:0	"Widerstand gegen die Wehrpflicht"
 conscription_resistance_60_desc:0	"Neu erworbene Gebiete befinden sich in einem Prozess der Integration. Die Bevölkerung dieser Gebiete ist schwieriger zu rekrutieren und im Allgemeinen weniger kooperativ, wenn es um die Verwaltung geht."
-
-
 conscription_resistance_70:0	"Widerstand gegen die Wehrpflicht"
 conscription_resistance_70_desc:0	"Neu erworbene Gebiete befinden sich in einem Prozess der Integration. Die Bevölkerung dieser Gebiete ist schwieriger zu rekrutieren und im Allgemeinen weniger kooperativ, wenn es um die Verwaltung geht."
-
-
 conscription_resistance_80:0	"Widerstand gegen die Wehrpflicht"
 conscription_resistance_80_desc:0	"Neu erworbene Gebiete befinden sich in einem Prozess der Integration. Die Bevölkerung dieser Gebiete ist schwieriger zu rekrutieren und im Allgemeinen weniger kooperativ, wenn es um die Verwaltung geht."
-
-
 conscription_resistance_90:0	"Widerstand gegen die Wehrpflicht"
 conscription_resistance_90_desc:0	"Neu erworbene Gebiete befinden sich in einem Prozess der Integration. Die Bevölkerung dieser Gebiete ist schwieriger zu rekrutieren und im Allgemeinen weniger kooperativ, wenn es um die Verwaltung geht."
-
-
 conscription_resistance_100:0	"Widerstand gegen die Wehrpflicht"
 conscription_resistance_100_desc:0	"Neu erworbene Gebiete befinden sich in einem Prozess der Integration. Die Bevölkerung dieser Gebiete ist schwieriger zu rekrutieren und im Allgemeinen weniger kooperativ, wenn es um die Verwaltung geht."
-
-
 HUN_resistance_to_integration_in_transylvania:0	"Widerstand gegen die Integration in Siebenbürgen"
 HUN_resistance_to_integration_in_transylvania_desc:0	"Die Bevölkerung in der Region Siebenbürgen leistet passiven Widerstand gegen die Integration, wodurch die Gebietsverwaltung erheblich verlangsamt wird."
-
-
 HUN_suppressed_resistance_in_slovakia:0	"Unterdrückter Widerstand in der Slowakei"
-
-
 HUN_resistance_to_integration_in_slovakia_desc:0	"Die Bevölkerung in der slowakischen Region leistet passiven Widerstand gegen die Integration, wodurch die territoriale Verwaltung erheblich verlangsamt wird."
 HUN_cracking_down_on_slovakian_rebels:0	"Hartes Durchgreifen gegen Rebellen in der Slowakei"
-
 HUN_suppressed_resistance_in_croatia:0	"Unterdrückter Widerstand in Kroatien"
-
-
 HUN_resistance_to_integration_in_croatia_desc:0	"Die Bevölkerung in der kroatischen Region leistet passiven Widerstand gegen die Integration, wodurch die territoriale Verwaltung erheblich verlangsamt wird."
 HUN_cracking_down_on_croatian_rebels:0	"Hartes Durchgreifen gegen Rebellen in Kroatien"
-
 HUN_suppressed_resistance_in_vojvodina:0	"Unterdrückter Widerstand in der Vojvodina"
-
-
 HUN_resistance_to_integration_in_vojvodina_desc:0	"Die Bevölkerung in der Region Vojvodina leistet passiven Widerstand gegen die Integration, wodurch die Gebietsverwaltung erheblich verlangsamt wird."
 HUN_cracking_down_on_vojvodina_rebels:0	"Hartes Durchgreifen gegen Rebellen in der Vojvodina"
-
 HUN_suppressed_resistance_in_burgenland:0	"Unterdrückter Widerstand im Burgenland"
-
-
 HUN_resistance_to_integration_in_burgenland_desc:0	"Die burgenländische Bevölkerung leistet passiven Widerstand gegen die Integration, wodurch die territoriale Verwaltung erheblich verlangsamt wird."
 HUN_cracking_down_on_burgenland_rebels:0	"Hartes Durchgreifen gegen Rebellen im Burgenland"
-
 HUN_suppressed_resistance_in_bohemia:0	"Unterdrückter Widerstand in Böhmen"
-
-
 HUN_resistance_to_integration_in_bohemia_desc:0	"Die Bevölkerung in der Region Böhmen leistet passiven Widerstand gegen die Integration, wodurch die territoriale Verwaltung erheblich verlangsamt wird."
 HUN_cracking_down_on_bohemian_rebels:0	"Hartes Durchgreifen gegen Aufständische in Böhmen"
-
 HUN_suppressed_resistance_in_galicia_lodomeria:0	"Unterdrückter Widerstand in Galizien-Lodomerien"
-
-
 HUN_resistance_to_integration_in_galicia_lodomeria_desc:0	"Die Bevölkerung in der Region Galicien-Lodomerien leistet passiven Widerstand gegen die Integration, wodurch die Verwaltung des Gebiets erheblich verlangsamt wird."
 HUN_cracking_down_on_galicia_lodomeria_rebels:0	"Hartes Durchgreifen gegen Aufständische in Galicien-Lodomerien"
-
 HUN_suppressed_resistance_in_slovenia:0	"Unterdrückter Widerstand in Slowenien"
-
-
 HUN_resistance_to_integration_in_slovenia_desc:0	"Die Bevölkerung in der slowenischen Region leistet passiven Widerstand gegen die Integration, wodurch die territoriale Verwaltung erheblich verlangsamt wird."
 HUN_cracking_down_on_slovenian_rebels:0	"Hartes Durchgreifen gegen Rebellen in Slowenien"
-
 HUN_suppressed_resistance_in_istria_south_tirol:0	"Unterdrückter Widerstand in Istrien und Südtirol"
-
-
 HUN_resistance_to_integration_in_istria_south_tirol_desc:0	"Die Bevölkerung in den Regionen Istrien und Südtirol leistet passiven Widerstand gegen die Integration, wodurch die Gebietsverwaltung erheblich verlangsamt wird."
 HUN_cracking_down_on_istria_south_tirol_rebels:0	"Hartes Durchgreifen gegen Rebellen in Istrien und Südtirol"
-
 HUN_suppressed_resistance_in_bosnia:0	"Unterdrückter Widerstand in Bosnien"
-
-
 HUN_resistance_to_integration_in_bosnia_desc:0	"Die Bevölkerung in der bosnischen Region leistet passiven Widerstand gegen die Integration, wodurch die Verwaltung des Territoriums erheblich verlangsamt wird."
 HUN_cracking_down_on_bosnian_rebels:0	"Hartes Durchgreifen gegen Rebellen in Bosnien"
-
 HUN_suppressed_resistance_in_bucovina:0	"Unterdrückter Widerstand in der Bukowina"
-
-
 HUN_resistance_to_integration_in_bucovina_desc:0	"Die Bevölkerung in der Bucovina leistet passiven Widerstand gegen die Integration, wodurch die Verwaltung des Gebiets erheblich verlangsamt wird."
 HUN_cracking_down_on_bucovina_rebels:0	"Hartes Durchgreifen gegen Rebellen in der Bucovina"
-
-
-
 HUN_varga:0	"József Varga"
 HUN_antal_kunder:0	"Antal Kunder"
-
-
 HUN_bela_imredy:0	"Béla Imrédy"
 HUN_ferenc_keresztes_fischer:0	"Ferenc Keresztes-Fischer"
-
-
 HUN_magdolna_purgly:0	"Magdolna Purgly"
 HUN_jozsef_somkuthy:0	"József Somkuthy"
-
-
 HUN_lajos_keresztes_fischer:0	"Lajos Keresztes-Fischer"
 HUN_janos_kadar:0	"János Kádár"
-
-
 HUN_fidel_pallfy:0	"Fidél Pállfy"
 HUN_tihamer_fabinyi:0	"Tihamér Fabinyi"
-
-
 HUN_ferenc_bardoczy:0	"Ferenc Bardóczy"
 HUN_edgar_keksz:0	"Edgár Keksz"
-
-
-
-
 stepan_rosokha:0	"Stepan Rosokha"
 stepan_klochurak:0	"Stepan Klochurak"
-
-
 andrej_denikin:0	"Andrej Denikin"
 konstantin_ivannikov:0	"Konstantin Iwannikow"
-
-
 igor_gurko:0	"Igor Gurko"
 giorgi_dragomirov:0	"Giorgi Dragomirov"
-
-
 anton_frolov:0	"Anton Frowlow"
 gennady_grishin:0	"Gennadi Grischin"
-
-
 rihor_konev:0	"Rihor Konjew"
 dimitry_dragomirov:0	"Dimitri Dragomirov"
-
-
-
-
 imre_katona:0	"Imre Katona"
 mircea_horatiu:0	"Mircea Horatiu"
-
-
 valeriu_radu:0	"Valeriu Radu"
 peter_egressy:0	"Péter Egressy"
-
-
 jozsef_farkas:0	"József Farkas"
 attila_bacher:0	"Attila Bacher"
-
-
 petru_stefan:0	"Petru Stefan"
 miklos_kiss:0	"Miklós Kiss"
-
-
 arpad_ottinger:0	"Áprád Ottinger"
 jeno_molnar:0	"Jenô Molnár"
-
-
-
-
 miklos_szekely:0	"Miklós Székely"
 gyula_bathori:0	"Gyula Báthori"
-
-
 andras_apponyi:0	"András Apponyi"
 tamas_erdo:0	"Tamás Erdô"
-
-
 bela_andrassy:0	"Béla Andrássy"
 imre_biro:0	"Imre Bíró"
-
-
 antal_molnar:0	"Antal Molnár"
 sandor_kalman:0	"Sándor Kálmán"
-
-
 jeno_farkas:0	"Jenö Farkas"
 arpad_nagy:0	"Árpád Nagy"
-
-
-
-
 ganz_villamossagi_gyar:0	"Ganz Villamossági Gyár"
 ganz_villamossagi_gyar_desc:0	"Die 1878 von András Mechwart gegründete Ganz és Társa-Danubius Villamossági-, Gép-, Waggon- és Hajógyár Rt. versorgte das Land während des Krieges mit Verbrauchszählern und anderer Elektronik. Große Köpfe der damaligen Zeit wie Károly Zipernowsky und Miksa Déri arbeiteten während der Betriebsjahre in der Fabrik.\n"
-
-
-
-
 digep:0	"DIGÉP"
 digep_desc:0	"Die Maschinenfabrik von Diósgyör (Diósgyöri Gépgyár) fungierte während und nach dem Ersten Weltkrieg als Artilleriefabrik.\n"
-
-
 CZE_skoda_artillery_HUN:0	"Skoda Artillerie"
 CZE_skoda_artillery_HUN_desc:0	"Das tschechoslowakische Unternehmen Skoda stellte viele Arten von Ausrüstung her, darunter auch Feldartillerie."
-
-
-
-
 mw_armor:0	"M.W. Panzer"
 mw_armor_desc:0	"Abteilung der Manfred-Weiss-Metallwerke, die sich mit der Entwicklung und Herstellung von Panzern befasst.\n"
-
-
-
-
 mavag_aircraft_desc:0	"Die MÁVAG war während des Krieges ebenso wie die Manfred-Weiss-Fabrik ein bedeutender Hersteller von Flugzeugkomponenten. Sie war für die Produktion der meisten von der ungarischen Luftwaffe eingesetzten Flugzeuge verantwortlich.\n"
 lloyd_aircraft:0	"Lloyd-Flugzeuge"
-
-
-
 crda_hun:0	"CRDA Ungheria"
 crda_hun_desc:0	"Ein Teil des italienischen Schiffbaukonzerns CRDA, der in Ungarn und unter der Aufsicht des ungarischen Staates tätig ist.\n"
-
-
-
-
 HUN_integration_of_the_state_will_stop:0	"Die Integration des Staates wird gestoppt.\n"
 HUN_integration_progress_will_be_lost:0	"Bisherige Integrationsfortschritte werden §Yverloren§! sein.\n"
-
-
 HUN_state_will_not_be_integrated:0	"Der Staat wird NICHT integriert werden."
 HUN_resistance_will_be_suppressed:0	"Widerstand wird unterdrückt werden.\n"
-
-
 HUN_integration_in_transylvania_will_slow_down:0	"Die Integration in der Region Siebenbürgen wird sich für die Dauer des Widerstandes verlangsamen.\n"
-
-
 HUN_integration_in_slovakia_will_slow_down:0	"Die Integration in der Region Slowakei wird sich für die Dauer des Widerstandes verlangsamen.\n"
-
-
 HUN_integration_in_croatia_will_slow_down:0	"Die Integration in der Region Kroatien wird sich für die Dauer des Widerstandes verlangsamen.\n"
-
-
 HUN_integration_in_vojvodina_will_slow_down:0	"Die Integration in der Region Vojvodina wird sich während der Dauer des Widerstands verlangsamen.\n"
-
-
 HUN_integration_in_burgenland_will_slow_down:0	"Die Integration in der Region Burgenland wird sich für die Dauer des Widerstands verlangsamen.\n"
-
-
 HUN_integration_in_bohemia_will_slow_down:0	"Die Integration in der Region Böhmen wird sich während der Dauer des Widerstands verlangsamen.\n"
-
-
 HUN_integration_in_galicia_lodomeria_will_slow_down:0	"Die Integration in der Region Galizien-Lodomerien wird sich während der Dauer des Widerstands verlangsamen.\n"
-
-
 HUN_integration_in_slovenia_will_slow_down:0	"Die Integration in der Region Slowenien wird sich für die Dauer des Widerstandes verlangsamen.\n"
-
-
 HUN_integration_in_istria_south_tirol_will_slow_down:0	"Die Integration in der Region Istrien & Südtirol wird sich für die Dauer des Widerstandes verlangsamen.\n"
-
-
 HUN_integration_in_bosnia_will_slow_down:0	"Die Integration in der Region Bosnien wird sich für die Dauer des Widerstandes verlangsamen.\n"
-
-
 HUN_AUS_independence_party:0	"Die Vaterländische Front (unabhängig)"
 HUN_AUS_liberal_party:0	"Die Österreichische Demokratische Union (liberal)"
-
 HUN_HUN_conservative_party:0	"Die NEP (konservativ)"
-
-
 HUN_HUN_liberal_party:0	"Die Ungarische Reformpartei (liberal)"
 HUN_result_in_HUN:0	" erhielt die meisten Stimmen in Ungarn.\n"
-
-
 HUN_BOH_independence_party:0	"Die Tschechische Unabhängigkeitspartei (unabhängig)"
 HUN_BOH_liberal_party:0	"Die CLP (liberal)"
-
 HUN_GAL_conservative_party:0	"Die Galizische Einheitspartei (konservativ)"
-
-
 HUN_GAL_liberal_party:0	"Die Polnische Liberale Partei (liberal)"
 HUN_result_in_GAL:0	" erhielt die meisten Stimmen in Galizien-Lodomerien.\n"
-
-
 HUN_TRA_independence_party:0	"Die Partei Freies Siebenbürgen (unabhängig)"
 HUN_TRA_liberal_party:0	"Die LESZ (liberal)"
-
 HUN_CRO_conservative_party:0	"Die Christdemokratische Partei (konservativ)"
-
-
 HUN_CRO_liberal_party:0	"Die Kroatische Gleichheitspartei (liberal)"
 HUN_result_in_CRO:0	" erhielt die meisten Stimmen in Kroatien-Bosnien.\n"
-
-
 HUN_SLO_independence_party:0	"Die Slowakische Sezessionspartei (unabhängig)"
 HUN_SLO_liberal_party:0	"Die Union der Freidenker (liberal)"
-
 HUN_CAR_conservative_party:0	"Die Heimatfrontpartei (konservativ)"
-
-
 HUN_CAR_liberal_party:0	"Die ISLP (liberal)"
 HUN_result_in_CAR:0	" erhielt die meisten Stimmen in Kärnten-Venetien.\n"
-
-
 HUN_give_carpathian_ukraine_to_slovakia_or_autonomy:0	"Wir werden die Möglichkeit haben, Karpaten-Ruthenien Autonomie zu gewähren oder das Gebiet an die Slowakei zu geben."
 HUN_upon_the_death_of_horthy:0	"Nach dem Tod von Horthy, "
-
-
 HUN_istvan_horthy_will_succeed_to_throne:0	"István Horthy wird die Thronfolge antreten.\n"
 HUN_istvan_horthy_jr_will_succeed_to_throne:0	"István Horthy Jr. wird die Thronfolge antreten.\n"
-
-
 HUN_otto_von_habsburg_will_succeed_to_throne:0	"Otto von Habsburg wird auf den ungarischen Thron folgen.\n"
 HUN_will_gain_access_through_hungary:0	"Erhält militärischen Zugang durch [Root.GetName].\n"
-
-
 HUN_will_change_map_color_to_white:0	"Die Kartenfarbe des Landes ändert sich zu weiß.\n"
 HUN_relations_with_ENG_will_deterioriate:0	"Die Beziehungen zum Vereinigten Königreich werden sich verschlechtern.\n"
-
-
 HUN_will_be_able_to_request_territory_in_return:0	"Wir werden in der Lage sein, territoriale Forderungen in den Vertrag aufzunehmen.\n"
 HUN_if_italy_accepts_colon:0	"Wenn Italien akzeptiert:\n"
-
-
 HUN_szekely_hegyivadasz_division:0	"Eine Szekler-Gebirgsjägerdivision wird sich zum Dienst in Siebenbürgen melden.\n"
 HUN_will_renounce_claims_on_all_yugoslavian_lands:0	"Wird alle Kerne und Ansprüche in Jugoslawien verlieren.\n"
-
-
 HUN_will_renounce_claims_on_all_polish_lands:0	"Wird alle Kerne und Ansprüche in Polen verlieren. §RAlles Land in polnischem Besitz wird an Polen abgetreten§!.\n"
 HUN_government_form_will_change:0	"Die Regierungsform von [Root.GetName] wird sich ändern.\n"
-
-
 HUN_will_get_all_non_claimed_territory:0	"Erhält alle Gebiete, die nicht von [HUN.GetName] beansprucht werden.\n"
 HUN_britain_and_allies_will_peace_out:0	"[ENG.GetName] und ihre Verbündeten werden einen weißen Frieden mit [HUN.GetName] unterzeichnen.\n"
-
-
 HUN_gives_slight_boost_to_integration:0	"Erhöht die Integration leicht.\n"
 HUN_gives_boost_to_integration:0	"Gibt der Integration einen erheblichen Schub.\n"
-
-
 HUN_germany_might_attack:0	"Deutschland könnte dies als Anlass für einen Krieg nehmen.\n"
 HUN_horthy_becomes_admiral:0	"Miklós Horthy wird als Admiral verfügbar.\n"
-
-
 HUN_will_reassert_AHU_claims:0	"Die Ansprüche der alten österreichisch-ungarischen Monarchie werden erneuert werden.\n"
 HUN_will_be_invited_into_visegrad_group:0	"Wir werden der Visegrád-Gruppe beitreten.\n"
-
-
 HUN_will_look_favorably_on_this_decision:0	"wird diese Entscheidung wohlwollend betrachten.\n"
 HUN_will_get_one_unit_of_volunteer_corps:0	"Eine Einheit des Freiwilligenkorps wird sich unserer Armee anschließen.\n"
-
-
 HUN_will_be_invited_to_our_faction:0	"Wir werden in die Fraktion von [Root.GetFlag]§Y[Root.GetNameDef]§! eingeladen.\n"
 HUN_a_bastion_against_fascism_forts:0	"Die westlichen und nördlichen Grenzen werden mit Festungen befestigt.\n"
-
-
 HUN_reassert_old_claims_austria_hungary:0	"Österreich-Ungarn erhebt Anspruch auf alle Gebiete, die früher zum Österreichisch-Ungarischen Reich gehörten.\n"
 HUN_polish_hungarian_relations_improve:0	"Die Beziehungen zwischen Polen und Ungarn werden sich verbessern, und Polen erhält die gleichen Vorteile wie Ungarn."
-
-
 HUN_the_arpad_line_forts:0	"Die nordöstliche Karpatenregion wird befestigt werden.\n"
 HUN_eastern_extension_forts:0	"Der Árpád-lin wird auf Nordsiebenbürgen ausgedehnt.\n"
-
-
 HUN_the_gyori_program_plans:0	"Einer unserer Berater wird die Pläne für ein umfangreiches Aufrüstungsprogramm ausarbeiten. Das Verfahren wird zweifellos kostspielig sein, aber es könnte das Schicksal unseres Landes auf dem Spiel stehen.\n"
 HUN_reassert_old_claims_YUG_excluded:0	"Territorien, die zu Jugoslawien gehören, werden nicht beansprucht, um den Pakt der ewigen Freundschaft zwischen [Root.GetName] und Jugoslawien zu ehren.\n"
-
-
 HUN_new_states_will_gain_infrastructure_realism:0	"Alle neu erworbenen Provinzen des historischen Königreichs Ungarn:\n Fügen Sie §Y1 Infrastruktur§!.\n"
 HUN_economic_union_will_be_created:0	"Die Mitglieder der Visegrád-Gruppe werden eine Wirtschaftsunion eingehen, wodurch sich die Handelsbeziehungen zwischen ihnen erheblich verbessern werden. Künftige Mitglieder werden ebenfalls in den Genuss dieser Vorteile kommen.\n"
-
-
 HUN_future_members_will_also_gain_benefits:0	"Zukünftige Mitglieder werden auch diese Vorteile erhalten.\n"
 HUN_hungarian_ss_divisions_will_be_created:0	"Es werden zwei ungarische SS-Divisionen gebildet.\n"
-
-
 HUN_assistance_from_the_geneal_staff_possibilities:0	"Der deutsche Militärstab wird um jede erdenkliche Unterstützung gebeten werden. Dies könnte nur eine symbolische Delegation sein, aber wenn sie sich besonders großzügig fühlen, könnten sie uns sogar einige ihrer Generäle zur Verfügung stellen.\n"
 HUN_adriatic_initiative_defend_adriatic:0	"Wir werden verpflichtet sein, Italien zu Hilfe zu kommen, wenn seine Häfen von einem seiner Feinde bedroht werden, der in die Adria eindringt.\n"
-
-
 HUN_transylvania_forts:0	"Die Árpád-Linie wird nach Südsiebenbürgen verlängert.\n"
 HUN_slovakia_forts:0	"Die Nordkarpatenregion wird befestigt.\n"
-
-
 HUN_warsaw_pact_will_be_formed:0	"Die Fraktion des §YWarschauer Paktes§! wird unter sowjetischer Führung gebildet.\n"
 HUN_SOV_will_release_poland:0	"Die Sowjetunion wird Polen als kommunistischen Marionettenstaat freigeben.\n"
-
-
 HUN_parliamentary_monarchy_effects:0	"Der König wird nur noch als Staatsoberhaupt fungieren und diplomatische und zeremonielle Aufgaben erfüllen.\n"
 HUN_will_become_a_republic:0	"[Root.GetName] wird eine Republik werden.\n"
-
-
 HUN_GER_royalists_moderate_equipment_bonus:0	"Die Royalisten erhalten einen moderaten Bonus auf ihren Ausrüstungsbestand, sobald der Aufstand beginnt.\n"
 HUN_GER_royalists_big_equipment_bonus:0	"Die Royalisten erhalten einen beträchtlichen Bonus auf ihren Ausrüstungsbestand, sobald die Revolte beginnt.\n"
-
-
 HUN_joseph_von_habsburg_will_become_a_field_marshal:0	"Joseph von Habsburg wird zum Feldmarschall.\n"
 HUN_partition_romania_tt:0	"Wenn beide Seiten zustimmen, wird Rumänien gleichzeitig angegriffen, und nachdem sie besiegt sind, gewinnen wir Siebenbürgen, während [SOV.GetName] Moldawien, Bessarabien und die Bukowina erhält.\n"
-
-
 HUN_regional_elections_will_be_held:0	"Die Regionalwahlen werden in [Root.GetNameDef] abgehalten.\n"
 HUN_declaring_war_can_have_repercussions:0	"§RDer Kriegseintritt kann Auswirkungen auf internationaler Ebene haben.§!\n"
-
-
 HUN_danube_federation_will_be_deliberated:0	"Die kommunistischen Parteien der Nachbarländer werden eingeladen, über die Möglichkeit einer Donauföderation zu beraten.\n"
 HUN_will_join_once_communists_take_power:0	"Sie werden der Föderation beitreten, sobald die kommunistische Partei in ihrem Land an die Macht kommt.\n"
-
-
 HUN_buff_will_rotate_among_members:0	"Der Bonus wird unter den Mitgliedern der Föderation rotieren.\n"
 HUN_will_eventually_gain_rotating_buff:0	"Der rotierende Baubonus wird uns schließlich erreichen.\n"
-
-
 HUN_YUG_accepts_danube_federation:0	"Die kommunistische Partei in [YUG.GetName] unterstützt den Donaubund.\n"
 HUN_ROM_accepts_danube_federation:0	"Die kommunistische Partei in [ROM.GetName] unterstützt die Donauföderation.\n"
-
-
 HUN_YUG_declines_danube_federation:0	"Die kommunistische Partei in [YUG.GetName] unterstützt den Donaubund nicht.\n"
 HUN_ROM_declines_danube_federation:0	"Die kommunistische Partei in [ROM.GetName] unterstützt den Donaubund nicht.\n"
-
-
 HUN_will_receive_refugees:0	"Wird die polnischen Flüchtlinge aufnehmen, die den Kampf von dort aus fortsetzen werden.\n"
 HUN_will_get_polish_cores:0	"[ROOT.GetName] wird alle polnischen Kerne erhalten.\n"
-
-
 HUN_sms_novara_will_be_rearmed_in_toulon:0	"Die SMS Novara wird in Toulon wieder aufgerüstet.\n"
 HUN_SLO_will_receive_a_national_leader:0	"Die Slowakei wird von einem nationalen Führer angeführt werden, was die Stabilität und die Kriegsunterstützung des Landes stärkt.\n"
-
-
 HUN_once_activated_the_phase_will_give:0	"Sobald diese Phase aktiviert ist, gibt es die folgenden Boni:\n"
 HUN_will_unlock_italian_equipment_purchases:0	"Dadurch werden italienische Entscheidungen zum Kauf von Ausrüstung freigeschaltet.\n"
-
-
 HUN_will_unlock_uk_equipment_purchases:0	"Dies schaltet Entscheidungen zum Kauf von britischer Ausrüstung frei.\n"
 HUN_will_enable_expansion_of_the_ludovica_academy:0	"Schaltet die Entscheidung zum Ausbau der Ludovica-Akademie frei.\n"
-
-
 HUN_allowed_danubian_protest_effects:0	"Dies kann möglicherweise zu einer Ausweitung der Proteste führen. Wenn sie ihre Bemühungen in Zukunft fortsetzen, werden sie wahrscheinlich mehr Unterstützer gewinnen.\n"
 HUN_enemy_will_have_fighting_penalties:0	"Das Zielland wird Kampfstrafen gegen uns verhängen.\n"
-
-
 HUN_will_renounce_claims_on_bucovina:0	"§RWarnung: Diese Entscheidung betrifft auch unsere Ansprüche auf die Bukowina. Wenn wir einen Teil der Bukowina besitzen, wird dieser nach Inkrafttreten dieses Beschlusses an Rumänien zurückgegeben.§!\n"
 HUN_italian_hungarian_academy_can_be_founded:0	"Es wird ein Beschluss vorliegen, der die Gründung einer italienisch-ungarischen Marineakademie ermöglicht.\n"
-
-
 HUN_elite_cavalry_division_will_be_recruited:0	"Eine Einheit der Elite-Kavallerie-Division wird rekrutiert.\n"
 HUN_investments_will_stop_if_relations_deteriorate:0	"Die Investitionen werden gekürzt, wenn sich unsere Beziehungen zu den Herkunftsländern verschlechtern.\n"
-
-
 HUN_potentially_gain_temporary_military_bonuses:0	"§YWenn er ihn annimmt, werden wir eine Zeit lang militärische Vorteile haben.§!\n"
 HUN_potentially_gain_political_power_and_relations_with_GER:0	"§YWenn er annimmt, werden wir politische Macht erlangen und die Beziehungen zu [GER.GetNameDef] verbessern.§!\n"
-
-
 HUN_will_no_longer_be_responsible_for_curbing_hungarian_expansion:0	"Wir werden nicht mehr für die Überwachung der [HUN.GetAdjective]-Expansion zuständig sein.\n"
 HUN_will_become_responsible_for_curbing_hungarian_expansion:0	"Wir werden für die Überwachung der [HUN.GetAdjective]-Expansion verantwortlich sein.\n"
-
-
 HUN_states_in_slovakia_will_provide_more_manpower:0	"Die Staaten in §YSlowakei§! werden mehr Rekruten bereitstellen.\n"
 HUN_states_in_galicia_lodomeria_will_provide_more_manpower:0	"Die Staaten in §YGalizien-Lodomerien§! werden mehr Rekruten bereitstellen.\n"
-
-
 HUN_states_in_carinthia_venetia_will_provide_more_manpower:0	"Die Staaten in §YKärnten-Venetien§! werden mehr Rekruten zur Verfügung stellen.\n"
 HUN_will_be_able_to_select_states:0	"Wir werden auswählen können, welche Regionen in der Föderation Staaten werden können.\n"
-
-
 HUN_is_not_austria_hungary:0	"Ist nicht Österreich-Ungarn."
 HUN_bigger_army_better_chances:0	"§YJe größer unsere Armee ist, desto größer sind die Chancen, dass sie die Forderungen akzeptieren.§!"
-
-
 HUN_has_all_old_territory:0	"Besitzt und kontrolliert alle von [Root.GetName] beanspruchten Gebiete"
 HUN_has_same_ideology_as_root:0	"Hat die gleiche Ideologie wie [Root.GetName]"
-
-
 HUN_owns_land_in_region_bohemia_moravia:0	"Besitzt Land in der §Yregion of Bohemia-Moravia§!."
 HUN_owns_land_in_region_galicia_lodomeria:0	"Besitzt Grundstücke in der §Yregion Galicia-Lodomeria§!"
-
-
 HUN_is_austria_hungary:0	"Ist Österreich-Ungarn.\n"
 HUN_borders_galicia_or_krakow:0	"[Root.GetName] grenzt an Galizien oder Krakau."
-
-
 HUN_has_gained_new_territory_since_start:0	"[Root.GetName] hat seit 1936 neue Territorien gewonnen."
 HUN_nearby_major_fascist_power:0	"Eine nahe gelegene Großmacht ist faschistisch."
-
-
 HUN_horthy_is_the_head_of_state:0	"Horthy ist das Staatsoberhaupt."
 HUN_horthy_is_not_the_head_of_state:0	"Horthy ist nicht das Staatsoberhaupt."
-
-
 HUN_has_not_taken_decision_emergency_industrial_measures:0	"Hat nicht die Entscheidung getroffen, industrielle Notmaßnahmen durchzuführen."
 HUN_has_not_built_the_second_army:0	"Hat die zweite Armee nicht aufgebaut."
-
-
-
-
-
-
-
-
 visegrad_research_name:0	"Visegrád-Forschung"
 visegrad_research_desc:0	"Verkürzte Forschungszeit für Technologien, die von anderen Ländern der Visegrád-Gruppe erforscht wurden."
-
-
 danube_scientific_institute_name:0	"Wissenschaftliches Institut Donau"
 danube_scientific_institute_desc:0	"Verkürzte Forschungszeit für Technologien, die von anderen Ländern der Donauföderation erforscht werden."
-
-
-
-
-
-
 visegrad_group_faction:0	"Visegrád-Gruppe"
 warsaw_pact_faction:0	"Warschauer Pakt"
-
-
-
-
-
-
 HUN_drawing_towards_germany:0	"Annäherung an Deutschland"
 HUN_strengthened_ties:0	"Gestärkte Bindungen"
-
-
 HUN_betrayed_promises:0	"Verratene Versprechen"
 HUN_given_territory:0	"Gegebenes Territorium"
-
-
 HUN_given_territory3:0	"Gegebenes Territorium"
 HUN_given_territory4:0	"Gegebenes Territorium"
-
-
 HUN_revoked_territorial_claims:0	"Rücknahme territorialer Ansprüche"
 HUN_democratic_trade_focus_opinion:0	"Demokratische Ausrichtung des Handels"
-
-
 HUN_steel_trade_opinion:0	"Stahlhandel"
 HUN_steel_trade:0	"Stahlhandel"
-
-
 HUN_arpad_line:0	"Árpád-Linie"
 HUN_disallowed_referendum:0	"Unzulässige burgenländische Volksabstimmung"
-
-
 HUN_territorial_dispute:0	"Territorialer Streit"
 HUN_sold_out_to_italy:0	"Ausverkauf an Italien"
-
-
 HUN_burgas_project:0	"Projekt Burgas"
 HUN_troop_exchange:0	"Truppenaustausch"
-
-
 HUN_disobeyed_trianon_restrictions:0	"Verletzung der Trianon-Beschränkungen"
 HUN_opinion_leaning_westward:0	"Neigung nach Westen"
-
-
 HUN_denied_ljubjana:0	"Verweigerung von Ljubljana"
 HUN_western_trade_opening_opinion:0	"Öffnung des Westhandels"
-
-
 HUN_connections_in_moscow:0	"Verbindungen nach Moskau"
 HUN_swing_politics_opinion:0	"Swing-Politik"
-
-
 HUN_aggression_3:0	"Aggression"
 HUN_aggression_4:0	"Aggression"
-
-
 HUN_aggression_7:0	"Aggression"
 HUN_aggression_8:0	"Aggression"
-
-
 HUN_backed_claims:0	"Unterstützte Forderungen"
 HUN_disregarded_molotov_ribbentrop_german:0	"Missachtung des Molotv-Ribbentrop-Pakts"
-
-
 HUN_allowed_polish_refugees_through_neg:0	"Erlaubte polnischen Flüchtlingen die Durchreise"
 HUN_allowed_polish_refugees_through_pos:0	"Erlaubt polnischen Flüchtlingen die Durchreise"
-
-
 HUN_abandoned:0	"Aufgegeben"
 HUN_iron_curtain_minus_trade:0	"Eiserner Vorhang"
-
-
 HUN_iron_curtain_plus_opinion:0	"Eiserner Vorhang"
 HUN_supporting_royalists:0	"Unterstützung der Royalisten"
-
-
 HUN_condemns_annexation_of_austria:0	"Verurteilt die Annektierung Österreichs"
 HUN_condemns_annexation_of_austrian_territory:0	"Verurteilt die Annektierung von österreichischem Gebiet"
-
-
 HUN_bled_agreement_opinion:0	"Bled-Abkommen"
 HUN_returned_territory:0	"Rückgabe von Territorium"
-
-
 HUN_italian_trade_partnership:0	"Italienische Handelspartnerschaft"
 HUN_ideological_differences_smoothed:0	"Ideologische Differenzen geglättet"
-
-
 HUN_concessions_to_germany_trade:0	"Zugeständnisse an Deutschland"
 HUN_purged_communism_communist:0	"Geläuterter Kommunismus"
-
-
-
 POLITICS_FERENC_SZALASI_DESC:0	"Ferenc Szálasi wurde von der deutschen Regierung eingesetzt, um die ungarische Loyalität und Zusammenarbeit während des Krieges sicherzustellen."
 POLITICS_MIKLOS_HORTHY_KING_DESC:0	"Miklós Horthy war Konteradmiral der österreichisch-ungarischen Marine, aber nach der Auflösung des Reiches, als die ungarische Sowjetrepublik die Macht übernahm, war er einer der Organisatoren der konterrevolutionären Armee in Szeged. Er spielte eine wichtige Rolle bei der Wiederherstellung der ungarischen Monarchie und übernahm schließlich das Amt des Regenten. Nun regiert er als neu gewählter König Ungarns und beendet damit eine lange Periode ausländischer Monarchen auf dem ungarischen Thron."
-
-
 POLITICS_JANOS_KADAR_DESC:0	"Historisch gesehen war Kádár der Nachfolger von Mátyás Rákosi und vertrat etwas andere Überzeugungen als sein Vorgänger. Während das System von Rákosi durch einen harten Kommunismus gekennzeichnet war, wird das von Kádár als "Schaufensterkommunismus" bezeichnet, was bedeutet, dass es eher ein Schaufenster des kommunistischen Wohlstands in Richtung Westen war. Seine Herrschaft wurde von vielen geliebt, obwohl das System aufgrund der enormen Kredite, die das Land aufnehmen musste, um es zu finanzieren, nicht nachhaltig war."
 POLITICS_ISTVAN_HORTHY_DESC:0	"István Horthy ist der Sohn des ehemaligen Regenten, Miklós Horthy. Seine politischen Ansichten sind gemäßigt, aber leicht westlich orientiert. Er diente in der ungarischen Luftwaffe als Jagdflieger und überlebte bei seinem letzten Einsatz einen gefährlichen Unfall."
-
-
 POLITICS_WILHELM_HOHENZOLLERN_HUN_DESC:0	"Wilhelm von Hohenzollern ist der Kronprinz des alten Deutschen Reiches und nun auch König von Ungarn. Er kämpfte im Ersten Weltkrieg und wurde nach der Niederlage des Reiches ins Exil geschickt, kehrte aber nach Deutschland zurück. Er war in gewissem Maße in die deutsche Politik involviert, erlangte aber nie große Bekanntheit. Jetzt, da er König von Ungarn ist, hat er die Fähigkeit, die Geschicke einer Nation zu lenken, wie schon sein Vater vor ihm."
 POLITICS_BELA_KUN_DESC:0	"Béla Kun war einer der prominentesten Führer der ungarischen Räterepublik, die nach dem Zusammenbruch der österreichisch-ungarischen Monarchie entstand. Die kommunistische Republik war zum Scheitern verurteilt, da die vorherige Regierung die Armee angesichts der einmarschierenden Entente-Mächte aufgelöst hatte. Kun ist nun nach Ungarn zurückgekehrt, um erneut zu versuchen, diesen Traum von einem kommunistischen Land im Karpatenbecken zu verwirklichen."
-
-
-
 HUN_demanded_slovakia_threat:0	"Forderte die Slowakei"
 HUN_annexed_slavonia_threat:0	"Angliederung Slawoniens"
-
-
 HUN_annexed_bosnia_threat:0	"Angliederung von Bosnien"
 HUN_annexed_slovenia_threat:0	"annektiert Slowenien"
-
-
 HUN_demanded_bucovina_threat:0	"Forderte die Bukowina"
 HUN_extended_southern_borders:0	"Erweiterung der südlichen Grenzen"
-
-
 HUN_threatened_war_for_banat:0	"Drohte mit Krieg um das Banat"
 HUN_backed_down_from_banat:0	"Rückzug aus der Banat-Krise."
-
-
 HUN_annexed_coastal_croatia_threat:0	"Kroatien annektiert"
-
-
 HUN_had_war:0	"War seit dem Ersten Weltkrieg in einem Krieg."
 HUN_high_command_to_general:0	"Dient als General"
-
-
 HUN_horthy_as_chief_of_navy:0	"Horthy wurde als Chef der Marine wiedereingesetzt"
 HUN_visegrad_group_member:0	"Ist Mitglied der Visegrád-Gruppe"
-
-
 HUN_danube_federation_member:0	"Ist Mitglied des Donaubundes"
 HUN_accepts_danube_federation:0	"Akzeptiert den Donaubund"
-
-
 HUN_gyori_program_iii:0	"Die Vorbereitungen für Phase III des Gyôri-Programms sind abgeschlossen"
 HUN_gyori_program_iv:0	"Die Vorbereitungen für die Phase IV des Gyôri-Programms sind abgeschlossen"
-
-
 HUN_renounced_claims_towards_croatia:0	"Verzicht auf Ansprüche gegenüber Kroatien"
 HUN_renounced_claims_towards_poland:0	"Verzicht auf Ansprüche gegenüber Polen"
-
-
 HUN_daranyi_president:0	"Kálmán Darányi ist Präsident"
-
-
 HUN_bethlen_president:0	"István Bethlen ist Präsident"
 HUN_bardossy_president:0	"László Bárdossy ist Präsident"
-
-
-
 amphibious_tech_bonus:0	"Bonus für amphibische Technologie"
 support_weapons_bonus:0	"Bonus für Unterstützungswaffen"
-
-
 german_license_bonus:0	"Deutscher Lizenzbonus"
 HUN_synthetic_oil_effort_bonus:0	"Bonus für den Einsatz von Synthetiköl"
-
-
 italian_officer_training_bonus:0	"Bonus für italienische Offiziersausbildung"
 hungarian_german_aircraft_manufacturing_bonus:0	"Ungarisch-deutscher Flugzeugbau-Bonus"
-
-
 pilis_order_of_battle_bonus:0	"Pilis-Schlachtordnung-Bonus"
 french_connection_bonus:0	"Französische Verbindung Bonus"
-
-
 danuvia_heavy_submachine_guns:0	"Danuvia Schwere Maschinenpistolen Bonus"
 HUN_POL_intelligence_exchange_bonus:0	"Polnisch-ungarischer Geheimdienstaustausch Bonus"
-
-
 czech_tank_industry_bonus:0	"Bonus für die tschechische Panzerindustrie"
 czech_small_arms_industry_bonus:0	"Bonus für die tschechische Kleinwaffenindustrie"
-
 trianon_cheat_open:	"Offene Umgehung der Trianon-Beschränkungen"
 hungary_flavor.100.d_both:0	"Erfolg! Sowohl die Tschechoslowakei als auch Polen haben zugestimmt, der Visegrád-Gruppe beizutreten. Dies ist der Beginn eines fruchtbaren Bündnisses."
 hungary_flavor.100.d_cze:0	"Nur die Tschechoslowakei hat dem Beitritt zu unserem Bündnis zugestimmt. Dennoch wird die Fraktion gegründet, wenn auch nur mit zwei Gründungsmitgliedern."

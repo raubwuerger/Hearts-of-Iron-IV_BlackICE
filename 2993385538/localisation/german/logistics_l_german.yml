@@ -76,53 +76,30 @@ LOGISTICS_INSTOCK_DEFICIT_LOW_VALUE:1	"Es gibt derzeit ein Defizit von $INSTOCK|
 LOGISTICS_INSTOCK_DEFICIT_HIGH_VALUE:1	"Es gibt derzeit ein Defizit von $INSTOCK|^0Y$ Einheiten $EQUIPMENT|H$ Ausrüstung im Lager.\n"
 LOGISTICS_INSTOCK_SURPLUS_LOW_VALUE:1	"Es gibt derzeit einen Überschuss von $INSTOCK|^2Y$ Einheiten $EQUIPMENT|H$ Ausrüstung im Lager.\n"
 LOGISTICS_INSTOCK_SURPLUS_HIGH_VALUE:1	"Derzeit gibt es einen Überschuss von $INSTOCK|^0Y$ Einheiten der Ausrüstung $EQUIPMENT|H$ im Lager."
-
 LOGISTICS_ESTIMATED_EMPTY:1	"Bei dem aktuellen Bedarf und der aktuellen Produktion von $EQUIPMENT|Y$ Ausrüstung reicht der vorhandene Lagerbestand für $DAYS|Y$ Tage."
-
 LOGISTICS_ESTIMATED_NO_PRODUCTION:1	"Derzeit werden keine $EQUIPMENT|Y$ Geräte produziert."
-
 LOGISTICS_RESOURCE_OTHER_LINES:1	"Es gibt $LINES|Y$ §HProduktionslinien§!, die andere Geräte als $EQUIPMENT|H$ produzieren und für deren Produktion ebenfalls $RESOURCE|H$ benötigen."
-
 LOGISTICS_MILITARY_FACTORY:1	"$PERCENTAGE|%0Y$ der §HMilitärfabriken§! stellen derzeit Ausrüstung her."
-
 LOGISTICS_NAVAL_FACTORY:1	"$PERCENTAGE|%0Y$ der §HMarinewerften§! bauen derzeit Schiffe."
-
 LOGISTICS_RESOURCES_LAND:1	"Die Produktion von §GLandausrüstung§! erfordert $NEED|Y$ Einheiten $RESOURCE|H$."
-
 LOGISTICS_RESOURCES_AIR:1	"Die Produktion von §RFlugausrüstung§! erfordert $NEED|Y$ Einheiten von $RESOURCE|H$."
 LOGISTICS_RESOURCES_PROJECT:0	"§YSpezialprojekte§! benötigen $NEED|Y$ Einheiten von $RESOURCE|H$ für maximalen Ausstoß."
-
 LOGISTICS_NEED_LEND_LEASE_LOW_VALUE:0	"Leih und Pacht Einheiten: $NEED|^1Y$"
 LOGISTICS_NEED_LEND_LEASE_HIGH_VALUE:0	"Leih und Pacht Einheiten: $NEED|^0Y$"
-
-
 LOGISTICS_STORAGE_ARMY_REINFORCEMENT:0	"§TVon Divisionsverstärkung: $AMOUNT|Y$ Einheiten§!"
 LOGISTICS_STORAGE_AIR_REINFORCEMENT:0	"§TVon Luftverstärkung: $AMOUNT|Y$ Einheiten§!"
-
-
 LOGISTICS_STORAGE_GARRISON_REINFORCEMENT:0	"§TVon Garnisonsverstärkung: $AMOUNT|Y$ Einheiten§!"
 LOGISTICS_STORAGE_FOREIGN:0	"§TVon ausländischer Ausrüstung: $AMOUNT|Y$ Einheiten§!"
-
-
 LOGISTICS_DELETE_EQUIPMENT:0	"§RVernichten§!"
 LOGISTICS_DELETE_EQUIPMENT_CONFIRM_TITLE:0	"§HVernichte gelagerte Ausrüstung§!"
-
-
 LOGISTICS_FUEL_STORED:0	"Gelagert"
 LOGISTICS_FUEL_CONSUMED:0	"Verbraucht"
-
-
 fuel_line_grid_entry_2:0	"Armeeverbrauch"
 fuel_line_grid_entry_3:0	"Marineverbrauch"
-
-
 fuel_line_grid_entry_6:0	"Gesamtproduktion"
 FUEL_LOW_PRIORITY_DESC:0	"Niedrige Treibstoffpriorität"
-
-
 LOGISTICS_NEED_OPERATION_REQUEST_LOW_VALUE:1	"Durchschnittlich werden $NEED|^1Y$ Einheiten pro Tag für Operationen benötigt"
 LOGISTICS_NEED_OPERATION_REQUEST_HIGH_VALUE:1	"Durchschnittlich werden $NEED|^0Y$ Einheiten pro Tag für Operationen benötigt"
-
 LOGISTICS_INSTOCK_BALANCED:0	"Derzeit gibt es weder einen Überschuss noch einen Mangel an $EQUIPMENT|H$ Ausrüstung.\n"
 LOGISTICS_ESTIMATED_NO_SHORTAGE:1	"Bei der aktuellen Produktion von $EQUIPMENT|Y$ Ausrüstung wird der Mangel $DAYS|Y$ Tage andauern."
 LOGISTICS_RESOURCE:1	"Diese §HProduktionslinien§! benötigen $RESOURCE|H$ für die Produktion von $EQUIPMENT|H$.\n"

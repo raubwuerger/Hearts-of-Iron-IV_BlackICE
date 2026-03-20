@@ -1,539 +1,255 @@
 ﻿l_german:
-
 basic_ship_hull_carrier:0	"Trägerschiff (Umrüstung)"
-
 basic_ship_hull_carrier_desc:0	""
-
 improved_ship_hull_carrier_short:0	"Flugzeugträgerhülle (Verbessert)"
-
 advanced_ship_hull_carrier:0	"Trägerhülle (Fortgeschritten)"
-
 advanced_ship_hull_carrier_desc:0	""
-
 advanced_ship_hull_carrier_super_short:0	"Großer Flugzeugträger Rumpf"
-
-
 advanced_ship_hull_carrier_escort_desc:	"Geleitschiffe erhalten jetzt verstärkte Rümpfe, erweiterte Flugzeugkapazitäten und fortschrittliche Radarleitsysteme, die eine größere Effektivität bei der Flottenunterstützung, der Konvoiverteidigung und der U-Bootabwehr gewährleisten."
 early_ship_hull_submarine:0	"U-Boot-Rumpf (Früh)"
 early_ship_hull_submarine_short:0	"U-Boot-Rumpf (Früh)"
 early_ship_hull_submarine_desc:0	""
-
-
-
 improved_ship_hull_submarine:0	"U-Boot-Rumpf (Zwischenkrieg)"
 improved_ship_hull_submarine_short:0	"U-Boot-Rumpf (Zwischenkrieg)"
 improved_ship_hull_submarine_desc:0	""
-
-
-
 modern_ship_hull_submarine:0	"U-Boot-Rumpf (Stromlinienform)"
 modern_ship_hull_submarine_short:0	"U-Boot-Rumpf (Stromlinienförmig)"
 modern_ship_hull_submarine_desc:0	""
-
-
-
 basic_ship_hull_light_desc:0	""
 improved_ship_hull_light:0	"Zerstörerrumpf (Fortgeschritten)"
 improved_ship_hull_light_desc:0	""
-
-
-
 basic_ship_hull_heavy:0	"Großer Schiffsrumpf (Verbessert)"
 basic_ship_hull_heavy_short:0	"Großer Schiffsrumpf (Verbessert)"
 basic_ship_hull_heavy_desc:0	""
 early_ship_hull_cruiser_desc:	"Die neuesten Kreuzer kombinieren leichte Panzerung, schnell feuernde Geschütze und moderate Geschwindigkeit, um Aufklärungs-, Handelsangriffs- und Flottenunterstützungsaufgaben zu erfüllen. Ihre Feuerkraft reicht zwar nicht aus, um gegen große Schiffe zu bestehen, aber ihre Vielseitigkeit bei Flottenaktionen und unabhängigen Operationen erweist sich als wertvoll."
-
 improved_ship_hull_cruiser_desc:	"Die neuen Kreuzer zeichnen sich durch eine verbesserte Rumpfform, eine bessere Unterteilung und verbesserte Antriebssysteme aus, so dass sie mit höherer Geschwindigkeit und größerer Treibstoffeffizienz operieren können. Diese Schiffe werden das Rückgrat moderner Seestreitkräfte bilden und sich bei Flottenangriffen und beim Schutz des Handels auszeichnen."
-
 advanced_ship_hull_cruiser_desc:	"Kreuzer verfügen jetzt über eine radargesteuerte Feuerleitanlage, eine verbesserte Panzerung und eine verbesserte Flugabwehrbewaffnung, die sie sowohl bei Flottenangriffen als auch bei eigenständigen Raubzügen überlebensfähiger und tödlicher macht."
-
-
-
-
 ship_modular_construction:0	"Modularer Schiffbau"
 ship_modular_construction_desc:0	"Durch die Modifizierung unserer Schiffsentwürfe und die Verwendung von vorgefertigten Komponenten können wir leichtere Schiffe und Transporter schneller bauen."
 submarine_modular_construction:0	"Modularer U-Boot-Bau"
 submarine_modular_construction_desc:0	"Durch die Änderung unserer U-Boot-Konstruktionen, so dass einzelne Abschnitte außerhalb der Werft gebaut werden können, können wir die Fertigstellung von Neubauten beschleunigen."
 advanced_submarine_noise:0	"Lärmreduzierende Beschichtungen"
 advanced_submarine_noise_desc:0	"Durch die Entwicklung fortschrittlicher Beschichtungen, die den Geräuschpegel dämpfen, können wir die Überlebensfähigkeit unserer U-Boote weiter verbessern."
-
-
-
-
-
-
-
-
 airplane_launcher:0	"Flugzeug-Katapult"
-
 advanced_airplane_launcher:0	"Fortschrittliches Flugzeugkatapult"
 advanced_airplane_launcher_desc:0	"Weitere Verbesserungen des Katapultsystems ermöglichen den Einsatz leistungsfähigerer Aufklärungsflugzeuge."
 armoured_hangar:0	"Gepanzerter Hangar und Flugdeck"
 armoured_hangar_desc:0	"Indem wir den Hangar und das Flugdeck zu einem integralen Bestandteil der Panzerung des Schiffes machen, können wir die Überlebensfähigkeit unserer Flugzeugträger auf Kosten einer gewissen Flugzeugkapazität verbessern."
 open_hangar:0	"Offener Hangar"
-
-
 advanced_hangar_desc:0	"Durch die Kombination der Merkmale eines offenen Hangardecks mit einem zusätzlichen gepanzerten Flugdeck können wir eine Konstruktion entwickeln, die einige der Vorteile von beiden bietet. Diese Art von Konstruktion ist nur für größere Träger geeignet."
-
-
-
-
-
 improved_carrier_armor_scheme:0	"Trägerpanzerungsschema der Zwischenkrieg"
 improved_carrier_armor_scheme_desc:0	"Die Analyse und Erprobung früherer Panzerungssysteme hat zur Entwicklung neuer Systeme geführt, die eine Reihe von Vorteilen bieten sollten."
-
-
 early_engine:0	"Dampfturbinen"
 early_engine_desc:0	"Der Einsatz von Dampfturbinen ermöglicht den Einbau von wesentlich leistungsfähigeren Kesseln und Maschinen in Schiffen, was zu höheren Geschwindigkeiten führt."
 improved_engine:0	"Verbesserte Dampfturbine"
 improved_engine_desc:0	"Weiterentwicklungen von Dampfturbinen ermöglichen sowohl leistungsfähigere als auch kompaktere Maschinen."
-
-
 early_diesel:0	"Frühe Dieselmotoren"
 early_diesel_desc:0	"Wir können Dieselmotorenkonstruktionen für den Einsatz auf kleinen Marineschiffen anpassen."
-
-
-
-
-
 early_sub_diesel_desc:0	"Verbesserte Dieselmotoren und Batterien mit höherer Kapazität ermöglichen leistungsfähigere und kompaktere U-Boot-Antriebsanlagen."
 improved_sub_diesel:0	"Verbesserter U-Boot-Motor"
-
-
 advanced_sub_diesel_desc:0	"Durch die Umstellung auf leistungsfähigere Elektromotoren und eine wesentlich höhere Batteriekapazität können wir eine völlig neue Generation von U-Booten entwickeln."
 carrier_airgroup_search:0	"Flugzeugträger Aufklärungsflugzeug"
 carrier_airgroup_search_desc:0	""
 improved_carrier_airgroup_search:0	"Verbessertes Flugzeugträger Aufklärungsflugzeug"
-
-
 advanced_carrier_airgroup_search_desc:0	""
 carrier_airgroup_asw:0	"Flugzeugträger U-Jagd-Flugzeug"
-
-
-
-
 improved_sub_torpedo_launcher_desc:0	"Die Vergrößerung unserer U-Boot-Torpedos ermöglicht es uns, ihre Reichweite und Schlagkraft zu erhöhen."
 advanced_sub_torpedo_launcher:0	"Verbesserte U-Boot-Torpedos"
-
-
 modern_sub_torpedo_launcher_desc:0	"Fortgeschrittene Torpedotriebwerke und Sprengstoffverbindungen erhöhen die Tödlichkeit von Torpedos weiter."
 improved_heavy_ship_torpedo_launcher:0	"Entwicklung schwerer Torpedos"
 improved_heavy_ship_torpedo_launcher_desc:0	"Rohre mit größerem Durchmesser ermöglichen größere Torpedos mit schwereren Sprengköpfen."
-
 advanced_heavy_ship_torpedo_launcher_desc:0	"Entwicklungen in der Torpedotechnik ermöglichen eine größere Reichweite und stärkere Gefechtsköpfe."
-
-
 improved_magnetic_detonator:0	"Verbesserter magnetischer Detonator"
-
-
-
-
 improved_light_battery_2_desc:0	""
 advanced_light_battery_2:0	"Verbesserte 115-135mm Batterie"
-
 improved_dp_light_battery:0	"Mehrzweck Batterie 90-115mm"
 improved_dp_light_battery_desc:0	""
 advanced_dp_light_battery:0	"Verbesserte Mehrzweck Batterie 90-115mm"
-
-
-
 advanced_dp_light_battery_2:0	"Erweiterte 115-135mm Mehrzweckbatterie"
-
-
-
-
 modern_medium_battery_desc:0	""
 improved_dp_medium_battery:0	"Mehrzweck Batterie 135-145mm"
-
 advanced_dp_medium_battery:0	"Erweiterte Zwei-Zweck Batterie 135-145mm"
-
 modern_dp_medium_battery:0	"Mehrzweck Batterie 145-160 mm"
 modern_dp_medium_battery_desc:0	""
 basic_medium_battery_2:0	"180-210mm Batterie"
-
-
 improved_medium_battery_2_desc:0	""
-
 advanced_medium_battery_2_desc:0	""
-
-
-
 basic_heavy_battery_2_desc:0	""
 improved_heavy_battery_2:0	"Verbesserte 320-360mm Batterie"
-
 advanced_heavy_battery_2:0	"Erweiterte 320-360mm Batterie"
-
 basic_heavy_battery_3:0	"380-420mm Batterie"
-
 improved_heavy_battery_3:0	"Verbesserte 380-420mm Batterie"
-
-
 advanced_heavy_battery_3_desc:0	""
 improved_heavy_battery_4:0	"Verbesserte 450-480mm Batterie"
-
-
 advanced_heavy_battery_4_desc:0	""
 improved_heavy_battery_5:0	"Verbesserte 500-520mm Batterie"
 improved_heavy_battery_5_desc:0	""
-
-
 nrm_early_antiair:0	"Frühe leichte Marine Flugabwehrmaschienengewehre"
 nrm_early_antiair_desc:0	""
-
-
-
-
 nrm_advanced_antiair:0	"Fortgeschrittene leichte Marine Flugabwehrmaschienengewehre"
 nrm_advanced_antiair_desc:0	""
-
-
 nrm_basic_heavy_antiair:0	"Einfaches mittleres Marine Luftabwehrgeschütz"
 nrm_basic_heavy_antiair_desc:0	""
 nrm_improved_heavy_antiair:0	"Verbessertes mittleres Marine Luftabwehrgeschütz"
 nrm_improved_heavy_antiair_desc:0	""
-
-
-
 nrm_modern_heavy_antiair_desc:0	""
-
-
-
-
 nrm_battery_early_6:0	"145-160mm Batterie"
 nrm_battery_early_6_desc:0	"Schaltet ~152mm Geschütze frei. \n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§! \n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_early_8:0	"180-210mm Batterie"
-
-
 nrm_battery_early_11_desc:0	"Schaltet ~280mm Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_early_12:0	"295-315mm Batterie"
 nrm_battery_early_12_desc:0	"Schaltet ~305mm Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_early_13:0	"320-340mm Batterie"
-
-
-
 nrm_battery_early_15:0	"375-390mm Batterie"
 nrm_battery_early_15_desc:0	"Schaltet ~380mm Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
-
-
-
 nrm_battery_early_dd_5h_desc:0	"Schaltet Zerstörerlafetten für ~139mm Geschütze frei.\n\nUsable as;\n\n§RHauptbatterie§! for §CZerstörer§!"
 nrm_battery_early_dd_6:0	"Zerstörer 145-160mm Batterie"
 nrm_battery_early_dd_6_desc:0	"Schaltet Zerstörerlafetten für ~152mm Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CZerstörer§!"
-
 nrm_battery_improved_4_desc:0	"Schaltet ~100mm Geschütze und ~75mm und ~100mm Doppelrohrgeschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CZerstörer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!, §CKreuzer§!, §CTräger§! und §CLeichte Träger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_improved_5:0	"Zwischenkrieg 115-130mm Batterie"
-
 nrm_battery_improved_5h:0	"Zwischenkrieg 130-145mm Batterie"
-
-
-
-
 nrm_battery_improved_8_desc:0	"Schaltet ~203mm Geschütze frei.\n\nUsable as;\n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!"
-
-
 nrm_battery_improved_12:0	"Zwischenkriegsbatterie 295-315mm"
-
 nrm_battery_improved_13:0	"Zwischenkrieg 320-340mm Batterie"
 nrm_battery_improved_13_desc:0	"Schaltet ~330mm Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_improved_14:0	"Zwischenkriegs Batterie 345-365mm"
 nrm_battery_improved_14_desc:0	"Schaltet ~356mm Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
-
 nrm_battery_improved_15_desc:0	"Schaltet ~380mm Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_improved_16:0	"Zwischenkrieg 400-420mm Batterie"
-
 nrm_battery_improved_18:0	"Zwischenkrieg 450-480mm Batterie"
-
-
-
 nrm_battery_improved_dd_5h:0	"Zwischenkriegs Zerstörer Batterie 130-145mm"
-
-
 nrm_battery_improved_dd_6_desc:0	"Schaltet Zerstörerlafetten für ~152mm Einzweckgeschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CZerstörer§!"
 nrm_battery_improved_dp_4:0	"Mehrzweck 90-115mm Batterie"
 nrm_battery_improved_dp_4_desc:0	"Schaltet ~100mm-Mehrzweckgeschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CTräger§! und §CZerstörer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!, §CKreuzer§!, §CTräger§! und §CLeichte Träger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_improved_dp_5:0	"Mehrzweck Batterie 115-130mm"
-
-
 nrm_battery_improved_dp_5h_desc:0	"Schaltet ~139mm-Mehrzweckgeschütze frei. \n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§! und §CTräger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
-
-
-
-
-
 nrm_battery_advanced_5h_desc:0	"Schaltet ~139mm Geschütze frei.\n\nVerwendbar als;\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_advanced_6:0	"Erweiterte 145-160mm Batterie"
-
-
 nrm_battery_advanced_8_desc:0	"Schaltet ~203mm Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!"
 nrm_battery_advanced_11:0	"Erweiterte 250-290mm Batterie"
 nrm_battery_advanced_11_desc:0	"Schaltet ~280mm Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_advanced_12:0	"Erweiterte 295-315mm Batterie"
 nrm_battery_advanced_12_desc:0	"Schaltet ~305mm Kanonen frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
-
-
 nrm_battery_advanced_14:0	"Erweiterte 345-365mm Batterie"
 nrm_battery_advanced_14_desc:0	"Schaltet ~356mm Kanonen frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
-
-
-
-
-
 nrm_battery_advanced_18_desc:0	"Schaltet ~457mm Kanonen frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CGroßkampfschiffe§!"
 nrm_battery_advanced_20:0	"Erweiterte 500-520mm Batterie"
-
 nrm_battery_advanced_dd_5h:0	"Fortgeschrittene Zerstörerlafetten 130-145mm"
 nrm_battery_advanced_dd_5h_desc:0	"Schaltet Zerstörerlafetten für ~139mm Geschütze frei. \n\nVerwendbar als;\n\n§RHauptbatterie§! für §CZerstörer§!"
 nrm_battery_advanced_dd_6:0	"Fortgeschrittene Zerstörer 145-160mm Batterie"
 nrm_battery_advanced_dd_6_desc:0	"Schaltet Zerstörerlafetten für ~152mm Einzweckgeschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CZerstörer§!"
-
-
 nrm_battery_advanced_dp_5:0	"Fortschrittliche 115-130mm-Mehrzweckbatterie"
-
-
-
-
-
 nrm_battery_modern_6:0	"Schnellfeuer Batterie 145-160mm"
 nrm_battery_modern_6_desc:0	"Schaltet ~152mm Geschütze frei. \n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§! \n\n§RSekundärbatterie§! für §CGroßkampfschiffe§!"
-
 nrm_battery_modern_8_desc:0	"Schaltet ~203mm-Geschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!"
 nrm_battery_modern_dp_6:0	"Erweiterte 145-160mm-Mehrzweckbatterie"
 nrm_battery_modern_dp_6_desc:0	"Schaltet ~152mm-Mehrzweckgeschütze frei.\n\nVerwendbar als;\n\n§RHauptbatterie§! für §CTräger§! und §CKreuzer§!\n\n§RSekundärbatterie§! für §CGroßkampfschiffe§! und §CTräger§!\n\n§RTertiärbatterie§! für §CGroßkampfschiffe§!"
-
-
 basic_submarine_snorkel:0	"Schnorchel"
-
-
-
-
 damage_control_4_desc:0	"Die Entwicklung einer Reihe von standardisierten Handbüchern und Routinen, die zusammen mit einer umfassenden Ausbildung der Besatzung zu befolgen sind, gewährleistet eine effektive Schadenskontrolle in nahezu jeder Situation."
-
-
 mtg_floating_dock:0	"Schwimmende Docks"
 mtg_floating_dock_desc:0	""
 advanced_decimetric_radar:0	"Fortschrittliches dezimetrisches Radar"
-
 NAVAL_TITLE_FIRE_CONTROL_2:0	"FEUERKONTROLLMETHODEN"
 NAVAL_TITLE_RADAR:0	"RADAR"
-
-
-
-
 improved_naval_radar:0	"Fortgeschrittenes dezimeter Schiffsradar"
-
-
-
-
 semimodern_naval_radar_desc:0	""
 modern_naval_radar:0	"Fortgeschrittenes zentimeter Schiffsradar"
 modern_naval_radar_desc:0	""
-
 early_fire_control_system_desc:0	"Der gesamte Beschuss der Schiffskanonen wird von einer zentralen Position aus gesteuert, was eine engere Gruppierung der Schüsse gewährleistet und die Genauigkeit erhöht."
 basic_fire_control_system:0	"Grundlegendes Feuerleitsystem"
 basic_fire_control_system_desc:0	"Verbesserungen an den Steuerungssystemen ermöglichen ein genaueres Feuer auf weit entfernte Ziele."
 semimodern_fire_control_system:0	"Integriertes Feuerleitsystem"
-
-
-
 coastal_defense_ship_early:0	"Küstenverteidigungsschiff (Früh)"
-
-
-
-
 panzerschiffe_advanced:0	"Panzerschiff Rumpf (Fortgeschritten)"
 torpedo_cruiser_early:0	"Torpedokreuzer Rumpf (Früh)"
 torpedo_cruiser_basic:0	"Torpedokreuzer-Rumpf (Verbessert)"
-
-
 nrm_pre_ww1_naval_doctrine:0	"Marinedoktrinen vor dem 1. Weltkrieg"
 nrm_pre_ww1_naval_doctrine_desc:0	"Eine kombinierte Studie über die unzähligen Taktiken vor dem großen Krieg, einschließlich der Line-of-Battle-, Ramm- und frühen Kreuzer-Kriegsführungstaktiken. Große Geschütze sind hier die Zukunft, und wir werden den Feind auf Distanz angreifen, um ihn zu besiegen."
-
-
-
 nrm_jeune_ecole_concepts_desc:0	"Wenn wir andere Nationen, die über größere Flotten als unsere verfügen, schlagen wollen, müssen wir sie zu ungleichen Bedingungen bekämpfen. Der aggressive Einsatz kleinerer Schiffe bedeutet, dass wir dem Feind nahe kommen und ihn zu unseren Bedingungen bekämpfen können, so dass der Größenunterschied ihrer Großkampfschiffe weniger ins Gewicht fällt."
 nrm_commerce_warfare:0	"Handelskriegsführung"
-
-
 nrm_battlefleet_concentration_desc:0	"Wenn wir unsere Schiffe in organisierten Flotten zusammenfassen, können wir mehr Geschütze auf ein Ziel richten, als wenn wir als verstreute Streitkräfte angreifen. Wenn wir unsere Kapitäne darauf trainieren, sich als Teil einer größeren Flotte zu bewegen, können unsere Flotten ihre Gegner ausmanövrieren."
 nrm_scouting_force:0	"Spähtrupps"
 nrm_scouting_force_desc:0	"Wenn wir einige unserer Aufklärungsschiffe als Aufklärer einsetzen, haben wir eine größere Chance, den Feind zu entdecken. Die Flotte, die den Feind als erste identifiziert, kann den Unterschied zwischen Sieg und Niederlage ausmachen."
-
-
 nrm_fleet_coordination:0	"Flottenkoordination"
-
-
-
-
 nrm_cruiser_battleline_support_desc:0	""
 nrm_cruiser_flotilla_leader:0	"Führer von Kreuzerflottillen"
-
 nrm_independent_cruiser_operation:0	"Unabhängige Kreuzeroperationen"
-
-
 nrm_cruiser_patrols_desc:0	""
-
-
 nrm_destroyer_screen:0	"Taktik der Zerstörerabschirmung"
-
 nrm_destroyer_torpedo_tactics:0	"Zerstörer Torpedo Taktik"
 nrm_destroyer_torpedo_tactics_desc:0	""
-
-
-
 nrm_destroyer_fleet_operations_desc:0	""
 nrm_destroyer_patrol_operations:0	"Priorität für Zerstörer Patrouilleneinsatz"
-
 nrm_destroyer_screen_improved:0	"Verbesserte Zerstörerabschirmungstaktik"
-
-
 nrm_destroyer_asw_tactics_desc:0	""
 nrm_destroyer_torpedo_advanced:0	"Fortgeschrittene Zerstörer-Torpedo Taktik"
 nrm_destroyer_torpedo_advanced_desc:0	""
-
-
 nrm_destroyer_hunter_killer:0	"Jäger/Killer Taktik"
-
 nrm_destroyer_advanced_tactics:0	"Fortgeschrittene Zerstörer Taktik"
 nrm_destroyer_advanced_tactics_desc:0	""
-
 nrm_trade_protection_desc:0	""
 nrm_escort_patrols:0	"Geleitschutz-Patrouillen"
-
 nrm_convoy_sailing:0	"Konvoi-Segeln"
-
-
-
-
 nrm_integrated_convoy_defence_desc:0	""
 nrm_submarine_tactics_early:0	"Frühzeitige U-Boot Taktik"
-
 nrm_submarine_raiding:0	"U-Boot Angriffe"
 nrm_submarine_raiding_desc:0	"Indem wir unsere U-Boote entlang bekannter Schifffahrtskorridore auf der Lauer liegen lassen, können wir feindliche Schiffe aus dem Hinterhalt angreifen, während sie gleichzeitig schwerer zu entdecken sind."
 nrm_submarine_torpedo_tactics:0	"U-Boot-Torpedo-Taktik"
 nrm_submarine_torpedo_tactics_desc:0	"Der Einsatz von Torpedos auf größere Entfernungen erfordert einiges an Geschick und Training, bedeutet aber auch, dass unsere Besatzungen aus größeren Entfernungen angreifen können, was die Entdeckungswahrscheinlichkeit senkt und mehr Möglichkeiten für Mehrfachangriffe bietet."
-
-
-
-
 nrm_submarine_raiding_improved:0	"Verbesserte Überfalltaktik"
-
-
-
-
 nrm_submarine_tactics_improved_desc:0	"Indem wir unsere U-Boote nachts an der Oberfläche gruppieren und an der Oberfläche angreifen lassen, können wir unsere Fähigkeit, der feindlichen Schifffahrt Schaden zuzufügen, massiv erhöhen, da ihr Frühsonar nur gegen getauchte Ziele wirksam ist."
 nrm_submarine_torpedo_improved:0	"Fortgeschrittene U-Boot-Torpedo-Taktik"
 nrm_submarine_torpedo_improved_desc:0	"Indem wir unsere Besatzungen darauf trainieren, ihre Torpedos gegen mehrere Ziele gleichzeitig abzufeuern, können wir das Überraschungsmoment so weit wie möglich ausnutzen."
 nrm_submarine_unrestricted:0	"Uneingeschränkte U-Boot-Kriegsführung"
-
 nrm_submarine_long_range:0	"U-Boot-Operationen mit großer Reichweite"
 nrm_submarine_long_range_desc:0	"Indem wir auf unseren U-Booten Platz für zusätzliche Vorräte schaffen und unsere Besatzungen dazu anhalten, ihre U-Boote mit geringerer Geschwindigkeit zu fahren, wenn sie nicht gebraucht werden, können wir die Reichweite unserer U-Boote vergrößern."
 nrm_submarine_evasion:0	"U-Boot-Ausweichtaktiken"
 nrm_submarine_evasion_desc:0	"Indem wir unsere Besatzungen in der Durchführung von Notfallmanövern, wie z. B. Sturztauchen und Ablassen von Ballast, schulen, können wir ihre Überlebens- und Fluchtfähigkeit bei einem Gefecht verbessern."
-
-
-
-
-
-
-
 nrm_db_offensive_tactics_desc:0	""
 nrm_db_battleline_tactics:0	"Fortgeschrittene Gefechtsfeldtaktik"
 nrm_db_battleline_tactics_desc:0	""
 nrm_db_cruiser_torpedo:0	"Kreuzer-Torpedo-Angriffe"
-
-
 nrm_db_combined_carrier_desc:0	""
 nrm_db_heavy_scouting:0	"Schwere Spähtrupps"
 nrm_db_heavy_scouting_desc:0	""
-
-
-
-
-
-
-
 nrm_fib_power_projection_desc:0	""
 nrm_fib_sealane_defence:0	"Verteidigung der Seeländer"
 nrm_fib_sealane_defence_desc:0	""
 nrm_fib_forward_basing:0	"Vorwärtsgerichtete Basis"
-
-
 nrm_fib_patrol_operation_desc:0	""
 nrm_fib_fast_carrier_tf:0	"Schnelle Flugzeugträger-Gefechtsverbände"
 nrm_fib_fast_carrier_tf_desc:0	""
-
-
-
-
 nrm_fib_flexible_operations:0	"Flexible Flottenoperationen"
 nrm_fib_flexible_operations_desc:0	""
-
-
 nrm_trade_interdiction:0	"Handelskrieg Doktrin"
 nrm_trade_interdiction_desc:0	""
 nrm_ti_raider_patrols:0	"Raider-Patrouillen"
-
-
 nrm_ti_capital_raiders_desc:0	""
 nrm_ti_extended_range:0	"Operationen mit erweiterter Reichweite"
-
-
-
-
-
-
-
 nrm_mine_warfare_2:0	"Fortgeschrittene Minenkriegsführung"
 nrm_mine_warfare_2_desc:0	""
 nrm_fleet_train:0	"Flottenzug"
-
-
 nrm_replenishment_sea_desc:0	""
 nrm_replenishment_underway:0	"Wiederauffüllung auf See"
-
-
-
 nrm_carrier_experiments:0	"Experimente mit Flugzeugträgern"
 nrm_carrier_experiments_desc:0	"Landgestützte Experimente mit Flugzeugen haben gezeigt, dass mit der richtigen Flugzeugzelle ausreichend kurze Start- und Landestrecken möglich sind, um Flugzeuge auf einer Landebahn zu betreiben, die so kurz ist, dass sie an ein Schiff angepasst werden kann. Weitere Experimente zeigen, wie effektiv Flugzeuge sowohl feindliche Handelsschiffe als auch Kriegsschiffe angreifen und versenken können."
-
-
 nrm_carrier_integrated:0	"Subsidiäre Flugzeugträgeroperationen"
-
-
 nrm_carrier_development_desc:0	"Durch die Analyse der Arbeitsweise unserer Besatzungen können wir die Handhabung der Flugzeuge auf unseren Flugzeugträgern verbessern und die Geschwindigkeit erhöhen, mit der die Flugzeuge nach einem Einsatz neu bewaffnet und aufgetankt werden. Außerdem können wir unsere Piloten in einigen der Besonderheiten des Angriffs auf Schiffe schulen."
 nrm_carrier_offensive:0	"Offensiver Einsatz von Flugzeugträgern"
-
-
 nrm_carrier_scouting_desc:0	""
 nrm_carrier_defensive:0	"Defensiver Einsatz als Flugzeugträger"
-
 nrm_carrier_taskforce:0	"Flugzeugträger Einsatzgruppe"
 nrm_carrier_taskforce_desc:0	""
-
-
 nrm_carrier_operations:0	"Verbesserte Flugzeugträgeroperationen"
 nrm_carrier_operations_desc:0	""
-
-
 nrm_carrier_defence:0	"Verbesserte Verteidigungstaktik"
-
-
 nrm_carrier_operations_advanced_desc:0	""
 nrm_carrier_deck_operations:0	"Verbesserte Handhabung von Flugzeugen"
-
-
 nrm_carrier_deck_park_desc:0	""
 nrm_carrier_deck_advanced:0	"Fortgeschrittene Deckoperationen"
-
-
-
 NRM_DOCTRINE_MINE_LABEL:0	"Minenkriegsführung"
 NRM_DOCTRINE_DESTROYER_LABEL:0	"Zerstörer\ndoktrin"
-
-
 NRM_DOCTRINE_CARRIER_LABEL:0	"Trägerkriegsführung\nDoktrin"
-
-
 NRM_DOCTRINE_FLEET_IN_BEING_LABEL:0	"Flotte im Einsatz"
 NRM_DOCTRINE_TRADE_INTERDICTION_LABEL:0	"Handel\nUnterbrechung"
 early_ship_hull_carrier_desc:	"Marinestrategen rüsten große Schiffsrümpfe zu den ersten speziellen Flugzeugträgern um, was begrenzte, aber effektive Luftoperationen auf See ermöglicht. Obwohl diese Schiffe noch anfällig und im Versuchsstadium sind, werden sie den Seestreitkräften wichtige Aufklärungs- und Angriffsfähigkeiten bieten."

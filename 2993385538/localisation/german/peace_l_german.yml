@@ -204,85 +204,44 @@ PEACE_COST_BREAKDOWN_MODIFIER_COMPLIANCE:0	"Erfüllt: $PERC$"
 PEACE_COST_BREAKDOWN_MODIFIER_CONTESTED_BID:0	"Angefochten: $PERC$"
 PEACE_COST_BREAKDOWN_MODIFIER_FACTION_POWER_PROJECTION:	"Machtprojektion der Fraktion: $PERC$"
 PEACE_COST_BREAKDOWN_MODIFIER_CONTESTED_BID_PLURAL:0	"Angefochten für $NUM$ Wendungen: $PERC$"
-
 PEACE_COST_BREAKDOWN_MODIFIER_UNCONTESTED_BID_PLURAL:0	"Unangefochten seit $NUM$ Runden: $PERC$"
-
 PEACE_COST_BREAKDOWN_MODIFIER_STACKABLE:1	"Zusätzliche Nachfrage: $VAL$"
-
 PEACE_COST_BREAKDOWN_MAX_VALUE:0	"Kosten gedeckelt auf $VAL|H$"
-
 PEACE_FILTER_LOSER_DESCRIPTION:0	"Wählen Sie eine einzelne Nation, um nur die Forderungen anzuzeigen, die Sie an diese Nation stellen können."
-
 PEACE_FILTER_LOSER_NO_CHOICE:0	"Alle"
-
 PEACE_DEFEATED_ACTIONS_DESCRIPTION:0	"Sie wurden §Rdefeated§!. Die Sieger stellen derzeit Forderungen an Sie und Ihre Verbündeten."
-
 PEACE_BID_PHASE:1	"Die Konferenz ist an der Reihe: §Y$PHASE$§!"
-
 PEACE_SCORE_REMAINING_TURNS_GIVING_SCORE:0	"$CURRENTTURN$/ $NBTURN$"
-
 PEACE_SCORE_DISTRIBUTION_FINISHED:0	"Sie haben Ihre gesamte Punktzahl erhalten"
-
 PEACE_SCORE_RECEIVED:0	"Bis jetzt erhalten £victory_points $AMOUNT|Y$"
-
 PEACE_SCORE_WILL_RECEIVE_ON_TURN:1	"In der Konferenzrunde $PHASE$, £victory_points $AMOUNT|G$"
-
 PEACE_ACTION_CATEGORY_OTHER:0	"Andere"
-
 PEACE_ACTION_CATEGORY_IDEOLOGY:0	"Ideologie"
-
 PEACE_ACTION_CATEGORY_HAS_CLAIM:0	"Hat Anspruch"
-
 PEACE_ACTION_CATEGORY_DEFENSIVE_WAR:0	"Verteidigungskrieg"
-
 PEACE_ACTION_CATEGORY_CONFERENCES:0	"Verträge & Konferenzen"
-
 PEACE_TAKER_TAB_VICTORS:0	"Sieger"
-
 PEACE_BENEFICIARY_DESCRIPTION:0	"$ACTION$ von $NEGOTIATOR$"
-
 PEACE_STACKABLE_BID_ACTIONS:1	"Zusätzliche Forderungen:"
-
 PEACE_STACKABLE_ACTION_DISABLED_NOT_RELEVANT_PRIMARY:1	"§RSelect Puppet oder Change Government Demands müssen in einem Staat vorhanden sein, um Additional Demands zu aktivieren§!"
-
 PEACE_ACTION_CATEGORY_OTHER_CLAIMANT:0	"Kann befreit werden"
-
 PEACE_ACTION_CATEGORY_EVENTS_OR_FOCUSES:0	"Ereignisse oder Brennpunkte"
-
 HOLD_SHIFT_FOR_BREAKDOWN:0	"Halten Sie §GShift§!, um die Kostenaufschlüsselung zu sehen."
-
 PEACE_TIMED_EFFECT_DEMILITARIZED_ZONE_NAME:0	"Entmilitarisierte Zone"
-
 PEACE_TIMED_EFFECT_WAR_REPARATION_AMOUNT_DESCRIPTION:0	"$AMOUNT|Y$ Fabriken (ausserhalb der Karte)"
-
 PEACE_TIMED_EFFECT_RESOURCE_RIGHTS:0	"Ressourcenrechte"
-
 PEACE_COUNTRY_THIS_HAS_EXITED:0	"Dieses Land hat die Friedenskonferenz verlassen"
-
 PEACE_WAR_SCORE_REDISTRIBUTION:0	"Daraus ergibt sich $RATIO|Y0%$ des Friedenspunktes:"
-
 PEACE_WAR_SCORE_REDISTRIBUTION_FROM_AI:0	"Empfangen von KI-Ländern"
-
 PEACE_WAR_SCORE_REDISTRIBUTION_FROM_FACTION_MEMBERS:0	"Erhalten von Fraktionsmitgliedern"
-
-
 PEACE_WAR_SCORE_REDISTRIBUTION_TO_HUMANS:0	"Übertragen auf den/die Spieler"
 PEACE_WAR_SCORE_REDISTRIBUTION_TO_OVERLORD:0	"Übertragen an den Overlord"
-
-
-
 PEACE_COUNTRY_NB_BIDS:1	"@$TAG$$COUNTRY|Y$ hat $AMOUNT|Y$ Forderungen eingereicht"
 PEACE_COUNTRY_NB_CONTESTED_BIDS:1	"@$TAG$$COUNTRY|Y$ hat $AMOUNT|Y$ Forderungen eingereicht, die §Rcontested§! waren"
 PEACE_COUNTRY_NB_BIDS_FOR_BENEFICIARY:1	"@$TAG$$COUNTRY|Y$ ist der Begünstigte von $AMOUNT|Y$ Forderungen"
-
-
-
 PEACE_CONFERENCE_SHIP_CLAIM_BREAKDOWN_BEGIN:0	"Dieses Schiff hat eine £peace_conf_icons|1 Forderung:"
 PEACE_CONFERENCE_STATE_CONTEST_BREAKDOWN_BEGIN:0	"Dieser Staat hat eine £peace_conf_icons|3 §Rcontested§! Demand:"
 PEACE_CONFERENCE_SHIP_CONTEST_BREAKDOWN_BEGIN:0	"Dieses Schiff hat eine £peace_conf_icons|3 §Rcontested§! Forderung:"
-
-
-
 PEACE_CONFERENCE_SELECT_A_VICTOR:0	"Wählen Sie einen Sieger, um seinen Standpunkt zu erfahren"
 TRIGGER_PC_CURRENT_TURN:0	"Aktuelle Runde"
 PEACE_COST_BREAKDOWN_MODIFIER_UNCONTESTED_BID:0	"Unbestritten: $PERC$"

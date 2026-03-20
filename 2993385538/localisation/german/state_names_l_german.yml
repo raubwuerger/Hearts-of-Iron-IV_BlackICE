@@ -601,417 +601,211 @@ STATE_598:1	"Huaiyang"
 STATE_599:1	"Liujiang"
 STATE_600:1	"Yuzhang"
 STATE_601:	"Chamdo"
-
 STATE_602:1	"Xiangjiang"
-
 STATE_604:1	"Yushu"
-
 STATE_606:1	"Anqing"
-
 STATE_608:2	"Jingzhao"
-
 STATE_610:0	"Jehol"
-
 STATE_612:1	"Östlicher Xilin Gol"
-
 STATE_614:1	"Baoding"
-
 STATE_616:0	"Ningxia"
-
 STATE_618:1	"Ili"
-
 STATE_620:1	"Jianghan"
-
 STATE_622:1	"Guanzhong"
-
 STATE_624:0	"Zentrale Inseln"
-
 STATE_626:0	"Palawan"
-
 STATE_628:0	"Cebu"
-
 STATE_630:0	"Johnston-Atoll"
-
 STATE_632:0	"Wake-Insel"
-
 STATE_634:0	"Salomon-Inseln"
-
 STATE_636:0	"Fidschi"
-
 STATE_638:0	"Guam"
-
 STATE_640:0	"Mandalay"
-
 STATE_642:0	"Phoenix-Insel"
-
 STATE_644:0	"Nordost-Sibirien"
-
 STATE_646:0	"Saipan"
-
 STATE_648:0	"Marcus-Insel"
-
 STATE_650:0	"Attu Insel"
-
 STATE_652:0	"Orenburg"
-
 STATE_654:0	"Gorno-Altaysk"
-
 STATE_656:0	"Kuwait"
-
 STATE_658:0	"Abu Dhabi"
-
 STATE_660:0	"Äquatorialafrika"
-
 STATE_662:0	"Sirte"
-
 STATE_664:0	"Südliche Slowakei"
-
 STATE_666:0	"Lappland"
-
 STATE_668:0	"Die Molukken"
-
 STATE_670:0	"Laos"
-
 STATE_672:0	"Sumatra"
-
 STATE_674:0	"Australisches Hauptstadtterritorium"
-
 STATE_676:0	"Mosul"
-
 STATE_678:0	"Rub al-Khali"
-
 STATE_680:0	"Deir-az-Zur"
-
 STATE_682:0	"Nördliches Ontario"
-
 STATE_684:0	"Karolinen"
-
 STATE_686:0	"Puerto Rico"
-
 STATE_688:0	"Chaco Boreal"
-
 STATE_690:0	"Nördliche Bahamas"
-
 STATE_692:0	"Inseln über dem Winde"
-
 STATE_694:0	"Französische Karibik"
-
 STATE_696:0	"Bermuda"
-
 STATE_698:0	"Azoren"
-
 STATE_700:0	"Sierra Leone"
-
 STATE_702:0	"Kap Verde"
-
 STATE_704:0	"St. Helena"
-
 STATE_706:0	"Reunion"
-
 STATE_708:0	"Komoren-Inseln"
-
 STATE_710:0	"Diego Garcia"
-
 STATE_712:0	"Cocos-Inseln"
-
 STATE_714:1	"Suilan"
-
 STATE_716:2	"Liaoshen"
-
 STATE_718:0	"Stanleyville"
-
 STATE_720:0	"Südgeorgien"
-
 STATE_722:0	"Petsamo"
-
 STATE_724:0	"Nordmalaiisch"
-
 STATE_726:0	"Samoa"
-
 STATE_728:0	"Guangzhouwan"
-
 STATE_730:0	"St. Pierre und Miquelon"
-
 STATE_732:0	"Kirgisistan"
-
 STATE_734:0	"Nendo"
-
 STATE_736:0	"Friaul-Julisch-Venetien"
-
 STATE_738:0	"Aru-Inseln"
-
 STATE_740:0	"Vancouver-Insel"
-
 STATE_742:0	"Tadschikistan"
-
 STATE_744:1	"Südliches Birma"
-
 STATE_746:1	"Dongsheng"
-
 STATE_748:1	"Qianzhong"
-
 STATE_750:2	"Yichang"
-
 STATE_752:2	"Garze"
-
 STATE_754:3	"Aksu"
-
 STATE_756:1	"Yanji"
-
 STATE_758:0	"Ngari"
-
 STATE_760:4	"Altay"
-
 STATE_762:0	"Woiwodschaft Schlesien"
-
 WNW_TERRITORIES:0	"NW-Territorien (W)"
-
 YUKON_TERRITORY:0	"Yukon-Territorium"
-
 SOUTHERN_QUEBEC:0	"Süd-Québec"
-
 STATE_764:0	"Dingzhang"
-
 STATE_766:0	"Xunyang"
-
 STATE_768:0	"Gannan"
-
 STATE_770:0	"Xiangyang"
-
 STATE_772:0	"Hengyang"
-
 STATE_774:0	"Brüssel"
-
 STATE_776:0	"Gaolei"
-
 STATE_778:0	"Zhennan"
-
 STATE_780:0	"Guilin"
-
 STATE_782:0	"Zhenyuan"
-
 STATE_784:0	"Mengzi"
-
 STATE_786:1	"Amsterdam"
-
 STATE_788:0	"Jinan"
-
 STATE_790:0	"Hebei"
-
 STATE_792:0	"Ruyang"
-
 STATE_794:1	"Jinhai"
-
 STATE_796:0	"Yanmen"
-
 STATE_798:0	"Yongning"
-
 STATE_800:0	"Jialing"
-
 STATE_802:0	"Yulin"
-
 STATE_804:0	"Weichuan"
-
 STATE_806:0	"Ganliang"
-
 STATE_808:0	"Ansu"
-
 STATE_810:4	"Westliches Chahar"
-
 STATE_812:1	"Yilan"
-
 STATE_814:1	"Heihe"
-
 STATE_816:0	"Hwanghae"
-
 STATE_818:0	"Hanko"
-
 STATE_820:0	"Gyeongsang"
-
 STATE_822:0	"Feuerland (Tierra del Fuego)"
-
 STATE_824:0	"Jinling"
-
 STATE_826:0	"Neuquén"
-
 STATE_828:0	"Entre Rios"
-
 STATE_830:0	"Misiones"
-
 STATE_832:0	"Sab Juan"
-
 STATE_834:0	"Formosa"
-
 STATE_836:0	"Kanalinseln"
-
 STATE_838:0	"Westbank"
-
 STATE_840:0	"Vilnius"
-
 STATE_842:1	"Suwalki"
-
 STATE_844:0	"Paris"
-
 STATE_846:0	"Rom"
-
 STATE_848:0	"Tokio"
-
 STATE_850:0	"Pantelleria"
-
 STATE_852:0	"Tarija"
-
 STATE_854:0	"Potosi"
-
 STATE_856:0	"Cochabamba"
-
 STATE_858:0	"Pando"
-
 STATE_860:0	"Östliche Mongolei"
-
 STATE_862:0	"Amazonas"
-
 STATE_864:0	"Monagas"
-
 STATE_866:0	"Anzoategui"
-
 STATE_868:0	"Apure"
-
 STATE_870:0	"Südliches Malaien"
-
 STATE_872:0	"Tachira"
-
 STATE_874:1	"Athen"
-
 STATE_876:1	"Madrid"
-
 STATE_877_LOCALNAMES:1	"Kiew"
-
 STATE_879:0	"Paranaiba"
-
 STATE_881:0	"Rif"
-
 STATE_883:0	"Asturien"
-
 STATE_885:0	"Piaui"
-
 STATE_887:0	"Eupen-Malmedy"
-
 STATE_889:0	"Massachusetts"
-
 STATE_891:0	"Neu-Hampshire"
-
 STATE_893:0	"Ost-Oderland"
-
 STATE_895:0	"Saarland"
-
 STATE_897:0	"Kärnten-Steiermark"
-
 STATE_899:0	"Baden"
-
 STATE_901:0	"Visegrad"
-
 STATE_903:1	"Belgrad"
-
 STATE_905:0	"Bosilegrad"
-
 STATE_907:0	"Pristina"
-
 STATE_909:0	"Tessin-Grubunden"
-
 STATE_911:0	"Binh Tuan"
-
 STATE_913:0	"Ljubljana"
-
 STATE_915:0	"Süddalmatien"
-
 STATE_917:0	"Syrmien"
-
 STATE_919:0	"Staat Rahkine"
-
 STATE_921:0	"Phetchabun"
-
 STATE_923:0	"Udon Thani"
-
 STATE_925:0	"Sabah"
-
 STATE_927:0	"Atjeh"
-
 STATE_929:0	"Jinhua"
-
 STATE_931:0	"Norddobrudscha"
-
 STATE_933:0	"Nachodka"
-
 STATE_935:0	"Swasiland"
-
 STATE_937:0	"Waupen"
-
 STATE_939:0	"Choco"
-
 STATE_941:0	"Casanare"
-
 STATE_943:0	"Gaza"
-
 STATE_945:2	"Apatity"
-
 STATE_947:1	"Dorno Gobi"
-
 STATE_949:2	"Tarbagatay"
-
 STATE_951:3	"Weihai"
-
 STATE_953:0	"Rif"
-
 STATE_955:0	"Kantabrien"
-
 STATE_957:0	"Navarra"
-
 STATE_959:1	"Südalbanien"
-
 STATE_961:2	"Südungarn"
-
 STATE_963:0	"Szeklerland"
-
 STATE_965:1	"Marken"
-
 STATE_967:0	"Ligurien"
-
 STATE_969:1	"Bukarest"
-
 STATE_971:1	"Suez-Kanal"
-
 STATE_973:1	"Gaza"
-
 STATE_975:1	"Gholan"
-
 STATE_977:0	"Irakisch-Kurdistan"
-
 STATE_979:1	"Nord-Kambodscha"
-
 STATE_981:1	"Schutzzone"
-
 STATE_983:0	"Obinsk"
-
 STATE_985:1	"Ouhai"
-
 STATE_987:1	"Suchang"
-
 STATE_989:1	"Xuhai"
-
 STATE_991:2	"Nord-Birma"
-
 STATE_993:1	"Para"
-
 STATE_995:2	"Istanbul Stadt"
-
 STATE_997:2	"Oslo"
-
 STATE_999:1	"Südliches Ägypten"
-
 STATE_1001:1	"Warschau"
-
 STATE_1003:0	"Burgenland"
-
 SCC_STATE_601:	"Xikang"
 STATE_603:2	"Central Malay"
 STATE_605:1	"Xichuan"

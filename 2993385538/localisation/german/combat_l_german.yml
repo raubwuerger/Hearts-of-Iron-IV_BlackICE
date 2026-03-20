@@ -31,372 +31,190 @@ TACTICS_DAMAGE_ATTACKER:0	"Taktikschaden des Angreifers:"
 TACTICS_DAMAGE_DEFENDER:0	"Taktikschaden des Verteidigers:"
 TACTICS_MOVEMENTSPEED_ATTACKER:0	"Taktikbewegung:"
 TACTICS_COMBATWIDTH:0	"Taktik-Kampfbreite:"
-
 TACTICS_DEFENDER_ORG_DAMAGE_MODIFIER:	"Schadensmodifikator der Organisation des Verteidigers:"
 TACTICS_VALUE_POSITIVE:0	"$VALUE|G=%0$"
 TACTICS_VALUE_NEGATIVE:0	"$VALUE|R=%0$"
-
-
 TACTIC_COUNTERED_BY:0	"Kontert von: $NAME|H$"
 TACTIC_COUNTERS:0	"Zähler:"
-
-
 TACTIC_FILTER_ATTACK:0	"Offensive Taktiken zeigen."
 BM_WIDTH:0	"Überschreitung der Kampfbreite"
-
-
 BM_DECRYPTION_DESC:1	"Einheiten mit Informationsvorteil haben erhöhten Schaden und Verteidigung."
 BM_TEMPORARY_UNIT_BONUS:1	"Commander-Fähigkeitsbonus"
-
-
 BM_ENCIRCLEMENT_PENALTY:0	"Einkreisungsstrafe"
 BM_ENCIRCLEMENT_PENALTY_DESC:0	"Truppen, die in einem Kessel gefangen sind, sind von der Kommunikation abgeschnitten und können nicht so effektiv kämpfen."
-
-
 BM_FORT_MODIFIER:0	"Festung"
 BM_FORT_MODIFIER_DESC:0	"Festungen verringern die Verluste der Verteidiger und helfen bei der Verteidigung. Um stark befestigte Provinzen einzunehmen, setzen Sie superschwere Panzer oder Pioniere ein. Angriffe aus mehreren Richtungen verringern die Wirkung der Festungen."
-
-
 BM_DUGIN_MODIFIER_DESC:0	"Je länger eine Einheit in einer Provinz bleibt, desto schwieriger wird es, sie zu vertreiben."
 BM_ENEMY_AIR_SUPERIORITY:0	"Feindliche Luftüberlegenheit"
-
-
 BM_ENEMY_AIR_SUPERIORITY_COUNTER_DESC:0	"Luftabwehrbataillone in Ihren Divisionen zu haben, hilft Ihnen dabei, den feindlichen Luftüberlegenheitsnachteilen auf Verteidigung/Durchbruch entgegenzuwirken, und schießt auch Flugzeuge ab, die direkt angreifen."
 BM_HATES_COUNTRY:2	"Länderspezifischer Bonus"
-
-
 BM_HATES_COUNTRY_ON_CORE_DESC:2	"Ihre Einheiten erhalten Boni auf ihre Kerngebiete, während sie gegen bestimmte Länder kämpfen."
 BM_EXILE_LEADER_DIVISION:0	"Synergie des verbannten Anführers"
-
-
 BM_ACTIVE_CODE_CRACKING_BONUSES_DESC:0	"Die Einheiten verfügen über Informationsboni gegen einige feindliche Länder."
 BATTLE_BATTLE:0	"Kampf"
-
-
 BORDER_CONFLICT:0	"Grenzkonflikt"
 BORDER_CONFLICT_MODIFIER:0	"Modifikator: $VAL|+%.0$"
-
-
 BORDER_CONFLICT_DIG_IN_FACTOR:0	"Dig-In-Modifikatorfaktor: $VAL$"
 TACTICS_LIST_VIEW_TITLE:0	"Taktikliste"
-
-
 TACTICS_LOCKED_BY_TECH:4	"\nWird von einer der folgenden Doktrinen freigeschaltet:$TECH$"
 TACTICS_LOCKED_BY_NOT_HANDLED:1	"§TUm den Spieler freizuschalten, muss er bestimmte Bedingungen erfüllen.§!"
-
-
 TACTICS_SCOPE_WEIGHT:0	"Taktische Gewichtung mit angewendeten Merkmalen: $WEIGHT|H$ \n"
 TACTIC_WEIGHT_MODIFIER_PREFERRED_TACTIC:1	"Landbevorzugte Taktik: $MODIFIER|H$\n"
-
-
 OPEN_ARMY_LEADER_PREFERRED_TACTIC_SELECTION:0	"Sie können eine §HPreferred Tactic§! für diesen Charakter auswählen."
 TACTIC_CONDITIONS_NOT_MET:0	"Bedingungen für die Wahl dieser Taktik sind nicht erfüllt.\n"
-
-
 TACTIC_WEIGHT_OF_TACTIC:0	" Gewicht dieser Taktik: $WEIGHT|H$\n"
 TACTIC_CHANCE_CALCULATION:0	" $WEIGHT$ / $TOTAL_WEIGHT$ = $CHANCE|H$"
-
-
 BM_RIVER_PENALTY_DESC:0	"Der Versuch, Flüsse zu überqueren, ist eine riskante Angelegenheit, besonders wenn jemand auf dich schießt."
 CREATE_GROUP_WITH_NO_UNIT_SELECTED_TOOLTIP:1	"§RWählen Sie Divisionen aus, bevor Sie eine Armee erstellen!§!"
-
-
 CREATE_ARMY_GROUP_WITH_UNITS_SELECTED_TOOLTIP:0	"§GKlicken Sie, um eine neue Heeresgruppe zu erstellen und ausgewählte Armeen zuzuweisen§!"
 SELECT_GROUP_TOOLTIP:0	"§GKlick§! zum Auswählen"
-
-
 WING_CAN_NOT_ATTACH_ARMY_GROUP:0	"§RLuftgeschwader können nur an Armeen angebracht werden§!"
 WING_CAN_NOT_ATTACH_WRONG_TYPE:0	"§RMarinebomber und strategische Bomber können nicht an die Armeen angeschlossen werden§!"
-
-
 SELECT_GROUP_WITH_RAILWAY_GUNS_SELECTED_TOOLTIP:0	"§GRechtsklick§!, um die ausgewählten §YEisenbahngeschütze§! zuzuweisen!"
 SELECT_ARMY_GROUP_WITH_UNITS_SELECTED_TOOLTIP:1	"§GRechtsklick§!, um die ausgewählten §YArmeen§! zuzuweisen!"
-
-
 COMMAND_GROUP_NO_ORDER_DESC:0	"\n£GFX_no_order_texticon §RArmee hat keinen Befehl.§!"
 COMMAND_GROUP_UNASSIGNED_DIVISIONS:0	"\n£GFX_no_order_texticon §RDivisionen, die keine Befehle haben: §!$UNASSIGNED|Y$"
-
-
 OPERATION_SELECT_ARMY_GROUP:0	"Armeegruppe"
 OPERATION_NEW_GROUP:1	"Neue Armee"
-
-
 NAVAL_BATTLE_TITLE:0	"Schlacht von $NAME$"
 NAVAL_PORT_STRIKE_TITLE:1	"Streik gegen den Hafen $NAME$"
-
-
 BM_COUNTRY_BONUS:0	"Provinz"
 BM_LOCAL_BONUS:0	"Nation"
-
-
 COMBAT_COMBAT_WIDTH_DESC:0	"§HKampfbreite§!\n Legt fest, wie viele Divisionen auf jeder Seite am Kampf teilnehmen können. Wie viel Breite eine Division einnimmt, hängt davon ab, wie sie gestaltet wurde. Durch Angriffe aus mehreren Richtungen können Sie die erhöhen verfügbare Gesamtbreite."
 COMBAT_PROGRESS_DESC:0	"Zeigt das aktuelle Kräfteverhältnis zwischen Angreifer und Verteidiger in diesem Kampf."
-
-
 COMBAT_LAST_MORE_THAN_DAY:0	"Wir schätzen, dass der Kampf noch weitere $DAYS|Y$ Tage dauern wird."
 COMBAT_LAST_LESS_THAN_DAY:0	"Wir schätzen, dass der Kampf weniger als einen Tag dauern wird."
-
-
-
 COMBAT_RESERVES:1	"Reserven sind Divisionen, die noch nicht am Kampf teilnehmen konnten.\n\nWenn die Kampfbreite ausreicht, wird jede Kampfstunde eine einzelne Division aus den Reserven ausgewählt, um zu versuchen, sich anzuschließen.\n\nDivisionen mit vergleichsweise hoher Verstärkungsquote in den Reserven werden eher ausgewählt."
 BATTLE_REINFORCE_CHANCE2:1	"Chance, die Frontlinie zu verstärken, wenn ausgewählt: $VALUE|2G%$\n"
 COMREIC_NOT_FIGHT:0	"Nicht in der Verfassung, um zu kämpfen."
-
-
-
 BM_TERRAIN:0	"Gelände"
 BM_TERRAIN_DESC:0	"Stellen Sie sicher, dass Sie Einheiten auswählen, die für das Gelände geeignet sind, in dem Sie kämpfen werden."
 CURR_COMB_STR:0	"Stärke: $VALUE|0%Y$"
-
-
-
 LAND_COMBAT_TOOLTIP_DEFENDER:0	"Verteidiger: $COUNT|Y$ Divisionen ($COUNTRIES$)"
 LAND_COMBAT_TOOLTIP_NO_INTEL:0	"Du hast keine Informationen zu diesem Kampf."
 NAVAL_COMBAT_AIRWING_TOOLTIP_KILLS_HEADER:1	"Feindliche Flugzeuge abgeschossen:"
-
-
-
 NAVAL_COMBAT_TOOLTIP_ATTACKER_WITH_CONVOYS:1	"Angreifer: $COUNT|Y$ Einsatzkräfte und $CONVOY_COUNT|Y$ Konvois ($COUNTRIES$)"
 NAVAL_COMBAT_TOOLTIP_DEFENDER_WITH_CONVOYS:1	"Verteidiger: $COUNT|Y$ Einsatzkräfte und $CONVOY_COUNT|Y$ Konvois ($COUNTRIES$)"
 NAVAL_COMBAT_CLICK_DESC:0	"§GKlicken Sie, um den laufenden Kampf anzuzeigen.§!\n§GRechtsklick, um zum Kampf zu schwenken.§!"
-
-
-
 COMBAT_DEFENDER_WINNING:0	"§YDer Verteidiger gewinnt.§!"
 NAVAL_INVASION_COMBAT_PROGRESS_DESC:0	"Diese Einheit führt eine Marineinvasion durch. Ihr Angriff wird durch die Panzerung des Transporters verringert und ihre Verteidigung verbessert."
 NAVAL_INVASION_PROGRESS:0	"Fortschritt der Marineinvasion: $VALUE|Y0%$"
-
-
-
 PHASE_DEFAULT:0	"Standard"
 IS_ATTACKER:0	"Offensive Taktik"
 IS_NOT_ATTACKER:0	"Verteidigungstaktik"
-
-
-
 hold_bridge:0	"Brücke halten"
 seize_bridge:0	"Brücke besetzen"
 close_combat:0	"Nahkampf"
-
-
-
-
 NAVAL_COMBAT_RESULT_SURVIVORS_DMG:0	"Überlebende (§WAvg. Stärke: $DMG|%0R$§!):"
 NAVAL_COMBAT_RESULT_CONVOY_TYPE:0	"Konvoi"
 NAVAL_COMBAT_RESULT_SURVIVOR_TYPE:0	"$NUMBER|H$ vom Typ $TYPE$"
 NAVAL_COMBAT_RESULT_SURVIVOR_COUNT_UNDAMAGED:0	"$FLAG$ $COUNT|H$ unbeschädigt $TYPE|H$"
-
-
-
-
 LAND_COMBAT_CAS_INFO:0	"Gesamtabschuss: $LOST|R$\n£organization_texticon Schaden: $ORG|R0$\n£strenght_texticon Schaden: $STR|R0$"
 LAND_COMBAT_CAS_INFO_TOOLTIP:3	"Etwa $NUM|Y$ Unterstützungsflugzeuge der $SIDE$sseite haben es kürzlich geschafft, in diesem Kampf zu helfen.\nSie haben $ORG|G0$ Schaden an £Organisation_texticon §YOrganisation§! verursacht, die aktuelle feindliche §YOrganisation§! ist $ORG_MAX|G0$.\nSie haben $STR|G0$ Schaden an £strenght_texticon §YStärke§!, die aktuelle feindliche §YStärke§! ist $STR_MAX|G0$.\nDie feindlichen §YFlakabteilungen§! konnten insgesamt $KILL|R$ Flugzeuge abschießen und $ORG_PREVENT|R0$ Schaden an §YOrganisation§! und $STR_PREVENT|R0$ Schaden an §YStärke§! verhindern."
 LAND_COMBAT_CAS_INFO_TOOLTIP_DETAIL:0	"Die maximale Anzahl an Flugzeugen, die helfen können, beträgt $MAX_PLANES|Y$. Je größer die verwendete Kampfbreite ist, desto mehr Flugzeuge können unterstützen."
 SHIP_KILLS_AND_ASSISTS:0	"$SUNK|G$ feindliche Schiffe versenkt.\n$ASS|G$ unterstützte Tötungen."
-
-
-
 BM_RAILWAY_GUN_BOMBARD:0	"Eisenbahngeschützbombardierung"
 BM_RAILWAY_GUN_BOMBARD_DESC:1	"Eisenbahngeschütze in der Nähe unterstützen derzeit die Bombardierung und schwächen verschanzte Einheiten und befestigte Stellungen ab."
 BM_PARADROP:0	"Paradrop"
-
-
-
-
 MISSION_RESULT_LAST_DAY:1	"Ergebnis des aktuellen Tages:"
 MISSION_AIR_SUPERIORITY_LOSS:0	"Flugzeuge verloren: $VAL|0-$"
 MISSION_AIR_SUPERIORITY_WIN:0	"Feindliche Flugzeuge abgeschossen (mit Hilfe von Flugzeugen der Abfangmission): $VAL|0+$"
 MISSION_CAS_LOSS:0	"Flugzeuge verloren: $VAL|0-$"
-
-
-
-
 MISSION_STRATEGIC_BOMBER_WIN:0	"Gebäude bombardiert: $VAL|0+$"
 MISSION_NAVAL_BOMBER_LOSS:0	"Flugzeuge verloren: $VAL|0-$"
 MISSION_NAVAL_BOMBER_WIN:0	"Gegnerisches Schiff versenkt: $VAL|0+$"
 MISSION_DROP_NUKE_LOSS:0	"Flugzeuge verloren: $VAL|0-$"
-
-
-
-
 MISSION_NAVAL_KAMIKAZE_WIN:1	""
 MISSION_PORT_STRIKE_LOSS:0	"Flugzeuge verloren: $VAL|0-$"
 MISSION_PORT_STRIKE_WIN:0	"Gegnerisches Schiff versenkt: $VAL|0+$"
 BM_ATTACK_VALUE:0	"Angriff: $VALUE|+=%$"
-
-
-
-
 BM_MULTIPLE_DIRECTIONS:0	"Angriff aus mehreren Richtungen"
 BM_MULTIPLE_DIRECTIONS_DESC:0	"Angriffe aus vielen verschiedenen Richtungen vergrößern die Kampfbreite. Wenn die Provinz befestigt ist, verringert sich die Wirkung der Festungen."
 IN_COMBAT:0	"Im Kampf"
 TACTICS_ACTIVATION_REQUIREMENTS:	"Aktivierungsanforderungen"
 COMBAT_EXILES_ON_CORES_DESC:0	"§HEexilierte Veteranen§! kämpfen auf Kerngebiet. Angriff: $ATK_ON_CORE|%+$ Verteidigung: $DEF_ON_CORE|%+$."
-
-
-
 PIERCING_THRESHOLD_ENTRY:0	"$NUM|H$ Feindliche Divisionen verursachen $PIERCE_VALUE|%H$ Schaden durch die Rüstung dieser Division."
-
 COMBAT_PIERCING_DESC:0	"Diese Division kann $PIERCING|H$ von $TOTAL|H$ gepanzerten feindlichen Divisionen durchdringen."
 PIERCING_ENEMIES_THRESHOLD_ENTRY:0	"Diese Division kann $PIERCE_VALUE|%H$ ihres Schadens durch die Rüstung von $NUM|H$ feindlichen Divisionen verursachen."
 ATTACKING:0	"Angriff"
-
-
 DIFFERENT_COMMANDER_DESC:0	"Eine Division hat einen anderen Kommandeur als den, der die Schlacht anführt. Dieser Kommandeur ist derjenige, der ihr Boni gibt, mit Ausnahme der im Kampf gewählten Taktik, die dem verantwortlichen Kommandeur überlassen bleibt."
-
-
-
 COMBAT_DETAIL_TRAIT_SEPARATOR:0	","
 CARRIER_EFFICIENCY:1	"Lufteffizienz: $VAL|Y%$"
-
 CARRIER_EFFICIENCY_DESC:0	"\nJe niedriger die Effizienz, desto weniger Flugzeuge können starten und Missionen durchführen."
 CARRIER_EFFICIENCY_CROWD:0	"Überfüllt: $VAL$"
 CARRIER_EFFICIENCY_ORG:0	"Organisation: $VAL$"
-
-
 CARRIER_EFFICIENCY_WEATHER:0	"Wetter: $VAL$"
-
-
-
 ARMY_AMOUNT_PENALTY:0	"§RFührt zu viele Armeen§!. Alle Werte um $PENALTY|Y1%$ reduziert"
 SPEED_REINFORCEMENT_BONUS:0	"Geschwindigkeit: $VAL|+=2%$"
-
 TACTICS_CURRENT_PHASE_DESC:0	"Die aktuelle Phase des Kampfes. Nur Taktiken in dieser Phase können von den kommandierenden Generälen jeder Seite ausgewählt werden."
 PHASE_DISPLAY:0	"$NAME$"
 PHASE_START:0	"Startet: $NAME$"
-
-
 TACTIC_LIST_VALUE_BAD:0	"$VAL|-=0%$"
-
-
-
 COMBAT_LOG_EMPTY_COMBATS:1	"Kein Kampf in $TIME$."
 COMBAT_LOG_EMPTY_EQ:1	"Keine Ausrüstung in $TIME$ verloren"
-
 COMBAT_LOG_EMPTY_TEMPLATES:1	"In $TIME$ haben keine Divisionen gekämpft."
 COMBAT_LOG_LAST_MONTH:0	"der letzte Monat"
 COMBAT_LOG_LAST_MONTHS:0	"die letzten $NUM|H$ Monate"
-
-
 COMBAT_LOG_ENEMY_EQ_LOST:0	"§HGegnerische Kampfverluste§!"
-
-
-
 COMBAT_LOG_EQ_LOST_ATTR_OTHER:0	"Aus anderen Gründen verloren: $NUM|R$"
 COMBAT_LOG_LOSS_REASON_COMBAT:0	"§HIm Gefecht§!"
-
 COMBAT_LOG_LOSS_REASON_ATTRITION:0	"§HDurch Abnutzung§!"
 COMBAT_LOG_TEMPLATES:0	"§HDivision-Vorlagen§!"
 COMBAT_LOG_RATIO:0	"$RATIO|%0$"
-
-
 COMBAT_LOG_COMBATS_WON_FACTOR:0	"Gewinnverhältnis: $RATIO$"
-
-
-
 COMBAT_LOG_COMBATS_TOTAL:0	"§HKampf§!"
 COMBAT_LOG_COMBATS_WON_RATIO:0	"$RATIO|H%0$"
-
 COMBAT_LOG_TAB_COMBAT:0	"Kampf"
 COMBAT_LOG_TAB_EQUIPMENT:0	"Ausrüstung"
 COMBAT_LOG_TAB_TEMPLATE:0	"Divisionsvorlage"
-
-
 COMBAT_LOG_BATTLE_OVERRUN_WIN:0	"Die feindlichen Divisionen wurden von uns §Hüberrannt§!."
-
-
-
 COMBAT_LOG_BATTLE_WE_WON:0	"\n§GWir haben gewonnen!§!"
 COMBAT_LOG_BATTLE_LOCATION_STATE:0	"Dieser Kampf fand in einer der Provinzen im Bundesstaat $NAME|H$ statt."
-
 COMBAT_LOG_BATTLE_TIME_HOURS:0	"vor $NUM|G$ §HStunden§!"
 COMBAT_LOG_BATTLE_TIME_DAYS:0	"vor $NUM|G$ §HTage§!."
 COMBAT_LOG_BATTLE_TIME_MONTHS:0	"vor $NUM|G$ §HMonaten§!"
-
-
 COMBAT_LOG_BATTLE_LOST_EQUIPMENT:0	"$EQ$: $NUM|*R$"
-
-
-
 COMBAT_LOG_BATTLE_PART_COUNTRIES:0	"§HTeilnehmende Länder:§!"
 COMBAT_LOG_MP_LOST_DESC:0	"§HSoldaten verloren§!\nVerluste an feindliche Bodentruppen: $GND|R$\nVerluste an feindliche Flugzeuge: $AIR|R$"
-
 COMBAT_LOG_MP_LOST_WITH_NAVY_DESC:1	"§HSoldaten verloren§!\nVerluste an feindliche Bodentruppen: $GND|R$\nVerluste an feindliche Flugzeuge: $AIR|R$\nVerluste an feindliche Marine: $NAVY|R$"
 COMBAT_LOG_EQ_CAPTURED:0	"§HAusrüstung erbeutet§!"
 EQUIPMENT_CAPTURED_ENTRY:0	"($NUM|Y0$ erfasst)"
-
-
 EQUIPMENT_CAPTURED_BY_ENEMY_ENTRY:0	"$NUM|Y0$ vom Feind gefangen genommen."
-
-
-
 BORDER_CONFLICT_IF_YOU_LOSE:0	"§HWenn du verlierst:§!"
 BORDER_CONFLICT_CHANGE_STATE:0	"Die Kontrolle über $STATE|H$ wird an $COUNTRY|H$ übertragen"
-
 May:0	"Mai"
 DISENGAGE_FROM_COMBAT:0	"§HAbrücken§!\n\nZwingen Sie Ihre Einsatzkräfte, sich vom Kampf zu lösen."
 DISENGAGE_FROM_COMBAT_DONE:0	"Ihre Einsatzkräfte versuchen bereits, sich vom Kampf zu lösen."
-
-
 ESCAPE_SPEED_COMBAT_DURATION:0	"Kampfdauer: $NUM|+%$"
-
-
-
 BASE_ESCAPE_SPEED:0	"Basis: $NUM|+%$"
 POSITIONING_SURFACE_DETECTION_SUPERIORITY:0	"Oberflächenerkennungsbonus: $NUM|+%$"
-
 POSITIONING_SHIP_RATIO_PENALTY:0	"Größere Flotte: $NUM|+%$"
 POSITIONING_PENALTY_INFO:1	"Eine schlechte Positionierung hat folgende Auswirkungen:"
 AA_MODIFIER:0	"Luftabwehr: $NUM|+%$"
-
-
 combat_stat_depth_charges_info:1	"§HTiefenladungen§!\n\nTiefenladungen werden gegen U-Boote eingesetzt, die nicht von anderen Waffentypen angegriffen werden können.\n"
-
-
-
 combat_stat_torpedoes_info:2	"§HTorpedos§!\n\nTorpedos ignorieren Panzerung und sind viel effektiver gegen §YGroßkampfschiffe§!. Die Anzahl der gegen den Feind abgefeuerten Torpedos hängt von ihrer §YAbschirmungseffizienz§! ab.\n"
 screening_efficiency_info:2	"§HAbschirmungseffizienz§!\n\nHohe §YAbschirmungseffizienz§! verteidigt Ihre §YGroßkampfschiffe§! gegen feindliche Torpedos. Ihre Träger werden sowohl von Ihrer Hauptstadt als auch von Ihren Abschirmungsschiffen abgeschirmt. Großkampfschiffe werden nur abgeschirmt von deinen Schirmschiffen.\n"
-
 damage_done_by_weapon_type:1	"Gesamtschaden: $NUM|.0H$"
 relative_damage_ratio_to_other_damage_output:0	"Prozentsatz unseres gesamten ausgehenden Schadens: $NUM|%.1H$"
 relative_damage_ratio_to_enemy_health:1	" Gesundheit des Feindes beschädigt: $NUM|%.1H$"
-
-
 damage_dealt_light_guns:0	"Durch leichte Geschütze: $NUM|.0H$ ($RATIO|%.0H$)\n"
-
-
-
 damage_dealt_by_type:0	" Von $TYPE$: $NUM|.0H$ ($RATIO|%.0H$)\n"
 damage_dealt_anti_air:0	"$NUM|.0H$ feindliche Flugzeuge werden durch Luftabwehr abgeschossen.\n"
-
 damage_dealt_by_box:0	"Verursachter Schaden nach Art:\n"
 damage_dealt_screen:0	"Durch Sicherungsschiffe: $NUM|.0H$ ($RATIO|%.0H$)\n"
 damage_dealt_battle_box:0	"Durch Großkampfschiffe: $NUM|.0H$ ($RATIO|%.0H$)\n"
-
-
 damage_dealt_subs:0	"Durch U-Boote: $NUM|.0H$ ($RATIO|%.0H$)\n"
-
-
-
 SCREENING_TOOLTIP_CAPITAL_BOX_COMBINED:1	"Kombinierte Sicherungseffizienz über §YKampflinie hinaus§!: $NUM|%.0H$"
 SCREENING_TOOLTIP_FOR_SCREEN_BOX:2	"Ihre $NUM_CAPI|.0H$ §YGroßkampfschiffe§!, $NUM_CARR|.0H$ §YTräger§! und $NUM_CONV|.0H$ §YKonvois§! benötigen $NUM_NEED|.0H$ §YSicherungsschiffe§! für die vollständige Abdeckung. Aktuell haben sie $NUM_SCRE|.0H$ §YSchiffe im Sicherungseinsatz§!."
-
 SCREENING_TOOLTIP_LOW_INFO:1	"Lücken in der §YSicherungsgruppe§! führen zu einer geringen Sicherungseffizienz, sodass feindliche U-Boote die nächste Kampflinie anvisieren können."
 SCREENING_TOOLTIP_BONUSES:1	"Deine Sicherungseffizienz verleiht deiner §YKampflinie§! die folgenden Boni:\n"
 SCREENING_TOOLTIP_BONUSES_CAPITAL:1	"Ihre Sicherungseffizienz verschafft Ihrer §YTrägergruppe§! die folgenden Boni:\n"
-
-
 CAPITAL_BOX_TOOLTIP:0	"Die §YSchlachtlinie§! stellt die wichtigste direkte Feuerkraft der Flotte bereit, normalerweise in Form von Schlachtschiffen und schweren Kreuzern. Sie verhindern auch, dass feindliche Großkampfschiffe auf befreundete §YTräger§! schießen."
-
-
-
 NAVAL_READY_TO_FIRE_DESC:0	"Aufgrund der betroffenen Reichweiten können einige Schiffsklassen nicht direkt angreifen, wenn der Kampf aufgenommen wird."
 CARRIER_PLANE_SCREEN:0	"Trägerflugzeuge"
-
 CARRIER_PLANE_SCREEN_DESC:0	"Unsere Trägerflugzeuge werden die Bewegungsfreiheit des Feindes einschränken und somit alle unsere Abschirmungsbemühungen unterstützen."
 POSITIONING_CARRIER_RATIO_PENALTY:0	"Mehr feindliche Trägerflugzeuge: $NUM|+%$"
 COMBAT_LOG_FRIENDLY:0	"Freundliche Streitkräfte"
-
 TACTICS_ATTACKER_ORG_DAMAGE_MODIFIER:	"Schadensmodifikator der angreifenden Organisation:"
 TACTICS_WIDTH_VALUE:0	"$VALUE|=%0Y$"
 TACTIC_CURRENTLY_COUNTERED:0	"§RDie Taktik wurde abgewehrt!§!"

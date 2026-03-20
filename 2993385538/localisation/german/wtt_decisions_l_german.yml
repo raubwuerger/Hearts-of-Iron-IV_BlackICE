@@ -192,932 +192,461 @@ women_in_the_workforce_desc:0	"Während die Männer in den Krieg ziehen, arbeite
 scientist_refuge:0	"Zuflucht von Wissenschaftlern"
 scientist_refuge_desc:0	"Angesichts des derzeitigen politischen Klimas in Europa hat eine Reihe von Wissenschaftlern beschlossen, ihr Heimatland zu verlassen. Sie haben in unserem Land ein Einreisevisum beantragt. Die Gewährung eines solchen Visums wird uns einen Bonus für die Forschung verschaffen, aber auch einige Leute verärgern, die der Meinung sind, dass dies eine innere Angelegenheit ist, in die wir uns nicht einmischen sollten."
 give_refuge_ger:0	"Deutschen Wissenschaftlern Zuflucht gewähren"
-
 give_refuge_ita:0	"Italienischen Wissenschaftlern Zuflucht gewähren"
 give_refuge_ita_desc:	"$give_refuge_ger_desc$"
-
 GER_weserubung_sud:0	"Weserübung-Süd"
 GER_weserubung_sud_desc:0	"Um einen guten Aufmarschplatz für die Invasion Norwegens zu erhalten, müssen wir zuerst auf Dänemark vorrücken."
-
-
 GER_case_yellow_netherlands:0	"Fall Gelb - Niederlande"
 GER_case_yellow_netherlands_desc:0	"Ein Angriff über Belgien zwingt uns, eine zu enge Front zu durchbrechen. Wir müssen unseren Kriegsplan um die Niederlande erweitern, um die Fehler von 1914 zu vermeiden."
-
-
 GER_polish_ultimatum:0	"Stellen Sie das Ultimatum an Polen"
 SOV_industry_relocation:0	"Verlagerung der Industrie"
-
-
 SOV_relocate_industry_from_moscow_tt:0	"§RDiese Auswirkungen erfordern die Kontrolle Moskaus, wenn die Entscheidung ausläuft.§!"
 SOV_relocate_industry_from_moscow_outskirts:0	"Verlegung der Industrie aus Obinsk"
-
-
 SOV_relocate_industry_from_moscow_outskirts_2:0	"Verlagerung der Industrie aus Serpuchos-Podolsk "
 SOV_relocate_industry_from_moscow_outskirts_2_desc:0	"Die Evakuierung der schweren Maschinen unserer Moskauer Fabriken in den Ural ist ein gewaltiges Unterfangen, aber es ist notwendig, um unsere Kriegsproduktion zu sichern."
-
-
 SOV_relocate_industry_from_kharkov_desc:0	"Die Evakuierung der schweren Maschinen unserer Charkower Fabriken in den Ural ist ein gewaltiges Unterfangen, aber es ist notwendig, um unsere Kriegsproduktion zu sichern."
 SOV_relocate_industry_from_kharkov_tt:0	"§RDiese Auswirkungen erfordern die Kontrolle über Charkow, wenn die Entscheidung ausläuft.§!"
-
-
 SOV_relocate_industry_from_kiev_tt:0	"§RDiese Auswirkungen erfordern die Kontrolle über Kiew, wenn die Entscheidung ausläuft.§!"
 SOV_relocate_industry_from_stalino:0	"Verlagerung der Industrie aus Stalino"
-
-
 SOV_relocate_industry_from_leningrad:0	"Verlagerung der Industrie aus Leningrad"
 SOV_relocate_industry_from_leningrad_desc:0	"Die Evakuierung der schweren Maschinen unserer Leningrader Fabriken in den Ural ist ein gewaltiges Unterfangen, aber es ist notwendig, um unsere Kriegsproduktion zu sichern."
-
-
 SOV_relocate_industry_from_smolensk_desc:0	"Die Evakuierung der schweren Maschinen unserer Smolensker Fabriken in den Ural ist ein gewaltiges Unterfangen, aber es ist notwendig, um unsere Kriegsproduktion zu sichern."
 SOV_relocate_industry_from_smolensk_tt:0	"§RDiese Auswirkungen erfordern die Kontrolle über Smolensk, wenn die Entscheidung ausläuft.§!"
-
-
 SOV_relocate_industry_from_voronezh_tt:0	"§RDiese Auswirkungen erfordern die Kontrolle von Woronesch, wenn die Entscheidung ausläuft.§!"
 SOV_relocate_industry_from_tula:0	"Verlagerung der Industrie aus Tula"
-
-
 SOV_relocate_industry_from_stalingrad:0	"Verlagerung der Industrie aus Stalingrad"
 SOV_relocate_industry_from_stalingrad_desc:0	"Die Evakuierung der schweren Maschinen unserer Stalingrader Fabriken in den Ural ist ein gewaltiges Unterfangen, aber es ist notwendig, um unsere Kriegsproduktion zu sichern."
-
-
 ROOT_div_in_state_TT:0	"Mindestens §Y1§! Division in §YProvinz§!"
 SOV_order_227:0	"Befehl 227"
-
-
 SOV_remove_order_227_desc:0	"Es ist an der Zeit, Befehl 227 aufzuheben."
 SOV_scorched_earth:0	"Taktik der verbrannten Erde einführen"
-
-
 SOV_operation_uranus_desc:0	"Die Operation Uranus fand während der Schlacht um Stalingrad statt und kesselte mehr als 300000 Achsenmächte in der Stadt selbst ein."
-
-
 SOV_rschew_wjasma_operation:0	"Operation Rschew Wjasma"
-
 SOV_kutuzov_offensive:0	"Kutusow-Offensive"
-
 SOV_suvorov_offensive:0	"Suworow-Offensive"
-
 SOV_operation_bagragation:0	"Operation Bagragation"
-
 GER_take_moscow:0	"Erlangung der Kontrolle über [845.GetName]"
-
-
 GER_take_leningrad_desc:0	"Leningrad, die Geburtsstätte des kommunistischen Parasiten, muss unter deutsche Kontrolle gebracht werden."
 GER_take_stalingrad:0	"Ergreifen Sie die Kontrolle über [217.GetName]"
-
 SOV_scorched_earth_western_ukraine:0	"Führen Sie verbrannte Erde in der Westukraine aus"
-
-
 SOV_scorched_earth_central_ukraine:0	"Führt Verbrannte Erde in der Zentralukraine aus"
-
-
 SOV_scorched_earth_eastern_ukraine:0	"Führt verbrannte Erde in der Ostukraine aus"
-
-
 SOV_scorched_earth_caucasus_region:0	"Führen Sie Verbrannte Erde im Kaukasus aus"
-
-
 SOV_scorched_earth_kuban_region:0	"Führen Sie verbrannte Erde in der Kuban-Region aus"
-
-
 SOV_scorched_earth_baltics:0	"Führt verbrannte Erde im Baltikum aus"
-
-
 SOV_scorched_earth_moscow:0	"Verbrannte Erde bei Moskau ausführen"
-
-
 SOV_scorched_earth_byelorussia:0	"Verbrannte Erde in Weißrussland ausführen"
-
-
 SOV_scorched_earth_stalingrad:0	"Verbrannte Erde an den Zufahrten nach Stalingrad ausführen"
 SOV_scorched_earth_byelorussia_desc:0	"Wir können die Infrastruktur nur in Staaten sabotieren, in denen es noch sowjetische Divisionen gibt."
-
 SOV_scorched_earth_stalingrad_desc:0	"Wir können nur die Infrastruktur in Staaten sabotieren, in denen noch sowjetische Divisionen stehen."
-
 SOV_scorched_earth_kursk_area:0	"Führt verbrannte Erde in der Region Kursk aus"
-
-
 SOV_scorched_earth_smolensk:0	"Führen Sie Verbrannte Erde in der Region Smolensk aus"
-
-
 SOV_winter_offensive:0	"Sowjetische Winteroffensive"
-
 reinstate_wilhelm_iv_succession_rights:0	"Wiederherstellung des Erbrechts von Prinz Wilhelm"
-
-
 modernize_the_succession_laws:0	"Modernisierung der Erbschaftsgesetze"
 modernize_the_succession_laws_desc:0	"Der Sohn des jetzigen Kaisers, der künftige Wilhelm IV, hat nur zwei Töchter als Erben. Die Thronfolge muss gesichert werden, und deshalb muss das Erbrecht modernisiert werden, damit Prinzessin Felicitas zu gegebener Zeit regieren kann."
-
-
 request_restoration_of_british_titles_desc:0	"1917 beschloss das britische Parlament, alle britischen Adelstitel und königlichen Titel von deutschen Königs- und Fürstenfamilien zu entziehen. Jetzt, da wir Verbündete sind und uns ausgezeichneter Beziehungen erfreuen, ist es vielleicht an der Zeit, die Rückgängigmachung dieser Entscheidung zu fordern."
 hindenburg_destroyed_tt:0	"Die Hindenburg ist §YNOT§! zerstört.\n"
-
-
 GER_request_polish_war_participation_desc:0	"Da wir uns im Krieg mit [SOV.GetName] befinden, verlangen wir, dass unsere Armeen durch [POL.GetAdjective]-Gebiet ziehen. Da wir geschworen haben, sie zu schützen, ist es nur natürlich, dass sie sich unserem Krieg anschließen."
 GER_reform_austro_hungarian_empire:1	"Neuformierung von Österreich-Ungarn"
-
-
 GER_barbarossa_mission:0	"Führerdirektive 21"
 emergency_factory_conversion_defensive:0	"Notumbau der Fabriken"
-
-
 emergency_factory_conversion_offensive_desc:0	"Unsere Truppen brauchen dringend mehr Ausrüstung. Es werden mehr Fabriken benötigt, um die Ausrüstung zu produzieren, die wir brauchen, um den Krieg zu gewinnen."
 demolish_enemy_fortifications:0	"Feindliche Befestigungen abreißen"
-
-
 war_propaganda:0	"Kriegspropaganda"
 war_propaganda_desc:0	"Während die Welt um uns herum brennt, ist unser Volk auf den Krieg nicht vorbereitet. Wir müssen sie dazu bringen, für unser Land zu den Waffen zu greifen."
-
-
 war_bonds:0	"Kriegsanleihen"
 war_bonds_desc:0	"Wir brauchen mehr Mittel für unsere Kriegswirtschaft, und Kriegsanleihen sind genau der richtige Weg, um diese zu beschaffen."
-
-
 CHI_industrial_evacuations_from_beijing:0	"Evakuierung der Industrie aus Peking"
 GER_barbarossa_mission_desc:0	"Die Wehrmacht muss darauf vorbereitet sein, Sowjetrussland in einem schnellen Feldzug zu zerschlagen. Der größte Teil der russischen Armee wird durch kühne Operationen unter Führung gepanzerter Speerspitzen vernichtet werden."
-
-
 USA_homeland_defense_desc:1	"Der Feind hat einen Fuß auf den Boden unserer stolzen Nation gesetzt. Das amerikanische Volk wird sich erheben und die Invasoren zurück ins Meer treiben!"
 USA_operation_torch_decision:0	"Start der Operation Torch"
-
-
 USA_establish_personal_communication_with_former_naval_person:0	"Korrespondenz mit ehemaligem Marinesoldaten"
 USA_establish_personal_communication_with_former_naval_person_desc:0	"Ein neuer Anführer hat die Rolle des Ersten Ministers in [ENG.GetName] übernommen. Wir müssen einen persönlichen Dialog mit ihm aufnehmen, der uns hilft, unseren unvermeidlichen Kriegseintritt vorzubereiten und zu koordinieren."
-
-
 USA_liberia_desc:0	"Um eine ständige Versorgung mit Kautschuk von der weltgrößten Kautschukplantage, die seit 1926 von der Firestone Company in Harbel betrieben wird, zu gewährleisten, baute die US-Regierung im ganzen Land Straßen, richtete einen internationalen Flughafen (den Robertsfield Airport) ein und gestaltete die Hauptstadt Monrovia durch den Bau eines Tiefseehafens (den Freeport of Monrovia) um."
 USA_battle_domestic_isolationism_desc:0	"Wenn es nach dem Willen der Isolationisten ginge, wären wir gegenüber jeder feindlichen Nation schutzlos. In unserem eigenen Interesse müssen wir damit beginnen, die vorherrschende isolationistische Rhetorik zu dekonstruieren."
-
-
 USA_arsenal_of_democracy_decision:0	"Arsenal der Demokratie"
 USA_arsenal_of_democracy_decision_desc:0	"Auch wenn wir noch nicht in den Konflikt hineingezogen werden, können wir unseren Freunden helfen, indem wir ihr Waffenarsenal sind. Lassen Sie uns den Menschen verständlich machen, warum dies notwendig ist."
-
-
 CAN_women_in_the_workforce:0	"Ronnie das Bren Gun Girl"
 CAN_women_in_the_workforce_desc:0	"Ronnie sagt: \"Keep 'em Coming!\" Da unsere Männer in der Armee dienen, ruht die Last unserer Militärproduktion auf den Schultern der Frauen unserer Nation. Im Laufe des Krieges übernahmen 800.000 kanadische Frauen die Aufgaben, die die Soldaten hinter sich gelassen hatten, und bewiesen damit, dass Frauen die Arbeit genauso gut erledigen konnten wie Männer."
-
-
 CHI_integrate_the_administration:1	"Integrieren Sie die [From.GetAdjective] Verwaltung"
 CHI_full_integration:1	"Vollständige Integration von [From.GetNameDef]"
-
-
 CHI_communist_infiltration_none:0	"\n§HWir haben keine kommunistische Infiltration entdeckt.§!"
 CHI_communist_infiltration_states:0	"\n§HStaaten mit bekannter kommunistischer Infiltration:§![283.GetNameIfInfiltration][597.GetNameIfInfiltration][598.GetNameIfInfiltration][607.GetNameIfInfiltration][608.GetNameIfInfiltration][614.GetNameIfInfiltration][615.GetNameIfInfiltration][621.GetNameIfInfiltration][744.GetNameIfInfiltration][746.GetNameIfInfiltration]."
-
-
 CHI_communist_infiltration_state_598:0	" [598.GetName][598.GetCommaIfMoreInfiltration]"
 CHI_communist_infiltration_state_607:0	" [607.GetName][607.GetCommaIfMoreInfiltration]"
-
-
 CHI_communist_infiltration_state_615:0	" [615.GetName][615.GetCommaIfMoreInfiltration]"
 CHI_communist_infiltration_state_621:0	" [621.GetName][621.GetCommaIfMoreInfiltration]"
-
-
 CHI_communist_infiltration_state_comma:0	","
 CHI_join_united_front:0	"Sich der Vereinigten Front anschließen"
-
-
 detect_infiltration:0	"Antikommunistische Säuberung"
 PRC_infiltrate_gansu:0	"Gansu infiltrieren"
-
-
 PRC_infiltrate_henan:0	"Unterwanderung Henan"
 PRC_infiltrate_beijing:0	"Infiltrieren Peking"
-
-
 PRC_infiltrate_suiyuan:0	"Unterwandern Suiyuan"
 PRC_infiltrate_ordos:0	"Infiltrieren Ordos"
-
-
 PRC_infiltrate_uprising_header:0	"Ein §HU-Aufstand§! hat folgende Auswirkungen:\n"
 PRC_infiltrate_uprising_effect_1:0	"§HInfrastruktur§! und §HMilitärische Fabriken§! werden sabotiert.\n"
-
-
 PRC_infiltrate_uprising_effect_4:0	"Kommunistische Elitedivisionen werden im Staat erscheinen.\n"
 PRC_can_be_infiltrated:0	"Kann weiter §HInfiltriert§! werden.\n"
-
-
 PRC_border_defense_south:0	"Verstärkung der südlichen Grenze"
 PRC_border_defense_south_desc:0	"Die KMT und ihre Verbündeten, die Warlords, bleiben eine ernsthafte Bedrohung für uns. Wir müssen sicherstellen, dass unsere Streitkräfte für jede Offensive aus dem Süden bereit sind."
-
-
 PRC_border_defense_west:0	"Verstärkung der westlichen Grenze"
 PRC_border_defense_west_desc:0	"Dem Kriegsherrn Ma ist nicht zu trauen, wir tun gut daran, unsere Grenze im Norden zu befestigen, um für alle seine Tricks gewappnet zu sein."
-
-
 CHI_communist_infiltration_in_gansu:0	"Kommunistische Infiltration in Gansu"
 CHI_communist_infiltration_in_shandong:0	"Kommunistische Unterwanderung in Shandong"
-
-
 CHI_communist_infiltration_in_beijing:0	"Kommunistische Infiltration in Peking"
 CHI_communist_infiltration_in_hebei:0	"Kommunistische Infiltration in Hebei"
-
-
 CHI_communist_infiltration_in_xian:0	"Kommunistische Infiltration in Xian"
 CHI_communist_infiltration_in_ordos:0	"Kommunistische Infiltration in Ordos"
-
-
 CHI_xian_incident:0	"Der Xi'an-Zwischenfall"
 CHI_instigate_xian_incident:0	"Einladen [CHI.GetLeader]"
-
-
 foreign_support:0	"Ausländische Unterstützung"
 CHI_flying_tigers:0	"Entsenden Sie die Flying Tigers"
-
-
 soviet_volunteers_tt:0	"Wird von uns 100 Jäger und 50 Bomber erhalten.\n"
 CHI_expand_the_burma_road:0	"Ausbauen der Burma Road"
-
-
 PRC_infiltrate_east_hebei:0	"Infiltrieren Sie Ost-Hebei"
 PRC_infiltrate_jehol:0	"Infiltrieren Sie Jehol"
-
-
 PRC_infiltrate_heilungkiang:0	"Unterwanderung Heilungkiang"
 PRC_infiltrate_liaoning:0	"Infiltration Liaoning"
-
-
 PRC_uprising:0	"Start des kommunistischen Aufstandes"
 CHI_communist_uprising:0	"Status der kommunistischen Infiltration"
-
-
 communist_uprising:0	"Kommunistischer Aufstand"
 communist_infiltration_in_east_hebei:0	"Kommunistische Infiltration in Ost-Hebei"
-
-
 communist_infiltration_in_chahar:0	"Kommunistische Infiltration in Chahar"
 communist_infiltration_in_heilungkiang:0	"Kommunistische Infiltration in Heilungkiang"
-
-
 GER_aid_hun_democratic_civil_war:0	"Eingreifen in den ungarischen Bürgerkrieg"
 GER_aid_rom_democratic_civil_war:0	"Eingreifen in den rumänischen Bürgerkrieg"
-
-
 GER_mefo_bills_category_desc:0	"Um unsere wachsende Rüstungsindustrie zu finanzieren und dies vor den Augen der Briten und Franzosen geheim zu halten, waren wir gezwungen, unsere Zahlungen in Form von Schuldscheinen an einen Bilanzträger zu leiten. Wenn wir unsere politischen Verbindungen nicht nutzen, um die Fälligkeit dieser Wechsel zu verlängern, werden wir gezwungen sein, sie zurückzuzahlen, und wir werden nicht mehr in den Genuss ihrer Vorteile kommen."
 GER_mefo_bills_mission:0	"Fällige MEFO-Rechnungen"
-
-
 GER_extend_mefo_bills:0	"MEFO-Rechnungen"
 GER_extend_mefo_bills_desc:0	"Verlängern Sie die Fälligkeit der MEFO-Rechnungen um weitere 3 Monate, so dass wir weiterhin in den Genuss ihrer Vorteile kommen. Dadurch erhöhen sich jedoch auch die Kosten für unsere eventuellen Zahlungen."
-
-
 GER_mefo_bills_effect_in_days:1	"Folgendes wird in [?Root.days_mission_timeout@GER_mefo_bills_mission|H0] Tagen passieren:\n"
 GER_mefo_bills_extension_timer:0	"Vor dem Fälligkeitsdatum der MEFO-Rechnungen."
-
-
 GER_renew_mefos:0	"MEFO-Rechnungen verlängern"
 GER_renew_mefos_desc:0	"Die Reichsbank ist entscheidend für den Wiederaufbau und die Wiederbewaffnung unserer Nation. Es ist klar, dass wir bei unserer Entscheidung, unsere Schulden zu tilgen, einen Fehler gemacht haben, und wir sollten die MEFO-Rechnungen um ein paar Monate verlängern."
-
-
 GER_military_buildup:0	"Militärische Aufrüstung"
 GER_military_buildup_desc:0	"In der deutschen Wehrmacht vor und während des Zweiten Weltkriegs wurden Infanteriedivisionen im Rahmen einer bestimmten Aufstellungswelle oder Welle aufgestellt, die manchmal mit "Einberufung" übersetzt wird. Das System der Aufstellungswelle wurde Ende 1938 von der Wehrmacht übernommen. Die erste Welle waren Friedenseinheiten, es folgten 34 weitere Wellen bis zur 35. Welle im April 1945. Es gab verschiedene Arten von Divisionen, die durch die Aufstellungswelle organisiert wurden, darunter Infanterie-, Sicherheits-, Schatten- und Volksgrenadierdivisionen."
-
-
 GER_case_anton:1	"Ausführen von Fall Anton"
 GER_case_anton_desc:0	"Unser Marionettenstaat in Frankreich hat seinen Nutzen überlebt. Wir werden sofort mit der Integration in die [Root.GetName] beginnen, und wenn wir schnell genug vorgehen, können wir vielleicht sogar die Reste der französischen Flotte beschlagnahmen."
-
-
 GER_case_red:0	"Fall Rot"
 GER_operation_marita:0	"Unternehmen Marita"
-
-
 legalize_fascism_party:0	"Faschismus legalisieren"
 legalize_fascism_party_desc:0	""
-
-
 ban_fascist_party_tt:1	"Veränderung der Popularität des Faschismus: §G-§![?.Root.party_popularity@fascism|%0G].\n"
 ban_democratic_party:1	"Demokratische Parteien verbieten"
-
 ban_democratic_party_trigger:	"Weniger als [?0.2|Y0%] für demokratische Parteien ([?t|0%])"
-
 ban_communist_party:0	"Kommunistische Parteien verbieten"
 ban_communist_party_desc:0	"Die Kommunistische Partei hat bei jeder Gelegenheit gegen die Regierung protestiert, Unzufriedenheit gesät und das Regieren erschwert. Es ist an der Zeit, gegen sie vorzugehen."
 ban_communist_party_tt:1	"Veränderung in der Popularität der Kommunisten: §G-§![?.Root.party_popularity@communism|%0G].\n"
-
-
-
 anti_fascist_raids_desc:0	"Im Interesse der langfristigen inneren Stabilität müssen wir gegen faschistische Elemente in unserem Land vorgehen. Ihr Einfluss ist zu groß und kann zu einem Problem für die Regierung werden."
 anti_democratic_raids:0	"Antidemokratische Razzien"
 anti_democratic_raids_desc:0	"Wir müssen gegen demokratische Elemente in unserem Land vorgehen, um die langfristige Stabilität im Land zu gewährleisten. Ihr Einfluss ist zu groß und kann zu einem Problem für den Staat werden."
-
-
-
 anti_monarchist_raids_desc:0	"Wir müssen gegen monarchistische Elemente in unserem Land vorgehen, um die langfristige innere Stabilität zu gewährleisten. Ihr Einfluss ist zu groß und kann zu einem Problem für die Regierung werden."
 anti_agrarianism_raids:0	"Anti-Agrar-Razzien"
 anti_agrarianism_raids_desc:0	"Wir müssen im Interesse der langfristigen innenpolitischen Stabilität gegen agrarische Elemente in unserem Land vorgehen. Ihr Einfluss ist zu groß und kann zu einem Problem für die Regierung werden."
-
-
-
 anti_neutrality_raids_desc:0	"Wir müssen gegen monarchistische Elemente in unserem Land vorgehen, um die langfristige innere Stabilität zu gewährleisten. Ihr Einfluss ist zu groß und kann zu einem Problem für die Regierung werden."
 anti_conservatism_raids:0	"Anti-Konservative Razzien"
 anti_liberalism_raids:0	"Antiliberale Razzien"
-
-
-
 object_to_attaches:0	"Einspruch gegen Attaché"
 object_to_attaches_desc:0	"Unsere Feinde erhalten ausländische Hilfe! Wir müssen energisch Einspruch erheben und die Entfernung aller Attachés fordern."
 infrastructure_building_slot:0	"Regionweite industrielle Integration"
-
-
-
 special_projects:0	"Besondere Projekte"
 CHI_xian_fired:0	"Chinesische Staatsoberhäupter nach Xi'an eingeladen"
 JAP_intervene_in_china_level_down:0	"In China intervenieren Stufe verringern"
-
-
-
 JAP_conquer_china:0	"Eroberung Chinas"
 JAP_release_korea:0	"Koreanische Unabhängigkeit"
 JAP_southern_expansion:0	"Südliche Expansion"
-
-
-
 JAP_sue_for_peace_MAN:0	"Biete Kapitulationsbedingungen für [From.GetNameDef]"
 JAP_sue_for_peace_MAN_desc:0	"Wir haben unseren Einfluss auf das Festland verloren. Das Militär hält es für unwahrscheinlich, dass wir in der Lage sein werden, die verlorenen Gebiete zurückzugewinnen. Die zivile Regierung schlägt vor, dass wir uns um Bedingungen bemühen sollten, um zumindest unsere Souveränität über die Inseln zu behalten."
 JAP_sue_for_peace_nuke:0	"Bedingungslose Kapitulation anbieten"
-
-
-
 JAP_request_soviet_support:0	"Bitte um sowjetische Unterstützung"
 JAP_request_soviet_support_desc:0	"Wir benötigen Unterstützung in unserem derzeitigen Bürgerkrieg, und die nächsten wahrscheinlichen Unterstützer unserer Sache sind die Sowjets in unserem Norden. Vielleicht könnten wir die südliche Halbinsel Sachalin gegen eine Gruppe sowjetischer Freiwilligendivisionen eintauschen."
 JAP_nuke_1:0	"Erster Nuklearschlag gegen Japan ausgeführt"
-
-
-
 JAP_break_the_london_naval_treaty:0	"Bruch des Londoner Flottenabkommens"
 JAP_break_the_london_naval_treaty_desc:0	"Die unverschämten Beschränkungen des Londoner Flottenabkommens sind eine Bedrohung für die Sicherheit unserer Nation. Wir müssen die Freiheit haben, eine Marine zu bauen, die es mit jeder Nation aufnehmen kann, die uns unser Recht streitig machen will."
 JAP_war_with_soviet_union:0	"Erklären Sie der Sowjetunion den Krieg"
-
-
-
 JAP_reorginized_china_instatement2:0	"Aufbau eines reorganisierten nationalistischen Chinas"
 JAP_reorginized_china_instatement2_desc:0	"Richten Sie ein reorganisiertes nationalistisches China ein, um lokale Angelegenheiten in den neu erworbenen chinesischen Staaten zu regeln. Dies wird die Auswirkungen von Partisanenaktivitäten stark reduzieren und Japan dazu bringen, den National Spirit §RLure-Them-In Guerillas§! zu vermeiden."
 JAP_reorginized_china_instatement3:0	"Übergabe des Territoriums an das reorganisierte nationalistische China"
-
-
-
 JAP_install_Indonesia_puppet_desc:0	"Teilen und erobern"
 JAP_walkout_tooltip:0	"Dies wird uns aus dem Völkerbund herausdrängen §R(-5 Stabilität)§!"
 JAP_walkout_tooltip_desc:0	"Wir haben die anderen Mitgliedsnationen zu sehr verärgert, indem wir Verträge gebrochen und die Spannungen in der Region verschärft haben."
-
-
-
 JAP_border_conflict_warning_SHX_desc:0	""
 JAP_border_conflict_escalation_warning_SHX:0	"Eskalieren Sie den Shanxi-Grenzkonflikt"
 JAP_border_conflict_escalation_warning_SHX_desc:0	"(Platziere die MEN/MAN-Expeditionsstreitkräfte und schicke sie zurück, bevor du sie aktivierst)"
-
-
-
 JAP_escalate_incident_to_border_conflict_SHX_desc:0	"(Platziere die MEN/MAN-Expeditionsstreitkräfte und schicke sie zurück, bevor du sie aktivierst)"
 JAP_border_conflict_time_until_cancelled_SHX:0	"Der Shanxi-Grenzkonflikt"
 JAP_border_conflict_time_until_cancelled_SHX_desc:0	""
-
-
-
 JAP_border_conflict_escalate_to_war_SHX_desc:0	""
 JAP_border_conflict_back_out_of_conflict_SHX:0	"Rückzug aus dem Shanxi-Grenzkonflikt"
 JAP_border_conflict_back_out_of_conflict_SHX_desc:0	""
-
-
-
 prospect_for_resources_desc:0	"Unsere Geologen haben eine Reihe von vielversprechenden Rohstoffvorkommen in unseren Territorien gefunden. Wir können etwas Kapital ausgeben, um diese Felder zu erschließen. Fortschritte in der Fördertechnik könnten weitere Vorkommen für die Ausbeutung nutzbar machen."
 economy_decisions:0	"Wirtschaftspolitik"
-
-
-
 STRIKE_HIGH:0	" §RHoch§!"
 remove_labor_laws:0	"Schließt §YArbeitsvorschriften für Frauen§!\n sofort ab"
-
-
-
 JAP_return_manchuria:0	"Rückgabe der Mandschurei"
 PRC_return_manchuria_communist:0	"Fordern Sie die Rückgabe der Mandschurei"
 PRC_return_manchuria_communist_desc:0	"Die japanischen Imperialisten haben die Mandschurei ihren rechtmäßigen Eigentümern - dem freien chinesischen Volk - weggenommen. Nun, da unsere Genossen in Japan die Unterdrücker gestürzt haben, sollten wir fordern, dass sie dem Volk zurückgegeben wird."
-
-
-
 JAP_steel_for_guns:0	"Stahl für Kanonen bevorzugen"
 JAP_steel_for_ships:0	"Stahl für Schiffe bevorzugen"
 JAP_raiding_regiments:0	"Raubregimenter bilden"
-
-
-
 JAP_prioritize_naval_aircraft_construction:0	"Vorrang für den Bau von Marinefliegern"
 JAP_prioritize_army_aircraft_construction:0	"Vorrang für den Bau von Heeresflugzeugen"
 JAP_favor_navy:0	"Bevorzugung der Marine"
-
-
-
 war_propaganda_against_tension_desc:0	"Wir müssen uns gegen die Bedrohung durch [From.GetName] wehren. Unsere Nation ist darauf angewiesen, dass jeder Mann seinen Teil zu unserer Sicherheit beiträgt."
 war_propaganda_against_warmonger:1	"Kriegspropaganda gegen [From.GetName]"
 war_propaganda_against_warmonger_desc:0	"Die Nation ruft nach jedem Mann, jeder Frau und jedem Kind. Ein Krieg wie der von [From.GetName] könnte auch hier stattfinden."
-
-
-
 JAP_develop_ulan_ude_aluminium_deposits:1	"Erschließung der Bauxitvorkommen von Ulan Ude"
 JAP_develop_tonkin_aluminium_deposits:1	"Erschließung der Bauxitvorkommen in Tonkin"
 JAP_develop_singapore_aluminium_deposits:1	"Erschließung der Bauxitvorkommen in Singapur"
-
-
-
 JAP_develop_nauru_tungsten_deposits:0	"Erschließung der Nauru-Wolfram-Lagerstätten"
 JAP_develop_shandong_aluminium_deposits:1	"Erschließung der Bauxitvorkommen in Shandong"
 JAP_develop_sichuan_aluminium_deposits:1	"Erschließung der Bauxitvorkommen in Sichuan"
-
-
-
 develop_singapore_aluminium_deposits:0	"Erschließung der Bauxitvorkommen in Singapur"
 develop_luzon_chromium_deposits:0	"Erschließung der Luzon-Chrom-Lagerstätten"
 develop_mindanao_steel_deposits:0	"Erschließung der Eisenerzlagerstätten auf Mindanao"
-
-
-
 develop_sichuan_aluminium_deposits:0	"Erschließung der Bauxitvorkommen in Sichuan"
 develop_yunnan_aluminium_deposits:0	"Erschließung der Bauxitvorkommen in Yunnan"
 develop_kirin_aluminium_deposits:0	"Erschließung der Bauxitvorkommen in Kirin"
-
-
-
 develop_arkansas_aluminium_deposits:0	"Erschließung der Arkansas-Bauxitvorkommen"
 develop_new_york_aluminium_deposits:0	"Entwicklung der Aluminiumproduktion in New York"
 develop_tennessee_aluminium_deposits:0	"Erschließung der Aluminiumproduktion in Tennessee"
-
-
-
 develop_wyoming_coal_deposits:0	"Erschließen der Kohlevorkommen in Wyoming"
 develop_west_virginia_coal_deposits:0	"Erschließen der Kohlevorkommen in West Virginia"
 develop_utah_coal_deposits:0	"Entwickeln der den Kohlebergbau in Utah"
-
-
-
 develop_minnesota_steel_deposits:0	"Ausbau der Eisenerzbergwerke in Minnesota"
 develop_indiana_steel_deposits:0	"Ausbau der Eisenerzbergwerke in Indiana"
 develop_ohio_steel_deposits:0	"Ausbau der Eisenerzbergwerke in Ohio"
-
-
-
 develop_newfoundland_steel:0	"Ausbau der Eisenerzgruben in Neufundland"
 develop_friesland_oil_fields:0	"Erschließung der Ölfelder in Friesland"
 develop_ems_oil_fields:0	"Erschließung der Emsland-Ölfelder"
-
-
-
 develop_madagascar_rubber_plantations_2:1	"Erweiterung der Kautschukplantagen in Madagaskar"
 develop_liberia_rubber_plantations:0	"Ausbau der Firestone Natural Rubber Company"
 develop_west_africa_aluminium_deposits:0	"Ausbeutung von Bauxitvorkommen in Westafrika"
-
-
-
 develop_sirte_oil_fields:0	"Erschließung der Ölfelder in der Region Sirte"
 develop_matzen_oil_fields:0	"Erschließung der Matzen-Ölfelder"
 develop_daqing_deposits:0	"Erschließung der Daqing-Ölfelder"
-
-
-
 expand_eregli_steel_works:0	"Ausbau der Eregli Eisenerzbergwerke"
 develop_liaotung_iron_ore_deposits:0	"Erschließung der Liaotung-Eisenerzvorkommen"
 move_leningrad_aluminium_plant:0	"Evakuierung der Leningrader Bauxitmine"
-
-
-
 develop_cornwall_tungsten_deposits_1:0	"Erschließung der Wolframmine Drakelands"
 develop_cornwall_tungsten_deposits_2:0	"Ausbau des Wolframbergwerks Drakelands"
 develop_caucasus_tungsten_deposits_1:0	"Erschließung der Wolframminen im Kaukasus"
-
-
-
 develop_zlatoust_steel_deposits_1:0	"Bau einer Eisenerzminemine in Zlatoust"
 develop_zlatoust_steel_deposits_2:0	"Erweiterung der Eisenerzmine in Zlatoust"
 develop_kursk_steel_deposits:0	"Erschließung der Eisenerzminen bei Kursk"
-
-
-
 develop_Belgorod_steel_deposits_2:0	"Ausbau der Eisenerzgruben bei Belgorod"
 develop_Belgorod_steel_deposits_3:0	"Tagebau-Eisenerzlagerstätten bei Belgorod"
 develop_uralsk_chromium_deposits_1:0	"Erschließung der Uralsker Chrombergwerke"
-
-
-
 develop_tuscany_iron_deposits:0	"Erweitern Sie die Eisenminen in der Toskana"
 develop_sardinia_coal_deposits:0	"Erweitern Sie den Kohlebergbau auf Sardinien"
 develop_piedmont_coal_deposits:0	"Entwickeln Sie den Kohlebergbau im Piemont"
-
-
-
 develop_ili_oil:0	"Erschließung der Ili-Ölfelder"
 develop_vestlandet_aluminium_deposits:0	"Ausbau der Bauxitminen in Vestlandet"
 develop_ostlandet_aluminium_deposits:0	"Erweiterung der Bauxitminen in Østlandet"
-
-
-
 develop_north_malay_aluminium_deposits:0	"Erschließung von Bauxitminen in Nord-Malay"
 develop_south_malay_aluminium_deposits:0	"Erschließung der Bauxitminen in Südmalaysia"
 develop_hungary_aluminium_deposits:0	"Ausbau der Bauxitminen in Nordungarn"
-
-
-
 develop_south_tyrol_aluminium_deposits:0	"Bauxitminen in Südtirol ausbauen"
 develop_emilia_romagna_aluminium_deposits:0	"Erweitern Sie die Bauxitmine in der Emilia Romagna"
 develop_guyana_aluminium_deposits:0	"Bauxit-Mine in Britisch-Guyana erweitern"
-
-
-
 develop_west_midlands_coal_deposits:0	"Kohlevorkommen in den West Midlands ausbeuten"
 develop_wales_coal_deposits:0	"Entwickeln Sie Kohlebergwerke in Wales"
 develop_western_australian_coal_deposits:0	"Kohlebergwerke in Westaustralien entwickeln"
-
-
-
 develop_transvaal_coal_deposits:	"Kohlebergwerke in Transvaal erweitern"
 develop_cundinamarcan_coal_deposits:	"Offene Kohlebergwerke in Cundinamarcan"
 develop_algerian_iron_ore_deposits:	"Algerische Erzminen" 
-
-
-
 CHI_needed_for_burma_road:0	"Erforderlich für die Burma Road"
 CHI_needed_for_ledo_road:0	"Notwendig für die Ledo Road"
 CHI_needed_the_hump:1	"Benötigt für die Hump-Luftbrücke"
-
-
-
 CHI_close_ledo_road:0	"Schließt die Ledo Road"
 close_ledo_road_explanation:0	"Sie verlieren den Zugriff auf §Y[?THIS.CHI_ledo_road_current_level]§! Kostenlose Militärfabrik, bis die Straße wieder geöffnet wird.\n"
 CHI_close_hanoi_route:0	"Schließt die Hanoi-Route"
-
-
-
 CHI_reopen_burma_road:0	"Wiedereröffnung der Burma Road"
 reopen_burma_road_explanation:0	"Sie erhalten Zugang zu §Y[?THIS.CHI_burma_road_closed_level]§! freien Militärfabriken.\n"
 CHI_reopen_ledo_road:0	"Wiedereröffnung der Ledo Road"
-
-
-
 CHI_burma_road_reopen_state:0	"Eröffnen Sie die Burma Road in diesem Zustand wieder.\n"
 CHI_burma_road_closed_state:0	"Burma Road in diesem Bundesstaat geschlossen."
 CHI_ledo_road_reopen_state:0	"Ledo Road in diesem Bundesstaat wiedereröffnen.\n"
-
-
-
 CHI_build_a_carrier:0	"Baue einen Flugzeugträger"
 USA_support_the_anti_fascist_war:0	"Unterstützen Sie den Antifaschistischen Krieg"
 USA_support_the_anti_fascist_war_flag:0	"Unterstützt bereits den Antifaschistischen Krieg"
-
-
-
 CHI_internal_party_support_neutrality:0	"Interne Partei-Unterstützung"
 CHI_internal_party_support_democratic:0	"Interne Partei-Unterstützung"
 CHI_aggresive_prosecution_of_opposition_fascism:0	"Aggressive Verfolgung der Opposition"
-
-
-
 crisis_in_progress:0	"Anhaltende Krise"
 crisis_solution_in_progress:0	"Es wird bereits versucht, die Krise zu lösen."
 crisis_solution_in_progress_cost:0	"Krisenlösung im Gange"
-
-
-
 lack_of_fuel_mission_TT:0	"Hat genug §YTreibstoff§! im Nachschub für §Y30§! Tage des zivilen Treibstoffverbrauchs (§Y[?required|0]K§!)"
 draft_dodging:0	"Entwurfsvermeidung"
 draft_dodging_2:0	"Umfassendes Draft Dodging"
-
-
-
 strikes_3:0	"Generalstreik"
 strikes_mission:0	"Bewältigung der Streikkrise"
 mutiny_mission:0	"Wiederherstellung der Ordnung im Militär"
-
-
-
 demobilization:0	"Demobilisierung"
 demobilization_economic:1	"Demobilisierung unserer Wirtschaft"
 demobilization_manpower:0	"Erleichterung des Dienstalters"
-
-
-
 demob_conscription_mission:0	"Lockerung der Einberufungspolitik"
 demobilization_desc:0	"Der drohende Krieg scheint in weite Ferne gerückt zu sein, und die Menschen sind nicht mehr bereit, die Härten der Kriegsgesetze hinzunehmen. Wir müssen unsere Gesetze überprüfen und eine Änderung in Betracht ziehen, um die Demonstranten zu beruhigen, bevor die Situation eskaliert."
 demobilization_economic_desc:0	"Da die Gefahr eines Krieges in weiter Ferne zu liegen scheint, sind die Menschen nicht mehr bereit, die Härten einer Kriegswirtschaft hinzunehmen. Wir sollten unsere Wirtschaftsgesetze überdenken und in Erwägung ziehen, sie zu ändern, um mehr Konsumgüter zu produzieren, die ihren Ansprüchen genügen."
-
-
-
 ENG_request_azores_lease:0	"Pacht der Azoren beantragen"
 SOV_hold_stalingrad:0	"Stalingrad halten"
 SOV_hold_leningrad:0	"Leningrad halten"
-
-
-
 SOV_return_manchuria:0	"Rückgabe der Mandschurei"
 SOV_return_manchuria_desc:0	"Wir werden die Mandschurei an das einzige rechtmäßige Volksregime in China zurückgeben."
 fascism_on_the_rise:0	"Der Faschismus ist auf dem Vormarsch"
-
-
-
 prepare_for_fascist_civil_war:0	"Bereiten Sie sich auf den Bürgerkrieg vor"
 prepare_for_fascist_civil_war_desc:1	"Wir haben keine Zeit, auf die langsamen Veränderungen in den Köpfen der Menschen zu warten. Um ihrer selbst willen müssen wir die Angelegenheit rasch vorantreiben, auch wenn einige dabei ihr Leben verlieren. Im Gegensatz zu einem friedlichen Referendum wird ein Bürgerkrieg unsere Streitkräfte, die Industrie und die Infrastruktur des Landes stark in Mitleidenschaft ziehen, aber er ist auch schneller und stellt sicher, dass wir unseren Willen anschließend mit mehr Nachdruck durchsetzen können."
 expand_civil_fascism_support:0	"Zivile Unterstützung ausbauen"
-
-
-
 army_support_TT:0	"Jedes Mal, wenn die Unterstützung der Armee erhöht wird, wird die Stärke der eigenen Fraktion im Bürgerkrieg um 10% erhöht, bis zu einer maximalen Gesamtstärke von 70%.\n"
 ensure_general_loyalty_for_fascist_civil_war:1	"Sicherstellung der Loyalität der unteren Heeresleitung"
 ensure_general_loyalty_for_fascist_civil_war_desc:0	"Es ist möglich, dass einige Generäle heimlich dem Faschismus zugeneigt sind. Wir müssen sie ansprechen und ihre Loyalität sicherstellen, wenn die Kämpfe beginnen."
-
-
-
 siphon_equipment_stockpiles_for_fascist_civil_war_desc:0	"Indem wir die Ausrüstungsbestände der Nation abschöpfen, können wir ein kleines Waffenarsenal anlegen, das uns in unserem zukünftigen Kampf helfen wird."
 formulate_surprise_attack_plan_for_fascist_civil_war:0	"Plan für einen Überraschungsangriff ausarbeiten"
 formulate_surprise_attack_plan_for_fascist_civil_war_desc:0	"Der Feind hat keine Ahnung von dem bevorstehenden Unheil. Wir müssen dafür sorgen, dass dies auch so bleibt, und gleichzeitig unsere Schlachtpläne so ausrichten, dass wir das Überraschungsmoment maximal nutzen können."
-
-
-
 rebuild_the_nation_fascism:0	"Bauen Sie die Nation wieder auf"
 rebuild_the_nation_fascism_desc:0	"Nach dem Bürgerkrieg ist es nun an der Zeit, unsere zerstörte Nation wieder aufzubauen."
 open_up_political_discourse_fascism:0	"Öffnung des politischen Diskurses"
-
-
-
 hold_the_fascist_national_referendum:0	"Nationales Referendum abhalten"
 hold_the_fascist_national_referendum_desc:0	"Mit ausreichender Unterstützung können wir jetzt sicher ein Referendum abhalten, um einen Regierungswechsel ohne Blutvergießen herbeizuführen."
 democratic_on_the_rise:0	"Die Demokratie ist auf dem Vormarsch"
-
-
-
 expand_civil_democratic_support:0	"Zivile Unterstützung ausbauen"
 expand_civil_democratic_support_desc:1	"Wir müssen dafür sorgen, dass sich die Unterstützung für unsere Sache in der Bevölkerung weiter ausbreitet, und sie dazu ermutigen, die Autorität der derzeitigen Regierung öffentlich in Frage zu stellen. In dem Maße, in dem die Position der Regierung zunehmend geschwächt wird und die zivilen Unruhen zunehmen, wird es für uns leichter werden, unsere Ziele zu erreichen. Dies gilt vor allem dann, wenn diese Ziele im Gegensatz zu einem legalen Regierungswechsel ein eher... unheilvolles Mittel des Regimewechsels beinhalten."
 army_support_for_democratic_civil_war:0	"Militärische Unterstützung ausbauen"
-
-
-
 ensure_marshal_loyalty_for_democratic_civil_war:0	"Sicherstellung der Loyalität der oberen Heeresleitung"
 ensure_marshal_loyalty_for_democratic_civil_war_desc:0	"Es ist möglich, dass einige Feldmarschälle heimlich für den Faschismus sind. Wir müssen sie ansprechen und ihre Loyalität sicherstellen, wenn die Kämpfe beginnen."
 siphon_equipment_stockpiles_for_democratic_civil_war:0	"Ausrüstung abschöpfen"
-
-
-
 ignite_the_democratic_civil_war:0	"Bürgerkrieg entfachen"
 ignite_the_democratic_civil_war_desc:0	"Die Zeit ist gekommen, um den Sprung zu wagen. Alle Vorbereitungen, die wir für notwendig erachtet haben, wurden getroffen. Jetzt gibt es kein Zurück mehr."
 rebuild_the_nation_democratic:0	"Wiederaufbau der Nation"
-
-
-
 discredit_government_democratic:0	"Regierung in Misskredit bringen"
 discredit_government_democratic_desc:0	"Indem wir auf die vielen Fehler unserer derzeitigen Regierung hinweisen, können wir die Menschen zum Nachdenken über die ideologischen Ursachen dieser Fehler anregen."
 hold_the_democratic_national_referendum:0	"Nationales Referendum abhalten"
-
-
-
 prepare_for_communist_civil_war:0	"Bereiten Sie sich auf einen Bürgerkrieg vor"
 prepare_for_communist_civil_war_desc:1	"Wir haben keine Zeit, um auf die langsamen Veränderungen in den Köpfen der Menschen zu warten. Um ihrer selbst willen müssen wir die Angelegenheit rasch vorantreiben, auch wenn einige dabei ihr Leben verlieren. Im Gegensatz zu einem friedlichen Referendum wird ein Bürgerkrieg unsere Streitkräfte, die Industrie und die Infrastruktur des Landes stark in Mitleidenschaft ziehen, aber er ist auch schneller und stellt sicher, dass wir unseren Willen anschließend mit mehr Nachdruck durchsetzen können."
 expand_civil_communist_support:0	"Zivile Unterstützung ausbauen"
-
-
-
 ensure_general_loyalty_for_communist_civil_war:1	"Sicherstellung der Loyalität der unteren Armeekommandos"
 ensure_general_loyalty_for_communist_civil_war_desc:0	"Möglicherweise hegen einige Generäle geheime Gefühle für die Demokratie. Wir müssen auf sie zugehen und ihre Loyalität sicherstellen, wenn die Kämpfe beginnen."
 ensure_marshal_loyalty_for_communist_civil_war:0	"Sicherstellung der Loyalität der oberen Heeresleitung"
-
-
-
 formulate_surprise_attack_plan_for_communist_civil_war:0	"Plan für einen Überraschungsangriff ausarbeiten"
 formulate_surprise_attack_plan_for_communist_civil_war_desc:0	"Der Feind hat keine Ahnung von dem bevorstehenden Unheil. Wir müssen dafür sorgen, dass dies auch so bleibt, und gleichzeitig unsere Schlachtpläne so ausrichten, dass wir das Überraschungsmoment optimal nutzen können."
 ignite_the_communist_civil_war:0	"Bürgerkrieg entfachen"
-
-
-
 open_up_political_discourse_communist:0	"Öffnung des politischen Diskurses"
 open_up_political_discourse_communist_desc:0	"Wir müssen die Akzeptanz abweichender Standpunkte in der Regierung fördern. Vielleicht wird es dadurch möglich sein, einen friedlichen Wandel in der Politik unseres Landes herbeizuführen."
 discredit_government_communism:0	"Regierung in Misskredit bringen"
-
-
-
 military_support_for_fascist_civil_war:0	"Hat militärische Unterstützung für den Bürgerkrieg.\n"
 military_support_for_democratic_civil_war:0	"Hat militärische Unterstützung für den Bürgerkrieg.\n"
 military_support_for_communist_civil_war:0	"Hat militärische Unterstützung für den Bürgerkrieg.\n"
-
-
-
 blow_panama_canal:0	"Sprengung des Panamakanals"
 blow_panama_canal_desc:0	"Wir können unseren Feinden die Nutzung des strategisch wichtigen Panamakanals nicht gestatten. Wir müssen daher mit den Vorbereitungen beginnen, um dem Kanal so viel gezielten Schaden zuzufügen, dass er für längere Zeit außer Betrieb bleibt. Dies wird es dem Feind erheblich erschweren, Schiffe vom Pazifik zum Atlantik und umgekehrt zu bewegen."
 rebuild_suez_canal:0	"Reparatur des Suezkanals"
-
-
-
 border_war_with_from:0	"Grenzkrieg mit [From.GetNameDef]"
 MAN_banditry_category:0	"Banditentum"
 MAN_banditry_category_desc:0	"Die Kwantung-Armee zeigt wenig Interesse daran, den Bewohnern der Mandschurei zu helfen, da sie es eher als militärische Besatzung denn als Aufbau einer Nation betrachtet. Die Regierung von Mandschukuo, so wie sie ist, hat von den Japanern nur wenige Mittel zur Aufrechterhaltung der Ordnung erhalten. In dieses Machtvakuum strömen alle Arten von Banditen: manchmal selbsternannte "Freiheitskämpfer", die im Namen abstrakter Ideale wie "nationale Befreiung" oder "proletarischer Internationalismus" morden und stehlen, aber häufiger ohne eine erklärte Ideologie, die ihre Übergriffe verschleiert."
-
-
-
 PRC_border_clashes_desc:0	"Das Terrain in China zwingt jeden dazu, seine Schlachten sorgfältig auszuwählen. Das gibt uns die Möglichkeit, einige verwundbare Gebiete zu erobern, ohne in einen totalen Krieg zu verwickeln."
 MAN_pacify_bandits_mission_explanation:0	"Halten Sie die Divisionen im Land für [?Root.MAN_maintain_control_timer|H0] Tage aufrecht, um die Banditen in der Region zu befrieden.\n"
 MAN_pacify_bandits_in_the_northern_countryside:0	"Befriedung der Banditen im Norden des Landes"
-
-
-
 MAN_pacify_bandits_in_the_eastern_countryside:0	"Befriedet Banditen in den östlichen Landstrichen"
 MAN_hunt_down_eastern_bandits:0	"Östliche Banditen jagen"
 MAN_hunt_down_eastern_bandits_tt:0	"Entfernt östliche Banditen.\n"
-
-
-
 MAN_hunt_down_western_bandits_tt:0	"Entfernt westliche Banditen.\n"
 MAN_maintain_western_control:0	"Kontrolle über den Westen aufrechterhalten"
-
-
-
 MAN_maintain_NW_control:0	"Kontrolle über den Nordwesten aufrechterhalten"
 MAN_pacify_bandits_in_the_far_north_countryside:0	"Befriedet Banditen in den nördlichen Landstrichen"
-
-
-
 MAN_far_north_bandits:0	"Banditen streifen im hohen Norden umher."
 MAN_northern_bandits:0	"Banditen streifen im Norden umher."
-
-
-
 civil_war_surprise_attack_plan:0	"Plan für einen Überraschungsangriff"
 civil_war_rebuild_nation:0	"Wiederaufbau der Nation"
 MAN_develop_kirin_aluminium_deposits:0	"Erschließung der Bauxitvorkommen in Kirin"
-
-
-
 first_nuke_dropped:0	"Erste Atombombe abgeworfen"
 CHI_border_clashes:0	"Grenzkonflikte"
 CHI_border_clashes_desc:0	"Das Terrain in China zwingt jeden dazu, seine Schlachten sorgfältig auszuwählen. Das gibt uns die Möglichkeit, einige verwundbare Gebiete zu erobern, ohne in einen totalen Krieg verwickelt zu werden."
-
-
-
 improved_worker_conditions:0	"Verbesserte Bedingungen für die Arbeiter"
 improved_worker_conditions_desc:0	"Fabrikarbeit ist hart und birgt viele Gefahren. Die Verbesserung der Bedingungen für unsere Fabrikarbeiter wird kurzfristig zu einer Verringerung der Produktion führen, aber die langfristigen Vorteile sind es wert."
 promises_of_peace:0	"Versprechen auf Frieden"
-
-
-
 CHI_approach_japan:0	"Annäherung an Japan"
 CHI_industrial_evacuations_from_gansu:0	"Industrielle Evakuierungen aus Gansu"
 CHI_industrial_evacuations_from_hainan:0	"Industrielle Evakuierungen aus Hainan"
-
-
-
 CHI_industrial_evacuations_from_fujian:0	"Industrielle Evakuierungen aus Fujian"
 CHI_industrial_evacuations_from_zhejiang:0	"Industrielle Evakuierungen aus Zhejiang"
 CHI_industrial_evacuations_from_shandong:0	"Industrielle Evakuierungen aus Shandong"
-
-
-
 CHI_industrial_evacuations_from_hunan:0	"Industrielle Evakuierungen aus Hunan"
 CHI_industrial_evacuations_from_anhui:0	"Industrielle Evakuierungen aus Anhui"
 CHI_industrial_evacuations_from_henan:0	"Industrielle Evakuierungen aus Henan"
-
-
-
 CHI_industrial_evacuations_from_hubei:0	"Industrielle Evakuierungen aus Hubei"
 CHI_industrial_evacuations_from_qingdao:0	"Industrielle Evakuierungen aus Qingdao"
 prestigious_projects:0	"Nationales Prestige"
-
-
-
 JAP_test_the_soviets_desc:0	"Wir haben eine lange gemeinsame Grenze mit [SOV.GetNameDef] in Korea und der Mandschurei. Es gibt eine große Anzahl potenzieller Krisenherde, an denen unsere Streitkräfte jederzeit aufeinander treffen könnten. Für uns ist dies eine Gelegenheit, die sowjetische Reaktion auf eine kleine Provokation zu testen."
 JAP_border_conflict_warning_SOV:0	"Grenzprovokation an der japanischen Grenze"
 JAP_border_conflict_warning_SOV_desc:0	"An unserer gemeinsamen Grenze in Korea ist es zu einem Zusammenstoß zwischen unseren Grenzsoldaten und japanischen Soldaten gekommen. Nachrichtendienstliche Quellen in Japan berichten, daß dies nur der erste Schritt zu einer größeren Konfrontation sein könnte. Wir sollten die Grenze zu Japan sofort verstärken."
-
-
-
 JAP_border_incident_forgotten_desc:1	"Wenn wir den Zwischenfall an der sowjetischen Grenze zu Korea nutzen wollen, müssen wir schnell zuschlagen."
 JAP_escalate_incident_to_border_conflict_SOV:0	"Eskalation des Zwischenfalls"
 JAP_escalate_incident_to_border_conflict_SOV_desc:0	"Es scheint, dass die Sowjets nicht vor dem Konflikt zurückschrecken. An diesem Punkt müssen wir entweder zu einer bewaffneten Konfrontation eskalieren oder selbst einen Rückzieher machen."
-
-
-
 JAP_border_conflict_escalate_conflict_desc:0	"Der Konflikt an der Grenze zur Sowjetunion ist ins Stocken geraten. Vielleicht können wir durch eine weitere Eskalation und die Entsendung von mehr Truppen an den Schauplatz noch einen Sieg erringen."
 JAP_border_conflict_escalate_to_war:0	"Erklären Sie den Krieg"
 JAP_border_conflict_escalate_to_war_desc:0	"Die Kämpfe in der umstrittenen Region dauern nun schon eine Weile an, und es gibt keine Anzeichen dafür, dass sie aufhören. Wir müssen bereit sein, den nächsten Schritt zu tun und diesen Konflikt als ersten Schritt zu einem allgemeinen Krieg zu sehen."
-
-
-
 in_60_days:0	"In 60 Tagen:"
 sov_jap_border_conflict_won:0	"Erfahrungen aus dem Grenzkonflikt in Korea:"
 JAP_guardian_of_INS:0	"Übernahme der Führung über Indonesien"
-
-
-
 CHI_industrial_evacuations_remove_IC:0	"Entfernen Sie alle §YZivilen Fabriken§!.\n"
 CHI_industrial_evacuations_add_AF:0	"Hinzufügen von 75% der §YWaffenfabriken§! entfernt.\n"
 CHI_industrial_evacuations_add_IC:0	"Hinzufügen von 75% der §YZivilen Fabriken§! entfernt.\n"
-
-
-
 MAN_recruit_bandits_north_desc:0	"Jede Kugel, die für die Jagd auf Banditen verschwendet wird, ist eine weniger, die für den kommenden Kampf zur Verfügung steht. Anstatt unsere eigenen Untertanen zu bekämpfen, sollten wir ihnen eine Möglichkeit bieten, sich durch den Dienst am Kaiser zu rehabilitieren."
 MAN_recruit_bandits_west:0	"Rekrutiert die westlichen Banditen"
 MAN_recruit_bandits_west_desc:0	"Jede Kugel, die für die Jagd auf Banditen ausgegeben wird, ist eine weniger, die für den nächsten Kampf zur Verfügung steht. Anstatt unsere eigenen Untertanen zu bekämpfen, sollten wir ihnen eine Möglichkeit bieten, sich durch den Dienst am Kaiser zu rehabilitieren."
-
-
-
 MAN_recruit_bandits_generic_desc:0	"Unsere Gefängnisse und Arbeitslager sind voll mit denen, die einst gegen uns gekämpft haben. Wir brauchen jeden Soldaten und jedes Gewehr für den Kampf um unsere Freiheit. Der Imperator könnte seine legendäre Barmherzigkeit und Gnade zeigen, indem er diesen Verbrechern die Möglichkeit gibt, sich durch ihren Dienst zu rehabilitieren."
 MAN_release_bandits:0	"Lasst die Banditen frei"
 MAN_release_bandits_desc:0	"Die ehemaligen Kriminellen und zwielichtigen Gestalten haben gezeigt, dass sie bereit sind, sich für ihren Imperator zu opfern, und können nun sicher wieder in die Gesellschaft entlassen werden."
-
-
-
 MAN_disband_the_banners:0	"Auflösung der Banner"
 MAN_disband_the_banners_desc:0	"Nach Beendigung ihres Dienstes können die Mandschu-Banner wieder nach Hause zu ihren Familien geschickt werden - bis sie wieder gebraucht werden."
 MAN_fund_underground_gun_shops:0	"Unterirdische Werkstätten errichten"
-
-
-
 MAN_divert_machine_tools:0	"Umleitung von Werkzeugmaschinen"
 MAN_divert_machine_tools_desc:0	"Da wir die Eisenbahnen unter unserer Kontrolle haben, können wir dafür sorgen, dass einige Lieferungen von Werkzeugmaschinen durch einen "Verwaltungsfehler" "verloren" gehen."
 MAN_prepare_to_seize_arms:0	"Beschlagnahme der japanischen Waffendepots vorbereiten"
-
-
-
 MAN_can_prepare_more_tt:0	"Es können noch weitere Vorbereitungen getroffen werden, um zusätzliche Depots zu beschlagnahmen.\n"
 anti_monarchy_raids:0	"Antimonarchistische Razzien"
-
-
-
 prepare_for_monarch_civil_war:0	"Bereiten Sie sich auf einen Bürgerkrieg vor"
 prepare_for_monarch_civil_war_desc:1	"Wir haben keine Zeit, um auf die langsamen Veränderungen in den Köpfen der Menschen zu warten. Um ihrer selbst willen müssen wir die Angelegenheit rasch vorantreiben, auch wenn einige dabei ihr Leben verlieren. Im Gegensatz zu einem friedlichen Referendum wird ein Bürgerkrieg unsere Streitkräfte, die Industrie und die Infrastruktur des Landes stark in Mitleidenschaft ziehen, aber er ist auch schneller und stellt sicher, dass wir unseren Willen anschließend mit mehr Nachdruck durchsetzen können."
 expand_civil_monarch_support:0	"Zivile Unterstützung ausbauen"
-
-
-
 ensure_general_loyalty_for_monarch_civil_war:1	"Sicherstellung der Loyalität der unteren Armeekommandos"
 ensure_general_loyalty_for_monarch_civil_war_desc:0	"Möglicherweise hegen einige Generäle geheime Sympathien für die Monarchie. Wir müssen auf sie zugehen und ihre Loyalität sicherstellen, wenn die Kämpfe beginnen."
 ensure_marshal_loyalty_for_monarch_civil_war:0	"Sicherstellung der Loyalität der oberen Heeresleitung"
-
-
-
 formulate_surprise_attack_plan_for_monarch_civil_war:0	"Plan für einen Überraschungsangriff ausarbeiten"
 formulate_surprise_attack_plan_for_monarch_civil_war_desc:0	"Der Feind hat keine Ahnung von dem bevorstehenden Unheil. Wir müssen dafür sorgen, dass dies auch so bleibt, und gleichzeitig unsere Schlachtpläne so ausrichten, dass wir das Überraschungsmoment optimal nutzen können."
 ignite_the_monarch_civil_war:0	"Bürgerkrieg entfachen"
-
-
-
 open_up_political_discourse_monarchism:0	"Öffnung des politischen Diskurses"
 open_up_political_discourse_monarchism_desc:1	"Wir müssen die Akzeptanz abweichender Standpunkte in der Regierung fördern. Vielleicht wird es dadurch möglich sein, einen friedlichen Wandel in der Politik unseres Landes herbeizuführen."
 discredit_government_monarchism:0	"Regierung in Misskredit bringen"
-
-
-
 TUR_hatay_start:0	"Fordern Sie eine Lösung für das Hatay-Problem"
 TUR_hatay_start_desc:0	"Hatay ist unser Land. Wir müssen es von Frankreich zurückbekommen. Das können wir entweder durch Krieg oder auf diplomatischem Wege erreichen. Wir sollten Frankreich drohen, Maßnahmen zu ergreifen."
 HAT_hatay_end:0	"Beitritt zur Türkei"
-
-
-
 TUR_elazigcrominstutie:0	"Bauen Sie das Elazığ Chromium Institut"
 TUR_planeschool:0	"Bau der ersten Pilotschule der Türkei"
 TUR_denizbank:0	"Eröffnung der Deniz Bank"
-
-
-
 TUR_ankara_radiostation:0	"Aufbau der Radiostation Ankara"
 TUR_artinstuties:0	"Öffnen Sie Kunstinstitute"
 TUR_sivascimento:0	"Eröffnung der Zementfabrik Sivas"
-
-
-
 TUR_agrarian_reform_desc:0	"Die Hauptwirtschaft der Türkei basiert auf der Landwirtschaft. Wir müssen dort investieren, um die Wirtschaft zu verbessern."
 TUR_haydarpasa:0	"Haydarpaşa-Krankenhaus"
 PlaneSchool:0	"Pilotenschule"
-
-
-
 ban_conservative_party:1	"Verbot der konservativen Partei"
 ban_conservative_party_desc:1	"Die Partei der politischen Mitte ist unserer Regierung schon zu lange ein Dorn im Auge. Ihr Beharren auf den "Rechten" des Einzelnen untergräbt unsere Bemühungen, eine bessere Nation für die gesamte Bevölkerung zu schaffen."
-
-
-
 ban_liberal_party_tt:1	"Wandel in der Popularität des Liberalismus: §G-§![?.Root.party_popularity@liberalism|%0G].\n"
 ban_socialist_party:1	"Verbot der Sozialdemokratischen Partei" 
 ban_socialist_party_desc:1	"Die Partei der politischen Mitte ist unserer Regierung schon zu lange ein Dorn im Auge. Ihr Beharren auf den "Rechten" des Einzelnen untergräbt unsere Bemühungen, eine bessere Nation für die gesamte Bevölkerung zu schaffen."
-
-
-
 ban_agrarianism_party_tt:1	"Veränderung der Popularität des Agrarismus: §G-§![?.Root.party_popularity@agrarianism|%0G].\n" 
 ban_royalist_party:0	"Monarchismus verbieten"
 ban_royalist_party_tt:1	"Veränderung in der Popularität des Monarchismus: §G-§![?.Root.party_popularity@monarchism|%0G].\n"
-
-
-
 enable_ss_inf_art_units:0	"Aktiviert SS-Infanterie und Artillerieeinheiten"
 enable_ss_inf_art_units_desc:0	"Dies schaltet SS-Infanterie- und Artillerie-Einheiten im Divisions-Designer frei, die vor 1941 erforscht wurden. Alles, was nach 1941 noch erforscht werden muss, wird nicht aktiviert. Diese werden nach der benötigten Forschung freigeschaltet.\nAb diesem Zeitpunkt kann der Spieler (DEUTSCH) seine eigenen Divisionen mit SS-Infanterie- und Artillerie-Einheiten erstellen."
 enable_ss_panzer_units:0	"Aktiviert SS-Panzer und panzerähnliche Einheiten"
-
-
-
 nine_exploit_FROM_desc:0	"Der Neun-Mächte-Vertrag erlaubt es uns, einige ungleiche Geschäfte mit [From.GetName] zu machen."
 nine_exploit_active_1:	"[CHI.GetName] I ausnutzen"
 nine_exploit_active_2:	"[CHI.GetName] II wird ausgenutzt"
-
-
-
 nine_exploit_active_3_desc:	"Der Neun-Mächte-Vertrag ermöglicht es uns, einige ungleiche Geschäfte mit [CHI.GetName] zu machen."
 nine_exploit_tt:	"\nDas Ergebnis für Folgendes wird in einer Mission angezeigt, nachdem wir diese Entscheidung getroffen haben."
 nine_exploit_tt2:	"Wir erhalten §Y1 Zivilfabrik§! von [?nine_exploit_target.GetName] für §Y75§! Tage" 
-
-
 give_refuge_ger_desc:	"Indem wir Wissenschaftlern und Intellektuellen, die von unterdrückerischen Regimes verfolgt werden, die Einreise in unser Land ermöglichen, können wir ihr Wissen nutzen, um unsere eigene Forschung voranzutreiben."
 operations:0	"Operationen"
 GER_weserubung_nord:0	"Weserübung-Nord"

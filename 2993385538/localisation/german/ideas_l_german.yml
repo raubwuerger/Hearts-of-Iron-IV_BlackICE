@@ -574,15 +574,6 @@ shaposhnikov_appointed:0	"Schaposchnikow Ernennung"
 georgy_zhukov:0	"Georgi Schukow"
 sergey_gorshkov:0	"Sergej Gorschkow"
 vladimir_tributs:0	"Wladimir Tribut"
-
-
-
-
-
-
-
-
-
 generic_army_chief_offensive:0	"Chef der Offensivarmee"
 generic_army_chief_defensive:0	"Defensiver Heereschef"
 generic_army_chief_reform:0	"Innovativer Heereschef"
@@ -681,36 +672,22 @@ idea_group_trade_laws:0	"Handelsgesetze"
 idea_group_trade_laws_desc:0	"Wählen Sie ein Handelsgesetz für unsere Nation"
 idea_group_security_laws:0	"Handelsgesetze"
 idea_group_security_laws_desc:0	"Wählen Sie ein Sicherheitsgesetz für unser Land"
-
 idea_group_recruitment_laws_desc:0	"Wählen Sie ein Rekrutierungsgesetz für unser Land"
 idea_group_officer_training_standards:0	"Ausbildungsstandards für Offiziere"
 idea_group_officer_training_standards_desc:0	"Wählen Sie die Ausbildungsstandards für die Offiziere unseres Landes."
 has_free_trade:0	"Hat §Y$trade_laws$: Exportwirtschaft§!"
 has_export_focus:0	"Hat §Y$trade_laws$: Freihandel§!"
-
 has_closed_economy:0	"Hat §Y$trade_laws$: Geschlossene Wirtschaft§!"
 exploitation_export:0	"Ausbeutung Wirtschaft"
 unrefined_export:0	"Unveredelte Exportwirtschaft"
-
-
 low_volume_export:0	"Wirtschaft mit geringem Exportvolumen"
-
-
 free_trade_protectionist:0	"Protektionistischer Freihandel"
-
-
-
-
 exploitation_export_name:0	"Ausbeutungswirtschaft"
 unrefined_export_name:0	"Unveredelte Exportwirtschaft"
-
 balanced_export_name:0	"Ausgewogene Exportwirtschaft"
-
-
 free_trade_law_name:0	"Freier Handel"
 free_trade_protectionist_name:0	"Protektionistischer Freihandel"
 protectionist_economy_name:0	"Protektionistische Wirtschaft"
-
 autarky_economy_name:0	"Autarkie-Wirtschaft"
 closed_economy_law_name:0	"Geschlossene Wirtschaft"
 ENROUTE:0	"Wir haben ein diplomatisches Ersuchen geschickt. Wir können sie nicht vor §Y$DATE$§! mit einer weiteren belästigen."
@@ -718,196 +695,99 @@ pzinz_rom:0	"PZinż"
 POL_fb:0	"FB"
 POL_lrl:0	"LRL"
 POL_smpa:0	"SMPA"
-
 POL_pkp:0	"PKP"
 POL_ava:0	"AVA"
 POL_pws:0	"PWS"
-
 POL_pzl:0	"PZL"
 POL_stocznia_gdynia:0	"Stocznia Gdynia"
 casa_idea:0	"CASA"
-
 Instalaza_SA:0	"Instalaza"
-
-
-
-
-
-
 constanta_shipyard:0	"Constanta-Werft"
-
-
-
 gotaverken:0	"AB Götaverken"
-
-
-
 zbrojovka_brno:0	"Zbrojovka Brünn"
-
 letov:0	"LETOV"
 scania:0	"Schonen-Vabis"
 aero:0	"Aero"
 LWS:0	"Lubelska Wytwonia Samolotow"
 praga:0	"Praga"
 skoda:0	"Skoda"
-
 GER_ckd:0	"CKD"
 tatra:0	"Tatra"
 CZE_ckd:0	"CKD"
-
 CZE_skoda_armor:0	"Skoda Panzer"
 CZE_ckd_praga:0	"CKD-Praga"
 CZE_elektra:0	"Elektra"
-
 CZE_skoda_shipyards:0	"Skoda Werften"
-
-
-
-
-
-
 ikarus:0	"Ikarus"
-
-
-
 zastava_arms:0	"Zastava-Arme"
-
-
-
 koolhoven:0	"Koolhoven"
-
 wilton_fijenoord:0	"Wilton Fijenoord"
 golcuk_nsy:0	"Gölcük NSY"
 thk:0	"THK"
 ktf:0	"KTF"
 istanbul_military_industries:0	"Istanbul Militärische Industrien"
 royal_hellenic_naval_shipyard:0	"Königlich Hellenische Marinewerft"
-
 horten_naval_yard:0	"Marinewerft Horten"
 kjeller_flyfabrikk:0	"Kjeller Flyfabrikk"
 kongsberg:0	"Kongsberg Våpenfabrikk"
-
 burmeister_wain:0	"Burmeister & Wain"
 disa:0	"DISA"
 htk_orlogsvaerftet:0	"HTK Orlogsvaerftet"
-
 arsenal_alfeite:0	"Arsenal do Alfeite"
-
-
-
-
-
-
 arsenal:0	"Arsenal Tallinn"
-
-
-
 cockerill:0	"Cockerill"
-
-
-
 fascist_assault_divisions:0	"Faschistische Angriffsdivisionen"
-
 democratic_opposition_voicing_protests:0	"Demokratische Opposition, die Proteste äußert"
 sisu:0	"Sisu"
 sisu_desc:0	"Sisu ist der typisch finnische Ausdruck für die Widerstandsfähigkeit des finnischen Volkes. Finnland hat harte Zeiten erlebt und wird dies auch weiterhin tun."
 prime_minister_assasinated:0	"Ermordung des Premierministers"
 great_depression:0	"Die Große Depression"
 great_depression_desc:0	"Die Große Depression, ein weltweites Phänomen, hat die globalen Märkte mit einer lähmenden Verlangsamung der Wirtschaftstätigkeit überrollt. Die Arbeitslosenzahlen stiegen in die Höhe, die Steuereinnahmen brachen ein, und viele Länder der Welt litten enorm."
-
 great_depression_2_desc:0	"Die Große Depression, ein weltweites Phänomen, hat die globalen Märkte mit einer lähmenden Verlangsamung der Wirtschaftstätigkeit überzogen. Die Arbeitslosenzahlen stiegen sprunghaft an, und die Steuereinnahmen brachen ein, worunter viele Länder der Welt sehr litten."
 great_depression_3:0	"Die Große Depression"
 great_depression_3_desc:0	"Die Große Depression, ein weltweites Phänomen, hat die globalen Märkte mit einer lähmenden Verlangsamung der Wirtschaftstätigkeit überzogen. Die Arbeitslosenzahlen stiegen sprunghaft an, und die Steuereinnahmen brachen ein, worunter viele Länder der Welt sehr litten."
-
 great_depression_4_desc:0	"Die Große Depression, ein weltweites Phänomen, hat die globalen Märkte mit einer lähmenden Verlangsamung der Wirtschaftstätigkeit überzogen. Die Arbeitslosenzahlen stiegen sprunghaft an, und die Steuereinnahmen brachen ein, worunter viele Länder der Welt sehr litten."
 great_depression_5:0	"Die Große Depression"
 great_depression_5_desc:0	"Die Große Depression, ein weltweites Phänomen, hat die globalen Märkte mit einer lähmenden Verlangsamung der Wirtschaftstätigkeit überzogen. Die Arbeitslosenzahlen stiegen sprunghaft an, und die Steuereinnahmen brachen ein, worunter viele Länder der Welt sehr litten."
-
 great_depression_6_desc:0	"Die Große Depression, ein weltweites Phänomen, hat die globalen Märkte mit einer lähmenden Verlangsamung der Wirtschaftstätigkeit überzogen. Die Arbeitslosenzahlen stiegen sprunghaft an, und die Steuereinnahmen brachen ein, worunter viele Länder der Welt sehr litten."
-
-
-
-
-
-
 great_depression_recovery_1:0	"Der Weg zur Erholung"
-
-
-
 great_depression_recovery_3:0	"Der Weg zur Genesung"
-
-
-
 great_depression_recovery_5:0	"Der Weg zur Genesung"
-
 new_deal:0	"New Deal"
 new_deal_desc:0	"Eine Reihe von Maßnahmen und Programmen, die von Franklin D. Roosevelt als Reaktion auf die Nöte während der Großen Depression initiiert wurden."
 wilkies_new_deal:0	"Willkies New Deal"
 wilkies_new_deal_desc:0	"Obwohl Wendell Willkie gegen einige der Vorschläge von Franklin D. Roosevelt zur Ausweitung des New Deal war, wurden einige Aspekte vom neuen Präsidenten unterstützt und beibehalten."
 full_employment:0	"Vollbeschäftigung"
 isolationism_idea:0	"Isolationismus"
-
 USA_lend_lease_act_idea_eng:0	"Commonwealth Lend Lease"
 USA_lend_lease_act_idea_sov:0	"Sowjetunion Lend Lease"
 USA_lend_lease_act_idea_chi:0	"Republik China Lend Lease"
-
 USA_lend_lease_act_target_desc:0	"Der Handel mit den USA ist §G50%§! billiger."
 lend_lease_idea:0	"Lend Lease"
 lend_lease_shipment:0	"Lend Lease Konvois"
-
 arsenal_of_democracy:0	"Arsenal der Demokratie"
-
-
-
-
-
-
 GER_CHI_friend:0	"Deutsch-chinesische Beziehungen"
-
-
-
 collectivist_ethos_focus:0	"Kollektivistisches Ethos"
-
-
-
 paramilitarism_focus:0	"Paramilitarismus"
-
 neutrality_idea_desc:0	"Neutralität wird manchmal als feige angesehen, aber diese Nation vertraut darauf, dass, wenn sich der Staub gelegt hat, diejenigen, die sich nicht auf eine Seite geschlagen haben, besser dastehen als die, die es getan haben."
 neutrality_idea_spr:0	"Neutrale Außenpolitik"
 neutrality_idea_spr_desc:0	"Neutralität wird manchmal als feige angesehen, aber diese Nation vertraut darauf, dass, wenn sich der Staub gelegt hat, diejenigen, die nicht Partei ergriffen haben, besser dran sein werden als diejenigen, die Partei ergriffen haben."
 neutrality_idea_spa:0	"Neutrale Außenpolitik"
 neutrality_idea_spa_desc:0	"Neutralität wird manchmal als feige angesehen, aber diese Nation vertraut darauf, dass, wenn sich der Staub gelegt hat, diejenigen, die nicht Partei ergriffen haben, besser dran sein werden als diejenigen, die Partei ergriffen haben."
 neutrality_war:0	"Neutrale Außenpolitik"
-
 anti_soviet_pact:0	"Antisowjetischer Pakt"
 anti_soviet_pact_refused_call:0	"Verweigerte die Einhaltung des antisowjetischen Pakts"
 anti_soviet_pact_refused_call_desc:0	"Diese Nation hat den antisowjetischen Pakt nicht eingehalten, als sie zum Krieg aufgerufen wurde. Dies hat die Bevölkerung dazu veranlasst, an der derzeitigen Regierung zu zweifeln, und zu einem Anstieg der Anhänger der Kommunisten geführt."
-
 ideological_fanaticism_focus:0	"Ideologischer Fanatismus"
 political_commissars_focus:0	"Politische Kommissare"
 wartime_industry_focus:0	"Industrie in Kriegszeiten"
-
 wartime_shipbuilding_program_idea:0	"Notprogramm für den Schiffbau"
-
-
-
-
-
-
-
 intel_minister_bonus:	"Bei der Ernennung zum §Y$political_advisor$§! in unserem Kabinett:\n$MODIFIER_OPERATIVE_SLOT$: §G+1§!\n$MODIFIER_NEW_OPERATIVE_SLOT_BONUS$: §G+3§!"
 political_minister:0	"Politischer Berater"
 head_of_state:0	"Aushängeschild"
-
 has_foreign_minister:	"Hat einen §YAußenminister§! zugewiesen"
-
-
 economic_minister:0	"Wirtschaftsminister"
-
-
-
 naval_academy:0	"Marine-Akademie"
-
 aircraft_manufacturers:0	"Flugzeugkonstrukteur"
 light_aircraft_manufacturer:1	"Designer für leichte Flugzeuge"
 heavy_aircraft_manufacturer:1	"Designer für schwere Flugzeuge"
@@ -917,37 +797,17 @@ industry_concern:0	"Industrie Konzern"
 generic_construction_concern:0	"Bauwesen"
 generic_radio_developer:0	"Radio Konzern"
 generic_refinery_concern:0	"Raffinerie-Konzern"
-
 generic_fleet_escort_manufacturer:0	"Hersteller von Flottenbegleitern"
 generic_convoy_escort_manufacturer:0	"Konvoi-Eskorte Hersteller"
 ships_manufacturer:0	"Schiffshersteller"
 army_chief:0	"OB der Armee"
-
 air_chief:0	"OB der Luftwaffe"
 high_command:0	"Militärisches Oberkommando"
 theorist:0	"Theoretiker"
-
 british_fighter_discount_I:0	"Flugzeugproduktionsgruppe"
-
-
-
-
-
-
-
-
-
 idea_agrarianism_drift:0	"Landwirtschaftsdrift"
-
-
-
-
 combined_bomber_offensive:0	"Kombinierte Bomberoffensive"
-
-
-
 foreign_expeditions_focus:0	"Ausländische Expeditionen"
-
 partisan_suppression_focus:0	"Unterdrückung der Partisanen"
 imperial_austerity_idea:0	"Kaiserliche Strenge"
 student_mobilization_idea:0	"Studentische Mobilisierung"
@@ -957,35 +817,16 @@ office_of_strategic_services:0	"Büro für strategische Dienste"
 office_of_strategic_services_desc:0	"§LDas Office of Strategic Services (OSS) war ein Nachrichtendienst der Vereinigten Staaten, der während des Zweiten Weltkriegs gegründet wurde. Es war der Nachrichtendienst des Krieges und ein Vorgänger der Central Intelligence Agency (CIA).§!"
 office_of_strategic_services_lar:0	"Office of Strategic Services"
 office_of_strategic_services_lar_desc:0	"§LDas Office of Strategic Services (OSS) war ein Nachrichtendienst der Vereinigten Staaten, der während des Zweiten Weltkriegs gegründet wurde. Es war der Nachrichtendienst des Krieges und ein Vorgänger der Central Intelligence Agency (CIA).§!"
-
 idea_nkvd_desc:0	"§LDas Volkskommissariat für Innere Angelegenheiten (LNKVD) war eine Strafverfolgungsbehörde der Sowjetunion, die die Macht der Kommunistischen Partei der Alliierten Union direkt ausführte. Zu seinen Aufgaben gehörten auch der Schutz der sowjetischen Grenzen und Spionage, einschließlich politischer Attentate im Ausland, die Beeinflussung ausländischer Regierungen und die Durchsetzung der stalinistischen Politik innerhalb der kommunistischen Bewegungen in anderen Ländern.§!"
 nkvd_2:0	"NKVD"
 nkvd_2_desc:0	"§LDas Volkskommissariat für Innere Angelegenheiten (NKWD) war eine Strafverfolgungsbehörde der Sowjetunion, die die Machtbefugnisse der Kommunistischen Partei der Gesamtunion direkt ausübte. Zu seinen Aufgaben gehörten auch der Schutz der sowjetischen Grenzen und die Spionage, einschließlich politischer Attentate im Ausland, die Beeinflussung ausländischer Regierungen und die Durchsetzung der stalinistischen Politik innerhalb der kommunistischen Bewegungen in anderen Ländern.§!"
 idea_political_correctness:0	"Politische Korrektheit"
-
 imperial_glory_idea:0	"Imperialer Ruhm"
 warrior_traditions_idea:0	"Kriegerische Traditionen"
 for_the_emperor_idea:0	"Für den Kaiser!"
-
 war_bonds_focus:0	"Kriegsanleihen"
-
-
-
-
-
-
-
-
-
 peoples_commissariat_focus:0	"Volkskommissariat für Verteidigungsindustrie"
-
-
-
-
 state_shintoism:0	"Staatlicher Schintoismus"
-
-
-
 stiff_upper_lip_desc:0	"Wenn du einen kühlen Kopf bewahren kannst, wenn alle um dich herum den ihren verlieren und dir die Schuld geben,\n\n Wenn du Triumph und Desaster ertragen und diese beiden Betrüger genauso behandeln kannst,\n\nDein ist die Erde und alles, was in ihr ist,\n Und - was mehr ist - du wirst ein Mann sein, mein Sohn. "
 trotskyite_plot:0	"Ein trotzkistisches Komplott?"
 trotskyite_plot_desc:0	"Paranoia und pathologisches Misstrauen, die aus alten Machtkämpfen herrühren, beeinflussen die Führung dieser Nation."
@@ -995,33 +836,15 @@ officers_purged:0	"Säuberung von Offizieren"
 officers_purged_desc:0	"Die Säuberung der "fünften Kolonne" hat in den Reihen der Offiziere der Roten Armee große Narben hinterlassen, und es wird Jahre dauern, bis sich die Führung wieder regeneriert hat."
 red_air_purged:0	"Rote Luftwaffe gesäubert"
 SOV_supplies:0	"Sowjetische Vorräte"
-
 SOV_move_industry_disruption:0	"Industrielle Unterbrechung"
 GreatPatrioticWar:0	"Der Große Patriotische Krieg"
 rehabilitated_military_focus:0	"Rehabilitiertes Militär"
 workers_culture:0	"Arbeiterkultur"
-
 POL_emil_kalinski:0	"Emil Kaliński"
 POL_juliusz_oniatowski:0	"Juliusz Poniatowski"
 POL_tadeusz_kasprzycki:0	"Tadeusz Kasprzycki"
-
-
-
-
-
-
-
-
-
 POL_stanislaw_pawluc:0	"Stanisław Pawluć"
-
-
-
-
 POL_ludomil_rayski:0	"Ludomił Rayski"
-
-
-
 POL_stanislav_maczek:0	"Stanisław Maczek"
 POL_maksymilian_ciezki:0	"Maksymilian Ciężki"
 POL_gwido_langer:0	"Gwido Langer"
@@ -1030,36 +853,17 @@ POL_industry_funding_desc:0	"Zusätzliche Mittel ermöglichen der polnischen Ind
 POL_invest_in_Poland_A:0	"In Polen investieren A"
 POL_invest_in_Poland_A_desc:0	"Wir sollten in unsere am besten entwickelten Regionen investieren."
 POL_invest_in_Poland_B:0	"In Polen B investieren"
-
 POL_general_development:0	"Allgemeine Entwicklung"
-
 POL_Greater_Poland_military_zone:0	"Großpolnische Militärzone"
 POL_Greater_Poland_military_zone_desc:0	"Die Schaffung einer Militärzone in Großpolen wird unserer Armee helfen, zu expandieren."
 POL_war_focus_industry:0	"Kriegsschwerpunkt Industrie"
 POL_war_focus_industry_desc:0	"Unsere Industrie soll auf den kommenden Krieg vorbereitet werden."
-
 POL_university_of_Posen_desc:0	"Unsere Entwicklung ermöglicht es uns, mehr Technologien zu erforschen und bessere Gebäude zu bauen."
 POL_development_of_polish_industry:0	"Entwicklung der polnischen Industrie"
 POL_development_of_polish_industry_desc:0	"Wir entwickeln unsere Fabriken, um mehr für unsere glorreiche Nation zu produzieren."
-
-
-
-
-
-
-
-
 POL_development_of_eastern_cities:0	"Entwicklung der östlichen Städte"
-
 POL_expanding_eastern_factories:0	"Ausweitung der östlichen Fabriken"
-
-
-
-
 POL_university_of_Warsaw_desc:0	"Unsere industrielle Expansion und andere neue Fortschritte könnten es uns ermöglichen, mehr Forschung und Entwicklung parallel zu betreiben."
-
-
-
 POL_chemical_plant_debica_desc:0	"Das Chemiewerk Dêbica war das vierte Werk in der Welt, das synthetischen Kautschuk herstellte."
 POL_new_construction_methods:0	"Neue Baumethoden"
 POL_new_construction_methods_desc:0	"Unsere Industrie ist in der Lage, immer modernere Konstruktionen zu schaffen."
@@ -1068,36 +872,17 @@ POL_chemical_plant_organika_sarzyna_desc:0	"Das Chemiewerk Organika-Sarzyna war 
 POL_polish_cipher_bureau:0	"Polnisches Chiffrierbüro"
 POL_polish_cipher_bureau_desc:0	"Das Polnische Chiffrierbüro war eine Abteilung des polnischen Geheimdienstes, die beim Knacken der Enigma-Maschine führend war."
 university_of_Posen_focus:0	"Universität von Posen"
-
 Jagiellonian_university_focus:0	"Jagiellonische Universität"
-
 polish_synthetic_industry_focus:0	"Polnische Synthetische Industrie"
 POL_port_of_gdynia:0	"Hafen von Gdynia"
 POL_port_of_gdynia_desc:0	""
 POL_small_navy:0	"Kleine Marine"
-
 POL_great_navy:0	"Große Marine"
 POL_great_navy_desc:0	""
 POL_coastal_submarines:0	"Küsten-U-Boote"
-
-
-
-
-
-
-
-
 POL_home_made_destroyers_desc:0	""
-
 POL_improved_submarine_construction_desc:0	""
-
-
-
-
 POL_polish_light_cruiser_design:0	"Polnischer Leichter Kreuzerentwurf"
-
-
-
 POL_expanding_dockyards:0	"Ausbau der Werften"
 POL_expanding_dockyards_desc:0	""
 POL_admirality_of_pomorze:0	"Admiralität von Pomorze"
@@ -1106,36 +891,17 @@ POL_true_naval_force:0	"Echte Seestreitkräfte"
 POL_true_naval_force_desc:0	""
 POL_carrier_focus:0	"Schwerpunkt Flugzeugträger"
 POL_carrier_focus_desc:0	""
-
 POL_battleship_focus_desc:0	""
-
 POL_polish_naval_doctrine_desc:0	""
 HUN_integration:0	"Integration"
 HUN_suppression:0	"Unterdrückung"
 HUN_air_malus:0	"Nationaler Stolz"
-
 HUN_acelszerkezet:0	"Ganz Acélszerkezet"
 HUN_transelektro:0	"Ganz Transelektro"
 HUN_izzo:0	"IZZO"
-
-
-
-
-
-
-
-
 HUN_gabor_vajna:0	"Gábor Vajna"
-
 HUN_fidel_palffy:0	"Fidél Pálffy de Erdőd"
-
-
-
-
 HUN_zoltan_tildy:0	"Zoltán Tildy"
-
-
-
 HUN_bela_rakosi:0	"Béla Rákosi"
 HUN_gottfried_von_banfield:0	"Gottfried Freiherr von Banfield"
 HUN_istvan_shvoy:0	"István Shvoy"
@@ -1144,36 +910,17 @@ HUN_lajos_remenyi_schneller:0	"Lajos Reményi-Schneller"
 HUN_sandor_magyarossy:0	"Sándor Magyarossy"
 HUN_francois_deak:0	"Francois Deak"
 HUN_reszo_kastner:0	"Reszö Kastner"
-
 HUN_vilmos_roder:0	"Vilmos Rőder"
-
 HUN_mavag:0	"MÁVAG"
 HUN_femaru_fegyver_es_gepgyar:0	"Fegyver- és Gépgyár"
 SPR_dolores_ibarruri:1	"Dolores Ibárruri"
 SPR_generic_democratic_reformer:0	"Lluís Companys"
-
 CHI_generic_democratic_reformer:0	"Kwong Jiang"
 CHI_generic_fascist_demagogue:0	"Tan Huang"
 CHI_liu_luyin:0	"Liu Luyin"
-
-
-
-
-
-
-
-
 CHI_fang_juehui:0	"Fang Juehui"
-
 CHI_miao_peicheng:0	"Miao Peicheng"
-
-
-
-
 CHI_zhou_zhirou:0	"Zhou Zhirou"
-
-
-
 CHI_deng_xiaoping:0	"Deng Xiaoping"
 CHI_du_yuesheng:0	"Du Yuesheng"
 CHI_du_yuesheng_desc:0	"Mitglied der Grünen Bande"
@@ -1182,36 +929,17 @@ CHI_huang_jinrong_desc:0	"Mitglied der Grünen Bande"
 CHI_zhang_xiaolin:0	"Zhang Xiaolin"
 CHI_zhang_xiaolin_desc:0	"Mitglied der Grünen Bande"
 chen_yi:0	"Chen Yi"
-
 CHI_gao_zhihang:0	"Gao Zhihang"
-
 CHI_xiao_yisu:0	"Xiao Yisu"
 CHI_chen_cheng:0	"Chen Cheng"
 CHI_huang_shen:0	"Huang Shen"
 CHI_yu_hanmou:0	"Yu Hanmou"
-
 CHI_communist_uprisings:0	"Kommunistische Aufstände"
 CHI_communist_uprisings_desc:0	"Die Spannungen zwischen Kommunisten und Nationalisten sind in allen Teilen des Landes zu spüren. Wenn die Unterstützung der Kommunisten im Land zu groß wird, übernehmen die Kommunisten die Kontrolle über einen Staat."
 ROM_generic_fascist_demagogue:0	"Mihail Sturdza"
-
-
-
-
-
-
-
-
 ROM_ion_inculet:0	"Ion Inculeţ"
-
 ROM_istrate_micescu_foreign_minister:0	"Istrate Micescu"
-
-
-
-
 ROM_iosif_iacobici:0	"Iosif Iacobici"
-
-
-
 ROM_mircea_cancicov:0	"Mircea Cancicov"
 ROM_iuliu_maniu:0	"Iuliu Maniu"
 ROM_armand_calinescu_interior_minister:0	"Armand Călinescu"
@@ -1220,36 +948,17 @@ ROM_gheorghe_tatarescu_foreign_minister:0	"Gheorghe Tatarescu"
 ROM_gheorghe_argeseanu:0	"Gheorghe Argeşeanu"
 ROM_gheorghe_potopeanu:0	"Gheorghe Potopeanu"
 ROM_gheorghe_potopeanu_theorist:0	"Gheorghe Potopeanu"
-
 ROM_florea_tenescu:0	"Florea Tenescu"
-
 ROM_gheorghe_vasiliu:0	"Gheorghe Vasiliu"
 ROM_gheorghe_jienescu:0	"Gheorghe Jienescu"
 ROM_paul_teodorescu:0	"Paul Teodorescu"
 ROM_emanoil_ionescu:0	"Emanoil Ionescu"
-
 ROM_nicolae_sova:0	"Nicolae Şova"
 ROM_ion_antonescu_head_of_state:0	"Ion Antonescu"
 ROM_gheorghe_avramescu:0	"Gheorghe Avramescu"
-
-
-
-
-
-
-
-
 FIN_vaino_voionmaa:0	"Kaarle Väinö Voionmaa"
-
 FIN_hugo_osterman:0	"Hugo Österman"
-
-
-
-
 FIN_jaakko_keto:0	"Jaakko Keto"
-
-
-
 FIN_uuno_hannula:0	"Uuno Hannula"
 FIN_karl_fagerholm:0	"Karl-August Fagerholm"
 FIN_vilho_annala:0	"Vilho Annala"
@@ -1258,36 +967,17 @@ FIN_lauri_malmberg:0	"Lauri Malmberg"
 FIN_jarl_lundqvist:0	"Jarl Lundqvist"
 FIN_karl_oesch:0	"Karl Oesch"
 FIN_valio_porvari:0	"Valio Porvari"
-
 FIN_olavi_arho:0	"Olavi Arho"
-
 FIN_lauri_tiainen:0	"Lauri Tiainen"
 FIN_harald_ohquist:0	"Harald Öhquist"
 FIN_ralf_torngren:0	"Ralf Törngren"
 FIN_ake_henrik_gartz:0	"Åke Henrik Gartz"
-
 FIN_vaino_valve:0	"Väinö Ventil"
 FIN_akseli_anttila:0	"Akseli Anttila"
 FIN_kaarlo_hillila:0	"Kaarlo Hillilä"
-
-
-
-
-
-
-
-
 BUL_dobri_bozhilov:0	"Dobri Bozhilov"
-
 BUL_kiril_stanchev:0	"Kiril Stantschew"
-
-
-
-
 BUL_nikola_totev_markov:0	"Nikola Totev Markov"
-
-
-
 BUL_kiril_dimitrov_yanchule:0	"Kiril Dimitrov Yanchule"
 BUL_atanas_pavlov_zhilkov:0	"Atanas Pawlow Schilkow"
 BUL_boris:0	"Boris III."
@@ -1296,36 +986,17 @@ BUL_dimitar_mishykov:0	"Dimitar Iwanow Maschajkow"
 BUL_kiril_gunev:0	"Kiril Gunev"
 BUL_angel_karagyozov:0	"Engel Dimitrow Karagjosow"
 BUL_radi_vassilev:0	"Radi Donchev Vassilev"
-
 BUL_spas_ganev:0	"Spas Ganev Raichev"
-
 BUL_mihail_yovov:0	"Mihail Jowowow"
 BUL_andon_kalchev:0	"Andon Kalchev"
 BUL_nikola_nedev:0	"Nikola Nedev"
 ROM_german_price_hike:0	"Erhöhte Ölpreise in Deutschland"
-
 ROM_revenge_against_germany:0	"Rachsucht gegen Deutschland"
 SWE_generic_fascist_demagogue:0	"Per Engdahl"
 SWE_generic_democratic_reformer:0	"Tage Erlander"
-
-
-
-
-
-
-
-
 SWE_kungen_gustaf_AI:0	"Oscar Gustaf Adolf"
-
 SWE_ernst_wigforss:0	"Ernst Wigforss"
-
-
-
-
 SWE_ivar_holmquist:0	"Ivar Holmquist"
-
-
-
 SWE_charles_de_champs:0	"Charles de Champs"
 SWE_fabian_tamm:0	"Fabian Tamm"
 SWE_gosta_ehrensvard:0	"Gösta Ehrensvärd"
@@ -1334,36 +1005,17 @@ SWE_axel_rappe:0	"Axel Rappe"
 SWE_axel_pehrsson:0	"Axel Alarik Pehrsson"
 SWE_fritiof_domo:0	"Fritiof Domö"
 SWE_axel_gjores:0	"Axel Gjöres"
-
 SWE_nils_quensel:0	"Nils Quensel"
-
 SWE_helge_stromback:0	"Helge Strömbäck"
 SWE_edgar_rosander:0	"Edgar Rosander"
 SWE_bertil_ohlin:0	"Bertil Ohlin"
 CZE_milan_hodza:0	"Milan Hodža"
-
 CZE_kamil_krofta:0	"Kamil Krofta"
 CZE_kamil_krofta_dm:0	"Kamil Krofta"
 CZE_ladislav_feierabend:0	"Ladislav Feierabend"
-
-
-
-
-
-
-
-
 CZE_karel_kuttelwascher:0	"Karel Kuttelwascher"
-
 CZE_generic_democratic_reformer:0	"Stefan Osusky"
-
-
-
-
 CZE_vojtech_tuka:0	"Vojtech Tuka"
-
-
-
 CZE_josef_adam:0	"Josef Adam"
 CZE_alois_vicherek:0	"Alois Vicherek"
 CZE_karel_vaclav_petrik:0	"Karel Václav Petrík"
@@ -1372,36 +1024,17 @@ CZE_antonin_hasal:0	"Antonin Hasal"
 NOR_trotsky:0	"Leo Trotzki"
 NOR_trotsky_desc:0	"Nachdem er erst aus der Sowjetunion, dann aus der Türkei und schließlich aus Frankreich vertrieben wurde, lebt Leo Trotzki jetzt in Norwegen. Es ist jedoch alles andere als ein herzliches Willkommen, denn er wird ständig überwacht und kann sich nur eingeschränkt bewegen."
 NOR_british_bonus:0	"Verbunden mit den Briten"
-
 NOR_GER_bonus_desc:0	"Mit der Nutzung der Docks und Häfen in Norwegen hat unsere Marine bessere Möglichkeiten im Atlantik"
-
 NOR_bjarne_oen:0	"Bjarne Øen"
 NOR_ole_reistad:0	"Ole Reistad"
 NOR_hjalmar_riiser_larsen:0	"Hjalmar Riiser-Larsen"
 NOR_willhelm_von_tangen_hansteen:0	"Willhelm von Tangen Hansteen"
-
 NOR_generic_fascist_demagogue:0	"Rolf Jørgen Fuglesang"
 NOR_generic_democratic_reformer:0	"Haakon Lie"
 NOR_generic_communist_revolutionary:0	"Heinrich Wilhelm Kristiansen"
-
-
-
-
-
-
-
-
 NOR_birger_ljungberg:0	"Birger Ljungberg"
-
 NOR_marinens_flyvebaatfabrikk:0	"Marinens Flyvebaatfabrikk"
-
-
-
-
 YUG_generic_democratic_reformer:0	"Milovan Dilas"
-
-
-
 YUG_milovan_djilas:0	"Milovan Djilas"
 YUG_milutin_nedic:0	"Milutin Nedić"
 YUG_dusan_simovic:0	"Dušan Simović"
@@ -1410,36 +1043,17 @@ YUG_bogoljub_ilic:0	"Bogoljub Ilić"
 YUG_petra_dumev:0	"Petra Dumev"
 YUG_slobodan_jovanovic:0	"Slobodan Jovanović"
 YUG_anton_kozarev:0	"Anton Kozarev"
-
 YUG_petar_zivkovic:0	"Petar Živković"
-
 YUG_dobrivoje_stosovic:0	"Dobrivoje Stosovic"
 YUG_dusan_letica:0	"Dusan Letica"
 YUG_marko_kozulj:0	"Marko Kožulj"
 YUG_branko_kaludercic:0	"Branko Kaluđerčić"
-
 YUG_dzafer_kulenovic:0	"Džafer Kulenović"
 YUG_arsa_jovanovic:0	"Arso Jovanović"
 YUG_mihajlo_lukic:0	"Mihajlo Lukić"
-
-
-
-
-
-
-
-
 TUR_generic_communist_revolutionary:0	"Pertev Naili Boratav"
-
 TUR_mustafa_ataturk:0	"Mustafa Kemal Atatürk"
-
-
-
-
 TUR_sabiha_gokcen:0	"Sabiha Gökçen"
-
-
-
 TUR_refik_saydam:0	"Refik Ibrahim Saydam"
 TUR_ali_tarhan:0	"Ali Rana Tarhan"
 TUR_resat_erkmen:0	"Reşat Muhlis Erkmen"
@@ -1448,36 +1062,17 @@ TUR_mumtaz_okmen:0	"Mumtaz Ökmen"
 TUR_hassan_saka:0	"Hassan Saka"
 TUR_kazim_ozalp:0	"Kazim Özalp"
 TUR_mehmet_gunaltay:0	"Mehmet Günaltay"
-
 TUR_tevfik_aras:0	"Tevfik Rüştü Aras"
-
 TUR_saffet_arikan:0	"Saffet Arıkan"
 TUR_ali_cetinkaya:0	"Ali Çetinkaya"
 TUR_sukru_ali_ogel:0	"Şükrü Âli Ögel"
 TUR_100_tanks:0	"Waffenkäufe"
-
 TUR_private_fuel:0	"Privatisiertes Erdöl"
 TUR_Under_Developed_Army:0	"Unterentwickelte Armee"
 TUR_War_Horrors:0	"Schrecken der vergangenen Kriege"
-
-
-
-
-
-
-
-
 TUR_varlik_vergisi:0	"Varlık Vergisi"
-
 TUR_politics:0	"Politische Landschaft im Wandel"
-
-
-
-
 MEX_generic_communist_revolutionary:0	"Mariano Ponton"
-
-
-
 MEX_enrique_estrada:0	"Enrique Estrada"
 MEX_agustin_olachea:0	"Agustin Olachea"
 MEX_jesus_garza_siller:0	"Jesus Garza Siller"
@@ -1486,36 +1081,17 @@ MEX_pablo_m_valenzuela:0	"Pablo M. Valenzuela"
 MEX_matias_ramos:0	"Matias Ramos"
 MEX_antonio_cardenas_rodriguez:0	"Antonio Cárdenas Rodríguez"
 MEX_gilberto_lemon:0	"Gilberto R. Lemon"
-
 POR_omga:0	"OGMA"
-
 POR_generic_fascist_demagogue:0	"Alberto Monsaraz"
 POR_generic_democratic_reformer:0	"Jaime Zuzarte Courtier"
 POR_generic_communist_revolutionary:0	"Álvaro Cunhal"
 POR_francisco_machado:0	"Francisco Vieira Machado"
-
 POR_fernando_costa:0	"Fernando Santos Costa"
 POR_jose_freitas:0	"José Vicente de Freitas"
 POR_pedro_pereira:0	"Pedro Teotónio Pereira"
-
-
-
-
-
-
-
-
 POR_humberto_delgado:0	"Humberto Delgado"
-
 POR_raul_brandao:0	"Raul Brandao"
-
-
-
-
 POR_manuel_quintao_meireles:0	"Manuel Quintão Meireles"
-
-
-
 POR_agostinho_lourenco:0	"Agostinho Lourenço"
 POR_agostinho_lourenco_desc:0	"Ein starker Befürworter der anglo-portugiesischen Allianz"
 POR_companhia_uniao_fabril:0	"Companhia União Fabril"
@@ -1525,39 +1101,19 @@ POR_endless_sea:0	"Endloses Meer"
 POR_hydroelectric_power:0	"Hydroelektrische Kraft"
 POR_hydroelectric_power_desc:0	"Dank der Investitionen im Norden und in der Mitte Portugals haben wir endlich ein Netz von Staudämmen gebaut, die Strom erzeugen und den Flusslauf regulieren."
 bad_harvest:0	"Schlechte Ernten"
-
-
 por_spain_trouble_desc:0	"Der Bürgerkrieg im benachbarten Spanien bedroht unsere Regierung und ermutigt die Rebellen."
-
 POR_eduardo_marques:0	"Eduardo Augusto Marques"
 POR_antonio_salazar:0	"António de Oliveira Salazar"
 POR_armindo_monteiro:0	"Armindo Monteiro"
 POR_mario_sousa:0	"Mário Pais de Sousa"
-
 POR_joao_leite:0	"João Pinto da Costa Leite"
 POR_abilio_sousa:0	"Abílio Passos e Sousa"
 POR_joaquim_abranches:0	"Joaquim Abranches"
-
-
-
-
-
-
-
-
 CAN_generic_democratic_reformer:0	"Robert Manion"
 CAN_generic_communist_revolutionary:0	"William Kashtan"
 CAN_chuck_crate:0	"Chuck Crate"
-
 CAN_susan_buchan:0	"Susan Buchan, Baronin Tweedsmuir"
-
-
-
-
 CAN_ralph_maybank:0	"Ralph Maybank"
-
-
-
 CAN_george_pearkes:0	"George Pearkes"
 CAN_william_stephenson:0	"William Stephenson"
 CAN_percy_nelles:0	"Percy W. Nelles"
@@ -1566,40 +1122,19 @@ CAN_alan_neill:0	"Alan Webster Neill"
 CAN_harry_barber:0	"Harry James Barber"
 CAN_james_mackinnon:0	"James Angus MacKinnon"
 CAN_james_turgeon:0	"James Gray Turgeon"
-
-
-
 CAN_george_croil:0	"George Croil"
-
 CAN_r_b_bennett:0	"R. B. Bennett"
 CAN_newton_wesley_rowell:0	"Newton Wesley Rowell"
 CAN_kenneth_stuart:0	"Kenneth Stuart"
 CAN_tasker_cook:0	"Tasker Cook"
-
 CAN_john_murchie:0	"John Murchie"
 CAN_frederick_m_w_harvey:0	"Frederick M. W. Harvey"
 CAN_george_volkoff:0	"George Volkoff"
-
-
-
-
-
-
-
-
 CAN_fairchild_aircraft_ltd:0	"Fairchild Aircraft Ltd."
 CAN_handley_page:0	"Handley Page"
 CAN_great_depression_1:0	"Große Depression"
-
 CAN_conscription_crisis:0	"Einberufungskrise unter Frankokanadiern"
-
-
-
-
 CAN_war_bonds_1:0	"Kriegsanleihen"
-
-
-
 CAN_swastika_clubs_skewer:0	"Hakenkreuz-Clubs"
 CAN_communist_ideals:0	"Kommunistische Ideale"
 CAN_communist_ideals_2:0	"Kommunistische Ideale"
@@ -1608,39 +1143,17 @@ CAN_broadcast:0	"Kanadische Rundfunk- und Fernsehgesellschaft"
 CAN_buckley:0	"Buckley's"
 CAN_buckley_desc:0	"W. K. Buckley Limited"
 CAN_finning:0	"Die Finning Gesellschaft"
-
-
 CAN_j_grierson:0	"John Grierson"
-
 CAN_western_command:0	"Western Command"
 luna_funded:0	"Nazi's Funded"
 AUS_eduard_freiherr:0	"Eduard Freiherr"
-
 AUS_lothar_rendulic:0	"Dr. Lothar Rendulic"
 AUS_franz_bohme:0	"Franz Böhme"
 AUS_odilo_globocnik:0	"Odilo Globocnik"
-
-
-
-
-
-
-
-
 AUS_julius_yllam:0	"Julius Yllam"
-
-
 AUS_wilhelm_zehner:0	"Wilhelm Zehner"
-
 AUS_paul_von_hegedus:0	"Paul von Hegedüs"
-
-
-
-
 VIC_jean_romatet:0	"Jean Romatet"
-
-
-
 VIC_rene_bousquet:0	"René Bousquet"
 VIC_marius_viple:0	"Marius Viple"
 VIC_maxime_weygand:0	"Maxime Weygand"
@@ -1649,42 +1162,20 @@ VIC_jean_francois_jannekeyn:0	"Jean-Francois Jannekeyn"
 VIC_jean_de_laborde:0	"Jean de Laborde"
 VIC_marcel_bruno_gensoul:0	"Marcel-Bruno Gensoul"
 VIC_pierre_le_gloan:0	"Pierre Le Gloan"
-
 AST_archie_cameron:0	"Archie Cameron"
 AST_albert_green:0	"Albert Grün"
-
 AST_earl_page:0	"Earle Page"
-
 AST_harry_foll:0	"Harry Spencer Foll"
 AST_arthur_calwell:0	"Arthur Calwell"
 AST_lance_sharkey:0	"Lance Sharkey"
 AST_arthur_drakeford:0	"Arthur Drakeford"
-
 AST_frank_baker:0	"Frank Baker"
 AST_frank_baker_desc:0	"Francis Baker"
 AST_william_gibson:0	"William Gibson"
-
-
-
-
-
-
-
-
 AST_robert_g_menzies:0	"Robert G. Menzies"
-
-
 AST_cederic_hicks:0	"Cedric Hicks"
-
 AST_lawrence_anthony:0	"Hubert Lawrence Anthony"
-
-
-
-
 AST_all_in:0	"Alle einsteigen!"
-
-
-
 AST_generic_fascist_demagogue:0	"Eric Campbell"
 AST_generic_communist_revolutionary:0	"Lance Sharkey"
 AST_jack_miles:0	"Jack Miles"
@@ -1693,43 +1184,20 @@ AST_charles_marr:0	"Charles Marr"
 AST_harold_thorby:0	"Harold Thorby"
 AST_jack_holloway:0	"Jack Holloway"
 AST_alexander_wilson:0	"Alexander Wilson"
-
 AST_percy_spender:0	"Percy Spender"
 AST_john_mcewen:0	"John McEwen"
-
 AST_sydney_rowell:0	"Sydney Rowell"
-
 AST_george_hyde:0	"George Hyde"
 AST_guy_royle:0	"Guy Royle"
 AST_edmund_herring:0	"Edmund Herring"
 AST_john_collins:0	"John Collins"
-
 AST_james_fairbairn:0	"James Fairbairn"
 AST_norman_makin:0	"Norman Makin"
 AST_isaac_isaacs_hos:0	"Isaac Isaacs"
-
-
-
-
-
-
-
-
 AST_desert_tactics:0	"Wüsten-Taktik"
-
-
 AST_militarism:0	"Militarismus"
-
 AST_ban_communism_idea:0	"AST-Verbot"
-
-
-
-
 AST_white_australia_idea:0	"Weißes Australien"
-
-
-
-
 AST_sydney_gardner:0	"Sydney Gardner"
 AST_david_rivett:0	"David Rivett"
 AST_john_jennings:0	"John Jennings"
@@ -1738,39 +1206,18 @@ AST_kapooka:0	"1. Rekrutenausbildungsbataillon"
 AST_broken_hill:0	"Broken Hill Proprietary Kompanie"
 AST_university_melbourne:0	"Nationaler Rat für Gesundheit und medizinische Forschung"
 AST_radio:0	"Radiophysik-Labor"
-
 AST_macfarlane_burnet_desc:0	"Frank Macfarlane Burnet"
-
 IRE_king_desc:0	"Der britische Monarch fungiert trotz unserer vielen Siege im Unabhängigkeitskrieg immer noch als Staatsoberhaupt Irlands. Aufgrund der Kurzsichtigkeit der Wählerschaft im Jahr 1922 war die Regierung gezwungen, den Anglo-Irischen Vertrag zu unterzeichnen, der unseren Mitgliedern der Regierung und des öffentlichen Dienstes den repressiven Treueid auferlegte. Darüber hinaus bleibt der König (wenn auch mit Abstand) immer noch das Oberhaupt des irischen Freistaats. Seit der Wahl von 1932 hat Fianna Fáil stets geschworen, solche Bestimmungen aus der Verfassung des Freistaats zu streichen und schließlich den Übergang zu einer vollwertigen Republik herbeizuführen. Obwohl bereits Schritte unternommen wurden, wie etwa die Abschaffung des Treueeids im Jahr 1932, bleiben viele verachtete Verbindungen zu Großbritannien bestehen – die symbolischste davon ist die Übernahme des Oberhauptes unseres großen Landes durch den britischen Monarchen."
 IRE_generic_fascist_demagogue:0	"Thomas F. O'Higgins"
 IRE_generic_democratic_reformer:0	"Donal Buckley"
 IRE_generic_communist_revolutionary:0	"Bill Scott"
-
 IRE_douglas_hyde:0	"Douglas Hyde"
 IRE_william_cosgrave:0	"William Thomas Cosgrave"
 IRE_ruairi_brugha:0	"Ruairí Brugha"
 IRE_john_costello:0	"John Aloysius Costello"
-
-
-
-
-
-
-
-
 IRE_john_byrne:0	"John O'Byrne"
-
-
 IRE_richard_james_mulcahy:0	"Richard James Mulcahy"
-
-
-
-
 IRE_oscar_traynor_dom:0	"Oscar Traynor"
-
-
-
-
 IRE_freedom:0	"Anglo-irischer Vertrag"
 IRE_freedom_desc:0	"Michael Collins bezeichnete den 1922 unterzeichneten Vertrag als "Freiheit, um Freiheit zu erlangen", und er hat Irland auf den Weg zur Unabhängigkeit gebracht"
 IRE_domhnall_buachalla:0	"Domhnall Ua Buachalla"
@@ -1779,41 +1226,19 @@ IRE_trade_war:0	"Anglo-irischer Handelskrieg"
 IRE_trade_war_desc:0	"Nach ihrer Machtübernahme und ihrem Amtsantritt 1932 verfolgte die neue Fianna-Fáil-Regierung unter Éamon de Valera eine protektionistische Wirtschaftspolitik und führte Zölle auf eine Vielzahl von Importgütern ein, hauptsächlich aus Großbritannien, dem mit Abstand größten Handelspartner des Freistaats. Dies wurde als notwendig erachtet, um die einheimische Industrie zu entwickeln und sich von der übermäßigen Abhängigkeit von Großbritannien zu lösen, das es versäumt hatte, sich unter den Bedingungen des freien Marktes industriell zu entwickeln. Außerdem sollte damit der drastische Rückgang der Nachfrage nach irischen Agrarerzeugnissen auf den internationalen Märkten infolge der 1929 einsetzenden Weltwirtschaftskrise ausgeglichen werden. Es mussten auch andere Mittel gefunden werden, um die katastrophale Handelsbilanz und die wachsende Staatsverschuldung auszugleichen. Der damalige Minister für Industrie und Handel, Seán Lemass, setzte eine energische Kampagne in Gang, um den Freistaat landwirtschaftlich und industriell autark zu machen. Es wurden alle Anstrengungen unternommen, um die von der Vorgängerregierung eingeführten Maßnahmen zur Förderung der Landwirtschaft und der Industrie zu ergänzen und die Bevölkerung zu ermutigen, britische Importe zu vermeiden und "irische Waren zu kaufen"."
 IRE_trade_war_eng:0	"Anglo-irischer Handelskrieg"
 IRE_trade_war_eng_desc:0	"Der britische Premierminister Ramsay MacDonald verhängte als Vergeltung einen Einfuhrzoll von 20 % auf landwirtschaftliche Erzeugnisse aus den Freistaaten, die 90 % aller Exporte der Freistaaten ausmachten. Die britischen Haushalte waren nicht bereit, zwanzig Prozent mehr für diese Lebensmittel zu zahlen. Der Freistaat antwortete mit einem ähnlichen Zoll auf britische Importe und im Falle von Kohle aus dem Vereinigten Königreich mit dem bemerkenswerten Slogan (von Jonathan Swift in den 1720er Jahren): 'Verbrennt alles Englische, außer ihrer Kohle'. Während das Vereinigte Königreich von dem darauf folgenden Wirtschaftskrieg weit weniger betroffen war, wurde die irische Wirtschaft schwer in Mitleidenschaft gezogen."
-
 IRE_great_depression_2:0	"Große Depression"
 IRE_great_depression_3:0	"Große Depression"
-
 IRE_henry_somerville:0	"Henry Somerville"
 IRE_henry_somerville_desc:0	"Vizeadmiral Henry Boyle Townshend Somerville"
 GRE_generic_fascist_demagogue:0	"Demosthenes Nicoladis"
 GRE_generic_democratic_reformer:0	"Themistokles Sophoulis"
-
 GRE_petros_voulgaris:0	"Petros Voulgaris"
 GRE_alexandros_sakellariou:0	"Alexandros Sakellariou"
 GRE_konstantinos_ventiris:0	"Konstantinos Ventiris"
 GRE_alexander_papagos:0	"Alexander Papagos"
-
-
-
-
-
-
-
-
 GRE_evripidis_bakirtris:0	"Evripidis Bakirtris"
-
-
 GRE_communist_agitation:0	"Proteste der Gewerkschaft der Syndikalisten"
-
-
-
-
-
 GRE_communist_agitation_desc:0	"Kommunisten, Syndikalisten und Gewerkschaften haben die Straßen überflutet. Die KKE, die Kommunistische Partei Griechenlands, organisiert die Übernahme der griechischen Regierung, und das muss verhindert werden!"
-
-
-
-
 GRE_greek_guerillas_3:0	"Griechische Guerillas"
 GRE_greek_guerillas_3_desc:0	"Die schwer fassbaren griechischen Guerillas treiben ihr Unwesen auf dem griechischen Festland, Zerstörung und Sabotage sind an der Tagesordnung, unsere Besatzer werden für die Unterdrückung des griechischen Volkes teuer bezahlen!"
 GRE_ifesi:0	"ífesi"
@@ -1822,42 +1247,20 @@ GRE_EON:0	"Ethnikí Orgánosis Neoléas"
 GRE_EON_desc:0	"Wir haben die Nationale Jugendorganisation gegründet, diese Organisation wird dazu dienen, unsere Kinder und Jugendlichen über die Werte von Metaxas und dem 4. August Reigime zu erziehen. Diese Jugendlichen werden großartige Arbeiter und, wenn nötig, Soldaten sein."
 GRE_cult_of_the_admiral:0	"Kult der Koundouriótis"
 GRE_tobacco_trade:0	"Tabakhandel"
-
 GRE_ammunition_sortages:0	"Munitionssortimente"
 GRE_ammunition_sortages_desc:0	"Unsere Gewehre stammen hauptsächlich aus Österreich, die Munition von Steyer Arms ist knapp. Auch bei allen Arten von Artilleriegranaten haben wir Probleme mit den Sortierungen. Wir müssen bald gewinnen. Andernfalls werden wir uns mit Stöcken und Steinen gegen die Italiener wehren müssen."
-
 GRE_logistical_troubles_desc:0	"Das unterentwickelte Straßennetz zwingt uns auf schlechte Gebirgsstraßen, Maultiere und Zivilisten werden für den Nachschub eingesetzt, was bedeutet, dass es häufig zu Versorgungsengpässen bei Lebensmitteln und Munition kommt. Unsere Armee hat es schwer, aber wir werden weiterkämpfen."
 GRE_army_fatigue:0	"Ermüdung der Armee"
 GRE_army_fatigue_desc:0	"Wir hängen am seidenen Faden, denn wir können den überlegenen Kräften der Achsenmächte nur eine bestimmte Zeit lang standhalten. Wir werden bis zum Ende kämpfen, aber die Niederlage könnte unvermeidlich sein."
 GRE_cretan_defence_strategy:0	"Letztes Gefecht auf Kreta"
 GRE_cretan_defence_strategy_desc:0	"Griechenland kann seine Regierung nach Kreta evakuieren. Wenn unser Festland verloren ist, werden wir auf der großen Insel Kreta ein entschlossenes letztes Gefecht führen."
-
 GRE_EAM_desc:0	"Die Kommunistische Partei Griechenlands hat unabhängig von der Regierung über ihren bewaffneten Flügel, die Nationale Befreiungsfront (EAM), einen sehr wirksamen Guerillakrieg geführt!"
 GRE_mutinies:0	"Politische Meuterei"
 GRE_mutinies_desc:0	"Es gibt eine Meuterei der griechischen Kommunisten in unseren Reihen"
 GRE_army_collapse:0	"Zusammenbruch der Festlandarmee"
-
-
-
-
-
-
-
-
 GRE_manolis_triantafyllidis:0	"Manolis Triantafyllidis"
-
-
 GRE_army_issues:0	"Unterfinanziertes Militär"
-
-
-
-
-
 HOL_generic_democratic_reformer:0	"Andries Dirk de Graaf"
-
-
-
-
 HOL_pieter_oud:0	"Pieter Oud"
 HOL_jan_rudolph:0	"Otto van Lidth de Jeude"
 HOL_laurentius_nicolaas:0	"Laurentius Nicolaas Deckers"
@@ -1866,43 +1269,20 @@ HOL_hendrik_boeijen:0	"Hendrik van Boeijen"
 HOL_max_steenberghe:0	"Max Steenberghe"
 HOL_maarten_belzer:0	"Maarten Belzer"
 HOL_claes_douw_van_der_krap:0	"Claes Douw van der Krap"
-
 HOL_johannes_furstner:0	"Johannes Furstner"
 HOL_marius_raaijmakers:0	"Marius Raaijmakers"
-
 HOL_nico_van_straaten:0	"Nico van Straaten"
 HOL_royal_dutch_shell:0	"Königlich Niederländische Shell"
 HOL_philips:0	"Philips"
 HOL_DAF_trucks:0	"DAF Lastkraftwagen"
 DEN_wilhelm_prior:0	"Wilhelm W. Prior"
-
 DEN_ebbe_gortz:0	"Ebbe Gørtz"
 DEN_paul_sommer:0	"Paul Sommer"
 DEN_kaj_birksted:0	"Kaj Birksted"
 DEN_aage_vedel:0	"A.H. Vedel"
-
-
-
-
-
-
-
-
 DEN_christian_frederik_von_schalburg:0	"Christian Frederik von Schalburg"
-
-
 DEN_hans_lunding:0	"Hans Lunding"
-
-
-
-
-
-
 BALTIC_defending_the_nation:0	"Nationaler Verteidigungsrat"
-
-
-
-
 LIT_feliksas_baltusis:0	"Feliksas Baltusis-Zemaitis"
 LIT_stasys_rastikis:0	"Stasys Rastikis"
 LIT_antanas_gustaitis:0	"Antanas Gustaitis"
@@ -1911,44 +1291,21 @@ LIT_vladas_jurgutis:0	"Vladas Jurgutis"
 LIT_leonas_bistras:0	"Leonas Bistras"
 LIT_mykolas_slezevicius:0	"Mykolas Slezevicius"
 LIT_jonas_cernius:0	"Jonas Cernius"
-
 LIT_juoza_barzda_bradauskas:0	"Juoza Barzda-Bradauskas"
 LIT_albinas_cepas:0	"Albinas Cepas"
-
 LIT_adolfas_ramanauskas:0	"Adolfas Ramanauskas"
 LIT_juozas_ambrazevicius:0	"Juozas Ambrazevičius"
 LIT_pranas_barkauskas:0	"Pranas Barkauskas"
 LIT_julius_chaplik:0	"Julius Čaplikas"
 LIT_antanas_petrauskas:0	"Antanas Petrauskas"
 LIT_stasys_putvinskis:0	"Stasys Pūtvis"
-
 LIT_agrarian_society_desc:0	"Litauens Wirtschaft dreht sich weitgehend um die Landwirtschaft. Durch den Export von Lebensmitteln in die Nachbarländer erwirtschaftet Litauen den größten Teil seines Einkommens."
 LIT_invested_in_farms:0	"Landwirtschaftliche Gesellschaft"
 LIT_invested_in_farms_desc:0	"Mit angemessenen Investitionen hat sich die weitgehend auf der Landwirtschaft basierende Wirtschaft Litauens zum Vorteil des Staates entwickelt, wobei die litauische Ernte die Kriegswirtschaft ankurbelt und eine angemessene Infrastruktur die schnelle Mobilisierung der verstreuten Bauerngemeinschaften im ganzen Land erleichtert."
 LIT_invested_in_farms_1:0	"Landwirtschaftliche Gesellschaft"
-
-
-
-
-
-
-
-
 EST_generic_fascist_demagogue:0	"Johannes Vares-Barbaruse"
-
-
 EST_boris_kumm:0	"Boris Kumm"
-
-
-
-
-
-
 EST_richard_veermaa:0	"Richard Veermaa"
-
-
-
-
 EST_juhan_tuuling:0	"Juhan Tuuling"
 EST_democratic_opposition:0	"Demokratische Opposition"
 LAT_generic_fascist_demagogue:0	"Alberts Kviesis"
@@ -1957,45 +1314,21 @@ LAT_generic_communist_revolutionary:0	"Ernests Kreismanis"
 LAT_fricis_celmins:0	"Fricis Celmins"
 LAT_rudolfs_kocins:0	"Rudolfs Kociñs"
 LAT_arturs_sprogis:0	"Arturs Sprogis"
-
 LAT_tomas_spade:0	"Tomas Spaten"
 LAT_teodors_zvejnieks:0	"Teodors Zvejnieks"
-
 LAT_ludvigs_ctis:0	"Ludvigs Ctis"
 LAT_vilis_lacis:0	"Vilis Lacis"
 LAT_janis_kaminskis:0	"Janis Kaminskis"
 LAT_vilhelms_munters:0	"Vilhelms Munters"
 LAT_kornelijs_veidnieks:0	"Kornelijs Veidnieks"
 LAT_otto_hellmich:0	"Otto Hellmich"
-
 LAT_janis_berzins:0	"Janis Berzins"
 LAT_arturs_silgailis:0	"Arturs Silgailis"
 Cockerill_industry:0	"Anonyme Gesellschaft John Cockerill"
 solvay:0	"Solvay S.A."
-
-
-
-
-
-
-
-
 BEL_henri_man:0	"Henri De Man"
-
-
 BEL_marcel_jaspar:0	"Marcel-Henri Jaspar"
-
-
-
-
-
-
 BEL_generic_communist_revolutionary:0	"Julien Lahaut"
-
-
-
-
-
 BEL_fritz_lob:0	"Fritz Löb"
 BEL_georges_deffontaine:0	"Georges Deffontaine"
 BEL_oscar_michiels:0	"Oscar Michiels"
@@ -2004,117 +1337,60 @@ SWI_neutral_desc:0	"Das Schweizer Volk hat es nicht nötig, sich in die kleinlic
 SWI_hermann_obrecht:0	"Hermann Obrecht"
 SWI_philipp_etter:0	"Philipp Etter"
 SWI_marcel_golaz:0	"Marcel Pilet-Golaz"
-
 SWI_generic_democratic_reformer:0	"Marcel Pilet-Golaz"
 SWI_generic_communist_revolutionary:0	"Rudolf Gelpke"
-
 SWI_johannes_baumann:0	"Johannes Baumann"
 SWI_roger_masson:0	"Roger Masson"
 SWI_ernst_wetter:0	"Ernst Wetter"
 SWI_oskar_bider:0	"Oskar Bider"
 SWI_werner_jenni:0	"Werner Jenni"
 SWI_johann_august_sutter:0	"Johann August Sutter"
-
 SWI_carl_jacob_burckhardt:0	"Carl Jacob Burckhardt"
 SWI_j_d_de_montenach:0	"J.D. de Montenach"
 SWI_rene_von_graffenried:0	"Rene von Graffenried"
 SWI_hans_peter_bichsel_sohn:0	"Hans Peter Bichsel-Sohn"
 SWI_hermann_hessel_lorenz:0	"Hermann Hessel-Lorenz"
-
-
-
-
-
-
-
-
-
 IRQ_generic_communist_revolutionary:0	"Arshad al Umari"
-
-
 IRQ_khaled_al_dalabeeh:0	"Khaled al Dalabeeh"
-
-
-
-
-
-
 IRQ_taha_al_ahmani:0	"Taha al Ahmani"
-
-
-
-
-
 ARG_generic_democratic_reformer:0	"Alberto Gilbert"
 ARG_generic_communist_revolutionary:0	"Juan Domingo Peron"
 ARG_ramon_castillo:0	"Ramon Castillo"
 ARG_luis_podesta_costa:0	"Luis Podesta Costa"
-
 ARG_agustin_pedro_justo:0	"Agustín Pedro Justo"
 ARG_manuel_a_rodriguez:0	"Manuel A. Rodriguez"
 ARG_pedro_s_casal:0	"Pedro S. Casal"
 ARG_pedro_pablo_ramirez:0	"Pedro Pablo Ramirez"
 ARG_antonio_parodi:0	"Antonio Parodi"
-
 ARG_heriberto_la_galine:0	"Heriberto La Galíne"
 ARG_francisco_m_velez:0	"Francisco M. Velez"
-
 ARG_uribaldi_diaz_brittenberg:0	"Uribaldi Díaz Brittenberg"
 ARG_eleazar_videla:0	"Eleazar Videla"
 ARG_edelmiro_farrell:0	"Edelmiro Farrell"
 ARG_hortensio_quijano:0	"Hortensio Quijano"
 AFG_generic_fascist_demagogue:0	"Abdul Majid"
 AFG_generic_democratic_reformer:0	"Abdul Hossein Aziz"
-
 ARG_agustin_justo:0	"Agustín Pedro Justo"
 AFG_haji_faiz_muhammed_zikeria:0	"Haji Faiz Muhammed Zikeria"
 AFG_mohammad_hashim_khan:0	"Mohammed Hashim Khan"
-
 AFG_mahmud_khan:0	"Mahmud Khan"
 AFG_muhammad_amin_bughra:0	"Mohammed Amin Bughra"
-
-
-
-
 AFG_aalem_daana:0	"Aalem Daana"
-
-
-
-
-
 AFG_nasirullah_husain:0	"Nasirullah Husain"
-
-
 BOL_generic_communist_revolutionary:0	"Guillermo Lora"
-
-
-
-
-
-
-
 BOL_gil_ibarra_juarez:0	"Gil Ibarra Juarez"
-
-
-
 BOL_fabian_vaca_chavez:0	"Fabian Vaca Chavez"
-
-
 BOL_hector_bilbao_roja:0	"Hector Bilbao Roja"
 BOL_alberto_ostria_gutierrez:0	"Alberto Ostria Gutierrez"
 BRA_generic_fascist_demagogue:0	"Tarcisio Padilha"
 BRA_generic_democratic_reformer:0	"Raoul Fernandes"
-
 BRA_washington_luis_pereira:0	"Washington Luis Pereira"
 BRA_osvaldo_aranha:0	"Osvaldo Aranha"
 BRA_afranio_de_mello_franco:0	"Afranio de Mello Franco"
 BRA_newton_cavalcanti:0	"Newton Cavalcanti"
 BRA_eduardo_gomes:0	"Eduardo Gomes"
-
-
 BRA_salgado_filho:0	"Salgado Filho"
 BRA_ismael_motta_paes:0	"Ismael Motta Paes"
-
 BRA_jorge_martins:0	"Jorge Martins"
 BRA_floriano_peixoto:0	"Floriano Peixoto"
 BRA_epaminondas_dos_santos:0	"Epaminondas dos Santos"
@@ -2122,57 +1398,28 @@ BRA_agliberto_vieira:0	"Agliberto Vieira"
 BRA_artur_da_costa_e_silva:0	"Artur da Costa é Silva"
 BRA_moreira_lima:0	"Moreira Lima"
 CHL_generic_fascist_demagogue:0	"Misael Galleguillos"
-
 CHL_generic_communist_revolutionary:0	"Augustin Edwards"
 CHL_gustavo_ross_santa_maria:0	"Gustavo Ross Santa Maria"
 CHL_miguel_cruchaga_tacomal:0	"Miguel Cruchaga Tacomal"
-
 CHL_julio_allard_pinto:0	"Julio Allard Pinto"
 CHL_e_novoa_fuentes:0	"E. Novoa Fuentes"
-
-
-
-
 CHL_ernesto_m_orlando:0	"Ernesto M. Orlando"
-
-
-
-
-
 CHL_ariosto_herrera:0	"Ariosto Herrera"
 COL_generic_fascist_demagogue:0	"Julio Valdez"
-
-
 COL_raphael_hollmann:0	"Raphael Hollmann"
-
-
-
-
-
-
-
 COL_enrico_diaz_carias:0	"Enrico Díaz Carias"
-
-
-
 COL_querista_sellor:0	"Querista Sellor"
-
-
 COL_luis_rodriguez:0	"Luis Rodriguez"
 COL_ruben_piedrahita_arango:0	"Ruben Piedrahita Arango"
 COL_salvador_tiaga_gonzalez:0	"Salvador Tiaga Gonzalez"
 SAF_generic_fascist_demagogue:0	"J. F. van Rensburg"
-
 SAF_george_villiers:0	"George Herbert Hyde Villiers"
 SAF_oswald_pirow:0	"Oswald Pirow"
 SAF_h_bodenstein:0	"H.D.J. Bodenstein"
 SAF_mweli_skota:0	"Mweli Skota"
 SAF_walter_madeley:0	"Walter Bayley Madeley"
-
-
 SAF_richard_stuttaford:0	"Richard Stuttaford"
 SAF_j_f_van_rensburg_fascist:0	"J. F. van Rensburg"
-
 SAF_generic_communist_revolutionary:0	"Markus B. Lawrence"
 SAF_nicolaas_havenga:0	"Nicolaas Havenga"
 SAF_d_f_malan:0	"D. F. Malan"
@@ -2180,57 +1427,28 @@ SAF_e_g_jansen:0	"E.G. Jansen"
 SAF_villiers:0	"Isaac Pierre de Villiers"
 SAF_arthur_hall:0	"Arthur Lewis Hall"
 SAF_p_grobler:0	"Peter Grobler"
-
 SAF_james_mitchell_baker:0	"James Mitchell-Baker"
 SAF_leonard_beyers:0	"Leonard Beyers"
 SAF_adolf_malan:0	"Adolf Malan"
-
 SAF_pierre_oliver_knoll:0	"Pierre Oliver-Knoll"
 SAF_cornelis_van_zuigenbrogge:0	"Cornelis van Zuigenbrogge"
-
-
-
-
 SAF_j_f_van_rensburg:0	"J. F. van Rensburg"
-
-
-
-
-
 SAF_ossewabrandwag_2:0	"Ossewabrandwag"
 SAF_ossewabrandwag_fascism:0	"Ossewabrandwag"
-
-
 SAF_cheap_labor_1:0	"Billige Arbeit"
-
-
-
-
-
-
-
 SAF_soviet_advisers:0	"Sowjetische Berater"
-
-
-
 SAF_scw_veterans:0	"Veteranen des Spanischen Bürgerkriegs"
-
-
 SAF_dorman_desc:0	"Dorman Long Stahlbauunternehmen"
 SAF_broadcasting:0	"Südafrikanische Rundfunk- und Fernsehgesellschaft"
 SAF_basil:0	"Basil Schonland"
 SAF_basil_desc:0	"Sir Basil Ferdinand Jamieson Schonland"
-
 SAU_generic_democratic_reformer:0	"Hussein al Qahtani"
 SAU_generic_communist_revolutionary:0	"Mubarak al Yami"
 SAU_moukhled_al_asmari:0	"Moukhled al Asmari"
 SAU_sa_ad_shaddad_al_outaibi:0	"Sa'ad Schaddad al Outaibi"
 SAU_salih_al_rajihi:0	"Salih al Rajihi"
-
-
 SAU_harry_st_john_philby:0	"Harry St. John Philby"
 SAU_hamed_al_sabani:0	"Hamed al-Sabani"
-
 SAU_faisal_saud:0	"Faisal Saud"
 SAU_karim_nassar:0	"Karim Nassar"
 SAU_faisal_al_saud:0	"Faisal al-Saud"
@@ -2238,57 +1456,28 @@ SAU_ismail_ali_al_salhi:0	"Ismail Ali al-Salhi"
 SAU_arthur_dawkins:0	"Arthur Dawkins"
 SAU_bassam_abu_khadar:0	"Bassam Abu Khadar"
 SAU_hamadan_al_odha:0	"Hamadan al-Odha"
-
 SAU_ali_muhammed_khan:0	"Ali Muhammed Khan"
 SAU_gholam_wali:0	"Gholam Wali"
 TAN_generic_fascist_demagogue:0	"Wjatscheslaw Wassiljew"
-
 TAN_generic_communist_revolutionary:0	"Valerie Mejlauk"
 TAN_s_t_perilenko:0	"S.T. Perilenko"
-
-
-
-
 TAN_homushku_churguj_ool:0	"Homuschku Tschurguj-ool"
-
-
-
-
-
 TAN_grinchik:0	"Grinchik"
 TAN_v_i_kulikovskij:0	"V.I. Kulikovskij"
-
-
 VEN_generic_fascist_demagogue:0	"Adolfo Melgarejo"
-
-
-
-
-
-
-
 VEN_david_lopez_henriques:0	"David Lopez Henriques"
-
-
-
 VEN_victor_sanchez_croes:0	"Victor Sanchez Croes"
-
-
 VEN_carlos_ramos_diaz:0	"Carlos Ramos Díaz"
 VEN_carlos_garcia_mendoza:0	"Carlos Garcia Mendoza"
 VEN_antonio_casas_gonzalez:0	"Antonio Casas Gonzalez"
 VEN_jose_polares_pavon:0	"José Polares Pavon"
-
 CRO_generic_democratic_reformer:0	"Vladko Macek"
 CRO_generic_communist_revolutionary:0	"Janko Mohorovicic"
 CRO_ivan_subasic:0	"Ivan Subasic"
 CRO_alojzije_stepinac:0	"Alojzije Stepinac"
 CRO_gaspar_njegovan:0	"Gaspar Njegovan"
-
-
 CRO_adalbert_rogulja:0	"Adalbert Rogulja"
 CRO_edgar_angeli:0	"Edgar Angeli"
-
 CRO_slavko_kvaternik:0	"Slawko Kvaternik"
 CRO_vladimir_kren:0	"Vladimir Kren"
 CRO_sismundo_pejacevic:0	"Sismundo Pejacevic"
@@ -2296,58 +1485,28 @@ CRO_ivan_crnkovic:0	"Ivan Crnkovic"
 CRO_mihajlo_tomasic:0	"Mihajlo Tomasic"
 BUR_ba_maw:0	"Ba Maw"
 BUR_saw_pe_tha:0	"Saw Pe Tha"
-
 BUR_sir_paw_tun:0	"Sir Paw Tun"
 BUR_U_thoon_aung_gyew:0	"U Thoon Aung Gyew"
 BUR_u_tharrawaddy_maung_maung:0	"U Tharrawaddy Maung Maung"
-
 BUR_Sir_Harold_Alexander:0	"Sir Harold Alexander"
 BUR_donald_k_McLeod:0	"Doland K. McLeod"
-
-
-
-
 RAJ_victor_hope:0	"Victor Alexander John Hope"
-
-
-
-
-
 RAJ_hindu_mahasabha:0	"Hindu Mahasabha"
 RAJ_john_mathai:0	"John Mathai"
-
-
 RAJ_subhas_chanda_bose:0	"Subhas Chandra Bose"
-
-
-
-
-
-
-
 RAJ_george_h_douglas:0	"George H. Douglas"
-
-
-
 RAJ_rajendra_prasad:0	"Rajendra Prasad"
-
-
 RAJ_ram_singh_thakur:0	"Ram Singh Thakuri"
 RAJ_arjan_singh_vibhusan:0	"Arjan Singh Vibhusan"
-
 RAJ_mehar_singh:0	"Mehar Singh"
 RAJ_w_h_gould_bradford:0	"W.H. Gould-Bradford"
-
 RAJ_archibald_wavell:0	"Archibald Wavell"
 RAJ_sir_frank_messervy:0	"Sir Frank Messervy"
 RAJ_reginald_savory:0	"Reginald Savory"
 RAJ_kodandera_cariappa:0	"Kodandera Cariappa"
 RAJ_mohan_singh:0	"Mohan Singh"
-
-
 RAJ_ravindra_darshan_singh:0	"Ravindra Darshan Singh"
 RAJ_louis_mountbatten:0	"Louis Mountbatten"
-
 RAJ_bhaskar_soman:0	"Bhaskar Soman"
 RAJ_ram_dass_katari:0	"Ram Dass Katari"
 RAJ_s_ramanathan:	"S. Ramanathan"
@@ -2358,32 +1517,19 @@ RAJ_azad_hind_desc:0	"Die Regierung des Freien Indiens, die von Feinden der Brit
 RAJ_marginalized_muslim_community:0	"Marginalisierte muslimische Gemeinschaft"
 RAJ_marginalized_muslim_community_angry:0	"Marginalisierte muslimische Gemeinschaft"
 RAJ_marginalized_muslim_community_happy:0	"Marginalisierte muslimische Gemeinschaft"
-
 RAJ_risk_of_famine_desc:1	"Das indische System der Lebensmittelproduktion ist sehr anfällig. Schon eine kleine Unterbrechung kann zu einem Zusammenbruch führen."
 RAJ_risk_of_famine_tt:	"Dauer der Trockenzeit: §R+15§! Tage"
 RAJ_famine:0	"Hungersnot"
 RAJ_famine_desc:0	"Inkompetenz, Gleichgültigkeit und eklatante Korruption in der Kolonialregierung und bei den indischen Eisenbahnen haben aus einer schwierigen Situation eine ausgewachsene Katastrophe gemacht. Das Land wird noch monatelang darunter zu leiden haben."
-
 RAJ_princely_states_election:0	"Fürstliche Staaten"
 RAJ_princely_states_donations:0	"Fürstliche Staaten"
-
-
 RAJ_all_india_forward_bloc_communism:0	"All India Forward Bloc"
-
 RAJ_colonial_boot:0	"Unter dem Stiefel des Kolonialismus"
-
 RAJ_tisco_desc:0	"Die Tata Eisen- und Stahlgesellschaft"
-
-
 RAJ_dry_season_desc:	"Während dieser Zeit ist es für die Dorfbewohner weniger wahrscheinlich, dass sie ihre eigenen Nahrungsmittel anbauen können, was die Nachfrage nach unseren Vorräten erhöht. \n §YWenn Sie mehr Nahrungsmittel lagern und/oder den §C$RAJ_risk_of_famine$§R entfernen§Y, wird sich die durchschnittliche Zeit dieses Geistes verkürzen."
-
-
-
-
 RAJ_freedom_champ_desc:0	"Indem wir anderen mehr Freiheit gewähren, zeigen wir unserem Volk, dass wir es wert sind, mehr zu bekommen."
 RAJ_potash:0	"Soda Asche Düngemittel"
 RAJ_potash_desc:0	""
-
 RAJ_learning:0	"Kluges Lernen"
 RAJ_lolly_water:0	"Getränkelieferungen"
 RAJ_ottawa_treaty:0	"Ottawa Handelsabkommen"
@@ -2392,33 +1538,18 @@ RAJ_harmony_desc:	"Mehrere Religionen und Traditionen sind in unserem Land behei
 india_religous_riots_cap:	"Religiöse Harmonie"
 RAJ_harmony_tt:	"Religiöse Harmonie: §Y[?india_religous_riots_cap]"
 PRC_generic_fascist_demagogue:0	"Luo Wu Sun"
-
-
 PRC_lin_bojiu:0	"Lin Bojiu"
-
-
 PRC_ma_jin:0	"Ma Jin"
 PRC_li_kenong:0	"Li Kenong"
 PRC_pan_hannian:0	"Pan Hannian"
-
-
-
-
 PRC_ziao_jingguang:0	"Ziao Jingguang"
-
 PRC_liang_shen:0	"Liang Shen"
-
-
 PRC_hsia_tian:0	"Hsia Tian"
-
-
 LUX_generic_democratic_reformer:0	"René Blum"
 LUX_generic_communist_revolutionary:0	"Paul Medinger"
-
 LUX_martin_karp:0	"Martin Karp"
 LUX_pierre_krier:0	"Pierre Krier"
 LUX_guillaume_soisson:0	"Guillaume Soisson"
-
 LUX_paul_medinger:0	"Paul Medinger"
 LUX_henri_ahnen:0	"Henri Ahnen"
 LUX_francois_schammel:0	"Francois Schammel"
@@ -2426,7 +1557,6 @@ LUX_aloyse_glodt:0	"Aloyse Glodt"
 LUX_damien_roeser:0	"Damien Roeser"
 LUX_pierre_fischbach:0	"Pierre Fischbach"
 LUX_alex_federspiel:0	"Alex Federspiel"
-
 LUX_florent_destriveaux:0	"Florent Destriveaux"
 ALB_generic_fascist_demagogue:0	"Mustafa Merlika-Kruja"
 ALB_generic_democratic_reformer:0	"Enver Hoxha"
@@ -2437,80 +1567,35 @@ ALB_fiqri_dine:0	"Fiqri Dine"
 ALB_qemal_komani:0	"Qemal Komani"
 ALB_xhelal_mitrovica:0	"Xhelal Mitrovica"
 ALB_hajre_fetahu:0	"Hajrë Fetahu"
-
 ALB_alexander_mori:0	"Alexander Mori"
 ALB_kristo_cajupi:0	"Kristo Cajupi"
-
 ALB_kol_bibe_mirakaj:0	"Kol Bibë Mirakaj"
 ALB_prenk_pervizi:0	"Prenk Pervizi"
-
-
-
 ALB_rexhep_mitrovica:0	"Rexhep Mitrovica"
 ALB_hasan_begolli:0	"Hasan Begolli"
 ALB_ismael_ghaxa:0	"Ismael Ghaxa"
 BHU_sonam_tobgay_dorji:0	"Sonam Tobgay Dorji"
-
 BHU_mang_pos_bhur_bai:0	"Mang-pos Bhur-ba'i"
-
 BHU_jigme_dorji_wangchuck:0	"Jigme Dorji Wangchuck"
 BHU_namgyal_bahadur:0	"Namgyal Bahadur"
-
 BHU_ugyen_tenzin:0	"Ugyen Tenzin"
 BHU_tommy_gould:0	"Tommy Gould"
-
-
 BHU_bill_collett:0	"Bill Collett"
-
-
-
 BHU_tsarong_rinpoche:0	"Tsarong Rinpoche"
-
-
-
-
-
-
-
 SLO_stefan_tiso:0	"Stefan Tiso"
-
-
-
-
-
-
-
-
-
-
 SLO_jindrich_honzl:0	"Jindrich Honzl"
-
-
 COS_generic_democratic_reformer:0	"Miguel Ramirez Alcantara"
-
-
 COS_otto_cortes_fernandez:0	"Otto Cortes Fernandez"
 COS_roberto_brenes_mesen:0	"Roberto Brenes Mesen"
 COS_chico_orlich_bolmarich:0	"Chico Orlich Bolmarich"
-
-
-
-
 COS_guillermo_macho_nunez:0	"Guillermo Macho Nuñez"
-
 COS_hugo_siedler_mendoza:0	"Hugo Siedler Mendoza"
-
-
 COS_baptista_e_gutierrez:0	"Baptista E. Gutierrez"
-
-
 COS_roberto_juarez_camposino:0	"Roberto Juarez Camposino"
 COS_felipe_abreu_castro:0	"Felipe Abreu Castro"
-
 NIC_generic_democratic_reformer:0	"Julían Irias Navarro"
 NIC_generic_communist_revolutionary:0	"Juan Y. Masquez"
 NIC_leonardo_arguello_vargas:0	"Leonardo Argüello Vargas"
-
 NIC_benjamin_lacayo_sacasa:0	"Benjamin Lacayo Sacasa"
 NIC_augusto_caraval_antonio:0	"Augusto Caraval Antonio"
 NIC_victor_roman_y_reyes:0	"Victor Roman y Reyes"
@@ -2518,7 +1603,6 @@ NIC_guillermo_r_cuadra:0	"Guillermo R. Cuadra"
 NIC_joel_garcia_zaldana:0	"Joel Garcia Zaldana"
 NIC_gustavo_flores_mendienta:0	"Gustavo Flores Mendienta"
 NIC_noel_esto_nino_miranda:0	"Noel Esto Niño Miranda"
-
 NIC_manuel_corovel_kirsch:0	"Manuel Corovél Kirsch"
 NIC_bernardo_doroteo:0	"Bernardo Doroteo"
 NIC_juan_pablo_esquerra:0	"Juan Pablo Esquerra"
@@ -2529,80 +1613,35 @@ ELS_generic_fascist_demagogue:0	"Marco A. Molina"
 ELS_generic_democratic_reformer:0	"Andrés Ignacio Menéndez"
 ELS_generic_communist_revolutionary:0	"Franco Hernandez Ávila"
 ELS_salvador_castaneda_castro:0	"Salvador Castañeda Castro"
-
 ELS_oscar_a_bolanos:0	"Oscar A. Bolaños"
 ELS_osmin_aguirre_y_salinas:0	"Osmín Aguirre y Salinas"
-
 ELS_humbert_aberle:0	"Humbert Aberle"
 ELS_ricardo_abrego_abrego:0	"Ricardo Abrego Abrego"
-
-
-
 ELS_mauro_espinola_castro:0	"Mauro Espínola Castro"
 ELS_milton_andrade_cabrera:0	"Milton Andrade Cabrera"
 ELS_humberto_costa:0	"Humberto Costa"
 ELS_augustin_farabundo_marti:0	"Augustín Farabundo Martí"
-
 ELS_reinaldo_galindo_pohl:0	"Reinaldo Galindo Pohl"
-
 ECU_generic_fascist_demagogue:0	"Jorge Luna Yepes"
 ECU_generic_democratic_reformer:0	"Isidro Ayora Cueva"
-
 ECU_davide_flores:0	"Davide Flores"
 ECU_carlos_arosemena_tola:0	"Carlos Arosemena Tola"
-
-
 ECU_federico_paez_chiriboaga:0	"Federico Páez Chiriboaga"
-
-
-
 ECU_ramon_moran_valverde:0	"Ramon Moran Valverde"
-
-
-
-
-
-
-
 ECU_julio_salem_gallegos:0	"Julio Salém Gallegos"
-
-
-
-
-
-
-
-
-
-
 NZL_keith_j_holyoake:0	"Keith J. Holyoake"
-
-
 NZL_paddy_webb:0	"Paddy Webb"
-
-
 NZL_j_c_nichols:0	"J.C. Nichols"
 NZL_arthur_sexton:0	"Arthur Sexton"
 NZL_h_d_mcgregor:0	"H.D. McGregor"
-
-
-
-
 NZL_fred_jones:0	"Fred Jones"
-
 NZL_william_sinclair_burgess:0	"William Sinclair-Burgess"
-
-
 NZL_n_weir:0	"N. Weir"
-
-
 NZL_h_e_horan:0	"H.E. Horan"
 NZL_w_h_stratton:0	"W.H.Stratton"
-
 NZL_stomp_out_pacifism:0	"Den Pazifismus ausrotten"
 NZL_first_labor_government:0	"Erste Labour-Regierung"
 NZL_the_workers_party_1:0	"Die Arbeiterpartei (Worker's Party)"
-
 NZL_george_monckton:0	"George Vere Arundel Monckton-Arundell"
 NZL_michael_myers:0	"Michael Myers"
 NZL_cyril_newall:0	"Cyril Louis Norton Newall"
@@ -2610,7 +1649,6 @@ NZL_academy:0	"Neuseeländische Kommando- und Stabsakademie"
 NZL_apirana_ngata:0	"Āpirana Ngata"
 NZL_bp:0	"BP Neuseeland"
 NZL_fletcher:0	"Fletcher Bau- und Fertigungsunternehmen"
-
 NZL_edward:0	"Edward Sayers"
 NZL_edward_desc:0	"Edward George Sayers"
 NZL_alexander_aitken:0	"Alexander Aitken"
@@ -2621,84 +1659,37 @@ ETH_bedjironde_tekle_hawariate:0	"Bedjironde Tekle Hawariate"
 ETH_ras_imru_haile_selassie:0	"Ras Imru Haile Selassie"
 ETH_makonnen_endelkatchew:0	"Makonnen Endelkatchew"
 ETH_desta_damtew:0	"Desta Damtew"
-
 ETH_john_robinson:0	"John Robinson"
 ETH_mesfin_sileshi:0	"Mesfin Sileshi"
-
 ETH_lij_johannes:0	"Lij Johannes"
 ETH_woldemeskal_tariku:0	"Woldemeskal Tariku"
-
-
-
 ETH_dedja_zinatch_nadeon:0	"Dedja Zinatch Nadeon"
 ETH_ras_kebbede:0	"Ras Kebbede"
 ETH_wondossen_kassa:0	"Wondossen Kassa"
 ETH_gabriel_zawde_gilaneh:0	"Gabriel Zawde Gilaneh"
-
-
-
 PHI_generic_democratic_reformer:0	"Elpidio Quirino"
-
 PHI_sergio_osmena:0	"Sergio Osmeña"
 PHI_emilio_aguinaldo:0	"Emilio Aguinaldo"
-
 PHI_leoncio_s_tan:0	"Leoncio S. Tan"
 PHI_basilio_j_valdez:0	"Basilio J. Valdez"
-
-
 PHI_santiago_nuval:0	"Santiago Nuval"
-
-
-
 PHI_basilio_fernando:0	"Basilio Fernando"
-
-
-
-
-
-
-
 PRU_armando_reveredo_iglesias:0	"Armando Reveredo Iglesias"
-
-
-
-
-
-
-
-
-
-
 PRU_fernando_m_quesada_blanco:0	"Fernando M. Quesada Blanco"
-
-
 PRU_oscar_gilardi:0	"Oscar Gilardi"
-
-
 PRU_paul_de_beaudiez:0	"Paul de Beaudiez"
 PRU_eduardo_cantabria_gomez:0	"Eduardo Cantabria Gomez"
 PRU_alberto_roque_saldias:0	"Alberto Roque Saldías"
-
-
-
-
 YEM_nae_m_al_abdul:0	"Nae'm al-Abdul"
 YEM_cecil_barrington_hurst:0	"Cecil Barrington Hurst"
 YEM_ahmad_bin_yaha:0	"Ahmad bin Yahya"
-
 YEM_burkan_salem:0	"Burkan Salem"
-
-
 YEM_ali_halukeh:0	"Ali Halukeh"
-
-
 YEM_ja_far_al_hijazi:0	"Ja'far al-Hijazi"
 YEM_sa_ud_ibn_umar:0	"Sa'ud ibn Umar"
-
 YEM_khalid_ibn_yusuf:0	"Khalid ibn Yusuf"
 YEM_fuad_ibn_falil:0	"Fuad ibn Falil"
 SIA_generic_fascist_demagogue:0	"Wichit Wichitwathakarn"
-
 SIA_generic_communist_revolutionary:0	"Vajiravudh Chichalerm"
 SIA_phot_bhahalyodin:0	"Phot Bhahalyodin"
 SIA_kuang_abhayavongsa:0	"Kuang Abhayavongsa"
@@ -2706,7 +1697,6 @@ SIA_thawee_punyaketu:0	"Thawee Punyaketu"
 SIA_luang_phibunsongkhram:0	"Luang Phibunsongkhram"
 SIA_phraya_chitnasongkhla:0	"Phraya Chitnasongkhla"
 SIA_phra_vechayanrangsarit:0	"Phra Vechayanrangsarit"
-
 SIA_phraya_wichcitcholathai:0	"Phraya Wichcitcholathai"
 SIA_thawon_thamrongnawasawat:0	"Thawon Thamrongnawasawat"
 SIA_tianliang_huntrakool:0	"Tianliang Huntrakool"
@@ -2717,84 +1707,37 @@ SIA_pridi_phanomyong:0	"Pridi Phanomyong"
 SIA_phraya_preechacholayudha:0	"Phraya Preechacholayudha"
 SIA_manphya_khanphialong:0	"Manphya Khanphialong"
 SIA_sawat_phutianands:0	"Sawat Phutianands"
-
 OMA_generic_fascist_demagogue:0	"Hadi Nejem"
 OMA_generic_democratic_reformer:0	"Ghada Saab"
-
 OMA_khalfan_bin_master:0	"Khalfan bin Meister"
 OMA_marhoon_muhaid:0	"Marhoon Muhaid"
-
-
-
 OMA_abdul_rahal:0	"Abdul Rahal"
 OMA_abdallah_ibn_timur:0	"Abdallah ibn Timur"
 OMA_nasser_bazzi:0	"Nasser Bazzi"
 OMA_jassim_bin_hani:0	"Jassim bin Hani"
-
-
-
 SIK_generic_democratic_reformer:0	"Zhu Peng"
-
 SIK_isa_yusuf_alptekin:0	"Isa Yusuf Alptekin"
 SIK_habibullah_huseinov:0	"Habibullah Huseinow"
-
 SIK_yol_bars:0	"Yol Bars"
 SIK_piotr_orlov:0	"Piotr Orlow"
-
-
 SIK_xie_peng:0	"Xie Peng"
-
-
-
 SIK_deng_tian:0	"Deng Tian"
-
-
-
-
-
-
-
 SIK_mahmud_sijan:0	"Mahmud Sijan"
-
-
-
-
-
-
-
-
-
-
 SIK_leader_desc:0	""
-
-
 SIK_self_manage_desc:0	""
-
-
 YUN_generic_fascist_demagogue:0	"Li Zhao"
 YUN_generic_democratic_reformer:0	"Zhang Wu"
 YUN_generic_communist_revolutionary:0	"Chen Dong"
-
-
-
-
 YUN_zhang_wu:0	"Zhang Wu"
 YUN_liu_zhao:0	"Liu Zhao"
 YUN_chen_zhao:0	"Chen Zhao"
-
 YUN_liang_peng:0	"Liang Peng"
-
-
 YUN_wang_jiang:0	"Wang Jiang"
-
-
 YUN_liao_fang:0	"Liao Fang"
 URG_generic_fascist_demagogue:0	"Luís Santiago Reguera"
-
 URG_generic_communist_revolutionary:0	"Calixto Aroyo Tabaorda"
 URG_alfredo_baldomir:0	"Alfredo Baldomir"
 URG_emilio_frugoni:0	"Emilio Frugoni"
-
 URG_paulo_ortega_frusci:0	"Paulo Ortega Fruscí"
 URG_vittorio_amato_masso:0	"Vittorio Amato Masso"
 URG_ernesto_sanchez_elizondo:0	"Ernesto Sanchez Elizondo"
@@ -2802,7 +1745,6 @@ URG_hector_lopez_camara:0	"Hector Lopez Camara"
 URG_eleazar_diaz_caminate:0	"Eleazar Díaz Caminate"
 URG_teo_bucardi_ramos:0	"Teo Bucardí Ramos"
 URG_cosme_alvarez_berisso:0	"Cosme Alvaréz Berisso"
-
 URG_carlos_jackson_urribe:0	"Carlos Jackson Urribé"
 URG_jorge_eloi_mendoza:0	"Jorge Eloi Mendoza"
 URG_cantido_quintio_reyes:0	"Cantido Quintio Reyes"
@@ -2813,84 +1755,37 @@ URG_carlos_neves_ochoa:0	"Carlos Neves Ochoa"
 URG_rafael_marques_ayala:0	"Rafael Marques Ayala"
 MON_generic_fascist_demagogue:0	"Songgotu Linge"
 MON_generic_democratic_reformer:0	"Tsengubal Badrach"
-
 MON_khas_luvsandorj:0	"Khas-Ochiryn Luvsandorj"
 MON_darizavyn_losol:0	"Darizavyn Losol"
-
 MON_navaanneren:0	"Tserendondovyn Navaanneren"
 MON_tserendorj:0	"Tserendorj"
-
-
-
 MON_horloogiyn_choybalsan:0	"Horloogiyn Choybalsan"
 MON_olziytrygyn_badrak:0	"Ölziytrygyn Badrak"
 MON_gomgchigryn_bumtsend:0	"Gomgchigryn Bumtsend"
 MON_sukhbaataryn_yanjmaa:0	"Sükhbaataryn Yanjmaa"
-
-
-
 MON_chimid:0	"Chimid"
-
 MON_haidav:0	"Haidav"
 MON_dagva:0	"Dagva"
-
 MON_ulanhu:0	"Ulanhu"
 MON_gelegdorjiin_demid:0	"Gelegdorjiin Demid"
-
-
 MEN_generic_communist_revolutionary:0	"Hesehn Shangzhi"
-
-
-
 MEN_guan_xingde:0	"Guan Xingde"
-
-
-
-
-
-
-
 PAR_generic_fascist_demagogue:0	"Jesus Alvarez"
-
-
-
-
-
-
-
-
-
-
 PAR_vicente_almonacid:0	"Vicente Almonacid"
-
-
 PAR_hernan_rojas_baltassare:0	"Hernan Rojas Baltassare"
-
-
 PAR_juan_stefanich:0	"Juan Stefanich"
 CUB_generic_fascist_demagogue:0	"Juan Martines-Villera"
 CUB_generic_democratic_reformer:0	"Miguel Campa y Caraveda"
-
-
-
-
 CUB_salvador_castaneda_castro:0	"Salvador Castaneda Castro"
 CUB_fulgencio_batista:0	"Fulgencio Batista"
 CUB_palaez_menendez:0	"Palaez Menendez"
-
 CUB_rodrigo_a_fuentes:0	"Rodrigo A. Fuentes"
-
-
 CUB_fidel_castro:0	"Fidél Castro"
-
-
 CUB_eduardo_chibas:0	"Eduardo Chibas"
 CUB_julio_sanguily:0	"Julio Sanguily"
-
 GXC_generic_fascist_demagogue:0	"Zhao Ping"
 GXC_generic_democratic_reformer:0	"Kau Wencheng"
 GXC_generic_communist_revolutionary:0	"Liang Tao"
-
 GXC_li_zongren:0	"Li Zongren"
 GXC_lei_zhong:0	"Lei Zhong"
 GXC_yu_hanmou:0	"Yu Hanmou"
@@ -2898,7 +1793,6 @@ GXC_bai_yeung:0	"Bai Yeung"
 GXC_heng_lo:0	"Heng Lo"
 GXC_yang_hulin:0	"Yang Hulin"
 GXC_do_liang:0	"Do Liang"
-
 GXC_zha_zemin:0	"Zha Zemin"
 GXC_huang_shaohong:0	"Huang Shaohong"
 GXC_wang_shuming:0	"Wang Shuming"
@@ -2909,84 +1803,37 @@ SHX_generic_fascist_demagogue:0	"Luo Jiang"
 SHX_generic_democratic_reformer:0	"Dong Qiu Jiang"
 SHX_generic_communist_revolutionary:0	"Deng Li Dong"
 SHX_wang_zuanxu:0	"Wang Zuanxu"
-
 SHX_kong_fang:0	"Kong Fang"
 SHX_yang_lu:0	"Yang Lü"
-
 SHX_huang_peng:0	"Huang Peng"
 SHX_zhang_shen:0	"Zhang Shen"
-
-
-
 SHX_xie_wei:0	"Xie Wei"
 SHX_ma_tian:0	"Ma Tian"
 SHX_wang_li_sun:0	"Wang Li Sun"
 SHX_sun_li:0	"Sun Li"
-
-
-
 XSM_generic_communist_revolutionary:0	"Hsu Jun"
-
 XSM_zi_shen:0	"Zi Shen"
 XSM_li_shiqun:0	"Li Shiqun"
-
 XSM_ma_donghai:0	"Ma Donghai"
 XSM_wu_qi:0	"Wu Qi"
-
-
 XSM_ma_hongbin:0	"Ma Hongbin"
-
-
-
 XSM_lian_zenguang:0	"Lian Zenguang"
-
-
-
-
-
-
-
 GUA_federico_ponce_vaides:0	"Federico Ponce Vaides"
-
-
-
-
-
-
-
-
-
-
 GUA_w_tesch_orlando:0	"W. Tesch Orlando"
-
-
 HON_generic_communist_revolutionary:0	"Jose Chavarin"
-
-
 HON_orlando_rodriguez_jimino:0	"Orlando Rodriguez Jimino"
 HON_abraham_williams_calderon:0	"Abraham Williams Calderon"
 HON_hernan_fernandez_silva:0	"Hernan Fernandez Silva"
-
-
-
-
 HON_neto_britto:0	"Neto Britto"
 HON_oswaldo_lopez_arellano:0	"Oswaldo López Arellano"
 HON_teodore_alberto:0	"Teodore Alberto"
-
 HON_jose_zuniga_huete:0	"José Zuñiga Huete"
-
-
 HON_miguel_angel_sevilla:0	"Miguel Ángel Sevilla"
-
-
 NEP_generic_fascist_demagogue:0	"Aakash Pariyar"
 NEP_generic_democratic_reformer:0	"Bikash Tharu"
-
 NEP_dharma:0	"Dharma Bhakta Mathema"
 NEP_dashrath:0	"Dashrath Chand"
 NEP_generic_communist_revolutionary:0	"Ramchandra Tamang"
-
 NEP_sidney_r_planter_desc:0	"Juddha Shumsher Jang Bahadur Rana"
 NEP_sharma:0	"Bharatmani Sharma"
 NEP_w_r_parker_gill:0	"W.R. Parker-Gill"
@@ -2994,7 +1841,6 @@ NEP_william_stevenson_meyer:0	"William Stevenson Meyer"
 NEP_robert_mainwaring:0	"Robert Mainwaring"
 NEP_gehendra_rana:0	"Gehendra Rana"
 NEP_h_t_s_collins:0	"H.T.S. Collins"
-
 NEP_birsha_gurung:0	"Birsha Gurung"
 NEP_hira_rana:0	"Hira Rana"
 NEP_gagan_lama:0	"Gagan Lama"
@@ -3005,84 +1851,37 @@ NEP_kiran_rana:0	"Kiran Rana"
 NEP_walter_morriano:0	"Walter Morriano"
 NEP_rudra_rana:0	"Rudra Rana"
 NEP_alaap_lokesh:0	"Alaap Lokesh"
-
 LIB_generic_democratic_reformer:0	"Clarence L. Simpson"
 LIB_generic_communist_revolutionary:0	"Robert Ratcliff"
-
 LIB_albert_porte:0	"Albert Porte"
 LIB_arthur_sweetser:0	"Arthur Sweetser"
-
-
-
 LIB_george_remond:0	"George Remond"
 LIB_reginald_brandon:0	"Reginald Brandon"
 LIB_james_brooks:0	"James Brooks"
 LIB_john__r_fox:0	"John R. Fox"
-
-
-
 LIB_andre_fields:0	"Andre Fields"
-
 LIB_stewart_holland:0	"Stewart Holland"
 LIB_joseph_smith:0	"Joseph Smith"
-
 PAN_generic_fascist_demagogue:0	"Diego Miedo"
 PAN_generic_democratic_reformer:0	"Juan Deag"
-
-
 PAN_victor_pareja:0	"Victor Pareja"
-
-
-
 PAN_arturo_osborne_irraga:0	"Arturo Osborne Irragá"
-
-
-
-
-
-
-
 PAN_juan_remon:0	"Juan Remón"
-
-
-
-
-
-
-
-
-
-
 PER_hassan_majid_firooz:0	"Hassan Majid Firooz"
-
-
 PER_ahmad_khan_nakhjaavan:0	"Ahmad Khan Nakhjavan"
-
-
 PER_fazlollah_zahedi:0	"Fazlollah Zahedi"
 PER_ali_razmara:0	"Ali Razmara"
 PER_ahmad_mira_khosravani:0	"Ahmad Mira Khosravani"
-
-
-
-
 TIB_generic_democratic_reformer:0	"Gyaltsen Tenzin Namdak"
 TIB_generic_communist_revolutionary:0	"Jampa Namdrol"
 TIB_taktra_rinpoche:0	"Taktra Rinpoche"
-
 TIB_reting_rimpoche:0	"Reting Rimpoche"
-
-
 TIB_chama_samphe:0	"Chama Samphe"
-
-
 TIB_chaghoe_namgyal_dorje:0	"Chaghoe Namgyal Dorje"
 TIB_tenpa_jamyang:0	"Tenpa Jamyang"
-
 TIB_lobsang_tenzin:0	"Bapa Yeshe"
 TIB_jampal_rabgye_rinpoche:0	"Jampal Rabgyé Rinpoche"
 TIB_bapa_yeshe:0	"Bapa Yeshe"
-
 TIB_lhalu_tsewang_dorje:0	"Lhalu Tsewang Dorje"
 TIB_sogyal_rinpoche:0	"Sogyal Rinpoche"
 DOM_generic_fascist_demagogue:0	"Mariano Henríquez"
@@ -3090,7 +1889,6 @@ DOM_generic_democratic_reformer:0	"Juan Bosch"
 DOM_generic_communist_revolutionary:0	"Francisco Prats Ramirez"
 DOM_jacinto_bienvenido_peynado:0	"Jacinto Bienvenido Peynado"
 DOM_elias_brache:0	"Elias Brache"
-
 DOM_victor_vinas_roman:0	"Victor Viñas Roman"
 DOM_domingo_de_los_santos_ortiz:0	"Domingo de los Santos Ortiz"
 DOM_anibal_vallejo_sosa:0	"Anibal Vallejo Sosa"
@@ -3101,98 +1899,48 @@ DOM_jesus_da_costa_ruiz:0	"Jesus da Costa-Ruiz"
 DOM_edgar_martinez:0	"Edgar Martinez"
 DOM_diego_trabajo_ruiz:0	"Diego Trabajo Rúiz"
 DOM_frank_feliz_miranda:0	"Frank Feliz Miranda"
-
 DOM_gerardo_espaillat:0	"Gerardo Espaillat"
 DOM_jose_miguel_moncada:0	"José Miguel Moncada"
-
 HAI_indi_desc:0	"Obwohl die letzten militärischen Kräfte der USA abgezogen wurden, werden die wirtschaftlichen und außenpolitischen Angelegenheiten Haitis immer noch von ihnen kontrolliert. Haiti ist auf dem Weg zu echter Freiheit"
 HAI_generic_fascist_demagogue:0	"David Dacelus"
-
-
-
 HAI_louis_dejoie:0	"Louis Dejoie"
 HAI_demosthenes_calixte:0	"Demosthenes Calixte"
 HAI_emilie_lescot:0	"Emilie Lescot"
 HAI_pascale_b_g_guillaume:0	"Pascalé B.G. Guillaume"
-
-
-
 HAI_andre_dumont:0	"Andre Dumont"
-
 HAI_franck_lavaud:0	"Franck Lavaud"
 HAI_antoine_levelt:0	"Antoine Levelt"
-
 HAI_charles_h_forbin:0	"Charles H. Forbin"
 HAI_andre_sainte_frederic:0	"André Sainté Frederic"
-
 FRA_reduce_spending:	"Reduzierte öffentliche Ausgaben"
-
 FRA_AMX_desc:0	"Atelier für Bauwesen in Issy-les-Moulineaux"
-
-
-
 FRA_jacques_duclos_inter:0	"Jacques Duclos"
-
-
-
-
-
-
-
 FRA_roger_roche:0	"Roger Roche"
-
-
-
-
-
-
-
-
-
-
 FRA_support_the_centre_focus:0	"Unterstützung des Zentrums"
-
-
 FRA_victors_of_wwi:0	"Die Sieger des Großen Krieges"
-
-
 FRA_disjointed_government_desc:0	"Der Zustand der französischen Politik ist alles andere als stabil. Reformen sind zwar notwendig und willkommen, aber die Nation ist gespalten, und eine Verwicklung in einen Konflikt würde sie in große Gefahr bringen."
 FRA_protected_by_the_maginot_line:0	"Geschützt durch die Maginot-Linie"
 FRA_protected_by_the_maginot_line_desc:0	"Die Befestigung der Grenze gibt Frankreich die Möglichkeit, sorgfältig zu planen und sich vorzubereiten, aber sie opfert eine gewisse Flexibilität für den Fall, dass etwas Unerwartetes eintritt."
-
-
-
-
 FRA_matignon_agreements:0	"Matignon-Abkommen"
 FRA_communism_banned:0	"Verbot des Kommunismus"
 FRA_philippe_petain_desc:0	"Der Löwe von Verdun"
-
 ENG_commonwealth_wealth_desc:0	"Der Reichtum des Commonwealth fließt nicht gleichmäßig, in der Tat bekommen wir den Löwenanteil \n§YDie Befreiung anderer Nationen oder die Zunahme des Automatismus wird diesen Geist drastisch verringern§!"
 ENG_british_sugar:	"Britischer Zucker"
 ENG_the_colonies:	"Das Britische Reich"
 ENG_the_colonies_desc:	"§LDas Britische Empire, das größte Imperium, das die Welt je gesehen hat, verhalf Großbritannien zu unangefochtener globaler Vorherrschaft und Reichtum. Seine zahlreichen Kolonien, Dominions und Überseegebiete setzen sich alle dafür ein, das Vereinigte Königreich gegen jede Bedrohung zu unterstützen, erwarten dafür aber Schutz. §!\n\n§YFolgendes führt zu einer Schwächung der Wirkung dieses Geistes:§!§W\n - Ein Untertan kapituliert\n - Verlust der Kontrolle über einen der folgenden Staaten: \n[118.GetENGTerritoryControl]\n[116.GetENGTerritoryControl]\n[446.GetENGTerritoryControl]\n[269.GetENGTerritoryControl]\n[547.GetENGTerritoryControl]\n[336.GetENGTerritoryControl]\n[326.GetENGTerritoryControl]\n[636.GetENGTerritoryControl]\n[422.GetENGTerritoryControl]\n[281.GetENGTerritoryControl]§!"
 ENG_the_colonies_state_lost:	"        §R[This.GetName]§!, besetzt von [This.Controller.GetFlag]§Y[This.Controller.GetName]§!"
-
 ENG_Power:	"Fonds Power Jets"
-
-
-
 ENG_stagnant_aviation_industry:0	"Stagnierende Luftfahrtindustrie"
-
 ENG_stagnant_aviation_industry_reduced:0	"Stagnierende Luftfahrtindustrie"
 ENG_stagnant_aviation_industry_reduced_desc:0	"Die britische Luftfahrtindustrie ist zwar innovativ, kommt aber aus einer Phase der Stagnation in den frühen 1930er Jahren heraus."
-
-
 ENG_king_edward:0	"Edward VIII."
 ENG_king_edward_desc:	"Edward VIII., Nachfolger des verstorbenen George V., hält nicht viel von etablierten Regeln und Normen, was sowohl die Bevölkerung als auch seine eigene Regierung verärgert."
 ENG_king_edward_fascism:0	"Eduard VIII."
 ENG_king_edward_fascism_desc:	"$ENG_king_edward_desc$"
 ENG_george_vi:0	"Georg VI."
-
 ENG_continuation_of_politics:0	"Fortsetzung der Politik"
 ENG_continuation_of_politics_desc:0	"Es hat sich als einfach erwiesen, die Unterstützung der Bevölkerung für Interventionen in wichtigen Ländern zu gewinnen, in denen die politische Ausrichtung von unserer eigenen abweicht. Dies können wir zu unserem Vorteil nutzen."
 Naval_range_speed:0	"Verbesserte Reichweite und Geschwindigkeit"
-
 SELECT_DESIGN_COMPANY_DESC:0	"\nDurch die Wahl dieses §YDesign-Unternehmens§! werden die Fähigkeiten aller Ausrüstungen, die während ihrer Anstellung entworfen werden, dauerhaft beeinflusst.\n"
 DESIGN_COMPANY_DESC:0	"\nDieses §YDesign-Unternehmen§! wirkt sich dauerhaft auf die Fähigkeiten aller Ausrüstungen aus, die während seiner aktiven Zeit entworfen werden."
 SOV_lavrentiy_beria:0	"Lawrentij Beria"
@@ -3200,7 +1948,6 @@ SOV_beria_idea:0	"Nikolai Yezhov aus der Regierung entfernt\n"
 SOV_vyacheslav_molotov:0	"Wjatscheslaw Molotow"
 SOV_nikolai_voznesensky:0	"Nikolai Voznesensky"
 SOV_nikolai_yezhov:0	"Nikolai Jezhov"
-
 SOV_scientist_defect:0	"Wissenschaftler Defekt"
 SOV_mikhail_trilisser:0	"Michail Trilisser"
 SOV_mikhail_trilisser_desc:0	"Michail Alexandrowitsch Moskwin"
@@ -3211,24 +1958,15 @@ SOV_advanced_sea_academy:0	"K.E. Woroschilow RKKF Marineakademie"
 USA_protector:0	"Beschützer Amerikas"
 JAP_usa_commercial_treaty:0	"US-Japanischer Handelsvertrag"
 USA_japan_commercial_treaty:0	"US-Japanischer Handelsvertrag"
-
 USA_national_guard_mobilization:0	"Mobilisierung der Nationalgarde"
 USA_office_price_administration_idea:1	"Büro für Preisverwaltung"
-
 USA_slow_weapon_development:0	"Stagnierende Entwicklung der Armee"
 USA_slow_weapon_development_desc:0	"Unsere Armee und unser Offizierskorps haben sich nur langsam auf neue Waffen und Methoden der Kriegsführung eingestellt."
-
-
-
 USA_war_powers_act_idea:0	"Gesetz über Kriegsbefugnisse"
 USA_navy_shock:0	"Überraschungsangriff der Marine"
 USA_the_pentagon:5	"Pentagon"
 USA_adult_education_idea:0	"Programme für die Erwachsenenbildung"
-
-
-
 USA_torpedo_detonator_penalty_timed:0	"Torpedo-Zuverlässigkeitsprobleme (frühe Korrekturen)"
-
 USA_torpedo_detonator_penalty_timed_2:0	"Probleme mit der Torpedo-Zuverlässigkeit (Teilweise Behebung)"
 USA_torpedo_detonator_penalty_timed_2_desc:0	"Das Problem liegt tiefer, als wir dachten. Die Torpedo-Konstruktion sabotiert sich fast selbst, und die Entwicklung war von mangelnden Tests und der Unterdrückung von Problemberichten geprägt. Das System muss überarbeitet werden."
 USA_naval_shell_hardening:0	"Fortgeschrittene Härtung der schweren Hülle"
@@ -3237,191 +1975,84 @@ USMC:0	"United States Marine Corps"
 USMC_2:0	"Marineinfanteriekorps der Vereinigten Staaten"
 USA_segregation:0	"Geschichte der Rassentrennung"
 USA_conference:0	"Interamerikanische Konferenz"
-
 USA_john_bernard:0	"John Toussaint Bernard"
 USA_william_mcadoo:0	"William Gibbs McAdoo"
 USA_james_mead:0	"James Michael Mead"
 USA_usace_projects:0	"Militärische Fabriken, Marinestützpunkte, Ausrüstungsfabriken, Luftabwehr- und Radarstationen werden §G10%§! schneller gebaut."
 USA_charles_plumley:0	"Charles Albert Plumley"
-
 USA_federal_project_one_art:0	"Bundeskunstprojekt"
-
 USA_federal_project_one_theater:0	"Bundes-Theater-Projekt"
-
 USA_do_it_with_less:0	"Mit weniger auskommen, damit sie mehr haben"
-
-
-
 USA_naval_treaty_desc:0	"Die lange Zeit des reduzierten Schiffbaus als Ergebnis der Marineverträge in Verbindung mit den Auswirkungen der Depression hat unsere Marineindustrie weitgehend inaktiv und unterfinanziert gemacht. Es wird Zeit brauchen, dies zu korrigieren."
-
-
-
-
-
-
-
 american_protection_defence_democratic_desc:0	"Wenn ein amerikanisches Land diesem Land den Krieg erklärt, können die @USA §YVereinigte Staaten§! intervenieren."
-
-
-
-
-
-
-
-
-
-
 american_protection_defence_fascism:0	"Unter US-Schutz"
-
-
 benito_mussolini_desc:0	""
-
 victor_emmanuel:0	"Vittorio Emanuele III. von Savoyen"
 victor_emmanuel_desc:0	"Der \"Soldatenkönig\" erinnert die Italiener an ihre jüngsten Siege im Großen Krieg. Seine Anwesenheit und die Treue zu ihm sind eine große Quelle der Einheit für das Volk."
-
-
-
-
-
-
-
-
-
 ardito_desio:0	"Ardito Desio"
 a_desio:0	"Entdecker der Wüste"
-
-
-
-
 ITA_giuseppe_bottai:0	"Giuseppe Bottai "
-
 ITA_giovanni_gentile:0	"Giovanni Gentile "
 ITA_filippo_tommaso_marinetti:0	"Filippo Tommaso Marinetti "
-
 ITA_roberto_farinacci:0	"Roberto Farinacci"
 ITA_giovanni_host_venturi:0	"Giovanni Host-Venturi  "
-
-
-
-
-
-
-
 ITA_umberto_II_desc:0	"Umberto Nicola Tommaso Giovanni Maria di Savoia"
-
-
-
-
 ITA_ferruccio_parri:0	"Ferruccio Parri"
-
-
-
 vittoria_mutilata_desc:0	"§LUnsere Verbündeten haben Italien verraten und uns in den Rücken gefallen, als sie den Pakt von London brachen. Wir haben am Isonzo so viel Blut für ihren Sieg geopfert, und sie haben uns im Gegenzug verweigert, was uns von Rechts wegen zusteht. Nun wird Italien sein Schicksal selbst in die Hand nehmen und dafür sorgen, dass der Gerechtigkeit Genüge getan wird.§!"
 Industrial_reform_I:0	"Industrielle Desorganisation"
-
 Vehicle_industry_reform_I:0	"Kleine Fahrzeugindustrie"
-
-
 aircraft_industry_reform_I:0	"Kleine Flugzeugindustrie"
-
 ITA_armi_chimiche_idea:0	"Chemische Waffen"
-
-
-
-
 ITA_IEA_yay_desc:0	"Unser afrikanisches Reich inspiriert und motiviert unser Volk"
-
-
 ITA_gentile_idea_desc:0	"2+2= ..."
 ITA_quota_90_idea:0	"Quote 90"
 ITA_quota_90_idea_desc:0	"Der Duce will eine starke Währung: das Pfund Sterling wird zu 90 Lira gehandelt. Das ist eine schreckliche Entscheidung für unsere Wirtschaft!"
 ITA_quota_90_idea_reduced:0	"Quote 90"
-
 ITA_quota_90_idea_reduced_2:0	"Quote 90"
-
 ITA_industrial_disorganization_idea:0	"Unorganisierte Industrie"
 ITA_industrial_disorganization_idea_desc:0	"Unsere Rüstungsindustrie befindet sich in einem Zustand der Unordnung. Aufträge werden nach politischen Gesichtspunkten vergeben, ohne Rücksicht auf die Effizienz, und die Produktion ist zersplittert und dezentralisiert."
-
 ITA_faccetta_nera_idea:0	"Faccetta Nera"
 ITA_faccetta_nera_idea_desc:0	"Die Italiener lieben das neue Reich und ihre neuen Bürger und singen ein Lied davon."
-
 ITA_drain_the_swamp_idea_desc:0	"Mussolini war der einzige Politiker, dem es gelang, den Sumpf trocken zu legen. Buchstäblich!"
 ITA_riforma_bancaria_idea:0	"Riforma Bancaria"
 ITA_riforma_bancaria_idea_desc:0	"Die Reform wird unser Bankensystem anfälliger machen, aber wir werden mehr Mittel für den Krieg haben. Die Besiegten werden für uns arbeiten."
-
-
 ITA_fight_the_burocracy_idea_desc:0	"Die Bürokratie ist überall! Wir müssen sie stoppen, bevor wir sie auch im Teller mit den Spaghetti finden."
-
 lybia_trait:0	"Ölexperte"
-
-
-
 ITA_guidonia_idea_desc:0	"Ich glaube, ich kann fliegen!!!"
 ITA_balilla_idea:0	"Balilla"
-
-
 ITA_scw_intervention_nationalists:0	"Italienische Freiwillige"
-
 ITA_supply:0	"Ferreo Cuore"
-
 ITA_save_fuel:0	"Treibstoff-Effizienz"
 ITA_refit_ships:0	"Anpassungsfähige Rümpfe"
-
 ITA_memento_audere_semper_idea_desc:0	"Das Motto, das der Dichter Gabriele D'Annunzio zu Ehren der Motovedetta Auto Silurante erfand."
-
 maiali_idea_desc:0	"GRUF GRUFF"
-
-
 ITA_carrier_morethan1_tt:0	"Mindestens §Y1 Carrier§! im Einsatz"
-
-
-
-
 ITA_new_colombo_idea:0	"Ein neues Colombo"
-
 ITA_oltre_colonne_idea:0	"Oltre le Colonne D'Ercole"
-
 ITA_german_scientist_cooperation:0	"Deutsche wissenschaftliche Unterstützung"
-
-
-
 ITA_bad_war_desc:0	"Mit dem Verlust unserer Besitzungen in Nordafrika beginnt sich die Stimmung der Bevölkerung zu verschlechtern, wir müssen diese Gebiete zurückfordern"
 ITA_fedelta_prima_di_tutto:0	"Fedeltà Prima di Tutto"
 ITA_fedelta_prima_di_tutto_desc:0	"Jeder Diktator fürchtet um sein Leben. Mussolini ist da nicht anders. Generäle werden nach ihrer Loyalität ausgewählt, nicht nach ihren Fähigkeiten."
 ITA_cost_of_war:0	"Der Preis für den schnellen Aufbau"
-
-
 mare_nostrum:0	"Mare Nostrum"
-
 impero_di_argilla:0	"Impero D'Argilla"
-
 autarchia:0	"Autarchia"
 autarchia_desc:0	"Die faschistische Philosophie setzt auf die Unabhängigkeit der Ressourcen statt auf Zusammenarbeit und Freihandel. Die Italiener werden zu Opfern und Entbehrungen aufgerufen, um dieser Doktrin Recht zu geben."
 istituto_luce:0	"Istituto LUCE"
-
 navy_prioritised:0	"Vorrang für die Marine"
-
 german_dive_bombing:0	"Deutsche Sturzkampfbomben"
-
 license_air_equipment:0	"Verbesserte Lizenzkooperation"
-
 poor_coordination_between_sea_and_air_desc:0	"Den Admiralen gefällt der Aufstieg des neuen Zweiges der Aeronautica nicht, Rivalität und eine alte Mentalität erschweren die Zusammenarbeit besonders."
-
 italian_leadership_improved_desc:0	"Erfahrung ist ein harter Lehrmeister, aber auch der beste Weg zum Lernen."
-
 italian_leadership_desc:0	"Alte Ideen, alte Mentalität und eine große Rivalität zwischen unseren Generälen. Dagegen müssen wir etwas tun."
 italian_leadership_proud:0	"Die italienische Führung hat sich verbessert"
 italian_leadership_proud_desc:0	"Die Dinge werden besser"
-
 grand_council_judgement:0	"Großer Rat der Faschisten tagt"
 JAP_kanyei_chuyo:0	"Kanyei Chuyo"
-
 JAP_yoshida_hatta:0	"Yoshida Hatta"
-
 JAP_hisatoshi_hirose:0	"Hisatoshi Hirose"
 JAP_terada_masaei:0	"Terada Masaei"
 JAP_mitsumasa_yonai:0	"Mitsumasa Yonai"
-
 JAP_toyama_mitsuru:0	"Tōyama Mitsuru"
 JAP_chiune_sugihara:0	"Chiune Sugihara"
 JAP_idemitsu_kosan:0	"Idemitsu Kosan"
@@ -3429,7 +2060,6 @@ JAP_battleship_focus_idea:0	"Schlachtschiff-Fokus"
 JAP_carrier_focus_idea:0	"Schwerpunkt Flugzeugträger"
 JAP_light_carrier_focus_idea:0	"Schwerpunkt Leichttransporter"
 JAP_naval_aa_penalty_idea:0	"Stagnierende Entwicklung von Marineflugzeugen"
-
 ENG_hugh_sinclair_desc:0	"Admiral Sir Hugh Francis Paget Sinclair"
 ENG_Vernon_kell:0	"Vernon Kell"
 ENG_Vernon_kell_desc:0	"Generalmajor Sir Vernon George Waldegrave Kell"
@@ -3440,119 +2070,45 @@ ENG_philip_kerr:0	"Philip Kerr"
 ENG_nevile_henderson:0	"Nevile Henderson"
 ENG_maxwell_aitken:0	"Maxwell Aitken"
 ENG_leslie_hore_belisha:0	"Leslie Hore-Belisha"
-
 ENG_the_war_to_end_all_wars:0	"Der Krieg, der alle Kriege beenden sollte"
-
-
 ENG_the_war_to_end_all_wars_2_desc:0	"Da der Große Krieg noch nicht lange zurückliegt, zögern sowohl die Bevölkerung als auch die führenden Politiker, eine weitere Generation in die Schützengräben zu schicken.\n\n§WWenn der Krieg ausbricht, werden sich neue nationale Schwerpunkte ergeben, die diesen Geist verringern oder beseitigen werden.§!"
 communist_pressure:0	"Kommunistischer Druck"
 rhineland_challenge_met:0	"Rheinland-Herausforderung erfüllt"
-
-
-
 communist_revolutionaries:0	"Kommunistische Revolutionäre"
-
-
 democratic_revolutionaries_desc:0	"Steigt die Unterstützung für die Demokratie auf über 70 %, wird das Land in einen Bürgerkrieg gestürzt. Wenn die Unterstützung für die Demokratie unter 30 % fällt, werden die revolutionären Aktivitäten eingestellt."
 home_of_the_free:0	"Heimat der Freien"
 home_of_the_free_desc:0	"Die USA betrachten sich selbst als eine Bastion und vielleicht sogar als die Wiege der Demokratie und Freiheit. Was auch immer sie sein wollen, ihre Werte sind schwer zu kompromittieren, so verlockend manche Möglichkeiten auch erscheinen mögen."
 closed_economy_TT:0	"Es werden keine Ressourcen exportiert werden.\n\n"
 danieli:0	"Danieli"
 fascism_defeated:0	"Der Faschismus ist besiegt"
-
 communism_defeated:0	"Der Kommunismus ist besiegt"
 communism_defeated_desc:0	"Die Demokratie hat über den totalitären Kommunismus gesiegt, und die demokratischen Parteien stehen geschlossen gegen diese alte Bedrohung."
-
 reign_of_terror_desc:0	"Das vor kurzem an die Macht gekommene Regime geht rücksichtslos gegen seine Feinde vor und schaltet die Opposition aus, bevor sie auftaucht."
 anti_german_military:0	"Antideutsches Militär"
-
 YUG_prince_paul:0	"Prinz Paul"
-
-
 AST_indonesian_nationalists:0	"Indonesische Nationalisten"
 shattered_government:0	"Zerrüttete Regierung"
-
-
-
 BLR_generic_democratic_reformer:0	"Mikola Abramtschyk"
 BLR_boris_berman:0	"Boris Berman"
-
-
 BLR_stepan_krasovsky:0	"Stepan Krasowskij"
 BLR_vasily_sokolovsky:0	"Wassili Sokolowskij"
 BLR_ivan_yakubovsky:0	"Iwan Jakubowskij"
-
 BLR_fedor_dobysh:0	"Fjodor Dobysch"
-
-
 BLR_piotr_kozlov:0	"Piotr Kozlov"
 BLR_alexander_akulich:0	"Alexander Akulich"
 BLR_maksim_antonyuk:0	"Maksim Antonyuk"
-
 MAN_lo_yu:0	"Lo-Chen-Yu"
-
-
 MAN_guan_xingde:0	"Guan Xingde"
-
-
-
-
-
-
-
-
-
-
-
-
-
 MAN_sun_qichang:0	"Sun Qichang"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 armyiii:0	"Nationale Militärindustrie II"
-
 regionalpow:0	"Regionale Macht"
 regionalpow_desc:0	"Brasilien hat seine rein agrarische Vergangenheit hinter sich gelassen und ist bis heute zur unangefochtenen Regionalmacht Südamerikas aufgestiegen. Es ist nicht nur ein riesiges industrielles und technologisches Kraftwerk für ein Drittweltland, sondern auch eines der größten Militärs der Welt. "
-
 valeriodoce_i_desc:0	"Brasilien ist reich an Bodenschätzen. Zu den Ländern mit dem größten Mineralienpotenzial gehören neben Brasilien auch Kanada, Australien, Russland, China und die Vereinigten Staaten. Neben einer breiten Palette von Mineralien, die im Land abgebaut werden (derzeit mehr als 55 verschiedene Mineralien), verfügt Brasilien über einige der größten Mineralienreserven der Welt. Etwa 8 % der weltweiten Eisenreserven befinden sich in Brasilien, dem wichtigsten Erz, das im Land abgebaut wird. Ein weiteres Mineral, Niob, hat seine größten Reserven im Westen Brasiliens. Die wichtigsten in Brasilien vorkommenden Mineralien sind: Eisen, Bauxit, Kupfer, Chrom, Gold, Zinn, Nickel, Mangan, Zink, Kalium und andere."
 valeriodoce_ii:0	"Stahl"
 valeriodoce_ii_desc:0	"1936 begann Brasilien mit dem Aufbau einer Infrastruktur zur Verarbeitung von Eisen zu Stahl und zur Ausbeutung seiner enormen Mineralienvorkommen. Trotz des Mangels an einer Industrie, die das Land mit Stahl versorgen könnte, brauchte es nicht weit zu gehen, um an große Mengen davon zu gelangen, denn viele reiche Erze wie Eisen und Gold lagen 1936 einfach so herum"
-
-
-
-
-
-
-
-
-
 valeriodoce_vii_desc:0	"Brasilien verfügt über 1 % der weltweiten Chromreserven. Das ist immerhin etwas!"
 valeriodoce_viii:0	"CSN"
 valeriodoce_viii_desc:0	"Die 1941 gegründete Companhia Siderurgica Nacional (CSN) ist die größte Stahlindustrie Brasiliens und Lateinamerikas und eine der größten der Welt. Das Hauptwerk produziert heute rund 6 Millionen Tonnen Rohstahl und mehr als 5 Millionen Tonnen Walzprodukte pro Jahr und gilt als eines der produktivsten der Welt. "
-
 valeriodoce_viv_desc:0	"Brasilien verfügt über die fünftgrößten Bauxit-Reserven der Welt, aber das Land fängt gerade erst an, sich diese zu Nutze zu machen."
 valeriodoce_vv:0	"Kautschuk-Soldaten"
 valeriodoce_vv_desc:0	"Der Amazonas erlebte während des Zweiten Weltkriegs noch einmal den Kautschukboom, wenn auch nur kurz. Als die japanischen Streitkräfte Anfang 1942 den Südpazifik militärisch beherrschten und auch in Malaysia einmarschierten, geriet die Kontrolle über den Kautschuk in die Hände der Nipponesen, was dazu führte, dass 97 % der asiatischen Kautschukproduktion verloren gingen. Für Brasilien, sowie große Handhabung von Kautschuk-Exporte durchgeführt, Investitionen der Vereinigten Staaten kam, in gewisser Weise, um unsere Wirtschaft stabil zu halten und sogar - manchmal - für hohe während der Zeit entfaltenden Konflikt. Das Land hatte die wunderbare Chemie des Krieges durch die Öffnung in Richtung der ländlichen und extraktiven Aktivitäten gefunden, die Perspektiven Antrieb und Wachstum unserer Wirtschaft zu ermöglichen. Ein Teil dieses Ideals ergab sich aus der Notwendigkeit, mit ihren eigenen Ressourcen zu leben, um das Wachstum des nationalen Reichtums und der landwirtschaftlichen Produkte zu stimulieren könnte seine Exporte entwickelt haben. Zu dieser Zeit gab es bereits eine große Chance für gute Geschäfte zwischen Brasilien und den Vereinigten Staaten: das Federal Board of Foreign Trade, mit Sitz in Rio de Janeiro, hatte ein Rundschreiben an die Regierungen und Handels-und Industrieverbände der Staaten, dass sie ein Telegramm der Botschaft von Brasilien, die berichtet, dass die US-Kriegsministerium begann einige Einkäufe für die Lagerung, im Wert von 100 Millionen Dollar in Waren, die für die nationale Verteidigung, wie Bauxit, Mangan, Glimmer, Kupfer, Gummiwolle, Bergkristall, usw. erhalten hatte. Dies würde dazu führen, dass einige Elemente, einschließlich der Infrastruktur, nur in Bethlehem, dieses Mal in den Vereinigten Staaten, eingeführt würden. Zum Beispiel die Credit Bank of Rubber, die heutige Bank of the Amazon; das Grand Hotel, ein luxuriöses Hotel, das in nur drei Jahren in Bethlehem gebaut wurde, das heutige Hilton Hotel; der Flughafen von Bethlehem; der Luftwaffenstützpunkt von Bethlehem; u.a."
@@ -3565,7 +2121,6 @@ dip_desc:0	"Das Presse- und Propagandaministerium wurde 1939 von Getulio Vargas 
 getulismo:0	"Getulismus"
 getulismo_desc:0	"Getúlio Dornelles Vargas war einer der bedeutendsten brasilianischen Politiker und was hatte die Persönlichkeit schärfer vergöttert oder verabscheut. Die als Vargas-Ära bekannte Periode, die 1930 mit der politischen Revolution begann, die den Kurs der Republik in Brasilien veränderte, und die 1945 mit dem Ende des Zweiten Weltkriegs und der Entmachtung Vargas' durch das Militär endete, trug dazu bei, dass das Bild von Vargas und seinem geschickten Regierungsstil fast folkloristisch wurde. Das Suffix \"ism\" bedeutet gleichzeitig eine einzigartige Art des Regierens und die Anerkennung durch Menschen, die seine Persönlichkeit verehrten - die getulistas ."
 clt:0	"Arbeitsgesetze"
-
 populism_idea:0	"Populismus"
 populism_idea_desc:0	"POPULISMUS - Regierungsform, die folgende Merkmale aufweist: Autoritarismus, Etatismus, Korporatismus, Anbetung des Führers in Verbindung mit teilweisen Zugeständnissen an die ärmsten Bevölkerungsschichten, um deren Unterstützung zu erhalten. Er trat in Lateinamerika zwischen den Jahren 30 und 50 auf und hat in Getulio Vargas in Brasilien, Juan Perón in Argentinien und Lazaro Cardenas, Mexiko seine berüchtigtsten Vertreter."
 integralismo:0	"Integralismus"
@@ -3598,10 +2153,7 @@ democracia:0	"Demokratie"
 democracia_desc:0	"Die Erste Brasilianische Republik oder República Velha ist die Periode der brasilianischen Geschichte von 1889 bis 1930. Die República Velha endete 1930 mit einem Militärputsch, der auch als Brasilianische Revolution von 1930 bekannt ist und Getúlio Vargas als Diktator einsetzte. Jetzt ist es an der Zeit, die Demokratie wiederherzustellen und eine neue Republik aufzubauen."
 demosii_desc:0	"Dies war die erste brasilianische Verfassung, die volle politische Freiheit gewährte (sogar die Kommunistische Partei Brasiliens wurde legalisiert, wenn auch nur für kurze Zeit) und die letzte, die dem Land offiziell den Namen Estados Unidos do Brazil gab (die Schreibweise des Landesnamens sollte sich später im selben Jahr ändern). Sie war auch die erste mit einem zusätzlichen \"Gesetz über vorübergehende Maßnahmen\" (eine Reihe von Gesetzen, die vor der eigentlichen Verfassung in Kraft traten und nicht geändert werden konnten). Die wichtigsten Punkte dieser Verfassung waren: Wiederherstellung aller Rechte und Freiheiten, wie sie in der Verfassung von 1934 zum Ausdruck gekommen waren, die 1937 abgeschafft worden war; Einschränkung der Befugnisse des Präsidenten; dieser blieb zwar die wichtigste Institution, doch wurden Sicherheitsvorkehrungen getroffen, um zu verhindern, dass ein anderer Präsident seine Macht missbrauchen konnte, wie es Vargas getan hatte. Schaffung von Mechanismen zur Vorbeugung und Bekämpfung von religiösen Vorurteilen und Zensur (letztere mit einigen Ausnahmen hinsichtlich der moralischen Zensur von Spektakeln und öffentlichen Veranstaltungen); Erwähnung des Rechts auf Postgeheimnis und Unverletzlichkeit der Wohnung (bis dahin konnte die Polizei ohne Genehmigung in jede Wohnung eindringen). Sie verbesserte den Föderalismus, indem sie die Befugnisse der Gliedstaaten ausweitete (z. B. durften die Gliedstaaten zum ersten Mal eigene Flaggen und Hymnen haben); sie gewährte zwar nicht zum ersten Mal allen Erwachsenen volle politische Rechte, aber unter dieser Verfassung wurden die ersten freien (und recht fairen) Wahlen auf allen Ebenen und für alle Ämter abgehalten; die Wahlen für die Exekutivämter fanden in einem einzigen Wahlgang statt. Die beiden letztgenannten Ämter wurden zu den Hauptproblemen dieser Verfassung, da sie sowohl Legitimationskrisen (da die Präsidenten in der Regel mit weniger als der Mehrheit der Stimmen gewählt wurden) als auch Verschwörungen (da der Vizepräsident in der Regel einer anderen Partei angehörte) hervorriefen und schürten."
 demosii:0	"Neue Verfassung"
-
 newconstitution_desc:0	" Dies war die erste brasilianische Verfassung, die volle politische Freiheit gewährte (sogar die Kommunistische Partei Brasiliens wurde legalisiert, wenn auch nur für kurze Zeit) und die letzte, die dem Land offiziell den Namen Estados Unidos do Brazil gab (die Schreibweise des Landesnamens sollte sich später im selben Jahr ändern). Sie war auch die erste mit einem zusätzlichen \"Gesetz über vorübergehende Maßnahmen\" (eine Reihe von Gesetzen, die vor der eigentlichen Verfassung in Kraft traten und nicht geändert werden konnten). Die wichtigsten Punkte dieser Verfassung waren: Wiederherstellung aller Rechte und Freiheiten, wie sie in der Verfassung von 1934 zum Ausdruck gekommen waren, die 1937 abgeschafft worden war; Einschränkung der Befugnisse des Präsidenten; dieser blieb zwar die wichtigste Institution, doch wurden Sicherheitsvorkehrungen getroffen, um zu verhindern, dass ein anderer Präsident seine Macht missbrauchen konnte, wie es Vargas getan hatte. Schaffung von Mechanismen zur Vorbeugung und Bekämpfung von religiösen Vorurteilen und Zensur (letztere mit einigen Ausnahmen hinsichtlich der moralischen Zensur von Spektakeln und öffentlichen Veranstaltungen); Erwähnung des Rechts auf Postgeheimnis und Unverletzlichkeit der Wohnung (bis dahin konnte die Polizei ohne Genehmigung in jede Wohnung eindringen). Sie verbesserte den Föderalismus, indem sie die Befugnisse der Gliedstaaten ausweitete (z. B. durften die Gliedstaaten zum ersten Mal eigene Flaggen und Hymnen haben); sie gewährte zwar nicht zum ersten Mal allen Erwachsenen volle politische Rechte, aber unter dieser Verfassung wurden die ersten freien (und recht fairen) Wahlen auf allen Ebenen und für alle Ämter abgehalten; die Wahlen für die Exekutivämter fanden in einem einzigen Wahlgang statt. Die beiden letztgenannten Ämter wurden zu den Hauptproblemen dieser Verfassung, da sie sowohl Legitimationskrisen (da die Präsidenten in der Regel mit weniger als der Mehrheit der Stimmen gewählt wurden) als auch Verschwörungen (da der Vizepräsident in der Regel einer anderen Partei angehörte) hervorriefen und verstärkten."
-
-
 demosiv:0	"Allgemeines Wahlrecht"
 demosiv_desc:0	"Wenn es ein allgemeines Wahlrecht gibt, ist das Wahlrecht nicht nach Geschlecht, Rasse, sozialem Status, Bildungsstand oder Vermögen eingeschränkt. In der Regel wird das Wahlrecht nicht auf alle Einwohner einer Region ausgedehnt, sondern es werden häufig Unterscheidungen hinsichtlich der Staatsangehörigkeit, des Alters und gelegentlich auch der geistigen Fähigkeiten oder strafrechtlichen Verurteilungen getroffen. Die kurzlebige Korsische Republik (1755-1769) war das erste Land, das ein eingeschränktes allgemeines Wahlrecht für alle Einwohner über 25 Jahren gewährte. Es folgten weitere Versuche in der Pariser Kommune von 1871 und in der Inselrepublik Franceville (1889). Im Jahr 1893 wurde Neuseeland zum ersten großen Land, das das allgemeine Wahlrecht einführte, und im Index "Freedom in the World" wird Neuseeland als das einzige freie Land der Welt im Jahr 1893 aufgeführt. Im Jahr 1906 war Finnland das zweite Land der Welt und das erste in Europa, das seinen Bürgern das allgemeine Wahlrecht gewährte]. Zu diesem Zeitpunkt hatten Frauen in Neuseeland jedoch noch nicht das Recht, für ein Amt zu kandidieren. Im Jahr 1906 war Finnland das erste Land der Welt, das Frauen volle politische Rechte gewährte"
 demosv:0	"£tech_mod Technokratie"
@@ -3617,11 +2169,9 @@ teciv:0	"£tech_mod Französisch Mission"
 teciv_desc:0	"Brasilianischen Armee nach dem Ersten Weltkrieg Welt, obwohl es unter dem Einfluss von \"Jungtürken\", die vor allem die Verbesserung der Bildung und höhere berufliche Begeisterung zur Verfügung gestellt hat, verübelt Oper Rationalität erforderlich, um die Rolle zu spielen Verfassung, dass es ihm war. Die brasilianische Regierung beschloss nach heftigen politischen Diskussionen, eine ausländische Militärmission zu beauftragen, die ihre Armee in den neuen, aus dem Ersten Weltkrieg stammenden Kampfverfahren ausbilden sollte. Die Wahl fiel auf Frankreich - aufgrund der historischen Affinitäten zu Brasilien und als einer der großen Gewinner dieses Konflikts -, den Auserwählten. Die 1919 eingestellte französische Militärmission, deren Leiter technischer Assistent des Generalstabs der Armee war, diente bis 1940 vor allem in Militärschulen. Über zwanzig Jahre, mit mehr als hundert Ausbilder, verursacht zahlreiche Veränderungen in diesen Schulen, wo mit allen Landstreitkräften interagiert. Kurz gesagt, die vorgeschlagenen Dokumente produziert, die Lehren und Doktrin übertragen verbesserte Ausbildung Offizier des Generalstabs, Bildung und Organisation in ECEME zu dieser Zeit als Generalstabsschule bekannt."
 militaryschool_i:0	"Militärische Schulen"
 militaryschool_i_desc:0	"Und bequem zu meinem Dienst sein Meister, um ihnen Lektion für beingeating ihre Löhne mit wenig Préstimo in seinem Brief. Und es schien mir, Ihnen zu sagen, dass, wenn der Ingenieur, den ich anstelle von Gregory Gomes ernenne, nicht die Wissenschaft verwenden sollte und den Umgang mit der Waffe zu lehren, in diesem Fall wird mit bieten andere im Rang eines Kapitäns der Artillerie Platz dies, und jetzt diese Lehre der kann die Kette der Ingenieur geben, wo es am einfachsten ist, es zu erhalten, die es lernen will, als zu den gleichen Ingenieur Befestigungen zu gehen, deren Fleiß Befehl im Gefängnis entwirren, wo er ist. (PIRASSINUNGA 1958, S. 9)."
-
 militaryschool_ii_desc:0	"Der Ursprung der militärischen Ausbildung in Brasilien ist recht alt und geht auf das Ende des siebzehnten Jahrhunderts zurück. Nach Pirassinunga (1958), war die erste Spur der militärischen Ausbildung in 1698"
 militaryschool_iii:0	"£tech_mod Militärakademie von Agulhas Negras"
 militaryschool_iii_desc:0	"Die Militärakademie von Agulhas Negras (AMAN) ist eine brasilianische Armee-Einheit ist eine Schule der höheren Bildung in der staatlichen Stadt Resende gelegen. Sie ist die einzige Ausbilderschule für Berufsoffiziere der Infanterie, der Kavallerie, der Artillerie, der Technik und der Kommunikation, des Ordnungsamtes und des Heeresquartiermeisters. Sie wurde in Resende im Januar 1944 gegründet."
-
 industrialtech_i_desc:0	"Im industriellen Aufschwung der dreißiger Jahre wuchs der Verbrauch von Zement und Stahl und ersetzte in großem Umfang Importe, die aus der Reifung von Investitionen in den Erwerb von Investitionsgütern in der Textilindustrie resultierten, die zwischen 1921 und 1928 getätigt worden waren, und mit dem 1931 eingerichteten und bis 1937 andauernden Kontrollaustausch. Dieses Wachstum wurde durch einen Anstieg der Gewebeexporte unterbrochen. Der Rückgang nach dem letzten Ausbruch erholte sich nur kurz in der Zweijahresperiode 1943-1944, als öffentliche Investitionen für die Errichtung des ersten Stahlwerks in Brasilien getätigt wurden. Die Regierung zeigte sich besorgt über die industrielle Aktivität und schuf das landwirtschaftliche Kreditportfolio und die brasilianische Industriebank, die jedoch erst ab 1941 eine bedeutende Finanzierung ermöglichten."
 industrialtech_ii:0	"Industrielle Anstrengung II"
 industrialtech_ii_desc:0	"Präsident Vargas, der die Konzepte und Bestrebungen der Revolution von 1930 vertrat, begann in großem Umfang in die Schaffung einer industriellen Infrastruktur zu investieren: Grundstoffindustrie und Energie, und gründete mehrere Unternehmen und entscheidende Institutionen für die Industrialisierung, wie den Nationalen Erdölrat (1938), die Companhia Siderurgica Nacional (1941, Elektrizität für Industrie und Bevölkerung), die Companhia Vale do Rio Doce (1943, Eisenerzexploration) und die Hydroelectric Company of San Francisco (1945). Das waren die ersten großen Industrieunternehmen des Landes. Hinzu kam die Gründung von Petrobras im Jahr 1953, die zur Beschleunigung des industriellen Wachstums beitrug. Die Vargas-Regierung schuf auch Arbeitsgesetze, die den Arbeitnehmern entgegenkamen, und bereitete das Land auf die Organisation des Wachstums der Industrie vor, wie im Fall der Konsolidierung der Arbeitsgesetze."
@@ -3638,7 +2188,6 @@ mona_i_desc:0	"Eine Monarchie ist eine Regierungsform, in der eine Gruppe, in de
 mona_ii:0	"Das Kaiserreich wiederherstellen"
 mona_ii_desc:0	"Das Kaiserreich Brasilien war ein Staat des 19. Jahrhunderts, der im Wesentlichen die Gebiete umfasste, die heute Brasilien und Uruguay bilden. Seine Regierung war eine repräsentative parlamentarische konstitutionelle Monarchie unter der Herrschaft von Kaiser Dom Pedro I. und seinem Sohn Dom Pedro II. Brasilien war eine Kolonie des Königreichs Portugal und wurde 1808 zum Sitz des portugiesischen Kolonialreichs, als der portugiesische Prinzregent und spätere König Dom João VI. vor der napoleonischen Invasion in Portugal floh und sich und seine Regierung in der brasilianischen Stadt Rio de Janeiro niederließ. João VI. kehrte später nach Portugal zurück und überließ seinem ältesten Sohn und Erben, Pedro, die Regentschaft über das Königreich Brasilien. Am 7. September 1822 erklärte Pedro die Unabhängigkeit Brasiliens und wurde, nachdem er einen erfolgreichen Krieg gegen das Königreich seines Vaters geführt hatte, am 12. Oktober als Pedro I. zum ersten Kaiser von Brasilien ausgerufen. Das neue Land war riesig, aber dünn besiedelt und ethnisch vielfältig. Im Gegensatz zu den meisten hispanoamerikanischen Nachbarrepubliken verfügte Brasilien über politische Stabilität, ein dynamisches Wirtschaftswachstum, verfassungsmäßig garantierte Redefreiheit und die Achtung der Bürgerrechte seiner Untertanen, wenn auch mit gesetzlichen Einschränkungen für Frauen und Sklaven, die als Eigentum und nicht als Bürger betrachtet wurden. Das Zweikammerparlament des Kaiserreichs wurde nach für die damalige Zeit vergleichsweise demokratischen Methoden gewählt, ebenso wie die Provinz- und Kommunalparlamente. Dies führte zu einem langen ideologischen Konflikt zwischen Pedro I. und einer großen Parlamentsfraktion über die Rolle des Monarchen in der Regierung. Er sah sich weiteren Hindernissen gegenüber. Der erfolglose Cisplatine-Krieg gegen die benachbarten Vereinigten Provinzen des Río de la Plata im Jahr 1828 führte zur Abspaltung der Provinz Cisplatina (dem späteren Uruguay). Trotz seiner Rolle bei der brasilianischen Unabhängigkeit wurde er 1826 zum König von Portugal ernannt; er dankte sofort zugunsten seiner ältesten Tochter ab. Zwei Jahre später wurde ihr Thron vom jüngeren Bruder Pedros I. bestiegen. Unfähig, sich sowohl um die brasilianischen als auch um die portugiesischen Angelegenheiten zu kümmern, dankte Pedro I. am 7. April 1831 ab und reiste sofort nach Europa, um seine Tochter wieder auf den Thron zu setzen. (Sie sind eine konstitutionelle Monarchie, das Staatsoberhaupt ist der Kaiser, aber die Premierminister werden alle vier Jahre im Hintergrund gewählt)"
 mona_iii:0	"Fokus auf die kaiserliche Armee"
-
 mona_iv:0	"Fokus auf die kaiserliche Marine"
 mona_iv_desc:0	"1889 verfügte die Marine über 60 Kriegsschiffe und war damit die fünft- oder sechststärkste Marine der Welt. Im letzten Kabinett des monarchischen Regimes ließ der Marineminister, Admiral José da Costa Azevedo (der Baron von Ladário), die Reorganisation und Modernisierung der Marine unvollendet. Der Staatsstreich, der 1889 die Monarchie in Brasilien beendete, wurde vom Personal der Armada nicht gut aufgenommen. Kaiserliche Marinesoldaten wurden angegriffen, als sie versuchten, den inhaftierten Kaiser im Stadtpalast zu unterstützen. Der Marquis von Tamandaré flehte Pedro II. an, ihm zu erlauben, den Putsch zurückzuschlagen, doch der Kaiser weigerte sich, ein Blutvergießen zuzulassen. Tamandaré wurde später auf Befehl des Diktators Floriano Peixoto unter dem Vorwurf der Finanzierung des monarchistischen Militärs in der föderalistischen Revolution inhaftiert. Der Baron von Ladário blieb in der Hoffnung, die Monarchie wiederherstellen zu können, in Kontakt mit der kaiserlichen Familie im Exil, wurde jedoch von der republikanischen Regierung geächtet. Admiral Saldanha da Gama führte den Aufstand der Armada mit dem Ziel der Wiederherstellung des Kaiserreichs an und verbündete sich mit anderen Monarchisten, die in der föderalistischen Revolution kämpften. Alle Versuche der Restauration wurden jedoch gewaltsam niedergeschlagen. Hochrangige monarchistische Offiziere wurden inhaftiert, verbannt oder ohne ein ordentliches Gerichtsverfahren durch ein Erschießungskommando hingerichtet, und auch ihre Untergebenen erlitten harte Strafen.  DAS KAISERREICH WIRD DIEJENIGEN, DIE IHM TREU WAREN, NIE VERGESSEN!"
 mona_vv:0	"Hegemonie im Land"
@@ -3646,95 +2195,39 @@ mona_vv_desc:0	"Das Imperium strebt die Hegemonie auf dem Kontinent an. DER KAIS
 mona_xx:0	"Luso-Brasilianisches Reich"
 mona_xx_desc:0	"Als Brasilien seine Unabhängigkeit erlangte und zum Imperium wurde, war derjenige, der es tat, der Erbe des portugiesischen Throns, was der brasilianischen kaiserlichen Familie einen Blutsanspruch auf den portugiesischen Thron gab. 1910 wurde der Thron jedoch von dreckigen Republikanern usurpiert, es ist an der Zeit, ihn zurückzuerobern und den Ruhm der portugiesischsprachigen Nationen wiederherzustellen! VERRECKE ALS REPUBLIKANISCHER ABSCHAUM!"
 expand_military_i:0	"Das Militär ausbauen"
-
 expand_military_ii:0	"Fortsetzung der militärischen Expansion"
 expand_military_ii_desc:0	"Gewehre werden immer die Butter schlagen"
 fria_i:0	"Zweiter industrieller Boom"
 fria_i_desc:0	"Die 1950er Jahre, vor allem ihre zweite Hälfte, waren durch den Fortschritt des brasilianischen Industrialisierungsprozesses gekennzeichnet. Die wirtschaftliche Entwicklung des Landes wurde stark von starken öffentlichen Investitionen durch Direktinvestitionen des Staates oder staatlicher Unternehmen und, weniger auffällig, von internationalem und nationalem Privatkapital beeinflusst (Leopoldi, 1994; DRAIBE, 1985, SERRA, 1983; MARTINS, 1976). Die Ankunft des ausländischen Kapitals war eine der Möglichkeiten, diese Entwicklung zu finanzieren, und sein Eintritt in Brasilien war das Ergebnis der globalen Expansion, durch die das US-amerikanische, europäische und japanische Kapital sowie die interne Anziehungskraft dieser Kapitalpolitiken, die damals in der brasilianischen Wirtschaft existierten, hindurchging."
 fria_indu_i:0	"Industrielle Expansion"
-
-
-
 fria_indu_iii:0	"Industrielle Expansion III"
-
 fria_indu_iv:0	"Industrielle Expansion IV"
-
-
-
 fria_army_i:0	"Boito"
-
-
-
-
-
-
-
 fria_vale_iii:0	"Petrobras II"
-
-
-
-
-
-
-
-
-
-
 exercito_ii_desc:0	"Das brasilianische Heer ist die Landstreitkraft der brasilianischen Streitkräfte. Das brasilianische Heer hat in mehreren internationalen Konflikten gekämpft, vor allem in Südamerika im 19. Im 20. Jahrhundert kämpfte sie auf der Seite der Alliierten im Ersten und Zweiten Weltkrieg. Die Armee, die von 1964 bis 1985 in Brasilien an der Spitze des Westblocks stand, nahm auch aktiv am Kalten Krieg in Lateinamerika und im südlichen Portugal teil und beteiligte sich seit den späten 1950er Jahren an UN-Friedensmissionen weltweit."
-
 moto_desc:0	"Die ersten Fahrzeuge, die in die Armee eingegliedert wurden, waren in den frühen 20er Jahren Kleinlastwagen vom Typ Ford Model T. Dies ist nicht nur darauf zurückzuführen, dass Ford der erste Automobilhersteller war, der sich 1919 in Brasilien niederließ, sondern auch darauf, dass diese Fahrzeuge in großen Mengen produziert wurden. Diese Fahrzeuge wurden in dem Land durch das System namens CKD montiert alle Komponenten praktisch kam von den Zentralen im Ausland, vor allem den Umgang mit zivilen Fahrzeugen. Die Marke Ford war nicht die einzige, die neben anderen amerikanischen und europäischen Marken immer präsent war. Ein ehemaliger Ausbilder des Ausbildungszentrums für Motorisierung und Mechanisierung der Armee (CIMM) drückte es in einem Vortrag aus dem Jahr 1941, einer Vortragsreihe über moderne Kavallerie, so aus: Der Motor existiert für die Kavallerie in zweierlei Hinsicht: Materialtransport, Traktion und Verbindung, und Kampfmaterial. Zur ersten Gruppe gehören die selbstfahrenden Fahrzeuge, die Geländewagen, Traktoren und Motorräder; sie wird Motor genannt."
 mecha:0	"Mecanização"
-
-
-
 tanque:0	"Gepanzerte Streitkräfte"
 tanque_desc:0	"Dies hilft dir, Panzer zu haben. Denn Panzer sind fantastisch HUEHUE BRBRBR !"
 naval:0	"Brasilianische Marine"
-
 contratorpedeiro:0	"Zerstörer"
 contratorpedeiro_desc:0	"Die brasilianische Marine beteiligte sich im Rahmen ihrer Möglichkeiten und der mit amerikanischen Mitteln geförderten Umrüstung und Umstrukturierung aktiv am Kampf gegen U-Boote im Süd- und Mittelatlantik und in der Karibik. Sie bewachten alliierte Konvois, die nach Nordafrika und ins Mittelmeer fuhren. Zwischen 1942 und 1945 führte die Marine 574 Konvoioperationen durch und schützte 3164 Handelsschiffe verschiedener Nationalitäten. Feindlichen U-Booten gelang es, nur drei Schiffe zu versenken. Nach deutschen Unterlagen unternahm die brasilianische Marine über sechsundsechzig Angriffe gegen deutsche U-Boote."
-
-
-
-
-
-
 aereo:0	"Nationale Luftwaffe"
-
-
 interceptador_desc:0	"Einer der Hauptbefürworter des Plans zur Schaffung einer unabhängigen Luftwaffe war der damalige Präsident Getúlio Vargas. Er organisierte Anfang 1940 eine Studiengruppe, und Ende desselben Jahres wurde die gesamte Struktur des Ministeriums für Luftfahrt (Ministério da Aeronáutica) geschaffen. Diese neue Regierungsbehörde war für alle Aspekte der zivilen und militärischen Luftfahrt zuständig, einschließlich Infrastruktur, Regulierung und Organisation."
-
-
 experiencia_i:0	"Manöver"
-
 experiencia_ii:0	"Manöver II"
 experiencia_ii_desc:0	"Wir sollten einige Manöver in der Nähe unserer Nachbarregionen veranstalten, nur so zum Spaß"
-
-
-
-
 small_HQ_Command:0	"Grünes Armeekommando"
 small_HQ_Command_desc:0	"weniger als 1000 HQ Ausrüstungen"
 Medium_HQ_Command:0	"Ausgebildetes Armeekommando"
-
-
 Large_HQ_Command_desc:0	"Zwischen 100001 und 35000 HQ Ausrüstung"
 xLarge_HQ_Command:0	"Veteranen-Armeekommando"
-
-
-
 Japanese_invasion:0	"Krieg des Widerstands"
-
 fcm_la_seyne:0	"FCM La Seyne"
 arsenal_de_brest:0	"Arsenal von Brest"
-
-
-
 IRE_ira:0	"Irische Republikanische Armee"
-
 IRE_ira2:0	"Irisch-Republikanische Armee"
 IRE_ira2_desc:0	"Obwohl Irland mit dem anglo-irischen Vertrag von 1921 seine Unabhängigkeit erlangt hat, stellt sich die vertragsfeindliche IRA gegen die Regierung und die Briten und schwächt den irischen Staat weiter."
-
 sino_jap_war_fail_naisen_overthrow:0	"Kakumei Seishin"
 sino_jap_war_fail_naisen_overthrow_desc:0	"Das Scheitern bei der Eroberung Chinas hat gezeigt, dass die derzeitige Regierung unfähig ist, Japan zu führen. Wir müssen uns gegen sie erheben und Japan aus der abgrundtiefen Dunkelheit herausholen!"
 vickers_armstrong_can:0	"Vickers-Armstrong"
@@ -3745,7 +2238,6 @@ CNR:0	"Kanadische Staatsbahn"
 vickers_canada:0	"Kanadische Vickers Ltd."
 general_motors:0	"General Motors"
 avro_can:0	"Avro Kanada"
-
 john_inglis_co:0	"John Inglis & Unternehmen"
 davie_shipbuilding:0	"Davie Schiffbau"
 longbranch:0	"Long Branch"
@@ -3771,14 +2263,8 @@ montreal_lab:0	"Montreal-Labor"
 polymer_corporation:0	"Polymer-Gesellschaft"
 inglis_company:0	"John Inglis und Unternehmen"
 small_arms_limited:0	"Kleinwaffen Limited"
-
 west_coast:0	"West Coast Shipbuilders Ltd"
-
-
 canada_minor_war_response:0	"Geringe Militärbegeisterung"
-
-
-
 canada_canadian_war_response:0	"Volle kanadische Unterstützung"
 canada_canadian_war_response_desc:0	"Die kanadische Bevölkerung setzt sich mit ganzer Kraft für den Krieg ein und kann sich rühmen, so viele Freiwillige wie nie zuvor zu haben. Ob an der Heimatfront in den Fabriken oder an der Kriegsfront im Dienste ihres Landes, sie geben alles und sogar ihr Leben, wenn es sein muss."
 quebecois_no_conscription:0	"Verweigerung der Wehrpflicht"
@@ -3788,106 +2274,24 @@ quebecois_minor_conscription_desc:0	"Auch wenn die Einberufungsquote in Québec 
 idea_cd_howe:0	"Clarence Decatur Howe"
 idea_cd_howe_desc:0	"Der Minister für Munition und Versorgung, C.D. Howe, ist ein brillanter Mann, der es versteht, die beiden Enden des politischen Spektrums zu koordinieren, um in der Industrie zusammenzuarbeiten."
 idea_can_repurpose:0	"Teile und Stücke"
-
-
-
 idea_d_day:0	"Vorbereitungen für den D-Day"
-
-
-
-
-
-
-
-
-
-
-
-
 que_socialist_science:0	"Sozialistische Wissenschaft"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 tank_factory_light_armor_desc:0	"Verlagerung der Produktion auf leichte Panzer\n"
-
 tank_factory_medium_armor_desc:0	"Verlagerung der Produktion auf mittlere Panzer\n"
 tank_factory_heavy_armor:0	"Fabrik für gepanzerte Fahrzeuge ([?num_tank_factory])"
-
-
-
-
-
-
-
-
-
-
-
 rifle_smallarms_production:0	"Produktionsschwerpunkt Gewehre und Maschinengewehre"
-
-
 truckfactory:0	"Fahrzeugfabrik ([?num_vehicle_factory])"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 jetaircraftfactory_desc:0	"$Jetaircraft_factory_desc$"
-
-
-
-
 balanced_jet_production:0	"Produktionsschwerpunkt gemischte Düsenflugzeuge"
 light_jet_production:0	"Produktionsschwerpunkt leichte Düsenflugzeuge"
-
-
 ltaircraftfactory_desc:0	"$Ltaircraft_factory_desc$"
 ltaircraftfactory_fighter:0	"Fabrik für leichte Flugzeuge ([?num_light_aircraft_factory])"
-
 ltaircraftfactory_hv_fighter:0	"Leichtflugzeugfabrik ([?num_light_aircraft_factory])"
 ltaircraftfactory_hv_fighter_desc:0	"$Ltaircraft_factory_desc$"
 ltaircraftfactory_CAS:0	"Leichtflugzeugfabrik ([?num_light_aircraft_factory])"
 ltaircraftfactory_CAS_desc:0	"$Ltaircraft_factory_desc$"
 ltaircraftfactory_bomber:0	"Leichtflugzeugfabrik ([?num_light_aircraft_factory])"
 ltaircraftfactory_bomber_desc:0	"$Ltaircraft_factory_desc$"
-
 fighter_production:0	"Produktionsschwerpunkt Kampfflugzeuge"
 hv_fighter_production:0	"Schweres Kampfflugzeug Produktionsschwerpunkt"
 CAS_production:0	"Produktionsschwerpunkt Luftnahunterstützung"
@@ -3897,115 +2301,45 @@ hvaircraftfactory_desc:0	"$Hvaircraft_factory_desc$"
 hvaircraftfactory_medium_bomber:0	"Fabrik für schwere Flugzeuge ([?num_heavy_aircraft_factory])"
 hvaircraftfactory_medium_bomber_desc:0	"$Hvaircraft_factory_desc$"
 hvaircraftfactory_heavy_bomber:0	"Fabrik für schwere Flugzeuge ([?num_heavy_aircraft_factory])"
-
 hvaircraftfactory_naval_bomber:0	"Fabrik für schwere Flugzeuge ([?num_heavy_aircraft_factory])"
-
 balanced_hv_aircraft_production:0	"Produktionsschwerpunkt für ausgeglichene Flugzeuge"
 medium_bomber_production:0	"Produktionsschwerpunkt mittlere Bomber"
 heavy_bomber_production:0	"Produktionsschwerpunkt Strategische Bomber"
-
-
 shipyardfactory0_desc:0	"$shipyard_desc$"
-
-
 shipyardfactory2:0	"Schiffswerft (2)"
 shipyardfactory2_desc:0	"$shipyard_desc$"
 shipyardfactory3:0	"Werft (3)"
 shipyardfactory3_desc:0	"$shipyard_desc$"
 shipyardfactory4:0	"Werft (4)"
 shipyardfactory4_desc:0	"$shipyard_desc$"
-
 shipyardfactory5_desc:0	"$shipyard_desc$"
 shipyardfactory6:0	"Schiffswerft (6)"
-
 shipyardfactory7:0	"Schiffswerft (7)"
 shipyardfactory7_desc:0	"$shipyard_desc$"
-
 shipyardfactory8_desc:0	"$shipyard_desc$"
-
-
 shipyardfactory10:0	"Schiffswerft (10)"
 shipyardfactory10_desc:0	"$shipyard_desc$"
 shipyardfactory11:0	"Schiffswerft (11)"
 shipyardfactory11_desc:0	"$shipyard_desc$"
-
-
-
 shipyardfactory13_desc:0	"$shipyard_desc$"
 shipyardfactory14:0	"Schiffswerft (14)"
-
-
 shipyardfactory15_desc:0	"$shipyard_desc$"
 shipyardfactory16:0	"Schiffswerft (16)"
 shipyardfactory16_desc:0	"$shipyard_desc$"
-
 shipyardfactory17_desc:0	"$shipyard_desc$"
-
-
 shipyardfactory19:0	"Schiffswerft (19)"
 shipyardfactory19_desc:0	"$shipyard_desc$"
 shipyardfactory20:0	"Schiffswerft (20)"
-
-
 subyardfactory0_desc:0	"$subyard_desc$"
-
-
-
-
-
-
-
-
-
-
-
-
-
 subyardfactory7_desc:0	"$subyard_desc$"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 subyardfactory20_desc:0	"$subyard_desc$"
 research:0	"Forschungskapazitäten"
-
 French_shock_desc:0	"Die Geschwindigkeit, der Schock und die Professionalität des deutschen Angriffs haben das französische Kommando ins Taumeln gebracht. Verwirrung und Desorganisation werden durch die unerbittlichen deutschen Angriffe ausgenutzt und verstärkt."
 French_Dismay:0	"Kriegsmüdigkeit"
 French_Dismay_desc:0	"Nach den Verheerungen und Verlusten des Ersten Weltkriegs sind die Franzosen nicht bereit, erneut einen langen Krieg zu führen. Viele ihrer Männer sind kriegsmüde und die Führung der Nation ist defätistisch. Es bedarf einiger Anstrengungen, um dieses Unbehagen zu überwinden."
-
-
-
-
-
-
-
-
-
 BRA_pedro_aurelio_de_gois_monteiro_desc:0	"Sorgfältig planen"
 BRA_jose_fernandes_leite_de_castro:0	"José Fernandes Leite de Castro"
 BRA_jose_fernandes_leite_de_castro_desc:0	"Wer braucht Lastwagen?"
-
 BRA_eurico_gaspar_dutra_desc:0	"Historische Wahl"
 BRA_eurico_gaspar_dutra_1:0	"Eurico Gaspar Dutra"
 BRA_eurico_gaspar_dutra_1_desc:0	"Historische Auswahl"
@@ -4018,7 +2352,6 @@ bra_exports_desc:0	"Historisch gesehen exportiert Brasilien gerade tonnenweise K
 populism_join_allies:0	"Schließen Sie sich den Alliierten an"
 populism_join_axis:0	"Den Achsenmächten beitreten"
 populism_election_i:0	"Präsidentschaftswahlen 1946"
-
 populism_election_ii:0	"1951 Präsidentschaftswahlen"
 populism_election_ii_desc:0	"Bei dieser Wahl kommt Getulio Vargas wieder an die Macht, diesmal auf demokratische Weise, und wird erneut Präsident von Brasilien."
 populism_election_iii:0	"Vargas nimmt sich das Leben"
@@ -4029,139 +2362,74 @@ truck_tech_idea:5	"Verbesserter Kraftstofftransport"
 vomag:0	"Vomag"
 vomag_desc:1	""
 daimler_Benz_AG:0	"Daimler Benz"
-
 nibelungenwerke:0	"Nibelungenwerke"
 nibelungenwerke_AG_desc:1	""
 Nibelungen:0	"Nibelungenwerke"
 krupp_tank:0	"Krupp"
 krupp_tank_desc:1	""
-
 goering_e_desc:0	"Hermann Göring war ein Fliegerass aus dem Ersten Weltkrieg, das zu einem der wichtigsten Unterstützer Hitlers wurde. Er ist zwar nicht der Beste in diesem Beruf, aber er ist sehr loyal."
 Waffen_SS:0	"Waffen-SS"
 Waffen_SS_desc:0	"Der bewaffnete Flügel der Schutzstaffel der NSDAP. Zu ihren militärischen Formationen gehörten Männer aus Nazi-Deutschland sowie Freiwillige und Wehrpflichtige aus besetzten und unbesetzten Ländern."
 japanese_liscense_cost_int_one:0	"Importierte Kampfflugzeugmuster"
 japanese_liscense_cost_int_two:0	"Importierte Kampfflugzeugmuster"
 adolf_hitler:0	"Adolf Hitler"
-
-
 hitler_ai_desc:0	"Der GROFAZ"
 hermann_goering:0	"Hermann Göring"
 hermann_goering_desc:0	"Hermann Göring war ein Fliegerass des Ersten Weltkriegs, das zu einem der wichtigsten Unterstützer Hitlers wurde. Er ist zwar nicht der Beste in diesem Job, aber er ist treu ergeben und loyal."
-
 wilhelm_canaris:0	"Wilhelm Canaris"
-
 j_edgar_hoover:0	"J. Edgar Hoover"
-
-
 Goering_four_year_plan_37:0	"Göring-Plan Jahr 1"
-
 Goering_four_year_plan_38:0	"Göring-Plan Jahr 2"
 Goering_four_year_plan_38_desc:0	"Das dritte Jahr des Vierjahresplans war eine wirtschaftliche Initiative, die Hitler startete. Sie beinhaltete unter anderem die Verringerung der Arbeitslosigkeit und die Durchführung öffentlicher Bauprojekte wie die deutschen Autobahnen. Hermann Göring wurde ausgewählt, um die Umsetzung des Plans zu überwachen."
 Goering_four_year_plan_39:0	"Göring-Plan Jahr 3"
 Goering_four_year_plan_39_desc:0	"Das vierte und letzte Jahr des Vierjahresplans war eine wirtschaftliche Initiative, die Hitler startete. Es ging unter anderem darum, die Arbeitslosigkeit zu verringern und öffentliche Bauvorhaben wie die deutschen Autobahnen in Angriff zu nehmen. Hermann Göring wurde ausgewählt, um den Plan in die Tat umzusetzen."
-
 Goering_four_year_plan_40_desc:0	"Das vierte und letzte Jahr des Vierjahresplans war eine wirtschaftliche Initiative, die Hitler startete. Es ging unter anderem darum, die Arbeitslosigkeit zu verringern und öffentliche Bauvorhaben wie die deutschen Autobahnen in Angriff zu nehmen. Hermann Göring wurde ausgewählt, um die Umsetzung des Plans zu überwachen."
-
 tdlra_pillarized_society_desc:0	"Versäulung beherrscht die niederländische Politik"
 tdlra_pillarized_society2:0	"Polderen"
 tdlra_pillarized_society2_desc:0	"Die Säulengesellschaft hat die niederländische Politik zwar immer noch fest im Griff, aber wir haben ihren Einfluss verringert, indem wir gemeinsam an einem Strang ziehen"
-
 tdlra_union_agreements_desc:0	"Die jüngsten Unionsgespräche haben zu einem zufriedenstellenden Ergebnis geführt"
-
 tdlra_states_army_desc:0	"Die Geschichten über unsere Armeen aus dem Goldenen Zeitalter haben die Menschen dazu gebracht, sich freiwillig für unsere glorreiche Nation zu melden."
 tdlra_communist_police:0	"Kommunistische Polizei"
-
-
 tdlra_aerial_interest_desc:0	"Mit unserem neuen Fallschirmjägerkorps und den erneuten Investitionen in die Firma Fokkers haben wir ein öffentliches Interesse an Entwicklungen in der Luftfahrt geschaffen."
-
 tdlra_armed_neutrality_idea_desc:0	"Obwohl sich unser Land für neutral erklärt hat, ist ein stehendes Heer für den Schutz dieser Neutralität unerlässlich."
 tdlra_british_ship_designs_idea:0	"Britische Schiffskonstruktionen"
-
 tdlra_economic_cooperation_within_benelux:0	"Wirtschaftsinitiative - Niederlande"
 tdlra_economic_cooperation_within_benelux2:0	"Wirtschaftsinitiative - Belgien"
 tdlra_economic_cooperation_within_benelux3:0	"Wirtschaftsinitiative - Luxemburg"
-
 tdlra_catholic_schools:0	"Katholische Schulen"
 tdlra_protestant_schools:0	"Evangelische Schulen"
-
 tdlra_catholic_rejection:0	"Katholische Ablehnung"
 tdlra_female_scientists:0	"Wissenschaftlerinnen"
 tdlra_women_in_the_army:0	"Frauen in der Armee"
-
 GER_supreme_commander:0	"Oberbefehlshaber"
 ITA_supreme_commander:0	"Oberbefehlshaber (Comando Supremo)"
 generic_monarchism_advisor:0	"Engagierter Royalist"
-
 idea_monarchist_1_desc:0	"Die Traditionen unseres Landes sind das, was uns eint"
-
-
 idea_monarchist_3:0	"Die Aristokratie"
 idea_monarchist_3_desc:0	"Eine kluge Regierung weiß, wie sie mit der Palastpolitik umgehen und sie zu ihren Gunsten wenden kann."
 idea_monarchist_4:0	"Für den König"
 idea_monarchist_4_desc:0	"Unsere Männer kämpfen und sterben für die heilige Linie"
-
-
 idea_royal_check:0	"Königliche Prüfung"
 FRI_voong_huu_trieu:0	"Voong Huu Trieu"
-
 FRI_hang_dinh_xuan:0	"Hang Dinh Xuan"
-
-
-
 FRI_ngo_dinh_nhu:0	"Ngo Dinh Nhu"
-
-
-
-
-
-
-
-
 quebecois_propaganda_tooltip:0	"Die Bevölkerung von Québec wird schließlich mit uns übereinstimmen, wenn wir beginnen, den Einberufungsaufrufen vollständig Folge zu leisten.\n§Geduld wird belohnt werden.§!\n"
-
 quebec_angry:0	"Die Missachtung der Wünsche von Québec wird §Ranger§! them\n"
-
 imperial_oil_tooltip:0	"Eine konzertierte Aktion für die Entdeckung von mehr Öl wird in §YAlberta§! beginnen\n"
 polymer_corp_tooltip:0	"Eine konzertierte Aktion für eine Alternative zu Kautschuk wird in §YSüdontario§!\n beginnen"
-
-
-
-
-
 available_leslie_morshead:0	"Leslie Morshead "
-
-
 cac_aircraft_manufacturer:0	"Commonwealth Air Gesellschaft"
-
-
 nsw_rail_tank_manufacturer:0	"New South Wales Railways"
-
 german_smuggle_manufacturer:0	"Deutsche Krupp-Schmuggler"
 rover_motorized_equipment_manufacturer:0	"Die Rover Gesellschaft Limited"
-
-
-
-
 aborigional_recruitment:0	"Offene Rekrutierung für Aboriginals"
 australasian_confederation:0	"Australasiatische Konföderation"
-
-
 can_fascist_tendencies_pro:0	"Faschistische Tendenzen"
 can_fascist_tendencies_con:0	"Faschistische Tendenzen"
-
-
-
 usa_considering_faction:0	"Fraktionsangebot in Betracht ziehen"
-
 usa_joined_faction:0	"Beitritt zur Fraktion"
-
-
-
 AST_scw_intervention_nationalists_SPR:0	"Australische Intervention"
-
-
 AST_commie_banned:0	"Australisches Verbot"
-
 AST_anti_jap_opinion:0	"Anti-japanisches Auftreten"
 AST_usa_pact_opinion:0	"Der Feind unseres Feindes"
 sadabat_pact:0	"Sadabat-Pakt"
@@ -4170,7 +2438,6 @@ BEL_charles_bastin:0	"Jules Bastin"
 BEL_jules_bastin:0	"Jules Bastin" 
 tblra_leopold3:0	"Leopold III."
 tblra_leopold3_captive:0	"Leopold III. ist in Gefangenschaft"
-
 tblra_charles_regent_desc:0	"Während der König regierungsunfähig ist, wird sein Bruder, Prinz Charles, als Regent des Königreichs an seine Stelle treten."
 BEL_Pierre_Daye:0	"Pierre Daye"
 BEL_Charles_Someville:0	"Charles Somville"
@@ -4196,14 +2463,7 @@ BEL_paul_van_waesberghe:0	"Paul Van Waesberghe"
 BEL_etienne_glorie:0	"Etienne Glorie"
 BEL_gustave_fromont:0	"Gustave Fromont"
 BEL_gustave_fromont2:0	"Gustave Fromont"
-
-
-
-
 BEL_Fernand_Frenay:0	"Fernand Frenay"
-
-
-
 BEL_Jose_Streel:0	"José Streel"
 BEL_rene_lagrou:0	"René Lagrou"
 BEL_Victor_Matthys:0	"Victor Matthys"
@@ -4213,231 +2473,75 @@ BEL_rene_legros:0	"René Legros"
 BEL_andre_becquet:0	"André Becquet"
 VLA_auguste_baesens:0	"Auguste Baesens"
 VLA_alexis_vander_veken:0	"Alexis Vander Veken"
-
-
 VLA_Staf_De_Clercq:0	"Staf De Clercq"
-
-
-
-
-
-
-
-
-
-
-
 WLL_Prosper_Theugels:0	"Prosper Theugels"
-
-
-
-
-
-
-
-
-
-
-
 bel_hol_diplomacy_focus:0	"Belgischer Einfluss"
-
-
-
-
-
-
-
-
-
-
 hanjian:0	"Hanjian"
 ohne_ehre:0	"OHNE EHRE!"
-
-
-
 macau_demo_kept:0	"Macau Beibehalten"
-
 FRA_inflation1:0	"Inflation"
-
 FRA_inflation3:0	"Inflation"
 FRA_matignon_agreements1:0	"Matignon-Abkommen"
-
 FRA_wartime_focus:0	"Gesetz über die Kriegsorganisation"
-
-
-
-
 FRA_banned_leagues:0	"Verbotene Ligen "
-
-
 FRA_desert_equipment:0	"Wüste Ausrüstung"
-
-
-
 FRA_support_monarchy_focus:0	"Unterstützung der Monarchie"
-
 FRA_roi:0	"König Heinrich VII."
-
-
 FRA_ideological_fanaticism:0	"Ideologischer Fanatismus"
 FRA_travaux:0	"Grands Travaux"
-
 FRA_intervention_idea:0	"Französische Intervention"
-
-
 FRA_increased_resistance:0	"Französischer Widerstand (verstärkt)"
-
-
-
-
 humanite_unie:0	"Humanité Unie"
-
-
-
-
-
-
 brest:0	"CNF"
-
 penhoet:0	"Schifferverein von Penhoët"
 penhoet_desc:0	"Chantiers Penhoët de Saint-Nazaire"
-
-
-
-
-
 peugeot:0	"Peugeot"
 hotchkiss:0	"Hotchkiss"
-
-
-
-
 mas_desc:0	"Waffenschmiede von Saint-Étienne"
-
-
-
 loire_nav:0	"ACL"
-
 tunis:0	"MAT"
-
 normandie:0	"SMN"
-
-
-
 puteaux_desc:0	"Ateliers de Puteaux"
-
 bayonne_desc:0	"Waffenmanufaktur von Bayonne"
-
 vetra_desc:0	"Société des Véhicules et Tracteurs Électriques"
-
 bull_desc:0	"Unternehmen der Maschinenfabrik Bull"
-
 poulenc_desc:0	"Société des usines chimiques Rhône-Poulenc"
-
 oran:0	"Oran"
-
-
-
 panhard:0	"Panhard & Levassor"
 berliet:0	"Berliet"
-
 bleriot:0	"Blériot"
-
 fouga:0	"Fouga"
-
-
-
 potez:0	"Potez"
 potez_desc:0	"Tragflächenflugzeuge Henry Potez"
-
 tiny_army_desc:0	"10 Divisionen oder weniger"
-
 small_army_desc:0	"Zwischen 10 und 50 Divisionen"
 average_army:0	"Mittleres Heer"
-
 large_army:0	"Großes Heer"
 large_army_desc:0	"Zwischen 100 und 200 Divisionen"
-
 huge_army_desc:0	"Mehr als 200 Divisionen"
-
-
 small_air_force:0	"Kleine Luftwaffe"
 small_air_force_desc:0	"Zwischen 800 und 2000 Flugzeugen"
 average_air_force:0	"Durchschnittliche Luftwaffe"
 average_air_force_desc:0	"Zwischen 2000 und 4000 Flugzeugen"
-
-
-
 huge_air_force_desc:0	"Mehr als 7000 Flugzeuge"
 tiny_navy:0	"Kleinstmarine"
-
-
 small_navy_desc:0	"Zwischen 20 und 50 Schiffen"
 average_navy:0	"Mittlere Marine"
 average_navy_desc:0	"Zwischen 50 und 110 Schiffen"
-
 large_navy_desc:0	"Zwischen 110 und 175 Schiffen"
-
-
-
 henri_queuille:0	"Henri Queuille"
 paul_faure:0	"Paul Faure"
-
 vincent_auriol:0	"Vincent Auriol"
-
-
-
-
-
-
-
-
-
-
-
-
-
 jules_moch:0	"Jules Moch"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 otto_gessler:0	"Dr. Otto Gessler"
 adam_stegerwald:0	"Adam Stegerwald"
 alfried_krupp:0	"Alfried Krupp"
 konstantin_hierl:0	"Konstantin Hierl"
-
 ernst_kaltenbrunner:0	"Ernst Kaltenbrunner"
 ernst_kaltenbrunner_intel:0	"Ernst Kaltenbrunner"
 heinrich_muller:0	"Heinrich Müller"
-
-
-
-
-
-
-
-
 louis_johnson:0	"Louis Johnson"
 harry_hopkins:0	"Harry I. Hopkins"
-
 harold_ickes_econ:0	"Harold L. Ickes"
 dean_acheson:0	"Dean Acheson"
 john_d_rockefeller_jr:0	"John D. Rockefeller Jr."
@@ -4446,11 +2550,9 @@ alf_m_landon:0	"Alf M. Landon"
 foster_hos:0	"William Z. Foster"
 truman_hos:0	"Harry S. Truman"
 USA_wendell_willkie_hos:0	"Wendell Willkie"
-
 dewey_hos:0	"Thomas E. Dewey"
 fdr_hos:0	"Franklin Delano Roosevelt"
 arthur_vandenberg:0	"Arthur Vandenberg"
-
 william_leahy:0	"William D. Leahy"
 harold_stark:0	"Harold R. Stark"
 oscar_westover:0	"Oscar Westover"
@@ -4460,59 +2562,32 @@ vasily_boldyrev:0	"Wassili Boldyrev"
 iraklij_tsereteliy:0	"Iraklij Tsereteliy"
 vasily_maklakov:0	"Wassili Maklakow"
 mikhail_tereshchenko:0	"Michail Tereschtschenko"
-
 aleksandr_protopopov:0	"Aleksandr Protopopow"
 pavel_malyantovich:0	"Pawel Maljantowitsch"
 vasily_shulgin:0	"Wassili Shulgin"
 aleksandr_konovalov:0	"Alexander Konowalow"
-
-
 viktor_chernov:0	"Wiktor Tschernow"
 dimitry_ustinov:0	"Dimitri Ustinow"
 lazar_kaganovich:0	"Lazar Kaganowitsch"
 boris_vannikov:0	"Boris Wannikow"
 kirill_v_romanov:0	"Kirill I."
 vladimir_k_romanov:0	"Wladimir I."
-
-
 aleksandr_loktionov:0	"Aleksandr Loktionow"
 kirill_meretskov:0	"Kirill Merezkow"
-
 ichiro_hatoyama:0	"Ichiro Hatoyama"
 koki_hirota:0	"Koki Hirota"
 hitoshi_ashida:0	"Hitoshi Ashida"
-
-
-
-
 kakuei_tanaka:0	"Kakuei Tanaka"
-
 tsukizo_akinaga:0	"Tsukizo Akinaga"
-
-
 hirohito_hos:0	"Hirohito"
-
-
 eikichi_katagiri:0	"Eikichi Katagiri"
-
 ninagawa_torazo:0	"Ninagawa Torazo"
 JAP_test_soviets:0	"Testen Sie die Sowjets"
-
-
-
-
 USA_vehicle_focus:0	"Ford & GM Fahrzeugproduktion"
-
 USA_tank_focus:0	"Detroit Arsenal Panzerfabrik"
 USA_tank_focus_desc:0	" "
-
-
-
 USA_paratrooper_school_desc:0	" "
-
-
 rock_island_arsenal_idea:0	"Erweitertes Rock Island Arsenal"
-
 soviet_advisors:0	"Sowjetische Berater"
 soviet_advisors_desc:0	"Die Sowjets haben uns eine Reihe qualifizierter Berater zur Verfügung gestellt, um unsere Armee zu modernisieren und ihr einen Vorteil gegenüber der Kuomintang zu verschaffen."
 PRC_guerilla_tactics:0	"Guerillataktik"
@@ -4523,9 +2598,6 @@ PRC_jiangnan_arsenal:0	"Arsenal von Jiangnan"
 PRC_jiangnan_arsenal_desc:0	"Das Jiangnan Aresnal versorgte die Qing-Dynastie mit modernster Ausrüstung. Wir sollten uns den Namen für einen militärisch-industriellen Komplex ausleihen, der als Keimzelle für unsere wachsende Rüstungsindustrie dienen kann."
 PRC_united:0	"Chinesische Einheit"
 PRC_united_desc:0	"Das Volk hat seine Differenzen beiseite gelegt, um sich gegen einen gemeinsamen Feind zu vereinen."
-
-
-
 prc_influence:0	"PRC-Einfluss"
 prc_influence_desc:0	"Die Kommunisten tun, was sie können, um die chinesische Politik zu beeinflussen. Sie säen Uneinigkeit, rekrutieren unsere Bauern und veranlassen Soldaten zum Überlaufen."
 pla_formation:0	"Formation der Volksbefreiungsarmee"
@@ -4534,7 +2606,6 @@ one_china_idea:0	"Vereinigtes China"
 one_china_idea_desc:0	" "
 PRC_chen_yi:0	"Chen Yi"
 prc_tibet:0	"Chinesisch-tibetische Diplomatie"
-
 neutrality_idea_vichy_desc:0	"Neutralität wird manchmal als feige angesehen, aber diese Nation vertraut darauf, dass, wenn sich der Staub gelegt hat, diejenigen, die sich nicht auf eine Seite geschlagen haben, besser dastehen werden als diejenigen, die es getan haben."
 FIN_propaganda:0	"Finnische Rekrutierung"
 soviet_desperate_defence:0	"Sowjetische verzweifelte Verteidigung"
@@ -4545,241 +2616,107 @@ CHL_economic_sanctions:0	"Wirtschaftliche Sanktionen"
 PER_economic_sanctions:0	"Wirtschaftliche Sanktionen"
 MEX_economic_sanctions:0	"Wirtschaftliche Sanktionen"
 CAN_economic_sanctions:0	"Wirtschaftliche Sanktionen"
-
-
 Red_beasts_II:0	"Rote Bestien !"
-
-
-
 CounterAttack_II:0	"Verteidigt das Vaterland!"
-
-
 winter_offensive:0	"Winter-Offensive"
 red_army_disarry_I:0	"Struktur der Roten Armee"
 red_army_disarry_II:0	"Fragen der Ausrüstung"
 red_army_disarry_III:0	"Kommando der Roten Armee"
 Operation_uranus:0	"Operation Uranus"
 Stalingrad_offensive:0	"Stalingrad-Fanatismus"
-
-
 BalticAttack_III:0	"Befreiung Estlands"
-
-
-
-
-
-
 Blitz_II:0	"Bewegungskrieg"
-
-
-
 ITA_warweary:0	"Mussolini wartet"
-
-
-
-
-
-
-
-
-
 Himmler_occult:0	"Himmlers Okkultismus"
-
-
-
-
 Complex_Wlodarz:0	"Komplex Wlodarz"
 Complex_Osowka:0	"Gebäudekomplex Osówka"
-
-
-
-
-
-
 Hitlers_dog:0	"Blondi"
 Goerings_art:0	"Göring's Kunstsammlung"
-
-
-
-
 metal_collection:0	"Metall-Sammlungen"
-
-
-
 german_horses:0	"Requisiten Pferde"
 german_trucks:0	"Requisiten Lastwagen"
 german_cars:0	"Requisiten-Pkw"
 Berghof_HQ:0	"Berghof FHQ"
-
 Wolfsschanze_HQ:0	"Wolfsschanze FHQ"
-
 Wolfsschlucht_I_HQ:0	"Wolfsschlucht I FHQ"
 Wolfsschlucht_II_HQ:0	"Wolfsschlucht II FHQ"
-
 Felsennest_HQ:0	"Felsennest FHQ"
 Anlage_Sud_HQ:0	"Anlage Süd FHQ"
-
 Kehlsteinhaus_HQ:0	"Kehlsteinhaus FHQ"
-
-
-
-
 GER_western_knowledge_idea:0	"Westliches Wissen"
 GER_bank_of_avation:0	"Bank der deutschen Luftfahrt"
-
 GER_luftwaffe_infantry_penalty_1:	"Luftwaffe eingezogen"
-
-
 GER_luftwaffe_infantry_penalty_2_desc:	"Aufgrund von Personalmangel wurde Personal der Luftwaffe in mehrere Formationen eingeteilt und an die Ostfront geschickt."
-
-
-
 Blood_Toil_Tears_Sweat_desc:	"$hold_blood_toil_tears_sweat_speech_desc$"
-
 Never_give_up_desc:	"$hold_fight_on_the_beaches_speech_desc$"
-
-
-
 Thank_the_RAF_desc:	"$hold_thank_the_RAF_speech_desc$"
 POA:0	"Gesetz über die öffentliche Ordnung"
 EPA:0	"Gesetz über Notstandsbefugnisse"
-
 bevin_industry:0	"Bevin Boys-Industrie"
-
-
 ENG_civilian_cars:0	"Zivile Autos"
 ENG_petrol_ration:0	"Zivile Benzin-Rationierung"
 ENG_metal_collection:0	"Schrotttransport"
-
 Bouncing_bomb:0	"Aufprallbomben"
 Tallboy_bomb:0	"Tallboy-Bomben"
-
 generic_civilian_trucks:0	"Zivile Lastwagen"
-
-
-
-
-
-
-
-
-
-
-
-
 soviet_workers:0	"Zweihunderter-Bewegung "
 soviet_workers_II:0	"Ein-Tausender-Bewegung "
 Great_Patriotic_War:0	"Der Große Patriotische Krieg"
-
-
-
-
-
-
-
-
-
 red_army_purge_I:0	"Rote Armee Katastrophische Säuberung"
-
-
-
-
-
-
-
-
-
-
-
-
 trotsky_marches:0	"Trotzki marschiert in Moskau ein!"
-
 order_227:0	"Stalin-Befehl.227"
-
 Leningrad_road:0	"Der Weg des Lebens"
 red_army_reorganising:0	"Die Rote Armee baut wieder auf"
 SOV_collectivist_propaganda2:0	"Kulak-Kollektivierung"
-
 fourth_international_newyork:0	"4. Internationale - New Yorker Hauptquartier"
 Transitional_Program:0	"Die Todesangst des Kapitalismus und die Aufgaben der Vierten Internationale"
-
-
-
-
-
-
-
 hunt_trotsky:0	"Pssst... Wir jagen Trotzki"
 Moiseyev_Dance:0	"Igor Moiseyev Tanztruppe"
-
-
 soviet_census:0	"Die sowjetische Volkszählung"
 polish_agreement:0	"Sikorski-Mayski-Abkommen"
 SOV_spies:0	"Spione! Spione! Spione!"
 SOV_witchhunt:0	"Die Hexenjagd des Volkes"
 communist_spirit:0	"Der kommunistische Kampfgeist"
-
-
 vichy_case_anton:0	"Status der Marine"
 vichy_case_anton_desc:0	"Marinelage nach britischem Bombardement"
 vichy_4th_republic:0	"4. Republik"
-
 deeply_neutral:0	"Neutralitätsgesetz"
 deloncle:0	"Deloncle-Ideen"
 vichy_spies:0	"Nachrichtendienste"
 vichy_spies_lar:0	"Nachrichtendienste"
 vichy_defence:0	"Verteidigungsgesetz"
 betrayed_country:0	"Das Land verraten"
-
 german_payments_vichy:0	"Kriegsentschädigungen von Vichy"
 vichy_colonial_income:0	"Koloniale Einnahmen"
 vichy_ss:0	"SS von Vichy"
-
 placeholder_feature_unused_2:0	"Nicht in Anspruch genommen"
 placeholder_feature_unused_3:0	"Nicht in Anspruch genommen"
 placeholder_feature_unused_4:0	"Nicht verwendet"
-
-
 henschel_aircraft:0	"Henschel"
 henschel_aircraft_desc:0	"Henschel Flugzeugwerke war ein deutscher Flugzeughersteller, der aber auch Raketen herstellte."
 goering_ai:0	"Hermann Göring"
 goering_ai_desc:0	"Hermann Göring war ein Fliegerass des Ersten Weltkriegs, das zu einem der wichtigsten Unterstützer Hitlers wurde. Er ist zwar nicht der Beste in diesem Beruf, aber er ist sehr loyal."
 fritsch_ai:0	"Werner von Fritsch"
 fritsch_ai_desc:0	"Werner von Fritsch, ein General der alten Garde, befürwortet eine Konzentration auf die Infanterie."
-
-
 wilhelm_keitel_ai:0	"Wilhelm Keitel"
 wilhelm_keitel_ai_desc:0	"Wilhelm Keitel, ein General der alten Garde, bevorzugt die Infanterie. Was ihm an Fähigkeiten fehlt, macht er durch Loyalität wett."
 oskar_kummetz:0	"Oskar Kummetz"
 otto_schniewind:0	"Otto Schniewind"
-
 hans_georg_von_friedeburg:0	"Hans von Friedeburg"
 alfred_saalwachter_naval:0	"Alfred Saalwächter"
 goebbels_ai:0	"Joseph Goebbels"
-
-
-
 hitachi:0	"Hitachi"
-
-
-
 GER_ostwall_idea:0	"Ostwall-Bau"
-
-
 GER_align_romania_unaligned:0	"Align Rumänien"
-
 GER_rebuild_the_nation2:0	"Wiederaufbau der Nation"
 GER_rebuild_the_nation3:0	"Die Nation wiederaufbauen"
 GER_rebuild_the_nation4:0	"Wiederaufbau der Nation"
 GER_rebuild_the_nation5:0	"Bollwerk gegen den Bolschewismus"
-
-
 GER_national_revitalization3:0	"Nationale Wiederbelebung"
 GER_national_revitalization4:0	"Nationale Wiederbelebung"
 GER_revive_the_kaiserreich2:0	"Wiederbelebung des Kaiserreichs"
 GER_communist_refugees:0	"Kommunistische Flüchtlinge"
 GER_redirecting_naval_production:0	"Neuausrichtung der Marineproduktion"
-
 GER_preparing_ITA_coup2:0	"Aufkommende monarchistische Gesinnung"
 GER_soviet_protect_our_sphere:0	"Schutz unserer Einflusssphäre"
 GER_reinstated_nazi_leadership:0	"Wiedereinsetzung der Nazi-Führung"
@@ -4790,20 +2727,11 @@ GER_FIN_industrial_support:0	"Deutsche Industrieunterstützung"
 fascism_drift_ARG:0	"Faschistische Einflüsse"
 GER_mefo_bills:0	"MEFO-Wechsel"
 GER_mefo_bills_desc:1	"Die MEFO-Wechsel waren Schuldscheine, die von Hjalmar Schacht geschaffen wurden, um der Regierung die Finanzierung der Aufrüstung zu ermöglichen, die sie über die Metallurgische Forschungsgesellschaft vor den Augen der Franzosen und Briten verbergen wollte. Diese Rechnungen müssen um sechs Monate verlängert werden, oder ihre Empfänger müssen bei Fälligkeit bezahlt werden."
-
-
 CHI_hanyan_arsenal:0	"Hanyang Arsenal"
-
 CHI_liaoning_arsenal:0	"Liaoning Arsenal"
 CHI_mukden_arsenal:0	"Mukden Arsenal"
-
-
-
 MAN_showa_steel_works:0	"Anshan-Stahlwerk"
-
-
 cmd_increase1:0	"Besseres Kommando"
-
 cmd_increase3:0	"Besseres Kommando"
 cmd_increase4:0	"Besseres Kommando"
 cmd_increase5:0	"Besseres Kommando"
@@ -4816,10 +2744,6 @@ generic_academy:0	"Militärakademie der Grundausbildung"
 officer_academy:0	"Akademie für Offiziersausbildung"
 boot_academy:0	"Akademie für Grundausbildung"
 research_academy:0	"Militärakademie für fortgeschrittene Kriegsführung"
-
-
-
-
 defend_academy:0	"Schule für Verteidigung"
 logistics_academy:0	"Schule für Versorgung und Logistik"
 plans_academy:0	"Schule für Große Strategie"
@@ -4829,7 +2753,6 @@ air_sea_academy:0	"Institut für Integrierte Streitkräfte"
 army_size:0	"Heer Größe"
 air_size:0	"Größe der Luftwaffe"
 naval_size:0	"Flottengröße"
-
 small_army_war:0	"Kleines Heer"
 tiny_air_force_war:0	"Winzige Luftwaffe"
 small_air_force_war:0	"Kleine Luftwaffe"
@@ -4842,16 +2765,9 @@ CHI_cost_desc:0	"Ausländische Investoren haben einige unserer Fabriken für ihr
 CHI_construct:0	"Ausländische Bauvorhaben"
 CHI_construct_desc:0	"Die jüngsten ausländischen Investitionen sind unserer Bauindustrie zugute gekommen."
 CHI_cmd:0	"Ausbildung ausländischer Offiziere"
-
 CHI_industry:0	"Ausländische Industrieinvestitionen"
-
 CHI_roads:0	"Ausländischer Straßenbau"
-
-
-
 CHI_wealth:0	"Profitables Projekt"
-
-
 CHI_mines_desc:0	"Ein mit einigen chinesischen Bergwerken ausgehandeltes Abkommen hat zu einem Anstieg der Rohstofflieferungen geführt."
 CHI_power:0	"Politische Reputation"
 CHI_power_desc:0	"Die jüngsten Geschäfte mit den Chinesen haben gezeigt, dass unsere Politiker und Diplomaten ihr Handwerk beherrschen."
@@ -4859,257 +2775,112 @@ MTG_naval_treaty_adherent_desc:0	"Wir haben den Londoner Flottenvertrag unterzei
 MTG_naval_treaty_adherent_reduced:0	"Eskalationsklausel geltend gemacht"
 MTG_naval_treaty_adherent_reduced_desc:0	"Nachdem einige Unterzeichner des Washingtoner Flottenabkommens aus dem Londoner Flottenabkommen ausgestiegen sind, haben wir uns auf die Escalator-Klausel berufen und die Beschränkungen für die Größe und Bewaffnung unserer Großkampfschiffe reduziert."
 GER_air_safety_regulations:0	"Luftsicherheitsvorschriften"
-
-
 GER_carl_friedrich_goerdeler:0	"Carl Friedrich Goerdeler"
 GER_julius_leber:0	"Julius Leber"
-
-
-
-
-
 hc_navy:0	"Weniger als §Y2§! Oberkommando der Marine"
-
 counterfeit_money_desc:0	"Große Mengen an gefälschten Banknoten sind in Umlauf geraten, ihre Beseitigung wird einige Zeit in Anspruch nehmen."
-
-
-
-
-
-
-
-
-
-
 organised_liberalism_desc:0	"Flugblattaktionen, Reden auf den Plätzen der Stadt und eine motivierte Kerngruppe sorgen dafür, dass liberale Ideale im Mittelpunkt stehen"
-
-
-
-
 organised_communism:0	"Organisierte Kommunisten"
-
-
-
-
 organised_neutrality_desc:0	"Ein charismatischer Führer, Reden auf Kundgebungen und eine motivierte Kerngruppe von Anhängern sorgen dafür, dass dieser Kandidat im Rampenlicht bleibt."
 organised_monarchism:0	"Organisierte Monarchisten"
-
-
-
-
-
-
 economic_minister_gone:0	"Entferne §YWirtschaftsminister§!"
 supreme_commander_gone:0	"Entferne §YOberbefehlshaber§!"
-
-
-
 scrap_metals_collected:0	"Sammeln von Schrottmetallen"
-
-
-
 tungsten_col_TT:0	" $RIGHT|+=0$ £resources_strip|4 gesammelt"
-
 modifier_tactic_elastic_defense_preferred_weight_factor:1	"Zusätzliche Chance auf §YElastische Verteidigung§!, wenn es die bevorzugte Taktik ist"
-
 modifier_tactic_seize_bridge_preferred_weight_factor:1	"Zusätzliche Chance auf §YBrücke einnehmen§!, wenn es die bevorzugte Taktik ist"
-
 modifier_tactic_delay_preferred_weight_factor:1	"Zusätzliche Chance auf §YVerzögern§!, wenn es die bevorzugte Taktik ist"
 modifier_tactic_human_wave_tactics_preferred_weight_factor:1	"Zusätzliche Chance auf §YMassenangriff§!, wenn es die bevorzugte Taktik ist"
-
 modifier_tactic_barrage_preferred_weight_factor:1	"Zusätzliche Chance auf §YUnterdrückendes Sperrfeuer§!, wenn es die bevorzugte Taktik ist"
 modifier_tactic_planned_attack_preferred_weight_factor:1	"Zusätzliche Chance auf §YGut geplanter Angriff§!, wenn es die bevorzugte Taktik ist"
-
-
-
-
-
 tactic_delay_preferred_weight_factor:1	"Zusätzliche Chance auf §YVerzögern§!, wenn es die bevorzugte Taktik ist"
 tactic_human_wave_tactics_preferred_weight_factor:1	"Zusätzliche Chance auf §YMassenangriff§!, wenn es die bevorzugte Taktik ist"
-
-
-
-
 SPIRIT_ADD_IDEA:0	"§GKlick zum Hinzufügen von $GROUP|H$§!"
-
-
-
-
-
-
-
-
 dive_bombing_spirit:0	"Sturzflugbomben"
 dive_bombing_spirit_desc:1	"Kratzt eine flache Spitze.\n\n§GDieser Geist ist aufgrund unserer Doktrinen verfügbar.§!"
-
 material_destruction_spirit_desc:2	"Die Zerstörung von Ausrüstung und die Unterbrechung der Kommunikationslinien des Feindes werden den Sieg schneller besiegeln als jede Anzahl von Verlusten.\n\n§GDieser Geist ist aufgrund unserer Doktrinen verfügbar.§!"
-
-
 industry_liasons_spirit:0	"Liaisonen mit der Industrie"
 industry_liasons_spirit_desc:1	"Nur eine reibungslose Zusammenarbeit zwischen der Flugzeugindustrie, dem Militär und der Regierung gewährleistet höchste Qualität."
 air_crew_surveys_spirit:0	"Einbinden der Piloten"
-
 maritime_patrol_spirit:0	"Maritime Patrouille"
 maritime_patrol_spirit_desc:0	"Wenn es treibt, können wir es finden."
-
 long_range_patrol_spirit_desc:0	"Beherrschung des Luftraums fern der Heimat."
-
-
-
-
-
-
-
-
-
-
-
-
 no_focus_on_training_spirit:0	"Kein Fokus auf Ausbildung"
 no_focus_on_training_spirit_desc:0	"Training? Warum sollten wir das tun? Das ist doch ganz einfach! Außerdem spart es Treibstoff."
 disorganized_ground_crews_spirit:0	"Unorganisierte Bodencrews"
 disorganized_ground_crews_spirit_desc:0	"Bodenpersonal? Wer sind sie? Warum sollten sie wichtig sein?"
-
-
-
-
-
-
-
-
-
 expert_marksmen_spirit_desc:0	"Man muss nur wissen, wohin man zielen und wann man abdrücken muss."
-
-
-
-
-
-
-
-
-
-
-
-
 air_power_projection_spirit:0	"Luftmachtprojektion"
-
 massed_strike_spirit:0	"Massed Strike"
-
 continuous_strike_spirit:0	"Kontinuierlicher Schlag"
 continuous_strike_spirit_desc:1	"Die Zerstörung wichtiger feindlicher Ausrüstung ist von entscheidender Bedeutung.\n\n§GDieser Geist ist aufgrund unserer Doktrinen verfügbar.§!"
 strategic_strike_spirit:0	"Totale Verwüstung"
-
 duelling_obsession_spirit:0	"Duellbesessenheit"
 duelling_obsession_spirit_desc:0	"Der Zweikampf ist die einzige ehrenhafte und ehrenhafte Art, in der Luft zu kämpfen."
-
-
-
-
-
-
 merchant_mariners_spirit:0	"Handelsmarinesoldaten"
 merchant_mariners_spirit_desc:0	"Seemannschaft ist für uns eine Selbstverständlichkeit."
-
-
 instilled_aggression_spirit:0	"Aggressive Vorgehensweise"
 instilled_aggression_spirit_desc:0	"Angreifen, angreifen, angreifen!"
 instilled_aggression_spirit_tt:0	"Admirale: §G20% Wahrscheinlichkeit§! auf §Y+1 Angriff§! beim Stufenaufstieg."
 calculated_restraint_spirit:0	"Besonnene Zurückhaltung"
 calculated_restraint_spirit_desc:0	"Nach reiflicher Überlegung..."
-
 signals_training_spirit:0	"Flaggentraining"
-
-
 fleet_in_being_academy_spirit:0	"Große Flotte"
-
 fleet_in_being_academy_spirit_tt:0	"Neue Admirale: §G50% Wahrscheinlichkeit§! die Eigenschaft §YGeschützexperte§! zu erhalten."
 merchant_mariners_spirit_tt:1	"Neue Admiräle: §G50% Wahrscheinlichkeit§! die Eigenschaft §Y "Marineabstammung"§! zu erhalten."
 trade_interdiction_academy_spirit:0	"Konvoikriegsführung"
-
 trade_interdiction_academy_spirit_tt:0	"Neue Admirale: §G50% Wahrscheinlichkeit§! die Eigenschaften §YSeewolf§! oder §YBlockadebrecher§! zu erhalten."
 base_strike_academy_spirit:0	"Integrierte Luftwaffe"
 base_strike_academy_spirit_desc:1	"Eine enge Zusammenarbeit zwischen Luft- und Seeeinheiten ist lebenswichtig!\n\n§GDieser Geist ist aufgrund unserer Doktrinen vorhanden.§!"
 base_strike_academy_spirit_tt:0	"Neue Admirale: §G50% Wahrscheinlichkeit§! die Eigenschaft §YLuftfahrtenthusiast§! zu erhalten."
 damage_control_training_spirit:0	"Schadenskontrolle"
 damage_control_training_spirit_desc:0	"Gut ausgebildete Besatzungen bedeuten weniger Verluste auf unserer Seite."
-
 best_of_the_best_naval_academy_spirit:0	"Die Besten der Besten"
 best_of_the_best_naval_academy_spirit_desc:1	"Harter Wettbewerb und strenge Auswahl bringen die Kapitäne hervor, die wir wollen.\n\n§GDieser Geist ist aufgrund unserer Ideologie vorhanden.§!"
 best_of_the_best_naval_academy_spirit_tt:0	"Neue Admirale: beginnen ohne jegliche Persönlichkeitsmerkmale."
 naval_academy_scholarships_spirit:0	"Akademie Stipendien"
-
 naval_academy_scholarships_spirit_tt:0	"Neue Admirale: Beginnen Sie ohne jegliche Persönlichkeitsmerkmale."
 underfunded_naval_academy_spirit:0	"Unterfinanzierte Marine Akademie"
 underfunded_naval_academy_spirit_desc:0	"Wenigstens haben wir eine..."
 traditionalism_naval_academy_spirit:0	"Traditionalismus"
-
-
 political_appointments_naval_academy_spirit:0	"Politische Ernennungen"
 political_appointments_naval_academy_spirit_desc:0	"Es ist wichtig, dass nur Lehrer mit der richtigen Einstellung an unserer Akademie unterrichten."
 nepotism_naval_academy_spirit:0	"Vetternwirtschaft"
 nepotism_naval_academy_spirit_desc:0	"Mein Vater war Lehrer an der Akademie, wie schon sein Vater vor ihm, und sein älterer Bruder..."
 nepotism_naval_academy_spirit_tt:0	"Verringert die Wahrscheinlichkeit, dass neue Admiräle günstige Persönlichkeitsmerkmale bekommen."
 jeune_ecole_spirit:0	"Jeune École"
-
-
 big_gun_club_spirit_desc:0	"Schlachtschiffe beherrschen nicht nur die Meere, sondern auch die Politik."
 aviation_enthusiasts_spirit:0	"Luftfahrtenthusiasten"
 aviation_enthusiasts_spirit_desc:0	"Die Zukunft des Seekampfes wird in der Luft ausgetragen."
-
-
 wolfpacks_spirit:0	"Wolfsrudel"
 wolfpacks_spirit_desc:0	"Die lautlosen Jäger der Meere."
 flexible_contracts_spirit:0	"Günstling der Industrie"
-
 integrated_designers_spirit:0	"Integrierte Konstrukteure"
-
-
 naval_reform_spirit_desc:0	"Krieg ändert sich immer."
-
 naval_refit_yards_spirit_desc:0	"Minimierung der Zeit im Dock, Maximierung der Zeit, die ein Schiff auf See sein kann."
-
-
 fleet_in_being_navy_spirit:0	"Globale Präsenz"
-
-
 trade_interdiction_navy_spirit_desc:1	"Ohne Nachschub kann ein Land keinen Krieg führen.\n\n§GDieser Geist ist dank unserer Doktrinen vorhanden.§!"
-
 base_strike_navy_spirit_desc:1	"Jederzeit und überall zuschlagen zu können.\n\n§GDieser Geist ist aufgrund unserer Doktrinen vorhanden.§!"
 landlocked_spirit:0	"Landumschlossen"
 landlocked_spirit_desc:0	"Ohne Zugang zum Meer ist es schwierig, eine Seetradition aufzubauen."
 political_connections_navy_spirit:0	"Politische Verbindungen"
-
-
 overbearing_army_spirit_desc:0	"Die Marine ist nur eine Unterstützung für das Heer."
 bureau_of_ordnance_spirit:0	"Ordnungsamt"
 bureau_of_ordnance_spirit_desc:1	"Das Bureau of Ordnance beeinflusst alle Schiffsentwürfe.\n\n§GDieser Geist ist dank unserer erstaunlichen Torpedos vorhanden.§!"
 only_big_guns_spirit:0	"Nur die großen Kanonen"
-
-
 close_combat_navy_spirit_desc:0	"Nahkampf ist der Schlüssel zum Sieg."
 night_fighting_spirit:0	"Nachtkampf"
-
 surprise_attacks_spirit:1	"Überraschungsangriffe"
 surprise_attacks_spirit_desc:1	"Den Feind treffen, bevor er sich der Bedrohung bewusst ist.\n\n§GDieser Geist ist dank unserer Doktrinen verfügbar.§!"
-
 efficient_communications_spirit_desc:0	"Kommunikation, Kommunikation und Kommunikation."
 discrete_valor_spirit:0	"Diskrete Tapferkeit"
 discrete_valor_spirit_desc:0	"Überleben, um an einem anderen Tag zu kämpfen."
 surface_raiders_spirit:1	"Oberflächenjäger"
-
-
 decisive_battle_spirit_desc:1	"Wenn du in der Schlacht alles gibst, wirst du immer die Initiative ergreifen.\n\n§GDieser Geist ist aufgrund unserer Doktrinen verfügbar.§!"
-
 inclimate_weather_experience_spirit_desc:0	"So etwas wie schlechtes Wetter gibt es nicht..."
 brave_commanders_spirit:0	"Tapfere Kommandanten"
-
-
-
 green_water_spirit:0	"Grünes Wasser"
-
-
 blue_water_spirit_desc:0	"Der tiefe Ozean ist die wahre Heimat eines Seemanns."
-
 poor_damage_control_training_spirit_desc:0	"Wer braucht das überhaupt zu trainieren? Wir sollen den Feind treffen, nicht andersherum."
 limited_sea_time_spirit:0	"Begrenzte Zeit auf See"
 limited_sea_time_spirit_desc:0	"Wenn die Flotte auf See bleibt, wird ihr Betrieb teurer."
@@ -5122,10 +2893,6 @@ bold_attack_spirit_desc:1	"Wie man so schön sagt: Ein starker Angriff ist die b
 tenacious_defense_spirit:0	"Hartnäckige Verteidigung"
 tenacious_defense_spirit_desc:0	"Sie werden nicht durchkommen!"
 meticulous_preparation_spirit:0	"Akribische Vorbereitung"
-
-
-
-
 academy_scholarships_spirit_desc:1	"Niemand sollte daran gehindert werden, seiner Nation zu dienen, nur weil ihm das Geld fehlt.\n\n§GDieser Geist ist aufgrund unserer Ideologie vorhanden§!"
 political_loyalty_spirit:0	"Politische Loyalität"
 political_loyalty_spirit_desc:1	"Ein unzuverlässiges Militär ist eine Bedrohung für den Staat, den es schützen soll.\n\n§GDieser Geist ist aufgrund unserer Ideologie vorhanden.§!"
@@ -5135,7 +2902,6 @@ inventive_leadership_spirit_desc:0	"Ein berechenbarer General ist ein besiegter 
 inventive_leadership_spirit_tt:2	"Neue Offiziere: §G50% Wahrscheinlichkeit§! mit den Eigenschaften §Y "Kommando"§!, §Y "Trickster"§!, oder §Y "Invasor"§! zu beginnen."
 mobile_warfare_academy_spirit:0	"Umarme die Zukunft"
 mobile_warfare_academy_spirit_desc:1	"Wo immer künftige Schlachten geschlagen werden, werden gepanzerte Truppen die entscheidende Rolle spielen.\n\n§GDieser Geist ist dank unserer Doktrinen vorhanden.§!"
-
 superior_firepower_academy_spirit:1	"Ingenieurschulen"
 superior_firepower_academy_spirit_desc:2	"Es gehört eine Menge Wissenschaft dazu, einen richtigen Graben zu graben.\n\n§GDieser Geist ist aufgrund unserer Doktrinen verfügbar.§!"
 superior_firepower_academy_spirit_tt:1	"§G50% Wahrscheinlichkeit§! dass neue Offiziere mit der Eigenschaft §Y "Ingenieuroffizier"§! erstellt werden."
@@ -5148,105 +2914,43 @@ underfunded_academy_spirit:0	"Unterfinanzierte Akademie"
 underfunded_academy_spirit_desc:0	"Es gibt bessere Dinge, für die man Geld ausgeben kann, als Menschen beizubringen, wie sie sich gegenseitig effizienter töten können."
 nepotism_academy_spirit:0	"Vetternwirtschaft"
 nepotism_academy_spirit_desc:0	"Mein Onkel leitet die Armee, und er sagt, ich kann mein eigenes Divisionskommando bekommen, wann immer ich will!"
-
 professional_officer_corps_spirit_desc:0	"Wir sind Profis, und der Krieg ist unser Beruf."
-
 elevated_engineering_corps_spirit_desc:0	"Die Fähigkeiten und der Charakter eines Menschen lassen sich am besten beurteilen, wenn man ihm eine Schaufel und einen Tag Zeit gibt, etwas Nützliches damit zu tun."
-
-
-
 quick_improvisation_spirit_desc:0	"Schneller begreifen, schneller denken, schneller handeln - das ist der Schlüssel zum Sieg."
-
-
 relief_of_command_spirit:0	"Entlastung des Kommandos"
 relief_of_command_spirit_desc:1	"Die Armee existiert nicht, um das Ego ihrer Generäle zu füttern.\n\n§GDieser Geist ist aufgrund unserer Ideologie vorhanden."§!
 ideological_loyalty_spirit:0	"Ideologische Loyalität"
 ideological_loyalty_spirit_desc:1	"Von jemandem, der nicht die richtige Ideologie hat, kann nicht erwartet werden, dass er im Kampf das richtige Ergebnis erzielt.\n\n§GDieser Geist ist aufgrund unserer Ideologie vorhanden.§!"
 state_serves_the_military_spirit:0	"Der Staat dient dem Militär"
 state_serves_the_military_spirit_desc:2	"Der Zweck des Staates ist es, Krieg gegen andere Staaten zu führen. Alles andere ist entweder eine Unterstützung dessen oder eine nutzlose Ablenkung.\n\n§GDieser Geist ist aufgrund unserer Ideologie vorhanden.§!"
-
-
-
 superior_firepower_army_spirit_desc:1	"Wenn du mit Artillerie keine Schlachten gewinnst, setzt du nicht genug davon ein.\n\n§GDieser Geist ist aufgrund unserer Doktrinen verfügbar.§!"
 grand_battleplan_army_spirit:0	"Kommandospezialisierung"
-
-
-
-
-
 entrenched_old_guard_spirit:0	"Eingesessene alte Garde"
-
 doctrinal_orthodoxy_spirit:0	"Doktrinäre Orthodoxie"
 doctrinal_orthodoxy_spirit_desc:0	"So haben wir das früher nicht gemacht, als ich noch dabei war."
-
 excessive_parade_drill_spirit_desc:0	"Das Hauptziel eines Soldaten ist es, bei einer Parade gut auszusehen."
-
-
-
 flexible_organization_spirit_desc:0	"Was zählt, ist die Erfüllung der Aufgabe, nicht die buchstabengetreue Befolgung von Befehlen."
-
-
-
-
-
-
 victory_or_death_spirit:0	"Sieg oder Tod"
-
-
-
-
 smoke_and_fire_spirit_desc:1	"Ein rollendes Sperrfeuer aus Granaten ist überraschend effektiv, um den Feind davon abzuhalten, zurückzuschießen.\n\n§GDiese Einstellung ist aufgrund unserer Doktrinen verfügbar.§!"
-
-
-
-
 intercommand_rivalries_spirit:0	"Rivalitäten zwischen den Kommandos"
 intercommand_rivalries_spirit_desc:0	"Die wichtigsten Schlachten werden in den Bewilligungsausschüssen geschlagen, und dort wird auch der hässlichste Groll geboren."
-
-
-
-
-
-
 traditionalism_academy_spirit:0	"Traditionalismus"
 traditionalism_academy_spirit_desc:0	"Krieg. Krieg ändert sich nie."
-
-
-
 penny_pinching_spirit_desc:0	"Haben Sie eine Ahnung, wie viel Geld es kostet, diese Kugel abzufeuern? Und Sie wollen es für die "Ausbildung" tun?"
 bold_attack_spirit_tt:2	"Offiziere: §G50% Wahrscheinlichkeit§! auf §Y+1 Angriff§! beim Stufenaufstieg."
-
-
-
 best_of_the_best_spirit_tt:1	"Neue Offiziere: keine Persönlichkeitsmerkmale bei der Einstellung."
-
 mass_assault_academy_spirit_tt:2	"Neue Offiziere: §G50% Wahrscheinlichkeit§! mit der Eigenschaft §Y "Infanterieoffizier"§! zu beginnen."
 nepotism_academy_spirit_tt:0	"§R-50%ige Wahrscheinlichkeit§! dass neue Offiziere mit positiven Eigenschaften eingestellt werden."
-
 academy_spirit:0	"Geist der Akademie"
-
 division_command_spirit:0	"Geist des Divisionskommandos"
 naval_academy_spirit:0	"Geist der Marineakademie"
-
 naval_command_spirit:0	"Geist des Marinekommandos"
 air_force_academy_spirit:0	"Geist der Luftwaffenakademie"
-
 air_force_command_spirit:0	"Geist des Luftwaffenkommandos"
-
-
-
-
 rubber_imports:0	"Eingeführter Gummi"
 tungsten_imports:0	"Eingeführtes Wolfram"
-
-
-
 iron_imports:0	"Importiertes Eisen"
-
-
-
 damage_to_naval_base_low:0	"$naval_base$ überfallen"
-
 damage_to_naval_base_high:0	"$damage_to_naval_base_low$"
 sergei_rudenko:0	"Sergei Rudenko"
 alexander_golovanov:0	"Alexander Golovanov"

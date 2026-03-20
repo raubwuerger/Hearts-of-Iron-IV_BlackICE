@@ -11,419 +11,201 @@ raid_category_land_infiltration_raids:	"Armee Angriff"
 raid_category_header_air_raids:	"Luftangriffe Kommandounternehmen"
 raid_category_header_resource_raids:	"Ressourcen-Raubzüge"
 raid_category_header_nuclear_raids:	"Nukleare Angriffe"
-
 raid_category_header_naval_commando_raids:	"Marine Angriffe Kommandounternehmen"
-
 tooltip_raid_category_air_raids:	"§ALuftangriffe§! \nLuftangriffe durch ein einzelnes Luftgeschwader mit dem Ziel, ein bestimmtes Ziel zu treffen. Dazu gehören: §YForschungseinrichtungen\nStaumauern\nGroßkalibergeschützstellung§!"
-
 tooltip_raid_category_nuclear_raids:	"§HNuklearangriff§! \nAngriffe, die von strategischen Bombern mit Atomwaffen durchgeführt werden. Dazu gehören: \n§YNuklearschläge§!"
-
 tooltip_raid_category_naval_commando_raids:	"§AKommandounternehmen von Marinekommandos§! \nKleine Kommandounternehmen, die von Marines in Küstengebieten durchgeführt werden. Dabei werden kleine Schnellboote und ähnliche Ausrüstung eingesetzt, um einen schnellen Angriff durchzuführen und dann zu verschwinden, bevor der Feind Zeit hat zu reagieren."
-
 tooltip_launch_all_button_second:	"$NUM|H$ Razzien sind startbereit"
-
 tooltip_launch_button_disabled:	"§RDer Kommandotrupp ist nicht bereit zum Einsatz§!"
-
 tooltip_for_collapse_button:	"§GKlicken§! zum Zuklappen"
-
 raid_type_facility_strike:	"Anlagenangriff"
-
 raid_type_lock_bombing_raid:	"Luftangriff auf Schleusenanlagen"
-
-
 raid_type_lock_bombing_raid_no_bba_desc:	"$raid_type_lock_bombing_raid_desc$ $raid_type_lock_bombing_raid_desc$"
 raid_type_dam_bombing_raid:	"Bombenangriff auf einen Damm"
-
-
-
 raid_type_gun_emplacement_raid:	"Geschützstellung Kommandounternehmen"
 raid_type_gun_emplacement_raid_desc:	"Eine Gruppe von Bombern, die mit einer Earthshaker-Bombe ausgerüstet sind, versucht, eine Geschützstellung für ein $mega_gun_emplacement$ zu zerstören."
 raid_type_gun_emplacement_raid_no_bba:	"$raid_type_gun_emplacement_raid$"
-
-
-
-
 raid_type_mega_gun_emplacement_strike_no_bba_desc:	"$raid_type_mega_gun_emplacement_strike_desc$"
-
 raid_type_oilfield_raid_desc:	"Ein Luftangriff, der darauf abzielt, ein großes Ölfeld und die damit verbundenen Raffinerien auszuschalten, um die feindliche Treibstoffproduktion für einen längeren Zeitraum ernsthaft zu stören."
 raid_type_nuclear_strike:	"Nuklearer Schlag"
 raid_type_nuclear_strike_desc:	"Ein strategischer Bomber und seine Eskorte fliegen zu einem bestimmten Ziel und werfen eine Atombombe ab. Der Bomber wird dann versuchen, das Gebiet zu verlassen, um nicht von der Druckwelle erfasst zu werden."
-
-
 raid_type_paratrooper_facility_sabotage:	"Sabotageangriff auf eine Einrichtung"
-
-
-
 raid_type_pathfinder_raid:	"Pfadfinder-Angriff"
 raid_type_pathfinder_raid_desc:	"Ein Team von Fallschirmjägern setzt sich hinter den feindlichen Linien ab, um eine bevorstehende Invasion vorzubereiten, indem es kritische Brücken zerstört, Hinterhalte legt und allgemein für Ablenkung sorgt."
-
 raid_type_commando_port_raid_desc:	"Eine Gruppe von Marines wird ausgesandt, um einen großen, vom Feind kontrollierten $naval_base$ zu beschädigen. Die Schiffe im Hafen könnten ebenfalls Schaden nehmen."
 raid_type_commando_facility_raid:	"Überfall auf eine Marineeinrichtung"
 raid_type_commando_facility_raid_desc:	"Eine Gruppe von Marines wird ausgesandt, um eine Versuchsanlage in einer Küstenprovinz zu beschädigen."
-
-
 raid_type_demo_dam_raid:	"Demonstration eines Dammbombenangriffs"
-
-
-
 raid_type_ENG_reichstag_bombing_desc:	"Indem wir eine Gruppe von Bombern losschicken, um das Hauptquartier des Feindes und den symbolischen Ort der deutschen Macht anzugreifen, können wir die Moral unseres Volkes stärken und gleichzeitig der Moral unseres Feindes einen Schlag versetzen."
 raid_type_GER_eben_emael_raid:	"Kommandounternehmen gegen Eben Emael"
-
 raid_type_GER_big_ben_bombing:	"Big Ben Bombenangriff"
 raid_type_GER_statue_of_liberty_bombing:	"Bombenangriff auf die Freiheitsstatue"
 raid_type_GER_kremlin_bombing:	"Bombardierung des Kremls"
-
-
 raid_type_thermonuclear_strike:	"Thermonuklearer Schlag"
-
-
-
 raid_type_CHI_huansheng_raid:	"Operation Huansheng"
 raid_type_CHI_huansheng_raid_desc:	"Unsere Geheimdienstinformationen besagen, dass die Stahlwerke von Yawata und das Marinearsenal von Sasebo zwar wertvolle Ziele sind, aber für unsere Luftwaffe im Moment zu schwierig, um sie richtig anzugreifen. Es wurde daher beschlossen, dass der effektivste Weg, diesen Krieg zu stoppen, darin besteht, das japanische Volk gegen die Gräueltaten der imperialistischen japanischen Kriegstreiber in China aufzurütteln, indem Flugblätter über Städten wie Nagasaki, Fukuoka, Saga und Osaka abgeworfen werden."
-
 TOOLTIP_POTENTIAL_TARGET_ENTRY:	"§GKlick§! auf $CONTROLLER_FLAG$$TARGET_NAME$ überfallen."
 TOOLTIP_POTENTIAL_TARGET_ENTRY_NOT_ALLOWED:	"§RCannot§! Razzia $CONTROLLER_FLAG$$TARGET_NAME$"
 TOOLTIP_POTENTIAL_TARGET_ENTRY_INTEL:	"Ziel Informationen: $CURRENT|H$"
-
-
-
 TOOLTIP_POTENTIAL_TARGET_RAID_DESC:	"$TEXT|L$"
-
-
-
 TOOLTIP_TARGET_FACILITY_PROJECT_UNKNOWN_DESC:	"Laufendes Projekt unbekannt aufgrund unzureichender Zielinformationen ($CURRENT|R1$/$REQUIRED|H1$)"
 MAP_ICON_RAID_TARGET_HEADER:	"Kommandounternehmen planen"
 MAP_ICON_RAID_UNIT_HEADER:	"Raid-Einheit auswählen"
-
 TOOLTIP_MAP_ICON_RAID_UNIT_ENTRY:	"- $NAME|H$ ($SUCCESS$)"
 TOOLTIP_MAP_ICON_RAID_UNITS_DELAYED:	"§GKlicken§! um Einheit auszuwählen"
 raid_creation_target:	"Ziel"
-
-
-
 raid_inst_item_desc:	"$TYPE$ auf $TARGET$"
-
-
-
 raid_inst_cancel:	"Abbrechen"
 raid_inst_auto_complete:	"Automatischer Start"
 raid_inst_auto_complete_disabled:	"§gDeaktiviert§!"
-
 raid_inst_risk_taking_high:	"Hoch"
 raid_inst_risk_taking_low:	"Niedrig"
 raid_inst_risk_taking_medium:	"Mittel"
-
-
-
 raid_inst_source_desc:	"Quelle: $NAME$"
-
-
-
 RAID_SUCCESS_CHANCE_LEVEL_HIGH:	"§7Hoch§!"
 RAID_SUCCESS_CHANCE_LEVEL_VERY_HIGH:	"§GSehr hoch§!"
 RAID_SUCCESS_CHANCE_VALUE_VERY_LOW:	"§R$VAL|0%$§!"
-
 RAID_SUCCESS_CHANCE_VALUE_MEDIUM:	"§Y$VAL|0%$§!"
 RAID_SUCCESS_CHANCE_VALUE_HIGH:	"§7$VAL|0%$§!"
 RAID_SUCCESS_CHANCE_VALUE_VERY_HIGH:	"§G$VAL|0%$§!"
-
-
-
 raid_inst_progress_desc:	"$PHASE$: $PROGRESS|0%$"
-
-
-
 RAID_INST_PHASE_PREPARING:	"Vorbereiten"
 RAID_INST_PHASE_PREPARED:	"Vorbereitet"
 RAID_INST_PHASE_IN_PROGRESS:	"In Arbeit"
-
 RAID_INST_OUTCOME_NONE:	"Keine"
 RAID_INST_OUTCOME_FAILURE:	"Kritischer Misserfolg"
 RAID_INST_OUTCOME_LIMITED_SUCCESS:	"Begrenzter Erfolg"
-
-
-
 raid_source_desc:	"$WHAT|H$ in $LOCATION|H$"
-
-
-
 SUCCESS_CHANCE_HEADER:	"Erfolgswahrscheinlichkeit"
 EQUIPMENT_LIST_HEADER:	"Zusätzliche Ausrüstung"
 equipment_list_type_header:	"Ausrüstung"
-
 equipment_list_required_amount_header:	"Erforderlich"
 EFFECT_RAID_GIVE_UNIT_EXPERIENCE:	"Kommandoeinheiten erhält $VAL|H0%$ Erfahrung für die maximale Stufe."
 EFFECT_RAID_DAMAGE_UNIT_STRENGTH:	"Kommandoeinheiten erleiden §R$VAL|0$§! Schaden"
-
-
-
 EFFECT_RAID_DAMAGE_UNIT_STRENGTH_ORG:	"Überfallkommando erleidet §R$STR_VAL|0$§! Schaden und verliert §R$ORG_VAL|0$§! Organisation."
-
-
-
 RAID_SUCCESS_CHANCE:	"Wahrscheinlichkeit auf Erfolg: $VAL|%+=0$"
 TOOLTIP_SUCCESS_CHANCE_REAL_NUMBER_DEBUG:	"    §g(genaue Wahrscheinlichkeit:§! $VAL|%1$§g, Basiswert: §! $BASE_VAL|%1$§g)§!"
 TOOLTIP_SUCCESS_CHANCE_MODIFIER:	"$VAL$§gvon $MODIFIER$§!"
-
 tooltip_success_chance_base:	"Basis Wahrscheinlichkeit: $VAL|%0H$"
 tooltip_success_chance_risk:	"Basis Risiko: $VAL|%0H$"
 prep_time:	"Vorbereitungszeit"
-
-
-
 raid_details_view_title_assembling:	"Kommandounternehmen Material zusammenstellen"
-
-
-
 raid_details_view_title_ended:	"Beendetes Kommandounternehmen"
 tooltip_additional_equipment_header:	"Für das Kommandounternehmen muss die aufgelistete Ausrüstung vorhanden sein, bevor die Vorbereitungen beginnen können."
 tooltip_raid_launch_button_assembling:	"Material für das Kommandounternehmen wird §Hzusammengestellt§!"
-
 raid_filter_tooltip_explanation:	"§HKommandoangriffe§! ermöglichen Ihnen Präzisionsangriffe auf wichtige Ziele und verschaffen Ihnen so strategische Vorteile."
 raid_filter_tooltip_explanation_extra:	"Mögliche §HKommandounternehmen§! werden auf der Karte angezeigt. Mit den Filterschaltflächen unten können Sie einstellen, welche Ziele angezeigt werden."
 raid_filter_normal_button_prompt_show:	"§GKlicken§! um $CATEGORY|H$ in diesem Kartenmodus anzuzeigen"
-
-
-
 raid_filter_expand_prompt:	"§GKlick§! zum Anzeigen von Kommandounternehmen"
-
-
-
-
 tooltip_raid_disaster_risk_header:	"Risiko eines kritischen Versagens: $VAL|%-0$"
 tooltip_raid_disaster_description:	"§Sollte der Angriff mit einem kritischen Fehlschlag enden, werden unsere Einheiten nicht nur nicht in der Lage sein, das Ziel effektiv anzugreifen, sondern auch verheerende Verluste erleiden.§!"
 tooltip_risk_taking_header:	"Risikobereitschaft: $SETTING|H$"
-
 tooltip_risk_taking_effect_success:	"Erhöht die Erfolgschance um $VAL|%0+=$"
-
 tooltip_success_chance_capped_by_risk:	"§RDie Erfolgschance ist aufgrund des hohen Risikos eines kritischen Fehlschlags gedeckelt (§!$RISK|%0H$§R)§!"
 raid_disaster_risk_value:	"$VAL|%0-$"
 raid_unit_selection_prompt:	"Wählen Sie eine Einheit:"
-
-
-
 raid_source_selection_prompt_generic:	"Wählen Sie den Startpunkt:"
-
 raid_source_tooltip_header:	"Verwenden Sie diesen $SOURCE$ als Startpunkt für den Überfall"
-
-
-
 raid_aborted_tt:	"§RMission abgebrochen§!\n"
 dud_missile_tt:	"Rakete konnte nicht explodieren"
 missile_hit_wrong_target_tt:	"Rakete hat das falsche Ziel getroffen"
-
 raid_nuclear_secondary_target_tt:	"Das beabsichtigte Ziel wurde nicht richtig getroffen"
-
 raid_damage_to_ships_tt:	"Alle Schiffe im Hafen erleiden §R$DAMAGE$%§! Schaden"
-
 raid_building_destroyed_tt:	"Der §Y$BUILDING$§! wird durch den Überfall §RZerstört§!."
 raid_building_levels_destroyed_tt:	"Das §Y$BUILDING$§! verliert §R$DESTROY$§! Stufe, und §R$DAMAGE$§! Stufe werden beschädigt."
-
-
-
-
-
 operation_huansheng_limited_success_tt:	"Bei dem waghalsigen Bombenangriff gelingt es, Flugblätter über den meisten der vorgesehenen Städte abzusetzen. Die meisten sind jedoch in unzugänglichen Gebieten verstreut und werden schnell von den feindlichen Streitkräften gesäubert."
-
-
 commando_port_raid_history_entry:	"Nach der erfolgreichen Teilnahme an einem $raid_type_commando_port_raid$"
-
-
 refinery_critically_damaged_modifier:	"$refinery_damaged_modifier$"
-
-
-
-
 pathfinder_infiltration_modifier:	"Pfadfinder-Infiltration"
 eben_emael_raided_critical_modifier:	"$eben_emael_raided_modifier$"
 eben_emael_raided_success_modifier:	"$eben_emael_raided_modifier$ "
 eben_emael_raided_limited_success_modifier:	"$eben_emael_raided_modifier$ "
-
 kiel_canal_damaged_modifier:	"Nord-Ostsee-Kanal beschädigt"
-
 kiel_canal_damaged_tt_NOT:	"$kiel_canal_damaged_tt$"
 panama_canal_damaged_modifier:	"Panamakanal beschädigt"
-
-
-
-
-
-
 success_modifier_anti_air:	"feindliche §HLuftabwehr§!"
 success_modifier_anti_air_improvement:	"- Erstellt §HLuftabwehr§! in dieser Provinz"
-
 success_modifier_radar:	"feindliches §HRadar§!"
 success_modifier_radar_improvement:	"- Erstellt §HRadar§! in dieser Provinz"
 success_modifier_radar_source:	"$VAL|H0$/$MAX|H0$ Radar"
 success_modifier_enemy_units:	"feindliche §HVerteidigungsdivisionen§!"
-
-
-
-
 success_modifier_interception_source:	"$VAL|H0$/$MAX|H0$ planes"
-
 success_modifier_air_superiority_improvement:	"- Erhöhung der §HLuftüberlegenheit§! über der Region"
-
-
-
 success_modifier_resistance:	"§HWiderstand§! §gin Zielregion§!"
 success_modifier_resistance_improvement:	"- Erhöhung des §HWiederstandes§! in der Region"
 success_modifier_resistance_counterplay:	"- Verringerung des §HWiederstandes§! in der Region"
 success_modifier_resistance_source:	"$VAL|H%%0$ Wiederstand"
-
-
-
 success_modifier_air_defence_negative:	"niedrige Einheiten §HLuftverteidigung§!"
 success_modifier_air_agility:	"Einheiten §HBeweglichkeit§!"
-
-
 success_modifier_reliability_negative:	"niedrige Einheiten §HZuverlässlichkeit§!"
-
-
-
-
 success_modifier_organisation:	"Einheiten §HOrganisation§!"
 success_modifier_organisation_negative:	"niedrige Einheiten §HOrganisation§!"
 success_modifier_naval_supremacy:	"§HMaritime Überlegenheit§!"
 success_modifier_naval_supremacy_improvement:	"- Erhöhen der §HMaritimen Überlegenheit§! in der Provinz"
-
 success_modifier_naval_supremacy_source:	"$VAL|H%0$ Maritime Überlegenheit"
-
 success_modifier_intel:	"§HZielinformationen§!"
 success_modifier_intel_improvement:	"- erhöht §HZielinformationen§!"
 success_modifier_intel_source:	"$VAL|H0$/$MAX|H0$ Zielinformationen"
-
-
-
-
 raid_command_cost_cannot_afford:	"£command_power£$COST|R0$"
 raid_insufficient_command_power:	"§RUnzureichende Befehlsgewalt§! (£command_power£$COST|R0$ needed)"
 raid_type_outcome_header:	"$RAID_TYPE$ Ergebnis"
-
-
 tooltip_raid_no_valid_unit:	"§RKeine Einheit erfüllt die Anforderungen:§!"
 tooltip_raid_cannot_reach:	"§RDas Ziel kann nicht erreicht werden§!"
-
 tooltip_raid_only_launch_once:	"Dieser Überfall kann nur §Heinmal§! ausgeführt werden."
 tooltip_raid_on_cooldown:	"§RDieser Überfall kann für $DAYS$ Tage nicht mehr gegen dieses Ziel eingesetzt werden.§!"
 raid_outcome_title:	"Überfall $OUTCOME$"
 tooltip_raid_missing_equipment_header:	"§RFehlende Ausrüstung im Lager:§!"
-
-
-
-
 TOOLTIP_RAID_OUTCOME_DISMISS:	"Schließen Sie den Bericht und lehnen Sie ihn ab."
-
 tooltip_raid_warning_description:	"$COUNTRY$: $RAID$"
-
-
-
 cancel_raid_popup_title:	"Stornierung bestätigen"
 cancel_raid_popup_desc:	"Sind sie sicher diesen $RAID|H$ §Rabzubrechen§!?"
 raid_intel_level:	"Zielinformationen: $AMOUNT|H0$"
-
 raid_intel_tooltip_header:	"§HZielinformationen: $AMOUNT|0$§!"
-
-
-
-
 raid_target_intel_from_network_strength:	"- Von Geheimdienst Neztwerk: $AMOUNT|+1$"
 raid_target_intel_from_controlled_neighbour_states:	"- Aus kontrollierten Nachbarstaaten: $AMOUNT|+1$"
-
-
 raid_target_intel_from_enemy_counter_intel:	"- Von der feindlichen Gegenspionage: $AMOUNT|+1$"
-
-
-
 raid_category_fluff_text_nuclear_raids:	"§LStrategisches Kommando§!"
 raid_category_fluff_text_naval_commando_raids:	"§LMarinekommando§!"
 raid_category_fluff_text_paratrooper_raids:	"§LLuftlandekommando§!"
 raid_category_fluff_text_land_infiltration_raids:	"§LZwielichtige Quellen§!"
-
 ENG_raid_category_fluff_text_nuclear_raids:	"§LStrategisches Luftkommando§!"
-
 ENG_raid_category_fluff_text_paratrooper_raids:	"§LSonderluftwaffendienst§!"
 ENG_raid_category_fluff_text_land_infiltration_raids:	"§LLRDG§!"
-
-
-
-
-
-
-
 FRA_raid_category_fluff_text_naval_commando_raids:	"§LCommandos Marine§!"
 FRA_raid_category_fluff_text_paratrooper_raids:	"§LBCRA§!"
 FRA_raid_category_fluff_text_land_infiltration_raids:	"§LBCRA§!"
-
-
-
 ITA_raid_category_fluff_text_paratrooper_raids:	"§LArditi§!"
 ITA_raid_category_fluff_text_land_infiltration_raids:	"§LArditi§!"
-
-
 GER_raid_category_fluff_text_naval_commando_raids:	"§LKriegsmarine§!"
 GER_raid_category_fluff_text_paratrooper_raids:	"§LFallschirmjäger§!"
-
 JAP_raid_category_fluff_text_air_raids:	"§LKaiserliche Luftwaffe§!"
-
-
-
-
 raid_unit_requirements_equipment_header:	"- $EQUIPMENT$ x$AMOUNT|H$"
-
 raid_unit_requirements_module:	"$NAME$"
-
-
-
-
-
-
 raid_is_on_its_way_to:	"$UNIT|H$ ist auf dem Weg nach $SOURCE$"
 raid_distance_to_starting_point:	"Entfernung zum Startpunkt: $DISTANCE|0H$ km"
 raid_left_click:	"§GKlicken Sie§! um die Einheit auszuwählen und zu schwenken"
 airwing_state_raid:	"Einer Razzia zugewiesen"
 raid_canceled_title:	"Überfall abgebrochen"
-
 raid_canceled_cannot_reach_source:	"$UNIT|H$ war nicht in der Lage, $SOURCE$ zu erreichen.\n\n$RAID|H$ wurde gestrichen."
 raid_canceled_source_moved_out_of_range:	"$SOURCE|H$ wurde aus der Reichweite des Angriffsziels verschoben. \n\n$RAID|H$ wurde gecancelt."
-
-
 raid_tooltip_trigger_title:	"$TITLE|H$:"
-
-
 raid_target_name_victory_point:	"$VICTORY_POINT|H$."
 raid_target_name_mine:	"£resources_strip|5 §HMine§! in $LOCATION|H$"
 raid_target_name_oil_field:	"£resources_strip|1 §HOil Field§! in $LOCATION|H$"
-
-
-
 raid_target_name_oil_mine:	"£resources_strip|1 §HÖlraffinerie§! in $LOCATION|H$"
 raid_type_oil_mine_raid:	"Überfall auf Ölraffinerie"
-
-
 raid_type_iron_mine_raid:	"Angriff auf Eisenminen"
-
-
 raid_type_coal_mine_raid:	"Überfall auf ein Kohlebergwerk"
 raid_type_coal_mine_raid_desc:	"Ein Luftangriff, der darauf abzielt, einen großen Bergbaukomplex auszuschalten, um die gegnerische Rohstoffgewinnung für einen längeren Zeitraum ernsthaft zu stören."
 raid_target_name_bauxite_mine:	"£resources_strip|7 §HBauxitmine§! in $LOCATION|H$"
 raid_type_bauxite_mine_raid:	"Überfall auf Bauxitmine"
-
-
 iron_damaged:	"Beschädigte Eisenminen"
-
 coal_mine:	"Kohleminen"
 coal_damaged:	"Beschädigte Kohleminen"
-
 bauxite_mine:	"Bauxitminen"
-
 state_resources_bauxite_factor:	"£resources_strip|7 Bauxit Gewinnung"
 oil_refinery:	"Ölraffinerien"
-
 oil_damaged:	"Beschädigte Ölraffinerien"
-
-
-
 raid_category_header_paratrooper_raids:	"Fallschirmjägerangriffe"
 raid_category_header_land_infiltration_raids:	"Landangriffe"
 tooltip_raid_category_resource_raids:	"§HLuftangriffe auf Rohstoffvorkommen§! \nLuftangriffe einer einzelnen Fliegerstaffel, die auf Rohstoffproduktionsanlagen abzielen. Dazu gehören: §Y\nAngriff auf Ölraffinerie\nAngriff auf Eisenmine\nAngriff auf Kohlebergwerk\nAngriff auf Bauxitmine§!"

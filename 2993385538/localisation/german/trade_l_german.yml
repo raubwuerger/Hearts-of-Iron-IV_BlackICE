@@ -16,156 +16,81 @@ TRADEVIEW_RES_PRODUCED:2	"Extrahiert:"
 TRADEVIEW_RES_SURPLUS:0	"Überschuss:"
 TRADEVIEW_RES_IMPORTED:0	"Importiert:"
 TRADEVIEW_RES_EXPORTED:0	"Exportiert:"
-
-
 TRADE_PRODUCED:0	"§TProduziert: $VALUE|H$§!"
 TRADE_IMPORTED:0	"§TImportiert: $VALUE|H$§!"
-
-
 TRADE_IMPORTED_COLORED:0	"§CImportiert: $VALUE|C$§!"
 TRADE_EXPORTED_COLORED:0	"§YExportiert: $VALUE|H$§!"
-
-
 TRADE_WAS_TERMINATED:0	"Der $RESOURCE|H$-Handel mit $COUNTRY|H$ wurde beendet."
 TRADE_WAS_TERMINATED_COUNTRY:0	"Der Handel mit $COUNTRY|H$ wurde aufgrund des geringen Handelseinflusses beendet."
-
-
 TRADEVIEW_RES_PRODUCED_DETAILS_LINE:1	"- $NUM|H$ $TYPE|H$ verfügbar in $LOC|H$$ORIGINCONTROLLER$"
 TRADEVIEW_RES_PRODUCED_DETAILS_LINE_PENALTY:1	" - $NUM|R$/$MAX|H$ $TYPE|H$ verfügbar in $LOC|H$ (§R$PEN|%$ Lieferstrafe§!)$ORIGINCONTROLLER$"
-
-
 TRADEVIEW_RES_PRODUCED_RIGHTHOLDER:0	" ($STATE_FOREIGN_RESOURCE_OWNER$)"
 TRADEVIEW_RES_PRODUCED_DETAILS_LINE_LOCKED:1	" - $NUM|R$/$MAX|H$ $TYPE|H$ verfügbar in $LOC|H$$ORIGINCONTROLLER$"
-
 TRADEVIEW_RES_TRANSFERRED_FROM_SUBJECT_DETAILS:	"- $NUM|H$ $TYPE|H$ ($FACTOR|%0H$) übertragen von $SUBJECT|H$"
-
 TRADEVIEW_RES_PRODUCED_DETAILS_LINE_ROUTE:0	"   $DEL$"
-
-
 TRADEVIEW_SPECIAL_PROJECTS:	"Besondere Projekte"
 TRADEVIEW_RES_NEEDED_NONE:0	"§TUnsere Produktionslinien müssen nicht gegen zusätzliche Einheiten von $RES|H$ eingetauscht werden.§!"
 TRADEVIEW_RES_NEEDED_DETAILS:0	"§TUnsere Produktionslinien verfügen über nicht genügend $RES|H$. Wir benötigen $NUM|0H$ mehr, damit unsere Produktionslinien auf Hochtouren laufen können. §!"
-
 TRADE_ROUTE_DELIVERY_TYPE_LOCKED:0	"§RLieferung gesperrt§!"
 TRADE_ROUTE_DELIVERY_TYPE_LAND:0	"§TLieferung von $VAL|H$ durch §Hland§!§!"
 TRADE_ROUTE_DELIVERY_TYPE_SEA:0	"§TLieferung von $VAL|H$ bis §Hsea§! Verwendung von $CON|H$ Konvois aus dem benötigten $TOT|H$.§!"
-
-
-
 NO_IMPORT_TO_CANCEL:	"§RKann die Importe von $RESOURCE|H$ nicht stornieren, da nichts importiert wird.§!"
-
 CONVOYS_USAGE_DELAYED:0	"Konvois werden eingesetzt, wenn wir Ressourcen auf dem Seeweg aus anderen Ländern importieren, unsere intern produzierten Ressourcen transferieren und Vorräte an unsere Landstreitkräfte in den Kolonien liefern."
-
-
-
-
-
 MAP_ICON_NAME:0	"($VAL$)"
-
 INSUFFICIENT_CONVOYS_THEY:0	"($WHO|H$ hat nicht genügend Konvois $ACTUAL$/$REQUIRED$)"
 INSUFFICIENT_CONVOYS_US:0	"(§HWir§! haben nicht genügend Konvois)"
 NO_LEGAL_TRANSPORT_PATH:0	"(§RKein legaler Transportweg§!)"
-
 TRADEVIEW_EXPORT_DETAILS:1	"Von $TOT|H$ $RES|H$ @$TAG$$WHO|H$ sind noch $AVAILABLE|H$ zum Export übrig.\nAktuelle Exporte:"
-
 TRADEVIEW_EXPORT_DETAILS_US:1	"Aus $TOT|H$ $RES|H$ §T§Hwe§! Es sind noch $AVAILABLE|H$ für den Export übrig.\nAktuelle Exporte:§!"
 TRADEVIEW_EXPORT_DETAILS_US_DEFICIT:0	"Aus $TOT|H$ $RES|H$ §T§HWe§! habe §H0§! für den Export übrig und es besteht ein Defizit von $AVAILABLE|H$, um alle bestehenden Exportabkommen zu erfüllen.\nAktuelle Exporte:§!"
 TRADEVIEW_EXPORT_DETAILS_LINE_THEY:0	" - $NUM$/$TOT$ an @$TAG$$WHO|H$"
 TRADEVIEW_EXPORT_DETAILS_LINE_US:0	" - $NUM$/$TOT$ an §Hus§!"
 TRADEVIEW_EXPORT_DETAILS_NONE:1	"§TNichts§!"
-
 TRADEVIEW_IMPORT_DETAILS_US:0	"§TWir importieren $TOT|H$ $RES|H$ aus $NUM|H$ Ländern:§!"
-
-
-
 TRADEOFFER_DESC:0	"$WHO|H$ kann bis zu $MAX|H$ Einheiten von $RES|H$ exportieren.\nWir können nur für bis zu $LIM|H$ Einheiten handeln."
-
 TRADE_MAX_EXPORT_DETAILS_CIC_LIMIT:0	" - §TDie Menge, die wir importieren können, ist auf $LIM|H$ begrenzt, da wir nur $NUM|H$ zivile Fabriken anbieten können. Die Kosten pro §H1 $RES$§! ist $COS|H$ Zivile Fabriken§!."
-
-
-
-
-
 TRADE_ROUTE_CONVOY_EXPORT:1	"$RES|H$ zu $TO|H$ ( $CONVOYS|Y$ £convoy_texticon )"
-
-
-
 TRADE_ROUTE_INTERNATIONAL_MARKET_IMPORT_SEA:	"§YKauf§! aus $COUNTRY|Y$ ($CONTRACT_COUNT|Y$ Verträge, $CONVOYS|Y$ £convoy_texticon£)"
 TRADE_ROUTE_INTERNATIONAL_MARKET_IMPORT_LAND:	"§YKauf§! aus $COUNTRY|Y$ ($CONTRACT_COUNT|Y$ Verträge)"
 TRADE_ROUTE_INTERNATIONAL_MARKET_EXPORT_SEA:	"§YVerkauf§! nach $COUNTRY|Y$ ($CONTRACT_COUNT|Y$ Verträge, $CONVOYS|Y$ £convoy_texticon£)"
-
 TRADE_ROUTE_INTERNATIONAL_MARKET_CONVOY_DEFICIT_TT:	"Es besteht ein §RDefizit§! von §YKonvois§! auf dem/den Vertrag(en). Dies wirkt sich auf die Lieferung der Ausrüstung und die Laufzeit des/der Vertrags(s) aus."
-
 TRADE_ROUTE_INTERNATIONAL_MARKET_MIX_REASON_TT:	"Das §RDefizit§! liegt an §YKonvois§! im Seekampf versenkt und zu wenige zugewiesene §YKonvois§!."
 TRADE_ROUTE_INTERNATIONAL_MARKET_ASSIGNMENT_REASON_TT:	"Das §RDefizit§! liegt an zu wenigen zugewiesenen §YKonvois§!."
 TRADE_ROUTE_CONVOY_LEND_LEASE_IMPORT:0	"Leih und Pacht Import aus $FR|H$ ( $CONVOYS|Y$ £convoy_texticon )"
 TRADE_ROUTE_CONVOY_LEND_LEASE_EXPORT:0	"Leih und Pacht Export nach $TO|H$ ( $CONVOYS|Y$ £convoy_texticon )"
 TRADE_ROUTE_CONVOY_PRODUCTION_TRANSFER:0	"$FROM|H$ bis $TO|H$ ( $CONVOYS|Y$ £convoy_texticon )"
-
 TRADE_ROUTE_CONVOY_SUPPLIES_TRANSFER_NODE_ENTRY:0	"  $TO|H$ - $SUPPLIES|Y$ £supply_texticon£"
 TRADE_ROUTE_CONVOY_SUPPLIES_HEADER:0	"Versorgungsübertragungen:\n"
 TRADE_ROUTE_CONVOY_PRODUCTION_HEADER:0	"Ressourcenübertragungen:\n"
-
-
-
-
 TRADE_HAVE_ACTIVE:0	"Wir haben §GAktive§! Handel mit diesem Land."
-
 TRADE_IS_ENEMY:0	"@$TAG$$COUNTRY|H$ §RWird produziert $RESOURCE|H$, wird aber nicht an uns exportieren, während wir mit ihnen im Krieg sind.§!"
-
-
-
-
-
 TRADE_NEED_SURPLUS:0	"$NEED|G0$"
-
-
-
 TRADE_CURRENT_TRADE_LAW_DESC:0	"Der Export begrenzt die Menge seiner für den Export bereitgestellten Ressourcen. Dieser Wert ist gesetzlich geregelt."
 TRADE_CURRENT_INFLUENCE:0	"Unser Handelseinfluss mit @$TAG$$COUNTRY|H$ beträgt $VAL|+$"
 TRADE_CURRENT_INFLUENCE_DESC:0	"Unser Handelseinfluss bestimmt, wie wettbewerbsfähig wir im Handel mit einer bestimmten Nation sind und wie groß unser Anteil an deren Exporten ist."
 TRADE_FACTOR_BASE:0	"Basis: $VAL|H$"
-
 TRADE_FACTOR_RELATION:0	"Beziehung: $VAL|H$"
-
 TRADE_FACTOR_PUPPET:0	"Ist Puppet: $VAL|H$"
 TRADE_FACTOR_FEAR:0	"Angst: $VAL|H$"
 TRADE_SORT_COUNTRY:0	"Land"
 TRADE_SORT_IMPORT:0	"Importieren"
 TRADE_SORT_EXPORT:0	"Export"
-
 TRADE_SORT_LAW:0	"Handelsrecht"
 TRADE_SORT_INFLUENCE:0	"Beeinflussen"
 TRADE_SORT_CONVOYS:0	"Konvois"
-
-
-
-
 IMPORTING_REQUEST_NO_CONVOYS:0	"Aufgrund fehlender Konvois erhalten wir nur $VALONE|0H$ der von $VALTWO|H$ angeforderten $TYPE|H$."
-
 IMPORTING_REQUEST_EFFICIENCY:0	"Effizienz der Seeroute: $EFF|%R$"
-
-
-
-
-
 TRADE_FACTOR_PARTY_SUPPORT:0	"Unterstützung für $IDEOLOGY|H$: $VAL|0H$"
-
-
-
 TRADED_NATIONS:0	"Handelspartner"
 TRADE_CIV_FACTORIES:0	"Zivile Fabriken"
 TRADE_CIV_FACTORIES_COUNT:0	"$NUM|G$"
 TRADE_CIV_FACTORIES_USED:0	"Verwendet: $USED|Y$"
-
 TRADE_CONVOYS_USED_DESC:0	"Wir verwenden $NUM$ der für diesen Handel benötigten Konvois im Wert von insgesamt $TOT$."
-
 TRADE_CONVOYS_ESTIMATED_OVER_LAND_DESC:0	"Dieser Handel kann auf dem Landweg erfolgen. Es sind keine Konvois erforderlich."
 NOT_TRADING_WITH_COUNTRY:0	"Wir handeln nicht mit @$TAG$$COUNTRY|H$"
 RESOURCES_BASE_TOOLTIP:0	"Basis: $NUM|.0H$ $RESOURCE$"
 RESOURCE_INFRA_FACTOR_TOOLTIP:1	"   Infrastruktur: §Hx$MULT$§!"
 RESOURCE_SUPPLY_FACTOR_TOOLTIP:0	"   Versorgungswege: §Hx$MULT$§!"
-
 RESOURCES_ADDITIONAL_TOOLTIP:0	"Zusätzliche Ressourcen: $NUM|.0H$ $RESOURCE$"
 RESOURCES_ADDITIONAL_FROM_BUILDING_TOOLTIP:0	"Gebäude: $NUM|.0H$ $RESOURCE$"
 RESOURCE_BALANCE_VALUE:	"$VALUE$"

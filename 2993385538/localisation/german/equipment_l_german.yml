@@ -33,4284 +33,2112 @@ JAP_railartillery_equipment_0_desc:0	"Manuelles Maschinengewehr Wz. 28"
 railway_gun_equipment:0	"Eisenbahn Artillerie"
 railway_gun_equipment_desc:0	"Ein schweres Geschütz, das zum Transport auf einen Eisenbahnwagen montiert ist."
 railway_gun_desc:0	"Die Eisenbahn bietet die Möglichkeit, schwere Geschütze mit angemessener Geschwindigkeit weit ins Landesinnere zu transportieren und so feindliche Stellungen aus großer Entfernung und mit guter Wirkung zu bombardieren."
-
 railway_gun_equipment_1:0	"Eisenbahngeschütz"
-
 ENG_railway_gun_equipment_1:0	"BL 9,2 Zoll Mk. XIII"
-
 USA_railway_gun_equipment_1:0	"8-Zoll Mk. VI"
-
-
-
 SOV_railway_gun_equipment_1:0	"TM-3-12"
-
 assault_rifle_short:0	"Sturmgewehr"
-
 assault_rifle_equipment:0	"Sturmgewehr"
-
 assault_rifle_equipment_0_short:0	"Sturmgewehr-Eqp."
-
-
 handheld_at_equipment_short:0	"Handgehaltene Panzerabwehr"
-
 handheld_at_equipment_0:0	"Handgehaltene Panzerabwehrwaffe I"
-
 handheld_at_equipment_0_desc:0	"Handgehaltenes Panzerabwehrgewehr, das auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern auf kurze Distanz durch Infanterie spezialisiert ist und in der Regel panzerbrechende Geschosse abfeuert."
-
 handheld_at_equipment_1_short:0	"Handgehaltene Hohlladung"
-
 handheld_at_equipment_2:0	"Handgehaltene Panzerabwehr III"
-
 handheld_at_equipment_2_desc:0	"Handgetragener Panzerabwehrwerfer, der auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern auf kurze Distanz spezialisiert ist und von der Infanterie eingesetzt wird."
-
 infantry_equipment_short:0	"Infanterieausrüstung"
-
 infantry_equipment_0:0	"Infanterieausrüstung I"
-
 infantry_equipment_0_desc:0	"Grundlegende Ausrüstung für Infanteristen, die vor und während des Ersten Weltkriegs entwickelt wurde."
-
 infantry_equipment_1_short:0	"Infanterieausrüstung II"
-
 infantry_equipment_2:0	"Infanterieausrüstung III"
-
 infantry_equipment_2_desc:0	"Persönliche und mannschaftsdienliche Waffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Modernisiert, um eine große Anzahl von Maschinenpistolen und Panzerabwehrgewehren aufzunehmen."
-
 infantry_equipment_3_short:0	"Infanterieausrüstung IV"
-
 motorized_equipment_short:0	"Transport-LKWs"
-
 motorized_equipment_0:0	"Transport-LKWs"
-
 motorized_equipment_0_desc:0	"Lastwagen und andere Fahrzeuge für den Transport von Infanterie und Ausrüstung im Feld."
-
 motorized_equipment_1_short:0	"1 Tonne Inf-Truck Platoon "
-
 motorized_equipment_2:0	"Transport-LKWs II"
-
 motorized_equipment_2_desc:0	"Die Motorisierung der Infanterie ist die zweite Stufe der Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht für militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub umrüsten. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die sonst auf den Marsch angewiesen wären, erheblich gesteigert."
-
 civilian_motorized_equipment_short:0	"Zivile Lastkraftwagen"
-
 civilian_motorized_lia_equipment:0	"Autos"
-
 civilian_motorized_lia_equipment_desc:0	"Autos, die von unserer Bevölkerung beschlagnahmt werden."
-
 civilian_recon_mot_equipment_short:0	"Ziv. Motorräder"
-
 motorised_cavalry:0	"Motorisierte Kavallerie Umwandlung"
-
 motorised_cavalry_desc:0	"Verwandeln Sie Ihre Kavallerieeinheiten in LKW-beförderte Infanterie. Beachten Sie, dass dies eine erhöhte LKW-Produktion in Ihrem Land erfordert."
-
 motorized_lia_equipment_short:0	"Leichte Fahrzeuge"
-
 motorized_lia_equipment_01:0	"Leichte Fahrzeuge I"
-
 motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt werden."
-
 motorized_lia_equipment_02_short:0	"Leichter Wagen mod.36"
-
 motorized_lia_equipment_03:0	"Leichte Fahrzeuge III"
-
 motorized_lia_equipment_03_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt werden."
-
 tech_engineers_bridges_desc:0	"Ponton-Brücken und Sturmboote zum Überqueren von Flüssen"
-
-
 HMG_equipment_desc:0	"TKS"
-
 HMG_equipment_0:0	"Maschinengewehre I"
-
 HMG_equipment_0_short:0	"WW1-Maschinengewehr"
-
 HMG_equipment_1_desc:0	"Maschinengewehrmannschaften innerhalb des Bataillons"
-
 HMG_equipment_2:0	"Maschinengewehre III"
-
 HMG_equipment_2_short:0	"Leichtes Maschinengewehr"
-
 HMG_equipment_3_desc:0	"Maschinengewehrmannschaften innerhalb des Bataillons"
-
 mortar_equipment:0	"Mörserbatterie"
-
 mortar_equipment_short:0	"Mörser"
-
 mortar_equipment_0_desc:0	"Mörser sind die primäre explosive Unterstützungswaffe des Zuges. Wo größere Artilleriegeschütze für einen flexiblen taktischen Einsatz zu schwerfällig sein könnten, kann der Mörser den Soldaten in der Nähe organische Feuerunterstützung bieten. Die hohe Flugbahn der Mörsergranaten ist ideal, um in Gräben zu landen, die verwundbaren Dächer von Gebäuden zu treffen oder Mauern zu umgehen."
-
 mortar_equipment_1:0	"Mörser II"
-
 mortar_equipment_1_short:0	"81-mm-Mörser"
-
 mortar_equipment_2_desc:0	"Spezieller Mörser innerhalb des Bataillons"
-
 mortar_equipment_3:0	"Mörser IV"
-
 mortar_equipment_3_short:0	"120mm Mörser"
-
 radio_equipment_desc:0	"Tragbare Zwei-Wege-Funkkommunikation"
-
 radio_equipment_0:0	"Funkausrüstung I"
-
 radio_equipment_0_short:0	"Funkgeräte"
-
 artillery_radio_equipment_desc:0	"23TP"
-
 artillery_radio_equipment_0:0	"Artillerie Funkgeräte"
-
 artillery_radio_equipment_0_short:0	"Artillerie Funkgeräte"
-
 recon_radio_equipment_desc:0	"25TP Habich"
-
 recon_radio_equipment_0:0	"Aufklärungs-Funkgeräte"
-
 recon_radio_equipment_0_short:0	"Aufklärungs-Funkgeräte"
-
 vehicle_radio_equipment_desc:0	"Mathilda II"
-
 vehicle_radio_equipment_0:0	"Fahrzeug-Funkgeräte"
-
 vehicle_radio_equipment_0_short:0	"Fahrzeug-Funkgeräte"
-
 tank_radio_equipment_desc:0	""
-
 tank_radio_equipment_0:0	"Panzer-Funkgeräte"
-
 tank_radio_equipment_0_short:0	"Panzer-Funkgeräte"
-
 HQ_radio_equipment_desc:0	""
-
 HQ_radio_equipment_0:0	"HQ-Funkgeräte"
-
 HQ_radio_equipment_0_short:0	"HQ-Funkgeräte"
-
 command_tank_equipment_desc:0	""
-
 command_tank_equipment_0:0	"Kommandopanzer I"
-
 command_tank_equipment_0_short:0	"Kommandopanzer"
-
 command_tank_equipment_1_desc:0	""
-
 command_tank_equipment_2:0	"Kommando Panzer III"
-
 command_tank_equipment_2_short:0	"Kommando-Panzer"
-
 recovery_tank_equipment_desc:0	""
-
 recovery_tank_equipment_0:0	"Gepanzerte Bergefahrzeuge I"
-
 recovery_tank_equipment_0_short:0	"Gepanzerte Bergungsfahrzeuge I"
-
 recovery_tank_equipment_1_desc:0	""
-
 command_tank_equipment_axis:0	"Kommando Panzer"
-
 command_tank_equipment_axis_short:0	"Kommando Panzer"
-
 command_tank_equipment_axis_0_desc:0	""
-
 command_tank_equipment_axis_1:0	"Kommando Panzer II"
-
 command_tank_equipment_axis_1_short:0	"Kommando Panzer (Später Krieg)"
-
 command_tank_equipment_axis_2_desc:0	""
-
 recovery_tank_equipment_axis:0	"Bergepanzer I"
-
 recovery_tank_equipment_axis_short:0	"Gep. Berg. I"
-
 recovery_tank_equipment_axis_0_desc:0	""
-
 recovery_tank_equipment_axis_1:0	"Bergepanzer III"
-
 recovery_tank_equipment_axis_1_short:0	"Gep. Berg. (Bergepanther)"
-
 motorized_rocket_equipment_desc:0	"Motorisierte Raketenartillerie"
-
 reconac_equipment:0	"Gepanzerte Fahrzeuge"
-
 reconac_equipment_desc:0	"Gepanzerte Fahrzeuge, meist leicht gepanzert, für die Aufklärung"
-
 captured_light_tank_equipment_short:0	"Ausländische leichte Panzer"
-
 captured_light_tank_equipment_0:0	"Leichte Panzer aus der Vorkriegszeit"
-
 captured_light_tank_equipment_0_desc:0	" "
-
 captured_light_tank_equipment_1_short:0	"Ausländische leichte Grundpanzer"
-
 captured_light_tank_equipment_2:0	"Ausländische verbesserte leichte Panzer"
-
 captured_light_tank_equipment_2_desc:0	" "
-
 captured_light_tank_equipment_3_short:0	"Ausländische fortgeschrittene leichte Panzer"
-
 captured_light_tank_equipment_4:0	"Ausländische Leichte Panzer der Spätphase des Krieges"
-
 captured_light_tank_equipment_4_desc:0	" "
-
 captured_tank_equipment_short:0	"Ausländische Mittlere Panzer"
-
 captured_tank_equipment_0:0	"Ausländische Mittlere Panzer der Vorkriegszeit"
-
 captured_tank_equipment_0_desc:0	" "
-
 captured_tank_equipment_1_short:0	"Ausländische einfache mittlere Panzer"
-
 captured_tank_equipment_2:0	"Ausländische Verbesserte Mittlere Panzer"
-
 captured_tank_equipment_2_desc:0	" "
-
 captured_tank_equipment_3_short:0	"Ausländische Fortgeschrittene Mittlere Panzer"
-
 captured_tank_equipment_4:0	"Ausländische Late-War Medium Tanks"
-
 captured_tank_equipment_4_desc:0	" "
-
 motorized_equipment_05_short:0	"Motorräder Aufklärung"
-
 motorized_AC_equipment:0	"Gepanzerte Fahrzeuge"
-
 motorized_AC_equipment_desc:0	""
-
 motorized_AC_equipment_06_short:0	"Lanchester"
-
 motorized_AC_equipment_07:0	"Gepanzerter Wagen II"
-
 motorized_AC_equipment_07_desc:0	""
-
 motorized_AC_equipment_08_short:0	"Biberette"
-
 motorized_AC_equipment_09:0	"Gepanzerter Wagen IV"
-
 motorized_AC_equipment_09_desc:0	""
-
 motorized_AC_equipment_099_short:0	"Panzerwagen"
-
 support_equipment_short:0	"Unterstützungsausrüstung"
-
 support_equipment_desc:0	"Allgemeine, nicht kampffähige Ausrüstung zur Unterstützung der Truppen."
-
 support_equipment_1_short:0	"Unterstützungsausrüstung"
-
-
-
-
 EQUIPMENT_DESCRIPTION:0	"$NAME$"
-
 EQUIPMENT_DESIGNER_DESC:0	"Beeinflusst von: $DESIGNER|Y$"
 EQUIPMENT_ARMOR:0	"Panzerung"
-
 armor_equipment:0	"Panzerung"
 EQUIPMENT_MOTORIZED:0	"Motorisiert"
-
-
 EQUIPMENT_CAPITAL_SHIP:0	"Schweres Schiff"
-
-
 EQUIPMENT_CONVOY:0	"Handelskonvoi"
 EQUIPMENT_AIR_FIGHTER:0	"Jagdflugzeug"
-
 EQUIPMENT_INTERCEPTOR:0	"Abfangjäger"
 EQUIPMENT_TACTICAL_BOMBER:0	"Taktischer Bomber"
-
-
 EQUIPMENT_TRANSPORT:0	"Transport"
-
-
 EQUIPMENT_SUPPORT:0	"Unterstützung"
 EQUIPMENT_ANTI_AIR:0	"Luftabwehr"
-
 EQUIPMENT_ANTI_TANK:0	"Panzerabwehr"
 EQUIPMENT_ROCKET:0	"Rakete"
-
-
 EQUIPMENT_NAVAL:0	"Marineausrüstung"
-
-
 UNIT_GENERIC_NAME_GENERIC_INFANTRY:0	"$NR$. $NAME$"
 UNIT_GENERIC_NAME_GER:0	"$NR$. $NAME$"
-
 UNIT_GENERIC_NAME_FRA:0	"$NR$ème $NAME$"
 UNIT_GENERIC_NAME_ITA:0	"$NR$a $NAME$"
-
-
 UNIT_GENERIC_NAME_USA:0	"$NR$ $NAME$"
-
-
 recon_equipment_short:0	"Aufklärungsausrüstung"
 recon_equipment_desc:0	""
-
 recon_equipment_0_short:0	"Aufklärungsausrüstung"
 recon_equipment_0_desc:0	""
-
-
 recon_equipment_1_desc:0	""
-
-
 recon_mot_equipment_desc:0	""
 recon_mot_equipment_0:0	"Motorradausrüstung"
-
 recon_mot_equipment_0_desc:0	""
 recon_mot_equipment_1:0	"Motorradausrüstung"
-
-
-
-
 tankette_equipment_desc:0	""
 tankette_equipment_0:0	"Panzerkampfwagen I"
-
 tankette_equipment_0_desc:0	""
 tankette_equipment_1:0	"Panzerkampfwagen II"
-
-
 tankette_equipment_2:0	"Panzerkampfwagen III"
-
-
 tankette_equipment_3:0	"Panzerkampfwagen IV"
 tankette_equipment_3_short:0	"Mittelkriegs-Tanketten"
-
 tankette_equipment_axis:0	"Panzerkampfwagen"
 tankette_equipment_axis_short:0	"Panzerkampfwagen"
-
-
 tankette_equipment_axis_0_short:0	"Basis-Tanketten"
-
-
 tankette_equipment_axis_1_desc:0	""
 tankette_equipment_axis_2:0	"Panzerkampfwagen III"
-
 tankette_equipment_axis_2_desc:0	""
 tankette_equipment_axis_3:0	"Panzerkampfwagen IV"
-
-
-
 gw_tank_equipment_short:0	"WW1 Panzerung"
 gw_tank_equipment_desc:0	"Panzer wurden im Ersten Weltkrieg vom Vereinigten Königreich und Frankreich getrennt und gleichzeitig entwickelt, um die festgefahrenen Grabenkämpfe an der Westfront zu beenden. Der Name Panzer wurde von den Briten in der Anfangsphase ihrer Entwicklung als Sicherheitsmaßnahme eingeführt, um ihren Zweck zu verschleiern. Die frühen Panzer waren mit Maschinengewehren und kleinen Kanonen bewaffnet, bewegten sich langsam und waren nur so stark gepanzert, dass sie den Beschuss mit Handfeuerwaffen aufhalten konnten."
-
-
 light_tank_equipment_desc:0	"Leichte Panzer sind kleine, wendige Panzer, die sowohl zur Aufklärung als auch zur Bekämpfung leicht gepanzerter Gegner eingesetzt werden können."
-
-
 light_tank_equipment_0_desc:0	"Leichte Panzer aus dem Ersten Weltkrieg sind kleine, leicht bewaffnete Panzer, die in erster Linie zur Unterstützung der Infanterie mit MG-Feuer eingesetzt werden."
 light_tank_equipment_1_short:0	"Leichter Panzer Vickers Mk.VI"
-
 light_tank_equipment_1_desc:0	"Leichte Panzer sind kleine, wendige Panzer, die sowohl zum Aufklären als auch zur Bekämpfung leicht gepanzerter Gegner geeignet sind."
 light_tank_equipment_2_short:0	"Leichter Panzer"
-
-
 light_tank_equipment_3_short:0	"Leichter Panzer"
-
-
 light_tank_equipment_4_short:0	"Leichter Panzer"
 light_tank_equipment_4:0	"Leichter Panzer V"
-
 light_tank_artillery_equipment:0	"Leichte Artillerie auf Selbstfahrlafette"
-
-
 light_tank_artillery_equipment_1_short:0	"Lt. Sfl. I"
-
-
 light_tank_artillery_equipment_2_short:0	"Lt. Sfl. II"
 light_tank_artillery_equipment_2_desc:0	"Eine kleine Artilleriekanone auf einem leichten Fahrgestell. Ein leichtes Sfl. verfügt nicht über die Feuerkraft seiner größeren Brüder, ist aber mobiler."
-
 light_tank_artillery_equipment_3_short:0	"Lt. Sfl. III"
 light_tank_artillery_equipment_3_desc:0	"Eine kleine Artilleriekanone auf einem leichten Fahrgestell. Ein leichtes Sfl. hat nicht die Feuerkraft seiner größeren Brüder, ist dafür aber mobiler."
-
-
 light_tank_destroyer_equipment_desc:0	"Jagdpanzer sind Panzer mit einer überdurchschnittlich großen Kanone, die anstelle eines Turms fest montiert ist. Leichte Jagdpanzer basieren auf dem Fahrgestell von leichten Panzern, was bedeutet, dass sie recht mobil sind, aber im Vergleich zu den schwereren TDs keine besonders starken Geschütze tragen."
-
-
 light_tank_destroyer_equipment_1_desc:0	"Jagdpanzer sind Panzer mit einer überdurchschnittlich großen Kanone in einem festen Aufbau anstelle eines Turms. Leichte Jagdpanzer basieren auf dem Fahrgestell von leichten Panzern, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
 light_tank_destroyer_equipment_2:0	"Leichter Jagdpanzer II"
-
 light_tank_destroyer_equipment_2_desc:0	"Jagdpanzer sind Panzer mit einer überdurchschnittlich großen Kanone in einem festen Aufbau anstelle eines Turms. Leichte Jagdpanzer basieren auf dem Fahrgestell von leichten Panzern, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
 light_tank_destroyer_equipment_3:0	"Leichter Jagdpanzer III"
-
-
 light_tank_aa_equipment:0	"Leichte Luftabwehr auf Selbstfahrlafette"
-
-
 light_tank_aa_equipment_1_short:0	"Lt. SPAA I"
 light_tank_aa_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge konzipiert, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
-
 light_tank_aa_equipment_2_short:0	"Lt. SPAA II"
 light_tank_aa_equipment_2_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge konzipiert, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
-
-
 light_tank_aa_equipment_3_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge konzipiert, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
-
-
 cavalry_tank_equipment_desc:0	"Kavallerie-Panzer"
 cavalry_tank_equipment_0_short:0	"Kreuzer Mk.I"
-
 cavalry_tank_equipment_0:0	"Kavallerie-Panzer I"
 cavalry_tank_equipment_1_short:0	"Kreuzer Mk.V Covenanter"
-
-
 cavalry_tank_equipment_2_short:0	"Kreuzer Mk.VI Crusader"
-
-
 cavalry_tank_equipment_3_short:0	"Mk. VIII, Cromwell (A27M)"
 cavalry_tank_equipment_3_desc:0	"Kavalleriepanzer sind schnellere, einigermaßen gut bewaffnete Panzer, die darauf ausgelegt sind, Breschen zu schlagen und den Feind in die Flucht zu schlagen."
-
 infantry_tank_equipment:0	"Infanterie-Panzer"
 infantry_tank_equipment_short:0	"Infanterie-Panzer"
-
-
 infantry_tank_equipment_0_desc:0	"Infanteriepanzer sind langsame, schwer gepanzerte Panzer, die sich zusammen mit der Infanterie bewegen und schwere Feuerunterstützung durch MG und Kanonenfeuer leisten sollen."
-
-
 infantry_tank_equipment_1_desc:0	"Infanteriepanzer sind langsame, schwer gepanzerte Panzer, die sich mit der Infanterie bewegen und schwere Feuerunterstützung mit MG und Kanonenfeuer leisten."
 infantry_tank_equipment_1:0	"Infanterie-Panzer II"
-
 infantry_tank_equipment_2_desc:0	"Infanteriepanzer sind langsame, schwer gepanzerte Panzer, die sich mit der Infanterie bewegen und schwere Feuerunterstützung mit MG und Kanonenfeuer leisten."
 infantry_tank_equipment_2:0	"Infanterie-Panzer III"
-
-
 infantry_tank_equipment_3:0	"Infanterie-Panzer IV"
-
-
 infantry_tank_equipment_4:0	"Infanterie-Panzer V"
 medium_tank_equipment:0	"Mittlerer Panzer"
-
 medium_tank_equipment_0_short:0	"Somua S35"
 medium_tank_equipment_0:0	"Mittlerer Panzer I"
-
-
 medium_tank_equipment_1:0	"Mittlerer Panzer II"
-
-
 medium_tank_equipment_2:0	"Mittlerer Panzer III"
 medium_tank_equipment_2_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
-
 medium_tank_equipment_3:0	"Mittlerer Panzer IV"
 medium_tank_equipment_3_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
-
-
 medium_tank_equipment_4_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
-
 medium_tank_artillery_equipment_short:0	"Mittlere Selbstfahrlafetten-Artillerie"
 medium_tank_artillery_equipment_desc:0	"Eine mittlere Artilleriekanone, die auf ein mittleres Panzerfahrgestell montiert ist. Eine mittlere Sfl. verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
-
-
 medium_tank_artillery_equipment_1_desc:0	"Eine mittlere Artilleriekanone auf einem mittleren Panzerfahrgestell. Eine mittlere Sfl. verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
-
-
 medium_tank_artillery_equipment_2_desc:0	"Eine mittlere Artilleriekanone auf einem mittleren Panzerfahrgestell. Eine mittlere Sfl. verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
 medium_tank_artillery_equipment_3:0	"Mittlere Artillerie auf Selbstfahrlafette III"
-
 medium_tank_artillery_equipment_3_desc:0	"Eine mittlere Artilleriekanone auf einem mittleren Panzerfahrgestell. Eine mittlere Sfl. verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
 medium_tank_destroyer_equipment:0	"Mittlerer Jagdpanzer"
-
-
 medium_tank_destroyer_equipment_1:0	"Mittlerer Jagdpanzer I"
-
-
 medium_tank_destroyer_equipment_2:0	"Mittlerer Jagdpanzer II"
 medium_tank_destroyer_equipment_2_short:0	"Med. TD II"
-
 medium_tank_destroyer_equipment_3:0	"Mittlerer Jagdpanzer III"
 medium_tank_destroyer_equipment_3_short:0	"Med. TD III"
-
-
 medium_tank_aa_equipment_desc:0	"Mobile Luftabwehrartillerie auf dem Fahrgestell eines mittleren Panzers."
-
-
 medium_tank_aa_equipment_1_desc:0	"Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
 medium_tank_aa_equipment_2:0	"Mittlere Luftabwehr auf Selbstfahrlafette II"
-
 medium_tank_aa_equipment_2_desc:0	"Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
 medium_tank_aa_equipment_3:0	"Mittlere Luftabwehr auf Selbstfahrlafette III"
-
-
-
-
 heavy_tank_equipment_1_short:0	"Char B-1bis"
 heavy_tank_equipment_1:0	"Schwerer Panzer I"
-
 heavy_tank_equipment_2_short:0	"Churchil Mk IV"
 heavy_tank_equipment_2:0	"Schwerer Panzer II"
-
-
 heavy_tank_equipment_3:0	"Schwerer Panzer III"
-
-
 heavy_tank_artillery_equipment_desc:0	"Diese großen Artilleriegeschütze, die auf einem schweren Fahrgestell montiert sind, verfügen über eine enorme Feuerkraft."
 heavy_tank_artillery_equipment_1:0	"Schwere Artillerie auf Selbstfahrlafette I"
-
 heavy_tank_artillery_equipment_1_desc:0	"Eine große Artillerieeinheit auf einem schweren Fahrgestell. Diese Selbstfahrlafetten verfügen über eine hohe Feuerkraft."
 heavy_tank_artillery_equipment_2:0	"Schwere Artillerie auf Selbstfahrlafette II"
-
-
 heavy_tank_artillery_equipment_3:0	"Schwere Artillerie auf Selbstfahrlafette III"
-
-
 heavy_tank_destroyer_equipment:0	"Schwerer Jagdpanzer"
 heavy_tank_destroyer_equipment_short:0	"Hv. Jagdpanzer"
-
 heavy_tank_destroyer_equipment_1:0	"Schwerer Jagdpanzer I"
 heavy_tank_destroyer_equipment_1_short:0	"Hv. TD I"
-
-
 heavy_tank_destroyer_equipment_2_short:0	"Hv. TD II"
-
-
 heavy_tank_destroyer_equipment_3_short:0	"Hv. TD III"
 heavy_tank_destroyer_equipment_3_desc:0	"Ein schwerer Panzer, bei dem der Turm entfernt wurde, um eine noch größere Kanone in einer festen Halterung zu tragen."
-
 heavy_tank_aa_equipment_desc:0	"Eine leistungsstarke Luftabwehrwaffe, die auf einem schweren Fahrgestell montiert ist."
 heavy_tank_aa_equipment_1:0	"Schwerer Luftabwehr auf Selbstfahrlafette I"
-
-
 heavy_tank_aa_equipment_2:0	"Schwerer Luftabwehr auf Selbstfahrlafette II"
-
-
 heavy_tank_aa_equipment_3:0	"Schwerer Luftabwehr auf Selbstfahrlafette III"
 heavy_tank_aa_equipment_3_short:0	"Hv. SPAA III"
-
 super_heavy_tank_equipment:0	"Superschwerer Panzer"
 super_heavy_tank_equipment_desc:0	"Superschwere Panzer sind eine Weiterentwicklung des Konzepts der schweren Panzer. Sie sind größer, besser bewaffnet und stärker gepanzert, aber sie sind auch langsamer und haben große Probleme mit weichem Boden, und nur wenige Brücken können ihr Gewicht tragen."
-
-
 super_heavy_tank_equipment_1_desc:0	"Superschwere Panzer sind eine Weiterentwicklung des Konzepts der schweren Panzer. Sie sind größer, besser bewaffnet und stärker gepanzert, aber auch langsamer und haben große Probleme mit weichem Boden, und nur wenige Brücken können ihr Gewicht bewältigen."
-
-
 super_heavy_tank_artillery_equipment_1:0	"Superschwere Artillerie auf Selbstfahrlafette I"
 super_heavy_tank_artillery_equipment_1_short:0	"SH. Sfl."
-
 super_heavy_tank_destroyer_equipment:0	"Superschwerer Jagdpanzer"
 super_heavy_tank_destroyer_equipment_short:0	"SH. Jagdpanzer"
-
-
 super_heavy_tank_destroyer_equipment_1_short:0	"SH. TD"
-
-
 super_heavy_tank_aa_equipment_desc:0	"Superschweres Panzerfahrgestell mit Luftabwehrbewaffnung"
 super_heavy_tank_aa_equipment_1:0	"Superschwerer Luftabwehr auf Selbstfahrlafette I"
-
 super_heavy_tank_aa_equipment_1_desc:0	"Superschweres Panzerfahrgestell mit Luftabwehrbewaffnung"
 modern_tank_equipment:1	"Hauptkampfpanzer"
-
-
 modern_tank_equipment_1:1	"Kampfpanzer"
-
-
 modern_tank_artillery_equipment_desc:0	"Moderne selbstfahrende Artilleriefahrzeuge mögen oberflächlich betrachtet Panzern ähneln, sind aber im Allgemeinen nur leicht gepanzert, zu leicht, um im direkten Feuergefecht zu bestehen. Allerdings schützen sie ihre Besatzungen vor Schrapnells und Kleinwaffen."
 modern_tank_artillery_equipment_1:0	"Moderne Artillerie auf Selbstfahrlafette I"
-
 modern_tank_artillery_equipment_1_desc:0	"Moderne Selbstfahrlafetten ähneln oberflächlich betrachtet zwar Panzern, sind aber im Allgemeinen nur leicht gepanzert, zu leicht, um im direkten Feuergefecht zu bestehen. Allerdings schützen sie ihre Besatzungen vor Schrapnells und Kleinwaffen."
 modern_tank_destroyer_equipment:0	"Moderne Jagdpanzer"
-
-
 modern_tank_destroyer_equipment_1_short:0	"Moderner TD"
-
-
 modern_tank_aa_equipment_desc:0	"Die moderne Luftabwehrartillerie ist eine Kombination aus Luftabwehrraketen und Schnellfeuerkanonen und stellt eine tödliche Bedrohung für Flugzeuge dar."
 modern_tank_aa_equipment_1:0	"Moderne Luftabwehr auf Selbstfahrlafette I"
-
 modern_tank_aa_equipment_1_desc:0	"Mit einer Kombination aus Luftabwehrraketen und Schnellfeuerkanonen stellt die moderne Luftabwehrartillerie eine tödliche Bedrohung für Flugzeuge dar."
-
-
 gw_tank_equipment_axis_desc:0	"Die Panzer des Ersten Weltkriegs wurden vom Vereinigten Königreich und Frankreich getrennt und gleichzeitig entwickelt, um die festgefahrenen Grabenkämpfe an der Westfront zu durchbrechen. Der Name Panzer wurde von den Briten in der Anfangsphase ihrer Entwicklung als Sicherheitsmaßnahme eingeführt, um ihren Zweck zu verschleiern. Die frühen Panzer waren mit Maschinengewehren und kleinen Kanonen bewaffnet, bewegten sich langsam und waren nur so stark gepanzert, dass sie den Beschuss mit Handfeuerwaffen aufhalten konnten."
-
-
 light_tank_equipment_axis_desc:0	"Leichte Panzer sind kleine, wendige Panzer, die sowohl zur Aufklärung als auch zur Bekämpfung leicht gepanzerter Gegner eingesetzt werden können."
 light_tank_equipment_axis_0:0	"Leichter Panzer WW1"
-
 light_tank_equipment_axis_0_desc:0	"Leichte Panzer des 1. Weltkriegs sind kleine, leicht bewaffnete Panzer, die in erster Linie zur Unterstützung der Infanterie mit MG-Feuer eingesetzt werden."
 light_tank_equipment_axis_1_short:0	"Panzer II A"
-
-
 light_tank_equipment_axis_2_short:0	"Panzer II D"
-
-
 light_tank_equipment_axis_3_short:0	"Panzer II F"
 light_tank_equipment_axis_3:0	"Leichter Panzer III"
-
 light_tank_equipment_axis_4_short:0	"Panzer II L 'Luchs'"
 light_tank_equipment_axis_4:0	"Leichter Panzer IV"
-
 light_tank_artillery_equipment_axis:0	"Leichte Artillerie auf Selbstfahrlafette"
-
-
 light_tank_artillery_equipment_axis_1_short:0	"Lt. Sfl. I"
-
-
 light_tank_artillery_equipment_axis_2_short:0	"Lt. Sfl. II"
 light_tank_artillery_equipment_axis_2_desc:0	"Eine kleine Artilleriekanone auf einem leichten Fahrgestell. Ein leichtes Sfl. verfügt nicht über die Feuerkraft seiner größeren Brüder, ist aber mobiler."
-
 light_tank_artillery_equipment_axis_3_short:0	"Lt. Sfl. III"
 light_tank_artillery_equipment_axis_3_desc:0	"Eine kleine Artilleriekanone auf einem leichten Fahrgestell. Ein leichtes Sfl. hat nicht die Feuerkraft seiner größeren Brüder, ist dafür aber mobiler."
-
-
 light_tank_destroyer_equipment_axis_desc:0	"Jagdpanzer sind Panzer mit einer überdurchschnittlich großen Kanone, die anstelle eines Turms fest montiert ist. Leichte Jagdpanzer basieren auf dem Fahrgestell von leichten Panzern, was bedeutet, dass sie recht mobil sind, aber im Vergleich zu den schwereren TDs keine besonders starken Geschütze tragen."
-
-
 light_tank_destroyer_equipment_axis_1_desc:0	"Jagdpanzer sind Panzer mit einer überdurchschnittlich großen Kanone in einem festen Aufbau anstelle eines Turms. Leichte Jagdpanzer basieren auf dem Fahrgestell von leichten Panzern, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
 light_tank_destroyer_equipment_axis_2:0	"Leichter Jagdpanzer II"
-
 light_tank_destroyer_equipment_axis_2_desc:0	"Jagdpanzer sind Panzer mit einer überdurchschnittlich großen Kanone in einem festen Aufbau anstelle eines Turms. Leichte Jagdpanzer basieren auf dem Fahrgestell von leichten Panzern, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
 light_tank_destroyer_equipment_axis_3:0	"Leichter Jagdpanzer III"
-
-
 light_tank_aa_equipment_axis:0	"Leichte selbstfahrende Luftabwehr"
-
-
 light_tank_aa_equipment_axis_1_short:0	"Lt. SPAA I"
 light_tank_aa_equipment_axis_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge konzipiert, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
-
 light_tank_aa_equipment_axis_2_short:0	"Lt. SPAA II"
 light_tank_aa_equipment_axis_2_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge konzipiert, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
-
-
 light_tank_aa_equipment_axis_3_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge konzipiert, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
-
 cavalry_tank_equipment_axis_short:0	"Kavallerie-Panzer"
 cavalry_tank_equipment_axis_desc:0	"Kavallerie-Panzer"
-
-
 cavalry_tank_equipment_axis_0:0	"Kavallerie-Panzer I"
-
-
 cavalry_tank_equipment_axis_1:0	"Kavallerie-Panzer II"
 cavalry_tank_equipment_axis_2_short:0	"Panzer 38(t) G"
-
 cavalry_tank_equipment_axis_2:0	"Kavallerie-Panzer III"
-
-
 infantry_tank_equipment_axis_desc:0	"Infanteriepanzer"
-
-
 infantry_tank_equipment_axis_0:0	"Infanteriepanzer I"
 infantry_tank_equipment_axis_1_short:0	"Panzer IV E"
-
 infantry_tank_equipment_axis_1:0	"Infanteriepanzer II"
 infantry_tank_equipment_axis_2_short:0	"Panzer IV F"
-
-
 infantry_tank_equipment_axis_3_short:0	"Panzer III N"
-
-
 medium_tank_equipment_axis:0	"Mittlerer Panzer"
-
 medium_tank_equipment_axis_1_short:0	"Panzer III E"
 medium_tank_equipment_axis_1:0	"Mittlerer Panzer I"
-
-
 medium_tank_equipment_axis_2:0	"Mittlerer Panzer II"
-
-
 medium_tank_equipment_axis_3:0	"Mittlerer Panzer III"
 medium_tank_equipment_axis_3_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
-
 medium_tank_equipment_axis_4:0	"Mittlerer Panzer IV"
 medium_tank_equipment_axis_4_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
-
-
 medium_tank_equipment_axis_5_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
-
 medium_tank_artillery_equipment_axis_short:0	"Mittlere SP Artillerie"
 medium_tank_artillery_equipment_axis_desc:0	"Eine mittelgroße Artilleriekanone auf einem mittelgroßen Panzerfahrgestell. Eine mittelgroße Sfl. verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
-
-
 medium_tank_artillery_equipment_axis_1_desc:0	"Eine mittlere Artilleriekanone auf einem mittleren Panzerfahrgestell. Eine mittlere Sfl. verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
-
-
 medium_tank_artillery_equipment_axis_2_desc:0	"Eine mittlere Artilleriekanone auf einem mittleren Panzerfahrgestell. Eine mittlere Sfl. verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
 medium_tank_artillery_equipment_axis_3:0	"Mittlere Artillerie auf Selbstfahrlafette III"
-
 medium_tank_artillery_equipment_axis_3_desc:0	"Eine mittlere Artilleriekanone auf einem mittleren Panzerfahrgestell. Eine mittlere Sfl. verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
 medium_tank_destroyer_equipment_axis:0	"Mittlerer Jagdpanzer"
-
-
 medium_tank_destroyer_equipment_axis_1:0	"Mittlerer Jagdpanzer I"
-
-
 medium_tank_destroyer_equipment_axis_2:0	"Mittlerer Jagdpanzer II"
 medium_tank_destroyer_equipment_axis_2_short:0	"Mittlere TD II"
-
 medium_tank_destroyer_equipment_axis_3:0	"Mittlerer Jagdpanzer III"
 medium_tank_destroyer_equipment_axis_3_short:0	"Mittlere TD III"
-
-
 medium_tank_aa_equipment_axis_short:0	"Mittlere SPAA"
-
-
 medium_tank_aa_equipment_axis_1_short:0	"Mittlere SPAA I"
 medium_tank_aa_equipment_axis_1_desc:0	"Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
-
 medium_tank_aa_equipment_axis_2_short:0	"Mittlere SPAA II"
 medium_tank_aa_equipment_axis_2_desc:0	"Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
-
-
 medium_tank_aa_equipment_axis_3_desc:0	"Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
-
 heavy_tank_equipment_axis_desc:0	"Schwere Panzer sind große, gepanzerte Ungetüme, die gegnerische Panzer und Befestigungen zerstören sollen."
 heavy_tank_equipment_axis_1_short:0	"Neubaufahrzeug"
-
-
 heavy_tank_equipment_axis_2_short:0	"Panzer VI Tiger"
-
-
 heavy_tank_equipment_axis_3_short:0	"Panzer VI Tiger Ausf. B"
 heavy_tank_equipment_axis_3:0	"Schwerer Panzer III"
-
 heavy_tank_artillery_equipment_axis:0	"Schwere Artillerie auf Selbstfahrlafette"
-
-
 heavy_tank_artillery_equipment_axis_1_short:0	"Hv. Sfl. I"
-
-
 heavy_tank_artillery_equipment_axis_2_short:0	"Hv. Sfl. II"
 heavy_tank_artillery_equipment_axis_2_desc:0	"Eine große Artillerieeinheit auf einem schweren Fahrgestell. Diese Selbstfahrlafetten verfügen über eine hohe Feuerkraft."
-
 heavy_tank_artillery_equipment_axis_3_short:0	"Hv. Sfl. III"
 heavy_tank_artillery_equipment_axis_3_desc:0	"Ein großes Artilleriegeschütz auf einem schweren Fahrgestell. Diese Selbstfahrlafetten verfügen über eine hohe Feuerkraft."
-
-
 heavy_tank_destroyer_equipment_axis_desc:0	"Ein schwerer Panzer, bei dem der Turm entfernt wurde, um eine noch größere Kanone in einer festen Halterung zu tragen."
-
-
 heavy_tank_destroyer_equipment_axis_1_desc:0	"Ein schwerer Panzer, bei dem der Turm entfernt wurde, um ein noch größeres Geschütz in einem festen Aufbau zu tragen."
 heavy_tank_destroyer_equipment_axis_2:0	"Schwerer Jagdpanzer II"
-
 heavy_tank_destroyer_equipment_axis_2_desc:0	"Ein schwerer Panzer, bei dem der Turm entfernt wurde, um eine noch größere Kanone in einer festen Halterung zu tragen."
 heavy_tank_destroyer_equipment_axis_3:0	"Schwerer Jagdpanzer III"
-
-
 heavy_tank_aa_equipment_axis:0	"Schwerer Luftabwehr auf Selbstfahrlafette"
-
-
 heavy_tank_aa_equipment_axis_1_short:0	"Hv. sPAA I"
 heavy_tank_aa_equipment_axis_1_desc:0	"Eine leistungsstarke Luftabwehrbewaffnung auf einem schweren Fahrgestell."
-
 heavy_tank_aa_equipment_axis_2_short:0	"Hv. SPAA II"
 heavy_tank_aa_equipment_axis_2_desc:0	"Eine leistungsstarke Luftabwehrbewaffnung auf einem schweren Fahrgestell."
-
-
 heavy_tank_aa_equipment_axis_3_desc:0	"Eine leistungsstarke Luftabwehrbewaffnung auf einem schweren Fahrgestell."
-
-
 super_heavy_tank_equipment_axis_1:0	"Superschwerer Panzer I"
 super_heavy_tank_equipment_axis_1_short:0	"Superschwerer Panzer"
-
 super_heavy_tank_artillery_equipment_axis:0	"Superschwerer Artillerie auf Selbstfahrlafette"
 super_heavy_tank_artillery_equipment_axis_desc:0	"Massive Artilleriekanonen auf einem superschweren Fahrgestell."
-
-
 super_heavy_tank_artillery_equipment_axis_1_desc:0	"Massive Artilleriekanonen auf einem superschweren Fahrgestell."
-
-
 super_heavy_tank_destroyer_equipment_axis_desc:0	"Ein superschweres Panzerfahrgestell mit einer noch größeren Kanone in einer festen Halterung anstelle eines Turms."
 super_heavy_tank_destroyer_equipment_axis_1:0	"Superschwerer Jagdpanzer I"
-
 super_heavy_tank_destroyer_equipment_axis_1_desc:0	"Ein superschweres Panzerfahrgestell mit einer noch größeren Kanone in fester Montierung anstelle eines Turms."
 super_heavy_tank_aa_equipment_axis:0	"Superschwerer Luftabwehr auf Selbstfahrlafette"
-
-
 super_heavy_tank_aa_equipment_axis_1_short:0	"SH. SPAA"
-
-
 modern_tank_equipment_axis_desc:0	"Moderne Panzer sind wendige Mehrzweckpanzer, die viele Rollen übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
 modern_tank_equipment_axis_1_short:1	"E-50"
-
 modern_tank_equipment_axis_1_desc:0	"Moderne Panzer sind wendige Mehrzweckpanzer, die eine Vielzahl von Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
 modern_tank_artillery_equipment_axis:0	"Moderne Artillerie auf Selbstfahrlafette"
-
-
 modern_tank_artillery_equipment_axis_1_short:0	"Moderne Sfl."
-
-
 modern_tank_destroyer_equipment_axis_desc:0	"Moderne Jagdpanzer sind eine Weiterentwicklung früherer leichter und mittlerer Panzerjäger, die Mobilität und Tarnkappe der schweren Panzerung vorziehen."
 modern_tank_destroyer_equipment_axis_1:0	"Moderner Jagdpanzer I"
-
 modern_tank_destroyer_equipment_axis_1_desc:0	"Moderne Jagdpanzer sind eine Weiterentwicklung früherer leichter und mittlerer TDs, die Mobilität und Tarnkappe der schweren Panzerung vorziehen."
 modern_tank_aa_equipment_axis:0	"Moderne Luftabwehr auf Selbstfahrlafette"
-
-
 modern_tank_aa_equipment_axis_1_short:0	"Moderne SPAA"
-
 mechanized_equipment:0	"Mechanisiert"
 mechanized_equipment_short:0	"Mechanisiert"
-
 mechanized_equipment_0:0	"Halbkettenfahrzeuge/ Traktorausrüstung"
-
-
-
 mechanized_equipment_1_short:0	"Mechanisierte Ausrüstung I"
-
 mechanized_equipment_2:0	"Mechanisierte Ausrüstung II"
 mechanized_equipment_2_short:0	"Halbkettenfahrzeug II"
 mechanized_equipment_2_desc:0	"Mechanisierte Infanterie ist eine Infanterie, die mit gepanzerten Mannschaftstransportwagen (APCs) oder Schützenpanzern (IFVs) für Transport und Kampf ausgerüstet ist. Die mechanisierte Infanterie unterscheidet sich von der motorisierten Infanterie dadurch, dass ihre Fahrzeuge einen gewissen Schutz vor feindlichem Beschuss bieten, im Gegensatz zu den weich gepanzerten Radfahrzeugen (LKW oder Jeep) der motorisierten Infanterie."
-
 mechanized_equipment_3_short:0	"Halbkettenfahrzeug III"
-
-
 mechanized_at_short:0	"Mech AT"
-
 mechanized_at_0:0	"Mechanisierte Panzerabwehr"
-
 mechanized_at_0_desc:0	"AT Halftrack"
-
 mechanized_aa_short:0	"Mech AA"
-
 mechanized_aa_0:0	"Mechanisierte Luftabwehr"
-
 mechanized_aa_0_desc:0	"AAA Halbkettenfahrzeug"
-
 mechanized_hmg_short:0	"Mech MG"
-
 mechanized_hmg_0:0	"Mechanisierte Maschinengewehre"
-
 mechanized_hmg_0_desc:0	"MG Halbkettenfahrzeug"
-
 mechanized_mortar_short:0	"Mech Mörser"
-
 mechanized_mortar_0:0	"Mechanisierter Mörser"
-
 mechanized_mortar_0_desc:0	"Mörser Halbkettenfahrzeug"
 horse_equipment:0	"Kavallerieausrüstung"
-
 horse_equipment_desc:0	"Ausrüstung, die den Einsatz von Pferden bei unseren Streitkräften erleichtert."
-
-
-
-
 spotter_planes_equipment_short:0	"Artilleriebeobachter-Flugzeuge"
 spotter_planes_equipment_desc:0	"Kleine Leichtflugzeuge, die für die Beobachtung und Korrektur von Artilleriefeuer eingesetzt werden."
 spotter_planes_equipment_0:0	"Artilleriebeobachter-Flugzeuge"
-
 spotter_planes_equipment_0_desc:0	"Kleine Leichtflugzeuge, die zum Aufspüren und Korrigieren von Artilleriefeuer eingesetzt werden."
-
-
 artyhorse_equipment_desc:0	"Uraltes mobiles Transportmittel für die Artillerie."
-
 artyhorse_equipment_0_short:0	"Pferdetransport"
 artyhorse_equipment_0_desc:0	"Älterer mobiler Transport für die Artillerie."
-
 artytruck_equipment_short:0	"Schwere Transport-LKWs"
-
-
-
 artytruck_equipment_0_desc:0	"Große, leistungsstarke Lkw für den Transport schwerer Waffen wie große Artilleriegeschütze und Nachschub"
-
 artytractor_equipment_short:0	"Artillerizugmaschine"
 artytractor_equipment_desc:0	"Große Traktoren und Raupenfahrzeuge für den Transport von sehr schwerem Gerät wie schwerer Artillerie"
 artytractor_equipment_0:0	"Artillerizugmaschine"
-
 artytractor_equipment_0_desc:0	"Große Zugmaschinen und Raupenfahrzeuge für den Transport von sehr schwerem Gerät, wie z. B. schwerer Artillerie"
-
-
-
 artillery_equipment:0	"Leichte Artillerie"
-
 artillery_equipment_desc:0	"Leichte Artillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 artillery_equipment_0:0	"Leichte Artillerie I"
 artillery_equipment_0_short:0	"75-mm-Feldgeschütz"
-
 artillery_equipment_1:0	"Leichte Artillerie II"
-
-
-
 artillery_equipment_2_short:0	"105mm Modell 40"
-
 artillery_equipment_3:0	"Leichte Artillerie IV"
 artillery_equipment_3_short:0	"105mm Modell 42"
 artillery_equipment_3_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
-
 artillery_equipment_4_short:0	"105mm Modell 44"
-
-
-
 infantrygun_equipment_desc:0	""
-
 infantrygun_equipment_0_short:0	"75-mm-Infanteriegeschütz"
 infantrygun_equipment_0_desc:0	""
 infantrygun_equipment_1:0	"Infanteriegeschütze II"
-
 infantrygun_equipment_1_desc:0	""
-
-
-
 mountain_artillery_equipment_0:0	"Gebirgsartillerie I"
-
 mountain_artillery_equipment_0_desc:0	"Mtn Artillery bezieht sich auf Leichtkaliberwaffen wie Kanonen und Haubitzen, die von Mannschaften bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind auf den Einsatz in Gebirgen und Bergen spezialisiert."
 mountain_artillery_equipment_1:0	"Gebirgsartillerie II"
 mountain_artillery_equipment_1_short:0	"75mm m38 mtn."
-
-
-
-
 medartillery_equipment_0:0	"Mittlere Artillerie I"
-
 medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Geschützrohre nutzen."
 medartillery_equipment_1:0	"Mittlere Artillerie II"
 medartillery_equipment_1_short:0	"120mm m.35"
-
 medartillery_equipment_2:0	"Mittlere Artillerie III"
-
-
-
 medartillery_equipment_3_short:0	"120mm m.42"
-
 medartillery_equipment_4:0	"Mittlere Artillerie V"
 medartillery_equipment_4_short:0	"120mm m.44"
 medartillery_equipment_4_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Läufe nutzen."
-
-
-
-
-
 Hvartillery_equipment_0_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite persönlicher Waffen hinaus verschießen können."
 Hvartillery_equipment_1:0	"Schwere Artillerie II"
 Hvartillery_equipment_1_short:0	"Schwere Artillerie"
 Hvartillery_equipment_1_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 Hvartillery_equipment_2:0	"Schwere Artillerie III"
-
-
-
-
-
 Hvartillery_equipment_4:0	"Schwere Artillerie V"
 Hvartillery_equipment_4_short:0	"Fortgeschrittene Schwere Artillerie"
 Hvartillery_equipment_4_desc:0	"Neue Haubitzenkonstruktionen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
 superartillery_equipment:0	"Batterie der Küstenartillerie"
 superartillery_equipment_short:0	"Küstenartilleriebatterie"
-
-
-
-
-
 railartillery_equipment_short:0	"Ausrüstung für die Eisenbahnartillerie"
 railartillery_equipment_desc:0	"Ein Eisenbahngeschütz, auch Eisenbahnkanone genannt, ist ein großes Artilleriegeschütz, oft überschüssige Marineartillerie, das auf einem speziell konstruierten Eisenbahnwaggon montiert ist, von diesem transportiert und abgefeuert wird. Viele Länder haben Eisenbahngeschütze gebaut, am bekanntesten sind jedoch die großen von Krupp gebauten Geschütze, die von Deutschland im Ersten und Zweiten Weltkrieg eingesetzt wurden. Eisenbahngeschütze sind durch den technischen Fortschritt veraltet. Aufgrund ihrer Größe und eingeschränkten Mobilität sind sie anfällig für Angriffe, und ähnliche Nutzlasten können von Flugzeugen, Raketen oder Flugkörpern transportiert werden."
 anti_air_equipment:0	"Luftabwehr"
 anti_air_equipment_short:0	"Luftabwehr"
-
-
-
-
-
 anti_air_equipment_2_desc:0	"Luftabwehrkanonen mit längeren Patronen und Läufen, die hoch fliegende Flugzeuge abschießen können."
 anti_air_equipment_3:0	"Luftabwehr III"
 anti_air_equipment_3_desc:1	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, um auch die schnellsten und am höchsten fliegenden feindlichen Flugzeuge zu bekämpfen."
 anti_tank_equipment:0	"Leichte Panzerabwehr"
-
-
-
-
-
 anti_tank_equipment_2:0	"Leichte Panzerabwehr II"
 anti_tank_equipment_2_desc:0	"Dieses schwere Panzerabwehrgewehr, das als erste deutsche "Geheimwaffe" bekannt ist, war die erste Waffe, die auf dem Gerlich-Prinzip des Presslaufs basierte. Die Idee hinter dem Quetschkopfkonzept, das erstmals im Wüstenfeldzug eingesetzt wurde, besteht darin, die Kraft des Pulvers zu nutzen, um den Durchmesser des Geschosses zu verkleinern. Theoretisch gibt es zwei Möglichkeiten: Entweder wird das Geschütz ins Jenseits befördert oder das Geschoss wird auf bisher unerreichte Geschwindigkeiten beschleunigt. Bei der sPzB 41 gelang es, das Kaliber von 28 mm am Patronenlager auf nur 20 mm an der Mündung zu reduzieren und Geschwindigkeiten von bis zu 1.400 m/s zu erreichen."
 medanti_tank_equipment:0	"Mittlere Panzerabwehr"
 medanti_tank_equipment_short:0	"Mittlere Panzerabwehr"
-
-
-
-
-
 HVanti_air_equipment:0	"Schwere Luftabwehr"
 HVanti_air_equipment_desc:0	"Luftabwehrkanonen mit längeren Patronen und Läufen, die auf hoch fliegende Flugzeuge zielen können."
 HVanti_air_equipment_1:0	"Schwere Luftabwehr I"
 HVanti_air_equipment_1_desc:1	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, das selbst die schnellsten und höchsten feindlichen Flugzeuge bekämpfen kann."
-
-
-
-
-
 HVanti_tank_equipment_short:0	"Schwere Panzerabwehrwaffen"
 HVanti_tank_equipment_desc:0	"Schwere Panzerabwehrkanonen sind auf die Bekämpfung gepanzerter Ziele wie z. B. Panzer spezialisiert und verschießen in der Regel panzerbrechende Geschosse."
 HVanti_tank_equipment_1:0	"Schwere Panzerabwehrkanone I"
 HVanti_tank_equipment_1_short:0	"Verbesserte schwere Panzerabwehr"
 HVanti_tank_equipment_1_desc:0	"Schwere Panzerabwehrkanonen, die auf die Bekämpfung von gepanzerten Zielen wie Panzern spezialisiert sind und in der Regel panzerbrechende Geschosse abfeuern."
-
-
-
-
-
 rocket_artillery_equipment_desc:0	"Die Raketenartillerie ist weniger genau und hat eine viel geringere anhaltende Feuerrate als Batterien herkömmlicher Artilleriegeschütze. Sie sind jedoch in der Lage, ein Ziel gleichzeitig mit mehreren Raketen mit verheerender Wirkung zu beschießen."
 rocket_artillery_equipment_1:0	"Raketenartillerie I"
 rocket_artillery_equipment_1_short:0	"Raketenartillerie"
 rocket_artillery_equipment_1_desc:0	"Die Raketenartillerie ist weniger genau und hat eine wesentlich geringere Dauerfeuerrate als Batterien herkömmlicher Artilleriegeschütze. Sie sind jedoch in der Lage, ein Ziel gleichzeitig mit mehreren Raketen mit verheerender Wirkung zu treffen."
 rocket_artillery_equipment_2:0	"Fortgeschrittene Raketenartillerie II"
-
-
 ARG_medium_tank_equipment_2_short:0	"Nahuel"
-
-
-
 NOR_light_tank_equipment_2_short:0	"L-120"
-
 NOR_light_tank_equipment_3_short:0	"Strv. m/41"
 NOR_medium_tank_equipment_1:0	"Panservogn m/39"
 NOR_medium_tank_equipment_1_short:0	"Pansv. m/39"
-
 NOR_medium_tank_equipment_2_short:0	"Pansv. m/41"
-
-
-
 NOR_heavy_tank_equipment_1_short:0	"Stv. m/34"
-
 NOR_heavy_tank_equipment_2_short:0	"Stv. m/41"
 NOR_heavy_tank_equipment_3:0	"Sturmvogn m/43 Hv-Panzer"
 NOR_heavy_tank_equipment_3_short:0	"Stv. m/43"
-
 NOR_super_heavy_tank_equipment_1_short:0	"Tstv. m/44"
-
-
-
 SPR_light_tank_equipment_2_short:0	"Verdeja 1"
-
 SPR_light_tank_equipment_3_short:0	"Verdeja 2"
 SPA_light_tank_equipment_1:0	"Trubia Marine Leichter Panzer"
 SPA_light_tank_equipment_1_short:0	"Trubia Marineinfanterie"
-
 SPA_light_tank_equipment_2_short:0	"Verdeja 1"
-
-
-
 SWE_mechanized_equipment_1_short:0	"PB m/31"
-
 SWE_mechanized_equipment_3_short:0	"m/42 KP"
 SWE_light_tank_equipment_1:0	"Strv m/39 Lt-Panzer"
 SWE_light_tank_equipment_1_short:0	"Strv m/39"
-
 SWE_light_tank_equipment_2_short:0	"Strv L-60"
-
-
-
 SWE_light_tank_aa_equipment_2_short:0	"Lvkv L-62"
-
 SWE_light_tank_equipment_3_short:0	"Strv L-60/40k"
 SWE_light_tank_destroyer_equipment_3:0	"Pvkv IVB"
 SWE_light_tank_destroyer_equipment_3_short:0	"Pvkv IVB"
-
 SWE_light_tank_aa_equipment_3_short:0	"Lvkv fm/43"
-
-
-
 SWE_medium_tank_equipment_2_short:0	"Strv m/42"
-
 SWE_medium_tank_destroyer_equipment_1_short:0	"Pvkv II"
 SWE_medium_tank_artillery_equipment_1:0	"Sturmartillerivagn m/43"
 SWE_medium_tank_artillery_equipment_1_short:0	"Sturmartillerivagn m/43"
-
 SWE_medium_tank_aa_equipment_3_short:0	"Luftvärnskanonvagn fm/43"
-
-
-
 SWE_medium_tank_artillery_equipment_2_short:0	"Sturmartillerivagn m/44"
-
 SWE_medium_tank_equipment_3_short:0	"Strv m/45"
 SWE_medium_tank_destroyer_equipment_3:0	"Pvkv III Med-TD"
 SWE_medium_tank_destroyer_equipment_3_short:0	"Pvkv III"
-
 SWE_medium_tank_artillery_equipment_3_short:0	"Sturmartillerivagn m/45"
-
-
-
 SWE_heavy_tank_equipment_2_short:0	"Tstrv m/41"
-
 SWE_heavy_tank_equipment_3_short:0	"Tstrv m/43"
 SWE_super_heavy_tank_equipment_1:0	"Tstrv m/44 'Gustav II Adolf' SHv-Panzer"
 SWE_super_heavy_tank_equipment_1_short:0	"Tstrv m/44"
-
 SWE_modern_tank_equipment_1_short:1	"Strv. Leo"
-
-
-
 SWE_modern_tank_aa_equipment_1_short:0	"Lvkv/Leo"
-
 SWE_modern_tank_artillery_equipment_1_short:0	"Sav/Leo"
-
 czech_panzer_equipment_1_short:0	"LT vz. 35"
-
-
-
 czech_panzer_equipment_2_desc:0	"Leichte Panzer sind kleine, wendige Panzer, die sowohl zum Aufklären als auch zum Kampf gegen leicht gepanzerte Gegner geeignet sind."
-
 czech_panzer_equipment38_short:0	"LT vz.38"
 czech_panzer_equipment38_desc:0	"Leichte Panzer sind kleine, wendige Panzer, die sowohl zum Aufklären als auch zum Kampf gegen leicht gepanzerte Gegner geeignet sind."
 czech_panzer_equipment38_1:0	"Škoda LT vz.38"
-
 czech_panzer_equipment38_1_desc:0	"Leichte Panzer sind kleine, wendige Panzer, die sowohl zum Aufklären als auch zur Bekämpfung leicht gepanzerter Gegner geeignet sind."
-
-
-
 CZE_light_tank_equipment_axis_2_short:0	"CKD F-IV H"
-
 CZE_light_tank_destroyer_equipment_axis_2_short:0	"S-I-D"
 CZE_light_tank_equipment_axis_3:0	"LT vz. 40 Lt-Tank"
 CZE_light_tank_equipment_axis_3_short:0	"LT vz. 40"
-
 CZE_light_tank_equipment_axis_4_short:0	"LT vz. 44"
-
-
-
 CZE_cavalry_tank_equipment_axis_0_desc:0	"Kavalleriepanzer sind schnellere, relativ gut bewaffnete Panzer, die darauf ausgelegt sind, Breschen zu schlagen und den Feind in die Flucht zu schlagen."
-
 CZE_cavalry_tank_equipment_axis_1:0	"LT vz. 35 Kavallerie-Panzer"
 CZE_cavalry_tank_equipment_axis_1_desc:0	"Kavalleriepanzer sind schnellere, einigermaßen gut bewaffnete Panzer, die darauf ausgelegt sind, Breschen zu schlagen und den Feind in die Flucht zu schlagen"
 CZE_cavalry_tank_equipment_axis_1_short:0	"LT vz. 35"
-
 CZE_cavalry_tank_equipment_axis_2_desc:0	"Kavalleriepanzer sind schnellere, einigermaßen gut bewaffnete Panzer, die darauf ausgelegt sind, Breschen zu schlagen und den Feind in die Flucht zu schlagen."
-
-
-
 CZE_medium_tank_equipment_axis_2:0	"T 24"
-
 CZE_medium_tank_equipment_axis_3:0	"T 25"
 CZE_medium_tank_equipment_axis_3_short:0	"T 25"
 CZE_medium_tank_equipment_axis_4:0	"T 40"
-
 CZE_medium_tank_equipment_axis_5:0	"TVP VTU"
-
-
-
 CZE_heavy_tank_equipment_axis_2:0	"HT vz. 41 Hv-Tank"
-
 CZE_heavy_tank_equipment_axis_3:0	"HT vz. 43 Hv-Tank"
 CZE_heavy_tank_equipment_axis_3_short:0	"HT vz. 43"
 CZE_modern_tank_equipment_axis_1:0	"Skoda T 50"
-
-
-
 ALB_infantry_equipment_0_desc:0	"Grundlegende Infanterieausrüstung, die vor und während des Ersten Weltkriegs entwickelt wurde."
-
-
 ALB_infantry_equipment_1_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
 ALB_infantry_equipment_2:0	"Beretta Modello 38"
-
 ALB_infantry_equipment_2_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Modernisiert, um eine große Anzahl von Maschinenpistolen und Panzerabwehrgewehren zu umfassen."
 ALB_infantry_equipment_3:0	"Karabinë M56"
-
-
 ALB_infantry_equipment_4:0	"AS-44"
-
-
 ALB_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt werden."
 ALB_motorized_AC_equipment_06:0	"Lancia IZ"
-
 ALB_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
 ALB_motorized_equipment_1_short:0	"Berliet CBA"
-
-
 ALB_artillery_equipment_0_short:0	"Kanone da 65/17 modello 13"
-
-
 ALB_mountain_artillery_equipment_0_short:0	"Skoda 75 mm Modell 15"
 ALB_mountain_artillery_equipment_0_desc:0	"Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Bergen spezialisiert."
-
 ALB_medartillery_equipment_0_short:0	"Obice da 105/14"
 ALB_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Läufe nutzen."
-
-
 ALB_Hvartillery_equipment_0_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers, wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
-
 ALB_infantry_equipment_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
 ALB_HMG_equipment_0:0	"Maxim M1910"
-
 ALB_HMG_equipment_0_short:0	"M1910"
 ALB_HMG_equipment_1:0	"Breda modello 30"
-
-
-
-
 SWE_motorized_lia_equipment_02:0	"FrüherKrieg "
 SWE_motorized_lia_equipment_02_short:0	"Volvo PV51"
-
 SWE_motorized_lia_equipment_03:0	"Mitte des Krieges "
 SWE_motorized_lia_equipment_03_short:0	"Volvo PV 53"
-
-
 SWE_motorized_lia_equipment_04_short:0	"Volvo PV60"
-
-
 SWE_motorized_AC_equipment_06_short:0	"pansarbil m/31"
 SWE_motorized_AC_equipment_07:0	"pansarbil m/39"
-
 SWE_motorized_AC_equipment_08:0	"Landsverk 180"
 SWE_motorized_AC_equipment_08_short:0	"Landsverk 180"
-
-
 SWE_motorized_AC_equipment_099:0	"Pansarbil m/40"
-
-
 SWE_motorized_equipment_1_short:0	"Volvo LV81s"
 SWE_motorized_equipment_1_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die sonst auf den Marsch angewiesen wären, erheblich gesteigert."
-
 SWE_motorized_equipment_2_short:0	"Scania-Vabis 335s"
 SWE_motorized_equipment_2_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die sonst auf den Marsch angewiesen wären, erheblich gesteigert."
-
-
 SWE_artytruck_equipment_0_desc:0	"Große, leistungsstarke Lkw für den Transport schwerer Waffen wie großer Artilleriegeschütze und Nachschub"
-
-
 SWE_artytractor_equipment_0_desc:0	"Große Traktoren und Raupenfahrzeuge für den Transport von sehr schwerem Gerät wie schwerer Artillerie"
 SWE_recon_mot_equipment_0:0	"Husqvarna"
-
 SWE_mechanized_equipment_2:0	"Halbkettenfahrzeug Infanterie"
 SWE_mechanized_equipment_2_short:0	"Terrängbil M/42 KP"
-
-
 SWE_artillery_equipment_0_desc:0	"Die Artillerie des Ersten Weltkriegs bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Mannschaften bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
-
 SWE_artillery_equipment_1_desc:0	"Grundlegende Artillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 SWE_artillery_equipment_2:0	"105 mm Haubitz m/40"
-
 SWE_artillery_equipment_2_desc:0	"Neue Haubitzenkonstruktionen, die neue hydraulische Rückstoßvorrichtungen und längere Rohre nutzen."
 SWE_mountain_artillery_equipment_0:0	"Bofors 75 mm m/34 Gebirgsartillerie"
-
-
 SWE_medartillery_equipment_0:0	"10,5 cm Fältkanon m/27"
-
-
 SWE_medartillery_equipment_1:0	"10,5 cm Fältkanon m/34"
 SWE_medartillery_equipment_1_short:0	"10,5 cm Fältkanon m/34"
-
 SWE_medartillery_equipment_2:0	"10,5 cm Fältkanon m/34M"
 SWE_medartillery_equipment_2_short:0	"10,5 cm Fältkanon m/34M"
-
-
 SWE_Hvartillery_equipment_0_short:0	"120-mm-Haubitz m/14"
-
-
 SWE_Hvartillery_equipment_1_short:0	"150 mm Haubitz m/31"
 SWE_Hvartillery_equipment_1_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers, wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
 SWE_handheld_at_equipment_0_short:0	"m/39"
 SWE_handheld_at_equipment_0_desc:0	"Handgehaltenes Panzerabwehrgewehr, das auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern aus nächster Nähe spezialisiert ist und von der Infanterie eingesetzt wird."
-
-
 SWE_handheld_at_equipment_2:0	"raketgevär m/46"
-
-
 SWE_anti_tank_equipment_1_short:0	"37-mm-Infanterikanon m/34"
 SWE_anti_tank_equipment_2:0	"37 mm Pansarvärnskanon m/38"
-
 SWE_anti_air_equipment_1:0	"25 mm Maskinkanon m/32"
 SWE_anti_air_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge bestimmt, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
-
-
 SWE_anti_air_equipment_3:0	"20-mm-Maskinkanon m/40"
-
-
 SWE_HVanti_air_equipment_1_desc:1	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität zur Bekämpfung selbst der schnellsten und am höchsten fliegenden gegnerischen Flugzeuge."
 SWE_garrison_equipment_0:0	"Garnisonsausrüstung"
-
 SWE_assault_rifle_equipment_0:0	"Automatkarbin 4 Sturmgewehr"
 SWE_assault_rifle_equipment_0_short:0	"Ak 4-Sturmgewehr"
-
-
 SWE_infantry_equipment_0_short:0	"m/96"
-
-
 SWE_infantry_equipment_1_short:0	"m/38"
 SWE_infantry_equipment_1_desc:0	"Persönliche und mannschaftsbezogene Waffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
-
 SWE_infantry_equipment_2_short:0	"m/41"
 SWE_infantry_equipment_2_desc:0	"Persönliche und mannschaftsbezogene Waffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Modernisiert mit einer großen Anzahl von Maschinenpistolen und Panzerabwehrgewehren."
-
-
 SWE_infantry_equipment_3_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Weiter modernisiert, um persönliche Sturmgewehre und Panzerabwehrraketen aufzunehmen."
-
-
 SWE_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 SWE_SMG_equipment_1:0	"Kulsprutepistole m/37"
-
 SWE_SMG_equipment_1_desc:0	"Mit SMG ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 SWE_SMG_equipment_2:0	"Kulsprutepistole m/44"
-
-
 SWE_SMG_equipment_3:0	"Kulsprutepistole m/45"
-
-
 SWE_HMG_equipment_0:0	"kulspruta m/1914"
 SWE_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
-
 SWE_HMG_equipment_1:0	"kulspruta m/14-36"
 SWE_HMG_equipment_1_desc:0	"Maschinengewehrmannschaften innerhalb des Bataillons"
-
-
 SWE_HMG_equipment_2_desc:0	"Maschinengewehrmannschaften innerhalb des Bataillons"
-
-
 SWE_HMG_equipment_3_desc:0	"Maschinengewehrmannschaften innerhalb des Bataillons"
 SWE_HMG_equipment_3_short:0	"Ksp m/42"
-
 SWE_mortar_equipment_0_desc:0	"Mörser sind die primäre explosive Unterstützungswaffe des Zuges. Wo größere Artilleriegeschütze für einen flexiblen taktischen Einsatz zu schwerfällig sein könnten, kann der Mörser den Soldaten in der Nähe organische Feuerunterstützung bieten. Die hohe Flugbahn der Mörsergranaten macht sie ideal für die Landung in Schützengräben, den Einschlag in den verwundbaren Dächern von Gebäuden oder die Umgehung von Mauern."
 SWE_mortar_equipment_0_short:0	"6 cm m/18"
-
-
 SWE_mortar_equipment_1_short:0	"8 cm m/35"
-
-
 SWE_mortar_equipment_3_short:0	"12 cm m/41"
 FIN_motorized_lia_equipment_01:0	"Leichte Vorkriegs-Fahrzeuge"
 FIN_motorized_lia_equipment_01_short:0	"Vidal Tempo"
-
-
-
-
-
 FIN_motorized_AC_equipment_06_short:0	"Austin Modell 1917"
 FIN_motorized_AC_equipment_07:0	"Landsverk 182"
 FIN_motorized_AC_equipment_07_short:0	"Landsknecht 182"
 FIN_motorized_AC_equipment_08:0	"BAF"
 FIN_motorized_AC_equipment_08_short:0	"BAF"
-
-
-
-
-
 FIN_motorized_equipment_2_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die sonst auf den Marsch angewiesen wären, erheblich gesteigert."
 FIN_artytruck_equipment_0:0	"Schwere Transportlastwagen"
 FIN_artytruck_equipment_0_short:0	"Internationaler K-7"
 FIN_artytruck_equipment_0_desc:0	"Große, leistungsstarke Lastkraftwagen für den Transport schwerer Waffen wie große Artilleriegeschütze und Nachschub"
 FIN_artytractor_equipment_desc:0	"Große Zugmaschinen und Raupenfahrzeuge für den Transport von sehr schwerem Gerät wie schwerer Artillerie"
-
-
-
-
 FIN_artillery_equipment_0:0	"76mm M1902"
 FIN_artillery_equipment_0_short:0	"76mm M1902"
 FIN_artillery_equipment_0_desc:0	"WW1 Artillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
 FIN_artillery_equipment_1_short:0	"105 H/37"
-
-
-
 FIN_artillery_equipment_2_desc:0	"Neue Haubitzenkonstruktionen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
-
 FIN_artillery_equipment_3_short:0	"105 K/34"
 FIN_artillery_equipment_3_desc:0	"Neue Haubitzenkonstruktionen, die neue hydraulische Rückstoßvorrichtungen und längere Läufe nutzen."
 FIN_artillery_equipment_4:0	"105 K/34M"
-
 FIN_artillery_equipment_4_desc:0	"Leichte, für den Transport zerlegbare Artillerie, die es ermöglicht, Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
-
-
-
 FIN_medartillery_equipment_0:0	"122 H/09"
-
 FIN_medartillery_equipment_0_desc:0	"Neue Haubitzenkonstruktionen, die neue hydraulische Rückstoßvorrichtungen und längere Rohre nutzen."
 FIN_medartillery_equipment_1:0	"122/H 10-30"
 FIN_medartillery_equipment_1_short:0	"122/H 10-30"
-
 FIN_medartillery_equipment_2:0	"122 H/10-40"
-
-
-
 FIN_medartillery_equipment_3_short:0	"152 H/38"
-
 FIN_medartillery_equipment_4:0	"122 H/38"
 FIN_medartillery_equipment_4_short:0	"122 H/38"
 FIN_medartillery_equipment_4_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Läufe nutzen."
-
 FIN_Hvartillery_equipment_0_short:0	"155 H/15"
-
-
-
 FIN_Hvartillery_equipment_2_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers, wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
 FIN_superartillery_equipment_0_short:0	"254/45 D"
 FIN_railartillery_equipment_0:0	"180/57 NRaut Eisenbahnartillerie"
 FIN_railartillery_equipment_0_short:0	"180/57 Naut"
-
 FIN_handheld_at_equipment_0_short:0	"20mm L-39"
-
-
-
 FIN_handheld_at_equipment_2:0	"88 rakh/B 54 \"Panssarikauhu\""
-
 FIN_anti_tank_equipment_1:0	"37 PstK/36 Bofors"
 FIN_anti_tank_equipment_1_short:0	"37 PstK/36"
 FIN_anti_tank_equipment_2:0	"37 PstK/40"
-
 FIN_medanti_tank_equipment_1:0	"75 PstK/44"
-
-
-
 FIN_HVanti_tank_equipment_1:0	"88 PstK/43"
-
 FIN_HVanti_tank_equipment_2:0	"128 PstK/44"
 FIN_HVanti_tank_equipment_2_short:0	"128 PstK/44"
 FIN_anti_air_equipment_1:0	"20 mm Lahti L-34"
-
 FIN_anti_air_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge bestimmt, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
-
-
-
 FIN_anti_air_equipment_3_desc:0	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, um auch die schnellsten und am höchsten fliegenden feindlichen Flugzeuge zu bekämpfen."
-
 FIN_HVanti_air_equipment_1_desc:1	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität zur Bekämpfung selbst der schnellsten und am höchsten fliegenden gegnerischen Flugzeuge."
 FIN_HVanti_air_equipment_2:0	"75 ItK/37 SK"
 FIN_HVanti_air_equipment_2_desc:0	"Kanonen größeren Kalibers zur Bekämpfung schwerer Höhenflugzeuge, aber auch zur Bekämpfung von Panzern mit schräger Panzerung geeignet."
-
 FIN_HVanti_air_equipment_3_desc:0	"Durch die Kombination verschiedener neuer Munitionstechnologien mit Geschützen mit höherer Mündungsgeschwindigkeit sind diese Luftabwehrkanonen auf alle neuen Luftstreitkräfte vorbereitet, die unsere Feinde entwickeln könnten."
-
-
-
 FIN_infantry_equipment_0:0	"Gewehr M/91"
-
 FIN_infantry_equipment_0_desc:0	"Grundausrüstung für Infanteristen, die vor und während des Ersten Weltkriegs entwickelt wurde."
 FIN_infantry_equipment_1:0	"Gewehr M/27"
 FIN_infantry_equipment_1_short:0	"Gewehr M/27"
-
 FIN_infantry_equipment_2:0	"TaPaKo-Gewehr M/42"
-
-
-
 FIN_infantry_equipment_3_short:0	"Kivääri 43"
-
 FIN_SMG_equipment_1:0	"M/31 Suomi"
 FIN_SMG_equipment_1_short:0	"M/31 Suomi"
 FIN_SMG_equipment_1_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-
 FIN_SMG_equipment_2_short:0	"M/31 Suomi (spät)"
-
-
-
 FIN_SMG_equipment_3_desc:0	"Mit SMG ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände; diese Einheiten opfern schwere Waffen für die Feuerkraft im Nahbereich. "
-
 FIN_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
 FIN_HMG_equipment_0_short:0	"M/09-09"
 FIN_HMG_equipment_1:0	"ZB vz. 26"
-
 FIN_HMG_equipment_1_short:0	"ZB vz. 26"
-
-
-
 FIN_HMG_equipment_3:0	"Maschinengewehr 42"
-
 FIN_HMG_equipment_3_short:0	"MG 42"
 FIN_mortar_equipment_0:0	"81 Krh/32"
 FIN_mortar_equipment_0_desc:0	"Mörser sind die primäre explosive Unterstützungswaffe des Zuges. Wo größere Artilleriegeschütze für einen flexiblen taktischen Einsatz zu schwerfällig sind, kann der Mörser den Soldaten in der Nähe organische Feuerunterstützung bieten. Aufgrund ihrer hohen Flugbahn sind Mörsergranaten ideal für die Landung in Schützengräben, den Einschlag in verwundbaren Gebäudedächern oder das Umgehen von Mauern."
-
 FIN_mortar_equipment_1:0	"81 Krh/35"
-
-
-
 FIN_mortar_equipment_2_desc:0	"Spezialisierte Mörserteams innerhalb des Bataillons"
-
 FIN_mortar_equipment_3:0	"120 Krh/40"
 FIN_mortar_equipment_3_desc:0	"Dedizierte Mörserteams innerhalb des Bataillons"
 FIN_mortar_equipment_3_short:0	"120 Krh/40"
 NOR_motorized_lia_equipment_01:0	"Leichte Vorkriegs-Fahrzeuge"
-
-
-
-
-
 NOR_recon_mot_equipment_0:0	"Nimbus Typ I"
 NOR_recon_mot_equipment_0_short:0	"Nimbus Typ I"
 NOR_infantrygun_equipment_0_short:0	"7,5 cm Filzkanone M/1901 Infanteriegeschütz"
 NOR_artillery_equipment_0:0	"Rheinmetall 12 cm Felthaubits M/09"
-
-
-
-
-
 NOR_medartillery_equipment_0:0	"Bofors 12 cm M/14"
 NOR_medartillery_equipment_0_short:0	"12 cm M/14"
 NOR_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
 NOR_medartillery_equipment_1:0	"Kongsberg 12 cm Felthaubits M/32"
 NOR_medartillery_equipment_1_short:0	"12-cm-Felthaubits M/32"
-
-
-
-
-
 NOR_HVanti_air_equipment_1:0	"7,5 cm L/45 M/32"
 NOR_HVanti_air_equipment_1_desc:1	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, das selbst die schnellsten und höchsten feindlichen Flugzeuge bekämpfen kann."
 NOR_garrison_equipment_0:0	"Garnisonsausrüstung"
 NOR_garrison_equipment_0_short:0	"Garnisonsausrüstung (Gewehr M1894)"
 NOR_infantry_equipment_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
-
-
-
-
-
 NOR_infantry_equipment_1_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
 NOR_HMG_equipment_0:0	"Hotchkiss M1914"
 NOR_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
 NOR_HMG_equipment_0_short:0	"Hotchkiss M1914"
 NOR_HMG_equipment_1:0	"Colt M/29"
-
-
-
-
-
 DEN_motorized_lia_equipment_01:0	"Leichte Fahrzeuge aus der Vorkriegszeit"
 DEN_motorized_lia_equipment_01_short:0	"Morris Minor"
 DEN_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 DEN_motorized_lia_equipment_02:0	"Leichte Vorkriegsfahrzeuge"
-
-
-
-
-
 DEN_motorized_equipment_2:0	"Mittlere Infanterie-Lkw"
 DEN_motorized_equipment_2_short:0	"Volvo LV 102"
 DEN_motorized_equipment_2_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die sonst auf den Marsch angewiesen wären, erheblich gesteigert."
 DEN_artytruck_equipment_0:0	"Schwere Transport-LKWs"
 DEN_artytruck_equipment_0_short:0	"Triangel-Kornbeck"
-
-
-
-
-
 DEN_tankette_equipment_0_short:0	"Carden-Loyd-Patrouillenwagen Mk VI"
 DEN_tankette_equipment_0_desc:0	""
 DEN_infantrygun_equipment_0_short:0	"75 mm SK M/02"
 DEN_artillery_equipment_1:0	"10,5 cm L/48 Feldgeschütz M/30"
-
-
-
-
-
 DEN_medartillery_equipment_1:0	"15 cm Feldhaubitze M/29"
 DEN_medartillery_equipment_1_short:0	"15 cm M/29"
 DEN_medartillery_equipment_1_desc:0	"Mittlere Artillerie, die für den Transport zerlegt werden kann, um Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
 DEN_superartillery_equipment_0:0	"12 cm P.K. L/40 M/93 Küstenartillerie"
 DEN_superartillery_equipment_0_short:0	"12 cm P.K. L/40 M/93"
-
-
-
-
-
 DEN_anti_air_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge bestimmt, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
 DEN_HVanti_air_equipment_1:0	"75 mm Vickers M/32"
 DEN_HVanti_air_equipment_1_desc:1	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, das selbst die schnellsten und höchsten feindlichen Flugzeuge bekämpfen kann."
 DEN_garrison_equipment_0:0	"Garnisonsausrüstung"
 DEN_garrison_equipment_0_short:0	"Garnisonsausrüstung (Gevær M/89)"
-
-
-
-
-
 DEN_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
 DEN_HMG_equipment_0_short:0	"Madsen M/29"
 DEN_mortar_equipment_0:0	"81mm Brandt M/34"
 DEN_mortar_equipment_0_desc:0	"Mörser sind die primäre explosive Unterstützungswaffe des Zuges. Wo größere Artilleriegeschütze für einen flexiblen taktischen Einsatz zu schwerfällig sein könnten, kann der Mörser den Soldaten in der Nähe organische Feuerunterstützung bieten. Die hohe Flugbahn der Mörsergranaten macht sie ideal für die Landung in Schützengräben, den Einschlag in die verwundbaren Dächer von Gebäuden oder das Umgehen von Mauern."
 DEN_mortar_equipment_0_short:0	"81mm M/34"
-
-
-
-
-
 DEN_infantry_equipment_2_short:0	"Lettet-Forsøgs M/31"
 DEN_infantry_equipment_3:0	"Automatiskgevær M/42"
 DEN_infantry_equipment_3_short:0	"Automatiskgevær M/42"
 DEN_infantry_equipment_4:0	"SAFN-49"
 DEN_infantry_equipment_4_short:0	"SAFN-49"
-
-
-
-
-
 CZE_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 CZE_motorized_lia_equipment_03:0	"Leichte Fahrzeuge Mitte des Krieges"
 CZE_motorized_lia_equipment_03_short:0	"Tatra 57K"
 CZE_motorized_lia_equipment_03_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 CZE_motorized_lia_equipment_04:0	"Leichte Fahrzeuge der Spätphase des Krieges"
-
-
-
-
 CZE_motorized_AC_equipment_07:0	"Skoda PA-I"
 CZE_motorized_AC_equipment_07_short:0	"Skoda PA-I"
-
 CZE_motorized_AC_equipment_08_short:0	"Skoda PA-II Zelva"
 CZE_motorized_AC_equipment_08_desc:0	""
-
-
 CZE_motorized_AC_equipment_09_desc:0	""
-
-
 CZE_motorized_AC_equipment_099_desc:0	""
-
 CZE_motorized_equipment_1_short:0	"Tatra 92"
 CZE_motorized_equipment_1_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht für militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub umrüsten. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die ansonsten auf den Marsch angewiesen wären, erheblich gesteigert."
-
-
 CZE_motorized_equipment_2_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht für militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub umrüsten. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die sonst auf den Marsch angewiesen wären, erheblich gesteigert."
-
-
 CZE_artytruck_equipment_0_desc:0	"Große, leistungsstarke Lastkraftwagen für den Transport schwerer Waffen wie große Artilleriegeschütze und Nachschub"
 CZE_artytractor_equipment_0:0	"Artillerie Hf-Kettentransporter"
-
 CZE_artytractor_equipment_0_desc:0	"Große Zugmaschinen und Raupenfahrzeuge für den Transport von sehr schwerem Gerät wie schwerer Artillerie"
 CZE_recon_mot_equipment_0:0	"JAWA 250"
-
-
 CZE_tankette_equipment_0_short:0	"Tančík vz.33"
-
-
 CZE_tankette_equipment_2:0	"Tancík CKD AH-IV"
 CZE_tankette_equipment_2_short:0	"Tancík CKD AH-IV"
 CZE_infantrygun_equipment_0_short:0	"7,5 cm Skoda vz. 28"
 CZE_artillery_equipment_0:0	"8 cm Kanon vz. 17"
-
-
-
-
-
 CZE_mountain_artillery_equipment_0:0	"7,5 cm horský kanon vz. 15 Gebirgsartillerie"
 CZE_mountain_artillery_equipment_0_short:0	"7,5 cm Horský kanon vz. 15"
 CZE_mountain_artillery_equipment_0_desc:0	"Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Bergen spezialisiert."
 CZE_medartillery_equipment_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
 CZE_medartillery_equipment_0:0	"10 cm lehká houfnice vz. 14/19"
-
-
-
-
-
 CZE_Hvartillery_equipment_0:0	"24 cm těžký kanon vz. 16"
 CZE_Hvartillery_equipment_0_short:0	"24 cm těžký kanon vz. 16"
 CZE_Hvartillery_equipment_0_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 CZE_handheld_at_equipment_0:0	"ZK-382"
 CZE_handheld_at_equipment_0_short:0	"ZK-382"
-
-
-
-
-
 CZE_anti_air_equipment_1:0	"ZB vz.60 AA"
 CZE_anti_air_equipment_1_short:0	"ZB vz.60"
 CZE_anti_air_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge bestimmt, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
 CZE_garrison_equipment_0:0	"Garnisons-Wartungsausrüstung"
 CZE_garrison_equipment_0_short:0	"Garnisonsausrüstung (vz. 98/22)"
-
-
-
-
-
 CZE_infantry_equipment_0_desc:0	"Grundausrüstung für Infanteristen, die vor und während des Ersten Weltkriegs entwickelt wurde."
 CZE_infantry_equipment_1:0	"Vz.24"
 CZE_infantry_equipment_1_short:0	"Vz.24"
 CZE_infantry_equipment_1_desc:0	"Persönliche und mannschaftsbezogene Waffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
 CZE_infantry_equipment_2:0	"puška vz. 33/40"
-
-
-
-
-
 CZE_SMG_equipment_0:0	"ZK-383"
 CZE_SMG_equipment_0_short:0	"ZK-383"
 CZE_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 CZE_SMG_equipment_1:0	"MP40"
 CZE_SMG_equipment_1_short:0	"MP40"
-
-
-
-
-
 CZE_SMG_equipment_3_short:0	"SA-23"
 CZE_SMG_equipment_3_desc:0	"Mit SMG ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung im unwegsamen Gelände; diese Einheiten opfern schwere Waffen für die Feuerkraft im Nahbereich. "
 CZE_HMG_equipment_0:0	"TK vz. 26"
 CZE_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
 CZE_HMG_equipment_0_short:0	"TK vz. 26"
-
-
-
-
-
 CZE_HMG_equipment_2_short:0	"ZB-50"
 CZE_HMG_equipment_3:0	"TK vz. 37"
 CZE_HMG_equipment_3_desc:0	"Maschinengewehrgruppen innerhalb des Bataillons"
 CZE_HMG_equipment_3_short:0	"TK vz. 37"
 CZE_mortar_equipment_0:0	"9 cm Skoda Minomet vz. 17"
-
-
-
-
-
 CZE_mechanized_equipment_2:0	"OT-810"
 CZE_mechanized_equipment_2_short:0	"OT-810"
 CZE_mechanized_equipment_3:0	"OT-49"
 CZE_mechanized_equipment_3_short:0	"OT-49"
-
-
-
-
 EST_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 EST_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
-
 EST_motorized_equipment_1_desc:0	"Die Motorisierung der Infanterie ist die zweite Stufe der Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die ansonsten auf den Marsch angewiesen wären, erheblich gesteigert."
 EST_artillery_equipment_0:0	"76-mm-Divisionsgeschütz M1902"
-
-
 EST_medartillery_equipment_0_short:0	"107-mm-Kanone M1910"
-
-
 EST_anti_tank_equipment_1:0	"Rheinmetall 37mm M36 L/50"
 EST_anti_tank_equipment_1_short:0	"Rheinmetall 37mm M36"
-
 EST_handheld_at_equipment_0_short:0	"Zeughaus Solothurn"
 EST_garrison_equipment_0:0	"Garnisonsunterhaltsgeräte"
-
-
 EST_infantry_equipment_0_desc:0	"Grundlegende Ausrüstung für Infanteristen, die vor und während des Großen Krieges entwickelt wurde."
-
-
 EST_HMG_equipment_0_desc:0	"Maschinengewehrteams innerhalb des Bataillons"
 EST_HMG_equipment_0_short:0	"Maxim M1910"
 EST_mortar_equipment_0_desc:0	"Mörser sind die primäre explosive Unterstützungswaffe des Zuges. Wo größere Artilleriegeschütze für einen flexiblen taktischen Einsatz möglicherweise zu schwerfällig sind, kann der Mörser den Soldaten in der Nähe organische Feuerunterstützung bieten. Die hohe Flugbahn der Mörsergranaten macht sie ideal für die Landung in Gräben, den Einschlag in die verwundbaren Dächer von Gebäuden oder die Umgehung von Mauern."
 EST_mortar_equipment_0_short:0	"81,4 mm Brandt mle 27/31"
-
-
-
-
-
 EST_infantry_equipment_0_short:0	"Mosin-Nagant M1891"
 EST_infantry_equipment_1:0	"Lee-Enfield Nr.1 Mk.III"
 EST_infantry_equipment_1_short:0	"SMLE Mk.III"
 EST_infantry_equipment_2:0	"Tallinn M23"
 EST_infantry_equipment_2_short:0	"Tallinn M23"
-
-
-
-
 LAT_motorized_lia_equipment_01:0	"Leichte Fahrzeuge aus der Vorkriegszeit"
 LAT_motorized_lia_equipment_01_short:0	"Ford Modell A"
 LAT_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 LAT_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
-
-
-
-
-
 LAT_medartillery_equipment_0_short:0	"QF 4,5-Zoll-Haubitze"
 LAT_Hvartillery_equipment_0:0	"150mm schwere Feldhaubitze 18"
 LAT_Hvartillery_equipment_0_short:0	"150mm sFH 18"
 LAT_anti_tank_equipment_1:0	"Bofors 37mm M36"
 LAT_anti_tank_equipment_1_short:0	"37mm M36"
-
-
-
-
-
 LAT_infantry_equipment_0_desc:0	"Grundlegende Ausrüstung für Infanteristen, die vor und während des Großen Krieges entwickelt wurde."
 LAT_infantry_equipment_1:0	"Mosin-Nagant M1891/30"
 LAT_infantry_equipment_1_short:0	"Mosin-Nagant M1891/30"
 LAT_infantry_equipment_1_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
 LAT_HMG_equipment_0:0	"Vickers-Bertier"
-
-
-
-
-
 LAT_SMG_equipment_0:0	"Arsenal M23"
 LAT_SMG_equipment_0_short:0	"Arsenal M23"
 LIT_motorized_lia_equipment_01:0	"Leichte Fahrzeuge aus der Vorkriegszeit"
-
-
-
-
-
 LIT_artillery_equipment_0:0	"Schneider 75mm M97"
 LIT_artillery_equipment_0_short:0	"75mm M97"
 LIT_medartillery_equipment_0:0	"Schneider 105mm M13"
 LIT_medartillery_equipment_0_short:0	"105mm M13"
 LIT_Hvartillery_equipment_0:0	"Schneider 152mm M10"
-
-
-
-
-
 LIT_garrison_equipment_0_short:0	"Garnisonsausrüstung (Ross Enfield)"
 LIT_infantry_equipment_desc:0	"Persönliche und mannschaftsdienliche Waffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
 LIT_infantry_equipment_0:0	"Ross Enfield M14"
 LIT_infantry_equipment_0_short:0	"Ross Enfield M14"
 LIT_infantry_equipment_0_desc:0	"Grundlegende Infanterieausrüstung, die vor und während des Ersten Weltkriegs entwickelt wurde."
-
-
-
-
-
 LIT_HMG_equipment_0_short:0	"Maxim M08"
 LIT_mortar_equipment_0:0	"81mm Stokes-Brandt"
 LIT_mortar_equipment_0_desc:0	"Mörser sind die primäre explosive Unterstützungswaffe des Zuges. Wo größere Artilleriegeschütze für einen flexiblen taktischen Einsatz zu schwerfällig sein könnten, kann der Mörser den Soldaten in der Nähe organische Feuerunterstützung bieten. Die hohe Flugbahn der Mörsergranaten macht sie ideal für die Landung in Gräben, den Einschlag in die verwundbaren Dächer von Gebäuden oder die Umgehung von Mauern."
 LIT_mortar_equipment_0_short:0	"81mm Stokes-Brandt"
-
-
-
-
-
 BUL_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 BUL_motorized_lia_equipment_03:0	"Mitte des Krieges "
 BUL_motorized_lia_equipment_03_short:0	"Phanomen Granit 30"
 BUL_motorized_lia_equipment_03_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt werden."
 BUL_motorized_lia_equipment_04:0	"Ende des Krieges "
-
-
-
-
-
 BUL_motorized_AC_equipment_08_short:0	"M-222"
 BUL_motorized_AC_equipment_09:0	"M-232"
 BUL_motorized_AC_equipment_09_short:0	"M-232"
 BUL_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
 BUL_motorized_equipment_1_short:0	"Steyr 440"
-
-
-
-
-
 BUL_artytruck_equipment_0_short:0	"TL.37"
 BUL_artytruck_equipment_0_desc:0	"Große, leistungsstarke Lastkraftwagen für den Transport schwerer Waffen, wie z. B. großer Artilleriegeschütze und Nachschub"
 BUL_artytractor_equipment_0:0	"Artillerie Hf-Kettentransporter"
 BUL_artytractor_equipment_0_short:0	"Pavesi P4"
 BUL_artytractor_equipment_0_desc:0	"Große Zugmaschinen und Raupenfahrzeuge für den Transport von sehr schwerem Gerät wie schwerer Artillerie"
-
-
-
-
-
 BUL_artillery_equipment_0_short:0	"7,5 cm M1904/12"
 BUL_artillery_equipment_0_desc:0	"WW1 Artillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von persönlichen Waffen hinaus verschießen können."
 BUL_artillery_equipment_1:0	"10,5 cm hruby kanon vz.35"
 BUL_artillery_equipment_1_short:0	"10,5 cm vz.35"
 BUL_artillery_equipment_1_desc:0	"Basisartillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
-
-
-
-
 BUL_mountain_artillery_equipment_0_desc:0	"Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Mannschaften bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Gebirgen spezialisiert."
 BUL_medartillery_equipment_0:0	"10 cm schwere Kanone 18 (Krupp)"
 BUL_medartillery_equipment_0_short:0	"10 cm sK 18"
 BUL_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Läufe nutzen."
 BUL_Hvartillery_equipment_0:0	"Schneider-Canet 12 cm Feldhaubitze M1909"
-
-
-
-
-
 BUL_handheld_at_equipment_1:0	"Panzerfaust 30"
 BUL_handheld_at_equipment_1_desc:0	"Handgehaltenes Panzerabwehrgewehr, das auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern auf kurze Distanz durch Infanterie spezialisiert ist und in der Regel panzerbrechende Geschosse abfeuert."
 BUL_handheld_at_equipment_2:0	"Panzerfaust 60"
 BUL_handheld_at_equipment_2_desc:0	"Handgehaltene Panzerabwehrkanone, die auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern auf kurze Distanz spezialisiert ist und von der Infanterie eingesetzt wird."
 BUL_anti_tank_equipment_1:0	"37 mm D/70 AT-Kanone"
-
-
-
-
-
 BUL_medanti_tank_equipment_2:0	"7,5 cm PaK 40"
 BUL_medanti_tank_equipment_2_short:0	"7,5 cm PaK 40"
 BUL_anti_air_equipment_1:0	"20 mm Solothurn ST-5"
 BUL_anti_air_equipment_1_short:0	"20 mm ST-5"
 BUL_anti_air_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge bestimmt, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
-
-
-
-
-
 BUL_infantry_equipment_0_desc:0	"Grundausrüstung für Infanteristen, die vor und während des Ersten Weltkriegs entwickelt wurde."
 BUL_infantry_equipment_1:0	"Steyr-Mannlicher M1895/30"
 BUL_infantry_equipment_1_short:0	"M1895/30"
 BUL_infantry_equipment_1_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
 BUL_infantry_equipment_2:0	"Karabiner 98k"
-
-
-
-
-
 BUL_SMG_equipment_0:0	"ZK-383"
 BUL_SMG_equipment_0_short:0	"ZK-383"
 BUL_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 BUL_HMG_equipment_0:0	"Maschinengewehr 08"
 BUL_HMG_equipment_0_desc:0	"Maschinengewehrabteilung innerhalb des Bataillons"
-
-
-
-
-
 BUL_HMG_equipment_2_desc:0	"Maschinengewehrabteilung innerhalb des Bataillons"
 BUL_HMG_equipment_2_short:0	"MG 34"
 BUL_HMG_equipment_3:0	"Maschinengewehr 42"
 BUL_HMG_equipment_3_desc:0	"Maschinengewehrabteilung innerhalb des Bataillons"
 BUL_HMG_equipment_3_short:0	"MG 42"
-
-
-
-
-
 BUL_mortar_equipment_1_short:0	"8 cm GrW 34"
 HUN_motorized_lia_equipment_01:0	"Leichte Vorkriegsfahrzeuge"
 HUN_motorized_lia_equipment_01_short:0	"MAVAG Ford Eifel"
 HUN_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
-
-
-
-
-
 HUN_motorized_lia_equipment_03_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 HUN_motorized_lia_equipment_04:0	"Ende des Krieges "
 HUN_motorized_lia_equipment_04_short:0	"MAVAG Ford EG Typ 40"
 HUN_motorized_lia_equipment_04_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 HUN_motorized_AC_equipment_06:0	"Junovicz P.A.1"
-
-
-
-
-
 HUN_motorized_AC_equipment_09:0	"Csaba 40M"
 HUN_motorized_AC_equipment_09_short:0	"Csaba 40M"
 HUN_motorized_AC_equipment_099:0	"KG 234"
 HUN_motorized_AC_equipment_099_short:0	"KG 234"
 HUN_motorized_equipment_1:0	"Hansa Loyd Inf-LKW"
-
-
-
-
-
 HUN_artytruck_equipment_0:0	"Schwere Transportfahrzeuge"
 HUN_artytruck_equipment_0_short:0	"Breda 32M Breda"
 HUN_artytruck_equipment_0_desc:0	"Große, leistungsstarke Lastkraftwagen für den Transport schwerer Waffen wie großer Artilleriegeschütze und Nachschub"
 HUN_artytractor_equipment_0:0	"Artillerie Hf-Kettentransporter"
 HUN_artytractor_equipment_0_short:0	"Pavesi 28M"
-
-
-
-
-
 HUN_tankette_equipment_axis_1:0	"Ansaldo 35M"
 HUN_tankette_equipment_axis_1_short:0	"35M Panzerkampfwagen"
 HUN_infantrygun_equipment_0_short:0	"7,5 cm 15M-Infanteriegeschütz"
 HUN_artillery_equipment_0:0	"10 cm 14M"
-
-
-
-
-
 HUN_artillery_equipment_2:0	"10,5 cm 40M"
 HUN_artillery_equipment_2_short:0	"10,5 cm 40M"
 HUN_artillery_equipment_2_desc:0	"Neue Haubitzenkonstruktionen, die neue hydraulische Rückstoßvorrichtungen und längere Rohre nutzen."
 HUN_artillery_equipment_3:0	"10,5 cm 44M"
 HUN_artillery_equipment_3_short:0	"10,5 cm 44M"
-
-
-
-
-
 HUN_medartillery_equipment_0_short:0	"15 cm 14M"
 HUN_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
 HUN_medartillery_equipment_1:0	"15 cm 14/35M"
 HUN_medartillery_equipment_1_short:0	"15 cm 14/35M"
 HUN_medartillery_equipment_1_desc:0	"Mittlere Artillerie, die für den Transport zerlegt werden kann, um die Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
-
-
-
-
-
 HUN_Hvartillery_equipment_0_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 HUN_Hvartillery_equipment_1:0	"21 cm 39M"
 HUN_Hvartillery_equipment_1_short:0	"21 cm 39M"
 HUN_Hvartillery_equipment_1_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers, wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 HUN_Hvartillery_equipment_2:0	"21 cm 40M"
-
-
-
-
-
 HUN_handheld_at_equipment_1:0	"Panzerfaust 30"
 HUN_handheld_at_equipment_1_desc:0	"Handgehaltenes Panzerabwehrgewehr, das auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern auf kurze Distanz spezialisiert ist und von der Infanterie eingesetzt wird."
 HUN_handheld_at_equipment_2:0	"44M Kézi Páncéltörő Veto"
 HUN_handheld_at_equipment_2_desc:0	"Handgeführte Panzerabwehrwaffe, spezialisiert auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern auf kurze Distanz, die von der Infanterie eingesetzt werden."
 HUN_anti_tank_equipment_desc:0	"Artillerie, die auf die Bekämpfung von gepanzerten Zielen wie Panzern spezialisiert ist und in der Regel panzerbrechende Geschosse abfeuert."
-
-
-
-
-
 HUN_medanti_tank_equipment_1_short:0	"50 mm 38M"
 HUN_medanti_tank_equipment_2:0	"75 mm 40M"
 HUN_medanti_tank_equipment_2_short:0	"75 mm 40M"
 HUN_HVanti_tank_equipment_1:0	"88 mm 43M"
 HUN_HVanti_tank_equipment_1_short:0	"88 mm 43M"
-
-
-
-
-
 HUN_rocket_artillery_equipment_1_short:0	"15 cm 43M"
 HUN_rocket_artillery_equipment_1_desc:0	"Die Raketenartillerie ist weniger genau und hat eine viel geringere Dauerfeuerrate als Batterien herkömmlicher Artilleriegeschütze. Sie sind jedoch in der Lage, ein Ziel gleichzeitig mit mehreren Raketen mit verheerender Wirkung zu treffen."
 HUN_garrison_equipment_0:0	"Ausrüstung für die Garnison"
 HUN_garrison_equipment_0_short:0	"Garnisonsausrüstung (Huzagol 95M)"
 HUN_assault_rifle_equipment_0:0	"Gépkarabély 44M-Sturmgewehr"
-
-
-
-
-
 HUN_infantry_equipment_1:0	"FÉG 35M"
 HUN_infantry_equipment_1_short:0	"FÉG 35M"
 HUN_infantry_equipment_1_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
 HUN_infantry_equipment_2:0	"FÉG 43M"
 HUN_infantry_equipment_2_short:0	"FÉG 43M"
-
-
-
-
 HUN_SMG_equipment_0:0	"Géppisztoly 35"
 HUN_SMG_equipment_0_short:0	"Géppisztoly 35"
 HUN_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 HUN_SMG_equipment_1:0	"Danuvia 39M"
-
-
-
-
-
 HUN_SMG_equipment_3:0	"Danuvia 43M"
 HUN_SMG_equipment_3_short:0	"Danuvia 43M"
 HUN_SMG_equipment_3_desc:0	"Mit SMG ausgerüstete Infanterieeinheiten mit Fokus auf den Nahkampf und Ausbildung im unwegsamen Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 HUN_HMG_equipment_0:0	"Schwarzlose 07/31M Maschinengewehr"
-
-
-
-
-
 HUN_HMG_equipment_2:0	"1934M Stange"
 HUN_HMG_equipment_2_desc:0	"Maschinengewehrgruppen innerhalb des Bataillons"
 HUN_HMG_equipment_2_short:0	"1934M Stange"
 HUN_HMG_equipment_3:0	"1942M Grunow"
 HUN_HMG_equipment_3_desc:0	"Maschinengewehrgruppen innerhalb des Bataillons"
-
-
-
 HUN_mortar_equipment_1_desc:0	"Dedizierter Mörser innerhalb des Bataillons"
-
 HUN_light_tank_equipment_axis_1:0	"Panzerkampfwagen Toldi I"
-
-
 HUN_light_tank_equipment_axis_2:0	"Panzerkampfwagen Toldi II"
-
-
 HUN_light_tank_equipment_axis_3:0	"Toldi IIa Leichter Panzer"
 HUN_light_tank_equipment_axis_3_short:0	"Toldi IIa"
-
 HUN_light_tank_equipment_axis_4:0	"Toldi III Leichter Panzer"
 HUN_light_tank_equipment_axis_4_short:0	"Toldi III"
-
 HUN_light_tank_artillery_equipment_axis_1:0	"40M KFH"
-
-
 HUN_light_tank_artillery_equipment_axis_2:0	"42M KFH"
-
-
 HUN_light_tank_artillery_equipment_axis_3:0	"43M KFH"
 HUN_light_tank_artillery_equipment_axis_3_short:0	"43M KFH"
-
 HUN_light_tank_destroyer_equipment_axis_1:0	"40M Toldi Páncélvadász"
 HUN_light_tank_destroyer_equipment_axis_1_short:0	"40M Toldi Páncélvadász"
-
-
 HUN_light_tank_destroyer_equipment_axis_2_short:0	"42M Toldi Páncélvadász"
-
-
 HUN_light_tank_destroyer_equipment_axis_3_short:0	"43M Vadász"
 HUN_light_tank_destroyer_equipment_axis_3_desc:0	"Jagdpanzer sind Panzer mit einer überdurchschnittlich großen Kanone in einem festen Aufbau anstelle eines Turms. Leichte Jagdpanzer basieren auf dem Fahrgestell von leichten Panzern, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
-
 HUN_light_tank_aa_equipment_axis_1_short:0	"38M ReVA"
 HUN_light_tank_aa_equipment_axis_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge gedacht, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
-
-
 HUN_light_tank_aa_equipment_axis_2_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge bestimmt, die Schnellfeuerkanonen können jedoch auch gegen Bodenziele eingesetzt werden. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
-
-
 HUN_light_tank_aa_equipment_axis_3_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge konzipiert, die Schnellfeuerkanonen können jedoch auch gegen Bodenziele eingesetzt werden. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
-
 HUN_cavalry_tank_equipment_axis_0_desc:0	"Kavalleriepanzer sind schnellere, relativ gut bewaffnete Panzer, die Breschen schlagen und den Feind in die Flucht schlagen sollen."
 HUN_cavalry_tank_equipment_axis_0_short:0	"38M Báthory"
-
-
 HUN_cavalry_tank_equipment_axis_1_short:0	"36M Báthory"
-
-
 HUN_cavalry_tank_equipment_axis_2_short:0	"43M Báthory"
-
 HUN_infantry_tank_equipment_axis_0_desc:0	"Infanteriepanzer sind langsame, schwer gepanzerte Panzer, die sich zusammen mit der Infanterie bewegen und schwere Feuerunterstützung durch MG und Kanonenfeuer leisten."
 HUN_infantry_tank_equipment_axis_0_short:0	"38M Lajos"
-
-
 HUN_infantry_tank_equipment_axis_1_short:0	"40M Lajos"
-
-
 HUN_infantry_tank_equipment_axis_2_short:0	"42M Lajos"
 HUN_infantry_tank_equipment_axis_3:0	"43M Lajos Inf-Panzer"
-
 HUN_infantry_tank_equipment_axis_3_short:0	"43M Lajos"
-
-
 HUN_medium_tank_equipment_axis_1_desc:0	"Mittlere Panzer sind relativ wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
-
-
 HUN_medium_tank_equipment_axis_2_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
 HUN_medium_tank_equipment_axis_3:0	"41M Turán II Mittlerer Panzer"
-
 HUN_medium_tank_equipment_axis_3_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
 HUN_medium_tank_equipment_axis_4:0	"43M Turán III"
-
-
 HUN_medium_tank_equipment_axis_5:0	"44M Tas"
-
-
 HUN_medium_tank_artillery_equipment_axis:0	"Mittlere SP-Artillerie"
-
 HUN_medium_tank_artillery_equipment_axis_desc:0	"Eine mittelgroße Artilleriekanone auf einem mittelgroßen Panzerfahrgestell. Ein mittelgroßer Sfl. verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
 HUN_medium_tank_artillery_equipment_axis_1:0	"40M Zrinyi"
-
-
 HUN_medium_tank_artillery_equipment_axis_2:0	"43M Zrinyi"
-
-
 HUN_medium_tank_artillery_equipment_axis_3:0	"43M Károly"
 HUN_medium_tank_artillery_equipment_axis_3_short:0	"43M Károly"
-
 HUN_medium_tank_destroyer_equipment_axis_1:0	"40M Rohamlöveg Med-TD"
 HUN_medium_tank_destroyer_equipment_axis_1_short:0	"40M Rohamlöveg"
-
-
 HUN_medium_tank_destroyer_equipment_axis_2_short:0	"44M Zrinyi I"
-
-
 HUN_medium_tank_destroyer_equipment_axis_3_short:0	"44m Tas Rohamlöveg"
 HUN_medium_tank_destroyer_equipment_axis_3_desc:0	"Jagdpanzer sind Panzer mit einer überdurchschnittlich großen Kanone in einem festen Aufbau anstelle eines Turms. Mittlere Jagdpanzer basieren auf dem Fahrgestell von mittleren Panzern, sind also recht mobil und verfügen über eine beachtliche Feuerkraft."
-
 HUN_medium_tank_aa_equipment_axis_short:0	"Med. SPAA"
 HUN_medium_tank_aa_equipment_axis_desc:0	"Mobile Luftabwehrartillerie auf dem Fahrgestell eines mittleren Panzers."
-
-
 HUN_medium_tank_aa_equipment_axis_1_desc:0	"Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
-
-
 HUN_medium_tank_aa_equipment_axis_2_desc:0	"Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
 HUN_medium_tank_aa_equipment_axis_3:0	"40M Nimród Med-SPAA"
-
 HUN_medium_tank_aa_equipment_axis_3_desc:0	"Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
-
-
 HUN_heavy_tank_equipment_axis_1_desc:0	"Schwere Panzer sind große, gepanzerte Ungetüme, die gegnerische Panzer und Befestigungen zerstören sollen."
-
-
 HUN_heavy_tank_equipment_axis_2_desc:0	"Schwere Panzer sind große, gepanzerte Ungetüme, die gegnerische Panzer und Befestigungen zerstören sollen."
 HUN_heavy_tank_equipment_axis_3:0	"44M Miklós Hv-Panzer"
-
 HUN_heavy_tank_equipment_axis_3_desc:0	"Schwere Panzer sind große, gepanzerte Ungetüme, die gegnerische Panzer und Befestigungen zerstören sollen."
-
-
 HUN_heavy_tank_artillery_equipment_axis_1:0	"39M Beöthy"
-
-
 HUN_heavy_tank_artillery_equipment_axis_2:0	"42M Beöthy"
 HUN_heavy_tank_artillery_equipment_axis_2_short:0	"42M Beöthy"
-
 HUN_heavy_tank_artillery_equipment_axis_3:0	"44M Beöthy"
 HUN_heavy_tank_artillery_equipment_axis_3_short:0	"44M Beöthy"
-
-
 HUN_heavy_tank_destroyer_equipment_axis_short:0	"Hv. Jagdpanzer"
-
-
 HUN_heavy_tank_destroyer_equipment_axis_1_short:0	"39M László"
 HUN_heavy_tank_destroyer_equipment_axis_1_desc:0	"Schwerer Panzer, bei dem der Turm entfernt wurde, um eine noch größere Kanone in fester Montierung zu tragen."
-
 HUN_heavy_tank_destroyer_equipment_axis_2_short:0	"42M László"
 HUN_heavy_tank_destroyer_equipment_axis_2_desc:0	"Schwerer Panzer, bei dem der Turm entfernt wurde, um eine noch größere Kanone in fester Montierung zu tragen."
-
-
 HUN_heavy_tank_destroyer_equipment_axis_3_desc:0	"Ein schwerer Panzer, bei dem der Turm entfernt wurde, um eine noch größere Kanone in einem festen Aufbau zu tragen."
-
-
 HUN_heavy_tank_aa_equipment_axis_1:0	"Schwere Luftabwehrgeschütz auf Selbstfahrlafette I"
 HUN_heavy_tank_aa_equipment_axis_1_short:0	"Hv. sPAA I"
-
 HUN_heavy_tank_aa_equipment_axis_2:0	"Schwere Luftabwehrgeschütz auf Selbstfahrlafette II"
 HUN_heavy_tank_aa_equipment_axis_2_short:0	"Hv. SPAA II"
-
-
 HUN_heavy_tank_aa_equipment_axis_3_short:0	"Hv. SPAA III"
-
 HUN_super_heavy_tank_equipment_axis_1:0	"45M István SHv-Panzer"
 HUN_super_heavy_tank_equipment_axis_1_short:0	"45M István"
-
 HUN_super_heavy_tank_artillery_equipment_axis:0	"SH. SP Artillerie"
-
-
-
 HUN_super_heavy_tank_artillery_equipment_axis_1_desc:0	"Massive Artilleriekanonen auf einem superschweren Fahrgestell."
-
 HUN_super_heavy_tank_destroyer_equipment_axis_1_short:0	"45M Gyula"
 HUN_super_heavy_tank_destroyer_equipment_axis_1_desc:0	"Ein superschweres Panzerfahrgestell mit einer noch größeren Kanone in einem festen Aufbau anstelle eines Turms."
-
 HUN_modern_tank_equipment_axis_1_short:1	"50M Gábor"
-
-
-
 HUN_modern_tank_artillery_equipment_axis_1_desc:0	"Moderne Artilleriepanzer ähneln oberflächlich betrachtet zwar Panzern, sind aber in der Regel nur leicht gepanzert, zu leicht, um im direkten Feuergefecht zu bestehen. Allerdings schützen sie ihre Besatzungen vor Schrapnells und Kleinwaffen."
-
 HUN_modern_tank_destroyer_equipment_axis_1_short:0	"50M Csáky"
 HUN_modern_tank_destroyer_equipment_axis_1_desc:0	"Moderne Jagdpanzer sind eine Weiterentwicklung früherer leichter und mittlerer TD, die Mobilität und Tarnkappe der schweren Panzerung vorziehen."
 HUN_modern_tank_aa_equipment_axis_1:0	"50M Gepárd"
-
-
-
 AUS_infantry_equipment_1:0	"Infanterie Karabiner M.95/30"
-
-
 AUS_infantry_equipment_2_short:0	"MP-40"
 AUS_infantry_equipment_3:0	"Sturmgewehr 44"
-
 AUS_infantry_equipment_4:0	"Fabrique National G1"
 AUS_infantry_equipment_4_short:0	"G1"
-
-
 AUS_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
-
-
 AUS_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 AUS_tankette_equipment_0:0	"L3/35 Tankette"
-
 AUS_motorized_AC_equipment_06:0	"Skoda PA-I"
 AUS_motorized_AC_equipment_06_short:0	"Skoda PA-I"
-
-
 AUS_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
-
-
 AUS_motorized_equipment_2:0	"Mittlere Infanterie-Lastkraftwagen"
 AUS_motorized_equipment_2_short:0	"Steyr 640"
-
 AUS_artytruck_equipment_desc:0	"Große, leistungsstarke Lastkraftwagen für den Transport schwerer Waffen wie großer Artilleriegeschütze und Nachschub"
 AUS_artytruck_equipment_0:0	"Schwere Transportlastwagen"
-
-
 AUS_artytractor_equipment_0:0	"Artillerie Hf-Ketten-Transporter"
-
-
 AUS_recon_mot_equipment_0:0	"Motorradausrüstung"
 AUS_recon_mot_equipment_0_short:0	"Puch 500"
-
 AUS_tankette_equipment_axis_short:0	"Panzerwagen"
 AUS_tankette_equipment_axis_0:0	"Fiat-Ansaldo CV 33"
-
-
 AUS_tankette_equipment_axis_1_short:0	"CV 35 Panzerkampfwagen"
-
-
 AUS_artillery_equipment_0_desc:0	"WW1 Artillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und die Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 AUS_mountain_artillery_equipment_0:0	"7,5 cm-Gebirgskanone M.15 Gebirgsartillerie"
-
 AUS_mountain_artillery_equipment_0_desc:0	"Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Gebirgen spezialisiert."
 AUS_medartillery_equipment_0:0	"15 cm schwere Feldhaubitze M.15"
-
-
 AUS_anti_tank_equipment_1:0	"4,7 cm Böhler M.35"
-
-
 AUS_anti_air_equipment_1:0	"2 cm FlaK 30"
 AUS_anti_air_equipment_1_short:0	"2 cm FlaK 30"
-
 AUS_garrison_equipment_0_short:0	"Garnisonsausrüstung (Gewehr 95)"
 AUS_infantry_equipment_desc:0	"Persönliche und mannschaftsdienliche Waffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
-
-
 AUS_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt auf Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-
-
 AUS_HMG_equipment_0_short:0	"M.07/12"
 AUS_HMG_equipment_1:0	"Maschinengewehr 30"
-
 AUS_HMG_equipment_1_short:0	"MG 30"
 AUS_mortar_equipment_0:0	"8,14 cm GrW 33"
-
-
-
-
 BEL_infantry_equipment_1:0	"Mauser Modell 1935"
 BEL_infantry_equipment_1_short:0	"Mauser m35"
-
 BEL_infantry_equipment_2_short:0	"MP-28"
 BEL_infantry_equipment_3:0	"STEN Mk.V"
-
-
 BEL_infantry_equipment_4_short:0	"SAFN-49"
-
-
 BEL_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 BEL_motorized_lia_equipment_02:0	"Vorkriegszeit "
-
 BEL_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt werden."
 BEL_motorized_lia_equipment_03:0	"Mitte des Krieges "
-
-
 BEL_motorized_AC_equipment_06:0	"Minerva"
-
-
 BEL_motorized_equipment_1_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht für militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub umrüsten. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die sonst auf den Marsch angewiesen wären, erheblich gesteigert."
 BEL_motorized_equipment_2:0	"Mittlere Infanterie-LKWs"
-
 BEL_motorized_equipment_2_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die ansonsten auf den Marsch angewiesen wären, erheblich gesteigert."
 BEL_artytruck_equipment_0:0	"Schwere Transport-LKWs"
-
-
 BEL_recon_mot_equipment_0:0	"FN M12 12a SM"
-
-
 BEL_recon_mot_equipment_1_short:0	"Saroléa 1000"
-
 BEL_artillery_equipment_0:0	"Obusier de 105 GP"
 BEL_artillery_equipment_0_short:0	"Obusier de 105 GP"
-
-
 BEL_artillery_equipment_1_short:0	"Kanone 120mm L mle 1931"
-
-
 BEL_mountain_artillery_equipment_0_short:0	"Kanone de 75 mle 1934"
 BEL_mountain_artillery_equipment_0_desc:0	"Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Bergen spezialisiert."
-
 BEL_medartillery_equipment_0_short:0	"Obusier de 150 L/17"
 BEL_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Läufe nutzen."
-
-
 BEL_Hvartillery_equipment_0_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
-
 BEL_handheld_at_equipment_0_desc:0	"Handgehaltenes Panzerabwehrgewehr, das darauf spezialisiert ist, leicht gepanzerte Ziele wie Panzer aus nächster Nähe zu bekämpfen, die von der Infanterie eingesetzt werden, und das in der Regel panzerbrechende Geschosse abfeuert."
 BEL_anti_air_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie auf den Abschuss feindlicher Flugzeuge ausgelegt, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
-
 BEL_garrison_equipment_0_short:0	"Garnisonsausrüstung (Mauser mle 1889)"
 BEL_infantry_equipment_desc:0	"Persönliche und mannschaftsdienliche Waffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
-
-
 BEL_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt auf Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-
-
 BEL_HMG_equipment_0_short:0	"Mle 1914"
 BEL_HMG_equipment_1:0	"Fusil-Maschinengewehr 1930 Browning"
-
 BEL_HMG_equipment_1_short:0	"Fm 30 Browning"
 BEL_mortar_equipment_0:0	"81mm Stokes-Brandt"
-
-
-
-
 HOL_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 HOL_motorized_lia_equipment_02:0	"Leichte Vorkriegsfahrzeuge"
-
 HOL_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 HOL_motorized_lia_equipment_03:0	"Leichte Fahrzeuge in der Mitte des Krieges"
-
-
 HOL_motorized_AC_equipment_06:0	"Pantserwagen KRA"
-
-
 HOL_motorized_AC_equipment_07_short:0	"Hosenwagen M.36"
 HOL_motorized_AC_equipment_08:0	"Hosenwagen M.39"
-
 HOL_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
 HOL_motorized_equipment_1_short:0	"Ford Typ 51/DAF"
-
-
 HOL_motorized_equipment_2_short:0	"Kromhout-Autocar"
-
-
 HOL_tankette_equipment_0_short:0	"Rupspantserwagen"
-
 HOL_artillery_equipment_0:0	"10,5 cm Modell 1927 10-veld"
 HOL_artillery_equipment_0_short:0	"10,5 cm 10-veld"
-
-
 HOL_artillery_equipment_1_short:0	"10,5 cm leFH 18"
-
-
 HOL_mountain_artillery_equipment_0_short:0	"7,5 cm GebG 36"
 HOL_mountain_artillery_equipment_0_desc:0	"Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Bergen spezialisiert."
-
 HOL_medartillery_equipment_0_short:0	"15cm \"15 lang 17\""
 HOL_medartillery_equipment_0_desc:0	"Neue Haubitzenkonstruktionen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
-
-
 HOL_handheld_at_equipment_0:0	"20 mm Geweer TP"
-
-
 HOL_garrison_equipment_0:0	"Ausrüstung für die Garnison"
 HOL_garrison_equipment_0_short:0	"Garnisonsausrüstung (Mannlicher M.95)"
-
 HOL_infantry_equipment_0:0	"Mannlicher M.95"
 HOL_infantry_equipment_0_short:0	"Mannlicher M.95"
-
-
 HOL_infantry_equipment_1_short:0	"Mannlicher M.95 Nr. 5"
-
-
 HOL_infantry_equipment_2_short:0	"Johnson M.41"
 HOL_infantry_equipment_2_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Modernisiert, um eine große Anzahl von Maschinenpistolen und Panzerabwehrgewehren aufzunehmen."
-
 HOL_SMG_equipment_0_short:0	"MP-28-II"
 HOL_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-
-
 HOL_HMG_equipment_0_short:0	"M.20"
-
-
 HOL_mortar_equipment_0_short:0	"81 mm Mörser Van 8"
-
 ROM_motorized_lia_equipment_01_short:0	"Ford C M1933"
 ROM_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
-
-
 ROM_motorized_lia_equipment_03_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
-
-
 ROM_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 ROM_motorized_lia_equipment_04:0	"Leichte Fahrzeuge der Spätkriegszeit"
-
 ROM_motorized_lia_equipment_04_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 ROM_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
-
-
 ROM_motorized_equipment_2:0	"ADGR"
-
-
 ROM_mechanized_equipment_1:0	"Sd.Kfz.250"
 ROM_mechanized_equipment_1_short:0	"Sd.Kfz.250"
-
 ROM_mechanized_equipment_2_short:0	"VCDS 41"
 ROM_mechanized_equipment_2_desc:0	"Mechanisierte Infanterie ist eine Infanterie, die mit gepanzerten Mannschaftstransportwagen (APCs) oder Schützenpanzern (IFVs) für Transport und Kampf ausgerüstet ist. Die mechanisierte Infanterie unterscheidet sich von der motorisierten Infanterie dadurch, dass ihre Fahrzeuge einen gewissen Schutz vor feindlichem Beschuss bieten, im Gegensatz zu den weich gepanzerten Radfahrzeugen (LKW oder Jeep) der motorisierten Infanterie."
-
-
 ROM_mechanized_equipment_3_desc:0	"Mechanisierte Infanterie ist eine Infanterie, die mit gepanzerten Mannschaftstransportwagen (APCs) oder Schützenpanzern (IFVs) für Transport und Kampf ausgerüstet ist. Die mechanisierte Infanterie unterscheidet sich von der motorisierten Infanterie dadurch, dass ihre Fahrzeuge einen gewissen Schutz vor feindlichem Beschuss bieten, im Gegensatz zu den weich gepanzerten Radfahrzeugen (LKW oder Jeep) der motorisierten Infanterie."
-
-
 ROM_artytruck_equipment_0_desc:0	"Große, leistungsstarke Lastkraftwagen für den Transport schwerer Waffen wie großer Artilleriegeschütze und Nachschub"
 ROM_artytractor_equipment_0:0	"Artillerie Hf-Kettentransporter"
-
 ROM_artytractor_equipment_0_desc:0	"Große Zugmaschinen und Raupenfahrzeuge für den Transport von sehr schwerem Gerät wie z.B. schwerer Artillerie"
 ROM_recon_mot_equipment_0:0	"DKW RT 125"
-
 ROM_infantrygun_equipment_0_short:0	"76,2 mm M1909 Infanterie Geschütz"
-
-
 ROM_artillery_equipment_0_short:0	"105mm Ob. M1913"
-
-
 ROM_artillery_equipment_1_short:0	"105mm Ob. M1934"
 ROM_artillery_equipment_1_desc:0	"Basisartillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
 ROM_artillery_equipment_2_short:0	"75 mm M1902/36"
 ROM_artillery_equipment_2_desc:0	"Neue Haubitzenkonstruktionen, die neue hydraulische Rückstoßvorrichtungen und längere Rohre nutzen."
-
-
 ROM_artillery_equipment_3_desc:0	"Neue Haubitzenkonstruktionen mit neuen hydraulischen Rückstoßvorrichtungen und längeren Läufen."
-
-
 ROM_artillery_equipment_4_desc:0	"Leichte, für den Transport zerlegbare Artillerie, die es ermöglicht, Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
 ROM_mountain_artillery_equipment_0:0	"75 mm Skoda M1915 Gebirgsartillerie"
-
 ROM_mountain_artillery_equipment_0_desc:0	"Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Gebirgen spezialisiert."
 ROM_medartillery_equipment_0:0	"105 mm Krupp M1916"
-
-
 ROM_medartillery_equipment_1:0	"105 mm Skoda M1934"
-
-
 ROM_medartillery_equipment_2:0	"105 mm Schneider M1936"
 ROM_medartillery_equipment_2_short:0	"105 mm M1936"
-
 ROM_Hvartillery_equipment_0:0	"155 mm Schneider M1917"
 ROM_Hvartillery_equipment_0_short:0	"155 mm M1917"
-
-
 ROM_Hvartillery_equipment_1_short:0	"150 mm M1934"
-
-
 ROM_anti_tank_equipment_1_desc:0	"Artillerie, die auf die Bekämpfung von gepanzerten Zielen wie Panzern spezialisiert ist und in der Regel panzerbrechende Geschosse abfeuert."
 ROM_anti_tank_equipment_2:0	"47 mm Schneider AC"
-
 ROM_anti_tank_equipment_2_desc:0	"Kanonen größeren Kalibers zur Bekämpfung schwerer Panzer mit schräger Panzerung."
 ROM_anti_tank_equipment_3:0	"75 mm Resita DT-UDR 26 M1943"
-
-
 ROM_HVanti_tank_equipment_1:0	"75 mm M1940"
-
-
 ROM_anti_air_equipment_1:0	"20 mm Oerlikon M1928"
 ROM_anti_air_equipment_1_short:0	"20 mm M1928"
-
 ROM_anti_air_equipment_2:0	"20 mm Gustloff M1938"
 ROM_anti_air_equipment_2_short:0	"20 mm M1938"
-
-
 ROM_anti_air_equipment_3_short:0	"37 mm M1939"
-
-
 ROM_garrison_equipment_0:0	"Garnisons-Wartungsausrüstung"
 ROM_garrison_equipment_0_short:0	"Garnisonsausrüstung (Mannlicher M1895)"
-
 ROM_assault_rifle_equipment_0_short:0	"PM md. 63 Sturmgewehr"
 ROM_infantry_equipment_desc:0	"Persönliche und mannschaftsdienliche Waffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
-
-
 ROM_infantry_equipment_0_desc:0	"Grundlegende Infanterieausrüstung, die vor und während des Ersten Weltkriegs entwickelt wurde."
-
-
 ROM_infantry_equipment_1_desc:0	"Persönliche und mannschaftsdienliche Waffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
 ROM_infantry_equipment_2:0	"Karabiner M1938"
-
 ROM_infantry_equipment_2_desc:0	"Persönliche und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Modernisiert, um eine große Anzahl von Maschinenpistolen und Panzerabwehrgewehren aufzunehmen."
 ROM_infantry_equipment_3:0	"P-43"
-
-
 ROM_SMG_equipment_0:0	"Beretta M38"
-
-
 ROM_SMG_equipment_1:0	"MP-40"
 ROM_SMG_equipment_1_short:0	"MP-40"
-
 ROM_SMG_equipment_2:0	"MP-41"
 ROM_SMG_equipment_2_short:0	"MP-41"
-
-
 ROM_SMG_equipment_3_short:0	"Orita md.41"
-
-
 ROM_flamethrowers_0_desc:0	"Spezieller Flammenwerfer innerhalb der Pioniereinheit"
 ROM_flamethrowers_0_short:0	"Pignone M1937 (Flamme)"
-
 ROM_HMG_equipment_0_desc:0	"Maschinengewehrteams innerhalb des Bataillons"
 ROM_HMG_equipment_0_short:0	"ZB-26"
-
-
 ROM_HMG_equipment_1_short:0	"ZB-30"
-
-
 ROM_HMG_equipment_2_short:0	"ZB-53"
 ROM_HMG_equipment_3:0	"Mitralieră 42"
-
 ROM_HMG_equipment_3_short:0	"Mitralieră 42"
 ROM_mortar_equipment_0:0	"81 mm Brandt M1927"
-
-
 ROM_mortar_equipment_1:0	"60 mm Brandt M1935"
-
-
 ROM_mortar_equipment_2:0	"50 mm Brandt M1937"
 ROM_mortar_equipment_2_desc:0	"Dedizierte Mörserteams innerhalb des Bataillons"
-
 ROM_mortar_equipment_3:0	"120 mm Resita M1942"
 ROM_mortar_equipment_3_desc:0	"Dedizierte Mörserteams innerhalb des Bataillons"
-
 ROM_tankette_equipment_0:0	"TKS"
-
-
 ROM_tankette_equipment_2:0	"Senileta Malaxa tipul UE"
-
-
 ROM_tankette_equipment_3_short:0	"R1"
 ROM_tankette_equipment_3_desc:0	""
 ROM_motorized_AC_equipment_06:0	"FIAT Turin"
 ROM_motorized_AC_equipment_06_short:0	"FIAT Torino"
-
-
-
-
-
 ROM_motorized_AC_equipment_08_short:0	"Steyr ADGZ"
 ROM_motorized_AC_equipment_08_desc:0	""
 ROM_motorized_AC_equipment_09:0	"Sd.Kfz. 222"
 ROM_motorized_AC_equipment_09_short:0	"Sd.Kfz. 222"
 ROM_motorized_AC_equipment_09_desc:0	""
-
-
-
-
 ROM_light_tank_equipment_axis_0_short:0	"WW1 Leichter Panzer"
 ROM_light_tank_equipment_axis_0_desc:0	"Leichte Panzer des 1. Weltkriegs sind kleine, leicht bewaffnete Panzer, die in erster Linie zur Unterstützung der Infanterie mit MG-Feuer ausgelegt sind."
 ROM_light_tank_equipment_axis_1:0	"R-35 Leichter Panzer"
-
 ROM_light_tank_equipment_axis_1_desc:0	"Leichte Panzer sind kleine, wendige Panzer, die sowohl als Aufklärer als auch zur Bekämpfung leicht gepanzerter Gegner eingesetzt werden können."
-
-
-
 ROM_light_tank_equipment_axis_3:0	"T-26/37 Lt-Panzer"
-
 ROM_light_tank_equipment_axis_3_desc:0	"Leichte Panzer sind kleine, wendige Panzer, die sowohl zum Aufklären als auch zum Kampf gegen leicht gepanzerte Gegner geeignet sind."
 ROM_light_tank_equipment_axis_4:0	"VdC R-35 II Leichter Panzer"
 ROM_light_tank_equipment_axis_4_short:0	"VdC R-35 II"
-
-
-
-
 ROM_light_tank_destroyer_equipment_axis_3_short:0	"Maresal"
-
 ROM_light_tank_artillery_equipment_axis_desc:0	"Ein leichtes Sfl. ist eine kleine Artilleriekanone auf einem leichten Fahrgestell und verfügt nicht über die Feuerkraft seiner größeren Brüder, ist aber mobiler."
 ROM_light_tank_artillery_equipment_axis_1:0	"TAs"
 ROM_light_tank_artillery_equipment_axis_1_short:0	"Lt. Sfl. I"
-
 ROM_light_tank_artillery_equipment_axis_2:0	"TAs Lăcustă"
-
-
-
 ROM_light_tank_artillery_equipment_axis_3_short:0	"TACAM-Lothringen"
-
 ROM_light_tank_aa_equipment_axis:0	"Leichte Luftabwehrgeschütz auf Selbstfahrlafette"
 ROM_light_tank_aa_equipment_axis_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge gedacht, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
 ROM_light_tank_aa_equipment_axis_1:0	"Tepes"
-
 ROM_light_tank_aa_equipment_axis_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie auf den Abschuss feindlicher Flugzeuge ausgelegt, die Schnellfeuerkanonen können jedoch auch gegen Bodenziele eingesetzt werden. Dieses Modell ist auf dem Fahrgestell eines leichten Panzers montiert."
-
-
 ROM_cavalry_tank_equipment_axis_1_short:0	"R-2"
-
-
 ROM_cavalry_tank_equipment_axis_2_short:0	"R-38"
-
 ROM_medium_tank_equipment_axis_1_short:0	"T-4 E"
 ROM_medium_tank_equipment_axis_1_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
-
-
 ROM_medium_tank_equipment_axis_2_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
-
-
 ROM_medium_tank_equipment_axis_3_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
 ROM_medium_tank_equipment_axis_4:0	"T-4 H"
-
 ROM_medium_tank_equipment_axis_4_desc:0	"Mittlere Panzer sind einigermaßen wendige Mehrzweckpanzer, die viele Aufgaben übernehmen können, z. B. als Aufklärer, Unterstützungspanzer oder sogar als Frontpanzer."
 ROM_medium_tank_equipment_axis_5:0	"T-5 G"
-
-
-
-
 ROM_medium_tank_artillery_equipment_axis_1_desc:0	"Eine mittlere Artilleriekanone auf einem mittleren Panzerfahrgestell. Ein mittleres Sfl. verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
 ROM_medium_tank_artillery_equipment_axis_2:0	"Bătrân"
-
 ROM_medium_tank_artillery_equipment_axis_2_desc:0	"Eine mittlere Artilleriekanone auf einem mittleren Panzerfahrgestell. Ein mittleres Sfl. verfügt über eine respektable Feuerkraft und ist dennoch recht mobil."
 ROM_medium_tank_artillery_equipment_axis_3:0	"Bătrân II"
-
-
 ROM_medium_tank_destroyer_equipment_axis_1:0	"TACAM T-60 Med-TD"
-
-
 ROM_medium_tank_destroyer_equipment_axis_2:0	"TACAM R-2 Med-TD"
 ROM_medium_tank_destroyer_equipment_axis_2_short:0	"TACAM R-2"
-
 ROM_medium_tank_destroyer_equipment_axis_3:0	"TAs III Med-TD"
 ROM_medium_tank_destroyer_equipment_axis_3_short:0	"TAs III"
-
-
 ROM_medium_tank_aa_equipment_axis_1_short:0	"Viteazu"
-
-
 ROM_medium_tank_aa_equipment_axis_2_short:0	"Viteazu II"
 ROM_medium_tank_aa_equipment_axis_2_desc:0	"Mobile Luftabwehrartillerie auf dem Fahrgestell eines mittleren Panzers."
-
 ROM_medium_tank_aa_equipment_axis_3_short:0	"Maresal 37mm TA"
 ROM_medium_tank_aa_equipment_axis_3_desc:0	"Mobile Luftabwehrartillerie auf dem Fahrgestell eines mittleren Panzers."
 ROM_infantry_tank_equipment_axis_0:0	"T-4 A Inf-TD"
-
-
-
-
-
 ROM_infantry_tank_equipment_axis_2:0	"T-4 F Inf-TD"
 ROM_infantry_tank_equipment_axis_2_desc:0	"Infanteriepanzer sind langsame, schwer gepanzerte Panzer, die sich mit der Infanterie bewegen und schwere Feuerunterstützung mit MG und Kanonenfeuer leisten."
 ROM_infantry_tank_equipment_axis_2_short:0	"T-4 F"
 ROM_infantry_tank_equipment_axis_3:0	"T-4 E Inf-TD"
 ROM_infantry_tank_equipment_axis_3_desc:0	"Infanteriepanzer sind langsame, schwer gepanzerte Panzer, die sich mit der Infanterie bewegen und schwere Feuerunterstützung mit MG und Kanonenfeuer leisten."
-
-
-
-
 ROM_heavy_tank_equipment_axis_2:0	"T-6 Hv-Panzer"
-
 ROM_heavy_tank_equipment_axis_2_desc:0	"Schwere Panzer sind große, gepanzerte Ungetüme, die gegnerische Panzer und Befestigungen zerstören sollen."
 ROM_heavy_tank_equipment_axis_3:0	"T-6 B Hv-Panzer"
 ROM_heavy_tank_equipment_axis_3_short:0	"T-6 B"
-
-
-
-
 ROM_heavy_tank_artillery_equipment_axis_2:0	"Întregitorul"
-
 ROM_heavy_tank_artillery_equipment_axis_2_desc:0	"Diese großen Artilleriegeschütze auf einem schweren Fahrgestell verfügen über eine große Feuerkraft und sind selbstfahrend."
 ROM_heavy_tank_artillery_equipment_axis_3:0	"Întregitorul"
 ROM_heavy_tank_artillery_equipment_axis_3_short:0	"Întregitorul"
-
 ROM_heavy_tank_destroyer_equipment_axis_1:0	"Bălcescu"
-
-
-
 ROM_heavy_tank_destroyer_equipment_axis_2_short:0	"Bălcescu II"
-
 ROM_heavy_tank_destroyer_equipment_axis_3:0	"Bălcescu III"
 ROM_heavy_tank_destroyer_equipment_axis_3_short:0	"Bălcescu III"
 ROM_heavy_tank_destroyer_equipment_axis_3_desc:0	"Ein schwerer Panzer, bei dem der Turm entfernt wurde, um eine noch größere Kanone in einer festen Halterung zu tragen."
 ROM_super_heavy_tank_equipment_axis_1:0	"T-8 SHv-Panzer"
-
-
-
-
-
 ROM_super_heavy_tank_equipment_axis_1_shortsuper_heavy_tank_destroyer_equipment_1_short:0	"Bărnuțiu"
 ROM_super_heavy_tank_equipment_axis_1_shortsuper_heavy_tank_destroyer_equipment_1_desc:0	"Ein superschweres Panzerfahrgestell mit einer noch größeren Kanone in einem festen Aufbau anstelle eines Turms."
 ROM_super_heavy_tank_equipment_axis_1_shortsuper_heavy_tank_aa_equipment_1:0	"Racoviță"
 ROM_super_heavy_tank_equipment_axis_1_shortsuper_heavy_tank_aa_equipment_1_short:0	"Racoviță"
 ROM_super_heavy_tank_equipment_axis_1_shortsuper_heavy_tank_aa_equipment_1_desc:0	"Superschweres Panzerfahrgestell mit Luftabwehrbewaffnung"
-
-
-
-
-
 GRE_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
 GRE_motorized_equipment_1_short:0	"Berliet CBA"
 GRE_motorized_equipment_1_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die ansonsten auf den Marsch angewiesen wären, erheblich gesteigert."
 GRE_artytractor_equipment_0:0	"Artillerie Hf-Kettentransporter"
 GRE_artytractor_equipment_0_short:0	"Pavesi P4"
-
-
-
-
 GRE_artillery_equipment_0:0	"Kanone 75 mm 1912 Schneider"
 GRE_artillery_equipment_0_short:0	"75 mm M1912"
 GRE_artillery_equipment_0_desc:0	"WW1 Artillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von einer Besatzung bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
 GRE_mountain_artillery_equipment_0_short:0	"65 mm M1906"
-
-
-
 GRE_Hvartillery_equipment_0:0	"Kanone 155 C modèle 1917 Schneider"
-
 GRE_Hvartillery_equipment_0_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 GRE_anti_tank_equipment_1:0	"3,7 cm PaK 35/36"
 GRE_anti_tank_equipment_1_short:0	"3,7 cm PaK 35/36"
-
 GRE_anti_air_equipment_1:0	"20 mm Solothurner ST-5"
-
-
-
 GRE_garrison_equipment_0_short:0	"Garnisonsausrüstung (Y1903)"
-
 GRE_infantry_equipment_0_short:0	"Y1903"
 GRE_infantry_equipment_0_desc:0	"Grundausrüstung für Infanteristen, die vor und während des Ersten Weltkriegs entwickelt wurde."
 GRE_infantry_equipment_1:0	"Mannlicher-Schönauer Y1903/14/27"
-
 GRE_infantry_equipment_1_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
-
-
-
 GRE_SMG_equipment_0:0	"Sturmgewehrausrüstung I"
-
 GRE_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt auf Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 GRE_HMG_equipment_0:0	"Saint Etienne M1907"
 GRE_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
-
 GRE_HMG_equipment_1:0	"Hotchkiss M1926"
-
-
-
 GRE_mortar_equipment_0_desc:0	"Mörser sind die primäre explosive Unterstützungswaffe des Zuges. Wo größere Artilleriegeschütze für einen flexiblen taktischen Einsatz zu schwerfällig sind, kann der Mörser den Soldaten in der Nähe organische Feuerunterstützung bieten. Die hohe Flugbahn der Mörsergranaten macht sie ideal für die Landung in Gräben, den Einschlag in verwundbare Gebäudedächer oder das Umgehen von Mauern."
-
 BRA_infantry_equipment_0:0	"Mauser M98"
 BRA_infantry_equipment_0_short:0	"Mauser M98"
 BRA_infantry_equipment_1:0	"Itajuba Carabina 1908/34 7,57 mm"
-
 BRA_infantry_equipment_2:0	"Metralhadora leve Madsen 7,62mm"
-
-
-
 BRA_infantry_equipment_4:0	"SAFN-49"
-
 MON_infantry_equipment_0:0	"Mosin-Nagant M91/30"
 MON_infantry_equipment_0_short:0	"Mosin-Nagant M91/30"
 MON_infantry_equipment_1:0	"Samozaryadnaya Vintovka Tokareva, Obrazets 1940 goda"
-
 MON_infantry_equipment_2:0	"PPSh-41"
-
-
-
 MON_infantry_equipment_4:0	"AS-44"
-
 TAN_infantry_equipment_0:0	"Mosin-Nagant M91/30"
 TAN_infantry_equipment_0_short:0	"Mosin-Nagant M91/30"
 TAN_infantry_equipment_1:0	"Samozaryadnaya Vintovka Tokareva, Obrazets 1940 goda"
-
 TAN_infantry_equipment_2:0	"PPSh-41"
-
-
-
 TAN_infantry_equipment_4:0	"AS-44"
-
 YUG_motorized_lia_equipment_01:0	"Leichte Fahrzeuge aus der Vorkriegszeit"
 YUG_motorized_lia_equipment_01_short:0	"Tatra 57"
-
 YUG_motorized_lia_equipment_02:0	"Leichte Fahrzeuge der Vorkriegszeit"
-
-
-
 YUG_motorized_lia_equipment_03_short:0	"Zastava M40"
-
 YUG_motorized_AC_equipment_06:0	"Berliet OA"
 YUG_motorized_AC_equipment_06_short:0	"Berliet OA"
 YUG_motorized_AC_equipment_07:0	"M.38 Praga OA"
-
 YUG_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
-
-
-
 YUG_motorized_equipment_2_short:0	"IMAD Praga RN"
-
 YUG_artytruck_equipment_0:0	"Schwere Transport-LKWs"
 YUG_artytruck_equipment_0_short:0	"Skoda 6 S D"
 YUG_artytruck_equipment_0_desc:0	"Große, leistungsstarke Lastkraftwagen für den Transport schwerer Waffen, wie z. B. große Artilleriegeschütze und Nachschub"
-
 YUG_tankette_equipment_0_short:0	"T32 Panzerkampfwagen"
-
-
 YUG_artillery_equipment_0_short:0	"75 mm M.12 Schneider"
-
-
 YUG_artillery_equipment_1_short:0	"80-mm-M.28-Skoda"
 YUG_artillery_equipment_1_desc:0	"Basisartillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite persönlicher Waffen hinaus verschießen können."
-
 YUG_mountain_artillery_equipment_0_short:0	"75 mm M.15 Mt-Art"
 YUG_mountain_artillery_equipment_0_desc:0	"Mtn Artillery bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Mannschaften bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind auf den Einsatz in Gebirgen und Bergen spezialisiert."
-
-
 YUG_mountain_artillery_equipment_1_desc:0	"Mtn Artillery bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Gebirgen spezialisiert."
-
-
 YUG_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
 YUG_medartillery_equipment_1:0	"105 mm M.36 Skoda"
-
 YUG_medartillery_equipment_1_desc:0	"Mittlere Artillerie, die für den Transport zerlegt werden kann, um Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
 YUG_Hvartillery_equipment_0:0	"155 mm M.17 Schneider Haubitze"
-
-
 YUG_handheld_at_equipment_0_short:0	"VTZ M41"
-
-
 YUG_anti_tank_equipment_1_short:0	"47 mm M.38"
 YUG_anti_tank_equipment_2:0	"37 mm M.39 Skoda AT-Geschütz"
-
 YUG_medanti_tank_equipment_1:0	"76 mm M.40 AT-Geschütz"
 YUG_medanti_tank_equipment_1_short:0	"76 mm M.40"
-
-
 YUG_anti_air_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge gedacht, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
-
-
 YUG_HVanti_air_equipment_1_desc:1	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, das selbst die schnellsten und höchsten feindlichen Flugzeuge bekämpfen kann."
 YUG_garrison_equipment_0:0	"Garnisonsausrüstung"
-
 YUG_infantry_equipment_desc:0	"Persönliche und mannschaftsbezogene Waffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
 YUG_infantry_equipment_0:0	"Mannlicher M.95"
-
-
 YUG_infantry_equipment_1:0	"Mauser M.24"
-
-
 YUG_SMG_equipment_0:0	"M.44 B2"
 YUG_SMG_equipment_0_short:0	"M.44 B2"
-
 YUG_HMG_equipment_0:0	"Schwarzlose M07/16"
 YUG_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
-
-
 YUG_HMG_equipment_1_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
-
-
 YUG_mortar_equipment_0_desc:0	"Mörser sind die primäre explosive Unterstützungswaffe des Zuges. Wo größere Artilleriegeschütze für einen flexiblen taktischen Einsatz zu schwerfällig sein könnten, kann der Mörser den Soldaten in der Nähe organische Feuerunterstützung bieten. Die hohe Flugbahn der Mörsergranaten ist ideal, um in Gräben zu landen, die verwundbaren Dächer von Gebäuden zu treffen oder Mauern zu umgehen."
 YUG_mortar_equipment_0_short:0	"81 mm M.31"
-
 YUG_mortar_equipment_1_desc:0	"Spezialisierte Mörserteams innerhalb des Bataillons"
 YUG_mortar_equipment_1_short:0	"46 mm M.36"
-
 LUX_garrison_equipment_0_short:0	"Garnisonsausrüstung (Gewehr 98)"
-
-
-
 LUX_infantry_equipment_1:0	"Karabiner 98k"
-
 LUX_HMG_equipment_0_short:0	"MG 08"
 LUX_HMG_equipment_1:0	"Maschinengewehr 08"
-
 TUR_infantrygun_equipment_0_short:0	"37 mm M1916 Infanteriegeschütz"
-
-
-
 TUR_artillery_equipment_1:0	"122 mm M10/30"
-
 TUR_artillery_equipment_1_desc:0	"Basisartillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 TUR_mountain_artillery_equipment_0:0	"75 mm Bofors M34 Gebirgsartillerie"
 TUR_mountain_artillery_equipment_0_short:0	"75-mm-Bofors M34"
-
 TUR_medartillery_equipment_0:0	"150-mm-Skoda M14"
-
-
-
 TUR_medartillery_equipment_1_short:0	"150-mm-Skoda M33"
-
 TUR_Hvartillery_equipment_0:0	"203 mm Skoda"
 TUR_Hvartillery_equipment_0_short:0	"203-mm-Skoda"
 TUR_Hvartillery_equipment_0_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers, wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
 TUR_anti_tank_equipment_1_short:0	"37-mm-Tak28/29"
-
-
-
 TUR_anti_air_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie auf den Abschuss feindlicher Flugzeuge ausgelegt, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
-
 TUR_anti_air_equipment_2_desc:0	"Luftabwehrkanonen mit längeren Patronen und Läufen, die hochfliegende Flugzeuge abschießen können."
 TUR_garrison_equipment_0:0	"Garnisons-Wartungsausrüstung"
 TUR_garrison_equipment_0_short:0	"Garnisonsausrüstung (M1903 Mauser)"
-
 TUR_infantry_equipment_0:0	"7,65 mm M1903 Mauser"
-
-
-
 TUR_infantry_equipment_1_short:0	"M1938 Mauser"
-
 TUR_infantry_equipment_2:0	"8 mm M1938/K.Kale"
 TUR_infantry_equipment_2_short:0	"M1938/K.Kale"
 TUR_infantry_equipment_2_desc:0	"Personen- und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Modernisiert, um eine große Anzahl von Maschinenpistolen und Panzerabwehrgewehren aufzunehmen."
-
 TUR_infantry_equipment_3_short:0	"38/46 Kurzes Gewehr K.Kale"
-
-
-
 TUR_HMG_equipment_0_short:0	"7,65 mm MG09"
-
 TUR_mortar_equipment_0_desc:0	"Mörser sind die primäre explosive Unterstützungswaffe des Zuges. Wo größere Artilleriegeschütze für einen flexiblen taktischen Einsatz zu schwerfällig sein könnten, kann der Mörser den Soldaten in der Nähe organische Feuerunterstützung bieten. Aufgrund ihrer hohen Flugbahn sind Mörsergranaten ideal für die Landung in Schützengräben, den Einschlag in die verwundbaren Dächer von Gebäuden oder das Umgehen von Mauern."
 TUR_mortar_equipment_0_short:0	"81 mm M31"
 MEX_infantry_equipment_0:0	"Mauser 1898"
-
 MEX_infantry_equipment_1:0	"Mondragón M1908"
-
-
-
 MEX_infantry_equipment_3:0	"M3-Schmierpistole"
-
 MEX_infantry_equipment_4:0	"Fabrique National L1A1 Selbstladegewehr"
 MEX_infantry_equipment_4_short:0	"L1A1 SLR"
-
 IRE_motorized_lia_equipment_01_short:0	"Crossley-Tender"
-
-
-
 IRE_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
-
 IRE_motorized_lia_equipment_03_short:0	"Ford 1939"
 IRE_motorized_lia_equipment_03_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 IRE_motorized_AC_equipment_06:0	"Rolls-Royce Panzerwagen"
-
 IRE_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
-
-
-
 IRE_artytruck_equipment_0_short:0	"Leyland Terrier 1936"
-
 IRE_artillery_equipment_0:0	"18-Pdr-Feldgeschütz"
 IRE_artillery_equipment_0_short:0	"18-Pdr-Feldgeschütz"
 IRE_artillery_equipment_0_desc:0	"WW1 Artillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von persönlichen Waffen hinaus verschießen können."
-
 IRE_medartillery_equipment_0_short:0	"3,7-Zoll-Haubitze"
-
-
-
 IRE_Hvartillery_equipment_0_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von persönlichen Waffen hinaus verschießen können."
-
 IRE_handheld_at_equipment_0:0	"Jungen .55"
 IRE_handheld_at_equipment_0_short:0	"Jungen"
 IRE_handheld_at_equipment_0_desc:0	"Handgehaltenes Panzerabwehrgewehr, das darauf spezialisiert ist, leicht gepanzerte Ziele wie Panzer aus nächster Nähe zu bekämpfen, und von der Infanterie eingesetzt wird."
-
 IRE_garrison_equipment_0_short:0	"Garnisonsausrüstung (Enfield M1917)"
-
-
-
 IRE_infantry_equipment_0_desc:0	"Grundlegende Ausrüstung für Infanteristen, die vor und während des Großen Krieges entwickelt wurde."
-
 IRE_infantry_equipment_1_short:0	"SMLE Mk.III"
 IRE_infantry_equipment_1_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
 IRE_infantry_equipment_2:0	"Lee Enfield No.4 Mk.I"
-
 IRE_infantry_equipment_2_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Modernisiert, um eine große Anzahl von Maschinenpistolen und Panzerabwehrgewehren aufzunehmen."
-
-
-
 IRE_SMG_equipment_0:0	"Carl Gustav m/45"
-
 IRE_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
 IRE_HMG_equipment_0:0	".303 Vickers Mk.I"
 IRE_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
-
 IRE_mortar_equipment_0:0	"81 mm Brandt"
-
-
-
 ARG_infantry_equipment_0_short:0	"Mauser M1891"
-
 ARG_infantry_equipment_1_short:0	"M1 Garand"
 ARG_infantry_equipment_2:0	"Moschetto Automatico Beretta 1938"
 ARG_infantry_equipment_2_short:0	"MAB-38"
-
 ARG_infantry_equipment_3_short:0	"Sterling L2A1"
-
-
 SPR_motorized_lia_equipment_01:0	"Leichte Fahrzeuge aus der Vorkriegszeit"
-
 SPR_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 SPR_motorized_lia_equipment_02:0	"Leichte Vorkriegsfahrzeuge"
-
-
 SPR_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
-
-
 SPR_motorized_equipment_2:0	"Mittlere Infanterie-Lastkraftwagen"
 SPR_motorized_equipment_2_short:0	"Hispano-Suiza 66"
-
 SPR_motorized_AC_equipment_06:0	"Bilbao Modell 36"
 SPR_motorized_AC_equipment_06_short:0	"Bilbao Modell 36"
-
-
 SPR_motorized_AC_equipment_08:0	"AAC-1937 (Chevrolet 6×4)"
-
 SPR_infantrygun_equipment_0_short:0	"Schneider-Ducrest 65 mm Modell 06"
 SPR_artillery_equipment_0:0	"Schneider 75/28 Modell 06"
-
 SPR_artillery_equipment_0_desc:0	"Artillerie des Ersten Weltkriegs bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
-
-
 SPR_medartillery_equipment_0:0	"Vickers 105 mm modelo 22"
-
 SPR_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Läufe nutzen."
 SPR_Hvartillery_equipment_0:0	"Schneider 155 mm Modello 17"
 SPR_Hvartillery_equipment_0_short:0	"Schneider 155 mm Modell 17 "
-
 SPR_anti_tank_equipment_1_short:0	"Bofors 37 mm Modell 36"
-
-
-
 SPR_HVanti_air_equipment_1:0	"Vickers 75 mm modelo 31"
-
 SPR_garrison_equipment_0:0	"Ausrüstung für die Garnison"
 SPR_garrison_equipment_0_short:0	"Garnisonsausrüstung (Spanische Mauser M1893)"
 SPR_infantry_equipment_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
-
 SPR_infantry_equipment_0_short:0	"Modell 1895"
-
-
-
 SPR_infantry_equipment_1_desc:0	"Grundlegende Infanterieausrüstung, die vor und während des Ersten Weltkriegs entwickelt wurde."
-
 SPR_infantry_equipment_2_short:0	"Modell 1916/39"
 SPR_infantry_equipment_2_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
 SPR_infantry_equipment_3:0	"Spanische Mauser modelo 43"
-
 SPR_infantry_equipment_3_desc:0	"Personen- und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Weiter modernisiert, um persönliche Sturmgewehre und Panzerabwehrraketen einzubeziehen."
-
-
-
 SPR_SMG_equipment_1:0	"Labora Fontbernat M-1938"
-
 SPR_SMG_equipment_1_desc:0	"Mit SMG ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände; diese Einheiten opfern schwere Waffen für die Feuerkraft im Nahbereich. "
 SPR_HMG_equipment_0:0	"Hotchkiss 7 mm Modelo 25"
 SPR_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
-
 SPR_mortar_equipment_0:0	"Valero 60 mm Modell 1926"
-
-
-
 SPR_mortar_equipment_1_desc:0	"Spezielle Mörserteams innerhalb des Bataillons"
-
 SPR_tankette_equipment_0:0	"Schneider CA-1"
 SPR_tankette_equipment_0_short:0	"Schneider CA-1 Panzerwagen"
 SPR_tankette_equipment_1:0	"Carro IGC Sadurni"
-
 SPR_tankette_equipment_2:0	"Panzerkampfwagen Verdeja"
-
-
 SPA_motorized_lia_equipment_01_short:0	"Hispano-Suiza T49"
-
 SPA_motorized_lia_equipment_02:0	"Leichte Fahrzeuge der Vorkriegszeit"
-
 SPA_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
-
 SPA_motorized_equipment_1_short:0	"Hispano-Suiza T69"
-
 SPA_motorized_equipment_2:0	"Mittlere Infanterie-Lastkraftwagen"
-
 SPA_motorized_equipment_2_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die ansonsten auf den Marsch angewiesen wären, erheblich gesteigert."
-
 SPA_motorized_AC_equipment_06_short:0	"Bilbao Modell 36"
-
 SPA_motorized_AC_equipment_07_short:0	"UNL-35"
-
 SPA_motorized_AC_equipment_08_short:0	"AAC-1937 (Chevrolet 6×4)"
 SPA_infantrygun_equipment_0_short:0	"Schneider-Ducrest 65 mm Modell 06"
-
 SPA_artillery_equipment_0_short:0	"Schneider 75/28 Modell 06"
-
-
-
 SPA_mountain_artillery_equipment_0_desc:0	"Der Begriff Gebirgsartillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Mannschaften bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Bergen spezialisiert."
-
 SPA_medartillery_equipment_0_short:0	"Vickers 105 mm modelo 22 "
 SPA_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Läufe nutzen."
 SPA_Hvartillery_equipment_0:0	"Schneider 155 mm Modello 17"
-
 SPA_anti_tank_equipment_1:0	"Bofors 37 mm Modell 36"
-
-
-
 SPA_anti_air_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie auf den Abschuss feindlicher Flugzeuge ausgelegt, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
-
 SPA_HVanti_air_equipment_1_desc:1	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, das selbst die schnellsten und höchsten feindlichen Flugzeuge bekämpfen kann."
 SPA_garrison_equipment_0:0	"Ausrüstung für die Garnison"
 SPA_garrison_equipment_0_short:0	"Garnisonsausrüstung (Spanische Mauser M1893)"
-
 SPA_infantry_equipment_0:0	"Spanische Mauser modelo 1895"
-
-
-
 SPA_infantry_equipment_1_short:0	"Modell 1916"
-
 SPA_infantry_equipment_2:0	"Spanische Mauser Modell 1916/39"
 SPA_infantry_equipment_2_short:0	"Modell 1916/39"
 SPA_infantry_equipment_2_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
-
 SPA_infantry_equipment_3_short:0	"Modell 43"
-
-
-
 SPA_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-
 SPA_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
 SPA_HMG_equipment_0_short:0	"Hotchkiss Modell 25"
 SPA_mortar_equipment_0:0	"Valero 60 mm Modell 1926"
-
 SPA_mortar_equipment_0_short:0	"60 mm Modello 1926"
-
-
-
 SPA_tankette_equipment_0:0	"Schneider CA-1"
-
 SPA_tankette_equipment_1:0	"Carro IGC Sadurni"
 SPA_tankette_equipment_1_short:0	"Panzerwagen IGC Sadurni"
 SPA_tankette_equipment_2:0	"Panzerkampfwagen Verdeja"
-
-
-
-
 POR_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
-
 POR_motorized_equipment_1_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die sonst auf den Marsch angewiesen wären, erheblich gesteigert."
 POR_motorized_equipment_2:0	"Mittlere Infanterie-Lastkraftwagen"
 POR_motorized_equipment_2_short:0	"2,6TON m/931"
-
 POR_artytruck_equipment_0:0	"Schwere Transportfahrzeuge"
-
-
-
 POR_artillery_equipment_0_short:0	"7,5cm m/904"
-
 POR_artillery_equipment_1:0	"7,5cm/45 TR m/902-931"
 POR_artillery_equipment_1_short:0	"7,5 cm m/902-931"
 POR_artillery_equipment_1_desc:0	"Basisartillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
 POR_artillery_equipment_2_short:0	"7,5cm m/940"
-
-
-
 POR_mountain_artillery_equipment_0_desc:0	"Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Bergen spezialisiert."
-
 POR_medartillery_equipment_0_short:0	"11,4cm m/917"
 POR_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
 POR_medartillery_equipment_1:0	"Obus 10,5cm/28 m/941"
-
 POR_medartillery_equipment_1_desc:0	"Mittlere Artillerie, die für den Transport zerlegt werden kann, um Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
-
-
-
 POR_Hvartillery_equipment_0:0	"15cm/13 TR m/918"
-
 POR_Hvartillery_equipment_0_desc:0	"Schwere Artillerie bezieht sich auf Waffen schweren Kalibers wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 POR_Hvartillery_equipment_1:0	"15cm/30 m/941"
 POR_Hvartillery_equipment_1_short:0	"15cm m/941"
-
 POR_superartillery_equipment_0_short:0	"28cm m/97"
-
-
-
 POR_anti_air_equipment_3_desc:0	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, um auch die schnellsten und am höchsten fliegenden feindlichen Flugzeuge zu bekämpfen."
-
 POR_HVanti_air_equipment_1_desc:1	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität zur Bekämpfung selbst der schnellsten und am höchsten fliegenden gegnerischen Flugzeuge."
 POR_HVanti_air_equipment_2:0	"9,4cm/50 SF m/40"
 POR_HVanti_air_equipment_2_desc:0	"Geschütze größeren Kalibers zur Bekämpfung schwerer Höhenflugzeuge, die aber auch Panzer mit schräger Panzerung ausschalten können."
-
 POR_garrison_equipment_0_short:0	"Garnisonsausrüstung (m/1904)"
-
-
-
 POR_infantry_equipment_0:0	"Espingarda 6,5 mm m/1904"
-
 POR_infantry_equipment_0_desc:0	"Grundausrüstung für Infanteristen, die vor und während des Ersten Weltkriegs entwickelt wurde."
 POR_infantry_equipment_2:0	"Karabiner 98K"
 POR_infantry_equipment_2_short:0	"Kar98k"
-
 POR_infantry_equipment_1:0	"Espingarda 8 mm m/1904-39"
-
-
-
 POR_SMG_equipment_0_short:0	"m/942 9mm Steyr"
-
 POR_HMG_equipment_0:0	"Metralhadora pesada 7,62 mm m/1910 Maxim"
 POR_HMG_equipment_0_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
 POR_HMG_equipment_0_short:0	"m/1910 Maxim"
-
 POR_HMG_equipment_1_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
-
-
-
 POR_HMG_equipment_2_short:0	"m/938 Dreyse"
-
 POR_HMG_equipment_3_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
 POR_HMG_equipment_3_short:0	"m/944"
 POR_mortar_equipment_0:0	"m/1917 81 mm Stokes Mörser"
-
 POR_mortar_equipment_0_short:0	"m/1917"
-
-
-
 POR_mortar_equipment_2:0	"m/937 81mm FBP"
-
 POR_mortar_equipment_2_short:0	"m/937"
 POR_mortar_equipment_3:0	"m/951 107mm"
 POR_mortar_equipment_3_desc:0	"Dedizierte Mörserteams innerhalb des Bataillons"
-
-
-
-
 SWI_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge für Verbindungs- und Transportzwecke im Feld."
-
 SWI_motorized_lia_equipment_03_desc:0	"Kleinfahrzeuge und andere Fahrzeuge für Verbindungs- und Transportzwecke im Feld."
 SWI_motorized_lia_equipment_04_short:0	"Chevrolet NQ"
 SWI_motorized_lia_equipment_04_desc:0	"Kleinfahrzeuge und andere Fahrzeuge für Verbindungs- und Transportzwecke im Feld."
-
 SWI_motorized_equipment_1_short:0	"Lastw gl 1,5t 4x2"
-
-
-
 SWI_motorized_equipment_2_desc:0	"Die Motorisierung der Infanterie ist die zweite Stufe der Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht für militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und die Beförderung von Ausrüstung und Nachschub einsetzen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die sonst auf den Marsch angewiesen wären, erheblich gesteigert."
-
 SWI_artytruck_equipment_0_short:0	"Saurer M6"
 SWI_artytruck_equipment_0_desc:0	"Große, leistungsstarke Lastkraftwagen für den Transport schwerer Waffen wie großer Artilleriegeschütze und Nachschub"
 SWI_artytractor_equipment_0:0	"Artillerie Hf-Kettentransporter"
-
 SWI_artytractor_equipment_0_desc:0	"Große Zugmaschinen und Raupenfahrzeuge für den Transport von sehr schwerem Gerät wie z.B. schwerer Artillerie"
-
-
-
 SWI_tankette_equipment_0_short:0	"Vickers 34 Tankette"
-
 SWI_spotter_planes_equipment_0_short:0	"Fieseler Fi 156 'Storch'"
 SWI_spotter_planes_equipment_0_desc:0	"Kleine Leichtflugzeuge, die zur Beobachtung und Korrektur von Artilleriefeuer eingesetzt werden."
-
 SWI_artillery_equipment_0:0	"7,5 cm Feldkanone 1903"
-
-
-
 SWI_artillery_equipment_1_short:0	"7,5 cm FK 1903/22"
-
 SWI_artillery_equipment_2:0	"7,5 cm Feldkanone 38/39"
 SWI_artillery_equipment_2_short:0	"7,5 cm FK 38/39"
 SWI_artillery_equipment_2_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
-
 SWI_artillery_equipment_3_short:0	"7,5 cm FK 44"
-
-
-
 SWI_mountain_artillery_equipment_0_desc:0	"Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Gebirgen spezialisiert."
-
 SWI_medartillery_equipment_0_short:0	"10,5 cm Kan 35"
 SWI_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
 SWI_medartillery_equipment_1:0	"10,5 cm Kanone 39"
-
 SWI_medartillery_equipment_1_desc:0	"Mittlere Artillerie, die für den Transport zerlegt werden kann, um die Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
-
-
-
 SWI_medartillery_equipment_3:0	"10,5 cm Haubitze 46"
-
 SWI_medartillery_equipment_3_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Läufe nutzen."
 SWI_Hvartillery_equipment_0:0	"12 cm schwere Haubitze 17"
 SWI_Hvartillery_equipment_0_short:0	"12 cm sch Hb 17"
-
 SWI_Hvartillery_equipment_1:0	"12 cm schwere Haubitze 12/39"
-
-
-
 SWI_Hvartillery_equipment_2_short:0	"15 cm sch Hb 42"
-
 SWI_Hvartillery_equipment_3:0	"15 cm schwere Haubitze 46"
 SWI_Hvartillery_equipment_3_short:0	"15 cm sch Hb 46"
 SWI_Hvartillery_equipment_3_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
-
 SWI_superartillery_equipment_0_short:0	"10,5 cm Panzerturmkanone 39 L52 "
-
-
-
 SWI_handheld_at_equipment_0_desc:0	"Handgehaltenes Panzerabwehrgewehr, das auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern aus nächster Nähe spezialisiert ist und von der Infanterie eingesetzt wird."
-
 SWI_handheld_at_equipment_1_desc:0	"Handgehaltenes Panzerabwehrgewehr, das auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern auf kurze Distanz spezialisiert ist und von der Infanterie verwendet wird. Es verschießt in der Regel panzerbrechende Geschosse."
 SWI_handheld_at_equipment_2:0	"Raketenrohr 50"
 SWI_handheld_at_equipment_2_desc:0	"Handgetragene Panzerabwehrwaffe, die auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern auf kurze Distanz spezialisiert ist und von der Infanterie eingesetzt wird."
-
 SWI_anti_tank_equipment_1_short:0	"4,7 cm IK 35"
-
-
-
 SWI_anti_air_equipment_1_short:0	"FLab MG 29/38"
-
 SWI_anti_air_equipment_2:0	"20 mm Flab.kan.37"
 SWI_anti_air_equipment_2_desc:0	"Luftabwehrkanonen mit längeren Patronen und Läufen, die auf hoch fliegende Flugzeuge zielen können."
 SWI_anti_air_equipment_3:0	"34 mm Flab.kan.38"
-
 SWI_HVanti_air_equipment_1:0	"7,5 cm Fliegerabwehrkanone 1938"
-
-
-
 SWI_garrison_equipment_0:0	"Ausrüstung für die Garnison"
-
 SWI_infantry_equipment_desc:0	"Persönliche und mannschaftsbezogene Waffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt."
 SWI_infantry_equipment_0:0	"Infanteriegewehr 11"
 SWI_infantry_equipment_0_short:0	"IG 11"
-
 SWI_infantry_equipment_1:0	"Karabiner 31"
-
-
-
 SWI_infantry_equipment_2_short:0	"Kar 31/42"
-
 SWI_infantry_equipment_3:0	"Karabiner 31/43"
 SWI_infantry_equipment_3_short:0	"Kar 31/43"
 SWI_infantry_equipment_3_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Weiter modernisiert, um persönliche Sturmgewehre und Panzerabwehrraketen aufzunehmen."
-
 SWI_SMG_equipment_0_short:0	"MP-34"
-
-
-
 SWI_HMG_equipment_0_short:0	"MG 11"
-
 SWI_HMG_equipment_1_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
 SWI_HMG_equipment_1_short:0	"MG11 R34"
 SWI_HMG_equipment_2:0	"Maschinengewehr 42"
-
 SWI_HMG_equipment_2_short:0	"MG 42"
-
-
-
 SWI_mortar_equipment_0:0	"81 mm Minenwerfer 33"
-
 SWI_mortar_equipment_0_short:0	"81 mm Mw 33"
 SWI_mortar_equipment_2:0	"12 cm Minenwerfer 41"
 SWI_mortar_equipment_2_desc:0	"Spezielle Mörserteams innerhalb des Bataillons"
-
 IRQ_infantry_equipment_0:0	"Mosin-Nagant M1891"
-
-
-
 IRQ_infantry_equipment_2:0	"Carl-Gustav Automatgevär m/42"
-
 IRQ_infantry_equipment_3:0	"Sterling L2A1"
 IRQ_infantry_equipment_3_short:0	"Sterling L2A1"
 IRQ_infantry_equipment_4:0	"AS-44"
-
 PER_infantry_equipment_0:0	"Mosin-Nagant M1891"
-
-
-
 PER_infantry_equipment_2:0	"M1 Garand"
-
 PER_infantry_equipment_3:0	"PPSh-41"
 PER_infantry_equipment_3_short:0	"PPSh-41"
 PER_infantry_equipment_4:0	"AS-44"
-
 AFG_infantry_equipment_0:0	"Mosin-Nagant M1891"
-
-
-
 AFG_infantry_equipment_2:0	"vz. 24"
-
 AFG_infantry_equipment_3:0	"SKS-45"
 AFG_infantry_equipment_3_short:0	"SKS-45"
 AFG_infantry_equipment_4:0	"AS-44"
-
 SAU_infantry_equipment_0:0	"Lee-Enfield Nr.1 Mk.III"
-
-
-
 SAU_infantry_equipment_2:0	"M1 Garand"
-
 SAU_infantry_equipment_3:0	"SKS-45"
 SAU_infantry_equipment_3_short:0	"SKS-45"
 SAU_infantry_equipment_4:0	"AS-44"
-
 OMA_infantry_equipment_0:0	"Mosin-Nagant M1891"
-
-
-
 OMA_infantry_equipment_2:0	"Maschinenpistole 40"
-
 OMA_infantry_equipment_3:0	"SKS-45"
 OMA_infantry_equipment_3_short:0	"SKS-45"
 OMA_infantry_equipment_4:0	"AS-44"
-
 YEM_infantry_equipment_0:0	"Mauser M1898"
-
-
-
 YEM_infantry_equipment_2:0	"Moschetto Automatico Beretta 1938"
-
 YEM_infantry_equipment_3:0	"SKS-45"
 YEM_infantry_equipment_3_short:0	"SKS-45"
 YEM_infantry_equipment_4:0	"AS-44"
-
 CUB_infantry_equipment_0:0	"Mosin-Nagant M1891"
-
-
-
 CUB_infantry_equipment_2:0	"PPSh-41"
-
 CUB_infantry_equipment_3:0	"SKS-45"
 CUB_infantry_equipment_3_short:0	"SKS-45"
 CUB_infantry_equipment_4:0	"AS-44"
-
 PHI_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 PHI_infantry_equipment_2:0	"STEN Mk.2"
-
 PHI_infantry_equipment_3:0	"Sterling L2A1"
 PHI_infantry_equipment_3_short:0	"Sterling L2A1"
 PHI_infantry_equipment_4:0	"AS-44"
-
 COL_infantry_equipment_0:0	"Mauser M1898"
-
-
-
 COL_infantry_equipment_2:0	"Thompson M1928A1"
-
 COL_infantry_equipment_3:0	"Sterling L2A1"
 COL_infantry_equipment_3_short:0	"Sterling L2A1"
 COL_infantry_equipment_4:0	"SAFN-49"
-
 PAN_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 PAN_infantry_equipment_2:0	"Thompson M1928A1"
-
 PAN_infantry_equipment_3:0	"Sterling L2A1"
 PAN_infantry_equipment_3_short:0	"Sterling L2A1"
 PAN_infantry_equipment_4:0	"Fabrique National L1A1 Selbstladegewehr"
-
 DOM_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 DOM_infantry_equipment_2:0	"Moschetto Automatico Beretta 1938"
-
 DOM_infantry_equipment_3:0	"Sterling L2A1"
 DOM_infantry_equipment_3_short:0	"Sterling L2A1"
 DOM_infantry_equipment_4:0	"Fabrique National L1A1 Selbstladeflinte"
-
 ISR_infantry_equipment_0:0	"Lee-Enfield Nr.1 Mk.III"
-
-
-
 ISR_infantry_equipment_2:0	"Suomi-konepistooli 31"
-
 ISR_infantry_equipment_3:0	"Sturmgewehr 44"
 ISR_infantry_equipment_3_short:0	"StG 44"
 ISR_infantry_equipment_4:0	"AS-44"
-
 CHL_infantry_equipment_0:0	"Mannlicher M1896"
-
-
-
 CHL_infantry_equipment_2:0	"Solothurn-Steyr S1-100"
-
 CHL_infantry_equipment_3:0	"ZH-29"
 CHL_infantry_equipment_3_short:0	"ZH-29"
 CHL_infantry_equipment_4:0	"Fabrique National L1A1 Selbstladegewehr"
-
 GUA_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 GUA_infantry_equipment_2:0	"Mondragón M1908"
-
 GUA_infantry_equipment_3:0	"M3-Schmierpistole"
 GUA_infantry_equipment_3_short:0	"M3-Schmierpistole"
 GUA_infantry_equipment_4:0	"SAFN-49"
-
 KOR_infantry_equipment_0:0	"Mosin-Nagant M1891"
-
-
-
 KOR_infantry_equipment_2:0	"PPSh-41"
-
 KOR_infantry_equipment_3:0	"SKS-45"
 KOR_infantry_equipment_3_short:0	"SKS-45"
 KOR_infantry_equipment_4:0	"AS-44"
-
 HAI_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 HAI_infantry_equipment_2:0	"Thompson M1928A1"
-
 HAI_infantry_equipment_3:0	"M3-Schmierpistole"
 HAI_infantry_equipment_3_short:0	"M3-Fettpresse"
 HAI_infantry_equipment_4:0	"M-14"
-
 LIB_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 LIB_infantry_equipment_2:0	"M1 Garand"
-
 LIB_infantry_equipment_3:0	"M3-Schmierpistole"
 LIB_infantry_equipment_3_short:0	"M3-Schmierpistole"
 LIB_infantry_equipment_4:0	"AS-44"
-
 BOL_infantry_equipment_0:0	"Mauser M1898"
-
-
-
 BOL_infantry_equipment_2:0	"Solothurn-Steyr S1-100"
-
 BOL_infantry_equipment_3:0	"ZK-383"
 BOL_infantry_equipment_3_short:0	"ZK-383"
 BOL_infantry_equipment_4:0	"Fabrique National L1A1 Selbstladegewehr"
-
 COS_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 COS_infantry_equipment_2:0	"Thompson M1928A1"
-
 COS_infantry_equipment_3:0	"M3-Schmierpistole"
 COS_infantry_equipment_3_short:0	"M3-Fettpresse"
 COS_infantry_equipment_4:0	"M-14"
-
 SYR_infantry_equipment_0:0	"Mosin-Nagant M1891"
-
-
-
 SYR_infantry_equipment_2:0	"Maschinenpistole 40"
-
 SYR_infantry_equipment_3:0	"Maschinenkarabiner 42"
 SYR_infantry_equipment_3_short:0	"StG 44"
 SYR_infantry_equipment_4:0	"AS-44"
-
 JOR_infantry_equipment_0:0	"Mosin-Nagant M1891"
-
-
-
 JOR_infantry_equipment_2:0	"STEN Mk.2"
-
 JOR_infantry_equipment_3:0	"Sterling L2A1"
 JOR_infantry_equipment_3_short:0	"Sterling L2A1"
 JOR_infantry_equipment_4:0	"SAFN-49"
-
 HON_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 HON_infantry_equipment_2:0	"Thompson M1928A1"
-
 HON_infantry_equipment_3:0	"M3-Schmierpistole"
 HON_infantry_equipment_3_short:0	"M3 Fettdruckpistole"
 HON_infantry_equipment_4:0	"Fabrique National L1A1 Selbstladegewehr"
-
 VEN_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 VEN_infantry_equipment_2:0	"Solothurn-Steyr S1-100"
-
 VEN_infantry_equipment_3:0	"ZK-383"
 VEN_infantry_equipment_3_short:0	"ZK-383"
 VEN_infantry_equipment_4:0	"SAFN-49"
-
 URU_infantry_equipment_0:0	"Mannlicher M1896"
-
-
-
 URU_infantry_equipment_2:0	"Solothurn-Steyr S1-100"
-
 URU_infantry_equipment_3:0	"M1 Garand"
 URU_infantry_equipment_3_short:0	"M1 Garand"
 URU_infantry_equipment_4:0	"Fabrique National L1A1 Selbstladegewehr"
-
 PRU_infantry_equipment_0:0	"Mannlicher M1896"
-
-
-
 PRU_infantry_equipment_2:0	"Mondragón M1908"
-
 PRU_infantry_equipment_3:0	"M1 Garand"
 PRU_infantry_equipment_3_short:0	"M1 Garand"
 PRU_infantry_equipment_4:0	"AS-44"
-
 NIC_infantry_equipment_0:0	"Mannlicher M1896"
-
-
-
 NIC_infantry_equipment_2:0	"PPSh-42"
-
 NIC_infantry_equipment_3:0	"M1 Garand"
 NIC_infantry_equipment_3_short:0	"M1 Garand"
 NIC_infantry_equipment_4:0	"AS-44"
-
 ELS_infantry_equipment_0:0	"Mannlicher M1896"
-
-
-
 ELS_infantry_equipment_2:0	"Solothurn-Steyr S1-100"
-
 ELS_infantry_equipment_3:0	"M3-Schmierpistole"
 ELS_infantry_equipment_3_short:0	"M3-Schmierpistole"
 ELS_infantry_equipment_4:0	"M-14"
-
 BHU_infantry_equipment_0:0	"Āgō Ra Taravāra"
-
-
-
 BHU_infantry_equipment_2:0	"Maschinenpistole 18"
-
 BHU_infantry_equipment_3:0	"ZH-29"
 BHU_infantry_equipment_3_short:0	"ZH-29"
 BHU_infantry_equipment_4:0	"AS-44"
-
 NEP_infantry_equipment_0:0	"Āgō Ra Taravāra"
-
-
-
 NEP_infantry_equipment_2:0	"Maschinenpistole 18"
-
 NEP_infantry_equipment_3:0	"ZH-29"
 NEP_infantry_equipment_3_short:0	"ZH-29"
 NEP_infantry_equipment_4:0	"AS-44"
-
 ECU_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 ECU_infantry_equipment_2:0	"Thompson M1928A1"
-
 ECU_infantry_equipment_3:0	"M3-Schmierpistole"
 ECU_infantry_equipment_3_short:0	"M3-Fettpresse"
 ECU_infantry_equipment_4:0	"Fabrique National L1A1 Selbstladegewehr"
-
 PAR_infantry_equipment_0:0	"Springfield M1917"
-
-
-
 PAR_infantry_equipment_2:0	"Thompson M1928A1"
-
 PAR_infantry_equipment_3:0	"M3-Schmierpistole"
 PAR_infantry_equipment_3_short:0	"M3-Fettpresse"
 PAR_infantry_equipment_4:0	"Fabrique National L1A1 Selbstladegewehr"
-
 URG_infantry_equipment_0:0	"Mannlicher M1896"
-
-
-
 LBA_infantry_equipment_1_short:0	"Carcano M1938"
-
 LBA_infantry_equipment_2_short:0	"MAB-38"
 LBA_infantry_equipment_3:0	"Sterling L2A1"
 LBA_infantry_equipment_3_short:0	"Sterling L2A1"
-
 LBA_infantry_equipment_4_short:0	"AS-44"
-
-
-
 SIA_infantry_equipment_1_short:0	"Typ 45/66"
-
 SIA_infantry_equipment_2_short:0	"Typ 18"
 SIA_infantry_equipment_3:0	"Typ 100"
 SIA_infantry_equipment_3_short:0	"Typ 100"
-
 SIA_infantry_equipment_4_short:0	"L1A1 SLR"
-
-
-
 ETH_infantry_equipment_1_short:0	"ZH-29"
-
 ETH_infantry_equipment_2_short:0	"M1 Garand"
 ETH_infantry_equipment_3:0	"Beretta Modello 38"
 ETH_infantry_equipment_3_short:0	"MAB-38"
-
 ETH_infantry_equipment_4_short:0	"AS-44"
-
-
-
 CRO_motorized_lia_equipment_02:0	"Leichte Fahrzeuge der Vorkriegszeit"
-
 CRO_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt wurden."
 CRO_motorized_lia_equipment_03:0	"Leichte Fahrzeuge in der Mitte des Krieges"
 CRO_motorized_lia_equipment_03_short:0	"VW Typ 82/0 'Kübelwagen'"
-
 CRO_motorized_lia_equipment_04:0	"Leichte Fahrzeuge der Spätkriegszeit"
-
-
-
 CRO_motorized_equipment_1_short:0	"Praga RV"
-
 CRO_motorized_equipment_2:0	"Mittlere Infanterie-Lkw"
 CRO_motorized_equipment_2_short:0	"Opel Blitz A"
 CRO_motorized_equipment_2_desc:0	"Die Motorisierung der Infanterie ist der zweite Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die sonst auf den Marsch angewiesen wären, erheblich gesteigert."
-
 CRO_artytruck_equipment_0_short:0	"Bussing-Nag l4500s"
-
-
-
 CRO_artytractor_equipment_0_desc:0	"Große Zugmaschinen und Raupenfahrzeuge für den Transport von sehr schwerem Gerät wie schwerer Artillerie"
-
 CRO_recon_mot_equipment_0_short:0	"BMW R75"
 CRO_recon_mot_equipment_1:0	"Zündapp KS 750"
 CRO_recon_mot_equipment_1_short:0	"Zündapp KS 750"
-
 CRO_infantrygun_equipment_0_short:0	"75mm le.IG 18 Infanterie Geschütz"
-
-
-
 CRO_artillery_equipment_1:0	"Skoda 105 mm M.36"
-
 CRO_artillery_equipment_1_desc:0	"Basisartillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
 CRO_artillery_equipment_2:0	"10,5 cm leFH 18"
 CRO_artillery_equipment_2_short:0	"10,5 cm leFH 18"
-
 CRO_artillery_equipment_3:0	"10,5 cm leFH 18M"
-
-
-
 CRO_mountain_artillery_equipment_0_short:0	"7,5 cm horsky kanon vz. 15"
-
 CRO_mountain_artillery_equipment_1:0	"7,5 cm horsky kanon vz. 28 Gebirgsartillerie"
 CRO_mountain_artillery_equipment_1_short:0	"7,5 cm horsky kanon vz. 28"
 CRO_mountain_artillery_equipment_1_desc:0	"Unter Gebirgsartillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von einer Besatzung bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Gebirgen spezialisiert."
-
 CRO_medartillery_equipment_0_short:0	"Schneider-Canet 120mm M.15"
-
-
-
 CRO_medartillery_equipment_1_desc:0	"Mittlere Artillerie, die für den Transport zerlegt werden kann, um Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
-
 CRO_medartillery_equipment_2_short:0	"15cm sFH 18"
 CRO_handheld_at_equipment_0:0	"Panzerbüchse 38"
 CRO_handheld_at_equipment_0_short:0	" PzB38"
-
 CRO_handheld_at_equipment_1:0	"Panzerfaust 30"
-
-
-
 CRO_anti_tank_equipment_1:0	"3,7 cm Kanon PÚV vz. 34"
-
 CRO_anti_tank_equipment_2:0	"4,7 cm kanon PÚV vz. 38"
 CRO_anti_tank_equipment_2_short:0	"4,7 cm kanon PÚV vz. 38"
 CRO_medanti_tank_equipment_1:0	"5 cm PaK 38"
-
 CRO_medanti_tank_equipment_2:0	"7,5 cm PaK 40 L/46"
-
-
-
 CRO_anti_air_equipment_2:0	"2,0 cm FlaK 38"
-
 CRO_anti_air_equipment_3:0	"2,0 cm FlaKvierling 38"
 CRO_anti_air_equipment_3_desc:0	"Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, um auch die schnellsten und am höchsten fliegenden feindlichen Flugzeuge zu bekämpfen."
 CRO_HVanti_air_equipment_1:0	"9 cm Kanon PL vz. 12/20"
-
 CRO_garrison_equipment_0:0	"Garnisonsausrüstung"
-
-
-
 CRO_infantry_equipment_desc:0	"Persönliche und mannschaftsdienliche Waffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
-
 CRO_infantry_equipment_0_short:0	"Gew 98"
 CRO_infantry_equipment_0_desc:0	"Grundausstattung der Infanteristen, die vor und während des Ersten Weltkriegs entwickelt wurde."
 CRO_infantry_equipment_1:0	"vz. 24"
-
 CRO_infantry_equipment_1_desc:0	"Persönliche und mannschaftsdienliche Waffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt."
-
-
-
 CRO_infantry_equipment_3:0	"Gewehr 43"
-
 CRO_infantry_equipment_3_desc:0	"Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Weiter modernisiert, um persönliche Sturmgewehre und Panzerabwehrraketen einzubeziehen."
 CRO_SMG_equipment_0:0	"ERMA EMP"
 CRO_SMG_equipment_0_short:0	"ERMA EMP"
-
 CRO_HMG_equipment_0:0	"Fiat-Revelli Modello 1914"
-
-
-
 CRO_HMG_equipment_1_desc:0	"Maschinengewehr-Teams innerhalb des Bataillons"
-
 CRO_HMG_equipment_2:0	"Maschinengewehr 42"
 CRO_HMG_equipment_2_desc:0	"Maschinengewehrmannschaften innerhalb des Bataillons"
 CRO_HMG_equipment_2_short:0	"MG 42"
-
 CRO_HMG_equipment_3_desc:0	"Maschinengewehrmannschaften innerhalb des Bataillons"
-
-
-
 CRO_mortar_equipment_0_short:0	"81 mm Mle 27/31"
-
 CRO_mortar_equipment_1_desc:0	"Spezialisierte Mörserteams innerhalb des Bataillons"
 CRO_mortar_equipment_1_short:0	"8 cm GrW 34"
 CRO_mortar_equipment_2:0	"kurzer 8 cm Granatwerfer 42"
-
 CRO_mortar_equipment_2_short:0	"kz 8 cm GrW 42"
-
-
-
-
 SLO_motorized_lia_equipment_01_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt werden."
 SLO_motorized_lia_equipment_02_short:0	"Skoda Rapid"
 SLO_motorized_lia_equipment_02_desc:0	"Kleinfahrzeuge und andere Fahrzeuge für Verbindungs- und Transportzwecke im Feld."
-
 SLO_motorized_lia_equipment_03_desc:0	"Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Einsatz verwendet werden."
-
-
-
 SLO_motorized_AC_equipment_06_short:0	"OA vz. 27"
-
 SLO_motorized_AC_equipment_07_short:0	"OA vz. 30"
 SLO_motorized_equipment_1:0	"Leichte Infanterie-LKWs"
 SLO_motorized_equipment_1_short:0	"Tatra 72"
-
 SLO_motorized_equipment_2:0	"Mittlere Infanterie-Lkw"
-
-
-
 SLO_artytruck_equipment_0_short:0	"Tatra 25"
-
 SLO_artytractor_equipment_0:0	"Artillerie Hf-Kettentransporter"
 SLO_artytractor_equipment_0_short:0	"Skoda MTH"
 SLO_artytractor_equipment_0_desc:0	"Große Zugmaschinen und Raupenfahrzeuge für den Transport von sehr schwerem Gerät wie z.B. schwerer Artillerie"
-
 SLO_tankette_equipment_0:0	"Pz Tančík vz. 33"
-
-
 SLO_artillery_equipment_0:0	"10 cm Škoda vz. 14/19"
-
 SLO_artillery_equipment_0_desc:0	"WW1 Artillerie bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Mannschaften bedient werden und die Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
-
 SLO_artillery_equipment_1_short:0	"10 cm Škoda vz. 30"
-
 SLO_artillery_equipment_2:0	"10 cm Škoda vz. 35"
-
 SLO_artillery_equipment_2_desc:0	"Neue Haubitzenkonstruktionen, die neue hydraulische Rückstoßvorrichtungen und längere Läufe nutzen."
-
 SLO_mountain_artillery_equipment_0_short:0	"7,5 cm Panzerhaubitze vz. 15"
-
 SLO_medartillery_equipment_0:0	"15 cm hrubá houfnice vz. 25"
-
 SLO_medartillery_equipment_0_desc:0	"Neue Haubitzen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Läufe nutzen."
-
 SLO_medartillery_equipment_1_short:0	"15-cm-Haubá houfnice vz. 37"
-
 SLO_handheld_at_equipment_0:0	"Panzerbüchse 38"
-
 SLO_handheld_at_equipment_0_desc:0	"Handgehaltenes Panzerabwehrgewehr, das auf die Bekämpfung leicht gepanzerter Ziele wie Panzer aus nächster Nähe spezialisiert ist und von der Infanterie eingesetzt wird. Es verschießt in der Regel panzerbrechende Granaten."
-
 SLO_handheld_at_equipment_1_desc:0	"Handgehaltenes Panzerabwehrgewehr, das auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern auf kurze Distanz spezialisiert ist und von der Infanterie verwendet wird. Es verschießt in der Regel panzerbrechende Geschosse."
-
 SLO_handheld_at_equipment_2_desc:0	"Handgetragene Panzerabwehrwaffe, die auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern auf kurze Distanz spezialisiert ist und von der Infanterie eingesetzt wird."
-
 SLO_anti_tank_equipment_1_short:0	"3,7 cm kanon PUV vz.34"
-
 SLO_anti_tank_equipment_2_short:0	"4,7 cm kanon PÚV vz. 38"
-
 SLO_medanti_tank_equipment_1_short:0	"7,5 cm PaK 97/38"
-
 SLO_medanti_tank_equipment_2_short:0	"7,5 cm PaK 40"
-
 SLO_anti_air_equipment_1:0	"20 mm VKPL vz. 36 AA"
-
 SLO_anti_air_equipment_1_desc:0	"Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge bestimmt, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
-
 SLO_garrison_equipment_0_short:0	"Garnisonsausrüstung (vz. 98/22)"
-
 SLO_assault_rifle_equipment_0_short:0	"vz. 58 Sturmgewehr"
-
 SLO_infantry_equipment_0:0	"puška vz. 98/22"
-
 SLO_infantry_equipment_0_desc:0	"Grundausstattung der Infanteristen, die vor und während des Ersten Weltkriegs entwickelt wurde."
-
 SLO_infantry_equipment_1_short:0	"puška vz. 24"
-
 SLO_infantry_equipment_2:0	"puška vz. 33/40"
-
 SLO_infantry_equipment_2_desc:0	"Persönliche und Mannschaftswaffen für die Infanterie sowie verschiedene andere Ausrüstungsgegenstände, die ein Soldat benötigt. Modernisiert mit einer großen Anzahl von Maschinenpistolen und Panzerabwehrgewehren."
-
 SLO_infantry_equipment_3_short:0	"ZH-29"
-
 SLO_SMG_equipment_0:0	"ZK-383"
-
 SLO_SMG_equipment_0_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung in unwegsamem Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-
 SLO_HMG_equipment_0_desc:0	"Maschinengewehrgruppen innerhalb des Bataillons"
-
 SLO_HMG_equipment_1:0	"TK vz. 37"
-
 SLO_HMG_equipment_1_short:0	"TK vz. 37"
-
 SLO_HMG_equipment_2_desc:0	"Maschinengewehrmannschaften innerhalb des Bataillons"
-
 SLO_mortar_equipment_0:0	"9 cm Skoda Minomet vz. 17"
-
 SLO_mortar_equipment_0_short:0	"9 cm Minomet vz. 17"
-
 SLO_mortar_equipment_1_desc:0	"Spezialisierte Mörserteams innerhalb des Bataillons"
-
 LEB_infantry_equipment_0:0	"Lee-Enfield Nr.1 Mk.III"
-
 LEB_infantry_equipment_1:0	"Lee-Enfield Nr.4 Mk.I"
-
 LEB_infantry_equipment_2:0	"Sterling L2A1"
-
 LEB_infantry_equipment_3:0	"SKS-45"
-
 LEB_infantry_equipment_4:0	"SAFN-49"
-
 SCO_infantry_equipment_0:0	"Lee-Enfield Nr.1 Mk.III"
-
 SCO_infantry_equipment_1:0	"Lee-Enfield Nr.4 Mk.I"
-
 SCO_infantry_equipment_2:0	"STEN Mk.II"
-
 SCO_infantry_equipment_3:0	"STEN Mk.V"
-
 SCO_infantry_equipment_4:0	"Enfield L1A1 Selbstladegewehr"
-
 SLV_infantry_equipment_0:0	"Mannlicher M95"
-
 SLV_infantry_equipment_1:0	"vz. 24"
-
 SLV_infantry_equipment_2:0	"Moschetto Automatico Beretta 1938"
-
 SLV_infantry_equipment_3:0	"SKS-45"
-
 SLV_infantry_equipment_4:0	"AS-44"
-
 SER_infantry_equipment_0:0	"Mannlicher M95"
-
 SER_infantry_equipment_1:0	"vz. 24"
-
 SER_infantry_equipment_2:0	"Moschetto Automatico Beretta 1938"
-
 SER_infantry_equipment_3:0	"SKS-45"
-
 SER_infantry_equipment_4:0	"AS-44"
-
 MNT_infantry_equipment_0:0	"Mannlicher M95"
-
 MNT_infantry_equipment_1:0	"vz. 24"
-
 MNT_infantry_equipment_2:0	"Moschetto Automatico Beretta 1938"
-
 MNT_infantry_equipment_3:0	"SKS-45"
-
 MNT_infantry_equipment_4:0	"AS-44"
-
 MCD_infantry_equipment_0:0	"Mannlicher M95"
-
 MCD_infantry_equipment_1:0	"vz. 24"
-
 MCD_infantry_equipment_2:0	"Moschetto Automatico Beretta 1938"
-
 MCD_infantry_equipment_3:0	"SKS-45"
-
 MCD_infantry_equipment_4:0	"AS-44"
-
 BOS_infantry_equipment_0:0	"Mannlicher M95"
-
 BOS_infantry_equipment_1:0	"vz. 24"
-
 BOS_infantry_equipment_2:0	"Moschetto Automatico Beretta 1938"
-
 BOS_infantry_equipment_3:0	"SKS-45"
-
 BOS_infantry_equipment_4:0	"AS-44"
-
 EGY_infantry_equipment_0:0	"Mosin-Nagant M1891"
-
 EGY_infantry_equipment_1:0	"Lee-Enfield Nr.4 Mk.I"
-
 EGY_infantry_equipment_2:0	"Hakim"
-
 EGY_infantry_equipment_3:0	"SKS-45"
-
 EGY_infantry_equipment_4:0	"AS-44"
-
 PAL_infantry_equipment_0:0	"Lee-Enfield Nr.1 Mk.III"
-
 PAL_infantry_equipment_1:0	"Lee-Enfield Nr.4 Mk.I"
-
 PAL_infantry_equipment_2:0	"Sterling L2A1"
-
 PAL_infantry_equipment_3:0	"SKS-45"
-
 PAL_infantry_equipment_4:0	"AS-44"
-
 UKR_infantry_equipment_0:0	"Mosin-Nagant M91/30"
-
 UKR_infantry_equipment_1:0	"Samozaryadnaya Vintovka Tokareva, Obrazets 1940 goda"
-
 UKR_infantry_equipment_2:0	"PPSh-41"
-
 UKR_infantry_equipment_3:0	"SKS-45"
-
 UKR_infantry_equipment_4:0	"AS-44"
-
 GEO_infantry_equipment_0:0	"Mosin-Nagant M91/30"
-
 GEO_infantry_equipment_1:0	"Samozaryadnaya Vintovka Tokareva, Obrazets 1940 goda"
-
 GEO_infantry_equipment_2:0	"PPSh-41"
-
 GEO_infantry_equipment_3:0	"SKS-45"
-
 GEO_infantry_equipment_4:0	"AS-44"
-
 ARM_infantry_equipment_0:0	"Mosin-Nagant M91/30"
-
 ARM_infantry_equipment_1:0	"Samozaryadnaya Vintovka Tokareva, Obrazets 1940 goda"
-
 ARM_infantry_equipment_2:0	"PPSh-41"
-
 ARM_infantry_equipment_3:0	"SKS-45"
-
 ARM_infantry_equipment_4:0	"AS-44"
-
 AZR_infantry_equipment_0:0	"Mosin-Nagant M91/30"
-
 AZR_infantry_equipment_1:0	"Samozaryadnaya Vintovka Tokareva, Obrazets 1940 goda"
-
 AZR_infantry_equipment_2:0	"PPSh-41"
-
 AZR_infantry_equipment_3:0	"SKS-45"
-
 AZR_infantry_equipment_4:0	"AS-44"
-
 MAL_infantry_equipment_0:0	"M1917 Enfield"
-
 MAL_infantry_equipment_1:0	"Mondragón M1908"
-
 MAL_infantry_equipment_2:0	"Maschinenpistole 40"
-
 MAL_infantry_equipment_3:0	"Sterling L2A1"
-
 MAL_infantry_equipment_4:0	"AS-44"
-
 INS_infantry_equipment_0:0	"Lee-Enfield Nr.1 Mk.III"
-
 INS_infantry_equipment_1:0	"vz. 24"
-
 INS_infantry_equipment_2:0	"M1 Garand"
-
 INS_infantry_equipment_3:0	"SKS-45"
-
 INS_infantry_equipment_4:0	"AS-44"
-
 CAM_infantry_equipment_0:0	"Mosin-Nagant M1898"
-
 CAM_infantry_equipment_1:0	"M1 Garand"
-
 CAM_infantry_equipment_2:0	"PPSh-41"
-
 CAM_infantry_equipment_3:0	"MAS Modèle 49"
-
 CAM_infantry_equipment_4:0	"AS-44"
-
 LAO_infantry_equipment_0:0	"Mosin-Nagant M1898"
-
 LAO_infantry_equipment_1:0	"M1 Garand"
-
 LAO_infantry_equipment_2:0	"PPSh-41"
-
 LAO_infantry_equipment_3:0	"SKS-45"
-
 LAO_infantry_equipment_4:0	"AS-44"
-
 VIN_infantry_equipment_0:0	"Mosin-Nagant M1898"
-
 VIN_infantry_equipment_1:0	"Mondragón M1908"
-
 VIN_infantry_equipment_2:0	"PPSh-41"
-
 VIN_infantry_equipment_3:0	"MAS Modèle 49"
-
 VIN_infantry_equipment_4:0	"AS-44"
-
 garrison_equipment:0	"Garnisonausrüstung I"
-
 garrison_equipment_desc:0	"Ausrüstung zur Instandhaltung von Garnisonen"
-
 garrison_equipment_0_short:0	"Garnisonsausrüstung"
-
 garrison_equipment_1:0	"Garnisonausrüstung III"
-
 garrison_equipment_1_desc:0	"Ausrüstung für die Instandhaltung von Garnisonen"
-
 infantry_uniform_short:0	"Felduniformen"
-
 infantry_uniforms_0:0	"WW1 Felduniformen I"
-
 infantry_uniforms_0_desc:0	"Uniformen, Helme, Stiefel und Ausrüstungen für die Truppe"
-
 infantry_uniforms_1_short:0	"M35 Felduniformen"
-
 infantry_uniforms_2:0	"Felduniformen III"
-
 infantry_uniforms_2_desc:0	"Uniformen, Helme, Stiefel und Ausrüstungen für die Truppe"
-
 infantry_uniforms_3_short:0	"M44 Felduniformen"
-
 tech_infantry_uniforms_camo:0	"Tarnfarbene Felduniformen"
-
 SMG_equipment:0	"Angriffsausrüstung I"
-
 SMG_equipment_desc:0	"Mit Maschinenpistolen ausgerüstete Infanterieeinheiten, die auf den Nahkampf ausgerichtet sind und in unwegsamem Gelände trainieren, opfern schwere Waffen für die Feuerkraft im Nahbereich. "
-
 SMG_equipment_0_short:0	"Sturm-SMG-Ausrüstung I"
-
 SMG_equipment_1:0	"Angriffsausrüstung III"
-
 SMG_equipment_1_desc:0	"Mit SMG ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung im unwegsamen Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-
 SMG_equipment_2_short:0	"Sturm-SMG-Ausrüstung IV"
-
 SMG_equipment_3:0	"Angriffsausrüstung V"
-
 SMG_equipment_3_desc:0	"Mit SMG ausgerüstete Infanterieeinheiten mit Schwerpunkt Nahkampf und Ausbildung im unwegsamen Gelände, die schwere Waffen für die Feuerkraft im Nahbereich opfern. "
-
 desert_equip_short:0	"Ausrüstung für den Wüstenkrieg"
-
 desert_equip_0:0	"Wüstenkriegsausrüstung I"
-
 desert_equip_0_desc:0	"Der Wüstenkrieg erfordert Bewegung und Kampf unter extremen Bedingungen, Mangel an Frischwasser und hoher Sichtbarkeit. Wüstenumgebungen erfordern spezielle Ausrüstungen wie Staub- und Sandfilter, Uniformen für heißes Wetter, einzigartige Tarnungen und die Beachtung besonderer logistischer Anforderungen wie zusätzliches Wasser. \nie Wüstenunterstützungskompanien verfügen über speziell für den Wüstenkrieg ausgebildetes und ausgerüstetes Personal."
-
 para_equipment_short:0	"Fallschirmjägerausrüstung"
-
 para_equipment_0:0	"Fallschirmjägerausrüstung II"
-
 para_equipment_0_desc:0	"Durch die Einbeziehung von Fallschirmjägern in unsere Armee können wir einen gewaltsamen Einmarsch durchführen und wichtige Truppen in bisher unzugänglichen Gebieten positionieren, was neue taktische Möglichkeiten eröffnet."
-
 para_equipment_1_short:0	"Ausrüstung für Luftlandeangriffe"
-
 jungle_equipment:0	"Dschungelkampfausrüstung I"
-
 jungle_equipment_desc:0	"Dschungelkriegsausrüstung"
-
 jungle_equipment_0_short:0	"Dschungelkriegsausrüstung"
-
 amph_equipment:0	"Amphibische Kriegsausrüstung I"
-
 amph_equipment_desc:0	"Ausrüstung für die amphibische Kriegsführung"
-
 amph_equipment_0_short:0	"Amphibische Kriegsausrüstung"
-
 amph_equipment_1:0	"Amphibische Kriegsausrüstung III"
-
 amph_equipment_1_desc:0	"Verbesserte Ausrüstung für amphibische Kriegsführung"
-
 amph_equipment_2_short:0	"Amph. Ausrüstung für die Kriegsführung"
-
 mount_equipment:0	"Gebirgsjägerausrüstung I"
-
 mount_equipment_desc:0	"Infanterie, die für den Kampf in gebirgigem Gelände ausgebildet und ausgerüstet ist."
-
 mount_equipment_0_short:0	"Gebirgsjägerausrüstung"
-
 mount_equipment_1:0	"Gebirgsjägerausrüstung III"
-
 mount_equipment_1_desc:0	"Spezialisierte Ausrüstung für Gebirgstruppen"
-
 arctic_equipment_desc:0	"Spezialisierte Ausrüstung für die arktische Kriegsführung."
-
 arctic_equipment_0_short:0	"Ausrüstung für die arktische Kriegsführung"
-
 ACTUAL_EQUIPMENT_HEADER:0	"\n\nAusrüstung:\n"
-
 ACTUAL_EQUIPMENT_ENTRY_STRING:0	" - $NUM|Y$ von $NAME|Y$"
-
 REQUESTED_REINFORCEMENT_DELIVERING_TO:0	"\nLieferung an $UNIT|Y$ ($PROG|G%$):"
-
 REQUESTED_REINFORCEMENT_DELIVERING_TO_ENTRY:0	"\n $NUM|Y0$ von $EQ|Y$"
-
 REQUESTED_REINFORCEMENT_HEADER:0	"Verstärkungsanfragen:"
-
 TIMED_ACTIVITY_HEADER:0	"Aktivitätsanforderung:"
-
 REQUESTED_REINFORCEMENT_DELIVERY:0	" - Warten auf §HLieferung§! der Ausrüstung! ($PROG|H%$):"
-
 REQUESTED_REINFORCEMENT_COLLECTING_AND_DELIVERY:0	" - Warten auf §Hproduzierte§! und §Hgelieferte§! Ausrüstung:"
-
 REQUESTED_REINFORCEMENT_COLLECTING_ENTRY:0	"   - $NUM|Y0$/$MAX|Y0$ von $NAME|Y$"
-
 REQUESTED_TIMED_ACTIVITY_COLLECTING_ENTRY:0	"   - $NUM|Y0$/$MAX|Y0$ von $NAME|Y$"
-
 NOT_ENOUGH_MANPOWER_TO_REINFORCE:0	"Nicht genug Rekruten zur Verstärkung."
-
 ARCHETYPE_DESC_ENTRY:0	"    - $COUNT|0$ $NAME|H$"
-
 guided_missile_equipment:0	"Lenkwaffe"
-
 guided_missile_equipment_1_short:0	"Lenkflugkörper I"
-
 guided_missile_equipment_2:0	"Verbesserte Lenkwaffe"
-
 guided_missile_equipment_2_desc:0	"Bessere unbemannte fliegende Bombe"
-
 guided_missile_equipment_3_short:0	"Lenkflugkörper III"
-
 guided_missile_equipment_4:0	"Verbesserte Lenkwaffe"
-
 guided_missile_equipment_4_desc:0	"Verbesserte ballistische Rakete mit Raketenantrieb."
-
-
 ballistic_missile_equipment_short:	"Ballistische Rakete"
-
 ballistic_missile_equipment_1:	"Ballistische Basisrakete"
-
-
-
 ballistic_missile_equipment_2_short:	"MRBM"
 ballistic_missile_equipment_2_desc:	"Eine verbesserte unbemannte ballistische Rakete für strategische Bombardierungen"
-
 ballistic_missile_equipment_3_short:	"ICBM"
-
 subtech_motorized_rocket_equipment:0	"Motorisierte Raketenartillerie"
-
 subtech_motorized_rocket_equipment_desc:0	"Mehrfachraketenwerfer wie diese bringen Sprengstoff schneller in ein Zielgebiet als herkömmliche Artillerie, haben aber eine geringere Genauigkeit und benötigen eine längere Zeit zum Nachladen. Da diese Version auf Lastwagen montiert ist, kann sie Angriffe starten und die Position wechseln, bevor der Feind das Feuer erwidern kann."
-
 motorized_rocket_equipment_1_short:0	"Motorisierte Raketenartillerie"
 motorized_rocket_equipment_1_desc:0	"Diese Mehrfachraketenwerfer bringen Sprengstoff schneller in ein Zielgebiet als herkömmliche Artillerie, haben jedoch eine geringere Genauigkeit und benötigen eine längere Nachladezeit. Da diese Version auf Lastwagen montiert ist, kann sie Angriffe starten und die Position wechseln, bevor der Feind das Feuer erwidern kann."
-
-
-
 tank_smoke_upgrade_desc:0	"Installieren Sie Rauchwerfer, um den Panzer vor dem Feind zu verbergen."
 weapons_smoke_grenade_upgrade:0	"Rauchgranate"
 weapons_smoke_grenade_upgrade_desc:0	"Rauchgranaten bieten eine schnelle Tarnung, um Truppenbewegungen zu verbergen."
@@ -4324,45 +2152,19 @@ mortar_flare_upgrade:0	"Beleuchtung"
 mortar_flare_upgrade_desc:0	"Beleuchtungsgranaten erhellen dunkle Schlachtfelder"
 mortar_smoke_upgrade:0	"Rauchgranaten"
 mortar_smoke_upgrade_desc:0	"Rauchgranaten bieten eine schnelle Tarnung, um Truppenbewegungen zu verbergen"
-
-
-
 infantry_antitank_he_upgrade_desc:0	"Hochexplosiver Schuss für weiche Ziele"
-
 infantry_antitank_sights_upgrade_desc:0	"Verbessert die Entfernungsmessung und Fallkompensation"
-
-
-
-
 support_medicine_upgrade:0	"Medizinische Hilfsmittel"
 support_medicine_upgrade_desc:0	"Verhindert, dass aus kleinen Schnitten und Verletzungen etwas Ernstes wird"
 support_tools_upgrade:0	"Werkzeuge und Teile"
-
-
-
-
-
-
-
-
-
-
-
-
-
 truck_carry_upgrade:0	"Ladekapazität"
 truck_carry_upgrade_desc:0	"Effizientere Nutzung des Innenraums für mehr Männer und Vorräte"
 carriage_upgrade:0	"Kutsche"
-
 artillery_carriage_upgrade_desc:0	"Neue Kutsche für verbesserte Mobilität"
-
 AT_shield_upgrade_desc:0	"Verstärkung des Geschützschilds zum Schutz der Besatzung"
 AA_shell_fuse:0	"Granatenzünder"
 AA_shell_fuse_desc:0	"Bereitstellung von Zündern, um Flugzeuge mit Schrapnellen zu bewerfen"
 weapons_quality_upgrade:0	"Qualität der Waffen"
-
-
-
 AT_upgrade:0	"Infanterie AT"
 AT_upgrade_desc:0	"Panzerabwehr Fähigkeit für die Infanterie"
 heavy_weapons_upgrade:0	"Mörser für Trupps"
@@ -4376,45 +2178,19 @@ AA_upgrade_desc:0	"Verbesserung der Flakstellung"
 HQ_AA_upgrade:0	"HQ AA-Verteidigung"
 HQ_AA_upgrade_desc:0	"Verbesserung der Luftabwehrstellungen"
 troop_quality_upgrade:0	"Truppenqualität"
-
-
-
 unit_mobility_upgrade:0	"Mobilität der Einheiten"
-
 close_defence_upgrade:0	"Maschinengewehr-Verteidigung"
-
-
-
-
 cheap_uniforms_upgrade_desc:0	"Unschön, aber billig"
 camo_upgrade:0	"Tarnungsverbesserung"
 camo_upgrade_desc:0	""
-
-
-
-
-
-
-
-
-
-
-
-
-
 tank_at_upgrade_desc:0	"Stellen Sie sicher, dass unsere Panzerjäger die neuesten feindlichen Panzer besiegen können."
 tank_art_upgrade:0	"Artillerie Bewaffnung"
 tank_art_upgrade_desc:1	"Stellen Sie sicher, dass unsere selbstfahrende Artillerie über eine massive Feuerkraft verfügt, die jeden ungepanzerten Feind vernichten kann."
-
 tank_reliability_upgrade_desc:0	"Die Verbesserung der Zuverlässigkeit führt dazu, dass weniger Panzer kaputt gehen, die Sie ersetzen müssen."
-
 tank_engine_upgrade_desc:0	"Mehr Mobilität verschafft taktische und strategische Vorteile und ermöglicht mehr Panzerung, ohne dass die Geschwindigkeit wesentlich verringert wird."
 tank_sloped_upgrade:0	"Abgeschrägte Panzerung"
 tank_sloped_upgrade_desc:0	""
 tank_sights_upgrade:0	"Geschützvisiere"
-
-
-
 tank_anti_inf_upgrade:0	"Nahverteidigung"
 tank_anti_inf_upgrade_desc:0	""
 ac_main_gun:0	"Panzerwagenkanone"
@@ -4428,43 +2204,19 @@ ac_armor_upgrade_desc:0	""
 ac_engine_upgrade:0	"Motorverbesserung"
 ac_engine_upgrade_desc:0	""
 propellant_charge:0	"Treibstoffladung"
-
-
-
 range_finder:0	"Entfernungsmessung"
-
 artillery_carriage_upgrade:0	"Lafettenverbesserung"
-
-
-
-
 AA_protection_desc:0	""
 AT_ammunition:0	"Panzerabwehrmunition"
 AT_ammunition_desc:0	""
-
-
-
-
-
-
-
-
-
-
-
 amphibious_mechanized_equipment_short:0	"Amphibische Mechanisierte"
 amphibious_mechanized_equipment_desc:0	"Amphibische Traktoren, auch Amtracs genannt, ermöglichen es den Marines, unter gepanzertem Schutz am Strand zu landen. Dies geht jedoch auf Kosten einer schlechten Treibstoffeffizienz."
 amphibious_mechanized_equipment_1:0	"Amphibische Mechanisierte"
-
 amphibious_mechanized_equipment_1_desc:0	"Amphibische Traktoren oder Amtracs ermöglichen es Marines, unter gepanzertem Schutz an einem Strand zu landen. Dies geht jedoch auf Kosten einer schlechten Treibstoffeffizienz."
-
 amphibious_mechanized_equipment_2_short:0	"Verbesserter Amtrac"
 amphibious_mechanized_equipment_2_desc:0	"Diese Amtracs weisen einige Verbesserungen gegenüber der Basisversion auf, wie z. B. eine hintere Laderampe zum leichteren Entladen am Strand."
 amphibious_tank_equipment:0	"Amphibische Panzer"
 amphibious_tank_equipment_short:0	"Amphib. Panzer"
-
-
-
 amphibious_tank_equipment_1_desc:0	"Dieses Fahrzeug ist im Wesentlichen ein leichter, schwimmfähiger Panzer, der Einheiten bei der Errichtung eines Landekopfes Feuerunterstützung bietet."
 amphibious_tank_equipment_2_desc:0	"Ein mittlerer Panzer, der für die Fortbewegung im Wasser umgebaut wurde. Die zusätzliche Vielseitigkeit und Mobilität geht auf Kosten einer geringeren Treibstoffeffizienz."
 amphibious_tank_equipment_axis:0	"Amphibische Panzer"
@@ -4475,44 +2227,18 @@ amphibious_tank_equipment_axis_desc:0	"Panzer, die so modifiziert wurden, dass s
 amphibious_tank_equipment_axis_1_desc:0	"Dieses Fahrzeug ist im Wesentlichen ein leichter, schwimmfähiger Panzer, der Einheiten bei der Errichtung eines Landekopfes Feuerunterstützung bietet."
 amphibious_tank_equipment_axis_2_desc:0	"Ein mittlerer Panzer, der für die Fortbewegung im Wasser umgebaut wurde. Das Plus an Vielseitigkeit und Mobilität geht auf Kosten einer geringeren Treibstoffeffizienz."
 GER_amphibious_tank_equipment_1:0	"Schwimmpanzer II"
-
-
 GER_amphibious_mechanized_equipment_1_short:0	"LWS"
-
-
-
 USA_amphibious_tank_equipment_2:0	"Sherman DD"
-
 USA_amphibious_mechanized_equipment_1_short:0	"DUKW"
-
-
-
-
 JAP_amphibious_mechanized_equipment_1:0	"Typ 4 Ka-Tsu Amph-Mechanisiert"
 JAP_amphibious_mechanized_equipment_1_short:0	"Ka-Tsu"
 JAP_amphibious_mechanized_equipment_2:0	"Typ 6 Ka-Tsu Kai Amph-Mechanisiert"
-
-
-
-
-
-
-
-
-
-
 HOL_amphibious_mechanized_equipment_1_short:1	"DAF MC-139"
 HOL_amphibious_mechanized_equipment_2:1	"DAF MC-143 Amfibie Amph-Mechanized"
-
 floating_harbor_equipment:0	"Schwimmender Hafen"
-
 floating_harbor_equipment_1:0	"Schwimmende Häfen"
-
 train_equipment:0	"Zug"
 train_equipment_desc:0	"Züge transportieren Vorräte von der Nachschubhauptstadt zu den Nachschubknotenpunkten, die mit der Eisenbahn verbunden sind."
-
-
-
 train_equipment_2_desc:0	"Eine vereinfachte Konstruktion, bei der viele Merkmale, die bei regulären Güterzügen üblich sind, aus Gründen der billigeren Produktion weggelassen wurden. Er ist immer noch genauso anfällig wie ein normaler Zug, kann aber leichter ersetzt werden."
 train_equipment_3:0	"Gepanzerter Zug"
 train_equipment_3_desc:0	"Eine Zuglokomotive, die von einer schweren Panzerung umgeben ist, um sie weniger anfällig für feindliche Angriffe zu machen. Er kann genauso viel Fracht transportieren wie alle anderen Modelle, ist aber teurer in der Herstellung."
@@ -4521,66 +2247,27 @@ GER_train_equipment_2:0	"Klasse DRB 52"
 GER_train_equipment_3:0	"BR57 Klasse"
 SOV_train_equipment_1:0	"FD Klasse"
 SOV_train_equipment_2:0	"L Klasse"
-
 USA_train_equipment_1:0	"Pennsylvania I1s Klasse"
-
-
 JAP_train_equipment_2:0	"JNR D52 Klasse"
-
 MAN_train_equipment_1:0	"JNR D50 Klasse"
-
-
-
 ENG_train_equipment_2:0	"WD Austerity 2-8-0"
 FRA_train_equipment_1:0	"141 B/C SNCF"
-
-
-
-
-
-
-
 SLO_train_equipment_1:0	"ČSD 534.0 Klasse"
-
 NOR_train_equipment_1:0	"NSB Typ 30a/b Klasse"
-
 SWE_train_equipment_1:0	"SJ Typ E(II)"
-
 FIN_train_equipment_1:0	"VR Klasse Tk3 Pikku-Jumbo"
-
 BEL_train_equipment_1:0	"SNCB Typ 36"
-
 HOL_train_equipment_2:0	"NS 6300 Klasse"
-
-
 BUL_train_equipment_2:0	"BDŽ Klasse 20"
-
 HUN_train_equipment_1:0	"MÁV 601 Klasse"
 HUN_train_equipment_2:0	"MÁV 424 Klasse"
-
 ROM_train_equipment_2:0	"CFR Klasse 150"
-
 AST_train_equipment_1:0	"NSW D55 Klasse"
 AST_train_equipment_2:0	"Australischer Standard Garratt"
-
-
 CAN_train_equipment_1:0	"Selkirk 2-10-4 Typ"
-
 EGY_train_equipment_1:0	"ESR 545 Klasse"
-
 NZL_train_equipment_2:0	"NZR KA Klasse"
-
 RAJ_train_equipment_2:0	"AWC Klasse"
-
-
-
-
-
-
-
-
-
-
 railway_gun_equipment_0:0	"Eisenbahnkanone aus dem Ersten Weltkrieg"
 GER_railway_gun_equipment_1:0	"Dora"
 ENG_railway_gun_equipment_1_short:0	"BL 9,2 Zoll"

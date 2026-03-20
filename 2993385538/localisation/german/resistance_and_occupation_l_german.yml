@@ -56,155 +56,72 @@ autonomous_occupation:1	"Lokale Autonomie"
 foreign_civilian_oversight:1	"Zivile Aufsichtsbehörde"
 secret_police_oversight:1	"Geheimpolizei"
 local_police_force_garrison:1	"Lokale Polizeikräfte"
-
 liberate_workers_occupation:1	"Befreite Arbeiter"
-
 martial_law_occupation:1	"Kriegsrecht"
-
 harsh_quotas_occupation:1	"Harte Quoten"
-
-
 COMPLIANCE_GAIN_IS_DISABLED:0	"§RZustimmungsgewinn ist deaktiviert§!"
-
-
 OCCUPIED_COUNTRY_MANPOWER_TOOLTIP:0	"Es gibt $NUM_TOTAL_MANPOWER|*H$ Bevölkerung in den Staaten, die du kontrollierst und mit deinem aktuellen Gesetz und anderen Modifikatoren kannst du auf $RATIO|.2H%$ ($NUM_ACCESSED_MANPOWER|*H$) dieser Rekruten zugreifen."
-
 OCCUPIED_COUNTRY_INDUSTRIAL_CAPACITY_TOOLTIP:0	"Es gibt $NUM_TOTAL_FACTORIES|0H$ Fabriken ($NUM_TOTAL_CIV_FACTORIES|.0$£civ_factory£ $NUM_TOTAL_MIL_FACTORIES|.0$£mil_factory£) in den Staaten, die du kontrollierst und mit deinem aktuellen Gesetz und anderen Modifikatoren kannst du auf $RATIO|.2H%$ ($NUM_ACCESSED_FACTORIES|1H$) dieser Fabriken zugreifen."
-
 OCCUPIED_COUNTRY_NO_RESOURCES_TOOLTIP:0	"Der Staat, den Sie kontrollieren, hat keine Ressourcen."
-
 OCCUPATION_BAR_CORE_RESISTANCE_TOOLTIP:0	"Der durchschnittliche Widerstand aller von dir kontrollierten Kernstaaten von $COUNTRY|H$ ist $RESISTANCE|1%%H$."
-
-
 building_is_sabotaged:0	"Gebäude sabotiert"
-
 industrial_complex_is_sabotaged:0	"Zivile Fabrik sabotiert"
-
 dockyard_is_sabotaged:0	"Werft sabotiert"
-
 anti_air_is_sabotaged:0	"Luftabwehr sabotiert"
-
 steel_mill_is_sabotaged:0	"Stahlwerk sabotiert"
-
 radar_station_is_sabotaged:0	"Radar sabotiert"
-
 nuclear_reactor_is_sabotaged:0	"Kernreaktor sabotiert"
-
 shipyard_is_sabotaged:0	"Schiffswerft sabotiert"
-
 air_factory_is_sabotaged:0	"Flugzeugfabrik sabotiert"
-
 OCCUPATION_SORT_GARRISON:0	"Garnisonen"
-
 OCCUPATION_SORT_RESISTANCE:0	"Widerstand"
-
-
 OCCUPATION_SORT_GARRISON_TOOLTIP:0	"Sortieren nach Garnisonsanforderungen"
-
 OCCUPATION_SORT_RESISTANCE_TOOLTIP:0	"Sortieren nach Widerstand"
-
 OCCUPATION_PRIMARY_GARRISON_TITLE:0	"Primäre Garnisonsvorlage"
-
 OCCUPATION_CHANGE_GARRISON_COUNTRY_TEMPLATE_TOOLTIP:0	"$SELECTED_TEMPLATE|H$\nÄndere Garnisonseinteilungsvorlage für alle besetzten Staaten in $OCCUPIED_COUNTRY|H$"
-
 OCCUPATION_GARRISON_STRENGTH_TOOLTIP:2	"Wir brauchen $NUMBER|H$ Divisionen von $SELECTED_TEMPLATE|H$ als Garnison zum Schutz gegen den aktuellen Widerstand.\nDiese Garnison ist derzeit $PERCENTAGE|H0%$ effizient."
-
 OCCUPATION_USE_DEFAULT_TEMPLATE:0	"§HStandardvorlage verwenden§!"
-
 OCCUPATION_BAD_GARRISON_NO_SUPPRESSION:0	"§RDiese Vorlage kann nicht gewählt werden, weil ihr Unterdrückungswert §H0§! ist.§!"
-
 OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION:0	"§RDer Unterdrückungswert einer Garnisonsvorlage ist §H0§! Bitte wählen Sie eine andere.§!"
-
 GARRISON_ENTRY_IC_TOOLTIP:0	"Produktionskosten pro Unterdrückung: £production_cost£$IC|*H$\nProduktionskosten pro Division: £production_cost£$ICDIV|*H$"
-
 LAW_BONUS_SCALED:0	"§RDieses Gesetz entfaltet seine volle Wirkung erst, wenn die Bedürfnisse der Garnison vollständig befriedigt sind.§!"
-
 GARRISON_LOG_LOSSES_IN_IC:0	"§HAusrüstung verloren:§! £production_cost£$NUM|*$"
-
 GARRISON_LOG_EMPTY_ACTIVITY:0	"Keine Aktivität in $TIME$."
-
 GARRISON_LOG_ACTIVITY_SUCCES:0	"Aktivität nicht gestoppt: $ACTIVITY|R$"
-
 OCCUPATION_RESISTANCE_TAB_TOOLTIP:0	"Zeige §HWiderstand§! auf der Karte."
-
 OCCUPATION_ZOOM_TO_STATE_TOOLTIP:0	"§GKlick§! zum Zoomen auf besetzte(n) Staat(en)"
-
 resistance_50:0	"Ermutigter Widerstand"
-
 resistance_15:0	"Wehrdienstverweigerung"
-
-
 compliance_25:0	"Lokale Polizeikräfte"
-
 compliance_60:0	"Freiwilligenprogramm"
-
 compliance_90:0	"Unterstützende Industrie"
-
-
 sabotage_infrastructure:0	"Infrastruktur sabotieren"
-
 sabotage_air_base:0	"Luftwaffenstützpunkt sabotieren"
-
 sabotage_anti_air_building:0	"Luftverteidigungsgebäude sabotieren"
-
 sabotage_fuel_silo:0	"Treibstoffsilos sabotieren"
-
 sabotage_rocket_site:0	"Raketenstationen sabotieren"
-
 sabotage_oil:0	"Ölvorkommen sabotieren"
-
 sabotage_rubber:0	"Kautschukressourcen sabotieren"
-
 sabotage_steel:0	"Stahlvorkommen sabotieren"
-
 sabotage_food:	"Nahrungsressourcen sabotieren"
-
-
-
 sabotage_synthetic_rubber_refinery:0	"Sabotage von Synthesekautschuk Raffinerien"
 sabotage_steel_refinery:0	"Sabotage von Stahlwerken"
 sabotage_tank_factory:0	"Sabotage von Panzerfabriken"
-
-
-
 sabotage_uniform_factory:0	"Sabotage von Uniformfabriken"
 sabotage_Ltaircraft_factory:0	"Sabotage von Leichtflugzeugfabriken"
 sabotage_Hvaircraft_factory:0	"Sabotage von schweren Flugzeug Fabriken"
-
-
-
 RESISTANCE_CHANCE_FOR_ACTIVITY:0	"£political_violence_texticon Chance für Widerstandstätigkeit: $CHANCE|%.1H$"
-
-
-
 OCCUPATION_NOT_ALL_COUNTRIES_CAN_HAVE_THIS_LAW:0	"§RDieses Standardgesetz ist für einige der besetzten Gebiete ungültig. Sie werden standardmäßig auf kein Garnison gesetzt§!"
 OCCUPATION_INVALID_DEFAULT_LAW:0	"§RDas von Ihnen gewählte Standardgesetz ist für dieses besetzte Gebiet ungültig und es wird standardmäßig auf kein Garnison gesetzt§!"
-
-
-
 CLEAR_ALL_OVERRIDE_LAWS_TITLE:0	"Override-Gesetze löschen"
 CLEAR_ALL_OVERRIDE_LAWS_DESC:0	"Sind Sie sicher, dass Sie alle folgenden Überschreibungsgesetze aufheben und in das Standardgesetz ändern wollen?"
-
-
-
 CLEAR_ALL_OVERRIDE_GARRISON_AUTO_DESC:0	"Möchten Sie die folgenden Garrison-Überschreibungsvorlagen löschen und durch die neue Standardvorlage ersetzen?"
 CLEAR_OVERRIDE:0	"Überschreibungen löschen"
 CLEAR_OVERRIDE_TOOLTIP:0	"Löschen Sie die Gesetze, die die aktuelle Gesetzesauswahl außer Kraft setzen."
-
-
-
-
 OCCUPATION_SHOW_NO_RESISTING_COUNTRIES:1	"Nicht-widerständige Länder anzeigen ($NUM$)"
-
 FOREIGN_SUPPORT:0	"Ausländische Unterstützung"
-
 FOREIGN_SUPPORT_IN_GARRISON:0	"$NUMBER|H*$ in Garnisonen:"
-
 OCCUPATION_STATE_OCCUPATION_INFO:0	""
-
-
-
-
 RESISTANCE_TARGET_MODIFIER_CLAIM:0	"Besatzer hat Anspruch: §G-10%§!"
 local_police_force_garrison_eng:	"$local_police_force_garrison$"
 military_governor_occupation:1	"Militärgouverneur"

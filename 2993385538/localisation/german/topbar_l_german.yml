@@ -13,71 +13,39 @@ TOPBAR_TECHNOLOGY:0	"Forschung"
 TOPBAR_TECHNOLOGY_DESC:0	"Erforschen Sie £tech_mod-Technologien, um Ihre Nation voranzubringen."
 TOPBAR_TECHNOLOGY_PROTOTYPE_REWARD:	"Sie haben $AMOUNT|Y$ Prototyp-Iterationsbelohnung(en) abgeschlossen, um zu lesen"
 TOPBAR_TECHNOLOGY_LEFT_CLICK:	"§GLeft-Klick§! zum Öffnen der Registerkarte Forschungsslots"
-
 TOPBAR_DIPLOMACY:0	"Diplomatie"
 TOPBAR_DIPLOMACY_DESC:0	"Verhandlungen mit anderen Nationen führen."
 TOPBAR_INTERNATIONAL_MARKET:	"Internationaler Markt"
-
-
-
 TOPBAR_CONSTRUCTION:0	"Bau"
 TOPBAR_CONSTRUCTION_DESC:0	"Bauen Sie Gebäude und sehen Sie sich laufende Bauarbeiten an."
 TOPBAR_ARMY:0	"Armee"
-
-
-
 TOPBAR_AIR:0	"Luft"
 TOPBAR_AIR_DESC:0	"Sehen Sie sich eine Übersicht über Ihre Luftstreitkräfte an."
 TOPBAR_CONVOY_STRING:0	"$FREE|0$"
-
-
-
 TOPBAR_FACTORY_STATUS_TRADED:	"Aus dem Handel: §G+$COUNT$§!"
 TOPBAR_FACTORY_STATUS_DAMAGED:	"Beschädigt: §R-$COUNT$§!"
 TOPBAR_FACTORY_STATUS_SUBJECT:	"       Fachbeziehungen: $COUNT|+=$"
-NAVAL_FACTORIES_STATUS:0	"Marinewerften im Einsatz: §Y$USED$§!/§Y$TOTAL$§!"
-
-
+NAVAL_FACTORIES_STATUS:0	"Verfügbare Marinewerften: §Y$USED$§!/§Y$TOTAL$§!"
 NUKES_COUNT_PROGRESS:0	"$NUM$ ($PROG|%0$)"
-
 THREAT_TIME_SCALE_TOOLTIP:0	"Aktuelle Skalierung: $VAL|1 %H$\nÄnderung um $MONTHLY_DECREASE|1 %H$ pro Monat seit $START_DATE|1 %H$,\nMinimum: $MIN|1 %H$"
 TOB_BAR_THREAT:0	"$VAL|%0$"
-
 THREAT_SOURCES_LATEST_HEADER:0	"§HLetzte Änderung:§!"
-
-
 THREAT_OPEN_HISTORY:0	"§GKlicken Sie, um den Verlauf zu öffnen.§!"
-
 THREAT_COUNTRY:0	"\n§H- §!$COUNTRY|H$"
 NO_THREAT_SOURCES:0	"§HKeine aktuellen Spannungsquellen§!"
-
 GENERATE_WAR_GOAL_THREAT:1	"Kriegsziel auf $TARGET$ rechtfertigen"
-
-
 THREAT_NO_CB_WAR:0	"Ungerechtfertigter Krieg gegen $TARGET$ erklärt"
-
 THREAT_ANNEX_COUNTRY:0	"$COUNTRY$ annektiert"
 THREAT_PUPPET:0	"$WHO$ als Marionette"
-
 GENERATE_WARGOAL_TENSION_DESC:0	"Benötigt $VAL|%Y0$ Spannung, um ein Kriegsziel zu rechtfertigen.\n"
-
-
 SEND_VOLUNTEERS_TENSION_DESC:0	"Benötigt $VAL|%Y0$ Spannung, um Freiwilligenkräfte zu entsenden.\n"
-
-
 THREAT_WINDOW_NAME:0	"Weltweite Spannungsgeschichte"
 DECISIONVIEW_AMOUNT_TIMEOUT_ITEMS:1	"$AMOUNT|R$"
-
 TOPBAR_DECISIONVIEW:0	"Entscheidungen"
 TOPBAR_DECISIONVIEW_DESC:0	"Treffen Sie Entscheidungen und reagieren Sie auf Ereignisse, die Ihrer Nation widerfahren.\n"
-
-
 TOPBAR_OPERATIONS_AVAILABLE_DESC:0	"§YVerfügbare Operationen§! ($AMOUNT$)\n"
-
-
 TOPBAR_OPERATIONS_COMPLETED_DESC:0	"§HAbgeschlossene Operationen§! ($AMOUNT$)\n"
 TOPBAR_TIMEOUT_ITEM_LOC:0	"$NAME$ ($DAYS|R0$ verbleibende Tage)"
-
 TOPBAR_ENERGY_DEMAND:0	"\n£Werkzeugmaschinen §YWerkzeugmaschinen§!\nTäglicher Bedarf: $DEMAND_VAL|H1$ (Erfüllt: $ENERGY_RATIO|H1%$)"
 TOPBAR_ENERGY_GENERATED:0	"Tägliche Produktion: $ENERGY_GENERATED|H1$"
 TOPBAR_COAL_CURRENTLY_USED:0	"Von §Y$COUNT$§! £resources_strip|4 derzeit verwendetes Wolfram"
@@ -90,10 +58,10 @@ TOPBAR_LOGISTICS_DESC:0	"Sehen Sie sich Details dazu an, wie Ausrüstung von Ihr
 TOPBAR_ARMY_DESC:0	"Sehen Sie sich eine Übersicht über Ihre Divisionen an."
 TOPBAR_NAVY:0	"Marine"
 TOPBAR_NAVY_DESC:0	"Verschaffen Sie sich einen Überblick über Ihre Flotten."
-MILITARY_FACTORIES_STATUS:0	"£mil_factory In Betrieb befindliche Militärfabriken: §Y$USED$§!/§Y$TOTAL$§!"
+MILITARY_FACTORIES_STATUS:0	"£mil_factory Verfügbare Militärfabriken: §Y$USED$§!/§Y$TOTAL$§!"
 TOPBAR_FACTORY_STATUS_OWNED:	"       Im Besitz: $COUNT|H$"
 TOPBAR_FACTORY_STATUS_OCCUPIED:	"       Aus Besatzung und extern: §G+$COUNT$§!"
-CIVILIAN_FACTORIES_STATUS:0	"£civ_factory Zivile Fabriken in Betrieb: §Y$USED$§!/ §Y$TOTAL$§!"
+CIVILIAN_FACTORIES_STATUS:0	"£civ_factory Verfügbare Zivilefabriken: §Y$USED$§!/ §Y$TOTAL$§!"
 NUKES_COUNT_NO_PROGRESS:0	"$NUM$"
 THREAT_TOOLTIP:0	"§HWeltweite Spannung\n§! Aktueller Wert: $VAL|1%H$"
 THREAT_SOURCES_HEADER:0	""

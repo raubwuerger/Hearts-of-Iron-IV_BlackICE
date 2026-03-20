@@ -637,7 +637,6 @@ RAJ_commie_revolution:0	"Revolution!"
 KMT_resist_the_reds:0	"Den Kommunisten widerstehen"
 KMT_resist_the_reds_desc:0	"§YErhält Buff, wenn er Krieg gegen die kommunistische Regierung führt!§!"
 KMT_anti_communism_sentiment_spirit:0	"Antikommunistische Stimmung"|"
-
 JAP_kodoha_idea:0	"Kodoha an der Macht"
 JAP_toseiha_idea:0	"Toseiha an der Macht"
 incompetent_industry_bookmark:0	"Inkompetente Industrie"
@@ -877,702 +876,337 @@ KMT_ledo_road_idea:0	"Ledo-Straße"
 KMT_yunnan_bahn_idea:0	"Yunnan-Haiphong-Eisenbahn"
 KMT_jiangnan_shipyard_group:0	"Jiangnan-Werft-Gruppe"
 KMT_assistance_to_CHI:0	"Unterstützung für China"
-
-
 KMT_the_hump_idea_close_desc:0	"Der Hump ist nun nicht mehr verfügbar. Wenn wir keine andere Route für ausländische Lieferungen finden, müssen wir uns damit begnügen."
-
 KMT_burma_road_idea_close_desc:0	"Die Burma Road ist ab sofort nicht mehr verfügbar. Solange wir keine andere Route für den Nachschub aus dem Ausland finden, müssen wir uns damit begnügen."
-
 KMT_ledo_road_idea_close_desc:0	"Die Ledo Road ist nun nicht mehr verfügbar. Wenn wir keine andere Route für ausländische Lieferungen finden, müssen wir uns damit begnügen."
-
 KMT_yunnan_bahn_idea_close_desc:0	"Die Eisenbahn ist jetzt nicht mehr verfügbar. Solange wir keine andere Route für den Nachschub aus dem Ausland finden, müssen wir uns damit begnügen."
-
 KMT_burma_road_idea_desc:0	"Die Burma Road ist eine Landversorgungsroute von Lashio nach Kunming."
-
 KMT_yunnan_bahn_idea_desc:0	"Die Yunnan-Haiphong-Eisenbahn ist eine Landversorgungsroute von Haiphong nach Yunnan."
-
 KMT_EFFICIENT_INTEGRATION:0	"Effiziente Integration"
-
 KMT_MILITIAS_DISBANDED:0	"Milizen aufgelöst"
-
 KMT_EFFICIENT_INTEGRATION_DESC:0	"Die reibungslose und effiziente Integration der Streitkräfte des Kriegsherrn gibt uns mehr Kontrolle über das Militär und eine schnellere Entscheidungsfindung."
-
 KMT_MILITIAS_DISBANDED_DESC:0	"Die lose organisierten Milizen, die während der Revolution gegen das alte Regime entstanden sind, wurden aufgelöst. Die allgemeine Kampfkraft unserer Streitkräfte hat zugenommen."
-
 KMT_FOCUS_ON_CENTRAL_ARMY_IDEA:0	"Konzentration auf die Zentralarmee"
-
 KMT_FACTIONALISM_ENCOURAGED:0	"Faktionalismus wird gefördert"
-
 KMT_focus_on_own_army_desc:0	"[Root.GetFocusOnOwnArmyIdeaDesc]"
-
 KMT_FACTIONALISM_ENCOURAGED_DESC:0	"Obwohl die Fraktionsbildung innerhalb unserer Armee die Durchführung gut koordinierter Operationen verhindert, würden die Soldaten der einzelnen Cliquen auf dem Schlachtfeld härter kämpfen, um die lukrativen Belohnungen zu erhalten, die wir anbieten."
-
 KMT_warlord_cliques_war:0	"[Root.GetWarlordArmyName]"
-
 KMT_FACTIONS_WITHIN_THE_ARMY:0	"Fraktionen innerhalb der Armee"
-
 KMT_warlord_cliques_war_desc:0	"[Root.GetWarlordArmyDesc]"
-
 KMT_FACTIONS_WITHIN_THE_ARMY_DESC:0	"Mächtige Figuren in der Armee haben Cliquen gebildet, um ihre Positionen zu sichern. Obwohl sie keine Bedrohung für unsere Herrschaft darstellen, haben Konflikte zwischen den Cliquen zu Schwierigkeiten bei der Koordinierung militärischer Operationen geführt."
-
 KMT_has_sun_li_jen_tt:0	"Setzen Sie §YSun Li-jen§! als General ein."
-
 KMT_has_chen_shaokuan_tt:0	"Nehmt §YChen Shaokuan§! als Marinekommandeur"
-
 KMT_cadet_in_GER_idea_sf:0	"Heereskadett in der Deutschen Militärakademie - Überlegene Feuerkraft"
-
 KMT_cadet_in_GER_idea_ma:0	"Heereskadett in der Deutschen Militärakademie - Massenangriff"
-
 KMT_cadet_in_GER_idea_ti:0	"Marinekadett in der Militärakademie - Handelsverbote"
-
 KMT_cadet_in_GER_idea_sd:0	"Luftkadett in der Militärakademie - Strategische Zerstörung"
-
 KMT_cadet_in_GER_idea_oi:0	"Luftkadett in der Militärakademie - Operation Integrität"
-
 KMT_defectors_PRC_desc:0	"Unsere Weigerung, dass [From.GetRulingParty] lokale Beamte in [Root.Capital.GetName] ersetzt, hat zu bewaffneten Konflikten geführt, und unsere Männer sind nicht bereit, die Feinde zu bekämpfen, einige sind sogar zur anderen Seite übergelaufen.\n\n§RDieser nationale Geist wird erst erlöschen, wenn man sich nicht mehr im Krieg befindet§!"
-
 PRC_zel_left:0	"Zhou Enlai hat uns verlassen"
-
 aware_unavailable_idea_desc:0	"Dieser Mechaniker ist für Ihr Land (noch)\n nicht verfügbar"
-
 cg_true:0	"Ist die Zentralregierung von China"
-
 central_gov_binary:0	"Status der Zentralregierung"
-
 jap_aware_0_desc:0	"Die Japaner wissen nichts von unserem Plan.\n"
-
 KMT_8_warlords_tt:0	"Es gibt mindestens 8 Kriegsherren\n"
-
 KMT_6_warlords_tt:0	"Es gibt höchstens 6 Kriegsherren\n"
-
 KMT_4_warlords_tt:0	"Es gibt höchstens 4 Kriegsherren\n"
-
 KMT_2_warlords_tt:0	"Es gibt höchstens 2 Kriegsherren\n"
-
 KMT_no_warlords_tt:0	"Es gibt keine Kriegsherren\n"
-
 cu_cg_warlords_7:0	"Kriegsherren-Cliquen"
-
 cu_cg_warlords_5:0	"Kriegsherren-Cliquen"
-
 cu_cg_warlords_3:0	"Kriegsherr Cliquen"
-
 cu_cg_warlords_1:0	"Kriegsherren-Cliquen"
-
 cg_warlords_ssc:0	"Sheng-Shicai-Clique"
-
 cg_communist_resistence:0	"Kommunistischer Widerstand"
-
 china_unification:0	"Kriegsherren"
-
 cu_unified:0	"Vereinigtes China"
-
 cu_communist_resistence:0	"Kommunistischer Widerstand"
-
-
 KMT_li_xiangyang:0	"Li Hsiang-yang"
-
 KMT_gui_yongqing:	"Gui Yongqing"
-
 KMT_soong_ml:0	"Soong Mei-ling"
-
 KMT_chen_lifu:0	"Chen Lifu"
-
 PRC_SHX_refused:0	"Rückseite geschützt"
-
 CHI_join_britain_rejected:0	"Fraktionsbeitritt abgelehnt"
-
 never_like_them_anyway:0	"Ich mag sie sowieso nicht"
-
 tolerance:0	"Duldung"
-
 SOV_CHI_join_comintern_reject:0	"Abgelehnter Beitritt Chinas zur Komintern"
-
-
 hk_kept:0	"Hongkong Beibehalten"
-
-
 jap_friendship_trade:0	"Fokus Japan Diplomatie"
-
 still_border_dispute:0	"Grenzkonflikt"
-
 aggresion:0	"Aggression"
-
 hk_kept_tp:0	"Hongkong Beibehalten"
-
-
 liberator_of_korea:0	"Befreier von Korea"
-
-
 more_sino_german_coop:0	"Mehr deutsch-chinesische Zusammenarbeit"
-
-
 KMT_trans_pacific_friendship:0	"China Diplomatischer Fokus"
-
-
-
 KMT_doolittle_pilots_given_to_JAP:0	"Übergabe des Piloten an Japan"
-
 KMT_doolittle_pilots_detained_SOV:0	"Pilot inhaftiert"
-
 KMT_doolittle_pilots_help:0	"Geholfene Piloten"
-
-
 KMT_disobedience:0	"Ungehorsam"
-
 KMT_xian_incident_sov_pos_trade:0	"Xi'an-Zwischenfall"
-
 KMT_xian_incident_sov_neg_trade:0	"Xi'an-Zwischenfall"
-
-
-
 KMT_damaged_colonial_interest:0	"Beschädigte koloniale Interessen"
-
-
 gzw_demo_kpt:0	"Guangzhouwan Beibehalten"
-
-
-
-
 KMT_not_offered_assistance:0	"Verweigerte weitere Zusammenarbeit"
-
 KMT_ledo_road_om:0	"Bau der Ledo-Straße"
-
 KMT_recognise_rival_government_trade:0	"Anerkannte rivalisierende Regierung"
-
 baihua_completed:0	"Die Kampagne ist beendet"
-
 CHI_warred_with_JAP:0	"Der Krieg mit Japan ist beendet"
-
 PRC_refuse_yangtze_partisan:0	"Jangtse-Teilung abgelehnt"
-
 jap_civil_war_sf:0	"Der japanische Bürgerkrieg ist ausgebrochen"
-
-
-
 jyut_generals_defected:0	"Übergelaufen zur KMT"
-
 chen_jitang_join_gxc:0	"Chen Jitang hat sich uns angeschlossen"
-
 KMT_central_gov_capital:0	"Ist die Hauptstadt der Zentralregierung"
-
 xsm_sumitted:0	"Xi Bei San Ma hat vorgelegt"
-
 yun_sumitted:0	"Yunnan hat vorgelegt"
-
 kmt_cjt_flag:0	"Chen Jitang hat sich unserer Armee angeschlossen"
-
 kmt_mbf_flag:0	"Ma Bufang hat sich unserer Armee angeschlossen"
-
 kmt_ly_flag:0	"Long Yun hat sich unserer Armee angeschlossen"
-
 KMT_cjt_tt:0	"Chen Jitang ist der Anführer der Yue-Clique"
-
 KMT_lzr_tt:0	"Li Zongren ist der Anführer der Guangxi Clique"
-
 KMT_yxs_tt:0	"Yan Xishan ist der Anführer von Shanxi"
-
 KMT_zhu_de_joined:0	"Zhu De hat sich uns angeschlossen"
-
-
-
 KMT_slj_unavailable:0	"Sun Li-jen ist nicht verfügbar"
-
 KMT_hyq_executed:0	"Neutralisiert"
-
 KMT_chiang_dead:0	"Verstorben"
-
 KMT_pro_japanese_coup:0	"Die pro-japanische Fraktion hat die Macht ergriffen"
-
-
 KMT_integrated_prc:0	"Integrierte KPCh"
-
-
 KMT_clamp_corruption:0	"Korruption eindämmen"
-
 KMT_end_corruption:0	"Der Korruption ein Ende setzen"
-
-
 kmt_tibet_add_to_faction_if_any:0	"§YTibet§! tritt der Fraktion bei, wenn §Y[Root.GetName]§! in einer Fraktion ist und der Fraktionsvorsitzende ist.\n"
-
 kmt_coastal_bunker_zhej_tt:0	"Füge §Y2 Küstenfestungen§! in §YHangzhou§!, §YNingbo§! und §YWenzhou§! hinzu."
-
 kmt_coastal_bunker_fj_tt:0	"Hinzufügen von §Y2 Küstenforts§! in §YXiamen§! und §YFuzhou§!\n"
-
 tactic_dtd_operation_attack:0	"Flankierendes Manöver"
-
 KMT_krupp:0	"Krupp"
-
 the_peoples_tutelage:0	"Die Volksmundschaft"
-
 KMT_mauser:0	"Mauser"
-
 KMT_hanyang_arsenal_tank:0	"Hanyang Arsenal"
-
 true_marxist_lennenist:0	"True Marxist Leninist" 
-
 JAP_toseiha_trait:0	"Toseiha an der Macht"
-
 JAP_kodoha_trait:0	"Kodoha An der Macht"
-
 JAP_kodoha:0	"Kodoha"
-
 JAP_taiseiyokusankai:0	"Taisei Yokusankai"
-
 autonomy_warlords:0	"Kriegsherr"
-
 YUT_neutrality:0	"Yue-Klüngel"
-
 YUT_neutrality_ADJ:0	"Kantonesisch"
-
 YUT_fascism_DEF:0	"Der Großkanton-Staat"
-
 YUT_communism:0	"Kanton-Gemeinde"
-
 YUT_communism_ADJ:0	"Kantonesisch"
-
 YUT_democratic_DEF:0	"Die Kantonische Republik"
-
 KMT_blueshirt:0	"Blauhemden"
-
 anti_chiang:0	"Vereinigte Anti-Chiang-Front"
-
 hanyang_rifles:0	"Hanyang-Gewehre"
-
 KMT_CPWDP:0	"CPWDP"
-
 rommel_of_the_east:0	"Rommel des Ostens"
-
 RYU_neutrality_DEF:0	"Das Königreich Ryukyu"
-
 RYU_fascism:0	"Reich der Drei Berge"
-
 RYU_fascism_ADJ:0	"Ryukyuan"
-
 RYU_communism_DEF:0	"Die Ryukyu-Gemeinde"
-
 RYU_democratic:0	"Republik Ryukyu"
-
 RYU_democratic_ADJ:0	"Ryukyu"
-
 CentralGov_democratic_DEF:0	"Die Republik China"
-
 CentralGov_communism_DEF:0	"Die Volksrepublik China"
-
 CentralGov_fascism_DEF:0	"Das Chinesische Kaiserreich"
-
 CentralGov_neutrality_DEF:0	"China"
-
 CKSclique_democratic_DEF:0	"Die Nationale Revolutionsarmee"
-
 CKSclique_communism_DEF:0	"Die Kommune des chinesischen Volkes"
-
 CKSclique_fascism_DEF:0	"Die Blauhemden"
-
 CKSclique_neutrality_DEF:0	"Die Kuomintang"
-
 XIA_neutrality:0	"Hunan-Klüngel"
-
 XIA_neutrality_ADJ:0	"Hunaner"
-
 XIA_fascism_DEF:0	"Das Kaiserreich Hunan"
-
 XIA_communism:0	"Kommune Hunan"
-
 XIA_communism_ADJ:0	"Hunanisch"
-
 XIA_democratic_DEF:0	"Die Republik Hunan"
-
 SCC_neutrality:0	"Die Sichuan-Clique"
-
 SCC_neutrality_ADJ:0	"Sichuanisch"
-
 SCC_fascism_DEF:0	"Der Shu-Staat"
-
 SCC_communism:0	"Volkskommune Sichuan"
-
 SCC_communism_ADJ:0	"Sichuanisch"
-
 SCC_democratic_DEF:0	"Der Demokratische Staat von Sichuan"
-
 QIA_neutrality:0	"Guizhou-Klüngel"
-
 QIA_neutrality_ADJ:0	"Guizhou"
-
 QIA_fascism_DEF:0	"Der nationalistische Staat von Guizhou"
-
 QIA_communism:0	"Anarchistisches Guizhou"
-
 QIA_communism_ADJ:0	"Guizhou"
-
 QIA_democratic_DEF:0	"Die Republik Guizhou"
-
 QIA_neutrality_party:0	"Guizhou-Klüngel"
-
 ZXL_neutrality_DEF:0	"Die nordöstliche Armee"
-
 ZXL_fascism:0	"Fengtian-Reich"
-
 ZXL_fascism_ADJ:0	"Fengtian"
-
 ZXL_communism_DEF:0	"Die Kommune Fengtian"
-
 ZXL_democratic:0	"Die Republik Fengtian"
-
 ZXL_democratic_ADJ:0	"Fengtian"
-
 SDC_neutrality_DEF:0	"Die Shandong-Clique"
-
 SDC_fascism:0	"Freistaat Shandong"
-
 SDC_fascism_ADJ:0	"Shandong"
-
 SDC_communism_DEF:0	"Die Volksrepublik Shandong"
-
 SDC_democratic:0	"Demokratischer Staat Shandong"
-
 SDC_democratic_ADJ:0	"Shandong"
-
 kmt_mod_slot:0	"Mod-Inhalt"
-
 PRC_communists_china:0	"Chinesische Kommunisten"
-
 KMT_opportunitist_trait:0	"Opportunistisch"
-
 KMT_lzr_defensive_focus:0	"Defensiver Fokus"
-
 north_west_insurgence:0	"Aufstand im Nordwesten"
-
 TWKMT_neutrality_DEF:0	"Die Republik China"
-
 TWKMT_democratic:0	"Republik China"
-
 TWKMT_democratic_ADJ:0	"Taiwanesisch"
-
 TWKMT_communism_DEF:0	"Die Kommune Taiwan"
-
 TWKMT_fascism:0	"Unabhängiger Staat Formosa"
-
 TWKMT_fascism_ADJ:0	"Taiwanesische"
-
 custom_diff_strong_warlords:0	"Stärkung der chinesischen Warlords"
-
 SKC_neutrality_DEF:0	"Die Xikang-Armee"
-
 SKC_communism:0	"Xikang-Kommune"
-
 SKC_communism_ADJ:0	"Xikang"
-
 SKC_democratic_DEF:0	"Der Demokratische Staat Xikang"
-
 SKC_fascism:0	"Staat Xikang"
-
 SKC_fascism_ADJ:0	"Xikang"
-
 WAR_NAME_PRC_CHI:0	"Chinesischer Bürgerkrieg"
-
 WAR_NAME_CHI_HYQ:0	"Chinesischer Bürgerkrieg"
-
 inspirational_leader_slj:0	"Charismatisch"
-
 organisational_leader_slj:0	"Organisation zuerst"
-
 HCAC_fascism:0	"Autonomer Rat der Hopeh-Chahar"
-
 KMT_new_line_tt:0	"\n\n"
-
 KMT_new_cpc:0	"Neue Kommunistische Partei Chinas"
-
-
 KMT_geologist:0	"Geologe"
-
-
 KMT_arrogant_capitalist:0	"Arroganter Kapitalist"
-
 mobile_tank:0	"Designer für mobile Panzer"
-
-
 KMT_generalissimo_dictator:0	"Diktator"
-
 KMT_naval_aviation_trait:0	"Seeluftfahrt"
-
 KMT_camco_fighter_manufacturer:0	"Hersteller von Kampfflugzeugen"
-
-
-
 DPK_neutrality_DEF:0	"Das Joseon-Königreich"
-
 DPK_communism:0	"Demokratische Volksrepublik Korea"
-
 DPK_communism_ADJ:0	"Joseon"
-
 DPK_democratic_DEF:0	"Die Republik Joseon"
-
 DPK_fascism:0	"Kaiserreich Joseon"
-
 DPK_fascism_ADJ:0	"Joseon"
-
 DPK_communism_party:0	"WPK"
-
 KMTKOR_communism:0	"Syndikalistischer koreanischer Staat"
-
 KMTKOR_communism_ADJ:0	"Koreanisch"
-
 KMTKOR_democratic_DEF:0	"Die Republik Korea"
-
 KMTKOR_fascism:0	"Daehan Jeguk"
-
 KMTKOR_fascism_ADJ:0	"Koreanisch"
-
 KMTKOR_neutrality_DEF:0	"Goryeo"
-
-
-
 KMT_cks_generalissimo_desc:0	"Der Generalissimo ist der oberste Chef der Armee, der Marine und der Luftwaffe unserer Nation."
-
 Ryukyu_shuri_capital:0	"Shuri"
-
 VICTORY_POINTS_12074:0	"Weifang"
-
 VICTORY_POINTS_12069:0	"Jining"
-
 VICTORY_POINTS_12067:0	"Yancheng"
-
 VICTORY_POINTS_1168:0	"Taizhou"
-
 VICTORY_POINTS_9963:0	"Yangjiang"
-
 VICTORY_POINTS_10057:0	"Ji'an"
-
 VICTORY_POINTS_10040:0	"Suzhou"
-
 VICTORY_POINTS_4519:0	"Nanyang"
-
 VICTORY_POINTS_1034:0	"Linfen"
-
 VICTORY_POINTS_10474:0	"Xiangyang"
-
 VICTORY_POINTS_10757:0	"Yichang"
-
 VICTORY_POINTS_12436:0	"Hechi"
-
 VICTORY_POINTS_10763:0	"Zunyi"
-
 VICTORY_POINTS_1976:0	"Xi'an"
-
 VICTORY_POINTS_12880:0	"Bayan Nur"
-
 VICTORY_POINTS_8127:0	"Alxa"
-
 VICTORY_POINTS_12327:0	"Wuwei"
-
 VICTORY_POINTS_8126:0	"Deqen"
-
 VICTORY_POINTS_11986:0	"Quanzhou"
-
 VICTORY_POINTS_6837:0	"Huludao"
-
 VICTORY_POINTS_934:0	"Chaoyang"
-
 VICTORY_POINTS_4503:0	"Songyuan"
-
 VICTORY_POINTS_1627:0	"Hinggan"
-
 VICTORY_POINTS_1588:0	"Qiqihar"
-
 VICTORY_POINTS_11906:0	"Mudanjiang"
-
 VICTORY_POINTS_4823:0	"Altay"
-
 VICTORY_POINTS_7792:0	"Bayingol"
-
 VICTORY_POINTS_5080:0	"Nagqu"
-
 VICTORY_POINTS_10397:0	"Zhangjiakou"
-
 VICTORY_POINTS_1395:0	"Chengdu"
-
 VICTORY_POINTS_7648:0	"Xilin Gol"
-
 VICTORY_POINTS_12819:0	"Leshan"
-
 VICTORY_POINTS_1474:0	"Tongren"
-
 VICTORY_POINTS_10144:0	"Ankang"
-
 VICTORY_POINTS_2067:0	"Ya'an"
-
 VICTORY_POINTS_12014:0	"Shaoguan"
-
 dare_to_die_corps:0	"Korps der Todesmutigen"
-
 KMT_yenan_rom:0	"Yenan"
-
 KMT_4181_postal:0	"Lini"
-
 KMT_7109_postal:0	"Paoting"
-
 KMT_1168_postal:0	"Taichow"
-
 KMT_7108_postal:0	"Tungkuan"
-
 KMT_7067_postal:0	"Schwaben"
-
 KMT_11920_postal:0	"Kingwha"
-
 KMT_10040_postal:0	"Suchow"
-
 KMT_7158_postal:0	"Tatung"
-
 KMT_7167_postal:0	"Siaokan"
-
 KMT_12436_postal:0	"Hochi"
-
 KMT_1018_postal:0	"Yamchow"
-
 KMT_11972_postal:0	"Luchow"
-
 KMT_1976_postal:0	"Sian"
-
 KMT_7911_postal:0	"Tenshui"
-
 KMT_2028_postal:0	"Kiuchuan"
-
 KMT_11986_postal:0	"Chinchew"
-
 KMT_4809_postal:0	"Da Shingan Ling"
-
 KMT_4503_postal:0	"Sungyun"
-
 KMT_10612_postal:0	"Manchowli"
-
 KMT_1545_postal:0	"Kiamusze"
-
 KMT_10397_postal:0	"Kalgan"
-
 KMT_1395_postal:0	"Chengtu"
-
 KMT_1474_postal:0	"Tungjen"
-
 KMT_8049_postal:0	"Fusze"
-
 KMT_9942_postal:0	"Kanchow"
-
 KMT_7191_postal:0	"Hangchow"
-
 KMT_4196_postal:0	"Foochow"
-
 KMT_1047_postal:0	"Kanton"
-
 KMT_7965_postal:0	"Tali"
-
 KMT_7101_postal:0	"Changteh"
-
 KMT_9958_postal:0	"Chengchow"
-
 KMT_4495_postal:0	"Tolun"
-
 KMT_1150_postal:0	"Dairen"
-
 KMT_10000_postal:0	"Tsingtao"
-
 KMT_6837_postal:0	"Hulutao"
-
 KMT_11822_postal:0	"Tungchow"
-
 KMT_1070_postal:0	"Haikow"
-
 KMT_postal_STATE_757:0	"Tsinan"
-
 KMT_postal_STATE_760:0	"Kanchow"
-
 KMT_postal_STATE_763:0	"Schiukwan"
-
 KMT_postal_STATE_753:0	"Nord Shingan"
-
 KMT_postal_STATE_608:0	"Peiping"
-
 KMT_postal_STATE_622:0	"Shensi"
-
 KMT_postal_STATE_597:0	"Halbinsel Shantung"
-
 KMT_postal_STATE_607:0	"Honan"
-
 KMT_postal_STATE_613:0	"Schanghai"
-
 KMT_postal_STATE_595:0	"Fukien"
-
 KMT_postal_STATE_592:0	"Kanton"
-
 KMT_postal_STATE_600:0	"Kiangsi"
-
 KMT_postal_STATE_605:0	"Szechwan"
-
 KMT_postal_STATE_601:0	"Sikang"
-
 KMT_postal_STATE_745:0	"Ichang"
-
 KMT_postal_STATE_616:0	"Ningsia"
-
 KMT_postal_STATE_604:0	"Tsinghai"
-
 KMT_postal_STATE_728_returned:0	"Tsamkong"
-
 KMT_STATE_728_returned:0	"Zhanjiang"
-
 KMT_shenyang:0	"Shenyang"
-
 KMT_shandong_peninsula:0	"Halbinsel Shandong"
-
 KMT_kanto_shu:0	"Kanto-shu"
-
 KMT_2099_postal:0	"Tulan"
-
 KMT_10490_postal:0	"Kweiteh"
-
-
 KMT_VIN_v_test:0	"[?VIN.KMT_spread_revolution_int_match_check]"
-
 KMT_test_desc:0	"tägliche Erhöhung [?Root.KMT_subject_num]"
-
 autonomy_warlord:0	"Kriegsherr"
-
 develop_suiyuan_resources:0	"Deutsche Expertise für die Entwicklung von Suiyuan nutzen"
-
 develop_shanxi_resources:0	"Deutsche Expertise für die Entwicklung von Shanxi nutzen"
-
 develop_hubei_resources:0	"Einsatz von German Expertise für die Entwicklung von Hubei"
-
 develop_yulin_resources:0	"Nutzen Sie German Expertise für die Entwicklung von Nanjing"
-
 develop_guangdong_resources:0	"Nutzung von German Expertise zur Entwicklung von Guangdong"
-
 develop_changde_resources:0	"Nutzen Sie deutsches Know-how für die Entwicklung von Changde"
-
 CHI_improve_industy:0	"Verbessern Sie unsere Industrie"
-
 CHI_chinese_tribute:0	"Republikanische Industrie"
-
 KMT_HOL_friend:0	"Niederländischer Schiffbau"
-
 KMT_ITA_friend:0	"Polizeiausbildung in Tientsin"
-
-
-
 CHI_military_first:0	"Militärische Erste"
-
 KMT_cadet_in_GER_idea_fib:0	"Kadetten in Deutschland"
-
 KMT_jz_anti_communism_campaign:0	"Jz Anti-Kommunismus-Kampagne"
-
 KMT_promote_pro_jap_idea:0	"Förderung pro-japanischer Ideen"
-
 KMT_reorganising_military:0	"Reorganisation des Militärs"
-
 PRC_integrate_SHX:0	"[FROM.GetName] integrieren"
-
 CHI_integrate_warlords_cost_blocked:0	"£command_power §R20§!"
-
 KMT_anti_communism_sentiment_spirit_desc:0	"§RWird entfernt, wenn kein Krieg gegen die Kommunisten herrscht.§!"
 KMT_assistance_to_CHI_desc:	" [CHI.GetNameDefCap] wird von den imperialistischen Ambitionen von [JAP.GetNameDef] bedroht, das sich als einzige Großmacht in Asien etablieren will, wobei alle anderen lokalen Nationen unter seinem Einfluss oder seiner Besatzung stehen sollen. Sie benötigen dringend Unterstützung, um ihren Widerstand fortsetzen zu können."
 KMT_the_hump_idea_closed:0	"The Hump (Nicht verfügbar)"

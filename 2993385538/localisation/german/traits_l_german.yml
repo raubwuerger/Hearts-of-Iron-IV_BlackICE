@@ -301,1496 +301,740 @@ ranger:0	"Waldjäger"
 ranger_desc:1	"§LRanger gehen voran, besonders wenn es um den Kampf in Wald- oder Dschungelgebieten geht.§!"
 urban_assault_specialist:0	"Stadtkampfspezialist"
 urban_assault_specialist_desc:0	"§LEin Experte im Kampf in fremden Häusern und im Verursachen von Chaos auf den Straßen der Menschen.§!"
-
-
 blockade_runner:0	"Blockadebrecher"
 blockade_runner_desc:0	"§LKann sich schnell aus dem Seegefecht zurückziehen!§!"
-
-
 fly_swatter:0	"Fliegenklatsche"
 fly_swatter_desc:0	"§LDie Fliegenklatsche ist sich der Gefahr bewusst, die selbst für unsere stärksten Schiffe durch Flugzeuge besteht, und beseitigt schnell alles, was fliegt.§!"
-
-
 air_controller:0	"Fluglotse"
 air_controller_desc:0	"§LAls Experte auf dem aufstrebenden Gebiet der Marinefliegerei ist der Fluglotse die natürliche Wahl für das Kommando über Flugzeugträger§!"
-
-
 bearer_of_artillery:0	"Artillerie Experte"
 bearer_of_artillery_desc:0	"§LMacht ausgezeichneten Gebrauch von der Artillerie§!"
-
-
 CAS_manufacturer:0	"Sturzkampfbomber-Konstrukteur"
 light_aircraft_manufacturer_2:0	"Flugzeugdesigner mit Fokus auf Beweglichkeit"
-
-
 naval_aircraft_manufacturer:0	"Designer für Marineflugzeuge"
 fast_tank_manufacturer:0	"Designer für schnelle Panzer"
-
-
 heavy_tank_manufacturer:0	"Designer für schwere Panzer"
 JAP_tank_osaka:0	"Panzer-Konstrukteur"
-
-
 raiding_fleet_naval_manufacturer:0	"Designer für die Angriffsflotte"
 convoy_escort_naval_manufacturer:0	"Designer für die Geleitflotte"
-
-
 refinery_concern:0	"Veredelungskonzern"
 political_dancer:0	"Meister-Manöverierer"
-
-
 mobile_warfare_expert:0	"Experte für mobile Kriegsführung"
 superior_firepower_expert:0	"Experte für überlegene Feuerkraft"
-
-
 assault_operations_expert:0	"Experte für Angriffsoperationen"
 decisive_battle_expert:0	"Experte für Entscheidungsschlachten"
-
-
 defence_theorist:0	"Experte für Verteidigungsdoktrinen"
 guerilla_warfare_expert:0	"Experte für Guerilla-Kriegsführung"
-
-
 elastic_defence_expert:0	"Experte für elastische Verteidigung"
 containment_expert:0	"Experte für zerstörerische Eindämmung"
-
-
 brigade_doctrine_expert:0	"Experte für Regimentsdoktrin"
 military_intel:0	"Spezialist für Aufklärung"
-
-
 imperial_sanction:0	"Kaiserliche Sanktion"
 emperor_showa:0	"Kaiser Showa"
-
-
 cornered_fox:0	"In die Enge getriebener Fuchs"
 stout_defender:0	"Beherzter Verteidiger"
-
-
 triumphant_revolutionary:0	"Triumphierender Revolutionär"
 exiled_revolutionary:1	"Exil-Revolutionär"
-
-
 revolutionary_general:1	"Revolutionärer General"
 primate_of_mexico:0	"Primas von México"
-
-
 cristero_general:1	"General der Cristero"
 protector_of_the_campesinos:1	"Beschützer der Campesinos"
-
-
 the_silver_president:1	"Der Silberne Präsident"
 the_dean_of_mexican_marxism:1	"Der Dekan des mexikanischen Marxismus"
-
-
 inexperienced_imperialist:0	"Unerfahrener Imperialist"
 autocratic_imperialist:0	"Autokratischer Imperialist"
-
-
 stalins_puppet:0	"Stalins Marionette"
 stalins_puppet_desc:0	"§LSo loyal und patriotisch er auch ist, er wird niemals die Internationale, die Notlage der Arbeiter oder sein Heimatland verraten. In dieser Reihenfolge§!"
-
-
 indomitable_perseverance:1	"Unbeugsame Beharrlichkeit"
 anti_communist:0	"Anti-Kommunismus"
-
-
 appeaser:0	"Bescheidener Beschwichtiger"
 organizer:0	"Einfacher Organisator"
-
-
 organizer_desc:1	"§LFähig, die Bewegung großer Armeen zu planen und zu organisieren§!"
 first_lady:0	"Erste Dame der Republik"
-
-
 panzer_expert:0	"Panzerexperte"
 panzer_expert_desc:1	"§LErfahrung und Ausbildung machen diesen Anführer zu einem Experten in der Führung von Panzern.§!"
-
-
 combined_arms_expert_desc:1	"§LEr kann die Stärken von Panzern und Infanterie kombinieren.§!"
 cavalry_leader:0	"Kavallerieführer"
-
-
 cavalry_expert_desc:1	"§LExperte im Einsatz von Geschwindigkeit und Mobilität im Kampf.§!"
 infantry_leader:0	"Infanterieanführer"
-
-
 infantry_expert_desc:1	"§LEin wahrer Experte im Führen von Infanterie.§!"
 unyielding_defender:0	"Zäher Verteidiger"
-
-
 aggressive_assaulter_short:0	"Aggressiver Angreifer"
 aggressive_assaulter_desc:1	"§LDie beste Verteidigung ist eine starke Offensive§!"
-
-
 ambusher:0	"Angriffer aus dem Hinterhalt"
 ambusher_desc:1	"§LKann gegnerische Truppen geschickt in einen Hinterhalt locken.§!"
-
-
 naval_liason:1	"Marine-Verbindung"
 naval_liason_desc:1	"§LEine gute Beziehung zur Marine sorgt dafür, dass es mehr Feuerunterstützung durch die Marine gibt.§!"
-
-
 expert_improviser_desc:1	"§LEin Experte für die Lösung von Problemen mit allen zur Verfügung stehenden Mitteln §!"
 guerilla_fighter:0	"Guerillakämpfer"
-
-
 winter_expert_desc:1	"§LDie hart erarbeitete Erfahrung hat diesen Anführer gelehrt, wie man unter rauen Winterbedingungen kämpft.§!"
 skilled_staffer:0	"Erfahrener Armeeanführer"
-
-
 adaptable_desc:1	"§LEr hat ein natürliches Verständnis dafür, wie man in verschiedenen Terrains kämpft und sich an unterschiedliche Umgebungen anpasst.§!"
 terrain_traits:0	"Terrain Eigenschaften"
-
-
 field_marshal_traits:0	"Feldmarschall Eigenschaften"
 assignable_traits:1	"Allgemeine Eigenschaften"
-
-
 background:0	"Hintergrund"
 LEADER_DETAILS_TITLE:0	"Anführer Details"
-
-
 great_war_hero:0	"Großer Kriegsheld"
 popular_figurehead2:0	"Populäres Aushängeschild"
-
-
 victoria_iii:0	"Victoria III."
 incognito:0	"Inkognito"
-
-
 ENABLES_ABILITY:0	"Aktiviert Fähigkeit: $NAME|H$"
 ABILITY_DESC:0	"$NAME|H$: $DETAILS$"
-
-
 ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS:0	"Der General hat bereits die maximale Anzahl an zuweisbaren Eigenschaften.\n"
 TRAIT_NOT_ALLOWED:0	"Die Eigenschaft ist nicht erlaubt.\n"
-
-
 TRAIT_NEED_ALL_PARENTS:0	"Alle übergeordneten Eigenschaften müssen freigeschaltet sein, um diese Eigenschaft zuweisen zu können.\n"
 TRAIT_NEED_SOME_PARENTS:0	"Es müssen mindestens $NUM$ übergeordnete Eigenschaften freigeschaltet sein, um diese Eigenschaft zuweisen zu können.\n"
-
-
 SKILL_DEFENSE:0	"£defence_texticon §HVerteidigung§!"
 SKILL_DEFENSE_DESC:0	"§LDie Verteidigungsfähigkeit steigert die Verteidigungswerte der Einheiten, die vom General angeführt werden.§!"
-
-
 SKILL_LOGISTICS:0	"£logistics_texticon §HLogistik§!"
 SKILL_LOGISTICS_DESC:0	"§LLogistikfähigkeit reduziert den Nachschubverbrauch der Einheiten, die vom General geführt werden.§!"
-
-
 SKILL_NAVY_LEADER_DEFENSE:0	"£defence_texticon §HVerteidigung§!"
 SKILL_NAVY_LEADER_DEFENSE_DESC:0	"§LVerteidigungsfähigkeit erhöht die Verteidigungswerte der Schiffe, die vom Admiral geführt werden.§!"
-
-
 SKILL_NAVY_LEADER_COORDINATION:0	"£coordination_texticon §HKoordination§!"
 SKILL_NAVY_LEADER_COORDINATION_DESC:0	"§LKoordination erhöht die Reichweite und die Effizienz der vom Admiral geführten Schiffe. Außerdem erlaubt sie dem Admiral, eine größere Flotte zu kontrollieren.§!"
-
-
 SKILL_NAVY_LEADER_LEVEL_NEXT_AMOUNT:0	"Dein Admiral braucht $VALUE|H$ Erfahrung, um in die nächste Stufe aufzusteigen."
 SKILL_LEVEL_CURRENT_PROGRESS:0	"Aktueller Fortschritt: $VALUE|H%0$"
-
-
 PICK_TRAIT:0	"Eigenschaft wählen"
 BASIC_TRAITS_DESC:1	"Verdiente Eigenschaften sind die Eigenschaften, die nicht manuell zugewiesen werden können, sondern durch das Sammeln von Erfahrung in relevanten Bereichen oder durch Ereignisse erworben werden können."
-
-
 TERRAIN_TRAITS_DESC:0	"Geländeeigenschaften geben Generälen, die in bestimmten Gebieten kämpfen, Boni. Sie können manuell zugewiesen werden oder durch Erfahrung erworben werden, wie grundlegende Eigenschaften."
 CONFIRMTRAITASSIGNMENT:1	"Eigenschaft zu $TITLE$ zuweisen"
-
-
 CONFIRMTRAITASSIGNMENT_DESC_REMAINING_NONE:2	"Nachdem du diese Eigenschaft zugewiesen hast, hast du §Rno§! verfügbare Eigenschaften, die du für diesen $TITLE$ zuweisen kannst."
 JAP_samurai_lineage:0	"Samurai-Abstammung"
-
-
 JAP_communist_sympathizer_desc:1	"§LUnterstützer der kommunistischen Sache§!"
 BOOST_ATTACK_FACTOR:4	"Erhöht die Wahrscheinlichkeit, §HAngriffsfähigkeit§! beim Aufstieg zu erlagen."
-
-
 BOOST_PLANNING_FACTOR:4	"Erhöht die Wahrscheinlichkeit, §HPlanungsfähigkeit§! beim Aufstieg zu erlagen."
 BOOST_MANEUVERING_FACTOR:0	"Erhöht die Wahrscheinlichkeit, §HManöverfähigkeit§! beim Aufstieg zu erlagen."
-
-
 INCREASED_COUNTERATTACK_CHANCE:0	"Erhöhte Wahrscheinlichkeit, §HGegenangriffstaktiken§! auszuführen."
 INCREASED_ASSAULT_AND_SHOCK_CHANCE:0	"Erhöhte Wahrscheinlichkeit, die Taktiken §HAngriff§! und §HSchock§! auszuführen"
-
-
 camouflage_expert:0	"Tarnungsexperte"
 camouflage_expert_desc:1	"§LDer richtige Einsatz von Tarnung kann die Bedrohung durch feindliche Luftangriffe erheblich verringern.§!"
-
-
 expert_delegator:0	"Generalstabsexperte"
 expert_delegator_desc:1	"§LDie Kunst des Delegierens erlaubt es diesem Anführer, mehrere Armeen effizient zu befehligen§!"
-
-
 trait_bonus_defense:0	"£defence_texticon Verteidigung: $VAL|+=0$"
 trait_bonus_planning:0	"£planning_max_texticon Planung: $VAL|+=0$"
-
-
 trait_bonus_coordination:0	"£coordination_texticon Koordination: $VAL|+=0$"
 sick:0	"Krank"
-
-
 wounded_desc:1	"§LEine schwere Wunde braucht einige Zeit zur Genesung.§!"
 heavily_wounded:	"Starke Verwundung"
 heavily_wounded_desc:1	"§LA lebensbedrohliche Wunde, die sofortige ärztliche Hilfe erfordert.§!"
 disgruntled:0	"Verärgert"
-
 demoted:0	"Degradiert"
 demoted_desc:1	"§LDegradiert zu werden, macht niemanden glücklich, und dieser Anführer ist da keine Ausnahme§!"
-
 substance_abuser_desc:1	"§LSucht kann eine schlimme Sache sein, aber sie ist wirklich unter Kontrolle.§!"
-
-
 brilliant_strategist:0	"Brillianter Stratege"
-
 inflexible_strategist:0	"Unflexibler Stratege"
 inflexible_strategist_desc:1	"§LGeschickt, aber starrköpfig. Ein Plan, der gut genug ist, kann den Kontakt mit dem Feind überleben.§!"
-
 politically_connected_desc:1	"§LDieser Anführer hat politische Verbindungen, die ihm den Weg für seine Karriere geebnet haben. Vielleicht zu schnell!§!"
-
-
 career_officer:0	"Berufsoffizier"
-
 trait_cautious:0	"Cautious"
 trait_cautious_desc:0	"§Lässt sich Zeit und plant sorgfältig.§!"
-
 trait_reckless_desc:0	"§LEin guter Offizier muss an der Spitze stehen!§!"
-
-
 harsh_leader:0	"Strenger Führer"
-
 infantry_officer:0	"Infanterieoffizier"
 infantry_officer_desc:1	"§LAusgebildet als Infanterieoffizier.§!"
-
 cavalry_officer_desc:1	"§LAusbildung zum Kavallerieoffizier!§!"
-
-
 blitzkrieg_master_desc:0	"Ein Meister der schnellen Blitzkriegstaktik mit gepanzerten Einheiten"
-
 motorized_leader_desc:0	"Dieser Anführer kann motorisierte Truppen befehligen."
 motorized_leader_II:0	"Motorisierter Anführer (Experte)"
-
 motorized_leader_III:0	"Motorisierter Anführer (Genie)"
-
-
 UNIT_LEADER_TRAIT_XP:0	"§HErfahrung:§! $CUR|.0$/$MAX|.0$"
-
 hidden_sympathies:0	"Versteckte Sympathien"
 hidden_sympathies_desc:0	"§LDieser General hat einige illoyale Meinungen im privaten Bereich geäußert und wird wahrscheinlich Aufstände unterstützen, die von subversiven Elementen angezettelt wurden.§!"
-
 cavalry_ratio_over_25:1	"Kavallerie-Bataillonsverhältnis > §H25%§!"
-
-
 armored_ratio_over_40:0	"Verhältnis der Panzerbataillone > §H40%§!"
-
 engineer_ratio_over_1_TT:0	"Jede Division hat eine §YEngineer Company§!"
 recon_ratio_over_10:0	"Anteil der Aufklärungsausrüstung im Heer > §H90%§!"
-
 fort_or_river_modifier:0	"Kämpft auf einem §YFort§! oder überquert einen §YFluss§!"
-
-
 skill_higher_than_3:0	"Hat Geschicklichkeit von §Y4§! oder höher"
-
 TRAIT_OPEN_WIKI:0	"Klicken Sie hier, um mehr darüber zu erfahren"
 trait_xp_factor:0	"$NAME|H$ Erfahrungsfaktor: $VAL|H%.0$"
-
 recently_promoted_desc:1	"§LGewöhnt euch an die Aufgaben des neuen Ranges!§!"
-
-
 force_attack:0	"Kraftangriff"
-
 only_one_ability:0	"Solange diese Fähigkeit aktiv ist, können wir keine andere Fähigkeit wählen. \n\n"
 TRAIT_WILL_EXPIRE:0	"Die Eigenschaft läuft in $DAYS|H$ Tagen ab."
-
 TRAIT_TITLE:0	"§Y$TRAITNAME$§!"
-
-
 TRAIT_UNLOCKS_ADVISOR_ROLE:0	"Schaltet die Rolle §Y$ADVISORSLOT$§! frei: §Y$ADVISORNAME$§!\n"
-
 TRAIT_PARENT_PRECONDITION_ALL_OF_TITLE:	"§YErfordert alles Folgende:§!"
 TRAIT_PARENT_PRECONDITION_N_OF_TITLE:	"§YErfordert $NUMBER$ der folgenden Elemente:§!"
-
 TRAIT_PARENT_PRECONDITION_PARENT:	"- $NAME$"
-
-
 advisor_slot_title:0	"$NAME$"
-
 advisor_trait_expert:0	"(Experte)"
 advisor_trait_genius:0	"(Genie)"
-
 pick_advisor_role:0	"Verfügbare Berater-Rolle"
-
-
 exiled_leader:0	"Anführer im Exil"
-
 champion_of_peace_1:0	"Meister des Friedens"
 champion_of_peace_2:0	"Meister des Friedens"
-
 champion_of_peace_4:0	"Meister des Friedens"
-
-
 inshore_fighter:0	"Küstenkämpfer"
-
 green_water_expert:0	"Experte für grüne Gewässer"
 green_water_expert_desc:0	"§LDer Kampf in flachen Gewässern birgt seine eigenen Herausforderungen. Dieser Offizier hat sie gemeistert.§!"
-
 blue_water_expert_desc:0	"§LDieser Offizier ist ein Experte für den Kampf auf hoher See.§!"
-
-
 fleet_protector:0	"Flottenbeschützer"
-
 silent_hunter:0	"Stiller Jäger"
 silent_hunter_desc:0	"§LDieser U-Boot-Offizier ist ein Meister der Tarnung und hat gelernt, seinen Verfolgern zu entkommen.§!"
-
 lancer_desc:0	"§LDieser Offizier kennt Torpedos wie kein anderer und kann das Beste aus ihnen herausholen.§!"
-
-
 lone_wolf:0	"Einsamer Wolf"
-
 concealment_expert:0	"Tarnungsexperte"
 concealment_expert_desc:0	"§LDieser Offizier hat das von der Regierung vorgeschriebene Training absolviert, um nicht gesehen zu werden.§!"
-
 mine_sweeper_desc:0	"§LJedes Schiff kann einmal ein Minenräumer sein. Um mehrere Minen zu räumen, braucht es Geschicklichkeit.§!"
-
-
 cruiser_captain:0	"Kreuzerkapitän"
-
 big_guns_expert:0	"Experte für große Kanonen"
 big_guns_expert_desc:0	"§LDieser Offizier mag große Kanonen und ist unfähig zu lügen.§!"
-
 ground_pounder_desc:0	"§LMit Marineartillerie auf ein stationäres Ziel an Land zu schießen, ist fast unsportlich. Fast.§!"
-
-
 flight_deck_manager:0	"Flugdeck Manager"
-
 smoke_screen_expert:0	"Nebelwand Spezialist"
 smoke_screen_expert_desc:0	"§LRichtig eingesetzt, kann Rauchen sogar Leben retten!§!"
-
 torpedo_expert_desc:0	"§LEin Schiff zu treffen, das sich mit einer Geschwindigkeit von 25 Knoten und einem relativen Winkel von 72 Grad in einer Entfernung von 8 Kilometern bewegt, ist eigentlich nur eine einfache Rechenaufgabe!§!"
-
-
 hunter_killer:0	"Hunter-Killer"
-
 marksman:0	"Scharfschütze"
 marksman_desc:0	"§L\"Legen Sie die nächste Salve einen halben Meter weiter hinten ab, direkt in ihr Magazin.\"§!"
-
 crisis_magician_desc:0	"§L\"Die Kondensatorröhren sind kaputt, Captain. Die Reparaturen werden mindestens 6 Wochen dauern. Aber ich kann es in 3 Stunden schaffen.\"§!"
-
-
 torpedo_bomber:0	"Torpedo-Bomber"
-
 search_pattern_expert:0	"Suchmusterexperte"
 search_pattern_expert_desc:0	"§LInformation ist Munition!§!"
-
 gentlemanly_desc:0	"§LDieser Offizier flößt Untergebenen und Feinden gleichermaßen Respekt ein!§!"
-
-
 cuts_corners:0	"Cuts Corners"
-
 chief_engineer:0	"Chefingenieur"
 chief_engineer_desc:0	"§LDieser Offizier weiß, wie das Schiff wirklich funktioniert!§!"
-
 bold_desc:0	"§LDer Unterschied zwischen einem kühnen und einem dummen Angriff besteht darin, dass der kühne Angriff erfolgreich ist!§!"
-
-
 battleship_adherent:0	"Battleship Adherent"
-
 aviation_enthusiast:0	"Enthusiast der Luftfahrt"
 aviation_enthusiast_desc:0	"§LDie Luftstreitkräfte der Marine sind die bessere Alternative zu den großen Geschützen!§!"
-
 caustic_personality_desc:0	"§LDieser Offizier ist ein bisschen salziger als die meisten anderen!§!"
-
-
 naval_lineage:0	"Marinestammbaum"
-
 navy_media_personality:0	"Medienpersönlichkeit"
 navy_media_personality_desc:0	"§LDieser Admiral hat ein Händchen dafür, der richtigen Person das richtige Zitat zu geben!§!"
-
 air_pilot_training_2:0	"Pilotenausbildung\n(Experte)"
-
-
 dive_bomber_desc:0	"Ein Experte in der Verwendung von Sturzkampfbombern."
-
 little_churchill:0	"\"Kleine Kirche\""
 wilhelmina:0	"Wilhelmina"
-
 disdain_for_politicians_2:0	"Verachtung für Politikerinnen und Politiker"
-
-
 princess_of_terror:0	"Prinzessin des Terrors"
-
 red_suffragette:0	"Rote Suffragette"
 royalist_bulldog:0	"Royalistische Bulldogge"
-
 old_figurehead:0	"Alte Galionsfigur"
-
-
 colonial_communist:0	"Kolonialer Kommunist"
-
 socialite_connections:0	"Sozialistische Verbindungen"
 wallis_fancy_title:0	"Ihre Majestät Königin Wallis, Erste ihres Namens, von Gottes Gnaden Königin von Amerika, Großadmiral der Königlichen Amerikanischen Marine, Herzogin von Wallington, Herzogin von Manhattan, Herzogin von Long Island, Gräfin von Orange, Gräfin von O'ahu, Marquise von New Orleans, Baronin von Springfield, Baronin von Hollywood, Baronin von Central Park, Grand Socialite, Beschützerin der Freiheit, Vorhut des Nordwestens von Alaska, Rächerin der Boston Tea Party, Terror von Wallington, D. C."
-
 headstrong:0	"Eigenwillig"
-
-
 snuggler:0	"Kuschler"
-
 stammer:0	"Stotterer"
 humble:0	"Demütig"
-
 FLEET_PROTECTOR_TRIGGER_TT:0	"Mehr als 50 % Abschirmschiffe in der Flotte"
-
-
 FLY_SWATTER_TRIGGER_TT:0	"Feindliche Lufteinheiten bekämpfen"
-
 BLOCKADE_RUNNER_TRIGGER_TT:0	"Tapferer Rückzug im Angesicht einer überwältigenden Macht"
 AIR_CONTROLLER_TRIGGER_TT:	"Hat §YTräger gestütze Geschwader§! im Kampf"
-
 comintern_workhorse:0	"Komintern-Arbeitspferd"
-
-
 chamberlain_appeaser:0	"Appeaser"
-
 conservative_grandee:0	"Konservativer Grandseigneur"
 genial_anti_revolutionary:0	"Genialer Anti-Revolutionär"
-
-
-
-
 hedonist:0	"Hedonist"
 camarilla_leader:0	"Kamarillaführer"
-
-
-
-
 German_Cross:0	"Deutsch-Kreuz"
 German_Cross_desc:0	"Verliehen für ununterbrochene Tapferkeit vor dem Feind oder hervorragende Leistungen bei der Führung von Truppen (rechtfertigt nicht das Ritterkreuz des Eisernen Kreuzes, wurde aber bereits mit dem Eisernen Kreuz I. Klasse ausgezeichnet)."
 Grand_Cross:0	"Groß-Kreuz"
 Grand_Cross_desc:0	"Adolf Hitler führte im September 1939 das Eiserne Kreuz als deutsche Auszeichnung wieder ein, wobei das Großkreuz wieder die höchste Stufe (über den verschiedenen Klassen des Ritterkreuzes) darstellte."
-
-
-
-
 War_Merit_Cross:0	"Kriegsverdienstkreuz"
 War_Merit_Order_desc:0	"Verliehen für Tapferkeit vor dem Feind oder hervorragende Leistungen bei der Führung von Truppen."
 Long_Servive:0	"Langer Dienst"
 Long_Servive_desc:0	"Verliehen für den zufriedenstellenden Abschluss einer Anzahl von Jahren im Militärdienst."
-
-
-
-
 Hindenburg_Cross:0	"Hindenburg-Kreuz"
 Hindenburg_Cross_desc:0	"Verliehen für die Einnahme oder erfolgreiche Verteidigung einer Festung oder den Sieg in einer Schlacht"
 waffen_ss_officer:0	"Waffen-SS-Offizier"
 waffen_ss_officer_desc:0	"Indoktrinierter Offizier, der auch in der Lage ist, SS-Truppen im Kampf zu führen."
-
-
-
-
 Order_of_the_Holy_Annuntiation:0	"Orden der Heiligen Annuntiation"
 Order_of_the_Holy_Annuntiation_desc:0	"Orden der Heiligen Versöhnung"
 For_Valor_Silver_Medal:0	"Für Tapferkeit Silberne Medaille"
 For_Valor_Silver_Medal_desc:0	"Für außergewöhnliche Tapferkeit im Kampf gegen den Feind"
-
-
-
-
 Italy_Now_and_Forever:0	"Italien jetzt und in Ewigkeit"
 Italy_Now_and_Forever_desc:0	"Italien Jetzt und in Ewigkeit"
 Italian_War_Cross:0	"Italienisches Kriegskreuz"
 Italian_War_Cross_desc:0	"Das Kriegskreuz für militärische Tapferkeit ist eine italienische Auszeichnung für militärische Tapferkeit"
-
-
-
-
 FRA_tag:0	"Französischer General"
 FRA_tag_desc:0	"Französischer General"
 French_Inter-allied_Victory_Medal:0	"Französische interalliierte Siegesmedaille"
-
-
-
-
 Upper_Silesia_Medal_desc:0	"Oberschlesische Medaille"
 French_War_Cross:0	"Französisches Kriegskreuz"
 French_War_Cross_desc:0	"Für tapfere Dienste"
 French_Military_Medal:0	"Französische Militärmedaille"
-
-
-
-
 TOE_War_Cross_desc:0	"EVG-Kriegskreuz"
 Combatants_Cross:0	"Kreuz für Kombattanten"
 Combatants_Cross_desc:0	"Für diejenigen, die im Kampf für Frankreich gekämpft haben"
 Colonial_Medal:0	"Koloniale Medaille"
-
-
-
 War_Medal_1914_1915:0	"Kriegsmedaille 1914-1915"
-
 Victory_Medal:0	"Siegesmedaille"
 Victory_Medal_desc:0	"Kampagnenmedaille des British Empire für den Ersten Weltkrieg"
-
 Victoria_Cross_desc:0	"Die höchste Auszeichnung des britischen Ehrensystems. Sie wird für Tapferkeit im Kampf gegen den Feind verliehen."
-
-
 Conspicuous_Galantry_Cross:0	"Kreuz für auffällige Tapferkeit"
-
 Most_Excellent_Order:0	"Most Excellent Order"
 Most_Excellent_Order_desc:0	"Ausgezeichneter Orden"
-
 Military_Cross_desc:0	"Für eine Handlung oder Handlungen von beispielhafter Tapferkeit während aktiver Operationen gegen den Feind zu Lande"
-
-
 Silver_War_Badge:0	"Silbernes Kriegsabzeichen"
-
 JAP_tag:0	"Japanischer General"
-
 Inter-Allied_Victory_Medal:0	"Interalliierte Siegesmedaille"
-
-
 Order_of_the_Rising_Sun_desc:0	"Orden der aufgehenden Sonne"
-
 Boxer_Rebellion_desc:0	"Boxeraufstand"
 Manchuria_Incident:0	"Mandschurei-Zwischenfall"
-
 Order_of_the_Golden_Kite:0	"Orden des Goldenen Drachens"
-
-
 China_Incident_1931_desc:0	"China-Zwischenfall 1931"
-
 Russo-Japanese_War_Medal_desc:0	"Medaille des Russisch-Japanischen Krieges"
 Order_of_the_Sacred_Treasure:0	"Orden des Heiligen Schatzes"
-
-
-
 USMC_desc:0	""
-
 Navy_Cross_desc:0	"Das Navy Cross ist die zweithöchste Auszeichnung des US-Militärs, die für Tapferkeit im Kampf verliehen wird."
 Legion_of_Merit:0	"Verdienstorden (Legion of Merit)"
-
 Medal_of_Honor:0	"Ehrenmedaille"
-
-
 Silver_Star_desc:0	"Verliehen für Tapferkeit im Einsatz"
-
 Soldiers_Medal_desc:0	"Für herausragende Heldentaten, die nicht mit einem tatsächlichen Konflikt mit dem Feind verbunden waren"
 Purple_Heart:0	"Purple Heart"
-
 Distinguished_Service_Cross:0	"Distinguished Service Cross"
-
-
 Distinguished_Service_Medal_desc:0	"Verliehen für besondere Verdienste"
 SOV_tag:0	"Sowjetischer General"
 SOV_tag_desc:0	"Sowjetischer General"
-
-
-
-
 Order_of_Red_Banner:0	"Orden des Roten Banners"
 Order_of_Red_Banner_desc:0	"Die Empfänger wurden für außergewöhnliches Heldentum, Hingabe und Mut auf dem Schlachtfeld ausgezeichnet."
 Order_of_Red_Banner_navy:0	"Orden des Roten Banners"
 Order_of_Red_Banner_navy_desc:0	"Die Empfänger wurden für außergewöhnliches Heldentum, Hingabe und Mut auf dem Schlachtfeld ausgezeichnet."
-
-
-
-
 Order_of_Red_Star_navy:0	"Roter Stern Orden"
 Order_of_Red_Star_navy_desc:0	"Für persönlichen Mut und Tapferkeit im Kampf, für die hervorragende Organisation und Führung im Kampf, die zum Erfolg unserer Truppen beigetragen haben"
 Order_of_Lenin:0	"Lenin-Orden"
 Order_of_Lenin_desc:0	"Für vorbildliche Leistungen"
-
-
-
-
 For_Combat_Merits:0	"Für Kampfverdienste"
 For_Combat_Merits_desc:0	"Für Verdienste im Kampf"
 Golden_Star:0	"Goldener Stern"
 Golden_Star_desc:0	"Goldener Stern des Helden der Sowjetunion"
-
-
-
 immature_steelmaking_furnace:0	"Hinterhof Hochofen"
 radio_research:0	"Radio Forschungsgeschwindigkeit"
-
 political.18.d_nl:1	"Die schnell wachsende faschistische Bewegung [Root.GetAdjective] hat nie behauptet, dass sie die Unterstützung der Mehrheit braucht, um die Macht zu ergreifen. Es scheint jedoch, dass ihre öffentliche Unterstützung schnell gewachsen ist. [Root.GetLeader] ruft jetzt zum Übergang in den Faschismus auf.\n\nDie Forderung nach einem Referendum wurde bisher von einigen Mitgliedern der [Root.GetRulingParty] als typischer Versuch abgetan, das System zu stören, aber sie hat [Root.GetLeader] sehr verärgert. Wenn wir jetzt nicht handeln, könnte [Root.GetLeader] den gewaltsamen Kampf als besseren Weg zur Macht wählen."
-
-
 falkenhausen:0	"Alexander von Falkenhausen"
-
 uniform_workshop_desc:0	""
 basic_uniform_factory:0	"Fabrik für einfache Uniformen"
-
 large_uniform_factory:0	"Große Uniformfabrik"
-
-
 massive_uniform_factory_desc:0	""
-
 uniform_factory_complex_desc:0	""
 theoretical_scientist:0	"Theoretischer Wissenschaftler"
-
 resource_industrialist:0	"Ressourcen-Industrieller"
-
-
 technocrat:0	"Technokrat"
-
 efficient_sociopath:0	"Effizienter Soziopath"
 capitalist:0	"Laissez Faire Kapitalist\n"
-
 industrial_planner:0	"Industrieller Planer"
-
-
 Mindless_General_desc:0	"Der schlechteste Offizier, er ist nicht fähig zu führen"
-
 Incompetent_General_desc:0	"Er ist zwar nicht der schlechteste Offizier, aber er wird wahrscheinlich Probleme verursachen."
 Terrible_General:0	"Schrecklicher General"
-
 Bad_General:0	"Schlechter General"
-
-
 reckless_general_desc:0	"Ein rücksichtsloser Offizier, der mit großer Wahrscheinlichkeit Ärger macht und nicht an seine Truppen denkt."
-
 Decent_General_desc:0	"Er ist ein vielseitiger Offizier. Er ist in der Lage, die Truppen zu führen."
 Competent_General:0	"Kompetenter General"
-
 Awesome_General:0	"Hervorragender General"
-
-
 Masterful_General_desc:0	"Er ist ein guter und fähiger Offizier. Sehr fähig, die Truppen zu führen"
-
 Genius_General_desc:0	"Ein genialer Denker, der seine Entscheidungen schnell trifft und immer an seine Truppen denkt."
 Terrible_Field_Marshal:0	"Schrecklicher Feldmarschall"
-
 Average_Field_Marshal:0	"Durchschnittlicher Feldmarschall"
-
-
 Good_General:0	"Guter General"
-
 out_of_shape_desc:0	"Er hat schon lange nicht mehr gekämpft oder wurde zu den Reservistenkräften versetzt. Er muss sich an die Front begeben und sich langsam wieder mit den Kriegskünsten vertraut machen."
 trickster_FM:0	"Hinterhaltsspezialist"
-
 trickster_FM_II:0	"Hinterhaltsexpert"
-
-
 trickster_FM_III_desc:0	"Das Unerwartete im Kampf zu tun, kann dir einen großen Vorteil verschaffen."
-
 trickster_CC_desc:0	"Das Unerwartete im Kampf zu tun, kann dir einen großen Vorteil verschaffen."
 trickster_CC_II:0	"Hinterhaltsexpert"
-
 trickster_CC_III:0	"Hinterhaltsgenie"
-
-
 logistics_wizard_FM_desc:0	"Die Vorräte kommen nie zu spät und nie zu früh, sie kommen genau dann, wenn ich sie brauche."
-
 logistics_wizard_FM_II_desc:0	"Die Vorräte kommen nie zu spät und nie zu früh, sie treffen genau dann ein, wenn ich sie brauche."
 logistics_wizard_FM_III:0	"Logistikgenie"
-
 logistics_wizard_CC:0	"Logistikspezialist"
-
-
 logistics_wizard_CC_II_desc:0	"Die Lieferungen kommen nie zu spät und nie zu früh, sie kommen genau dann an, wenn ich sie haben will"
-
 logistics_wizard_CC_III_desc:0	"Der Nachschub kommt nie zu spät und nie zu früh, er kommt genau dann an, wenn ich ihn brauche."
 defensive_doctrine_FM:0	"Verteidungsspezialist"
-
 defensive_doctrine_FM_II:0	"Verteidigungsexperte"
-
-
 defensive_doctrine_FM_III_desc:0	"Besonders geübt im Kämpfen in der Defensive."
-
 defensive_doctrine_CC_desc:0	"Besonders geübt im Kämpfen in der Defensive."
 defensive_doctrine_CC_II:0	"Verteidigungsexperte"
-
 defensive_doctrine_CC_III:0	"Verteidigungsgenie"
-
-
 offensive_doctrine_FM_desc:0	"Mehr auf Offensive ausgerichtet als die meisten anderen."
-
 offensive_doctrine_FM_II_desc:0	"Mehr auf Offensive bedacht als die meisten."
 offensive_doctrine_FM_III:0	"Offensivgenie"
-
 offensive_doctrine_CC:0	"Offensivspezialist"
-
-
 offensive_doctrine_CC_II_desc:0	"Offensiver als die meisten."
-
 offensive_doctrine_CC_III_desc:0	"Mehr Offensivgeist als die meisten."
 winter_specialist_FM:0	"Winterspezialist"
-
 winter_specialist_FM_II:0	"Winterexperte"
-
-
 winter_specialist_FM_III_desc:0	"Verfügt über ein intuitives Verständnis für die Schwierigkeiten des Kampfes bei Kälte."
-
 winter_specialist_CC_desc:0	"Hat ein intuitives Verständnis für die Schwierigkeiten des Kampfes in kalten Umgebungen."
 winter_specialist_CC_II:0	"Winterexperte"
-
 winter_specialist_CC_III:0	"Wintergenie"
-
-
 trait_engineer_FM_desc:0	"Beherrscht die Kunst des Überquerens von Flüssen und des Baus von Feldbefestigungen."
-
 trait_engineer_FM_II_desc:0	"Beherrscht die Kunst des Überquerens von Flüssen und des Baus von Feldbefestigungen."
 trait_engineer_FM_III:0	"Ingenieur III"
-
 engineer_CC:0	"Ingenieur I"
-
-
 engineer_CC_II_desc:0	"Beherrscht die Kunst des Überquerens von Flüssen und des Baus von Feldbefestigungen."
-
 engineer_CC_III_desc:0	"Beherrscht die Kunst der Flussüberquerung und des Baus von Feldbefestigungen."
 fortress_buster_FM:0	"Festungsstürmer I"
-
 fortress_buster_FM_II:0	"Festungsstürmer II"
-
-
 fortress_buster_FM_III_desc:0	"Der Angriff auf eine Festung stellt für diesen Offizier kein Hindernis dar."
-
 fortress_buster_CC_desc:0	"Der Angriff auf eine Festung stellt für diesen Offizier keine Gefahr dar."
 fortress_buster_CC_II:0	"Festung Buster II"
-
 fortress_buster_CC_III:0	"Festungsbuster III"
-
-
 panzer_leader_II_desc:0	"Ein Naturtalent im Umgang mit Panzern und mechanisierten Kräften."
-
 panzer_leader_III_desc:0	"Ein Naturtalent bei Panzern und mechanisierten Truppen."
 spearhead_specialist:0	"Speerspitzen Spezialist"
-
 spearhead_specialist_II:0	"Speerspitzen Spezialist II"
-
-
 spearhead_specialist_III_desc:0	"Ein Naturtalent in der Speerspitze mit Panzern und mechanisierten Kräften."
-
 trench_warfare_specialist_desc:0	"Ein Spezialist für Grabenkämpfe."
 trench_warfare_specialist_II:0	"Spezialist für Grabenkämpfe II"
-
 trench_warfare_specialist_III:0	"Spezialist für Grabenkämpfe III"
-
-
 commando_FM_desc:0	"Erfahren in amphibischen Operationen, Luftangriffen und kalten Wetterbedingungen - das Kommando ist ein Mann mit vielen Talenten."
-
 commando_FM_II_desc:0	"Erfahren in amphibischen Operationen, Luftangriffen und kalten Wetterbedingungen - das Kommando ist ein Mann mit vielen Talenten."
 commando_FM_III:0	"Kommando III"
-
 commando_CC:0	"Kommando I"
-
-
 commando_CC_II_desc:0	"Erfahren in amphibischen Operationen, Luftangriffen und kalten Wetterbedingungen - das Kommando ist ein Mann mit vielen Talenten."
-
 commando_CC_III_desc:0	"Erfahren in amphibischen Operationen, Luftangriffen und kalten Wetterbedingungen - das Kommando ist ein Mann mit vielen Talenten."
 desert_fox_FM:0	"Wüstenfuchs I"
-
 desert_fox_FM_II:0	"Wüstenfuchs II"
-
-
 desert_fox_FM_III_desc:0	"Ganz zu Hause, wenn du in der Wüste kämpfst."
-
 desert_fox_CC_desc:0	"Ganz zu Hause, wenn du in der Wüste kämpfst."
 desert_fox_CC_II:0	"Wüstenfuchs II"
-
 desert_fox_CC_III:0	"Wüstenfuchs III"
-
-
 swamp_fox_FM_desc:0	"Der Sumpf-Fuchs ist zwar etwas durchnässt, kennt sich aber in Sümpfen und Mooren gut aus."
-
 swamp_fox_FM_II_desc:0	"Der Sumpf-Fuchs ist zwar etwas durchnässt, kennt sich aber in Sümpfen und Mooren gut aus."
 swamp_fox_FM_III:0	"Sumpfkämpfer III"
-
 swamp_fox_CC:0	"Sumpfkämpfer I"
-
-
 swamp_fox_CC_II_desc:0	"Der Sumpf-Fuchs ist zwar etwas durchnässt, aber er kennt sich in Sümpfen und Mooren aus."
-
 swamp_fox_CC_III_desc:0	"Der Sumpf-Fuchs ist zwar etwas durchnässt, aber er kennt sich in Sümpfen und Marschland aus."
 mountaineer_FM:0	"Gebirgsjäger I"
-
 mountaineer_FM_II:0	"Gebirgsjäger II"
-
-
 mountaineer_FM_III_desc:0	"Ein hervorragender Bergsteiger und geübt in der Kriegsführung in den Bergen."
-
 mountaineer_CC_desc:0	"Ein hervorragender Bergsteiger und geübt in der Kriegsführung in den Bergen."
 mountaineer_CC_II:0	"Gebirgsjäger II"
-
 mountaineer_CC_III:0	"Gebirgsjäger III"
-
-
 hill_fighter_FM_desc:0	"Hervorragend im Kampf in hügeligem Terrain."
-
 hill_fighter_FM_II_desc:0	"Hervorragend im Kampf in hügeligem Gelände."
 hill_fighter_FM_III:0	"Hügelkämpfer III"
-
 hill_fighter_CC:0	"Hügelkämpfer I"
-
-
 hill_fighter_CC_II_desc:0	"Hervorragend im Kampf in hügeligem Gelände."
-
 hill_fighter_CC_III_desc:0	"Kämpft besonders gut in hügeligem Gelände."
 jungle_rat_FM:0	"Dschungelratte I"
-
 jungle_rat_FM_II:0	"Dschungelratte II"
-
-
 jungle_rat_FM_III_desc:0	"Lässt sich von Nagetieren ungewöhnlicher Größe nicht abschrecken und ist geschickt in der Dschungelkriegsführung."
-
 jungle_rat_CC_desc:0	"Lässt sich von Nagetieren ungewöhnlicher Größe nicht abschrecken und ist geschickt in der Dschungelkriegsführung."
 jungle_rat_CC_II:0	"Dschungelratte II"
-
 jungle_rat_CC_III:0	"Dschungelratte III"
-
-
 ranger_FM_desc:0	"Waldjäger gehen voran, besonders wenn es um Kämpfe in Wald- oder Dschungelgebieten geht."
-
 ranger_FM_II_desc:0	"Waldjäger gehen voran, vor allem wenn es um Kämpfe in Wald- oder Dschungelgebieten geht."
 ranger_FM_III:0	"Waldjäger III"
-
 ranger_CC:0	"Waldjäger I"
-
-
 ranger_CC_II_desc:0	"Waldjäger gehen voran, vor allem, wenn es um Kämpfe in Wald- oder Dschungelgebieten geht."
-
 ranger_CC_III_desc:0	"Waldjäger gehen voran, vor allem, wenn es um den Kampf in Wald- oder Dschungelgebieten geht."
 urban_assault_specialist_FM:0	"Stadtkampf Spezialist I"
-
 urban_assault_specialist_FM_II:0	"Stadtkampf Spezialist II"
-
-
 urban_assault_specialist_FM_III_desc:0	"Ein Experte im Kämpfen in fremden Häusern und im Verursachen von Chaos auf den Straßen."
-
 urban_assault_specialist_CC_desc:0	"Ein Experte im Kämpfen in fremden Häusern und Verursachen von Chaos auf den Straßen."
 urban_assault_specialist_CC_II:0	"Spezialist für urbane Übergriffe II"
-
 urban_assault_specialist_CC_III:0	"Spezialist für urbane Übergriffe III"
-
-
 naval_invader_FM_desc:0	"Ein Experte in der Durchführung von Invasionen auf See. Der perfekte Mann für die Vorbereitung und Durchführung einer Invasion an einem feindlichen Strand."
-
 naval_invader_FM_II_desc:0	"Ein Experte in der Durchführung von Invasionen auf See. Der perfekte Mann, um eine Invasion eines feindlichen Strandes vorzubereiten und durchzuführen."
 naval_invader_FM_III:0	"Landungsspezialist III"
-
 naval_invader_CC:0	"Landungsspezialist I"
-
-
 naval_invader_CC_II_desc:0	"Ein Experte in der Durchführung von Invasionen auf See. Der perfekte Mann, um eine Invasion eines feindlichen Strandes vorzubereiten und durchzuführen."
-
 naval_invader_CC_III_desc:0	"Ein Experte in der Durchführung von Invasionen auf See. Der perfekte Mann, um eine Invasion an einem feindlichen Strand vorzubereiten und durchzuführen."
 messerschmitt_manufacturer:0	"Messerschmitt Flugzeugkonstrukteur"
-
 focke_wulf_manufacturer:0	"Focke Wulf Flugzeugkonstrukteur"
-
-
 arado_manufacturer:0	"Arado Flugzeugkonstrukteur"
-
 mig_manufacturer:0	"MIG"
 ilyushin_manufacturer:0	"Iljuschin"
-
 yakovlev_manufacturer:0	"Yak"
-
-
 Myasishchev_manufacturer:0	"Mjasischtschew"
-
 Tumansky_manufacturer:0	"Tumanski"
 Polikarpov_manufacturer:0	"Polikarpow"
-
 morane_saulnier_manufacturer:0	"Morane-Saulnier"
-
-
 levasseur_manufacturer:0	"Levasseur"
-
 loire_manufacturer:0	"Loire"
 spad_manufacturer:0	"Spad"
-
 potez_manufacturer:0	"Potez"
-
-
 farman_manufacturer:0	"Farman"
-
 aichi_manufacturer:0	"Aichi"
 kawanishi_manufacturer:0	"Kawanishi"
-
 kyushu_manufacturer:0	"Kyushu"
-
-
 nakajima_manufacturer:0	"Nakajima"
-
 yokosuka_manufacturer:0	"Yokosuka"
 porsche_tank_manufacturer:0	"Porsche Panzerhersteller"
-
 MAN_tank_manufacturer:0	"MAN Panzerhersteller"
-
-
 nibelungenwerke_tank_manufacturer:0	"Nibelungenwerke Panzerhersteller"
-
 MIAG_tank_manufacturer:0	"MIAG Panzerhersteller"
 Krupp_tank_manufacturer:0	"Krupp Panzerhersteller"
-
 vauxhall_tank_manufacturer:0	"Vauxhall Panzerhersteller"
-
-
 nuffield_tank_manufacturer:0	"Nuffield Panzerhersteller"
-
 gung_ho_general:0	"Gung ho General"
 gung_ho_general_desc:0	"Der Zweck heiligt die Mittel."
-
 paranoid:0	"Paranoid"
-
-
 extremely_paranoid_desc:0	"Dieser Anführer sieht in jeder Ecke, in jedem Gespräch, an dem er nicht beteiligt ist, eine Verschwörung. Das kann nützlich sein, wenn die Verschwörungen tatsächlich vorhanden sind. Es kann aber auch ein Land in Aufruhr stürzen."
-
 charismatic_desc:0	"Die Aura dieses Führers ist überwältigend. Seine Reden beeindrucken Millionen. Sein Charme beugt die Politiker seinem Willen."
 monarchist_advisor_drift_trait:0	"Engagierter Royalist"
-
 democrat:0	"Demokrat"
-
-
 neutral:0	"Autoritär"
-
 communist:0	"Kommunistisch"
 apolitical:0	"Unpolitisch"
-
 ambitious:0	"Ehrgeizig"
-
 liberal_hired:0	"Liberal"
-
-
 neutral_hired:0	"Autoritär"
-
 communist_hired:0	"Kommunistisch"
 apolitical_hired:0	"Unpolitisch"
-
 anti_communist_hired:0	"Antikommunistisch"
-
-
-
 powerful_hired:0	"Mächtig"
 schemer:0	"Verräter"
-
 pet_projects:0	"Lieblings-Projekte"
-
-
 free_marketer:0	"Freier Marktwirtschaftler"
-
 public_works_focus:0	"Schwerpunkt öffentliche Arbeiten"
 intellectual:0	"Intellektueller"
-
 elder_statesman:0	"Älterer Staatsmann"
-
-
 coalition_builder:0	"Koalitionsstifter"
-
 tough_guy:0	"Harter Kerl"
 apologetic_clerk:0	"Apologetischer Angestellter"
-
 tough_negotiator:0	"Harter Verhandlungspartner"
-
-
 demagogue:0	"Demagoge"
-
 reluctant_minister:0	"Zögerlicher Minister"
 great_compromiser:0	"Großer Kompromissler"
-
 stalin:0	"Iosif Vissarionovich Dzhugashvili"
-
 French_Ally:0	"Französischer Verbündeter"
-
-
-
 motorised_equipment_producer_quality:0	"Konstrukteur motorisierter Qualitätsfahrzeuge"
 artillery_producer_defense:0	"Designer für defensive Artillerie"
-
 construction_concern:0	"Baukonzern"
-
-
 armor_manufacturer:0	"Hersteller von Panzern"
-
 tank_producer_offense:0	"Designer für Angriffspanzer"
 tank_producer_defense:0	"Designer für Verteidigungspanzer"
-
 medium_aircraft_manufacturer_2:0	"Designer für mittlere Flugzeuge"
-
-
 experimental_light_aircraft_manufacturer:0	"Konstrukteur für leichte Experimentalflugzeuge"
-
 socialist_reformer:0	"Sozialistischer Reformer"
 socialist_reformer_desc:0	"Dieser Politiker glaubt fest an das Recht des Volkes, sich selbst zu regieren. Er sieht es als seine oberste Priorität an, das Volk zu ermächtigen, und möchte, dass das Land mit seinem Mandat regiert wird."
-
 conservative_reformer_desc:0	"Dieser Politiker glaubt fest an das Recht des Volkes, sich selbst zu regieren. Er sieht die Ermächtigung des Volkes als oberste Priorität an und strebt an, dass das Land mit seinem Mandat regiert wird."
-
-
 royalist_reformer:0	"Royalistischer Reformer"
-
 monarchist_puppet:0	"Monarchistischer Handlanger"
 monarchist_puppet_desc:0	"Dieser nützliche Idiot wird der Krone nützen."
-
 ineffective_politician2:0	"Ineffektiver Politiker"
-
-
 seawolf_II_desc:0	"Der Seewolf ist ein Experte für Konvoiüberfälle."
-
 seawolf_III_desc:0	"Der erfahrene Seewolf ist meisterhaft in Konvoiüberfällen"
 spotter_II:0	"Späher"
-
 spotter_III:0	"Erfahrener Späher"
-
-
 armored_carrier_battlegroup_naval_manufacturer:0	"Gepanzerte Trägerkampftrupps"
-
 grand_battlefleet_naval_manufacturer:0	"Große Schlachtflotten"
 fleet_escort_naval_manufacturer:0	"Flotteneskorten"
-
 ger_combined_raiding_naval_manufacturer:0	"Kombinierte Angriffe"
-
-
 convoy_defense_naval_manufacturer:0	"Konvoiverteidigung"
-
 navy_chief_offensive_naval_doctrine:0	"Offensive Marine\n-Doktrin"
-
 navy_chief_naval_aviation_doctrine:0	"Marinefliegerei\n-Doktrin"
-
-
 navy_chief_naval_reformer:0	"Marinereformer"
-
 navy_chief_submarine_raider_doctrine:0	"U-Boot-Jäger\n-Doktrin"
 navy_chief_convoy_defense_doctrine:0	"Konvoi-Verteidigung\n-Doktrin"
 jap_navy_high_command_carrier_naval_aviation_1:0	"IJN 1. Luftflotte\n Kidō Butai"
-
-
-
-
 jap_navy_high_command_land_based_naval_air_support_two:0	"IJN 3. Luftflotte"
 jap_navy_high_command_amphibious_landing_1:0	"Südliches Expeditionsheer"
 usa_navy_high_command_carrier_naval_aviation_1:0	"Schneller Flugzeugträger\n Einsatzverband"
-
-
-
-
 usa_navy_high_command_land_based_naval_air_support_two:0	"1. Marinekorps\n Flugzeuggeschwader"
 usa_navy_high_command_amphibious_landing_1:0	"Pazifische amphibische Streitkräfte"
 usa_navy_high_command_repair_1:0	"Flotte Reparatur & Bergung"
-
-
-
-
 uk_navy_high_command_amphibious_landing_1:0	"Hauptquartier für kombinierte Operationen\n"
 uk_navy_high_command_convoy_defense_1:0	"Mittelmeerflotte"
 ger_navy_high_command_grand_battlefleet_commander_1:0	"Überwasserflottenkommando"
-
-
-
-
 ger_navy_high_command_naval_maneuvering_commander_1:0	"Flottenmanöver"
 fra_navy_high_command_grand_battlefleet_commander_1:0	"Force de Raid\n-Geschwader"
 fra_navy_high_command_convoy_defense_1:0	"Kommando Konvoi-Verteidigung"
-
-
-
 sov_navy_high_command_convoy_defense_1:0	"Nordflotte"
-
 ita_navy_high_command_grand_battlefleet_commander_1:0	"Squadra Navale\n Kraft"
-
 ita_navy_high_command_convoy_defense_1:0	"7. Marinedivision"
-
 domestminster_health:0	"Minister für Renten und nationale Gesundheit"
-
 domestminster_education:0	"Ministerin für Bildung und Schulen"
-
-
 trade_minister:0	"Minister für Handel und Exporte"
 open_immigration:0	"Befürworter von offenen Grenzen und Einwanderung"
-
-
-
-
 keen_sailor:0	"Erfahrener Seemann"
 good_soldier:0	"Ausgezeichneter Soldat"
 devout:0	"Ein Mann des Glaubens"
 good_trainer:0	"Effizienter Trainer"
-
-
-
-
 aca_elite_officer:0	"Miltärische Kommandostrukturen"
 aca_boot_camp:0	"Ausbildungslager"
 aca_inovations:0	"Militärische Innovationen und Forschung"
 aca_auxillary:0	"Hilfskräfte und Technik"
-
-
-
-
 aca_logistics:0	"Versorgungslogistik"
 aca_planning:0	"Strategische Planung"
 aca_air_sea_support:0	"Integrierte Streitkräfte"
 aca_basic_sea:0	"Taktik der Marine"
-
-
-
-
 Arab_fra_min:0	"Ausländischer Diplomat"
 Arab_eng_min:0	"Ausländischer Diplomat"
 Arab_sov_min:0	"Ausländischer Diplomat"
 bad_staffer:0	"Schlechter Mitarbeiter"
-
-
-
-
 journo_liberal:0	"Von der Regierung finanzierter Reporter"
 journo_social:0	"Von der Regierung finanzierter Reporter"
 journo_fascist:0	"Von der Regierung finanzierter Reporter"
 journo_commie:0	"Staatlich finanzierter Reporter"
-
-
-
-
 powerful_three:0	"Mächtig"
 powerful_four:0	"Mächtig"
 powerful_five:0	"Mächtig"
 powerful_six:0	"Mächtig"
-
-
-
-
 a_fascism:0	"Ist faschistisch"
 a_communism:0	"Ist kommunistisch"
 a_conservatism:0	"Ist konservativ"
-
-
-
-
 assassination_survivor:0	"Überlebender eines Attentats"
 naval_builder:0	"Schiffs- und Werftbauer"
 synthetic_tycoon:0	"Spezialist für Synthetik"
 j_goebbels:0	"Ministerium für Propaganda"
-
-
-
-
 unyeilding_defender:0	"Verbitterter Verteidiger"
 spy_generic:0	"Verdeckter Spion"
 naval_intel:0	"Geheimdienst der Marine"
 volunteers_civil_war:0	"Hat im Bürgerkrieg geholfen"
-
-
-
 tank_manufacturer_discount_tankette:0	""
-
 tank_manufacturer_discount_cavalry:0	""
 tank_manufacturer_discount_para:0	""
-
 tank_manufacturer_discount_medium:0	""
-
-
 tank_manufacturer_discount_heavy:0	""
-
 naval_manufacturer_trait:0	""
 naval_manufacturers_trait:0	""
-
 aircraft_manufacturers_trait:0	""
-
-
 materiel_manufacturers_trait:0	""
-
 electrical_concern_trait:0	""
 naval_academy_trait:0	""
-
 unity_cost_factor:0	"Ist ein Minister"
-
-
 operative_seducer:0	"Verführer"
-
 operative_infiltrator:0	"Infiltrator"
 operative_infiltrator_desc:1	"Dieser Spion passt sich schnell an jede Umgebung an und ist in der Lage, sich einwandfrei zu integrieren."
-
 operative_master_interrogator_desc:1	"Dieser Spion kann Menschen zum Reden bringen."
-
-
 operative_double_agent:0	"Doppelagent"
-
 operative_tough:0	"Knallhart"
 operative_tough_desc:1	"Die Faust des Folterers wird eher brechen als dieser Agent."
-
 operative_safe_cracker_desc:0	"Wir sind auf diesen Agenten aufmerksam geworden, weil er Tresore und andere Schlösser öffnen kann."
-
-
 operative_natural_orator:0	"Begabter Redner"
-
 operative_escape_artist:0	"Entfesselungskünstler"
 operative_escape_artist_desc:0	"Das Gefängnis, in dem dieser Spion gefangen gehalten werden kann, muss erst noch gebaut werden."
-
 operative_demolition_expert_desc:0	"Dieser Spion kennt sich mit allen Möglichkeiten aus, Dinge in die Luft zu jagen."
-
-
 clever_engineer:0	"Begabter Ingenieur"
-
 resolute_social_democrat:0	"Entschlossener Sozialdemokrat"
 gifted_shipping_magnate:0	"Begabter Schifffahrtsmagnat"
-
 national_socialist_paramilitarist:0	"Nationalsozialistischer Paramilitarist"
-
-
 army_chief_entrenchment_expert:0	"Experte für Verschanzung"
-
 german_technological_patron:0	"Deutscher Technologiemäzen"
 elected_monarchist_puppet:0	"Gewählte monarchistische Marionette"
-
 professional_crisis_solver:0	"Professioneller Krisenbewältiger"
-
-
 arkhigos:0	"Arkhigos"
-
 polemarch:0	"Polemarch"
 likes_turkey:0	"Mag die Türkei"
-
 autokrator:0	"Autokratōr"
-
-
 turkish_public_debt_administration:0	"Türkische Staatsschuldenverwaltung"
-
 industrial_monopoly:0	"Industriemonopol"
-
 trait_GRE_stauch_monarchist_desc:0	"Dieser Führer respektiert und verehrt die Monarchie als griechische Institution."
-
-
 trait_GRE_marxist_acolyte:0	"Marxistischer Gefolgsmann"
-
 trait_GRE_fascist_sympathizer:0	"Sympathisant des Faschismus"
 trait_GRE_fascist_sympathizer_desc:0	"Dieser Anführer sympathisiert mit den Lehren des Faschismus."
 inventive_genius:0	"Erfinderisches Genie"
-
-
-
-
 father_of_the_turks_4:0	"Vater der Türken"
 the_absentee_president:0	"Der abwesende Präsident"
 infirm:0	"Gebrechlich"
 gentle_scholar:0	"Sanfter Gelehrter"
-
-
-
-
 man_of_the_nation:0	"Mann der Nation"
 liberal_democratic_paragon:0	"Liberal-demokratisches Aushängeschild"
 maresal:0	"Mareşal"
 milli_sef:0	"Millî Şef"
-
-
-
-
 freedom_fighter:0	"Der Freiheitskämpfer"
 experienced_insurgent:0	"Erfahrener Aufständischer"
 the_humbled_knyaz:	"Der demütige Knyaz"
-
-
-
-
 prime_minister_saracoglu:0	"Premierminister"
 prime_minister_peker:0	"Premierminister"
 prime_minister_aydemir:0	"Ministerpräsident"
 prime_minister_husnu:0	"Vorsitzender"
-
-
-
-
 feminist_ultranationalist:0	"Feminist Ultranationalist"
 pan_turkic_doyen:0	"Pan-türkischer Doyen"
 vatan_ideologue:0	"Vatan-Ideologe"
 irredentist_academic:0	"Irredentistischer Akademiker"
-
-
-
 trait_TUR_kemalist_champion_desc:0	"Dieser Anführer ist ein überzeugter Anhänger der Grundsätze des Kemalismus und wird für die Verteidigung dieser Prinzipien kämpfen."
-
 legitimate_heir:0	"Legitimer Erbe"
-
 trait_BUL_zveno_member:0	"Zveno-Mitglied"
-
 trait_BUL_tsar_loyalist:0	"Zar-Loyalist"
-
-
 trait_BUL_ff_sympathizer_desc:0	"Dieser Anführer hegt Sympathien für die Vaterländische Front und wird sich im Falle eines Konflikts auf die Seite dieser Organisation stellen."
-
 tsars_puppet:0	"Marionette des Zaren"
 leader_of_the_agrarian_union:0	"Anführer der Agrargemeinschaft"
-
 womens_rights_activist:0	"Aktivistin für die Rechte der Frauen"
-
-
 nazi_sympathizer:0	"Nazi-Sympathisant"
-
 ambitious_negotiator_fascism:0	"Ehrgeiziger Verhandlungsführer"
 old_coup_maker:0	"Der alte Coup-Macher"
-
 BUL_ferdinand_subjects_modifier_tt:0	"  - Zusätzliche militärische und zivile Fabriken von Untertanen: §G+40%§!"
-
-
 BUL_bogdan_filov_ideology_neutrality_tt:0	"(Wird ersetzt durch Tägliche Unterstützung für den Faschismus, wenn Bulgarien den Faschismus annimmt)"
-
 BUL_bogdan_filov_negotiations_tt:0	"\nBogdan Filov erhöht die Erfolgschancen bei Verhandlungen mit den Achsenmächten und senkt sie bei Verhandlungen mit den Alliierten."
 incompetent_leader:0	"Inkompetenter Führer"
-
 the_hero_of_the_leipzig_trials:0	"Der Held der Leipziger Prozesse"
-
-
 elected_regency_council_pro_axis:0	"Gewählter Regentschaftsrat"
-
 the_bloody_professor_regency_council:0	"Zankow leitet den Regentschaftsrat"
 hardened_officer_regency_council:0	"Lukov leitet den Regentschaftsrat"
-
 appeaser_regency_council:0	"Mushanov leitet den Regentschaftsrat"
-
-
 uncomprimising_sociopath:0	"Kompromissloser Soziopath"
-
 trickster_TT:0	"Hat irgendeine §YTrickster§!-Eigenschaft"
 defensive_doctrine_TT:0	"Hat eine beliebige §YVerteidigungsdoktrin§!"
-
 winter_specialist_TT:0	"Hat eine beliebige Eigenschaft §YWinterspezialist§!"
-
-
 rail_baron:0	"Eisenbahn-Baron"
-
 entertainer:0	"Unterhalter"
 policeman:0	"Polizist"
-
 trader:0	"Händler"
-
-
-
 king_of_kings_2:0	"$king_of_kings$"
 king_of_kings_3a:0	"$king_of_kings$"
-
 king_of_kings_4:0	"$king_of_kings$"
-
-
 crowned_adder:0	"Die gekrönte Kreuzotter"
-
 tainted_ras:0	"Der verdorbene Ras"
 tainted_ras_2:0	"Der verdorbene Ras"
-
 inexperienced_sultan_2:0	"Unerfahrener Sultan"
-
-
 gallant_doctor:0	"Tapferer Arzt"
-
 staunch_loyalist:0	"Überzeugter Loyalist"
 archbishop_of_ethiopian_orthodox_tewahedo_church:0	"Erzbischof der Tewahedo-Kirche"
-
 minister_of_the_interior:0	"Innenminister"
-
-
 japanizer:0	"Japaner"
-
 transnational_anarchist:0	"Transnationaler Anarchist"
 commander_of_the_fetno_derash:0	"Kommandant der Fetno-Derasch"
-
 modernizer_and_diplomat:0	"Modernisierer und Diplomat"
-
-
 patroness_of_ethiopian_red_cross:0	"Schirmherrin des Äthiopischen Roten Kreuzes"
-
 arch_bishop_of_gojjam:0	"Erzbischof von Gojjam"
 rebellious_educator:0	"Rebellischer Erzieher"
-
 imprisoned_emperor:0	"Der gefangene Kaiser"
-
-
 liberator_of_eth_gugsa:0	"Befreier von Äthiopien"
-
 anarcho_communist_council:0	"Anarcho-Kommunismus"
 revolutionary_council:0	"Revolutionärer Rat"
 il_duce:0	"Il Duce"
-
-
-
-
 il_duce_devotion:0	"$il_duce$"
 il_duce_heroes:0	"$il_duce$"
 lion_tamer:0	"Löwenbändiger"
 lion_tamer_2:0	"$lion_tamer$"
-
-
-
-
 eager_commander:0	"Eifriger Kommandant"
 the_grand_council:0	"Der Große Rat"
 aviation_hero:0	"Held der Luftfahrt"
 ITA_aviation_hero_tt:0	"  - $air_equipment_research$: §G+5%§!"
-
-
-
-
 political_reformer_2_no_lar:0	"$political_reformer_1$"
 political_reformer_2:0	"$political_reformer_1$"
 ITA_political_reformer_tt:0	"  - Alle Berater kosten: §G-25%§!"
 hierarch_minister_of_foreign_affairs:0	"Hierarch - Minister für Auswärtige Angelegenheiten"
-
-
-
-
 mussolini_minister_of_justice:0	"Minister der Justiz (ad interim)"
 mussolini_minister_of_education:0	"Minister für Bildung (ad interim)"
 mussolini_minister_of_corporations:0	"Minister für Unternehmen (ad interim)"
 ITA_hierarch_bop_tt:0	"Wenn er eingestellt wird, verschiebt sich das §Y$ITA_power_balance$§! um §Y15%§! in Richtung §YGroßer Rat des Faschismus§!"
-
-
-
-
 liberal_professor:0	"Liberaler Professor"
 anti_fascist_chaplain:0	"Antifaschistischer Seelsorger"
 duke_of_aosta:0	"Dritter Herzog von Aosta"
 viceroy_of_aoi:0	"Vizekönig von Africa Orientale Italiana"
-
-
-
-
 ITA_head_of_the_national_committee:0	"Leiter des Nationalkomitees"
 indisposed_political_scientist:0	"Unpässlicher Politikwissenschaftler"
 indisposed_political_scientist_tt:0	"Antonio Gramsci braucht Zeit, um sich von seiner schweren Krankheit zu erholen, diese Eigenschaft wird sich in Zukunft deutlich verbessern."
 cultural_hegemony_theorist:0	"Kultureller Hegeomny-Theoretiker"
-
-
-
-
 resistance_leader:0	"Führer des Widerstands"
 moderate_reformist:0	"Gemäßigter Reformist"
 anti_fascist_committee:0	"Antifaschistisches Komitee"
 conservative_communist:0	"Konservativer Kommunist"
-
-
-
-
-
 SWI_anarchist:0	"Anarchist"
 SWI_independent:0	"Unabhängig"
 SWI_federalist:0	"Föderalist"
 SWI_trade_unionist:0	"Gewerkschaftler"
-
-
-
-
 SWI_fascist_propagandist:0	"Faschistischer Propagandist"
 SWI_fascist_recruiter:0	"Faschistischer Rekrutierer"
 SWI_corporatist:0	"Korporatist"
 SWI_social_democrat:0	"Sozialdemokrat"
-
-
-
-
 SWI_militaristic_democrat:0	"Militaristischer Demokrat"
 SWI_militaristic_nationalist:0	"Militaristischer Nationalist"
 SWI_nationalistic_industrialist:0	"Nationalistischer Industrieller"
 SWI_diplomat:0	"Diplomat"
-
-
-
-
 SWI_guisan_leader_trait:0	"Populärer Diktator"
 SWI_weapons_designer:1	"Waffenkonstrukteur"
 SWI_soviet_spy:0	"Sowjetischer Spion"
-
-
-
-
 SWI_brandy_the_st_bernard_trait:0	"Inkompetenter Stadtrat"
 border_war:	"Ist in einen Grenzkrieg verwickelt"
 border_war_desc:	""

@@ -756,7 +756,6 @@ DOD_romania.158.desc:0	"Leider haben die Deutschen kein Interesse, militärische
 DOD_romania.158.a:0	"Verdammt"
 BICE_romania.159.t:0	"Deutschland lehnt unsere Einladung ab!"
 BICE_romania.159.desc:0	"Leider haben die Deutschen nicht den Wunsch, militärische Beziehungen zu uns aufzubauen..."
-
 DOD_romania.999.a:0	"Eine großartige Idee!"
 DOD_romania.999.b:0	"Eher nicht"
 DOD_hungary.171.t:0	"Das österreichisch-ungarische Referendum"
@@ -835,7 +834,6 @@ DOD_hungary.190.b:0	"Stoppen Sie diesen Wahnsinn, bevor er noch weiter geht..."
 DOD_hungary.191.t:0	"Aktualisierung der Volkszählung"
 DOD_hungary.191.desc:0	"Nach der Übernahme Österreichs und der Tschechoslowakei haben wir nun Zugriff auf die kampffähige Bevölkerung dieser beiden Länder! Mögen sich diese zusätzlichen Soldaten als überflüssig erweisen!"
 DOD_hungary.191.a:0	"Ausgezeichnet!"
-
 DOD_hungary.192.desc:0	"Da wir weder Österreich noch die Tschechoslowakei mehr kontrollieren, haben wir auch keinen Zugriff mehr auf die dortigen Arbeitskräftepools. Hoffentlich brauchen wir sie nicht mehr, um unsere Armeen aufzufüllen..."
 DOD_hungary.192.a:0	"Verdammt!"
 czech.1.t:0	"Mitgliedschaft in der Komintern"
@@ -920,9 +918,6 @@ dod_news.4.b:0	"Durch ihre Weitsicht haben sie eine Krise verhindert."
 dod_news.4.c:0	"Sie haben weise gewählt."
 dod_news.4.e:0	"Hätten wir etwas tun können?"
 DOD_romania.999.t:0	"Eine Hommage an die Liebe"
-
-
-
 BICE_romania.159.a:0	"Verdammt"
 DOD_hungary.192.t:0	"Aktualisierung der Volkszählung"
 DOD_romania.999.desc:0	" Ein außerordentlich betrunkener und emotionaler König Carol II. unterbrach die heutige Strategiesitzung und lenkte die Aufmerksamkeit aller auf eine "brillante" Idee, die ihm in der vergangenen Nacht gekommen war.\n\nAls wahrer Romantiker erklärte der König mit Tränen in den Augen, dass er sich wünsche, die Frauen in seinem Leben würden die intensive und wahre Liebe erkennen, die er für sie empfindet. In einem langen, wenn auch ziemlich lallenden Monolog wandte er sich an die Stabschefs und das Kabinett und appellierte an deren feinfühligste und tiefste Empfindungen, um schließlich feierlich dazu aufzurufen, zwei der großen Städte des Feindes umzubenennen – als Hommage an das größte und tiefste Gefühl, das der Mensch kennt: die Liebe. \n\nDer König ist offensichtlich völlig von dieser Idee besessen, und es ist höchst unwahrscheinlich, dass er leicht von seinem Standpunkt abweichen wird, sollten wir versuchen, ihn davon abzubringen."

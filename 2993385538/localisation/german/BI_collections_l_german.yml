@@ -1,17 +1,7 @@
 ﻿l_german:
 COLLECTION_FACTION_NUKE_FACILITY:	"Nuklearforschungseinrichtungen der Fraktion:"
-
 COLLECTION_FACTION_BORDER_STATES_BAD_SUPPLY:	"Von der Fraktion kontrollierte Grenzstaaten ohne mindestens 5 Infrastrukturpunkte oder einen Versorgungsknotenpunkt"
 is_arab:	"Ist ein arabisches Land"
-
-
-
-
-
-
-
-
-
 COLLECTION_FACTION_ELECTRONICS_FACILITY:	"Elektronische und IT-Einrichtungen der Fraktion:"
 COLLECTION_ARAB:	"§YAlle arabischen Länder§!"
 COLLECTION_ARAB_OTHER:	"§YJedes andere arabische Land§!"

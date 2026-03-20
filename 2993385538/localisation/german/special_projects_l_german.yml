@@ -5,412 +5,189 @@ PROTOTYPE_STATE:	"Prototyp"
 RESEARCH_COMPLETED:	"Forschung abgeschlossen"
 STOPPING_STATE:	"Beendigung der Forschung"
 STOPPED_STATE:	"Forschung gestoppt"
-
 PROJECT_STOPPING_TIME_DESC:	"Projekt stoppen: $DAYS|Y$ Tag(e)"
-
-
 RECRUIT_SCIENTIST_WINDOW_INSTRUCTIONS:	"Wählen Sie einen §YWissenschaftler§! zum Rekrutieren"
 SCIENTIST_ROSTER_SORT_BUTTON_TOOLTIP:	"§YClick§! zum Sortieren nach $REASON|Y$"
-
-
 SCIENTIST_ROSTER_SEARCH_FILTER_TT:	"Filtern Sie §YWissenschaftlers§! nach Name oder Merkmalen"
 HISTORY_ROSTER_WINDOW_TITLE:	"Geschichte"
-
-
 SCIENTIST_ROSTER_WINDOW_PICK_SCIENTIST:	"Wählen Sie einen §YWissenschaftler§! für die Einrichtung in $STATE|Y$"
 OPEN_SCIENTIST_ROSTER_BUTTON:	"$SCIENTIST_ROSTER_WINDOW_TITLE$"
-
-
 RECRUIT_SCIENTIST_BUTTON:	"Wissenschaftler rekrutieren"
 FACILITIES_ROSTER_TITLE:	"Einrichtungen"
-
-
 FACILITY_BREAKTHROUGH_TITLE:	"Durchbrüche"
 FACILITY_OWNED_TITLE:	"Eigene Einrichtungen:"
-
-
 SCIENTIST_TOOLTIP_SUPPORTIVE:	"Als unterstützender Wissenschaftler arbeitet er mit einer Effektivität von $VALUE|.0Y$ % für die Einrichtung; im Gegenzug erhält sein Land nach Abschluss einer Iteration $PROG|.0Y$ % des Fortschritts bei diesem Projekt und erhält $CONT|.0Y$ Beitrag pro Tag in deiner Fraktion. \n\nDarüber hinaus erhöht jeder unterstützende Wissenschaftler in deiner Fraktion den §HForschungsaustausch§!-Bonus um §H5 %§!."
 SCIENTIST_TOOLTIP_CLICK_ASSIGN:	"§GKlick§! um §Yzuweisen§! der Einrichtung in $STATE|Y$ zuzuordnen"
 SCIENTIST_TOOLTIP_CLICK_UNASSIGN:	"§GClick§! to §Runassign§! from the facility in $STATE|Y$"
 SCIENTIST_CANT_CLICK:	"§RKann diesen Wissenschaftler nicht der Einrichtung in $STATE$§! zuweisen"
-
-
-
 SCIENTIST_TOOLTIP_SKILL_LEVEL:	"($LEVELNAME|Y$) ($CURRENT_XP|0$ / $NEEDED_XP|0$) "
 SCIENTIST_TOOLTIP_EXPERIENCE:	"($CURRENT_XP|0$ / $NEEDED_XP|0$)"
 SCIENTIST_TOOLTIP_SKILL_LEVEL_MAX:	"($LEVELNAME|G$)"
-
-
-
 SCIENTIST_SKILL_LEVEL_NAME_3:	"Kompetent"
 SCIENTIST_SKILL_LEVEL_NAME_4:	"Erfahren"
 SCIENTIST_SKILL_LEVEL_NAME_5:	"Experte"
-
-
-
 SCIENTIST_LACKING_SKILL:	"§RWissenschaftler besitzt nicht die erforderliche Fähigkeit: §! $SKILL|Y$"
 SCIENTIST_RECRUIT_COST:	"£pol_power §Y$AMOUNT$§!"
 SCIENTIST_RECRUIT_COST_NOT_ENOUGH:	"£pol_power §R$AMOUNT$§!"
-
-
-
 SCIENTIST_RECRUIT_COST_DEFAULT:	"$AMOUNT|Y$ Wissenschaftler(innen): $COST|Y$ £pol_power "
 SCIENTIST_RECRUIT_COST_LAST:	"$AMOUNT|Y$§Y+§! Wissenschaftler(innen): $COST|Y$ £pol_power "
 PROGRAM_ITEM_SUPPORTING_SCIENTISTS_TOOLTIP_HEADER:	"Wissenschaftler, die an diesem Projekt mitarbeiten:"
-
-
 PROGRAM_SPECIALIZATION_NAME:	"$SPECIALIZATION$"
-
-
-
 PROGRAM_BASIC_RESEARCH:	"Bietet $BREAKTHROUGH_PROGRESS$% bahnbrechenden Fortschritt und $TECHNOLOGY_BONUS|1%$ Technologieforschungsbonus für $SPECIALIZATION$. Erhält täglich $EXP|2$ Erfahrung"
 PROGRAM_BASIC_RESEARCH_BREAKTHROUGH_DETAIL_TT:	"Gewinnen Sie täglich $BREAKTHROUGH_PROGRESS|Y$§Y%§! Durchbruchsfortschritt in Richtung $SPECIALIZATION|Y$ pro Fertigkeitsstufe.\n Fertigkeitsstufe $SKILL_LEVEL|Y$: $BREAKTHROUGH_TOTAL|Y$§Y%§! täglicher Durchbruchsfortschritt"
-
-
 PROGRAM_SCIENTIST_XP:	"Täglicher Erfahrungsgewinn: $VALUE|2H$"
 PROGRAM_SCIENTIST_BREAKTHROUGH:	"Liefert bahnbrechende Fortschritte $VALUE|%%H$ für $SPECIALIZATION|H$"
 PROGRAM_SCIENTIST_BONUS:	"Gewährt einen Technologieforschungsbonus $VALUE|H%$ für $SPECIALIZATION|H$"
 PROGRAM_SCIENTIST_NAME:	"[(Character?.GetName:'PROGRAM_NO_SCIENTIST_ASSIGNED)]"
-
 PROGRAM_ITEM_TOOLTIP:	"§Y[Building.GetName]§! in §Y[State.GetName]§!\n§GClick§! zum Öffnen von Details\n§GRight-Click§! zum Schwenken zum Gebäude"
 PROGRAM_ITEM_BASIC_RESEARCH_TOOLTIP:	"§Y[Building.GetName]§! in §Y[State.GetName]§!\n\nDie Grundlagenforschung für einen neuen Durchbruch."
 PROGRAM_ITEM_BASIC_RESEARCH_TOOLTIP_END:	"§GKlick§! zum Öffnen der Details\n§GRechts-Klick§! zum Schwenken zum Gebäude"
-
-
 PROGRAM_ITEM_UNASSIGN_SCIENTIST_BUTTON:	"§RClick§!, um §Y[Character.GetName]§! aus dem §Y[Building.GetName]§! in §Y[State.GetName]§! zu entfernen"
 PROGRAM_VIEW_TITLE:	"[Building.GetName] in [State.GetName]"
 PROGRAM_VIEW_SELECT_PROJECT:	"§GSelect§! welches Projekt Sie starten möchten"
 PROGRAM_VIEW_RESEARCH_TIME:	"Ungefähre Zeit: $DAYS|0$ Tag(e)"
 PROGRAM_VIEW_REQUIRE_SCIENTIST:	"§Rerfordert einen §! §YWissenschaftler§! §Rzum Start§!"
-
 PROGRAM_VIEW_PROJECT_PROGRESS:	"Projektfortschritt: $PROGRESS|0%$"
-
-
-
 SPECIAL_PROJECT_MAY_HAVE_SCIENTIST_OUTPUT:	"§YMay have scientist effects§!"
 SPECIAL_PROJECT_OUTPUT_SUBUNITS:	"§YSUntereinheiten:§!"
-
-
-
-
-
 ONGOING_PROJECT_OUTPUT_HEADER:	"Projekt Ausgang"
-
 ONGOING_PROJECT_BREAKTHROUGH_REFUND_DETAIL:	"$SPECIALIZATION|Y$: $AMOUNT|Y$"
 ONGOING_PROJECT_BREAKTHROUGH_REFUND_DELAYED:	"werden zurückerstattet, nachdem das Projekt gestoppt wurde. Das Anhalten eines Projekts dauert $DAYS|Y$ Tage"
 ONGOING_PROJECT_BREAKTHROUGHS_NUMBER:	"Abgeschlossene Projekt-Iterationen: $NUMBER$"
-
-
 ONGOING_PROJECT_GO_TO_PREVIOUS_BREAKTHROUGH:	"§GClick§! um zum vorherigen Ereignis zu gehen\n§GShift-Click§! um zum ersten Ereignis zu gehen"
 ONGOING_PROJECT_CONFIRM_OPTION:	"Bestätigen Sie"
 ONGOING_PROJECT_SHOW_PROJECT_OUTPUT:	"§GKlick§! um die $ONGOING_PROJECT_OUTPUT_HEADER$ anzuzeigen"
 ONGOING_PROJECT_SHOW_BREAKTHROUGHS_OUTPUT:	"§GKlick§! zum Anzeigen der Projekte Ereignisse"
 ONGOING_PROJECT_START_RESEARCH:	"Start"
-
 UNREAD_PROTOTYPE_REWARD:	"Sie haben $AMOUNT|Y$ ungelesene Prototyp-Iterationsereignisse"
-
-
-
 SPECIAL_PROJECT_NO_AVAILABLE_PROJECTS:	"§G0§!"
 SPECIAL_PROJECT_SPECIALIZATION_AVAILABLE_PROJECT:	"$COUNT|G$ Projekt(e) verfügbar"
-
-
-
-
-
 SPECIAL_PROJECT_PHASE_TIME:	"$DAYS|0$ Tag(e)"
-
 SPECIAL_PROJECT_SPEED_FACTOR_FORMAT:	"x$FACTOR|2$"
 SPECIAL_PROJECT_TOTAL_SPEED_FACTOR:	"Geschwindigkeit der Forschung: $FACTOR$"
-
 SPECIAL_PROJECT_SUPPLY_UTILIZATION:	"Auslastung der Einrichtung: $RATIO$"
-
-
 SPECIAL_PROJECT_SUPPLY_UTILIZATION_DELAYED:	"Die Anlage wird mit reduzierter Kapazität arbeiten, wenn der Bedarf nicht gedeckt wird. Dank des Einfallsreichtums der Ingenieure wird die Auslastung niemals unter §R20%§! fallen."
 SPECIAL_PROJECT_RESOURCE_USAGE_NONE:	"Ressourcenverbrauch: §YNone§!"
-
 SPECIAL_PROJECT_RESOURCE_USAGE_VALUE:	" ($VALUE$) "
 SPECIAL_PROJECT_RESOURCE_USAGE_TOOLTIP:	"Ressourcennutzung: $RESOURCES$\n§gWährend $PROTOTYPE_STATE$ Iterationen§!"
 SPECIAL_PROJECT_RESOURCE_USAGE_DESC_TOOLTIP:	"§gUnzureichende Ressourcen werden die Forschung verlangsamen.§!"
-
-
 SPECIAL_PROJECT_STOP_PROJECT_TT:	"§YStoppt die Forschung für dieses Projekt§!"
-
-
 STOP_PROJECT_POPUP_DESC:	"Möchten Sie das aktuelle Projekt stoppen?"
-
 RESTART_PROJECT_POPUP_DESC:	"Möchten Sie das aktuelle Projekt neu starten?"
 DISMANTLE_PROJECT_POPUP_TITLE:	"Anlage abbauen"
-
-
 SPECIAL_PROJECT_CAPTURED_TITLE:	"Anlage gefangen in $STATE|Y$"
-
-
-
 SPECIAL_PROJECT_ITERATION_REWARD_ALERT_TT:	"§YPrototypentscheidung verfügbar§!"
 SPECIAL_PROJECT_ITERATION_REWARD_ALERT_DELAYED_TT:	"Eine Prototyp-Entscheidung ist verfügbar für:"
-
 SPECIAL_PROJECT_DEFAULT_ITERATION_REWARD_OPTION_DESC:	"§GKlicken§! um die Auswirkungen zu sehen."
 SPECIAL_PROJECT_DEFAULT_ITERATION_REWARD_OPTION_CHOICE:	"Diese Option wird automatisch gewählt, wenn eine neue Iteration abgeschlossen wird, oder wenn das Projekt abgeschlossen ist."
-
 SPECIAL_PROJECT_AVAILABLE_ALERT_DELAYED_TT:	"Ein spezielles Projekt kann beginnen in:"
-
-
-
-
-
 SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_ALREADY_HAS_ONE:	"§R-Du kannst nur einen unterstützenden Wissenschaftler pro Einrichtung zuweisen§!"
 SPECIAL_PROJECT_UNABLE_TO_START:	"§RErfordert Durchbruchspunkt(e):§!"
 SPECIAL_PROJECT_BREAKTHROUGH_COST:	"Erfordert Durchbruchspunkt(e): $AMOUNT$ $SPECIALIZATION|Y$"
-
 SPECIAL_PROJECT_BREAKTHROUGH_COST_NOT_ENOUGH:	"$SPECIALIZATION|Y$: $AMOUNT|R$"
 BREAKTHROUGH_BONUS_BASIC_RESEARCH:	"$PROGRESS|Y$§Y%§! Tägliche Fortschritte von $BUILDING|Y$ in $STATE|Y$ der Grundlagenforschung"
 BREAKTHROUGH_BONUS_TECHNOLOGY_RESEARCH:	"$PROGRESS|Y$§Y%§! Täglicher Fortschritt durch $TECHNOLOGY|Y$ Forschung"
-
-
-
 BREAKTHROUGH_POINTS_TRIGGER_NOT_ENOUGH_POINTS:	"§RHat keine $AMOUNT$ Durchbruchpunkte in $SPECIALIZATION$§!"
-
-
-
 SPECIAL_PROJECT_REWARD_EQUIPMENT_MODULE:	"Ausrüstungsmodul(e)"
-
-
 SPECIAL_PROJECT_REWARD_SCIENTIST:	"Wissenschaftler Effekte"
 SPECIAL_PROJECT_REWARD_STATE:	"Staatliche Effekte"
 SPECIAL_PROJECT_REWARD_UNIT_BONUS:	"Einheiten-Bonus"
 SPECIAL_PROJECT_REWARD_EQUIPMENT_BONUS:	"Ausrüstungsbonus"
 HIDE_UNAVAILABLE_PROJECTS:	"§GKlicken Sie auf _§!, um nicht verfügbare Projekte ein-/auszublenden"
 HAS_ALL_PREREQUISITES:	"£trigger_yes Spezialprojekt $PROJECT$ wird erforscht"
-
-
-
 CONSTRUCT_BUILDING_IN_STATE:	"Konstruieren Sie einen $BUILDING|Y$ in $STATE|Y$"
-
-
-
 DISMANTLE_FACILITY_TT:	"Abgebaut in $DAYS|Y$ Tagen"
 DISMANTLE_FACILITY_PROGRESS:	"$PROGRESS|0%Y$"
 SPECIAL_PROJECT_CAPTURE_FACILITY_PROGRESS_GAINED_TITLE:	"Gestohlene Forschung"
-
-
 SPECIAL_PROJECT_BREAKTHROUGH_PROGRESS:	"Aktuelle Fortschritte in Richtung eines neuen Durchbruchs: $PROGRESS|1%Y$"
 SPECIAL_PROJECT_BREAKTHROUGH_AVAILABLE:	"$AMOUNT|Y$ Durchbruch(e) erlangt"
 SPECIAL_PROJECT_AVAILABLE_PROJECTS:	"$AMOUNT|Y$ Projekt(e) verfügbar"
-
 ADD_BREAKTHROUGH_POINTS_EFFECT_DESC:	"Gewinnen Sie Durchbruchspunkte:"
 ADD_BREAKTHROUGH_POINTS_EFFECT_SPECIALIZATION:	"$SPECIALIZATION|Y$: $AMOUNT|G$"
-
-
-
-
-
-
-
 specialization_naval:	"Schiffbau Forschung"
 specialization_air:	"Forschung Aerodynamik und Raketentechnik"
 specialization_land:	"Forschung im Bereich Landkriegsführung"
-
-
 specialization_naval_short:	"Schifffahrt"
 specialization_air_short:	"Luft"
 specialization_land_short:	"Land"
-
-
-
-
 SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_MODIFIER:	"$MODIFIER_NAME$: $MODIFIER_VALUE$"
 SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_MODIFIER:	"($SCIENTIST_NAME$) $SCIENTIST_TRAIT|Y$ $MODIFIER_NAME_AND_VALUE$"
 SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_MODIFIER_ADDITIONAL:	"Als unterstützender Wissenschaftler: ($SCIENTIST_NAME$) $SCIENTIST_TRAIT|Y$ $MODIFIER_NAME_AND_VALUE$"
-
-
-
-
-
 SPECIAL_PROJECT_RESEARCH_TIME_MIN_MAX_TOOLTIP_NUMBER_PROTOTYPE_PHASE:	"erfordert $TOTAL_NEEDED_MIN|Y0$ bis $TOTAL_NEEDED_MAX|Y0$ protoypische Iteration(en) - $NUMBER_DONE|Y0$ erledigt"
-
-
-
 TRIGGER_SCIENTIST_ALL_STARTS:	"Alle Wissenschaftler"
 TRIGGER_ANY_ACTIVE_SCIENTIST_STARTS:	"Irgendein aktiver Wissenschaftler"
 TRIGGER_ALL_ACTIVE_SCIENTIST_STARTS:	"Alle aktiven Wissenschaftler"
 HAS_SCIENTIST_WITH_SKILL_IN_SPECIALIZATION:	"Hat Wissenschaftler mit Spezialisierung: $SPECIALIZATION$"
-
-
 NOT_HAS_FACILITY_WITH_SPECIALIZATION:	"Besitzt keine $SPECIALIZATION$ Einrichtung"
 SCIENTIST_ADD_LEVEL_SPECIALIZATION_EFFECT:	"gewinnt $LEVELS|0Y$ Stufe(n) in $SPECIALIZATION|Y$"
 SCIENTIST_ADD_XP_SPECIALIZATION_EFFECT:	"gewinnt $XP|0Y$ Erfahrung in $SPECIALIZATION|Y$"
-
-
-
 SCIENTIST_IS_INJURED:	"$NAME|Y$ ist verletzt"
 SCIENTIST_IS_NOT_INJURED:	"$NAME|Y$ ist gesund"
-
-
-
-
-
 SP_UNLOCK_PROJECT:	"Schaltet das Spezialprojekt frei: $PROJECT|Y$"
 SP_UNLOCK_TECH:	"Schaltet die Technologie $TECH|Y$ frei."
-
 SP_UNLOCK_TECH_WITH_EXTRA_TECH:	"In Kombination mit der Technologie $EXTRA_TECH|Y$, schaltet die Technologie $TECH|Y$ frei."
 complexity_small:	"Klein"
-
-
-
 generic_no_effects_to_equipment_tt:	"An der Ausrüstung $EQUIPMENT$ werden keine Änderungen vorgenommen."
-
 JAP_sp_land_super_heavy_railway_gun:	"41H-Versuchshaubitze"
 GER_sp_land_super_heavy_railway_gun:	"Schwerer Gustav"
 ENG_sp_land_super_heavy_railway_gun:	"Boche Buster"
-
-
-
-
-
-
 sp_support_equipment_desc:	""
 sp_land_improved_handheld_at:	"Fortgeschrittene tragbare Panzerabwehrwaffen"
 sp_land_improved_handheld_at_desc:	"Es kann eine Technologie entwickelt und getestet werden, die die Entwicklung einer neuen Generation von Panzerabwehrwaffen für die Infanterie ermöglicht."
 sp_land_assault_rifle:	"Sturmgewehr"
 sp_land_assault_rifle_desc:	"Sturmgewehre kombinieren die Kraft von Gewehren, die Kompaktheit von Karabinern und die Feuerrate von Maschinenpistolen und sind daher ein guter Allrounder für Infanterieeinheiten."
-
 sp_land_fuel_cans:	"$fuel_cans$"
-
-
 sp_land_commando_team:	"Kommando-Teams"
-
 sp_land_night_vision:	"Frühe Nachtsichtgeräte"
 sp_land_night_vision_desc:	"Den Feind sehen zu können, ohne selbst gesehen zu werden, ist der Schlüssel zu Nachteinsätzen. Mit der Erfindung der Infrarottechnologie können wir unsere Armee mit Geräten ausstatten, die dies ermöglichen, obwohl sie unhandlich sind."
-
 sp_land_night_vision_improved_desc:	"Frühe Infrarot-Zielfernrohre, die ursprünglich für Scharfschützen gedacht waren, hatten eine begrenzte Sichtweite. Da sich sowohl die Tragbarkeit als auch die Sicht verbessert haben, können diese Geräte von mehr Truppen bei Nacht eingesetzt werden."
-
-
-
-
-
 sp_land_recovery_tanks_desc:	"Gepanzerte Pionier- und Bergungsfahrzeuge sind spezialisierte Militärmaschinen, die Kampfhandlungen unterstützen, indem sie wichtige Aufgaben wie das Räumen von Hindernissen, die Befestigung von Stellungen und die Bergung beschädigter oder stillgelegter Fahrzeuge übernehmen."
 sp_land_amphibious_mechanized:	"Amphibische Traktoren"
-
-
-
 sp_land_multi_charge_large_caliber_gun:	"Großkalibrige Kanone mit Mehrfachaufladung"
 sp_land_multi_charge_large_caliber_gun_desc:	"Mit ihrem Multi-Charge-Antriebssystem und ihrem großen Kaliber ist diese Waffe in der Lage, verheerende Bombardierungen über große Entfernungen hinweg durchzuführen."
 GER_sp_land_multi_charge_large_caliber_gun:	"Projekt V3"
-
-
-
 ENG_sp_land_multi_charge_large_caliber_gun:	"Kleiner David"
 sp_land_reward_multi_charge_large_caliber_gun_test_failure:	"Katastrophische Explosion"
-
-
-
-
 sp_land_reward_stronghold_network_structural_weakness_discovered:	"Strukturelle Schwachstelle entdeckt"
 sp_land_reward_stronghold_network_delayed_by_concrete_shortage:	"Verzögert durch Betonmangel"
 sp_land_reward_stronghold_network_underground_rail_systems:	"Unterirdische Schienensysteme"
-
-
 sp_land_reward_stronghold_network_communication_system_overhaul_desc:	"Beim Testen des internen Kommunikationsnetzes des Testkomplexes stellte das Team Ineffizienzen fest, die zur Verbesserung ähnlicher Systeme in traditionellen Festungskonstruktionen genutzt werden konnten."
-
-
-
-
-
-
-
-
 sp_land_reward_option_stronghold_network_breakthrough_in_concrete_reinforcement_01_apply_and_document_discovery:	"Entdeckung anwenden und dokumentieren"
 sp_land_reward_option_stronghold_network_breakthrough_in_concrete_reinforcement_01_use_in_current_project:	"Verwendung im aktuellen Projekt"
 sp_land_reward_stronghold_network_breakthrough_in_concrete_reinforcement_02:	"$sp_land_reward_stronghold_network_breakthrough_in_concrete_reinforcement_01$"
-
-
-
-
-
-
-
-
 sp_land_generic_reward_scientist_xp_1:	"Neue Erkenntnisse"
 sp_land_generic_reward_scientist_xp_2:	"Verfeinertes Fachwissen"
 sp_land_generic_reward_scientist_xp_3:	"Aufschlussreiche Entdeckung"
 sp_land_generic_reward_army_xp_1:	"Innovationen auf dem Schlachtfeld"
 sp_land_generic_reward_army_xp_2:	"Operative Einsicht"
-
 sp_land_generic_reward_major_progress_1:	"Vielversprechender Prototyp"
 sp_land_generic_reward_major_progress_2:	"Kritischer Test erfolgreich"
 sp_land_generic_reward_major_progress_3:	"Entscheidende Entdeckung"
 sp_land_generic_reward_test_failure_1:	"Test nicht schlüssig"
-
 sp_land_generic_reward_test_failure_3:	"Geringfügiges Versagen des Tests"
 sp_land_generic_reward_armor_tech_1:	"Wegweisende Techniken"
-
-
-
-
-
-
-
-
-
-
-
 sp_land_generic_reward_engine_bonus_2:	"Verbesserte Triebwerkszuverlässigkeit"
 sp_land_generic_reward_engine_bonus_3:	"Optimierte Triebwerksleistung"
 sp_land_generic_reward_artillery_bonus_1:	"Verbesserte Fernkampfpräzision"
-
-
-
 sp_land_generic_reward_critical_failure:	"Kritisches Versagen"
-
-
-
-
-
 USA_sp_nuclear_reactor:	"Stapel-1"
-
-
-
 BEL_sp_nuclear_reactor:	"BR1"
 SAF_sp_nuclear_reactor:	"Projekt Koeberg"
-
-
 sp_nuclear_bomb:	"Projekt Kernspaltungsbombe"
 USA_sp_nuclear_bomb:	"Das Manhattan-Projekt"
-
-
 PRC_sp_nuclear_bomb:	"Projekt 596"
-
-
-
-
 POL_sp_nuclear_bomb:	"Projekt Polonium"
 JAP_sp_nuclear_bomb:	"Jin-Projekt"
 sp_nuclear_bomb_desc:	"Eine Bombe, die den Prozess der Kernspaltung nutzt, um die gespeicherte Energie des Atoms in einem apokalyptischen Moment freizusetzen. Wer würde es mit einer solchen Waffe in unserem Arsenal wagen, sich uns zu widersetzen?"
-
-
-
-
-
 sp_nuclear_major_breakthrough_reward:	"Großer Durchbruch bei Kernreaktionen"
 sp_nuclear_major_breakthrough_reward_desc:	"Ein kontrolliertes Experiment mit einem Teil unseres begrenzten Nuklearmaterials hat die Machbarkeit des von uns geplanten Designs bewiesen. Dies hat das Projekt mit neuem Enthusiasmus vorangetrieben."
 sp_nuclear_isotope_separation_choice_reward:	"Einrichtungen zur Isotopentrennung"
-
-
-
 sp_nuclear_scientist_xp_generic_reward:	"Neue Erkenntnisse"
 sp_nuclear_generic_industry_tech_reward:	"Technologische Fortschritte"
-
-
 sp_nuclear_scientist_xp_generic_reward_desc:	"TODO_TA"
 sp_nuclear_minor_progress_generic_reward:	"Kleiner Durchbruch"
-
-
-
-
 sp_nuclear_war_support_generic_reward:	"Öffentliche Unterstützung"
 sp_nuclear_war_support_generic_reward_desc:	"Ein erfolgreicher Test und die damit verbundene, streng kontrollierte Berichterstattung in den Medien haben dazu geführt, dass die Öffentlichkeit versteht, dass wir der Entwicklung einer Art Superwaffe, mit der alle Feinde besiegt werden können, näher gekommen sind. "
-
 sp_nuclear_major_political_interference_generic_reward_desc:	"Das Projekt [SpecialProject.GetName] wurde von der politischen Führung verstärkt unter die Lupe genommen, was zu Verzögerungen führte und möglicherweise Änderungen in der Projektleitung erzwang. Dies hat [Character.GetName] wütend gemacht. Wir müssen uns mit diesen politischen Herausforderungen auseinandersetzen, um das Projekt auf Kurs zu halten"
 sp_nuclear_major_political_interference_generic_reward_option_keep:	"Behalten Sie [Character.GetName]"
 sp_nuclear_major_political_interference_generic_reward_option_fire:	"Entfernen Sie [Character.GetName]"
@@ -419,9 +196,6 @@ sp_nuclear_bomb_theoretical_breakthrough_generic_reward_desc:	"[Character.GetNam
 sp_nuclear_bomb_critical_mass_generic_reward:	"Experiment zur kritischen Masse geht schief"
 sp_nuclear_bomb_critical_mass_generic_reward_desc:	"Bei Experimenten zur Bestimmung der kritischen Masse kam es zu einem kritischen Unfall, der zu einer Strahlenbelastung und zu Opfern unter dem Schlüsselpersonal führte."
 sp_nuclear_bomb_information_leak_reward:	"Informationsleck"
-
-
-
 sp_nuclear_reactor_radioactive_leak_stabilized_reward_desc:	"Leider kam es bei den Arbeiten am Reaktor zu einem schweren Zwischenfall. Dank der schnellen Reaktion der Mitarbeiter konnte der Schaden eingedämmt werden und das Team konnte wertvolle Daten aus dem Vorfall gewinnen."
 sp_nuclear_reactor_minor_explosion_reward:	"Leichte Explosion, keine Verletzten"
 sp_nuclear_reactor_minor_explosion_reward_desc:	"Bei der Arbeit an der neuesten Version des Kernreaktor-Prototyps kam es zu einem kleinen Zwischenfall. Es kam zu einer kleineren Explosion, bei der Teile des Labors beschädigt wurden, aber das Feuer, das daraufhin entstand, konnte leicht gelöscht werden. Sobald das Labor repariert ist, sollte die Arbeit wie geplant fortgesetzt werden können, mit nur einer kleinen Verzögerung."
@@ -430,23 +204,8 @@ sp_nuclear_reactor_tested_reward_desc:	"Unser erster Kernreaktor ist erfolgreich
 sp_nuclear_reactor_tested_reward_public:	"Feiern Sie die Errungenschaft öffentlich"
 nuclear_reactor_tested_reward_classify:	"Halten Sie die Informationen vorerst geheim"
 sp_nuclear_reactor_tested_reward_public_tt:	"Andere Länder könnten davon profitieren"
-
-
-
-
-
-
-
-
-
 sp_nuclear_bomb_espionage_threats_reward:	"Spionage-Bedrohungen"
-
-
-
-
 sp_nuclear_bomb_breakthrough_plutonium_reward:	"Durchbruch bei der Plutoniumproduktion"
-
-
 sp_nuclear_bomb_accident_generic_reward_desc:	"In einem der Lagerhäuser der Anlage ist ein Feuer ausgebrochen. Erste Untersuchungen deuten darauf hin, dass es sich um einen Unfall handelt. Aber war es das wirklich?"
 sp_nuclear_bomb_design_choice_reward:	"Einfacher oder komplexer Bombenentwurf"
 sp_nuclear_bomb_design_choice_reward_desc:	"Es gibt zwei Entwürfe für eine Atomwaffe, die von unseren Wissenschaftlern verfolgt werden, und es ist eine Debatte darüber entbrannt, wie mit ihnen verfahren werden soll. Der eine Entwurf, die so genannte Kanonenbombe, ist viel einfacher zu bauen, aber auch weniger effizient in der Nutzung des Kernmaterials. Die andere ist die Implosionsbombe, ein wesentlich anspruchsvolleres Design, aber theoretisch effizienter in der Verwendung von Kernmaterial."
@@ -458,18 +217,9 @@ sp_electronics_radar_decimetric:	"Dezimetrisches Radar"
 sp_electronics_radar_decimetric_desc:	"Die Entwicklung eines verbesserten Radars, das mit dezimetrischen Wellenlängen arbeitet, wird eine größere Reichweite und Entdeckung ermöglichen."
 sp_electronics_radar_centimetric:	"Zentimetrisches Radar"
 sp_electronics_radar_centimetric_desc:	"Die Entwicklung eines zentimetrischen Radars wird die Erkennung viel kleinerer Ziele und den Einsatz viel kleinerer Antennen ermöglichen. "
-
-
-
 ENG_sp_electronics_aa_proximity_fuze:	"AA VT-Zünder"
 sp_electronics_artillery_proximity_fuze:	"Artillerie-Näherungszünder"
 sp_electronics_artillery_proximity_fuze_desc:	"Durch die Anpassung unseres bestehenden Annäherungszünders an Artilleriegranaten können diese explodieren, bevor sie auf den Boden treffen, was ihre Wirkung verstärkt."
-
-
-
-
-
-
 sp_electronics_plastics_iii:	"$plastics_iii$"
 sp_electronics_plastics_iii_desc:	"$plastics_iii_desc$"
 sp_electronics_generic_reward_scientist_xp_1:	"Wertvolle Einsichten"
@@ -477,272 +227,95 @@ sp_electronics_generic_reward_scientist_xp_2:	"Erweitertes theoretisches Wissen"
 sp_electronics_generic_reward_scientist_xp_3:	"Grenzenlose Entdeckungen"
 sp_electronics_generic_reward_major_progress_1:	"Schockierender Fortschritt"
 sp_electronics_generic_reward_major_progress_2:	"Innovation"
-
 sp_electronics_generic_reward_test_failure_1:	"Design-Fehler"
 sp_electronics_generic_reward_test_failure_2:	"Durchgebrannte Zünder"
 sp_electronics_generic_reward_test_failure_3:	"Kreative Katastrophe"
-
-
 GER_sp_rockets_flying_bomb_pulsejet:	"Das V1-Projekt"
 GER_sp_rockets_flying_bomb_pulsejet_desc:	"Vergeltungswaffe 1. Eine raketengetriebene fliegende Bombe, die unsere Feinde aus der Ferne treffen und ihre Kriegsindustrie zerstören kann, ohne dass dafür ausgebildete Piloten benötigt werden."
-
-
-
 GER_sp_rockets_early_ballistic_missile_desc:	"Vergeltungswaffe 2. Eine gelenkte ballistische Rakete, die einen Sprengkopf aus großer Entfernung mit beispielloser Geschwindigkeit und Genauigkeit abfeuern kann."
 sp_rockets_improved_ballistic_missile:	"Verbesserte ballistische Raketen"
-
 sp_rockets_scientist_xp_generic_reward:	"Neue Erkenntnisse"
 sp_rockets_scientist_xp_generic_reward_desc:	"Unsere Wissenschaftler haben im Laufe der Arbeit mit dem neuesten Prototyp mehrere neue Erkenntnisse gewonnen"
 sp_rockets_political_interference_generic_reward:	"Politische Einmischung"
 sp_rockets_political_interference_generic_reward_desc:	"Die Einmischung von Politikern in Angelegenheiten, die sie nicht hätten tun sollen, hat dazu geführt, dass das Projekt gezwungen war, Dinge zu wiederholen, die bereits erledigt waren, und zwar aus Gründen, die für niemanden einen Sinn ergeben."
-
-
-
 sp_rockets_generic_major_breakthrough_reward_desc:	"Während der letzten Iteration des Prototyps ist uns ein wichtiger Durchbruch gelungen."
-
-
-
-
-
-
 sp_rocket_design_choice_reward_balanced:	"Ausgewogen"
 sp_rocket_design_choice_reward_range:	"Reichweite"
 sp_rocket_design_choice_reward_payload:	"Nutzlast"
 sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward:	"Technischer Durchbruch bei der Entwicklung des Impulsstrahls"
-
-
-
 sp_rockets_flying_bomb_launch_ramp_innovations_reward_option:	"Gute Nachrichten"
 sp_rockets_flying_bomb_mass_production_scaling_reward:	"Skalierung der Massenproduktion"
 sp_rockets_flying_bomb_mass_production_scaling_reward_desc:	"Es ist uns gelungen, Verbesserungen in der Produktion zu erzielen, die es uns ermöglichen, die Massenproduktion viel schneller zu steigern."
-
-
-
-
 sp_rockets_flying_bomb_test_flight_failures_reward:	"Misserfolge bei Testflügen"
 sp_rockets_flying_bomb_test_flight_failures_reward_desc:	"Bei frühen Testflügen kam es zu Ausfällen aufgrund von Fehlfunktionen des Leitsystems und strukturellen Schwächen. Unsere Wissenschaftler haben viel daraus gelernt, aber wir müssen einen Schritt zurücktreten und neu nachdenken."
-
-
 sp_rockets_vertical_launch_reward:	"Vertikales Startsystem"
 sp_rockets_vertical_launch_reward_desc:	"Nach einigen gescheiterten Versuchen ist es [Character.GetName] endlich gelungen, die Probleme mit dem vertikalen Start dieser Raketen zu lösen. Das neue System sollte es ermöglichen, dass die Raketen ohne Probleme gestartet werden können und ohne Verzögerung große Höhen erreichen."
 sp_rockets_high_speed_flight_control_reward:	"Hochgeschwindigkeits-Flugsteuerung"
 sp_rockets_high_speed_flight_control_reward_desc:	"Wir haben es endlich geschafft, ein funktionierendes Kontrollsystem zu entwickeln, das bei hohen Geschwindigkeiten funktioniert und auf die sich ändernde Flugdynamik reagieren kann. Dieses Wissen kann sicherlich auch in anderen Bereichen von Nutzen sein."
-
-
 sp_rockets_warhead_detonation_mechanisms_reward_desc:	"Ein wichtiger Teil der gesamten Entwicklung besteht darin, die Waffe an der richtigen Stelle explodieren zu lassen. Es scheint, dass [Character.GetName] es geschafft hat, eine Lösung zu finden, die es uns ermöglicht, den Sprengkopf zu einem möglichst günstigen Zeitpunkt zu zünden."
-
-
-
-
-
-
-
-
-
-
-
 sp_rocket_relay_failure_reward_reject:	"Wir können nicht länger warten."
 sp_rocket_outercoating_reward:	"Rost in der Rakete"
-
-
 sp_rocket_launch_site_choice_reward:	"Probleme mit dem Startplatz"
-
-
-
-
-
-
-
-
 sp_air_anti_air_rocket_desc:	"Die Entwicklung von Einzelschuss-Luft-Luft-Raketen ermöglicht es uns, die Feuerkraft unserer Kampfflugzeuge zu erhöhen."
 GER_sp_air_anti_air_rocket:	"R4M-Raketen"
 sp_air_anti_air_rocket_custom_tt:	"Ermöglicht die Aufrüstung von §YLuft-Luft-Raketen§! für Jäger, Abfangjäger und Mehrzweckflugzeuge."
 sp_air_guided_bombs:	"Gelenkte Bomben"
 sp_air_guided_bombs_desc:	"Experimentelle Waffen, die die Genauigkeit von Luftangriffen verbessern sollen. Im Gegensatz zu herkömmlichen Bomben, die blind abgeworfen werden, sind diese Bomben mit Leitsystemen wie z.B. einer Funksteuerung ausgestattet, die es ermöglichen, sie auf bestimmte Ziele zu lenken."
-
-
-
 sp_air_bouncing_bomb_completion_tt:	"Schaltet §Y$raid_type_dam_bombing_raid$§! frei. "
 sp_air_bouncing_bomb_backspin_mechanism_reward:	"Backspin-Mechanismus"
 sp_air_bouncing_bomb_backspin_mechanism_reward_desc:	"Unsere Wissenschaftler haben eine geniale Lösung gefunden, um die Bombe nach dem Abwurf zu stabilisieren. Der Mechanismus löst einen Backspin aus, der die Bombe auf dem Weg zum Ziel hält. "
 sp_air_bouncing_bomb_backspin_mechanism_reward_option:	"Großartig"
-
 sp_air_bouncing_bomb_training_accidents_reward_desc:	"Leider haben wir einige Flugzeuge verloren, als wir Anflüge in niedriger Höhe versucht haben. Wir müssen die Sicherheitsvorkehrungen und das Trainingsprogramm intensivieren. "
 sp_air_bouncing_bomb_training_accidents_reward_option:	"Das ist sehr bedauerlich."
 sp_air_bouncing_bomb_aircraft_modifications_reward:	"Modifikationen am Flugzeug"
 sp_air_bouncing_bomb_aircraft_modifications_reward_desc:	"Während des letzten Testlaufs ist es uns endlich gelungen, herauszufinden, welche Modifikationen an der Flugzeugzelle erforderlich sind, damit der Auslösemechanismus richtig eingebaut werden kann. "
-
 sp_air_bouncing_bomb_type_of_explosives_reward:	"Art des Sprengstoffs"
 sp_air_bouncing_bomb_type_of_explosives_reward_desc:	"Durch die Verwendung von Torpex anstelle von TNT können wir die Größe der Bombe erheblich reduzieren, ohne dass die Sprengkraft beeinträchtigt wird. "
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 sp_air_generic_discoveries_reward:	"Neue verwandte Erkenntnisse"
 sp_air_generic_discoveries_reward_desc:	"Im Laufe unserer Arbeit sind unsere Forscher auf eine Reihe von Ideen gekommen, die sich in anderen Situationen als nützlich erweisen könnten."
 sp_air_generic_discoveries_reward_option:	"Interessant"
-
-
-
-
-
 sp_air_generic_reward_air_xp_3:	"Winde des Wandels"
 sp_air_generic_reward_major_progress_1:	"Projekt Start"
-
-
 sp_air_generic_reward_test_failure_1:	"Experiment ist gescheitert"
 sp_air_generic_reward_test_failure_2:	"Explodierende Bombe"
 sp_air_generic_reward_test_failure_3:	"Kreative Katastrophe"
 sp_naval_underway_replenishment:	"Nachschub für unterwegs"
 sp_naval_underway_replenishment_desc:	"Die Versorgung von Flotten, die weit von ihren Heimatbasen entfernt sind, war schon immer ein limitierender Faktor. Da unsere Flotten auf extremen Entfernungen operieren, müssen wir neue Methoden für die Nachschubversorgung entwickeln."
-
-
 sp_naval_floating_dock:	"Schwimmende Häfen"
-
-
-
-
-
-
-
-
-
-
 sp_naval_torpedo_homing_desc:	"Ausgestattet mit einem Akustikdetektor kann der Torpedo die größte Geräuschquelle vor ihm anpeilen - normalerweise das Ziel."
-
-
-
-
-
-
-
-
-
 sp_naval_torpedo_cruiser_desc:	"Wir können den wichtigsten und teuersten Schiffen unserer Feinde erheblichen Schaden zufügen, indem wir einen Kreuzer entwickeln, der auf Torpedo-Kriegsführung ausgelegt ist. "
 sp_naval_carrier_super:	"Große Flugzeugträger"
-
-
-
-
 sp_naval_generic_reward_navy_xp_1:	"Veränderung im Fluss der Ideen"
 sp_naval_generic_reward_navy_xp_2:	"Welle der Ideen"
 sp_naval_generic_reward_navy_xp_3:	"Tsunami von Innovationen!"
-
-
-
 sp_naval_generic_reward_test_failure_1:	"Projektverzögerung!"
-
-
-
-
-
-
-
-
-
-
-
 sp_naval_support_ships_unique_reward_a:	"Hilfsschiffe – Schwerpunkt der Unterstützung"
-
-
-
-
-
-
-
 sp_naval_support_ships_preference_b_b:	"Das richtige Gleichgewicht finden"
-
-
 sp_naval_underway_replenishment_unique_reward_a_desc:	"Während wir noch daran arbeiten, das System der Nachschubversorgung auf See so reibungslos wie möglich zu gestalten, müssen wir eine weitere Entscheidung treffen – wollen wir unsere ursprünglichen Schätzungen ändern oder nicht?"
 sp_naval_underway_replenishment_preference_a:	"Größere Reichweite"
-
-
-
-
-
 sp_tag_surface_ship:	"Überwasserschiff-Projekte"
 sp_tag_submarine:	"U-Boot-Projekte"
-
-
 sp_tag_nuclear_warfare:	"Projekte zur nuklearen Kriegsführung"
-
-
-
 sp_tag_jet:	"Jet-Projekte"
 sp_tag_bomb:	"Bomben-Projekte"
-
-
 sp_tag_radar:	"Radar-Projekte"
 sp_tag_computing:	"Computing-Projekte"
-
-
 scientist_trait_gifted_engineer:	"Begabter Ingenieur"
 scientist_trait_gifted_engineer_desc:	"Ein von Natur aus talentierter Ingenieur, der in der Lage ist, komplexe technische Probleme in einer Vielzahl von Bereichen zu lösen."
-
-
-
-
-
 scientist_trait_fast_learner_desc:	"Passt sich schnell an neue Herausforderungen an, lernt schneller als seine Kollegen und ist in verschiedenen wissenschaftlichen Bereichen herausragend."
-
-
 scientist_trait_schrodingers_trait:	"Schrödingers Charaktereigenschaft"
 scientist_trait_schrodingers_trait_tt:	"Erfahrungsgewinn für Wissenschaftler: §G+10%§!\nWissenschaftler-EP-Gewinn: §R-10%§!"
-
-
-
-
-
-
 scientist_trait_helicopter_expert_desc:	"Ein Pionier im Bereich der Drehflügler, spezialisiert auf die Mechanik des Vertikalflugs, Rotorsysteme und frühe Hubschraubermodelle."
 scientist_trait_jet_expert:	"Jet-Experte"
-
-
 scientist_trait_bombs_expert_desc:	"Experte für die Entwicklung von Sprengkörpern und Präzisionsbomben, die in neuen, verfeinerten Strategien für Luftangriffe eingesetzt werden können."
 scientist_trait_guidance_systems_expert:	"Experte für Lenksysteme"
-
-
-
-
-
-
-
-
 scientist_trait_submarine_specialist_desc:	"Ein Spezialist für U-Boot-Kriegsführung, der sich auf die Entwicklung neuer U-Boot-Technologien konzentriert, um deren Rolle bei getarnten Marineoperationen zu verbessern."
 scientist_trait_torpedo_specialist:	"Torpedo Spezialist"
-
-
-
-
-
-
 scientist_trait_nuclear_specialist_desc:	"Ein Physiker an der Spitze der Atomforschung, der sich intensiv mit der Erforschung von Kernspaltung und Kettenreaktionen beschäftigt."
-
 scientist_trait_nuclear_warfare_expert_desc:	"Ein Experte für die praktische Anwendung der Atomphysik bei der Waffenentwicklung, der sich auf die Theorie der Atombombenentwicklung spezialisiert hat."
-
 scientist_trait_nuclear_power_expert_desc:	"Eine führende Autorität auf dem Gebiet der Kernphysik, versiert auf dem Gebiet der Kernspaltung mit Schwerpunkt auf der Energieerzeugung."
-
-
 scientist_trait_computing_specialist:	"Spezialist für Computertechnik"
 scientist_trait_computing_specialist_desc:	"Spezialisiert auf Computer- und Verschlüsselungssysteme."
-
-
 sp_nuclear_project_events.1.a:	"Das könnte sich als nützlich erweisen"
 FACILITY_BUILDINGS:	"Experimentelle Einrichtungen"
 SCIENTIST_ROSTER_WINDOW_TITLE:	"Wissenschaftler"

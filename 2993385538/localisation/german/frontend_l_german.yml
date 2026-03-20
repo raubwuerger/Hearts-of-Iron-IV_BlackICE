@@ -62,151 +62,78 @@ SM_MUSIC_VOLUME:0	"Musik Lautstärke"
 SM_SCROLL_SPEED:0	"Scroll-Geschwindigkeit"
 SM_CORNER_SCROLL:	"Eckenscrollen aktivieren"
 SM_ZOOM_SPEED:0	"Zoom-Geschwindigkeit"
-
 SM_MODE:0	"Modus"
-
 SM_REFRESH_RATE:0	"Bildwiederholrate"
-
 SM_GAMMA_TOOLTIP:2	"Aktiviert im Vollbildmodus"
-
 SM_WINDOWED:0	"Gefenstert"
-
 SM_BORDERLESS:0	"Randlos"
-
 SM_TREES:0	"3D-Bäume"
-
 SM_DECORATIVE_MAPITEMS:0	"Dekorative Kartenelemente"
-
 SM_AUTOSAVE_INTERVAL:0	"Automatisches Speicherintervall"
-
 SM_ALERT:0	"Warnung"
-
 SM_WP:0	"Fehler beim Schreiben in die Einstellungsdatei. Prüfen Sie, ob die Datei nicht schreibgeschützt ist und versuchen Sie es erneut."
-
 SM_AMBIENT_OBJECTS:0	"Umgebungsobjekte"
-
 SM_VSYNC:0	"VSync"
-
 SM_WATER_REFL:0	"Spiegelungen"
-
 SM_TEX_QUALITY_LOW:0	"Niedrig"
-
 SM_TEX_QUALITY_HIGH:0	"Hoch"
-
 SM_CITIES:0	"Städte"
-
 SM_BUILDINGS:0	"3D-Gebäude"
-
 SM_HIGH_GFX_SHADERS:0	"Hochwertige Pixel-Shader"
-
 RESTART_REQ:0	"Neustart erforderlich"
-
 NEVER:0	"Niemals"
-
 HALFYEAR:0	"Halbjährlich"
-
 FE_HOTJOIN_LABEL:0	"Hotjoin"
-
 FE_COOP_LABEL_DESC:0	"Ermöglicht mehreren Spielern die Kontrolle über 1 Nation"
-
 FE_COOP_TOOLTIP:0	"Erlaubt Spielern, das gleiche Land zu spielen"
-
 NATO_COUNTERS:0	"NATO-Symbole verwenden"
-
 PAUSE_ON_POPUPS_DESC:0	"Pause bei Popup-Benachrichtigungen. Wirkt sich nicht auf Ereignisse aus."
-
 HOME_WIKI:0	"Offline-Wiki als Standard verwenden"
-
 PLAYER_BANNED:0	"$NAME$ wurde vom Host gebannt."
-
 FE_START:0	"STARTEN SIE"
-
 FE_NO:0	"Nein"
-
 NO:0	"Nein"
-
 FE_DIFFICULTY_CUSTOM_BTN:1	"Benutzerdefinierte Spielregeln"
-
 FE_DIFFICULTY_VERY_EASY:0	"Zivilist"
-
 FE_DIFFICULTY_EASY:1	"Rekrut"
-
 FE_DIFFICULTY_NORMAL:1	"Regular"
-
 FE_DIFFICULTY_HARD:1	"Veteran"
-
 FE_DIFFICULTY_VERY_HARD:0	"   BICE Mode"
-
 FE_DIFFICULTY_UNKNOWN:0	"Geheimer Schwierigkeitsgrad"
-
 FE_DIFFICULTY_MODIFIER_AI_TOOLTIP:0	"\n\nAI:\n$AIMOD$"
-
 FE_CUSTOM_DIFFICULTY_TOOLTIP:0	"Angewandt auf: $COUNTRIES$\n$MODIFIER$"
-
 CUSTOM_GAME_RULES_TITLE:0	"Benutzerdefinierte Spielregeln"
-
 CUSTOM_GAME_RULES_ALLOW_ACHIEVEMENTS:0	"Alle Spielregeln erlauben Errungenschaften."
-
 CUSTOM_GAME_SETTINGS_LOAD:1	"Voreinstellung laden"
-
 CUSTOM_GAME_SETTINGS_SAVE:1	"Voreinstellung speichern"
-
 CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP:0	"§HAngepasste Optionen§!\nEinige Regeln in dieser Gruppe sind mit nicht standardmäßigen Optionen angepasst."
-
 CUSTOM_GAME_SETTINGS_GROUP_DEFAULT_TOOLTIP:0	"§HDefault Options§!\nJede Regel in dieser Gruppe ist so eingestellt, dass ihre Standardoption verwendet wird."
-
 CUSTOM_GAME_SETTINGS_REVERT_TOOLTIP:0	"Setzt alle angepassten Regeln auf ihre Standardoptionen zurück."
-
 DAILY:0	"Täglich"
-
 GAMESETUP_SELECT_SCENARIO:0	"Ein Szenario auswählen oder ein Spiel laden"
-
 CHAT_WHISPER_TO:0	"An $NAME|H$"
-
 CHAT_ERROR_UNKNOWNUSER:0	"Unbekannter Benutzer."
-
 ACHIEVEMENTS_CHEATS:0	"Keine Cheats oder modifiziertes Spiel/Speichern"
-
 ACHIEVEMENTS_OK:0	"§HCan get Achievements!§!"
-
 ACHIEVEMENTS_MOSTLY_NOT_OK:0	"§RKann die meisten Errungenschaften nicht erhalten!§!"
-
 achievement_has_dropped_nuke:0	"Hat eine Atombombe eingesetzt"
-
 achievement_won_spanish_civil_war:0	"Hat den Spanischen Bürgerkrieg gewonnen"
-
 achievement_has_nuked_california:0	"Hat eine Atombombe in Kalifornien abgeworfen"
-
 POL_vojtek_commander:0	"Entdeckt, wie man diesen Erfolg auslösen kann."
-
 SAF_released_MZB:0	"Mosambik freigelassen"
-
 SAF_released_ZIM:0	"Freigegeben Simbabwe"
-
 SAF_released_COG:0	"Freigegeben Kongo"
-
 achievement_EGY_colony:0	"Kolonie-Status erreicht"
-
 achievement_EGY_free:0	"Freiheitsstatus erreicht"
-
 YUG_delcared_war_on_axis_allies:0	"Hat der Achse oder den Alliierten den Krieg erklärt, während es entweder der Achse oder den Alliierten angehört"
-
 is_historical_focus_on:0	"Der Modus Historischer Fokus ist eingeschaltet"
-
 CHAT_ERROR_MUTE_MISSINGARGS:0	"Ungültige Syntax, erwartet: /mute <Benutzername>"
-
 CHAT_ERROR_MUTEUNMUTE_SELF:0	"Du kannst dich nicht stummschalten oder die Stummschaltung aufheben!"
-
 CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_PLURAL:0	"Du hast zu häufig gepostet. Bitte warte $TIME|Y$ Sekunden, bevor du erneut postest."
-
 FE_RANDOMIZE_COUNTRY:0	"Wähle ein zufälliges Land"
-
 RANDOMIZE_COUNTRY_BACK:0	"schließen"
-
 FE_INTERESTING_MAJORS:0	"Interessante große Länder"
-
 FE_OTHER_COUNTRIES:0	"Andere Länder"
-
 SM_MOUSE_SPEED:0	"Mausgeschwindigkeit"
 SM_RESOLUTION:0	"Auflösung"
 SM_GAMMA:0	"Gamma"

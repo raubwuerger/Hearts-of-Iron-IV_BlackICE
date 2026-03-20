@@ -192,268 +192,136 @@ ROM_defend_the_oil:	"Verteidigen Sie die Ölfelder"
 ROM_defend_the_oil_desc:	"Unser Öl ist entscheidend für den langfristigen Erfolg Deutschlands, daher müssen wir sicherstellen, dass es gut geschützt ist"
 ROM_air_defense:0	"Luftverteidigung"
 ROM_air_defense_desc:0	"Wir müssen unsere Grenzen mit umfangreichen Luftabwehrbatterien schützen, um unsere kleine Luftwaffe zu entlasten."
-
-
 ROM_ground_support:0	"Bodenunterstützung"
 ROM_ground_support_desc:0	"Kombinierte Waffen sind ein wesentlicher Bestandteil der modernen Kriegsführung. Die Luftwaffe muss so ausgebildet sein, dass sie unsere Landstreitkräfte im Bedarfsfall unterstützen kann."
-
-
 ROM_cas:0	"Sturzkampfbomber"
 ROM_cas_desc:0	"Wir brauchen spezielle Flugzeugmodelle für die Luftnahunterstützung, wenn wir das Beste aus unseren kombinierten Streitkräften herausholen wollen."
-
-
 ROM_local_development:0	"Lokale Entwicklung"
 ROM_local_development_desc:0	"Wir werden uns auf die heimische rumänische Luftfahrtindustrie verlassen, um die von uns benötigten Flugzeuge zu produzieren."
-
-
 ROM_strategic_bomber_force:0	"Strategische Bomberkräfte"
 ROM_strategic_bomber_force_desc:0	"Militärische Operationen sind nur zweitrangig gegenüber der Zerstörung der gegnerischen Industrie und Infrastruktur. Die strategische Bombardierung ist das Mittel, mit dem wir dies erreichen werden."
-
-
 ROM_nuclear_bomb_project:0	"Projekt Atombombe"
 ROM_nuclear_bomb_project_desc:0	"Wir können niemals darauf hoffen, unsere wahrscheinlichen Feinde mit konventionellen Mitteln auszubomben. Wir müssen uns daher auf technologische Fortschritte konzentrieren, die es uns ermöglichen, mit weniger Mitteln mehr Zerstörung anzurichten. Viel, viel mehr."
-
-
 ROM_army_modernization:0	"Armee-Manöver"
 ROM_army_modernization_desc:0	"Unsere Armee muss für mögliche künftige bewaffnete Konflikte wieder fit gemacht werden. Wir werden sie auf Manöver schicken, um neue Taktiken und Strategien zu entwickeln."
-
-
 ROM_the_zb_53_desc:0	"Moderne Ausrüstung ist der Schlüssel zur Kriegsführung, und wir müssen uns bemühen, unsere Infanteriewaffen zu modernisieren."
 ROM_cugir_smallarms:0	"Cugir Kleinwaffenfabrik"
-
-
 ROM_malaxa_desc:0	""
 ROM_vanatori_de_munte:0	"Vanatori De Munte"
-
-
 ROM_resita_works:0	"Resita-Werke"
 ROM_resita_works_desc:0	"Die Infanterie funktioniert nicht ohne angemessene Artillerieunterstützung. Die Bereitstellung moderner, qualitativ hochwertiger Geschütze wird die Effektivität unserer Streitkräfte erheblich verbessern."
-
-
 ROM_mountain_artillery:0	"Gebirgsartillerie"
 ROM_mountain_artillery_tech_tt:0	"Aktiviert §HGebirgsartillerie§!\n§HArtillery\n Gebirge§!: Bewegung: §G+15%§!\n§HAnti-Panzer\n Gebirge§!: Bewegung: §G+15%§!"
-
-
 ROM_mobile_divisions_desc:0	"Mobiles Heer"
 ROM_army_radios:0	"Funkgeräte der Armee"
-
-
 ROM_expand_cugir_arms_factory_desc:0	"Ausbau der Cugir-Waffenfabrik"
 ROM_motorize_the_army:0	"Verbessern Sie die Motorisierung der Armee"
-
-
 ROM_the_armored_division_tt:0	"Erhalten Sie eine Einheit mit §Y4 mittlere Panzer§! und §Y4 Motorisiert§!"
 ROM_the_armored_division_desc:0	"Panzer sind der Weg nach vorne, und wir müssen spezielle Divisionen aufstellen, die die Stärken dieser neuen Waffen nutzen."
-
-
 ROM_mobile_tank_destroyers:0	"Mobile Jagdpanzer"
 ROM_mobile_tank_destroyers_desc:0	"Wir verfügen nicht über die Industrie, um unsere Feinde bei der Produktion von Panzern zu übertreffen. Wir müssen uns stattdessen auf die Produktion von Waffen konzentrieren, die die Überlegenheit des Gegners bei gepanzerten Einheiten zunichte machen können."
-
-
 ROM_expand_the_galati_shipyards:0	"Ausbau der Galati-Werften"
 ROM_expand_the_galati_shipyards_desc:0	"Unsere bereits bestehenden Werftanlagen in Galati müssen erheblich erweitert werden, wenn wir unsere Macht im Schwarzen Meer ausbauen wollen."
-
-
 ROM_coastal_defense_ships:0	"Küstenverteidigungsschiffe"
 ROM_coastal_defense_ships_tech_tt:0	"Ermöglicht §HKüstenverteidigungsschiffe§!\n§Hschwere Kreuzer§!\n Panzerung: §G+20%§!\n Feuerkraft der Marine: §G+10%§!\n Produktionskosten: §G-10%§!"
-
-
-
-
 ROM_modern_destroyers_desc:0	"Zerstörer sind das Rückgrat jeder Marine, und unsere ist da keine Ausnahme. Das Rückgrat unserer Marine muss an die heutigen Standards angepasst werden."
 ROM_torpedo_boats:0	"Torpedoboote"
 ROM_torpedo_boats_desc:0	"Torpedos sind der große Gleichmacher der Seekriegsführung. Wenn wir dafür sorgen, dass alle unsere Schiffe mit Torpedos ausgerüstet sind, können wir eine überlegene Streitmacht durch schiere Kühnheit und die Menge des Torpedobeschusses überraschen und auslöschen."
 ROM_modern_submarines:0	"Moderne U-Boote"
-
-
-
-
 ROM_capital_ships_desc:0	"Wenn wir als Seemacht ernst genommen werden wollen, benötigen wir Großkampfschiffe an der Spitze unserer Schwarzmeerflotte."
 ROM_torpedo_bombers:0	"Torpedobomber"
 ROM_torpedo_bombers_desc:0	"Wir können unsere Seeschwäche ausgleichen, indem wir einen Teil unserer Luftstreitkräfte für Marineaufgaben einsetzen. Dazu brauchen wir ein neues Flugzeugmodell, das Torpedos tragen kann."
 ROM_expand_the_marine_regiment:0	"Das Marineregiment ausbauen"
-
-
-
-
-
-
 CZE_fallback_line_desc:0	"Wenn die Grenze nicht gehalten werden kann, wäre es gut, über eine zweite Befestigungslinie zu verfügen, auf die wir zurückgreifen können, bevor ein Angriff aus dem Westen unser Kernland erreichen kann."
 CZE_sudeten_1:0	"Mit dem Bau der Benes-Linie beginnen"
 CZE_sudeten_1_desc:0	"Das Sudetenland, unsere gebirgige Grenze zu Deutschland, ist der perfekte Ort für Grenzbefestigungen. Nachdem wir die französische Maginot-Linie studiert haben, können wir selbst eine ähnliche Linie bauen."
 CZE_sudeten_2:0	"Die Benes-Linie ausbauen"
 CZE_sudeten_2_desc:0	"Das Sudetenland verfügt jetzt über eine anständige Verteidigungslinie, aber anständig ist nicht gut genug, wenn es um unser nationales Überleben geht."
 CZE_sudeten_3:0	"Vervollständigung der Benes-Linie"
-
-
-
-
-
-
 CZE_internal_redoubts_desc:0	"Jedes System von Befestigungen kann durchbrochen werden. Zum Schutz vor dieser Möglichkeit können wir starke Punkte um unsere wichtigsten Städte herum errichten, damit sie nicht einfach von einem Feind eingenommen werden können, der unsere Linien durchbricht."
 CZE_industrial_legacy:0	"Industrielles Erbe"
 CZE_industrial_legacy_desc:0	"Die Skoda-Werke waren der größte Waffenhersteller in Österreich-Ungarn, und seit unserer Unabhängigkeit haben sie sich zu einem führenden Unternehmen in vielen Industriezweigen entwickelt. Eine so hohe Konzentration von Fachwissen und Schwerindustrie ist für alle industriellen Bestrebungen von großem Vorteil."
 CZE_favor_czechs_1:0	"Tschechische Industrie"
 CZE_favor_czechs_1_desc:0	"Innerhalb unseres Landes gab es schon immer Spannungen zwischen Tschechen und Slowaken, nicht zuletzt deshalb, weil ein Großteil unserer industriellen Macht in den tschechischen Provinzen Böhmen und Mähren konzentriert ist. Diese industrielle Stärke macht es jedoch viel einfacher, in diesen Gebieten weitere Fabriken zu errichten, auch wenn dies die Slowaken noch mehr verärgern könnte."
 CZE_favor_czechs_2:1	"Industrielle Kerngebiete"
-
-
-
-
-
-
 CZE_balanced_2_desc:1	"Durch die Einrichtung eines gemeinsamen Gremiums von Politikern aus beiden Landesteilen können wir sicherstellen, dass alle gleichermaßen am industriellen Wachstum unseres Landes teilhaben können."
 CZE_balanced_3:1	"Lokale Spezialisierung"
 CZE_balanced_3_desc:1	"Durch die kontinuierlichen Investitionen in die Industrie in allen Regionen des Landes haben einige Gebiete begonnen, sich auf bestimmte Waren und Dienstleistungen zu spezialisieren. Dies können wir weiter fördern."
 CZE_united_population:0	"Vereinte Bevölkerung"
 CZE_united_population_desc:0	"Eine Reihe jüngster politischer Initiativen in Verbindung mit unserer Politik des ausgewogenen industriellen Wachstums hat dazu geführt, dass sich die Tschechen und Slowaken im ganzen Land in ihren Zielen viel mehr geeint fühlen."
 CZE_arms_exports_1:0	"Waffenexporte"
-
-
-
-
-
-
 CZE_political_direction_desc:0	"Unsere Demokratie ist noch jung und wurde noch nicht auf die Probe gestellt. Angesichts der Tatsache, dass sowohl der Faschismus als auch der Kommunismus in ganz Europa auf dem Vormarsch sind, muss man sich die Frage stellen: Ist dies die richtige Richtung, oder wenn nicht, welche dann?"
 CZE_go_left:0	"Nach links gehen"
 CZE_go_left_desc:0	"Der Kommunismus ist die Zukunft! Alle Anstrengungen müssen darauf gerichtet sein, unsere Regierung und Gesellschaft nach marxistischen Idealen umzugestalten."
 CZE_czech_socialism:0	"Tschechischer Sozialismus"
 CZE_czech_socialism_desc:1	"Zentrale Kontrolle ist sicherlich gut für die Wirtschaft, aber vielleicht kann man auch zu viel des Guten haben. Durch eine leichte Dezentralisierung in tschechische und slowakische Sowjets kann eine größere allgemeine Einheit herrschen!"
 CZE_communism_with_a_human_face:0	"Kommunismus mit menschlichem Antlitz"
-
-
-
-
-
-
 CZE_the_romanian_question_desc:0	"Rumänien steht zwischen uns und unserem Freund und Beschützer, der Sowjetunion. Da sie den Durchzug sowjetischer Truppen zur Unterstützung unserer Verteidigung nicht zulassen, muss eine drastischere Lösung in Betracht gezogen werden."
 CZE_the_polish_division:0	"Die polnische Division"
 CZE_the_polish_division_desc:0	"Polen verweigert nicht nur den Durchzug sowjetischer Truppen für den Fall, dass wir ihre Hilfe benötigen, sondern hegt auch noch Groll über unsere Befreiung der Zaolzie-Region und könnte durchaus auf Rache sinnen. Eine präemptive Verteidigung wäre klug."
 CZE_democratic_bastion:0	"Demokratische Bastion"
 CZE_democratic_bastion_desc:0	"Die Tschechoslowakei ist eine Bastion der Demokratie in Mitteleuropa und soll es bleiben, komme was wolle!"
 CZE_beacon_of_liberty:0	"Leuchtturm der Freiheit"
-
-
-
-
-
-
 CZE_go_right_desc:0	"Nur unter dem Faschismus kann das tschechische Volk zu Größe aufsteigen! Die Demokratie in Europa ist dem Untergang geweiht, und nur die starken Nationen, die faschistischen Nationen, werden einen Platz an den Verhandlungstischen haben, wenn die schwachen Staaten zerlegt werden!"
 CZE_czech_fascism:0	"Tschechischer Faschismus"
 CZE_czech_fascism_desc:0	"Die Unterstützung für den Faschismus wächst landesweit, und je mehr Macht in die Hände der Faschisten fällt, desto mehr Druck kann auf die Dissidenten ausgeübt werden, die Widerstand leisten."
 CZE_aggressive_wars:0	"Tschechische Expansion"
 CZE_aggressive_wars_desc:0	"Wenn der Faschismus triumphiert, kann unser Aufstieg zur Macht beginnen!"
 CZE_the_polish_question:0	"Die polnische Frage"
-
-
-
-
-
-
 CZE_german_minor_ally_desc:0	"Deutschland ist eine aufstrebende Macht, eine Macht, der wir zum Ruhm folgen können. Wohin Deutschland führt, werden wir folgen und unsere Ziele auf dem Weg dorthin sammeln."
 CZE_german_minor_ally_tt:0	"Werden Sie ein deutscher Satellit, der Boni für die Lizenzierung deutscher Technologie bietet, aber auch Deutschland die Oberhoheit über unser Land verschafft."
 CZE_german_ally:0	"Deutscher Partner"
 CZE_german_ally_desc:0	"Deutschland ist eine befreundete faschistische Macht, ein Mitreisender auf dem Weg zum Ruhm. Gemeinsam werden wir die Welt um die Achse Prag-Berlin kreisen lassen!"
 CZE_strategy_decisions:0	"Strategische Entscheidungen"
 CZE_strategy_decisions_desc:0	"Ein Sturm zieht über Europa auf, ein Krieg droht, aber wie soll die Tschechoslowakei die vor ihr liegenden Herausforderungen meistern?"
-
-
-
-
-
-
 CZE_deliver_sudetenland:0	"Befreien Sie das Sudetenland"
 CZE_deliver_sudetenland_desc:0	"Deutschland will unsere Deutschen. Es scheint, dass wir einen Krieg nur durch die Abtretung des Sudetenlandes abwenden können."
 CZE_german_technology:0	"Deutsche Technologie"
 CZE_german_technology_desc:0	"Da die friedlichen Beziehungen zwischen unseren Nationen nun gesichert sind, wurde vorgeschlagen, dass ein gegenseitiger Austausch von Technologie für beide Seiten von Vorteil sein könnte."
 CZE_trust_in_the_west:0	"Vertrauen in den Westen"
 CZE_trust_in_the_west_desc:0	"Frankreich und Großbritannien werden den Frieden in Europa bewahren. Schließlich haben sie den Großen Krieg nicht gewonnen, nur damit Deutschland zwanzig Jahre später souveräne Nationen bedroht und zerstückelt!"
-
-
-
-
-
-
 CZE_nukes:0	"Nuklearwaffen"
 CZE_nukes_desc:0	"Die Zukunft der tschechischen Kriegsführung liegt in der Beherrschung der Macht des gespaltenen Atoms!"
 CZE_an_entente_of_our_own:0	"Eine eigene Entente"
 CZE_an_entente_of_our_own_desc:0	"Die "Kleine Entente" ist in den letzten Jahren erloschen, aber sie könnte wieder auferstehen, wenn unsere ehemaligen Verbündeten dazu bereit sind."
 CZE_invite_yugoslavia:0	"Jugoslawien einladen"
 CZE_invite_yugoslavia_desc:0	"Laden Sie Jugoslawien in die Entente ein."
-
-
-
-
-
-
 CZE_deal_with_hungary:0	"Ungarn auflösen"
 CZE_deal_with_hungary_desc:0	"Da der Frieden in ganz Europa zusammenbricht, kann die Entente nicht zulassen, dass Ungarn wieder zu einer Bedrohung wird. Nur eine dauerhafte Lösung kann es uns ermöglichen, uns auf die größeren Probleme zu konzentrieren."
 CZE_deal_with_bulgaria:0	"Bulgarien auflösen"
 CZE_deal_with_bulgaria_desc:0	"Bulgarien hat wieder aufgerüstet und bedroht erneut die Sicherheit auf dem Balkan. Diese Bedrohung kann nicht toleriert werden, wenn sich die Entente auf einen allgemeinen Konflikt in Europa konzentrieren will."
 CZE_rapprochement_with_hungary:0	"Annäherung an Ungarn"
 CZE_rapprochement_with_hungary_desc:0	"Der ungarische Irredentismus ist eine ständige Bedrohung, aber vielleicht kann ein letzter Versuch unternommen werden, das Problem friedlich zu lösen?"
-
-
-
-
-
-
 CZE_inf_and_artillery_advancement:1	"Verstärkung der Infanterie"
 CZE_inf_and_artillery_advancement_desc:1	"Die Infanterie ist die wichtigste Einheit unserer Armee, daher ist die Verbesserung ihrer Bewaffnung ein wichtiger Schritt zur erfolgreichen Landesverteidigung."
 CZE_support_bonus:1	"Unterstützungseinheiten"
 CZE_support_bonus_desc:1	"Damit unsere Infanterie Höchstleistungen erbringen kann, müssen auch die unterstützenden Einheiten modernisiert werden."
 CZE_inf_and_artillery_advancement_2:1	"Weiterentwicklung der Artillerie"
 CZE_inf_and_artillery_advancement_2_desc:1	"Als Königin des Schlachtfelds wird die moderne Artillerie ein wichtiger Faktor für die Stärke unserer Armee sein."
-
-
-
-
-
-
 CZE_mechanization:0	"Mechanisierung"
 CZE_mechanization_desc:0	"Während die Motorisierung unseren Soldaten Schnelligkeit bietet, bietet die Mechanisierung ihnen Schnelligkeit, Schutz und Feuerkraft."
 CZE_armour_bonus_ii:1	"Modernisierung der Panzerung"
 CZE_armour_bonus_ii_desc:0	"Das Militärtechnische Institut arbeitet weiterhin eng mit den Skoda-Werken zusammen, um neue und bessere Panzer zu entwickeln."
 CZE_doctrine_bonus_2:0	"Doktrin Entdeckungen II"
 CZE_doctrine_bonus_2_desc:0	"Waffen allein machen eine Armee nicht schlagkräftig, es bedarf auch einer wirksamen Doktrin. Das Militärtechnische Institut ist sich dessen wohl bewusst und hat mehrere Vorschläge gemacht."
-
-
-
-
-
-
 CZE_import_foreign_fighters_desc:0	"Durch den Import verschiedener ausländischer Kampfflugzeuge zur Erprobung und Bewertung können unsere eigenen Flugzeugkonstrukteure wertvolle Erfahrungen sammeln."
 CZE_light_fighter_focus:0	"Leichte Kampfflugzeuge im Fokus"
 CZE_light_fighter_focus_desc:0	"Das Military Aeronautical Institute ist zu dem Schluss gekommen, dass leichte Kampfflugzeuge am nützlichsten sind und den Kern unserer Luftwaffe bilden sollten."
 CZE_heavy_fighter_focus:0	"Schwerpunkt Schweres Jagdflugzeug"
 CZE_heavy_fighter_focus_desc:0	"Das Military Aeronautical Institute ist zu dem Schluss gekommen, dass schwere Kampfflugzeuge am nützlichsten sind und den Kern unserer Luftwaffe bilden sollten."
 CZE_air_is_our_sea:0	"Die Luft ist unser Meer"
-
-
-
-
-
-
 CZE_cas_focus_desc:0	"Die Ergebnisse der Tests des Military Aeronautical Institute zeigen, dass wir uns auf Flugzeuge zur Luftnahunterstützung konzentrieren sollten."
 CZE_tac_focus:0	"Schwerpunkt taktische Bomber"
 CZE_tac_focus_desc:0	"Die Ergebnisse der Tests des Military Aeronautical Institute zeigen, dass wir uns auf taktische Bomber konzentrieren sollten."
 CZE_access_to_the_sea:0	"Zugang zum Meer"
 CZE_access_to_the_sea_desc:0	"Wir sind nicht länger landumschlossen! Jetzt, da wir eine Küste haben, müssen wir uns mit der Seefahrt befassen und einen Plan für den Aufbau einer Marine entwickeln."
 CZE_sudden_shipyard:0	"Plötzliche Schiffswerft"
-
-
-
-
-
-
 CZE_destroyer_catchup_1_desc:1	"Unser neuer Bedarf an einer Marine hat zu einem plötzlichen Ansturm auf den Entwurf von Zerstörern geführt."
 CZE_cruiser__catchup_1:1	"Durchbruch bei den Kreuzern"
 CZE_cruiser__catchup_1_desc:1	"Unser neuer Bedarf an einer Flotte hat zu einer plötzlichen Flut von Kreuzern geführt."
 CZE_raiding_focus:0	"Schwerpunkt Raubzüge"
 CZE_raiding_focus_desc:1	"Unsere Flotte muss sich auf den indirekten Ansatz konzentrieren, d. h. die Vermeidung von Kämpfen und die Störung der Schiffe unserer Feinde."
 CZE_capital_focus:0	"Schwerpunkt Kapital"
-
-
 YUG_national_assembly_desc:	""
 YUG_beograd:	"Beograd"
 YUG_beograd_desc:	""
@@ -461,7 +329,6 @@ YUG_monument:	"Denkmal für den Unbekannten Helden"
 YUG_monument_desc:	""
 YUG_cerklje:	"Flughafen Cerklje ob Krki"
 YUG_cerklje_desc:	""
-
 YUG_vistad_desc:	""
 YUG_chetnik:	"Tschetnik-Kommando"
 YUG_chetnik_desc:	""
@@ -470,15 +337,9 @@ YUG_agriculture:	"Landwirtschaftliche Reformen"
 YUG_agriculture_desc:	""
 YUG_trade_germany:	"Handelsmission nach Deutschland"
 YUG_trade_germany_desc:	""
-
-
-
-
-
 YUG_reinforce_old_alliances_desc:1	"Seit den Anfängen unserer Nation haben wir die Unterstützung der großen europäischen Demokratien Frankreich und Großbritannien genossen. Es ist an der Zeit, diese Beziehungen in Vorbereitung auf künftige Allianzen zu festigen."
 YUG_attract_foreign_capital:	"Serbischer Kulturverein"
 YUG_attract_foreign_capital_desc:	"Eine starke serbische Identität - Ein starkes Jugoslawien"
-
 YUG_penkala_desc:	""
 YUG_ban_slovene_nationalist_parties:0	"Verbot slowenischer nationalistischer Parteien"
 YUG_ban_slovene_nationalist_parties_desc:1	"Jegliche Unabhängigkeitsbestrebungen müssen zum Wohle unserer Nation unterdrückt werden. Nationalistische politische Elemente werden geächtet und ihre Anhänger verfolgt, damit sie uns nicht im Inneren schwächen."
@@ -503,39 +364,12 @@ YUG_guarantee_religious_liberties:0	"Garantie der Religionsfreiheit"
 YUG_guarantee_religious_liberties_desc:1	"Jeder muss die Möglichkeit haben, die Religion seiner Wahl auszuüben. Wir werden entsprechende gesetzliche Garantien einführen."
 YUG_local_militias:0	"Lokale Milizen"
 YUG_local_militias_desc:1	"Die Bevölkerung wird ermutigt, Milizen zur Verteidigung ihres Heimatlandes zu bilden. Dies wird es größeren Teilen der Bevölkerung ermöglichen, später für den Militärdienst rekrutiert zu werden."
-
 YUG_concessions_for_macedonians_desc:1	"Indem wir auf die führenden Gruppen der Mazedonier zugehen, werden wir auf ihre Missstände eingehen und ihre Loyalität gegenüber dem Staat gewinnen."
 YUG_establish_the_banovina_of_croatia:0	"Gründung der Banovina von Kroatien"
 YUG_establish_the_banovina_of_croatia_desc:1	"Durch die Errichtung eines halbautonomen Banats Kroatien können wir hoffentlich die Forderungen nach echter Unabhängigkeit unterdrücken."
 YUG_non_discriminating_officer_promotions:0	"Nicht-diskriminierende Beförderung von Offizieren"
-
-
-
-
-
-
-
-
-
-
-
-
 YUG_form_peasant_councils_desc:1	"Die Arbeiterschaft muss in der Kommunalpolitik eine größere Präsenz erhalten. Die Einrichtung von Bauernräten wird viel dazu beitragen, dass ihre Stimme gehört wird."
-
-
-
-
-
-
-
-
-
-
 YUG_pan_slavic_workers_congress:0	"Panslawischer Arbeiterkongress"
-
-
-
-
 YUG_federal_defense_council_desc:1	"Alle Regionen müssen ein Mitspracherecht bei der Verteidigung unserer großen Nation haben. Dies wird dazu beitragen, dass die meisten Stimmen gehört werden und Diskriminierung nicht schon in den Kinderschuhen stecken bleibt."
 YUG_invite_bulgaria:0	"Bulgarien einladen"
 YUG_invite_bulgaria_desc:1	"Unsere slawischen Brüder in Bulgarien brauchen unsere Führung, um ihren Weg zum Kommunismus zu finden. Da sie unsere östliche Flanke besetzen, wird ihre Aufnahme es uns ermöglichen, uns nicht mehr um einen großen Teil unserer Grenzen zu sorgen, und ihre militärische Stärke wird bei der Verbreitung der Revolution sehr nützlich sein."
@@ -543,7 +377,6 @@ YUG_invite_albania:0	"Albanien einladen"
 YUG_invite_albania_desc:1	"Albanien kontrolliert ein Gebiet, das zwar klein, aber für uns von strategischer Bedeutung ist. Indem wir sie in unseren Kongress aufnehmen, können wir den größten Teil unserer Südgrenze sichern und gleichzeitig ihre Stärke der unseren hinzufügen."
 YUG_radio_idea:	"Radio Jugoslawien"
 YUG_radio:	"Radio Jugoslawien"
-
 YUG_industrialization_program:0	"Programm zur Industrialisierung"
 YUG_industrialization_program_desc:1	"Ein Programm zur raschen Industrialisierung ist erforderlich, wenn wir mit den Aufrüstungsprogrammen unserer Nachbarn mithalten wollen."
 YUG_expand_the_mining_industry:0	"Ausweitung der Bergbauindustrie"
@@ -551,7 +384,6 @@ YUG_expand_the_mining_industry_desc:1	"Wir brauchen reichlich Ressourcen, um uns
 YUG_rare_minerals_exploitation:0	"Ausbeutung seltener Minerale"
 YUG_rare_minerals_exploitation_desc:1	"Bisher unerschlossene Vorkommen seltener Metalle haben plötzlich große Bedeutung erlangt. Wir müssen unverzüglich die erforderlichen Minen und Infrastrukturen errichten, um sie nutzen zu können."
 YUG_exploit_the_pannonian_deposits:0	"Ausbeutung der pannonischen Vorkommen"
-
 YUG_develop_civilian_industry:0	"Entwicklung der zivilen Industrie"
 YUG_develop_civilian_industry_desc:1	"Unsere zivile Industrie muss mit der militärischen mithalten, um sie mit Maschinen und anderen wichtigen Gütern zu versorgen."
 YUG_integrated_rail_network:0	"Integriertes Schienennetz"
@@ -562,50 +394,20 @@ YUG_develop_slovenian_industry:0	"Entwicklung der slowenischen Industrie"
 YUG_develop_slovenian_industry_desc:1	"Obwohl lange vernachlässigt, verfügt Slowenien über ausreichend Platz, um ein neues Industriezentrum zu schaffen. Dies wird auch die Slowenen sehr freuen."
 YUG_local_self_management:0	"Lokale Selbstverwaltung"
 YUG_local_self_management_desc:1	"Eine verstärkte lokale Selbstverwaltung wird die Nutzung der lokalen Ressourcen und die Effizienz neuer Bauprojekte verbessern."
-
 YUG_expand_the_university_of_ljubljana_desc:1	"Durch den Ausbau der Universität in Slowenien erhalten wir eine weitere Einrichtung für die Ausbildung unserer Bevölkerung."
 YUG_develop_military_industry:1	"Entwicklung der Militärindustrie"
 YUG_develop_military_industry_desc:2	"Ein modernes Militär benötigt eine starke industrielle Basis, um die notwendige Produktion neuer Flugzeuge zu unterstützen."
 YUG_improve_serbian_rail_network:0	"Verbesserung des serbischen Eisenbahnnetzes"
-
-
-
-
-
 YUG_expand_the_university_of_zagreb:0	"£tech_mod Vergrößerung der Universität Zagreb"
 YUG_expand_the_university_of_zagreb_desc:1	"Die alte Universität Zagreb ist seit langem eine der führenden Hochschulen. Zusätzliche Mittel werden es ihr ermöglichen, auch wertvolle Forschungsarbeit zu leisten."
 YUG_central_management:0	"Zentrale Verwaltung"
-
-
-
-
-
-
-
 YUG_ikarus:0	"Ikarus"
-
-
-
-
-
-
-
-
-
-
 YUG_bomber_project:0	"Projekt Bomber"
-
-
-
-
 YUG_license_production_desc:1	"Die Beschaffung neuer Flugzeuge könnte dadurch erleichtert werden, dass wir sie selbst in Lizenz herstellen. Wir werden so bald wie möglich eine solche Vereinbarung treffen."
 YUG_fighter_license:0	"Kampfflugzeug-Lizenz"
 YUG_fighter_license_desc:1	"Wir müssen uns auf die Lizenzproduktion von Kampfflugzeugen für unsere Luftwaffe konzentrieren, da Bomber ohne Deckung durch Kampfflugzeuge ohnehin nutzlos sind."
 YUG_bomber_license:0	"Bomberlizenz"
 YUG_bomber_license_desc:1	"Die Luft eröffnet neue Möglichkeiten, den Kampf gegen den Feind zu führen, und deshalb müssen wir unsere gesamte Lizenzproduktion auf Bomber konzentrieren."
-
-
-
 YUG_motorize_the_cavalry_desc:1	"Neue Entwicklungen in der Automobiltechnik haben die Geschwindigkeit und Mobilität von Armeeeinheiten revolutioniert. Unsere Kavallerieeinheiten müssen auf das Pferd verzichten und stattdessen mit Lastwagen ausgerüstet werden."
 YUG_motorized_logistics:0	"Motorisierte Logistik"
 YUG_motorized_logistics_desc:1	"Die Motorisierung eröffnet vielversprechende neue Möglichkeiten, um die Versorgung der Truppen an der Front mit dem Nötigsten und der Spezialausrüstung sicherzustellen. Auf diese Weise können wir sicherstellen, dass unsere Streitkräfte stets in bester Kampfbereitschaft sind."
@@ -613,7 +415,6 @@ YUG_armored_cavalry:0	"Gepanzerte Kavallerie"
 YUG_armored_cavalry_desc:1	"Die Panzerung unserer Truppentransporter verbessert deren Überlebensfähigkeit, Kampfkraft und Moral erheblich. Dies erfordert jedoch einen neuen Typ eines zumindest teilweise gepanzerten Fahrzeugs, das das zusätzliche Gewicht tragen kann, ohne im Gelände stecken zu bleiben, und das gleichzeitig mit eigenen Waffen ausgestattet ist."
 YUG_tank_conversions:0	"Panzer-Umbauten"
 YUG_tank_conversions_desc:1	"Während wir jetzt Panzer benötigen, werden wir im nächsten Monat vielleicht Artilleriepanzer oder Panzerjäger auf demselben Fahrgestell benötigen. Unsere gepanzerte Ausrüstung muss flexibel bleiben und an unsere aktuellen Bedürfnisse angepasst werden können."
-
 YUG_modern_tanks_desc:1	"Durch die Hinzunahme großkalibriger Hauptwaffen hat sich die Panzertechnologie weit über den einfachen Zweck des sicheren Transports von Truppen von Punkt A nach Punkt B hinaus entwickelt."
 YUG_tank_licenses:0	"Panzer-Lizenzen"
 YUG_tank_licenses_desc:1	"Anstatt unsere begrenzten Ressourcen für die Entwicklung eigener Panzermodelle zu verwenden, könnten wir viel effizienter einfach ausländische Modelle in Lizenz produzieren."
@@ -624,42 +425,15 @@ YUG_domestic_artillery_production_desc:1	"Durch die Förderung der Entwicklung m
 YUG_anti_tank_defenses:0	"Panzerabwehr"
 YUG_anti_tank_defenses_desc:1	"Da der Panzer im Mittelpunkt der modernen Kriegsführung steht, sind neue Entwicklungen im Bereich der Panzerabwehrkanonen erforderlich, damit unsere Infanterie diese gepanzerten Ungetüme ausschalten kann."
 YUG_mountain_brigades:0	"Gebirgsbrigaden"
-
 YUG_independent_engineer_regiments:0	"Unabhängige Pionierregimenter"
 YUG_independent_engineer_regiments_desc:1	"Mobilität ist in der modernen Militärdoktrin von zentraler Bedeutung, auch wenn das Gelände dies nicht immer zulässt. Spezielle Pionierregimenter, die in unsere Divisionen eingebettet sind, werden die Bewegung der Division durch jede Art von Gelände erleichtern."
 YUG_motorized_recon_companies:0	"Motorisierte Aufklärungskompanien"
 YUG_motorized_recon_companies_desc:1	"Um ausreichende Informationen über die feindlichen Verbände und ihre Stellungen zu erhalten, benötigen wir motorisierte Aufklärungskompanien, die große Entfernungen vor dem Vormarsch unserer Hauptgruppe zurücklegen können."
-
-
-
-
-
 YUG_supremacy_of_offense_desc:1	"Die Offensive ist der Schlüssel zum Sieg und muss daher unsere Gesamtstrategie und die Entwicklung neuer Doktrinen bestimmen."
 YUG_supremacy_of_defense:0	"Vorherrschaft der Verteidigung"
 YUG_supremacy_of_defense_desc:1	"Eingekesselt von Feinden auf allen Seiten müssen wir so lange durchhalten, bis unsere Verbündeten den Druck von uns nehmen können. Die Entwicklung neuer Militärdoktrinen muss sich auf die Verteidigung unseres Heimatlandes konzentrieren."
-
-
-
-
-
-
-
 YUG_replace_the_dalmacija_desc:1	"Der alte deutsche Kreuzer Dalmacija ist in die Jahre gekommen. Wir brauchen ein neues, modernes Schiff vom Typ eines Kreuzers, das ihn ersetzt und das Rückgrat unserer Adria-Flotte bildet."
-
-
-
-
-
-
-
-
-
-
 YUG_coastal_defense_effect_tt2:0	"Hinzufügung von §Y1 Küstenforts§! zu §YMarinestützpunkt§!-Standorten\n"
-
-
-
-
 HUN_lean_germany:0	"Sich an Deutschland anlehnen"
 HUN_lean_germany_desc:0	"Mit dem Aufstieg Deutschlands und seiner klaren Absicht, die internationale Ordnung zu revidieren, hat Ungarn nun die Möglichkeit, seine rechtmäßigen Gebiete zurückzufordern, die es im Vertrag von Trianon verloren hat. Auch wenn wir ihnen nicht wirklich vertrauen können und einige ihrer Politiken verabscheuungswürdig sind, können die Deutschen vielleicht unser Mittel sein, um Großungarn wiederherzustellen und ein Bollwerk gegen die kommunistische Bedrohung im Osten zu bilden."
 ROM_heavy_interceptors:0	"Schwere Abfangjäger"

@@ -213,45 +213,28 @@ persia.6.t:0	"Die Sowjets ergreifen die Macht"
 persia.6.d:0	"Die Tudeh-Partei wurde immer verdächtigt, nur Marionetten Stalins zu sein, aber nach einem erfolgreichen Putsch zum Sturz des Königs haben sie den Iran offiziell unter den Einfluss der Sowjetunion gebracht"
 persia.6.a:0	"Man hat uns überlistet"
 persia.7.t:0	"Das Iran-Problem"
-
 persia.7.desc_repeated:0	"Trotz unserer entschlossenen Haltung hat [PER.GetNameDef] sich geweigert und kooperiert weiterhin aktiv mit [GER.GetNameDef] im wirtschaftlichen Bereich."
 persia.7.desc_2:	"Zwar ist es uns gelungen, die besondere wirtschaftliche Zusammenarbeit zwischen [PER.GetNameDef] und [GER.GetNameDef] zu unterbrechen, doch der Handel zwischen ihnen läuft weiterhin, wenn auch in geringerem Umfang."
 persia.7.desc_2_repeated:	"[PER.GetNameDefCap] hat sich geweigert, unseren Forderungen nachzukommen und den gesamten Handel mit [GER.GetNameDef] einzustellen."
-
 persia.7.a:0	"Fordern, dass deutsche Unternehmen vertrieben werden"
 persia.7.b:0	"Fordern Sie ein Embargo gegen die Achsenmächte"
 persia.7.c:0	"Fordern, dass sie sich der britischen Kontrolle unterwerfen"
 persia.7.e:0	"Es gibt keinen Grund, sie zu stören"
-
-
-
-
 persia.9.t:0	"Großbritannien fordert ein Embargo"
 persia.9.d:0	"Britische Diplomaten sind an uns herangetreten und haben uns aufgefordert, den Handel mit den Achsenmächten sofort einzustellen. Der Handel ist jedoch entscheidend für das weitere Wachstum unseres Landes, was sollen wir tun?"
 persia.10.t:0	"Briten fordern Unterwerfung"
 persia.10.d:0	"Britische Diplomaten sind an uns herangetreten und fordern, dass wir uns der britischen Herrschaft unterwerfen, was das Ende unserer unabhängigen Nation bedeutet und uns zu einem Teil des britischen Empire macht."
-
-
-
-
 persia.11.c:0	"Fordern Sie die Unterwerfung unter unsere Herrschaft"
 persia.12.t:0	"Stalin fordert unser Öl"
 persia.12.d:0	"Sowjetische Diplomaten haben sich an uns gewandt und verlangt, dass wir ihnen die Rechte am Öl in Ishfahan geben"
-
-
-
 persia.14.d:	"Sowjetische Diplomaten haben sich an uns gewandt und gefordert, dass wir uns der sowjetischen Herrschaft unterwerfen, was faktisch das Ende unserer unabhängigen Nation bedeuten und uns zu einem Teil von [SOV.GetNameDef] machen würde."
 persia.15.t:0	"Straßenproteste"
-
-
-
 persia.15.c:0	"Ernennung des bekannten Klerikers Abol-Ghasem Kashani in unser Kabinett"
 persia.16.t:0	"Vertrag über Handel und Schifffahrt"
 persia.16.d:0	"Vertreter des Irans und der Sowjetunion treffen sich in Moskau, um den zuvor unterzeichneten Vertrag über die Errichtung, den Handel und die Schifffahrt zu bekräftigen, der besagt, dass nur russische und iranische Schiffe im Kaspischen Meer fischen dürfen. In dem neuen Vertrag wurde auch festgelegt, dass kein Land die 10-Meilen-Grenze für die Seeschifffahrt überschreiten darf. Der Vertrag enthält keine Klauseln über den Abbau des Meeresbodens."
 persia.16.a:0	"Wir werden beide von diesem Abkommen profitieren."
 persia.18.t:	"[PER.GetNameDefCap] akzeptiert unsere Forderungen"
 persia.18.d:	"[PER.GetLeader] hat angekündigt, dass [PER.GetNameDef] den Forderungen von [ROOT.GetAdjective] vollständig nachkommen wird."
-
 persia.7.desc:0	"Angesichts der aktuellen Lage mit Deutschland dürfen wir uns im Nahen Osten keine Unstimmigkeiten leisten. Obwohl offiziell neutral, [PER.GetAdjective] [PER.GetLeader] unterhält [GER.GetNameDef] seit jeher wirtschaftliche Beziehungen und setzt diese trotz unserer Vorbehalte fort."
 persia.7.desc_3:	"Die Unterbrechung aller Verbindungen zwischen [PER.GetNameDef] und [GER.GetNameDef] hat unsere Position im Nahen Osten verbessert, doch da sich der Krieg an einem kritischen Punkt befindet, könnte ein unabhängiges [PER.GetNonIdeologyName] unsere Bemühungen in der Region weiterhin behindern – ein Risiko, das wir nicht eingehen können."
 persia.8.t:0	"Großbritannien fordert, dass wir deutsche Investoren ausweisen"
