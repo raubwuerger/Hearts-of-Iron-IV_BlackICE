@@ -275,6 +275,8 @@
  ROM_torpedo_bombers_desc:0 "We can make up our naval weakness by appropriating a portion of our air forces to naval duties. This will require a new airplane model that can carry a torpedo."
  ROM_expand_the_marine_regiment:0 "Expand the Marine Regiment"
  ROM_expand_the_marine_regiment_desc:0 "Mastery of the Black Sea opens up opportunities for new avenues of attack. Naval invasions are now a viable option, requiring the creation of new models of transports, as well as dedicated marine divisions that can specialize in this form of warfare."
+ CZE_markets: "New Markets"
+ CZE_markets_desc: ""
  CZE_fortification_studies:0 "Fortification Studies"
  CZE_fortification_studies_desc:0 "The need to fortify our border is clear, but the question is how? The French have recently constructed an incredible fortified line of their own, the Maginot Line, and by sending a delegation to study their methods it should be possible to solve our own border defense problems."
  CZE_fallback_line:0 "Fallback Line"

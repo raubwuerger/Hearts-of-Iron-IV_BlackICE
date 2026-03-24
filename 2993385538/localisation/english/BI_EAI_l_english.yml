@@ -595,14 +595,14 @@
  EAI_stockpile_fuel_text:0 "Fuel stockpile"
  
  ETH_IEA_fascism:0 "Italian East Africa"
- ETH_IEA_fascism_DEF:0 "The Italian East Africa"
+ ETH_IEA_fascism_DEF:0 "the Italian East Africa"
 
  SOV_GER_autonomy_satellite:0 "Russia"
  SOV_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Moskowien"
  SOV_GER_autonomy_reichskommissariat:0 "Reichskommissariat Moskowien"
  SOV_GER_autonomy_satellite_DEF:0 "Russia"
- SOV_GER_autonomy_reichsprotectorate_DEF:0 "The Reichsprotektorat Moskowien"
- SOV_GER_autonomy_reichskommissariat_DEF:0 "The Reichskommissariat Moskowien"
+ SOV_GER_autonomy_reichsprotectorate_DEF:0 "the Reichsprotektorat Moskowien"
+ SOV_GER_autonomy_reichskommissariat_DEF:0 "the Reichskommissariat Moskowien"
  
  EAI_DM_AA.10000.t:0 "Warning Issued Against [EAI_illegal_wargoal_invader.GetName]"
  EAI_DM_AA.10000.d:0 "[EAI_illegal_wargoal_invader.GetNameDef]'s aggression toward [EAI_illegal_wargoal_target.GetName] has prompted a reaction from other countries that fear for their own national security or the stability of the region. [EAI_illegal_wargoal_invader.GetNameDef] has seven days to cease its hostile actions toward [EAI_illegal_wargoal_target.GetName].\n\nIgnoring their warning will be damaging to future diplomatic relations and may lead to an intervention to support [EAI_illegal_wargoal_target.GetName]."

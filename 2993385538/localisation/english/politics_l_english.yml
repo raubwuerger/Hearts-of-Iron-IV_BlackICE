@@ -35,6 +35,7 @@
  CANT_TAKE_IDEAS:0 "§RYou can't assign ministers or change laws at the moment.§!\n§HCan't Assign Ideas:§!"
  POLITICS_IDEA_COST:0 "Cost (£pol_power ): $VALUE|-0$"
  POLITICS_IDEA_COST_COMPACT:1 "$VALUE$"
+ POLITICS_IDEA_ONLY_DISABLED: "£trigger_no"
  DECISION_COST_COMPACT:1 "£pol_power  $VALUE|0$"
  POLITICS_IDEA_NOT_AVAILABLE_ICON:0 "£trigger_no $VALUE$"
  POLITICS_IDEA_REMOVE_COST:0 "Cost to remove (£pol_power ): $VALUE|0$"
@@ -228,6 +229,7 @@
  
  ideology_advisor_list: "[GetAdvisorConservatism][GetAdvisorLiberalism][GetAdvisorSocialism][GetAdvisorAgrarianism][GetAdvisorFascism][GetAdvisorCommunism][GetAdvisorMonarchism][GetAdvisorNeutrality][GetAdvisorApolitical]"    
  ideology_advisor_tooltip: "§YAdvisor Ideologies§!\n[GetAdvisorIdeologyList]"
+ ideology_advisor_tooltip_delayed: "Advisors with an Ideology contribute §G+0.01§! towards their daily political party drift."
  ideology_advisor_tooltip_list: "[?ideology_advisor_array^iteration.GetName]\n[GetAdvisorIdeologyEntry]"
  
  ideology_icon_communism_num: "  [?t] £communism  "

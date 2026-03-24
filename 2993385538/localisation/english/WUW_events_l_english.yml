@@ -1492,7 +1492,7 @@
 
  #To Belgium: Gets guarantee from ENG/FRA/SOV
  ww_BEL_event_diplomatic.13.t: "[FROM.GetNameDefCap] Guarantees our Independence"
- ww_BEL_event_diplomatic.13.desc: "We have recieved the most wonderous news from the [FROM.GetAdjective] diplomats. They agree that our safety might be threatened and that our army might not be enough to safeguard our independence. With regards to this they have offered us the guarantee that we have requested."
+ ww_BEL_event_diplomatic.13.desc: "We have received the most wonderous news from the [FROM.GetAdjective] diplomats. They agree that our safety might be threatened and that our army might not be enough to safeguard our independence. With regards to this they have offered us the guarantee that we have requested."
  ww_BEL_event_diplomatic.13.a: "This will keep us safe"
 
  #To Belgium: Does not get guarantee from ENG/FRA/SOV
@@ -3059,6 +3059,16 @@
  wuw_GER_reichskommissariats.27.desc: "Now that we have established a new civilian administration in Australasia, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?"
  wuw_GER_reichskommissariats.27.a: "They need a German Official"
  wuw_GER_reichskommissariats.27.b: "It might be wise to use a local collaborator"
+
+ wuw_GER_reichskommissariats.28.t: "The Status of the Northern Urals"
+ wuw_GER_reichskommissariats.28.desc: "With the capture of the Northern Ural strategic zone, it will come into question how the region should be dealt with. Some plans include the area within Moskowien, whilst some propose that it could perhaps stand as its own state. What say we?"
+ wuw_GER_reichskommissariats.28.a: "It should be its own Reichskommissariat"
+ wuw_GER_reichskommissariats.28.b: "It should be incorporated into Moskowien"
+
+ wuw_GER_reichskommissariats.29.t: "The Status of the West Yenisei Region"
+ wuw_GER_reichskommissariats.29.desc: "With the capture of the West Yenisei Region, it will come into question how the region should be dealt with. Some plans include the area within Moskowien, whilst some propose that it could perhaps stand as its own state. What say we?"
+ wuw_GER_reichskommissariats.29.a: "It should be its own Reichskommissariat"
+ wuw_GER_reichskommissariats.29.b: "It should be incorporated into Moskowien"
 
  wuw_GER_realpolitik.1.t: "[FROM.GetNameDefCap] Invites us to an Alliance"
  wuw_GER_realpolitik.1.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has arrived at our capital today extending an offer to us. They wish for us to join their alliance, and take part in any and all previously established partnerships and unions. Will we accept this offer?"

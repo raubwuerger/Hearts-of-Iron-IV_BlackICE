@@ -496,7 +496,7 @@
  DEN_stable_good_tt:0 "§GIncreases§! §YParty Popularity Stability§!"
  DEN_stable_bad_tt:0 "§RDecreases§! §YParty Popularity Stability§!"
  DEN_facto_use_removed_tt:0 "Seize direct control of all §YCivilian Factories§! invested into the economy"
- loves_den_tt:0 "Every country that has co-operated with us will gain one offsite §YMilitary Factory§! and we will to"
+ loves_den_tt:0 "Every country that has co-operated with us will gain one offsite §YMilitary Factory§! and we will too"
  #####Events
  denmark.1.t:0 "Dominium Maris Baltici"
  allianse.1.t:0 "Copenhagen Alliance Talks"

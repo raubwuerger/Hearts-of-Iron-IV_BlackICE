@@ -171,7 +171,7 @@
  mtg_usa_congress_medium_support_tt:1 "Up to §Y10 Senators§! and §Y50 Representatives§! will §GSupport§! the Government.\n"
  mtg_usa_congress_large_support_tt:1 "Up to §Y30 Senators§! and §Y125 Representatives§! will §GSupport§! the Government.\n"
  mtg_usa_senate_small_opposition_tt:0 "Up to §Y4 Senators§! will go into §ROpposition§!.\n"
- mtg_usa_house_tiny_opposition_tt:0 "A Representative§! will go into §ROpposition§!.\n"
+ mtg_usa_house_tiny_opposition_tt:0 "A §YRepresentative§! will go into §ROpposition§!.\n"
  mtg_usa_house_small_opposition_tt:0 "Up to §Y20 Representatives§! will go into §ROpposition§!.\n"
  mtg_usa_senate_small_support_tt:0 "Up to §Y5 Senators§! will §GSupport§! the Government.\n"
  mtg_usa_house_small_support_tt:0 "Up to §Y25 Representatives§! will §GSupport§! the Government.\n"

@@ -108,6 +108,7 @@
  EQUIPMENT_CONVERSION_SPEED_MODIFIERS:0 "§HConversion speed modified by:§!"
  EQUIPMENT_CONVERSION_COST_MODIFIERS:0 "§HConversion cost modified by:§!"
  INFRASTRUCTURE_COST_EFFECT:1 "£GFX_infrastructure_texticon State infrastructure: x$VAL|2H$"
+ LACK_OF_POWER_DESC: "£machine_tools  Lack of Machine Tools: $VAL|R%$"
  CIC_BANK_HEADER: "Economic Capacity Surplus"
  CIC_BANK_HIGHLIGHT: "§HEconomic Capacity Surplus§!"
  CIC_BANK_DESC: "The $CIC_BANK_HEADER$ contains §HIndustrial Capacity§! from contracts in the §HInternational Market§! or other sources, and contributes to your construction speed."
@@ -146,3 +147,5 @@
  SHARED_BUILDINGS_BACKGROUND_TOOLTIP: "Buildings that can be built on a state level, that share state level building slots with each-other."
  PROVINCE_BUILDINGS_BACKGROUND_TOOLTIP: "Buildings that can be constructed individually on a province level, that have their own level cap per building type."
  FACILITY_BUILDINGS_BACKGROUND_TOOLTIP: "Province-based buildings that can only fit a maximum of one per state."
+ 
+ BUILDING_SPEED_TOOLTIP: "Shows the §YConstruction Speed Modifier§! of this building."

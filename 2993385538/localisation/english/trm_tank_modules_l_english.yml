@@ -2393,7 +2393,7 @@
  trm_medium_tank_ger_panzer3_turret_3:0 "PzKpfw III CS Turret (Manual)"
  trm_medium_tank_ger_panzer3_turret_3_desc:0 "Allows: KwK 37"
  trm_medium_tank_ger_panzer3_casemate_1:0 "PzKpfw III Casemate"
- trm_medium_tank_ger_panzer3_casemate_1_desc:0 "Allows: 4.7cm PaK 38(t) / 5cm KwKs (all) / 7.5cm KwK 40 L/43"
+ trm_medium_tank_ger_panzer3_casemate_1_desc:0 "Allows: 4.7cm PaK 38(t) / 5cm KwKs (all) / 7.5cm KwK 37"
  trm_medium_tank_ger_panzer3_casemate_2:0 "PzKpfw III Casemate 2"
  trm_medium_tank_ger_panzer3_casemate_2_desc:0 "Allows: 4.7cm PaK 38(t) / 5cm KwKs (all) / 7.5cm KwKs 40 (L43 and L48) / StuH 42"
  trm_medium_tank_ger_panzer3_casemate_3:0 "PzKpfw III Casemate (Coax MG)"
@@ -3049,6 +3049,14 @@
 
  trm_superheavy_tank_eng_tortoise_casemate_1:0 "Tortoise Casemate"
  trm_superheavy_tank_eng_tortoise_casemate_1_desc:0 ""
+ 
+ EQ_MOD_CAT_trm_amph_tank_eng_vickers_l1e2_turret_TITLE:0 "L1E2 Turret"
+ EQ_MOD_CAT_trm_amph_tank_eng_vickers_l1e3_turret_TITLE:0 "L1E3 Turret"
+
+ trm_amph_tank_eng_vickers_l1e2_turret_1:0 "L1E2 Turret (Manual)"
+ trm_amph_tank_eng_vickers_l1e2_turret_1_desc:0 ""
+ trm_amph_tank_eng_vickers_l1e3_turret_1:0 "L1E3 Turret (Manual)"
+ trm_amph_tank_eng_vickers_l1e3_turret_1_desc:0 ""
 
  # Turret/Superstructure JAP
 

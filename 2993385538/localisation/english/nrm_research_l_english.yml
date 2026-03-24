@@ -47,6 +47,7 @@
  early_ship_hull_cruiser_desc: "The newest cruiser hulls combine light armor, fast-firing guns, and moderate speed to fulfill reconnaissance, commerce raiding, and fleet support roles. While their firepower remains insufficient against capital ships, their versatility in fleet actions and independent operations proves valuable."
  basic_ship_hull_cruiser_desc: "Cruiser designs now emphasize longer operational range, improved fire control, and better-protected gun turrets, making them highly effective in both fleet engagements and raiding operations. These new vessels are faster and more resilient, capable of dealing with smaller ships while still avoiding direct engagement with battleships."
  improved_ship_hull_cruiser_desc: "New cruiser designs feature improved hull shaping, better compartmentalization, and enhanced propulsion systems, allowing them to operate at higher speeds with greater fuel efficiency. These ships will serve as the backbone of modern navies, excelling in fleet engagements and commerce protection."
+ advanced_ship_hull_cruiser: "Cruiser (Advanced)"
  advanced_ship_hull_cruiser_desc: "Cruiser hulls now incorporate radar-guided fire control, improved armor distribution, and enhanced anti-aircraft weaponry, making them more survivable and lethal in both fleet actions and independent raiding operations."
  large_cruiser_hull:0 "Large Cruisers"
  large_cruiser_hull_short:0 "Large Cruisers"
@@ -355,8 +356,8 @@
  advanced_decimetric_radar:0 "Advanced Decimetric Radar"
  advanced_decimetric_radar_desc:0 "Further developments to decimetric radar allows for early applications to shipboard fire control."
  
- NAVAL_TITLE_FIRE_CONTROL_2:0 "FIRE CONTROL METHODS"
- NAVAL_TITLE_RADAR:0 "RADAR"
+ NAVAL_TITLE_FIRE_CONTROL_2:0 "Fire Control Methods"
+ NAVAL_TITLE_RADAR:0 "Radar"
  
  early_naval_radar:0 "Decimetric Naval Radar"
  early_naval_radar_desc:0 ""

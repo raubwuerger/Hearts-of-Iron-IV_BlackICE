@@ -63,8 +63,9 @@
  #GER_garrison_desc:0 "While garrison troops lack the proper fighting value and heavy equipment of an Infantry Division, they still need a plethora of gear to make them work. The higher our standards in that regard, the more reliable our garrison troops will fulfill their role."
  #GER_DIV_HQ:0 "Divisions Stab"
  luftwaffe_infantry:0 "Luftwaffe Infantrie"
+ conscripts: "Conscripts"
  fascist_militia:0 "Fascist Militia"
- ss_mountaineers:0 "SS-Gebirgsjäger §R£special_forces_texticon 2§!"
+ ss_mountaineers:0 "SS-Gebirgsjäger"
  Landkreuzer:0 "Landkreuzer"
  ## Wermacht/SS equipment ##
  ## Specialty Tanks ##

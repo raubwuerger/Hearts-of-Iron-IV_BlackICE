@@ -30,7 +30,7 @@ american_tech_7:0 "United States"
 
 ## US Specific Unit naming convention ##
  #USA_mountaineers:0 "Mountain Infantry Battalion"
- USA_commando:0 "Ranger Battalion §R£special_forces_texticon 5§!"
+ USA_commando:0 "Ranger Battalion"
  USA_Tankettes:0 "Combat Tank Light Series Company"
  #USA_american_light_tank:0 "Light Tank"
  USA_american_light_tank_desc:0 "Lightly armored tanks."

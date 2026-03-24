@@ -24,6 +24,7 @@
  tech_trm_tank_design:0 "Fundemental Tank Design"
  tech_trm_tank_design_desc:0 " "
  tank_design_tech: "Tank Design Research"
+ tank_design_tech_2: "Tank Design Research"
  tech_trm_tank_design_improved:0 "Improved Tank Design"
  tech_trm_tank_design_improved_desc:0 "By using our knowledge of proven tank designs that are optimal, we can standarise designs and create new models faster."
  

@@ -46,7 +46,7 @@
  SPR_political_unrest:0 "Political Unrest"
  GER_rugen:0 "Operation Rügen"
  GER_rugen_desc:0 "The Nationalist forces have failed to take Bilbao, our Condor Legion shall carpet bomb the town of Guernica and break the Republican forces"
- GER_rugen_tt:0 "Heavy damage done to republican forces, buildings and infrastructure in the area"
+ GER_rugen_tt:0 "Damage enemy units by §G50%§!\n"
  GER_ursula:0 "Operation Ursula"
  GER_ursula_desc:0 "Operation Ursula (named after the daughter of Karl Dönitz) would see a group of German U-boats active around the waters near Spain against the Spanish Republican Navy, under the overall command of Hermann Boehm in Berlin. Any identification marks will be obscured, and the whole mission will be kept secret. Historically, it began on 20 November 1936, with the movement of U-33 and U-34 from Wilhelmshaven."
  ITA_madrid:0 "Bomb Madrid"

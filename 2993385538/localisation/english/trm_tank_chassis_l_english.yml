@@ -1423,6 +1423,13 @@
  trm_superheavy_tank_equipment_eng_tortoise_1:0 "Tortoise"
  trm_superheavy_tank_equipment_eng_tortoise_1_short:0 "Tortoise"
  
+ trm_amph_tank_chassis_eng_vickers_l1e2_1:0 "Amphibious L1E2 Chassis"
+ trm_amph_tank_equipment_eng_vickers_l1e2_1:0 "Vickers Amphibious L1E2"
+ trm_amph_tank_equipment_eng_vickers_l1e2_1_short:0 "Vickers L1E2"
+ trm_amph_tank_chassis_eng_vickers_l1e3_1:0 "Amphibious L1E3 Chassis"
+ trm_amph_tank_equipment_eng_vickers_l1e3_1:0 "Vickers Amphibious L1E3"
+ trm_amph_tank_equipment_eng_vickers_l1e3_1_short:0 "Vickers L1E3"
+ 
  ## JAPAN
  
  trm_tankette_tank_chassis_jap_type92_1:0 "Type 92 Chassis"

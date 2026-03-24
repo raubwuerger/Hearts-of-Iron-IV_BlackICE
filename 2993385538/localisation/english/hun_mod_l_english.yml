@@ -821,7 +821,7 @@
  hungary_flavor_gen.28.a:0 "The Central Powers will rise again."
  
  hungary_flavor_gen.29.t:0 "Ukrainian lands"
- hungary_flavor_gen.29.d:0 "[HUN.GetNameDef] has given birth to the newly proclaimed Kingdom of Ukraine in the chaos that is Eastern Europe. This new Ukrainian state is now requesting all of its neighbors that hold Ukrainian land, to recognise its authority over those lands. Since we also possess some territories, that are considered to be predominantly Ukrainian, we must also decide how to respond to this request."
+ hungary_flavor_gen.29.d:0 "[HUN.GetNameDefCap] has given birth to the newly proclaimed Kingdom of Ukraine in the chaos that is Eastern Europe. This new Ukrainian state is now requesting all of its neighbors that hold Ukrainian land, to recognise its authority over those lands. Since we also possess some territories, that are considered to be predominantly Ukrainian, we must also decide how to respond to this request."
  hungary_flavor_gen.29.a:0 "We will officially recognise this new state."
  hungary_flavor_gen.29.b:0 "We do not wish to support such a country."
  
@@ -835,11 +835,11 @@
  hungary_flavor_gen.31.a:0 "Accept their demands."
  hungary_flavor_gen.31.b:0 "Attempt to crush the revolt."
  
- hungary_flavor_gen.32.t:0 "[HUN.GetNameDef] defends the Danubian Workers"
+ hungary_flavor_gen.32.t:0 "[HUN.GetNameDefCap] defends the Danubian Workers"
  hungary_flavor_gen.32.d:0 "The Danubian revolts within our country are now somewhat contained, though resentment among the working class is still high. [HUN.GetNameDef] however, has decided to intervene on behalf of the socialist rebels, and announced their intention to liberate the oppressed Danubians, with force if needbe."
  hungary_flavor_gen.32.a:0 "Let them try."
  
- hungary_flavor_gen.33.t:0 "[HUN.GetNameDef] abandons the Danubian Workers"
+ hungary_flavor_gen.33.t:0 "[HUN.GetNameDefCap] abandons the Danubian Workers"
  hungary_flavor_gen.33.d:0 "The Danubian revolts in our cities have been crushed. Their cry for help towards the Danube Federation was unheard, or so it seemed, as [HUN.GetNameDef] has failed to make good on their promise to help them."
  hungary_flavor_gen.33.a:0 "We will put an end to this."
  
@@ -911,12 +911,12 @@
  hungary_flavor_pol.6.d:0 "Our cries have found deaf ears. Our Soviet comrades refuse to extend their alliance to include us, let alone any other Eastern European country. In spite of the efforts of our Hungarian friends, we will have to fight the capitalists and fascists on our own."
  hungary_flavor_pol.6.a:0 "The father of the revolution abandons us?"
  
- hungary_flavor_pol.7.t:0 "[HUN.GetNameDef] wants to join Miedzymorze"
+ hungary_flavor_pol.7.t:0 "[HUN.GetNameDefCap] wants to join Miedzymorze"
  hungary_flavor_pol.7.d:0 "Our faction has attracted the attention of [HUN.GetNameDef]. Their diplomats have approached us to try and negotiate their entry into our alliance. How should we respond?"
  hungary_flavor_pol.7.a:0 "They are more than welcome."
  hungary_flavor_pol.7.b:0 "They aren't welcome at all."
  
- hungary_flavor_pol.8.t:0 "[HUN.GetNameDef] offers a union"
+ hungary_flavor_pol.8.t:0 "[HUN.GetNameDefCap] offers a union"
  hungary_flavor_pol.8.d:0 "Our ally, [HUN.GetName] has offered an alternative to surrendering to our enemies. They wish to form a union between our nations, and continue the fight as one. This would mean giving up our independence, but it might be the only thing that can save us."
  hungary_flavor_pol.8.a:0 "We have no other choice left."
  hungary_flavor_pol.8.b:0 "We can still win this war."
@@ -961,9 +961,9 @@
  hungary_flavor_bul.6.a:0 "Shame."
  
  hungary_flavor_ita.1.t:0 "Slovenia for Adriatic ports"
- hungary_flavor_ita.1.d_fiume:0 "[HUN.GetNameDef] has called for a conference, to repartition Yugoslavia. On the subject of Slovenia, they have decided to offer parts of it to us, in exchange for the port city of Fiume. This might seem like a fruitious deal, but we would lose a precious port on the Mediterranean Sea. What is our reply?"
- hungary_flavor_ita.1.d_zara:0 "[HUN.GetNameDef] has called for a conference, to repartition Yugoslavia. On the subject of Slovenia, they have decided to offer parts of it to us, in exchange for the port city of Zara. This might seem like a fruitious deal, but we would lose a precious port on the Mediterranean Sea. What is our reply?"
- hungary_flavor_ita.1.d_both:0 "[HUN.GetNameDef] has called for a conference, to repartition Yugoslavia. On the subject of Slovenia, they have decided to offer parts of it to us, in exchange for the port cities of Fiume and Zara. This might seem like a fruitious deal, but we would lose precious ports on the Mediterranean Sea. What is our reply?"
+ hungary_flavor_ita.1.d_fiume:0 "[HUN.GetNameDefCap] has called for a conference, to repartition Yugoslavia. On the subject of Slovenia, they have decided to offer parts of it to us, in exchange for the port city of Fiume. This might seem like a fruitious deal, but we would lose a precious port on the Mediterranean Sea. What is our reply?"
+ hungary_flavor_ita.1.d_zara:0 "[HUN.GetNameDefCap] has called for a conference, to repartition Yugoslavia. On the subject of Slovenia, they have decided to offer parts of it to us, in exchange for the port city of Zara. This might seem like a fruitious deal, but we would lose a precious port on the Mediterranean Sea. What is our reply?"
+ hungary_flavor_ita.1.d_both:0 "[HUN.GetNameDefCap] has called for a conference, to repartition Yugoslavia. On the subject of Slovenia, they have decided to offer parts of it to us, in exchange for the port cities of Fiume and Zara. This might seem like a fruitious deal, but we would lose precious ports on the Mediterranean Sea. What is our reply?"
  hungary_flavor_ita.1.a:0 "Accept."
  hungary_flavor_ita.1.b:0 "Decline."
  
@@ -973,7 +973,7 @@
  hungary_flavor_ita.2.b:0 "Decline."
  
  hungary_flavor_ita.3.t:0 "Zara and Fiume in Exchange for military support"
- hungary_flavor_ita.3.d:0 "[HUN.GetNameDef] has expressed their desire to acquire the port of Zara, and have proposed the following deal: Our countries sign a pact of non-aggression, and they trade a significant amount of infantry equipment with us, in exchange for our ports in Croatia. What shall we tell their diplomats?"
+ hungary_flavor_ita.3.d:0 "[HUN.GetNameDefCap] has expressed their desire to acquire the port of Zara, and have proposed the following deal: Our countries sign a pact of non-aggression, and they trade a significant amount of infantry equipment with us, in exchange for our ports in Croatia. What shall we tell their diplomats?"
  hungary_flavor_ita.3.a:0 "Accept the deal."
  hungary_flavor_ita.3.b:0 "Decline the deal."
  
@@ -982,7 +982,7 @@
  hungary_flavor_ita.4.a:0 "Accept the deal."
  hungary_flavor_ita.4.b:0 "Decline the deal."
  
- hungary_flavor_ita.5.t:0 "[HUN.GetNameDef] demands their old territories"
+ hungary_flavor_ita.5.t:0 "[HUN.GetNameDefCap] demands their old territories"
  hungary_flavor_ita.5.d:0 "The reawakened Monarhcy of [HUN.GetNameDef] has made it clear, that they wish to restore their old territoy. That includes our provinces of Istria and South Tyrol. They have now approached us with a proposed peaceful transfer of those territories, in return for some Greek territory, and a promise of peace in the future. Do we agree to this deal?"
  hungary_flavor_ita.5.a:0 "Finally an opportunity to expand into Greece."
  hungary_flavor_ita.5.b:0 "We will not become the lapdogs of the Monarchy."
@@ -1002,25 +1002,25 @@
  hungary_flavor_ita.8.b:0 "This goes against our interests."
  
  hungary_flavor_ita.9.t:0 "The Adriatic Initiative"
- hungary_flavor_ita.9.d:0 "[HUN.GetNameDef] has recently acquired territory along the Adriatic coast, and following their previous diplomatic mission to us, they now propose closer cooperation. They wish to help us protect the Adriatic waters, in exchange for us sharing our naval expertise with them. They promise to declare war on anyone who is hostile to us, and enters the Adriatic Sea, if we agree."
+ hungary_flavor_ita.9.d:0 "[HUN.GetNameDefCap] has recently acquired territory along the Adriatic coast, and following their previous diplomatic mission to us, they now propose closer cooperation. They wish to help us protect the Adriatic waters, in exchange for us sharing our naval expertise with them. They promise to declare war on anyone who is hostile to us, and enters the Adriatic Sea, if we agree."
  hungary_flavor_ita.9.a:0 "A sound agreement."
  hungary_flavor_ita.9.b:0 "We don't need their help in our naval defence."
  
- hungary_flavor_ita.10.t:0 "[HUN.GetNameDef] honors the Adriatic Initiative"
+ hungary_flavor_ita.10.t:0 "[HUN.GetNameDefCap] honors the Adriatic Initiative"
  hungary_flavor_ita.10.d:0 "As our enemies close in on Adriatic waters, the Hungarian navy has mobilized their fleets, and took up defensive formations against the invaders. Hungary has kept her word, and honored the terms of the Adriatic Initiative."
  hungary_flavor_ita.10.a:0 "As they should."
  
- hungary_flavor_ita.11.t:0 "[HUN.GetNameDef] dishonors the Adriatic Initiative"
+ hungary_flavor_ita.11.t:0 "[HUN.GetNameDefCap] dishonors the Adriatic Initiative"
  hungary_flavor_ita.11.d:0 "As our enemies close in on Adriatic waters, the Hungarian navy sits idly in their ports, seemingly unaware of their obligations set by the Adriatic Initiative. When our ships tried to open communications with one of their fleets, they simply refused to answer. It would seem the Hungarians can not be trusted, and their word means nothing."
  hungary_flavor_ita.11.a:0 "How dare they?"
  
- hungary_flavor_ita.12.t:0 "[HUN.GetNameDef] would like to join the Novus Imperium Romanum"
- hungary_flavor_ita.12.d:0 "[HUN.GetNameDef] is currently not part of any alliance, and they wish to remedify this, by joining the Novus Imperium Romanum. With them on our side, we would not only be able to count on their help, but also on the wrath of their enemies. How should we respond?"
+ hungary_flavor_ita.12.t:0 "[HUN.GetNameDefCap] would like to join the Novus Imperium Romanum"
+ hungary_flavor_ita.12.d:0 "[HUN.GetNameDefCap] is currently not part of any alliance, and they wish to remedify this, by joining the Novus Imperium Romanum. With them on our side, we would not only be able to count on their help, but also on the wrath of their enemies. How should we respond?"
  hungary_flavor_ita.12.a:0 "The more the merrier."
  hungary_flavor_ita.12.b:0 "We don't need them in our faction."
  
  hungary_flavor_ita.13.t:0 "Hungarian armament loan"
- hungary_flavor_ita.13.d:0 "[HUN.GetNameDef] was practically disarmed after the Great War. They now wish to rebuild their military strength, and wish to procure a loan from us, to help them in this endavour."
+ hungary_flavor_ita.13.d:0 "[HUN.GetNameDefCap] was practically disarmed after the Great War. They now wish to rebuild their military strength, and wish to procure a loan from us, to help them in this endavour."
  hungary_flavor_ita.13.a:0 "We can spare some money for the loan."
  hungary_flavor_ita.13.b:0 "We would be violating the Treaty of Trianon."
  
@@ -1425,7 +1425,7 @@
  hungary_flavor_sze.1.b:0 "Issue a formal protest towards the Romanian decision."
  hungary_flavor_sze.1.c:0 "We subject ourselves to the authority of Romania."
  
- hungary_flavor_fra.1.t:0 "[HUN.GetNameDef] buys the SMS Novara"
+ hungary_flavor_fra.1.t:0 "[HUN.GetNameDefCap] buys the SMS Novara"
  hungary_flavor_fra.1.d:0 "The old Austro-Hungarian ship, the SMS Novara (which we aptly renamed to Thionville), has been in our service since our triumph in the Great War. We don't have much use for the ship nowadays, as it currently serves as a barracks ship in Toulon. Since [HUN.GetName] has gained some coastline, they wish to reestablish their naval power, and requested to purchase the Novara from us."
  hungary_flavor_fra.1.a:0 "Let them have that old piece of junk."
  
@@ -1582,7 +1582,7 @@
  hungary_flavor_partition.21.g.tt:0 "We will be able to offer Northern Slovenia to Italy, in return for some of their Adriatic ports."
  
  hungary_flavor_partition.22.t:0 "The fate of Ljubljana"
- hungary_flavor_partition.22.d:0 "Next up is the southern half of Slovenia. This province is home to the capital of the Slovenian region, Ljubljana. Who will recieve this land?"
+ hungary_flavor_partition.22.d:0 "Next up is the southern half of Slovenia. This province is home to the capital of the Slovenian region, Ljubljana. Who will receive this land?"
  hungary_flavor_partition.22.a:0 "Annex it."
  hungary_flavor_partition.22.b:0 "Give it to Austria."
  hungary_flavor_partition.22.c:0 "Give it to Germany."
@@ -1867,7 +1867,7 @@
  
  hungary_flavor.51.t:0 "Györi Program: Phase I is ready"
  hungary_flavor.51.d:0 "The first phase of the Györi Program is ready to be put into action. Research, and industrial development are the primary focuses of this part of the plan, thus many construction grants and research agreements have been negotiated to this end. We should take advantage of these agreements, before they expire."
- hungary_flavor.51.a:0 "Ensure our Ground forces recieve the best Scientists."
+ hungary_flavor.51.a:0 "Ensure our Ground forces receive the best Scientists."
  hungary_flavor.51.b:0 "Industrial Development is the key to success"
  
  hungary_flavor.52.t:0 "Györi Program: Phase II is ready"
@@ -2043,7 +2043,8 @@
  hungary_flavor.99.b:0 "Perform the restricted research in secret."
  hungary_flavor.99.c:0 "Try our best to stay within the boundaries."
  hungary_flavor.99.tt:0 "The progress of the Györi Program will be slightly hindered."
- trianon_cheat: "Suspicions of Cheating"
+ trianon_cheat: "Suspicions of cheating Trianon restrictions"
+ trianon_cheat_open: "Openly cheating Trianon restrictions"
  
  hungary_flavor.100.t:0 "The Visegrád Group"
  hungary_flavor.100.d_both:0 "Success! Both Czechoslovakia, and Poland have agreed to enter the Visegrád group. This is the beginning of a fruitful alliance."
@@ -2346,7 +2347,7 @@
  hungary_flavor.162.a:0 "Excellent."
  
  hungary_flavor.163.t:0 "[SOV.GetName] declines offer to partition Romania"
- hungary_flavor.163.d:0 "[SOV.GetNameDef] refused our proposal to simultaneously attack Romania. They might not want us to gain this much territory, or they might have different plans for Romania altogether."
+ hungary_flavor.163.d:0 "[SOV.GetNameDefCap] refused our proposal to simultaneously attack Romania. They might not want us to gain this much territory, or they might have different plans for Romania altogether."
  hungary_flavor.163.a:0 "A shame. This would have made things easier for everyone."
  
  hungary_flavor.164.t:0 "[SOV.GetName] attacks Romania"

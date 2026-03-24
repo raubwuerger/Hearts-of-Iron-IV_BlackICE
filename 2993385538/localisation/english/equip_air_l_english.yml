@@ -165,8 +165,6 @@
  tac_bomber_equipment_1944_desc:0 "Taking a page from the advancements in fighter planes, unconventional materials and shapes can make new designs some of the fastest and best performing twin-engine planes ever built."
  transport_plane_equipment:0 "Air Transport Group"
  transport_plane_equipment_desc:0 "Transport Planes used for paradrops and supply drops. Represents several aircraft."
- GER_transport_plane_equipment:0 "Lufttransportgruppe"
- GER_transport_plane_equipment_desc:0 "Transport Planes used for paradrops and supply drops. Represents several aircraft."
  transport_plane_equipment_1:0 "Transport Plane 1936"
  transport_plane_equipment_1_short:0 "Transport 1936"
  transport_plane_equipment_1_desc:0 "§LPlanes used to transport troops on paradrop missions.§!"

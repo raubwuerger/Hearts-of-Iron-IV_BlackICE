@@ -1,0 +1,18 @@
+﻿l_english:
+ COLLECTION_FACTION_NUKE_FACILITY: "Faction Nuclear Research Facilities:"
+ COLLECTION_FACTION_ELECTRONICS_FACILITY: "Faction Electronic and Computing Facilities:"
+ COLLECTION_FACTION_BORDER_STATES_BAD_SUPPLY: "Faction-controlled border-states without at least 5 infrastructure or a supply Hub"
+ 
+ is_arab: "Is an Arab Country"
+ COLLECTION_ARAB: "§YEvery Arab Country§!"
+ COLLECTION_ARAB_OTHER: "§YEvery other Arab Country§!"
+ COLLECTION_ARAB_WITH_SCIENCE: "§YEvery Arab Country that has completed $Arab_research_standards$§!"
+ 
+ COLLECTION_MUSLIM: "§YEvery Islamic Country§!"
+ COLLECTION_MUSLIM_OTHER: "§YEvery other Islamic Country§!"
+ 
+ is_chinese: "Is a Chinese Country"
+ COLLECTION_CHINESE_NATIONS: "§YEvery Chinese Country§!"
+ 
+ is_chinese_warlord: "Is a Chinese Warlord"
+ COLLECTION_CHINESE_WARLORD: "§YEvery Chinese Warlord§!"

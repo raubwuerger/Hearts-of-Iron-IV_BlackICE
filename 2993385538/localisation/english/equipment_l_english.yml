@@ -40,14 +40,15 @@
  railway_gun_equipment:0 "Railway Artillery"
  railway_gun_equipment_desc:0 "A heavy cannon mounted on a railway carriage for transportation."
  railway_gun_desc:0 "Railways offer an opportunity to move heavy guns far inland at a reasonable speed, allowing us to bombard enemy position at great range and with good effect."
+ railway_gun_equipment_0:0 "WW1 Railway Gun"
  railway_gun_equipment_1:0 "Railway Gun"
  GER_railway_gun_equipment_1:0 "Dora"
  ENG_railway_gun_equipment_1:0 "BL 9.2 Inch Mk. XIII"
  ENG_railway_gun_equipment_1_short:0 "BL 9.2 Inch"
  USA_railway_gun_equipment_1:0 "8-inch Mk. VI"
  JAP_railway_gun_equipment_1:0 "Type 90"
- FRA_railway_gun_equipment_1:0 "Canon de 305 modele 1906"
- FRA_railway_gun_equipment_1_short:0 "Canon de 305"
+ FRA_railway_gun_equipment_0:0 "Canon de 305 modele 1906"
+ FRA_railway_gun_equipment_0_short:0 "Canon de 305"
  SOV_railway_gun_equipment_1:0 "TM-3-12"
 
 ## SMG and Assault Rifles ##
@@ -298,7 +299,7 @@
   motorized_AC_equipment_07_short:0 "Rolls-Royce"
   motorized_AC_equipment_07_desc:0 ""
   motorized_AC_equipment_08:0 "Armored Car III"
-  motorized_AC_equipment_08_short:0 "Beaverette"
+  motorized_AC_equipment_08_short:0 "Dingo"
   motorized_AC_equipment_08_desc:0 ""
   motorized_AC_equipment_09:0 "Armored Car IV"
   motorized_AC_equipment_09_short:0 "Humber Recon"
@@ -312,6 +313,9 @@
   support_equipment_1:0 "Support Equipment I"
   support_equipment_1_short:0 "Support Equipment"
   support_equipment_1_desc:0 "General non-combatant equipment used to support troops."
+  support_equipment_2:0 "Support Equipment II"
+  support_equipment_2_short:0 "Support Equipment"
+  support_equipment_2_desc:0 "General non-combatant equipment used to support troops."
 
   EQUIPMENT_DESCRIPTION:0 "$NAME$"
   EQUIPMENT_DESCRIPTION_WITH_DESIGNER:0 "$DESIGNER$ $NAME$"
@@ -4723,5 +4727,14 @@
  RAJ_train_equipment_2:0 "AWC Class"
  SAF_train_equipment_1:0 "SAR Class 14"
  SAF_train_equipment_2:0 "SAR Class 23"
+ 
+ railway_gun_equipment_2: "Super-Heavy Railway Gun"
+ railway_gun_equipment_2_short: "SH. Railway Gun"
+ railway_gun_equipment_2_desc: "A colossal weapon of unmatched power and precision, which will stand as a testament to relentless pursuit of military superiority of our country."
+ GER_railway_gun_equipment_2: "Dora"
+ ITA_railway_gun_equipment_2: "Cannone da 381/40 AVS"
+ ENG_railway_gun_equipment_2: "BL 18 inch"
+ USA_railway_gun_equipment_2: "14 inch M1920"
+ FRA_railway_gun_equipment_2: "Obusier de 520"
  
  ##EOF##

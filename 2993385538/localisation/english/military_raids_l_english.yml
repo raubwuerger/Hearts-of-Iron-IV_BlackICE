@@ -436,6 +436,7 @@
  raid_canceled_no_unit: "The unit assigned to $RAID|H$ does no longer exist."
  
  raid_unit_not_yet_at_source: "$UNIT|H$ is on its way to $SOURCE$."
+ raid_tooltip_trigger_title: "$TITLE|H$:"
  
  nuclear_bomb: "Nuclear Bomb"
  thermonuclear_bomb: "Thermonuclear Bomb"
@@ -473,6 +474,7 @@
  bauxite_damaged: "Damaged Bauxite Mines"
  state_resources_bauxite_factor: "£resources_strip|7 Bauxite Extraction"
  oil_refinery: "Oil Refineries"
+ operation_oil_refinery: "Oil Refineries"
  oil_damaged: "Damaged Oil Refineries"
  
  

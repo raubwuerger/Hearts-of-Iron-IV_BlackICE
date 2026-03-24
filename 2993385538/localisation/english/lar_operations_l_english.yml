@@ -397,12 +397,17 @@
  
  agency_upgrade_cost: "Intelligence Agency"
  AGENCY_UPGRADE_TOOLTIP: "§Y[?v.GetTokenLocalizedKey]§!\n[!upgrade_button_click_enabled]\n[!upgrade_button_click]"
- AGENCY_UPGRADE_COST: "§YCost:§! [?cost]"
- AGENCY_UPGRADE_DURATION: "§YDuration:§! [?duration|0]"
+ AGENCY_UPGRADE_COST: "Cost: [?cost|Y0]"
+ AGENCY_UPGRADE_DURATION: "Duration: [?duration|0Y] days\n    Base: [?base|0Y]"
+ AGENCY_UPGRADE_DURATION_MODIFIER: "    Modifiers: [?modifiers|-=%0]"
+ AGENCY_UPGRADE_DURATION_SHARED: "    [?best_discount_tag.GetFlag][?best_discount_tag.GetName] has completed this upgrade: [?best_discount|%0-=]"
+ AGENCY_UPGRADE_DURATION_FACTION: "    Faction Intel Sharing: [?num_intel_sharing|%ß-=]"
  AGENCY_MODIFIER_LEVEL: "\n§YLevel: $LEVEL$§!\n$MODIFIER$: [?$VALUE$|$STATUS$=]"
  AGENCY_MODIFIER: "$MODIFIER$: [?$VALUE$|$STATUS$=]"
  AGENCY_UPGRADE_XP_TRIGGER: "§YGain progress when:§!\n    -$XP_TRIGGER$ $XP_TRIGGER_2$"
  AGENCY_MUTUALLY_EXCLUSIVE: "§RMutually exclusive with $AGAINST$§!"
+ AGENCY_UPGRADE_TAB_TOOLTIP: "[?days_remaining|Y0] days"
+ is_assigned_as_faction: "Can be Faction Advisor"
  
  keep_asset_chance_bad: "[?asset_chance|%0R]"
  keep_asset_chance_ok: "[?asset_chance|%0Y]"
@@ -444,8 +449,10 @@
  RESISTANCE_ACTION_FOCUS_TT: "[!asset_setting_resistance_acquire_asset_click]"
  RESISTANCE_SABOTAGE_FOCUS_TT: "[!asset_setting_resistance_sabotage_industry_click]"
  RESISTANCE_RESOURCE_FOCUS_TT: "[!asset_setting_resistance_sabotage_resources_click]"
- RESISTANCE_AREA_TOOLTIP: "Resistance Area: §Y[?resistance_area.GetName]§!, with [?resistance_area^num|Y0] neighboring states.\n£resistance  Average Resistance: §R[?average_resistance|1]%§!\n        - Total Resistance Growth: [?resistance_speed_total|+=]\n£compliance  Average Compliance: §Y[?average_compliance|1]%§!\n        - Total Compliance Growth: [?compliance_speed_total|-=]"
- RESISTANCE_AREA_TOOLTIP_DELAYED: "§YClick§! to select this Resistance Area as target for operations."
+ RESISTANCE_AREA_TOOLTIP: "[GetResistanceAreaSelected]\nResistance Area: §Y[?resistance_area.GetName]§!, with [?resistance_area^num|Y0] neighboring states.\n£resistance  Average Resistance: §R[?average_resistance|1]%§!\n        - Total Resistance Growth: [?resistance_speed_total|+=]\n£compliance  Average Compliance: §Y[?average_compliance|1]%§!\n        - Total Compliance Growth: [?compliance_speed_total|-=]"
+ RESISTANCE_AREA_TOOLTIP_DELAYED: "§GClick§! to select this Resistance Area as target for operations.\n§GRight-Click§! to move the camera over this area."
+ RESISTANCE_AREA_SELECTED: "This Resistance area is §Gselected§!. §YStrengthen Resistance§! & §YSupport Occupied Civilians§! will use it as their §Garea of operation§!.\n"
+ RESISTANCE_AREA_CLEAR: "This Resistance area is no longer active. Click to delete."
  
  FAKE_INTEL_UNIT_TOOLTIP: "§YFake Intel Divisions§!\n[!open_fake_unit_click_enabled]\n[!open_fake_unit_click]"
  FAKE_INTEL_UNIT_MAX: "At most [?num_to_create|Y0] fake intel divisions (25% of our total army or minimum of 24 units). Current: [?num_fake_intel_divisions]"
@@ -477,6 +484,8 @@
  OPERATION_CHANCE_NAVY_TOKEN: "This Operation has a [GetNavyAssetChance] Chance to burn an £text_infiltrate_navy_token §YNavy Asset§!\n"
  OPERATION_CHANCE_CIVILIAN_TOKEN: "This Operation has a [GetCivilianAssetChance] Chance to burn an £text_infiltrate_civilian_token §YCIvilian Asset§!\n"
  
+ COLLABORATION_POTENTIAL_OUTCOME: "\n    Base: [?base|%+=]\n    [?ROOT.current_party_ideology_group.GetTokenLocalizedKey] Support: [?ideology|+=%]\n    Scaled by existing Collaboration: §Yx[?scale|2]§!"
+ COLLABORATION_OUTCOME: "Base: [?base|%+=]\n    [?ROOT.current_party_ideology_group.GetTokenLocalizedKey] Support: [?ideology|+=%]\n    Scaled by existing Collaboration: §Yx[?scale|2]§!"
  STEAL_TECH_CIVILIAN_TOOLTIP: "Receive the following effects for the next [?operation_steal_tech_civilian_uses@FROM|G0] technologies §Y[From.GetNameWithFlag]§! researches:\n - Research Speed Bonus: [?operation_steal_tech_civilian_bonus@FROM|%G0]\n - Ahead of Time Bonus: [?operation_steal_tech_civilian_ahead_of_time@FROM|%G0]"
  STEAL_TECH_CIVILIAN_OUTCOME_POTENTIAL_TOOLTIP: "Receive the following effects for the next [?uses|G0] technologies §Y[From.GetNameWithFlag]§! researches:\n - Research Speed Bonus: [?bonus|%G0]\n - Ahead of Time Bonus: [?aot_bonus|%G0]\n§YCritical Success Chance:§! §G[?CRITICAL_SUCCESS]%§!, which grants:\n"
  STEAL_TECH_ARMY_TOOLTIP: "Receive the following effects for the next [?operation_steal_tech_army_uses@FROM|G0] technologies §Y[From.GetNameWithFlag]§! researches:\n - Research Speed Bonus: [?operation_steal_tech_army_bonus@FROM|%Y0]\n - Ahead of Time Bonus: [?operation_steal_tech_army_ahead_of_time@FROM|%Y0]"
@@ -502,7 +511,9 @@
  SABOTAGE_INFRA_OUTCOME_POTENTIAL_TOOLTIP: "§YInfrastructure§!:\n - Receive $DAMAGE|R$ levels of damage.\n - Receive §R$REPAIR$%§! repair speed until fully repaired.\n§YSpread Effect§! will target all neighboring states.\n§YCritical Success Chance:§! §G[?CRITICAL_SUCCESS]%§!, which grants:\n - Remove §R1§! Infrastructure"
  SABOTAGE_INFRA_TOOLTIP: "§Y[From.From.GetName]§!\n§YInfrastructure:§!\n - Received [?effect|R] levels of damage.\n - Received [?repair|R%] repair speed until fully repaired."
  SABOTAGE_INFRA_SPREAD_TOOLTIP: "§Y(Spread Effect)§! §YEvery neighbor state:§!\n - Received [?spread_effect|R] levels of damage.\n - Received [?spread_repair|R%] repair speed until fully repaired."
- 
+ SABOTAGE_INFRA_TOOLTIP_EVENT: "§YInfrastructure:§!\n - Received [?effect|R] levels of damage.\n - Received [?repair|R%] repair speed until fully repaired."
+ SABOTAGE_INFRA_TOOLTIP_CRITICAL_EVENT: "\nRemove §Y1 Infrastructure§!"
+
  operation_oil_damaged: "Sabotaged Oil Refineries"
  operation_sabotage_oil: "Sabotage Oil Refineries"
  operation_sabotage_oil_desc: "§LOil Refineries producing fuel products are the lifeblood of the enemies war economy. Without it the enemies' armor, air and naval forces grind to a halt.§!"
@@ -510,6 +521,7 @@
  SABOTAGE_OIL_TOOLTIP: "§YOil Refinery:§!\n - Received [?effect|R] levels of damage.\n - Received [?repair|R%] repair speed until fully repaired.\n - Received £resources_strip|1 Oil Extraction: §R-25%§!"
  SABOTAGE_OIL_SPREAD_TOOLTIP: "§Y(Spread Effect)§! §YNearest Oil Refinery:§!\n - Received [?ROOT.operation_sabotage_oil_damage_spread@FROM|R] levels of damage.\n - Received [?ROOT.operation_sabotage_oil_repair_spread@FROM|R%] repair speed until fully repaired.\n - Received £resources_strip|1 Oil Extraction: §R-25%§!"
  SABOTAGE_OIL_CRITICAL_TOOLTIP: " - Received additional £resources_strip|1 Oil Extraction: §R-25%§!"
+ SABOTAGE_OIL_TOOLTIP_EVENT: "§YOil Refinery:§!\n - Received [?effect|R] levels of damage.\n - Received [?repair|R%] repair speed until fully repaired.\n - Received £resources_strip|1 Oil Extraction: [?critical|%R0]"
  
  operation_target_army_leader: "Target Army Leader"
  operation_target_army_leader_desc: "§LHigh skilled officers and generals leading the enemy armies are a high priority for liquidation, disorienting the enemy and allowing us to strike hard.§!"
@@ -547,6 +559,7 @@
  SABOTAGE_RADAR_TOOLTIP: "§YRadar Station:§!\n - Received [?effect|R] levels of damage.\n - Received [?repair|R%] repair speed until fully repaired."
  SABOTAGE_RADAR_SPREAD_TOOLTIP: "§Y(Spread Effect)§! §YNearest Radar Station:§!\n - Received [?ROOT.operation_sabotage_radar_damage_spread@FROM|R] levels of damage.\n - Received [?ROOT.operation_sabotage_radar_repair_spread@FROM|R%] repair speed until fully repaired."
  SABOTAGE_RADAR_CRITICAL_TOOLTIP: "§YRadar Station:§!\n - Reduce building level by §G1§!."
+ SABOTAGE_RADAR_TOOLTIP_CRITICAL_EVENT: "\nRemove §Y1 Radar Station§!"
  
  operation_sabotage_port: "Sabotage Naval Base"
  operation_sabotage_port_desc: "§LTarget and destroy naval bases to hinder the enemies movement of supply, ships and troops by sea.§!"
@@ -554,6 +567,7 @@
  SABOTAGE_PORT_SPREAD_TOOLTIP: "§Y(Spread Effect) Second-Highest Naval Base:§!\n - Received [?ROOT.operation_sabotage_port_damage_spread@FROM|R] levels of damage.\n - Received [?ROOT.operation_sabotage_port_repair_spread@FROM|R%] repair speed until fully repaired."
  SABOTAGE_PORT_CRITICAL_TOOLTIP: " - Received §Y10%§! damage to all ships present in the highest naval base."
  SABOTAGE_PORT_OUTCOME_POTENTIAL_TOOLTIP: "§YHighest Level Naval Base§!:\n - Receive $DAMAGE|R$ levels of damage.\n - Receive §R$REPAIR$%§! repair speed until fully repaired.\n§YSpread Effect§! will target the second highest §Ynaval base§! in the state.\n§YCritical Success Chance:§! §G[?CRITICAL_SUCCESS]%§!, which grants:\n  - Receive §Y10%§! damage to all ships present in the highest naval base."
+ SABOTAGE_PORT_SPREAD_TOOLTIP_EVENT: "§YSecond-Highest Naval Base:§!\n - Received [?effect|R] levels of damage.\n - Received [?repair|R%] repair speed until fully repaired."
  
  MAKE_RESISTANCE_CONTACT_TOOLTIP: "Received §YResistance Leadership§! over §Y[From.From.GetName]§!"
  MAKE_RESISTANCE_CONTACT_OUTCOME_POTENTIAL_TOOLTIP: "Receive §YResistance Leadership§! over the §YTarget State§!"
@@ -574,15 +588,21 @@
  STRENGTHEN_SOCIETY_OUTCOME_POTENTIAL_TOOLTIP_CRITICAL: " - Receive §R-5%§! Compliance instantly"
  
  ASSET_ACTION_TOOLTIP: "§Y[?asset_action.GetTokenLocalizedKey]§!\n[!asset_action_button_click_enabled]\n[!asset_action_button_click]"
+ ASSET_ACTION_COOLDOWN_TOOLTIP: "Did not use an Asset Action in the last §Y90§! days"
+ 
  asset_risk_days_tooltip: "Days: [?asset_days|Y0][GetAssetCPCost]"
  asset_cp_cost: "\nCost: [?cp_cost|Y1]£command_power"
  asset_action_generic_desc: "[This.GetName] has sent their final report."
  
  asset_action.2.t: "Report received"
  asset_action.2.desc: "[This.GetName] has sent their final report. The most industrialized area of [From.From.GetNameWithFlag] is:"
+ asset_action.4.desc: "[This.GetName] has sent their final report. [From.From.GetNameWithFlag] is currently researching:"
+ asset_action.25.desc: "[This.GetName] has sent their final report. The most aircraft are amassed in:"
+ asset_action.27.desc: "[This.GetName] has sent their final report. The most ships are amassed in:"
+ 
+ asset_mio_overview_result: "Size: [?size|Y0] | Traits: [?number_of_unlocked_traits|Y0] | Tasks: [?number_of_currently_assigned_tasks|Y0]\n"
  asset_civilian_request_most_built_area_result: "§Y[GetMostBuildArea]§!, with a total of [?highest_num_buildings|Y0] buildings."
  
- asset_action.4.desc: "[This.GetName] has sent their final report. [From.From.GetNameWithFlag] is currently researching:"
  army_request_doctrine_result: "$TYPE$: $DOCTRINE$\n"
  army_request_doctrine_none: "Has not started research on $TYPE$ yet."
  army_request_doctrine_title: "Land Doctrine Overview\n"
@@ -591,6 +611,8 @@
  asset_army_request_highest_pierce_result: "The most capable anti-tank unit has a piercing value of [?max_piercing]"
  asset_army_request_highest_armor_result: "The most capable tank unit has an armor value of [?max_armor]"
  asset_army_request_earned_traits: "$TRAIT$: $VAL$"
+ asset_air_request_air_location_result: "§Y[GetMostBuildArea]§!, with a total of [?highest_amount|Y0] Aircraft."
+ 
  
  air_request_doctrine_result: "Air Doctrine: $DOCTRINE$\n"
  air_request_doctrine_none: "Has not started research on Air Doctrines yet."
@@ -609,6 +631,7 @@
  asset_navy_request_navy_capacity_uses: "    - Unused: [?unused]"
  asset_navy_request_navy_assembly: "\nTotal Capital Shipyards: [?From.From.num_capital_shipyard]"
  asset_navy_request_navy_assembly_modifier: "    - Capacity per Shipyard: [?From.From.modifier@shipyard_capital_capacity]"
+ asset_navy_request_navy_location_result: "§Y[?highest_navy_region_id.GetName]§!, with a total of [?highest_amount|Y0] Ships."
  
  civilian_request_most_built_area: "Industrial Heart"
  civilian_request_most_built_area_desc: "Retrieve information about the most industrialized area of the country."
@@ -620,20 +643,36 @@
  army_request_highest_armor_desc: "Retrieve information about the most armored tank fielded."
  army_request_highest_pierce: "Highest Piercing Value"
  army_request_highest_pierce_desc: "Retrieve information about their most capable anti-tank weapon."
+ army_request_earned_mio: "Military Industrial Organisations Breakdown"
+ army_request_earned_mio_desc: "Retrieve information about their Military Industrial Organisations size and tasks."
+ 
  air_request_doctrine: "Air Doctrine Level"
  air_request_doctrine_desc: "Retrieve information about the level of their air doctrines."
  air_request_air_capacity: "Air Production Capacity"
  air_request_air_capacity_desc: "Retrieve information about their Air Production Capacity."
+ air_request_air_location: "Air Deployment"
+ air_request_air_location_desc: "Retrieve information about the region with the most aircraft deployed."
+ air_request_earned_mio: "Military Industrial Organisations Breakdown"
+ air_request_earned_mio_desc: "Retrieve information about their Military Industrial Organisations size and tasks."
+ 
  navy_request_doctrine: "Navy Doctrine Level"
  navy_request_doctrine_desc: "Retrieve information about the level of their navy doctrines."
  navy_request_csy_production: "Capital Shipyard Capacity"
  navy_request_csy_production_desc: "Retrieve information about their Capital Shipyard Capacity."
+ navy_request_navy_location: "Main Naval Base"
+ navy_request_navy_location_desc: "Retrieve information about the Naval Base with the most ships present."
+ navy_request_earned_mio: "Military Industrial Organisations Breakdown"
+ navy_request_earned_mio_desc: "Retrieve information about their Military Industrial Organisations size and tasks."
+ 
  
  asset_setting_resistance_sabotage_resources: "Prioritize Resource Sabotage"
  asset_setting_resistance_sabotage_industry: "Prioritize Industry Sabotage"
  subasset_resistance_sabotage: "Sabotaging Spree"
+ subasset_resistance_sabotage_desc: ""
  subasset_resistance_offensive: "Offensive Resistance Actions"
+ subasset_resistance_offensive_desc: ""
  subasset_resistance_defensive: "Defensive Resistance Actions"
+ subasset_resistance_defensive_desc: ""
  subasset_civilian_research_steal: "$operation_steal_tech_civilian$ Result"
  subasset_civilian_research_steal_desc: ""
  subasset_civilian_research_steal_tooltip: "[?PREV.research_steal_uses_civilian@ROOT|Y0] uses remaining\n[?PREV.research_steal_bonus_civilian@ROOT|G0%] bonus research speed\n[?PREV.research_steal_ahead_of_time_civilian@ROOT|C2] ahead of time bonus"
@@ -774,6 +813,14 @@
  resistance_damage_to_resources_duration: "£political_violence_texticon  Resistance Damage to Resources duration"
  resistance_operation_effect_in_our_states: "£political_violence_texticon  Resistance Operation Effect in our owned states"
 
+ operative_discover_civilian_asset: "Close to discovering Enemy Administration asset..."
+ operative_discover_civilian_asset_desc: ""
+ operative_discover_army_asset: "Close to discovering Enemy Army asset..."
+ operative_discover_army_asset_desc: ""
+ operative_discover_air_asset: "Close to discovering Enemy Airforce asset..."
+ operative_discover_air_asset_desc: ""
+ operative_discover_navy_asset: "Close to discovering Enemy Navy asset..."
+ operative_discover_navy_asset_desc: ""
  lar_operative_event.7.t: "[From.GetAdjective] Navy Asset found!"
  lar_operative_event.7.desc: "Today [This.GetName], tasked with Counter Intelligence against foreign threats, has successfully liquidated a [From.GetAdjective] intelligence asset operating inside our Naval Forces."
  lar_operative_event.7.a: "Understood"
@@ -824,3 +871,20 @@
  lar_operative_event.19.f: "[?From.attache_targets^5.GetName]"
  
  operative_linguist_tt: "Chance to acquire foreign Nationality: §G+20%§!"
+ 
+ lar_operative_event.100.t: "Fuel Silo Sabotaged!"
+ lar_operative_event.100.desc: "Enemy Operatives managed to evade our agents and sabotaged one of our fuel storage facilities."
+ lar_operative_event.101.t: "Oil Refinery Sabotaged!"
+ lar_operative_event.101.desc: "Enemy Operatives managed to evade our agents and sabotaged one of our oil refineries."
+ lar_operative_event.102.t: "Infrastructure Sabotaged!"
+ lar_operative_event.102.desc: "Enemy Operatives managed to evade our agents and sabotaged infrastructure."
+ lar_operative_event.103.t: "Radar Station Sabotaged!"
+ lar_operative_event.103.desc: "Enemy Operatives managed to evade our agents and sabotaged one of our radar stations."
+ lar_operative_event.104.t: "Naval Base Sabotaged!"
+ lar_operative_event.104.desc: "Enemy Operatives managed to evade our agents and sabotaged one of our naval bases."
+ lar_operative_event.105.t: "Military Attache injured!"
+ lar_operative_event.105.desc: "Enemy Operatives operating unlawfully on the territory of [?FROM.attache_target@ROOT.GetNameDef] managed to injure our military attache. He will take some time to recover from his wounds and resume his service."
+ lar_operative_event.106.t: "Military Attache killed!"
+ lar_operative_event.106.desc: "Enemy Operatives operating unlawfully on the territory of [?FROM.attache_target@ROOT.GetNameDef] managed to kill our military attache!"
+ lar_operative_event.105.tt: "Attache will have recovered from his injuries in [?FROM.operation_target_attache_damage@ROOT|Y0] days."
+ 

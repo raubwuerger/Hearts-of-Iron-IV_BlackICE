@@ -1,19 +1,19 @@
 ﻿l_english:
  ##############whenever you create new cosmetic tags, you'd wanna add them to common/scripted_effects/00_scripted_effects.txt
  GER_fascism:0 "German Reich"
- GER_fascism_DEF:0 "The German Reich"
+ GER_fascism_DEF:0 "the German Reich"
  GER_liberalism:0 "German Republic"
- GER_liberalism_DEF:0 "The German Republic"
+ GER_liberalism_DEF:0 "the German Republic"
  GER_conservatism:0 "German Republic"
- GER_conservatism_DEF:0 "The German Republic"
+ GER_conservatism_DEF:0 "the German Republic"
  GER_socialism:0 "German Republic"
- GER_socialism_DEF:0 "The German Republic"
+ GER_socialism_DEF:0 "the German Republic"
  GER_neutrality:1 "German Empire" #Germany
  GER_neutrality_DEF:1 "The German Empire" #Germany
  GER_communism:0 "Socialist Republic of Germany"
- GER_communism_DEF:0 "The Socialist Republic of Germany"
+ GER_communism_DEF:0 "the Socialist Republic of Germany"
  GER_monarchism:0 "German Empire"
- GER_monarchism_DEF:0 "The German Empire"
+ GER_monarchism_DEF:0 "the German Empire"
  GER_monarchism_ADJ:0 "German"
  GER_fascism_ADJ:0 "German"
  GER_neutrality_ADJ:0 "German"
@@ -22,19 +22,19 @@
  GER_liberalism_ADJ:0 "German"
  GER_socialism_ADJ:0 "German"
  CIV_fascism:0 "Civilians"
- CIV_fascism_DEF:0 "The Civilian Population"
+ CIV_fascism_DEF:0 "the Civilian Population"
  CIV_liberalism:0 "Civilians"
- CIV_liberalism_DEF:0 "The Civilian Population"
+ CIV_liberalism_DEF:0 "the Civilian Population"
  CIV_conservatism:0 "Civilians"
- CIV_conservatism_DEF:0 "The Civilian Population"
+ CIV_conservatism_DEF:0 "the Civilian Population"
  CIV_socialism:0 "Civilians"
- CIV_socialism_DEF:0 "The Civilian Population"
+ CIV_socialism_DEF:0 "the Civilian Population"
  CIV_neutrality:1 "Civilians"
  CIV_neutrality_DEF:1 "The Civilian Population"
  CIV_communism:0 "Civilians"
- CIV_communism_DEF:0 "The Civilian Population"
+ CIV_communism_DEF:0 "the Civilian Population"
  CIV_monarchism:0 "Civilians"
- CIV_monarchism_DEF:0 "The Civilian Population"
+ CIV_monarchism_DEF:0 "the Civilian Population"
  CIV_fascism_ADJ:0 "Civilian"
  CIV_neutrality_ADJ:0 "Civilian"
  CIV_communism_ADJ:0 "Civilian"
@@ -43,19 +43,19 @@
  CIV_socialism_ADJ:0 "Civilian"
  CIV_monarchism_ADJ:0 "Civilian"
  ENG_fascism:0 "British Empire"
- ENG_fascism_DEF:0 "The British Empire"
+ ENG_fascism_DEF:0 "the British Empire"
  ENG_conservatism:0 "United Kingdom"
- ENG_conservatism_DEF:0 "The United Kingdom"
+ ENG_conservatism_DEF:0 "the United Kingdom"
  ENG_liberalism:0 "United Kingdom"
- ENG_liberalism_DEF:0 "The United Kingdom"
+ ENG_liberalism_DEF:0 "the United Kingdom"
  ENG_socialism:0 "United Kingdom"
- ENG_socialism_DEF:0 "The United Kingdom"
+ ENG_socialism_DEF:0 "the United Kingdom"
  ENG_neutrality:0 "United Kingdom" #Great Britain
- ENG_neutrality_DEF:0 "The United Kingdom" #Great Britain
+ ENG_neutrality_DEF:0 "the United Kingdom" #Great Britain
  ENG_communism:0 "United Republic" #Union of Britain
- ENG_communism_DEF:0 "The United Republic" #The Union of Britain
+ ENG_communism_DEF:0 "the United Republic" #The Union of Britain
  ENG_monarchism:0 "British Empire"
- ENG_monarchism_DEF:0 "The British Empire"
+ ENG_monarchism_DEF:0 "the British Empire"
  ENG_monarchism_ADJ:0 "British"
  ENG_fascism_ADJ:0 "British"
  ENG_neutrality_ADJ:0 "British"
@@ -64,35 +64,35 @@
  ENG_liberalism_ADJ:0 "British"
  ENG_socialism_ADJ:0 "British"
  RUS_EMPIRE_neutrality:0 "Russian Empire" #Russia
- RUS_EMPIRE_neutrality_DEF:0 "The Russian Empire" #Russia
+ RUS_EMPIRE_neutrality_DEF:0 "the Russian Empire" #Russia
  RUS_EMPIRE_monarchism:0 "Russian Empire"
- RUS_EMPIRE_monarchism_DEF:0 "The Russian Empire"
+ RUS_EMPIRE_monarchism_DEF:0 "the Russian Empire"
  RUS_EMPIRE_fascism:0 "Russian Empire"
- RUS_EMPIRE_fascism_DEF:0 "The Russian Empire"
+ RUS_EMPIRE_fascism_DEF:0 "the Russian Empire"
  RUS_EMPIRE_democratic:0 "Russian Federation"
- RUS_EMPIRE_democratic_DEF:0 "The Russian Federation"
+ RUS_EMPIRE_democratic_DEF:0 "the Russian Federation"
  RUS_EMPIRE_conservatism:0 "Russian Federation"
- RUS_EMPIRE_conservatism_DEF:0 "The Russian Federation"
+ RUS_EMPIRE_conservatism_DEF:0 "the Russian Federation"
  RUS_EMPIRE_liberalism:0 "Russian Federation"
- RUS_EMPIRE_liberalism_DEF:0 "The Russian Federation"
+ RUS_EMPIRE_liberalism_DEF:0 "the Russian Federation"
  RUS_EMPIRE_socialism:0 "Russian Federation"
- RUS_EMPIRE_socialism_DEF:0 "The Russian Federation"
+ RUS_EMPIRE_socialism_DEF:0 "the Russian Federation"
  RUS_EMPIRE_communism:0 "Soviet Union"
- RUS_EMPIRE_communism_DEF:0 "The Union of Soviet Socialist Republics"
+ RUS_EMPIRE_communism_DEF:0 "the Union of Soviet Socialist Republics"
  RUS_fascism:0 "Russian State" #Russian Empire
- RUS_fascism_DEF:0 "The Russian State" #The Russian Empire
+ RUS_fascism_DEF:0 "the Russian State" #The Russian Empire
  RUS_socialism:0 "Russian Federation"
- RUS_socialism_DEF:0 "The Russian Federation"
+ RUS_socialism_DEF:0 "the Russian Federation"
  RUS_conservatism:0 "Russian Federation"
- RUS_conservatism_DEF:0 "The Russian Federation"
+ RUS_conservatism_DEF:0 "the Russian Federation"
  RUS_liberalism:0 "Russian Federation"
- RUS_liberalism_DEF:0 "The Russian Federation"
+ RUS_liberalism_DEF:0 "the Russian Federation"
  RUS_neutrality:0 "Russian Republic" #Russia
- RUS_neutrality_DEF:0 "The Russian Republic" #Russia
+ RUS_neutrality_DEF:0 "the Russian Republic" #Russia
  RUS_monarchism:0 "Russian Empire"
- RUS_monarchism_DEF:0 "The Russian Empire"
+ RUS_monarchism_DEF:0 "the Russian Empire"
  RUS_communism:0 "Soviet Union"
- RUS_communism_DEF:0 "The Union of Soviet Socialist Republics" #The Soviet Union
+ RUS_communism_DEF:0 "the Union of Soviet Socialist Republics" #The Soviet Union
  RUS_fascism_ADJ:0 "Russian"
  RUS_neutrality_ADJ:0 "Russian"
  RUS_socialism_ADJ:0 "Russian"
@@ -101,19 +101,19 @@
  RUS_monarchism_ADJ:0 "Russian"
  RUS_communism_ADJ:0 "Soviet"
  SOV_fascism:0 "Russian State" #Russian Empire
- SOV_fascism_DEF:0 "The Russian State" #The Russian Empire
+ SOV_fascism_DEF:0 "the Russian State" #The Russian Empire
  SOV_socialism:0 "Russian Federation"
- SOV_socialism_DEF:0 "The Russian Federation"
+ SOV_socialism_DEF:0 "the Russian Federation"
  SOV_conservatism:0 "Russian Federation"
- SOV_conservatism_DEF:0 "The Russian Federation"
+ SOV_conservatism_DEF:0 "the Russian Federation"
  SOV_liberalism:0 "Russian Federation"
- SOV_liberalism_DEF:0 "The Russian Federation"
+ SOV_liberalism_DEF:0 "the Russian Federation"
  SOV_neutrality:0 "Russian Republic" #Russia
  SOV_neutrality_DEF:0 "Russian Republic" #Russia
  SOV_monarchism:0 "Russian Empire"
- SOV_monarchism_DEF:0 "The Russian Empire"
+ SOV_monarchism_DEF:0 "the Russian Empire"
  SOV_communism:0 "Soviet Union"
- SOV_communism_DEF:0 "The Union of Soviet Socialist Republics" #The Soviet Union
+ SOV_communism_DEF:0 "the Union of Soviet Socialist Republics" #The Soviet Union
  SOV_fascism_ADJ:0 "Russian"
  SOV_neutrality_ADJ:0 "Russian"
  SOV_socialism_ADJ:0 "Russian"
@@ -122,19 +122,19 @@
  SOV_monarchism_ADJ:0 "Russian"
  SOV_communism_ADJ:0 "Soviet"
  USA_fascism:0 "American Empire" #Free American Empire
- USA_fascism_DEF:0 "The American Empire" #The Free American Empire
+ USA_fascism_DEF:0 "the American Empire" #The Free American Empire
  USA_conservatism:0 "Free States" #don't worry, these are only used for civil war countries, like D02
- USA_conservatism_DEF:0 "The Free States of America" #The United States
+ USA_conservatism_DEF:0 "the Free States of America" #The United States
  USA_liberalism:0 "Free States" #don't worry, these are only used for civil war countries, like D02
- USA_liberalism_DEF:0 "The Free States of America" #The United States
+ USA_liberalism_DEF:0 "the Free States of America" #The United States
  USA_socialism:0 "Free States" #don't worry, these are only used for civil war countries, like D02
- USA_socialism_DEF:0 "The Free States of America" #The United States
+ USA_socialism_DEF:0 "the Free States of America" #The United States
  USA_neutrality:0 "Confederate States"
- USA_neutrality_DEF:0 "The Confederate States of America"
+ USA_neutrality_DEF:0 "the Confederate States of America"
  USA_communism:0 "Socialist States of America" #Communist States of America
- USA_communism_DEF:0 "The Socialist States of America" #The Communist States of America 
+ USA_communism_DEF:0 "the Socialist States of America" #The Communist States of America 
  USA_monarchism:0 "American Empire" #Napoleonian style empire
- USA_monarchism_DEF:0 "The American Empire"
+ USA_monarchism_DEF:0 "the American Empire"
  USA_fascism_ADJ:0 "American"
  USA_neutrality_ADJ:0 "Confederate" #American
  USA_communism_ADJ:0 "American"
@@ -143,147 +143,147 @@
  USA_socialism_ADJ:0 "American"
  USA_monarchism_ADJ:0 "American"
  USA_13_fascism:0 "United States" #Free American Empire
- USA_13_fascism_DEF:0 "The United States of America" #The Free American Empire
+ USA_13_fascism_DEF:0 "the United States of America" #The Free American Empire
  USA_13_conservatism:0 "United States"
- USA_13_conservatism_DEF:0 "The United States of America" #The United States
+ USA_13_conservatism_DEF:0 "the United States of America" #The United States
  USA_13_liberalism:0 "United States"
- USA_13_liberalism_DEF:0 "The United States of America" #The United States
+ USA_13_liberalism_DEF:0 "the United States of America" #The United States
  USA_13_socialism:0 "United States"
- USA_13_socialism_DEF:0 "The United States of America" #The United States
+ USA_13_socialism_DEF:0 "the United States of America" #The United States
  USA_13_neutrality:0 "United States"
- USA_13_neutrality_DEF:0 "The United States of America"
+ USA_13_neutrality_DEF:0 "the United States of America"
  USA_13_communism:0 "United States" #Communist States of America
- USA_13_communism_DEF:0 "The United States of America" #The Communist States of America 
+ USA_13_communism_DEF:0 "the United States of America" #The Communist States of America 
  USA_13_monarchism:0 "United States"
- USA_13_monarchism_DEF:0 "The United States of America"
+ USA_13_monarchism_DEF:0 "the United States of America"
  USA_48_fascism:0 "United States" #Free American Empire
- USA_48_fascism_DEF:0 "The United States of America" #The Free American Empire
+ USA_48_fascism_DEF:0 "the United States of America" #The Free American Empire
  USA_48_conservatism:0 "United States"
- USA_48_conservatism_DEF:0 "The United States of America" #The United States
+ USA_48_conservatism_DEF:0 "the United States of America" #The United States
  USA_48_liberalism:0 "United States"
- USA_48_liberalism_DEF:0 "The United States of America" #The United States
+ USA_48_liberalism_DEF:0 "the United States of America" #The United States
  USA_48_socialism:0 "United States"
- USA_48_socialism_DEF:0 "The United States of America" #The United States
+ USA_48_socialism_DEF:0 "the United States of America" #The United States
  USA_48_neutrality:0 "United States"
- USA_48_neutrality_DEF:0 "The United States of America"
+ USA_48_neutrality_DEF:0 "the United States of America"
  USA_48_communism:0 "United States" #Communist States of America
- USA_48_communism_DEF:0 "The United States of America" #The Communist States of America 
+ USA_48_communism_DEF:0 "the United States of America" #The Communist States of America 
  USA_48_monarchism:0 "United States"
- USA_48_monarchism_DEF:0 "The United States of America"
+ USA_48_monarchism_DEF:0 "the United States of America"
  USA_49_fascism:0 "United States" #Free American Empire
- USA_49_fascism_DEF:0 "The United States of America" #The Free American Empire
+ USA_49_fascism_DEF:0 "the United States of America" #The Free American Empire
  USA_49_conservatism:0 "United States"
- USA_49_conservatism_DEF:0 "The United States of America" #The United States
+ USA_49_conservatism_DEF:0 "the United States of America" #The United States
  USA_49_liberalism:0 "United States"
- USA_49_liberalism_DEF:0 "The United States of America" #The United States
+ USA_49_liberalism_DEF:0 "the United States of America" #The United States
  USA_49_socialism:0 "United States"
- USA_49_socialism_DEF:0 "The United States of America" #The United States
+ USA_49_socialism_DEF:0 "the United States of America" #The United States
  USA_49_neutrality:0 "United States"
- USA_49_neutrality_DEF:0 "The United States of America"
+ USA_49_neutrality_DEF:0 "the United States of America"
  USA_49_communism:0 "United States" #Communist States of America
- USA_49_communism_DEF:0 "The United States of America" #The Communist States of America 
+ USA_49_communism_DEF:0 "the United States of America" #The Communist States of America 
  USA_49_monarchism:0 "United States"
- USA_49_monarchism_DEF:0 "The United States of America"
+ USA_49_monarchism_DEF:0 "the United States of America"
  USA_50_fascism:0 "United States" #Free American Empire
- USA_50_fascism_DEF:0 "The United States of America" #The Free American Empire
+ USA_50_fascism_DEF:0 "the United States of America" #The Free American Empire
  USA_50_conservatism:0 "United States"
- USA_50_conservatism_DEF:0 "The United States of America" #The United States
+ USA_50_conservatism_DEF:0 "the United States of America" #The United States
  USA_50_liberalism:0 "United States"
- USA_50_liberalism_DEF:0 "The United States of America" #The United States
+ USA_50_liberalism_DEF:0 "the United States of America" #The United States
  USA_50_socialism:0 "United States"
- USA_50_socialism_DEF:0 "The United States of America" #The United States
+ USA_50_socialism_DEF:0 "the United States of America" #The United States
  USA_50_neutrality:0 "United States"
- USA_50_neutrality_DEF:0 "The United States of America"
+ USA_50_neutrality_DEF:0 "the United States of America"
  USA_50_communism:0 "United States" #Communist States of America
- USA_50_communism_DEF:0 "The United States of America" #The Communist States of America 
+ USA_50_communism_DEF:0 "the United States of America" #The Communist States of America 
  USA_50_monarchism:0 "United States"
- USA_50_monarchism_DEF:0 "The United States of America"
+ USA_50_monarchism_DEF:0 "the United States of America"
  USA_51_fascism:0 "United States" #Free American Empire
- USA_51_fascism_DEF:0 "The United States of America" #The Free American Empire
+ USA_51_fascism_DEF:0 "the United States of America" #The Free American Empire
  USA_51_conservatism:0 "United States"
- USA_51_conservatism_DEF:0 "The United States of America" #The United States
+ USA_51_conservatism_DEF:0 "the United States of America" #The United States
  USA_51_liberalism:0 "United States"
- USA_51_liberalism_DEF:0 "The United States of America" #The United States
+ USA_51_liberalism_DEF:0 "the United States of America" #The United States
  USA_51_socialism:0 "United States"
- USA_51_socialism_DEF:0 "The United States of America" #The United States
+ USA_51_socialism_DEF:0 "the United States of America" #The United States
  USA_51_neutrality:0 "United States"
- USA_51_neutrality_DEF:0 "The United States of America"
+ USA_51_neutrality_DEF:0 "the United States of America"
  USA_51_communism:0 "United States" #Communist States of America
- USA_51_communism_DEF:0 "The United States of America" #The Communist States of America 
+ USA_51_communism_DEF:0 "the United States of America" #The Communist States of America 
  USA_51_monarchism:0 "United States"
- USA_51_monarchism_DEF:0 "The United States of America"
+ USA_51_monarchism_DEF:0 "the United States of America"
  USA_52_fascism:0 "United States" #Free American Empire
- USA_52_fascism_DEF:0 "The United States of America" #The Free American Empire
+ USA_52_fascism_DEF:0 "the United States of America" #The Free American Empire
  USA_52_conservatism:0 "United States"
- USA_52_conservatism_DEF:0 "The United States of America" #The United States
+ USA_52_conservatism_DEF:0 "the United States of America" #The United States
  USA_52_liberalism:0 "United States"
- USA_52_liberalism_DEF:0 "The United States of America" #The United States
+ USA_52_liberalism_DEF:0 "the United States of America" #The United States
  USA_52_socialism:0 "United States"
- USA_52_socialism_DEF:0 "The United States of America" #The United States
+ USA_52_socialism_DEF:0 "the United States of America" #The United States
  USA_52_neutrality:0 "United States"
- USA_52_neutrality_DEF:0 "The United States of America"
+ USA_52_neutrality_DEF:0 "the United States of America"
  USA_52_communism:0 "United States" #Communist States of America
- USA_52_communism_DEF:0 "The United States of America" #The Communist States of America 
+ USA_52_communism_DEF:0 "the United States of America" #The Communist States of America 
  USA_52_monarchism:0 "United States"
- USA_52_monarchism_DEF:0 "The United States of America"
+ USA_52_monarchism_DEF:0 "the United States of America"
  USA_53_fascism:0 "United States" #Free American Empire
- USA_53_fascism_DEF:0 "The United States of America" #The Free American Empire
+ USA_53_fascism_DEF:0 "the United States of America" #The Free American Empire
  USA_53_conservatism:0 "United States"
- USA_53_conservatism_DEF:0 "The United States of America" #The United States
+ USA_53_conservatism_DEF:0 "the United States of America" #The United States
  USA_53_liberalism:0 "United States"
- USA_53_liberalism_DEF:0 "The United States of America" #The United States
+ USA_53_liberalism_DEF:0 "the United States of America" #The United States
  USA_53_socialism:0 "United States"
- USA_53_socialism_DEF:0 "The United States of America" #The United States
+ USA_53_socialism_DEF:0 "the United States of America" #The United States
  USA_53_neutrality:0 "United States"
- USA_53_neutrality_DEF:0 "The United States of America"
+ USA_53_neutrality_DEF:0 "the United States of America"
  USA_53_communism:0 "United States" #Communist States of America
- USA_53_communism_DEF:0 "The United States of America" #The Communist States of America 
+ USA_53_communism_DEF:0 "the United States of America" #The Communist States of America 
  USA_53_monarchism:0 "United States"
- USA_53_monarchism_DEF:0 "The United States of America"
+ USA_53_monarchism_DEF:0 "the United States of America"
  USA_54_fascism:0 "United States" #Free American Empire
- USA_54_fascism_DEF:0 "The United States of America" #The Free American Empire
+ USA_54_fascism_DEF:0 "the United States of America" #The Free American Empire
  USA_54_conservatism:0 "United States"
- USA_54_conservatism_DEF:0 "The United States of America" #The United States
+ USA_54_conservatism_DEF:0 "the United States of America" #The United States
  USA_54_liberalism:0 "United States"
- USA_54_liberalism_DEF:0 "The United States of America" #The United States
+ USA_54_liberalism_DEF:0 "the United States of America" #The United States
  USA_54_socialism:0 "United States"
- USA_54_socialism_DEF:0 "The United States of America" #The United States
+ USA_54_socialism_DEF:0 "the United States of America" #The United States
  USA_54_neutrality:0 "United States"
- USA_54_neutrality_DEF:0 "The United States of America"
+ USA_54_neutrality_DEF:0 "the United States of America"
  USA_54_communism:0 "United States" #Communist States of America
- USA_54_communism_DEF:0 "The United States of America" #The Communist States of America 
+ USA_54_communism_DEF:0 "the United States of America" #The Communist States of America 
  USA_54_monarchism:0 "United States"
- USA_54_monarchism_DEF:0 "The United States of America"
+ USA_54_monarchism_DEF:0 "the United States of America"
  USA_55_fascism:0 "United States" #Free American Empire
- USA_55_fascism_DEF:0 "The United States of America" #The Free American Empire
+ USA_55_fascism_DEF:0 "the United States of America" #The Free American Empire
  USA_55_conservatism:0 "United States"
- USA_55_conservatism_DEF:0 "The United States of America" #The United States
+ USA_55_conservatism_DEF:0 "the United States of America" #The United States
  USA_55_liberalism:0 "United States"
- USA_55_liberalism_DEF:0 "The United States of America" #The United States
+ USA_55_liberalism_DEF:0 "the United States of America" #The United States
  USA_55_socialism:0 "United States"
- USA_55_socialism_DEF:0 "The United States of America" #The United States
+ USA_55_socialism_DEF:0 "the United States of America" #The United States
  USA_55_neutrality:0 "United States"
- USA_55_neutrality_DEF:0 "The United States of America"
+ USA_55_neutrality_DEF:0 "the United States of America"
  USA_55_communism:0 "United States" #Communist States of America
- USA_55_communism_DEF:0 "The United States of America" #The Communist States of America 
+ USA_55_communism_DEF:0 "the United States of America" #The Communist States of America 
  USA_55_monarchism:0 "United States"
- USA_55_monarchism_DEF:0 "The United States of America"
+ USA_55_monarchism_DEF:0 "the United States of America"
  USA_56_fascism:0 "United States" #Free American Empire
- USA_56_fascism_DEF:0 "The United States of America" #The Free American Empire
+ USA_56_fascism_DEF:0 "the United States of America" #The Free American Empire
  USA_56_conservatism:0 "United States"
- USA_56_conservatism_DEF:0 "The United States of America" #The United States
+ USA_56_conservatism_DEF:0 "the United States of America" #The United States
  USA_56_liberalism:0 "United States"
- USA_56_liberalism_DEF:0 "The United States of America" #The United States
+ USA_56_liberalism_DEF:0 "the United States of America" #The United States
  USA_56_socialism:0 "United States"
- USA_56_socialism_DEF:0 "The United States of America" #The United States
+ USA_56_socialism_DEF:0 "the United States of America" #The United States
  USA_56_neutrality:0 "United States"
- USA_56_neutrality_DEF:0 "The United States of America"
+ USA_56_neutrality_DEF:0 "the United States of America"
  USA_56_communism:0 "United States" #Communist States of America
- USA_56_communism_DEF:0 "The United States of America" #The Communist States of America 
+ USA_56_communism_DEF:0 "the United States of America" #The Communist States of America 
  USA_56_monarchism:0 "United States"
- USA_56_monarchism_DEF:0 "The United States of America"
+ USA_56_monarchism_DEF:0 "the United States of America"
  SWE_fascism:0 "Swedish Empire" #Swedish State #Svea Rike
- SWE_fascism_DEF:0 "The Swedish Empire" #The Swedish State #Svea Rike
+ SWE_fascism_DEF:0 "the Swedish Empire" #The Swedish State #Svea Rike
  SWE_socialism:0 "Sweden"
  SWE_socialism_DEF:0 "Sweden"
  SWE_conservatism:0 "Sweden"
@@ -291,11 +291,11 @@
  SWE_liberalism:0 "Sweden"
  SWE_liberalism_DEF:0 "Sweden"
  SWE_neutrality:0 "Kingdom of Sweden"
- SWE_neutrality_DEF:0 "The Kingdom of Sweden"
+ SWE_neutrality_DEF:0 "the Kingdom of Sweden"
  SWE_communism:0 "Swedish Democratic Republic" #Folkhemmet
- SWE_communism_DEF:0 "The Swedish Democratic Republic" #Folkhemmet
+ SWE_communism_DEF:0 "the Swedish Democratic Republic" #Folkhemmet
  SWE_monarchism:0 "Kingdom of Sweden"
- SWE_monarchism_DEF:0 "The Kingdom of Sweden"
+ SWE_monarchism_DEF:0 "the Kingdom of Sweden"
  SWE_monarchism_ADJ:0 "Swedish"
  SWE_fascism_ADJ:0 "Swedish"
  SWE_neutrality_ADJ:0 "Swedish"
@@ -306,17 +306,17 @@
  VIC_fascism:0 "Vichy France"
  VIC_fascism_DEF:0 "Vichy France"
  VIC_conservatism:0 "Republic of Vichy"
- VIC_conservatism_DEF:0 "The Republic of Vichy"
+ VIC_conservatism_DEF:0 "the Republic of Vichy"
  VIC_liberalism:0 "Republic of Vichy"
- VIC_liberalism_DEF:0 "The Republic of Vichy"
+ VIC_liberalism_DEF:0 "the Republic of Vichy"
  VIC_socialism:0 "Republic of Vichy"
- VIC_socialism_DEF:0 "The Republic of Vichy"
+ VIC_socialism_DEF:0 "the Republic of Vichy"
  VIC_neutrality:0 "Vichy France"
  VIC_neutrality_DEF:0 "Vichy France" #The Vichy France
  VIC_communism:0 "Vichy Commune"
- VIC_communism_DEF:0 "The Vichy Commune"
+ VIC_communism_DEF:0 "the Vichy Commune"
  VIC_monarchism:0 "French Empire"
- VIC_monarchism_DEF:0 "The French Empire"
+ VIC_monarchism_DEF:0 "the French Empire"
  VIC_fascism_ADJ:0 "Vichy French"
  VIC_neutrality_ADJ:0 "Vichy French"
  VIC_communism_ADJ:0 "Vichy French"
@@ -329,19 +329,19 @@
  VIX_neutrality:0 "Colonies of Vichy France"
  VIX_neutrality_DEF:0 "Colonies of Vichy France"
  FRA_fascism:0 "French State"
- FRA_fascism_DEF:0 "The French State"
+ FRA_fascism_DEF:0 "the French State"
  FRA_conservatism:0 "French Republic" #France
- FRA_conservatism_DEF:0 "The French Republic" #France
+ FRA_conservatism_DEF:0 "the French Republic" #France
  FRA_liberalism:0 "French Republic" #France
- FRA_liberalism_DEF:0 "The French Republic" #France
+ FRA_liberalism_DEF:0 "the French Republic" #France
  FRA_socialism:0 "French Republic" #France
- FRA_socialism_DEF:0 "The French Republic" #France
+ FRA_socialism_DEF:0 "the French Republic" #France
  FRA_neutrality:0 "French Republic" #France
- FRA_neutrality_DEF:0 "The French Republic"
+ FRA_neutrality_DEF:0 "the French Republic"
  FRA_communism:0 "French Popular Republic" #French Commune
- FRA_communism_DEF:0 "The French Popular Republic" #The French Commune
+ FRA_communism_DEF:0 "the French Popular Republic" #The French Commune
  FRA_monarchism:0 "French Empire"
- FRA_monarchism_DEF:0 "The French Empire"
+ FRA_monarchism_DEF:0 "the French Empire"
  FRA_fascism_ADJ:0 "French"
  FRA_neutrality_ADJ:0 "French"
  FRA_communism_ADJ:0 "French"
@@ -350,19 +350,19 @@
  FRA_socialism_ADJ:0 "French"
  FRA_monarchism_ADJ:0 "French" 
  LUX_fascism:0 "Grand Duchy of Luxembourg" #Luxembourg
- LUX_fascism_DEF:0 "The Grand Duchy of Luxembourg" #Luxembourg
+ LUX_fascism_DEF:0 "the Grand Duchy of Luxembourg" #Luxembourg
  LUX_socialism:0 "Grand Duchy of Luxembourg" #Luxembourg
- LUX_socialism_DEF:0 "The Grand Duchy of Luxembourg" #Luxembourg
+ LUX_socialism_DEF:0 "the Grand Duchy of Luxembourg" #Luxembourg
  LUX_conservatism:0 "Grand Duchy of Luxembourg" #Luxembourg
- LUX_conservatism_DEF:0 "The Grand Duchy of Luxembourg" #Luxembourg
+ LUX_conservatism_DEF:0 "the Grand Duchy of Luxembourg" #Luxembourg
  LUX_liberalism:0 "Grand Duchy of Luxembourg" #Luxembourg
- LUX_liberalism_DEF:0 "The Grand Duchy of Luxembourg" #Luxembourg
+ LUX_liberalism_DEF:0 "the Grand Duchy of Luxembourg" #Luxembourg
  LUX_neutrality:0 "Grand Duchy of Luxembourg"
- LUX_neutrality_DEF:0 "The Grand Duchy of Luxembourg"
+ LUX_neutrality_DEF:0 "the Grand Duchy of Luxembourg"
  LUX_communism:0 "People's Republic of Luxembourg" #Rosa Luxembourg
- LUX_communism_DEF:0 "The People's Republic of Luxembourg" #Rosa Luxembourg
+ LUX_communism_DEF:0 "the People's Republic of Luxembourg" #Rosa Luxembourg
  LUX_monarchism:0 "Grand Duchy of Luxembourg"
- LUX_monarchism_DEF:0 "The Grand Duchy of Luxembourg"
+ LUX_monarchism_DEF:0 "the Grand Duchy of Luxembourg"
  LUX_monarchism_ADJ:0 "Luxembourger" 
  LUX_fascism_ADJ:0 "Luxembourger"
  LUX_neutrality_ADJ:0 "Luxembourger"
@@ -381,9 +381,9 @@
  BEL_neutrality:0 "Belgium"
  BEL_neutrality_DEF:0 "Belgium"
  BEL_communism:0 "Socialist Republic of Belgium" #Co-operative of Belgium
- BEL_communism_DEF:0 "The Socialist Republic of Belgium" #The Co-operative of Belgium
+ BEL_communism_DEF:0 "the Socialist Republic of Belgium" #The Co-operative of Belgium
  BEL_monarchism:0 "Kingdom of Belgium"
- BEL_monarchism_DEF:0 "The Kingdom of Belgium"
+ BEL_monarchism_DEF:0 "the Kingdom of Belgium"
  BEL_monarchism_ADJ:0 "Belgian"
  BEL_fascism_ADJ:0 "Belgian"
  BEL_neutrality_ADJ:0 "Belgian"
@@ -394,17 +394,17 @@
  HOL_fascism:0 "Groot-Nederland" #Groot-Nederland
  HOL_fascism_DEF:0 "Groot-Nederland" #Groot-Nederland
  HOL_socialism:0 "Netherlands"
- HOL_socialism_DEF:0 "The Netherlands"
+ HOL_socialism_DEF:0 "the Netherlands"
  HOL_conservatism:0 "Netherlands"
- HOL_conservatism_DEF:0 "The Netherlands"
+ HOL_conservatism_DEF:0 "the Netherlands"
  HOL_liberalism:0 "Netherlands"
- HOL_liberalism_DEF:0 "The Netherlands"
+ HOL_liberalism_DEF:0 "the Netherlands"
  HOL_neutrality:0 "Kingdom of the Netherlands"
- HOL_neutrality_DEF:0 "The Kingdom of the Netherlands"
+ HOL_neutrality_DEF:0 "the Kingdom of the Netherlands"
  HOL_communism:0 "People's Republic of the Netherlands" #People's United Provinces
- HOL_communism_DEF:0 "The People's Republic of the Netherlands" #The People's United Provinces
+ HOL_communism_DEF:0 "the People's Republic of the Netherlands" #The People's United Provinces
  HOL_monarchism:0 "Kingdom of the Netherlands"
- HOL_monarchism_DEF:0 "The Kingdom of the Netherlands"
+ HOL_monarchism_DEF:0 "the Kingdom of the Netherlands"
  HOL_monarchism_ADJ:0 "Dutch"
  HOL_fascism_ADJ:0 "Dutch"
  HOL_neutrality_ADJ:0 "Dutch"
@@ -413,19 +413,19 @@
  HOL_conservatism_ADJ:0 "Dutch"
  HOL_liberalism_ADJ:0 "Dutch"
  CZE_fascism:0 "Protectorate of Bohemia and Moravia" #Bohemian Empire
- CZE_fascism_DEF:0 "The Protectorate of Bohemia and Moravia" #The Bohemian Empire
+ CZE_fascism_DEF:0 "the Protectorate of Bohemia and Moravia" #The Bohemian Empire
  CZE_conservatism:0 "Czechoslovak Republic" #Czechoslovakia
- CZE_conservatism_DEF:0 "The Czechoslovak Republic" #Czechoslovakia
+ CZE_conservatism_DEF:0 "the Czechoslovak Republic" #Czechoslovakia
  CZE_socialism:0 "Czechoslovak Republic" #Czechoslovakia
- CZE_socialism_DEF:0 "The Czechoslovak Republic" #Czechoslovakia
+ CZE_socialism_DEF:0 "the Czechoslovak Republic" #Czechoslovakia
  CZE_liberalism:0 "Czechoslovak Republic" #Czechoslovakia
- CZE_liberalism_DEF:0 "The Czechoslovak Republic" #Czechoslovakia
+ CZE_liberalism_DEF:0 "the Czechoslovak Republic" #Czechoslovakia
  CZE_neutrality:0 "Czechoslovak Republic" #Kingdom of Bohemia
- CZE_neutrality_DEF:0 "The Czechoslovak Republic" #The Kingdom of Bohemia
+ CZE_neutrality_DEF:0 "the Czechoslovak Republic" #The Kingdom of Bohemia
  CZE_communism:0 "Czechoslovak Socialist Republic"
- CZE_communism_DEF:0 "The Czechoslovak Socialist Republic"
+ CZE_communism_DEF:0 "the Czechoslovak Socialist Republic"
  CZE_monarchism:0 "Kingdom of Czechoslovakia" #Kingdom of Czechslovakia
- CZE_monarchism_DEF:0 "The Kingdom of Czechoslovakia" #The Kingdom of Czechslovakia
+ CZE_monarchism_DEF:0 "the Kingdom of Czechoslovakia" #The Kingdom of Czechslovakia
  CZE_monarchism_ADJ:0 "Czechoslovakian" #Czechslovakian
  CZE_fascism_ADJ:0 "Czechoslovakian"
  CZE_neutrality_ADJ:0 "Czechoslovakian"
@@ -434,19 +434,19 @@
  CZE_socialism_ADJ:0 "Czechoslovakian"
  CZE_liberalism_ADJ:0 "Czechoslovakian"
  POL_fascism:0 "Republic of Poland" #Falangist Poland
- POL_fascism_DEF:0 "The Republic of Poland" #Falangist Poland
+ POL_fascism_DEF:0 "the Republic of Poland" #Falangist Poland
  POL_conservatism:0 "Republic of Poland"
- POL_conservatism_DEF:0 "The Republic of Poland"
+ POL_conservatism_DEF:0 "the Republic of Poland"
  POL_socialism:0 "Republic of Poland"
- POL_socialism_DEF:0 "The Republic of Poland"
+ POL_socialism_DEF:0 "the Republic of Poland"
  POL_liberalism:0 "Republic of Poland"
- POL_liberalism_DEF:0 "The Republic of Poland"
+ POL_liberalism_DEF:0 "the Republic of Poland"
  POL_communism:0 "Polish People's Republic"
- POL_communism_DEF:0 "The Polish People's Republic"
+ POL_communism_DEF:0 "the Polish People's Republic"
  POL_neutrality:0 "Republic of Poland" #Poland
- POL_neutrality_DEF:0 "The Republic of Poland" #Poland
+ POL_neutrality_DEF:0 "the Republic of Poland" #Poland
  POL_monarchism:0 "Kingdom of Poland"
- POL_monarchism_DEF:0 "The Kingdom of Poland"
+ POL_monarchism_DEF:0 "the Kingdom of Poland"
  POL_monarchism_ADJ:0 "Polish"
  POL_fascism_ADJ:0 "Polish"
  POL_communism_ADJ:0 "Polish"
@@ -455,19 +455,19 @@
  POL_liberalism_ADJ:0 "Polish"
  POL_socialism_ADJ:0 "Polish"
  AUS_fascism:0 "State of Austria" #Deutschsozialen Austria
- AUS_fascism_DEF:0 "The State of Austria" #Deutschsozialen Austria
+ AUS_fascism_DEF:0 "the State of Austria" #Deutschsozialen Austria
  AUS_neutrality:0 "Federal State of Austria" #Austria
- AUS_neutrality_DEF:0 "The Federal State of Austria" #Austria
+ AUS_neutrality_DEF:0 "the Federal State of Austria" #Austria
  AUS_conservatism:0 "Republic of Austria"
- AUS_conservatism_DEF:0 "The Republic of Austria"
+ AUS_conservatism_DEF:0 "the Republic of Austria"
  AUS_liberalism:0 "Republic of Austria"
- AUS_liberalism_DEF:0 "The Republic of Austria"
+ AUS_liberalism_DEF:0 "the Republic of Austria"
  AUS_socialism:0 "Republic of Austria"
- AUS_socialism_DEF:0 "The Republic of Austria"
+ AUS_socialism_DEF:0 "the Republic of Austria"
  AUS_communism:0 "Austrian Socialist Republic" #Austrian Soviet Republic
- AUS_communism_DEF:0 "The Austrian Socialist Republic" #The Austrian Soviet Republic
+ AUS_communism_DEF:0 "the Austrian Socialist Republic" #The Austrian Soviet Republic
  AUS_monarchism:0 "Austrian Empire"
- AUS_monarchism_DEF:0 "The Austrian Empire"
+ AUS_monarchism_DEF:0 "the Austrian Empire"
  AUS_monarchism_ADJ:0 "Austrian"
  AUS_fascism_ADJ:0 "Austrian"
  AUS_neutrality_ADJ:0 "Austrian"
@@ -480,13 +480,13 @@
  LIT_neutrality:0 "Lithuania"
  LIT_neutrality_DEF:0 "Lithuania"
  LIT_conservatism:0 "Republic of Lithuania"
- LIT_conservatism_DEF:0 "The Republic of Lithuania"
+ LIT_conservatism_DEF:0 "the Republic of Lithuania"
  LIT_socialism:0 "Republic of Lithuania"
- LIT_socialism_DEF:0 "The Republic of Lithuania"
+ LIT_socialism_DEF:0 "the Republic of Lithuania"
  LIT_liberalism:0 "Republic of Lithuania"
- LIT_liberalism_DEF:0 "The Republic of Lithuania"
+ LIT_liberalism_DEF:0 "the Republic of Lithuania"
  LIT_communism:0 "Lithuanian SSR"
- LIT_communism_DEF:0 "The Lithuanian SSR"
+ LIT_communism_DEF:0 "the Lithuanian SSR"
  LIT_fascism_ADJ:0 "Lithuanian"
  LIT_neutrality_ADJ:0 "Lithuanian"
  LIT_conservatism_ADJ:0 "Lithuanian"
@@ -494,17 +494,17 @@
  LIT_liberalism_ADJ:0 "Lithuanian"
  LIT_communism_ADJ:0 "Lithuanian"
  EST_fascism:0 "Terra Mariana"
- EST_fascism_DEF:0 "Terra Mariana"
+ EST_fascism_DEF:0 "terra Mariana"
  EST_neutrality:0 "Estonia"
  EST_neutrality_DEF:0 "Estonia"
  EST_conservatism:0 "Republic of Estonia"
- EST_conservatism_DEF:0 "The Republic of Estonia"
+ EST_conservatism_DEF:0 "the Republic of Estonia"
  EST_socialism:0 "Republic of Estonia"
- EST_socialism_DEF:0 "The Republic of Estonia"
+ EST_socialism_DEF:0 "the Republic of Estonia"
  EST_liberalism:0 "Republic of Estonia"
- EST_liberalism_DEF:0 "The Republic of Estonia"
+ EST_liberalism_DEF:0 "the Republic of Estonia"
  EST_communism:0 "Estonian SSR"
- EST_communism_DEF:0 "The Estonian SSR"
+ EST_communism_DEF:0 "the Estonian SSR"
  EST_fascism_ADJ:0 "Estonian"
  EST_conservatism_ADJ:0 "Estonian"
  EST_socialism_ADJ:0 "Estonian"
@@ -512,17 +512,17 @@
  EST_neutrality_ADJ:0 "Estonian"
  EST_communism_ADJ:0 "Estonian"
  LAT_fascism:0 "The Empire of the Thunder Cross"
- LAT_fascism_DEF:0 "The Empire of the Thunder Cross"
+ LAT_fascism_DEF:0 "the Empire of the Thunder Cross"
  LAT_conservatism:0 "Republic of Latvia"
- LAT_conservatism_DEF:0 "The Republic of Latvia"
+ LAT_conservatism_DEF:0 "the Republic of Latvia"
  LAT_socialism:0 "Republic of Latvia"
- LAT_socialism_DEF:0 "The Republic of Latvia"
+ LAT_socialism_DEF:0 "the Republic of Latvia"
  LAT_liberalism:0 "Republic of Latvia"
- LAT_liberalism_DEF:0 "The Republic of Latvia"
+ LAT_liberalism_DEF:0 "the Republic of Latvia"
  LAT_neutrality:0 "Latvia"
  LAT_neutrality_DEF:0 "Latvia"
  LAT_communism:0 "Latvian SSR"
- LAT_communism_DEF:0 "The Latvian SSR"
+ LAT_communism_DEF:0 "the Latvian SSR"
  LAT_fascism_ADJ:0 "Latvian"
  LAT_conservatism_ADJ:0 "Latvian"
  LAT_neutrality_ADJ:0 "Latvian"
@@ -530,19 +530,19 @@
  LAT_socialism_ADJ:0 "Latvian"
  LAT_communism_ADJ:0 "Latvian"
  CAT_fascism:0 "Catalan State" #Catalonia
- CAT_fascism_DEF:0 "The Catalan State" #Catalonia
+ CAT_fascism_DEF:0 "the Catalan State" #Catalonia
  CAT_conservatism:0 "Catalan Republic" #Catalonia
- CAT_conservatism_DEF:0 "The Catalan Republic" #Catalonia
+ CAT_conservatism_DEF:0 "the Catalan Republic" #Catalonia
  CAT_liberalism:0 "Catalan Republic" #Catalonia
- CAT_liberalism_DEF:0 "The Catalan Republic" #Catalonia
+ CAT_liberalism_DEF:0 "the Catalan Republic" #Catalonia
  CAT_socialism:0 "Catalan Republic" #Catalonia
- CAT_socialism_DEF:0 "The Catalan Republic" #Catalonia
+ CAT_socialism_DEF:0 "the Catalan Republic" #Catalonia
  CAT_neutrality:0 "Catalan Republic" #Catalonia
- CAT_neutrality_DEF:0 "The Catalan Republic" #Catalonia
+ CAT_neutrality_DEF:0 "the Catalan Republic" #Catalonia
  CAT_communism:0 "Catalan Popular Republic" #Catalan Socialist Republic
- CAT_communism_DEF:0 "The Catalan Popular Republic" #The Catalan Socialist Republic
+ CAT_communism_DEF:0 "the Catalan Popular Republic" #The Catalan Socialist Republic
  CAT_monarchism:0 "Kingdom of Catalonia"
- CAT_monarchism_DEF:0 "The Kingdom of Catalonia"
+ CAT_monarchism_DEF:0 "the Kingdom of Catalonia"
  CAT_fascism_ADJ:0 "Catalan"
  CAT_conservatism_ADJ:0 "Catalan"
  CAT_socialism_ADJ:0 "Catalan"
@@ -551,19 +551,19 @@
  CAT_communism_ADJ:0 "Catalan"
  CAT_monarchism_ADJ:0 "Catalan"
  CAT_CNT_fascism:0 "Catalan State" #Nationalist Spain
- CAT_CNT_fascism_DEF:0 "The Catalan State" #Nationalist Spain
+ CAT_CNT_fascism_DEF:0 "the Catalan State" #Nationalist Spain
  CAT_CNT_conservatism:0 "Catalan Republic" #United Spanish States
- CAT_CNT_conservatism_DEF:0 "The Catalan Republic" #The United Spanish States
+ CAT_CNT_conservatism_DEF:0 "the Catalan Republic" #The United Spanish States
  CAT_CNT_liberalism:0 "Catalan Republic" #United Spanish States
- CAT_CNT_liberalism_DEF:0 "The Catalan Republic" #The United Spanish States
+ CAT_CNT_liberalism_DEF:0 "the Catalan Republic" #The United Spanish States
  CAT_CNT_socialism:0 "CNT-FAI"
  CAT_CNT_socialism_DEF:0 "CNT-FAI"
  CAT_CNT_neutrality:0 "Catalan Republic" #Spanish Federation
- CAT_CNT_neutrality_DEF:0 "The Catalan Republic" #The Spanish Federation
+ CAT_CNT_neutrality_DEF:0 "the Catalan Republic" #The Spanish Federation
  CAT_CNT_communism:0 "CNT-FAI" #Iberian Syndicalist Federation
  CAT_CNT_communism_DEF:0 "CNT-FAI" #The Iberian Syndicalist Federation
  CAT_CNT_monarchism:0 "Kingdom of Catalonia"
- CAT_CNT_monarchism_DEF:0 "The Kingdom of Catalonia"
+ CAT_CNT_monarchism_DEF:0 "the Kingdom of Catalonia"
  CAT_CNT_fascism_ADJ:0 "Catalan" #Spanish
  CAT_CNT_conservatism_ADJ:0 "Catalan" #Spanish
  CAT_CNT_liberalism_ADJ:0 "Catalan" #Spanish
@@ -572,19 +572,19 @@
  CAT_CNT_communism_ADJ:0 "Anarcho-Communist" #Syndicalist
  CAT_CNT_monarchism_ADJ:0 "Catalan"
  CNT_fascism:0 "Spanish State" #Spain
- CNT_fascism_DEF:0 "The Spanish State" #Spain
+ CNT_fascism_DEF:0 "the Spanish State" #Spain
  CNT_conservatism:0 "Spanish Republic" #Spain
- CNT_conservatism_DEF:0 "The Spanish Republic" #Spain
+ CNT_conservatism_DEF:0 "the Spanish Republic" #Spain
  CNT_liberalism:0 "Spanish Republic" #Spain
- CNT_liberalism_DEF:0 "The Spanish Republic" #Spain
+ CNT_liberalism_DEF:0 "the Spanish Republic" #Spain
  CNT_socialism:0 "CNT-FAI" #Spain
  CNT_socialism_DEF:0 "CNT-FAI" #Spain
  CNT_neutrality:0 "Spanish State" #Spain
- CNT_neutrality_DEF:0 "The Spanish State" #Spain
+ CNT_neutrality_DEF:0 "the Spanish State" #Spain
  CNT_communism:0 "CNT-FAI"
  CNT_communism_DEF:0 "CNT-FAI"
  CNT_monarchism:0 "Kingdom of Spain"
- CNT_monarchism_DEF:0 "The Kingdom of Spain"
+ CNT_monarchism_DEF:0 "the Kingdom of Spain"
  CNT_fascism_ADJ:0 "Spanish"
  CNT_conservatism_ADJ:0 "Spanish"
  CNT_liberalism_ADJ:0 "Spanish"
@@ -593,19 +593,19 @@
  CNT_communism_ADJ:0 "Anarcho-Communist"
  CNT_monarchism_ADJ:0 "Spanish"
  SPR_fascism:0 "Spanish State" #Spain
- SPR_fascism_DEF:0 "The Spanish State" #Spain
+ SPR_fascism_DEF:0 "the Spanish State" #Spain
  SPR_conservatism:0 "Spanish Republic" #Spain
- SPR_conservatism_DEF:0 "The Spanish Republic" #Spain
+ SPR_conservatism_DEF:0 "the Spanish Republic" #Spain
  SPR_liberalism:0 "Spanish Republic" #Spain
- SPR_liberalism_DEF:0 "The Spanish Republic" #Spain
+ SPR_liberalism_DEF:0 "the Spanish Republic" #Spain
  SPR_socialism:0 "Spanish Republic" #Spain
- SPR_socialism_DEF:0 "The Spanish Republic" #Spain
+ SPR_socialism_DEF:0 "the Spanish Republic" #Spain
  SPR_neutrality:0 "Spanish Republic" #Spain
- SPR_neutrality_DEF:0 "The Spanish Republic" #Spain
+ SPR_neutrality_DEF:0 "the Spanish Republic" #Spain
  SPR_communism:0 "Spanish Republic"
- SPR_communism_DEF:0 "The Spanish Republic"
+ SPR_communism_DEF:0 "the Spanish Republic"
  SPR_monarchism:0 "Kingdom of Spain"
- SPR_monarchism_DEF:0 "The Kingdom of Spain"
+ SPR_monarchism_DEF:0 "the Kingdom of Spain"
  SPR_fascism_ADJ:0 "Spanish"
  SPR_conservatism_ADJ:0 "Spanish"
  SPR_liberalism_ADJ:0 "Spanish"
@@ -614,19 +614,19 @@
  SPR_communism_ADJ:0 "Spanish"
  SPR_monarchism_ADJ:0 "Spanish"
  SPA_fascism:0 "Spanish State" # Nationalist Spain
- SPA_fascism_DEF:0 "The Spanish State" # Nationalist Spain
+ SPA_fascism_DEF:0 "the Spanish State" # Nationalist Spain
  SPA_conservatism:0 "Kingdom of Spain" # Spain
- SPA_conservatism_DEF:0 "The Kingdom of Spain" # Spain
+ SPA_conservatism_DEF:0 "the Kingdom of Spain" # Spain
  SPA_liberalism:0 "Kingdom of Spain" # Spain
- SPA_liberalism_DEF:0 "The Kingdom of Spain" # Spain
+ SPA_liberalism_DEF:0 "the Kingdom of Spain" # Spain
  SPA_socialism:0 "Kingdom of Spain" # Spain
- SPA_socialism_DEF:0 "The Kingdom of Spain" # Spain
+ SPA_socialism_DEF:0 "the Kingdom of Spain" # Spain
  SPA_neutrality:0 "Spanish State" # Spanish Empire
- SPA_neutrality_DEF:0 "The Spanish State" # The Spanish Empire
+ SPA_neutrality_DEF:0 "the Spanish State" # The Spanish Empire
  SPA_communism:0 "Spanish Popular Republic" # Republican Spain
- SPA_communism_DEF:0 "The Spanish Popular Republic" # Republican Spain
+ SPA_communism_DEF:0 "the Spanish Popular Republic" # Republican Spain
  SPA_monarchism:0 "Kingdom of Spain"
- SPA_monarchism_DEF:0 "The Kingdom of Spain"
+ SPA_monarchism_DEF:0 "the Kingdom of Spain"
  SPA_fascism_ADJ:0 "Spanish"
  SPA_conservatism_ADJ:0 "Spanish"
  SPA_liberalism_ADJ:0 "Spanish"
@@ -635,19 +635,19 @@
  SPA_communism_ADJ:0 "Spanish"
  SPA_monarchism_ADJ:0 "Spanish"
  SPA_1945_fascism:0 "Spanish State" # Nationalist Spain
- SPA_1945_fascism_DEF:0 "The Spanish State" # Nationalist Spain
+ SPA_1945_fascism_DEF:0 "the Spanish State" # Nationalist Spain
  SPA_1945_conservatism:0 "Kingdom of Spain" # Spain
- SPA_1945_conservatism_DEF:0 "The Kingdom of Spain" # Spain
+ SPA_1945_conservatism_DEF:0 "the Kingdom of Spain" # Spain
  SPA_1945_liberalism:0 "Kingdom of Spain" # Spain
- SPA_1945_liberalism_DEF:0 "The Kingdom of Spain" # Spain
+ SPA_1945_liberalism_DEF:0 "the Kingdom of Spain" # Spain
  SPA_1945_socialism:0 "Kingdom of Spain" # Spain
- SPA_1945_socialism_DEF:0 "The Kingdom of Spain" # Spain
+ SPA_1945_socialism_DEF:0 "the Kingdom of Spain" # Spain
  SPA_1945_neutrality:0 "Spanish State" # Spanish Empire
- SPA_1945_neutrality_DEF:0 "The Spanish State" # The Spanish Empire
+ SPA_1945_neutrality_DEF:0 "the Spanish State" # The Spanish Empire
  SPA_1945_communism:0 "Spanish Popular Republic" # Republican Spain
- SPA_1945_communism_DEF:0 "The Spanish Popular Republic" # Republican Spain
+ SPA_1945_communism_DEF:0 "the Spanish Popular Republic" # Republican Spain
  SPA_1945_monarchism:0 "Kingdom of Spain"
- SPA_1945_monarchism_DEF:0 "The Kingdom of Spain"
+ SPA_1945_monarchism_DEF:0 "the Kingdom of Spain"
  SPA_1945_fascism_ADJ:0 "Spanish"
  SPA_1945_conservatism_ADJ:0 "Spanish"
  SPA_1945_liberalism_ADJ:0 "Spanish"
@@ -656,19 +656,19 @@
  SPA_1945_communism_ADJ:0 "Spanish"
  SPA_1945_monarchism_ADJ:0 "Spanish"
  SPRCIV_fascism:0 "Spanish State" #Nationalist Spain
- SPRCIV_fascism_DEF:0 "The Spanish State" #Nationalist Spain
+ SPRCIV_fascism_DEF:0 "the Spanish State" #Nationalist Spain
  SPRCIV_conservatism:0 "Spanish Republic" #Republican Spain
- SPRCIV_conservatism_DEF:0 "The Spanish Republic"
+ SPRCIV_conservatism_DEF:0 "the Spanish Republic"
  SPRCIV_liberalism:0 "Spanish Republic" #Republican Spain
- SPRCIV_liberalism_DEF:0 "The Spanish Republic"
+ SPRCIV_liberalism_DEF:0 "the Spanish Republic"
  SPRCIV_socialism:0 "Spanish Republic" #Republican Spain
- SPRCIV_socialism_DEF:0 "The Spanish Republic"
+ SPRCIV_socialism_DEF:0 "the Spanish Republic"
  SPRCIV_neutrality:0 "Spanish State" #Republican Spain
- SPRCIV_neutrality_DEF:0 "The Spanish State"
+ SPRCIV_neutrality_DEF:0 "the Spanish State"
  SPRCIV_communism:0 "Spanish Republic" #Republican Spain
- SPRCIV_communism_DEF:0 "The Spanish Republic"
+ SPRCIV_communism_DEF:0 "the Spanish Republic"
  SPRCIV_monarchism:0 "Kingdom of Spain"
- SPRCIV_monarchism_DEF:0 "The Kingdom of Spain"
+ SPRCIV_monarchism_DEF:0 "the Kingdom of Spain"
  SPRCIV_fascism_ADJ:0 "Spanish Nationalist"
  SPRCIV_conservatism_ADJ:0 "Spanish Republican"
  SPRCIV_liberalism_ADJ:0 "Spanish Republican"
@@ -677,19 +677,19 @@
  SPRCIV_communism_ADJ:0 "Spanish Republican"
  SPRCIV_monarchism_ADJ:0 "Spanish Nationalist" #maybe Spanish Royalist
  SPA_MONARCHY_fascism:0 "Kingdom of Spain" #Spanish State #Nationalist Spain
- SPA_MONARCHY_fascism_DEF:0 "The Kingdom of Spain" #The Spanish State #Nationalist Spain
+ SPA_MONARCHY_fascism_DEF:0 "the Kingdom of Spain" #The Spanish State #Nationalist Spain
  SPA_MONARCHY_conservatism:0 "Kingdom of Spain"
- SPA_MONARCHY_conservatism_DEF:0 "The Kingdom of Spain"
+ SPA_MONARCHY_conservatism_DEF:0 "the Kingdom of Spain"
  SPA_MONARCHY_liberalism:0 "Kingdom of Spain"
- SPA_MONARCHY_liberalism_DEF:0 "The Kingdom of Spain"
+ SPA_MONARCHY_liberalism_DEF:0 "the Kingdom of Spain"
  SPA_MONARCHY_socialism:0 "Kingdom of Spain"
- SPA_MONARCHY_socialism_DEF:0 "The Kingdom of Spain"
+ SPA_MONARCHY_socialism_DEF:0 "the Kingdom of Spain"
  SPA_MONARCHY_neutrality:0 "Kingdom of Spain"
- SPA_MONARCHY_neutrality_DEF:0 "The Kingdom of Spain"
+ SPA_MONARCHY_neutrality_DEF:0 "the Kingdom of Spain"
  SPA_MONARCHY_communism:0 "Spanish Popular Republic" #Spanish Worker's Republic
- SPA_MONARCHY_communism_DEF:0 "The Spanish Popular Republic" #The Spanish Worker's Republic
+ SPA_MONARCHY_communism_DEF:0 "the Spanish Popular Republic" #The Spanish Worker's Republic
  SPA_MONARCHY_monarchism:0 "Kingdom of Spain"
- SPA_MONARCHY_monarchism_DEF:0 "The Kingdom of Spain"
+ SPA_MONARCHY_monarchism_DEF:0 "the Kingdom of Spain"
  SPA_MONARCHY_fascism_ADJ:0 "Spanish"
  SPA_MONARCHY_conservatism_ADJ:0 "Spanish"
  SPA_MONARCHY_liberalism_ADJ:0 "Spanish"
@@ -698,19 +698,19 @@
  SPA_MONARCHY_communism_ADJ:0 "Spanish"
  SPA_MONARCHY_monarchism_ADJ:0 "Spanish"
  SPC_fascism:0 "Spanish State" #Nationalist Spain
- SPC_fascism_DEF:0 "The Spanish State" #Nationalist Spain
+ SPC_fascism_DEF:0 "the Spanish State" #Nationalist Spain
  SPC_conservatism:0 "Spanish Republic" #Spain
- SPC_conservatismc_DEF:0 "The Spanish Republic" #Spain
+ SPC_conservatismc_DEF:0 "the Spanish Republic" #Spain
  SPC_liberalism:0 "Spanish Republic" #Spain
- SPC_liberalism_DEF:0 "The Spanish Republic" #Spain
+ SPC_liberalism_DEF:0 "the Spanish Republic" #Spain
  SPC_socialism:0 "Spanish Republic" #Spain
- SPC_socialism_DEF:0 "The Spanish Republic" #Spain
+ SPC_socialism_DEF:0 "the Spanish Republic" #Spain
  SPC_neutrality:0 "Spanish Republic" #Spain
- SPC_neutrality_DEF:0 "The Spanish Republic" #Spain
+ SPC_neutrality_DEF:0 "the Spanish Republic" #Spain
  SPC_communism:0 "Spanish Popular Republic" #Spain / Spanish People's Republic
- SPC_communism_DEF:0 "The Spanish Popular Republic" #Spain / The Spanish People's Republic
+ SPC_communism_DEF:0 "the Spanish Popular Republic" #Spain / The Spanish People's Republic
  SPC_monarchism:0 "Kingdom of Spain"
- SPC_monarchism_DEF:0 "The Kingdom of Spain"
+ SPC_monarchism_DEF:0 "the Kingdom of Spain"
  SPC_fascism_ADJ:0 "Spanish"
  SPC_conservatism_ADJ:0 "Spanish"
  SPC_liberalism_ADJ:0 "Spanish"
@@ -719,19 +719,19 @@
  SPC_communism_ADJ:0 "Spanish"
  SPC_monarchism_ADJ:0 "Spanish"
  MED_fascism:0 "Mediterranean Empire"
- MED_fascism_DEF:0 "The Mediterranean Empire"
+ MED_fascism_DEF:0 "the Mediterranean Empire"
  MED_conservatism:0 "United Mediterranean Republic"
- MED_conservatism_DEF:0 "The United Mediterranean Republic"
+ MED_conservatism_DEF:0 "the United Mediterranean Republic"
  MED_liberalism:0 "United Mediterranean Republic"
- MED_liberalism_DEF:0 "The United Mediterranean Republic"
+ MED_liberalism_DEF:0 "the United Mediterranean Republic"
  MED_socialism:0 "United Mediterranean Republic"
- MED_socialism_DEF:0 "The United Mediterranean Republic"
+ MED_socialism_DEF:0 "the United Mediterranean Republic"
  MED_neutrality:0 "Mediterranean Federation"
- MED_neutrality_DEF:0 "The Mediterranean Federation"
+ MED_neutrality_DEF:0 "the Mediterranean Federation"
  MED_communism:0 "Mediterranean Socialist Republic"
- MED_communism_DEF:0 "The Mediterranean Socialist Republic"
+ MED_communism_DEF:0 "the Mediterranean Socialist Republic"
  MED_monarchism:0 "Mediterranean Kingdom"
- MED_monarchism_DEF:0 "The Mediterranean Kingdom"
+ MED_monarchism_DEF:0 "the Mediterranean Kingdom"
  MED_fascism_ADJ:0 "Mediterranean"
  MED_conservatism_ADJ:0 "Mediterranean"
  MED_liberalism_ADJ:0 "Mediterranean"
@@ -740,17 +740,17 @@
  MED_communism_ADJ:0 "Mediterranean"
  MED_monarchism_ADJ:0 "Mediterranean"
  RSI_fascism:0 "Italian Social Republic"
- RSI_fascism_DEF:0 "The Italian Social Republic"
+ RSI_fascism_DEF:0 "the Italian Social Republic"
  RSI_conservatism:0 "Italian Republic"
- RSI_conservatism_DEF:0 "The Italian Republic"
+ RSI_conservatism_DEF:0 "the Italian Republic"
  RSI_socialism:0 "Italian Republic"
- RSI_socialism_DEF:0 "The Italian Republic"
+ RSI_socialism_DEF:0 "the Italian Republic"
  RSI_liberalism:0 "Italian Republic"
- RSI_liberalism_DEF:0 "The Italian Republic"
+ RSI_liberalism_DEF:0 "the Italian Republic"
  RSI_neutrality:0 "Italian Republic"
- RSI_neutrality_DEF:0 "The Italian Republic"
+ RSI_neutrality_DEF:0 "the Italian Republic"
  RSI_communism:0 "Italian Popular Republic" #Italian Union
- RSI_communism_DEF:0 "The Italian Popular Republic"
+ RSI_communism_DEF:0 "the Italian Popular Republic"
  RSI_fascism_ADJ:0 "Italian"
  RSI_conservatism_ADJ:0 "Italian"
  RSI_socialism_ADJ:0 "Italian"
@@ -758,17 +758,17 @@
  RSI_neutrality_ADJ:0 "Italian"
  RSI_communism_ADJ:0 "Italian"
  ITA_fascism:0 "Italian Social Republic"
- ITA_fascism_DEF:0 "The Italian Social Republic"
+ ITA_fascism_DEF:0 "the Italian Social Republic"
  ITA_conservatism:0 "Italian Republic"
- ITA_conservatism_DEF:0 "The Italian Republic"
+ ITA_conservatism_DEF:0 "the Italian Republic"
  ITA_socialism:0 "Italian Republic"
- ITA_socialism_DEF:0 "The Italian Republic"
+ ITA_socialism_DEF:0 "the Italian Republic"
  ITA_liberalism:0 "Italian Republic"
- ITA_liberalism_DEF:0 "The Italian Republic"
+ ITA_liberalism_DEF:0 "the Italian Republic"
  ITA_neutrality:0 "Italian Republic"
- ITA_neutrality_DEF:0 "The Italian Republic"
+ ITA_neutrality_DEF:0 "the Italian Republic"
  ITA_communism:0 "Italian Popular Republic" #Italian Union
- ITA_communism_DEF:0 "The Italian Popular Republic"
+ ITA_communism_DEF:0 "the Italian Popular Republic"
  ITA_fascism_ADJ:0 "Italian"
  ITA_conservatism_ADJ:0 "Italian"
  ITA_socialism_ADJ:0 "Italian"
@@ -776,48 +776,48 @@
  ITA_neutrality_ADJ:0 "Italian"
  ITA_communism_ADJ:0 "Italian"
  ITA_MONARCHY_fascism:0 "Kingdom of Italy"
- ITA_MONARCHY_fascism_DEF:0 "The Kingdom of Italy"
+ ITA_MONARCHY_fascism_DEF:0 "the Kingdom of Italy"
  ITA_MONARCHY_conservatism:0 "Kingdom of Italy"
- ITA_MONARCHY_conservatism_DEF:0 "The Kingdom of Italy"
+ ITA_MONARCHY_conservatism_DEF:0 "the Kingdom of Italy"
  ITA_MONARCHY_socialism:0 "Kingdom of Italy"
- ITA_MONARCHY_socialism_DEF:0 "The Kingdom of Italy"
+ ITA_MONARCHY_socialism_DEF:0 "the Kingdom of Italy"
  ITA_MONARCHY_liberalism:0 "Kingdom of Italy"
- ITA_MONARCHY_liberalism_DEF:0 "The Kingdom of Italy"
+ ITA_MONARCHY_liberalism_DEF:0 "the Kingdom of Italy"
  ITA_MONARCHY_neutrality:0 "Kingdom of Italy"
- ITA_MONARCHY_neutrality_DEF:0 "The Kingdom of Italy"
+ ITA_MONARCHY_neutrality_DEF:0 "the Kingdom of Italy"
  ITA_MONARCHY_communism:0 "Italian Popular Republic"
- ITA_MONARCHY_communism_DEF:0 "The Italian Popular Republic"
+ ITA_MONARCHY_communism_DEF:0 "the Italian Popular Republic"
  ITA_MONARCHY_monarchism:0 "Kingdom of Italy"
- ITA_MONARCHY_monarchism_DEF:0 "The Kingdom of Italy"
+ ITA_MONARCHY_monarchism_DEF:0 "the Kingdom of Italy"
  ITA_REPUBLIC_fascism:0 "Italian Social Republic"
- ITA_REPUBLIC_fascism_DEF:0 "The Italian Social Republic"
+ ITA_REPUBLIC_fascism_DEF:0 "the Italian Social Republic"
  ITA_REPUBLIC_conservatism:0 "Italian Republic"
- ITA_REPUBLIC_conservatism_DEF:0 "The Italian Republic"
+ ITA_REPUBLIC_conservatism_DEF:0 "the Italian Republic"
  ITA_REPUBLIC_socialism:0 "Italian Republic"
- ITA_REPUBLIC_socialism_DEF:0 "The Italian Republic"
+ ITA_REPUBLIC_socialism_DEF:0 "the Italian Republic"
  ITA_REPUBLIC_liberalism:0 "Italian Republic"
- ITA_REPUBLIC_liberalism_DEF:0 "The Italian Republic"
+ ITA_REPUBLIC_liberalism_DEF:0 "the Italian Republic"
  ITA_REPUBLIC_neutrality:0 "Italian Republic"
- ITA_REPUBLIC_neutrality_DEF:0 "The Italian Republic"
+ ITA_REPUBLIC_neutrality_DEF:0 "the Italian Republic"
  ITA_REPUBLIC_communism:0 "Italian Popular Republic"
- ITA_REPUBLIC_communism_DEF:0 "The Italian Popular Republic"
+ ITA_REPUBLIC_communism_DEF:0 "the Italian Popular Republic"
  ITA_REPUBLIC_monarchism:0 "Kingdom of Italy"
- ITA_REPUBLIC_monarchism_DEF:0 "The Kingdom of Italy"
+ ITA_REPUBLIC_monarchism_DEF:0 "the Kingdom of Italy"
  ROM_conservatism:0 "Kingdom of Romania"
- ROM_conservatism_DEF:0 "The Kingdom of Romania"
+ ROM_conservatism_DEF:0 "the Kingdom of Romania"
  ROM_liberalism:0 "Kingdom of Romania"
- ROM_liberalism_DEF:0 "The Kingdom of Romania"
+ ROM_liberalism_DEF:0 "the Kingdom of Romania"
  ROM_socialism:0 "Kingdom of Romania"
- ROM_socialism_DEF:0 "The Kingdom of Romania"
+ ROM_socialism_DEF:0 "the Kingdom of Romania"
  ROM_monarchism:0 "Kingdom of Romania"
- ROM_monarchism_DEF:0 "The Kingdom of Romania"
+ ROM_monarchism_DEF:0 "the Kingdom of Romania"
  ROM_monarchism_ADJ:0 "Romanian"
  ROM_neutrality:0 "Kingdom of Romania"
- ROM_neutrality_DEF:0 "The Kingdom of Romania"
+ ROM_neutrality_DEF:0 "the Kingdom of Romania"
  ROM_fascism:0 "National Legionary State"
- ROM_fascism_DEF:0 "The National Legionary State"
+ ROM_fascism_DEF:0 "the National Legionary State"
  ROM_communism:0 "Romanian Popular Republic"
- ROM_communism_DEF:0 "The Romanian Popular Republic"
+ ROM_communism_DEF:0 "the Romanian Popular Republic"
  ROM_fascism_ADJ:0 "Romanian"
  ROM_conservatism_ADJ:0 "Romanian"
  ROM_socialism_ADJ:0 "Romanian"
@@ -825,19 +825,19 @@
  ROM_neutrality_ADJ:0 "Romanian"
  ROM_communism_ADJ:0 "Romanian"
  YUG_fascism:0 "Yugoslav State" #Radikalna Yugoslavia
- YUG_fascism_DEF:0 "The Yugoslav State" #Radikalna Yugoslavia
+ YUG_fascism_DEF:0 "the Yugoslav State" #Radikalna Yugoslavia
  YUG_conservatism:0 "Yugoslavian Confederation"
- YUG_conservatism_DEF:0 "The Yugoslavian Confederation"
+ YUG_conservatism_DEF:0 "the Yugoslavian Confederation"
  YUG_socialism:0 "Yugoslavian Confederation"
- YUG_socialism_DEF:0 "The Yugoslavian Confederation"
+ YUG_socialism_DEF:0 "the Yugoslavian Confederation"
  YUG_liberalism:0 "Yugoslavian Confederation"
- YUG_liberalism_DEF:0 "The Yugoslavian Confederation"
+ YUG_liberalism_DEF:0 "the Yugoslavian Confederation"
  YUG_neutrality:0 "Yugoslavia"
  YUG_neutrality_DEF:0 "Yugoslavia"
  YUG_communism:0 "Democratic Federal Yugoslavia" #SFR Yugoslavia
  YUG_communism_DEF:0 "Democratic Federal Yugoslavia" #SFR Yugoslavia
  YUG_monarchism:0 "Kingdom of Yugoslavia"
- YUG_monarchism_DEF:0 "The Kingdom of Yugoslavia"
+ YUG_monarchism_DEF:0 "the Kingdom of Yugoslavia"
  YUG_monarchism_ADJ:0 "Yugoslavian"
  YUG_fascism_ADJ:0 "Yugoslavian"
  YUG_conservatism_ADJ:0 "Yugoslavian"
@@ -846,19 +846,19 @@
  YUG_socialism_ADJ:0 "Yugoslavian"
  YUG_communism_ADJ:0 "Yugoslavian"
  SWI_fascism:0 "Swiss Imperial Confederation"
- SWI_fascism_DEF:0 "The Swiss Imperial Confederation"
+ SWI_fascism_DEF:0 "the Swiss Imperial Confederation"
  SWI_conservatism:0 "Swiss Confederation" #Switzerland
  SWI_conservatism_DEF:0 "Swiss Confederation" #Switzerland
  SWI_liberalism:0 "Swiss Confederation" #Switzerland
- SWI_liberalism_DEF:0 "The Swiss Confederation" #Switzerland
+ SWI_liberalism_DEF:0 "the Swiss Confederation" #Switzerland
  SWI_socialism:0 "Swiss Confederation" #Switzerland
- SWI_socialism_DEF:0 "The Swiss Confederation" #Switzerland
+ SWI_socialism_DEF:0 "the Swiss Confederation" #Switzerland
  SWI_neutrality:0 "Swiss Confederation" #Switzerland
- SWI_neutrality_DEF:0 "The Swiss Confederation" #Switzerland
+ SWI_neutrality_DEF:0 "the Swiss Confederation" #Switzerland
  SWI_communism:0 "Socialist Republic of Switzerland" #United Cantons
- SWI_communism_DEF:0 "The Socialist Republic of Switzerland" #The United Cantons
+ SWI_communism_DEF:0 "the Socialist Republic of Switzerland" #The United Cantons
  SWI_monarchism:0 "Kingdom of Switzerland"
- SWI_monarchism_DEF:0 "The Kingdom of Switzerland"
+ SWI_monarchism_DEF:0 "the Kingdom of Switzerland"
  SWI_fascism_ADJ:0 "Swiss"
  SWI_conservatism_ADJ:0 "Swiss"
  SWI_neutrality_ADJ:0 "Swiss"
@@ -867,15 +867,15 @@
  SWI_communism_ADJ:0 "Swiss"
  SWI_monarchism_ADJ:0 "Swiss" 
  TUR_fascism:0 "Turan Empire"
- TUR_fascism_DEF:0 "The Turan Empire"
+ TUR_fascism_DEF:0 "the Turan Empire"
  TUR_conservatism:0 "Republic of Turkey"
- TUR_conservatism_DEF:0 "The Republic of Turkey"
- TUR_socialism_DEF:0 "The Republic of Turkey"
- TUR_liberalism_DEF:0 "The Republic of Turkey"
+ TUR_conservatism_DEF:0 "the Republic of Turkey"
+ TUR_socialism_DEF:0 "the Republic of Turkey"
+ TUR_liberalism_DEF:0 "the Republic of Turkey"
  TUR_neutrality:0 "Turkey"
  TUR_neutrality_DEF:0 "Turkey"
  TUR_communism:0 "Turkish Socialist Republic"
- TUR_communism_DEF:0 "The Turkish Socialist Republic"
+ TUR_communism_DEF:0 "the Turkish Socialist Republic"
  TUR_fascism_ADJ:0 "Turkish"
  TUR_conservatism_ADJ:0 "Turkish"
  TUR_socialism:0 "Turkey"
@@ -884,19 +884,19 @@
  TUR_neutrality_ADJ:0 "Turkish"
  TUR_communism_ADJ:0 "Turkish"
  HAT_fascism:0 "Hatay Empire"
- HAT_fascism_DEF:0 "The Hatay Empire"
+ HAT_fascism_DEF:0 "the Hatay Empire"
  HAT_conservatism:0 "Republic of Hatay"
- HAT_conservatism_DEF:0 "The Republic of Hatay"
+ HAT_conservatism_DEF:0 "the Republic of Hatay"
  HAT_socialism:0 "Hatay State"
- HAT_socialism_DEF:0 "The Hatay State"
+ HAT_socialism_DEF:0 "the Hatay State"
  HAT_liberalism:0 "Hatay State"
- HAT_liberalism_DEF:0 "The Hatay State"
+ HAT_liberalism_DEF:0 "the Hatay State"
  HAT_neutrality:0 "Hatay"
  HAT_neutrality_DEF:0 "Hatay"
  HAT_communism:0 "Hatay Socialist Republic"
- HAT_communism_DEF:0 "The Hatay Socialist Republic"
+ HAT_communism_DEF:0 "the Hatay Socialist Republic"
  HAT_monarchism:0 "Kingdom of Hatay"
- HAT_monarchism_DEF:0 "The Kingdom of Hatay"
+ HAT_monarchism_DEF:0 "the Kingdom of Hatay"
  HAT_monarchism_ADJ:0 "Hatayan"
  HAT_fascism_ADJ:0 "Hatayan"
  HAT_conservatism_ADJ:0 "Hatayan"
@@ -905,13 +905,13 @@
  HAT_neutrality_ADJ:0 "Hatayan"
  HAT_communism_ADJ:0 "Hatayan"
  GRE_fascism:0 "National Union of Greece"
- GRE_fascism_DEF:0 "The National Union of Greece"
+ GRE_fascism_DEF:0 "the National Union of Greece"
  GRE_conservatism:0 "Hellenic Republic"
- GRE_conservatism_DEF:0 "The Hellenic Republic"
+ GRE_conservatism_DEF:0 "the Hellenic Republic"
  GRE_socialism:0 "Hellenic Republic"
- GRE_socialism_DEF:0 "The Hellenic Republic"
+ GRE_socialism_DEF:0 "the Hellenic Republic"
  GRE_liberalism:0 "Hellenic Republic"
- GRE_liberalism_DEF:0 "The Hellenic Republic"
+ GRE_liberalism_DEF:0 "the Hellenic Republic"
  GRE_neutrality:0 "Greece"
  GRE_neutrality_DEF:0 "Greece"
  GRE_communism:0 "Provisional Democratic Greece"
@@ -925,15 +925,15 @@
  ALB_fascism:0 "Greater Albania"
  ALB_fascism_DEF:0 "Greater Albania"
  ALB_conservatism:0 "Republic of Albania"
- ALB_conservatism_DEF:0 "The Republic of Albania"
+ ALB_conservatism_DEF:0 "the Republic of Albania"
  ALB_socialism:0 "Republic of Albania"
- ALB_socialism_DEF:0 "The Republic of Albania"
+ ALB_socialism_DEF:0 "the Republic of Albania"
  ALB_liberalism:0 "Republic of Albania"
- ALB_liberalism_DEF:0 "The Republic of Albania"
+ ALB_liberalism_DEF:0 "the Republic of Albania"
  ALB_neutrality:0 "Albania"
  ALB_neutrality_DEF:0 "Albania"
  ALB_communism:0 "Socialist Republic of Albania"
- ALB_communism_DEF:0 "The Socialist Republic of Albania"
+ ALB_communism_DEF:0 "the Socialist Republic of Albania"
  ALB_fascism_ADJ:0 "Albanian"
  ALB_conservatism_ADJ:0 "Albanian"
  ALB_socialism_ADJ:0 "Albanian"
@@ -941,7 +941,7 @@
  ALB_neutrality_ADJ:0 "Albanian"
  ALB_communism_ADJ:0 "Albanian"
  ALB_monarchism:0 "Kingdom of Albania"
- ALB_monarchism_DEF:0 "The Kingdom of Albania"
+ ALB_monarchism_DEF:0 "the Kingdom of Albania"
  ALB_monarchism_ADJ:0 "Albanian"  
  NOR_fascism:0 "Norgesveldet"
  NOR_fascism_DEF:0 "Norgesveldet"
@@ -952,9 +952,9 @@
  NOR_liberalism:0 "Norway"
  NOR_liberalism_DEF:0 "Norway"
  NOR_neutrality:0 "Kingdom of Norway"
- NOR_neutrality_DEF:0 "The Kingdom of Norway"
+ NOR_neutrality_DEF:0 "the Kingdom of Norway"
  NOR_communism:0 "Soviet State of Norway"
- NOR_communism_DEF:0 "The Soviet State of Norway"
+ NOR_communism_DEF:0 "the Soviet State of Norway"
  NOR_fascism_ADJ:0 "Norwegian"
  NOR_conservatism_ADJ:0 "Norwegian"
  NOR_socialism_ADJ:0 "Norwegian"
@@ -962,7 +962,7 @@
  NOR_neutrality_ADJ:0 "Norwegian"
  NOR_communism_ADJ:0 "Norwegian"
  DEN_fascism:0 "North Sea Empire"
- DEN_fascism_DEF:0 "The North Sea Empire"
+ DEN_fascism_DEF:0 "the North Sea Empire"
  DEN_conservatism:0 "Denmark"
  DEN_conservatism_DEF:0 "Denmark"
  DEN_socialism:0 "Denmark"
@@ -970,9 +970,9 @@
  DEN_liberalism:0 "Denmark"
  DEN_liberalism_DEF:0 "Denmark"
  DEN_neutrality:0 "Kingdom of Denmark"
- DEN_neutrality_DEF:0 "The Kingdom of Denmark"
+ DEN_neutrality_DEF:0 "the Kingdom of Denmark"
  DEN_communism:0 "Danish Civil Union"
- DEN_communism_DEF:0 "The Danish Civil Union"
+ DEN_communism_DEF:0 "the Danish Civil Union"
  DEN_fascism_ADJ:0 "Danish"
  DEN_conservatism_ADJ:0 "Danish"
  DEN_socialism_ADJ:0 "Danish"
@@ -980,19 +980,19 @@
  DEN_neutrality_ADJ:0 "Danish"
  DEN_communism_ADJ:0 "Danish"
  BUL_fascism:0 "Bulgarian State" #Legionnaires Bulgaria
- BUL_fascism_DEF:0 "The Bulgarian State" #Legionnaires Bulgaria
+ BUL_fascism_DEF:0 "the Bulgarian State" #Legionnaires Bulgaria
  BUL_conservatism:0 "Republic of Bulgaria"
- BUL_conservatism_DEF:0 "The Republic of Bulgaria"
+ BUL_conservatism_DEF:0 "the Republic of Bulgaria"
  BUL_socialism:0 "Republic of Bulgaria"
- BUL_socialism_DEF:0 "The Republic of Bulgaria"
+ BUL_socialism_DEF:0 "the Republic of Bulgaria"
  BUL_liberalism:0 "Republic of Bulgaria"
- BUL_liberalism_DEF:0 "The Republic of Bulgaria"
+ BUL_liberalism_DEF:0 "the Republic of Bulgaria"
  BUL_neutrality:0 "Bulgaria"
  BUL_neutrality_DEF:0 "Bulgaria"
  BUL_communism:0 "People's Republic of Bulgaria" #Socialist Republic of Bulgaria
- BUL_communism_DEF:0 "The People's Republic of Bulgaria" #The Socialist Republic of Bulgaria
+ BUL_communism_DEF:0 "the People's Republic of Bulgaria" #The Socialist Republic of Bulgaria
  BUL_monarchism:0 "Kingdom of Bulgaria"
- BUL_monarchism_DEF:0 "The Kingdom of Bulgaria"
+ BUL_monarchism_DEF:0 "the Kingdom of Bulgaria"
  BUL_monarchism_ADJ:0 "Bulgarian"
  BUL_fascism_ADJ:0 "Bulgarian"
  BUL_conservatism_ADJ:0 "Bulgarian"
@@ -1003,15 +1003,15 @@
  POR_fascism:0 "Portuguese Empire"
  POR_fascism_DEF:0 "Portuguese Empire"
  POR_conservatism:0 "Portuguese Republic"
- POR_conservatism_DEF:0 "The Portuguese Republic"
+ POR_conservatism_DEF:0 "the Portuguese Republic"
  POR_socialism:0 "Portuguese Republic"
- POR_socialism_DEF:0 "The Portuguese Republic"
+ POR_socialism_DEF:0 "the Portuguese Republic"
  POR_liberalism:0 "Portuguese Republic"
- POR_liberalism_DEF:0 "The Portuguese Republic"
+ POR_liberalism_DEF:0 "the Portuguese Republic"
  POR_neutrality:0 "Portuguese Republic" #Portugal
- POR_neutrality_DEF:0 "The Portuguese Republic" #Portugal
+ POR_neutrality_DEF:0 "the Portuguese Republic" #Portugal
  POR_communism:0 "Portuguese Popular Republic" #Comunist Portugal
- POR_communism_DEF:0 "The Portuguese Popular Republic" #Comunist Portugal
+ POR_communism_DEF:0 "the Portuguese Popular Republic" #Comunist Portugal
  POR_fascism_ADJ:0 "Portuguese"
  POR_conservatism_ADJ:0 "Portuguese"
  POR_socialism_ADJ:0 "Portuguese"
@@ -1019,7 +1019,7 @@
  POR_neutrality_ADJ:0 "Portuguese"
  POR_communism_ADJ:0 "Portuguese"
  FIN_fascism:0 "Finnish State" #Greater Finland
- FIN_fascism_DEF:0 "The Finnish State" #Greater Finland
+ FIN_fascism_DEF:0 "the Finnish State" #Greater Finland
  FIN_conservatism:1 "Republic of Finland"
  FIN_conservatism_DEF:1 "The Republic of Finland"
  FIN_socialism:1 "Republic of Finland"
@@ -1029,9 +1029,9 @@
  FIN_neutrality:1 "Republic of Finland" #Finland
  FIN_neutrality_DEF:1 "The Republic of Finland" #Finland
  FIN_communism:0 "Finnish Democratic Republic" #Red Finland
- FIN_communism_DEF:0 "The Finnish Democratic Republic" #Red Finland
+ FIN_communism_DEF:0 "the Finnish Democratic Republic" #Red Finland
  FIN_monarchism:0 "Kingdom of Finland"
- FIN_monarchism_DEF:0 "The Kingdom of Finland"
+ FIN_monarchism_DEF:0 "the Kingdom of Finland"
  FIN_monarchism_ADJ:0 "Finnish"
  FIN_fascism_ADJ:0 "Finnish"
  FIN_conservatism_ADJ:0 "Finnish"
@@ -1040,20 +1040,20 @@
  FIN_neutrality_ADJ:0 "Finnish"
  FIN_communism_ADJ:0 "Finnish"
  FIN_agrarianism:0 "Republic of Finland"
- FIN_agrarianism_DEF:0 "The Republic of Finland"
+ FIN_agrarianism_DEF:0 "the Republic of Finland"
  FIN_agrarianism_ADJ:0 "Finnish"
  IRE_fascism:0 "State of Ireland" #Chorparáideachstát Éireann
  IRE_fascism_DEF:0 "State of Ireland" #Corporate State of Ireland
  IRE_socialism:0 "Ireland"
  IRE_socialism_DEF:0 "Éire"
  IRE_conservatism:0 "Irish Free State"
- IRE_conservatism_DEF:0 "The Free State of Ireland"
+ IRE_conservatism_DEF:0 "the Free State of Ireland"
  IRE_liberalism:0 "Irish Free State"
- IRE_liberalism_DEF:0 "The Free State of Ireland"
+ IRE_liberalism_DEF:0 "the Free State of Ireland"
  IRE_neutrality:0 "Irish Free State"
  IRE_neutrality_DEF:0 "Irish Free State"
  IRE_communism:0 "Irish Workers's Union"
- IRE_communism_DEF:0 "The Irish Workers's Union"
+ IRE_communism_DEF:0 "the Irish Workers's Union"
  IRE_fascism_ADJ:0 "Irish"
  IRE_conservatism_ADJ:0 "Irish"
  IRE_socialism_ADJ:0 "Irish"
@@ -1063,15 +1063,15 @@
  HUN_fascism:0 "Hungary"
  HUN_fascism_DEF:0 "Hungary"
  HUN_conservatism:0 "Republic of Hungary"
- HUN_conservatism_DEF:0 "The Republic of Hungary"
+ HUN_conservatism_DEF:0 "the Republic of Hungary"
  HUN_socialism:0 "Republic of Hungary"
- HUN_socialism_DEF:0 "The Republic of Hungary"
+ HUN_socialism_DEF:0 "the Republic of Hungary"
  HUN_liberalism:0 "Republic of Hungary"
- HUN_liberalism_DEF:0 "The Republic of Hungary"
+ HUN_liberalism_DEF:0 "the Republic of Hungary"
  HUN_neutrality:0 "Kingdom of Hungary"
  HUN_neutrality_DEF:0 "Kingdom of Hungary"
  HUN_communism:0 "Hungarian People's Republic"
- HUN_communism_DEF:0 "The Hungarian People's Republic"
+ HUN_communism_DEF:0 "the Hungarian People's Republic"
  HUN_fascism_ADJ:0 "Hungarian"
  HUN_conservatism_ADJ:0 "Hungarian"
  HUN_socialism_ADJ:0 "Hungarian"
@@ -1079,19 +1079,19 @@
  HUN_neutrality_ADJ:0 "Hungarian"
  HUN_communism_ADJ:0 "Hungarian"
  AFG_fascism:0 "New Afghan Khanate"
- AFG_fascism_DEF:0 "The New Afghan Khanate"
+ AFG_fascism_DEF:0 "the New Afghan Khanate"
  AFG_conservatism:0 "Republic of Afghanistan"
- AFG_conservatism_DEF:0 "The Republic of Afghanistan"
+ AFG_conservatism_DEF:0 "the Republic of Afghanistan"
  AFG_socialism:0 "Republic of Afghanistan"
- AFG_socialism_DEF:0 "The Republic of Afghanistan"
+ AFG_socialism_DEF:0 "the Republic of Afghanistan"
  AFG_liberalism:0 "Republic of Afghanistan"
- AFG_liberalism_DEF:0 "The Republic of Afghanistan"
+ AFG_liberalism_DEF:0 "the Republic of Afghanistan"
  AFG_neutrality:0 "Afghanistan"
  AFG_neutrality_DEF:0 "Afghanistan"
  AFG_communism:0 "Democratic Republic of Afghanistan"
- AFG_communism_DEF:0 "The Democratic Republic of Afghanistan"
+ AFG_communism_DEF:0 "the Democratic Republic of Afghanistan"
  AFG_monarchism:0 "Kingdom of Afghanistan"
- AFG_monarchism_DEF:0 "The Kingdom of Afghanistan"
+ AFG_monarchism_DEF:0 "the Kingdom of Afghanistan"
  AFG_fascism_ADJ:0 "Afghan"
  AFG_conservatism_ADJ:0 "Afghan"
  AFG_socialism_ADJ:0 "Afghan"
@@ -1100,13 +1100,13 @@
  AFG_communism_ADJ:0 "Afghan"
  AFG_monarchism_ADJ:0 "Afghan"
  ARG_fascism:0 "Argentine League"
- ARG_fascism_DEF:0 "The Argentine League"
+ ARG_fascism_DEF:0 "the Argentine League"
  ARG_conservatism:0 "Argentine Republic"
- ARG_conservatism_DEF:0 "The Argentine Republic"
+ ARG_conservatism_DEF:0 "the Argentine Republic"
  ARG_socialism:0 "Argentine Republic"
- ARG_socialism_DEF:0 "The Argentine Republic"
+ ARG_socialism_DEF:0 "the Argentine Republic"
  ARG_liberalism:0 "Argentine Republic"
- ARG_liberalism_DEF:0 "The Argentine Republic"
+ ARG_liberalism_DEF:0 "the Argentine Republic"
  ARG_neutrality:0 "Argentina"
  ARG_neutrality_DEF:0 "Argentina"
  ARG_communism:0 "Argentina Populares"
@@ -1138,15 +1138,15 @@
  BRA_fascism:0 "Integralist Brazil"
  BRA_fascism_DEF:0 "Integralist Brazil"
  BRA_conservatism:0 "Second Brazilian Republic"
- BRA_conservatism_DEF:0 "The Second Brazilian Republic"
+ BRA_conservatism_DEF:0 "the Second Brazilian Republic"
  BRA_socialism:0 "Second Brazilian Republic"
- BRA_socialism_DEF:0 "The Second Brazilian Republic"
+ BRA_socialism_DEF:0 "the Second Brazilian Republic"
  BRA_liberalism:0 "Second Brazilian Republic"
- BRA_liberalism_DEF:0 "The Second Brazilian Republic"
+ BRA_liberalism_DEF:0 "the Second Brazilian Republic"
  BRA_neutrality:0 "Brazil"
  BRA_neutrality_DEF:0 "Brazil"
  BRA_communism:0 "Brazilian Socialist Republic"
- BRA_communism_DEF:0 "The Brazilian Socialist Republic"
+ BRA_communism_DEF:0 "the Brazilian Socialist Republic"
  BRA_fascism_ADJ:0 "Brazilian"
  BRA_conservatism_ADJ:0 "Brazilian"
  BRA_socialism_ADJ:0 "Brazilian"
@@ -1162,9 +1162,9 @@
  CAN_liberalism:0 "Canada"
  CAN_liberalism_DEF:0 "Canada"
  CAN_neutrality:0 "Free Canadian Republic"
- CAN_neutrality_DEF:0 "The Free Canadian Republic"
+ CAN_neutrality_DEF:0 "the Free Canadian Republic"
  CAN_communism:0 "Canada Popular State"
- CAN_communism_DEF:0 "The Canada Popular State"
+ CAN_communism_DEF:0 "the Canada Popular State"
  CAN_fascism_ADJ:0 "Canadian"
  CAN_conservatism_ADJ:0 "Canadian"
  CAN_socialism_ADJ:0 "Canadian"
@@ -1174,15 +1174,15 @@
  CHI_fascism:0 "Reorganized Republic of China"
  CHI_fascism_DEF:0 "Reorganized Republic of China"
  CHI_conservatism:0 "Republic of China"
- CHI_conservatism_DEF:0 "The Republic of China"
+ CHI_conservatism_DEF:0 "the Republic of China"
  CHI_socialism:0 "Socialist Republic of China"
- CHI_socialism_DEF:0 "The Socialist Republic of China"
+ CHI_socialism_DEF:0 "the Socialist Republic of China"
  CHI_liberalism:0 "Republic of China"
- CHI_liberalism_DEF:0 "The Republic of China"
+ CHI_liberalism_DEF:0 "the Republic of China"
  CHI_neutrality:0 "Republic of China"
- CHI_neutrality_DEF:0 "The Republic of China"
+ CHI_neutrality_DEF:0 "the Republic of China"
  CHI_communism:0 "Chinese People's Republic"
- CHI_communism_DEF:0 "The Chinese People's Republic"
+ CHI_communism_DEF:0 "the Chinese People's Republic"
  CHI_fascism_ADJ:0 "Chinese"
  CHI_conservatism_ADJ:0 "Chinese"
  CHI_socialism_ADJ:0 "Chinese"
@@ -1190,17 +1190,17 @@
  CHI_neutrality_ADJ:0 "Chinese"
  CHI_communism_ADJ:0 "Chinese"
  PRC_fascism:0 "Chinese Empire"
- PRC_fascism_DEF:0 "The Chinese Empire"
+ PRC_fascism_DEF:0 "the Chinese Empire"
  PRC_conservatism:0 "Chinese Republic"
- PRC_conservatism_DEF:0 "The Chinese Republic"
+ PRC_conservatism_DEF:0 "the Chinese Republic"
  PRC_socialism:0 "Chinese Republic"
- PRC_socialism_DEF:0 "The Chinese Republic"
+ PRC_socialism_DEF:0 "the Chinese Republic"
  PRC_liberalism:0 "Chinese Republic"
- PRC_liberalism_DEF:0 "The Chinese Republic"
+ PRC_liberalism_DEF:0 "the Chinese Republic"
  PRC_neutrality:0 "China"
  PRC_neutrality_DEF:0 "China"
  PRC_communism:0 "People's Republic of China"
- PRC_communism_DEF:0 "The People's Republic of China"
+ PRC_communism_DEF:0 "the People's Republic of China"
  PRC_fascism_ADJ:0 "Chinese"
  PRC_conservatism_ADJ:0 "Chinese"
  PRC_socialism_ADJ:0 "Chinese"
@@ -1218,7 +1218,7 @@
  CHL_neutrality:0 "Atacama-Patagonian Free State"
  CHL_neutrality_DEF:0 "Atacama-Patagonian Free State"
  CHL_communism:0 "Chilean Socialist Republic"
- CHL_communism_DEF:0 "The Chilean Socialist Republic"
+ CHL_communism_DEF:0 "the Chilean Socialist Republic"
  CHL_fascism_ADJ:0 "Chilean"
  CHL_conservatism_ADJ:0 "Chilean"
  CHL_socialism_ADJ:0 "Chilean"
@@ -1236,7 +1236,7 @@
  COL_neutrality:0 "Colombia" #Nueva Constitución
  COL_neutrality_DEF:0 "Colombia" #Nueva Constitución
  COL_communism:0 "Colombian Socialist Republic"
- COL_communism_DEF:0 "The Colombian Socialist Republic"
+ COL_communism_DEF:0 "the Colombian Socialist Republic"
  COL_fascism_ADJ:0 "Colombian"
  COL_conservatism_ADJ:0 "Colombian"
  COL_socialism_ADJ:0 "Colombian"
@@ -1262,7 +1262,7 @@
  COS_neutrality_ADJ:0 "Costa Rican"
  COS_communism_ADJ:0 "Costa Rican"
  ECU_fascism:0 "Ecuadorian Authority"
- ECU_fascism_DEF:0 "The Ecuadorian Authority"
+ ECU_fascism_DEF:0 "the Ecuadorian Authority"
  ECU_conservatism:0 "Ecuador"
  ECU_conservatism_DEF:0 "Ecuador"
  ECU_socialism:0 "Ecuador"
@@ -1272,7 +1272,7 @@
  ECU_neutrality:0 "Galapagos Regime"
  ECU_neutrality_DEF:0 "Galapagos Regime"
  ECU_communism:0 "Equatorial Socialist Republic"
- ECU_communism_DEF:0 "The Equatorial Socialist Republic"
+ ECU_communism_DEF:0 "the Equatorial Socialist Republic"
  ECU_fascism_ADJ:0 "Ecuadorian"
  ECU_socialism_ADJ:0 "Ecuadorian"
  ECU_liberalism_ADJ:0 "Ecuadorian"
@@ -1282,15 +1282,15 @@
  ELS_fascism:0 "El Salvador"
  ELS_fascism_DEF:0 "El Salvador"
  ELS_conservatism:0 "Republic of El Salvador"
- ELS_conservatism_DEF:0 "The Republic of El Salvador"
+ ELS_conservatism_DEF:0 "the Republic of El Salvador"
  ELS_socialism:0 "Republic of El Salvador"
- ELS_socialism_DEF:0 "The Republic of El Salvador"
+ ELS_socialism_DEF:0 "the Republic of El Salvador"
  ELS_liberalism:0 "Republic of El Salvador"
- ELS_liberalism_DEF:0 "The Republic of El Salvador"
+ ELS_liberalism_DEF:0 "the Republic of El Salvador"
  ELS_neutrality:0 "Teocracia de El Salvador"
- ELS_neutrality_DEF:0 "Teocracia de El Salvador"
+ ELS_neutrality_DEF:0 "teocracia de El Salvador"
  ELS_communism:0 "Central American Socialist Republic"
- ELS_communism_DEF:0 "The Central American Socialist Republic"
+ ELS_communism_DEF:0 "the Central American Socialist Republic"
  ELS_fascism_ADJ:0 "El Salvadorian"
  ELS_conservatism_ADJ:0 "El Salvadorian"
  ELS_socialism_ADJ:0 "El Salvadorian"
@@ -1300,11 +1300,11 @@
  GUA_fascism:0 "Guatemalan Corporate State"
  GUA_fascism_DEF:0 "Guatemalan Corporate State"
  GUA_conservatism:0 "Republic of Guatemala"
- GUA_conservatism_DEF:0 "The Republic of Guatemala"
+ GUA_conservatism_DEF:0 "the Republic of Guatemala"
  GUA_socialism:0 "Republic of Guatemala"
- GUA_socialism_DEF:0 "The Republic of Guatemala"
+ GUA_socialism_DEF:0 "the Republic of Guatemala"
  GUA_liberalism:0 "Republic of Guatemala"
- GUA_liberalism_DEF:0 "The Republic of Guatemala"
+ GUA_liberalism_DEF:0 "the Republic of Guatemala"
  GUA_neutrality:0 "Guatemala"
  GUA_neutrality_DEF:0 "Guatemala"
  GUA_communism:0 "Union Guatemala"
@@ -1326,7 +1326,7 @@
  HON_neutrality:0 "Honduras"
  HON_neutrality_DEF:0 "Honduras"
  HON_communism:0 "Honduran Commonwealth"
- HON_communism_DEF:0 "The Honduran Commonwealth"
+ HON_communism_DEF:0 "the Honduran Commonwealth"
  HON_fascism_ADJ:0 "Honduran"
  HON_conservatism_ADJ:0 "Honduran"
  HON_socialism_ADJ:0 "Honduran"
@@ -1336,15 +1336,15 @@
  IRQ_fascism:0 "Al-Muthanna Iraq"
  IRQ_fascism_DEF:0 "Al-Muthanna Iraq"
  IRQ_conservatism:0 "Iraqi Republic"
- IRQ_conservatism_DEF:0 "The Iraqi Republic"
+ IRQ_conservatism_DEF:0 "the Iraqi Republic"
  IRQ_socialism:0 "Iraqi Republic"
- IRQ_socialism_DEF:0 "The Iraqi Republic"
+ IRQ_socialism_DEF:0 "the Iraqi Republic"
  IRQ_liberalism:0 "Iraqi Republic"
- IRQ_liberalism_DEF:0 "The Iraqi Republic"
+ IRQ_liberalism_DEF:0 "the Iraqi Republic"
  IRQ_neutrality:0 "Iraq"
  IRQ_neutrality_DEF:0 "Iraq"
  IRQ_communism:0 "Iraqi People's State"
- IRQ_communism_DEF:0 "The Iraqi People's State"
+ IRQ_communism_DEF:0 "the Iraqi People's State"
  IRQ_fascism_ADJ:0 "Iraqi"
  IRQ_conservatism_ADJ:0 "Iraqi"
  IRQ_socialism_ADJ:0 "Iraqi"
@@ -1352,19 +1352,19 @@
  IRQ_neutrality_ADJ:0 "Iraqi"
  IRQ_communism_ADJ:0 "Iraqi"
  JAP_fascism:0 "Empire of Japan"
- JAP_fascism_DEF:0 "The Empire of Great Japan"
+ JAP_fascism_DEF:0 "the Empire of Great Japan"
  JAP_conservatism:0 "Japan"
- JAP_conservatism_DEF:0 "The State of Japan"
+ JAP_conservatism_DEF:0 "the State of Japan"
  JAP_socialism:0 "Japan"
- JAP_socialism_DEF:0 "The State of Japan"
+ JAP_socialism_DEF:0 "the State of Japan"
  JAP_liberalism:0 "Japan"
- JAP_liberalism_DEF:0 "The State of Japan"
+ JAP_liberalism_DEF:0 "the State of Japan"
  JAP_neutrality:0 "Empire of Japan" #Japanese Shogunate
- JAP_neutrality_DEF:0 "The Empire of Great Japan" #The Japanese Shogunate
+ JAP_neutrality_DEF:0 "the Empire of Great Japan" #The Japanese Shogunate
  JAP_communism:0 "People's Republic of Japan" #Japanese People's Republic
- JAP_communism_DEF:0 "The People's Republic of Japan" #The Japanese People's Republic
+ JAP_communism_DEF:0 "the People's Republic of Japan" #The Japanese People's Republic
  JAP_monarchism:0 "Empire of Japan"
- JAP_monarchism_DEF:0 "The Empire of Great Japan"
+ JAP_monarchism_DEF:0 "the Empire of Great Japan"
  JAP_monarchism_ADJ:0 "Japanese"
  JAP_fascism_ADJ:0 "Japanese"
  JAP_conservatism_ADJ:0 "Japanese"
@@ -1373,17 +1373,17 @@
  JAP_neutrality_ADJ:0 "Japanese"
  JAP_communism_ADJ:0 "Japanese"
  MEX_fascism:0 "Mexican State" #Synarchist Mexico
- MEX_fascism_DEF:0 "The Mexican State" #Synarchist Mexico
+ MEX_fascism_DEF:0 "the Mexican State" #Synarchist Mexico
  MEX_conservatism:0 "Mexican Opposition"
- MEX_conservatism_DEF:0 "The Mexican Opposition"
+ MEX_conservatism_DEF:0 "the Mexican Opposition"
  MEX_socialism:0 "Mexican Opposition"
- MEX_socialism_DEF:0 "The Mexican Opposition"
+ MEX_socialism_DEF:0 "the Mexican Opposition"
  MEX_liberalism:0 "Mexican Opposition"
- MEX_liberalism_DEF:0 "The Mexican Opposition"
+ MEX_liberalism_DEF:0 "the Mexican Opposition"
  MEX_neutrality:0 "Mexico"
  MEX_neutrality_DEF:0 "Mexico"
  MEX_communism:0 "Mexican Socialist Republic"
- MEX_communism_DEF:0 "The Mexican Socialist Republic"
+ MEX_communism_DEF:0 "the Mexican Socialist Republic"
  MEX_fascism_ADJ:0 "Mexican"
  MEX_conservatism_ADJ:0 "Mexican"
  MEX_socialism_ADJ:0 "Mexican"
@@ -1391,17 +1391,17 @@
  MEX_neutrality_ADJ:0 "Mexican"
  MEX_communism_ADJ:0 "Mexican"
  MON_fascism:0 "Mongol Empire"
- MON_fascism_DEF:0 "The Mongol Empire"
+ MON_fascism_DEF:0 "the Mongol Empire"
  MON_conservatism:0 "Mongolia"
  MON_conservatism_DEF:0 "Mongolia"
  MON_socialism:0 "Mongolian Socialist Republic"
- MON_socialism_DEF:0 "The Mongolian Socialist Republic"
+ MON_socialism_DEF:0 "the Mongolian Socialist Republic"
  MON_liberalism:0 "Mongolian Parliamentary Republic"
- MON_liberalism_DEF:0 "The Mongolian Parliamentary Republic"
+ MON_liberalism_DEF:0 "the Mongolian Parliamentary Republic"
  MON_neutrality:0 "Great Mongolian State"
- MON_neutrality_DEF:0 "The Great Mongolian State"
+ MON_neutrality_DEF:0 "the Great Mongolian State"
  MON_communism:0 "Mongolian People's Republic"
- MON_communism_DEF:0 "The Mongolian People's Republic"
+ MON_communism_DEF:0 "the Mongolian People's Republic"
  MON_fascism_ADJ:0 "Mongolian"
  MON_conservatism_ADJ:0 "Mongolian"
  MON_socialism_ADJ:0 "Mongolian"
@@ -1409,17 +1409,17 @@
  MON_neutrality_ADJ:0 "Mongolian"
  MON_communism_ADJ:0 "Mongolian"
  NEP_fascism:0 "Himalayan Empire"
- NEP_fascism_DEF:0 "The Himalayan Empire"
+ NEP_fascism_DEF:0 "the Himalayan Empire"
  NEP_conservatism:0 "Federal Republic of Nepal"
- NEP_conservatism_DEF:0 "The Federal Republic of Nepal"
+ NEP_conservatism_DEF:0 "the Federal Republic of Nepal"
  NEP_socialism:0 "Federal Republic of Nepal"
- NEP_socialism_DEF:0 "The Federal Republic of Nepal"
+ NEP_socialism_DEF:0 "the Federal Republic of Nepal"
  NEP_liberalism:0 "Federal Republic of Nepal"
- NEP_liberalism_DEF:0 "The Federal Republic of Nepal"
+ NEP_liberalism_DEF:0 "the Federal Republic of Nepal"
  NEP_neutrality:0 "Nepal"
  NEP_neutrality_DEF:0 "Nepal"
  NEP_communism:0 "Communist State of Nepal"
- NEP_communism_DEF:0 "The Communist State of Nepal"
+ NEP_communism_DEF:0 "the Communist State of Nepal"
  NEP_fascism_ADJ:0 "Nepali"
  NEP_conservatism_ADJ:0 "Nepali"
  NEP_socialism_ADJ:0 "Nepali"
@@ -1429,11 +1429,11 @@
  NIC_fascism:0 "Liberal Nationalist Nicaragua"
  NIC_fascism_DEF:0 "Liberal Nationalist Nicaragua"
  NIC_conservatism:0 "Republic of Nicaragua"
- NIC_conservatism_DEF:0 "The Republic of Nicaragua"
+ NIC_conservatism_DEF:0 "the Republic of Nicaragua"
  NIC_socialism:0 "Republic of Nicaragua"
- NIC_socialism_DEF:0 "The Republic of Nicaragua"
+ NIC_socialism_DEF:0 "the Republic of Nicaragua"
  NIC_liberalism:0 "Republic of Nicaragua"
- NIC_liberalism_DEF:0 "The Republic of Nicaragua"
+ NIC_liberalism_DEF:0 "the Republic of Nicaragua"
  NIC_neutrality:0 "Nicaragua"
  NIC_neutrality_DEF:0 "Nicaragua"
  NIC_communism:0 "International Nicaragua"
@@ -1465,11 +1465,11 @@
  PAR_fascism:0 "Febrerista Paraguay"
  PAR_fascism_DEF:0 "Feberrista Paraguay"
  PAR_conservatism:0 "Republic of Paraguay"
- PAR_conservatism_DEF:0 "The Republic of Paraguay"
+ PAR_conservatism_DEF:0 "the Republic of Paraguay"
  PAR_socialism:0 "Republic of Paraguay"
- PAR_socialism_DEF:0 "The Republic of Paraguay"
+ PAR_socialism_DEF:0 "the Republic of Paraguay"
  PAR_liberalism:0 "Republic of Paraguay"
- PAR_liberalism_DEF:0 "The Republic of Paraguay"
+ PAR_liberalism_DEF:0 "the Republic of Paraguay"
  PAR_neutrality:0 "Paraguay"
  PAR_neutrality_DEF:0 "Paraguay"
  PAR_communism:0 "Paraguay"
@@ -1481,19 +1481,19 @@
  PAR_neutrality_ADJ:0 "Paraguayan"
  PAR_communism_ADJ:0 "Paraguayan"
  PER_fascism:0 "New Persian Empire"
- PER_fascism_DEF:0 "The New Persian Empire"
+ PER_fascism_DEF:0 "the New Persian Empire"
  PER_conservatism:0 "Republic of Iran"
- PER_conservatism_DEF:0 "The Republic of Iran"
+ PER_conservatism_DEF:0 "the Republic of Iran"
  PER_socialism:0 "Republic of Iran"
- PER_socialism_DEF:0 "The Republic of Iran"
+ PER_socialism_DEF:0 "the Republic of Iran"
  PER_liberalism:0 "Republic of Iran"
- PER_liberalism_DEF:0 "The Republic of Iran"
+ PER_liberalism_DEF:0 "the Republic of Iran"
  PER_neutrality:0 "Iran"
  PER_neutrality_DEF:0 "Iran"
  PER_communism:0 "Democratic Republic of Iran" #Iranian Communist Authority
- PER_communism_DEF:0 "The Democratic Republic of Iran" #The Iranian Communist Authority
+ PER_communism_DEF:0 "the Democratic Republic of Iran" #The Iranian Communist Authority
  PER_monarchism:0 "Imperial State of Iran"
- PER_monarchism_DEF:0 "The Imperial State of Iran"
+ PER_monarchism_DEF:0 "the Imperial State of Iran"
  PER_monarchism_ADJ:0 "Iranian" 
  PER_fascism_ADJ:0 "Iranian"
  PER_conservatism_ADJ:0 "Iranian"
@@ -1504,11 +1504,11 @@
  PHI_fascism:0 "Ganap Philippines"
  PHI_fascism_DEF:0 "Ganap Philippines"
  PHI_conservatism:0 "Philippines"
- PHI_conservatism_DEF:0 "The Philippines"
+ PHI_conservatism_DEF:0 "the Philippines"
  PHI_socialism:0 "Philippines"
- PHI_socialism_DEF:0 "The Philippines"
+ PHI_socialism_DEF:0 "the Philippines"
  PHI_liberalism:0 "Philippines"
- PHI_liberalism_DEF:0 "The Philippines"
+ PHI_liberalism_DEF:0 "the Philippines"
  PHI_neutrality:0 "Independent Philippines"
  PHI_neutrality_DEF:0 "Independent Philippines"
  PHI_communism:0 "Huk Community of the Philippines"
@@ -1522,13 +1522,13 @@
  PRU_fascism:0 "Peru"
  PRU_fascism_DEF:0 "Peru"
  PRU_conservatism:0 "Republic of Peru"
- PRU_conservatism_DEF:0 "The Republic of Peru"
+ PRU_conservatism_DEF:0 "the Republic of Peru"
  PRU_socialism:0 "Republic of Peru"
- PRU_socialism_DEF:0 "The Republic of Peru"
+ PRU_socialism_DEF:0 "the Republic of Peru"
  PRU_liberalism:0 "Republic of Peru"
- PRU_liberalism_DEF:0 "The Republic of Peru"
+ PRU_liberalism_DEF:0 "the Republic of Peru"
  PRU_neutrality:0 "Peruvian Independent State"
- PRU_neutrality_DEF:0 "The Peruvian Independent State"
+ PRU_neutrality_DEF:0 "the Peruvian Independent State"
  PRU_communism:0 "Revolutionary Peru"
  PRU_communism_DEF:0 "Revolutionary Peru"
  PRU_fascism_ADJ:0 "Peruvian"
@@ -1548,7 +1548,7 @@
  SAF_neutrality:0 "Unitary South Africa"
  SAF_neutrality_DEF:0 "Unitary South Africa"
  SAF_communism:0 "Cape Commune"
- SAF_communism_DEF:0 "The Cape Commune"
+ SAF_communism_DEF:0 "the Cape Commune"
  SAF_fascism_ADJ:0 "South African"
  SAF_conservatism_ADJ:0 "South African"
  SAF_socialism_ADJ:0 "South African"
@@ -1556,17 +1556,17 @@
  SAF_neutrality_ADJ:0 "South African"
  SAF_communism_ADJ:0 "South African"
  SAU_fascism:0 "Arabic Empire"
- SAU_fascism_DEF:0 "The Arabic Empire"
+ SAU_fascism_DEF:0 "the Arabic Empire"
  SAU_conservatism:0 "Arabian Republic"
- SAU_conservatism_DEF:0 "The Arabian Republic"
+ SAU_conservatism_DEF:0 "the Arabian Republic"
  SAU_socialism:0 "Arabian Republic"
- SAU_socialism_DEF:0 "The Arabian Republic"
+ SAU_socialism_DEF:0 "the Arabian Republic"
  SAU_liberalism:0 "Arabian Republic"
- SAU_liberalism_DEF:0 "The Arabian Republic"
+ SAU_liberalism_DEF:0 "the Arabian Republic"
  SAU_neutrality:0 "Saudi Arabia"
  SAU_neutrality_DEF:0 "Saudi Arabia"
  SAU_communism:0 "Republic of the Arabian Assembly"
- SAU_communism_DEF:0 "The Republic of the Arabian Assembly"
+ SAU_communism_DEF:0 "the Republic of the Arabian Assembly"
  SAU_fascism_ADJ:0 "Saudi Arabian"
  SAU_conservatism_ADJ:0 "Saudi Arabian"
  SAU_socialism_ADJ:0 "Saudi Arabian"
@@ -1574,17 +1574,17 @@
  SAU_neutrality_ADJ:0 "Saudi Arabian"
  SAU_communism_ADJ:0 "Saudi Arabian"
  SIA_fascism:0 "Siamese Empire"
- SIA_fascism_DEF:0 "The Siamese Empire"
+ SIA_fascism_DEF:0 "the Siamese Empire"
  SIA_conservatism:0 "Republic of Thailand"
- SIA_conservatism_DEF:0 "The Republic of Thailand"
+ SIA_conservatism_DEF:0 "the Republic of Thailand"
  SIA_socialism:0 "Republic of Thailand"
- SIA_socialism_DEF:0 "The Republic of Thailand"
+ SIA_socialism_DEF:0 "the Republic of Thailand"
  SIA_liberalism:0 "Republic of Thailand"
- SIA_liberalism_DEF:0 "The Republic of Thailand"
+ SIA_liberalism_DEF:0 "the Republic of Thailand"
  SIA_neutrality:0 "Siam"
  SIA_neutrality_DEF:0 "Siam"
  SIA_communism:0 "Thai People's Republic"
- SIA_communism_DEF:0 "The Thai People's Republic"
+ SIA_communism_DEF:0 "the Thai People's Republic"
  SIA_fascism_ADJ:0 "Siamese"
  SIA_conservatism_ADJ:0 "Siamese"
  SIA_socialism_ADJ:0 "Siamese"
@@ -1594,11 +1594,11 @@
  SIK_fascism:0 "Dictatorial Sinkiang"
  SIK_fascism_DEF:0 "Dictatorial Sinkiang"
  SIK_conservatism:0 "Sinkiang Independent Republic"
- SIK_conservatism_DEF:0 "The Sinkiang Independent Republic"
+ SIK_conservatism_DEF:0 "the Sinkiang Independent Republic"
  SIK_socialism:0 "Sinkiang Independent Republic"
- SIK_socialism_DEF:0 "The Sinkiang Independent Republic"
+ SIK_socialism_DEF:0 "the Sinkiang Independent Republic"
  SIK_liberalism:0 "Sinkiang Independent Republic"
- SIK_liberalism_DEF:0 "The Sinkiang Independent Republic"
+ SIK_liberalism_DEF:0 "the Sinkiang Independent Republic"
  SIK_neutrality:0 "State of Sinkiang"
  SIK_neutrality_DEF:0 "State of Sinkiang"
  SIK_communism:0 "Sinkiang"
@@ -1610,13 +1610,13 @@
  SIK_neutrality_ADJ:0 "Sinkiang"
  SIK_communism_ADJ:0 "Sinkiang"
  TAN_fascism:0 "Tuvan Nationalist Republic"
- TAN_fascism_DEF:0 "The Tuvan Nationalist Republic"
+ TAN_fascism_DEF:0 "the Tuvan Nationalist Republic"
  TAN_conservatism:0 "Tuva Independent Republic"
- TAN_conservatism_DEF:0 "The Tuva Independent Republic"
+ TAN_conservatism_DEF:0 "the Tuva Independent Republic"
  TAN_socialism:0 "Tuva Independent Republic"
- TAN_socialism_DEF:0 "The Tuva Independent Republic"
+ TAN_socialism_DEF:0 "the Tuva Independent Republic"
  TAN_liberalism:0 "Tuva Independent Republic"
- TAN_liberalism_DEF:0 "The Tuva Independent Republic"
+ TAN_liberalism_DEF:0 "the Tuva Independent Republic"
  TAN_neutrality:0 "Tannu Uriankhai"
  TAN_neutrality_DEF:0 "Tannu Uriankhai"
  TAN_communism:0 "Tannu Tuva"
@@ -1628,17 +1628,17 @@
  TAN_neutrality_ADJ:0 "Tuvan"
  TAN_communism_ADJ:0 "Tuvan"
  TIB_fascism:0 "Tibetan Empire"
- TIB_fascism_DEF:0 "The Tibetan Empire"
+ TIB_fascism_DEF:0 "the Tibetan Empire"
  TIB_conservatism:0 "Republic of Tibet"
- TIB_conservatism_DEF:0 "The Republic of Tibet"
+ TIB_conservatism_DEF:0 "the Republic of Tibet"
  TIB_socialism:0 "Republic of Tibet"
- TIB_socialism_DEF:0 "The Republic of Tibet"
+ TIB_socialism_DEF:0 "the Republic of Tibet"
  TIB_liberalism:0 "Republic of Tibet"
- TIB_liberalism_DEF:0 "The Republic of Tibet"
+ TIB_liberalism_DEF:0 "the Republic of Tibet"
  TIB_neutrality:0 "Tibet"
  TIB_neutrality_DEF:0 "Tibet"
  TIB_communism:0 "Tibetan People's Republic"
- TIB_communism_DEF:0 "The Tibetan People's Republic"
+ TIB_communism_DEF:0 "the Tibetan People's Republic"
  TIB_fascism_ADJ:0 "Tibetan"
  TIB_conservatism_ADJ:0 "Tibetan"
  TIB_socialism_ADJ:0 "Tibetan"
@@ -1648,11 +1648,11 @@
  VEN_fascism:0 "Venezuela"
  VEN_fascism_DEF:0 "Venezuela"
  VEN_conservatism:0 "Federal Republic of Venezuela"
- VEN_conservatism_DEF:0 "The Federal Republic of Venezuela"
+ VEN_conservatism_DEF:0 "the Federal Republic of Venezuela"
  VEN_socialism:0 "Federal Republic of Venezuela"
- VEN_socialism_DEF:0 "The Federal Republic of Venezuela"
+ VEN_socialism_DEF:0 "the Federal Republic of Venezuela"
  VEN_liberalism:0 "Federal Republic of Venezuela"
- VEN_liberalism_DEF:0 "The Federal Republic of Venezuela"
+ VEN_liberalism_DEF:0 "the Federal Republic of Venezuela"
  VEN_neutrality:0 "Bolivarian Venezuela"
  VEN_neutrality_DEF:0 "Bolivarian Venezuela"
  VEN_communism:0 "Leftist International Venezuela"
@@ -1664,17 +1664,17 @@
  VEN_neutrality_ADJ:0 "Venezuelan"
  VEN_communism_ADJ:0 "Venezuelan"
  YUN_fascism:0 "Yunnan Free Empire"
- YUN_fascism_DEF:0 "The Yunnan Free Empire"
+ YUN_fascism_DEF:0 "the Yunnan Free Empire"
  YUN_conservatism:0 "Yunnan Independent Republic"
- YUN_conservatism_DEF:0 "The Yunnan Independent Republic"
+ YUN_conservatism_DEF:0 "the Yunnan Independent Republic"
  YUN_socialism:0 "Yunnan Independent Republic"
- YUN_socialism_DEF:0 "The Yunnan Independent Republic"
+ YUN_socialism_DEF:0 "the Yunnan Independent Republic"
  YUN_liberalism:0 "Yunnan Independent Republic"
- YUN_liberalism_DEF:0 "The Yunnan Independent Republic"
+ YUN_liberalism_DEF:0 "the Yunnan Independent Republic"
  YUN_neutrality:0 "Yunnan"
  YUN_neutrality_DEF:0 "Yunnan"
  YUN_communism:0 "Soviet State of Yunnan"
- YUN_communism_DEF:0 "The Soviet State of Yunnan"
+ YUN_communism_DEF:0 "the Soviet State of Yunnan"
  YUN_fascism_ADJ:0 "Yunnanese"
  YUN_conservatism_ADJ:0 "Yunnanese"
  YUN_socialism_ADJ:0 "Yunnanese"
@@ -1682,19 +1682,19 @@
  YUN_neutrality_ADJ:0 "Yunnanese"
  YUN_communism_ADJ:0 "Yunnanese"
  AST_fascism:0 "Commonwealth of Australia" #Centralist Australia
- AST_fascism_DEF:0 "The Commonwealth of Australia" #Centralist Australia
+ AST_fascism_DEF:0 "the Commonwealth of Australia" #Centralist Australia
  AST_conservatism:0 "Commonwealth of Australia" #Australia
- AST_conservatism_DEF:0 "The Commonwealth of Australia" #Australia
+ AST_conservatism_DEF:0 "the Commonwealth of Australia" #Australia
  AST_liberalism:0 "Commonwealth of Australia" #Australia
- AST_liberalism_DEF:0 "The Commonwealth of Australia" #Australia
+ AST_liberalism_DEF:0 "the Commonwealth of Australia" #Australia
  AST_socialism:0 "Commonwealth of Australia" #Australia
- AST_socialism_DEF:0 "The Commonwealth of Australia" #Australia
+ AST_socialism_DEF:0 "the Commonwealth of Australia" #Australia
  AST_neutrality:0 "Commonwealth of Australia" #Emu Empire
- AST_neutrality_DEF:0 "The Commonwealth of Australia" #The Emu Empire
+ AST_neutrality_DEF:0 "the Commonwealth of Australia" #The Emu Empire
  AST_communism:0 "Australian People's Republic"
- AST_communism_DEF:0 "The Australian People's Republic"
+ AST_communism_DEF:0 "the Australian People's Republic"
  AST_monarchism:0 "Commonwealth of Australia" #Kingdom of Australia
- AST_monarchism_DEF:0 "The Commonwealth of Australia" #The Kingdom of Australia
+ AST_monarchism_DEF:0 "the Commonwealth of Australia" #The Kingdom of Australia
  AST_monarchism_ADJ:0 "Australian"
  AST_fascism_ADJ:0 "Australian"
  AST_conservatism_ADJ:0 "Australian"
@@ -1703,7 +1703,7 @@
  AST_neutrality_ADJ:0 "Australian"
  AST_communism_ADJ:0 "Australian"
  NZL_fascism:0 "Kiwi Empire"
- NZL_fascism_DEF:0 "The Kiwi Empire"
+ NZL_fascism_DEF:0 "the Kiwi Empire"
  NZL_conservatism:0 "New Zealand"
  NZL_conservatism_DEF:0 "New Zealand"
  NZL_socialism:0 "New Zealand"
@@ -1711,9 +1711,9 @@
  NZL_liberalism:0 "New Zealand"
  NZL_liberalism_DEF:0 "New Zealand"
  NZL_neutrality:0 "Nova Zeelandia Republic"
- NZL_neutrality_DEF:0 "The Nova Zeelandia Republic"
+ NZL_neutrality_DEF:0 "the Nova Zeelandia Republic"
  NZL_communism:0 "People's Republic of Aotearoa"
- NZL_communism_DEF:0 "The People's Republic of Aotearoa"
+ NZL_communism_DEF:0 "the People's Republic of Aotearoa"
  NZL_fascism_ADJ:0 "Kiwi Empire"
  NZL_conservatism_ADJ:0 "New Zealand"
  NZL_socialism_ADJ:0 "New Zealand"
@@ -1731,7 +1731,7 @@
  URG_neutrality: "Uruguay"
  URG_neutrality_DEF: "Uruguay"
  URG_communism:0 "Socialist Republic of Uruguay"
- URG_communism_DEF:0 "The Socialist Republic of Uruguay"
+ URG_communism_DEF:0 "the Socialist Republic of Uruguay"
  URG_fascism_ADJ:0 "Uruguayan"
  URG_conservatism_ADJ:0 "Uruguayan"
  URG_socialism_ADJ:0 "Uruguayan"
@@ -1757,17 +1757,17 @@
  CUB_neutrality_ADJ:0 "Cuban"
  CUB_communism_ADJ:0 "Cuban"
  DOM_fascism:0 "Dominican Republic"
- DOM_fascism_DEF:0 "The Dominican Republic"
+ DOM_fascism_DEF:0 "the Dominican Republic"
  DOM_conservatism:0 "Representative Dominican Republic"
- DOM_conservatism_DEF:0 "The Representative Dominican Republic"
+ DOM_conservatism_DEF:0 "the Representative Dominican Republic"
  DOM_socialism:0 "Representative Dominican Republic"
- DOM_socialism_DEF:0 "The Representative Dominican Republic"
+ DOM_socialism_DEF:0 "the Representative Dominican Republic"
  DOM_liberalism:0 "Representative Dominican Republic"
- DOM_liberalism_DEF:0 "The Representative Dominican Republic"
+ DOM_liberalism_DEF:0 "the Representative Dominican Republic"
  DOM_neutrality:0 "Santo Domingo"
  DOM_neutrality_DEF:0 "Santo Domingo"
  DOM_communism:0 "Dominican People's Republic"
- DOM_communism_DEF:0 "The Dominican People's Republic"
+ DOM_communism_DEF:0 "the Dominican People's Republic"
  DOM_fascism_ADJ:0 "Dominican"
  DOM_conservatism_ADJ:0 "Dominican"
  DOM_socialism_ADJ:0 "Dominican"
@@ -1775,7 +1775,7 @@
  DOM_neutrality_ADJ:0 "Dominican"
  DOM_communism_ADJ:0 "Dominican"
  HAI_fascism:0 "Third Empire of Haiti"
- HAI_fascism_DEF:0 "The Third Empire of Haiti"
+ HAI_fascism_DEF:0 "the Third Empire of Haiti"
  HAI_conservatism:0 "Haiti"
  HAI_conservatism_DEF:0 "Haiti"
  HAI_socialism:0 "Haiti"
@@ -1783,9 +1783,9 @@
  HAI_liberalism:0 "Haiti"
  HAI_liberalism_DEF:0 "Haiti"
  HAI_neutrality:0 "Kingdom of Haiti"
- HAI_neutrality_DEF:0 "The Kingdom of Haiti"
+ HAI_neutrality_DEF:0 "the Kingdom of Haiti"
  HAI_communism:0 "Haiti Socialist Republic"
- HAI_communism_DEF:0 "The Haiti Socialist Republic"
+ HAI_communism_DEF:0 "the Haiti Socialist Republic"
  HAI_fascism_ADJ:0 "Haitian"
  HAI_conservatism_ADJ:0 "Haitian"
  HAI_socialism_ADJ:0 "Haitian"
@@ -1793,19 +1793,19 @@
  HAI_neutrality_ADJ:0 "Haitian"
  HAI_communism_ADJ:0 "Haitian"
  OMA_fascism:0 "Omani Empire"
- OMA_fascism_DEF:0 "The Omani Empire"
+ OMA_fascism_DEF:0 "the Omani Empire"
  OMA_conservatism:0 "Republic of Oman"
- OMA_conservatism_DEF:0 "The Republic of Oman"
+ OMA_conservatism_DEF:0 "the Republic of Oman"
  OMA_socialism:0 "Republic of Oman"
- OMA_socialism_DEF:0 "The Republic of Oman"
+ OMA_socialism_DEF:0 "the Republic of Oman"
  OMA_liberalism:0 "Republic of Oman"
- OMA_liberalism_DEF:0 "The Republic of Oman"
+ OMA_liberalism_DEF:0 "the Republic of Oman"
  OMA_neutrality:0 "Oman"
  OMA_neutrality_DEF:0 "Oman"
  OMA_communism:0 "People's Republic of Oman"
- OMA_communism_DEF:0 "The People's Republic of Oman"
- OMA_monarchism:0 "Sultanate of Muscat And Oman"
- OMA_monarchism_DEF:0 "The Sultanate of Muscat And Oman"
+ OMA_communism_DEF:0 "the People's Republic of Oman"
+ OMA_monarchism:0 "Sultanate of Muscat and Oman"
+ OMA_monarchism_DEF:0 "the Sultanate of Muscat and Oman"
  OMA_monarchism_ADJ:0 "Omani"
  OMA_fascism_ADJ:0 "Omani"
  OMA_liberalism_ADJ:0 "Omani"
@@ -1814,19 +1814,19 @@
  OMA_neutrality_ADJ:0 "Omani"
  OMA_communism_ADJ:0 "Omani"
  YEM_fascism:0 "State of Yemen" #Federation of South Arabia
- YEM_fascism_DEF:0 "The State of Yemen" #Federation of South Arabia
+ YEM_fascism_DEF:0 "the State of Yemen" #Federation of South Arabia
  YEM_conservatism:0 "Republic of Yemen" #Yemen Arab Republic
- YEM_conservatism_DEF:0 "The Republic of Yemen" #The Yemen Arab Republic
+ YEM_conservatism_DEF:0 "the Republic of Yemen" #The Yemen Arab Republic
  YEM_socialism:0 "Republic of Yemen" #Yemen Arab Republic
- YEM_socialism_DEF:0 "The Republic of Yemen" #The Yemen Arab Republic
+ YEM_socialism_DEF:0 "the Republic of Yemen" #The Yemen Arab Republic
  YEM_liberalism:0 "Republic of Yemen" #Yemen Arab Republic
- YEM_liberalism_DEF:0 "The Republic of Yemen" #The Yemen Arab Republic
+ YEM_liberalism_DEF:0 "the Republic of Yemen" #The Yemen Arab Republic
  YEM_neutrality:0 "Yemen"
  YEM_neutrality_DEF:0 "Yemen"
  YEM_communism:0 "Yemen Arab Republic" #Soviet State of Yemen
- YEM_communism_DEF:0 "The Yemen Arab Republic" #The Soviet State of Yemen
+ YEM_communism_DEF:0 "the Yemen Arab Republic" #The Soviet State of Yemen
  YEM_monarchism:0 "Mutawakkilite Kingdom" #Mahra Sultanate of Qishn and Socotra is south yemen (aka aden protectorate). this is north yemen (the one to the west, confusingly)
- YEM_monarchism_DEF:0 "The Mutawakkilite Kingdom" #The Mahra Sultanate of Qishn and Socotra is south yemen (aka aden protectorate). this is north yemen (the one to the west, confusingly)
+ YEM_monarchism_DEF:0 "the Mutawakkilite Kingdom" #The Mahra Sultanate of Qishn and Socotra is south yemen (aka aden protectorate). this is north yemen (the one to the west, confusingly)
  YEM_monarchism_ADJ:0 "Mutawakkilite" #Mahran
  YEM_fascism_ADJ:0 "North Yemeni"
  YEM_conservatism_ADJ:0 "North Yemeni"
@@ -1837,15 +1837,15 @@
  ETH_fascism:0 "Lictor Ethiopia"
  ETH_fascism_DEF:0 "Lictor Ethiopia"
  ETH_conservatism:0 "Federal Democratic Republic of Ethiopia"
- ETH_conservatism_DEF:0 "The Federal Democratic Republic of Ethiopia"
+ ETH_conservatism_DEF:0 "the Federal Democratic Republic of Ethiopia"
  ETH_socialism:0 "Federal Democratic Republic of Ethiopia"
- ETH_socialism_DEF:0 "The Federal Democratic Republic of Ethiopia"
+ ETH_socialism_DEF:0 "the Federal Democratic Republic of Ethiopia"
  ETH_liberalism:0 "Federal Democratic Republic of Ethiopia"
- ETH_liberalism_DEF:0 "The Federal Democratic Republic of Ethiopia"
+ ETH_liberalism_DEF:0 "the Federal Democratic Republic of Ethiopia"
  ETH_neutrality:0 "Ethiopia"
  ETH_neutrality_DEF:0 "Ethiopia"
  ETH_communism:0 "People's Democratic Republic of Ethiopia"
- ETH_communism_DEF:0 "The People's Democratic Republic of Ethiopia"
+ ETH_communism_DEF:0 "the People's Democratic Republic of Ethiopia"
  ETH_fascism_ADJ:0 "Ethiopian"
  ETH_conservatism_ADJ:0 "Ethiopian"
  ETH_socialism_ADJ:0 "Ethiopian"
@@ -1855,15 +1855,15 @@
  SLO_fascism:0 "Slovakia"
  SLO_fascism_DEF:0 "Slovakia"
  SLO_conservatism:0 "Slovak Republic"
- SLO_conservatism_DEF:0 "The Slovak Republic"
+ SLO_conservatism_DEF:0 "the Slovak Republic"
  SLO_socialism:0 "Slovak Republic"
- SLO_socialism_DEF:0 "The Slovak Republic"
+ SLO_socialism_DEF:0 "the Slovak Republic"
  SLO_liberalism:0 "Slovak Republic"
- SLO_liberalism_DEF:0 "The Slovak Republic"
+ SLO_liberalism_DEF:0 "the Slovak Republic"
  SLO_neutrality:0 "Free State of Slovakia"
- SLO_neutrality_DEF:0 "The Free State of Slovakia"
+ SLO_neutrality_DEF:0 "the Free State of Slovakia"
  SLO_communism:0 "Slovak Socialist Republic"
- SLO_communism_DEF:0 "The Slovak Socialist Republic"
+ SLO_communism_DEF:0 "the Slovak Socialist Republic"
  SLO_fascism_ADJ:0 "Slovakian"
  SLO_conservatism_ADJ:0 "Slovakian"
  SLO_socialism_ADJ:0 "Slovakian"
@@ -1871,17 +1871,17 @@
  SLO_neutrality_ADJ:0 "Slovakian"
  SLO_communism_ADJ:0 "Slovakian"
  BHU_fascism:0 "Thunder Dragon Empire"
- BHU_fascism_DEF:0 "The Thunder Dragon Empire"
+ BHU_fascism_DEF:0 "the Thunder Dragon Empire"
  BHU_conservatism:0 "Bhutanese Republic"
- BHU_conservatism_DEF:0 "The Bhutanese Republic"
+ BHU_conservatism_DEF:0 "the Bhutanese Republic"
  BHU_socialism:0 "Bhutanese Republic"
- BHU_socialism_DEF:0 "The Bhutanese Republic"
+ BHU_socialism_DEF:0 "the Bhutanese Republic"
  BHU_liberalism:0 "Bhutanese Republic"
- BHU_liberalism_DEF:0 "The Bhutanese Republic"
+ BHU_liberalism_DEF:0 "the Bhutanese Republic"
  BHU_neutrality:0 "Bhutan"
  BHU_neutrality_DEF:0 "Bhutan"
  BHU_communism:0 "Union of Red Dragons"
- BHU_communism_DEF:0 "The Union of Red Dragons"
+ BHU_communism_DEF:0 "the Union of Red Dragons"
  BHU_fascism_ADJ:0 "Bhutanese"
  BHU_conservatism_ADJ:0 "Bhutanese"
  BHU_socialism_ADJ:0 "Bhutanese"
@@ -1899,7 +1899,7 @@
  LIB_neutrality:0 "Independent Liberia"
  LIB_neutrality_DEF:0 "Independent Liberia"
  LIB_communism:0 "Liberian Commune"
- LIB_communism_DEF:0 "The Liberian Commune"
+ LIB_communism_DEF:0 "the Liberian Commune"
  LIB_fascism_ADJ:0 "Liberian"
  LIB_conservatism_ADJ:0 "Liberian"
  LIB_socialism_ADJ:0 "Liberian"
@@ -1917,7 +1917,7 @@
  RAJ_neutrality:0 "India"
  RAJ_neutrality_DEF:0 "Indian"
  RAJ_communism:0 "Indian People's Republic"
- RAJ_communism_DEF:0 "The Indian People's Republic"
+ RAJ_communism_DEF:0 "the Indian People's Republic"
  RAJ_fascism_ADJ:0 "British Indian"
  RAJ_conservatism_ADJ:0 "British Indian"
  RAJ_socialism_ADJ:0 "British Indian"
@@ -1925,15 +1925,15 @@
  RAJ_neutrality_ADJ:0 "British Indian"
  RAJ_communism_ADJ:0 "British Indian"
  CRO_fascism:0 "Independent State of Croatia"
- CRO_fascism_DEF:0 "The Independent State of Croatia"
+ CRO_fascism_DEF:0 "the Independent State of Croatia"
  CRO_conservatism:0 "Republic of Croatia"
- CRO_conservatism_DEF:0 "The Republic of Croatia"
+ CRO_conservatism_DEF:0 "the Republic of Croatia"
  CRO_socialism:0 "Republic of Croatia"
- CRO_socialism_DEF:0 "The Republic of Croatia"
+ CRO_socialism_DEF:0 "the Republic of Croatia"
  CRO_liberalism:0 "Republic of Croatia"
- CRO_liberalism_DEF:0 "The Republic of Croatia"
+ CRO_liberalism_DEF:0 "the Republic of Croatia"
  CRO_neutrality:0 "Kingdom of Croatia"
- CRO_neutrality_DEF:0 "The Kingdom of Croatia"
+ CRO_neutrality_DEF:0 "the Kingdom of Croatia"
  CRO_communism:0 "SR Croatia"
  CRO_communism_DEF:0 "SR Croatia"
  CRO_fascism_ADJ:0 "Croatian"
@@ -1951,17 +1951,17 @@
  CRO_YUG_monarchism_autonomy_puppet_DEF:1 "the Banovinate of Croatia"
  CRO_YUG_monarchism_autonomy_integrated_puppet_DEF:0 "the Banovinate of Croatia"
  GXC_fascism:0 "Third Guangxi Clique"
- GXC_fascism_DEF:0 "The Third Guangxi Clique"
+ GXC_fascism_DEF:0 "the Third Guangxi Clique"
  GXC_conservatism:0 "Guangxi Independent Republic"
- GXC_conservatism_DEF:0 "The Guangxi Independent Republic"
+ GXC_conservatism_DEF:0 "the Guangxi Independent Republic"
  GXC_socialism:0 "Guangxi Independent Republic"
- GXC_socialism_DEF:0 "The Guangxi Independent Republic"
+ GXC_socialism_DEF:0 "the Guangxi Independent Republic"
  GXC_liberalism:0 "Guangxi Independent Republic"
- GXC_liberalism_DEF:0 "The Guangxi Independent Republic"
+ GXC_liberalism_DEF:0 "the Guangxi Independent Republic"
  GXC_neutrality:0 "Guangxi Clique"
- GXC_neutrality_DEF:0 "The Guangxi Clique"
+ GXC_neutrality_DEF:0 "the Guangxi Clique"
  GXC_communism:0 "Socialist Republic of the Zhu Jiang"
- GXC_communism_DEF:0 "The Socialist Republic of the Zhu Jiang"
+ GXC_communism_DEF:0 "the Socialist Republic of the Zhu Jiang"
  GXC_fascism_ADJ:0 "Guangxi"
  GXC_socialism_ADJ:0 "Guangxi"
  GXC_conservatism_ADJ:0 "Guangxi"
@@ -1969,13 +1969,13 @@
  GXC_neutrality_ADJ:0 "Guangxi"
  GXC_communism_ADJ:0 "Guangxi"
  SHX_fascism:0 "Shanxi Yan State"
- SHX_fascism_DEF:0 "The Shanxi Yan State"
+ SHX_fascism_DEF:0 "the Shanxi Yan State"
  SHX_conservatism:0 "Shanxi Republic"
- SHX_conservatism_DEF:0 "The Shanxi Republic"
+ SHX_conservatism_DEF:0 "the Shanxi Republic"
  SHX_socialism:0 "Shanxi Republic"
- SHX_socialism_DEF:0 "The Shanxi Republic"
+ SHX_socialism_DEF:0 "the Shanxi Republic"
  SHX_liberalism:0 "Shanxi Republic"
- SHX_liberalism_DEF:0 "The Shanxi Republic"
+ SHX_liberalism_DEF:0 "the Shanxi Republic"
  SHX_neutrality:0 "Shanxi"
  SHX_neutrality_DEF:0 "Shanxi"
  SHX_communism:0 "Soviet State of Shanxi"
@@ -1987,17 +1987,17 @@
  SHX_neutrality_ADJ:0 "Shanxi"
  SHX_communism_ADJ:0 "Shanxi"
  XSM_fascism:0 "Xibei San Ma Free State"
- XSM_fascism_DEF:0 "The Xibei San Ma Free State"
+ XSM_fascism_DEF:0 "the Xibei San Ma Free State"
  XSM_conservatism:0 "Hui Republic"
- XSM_conservatism_DEF:0 "The Hui Republic"
+ XSM_conservatism_DEF:0 "the Hui Republic"
  XSM_socialism:0 "Hui Republic"
- XSM_socialism_DEF:0 "The Hui Republic"
+ XSM_socialism_DEF:0 "the Hui Republic"
  XSM_liberalism:0 "Hui Republic"
- XSM_liberalism_DEF:0 "The Hui Republic"
+ XSM_liberalism_DEF:0 "the Hui Republic"
  XSM_neutrality:0 "Xibei San Ma"
  XSM_neutrality_DEF:0 "Xibei San Ma"
  XSM_communism:0 "People's Republic of Ma"
- XSM_communism_DEF:0 "The People's Republic of Ma"
+ XSM_communism_DEF:0 "the People's Republic of Ma"
  XSM_fascism_ADJ:0 "Ma"
  XSM_conservatism_ADJ:0 "Ma"
  XSM_socialism_ADJ:0 "Ma"
@@ -2007,15 +2007,15 @@
  MEN_fascism:0 "Mengkukuo"
  MEN_fascism_DEF:0 "Mengkukuo"
  MEN_conservatism:0 "Republic of Mengjiang"
- MEN_conservatism_DEF:0 "The Republic of Mengjiang"
+ MEN_conservatism_DEF:0 "the Republic of Mengjiang"
  MEN_socialism:0 "Republic of Mengjiang"
- MEN_socialism_DEF:0 "The Republic of Mengjiang"
+ MEN_socialism_DEF:0 "the Republic of Mengjiang"
  MEN_liberalism:0 "Republic of Mengjiang"
- MEN_liberalism_DEF:0 "The Republic of Mengjiang"
+ MEN_liberalism_DEF:0 "the Republic of Mengjiang"
  MEN_neutrality:0 "Mengjiang"
  MEN_neutrality_DEF:0 "Mengjiang"
  MEN_communism:0 "People's Mengjiang"
- MEN_communism_DEF:0 "The People's Mengjiang"
+ MEN_communism_DEF:0 "the People's Mengjiang"
  MEN_fascism_ADJ:0 "Mengjiang"
  MEN_conservatism_ADJ:0 "Mengjiang"
  MEN_socialism_ADJ:0 "Mengjiang"
@@ -2023,7 +2023,7 @@
  MEN_neutrality_ADJ:0 "Mengjiang"
  MEN_communism_ADJ:0 "Mengjiang"
  KOR_fascism:0 "Independent Korean Governorate"
- KOR_fascism_DEF:0 "The Independent Korean Governorate"
+ KOR_fascism_DEF:0 "the Independent Korean Governorate"
  KOR_conservatism:0 "Korea"
  KOR_conservatism_DEF:0 "Korea"
  KOR_socialism:0 "Korea"
@@ -2031,9 +2031,9 @@
  KOR_liberalism:0 "Korea"
  KOR_liberalism_DEF:0 "Korea"
  KOR_communism:0 "Democratic People's Republic of Korea"
- KOR_communism_DEF:0 "The Democratic People's Republic of Korea"
+ KOR_communism_DEF:0 "the Democratic People's Republic of Korea"
  KOR_neutrality:0 "Joseon Empire"
- KOR_neutrality_DEF:0 "The Joseon Empire"
+ KOR_neutrality_DEF:0 "the Joseon Empire"
  KOR_fascism_ADJ:0 "Korean"
  KOR_conservatism_ADJ:0 "Korean"
  KOR_liberalism_ADJ:0 "Korean"
@@ -2041,7 +2041,7 @@
  KOR_communism_ADJ:0 "Korean"
  KOR_neutrality_ADJ:0 "Korean"
  SER_fascism:0 "Serbian Empire"
- SER_fascism_DEF:0 "The Serbian Empire"
+ SER_fascism_DEF:0 "the Serbian Empire"
  SER_conservatism:0 "Serbia"
  SER_conservatism_DEF:0 "Serbia"
  SER_socialism:0 "Serbia"
@@ -2049,7 +2049,7 @@
  SER_liberalism:0 "Serbia"
  SER_liberalism_DEF:0 "Serbia"
  SER_communism:0 "Socialist Republic of Serbia"
- SER_communism_DEF:0 "The Socialist Republic of Serbia"
+ SER_communism_DEF:0 "the Socialist Republic of Serbia"
  SER_neutrality:0 "Serbia"
  SER_neutrality_DEF:0 "Serbia"
  SER_fascism_ADJ:0 "Serbian"
@@ -2059,7 +2059,7 @@
  SER_communism_ADJ:0 "Serbian"
  SER_neutrality_ADJ:0 "Serbian"
  ICE_fascism:0 "Islandsveldi"
- ICE_fascism_DEF:0 "The Islandsveldi"
+ ICE_fascism_DEF:0 "the Islandsveldi"
  ICE_conservatism:0 "Iceland"
  ICE_conservatism_DEF:0 "Iceland"
  ICE_socialism:0 "Iceland"
@@ -2067,7 +2067,7 @@
  ICE_liberalism:0 "Iceland"
  ICE_liberalism_DEF:0 "Iceland"
  ICE_communism:0 "Worker's Republic of Iceland"
- ICE_communism_DEF:0 "The Worker's Republic of Iceland"
+ ICE_communism_DEF:0 "the Worker's Republic of Iceland"
  ICE_neutrality:0 "Island"
  ICE_neutrality_DEF:0 "Island"
  ICE_fascism_ADJ:0 "Icelandic"
@@ -2083,11 +2083,11 @@
  SYR_liberalism:0 "Syria"
  SYR_liberalism_DEF:0 "Syria"
  SYR_neutrality:0 "Kingdom of Syria"
- SYR_neutrality_DEF:0 "The Kingdom of Syria"
+ SYR_neutrality_DEF:0 "the Kingdom of Syria"
  SYR_fascism:0 "Syrian National State"
- SYR_fascism_DEF:0 "The Syrian National State"
+ SYR_fascism_DEF:0 "the Syrian National State"
  SYR_communism:0 "Socialist State of Syria"
- SYR_communism_DEF:0 "The Socialist State of Syria"
+ SYR_communism_DEF:0 "the Socialist State of Syria"
  SYR_fascism_ADJ:0 "Syrian"
  SYR_liberalism_ADJ:0 "Syrian"
  SYR_socialism_ADJ:0 "Syrian"
@@ -2103,9 +2103,9 @@
  LEB_neutrality:0 "Lebanon"
  LEB_neutrality_DEF:0 "Lebanon"
  LEB_fascism:0 "Lebanon Free State"
- LEB_fascism_DEF:0 "The Lebanon Free State"
+ LEB_fascism_DEF:0 "the Lebanon Free State"
  LEB_communism:0 "Lebanese Socialist Republic"
- LEB_communism_DEF:0 "The Lebanese Socialist Republic"
+ LEB_communism_DEF:0 "the Lebanese Socialist Republic"
  LEB_fascism_ADJ:0 "Lebanese"
  LEB_liberalism_ADJ:0 "Lebanese"
  LEB_socialism_ADJ:0 "Lebanese"
@@ -2119,9 +2119,9 @@
  JOR_liberalism:0 "Jordan"
  JOR_liberalism_DEF:0 "Jordan"
  JOR_neutrality:0 "Kingdom of Jordan"
- JOR_neutrality_DEF:0 "The Kingdom of Jordan"
+ JOR_neutrality_DEF:0 "the Kingdom of Jordan"
  JOR_fascism:0 "Empire of Jordan"
- JOR_fascism_DEF:0 "The Empire of Jordan"
+ JOR_fascism_DEF:0 "the Empire of Jordan"
  JOR_communism:0 "Red Jordan"
  JOR_communism_DEF:0 "Red Jordan"
  JOR_fascism_ADJ:0 "Jordanian"
@@ -2137,11 +2137,11 @@
  EGY_liberalism:0 "Egypt"
  EGY_liberalism_DEF:0 "Egypt"
  EGY_neutrality:0 "Kingdom of Egypt"
- EGY_neutrality_DEF:0 "The Kingdom of Egypt"
+ EGY_neutrality_DEF:0 "the Kingdom of Egypt"
  EGY_fascism:0 "Imperial Kemet"
  EGY_fascism_DEF:0 "Imperial Kemet"
  EGY_communism:0 "Soviet Nile State"
- EGY_communism_DEF:0 "The Soviet Nile State"
+ EGY_communism_DEF:0 "the Soviet Nile State"
  EGY_fascism_ADJ:0 "Egyptian"
  EGY_liberalism_ADJ:0 "Egyptian"
  EGY_socialism_ADJ:0 "Egyptian"
@@ -2151,15 +2151,15 @@
  LBA_neutrality:0 "Kingdom of Libya"
  LBA_neutrality_DEF:0 "Libya"
  LBA_conservatism:0 "Libyan Electorate"
- LBA_conservatism_DEF:0 "The Libyan Electorate"
+ LBA_conservatism_DEF:0 "the Libyan Electorate"
  LBA_socialism:0 "Libyan Electorate"
- LBA_socialism_DEF:0 "The Libyan Electorate"
+ LBA_socialism_DEF:0 "the Libyan Electorate"
  LBA_liberalism:0 "Libyan Electorate"
- LBA_liberalism_DEF:0 "The Libyan Electorate"
+ LBA_liberalism_DEF:0 "the Libyan Electorate"
  LBA_fascism:0 "Africa Nova"
  LBA_fascism_DEF:0 "Africa Nova"
  LBA_communism:0 "Libyan Socialist Republic"
- LBA_communism_DEF:0 "The Libyan Socialist Republic"
+ LBA_communism_DEF:0 "the Libyan Socialist Republic"
  LBA_liberalism_ADJ:0 "Libyan"
  LBA_fascism_ADJ:0 "Libyan"
  LBA_conservatism_ADJ:0 "Libyan"
@@ -2173,11 +2173,11 @@
  WGR_liberalism:0 "West Germany"
  WGR_liberalism_DEF:0 "West Germany"
  WGR_fascism:0 "Fourth Reich"
- WGR_fascism_DEF:0 "The Fourth Reich"
+ WGR_fascism_DEF:0 "the Fourth Reich"
  WGR_neutrality:0 "Bayern-Hannover"
  WGR_neutrality_DEF:0 "Bayern-Hannover"
  WGR_communism:0 "Socialist Republic of Germany"
- WGR_communism_DEF:0 "The Socialist Republic of Germany"
+ WGR_communism_DEF:0 "the Socialist Republic of Germany"
  WGR_communism_ADJ:0 "West German"
  WGR_fascism_ADJ:0 "West German"
  WGR_socialism_ADJ:0 "West German"
@@ -2186,7 +2186,7 @@
  DDR_communism:0 "East Germany"
  DDR_communism_DEF:0 "East Germany"
  DDR_neutrality:0 "Kingdom of Prussia"
- DDR_neutrality_DEF:0 "The Kingdom of Prussia"
+ DDR_neutrality_DEF:0 "the Kingdom of Prussia"
  DDR_conservatism:0 "Constitutional Germany"
  DDR_conservatism_DEF:0 "Constitutional Germany"
  DDR_socialism:0 "Constitutional Germany"
@@ -2194,7 +2194,7 @@
  DDR_liberalism:0 "Constitutional Germany"
  DDR_liberalism_DEF:0 "Constitutional Germany"
  DDR_fascism:0 "DNSR"
- DDR_fascism_DEF:0 "The DNSR"
+ DDR_fascism_DEF:0 "the DNSR"
  DDR_communism_ADJ:0 "East German"
  DDR_fascism_ADJ:0 "East German"
  DDR_socialism_ADJ:0 "East German"
@@ -2210,9 +2210,9 @@
  PAL_liberalism:0 "Palestine"
  PAL_liberalism_DEF:0 "Palestine"
  PAL_communism:0 "People's Socialist Palestine"
- PAL_communism_DEF:0 "The People's Socialist Palestine"
+ PAL_communism_DEF:0 "the People's Socialist Palestine"
  PAL_neutrality:0 "Free Mandate of Palestine"
- PAL_neutrality_DEF:0 "The Free Mandate of Palestine"
+ PAL_neutrality_DEF:0 "the Free Mandate of Palestine"
  PAL_communism_ADJ:0 "Palestinian"
  PAL_liberalism_ADJ:0 "Palestinian"
  PAL_socialism_ADJ:0 "Palestinian"
@@ -2220,7 +2220,7 @@
  PAL_fascism_ADJ:0 "Palestinian"
  PAL_neutrality_ADJ:0 "Palestinian"
  ISR_communism:0 "Soviet State of Israel"
- ISR_communism_DEF:0 "The Soviet State of Israel"
+ ISR_communism_DEF:0 "the Soviet State of Israel"
  ISR_conservatism:0 "Israel"
  ISR_conservatism_DEF:0 "Israel"
  ISR_socialism:0 "Israel"
@@ -2228,9 +2228,9 @@
  ISR_liberalism:0 "Israel"
  ISR_liberalism_DEF:0 "Israel"
  ISR_fascism:0 "Israeli Totalitariat"
- ISR_fascism_DEF:0 "The Israeli Totalitariat"
+ ISR_fascism_DEF:0 "the Israeli Totalitariat"
  ISR_neutrality:0 "Free State of Jerusalem"
- ISR_neutrality_DEF:0 "The Free State of Jerusalem"
+ ISR_neutrality_DEF:0 "the Free State of Jerusalem"
  
  ISR_communism_ADJ:0 "Israeli"
  ISR_fascism_ADJ:0 "Israeli"
@@ -2239,17 +2239,17 @@
  ISR_liberalism_ADJ:0 "Israeli"
  ISR_neutrality_ADJ:0 "Jerusalemite"
  VIN_fascism:0 "Empire of Vietnam"
- VIN_fascism_DEF:0 "The Empire of Vietnam"
+ VIN_fascism_DEF:0 "the Empire of Vietnam"
  VIN_conservatism:0 "Republic of Vietnam"
- VIN_conservatism_DEF:0 "The Republic of Vietnam"
+ VIN_conservatism_DEF:0 "the Republic of Vietnam"
  VIN_socialism:0 "Republic of Vietnam"
- VIN_socialism_DEF:0 "The Republic of Vietnam"
+ VIN_socialism_DEF:0 "the Republic of Vietnam"
  VIN_liberalism:0 "Republic of Vietnam"
- VIN_liberalism_DEF:0 "The Republic of Vietnam"
+ VIN_liberalism_DEF:0 "the Republic of Vietnam"
  VIN_neutrality:0 "Republic of Vietnam"
- VIN_neutrality_DEF:0 "The Republic of Vietnam"
+ VIN_neutrality_DEF:0 "the Republic of Vietnam"
  VIN_communism:0 "Democratic Republic of Vietnam"
- VIN_communism_DEF:0 "The Democratic Republic of Vietnam"
+ VIN_communism_DEF:0 "the Democratic Republic of Vietnam"
  VIN_fascism_ADJ:0 "Vietnamese"
  VIN_conservatism_ADJ:0 "Vietnamese"
  VIN_neutrality_ADJ:0 "Vietnamese"
@@ -2259,15 +2259,15 @@
  CAM_fascism:0 "Imperial Khmer"
  CAM_fascism_DEF:0 "Imperial Khmer"
  CAM_conservatism:0 "Republic of Cambodia"
- CAM_conservatism_DEF:0 "The Republic of Cambodia"
+ CAM_conservatism_DEF:0 "the Republic of Cambodia"
  CAM_socialism:0 "Republic of Cambodia"
- CAM_socialism_DEF:0 "The Republic of Cambodia"
+ CAM_socialism_DEF:0 "the Republic of Cambodia"
  CAM_liberalism:0 "Republic of Cambodia"
- CAM_liberalism_DEF:0 "The Republic of Cambodia"
+ CAM_liberalism_DEF:0 "the Republic of Cambodia"
  CAM_neutrality:0 "Republic of Cambodia"
- CAM_neutrality_DEF:0 "The Republic of Cambodia"
+ CAM_neutrality_DEF:0 "the Republic of Cambodia"
  CAM_communism:0 "People's Republic of Cambodia"
- CAM_communism_DEF:0 "The People's Republic of Cambodia"
+ CAM_communism_DEF:0 "the People's Republic of Cambodia"
  CAM_fascism_ADJ:0 "Cambodian"
  CAM_conservatism_ADJ:0 "Cambodian"
  CAM_neutrality_ADJ:0 "Cambodian"
@@ -2275,17 +2275,17 @@
  CAM_socialism_ADJ:0 "Cambodian"
  CAM_communism_ADJ:0 "Cambodian"
  INS_fascism:0 "Indonesian Order"
- INS_fascism_DEF:0 "The Indonesian Order"
+ INS_fascism_DEF:0 "the Indonesian Order"
  INS_conservatism:0 "Republic of Indonesia"
- INS_conservatism_DEF:0 "The Republic of Indonesia"
+ INS_conservatism_DEF:0 "the Republic of Indonesia"
  INS_socialism:0 "Republic of Indonesia"
- INS_socialism_DEF:0 "The Republic of Indonesia"
+ INS_socialism_DEF:0 "the Republic of Indonesia"
  INS_liberalism:0 "Republic of Indonesia"
- INS_liberalism_DEF:0 "The Republic of Indonesia"
+ INS_liberalism_DEF:0 "the Republic of Indonesia"
  INS_neutrality:0 "Indonesia"
  INS_neutrality_DEF:0 "Indonesia"
  INS_communism:0 "Soviet Islands of Indonesia"
- INS_communism_DEF:0 "The Soviet Islands of Indonesia"
+ INS_communism_DEF:0 "the Soviet Islands of Indonesia"
  INS_fascism_ADJ:0 "Indonesian"
  INS_conservatism_ADJ:0 "Indonesian"
  INS_neutrality_ADJ:0 "Indonesian"
@@ -2295,15 +2295,15 @@
  MAL_fascism:0 "Malaysia"
  MAL_fascism_DEF:0 "Malaysia"
  MAL_conservatism:0 "Republic of Malaysia"
- MAL_conservatism_DEF:0 "The Republic of Malaysia"
+ MAL_conservatism_DEF:0 "the Republic of Malaysia"
  MAL_socialism:0 "Republic of Malaysia"
- MAL_socialism_DEF:0 "The Republic of Malaysia"
+ MAL_socialism_DEF:0 "the Republic of Malaysia"
  MAL_liberalism:0 "Republic of Malaysia"
- MAL_liberalism_DEF:0 "The Republic of Malaysia"
+ MAL_liberalism_DEF:0 "the Republic of Malaysia"
  MAL_neutrality:0 "Republic of Malaysia"
- MAL_neutrality_DEF:0 "The Republic of Malaysia"
+ MAL_neutrality_DEF:0 "the Republic of Malaysia"
  MAL_communism:0 "Malay People's Republic"
- MAL_communism_DEF:0 "The Malay People's Republic"
+ MAL_communism_DEF:0 "the Malay People's Republic"
  MAL_fascism_ADJ:0 "Malaysian"
  MAL_conservatism_ADJ:0 "Malaysian"
  MAL_neutrality_ADJ:0 "Malaysian"
@@ -2313,15 +2313,15 @@
  LAO_fascism:0 "Unitary Laos"
  LAO_fascism_DEF:0 "Unitary Laos"
  LAO_conservatism:0 "Republic of Laos"
- LAO_conservatism_DEF:0 "The Republic of Laos"
+ LAO_conservatism_DEF:0 "the Republic of Laos"
  LAO_socialism:0 "Republic of Laos"
- LAO_socialism_DEF:0 "The Republic of Laos"
+ LAO_socialism_DEF:0 "the Republic of Laos"
  LAO_liberalism:0 "Republic of Laos"
- LAO_liberalism_DEF:0 "The Republic of Laos"
+ LAO_liberalism_DEF:0 "the Republic of Laos"
  LAO_neutrality:0 "Kingdom of Laos"
- LAO_neutrality_DEF:0 "The Kingdom of Laos"
+ LAO_neutrality_DEF:0 "the Kingdom of Laos"
  LAO_communism:0 "Lao People's Democratic Republic"
- LAO_communism_DEF:0 "The Lao People's Democratic Republic"
+ LAO_communism_DEF:0 "the Lao People's Democratic Republic"
  LAO_fascism_ADJ:0 "Laotian"
  LAO_conservatism_ADJ:0 "Laotian"
  LAO_neutrality_ADJ:0 "Laotian"
@@ -2329,7 +2329,7 @@
  LAO_socialism_ADJ:0 "Laotian"
  LAO_communism_ADJ:0 "Laotian"
  MNT_fascism:0 "Independent Montenegro"
- MNT_fascism_DEF:0 "The Independent Montenegro"
+ MNT_fascism_DEF:0 "the Independent Montenegro"
  MNT_conservatism:0 "Republic of Montenegro"
  MNT_conservatism_DEF:0 "Republic of Montenegro"
  MNT_socialism:0 "Republic of Montenegro"
@@ -2339,7 +2339,7 @@
  MNT_neutrality:0 "Montenegro"
  MNT_neutrality_DEF:0 "Montenegro"
  MNT_communism:0 "Socialist Republic of Montenegro"
- MNT_communism_DEF:0 "The Socialist Republic of Montenegro"
+ MNT_communism_DEF:0 "the Socialist Republic of Montenegro"
  MNT_fascism_ADJ:0 "Montenegrin"
  MNT_conservatism_ADJ:0 "Montenegrin"
  MNT_neutrality_ADJ:0 "Montenegrin"
@@ -2349,11 +2349,11 @@
  UKR_fascism:0 "Ukraine"
  UKR_fascism_DEF:0 "Ukraine"
  UKR_conservatism:0 "Republic of Ukraine"
- UKR_conservatism_DEF:0 "The Republic of Ukraine"
+ UKR_conservatism_DEF:0 "the Republic of Ukraine"
  UKR_socialism:0 "Republic of Ukraine"
- UKR_socialism_DEF:0 "The Republic of Ukraine"
+ UKR_socialism_DEF:0 "the Republic of Ukraine"
  UKR_liberalism:0 "Republic of Ukraine"
- UKR_liberalism_DEF:0 "The Republic of Ukraine"
+ UKR_liberalism_DEF:0 "the Republic of Ukraine"
  UKR_neutrality:0 "Ukraine"
  UKR_neutrality_DEF:0 "Ukraine"
  UKR_communism:1 "Ukrainian Socialist Republic"
@@ -2365,15 +2365,15 @@
  UKR_socialism_ADJ:0 "Ukrainian"
  UKR_communism_ADJ:0 "Ukrainian"
  GEO_fascism:0 "Caucasus Authority"
- GEO_fascism_DEF:0 "The Caucasus Authority"
+ GEO_fascism_DEF:0 "the Caucasus Authority"
  GEO_conservatism:0 "Republic of Georgia"
- GEO_conservatism_DEF:0 "The Republic of Georgia"
+ GEO_conservatism_DEF:0 "the Republic of Georgia"
  GEO_socialism:0 "Republic of Georgia"
- GEO_socialism_DEF:0 "The Republic of Georgia"
+ GEO_socialism_DEF:0 "the Republic of Georgia"
  GEO_liberalism:0 "Republic of Georgia"
- GEO_liberalism_DEF:0 "The Republic of Georgia"
+ GEO_liberalism_DEF:0 "the Republic of Georgia"
  GEO_neutrality:0 "Free State of St. George"
- GEO_neutrality_DEF:0 "The Free State of St. George"
+ GEO_neutrality_DEF:0 "the Free State of St. George"
  GEO_communism:1 "Georgian Socialist Republic"
  GEO_communism_DEF:1 "The Georgian Socialist Republic"
  GEO_fascism_ADJ:0 "Georgian"
@@ -2383,15 +2383,15 @@
  GEO_socialism_ADJ:0 "Georgian"
  GEO_communism_ADJ:0 "Georgian"
  KAZ_fascism:0 "Kazakh Presidential Khanate"
- KAZ_fascism_DEF:0 "The Kazakh Presidential Khanate"
+ KAZ_fascism_DEF:0 "the Kazakh Presidential Khanate"
  KAZ_conservatism:0 "Republic of Kazakhstan"
- KAZ_conservatism_DEF:0 "The Republic of Kazakhstan"
+ KAZ_conservatism_DEF:0 "the Republic of Kazakhstan"
  KAZ_socialism:0 "Republic of Kazakhstan"
- KAZ_socialism_DEF:0 "The Republic of Kazakhstan"
+ KAZ_socialism_DEF:0 "the Republic of Kazakhstan"
  KAZ_liberalism:0 "Republic of Kazakhstan"
- KAZ_liberalism_DEF:0 "The Republic of Kazakhstan"
+ KAZ_liberalism_DEF:0 "the Republic of Kazakhstan"
  KAZ_neutrality:0 "Kingdom of Kazakhstan"
- KAZ_neutrality_DEF:0 "The Kingdom of Kazakhstan"
+ KAZ_neutrality_DEF:0 "the Kingdom of Kazakhstan"
  KAZ_communism:1 "Kazakh Socialist Republic"
  KAZ_communism_DEF:1 "The Kazakh Socialist Republic"
  KAZ_fascism_ADJ:0 "Kazakh"
@@ -2401,13 +2401,13 @@
  KAZ_socialism_ADJ:0 "Kazakh"
  KAZ_communism_ADJ:0 "Kazakh"
  AZR_fascism:0 "Empire of Fire"
- AZR_fascism_DEF:0 "The Empire of Fire"
+ AZR_fascism_DEF:0 "the Empire of Fire"
  AZR_conservatism:0 "Azerbaijan Democratic Republic"
- AZR_conservatism_DEF:0 "The Azerbaijan Democratic Republic"
+ AZR_conservatism_DEF:0 "the Azerbaijan Democratic Republic"
  AZR_socialism:0 "Azerbaijan Democratic Republic"
- AZR_socialism_DEF:0 "The Azerbaijan Democratic Republic"
+ AZR_socialism_DEF:0 "the Azerbaijan Democratic Republic"
  AZR_liberalism:0 "Azerbaijan Democratic Republic"
- AZR_liberalism_DEF:0 "The Azerbaijan Democratic Republic"
+ AZR_liberalism_DEF:0 "the Azerbaijan Democratic Republic"
  AZR_neutrality:0 "Islamic Republic of Azerbaijan"
  AZR_neutrality_DEF:0 "Islamic Republic of Azerbaijan"
  AZR_communism:1 "Azerbaijan Socialist Republic"
@@ -2421,13 +2421,13 @@
  ARM_fascism:0 "Greater Armenia"
  ARM_fascism_DEF:0 "Greater Armenia"
  ARM_conservatism:0 "Republic of Armenia"
- ARM_conservatism_DEF:0 "The Republic of Armenia"
+ ARM_conservatism_DEF:0 "the Republic of Armenia"
  ARM_socialism:0 "Republic of Armenia"
- ARM_socialism_DEF:0 "The Republic of Armenia"
+ ARM_socialism_DEF:0 "the Republic of Armenia"
  ARM_liberalism:0 "Republic of Armenia"
- ARM_liberalism_DEF:0 "The Republic of Armenia"
+ ARM_liberalism_DEF:0 "the Republic of Armenia"
  ARM_neutrality:0 "Armenian Independent Territories"
- ARM_neutrality_DEF:0 "The Armenian Independent Territories"
+ ARM_neutrality_DEF:0 "the Armenian Independent Territories"
  ARM_communism:1 "Armenian Socialist Republic"
  ARM_communism_DEF:1 "The Armenian Socialist Republic"
  ARM_fascism_ADJ:0 "Armenian"
@@ -2437,17 +2437,17 @@
  ARM_socialism_ADJ:0 "Armenian"
  ARM_communism_ADJ:0 "Armenian"
  BLR_fascism:0 "Belarusian Central Council" #Nationalist Belarus
- BLR_fascism_DEF:0 "The Belarusian Central Council" #Nationalist Belarus
+ BLR_fascism_DEF:0 "the Belarusian Central Council" #Nationalist Belarus
  BLR_conservatism:0 "Republic of Belarus"
- BLR_conservatism_DEF:0 "The Republic of Belarus"
+ BLR_conservatism_DEF:0 "the Republic of Belarus"
  BLR_socialism:0 "Republic of Belarus"
- BLR_socialism_DEF:0 "The Republic of Belarus"
+ BLR_socialism_DEF:0 "the Republic of Belarus"
  BLR_liberalism:0 "Republic of Belarus"
- BLR_liberalism_DEF:0 "The Republic of Belarus"
+ BLR_liberalism_DEF:0 "the Republic of Belarus"
  BLR_neutrality:0 "Belarus"
  BLR_neutrality_DEF:0 "Belarus"
  BLR_communism:1 "Belarusian Socialist Republic"
- BLR_communism_DEF:0 "The Belarusian Socialist Republic"
+ BLR_communism_DEF:0 "the Belarusian Socialist Republic"
  BLR_fascism_ADJ:0 "Belarusian"
  BLR_conservatism_ADJ:0 "Belarusian"
  BLR_socialism_ADJ:0 "Belarusian"
@@ -2455,17 +2455,17 @@
  BLR_neutrality_ADJ:0 "Belarusian"
  BLR_communism_ADJ:0 "Belarusian"
  ANG_fascism:0 "Lion Empire"
- ANG_fascism_DEF:0 "The Lion Empire"
+ ANG_fascism_DEF:0 "the Lion Empire"
  ANG_conservatism:0 "Republic of Angola"
- ANG_conservatism_DEF:0 "The Republic of Angola"
+ ANG_conservatism_DEF:0 "the Republic of Angola"
  ANG_socialism:0 "Republic of Angola"
- ANG_socialism_DEF:0 "The Republic of Angola"
+ ANG_socialism_DEF:0 "the Republic of Angola"
  ANG_liberalism:0 "Republic of Angola"
- ANG_liberalism_DEF:0 "The Republic of Angola"
+ ANG_liberalism_DEF:0 "the Republic of Angola"
  ANG_neutrality:0 "Angola"
  ANG_neutrality_DEF:0 "Angola"
  ANG_communism:1 "Democratic People's Republic of Angola"
- ANG_communism_DEF:0 "The Democratic People's Republic of Angola"
+ ANG_communism_DEF:0 "the Democratic People's Republic of Angola"
  ANG_fascism_ADJ:0 "Angolan"
  ANG_conservatism_ADJ:0 "Angolan"
  ANG_socialism_ADJ:0 "Angolan"
@@ -2473,17 +2473,17 @@
  ANG_neutrality_ADJ:0 "Angolan"
  ANG_communism_ADJ:0 "Angolan"
  MZB_fascism:0 "Leopard Empire"
- MZB_fascism_DEF:0 "The Leopard Empire"
+ MZB_fascism_DEF:0 "the Leopard Empire"
  MZB_conservatism:0 "Republic of Mozambique"
- MZB_conservatism_DEF:0 "The Republic of Mozambique"
+ MZB_conservatism_DEF:0 "the Republic of Mozambique"
  MZB_socialism:0 "Republic of Mozambique"
- MZB_socialism_DEF:0 "The Republic of Mozambique"
+ MZB_socialism_DEF:0 "the Republic of Mozambique"
  MZB_liberalism:0 "Republic of Mozambique"
- MZB_liberalism_DEF:0 "The Republic of Mozambique"
+ MZB_liberalism_DEF:0 "the Republic of Mozambique"
  MZB_neutrality:0 "Mozambique"
  MZB_neutrality_DEF:0 "Mozambique"
  MZB_communism:1 "People's Republic of Mozambique"
- MZB_communism_DEF:0 "The People's Republic of Mozambique"
+ MZB_communism_DEF:0 "the People's Republic of Mozambique"
  MZB_fascism_ADJ:0 "Mozambican"
  MZB_conservatism_ADJ:0 "Mozambican"
  MZB_socialism_ADJ:0 "Mozambican"
@@ -2493,15 +2493,15 @@
  ZIM_fascism:0 "Rhodesia"
  ZIM_fascism_DEF:0 "Rhodesia"
  ZIM_conservatism:0 "Republic of Zimbabwe"
- ZIM_conservatism_DEF:0 "The Republic of Zimbabwe"
+ ZIM_conservatism_DEF:0 "the Republic of Zimbabwe"
  ZIM_socialism:0 "Republic of Zimbabwe"
- ZIM_socialism_DEF:0 "The Republic of Zimbabwe"
+ ZIM_socialism_DEF:0 "the Republic of Zimbabwe"
  ZIM_liberalism:0 "Republic of Zimbabwe"
- ZIM_liberalism_DEF:0 "The Republic of Zimbabwe"
+ ZIM_liberalism_DEF:0 "the Republic of Zimbabwe"
  ZIM_neutrality:0 "Zimbabwe"
  ZIM_neutrality_DEF:0 "Zimbabwe"
  ZIM_communism:1 "Zimbabwean Democratic Republic"
- ZIM_communism_DEF:0 "The Zimbabwean Democratic Republic"
+ ZIM_communism_DEF:0 "the Zimbabwean Democratic Republic"
  ZIM_fascism_ADJ:0 "Rhodesian"
  ZIM_conservatism_ADJ:0 "Zimbabwean"
  ZIM_socialism_ADJ:0 "Zimbabwean"
@@ -2509,17 +2509,17 @@
  ZIM_neutrality_ADJ:0 "Zimbabwean"
  ZIM_communism_ADJ:0 "Zimbabwean"
  COG_fascism:0 "Republic of Zaire" #République du Zaire
- COG_fascism_DEF:0 "The Republic of Zaire" #République du Zaire
+ COG_fascism_DEF:0 "the Republic of Zaire" #République du Zaire
  COG_conservatism:0 "Democratic Republic of the Congo" #République Démocratique du Congo
- COG_conservatism_DEF:0 "The Democratic Republic of the Congo" #République Démocratique du Congo
+ COG_conservatism_DEF:0 "the Democratic Republic of the Congo" #République Démocratique du Congo
  COG_socialism:0 "Democratic Republic of the Congo" #République Démocratique du Congo
- COG_socialism_DEF:0 "The Democratic Republic of the Congo" #République Démocratique du Congo
+ COG_socialism_DEF:0 "the Democratic Republic of the Congo" #République Démocratique du Congo
  COG_liberalism:0 "Democratic Republic of the Congo" #République Démocratique du Congo
- COG_liberalism_DEF:0 "The Democratic Republic of the Congo" #République Démocratique du Congo
+ COG_liberalism_DEF:0 "the Democratic Republic of the Congo" #République Démocratique du Congo
  COG_neutrality:0 "Republic of Zaire" #État Indépendant du Congo
- COG_neutrality_DEF:0 "The Republic of Zaire" #État Indépendant du Congo
+ COG_neutrality_DEF:0 "the Republic of Zaire" #État Indépendant du Congo
  COG_communism:0 "Democratic Republic of the Congo" #République Démocratique du Congo
- COG_communism_DEF:0 "The Democratic Republic of the Congo" #République Démocratique du Congo
+ COG_communism_DEF:0 "the Democratic Republic of the Congo" #République Démocratique du Congo
  COG_fascism_ADJ:0 "Zairian"
  COG_conservatism_ADJ:0 "Congolese"
  COG_socialism_ADJ:0 "Congolese"
@@ -2527,17 +2527,17 @@
  COG_neutrality_ADJ:0 "Zairian"
  COG_communism_ADJ:0 "Congolese"
  KEN_fascism:0 "Gazelle Empire"
- KEN_fascism_DEF:0 "The Gazelle Empire"
+ KEN_fascism_DEF:0 "the Gazelle Empire"
  KEN_conservatism:0 "Republic of Kenya"
- KEN_conservatism_DEF:0 "The Republic of Kenya"
+ KEN_conservatism_DEF:0 "the Republic of Kenya"
  KEN_socialism:0 "Republic of Kenya"
- KEN_socialism_DEF:0 "The Republic of Kenya"
+ KEN_socialism_DEF:0 "the Republic of Kenya"
  KEN_liberalism:0 "Republic of Kenya"
- KEN_liberalism_DEF:0 "The Republic of Kenya"
+ KEN_liberalism_DEF:0 "the Republic of Kenya"
  KEN_neutrality:0 "Kenya"
  KEN_neutrality_DEF:0 "Kenya"
  KEN_communism:1 "People's Republic of Kenya"
- KEN_communism_DEF:0 "The People's Republic of Kenya"
+ KEN_communism_DEF:0 "the People's Republic of Kenya"
  KEN_fascism_ADJ:0 "Kenyan"
  KEN_conservatism_ADJ:0 "Kenyan"
  KEN_socialism_ADJ:0 "Kenyan"
@@ -2545,17 +2545,17 @@
  KEN_neutrality_ADJ:0 "Kenyan"
  KEN_communism_ADJ:0 "Kenyan"
  PAK_fascism:0 "Hedgehog Empire"
- PAK_fascism_DEF:0 "The Hedgehog Empire"
+ PAK_fascism_DEF:0 "the Hedgehog Empire"
  PAK_conservatism:0 "Republic of Pakistan"
- PAK_conservatism_DEF:0 "The Republic of Pakistan"
+ PAK_conservatism_DEF:0 "the Republic of Pakistan"
  PAK_socialism:0 "Republic of Pakistan"
- PAK_socialism_DEF:0 "The Republic of Pakistan"
+ PAK_socialism_DEF:0 "the Republic of Pakistan"
  PAK_liberalism:0 "Republic of Pakistan"
- PAK_liberalism_DEF:0 "The Republic of Pakistan"
+ PAK_liberalism_DEF:0 "the Republic of Pakistan"
  PAK_neutrality:0 "Pakistan"
  PAK_neutrality_DEF:0 "Pakistan"
  PAK_communism:1 "People's Republic of Pakistan"
- PAK_communism_DEF:0 "The People's Republic of Pakistan"
+ PAK_communism_DEF:0 "the People's Republic of Pakistan"
  PAK_fascism_ADJ:0 "Pakistani"
  PAK_conservatism_ADJ:0 "Pakistani"
  PAK_socialism_ADJ:0 "Pakistani"
@@ -2563,17 +2563,17 @@
  PAK_neutrality_ADJ:0 "Pakistani"
  PAK_communism_ADJ:0 "Pakistani"
  BOT_fascism:0 "Lechwe Empire"
- BOT_fascism_DEF:0 "The Lechwe Empire"
+ BOT_fascism_DEF:0 "the Lechwe Empire"
  BOT_conservatism:0 "Republic of Botswana"
- BOT_conservatism_DEF:0 "The Republic of Botswana"
+ BOT_conservatism_DEF:0 "the Republic of Botswana"
  BOT_socialism:0 "Republic of Botswana"
- BOT_socialism_DEF:0 "The Republic of Botswana"
+ BOT_socialism_DEF:0 "the Republic of Botswana"
  BOT_liberalism:0 "Republic of Botswana"
- BOT_liberalism_DEF:0 "The Republic of Botswana"
+ BOT_liberalism_DEF:0 "the Republic of Botswana"
  BOT_neutrality:0 "Botswana"
  BOT_neutrality_DEF:0 "Botswana"
  BOT_communism:1 "Union of the Batswana People"
- BOT_communism_DEF:0 "The Union of the Batswana People"
+ BOT_communism_DEF:0 "the Union of the Batswana People"
  BOT_fascism_ADJ:0 "Batswana"
  BOT_conservatism_ADJ:0 "Batswana"
  BOT_socialism_ADJ:0 "Batswana"
@@ -2583,48 +2583,21 @@
  MAN_fascism:0 "Manchukuo"
  MAN_fascism_DEF:0 "Manchukuo"
  MAN_conservatism:0 "State of Manchuria"
- MAN_conservatism_DEF:0 "The State of Manchuria"
+ MAN_conservatism_DEF:0 "the State of Manchuria"
  MAN_socialism:0 "State of Manchuria"
- MAN_socialism_DEF:0 "The State of Manchuria"
+ MAN_socialism_DEF:0 "the State of Manchuria"
  MAN_liberalism:0 "State of Manchuria"
- MAN_liberalism_DEF:0 "The State of Manchuria"
+ MAN_liberalism_DEF:0 "the State of Manchuria"
  MAN_neutrality:0 "Manchu State"
- MAN_neutrality_DEF:0 "The Manchu State"
+ MAN_neutrality_DEF:0 "the Manchu State"
  MAN_communism:0 "Manchu People's Republic"
- MAN_communism_DEF:0 "The Manchu People's Republic"
+ MAN_communism_DEF:0 "the Manchu People's Republic"
  MAN_fascism_ADJ:0 "Manchu"
  MAN_conservatism_ADJ:0 "Manchu"
  MAN_socialism_ADJ:0 "Manchu"
  MAN_liberalism_ADJ:0 "Manchu"
  MAN_neutrality_ADJ:0 "Manchu"
  MAN_communism_ADJ:0 "Manchu"
- 
- FACTION_NAME_DEMOCRATIC_1:0 "The $CONTINENT_ADJ$ Association"
- FACTION_NAME_DEMOCRATIC_2:0 "The $CONTINENT_ADJ$ Entente"
- FACTION_NAME_DEMOCRATIC_3:0 "The $LEADER_COUNTRY_ADJ$ Concordat"
- FACTION_NAME_DEMOCRATIC_4:0 "The $LEADER_COUNTRY_ADJ$ Union"
- FACTION_NAME_DEMOCRATIC_5:0 "$CONTINENT_ADJ$ Coalition"
- FACTION_NAME_DEMOCRATIC_6:0 "$CONTINENT_ADJ$ Federation"
- FACTION_NAME_COMMUNIST_1:0 "The $LEADER_COUNTRY_ADJ$ Compact"
- FACTION_NAME_COMMUNIST_2:0 "$CONTINENT_ADJ$ Syndicate"
- FACTION_NAME_COMMUNIST_3:0 "The $CONTINENT_ADJ$ Combine"
- FACTION_NAME_COMMUNIST_4:0 "The $CONTINENT_ADJ$ Pact"
- FACTION_NAME_COMMUNIST_5:0 "The $LEADER_COUNTRY_ADJ$ Bloc"
- FACTION_NAME_FASCIST_1:0 "Brotherhood of $CONTINENT$"
- FACTION_NAME_FASCIST_2:0 "$CONTINENT_ADJ$ Group"
- FACTION_NAME_FASCIST_3:0 "The $CONTINENT_ADJ$ League"
- FACTION_NAME_FASCIST_4:0 "The $CONTINENT$ Confederacy"
- FACTION_NAME_FASCIST_5:0 "$CONTINENT_ADJ$ Confederation"
- FACTION_NAME_NONALIGNED_1:0 "$CONTINENT_ADJ$ Defense League"
- FACTION_NAME_NONALIGNED_2:0 "The $LEADER_COUNTRY$ Congress"
- FACTION_NAME_NONALIGNED_3:0 "The $CONTINENT$ Alliance"
- FACTION_NAME_NONALIGNED_4:0 "Confederate $CONTINENT_ADJ$ Nations"
- FACTION_NAME_NONALIGNED_5:0 "The $LEADER_COUNTRY$ Coalition"
- FACTION_NAME_MONARCHIST_1:0 "New $CONTINENT_ADJ$"
- FACTION_NAME_MONARCHIST_2:0 "The $LEADER_COUNTRY$ Movement"
- FACTION_NAME_MONARCHIST_3:0 "The $CONTINENT$ Front"
- FACTION_NAME_MONARCHIST_4:0 "$CONTINENT_ADJ$ Renewal Movement"
- FACTION_NAME_MONARCHIST_5:0 "$LEADER_COUNTRY$ National Unity Party"
  
  BAH_fascism:1 "Bahamas Unitary State"
  BAH_fascism_DEF:1 "The Bahamas Unitary State"
@@ -2841,9 +2814,9 @@
  MOL_conservatism:0 "Republic of Moldova"
  MOL_liberalism:0 "Republic of Moldova"
  MOL_socialism:0 "Republic of Moldova"
- MOL_conservatism_DEF:0 "The Republic of Moldova"
- MOL_liberalism_DEF:0 "The Republic of Moldova"
- MOL_socialism_DEF:0 "The Republic of Moldova"
+ MOL_conservatism_DEF:0 "the Republic of Moldova"
+ MOL_liberalism_DEF:0 "the Republic of Moldova"
+ MOL_socialism_DEF:0 "the Republic of Moldova"
  MOL_neutrality:1 "Republic of Moldova"
  MOL_monarchism:1 "Kingdom of Moldova"
  MOL_neutrality_DEF:1 "The Republic of Moldova"
@@ -3110,19 +3083,19 @@
  KUW_monarchism_ADJ:0 "Kuwaiti"
  KUW_communism_ADJ:0 "Kuwaiti"
  CSA_fascism:0 "Confederated States of America"
- CSA_fascism_DEF:0 "The Confederated States of America"
+ CSA_fascism_DEF:0 "the Confederated States of America"
  CSA_conservatism:0 "Confederacy of American States"
  CSA_liberalism:0 "Confederacy of American States"
  CSA_socialism:0 "Confederacy of American States"
- CSA_conservatism_DEF:0 "The Confederacy of American States"
- CSA_liberalism_DEF:0 "The Confederacy of American States"
- CSA_socialism_DEF:0 "The Confederacy of American States"
+ CSA_conservatism_DEF:0 "the Confederacy of American States"
+ CSA_liberalism_DEF:0 "the Confederacy of American States"
+ CSA_socialism_DEF:0 "the Confederacy of American States"
  CSA_communism:0 "Confederacy of American Workers"
- CSA_communism_DEF:0 "The Confederacy of American Workers"
+ CSA_communism_DEF:0 "the Confederacy of American Workers"
  CSA_neutrality:0 "Confederation of America"
  CSA_monarchism:0 "Confederation of America"
- CSA_neutrality_DEF:0 "The Confederation of America"
- CSA_monarchism_DEF:0 "The Confederation of America"
+ CSA_neutrality_DEF:0 "the Confederation of America"
+ CSA_monarchism_DEF:0 "the Confederation of America"
  CSA_fascism_ADJ:0 "Confederate"
  CSA_communism_ADJ:0 "Confederate"
  CSA_conservatism_ADJ:0 "Confederate"
@@ -3131,19 +3104,19 @@
  CSA_neutrality_ADJ:0 "Confederate"
  CSA_monarchism_ADJ:0 "Confederate"
  USB_fascism:0 "American Empire"
- USB_fascism_DEF:0 "The American Empire"
+ USB_fascism_DEF:0 "the American Empire"
  USB_conservatism:0 "Free States of America"
  USB_liberalism:0 "Free States of America"
  USB_socialism:0 "Free States of America"
- USB_conservatism_DEF:0 "The Free States of America"
- USB_liberalism_DEF:0 "The Free States of America"
- USB_socialism_DEF:0 "The Free States of America"
+ USB_conservatism_DEF:0 "the Free States of America"
+ USB_liberalism_DEF:0 "the Free States of America"
+ USB_socialism_DEF:0 "the Free States of America"
  USB_communism:0 "Socialist States of America"
- USB_communism_DEF:0 "The Socialist States of America"
+ USB_communism_DEF:0 "the Socialist States of America"
  USB_neutrality:0 "Confederate States of America"
  USB_monarchism:0 "American Empire"
- USB_neutrality_DEF:0 "The Confederate States of America"
- USB_monarchism_DEF:0 "The American Empire"
+ USB_neutrality_DEF:0 "the Confederate States of America"
+ USB_monarchism_DEF:0 "the American Empire"
  USB_fascism_ADJ:0 "American"
  USB_communism_ADJ:0 "American"
  USB_conservatism_ADJ:0 "American"
@@ -3245,7 +3218,7 @@
  #TUN_socialism_DEF:1 "The Republic of Tunisia"
  #TUN_neutrality:0 "Tunisia"
  TUN_monarchism:0 "Tunisia"
- #TUN_neutrality_DEF:0 "Tunisia"
+ #TUN_neutrality_DEF:0 "tunisia"
  TUN_monarchism_DEF:0 "Tunisia"
  #TUN_communism:1 "Communist State of Tunisia"
  #TUN_communism_DEF:1 "The Communist State of Tunisia"
@@ -3560,8 +3533,8 @@
  CAR_socialism_DEF:1 "The Central African Federation"
  CAR_neutrality:0 "Central African Republic"
  CAR_monarchism:0 "Central African Republic"
- CAR_neutrality_DEF:0 "The Central African Republic"
- CAR_monarchism_DEF:0 "The Central African Republic"
+ CAR_neutrality_DEF:0 "the Central African Republic"
+ CAR_monarchism_DEF:0 "the Central African Republic"
  CAR_communism:1 "Commune of Central Africa"
  CAR_communism_DEF:1 "The Commune of Central Africa"
  CAR_fascism_ADJ:0 "Central African"
@@ -3686,8 +3659,8 @@
  IVO_socialism_DEF:1 "The Republic of the Ivory Coast"
  IVO_neutrality:0 "Republic of the Ivory Coast"
  IVO_monarchism:0 "Kingdom of the Ivory Coast"
- IVO_neutrality_DEF:0 "The Republic of the Ivory Coast"
- IVO_monarchism_DEF:0 "The Kingdom of the Ivory Coast"
+ IVO_neutrality_DEF:0 "the Republic of the Ivory Coast"
+ IVO_monarchism_DEF:0 "the Kingdom of the Ivory Coast"
  IVO_communism:1 "Socialist Republic of the Ivory Coast"
  IVO_communism_DEF:1 "The Socialist Republic of the Ivory Coast"
  IVO_fascism_ADJ:0 "Ivorian"
@@ -3854,10 +3827,10 @@
  WLS_socialism_DEF:0 "Wales"
  WLS_neutrality:0 "Principality of Wales"
  WLS_monarchism:0 "Principality of Wales"
- WLS_neutrality_DEF:0 "The Principality of Wales"
- WLS_monarchism_DEF:0 "The Principality of Wales"
+ WLS_neutrality_DEF:0 "the Principality of Wales"
+ WLS_monarchism_DEF:0 "the Principality of Wales"
  WLS_communism:0 "Welsh People's Republic"
- WLS_communism_DEF:0 "The Welsh People's Republic"
+ WLS_communism_DEF:0 "the Welsh People's Republic"
  WLS_fascism_ADJ:0 "Cambrian"
  WLS_conservatism_ADJ:0 "Welsh"
  WLS_liberalism_ADJ:0 "Welsh"
@@ -4119,7 +4092,7 @@
  
  benelux_faction:0 "Benelux"
  BUR_fascism:0 "Imperial Burma"
- BUR_fascism_DEF:0 "The Burmese Empire"
+ BUR_fascism_DEF:0 "the Burmese Empire"
  BUR_conservatism:0 "British Burma"
  BUR_conservatism_DEF:0 "Burma"
  BUR_socialism:0 "British Burma"
@@ -4129,7 +4102,7 @@
  BUR_neutrality:0 "Burma"
  BUR_neutrality_DEF:0 "Burma"
  #BUR_monarchism_DEF:0 "Burma"
- BUR_communism_DEF:0 "The Republic of Burma"
+ BUR_communism_DEF:0 "the Republic of Burma"
  BUR_fascism_ADJ:0 "Burmese"
  BUR_conservatism_ADJ:0 "Burmese"
  BUR_socialism_ADJ:0 "Burmese"
@@ -4189,23 +4162,23 @@
 #Monarchist_Country Names By Duel_Obliteration
 
  LIT_monarchism:0 "Kingdom of Lithuania"
- LIT_monarchism_DEF:0 "The Kingdom of Lithuania"
+ LIT_monarchism_DEF:0 "the Kingdom of Lithuania"
  LIT_monarchism_ADJ:0 "Lithuanian"
 
  EST_monarchism:0 "Kingdom of Estonia"
- EST_monarchism_DEF:0 "The Kingdom of Estonia"
+ EST_monarchism_DEF:0 "the Kingdom of Estonia"
  EST_monarchism_ADJ:0 "Estonian"
 
  LAT_monarchism:0 "Kingdom of Latvia"
- LAT_monarchism_DEF:0 "The Kingdom of Latvia"
+ LAT_monarchism_DEF:0 "the Kingdom of Latvia"
  LAT_monarchism_ADJ:0 "Latvian"
 
  ITA_monarchism:0 "Kingdom of Italy"
- ITA_monarchism_DEF:0 "The Kingdom of Italy"
+ ITA_monarchism_DEF:0 "the Kingdom of Italy"
  ITA_monarchism_ADJ:0 "Italian"
 
  TUR_monarchism:0 "Ottoman Empire"
- TUR_monarchism_DEF:0 "The Ottoman Empire"
+ TUR_monarchism_DEF:0 "the Ottoman Empire"
  TUR_monarchism_ADJ:0 "Ottoman"
 
  GRE_monarchism:0 "Kingdom of Greece"
@@ -4213,133 +4186,133 @@
  GRE_monarchism_ADJ:0 "Greek"
  
  NOR_monarchism:0 "Kingdom of Norway"
- NOR_monarchism_DEF:0 "The Kingdom of Norway"
+ NOR_monarchism_DEF:0 "the Kingdom of Norway"
  NOR_monarchism_ADJ:0 "Norwegian"
 
  DEN_monarchism:0 "Kingdom of Denmark"
- DEN_monarchism_DEF:0 "The Kingdom of Denmark"
+ DEN_monarchism_DEF:0 "the Kingdom of Denmark"
  DEN_monarchism_ADJ:0 "Danish"
 
  POR_monarchism:0 "Kingdom of Portugal"
- POR_monarchism_DEF:0 "The Kingdom of Portugal"
+ POR_monarchism_DEF:0 "the Kingdom of Portugal"
  POR_monarchism_ADJ:0 "Portuguese"
 
  IRE_monarchism:0 "Kingdom of Ireland"
- IRE_monarchism_DEF:0 "The Kingdom of Ireland"
+ IRE_monarchism_DEF:0 "the Kingdom of Ireland"
  IRE_monarchism_ADJ:0 "Irish"
  
  HUN_monarchism:0 "Kingdom of Hungary"
- HUN_monarchism_DEF:0 "The Kingdom of Hungary"
+ HUN_monarchism_DEF:0 "the Kingdom of Hungary"
  HUN_monarchism_ADJ:0 "Hungarian"
 
  ARG_monarchism:0 "Kingdom of Argentina"
- ARG_monarchism_DEF:0 "The Kingdom of Argentina"
+ ARG_monarchism_DEF:0 "the Kingdom of Argentina"
  ARG_monarchism_ADJ:0 "Argentinean"
  
  BOL_monarchism:0 "Kingdom of Bolivia"
- BOL_monarchism_DEF:0 "The Kingdom of Bolivia"
+ BOL_monarchism_DEF:0 "the Kingdom of Bolivia"
  BOL_monarchism_ADJ:0 "Bolivian"
 
  BRA_monarchism:0 "Empire of Brazil"
- BRA_monarchism_DEF:0 "The Brazilian Empire"
+ BRA_monarchism_DEF:0 "the Brazilian Empire"
  BRA_monarchism_ADJ:0 "Brazilian"
 
  CAN_monarchism:0 "Canadian Empire"
- CAN_monarchism_DEF:0 "The Canadian Empire"
+ CAN_monarchism_DEF:0 "the Canadian Empire"
  CAN_monarchism_ADJ:0 "Canadian"
 
  CHI_monarchism:0 "Qing Empire"
- CHI_monarchism_DEF:0 "The Qing Empire"
+ CHI_monarchism_DEF:0 "the Qing Empire"
  CHI_monarchism_ADJ:0 "China"
 
  PRC_monarchism:0 "Shanqing Empire"
- PRC_monarchism_DEF:0 "The Shanqing Empire"
+ PRC_monarchism_DEF:0 "the Shanqing Empire"
  PRC_monarchism_ADJ:0 "Chinese"
 
  CHL_monarchism:0 "Kingdom of Chile"
- CHL_monarchism_DEF:0 "The Kingdom of Chile"
+ CHL_monarchism_DEF:0 "the Kingdom of Chile"
  CHL_monarchism_ADJ:0 "Chilean"
 
  COL_monarchism:0 "Kingdom of Colombia"
- COL_monarchism_DEF:0 "The Kingdom of Columbia"
+ COL_monarchism_DEF:0 "the Kingdom of Colombia"
  COL_monarchism_ADJ:0 "Colombian"
  
  COS_monarchism:0 "Kingdom of Costa Rica"
- COS_monarchism_DEF:0 "The Kingdom of Costa Rica"
+ COS_monarchism_DEF:0 "the Kingdom of Costa Rica"
  COS_monarchism_ADJ:0 "Costa Rican"
  
 
  ECU_monarchism:0 "Kingdom of Ecuador"
- ECU_monarchism_DEF:0 "The Kingdom of Ecuador"
+ ECU_monarchism_DEF:0 "the Kingdom of Ecuador"
  ECU_monarchism_ADJ:0 "Ecuadorian"
  
 
  ELS_monarchism:0 "Kingdom of El Salvador"
- ELS_monarchism_DEF:0 "The Kingdom of El Salvador"
+ ELS_monarchism_DEF:0 "the Kingdom of El Salvador"
  ELS_monarchism_ADJ:0 "El Salvadorian"
 
  GUA_monarchism:0 "Kingdom of Guatemala"
- GUA_monarchism_DEF:0 "The Kingdom of Guatemala"
+ GUA_monarchism_DEF:0 "the Kingdom of Guatemala"
  GUA_monarchism_ADJ:0 "Guatamalan"
 
  HON_monarchism:0 "Honduran Kingdom"
- HON_monarchism_DEF:0 "The Honduran Kingdom"
+ HON_monarchism_DEF:0 "the Honduran Kingdom"
  HON_monarchism_ADJ:0 "Honduran"
 
  IRQ_monarchism:0 "Kingdom of Iraq"
- IRQ_monarchism_DEF:0 "The Kingdom of Iraq"
+ IRQ_monarchism_DEF:0 "the Kingdom of Iraq"
  IRQ_monarchism_ADJ:0 "Iraqi"
 
  MEX_monarchism:0 "Empire of Mexico"
- MEX_monarchism_DEF:0 "The Empire of Mexico"
+ MEX_monarchism_DEF:0 "the Empire of Mexico"
  MEX_monarchism_ADJ:0 "Mexican"
 
  MON_monarchism:0 "Kingdom of Mongolia"
- MON_monarchism_DEF:0 "The Kingdom of Mongolia"
+ MON_monarchism_DEF:0 "the Kingdom of Mongolia"
  MON_monarchism_ADJ:0 "Iraqi"
 
  NEP_monarchism:0 "Kingdom of Nepal"
- NEP_monarchism_DEF:0 "The Kingdom of Nepal"
+ NEP_monarchism_DEF:0 "the Kingdom of Nepal"
  NEP_monarchism_ADJ:0 "Nepali"
 
  NIC_monarchism:0 "Kingdom of Nicaragua"
- NIC_monarchism_DEF:0 "The Kingdom of Nicaragua"
+ NIC_monarchism_DEF:0 "the Kingdom of Nicaragua"
  NIC_monarchism_ADJ:0 "Nicaraguan"
 
  PAN_monarchism:0 "Kingdom of Panama"
- PAN_monarchism_DEF:0 "The Kingdom of Panama"
+ PAN_monarchism_DEF:0 "the Kingdom of Panama"
  PAN_monarchism_ADJ:0 "Panamanian"
 
  PAR_monarchism:0 "Kingdom of Paraguay"
- PAR_monarchism_DEF:0 "The Kingdom of Paraguay"
+ PAR_monarchism_DEF:0 "the Kingdom of Paraguay"
  PAR_monarchism_ADJ:0 "Paraguayan"
  
  PHI_monarchism:0 "Kingdom of the Philippines"
- PHI_monarchism_DEF:0 "The Kingdom of the Philippines"
+ PHI_monarchism_DEF:0 "the Kingdom of the Philippines"
  PHI_monarchism_ADJ:0 "Philippines"
  
  PRU_monarchism:0 "Kingdom of Peru"
- PRU_monarchism_DEF:0 "The Kingdom of Peru"
+ PRU_monarchism_DEF:0 "the Kingdom of Peru"
  PRU_monarchism_ADJ:0 "Peruvian"
  
  SAF_monarchism:0 "Kingdom of South Africa"
- SAF_monarchism_DEF:0 "The Kingdom of South Africa"
+ SAF_monarchism_DEF:0 "the Kingdom of South Africa"
  SAF_monarchism_ADJ:0 "South African"
 
  SAU_monarchism:0 "Kingdom of Saudi Arabia"
- SAU_monarchism_DEF:0 "The Kingdom of Saudi Arabia"
+ SAU_monarchism_DEF:0 "the Kingdom of Saudi Arabia"
  SAU_monarchism_ADJ:0 "Saudi Arabian"
 
  SIA_monarchism:0 "Kingdom of Siam"
- SIA_monarchism_DEF:0 "The Kingdom of Siam"
+ SIA_monarchism_DEF:0 "the Kingdom of Siam"
  SIA_monarchism_ADJ:0 "Siamese"
 
  SIK_monarchism:0 "Kingdom of Sinkiang"
- SIK_monarchism_DEF:0 "The Kingdom of Sinkiang"
+ SIK_monarchism_DEF:0 "the Kingdom of Sinkiang"
  SIK_monarchism_ADJ:0 "Chinese"
 
  TAN_monarchism:0 "Kingdom of Tannu Tuva"
- TAN_monarchism_DEF:0 "The Kingdom of Tannu Tuva"
+ TAN_monarchism_DEF:0 "the Kingdom of Tannu Tuva"
  TAN_monarchism_ADJ:0 "Tuvan"
 
  TIB_monarchism:0 "Tibet"
@@ -4347,32 +4320,32 @@
  TIB_monarchism_ADJ:0 "Tibetan"
 
  VEN_monarchism:0 "Kingdom of Venezuela"
- VEN_monarchism_DEF:0 "The Kingdom of Venezuela"
+ VEN_monarchism_DEF:0 "the Kingdom of Venezuela"
  VEN_monarchism_ADJ:0 "Venezuelan"
 
  YUN_monarchism:0 "Kingdom of Yunnan"
- YUN_monarchism_DEF:0 "The Kingdom of Yunnan"
+ YUN_monarchism_DEF:0 "the Kingdom of Yunnan"
  YUN_monarchism_ADJ:0 "Chinese"
 
  NZL_monarchism:0 "Kingdom of New Zealand"
- NZL_monarchism_DEF:0 "The Kingdom of New Zealand"
+ NZL_monarchism_DEF:0 "the Kingdom of New Zealand"
  NZL_monarchism_ADJ:0 "New Zealander"
 
 
  URG_monarchism:0 "Kingdom of Uruguay"
- URG_monarchism_DEF:0 "The Kingdom of Uruguay"
+ URG_monarchism_DEF:0 "the Kingdom of Uruguay"
  URG_monarchism_ADJ:0 "Uruguayan"
  
  CUB_monarchism:0 "Kingdom of Cuba"
- CUB_monarchism_DEF:0 "The Kingdom of Cuba"
+ CUB_monarchism_DEF:0 "the Kingdom of Cuba"
  CUB_monarchism_ADJ:0 "Cuban"
 
  DOM_monarchism:0 "Kingdom of Hispaniola"
- DOM_monarchism_DEF:0 "The Kingdom of Hispaniola"
+ DOM_monarchism_DEF:0 "the Kingdom of Hispaniola"
  DOM_monarchism_ADJ:0 "Hispaniolian"
 
  HAI_monarchism:0 "Kingdom of Haiti"
- HAI_monarchism_DEF:0 "The Kingdom of Haiti"
+ HAI_monarchism_DEF:0 "the Kingdom of Haiti"
  HAI_monarchism_ADJ:0 "Haitian"
 
  ETH_monarchism:0 "Ethiopian Empire"
@@ -4380,35 +4353,35 @@
  ETH_monarchism_ADJ:0 "Ethiopian"
 
  SLO_monarchism:0 "Kingdom of Slovakia"
- SLO_monarchism_DEF:0 "The Kingdom of Slovakia"
+ SLO_monarchism_DEF:0 "the Kingdom of Slovakia"
  SLO_monarchism_ADJ:0 "Slovakian"
 
  BHU_monarchism:0 "Kingdom of Bhutan"
- BHU_monarchism_DEF:0 "The Kingdom of Bhutan"
+ BHU_monarchism_DEF:0 "the Kingdom of Bhutan"
  BHU_monarchism_ADJ:0 "Bhutanese"
 
  LIB_monarchism:0 "Kingdom of Liberia"
- LIB_monarchism_DEF:0 "The Kingdom of Liberia"
+ LIB_monarchism_DEF:0 "the Kingdom of Liberia"
  LIB_monarchism_ADJ:0 "Liberian"
 
  RAJ_monarchism:0 "United Empire of India"
- RAJ_monarchism_DEF:0 "The United Empire of India"
+ RAJ_monarchism_DEF:0 "the United Empire of India"
  RAJ_monarchism_ADJ:0 "Indian"
 
  CRO_monarchism:0 "Kingdom of Croatia" 
- CRO_monarchism_DEF:0 "The Kingdom of Croatia"
+ CRO_monarchism_DEF:0 "the Kingdom of Croatia"
  CRO_monarchism_ADJ:0 "Croatian"
 
  GXC_monarchism:0 "Kingdom of Guangxi"
- GXC_monarchism_DEF:0 "The Kingdom of Guangxi"
- GXC_monarchism_ADJ:0 "Cantonese"
+ GXC_monarchism_DEF:0 "the Kingdom of Guangxi"
+ GXC_monarchism_ADJ:0 "Guangxi"
 
  SHX_monarchism:0 "Kingdom of Shanxi"
- SHX_monarchism_DEF:0 "The Kingdom of Shanxi"
+ SHX_monarchism_DEF:0 "the Kingdom of Shanxi"
  SHX_monarchism_ADJ:0 "Chinese"
 
  XSM_monarchism:0 "Kingdom of Ma"
- XSM_monarchism_DEF:0 "The Kingdom of Ma"
+ XSM_monarchism_DEF:0 "the Kingdom of Ma"
  XSM_monarchism_ADJ:0 "Ma"
 
  MAN_monarchism:0 "Manchukuo"
@@ -4420,79 +4393,79 @@
  MEN_monarchism_ADJ:0 "Mengjiang"
 
  KOR_monarchism:0 "Korean Empire"
- KOR_monarchism_DEF:0 "The Korean Empire"
+ KOR_monarchism_DEF:0 "the Korean Empire"
  KOR_monarchism_ADJ:0 "Korean"
 
  SER_monarchism:0 "Kingdom of Serbia"
- SER_monarchism_DEF:0 "The Kingdom of Serbia"
+ SER_monarchism_DEF:0 "the Kingdom of Serbia"
  SER_monarchism_ADJ:0 "Serbian"
 
  ICE_monarchism:0 "Kingdom of Iceland"
- ICE_monarchism_DEF:0 "The Kingdom of Iceland"
+ ICE_monarchism_DEF:0 "the Kingdom of Iceland"
  ICE_monarchism_ADJ:0 "Icelandic"
 
  SYR_monarchism:0 "Kingdom of Syria"
- SYR_monarchism_DEF:0 "The Kingdom of Syria"
+ SYR_monarchism_DEF:0 "the Kingdom of Syria"
  SYR_monarchism_ADJ:0 "Syrian"
 
  LEB_monarchism:0 "Kingdom of Lebanon"
- LEB_monarchism_DEF:0 "The Kingdom of Lebanon"
+ LEB_monarchism_DEF:0 "the Kingdom of Lebanon"
  LEB_monarchism_ADJ:0 "Lebanon"
 
  EGY_monarchism:0 "Kingdom of Egypt"
- EGY_monarchism_DEF:0 "The Kingdom of Eygpt"
+ EGY_monarchism_DEF:0 "the Kingdom of Eygpt"
  EGY_monarchism_ADJ:0 "Egyptian"
  
  LBA_monarchism:0 "Kingdom of Libya"
- LBA_monarchism_DEF:0 "The Kingdom of Libya"
+ LBA_monarchism_DEF:0 "the Kingdom of Libya"
  LBA_monarchism_ADJ:0 "Libyan"
 
  WEG_monarchism:0 "United Kingdoms of West Germany"
- WEG_monarchism_DEF:0 "The United Kingdoms of West Germany"
+ WEG_monarchism_DEF:0 "the United Kingdoms of West Germany"
  WEG_monarchism_ADJ:0 "West German"
 
  DDR_monarchism:0 "Kingdom of Brandenburg"
- DDR_monarchism_DEF:0 "The Kingdom of Brandenburg"
+ DDR_monarchism_DEF:0 "the Kingdom of Brandenburg"
  DDR_monarchism_ADJ:0 "East German"
  
  PAL_monarchism:0 "Kingdom of Palestine"
- PAL_monarchism_DEF:0 "The Kingdom of Palestine"
+ PAL_monarchism_DEF:0 "the Kingdom of Palestine"
  PAL_monarchism_ADJ:0 "Palestinian"
 
  ISR_monarchism:0 "Kingdom of Israel"
- ISR_monarchism_DEF:0 "The Kingdom of Israel"
+ ISR_monarchism_DEF:0 "the Kingdom of Israel"
  ISR_monarchism_ADJ:0 "Israeli"
 
  VIN_monarchism:0 "Kingdom of Vietnam"
- VIN_monarchism_DEF:0 "The Kingdom of Vietnam"
+ VIN_monarchism_DEF:0 "the Kingdom of Vietnam"
  VIN_monarchism_ADJ:0 "Vietnamese"
 
  CAM_monarchism:0 "Kingdom of Cambodia"
- CAM_monarchism_DEF:0 "The Kingdom of Cambodia"
+ CAM_monarchism_DEF:0 "the Kingdom of Cambodia"
  CAM_monarchism_ADJ:0 "Cambodian"
 
  INS_monarchism:0 "Kingdom of Indonesia"
- INS_monarchism_DEF:0 "The Kingdom of Indonesia"
+ INS_monarchism_DEF:0 "the Kingdom of Indonesia"
  INS_monarchism_ADJ:0 "Indonesian"
 
  MAL_monarchism:0 "Kingdom of Malaysia"
- MAL_monarchism_DEF:0 "The Kingdom of Malaysia"
+ MAL_monarchism_DEF:0 "the Kingdom of Malaysia"
  MAL_monarchism_ADJ:0 "Malaysian"
 
  LAO_monarchism:0 "Kingdom of Laos"
- LAO_monarchism_DEF:0 "The Kingdom of Laos"
+ LAO_monarchism_DEF:0 "the Kingdom of Laos"
  LAO_monarchism_ADJ:0 "Laotian"
  
  MNT_monarchism:0 "Kingdom of Montenegro"
- MNT_monarchism_DEF:0 "The Kingdom of Montenegro"
+ MNT_monarchism_DEF:0 "the Kingdom of Montenegro"
  MNT_monarchism_ADJ:0 "Montenegrin"
 
  UKR_monarchism:0 "Kingdom of Ukraine"
- UKR_monarchism_DEF:0 "The Kingdom of Ukraine"
+ UKR_monarchism_DEF:0 "the Kingdom of Ukraine"
  UKR_monarchism_ADJ:0 "Ukrainian"
 
  GEO_monarchism:0 "Kingdom of Georgia"
- GEO_monarchism_DEF:0 "The Kingdom of Georgia"
+ GEO_monarchism_DEF:0 "the Kingdom of Georgia"
  GEO_monarchism_ADJ:0 "Georgian"
 
  KAZ_monarchism:0 "Kazak Empire"
@@ -4500,35 +4473,35 @@
  KAZ_monarchism_ADJ:0 "Kazakh"
 
  AZR_monarchism:0 "Kingdom of Azerbaijan"
- AZR_monarchism_DEF:0 "The Kingdom of Azerbaijan"
+ AZR_monarchism_DEF:0 "the Kingdom of Azerbaijan"
  AZR_monarchism_ADJ:0 "Azerbaijani"
 
  ARM_monarchism:0 "Kingdom of Armenia"
- ARM_monarchism_DEF:0 "The Kingdom of Armenia"
+ ARM_monarchism_DEF:0 "the Kingdom of Armenia"
  ARM_monarchism_ADJ:0 "Armenia"
 
  BLR_monarchism:0 "Kingdom of Belorussia"
- BLR_monarchism_DEF:0 "The Kingdom of Belorussia"
+ BLR_monarchism_DEF:0 "the Kingdom of Belorussia"
  BLR_monarchism_ADJ:0 "Belarusian"
 
  ANG_monarchism:0 "Kingdom of Angola"
- ANG_monarchism_DEF:0 "The Kingdom of Angola"
+ ANG_monarchism_DEF:0 "the Kingdom of Angola"
  ANG_monarchism_ADJ:0 "Angolan"
 
  MZB_monarchism:0 "Kingdom of Mozambique"
- MZB_monarchism_DEF:0 "The Kingdom of Mozambique"
+ MZB_monarchism_DEF:0 "the Kingdom of Mozambique"
  MZB_monarchism_ADJ:0 "Mozambican"
 
  ZIM_monarchism:0 "Kingdom of Zimbabwe-Rhodesia"
- ZIM_monarchism_DEF:0 "The Kingdom of Zimbabwe-Rhodesia"
+ ZIM_monarchism_DEF:0 "the Kingdom of Zimbabwe-Rhodesia"
  ZIM_monarchism_ADJ:0 "Zimbabwean-Rhodesian"
 
  COG_monarchism:0 "Kingdom of Kongo"
- COG_monarchism_DEF:0 "The Kingdom of Kongo"
+ COG_monarchism_DEF:0 "the Kingdom of Kongo"
  COG_monarchism_ADJ:0 "Kongolese"
 
  KEN_monarchism:0 "Kingdom of Kenya"
- KEN_monarchism_DEF:0 "The Kingdom of Kenya"
+ KEN_monarchism_DEF:0 "the Kingdom of Kenya"
  KEN_monarchism_ADJ:0 "Kenyan"
 
  PAK_monarchism:0 "Islamic Empire of Pakistan"
@@ -4536,21 +4509,21 @@
  PAK_monarchism_ADJ:0 "Pakistani"
 
  BOT_monarchism:0 "Kingdom of Botswana"
- BOT_monarchism_DEF:0 "The Kingdom of Botswana"
+ BOT_monarchism_DEF:0 "the Kingdom of Botswana"
  BOT_monarchism_ADJ:0 "Botswana"
 
  
 
  BUR_monarchism:0 "Fourth Burmese Empire"
- BUR_monarchism_DEF:0 "The Fourth Burmese Empire"
+ BUR_monarchism_DEF:0 "the Fourth Burmese Empire"
  BUR_monarchism_ADJ:0 "Burmese"
 
  QUE_monarchism:0 "Kingdom of Québec"
- QUE_monarchism_DEF:0 "The Kingdom of Québec"
+ QUE_monarchism_DEF:0 "the Kingdom of Québec"
  QUE_monarchism_ADJ:0 "Québecois"
 
  NEW_monarchism:0 "Kingdom of Newfoundland"
- NEW_monarchism_DEF:0 "The Kingdom of Newfoundland"
+ NEW_monarchism_DEF:0 "the Kingdom of Newfoundland"
  NEW_monarchism_ADJ:0 "Newfoundlander"
 
  # French Colonies Country Names
@@ -4558,13 +4531,13 @@
 
  FRI_democratic_ADJ:0 "Indochinese"
 
- FRI_democratic_DEF:0 "The Republic of Indochina"
+ FRI_democratic_DEF:0 "the Republic of Indochina"
 
  FRI_communism:0 "Democratic Republic of Indochina"
 
  FRI_communism_ADJ:0 "Indochinese"
 
- FRI_communism_DEF:0 "The Democratic Republic of Indochina"
+ FRI_communism_DEF:0 "the Democratic Republic of Indochina"
 
  FRI_fascism:0 "Indochina"
 
@@ -4581,19 +4554,19 @@
  FRI_monarchism_DEF:0 "French Indochina"
 
  MOR_conservatism:0 "Rif Republic"
- MOR_conservatism_DEF:0 "The Republic of the Rif"
+ MOR_conservatism_DEF:0 "the Republic of the Rif"
  MOR_socialism:0 "Rif Republic"
- MOR_socialism_DEF:0 "The Republic of the Rif"
+ MOR_socialism_DEF:0 "the Republic of the Rif"
  MOR_liberalism:0 "Rif Republic"
- MOR_liberalism_DEF:0 "The Republic of the Rif"
+ MOR_liberalism_DEF:0 "the Republic of the Rif"
  MOR_fascism:0 "Moorish Empire"
- MOR_fascism_DEF:0 "The Moorish Empire"
+ MOR_fascism_DEF:0 "the Moorish Empire"
  MOR_neutrality:0 "Rif Republic"
- MOR_neutrality_DEF:0 "The Republic of the Rif"
+ MOR_neutrality_DEF:0 "the Republic of the Rif"
  MOR_communism:2 "Rifian People's Republic"
  MOR_communism_DEF:1 "The Rifian People's Republic"
  MOR_monarchism:0 "Kingdom of Rif"
- #MOR_conservatism_DEF:0 "The Kingdom of Rif"
+ #MOR_conservatism_DEF:0 "the Kingdom of Rif"
  MOR_fascism_ADJ:0 "Moorish"
  MOR_conservatism_ADJ:0 "Rifian"
  MOR_socialism_ADJ:0 "Rifian"
@@ -4603,19 +4576,19 @@
  MOR_monarchism_ADJ:0 "Rifian"
 
  MAR_conservatism:0 "Kingdom of Morocco" #Republic of Morocco
- MAR_conservatism_DEF:0 "The Kingdom of Morocco" #Republic of Morocco
+ MAR_conservatism_DEF:0 "the Kingdom of Morocco" #Republic of Morocco
  MAR_socialism:0 "Kingdom of Morocco" #Republic of Morocco
- MAR_socialism_DEF:0 "The Kingdom of Morocco" #Republic of Morocco
+ MAR_socialism_DEF:0 "the Kingdom of Morocco" #Republic of Morocco
  MAR_liberalism:0 "Kingdom of Morocco" #Republic of Morocco
- MAR_liberalism_DEF:0 "The Kingdom of Morocco" #Republic of Morocco
+ MAR_liberalism_DEF:0 "the Kingdom of Morocco" #Republic of Morocco
  MAR_fascism:0 "Moorish Empire"
- MAR_fascism_DEF:0 "The Moorish Empire"
+ MAR_fascism_DEF:0 "the Moorish Empire"
  MAR_neutrality:0 "Kingdom of Morocco" #Republic of Morocco
- MAR_neutrality_DEF:0 "The Kingdom of Morocco" #Republic of Morocco
+ MAR_neutrality_DEF:0 "the Kingdom of Morocco" #Republic of Morocco
  MAR_communism:2 "Moroccan People's Republic"
  MAR_communism_DEF:1 "The Moroccan People's Republic"
  MAR_monarchism:0 "Kingdom of Morocco" #Republic of Morocco
- MAR_monarchism_DEF:0 "The Kingdom of Morocco" #Republic of Morocco
+ MAR_monarchism_DEF:0 "the Kingdom of Morocco" #Republic of Morocco
  MAR_fascism_ADJ:0 "Moorish"
  MAR_conservatism_ADJ:0 "Moroccan"
  MAR_socialism_ADJ:0 "Moroccan"
@@ -4625,19 +4598,19 @@
  MAR_monarchism_ADJ:0 "Moroccan"
  
  MAR_SPR_fascism:0 "Spanish Protectorate in Morocco"
- MAR_SPR_fascism_DEF:0 "The Spanish Protectorate in Morocco"
+ MAR_SPR_fascism_DEF:0 "the Spanish Protectorate in Morocco"
  MAR_SPR_conservatism:0 "Spanish Protectorate in Morocco"
- MAR_SPR_conservatism_DEF:0 "The Spanish Protectorate in Morocco"
+ MAR_SPR_conservatism_DEF:0 "the Spanish Protectorate in Morocco"
  MAR_SPR_liberalism:0 "Spanish Protectorate in Morocco"
- MAR_SPR_liberalism_DEF:0 "The Spanish Protectorate in Morocco"
+ MAR_SPR_liberalism_DEF:0 "the Spanish Protectorate in Morocco"
  MAR_SPR_socialism:0 "Spanish Protectorate in Morocco"
- MAR_SPR_socialism_DEF:0 "The Spanish Protectorate in Morocco"
+ MAR_SPR_socialism_DEF:0 "the Spanish Protectorate in Morocco"
  MAR_SPR_neutrality:0 "Spanish Protectorate in Morocco"
- MAR_SPR_neutrality_DEF:0 "The Spanish Protectorate in Morocco"
+ MAR_SPR_neutrality_DEF:0 "the Spanish Protectorate in Morocco"
  MAR_SPR_communism:0 "Spanish Protectorate in Morocco"
- MAR_SPR_communism_DEF:0 "The Spanish Protectorate in Morocco"
+ MAR_SPR_communism_DEF:0 "the Spanish Protectorate in Morocco"
  MAR_SPR_monarchism:0 "Spanish Protectorate in Morocco"
- MAR_SPR_monarchism_DEF:0 "The Spanish Protectorate in Morocco"
+ MAR_SPR_monarchism_DEF:0 "the Spanish Protectorate in Morocco"
  MAR_SPR_fascism_ADJ:0 "Spanish-Moroccan"
  MAR_SPR_conservatism_ADJ:0 "Spanish-Moroccan"
  MAR_SPR_liberalism_ADJ:0 "Spanish-Moroccan"
@@ -4647,19 +4620,19 @@
  MAR_SPR_monarchism_ADJ:0 "Spanish-Moroccan"
  
  MAR_FRA_fascism:0 "French Protectorate in Morocco"
- MAR_FRA_fascism_DEF:0 "The French Protectorate in Morocco"
+ MAR_FRA_fascism_DEF:0 "the French Protectorate in Morocco"
  MAR_FRA_conservatism:0 "French Protectorate in Morocco"
- MAR_FRA_conservatism_DEF:0 "The French Protectorate in Morocco"
+ MAR_FRA_conservatism_DEF:0 "the French Protectorate in Morocco"
  MAR_FRA_liberalism:0 "French Protectorate in Morocco"
- MAR_FRA_liberalism_DEF:0 "The French Protectorate in Morocco"
+ MAR_FRA_liberalism_DEF:0 "the French Protectorate in Morocco"
  MAR_FRA_socialism:0 "French Protectorate in Morocco"
- MAR_FRA_socialism_DEF:0 "The French Protectorate in Morocco"
+ MAR_FRA_socialism_DEF:0 "the French Protectorate in Morocco"
  MAR_FRA_neutrality:0 "French Protectorate in Morocco"
- MAR_FRA_neutrality_DEF:0 "The French Protectorate in Morocco"
+ MAR_FRA_neutrality_DEF:0 "the French Protectorate in Morocco"
  MAR_FRA_communism:0 "French Protectorate in Morocco"
- MAR_FRA_communism_DEF:0 "The French Protectorate in Morocco"
+ MAR_FRA_communism_DEF:0 "the French Protectorate in Morocco"
  MAR_FRA_monarchism:0 "French Protectorate in Morocco"
- MAR_FRA_monarchism_DEF:0 "The French Protectorate in Morocco"
+ MAR_FRA_monarchism_DEF:0 "the French Protectorate in Morocco"
  MAR_FRA_fascism_ADJ:0 "French-Moroccan"
  MAR_FRA_conservatism_ADJ:0 "French-Moroccan"
  MAR_FRA_liberalism_ADJ:0 "French-Moroccan"
@@ -4674,11 +4647,11 @@
 
  TUN_democratic:0 "Tunisian Republic"
 
- TUN_democratic_DEF:0 "The Tunisian Republic"
+ TUN_democratic_DEF:0 "the Tunisian Republic"
 
  TUN_neutrality:0 "Tunisia"
 
- TUN_neutrality_DEF:0 "Tunisia"
+ TUN_neutrality_DEF:0 "tunisia"
 
  TUN_communism:2 "Tunisian Commonwealth"
 
@@ -4695,15 +4668,15 @@
  # PLA
  PLA_communism:0 "People's Liberation Army"
  PLA_communism_ADJ:0 "Chinese"
- PLA_communism_DEF:0 "The People's Liberation Army"
+ PLA_communism_DEF:0 "the People's Liberation Army"
  # CSR
  CSR_communism:0 "Soviet Republic of China"
  CSR_communism_ADJ:0 "Chinese"
- CSR_communism_DEF:0 "The Soviet Republic of China"
+ CSR_communism_DEF:0 "the Soviet Republic of China"
  # CWP
  CWP_communism:0 "Chinese Workers and Peasants Red Army"
  CWP_communism_ADJ:0 "Chinese"
- CWP_communism_DEF:0 "The Chinese Workers and Peasants Red Army" 
+ CWP_communism_DEF:0 "the Chinese Workers and Peasants Red Army" 
 
  ## Canada Factions ##
  north_american_faction:0 "North American League"
@@ -4711,19 +4684,19 @@
 
  # TBLRA
  VLA_fascism:0 "Flemish State" #Vlaamse Staat
- VLA_fascism_DEF:0 "The Flemish State" #Vlaamse Staat
+ VLA_fascism_DEF:0 "the Flemish State" #Vlaamse Staat
  VLA_conservatism:0 "Flemish Republic" #Vlaamse Republiek
- VLA_conservatism_DEF:0 "The Flemish Republic" #Vlaamse Republiek
+ VLA_conservatism_DEF:0 "the Flemish Republic" #Vlaamse Republiek
  VLA_liberalism:0 "Flemish Republic" #Vlaamse Republiek
- VLA_liberalism_DEF:0 "The Flemish Republic" #Vlaamse Republiek
+ VLA_liberalism_DEF:0 "the Flemish Republic" #Vlaamse Republiek
  VLA_socialism:0 "Flemish Republic" #Vlaamse Republiek
- VLA_socialism_DEF:0 "The Flemish Republic" #Vlaamse Republiek
+ VLA_socialism_DEF:0 "the Flemish Republic" #Vlaamse Republiek
  VLA_neutrality:0 "Flemish Republic" #Vlaanderen
- VLA_neutrality_DEF:0 "The Flemish Republic" #Vlaanderen
+ VLA_neutrality_DEF:0 "the Flemish Republic" #Vlaanderen
  VLA_communism:0 "Flemish Socialist Republic" #Vlaamse Socialistische Republiek
- VLA_communism_DEF:0 "The Flemish Socialist Republic" #Vlaamse Socialistische Republiek
+ VLA_communism_DEF:0 "the Flemish Socialist Republic" #Vlaamse Socialistische Republiek
  VLA_monarchism:0 "Kingdom of Flanders"
- VLA_monarchism_DEF:0 "The Kingdom of Flanders"
+ VLA_monarchism_DEF:0 "the Kingdom of Flanders"
  VLA_fascism_ADJ:0 "Flemish" #Vlaams
  VLA_conservatism_ADJ:0 "Flemish" #Vlaams
  VLA_liberalism_ADJ:0 "Flemish" #Vlaams
@@ -4732,19 +4705,19 @@
  VLA_communism_ADJ:0 "Flemish" #Vlaams
  VLA_monarchism_ADJ:0 "Flemish" #Vlaams
  WLL_fascism:0 "Wallonian State" #État wallon
- WLL_fascism_DEF:0 "The Wallonian State" #État wallon
+ WLL_fascism_DEF:0 "the Wallonian State" #État wallon
  WLL_conservatism:0 "Republic of Wallonia" #République wallone
- WLL_conservatism_DEF:0 "The Republic of Wallonia" #République wallone
+ WLL_conservatism_DEF:0 "the Republic of Wallonia" #République wallone
  WLL_liberalism:0 "Republic of Wallonia" #République wallone
- WLL_liberalism_DEF:0 "The Republic of Wallonia" #République wallone
+ WLL_liberalism_DEF:0 "the Republic of Wallonia" #République wallone
  WLL_socialism:0 "Republic of Wallonia" #République wallone
- WLL_socialism_DEF:0 "The Republic of Wallonia" #République wallone
+ WLL_socialism_DEF:0 "the Republic of Wallonia" #République wallone
  WLL_neutrality:0 "Republic of Wallonia" #Wallonia
- WLL_neutrality_DEF:0 "The Republic of Wallonia" #Wallonia
+ WLL_neutrality_DEF:0 "the Republic of Wallonia" #Wallonia
  WLL_communism:0 "Popular Republic of Wallonia" #Republique populaire de Wallonie
- WLL_communism_DEF:0 "The Popular Republic of Wallonia" #Republique populaire de Wallonie
+ WLL_communism_DEF:0 "the Popular Republic of Wallonia" #Republique populaire de Wallonie
  WLL_monarchism:0 "Kingdom of Wallonia"
- WLL_monarchism_DEF:0 "The Kingdom of Wallonia"
+ WLL_monarchism_DEF:0 "the Kingdom of Wallonia"
  WLL_fascism_ADJ:0 "Walloon"
  WLL_conservatism_ADJ:0 "Walloon"
  WLL_liberalism_ADJ:0 "Walloon"
@@ -4787,17 +4760,17 @@
  BEL4_neutrality_ADJ:0 "Belgian" 
 
  BMP_fascism:0 "Rightful Palestinian Mandate"
- BMP_fascism_DEF:0 "The Rightful Palestinian Mandate"
+ BMP_fascism_DEF:0 "the Rightful Palestinian Mandate"
  BMP_conservatism:0 "Republican Mandate of Palestine"
- BMP_conservatism_DEF:0 "The Republican Mandate of Palestine"
+ BMP_conservatism_DEF:0 "the Republican Mandate of Palestine"
  BMP_socialism:0 "Republican Mandate of Palestine"
- BMP_socialism_DEF:0 "The Republican Mandate of Palestine"
+ BMP_socialism_DEF:0 "the Republican Mandate of Palestine"
  BMP_liberalism:0 "Republican Mandate of Palestine"
- BMP_liberalism_DEF:0 "The Republican Mandate of Palestine"
+ BMP_liberalism_DEF:0 "the Republican Mandate of Palestine"
  BMP_neutrality:0 "Mandatory Palestine"
- BMP_neutrality_DEF:0 "The Mandate of Palestine"
+ BMP_neutrality_DEF:0 "the Mandate of Palestine"
  BMP_communism:0 "People's Mandate of Palestine"
- BMP_communism_DEF:0 "The People's Mandate of Palestine" 
+ BMP_communism_DEF:0 "the People's Mandate of Palestine" 
  BMP_fascism_ADJ:0 "Mandatory Palestinian"
  BMP_conservatism_ADJ:0 "Mandatory Palestinian"
  BMP_socialism_ADJ:0 "Mandatory Palestinian"
@@ -4807,28 +4780,28 @@
  
  BMP_monarchism:0 "Emirate of Palestine"
  ##### maybe Emirate of Palestine if the monarch is an arab? #######
- BMP_monarchism_DEF:0 "The Kingdom of Palestine"
+ BMP_monarchism_DEF:0 "the Kingdom of Palestine"
  BMP_monarchism_ADJ:0 "Mandatory Palestinian"
  
  JOR_monarchism:0 "Emirate of Transjordan"
- JOR_monarchism_DEF:0 "The Emirate of Transjordan"
+ JOR_monarchism_DEF:0 "the Emirate of Transjordan"
  JOR_monarchism_ADJ:0 "Jordanian"  
  
  
  SAP_fascism:0 "Saarland Protectorate"
- SAP_fascism_DEF:0 "The Saarland Protectorate"
+ SAP_fascism_DEF:0 "the Saarland Protectorate"
  SAP_conservatism:0 "Saarland Protectorate"
- SAP_conservatism_DEF:0 "The Saarland Protectorate"
+ SAP_conservatism_DEF:0 "the Saarland Protectorate"
  SAP_liberalism:0 "Saarland Protectorate"
- SAP_liberalism_DEF:0 "The Saarland Protectorate"
+ SAP_liberalism_DEF:0 "the Saarland Protectorate"
  SAP_socialism:0 "Saarland Protectorate"
- SAP_socialism_DEF:0 "The Saarland Protectorate"
+ SAP_socialism_DEF:0 "the Saarland Protectorate"
  SAP_neutrality:0 "Saarland Protectorate"
- SAP_neutrality_DEF:0 "The Saarland Protectorate"
+ SAP_neutrality_DEF:0 "the Saarland Protectorate"
  SAP_communism:0 "Saarland Protectorate"
- SAP_communism_DEF:0 "The Saarland Protectorate"
+ SAP_communism_DEF:0 "the Saarland Protectorate"
  SAP_monarchism:0 "Saarland Protectorate"
- SAP_monarchism_DEF:0 "The Saarland Protectorate"
+ SAP_monarchism_DEF:0 "the Saarland Protectorate"
  SAP_fascism_ADJ:0 "Saarlander"
  SAP_conservatism_ADJ:0 "Saarlander"
  SAP_liberalism_ADJ:0 "Saarlander"
@@ -4837,77 +4810,435 @@
  SAP_communism_ADJ:0 "Saarlander"
  SAP_monarchism_ADJ:0 "Saarlander"
  
- RKU_fascism:0 "Reichskommissariat Ukraine"
- RKU_fascism_DEF:0 "The Reichskommissariat Ukraine"
+ RKU:0 "Reichskommissariat Ukraine"
+ RKU_DEF:0 "the Reichskommissariat Ukraine"
  
- RKP_fascism:0 "Generalgouvernment"
- RKP_fascism_DEF:0 "The Generalgouvernment"
+ RKP:0 "Generalgouvernment"
+ RKP_DEF:0 "the Generalgouvernment"
  
- RKO_fascism:0 "Reichskommissariat Ostland"
- RKO_fascism_DEF:0 "The Reichskommissariat Ostland"
+ RKO:0 "Reichskommissariat Ostland"
+ RKO_DEF:0 "the Reichskommissariat Ostland"
  
- RKN_fascism:0 "Reichskommissariat Norwegen"
- RKN_fascism_DEF:0 "The Reichskommissariat Norwegen"
+ RKN:0 "Reichskommissariat Norwegen"
+ RKN_DEF:0 "the Reichskommissariat Norwegen"
  
- RKM_fascism:0 "Reichskommissariat Moskowien"
- RKM_fascism_DEF:0 "The Reichskommissariat Moskowien"
+ RKM:0 "Reichskommissariat Moskowien"
+ RKM_DEF:0 "the Reichskommissariat Moskowien"
+ 
+ RKK:0 "Reichskommissariat Kaukasus"
+ RKK_DEF:0 "the Reichskommissariat Kaukasus"
+ 
+ RKT:0 "Reichskommissariat Turkmenistan"
+ RKT_DEF:0 "the Reichskommissariat Turkmenistan"
+ 
+ RKL: "Reichskommissariat Ural"
+ RKL_DEF: "the Reichskommissariat Ural"
  
  RKH_fascism:0 "Reichskommissariat Holland"
- RKH_fascism_DEF:0 "The Reichskommissariat Holland"
+ RKH_fascism_DEF:0 "the Reichskommissariat Holland"
  
  RKB_fascism:0 "Reichskommissariat Belgien"
- RKB_fascism_DEF:0 "The Reichskommissariat Belgien"
+ RKB_fascism_DEF:0 "the Reichskommissariat Belgien"
  
  RKA_fascism:0 "Reichskommissariat Mittelafrika"
- RKA_fascism_DEF:0 "The Reichskommissariat Mittelafrika"
+ RKA_fascism_DEF:0 "the Reichskommissariat Mittelafrika"
  
  RKI_fascism:0 "Reichskommissariat Italien" #using RSI now
- RKI_fascism_DEF:0 "The Reichskommissariat Italien"
+ RKI_fascism_DEF:0 "the Reichskommissariat Italien"
  
  EHA_fascism:0 "East Hopeh Anti-Communism Autonomous Council"
  EHA_fascism_ADJ:0 "Chinese"
- EHA_fascism_DEF:0 "The East Hopeh Anti-Communism Autonomous Council"
+ EHA_fascism_DEF:0 "the East Hopeh Anti-Communism Autonomous Council"
  EHA_neutrality:0 "East Hopeh Anti-Japanese Council"
  EHA_neutrality_ADJ:0 "Chinese"
- EHA_neutrality_DEF:0 "The East Hopeh Anti-Japanese Council"
+ EHA_neutrality_DEF:0 "the East Hopeh Anti-Japanese Council"
  EHA_democracy:0 "Democratic State of East Hopeh"
  EHA_democracy_ADJ:0 "Chinese"
- EHA_democracy_DEF:0 "The Democratic State of East Hopeh"
+ EHA_democracy_DEF:0 "the Democratic State of East Hopeh"
  EHA_communism:0 "East Hopeh Commune"
  EHA_communism_ADJ:0 "Chinese"
- EHA_communism_DEF:0 "The East Hopeh Commune"
+ EHA_communism_DEF:0 "the East Hopeh Commune"
  RGR_fascism:0 "Reformed Government of Republic of China"
  RGR_fascism_ADJ:0 "Chinese"
- RGR_fascism_DEF:0 "The Reformed Government of Republic of China"
+ RGR_fascism_DEF:0 "the Reformed Government of Republic of China"
  RGR_neutrality:0 "Reformed Government of Republic of China"
  RGR_neutrality_ADJ:0 "Chinese"
- RGR_neutrality_DEF:0 "The Reformed Government of Republic of China"
+ RGR_neutrality_DEF:0 "the Reformed Government of Republic of China"
  RGR_democracy:0 "Democratic Republic of China"
  RGR_democracy_ADJ:0 "Chinese"
- RGR_democracy_DEF:0 "The Democratic Republic of China"
+ RGR_democracy_DEF:0 "the Democratic Republic of China"
  RGR_communism:0 "Chinese Socialist State"
  RGR_communism_ADJ:0 "Chinese"
- RGR_communism_DEF:0 "The Chinese Socialist State"
+ RGR_communism_DEF:0 "the Chinese Socialist State"
  PGR_neutrality:0 "Xin Beiyang"
  PGR_neutrality_ADJ:0 "Chinese"
- PGR_neutrality_DEF:0 "The Xin Beiyang Government"
+ PGR_neutrality_DEF:0 "the Xin Beiyang Government"
  PGR_democracy:0 "Beiyang Republic"
  PGR_democracy_ADJ:0 "Chinese"
- PGR_democracy_DEF:0 "The Beiyang Republic"
+ PGR_democracy_DEF:0 "the Beiyang Republic"
  PGR_communism:0 "Beiyang Socialist Republic"
  PGR_communism_ADJ:0 "Chinese"
- PGR_communism_DEF:0 "The Beiyang Socialist Republic"
+ PGR_communism_DEF:0 "the Beiyang Socialist Republic"
  ECR_fascism:0 "Guizhou Special Autonomous Region"
- ECR_fascism_DEF:0 "The Guizhou Special Autonomous Region"
+ ECR_fascism_DEF:0 "the Guizhou Special Autonomous Region"
  ECR_fascism_ADJ:0 "Chinese"
  ECR_communism:0 "Guizhou Commune"
- ECR_communism_DEF:0 "The Guizhou Commune"
+ ECR_communism_DEF:0 "the Guizhou Commune"
  ECR_communism_ADJ:0 "Chinese"
  ECR_democratic:0 "Guizhou Republic"
- ECR_democratic_DEF:0 "The Guizhou Republic"
+ ECR_democratic_DEF:0 "the Guizhou Republic"
  ECR_democratic_ADJ:0 "Chinese"
  ECR_neutrality:0 "Guizhou Autonomous Committee"
- ECR_neutrality_DEF:0 "The Guizhou Autonomous Committee"
+ ECR_neutrality_DEF:0 "the Guizhou Autonomous Committee"
  ECR_neutrality_ADJ:0 "Chinese"
+ GER: "Germany"
+ GER_DEF: "Germany"
+ GER_ADJ: "German"
+ SOV: "Russia"
+ SOV_DEF: "Russia"
+ SOV_ADJ: "Russian"
+ USA: "America"
+ USA_DEF: "America"
+ USA_ADJ: "American"
+ ENG: "Britain"
+ ENG_DEF: "Britain"
+ ENG_ADJ: "British"
+ FRA: "France"
+ FRA_DEF: "France"
+ FRA_ADJ: "French"
+ ITA: "Italy"
+ ITA_DEF: "Italy"
+ ITA_ADJ: "Italian"
+ JAP: "Japan"
+ JAP_DEF: "Japan"
+ JAP_ADJ: "Japanese"
+ CAN: "Canada"
+ CAN_DEF: "Canada"
+ CAN_ADJ: "Canadian"
+ SAF: "South Africa"
+ SAF_DEF: "South Africa"
+ SAF_ADJ: "South African"
+ HUN: "Hungary"
+ HUN_DEF: "Hungary"
+ HUN_ADJ: "Hungarian"
+ AST: "Australia"
+ AST_DEF: "Australia"
+ AST_ADJ: "Australian"
+ RAJ: "India"
+ RAJ_DEF: "India"
+ RAJ_ADJ: "Indian"
+ NZL: "New Zealand"
+ NZL_DEF: "New Zealand"
+ NZL_ADJ: "New Zealand"
+ ROM: "Romania"
+ ROM_DEF: "Romania"
+ ROM_ADJ: "Romanian"
+ BUL: "Bulgaria"
+ BUL_DEF: "Bulgaria"
+ BUL_ADJ: "Bulgarian"
+ MAN: "Manchuria"
+ MAN_DEF: "Manchuria"
+ MAN_ADJ: "Manchu"
+ SPR: "Spain"
+ SPR_DEF: "Spain"
+ SPR_ADJ: "Spanish"
+ SWE: "Sweden"
+ SWE_DEF: "Sweden"
+ SWE_ADJ: "Swedish"
+ BEL: "Belgium"
+ BEL_DEF: "Belgium"
+ BEL_ADJ: "Belgian"
+ HOL: "Netherlands"
+ HOL_DEF: "Netherlands"
+ HOL_ADJ: "Dutch"
+ CZE: "Czechoslovakia"
+ CZE_DEF: "Czechoslovakia"
+ CZE_ADJ: "Czechoslovakian"
+ POL: "Poland"
+ POL_DEF: "Poland"
+ POL_ADJ: "Polish"
+ AUS: "Austria"
+ AUS_DEF: "Austria"
+ AUS_ADJ: "Austrian"
+ LIT: "Lithuania"
+ LIT_DEF: "Lithuania"
+ LIT_ADJ: "Lithuanian"
+ EST: "Estonia"
+ EST_DEF: "Estonia"
+ EST_ADJ: "Estonian"
+ LAT: "Latvia"
+ LAT_DEF: "Latvia"
+ LAT_ADJ: "Latvian"
+ YUG: "Yugoslavia"
+ YUG_DEF: "Yugoslavia"
+ YUG_ADJ: "Yugoslavian"
+ SER: "Serbia"
+ SER_DEF: "Serbia"
+ SER_ADJ: "Serbian"
+ SWI: "Switzerland"
+ SWI_DEF: "Switzerland"
+ SWI_ADJ: "Swiss"
+ TUR: "Turkey"
+ TUR_DEF: "Turkey"
+ TUR_ADJ: "Turkish"
+ GRE: "Greece"
+ GRE_DEF: "Greece"
+ GRE_ADJ: "Greek"
+ PRC: "China"
+ PRC_DEF: "China"
+ PRC_ADJ: "Chinese"
+ POR: "Portugal"
+ POR_DEF: "Portugal"
+ POR_ADJ: "Portuguese"
+ FIN: "Finland"
+ FIN_DEF: "Finland"
+ FIN_ADJ: "Finnish"
+ IRE: "Ireland"
+ IRE_DEF: "Ireland"
+ IRE_ADJ: "Irish"
+ SIK: "Sinkiang"
+ SIK_DEF: "Sinkiang"
+ SIK_ADJ: "Sinkiang"
+ BHU: "Bhutan"
+ BHU_DEF: "Bhutan"
+ BHU_ADJ: "Bhutanese"
+ BRA: "Brazil"
+ BRA_DEF: "Brazil"
+ BRA_ADJ: "Brazilian"
+ IRQ: "Iraq"
+ IRQ_DEF: "Iraq"
+ IRQ_ADJ: "Iraqi"
+ NOR: "Norway"
+ NOR_DEF: "Norway"
+ NOR_ADJ: "Norwegian"
+ MEX: "Mexico"
+ MEX_DEF: "Mexico"
+ MEX_ADJ: "Mexican"
+ ALB: "Albania"
+ ALB_DEF: "Albania"
+ ALB_ADJ: "Albanian"
+ DEN: "Denmark"
+ DEN_DEF: "Denmark"
+ DEN_ADJ: "Danish"
+ MEN: "Menchukuo"
+ MEN_DEF: "Menchukuo"
+ MEN_ADJ: "Mengjiang"
+ PER: "Iran"
+ PER_DEF: "Iran"
+ PER_ADJ: "Iranian"
+ TIB: "Tibet"
+ TIB_DEF: "Tibet"
+ TIB_ADJ: "Tibetan"
+ BMP: "Palestine"
+ BMP_DEF: "Palestine"
+ BMP_ADJ: "Palestinian"
+ CHL: "Chile"
+ CHL_DEF: "Chile"
+ CHL_ADJ: "Chilean"
+ COL: "Colombia"
+ COL_DEF: "Colombia"
+ COL_ADJ: "Colombian"
+ COS: "Costa Rica"
+ COS_DEF: "Costa Rica"
+ COS_ADJ: "Costa Rican"
+ ECU: "Ecuador"
+ ECU_DEF: "Ecuador"
+ ECU_ADJ: "Ecuadorian"
+ ELS: "El Salvador"
+ ELS_DEF: "El Salvador"
+ ELS_ADJ: "El Salvadorian"
+ ETH: "Ethiopia"
+ ETH_DEF: "Ethiopia"
+ ETH_ADJ: "Ethiopian"
+ GUA: "Guatemala"
+ GUA_DEF: "Guatemala"
+ GUA_ADJ: "Guatemalan"
+ HON: "Honduras"
+ HON_DEF: "Honduras"
+ HON_ADJ: "Honduran"
+ JOR: "Jordan"
+ JOR_DEF: "Jordan"
+ JOR_ADJ: "Jordanian"
+ LIB: "Liberia"
+ LIB_DEF: "Liberia"
+ LIB_ADJ: "Liberian"
+ NEP: "Nepal"
+ NEP_DEF: "Nepal"
+ NEP_ADJ: "Nepali"
+ NIC: "Nicaragua"
+ NIC_DEF: "Nicaragua"
+ NIC_ADJ: "Nicaraguan"
+ PAN: "Panama"
+ PAN_DEF: "Panama"
+ PAN_ADJ: "Panamanian"
+ PHI: "Philippines"
+ PHI_DEF: "Philippines"
+ PHI_ADJ: "Philippine"
+ PRU: "Peru"
+ PRU_DEF: "Peru"
+ PRU_ADJ: "Peruvian"
+ SAU: "Saudia Arabia"
+ SAU_DEF: "Saudia Arabia"
+ SAU_ADJ: "Saudi Arabian"
+ SIA: "Siam"
+ SIA_DEF: "Siam"
+ SIA_ADJ: "Siamese"
+ URG: "Uruguay"
+ URG_DEF: "Uruguay"
+ URG_ADJ: "Uruguayan"
+ VEN: "Venezuela"
+ VEN_DEF: "Venezuela"
+ VEN_ADJ: "Venezuelan"
+ YUN: "Yunnan"
+ YUN_DEF: "Yunnan"
+ YUN_ADJ: "Yunnanese"
+ MON: "Mongolia"
+ MON_DEF: "Mongolia"
+ MON_ADJ: "Mongolian"
+ TAN: "Tannu Tuva"
+ TAN_DEF: "Tannu Tuva"
+ TAN_ADJ: "Tuvan"
+ PAR: "Paraguay"
+ PAR_DEF: "Paraguay"
+ PAR_ADJ: "Paraguayan"
+ CUB: "Cuba"
+ CUB_DEF: "Cuba"
+ CUB_ADJ: "Cuban"
+ DOM: "Dominican Republic"
+ DOM_DEF: "Dominican Republic"
+ DOM_ADJ: "Dominican"
+ AFG: "Afghanistan"
+ AFG_DEF: "Afghanistan"
+ AFG_ADJ: "Afghan"
+ ARG: "Argentina"
+ ARG_DEF: "Argentina"
+ ARG_ADJ: "Argentinean"
+ HAI: "Haiti"
+ HAI_DEF: "Haiti"
+ HAI_ADJ: "Haitian"
+ YEM: "Yemen"
+ YEM_DEF: "Yemen"
+ YEM_ADJ: "Mutawakkilite"
+ OMA: "Oman"
+ OMA_DEF: "Oman"
+ OMA_ADJ: "Omani"
+ SLO: "Slovakia"
+ SLO_DEF: "Slovakia"
+ SLO_ADJ: "Slovakian"
+ CRO: "Croatia"
+ CRO_DEF: "Croatia"
+ CRO_ADJ: "Croatian"
+ GXC: "Guangxi"
+ GXC_DEF: "Guangxi"
+ GXC_ADJ: "Guangxi"
+ SHX: "Shanxi"
+ SHX_DEF: "Shanxi"
+ SHX_ADJ: "Shanxi"
+ XSM: "Xibei San Ma"
+ XSM_DEF: "Xibei San Ma"
+ XSM_ADJ: "Ma"
+ ICE: "Iceland"
+ ICE_DEF: "Iceland"
+ ICE_ADJ: "Icelandic"
+ LEB: "Lebanon"
+ LEB_DEF: "Lebanon"
+ LEB_ADJ: "Lebanese"
+ SYR: "Syria"
+ SYR_DEF: "Syria"
+ SYR_ADJ: "Syrian"
+ EGY: "Egypt"
+ EGY_DEF: "Egypt"
+ EGY_ADJ: "Egyptian"
+ LUX: "Luxembourg"
+ LUX_DEF: "Luxembourg"
+ LUX_ADJ: "Luxembourger"
+ BOL: "Bolivia"
+ BOL_DEF: "Bolivia"
+ BOL_ADJ: "Bolivian"
+ PAL: "Palestine"
+ PAL_DEF: "Palestine"
+ PAL_ADJ: "Palestinian"
+ ISR: "Israel"
+ ISR_DEF: "Israel"
+ ISR_ADJ: "Israeli"
+ INS: "Indonesia"
+ INS_DEF: "Indonesia"
+ INS_ADJ: "Indonesian"
+ UKR: "Ukraine"
+ UKR_DEF: "Ukraine"
+ UKR_ADJ: "Ukrainian"
+ PAK: "Pakistan"
+ PAK_DEF: "Pakistan"
+ PAK_ADJ: "Pakistani"
+ TUN: "Tunisia"
+ TUN_DEF: "Tunisia"
+ TUN_ADJ: "Tunisian"
+ BUR: "Burma"
+ BUR_DEF: "Burma"
+ BUR_ADJ: "Burmese"
+ MAR: "Morocco"
+ MAR_DEF: "Morocco"
+ MAR_ADJ: "French-Moroccan"
+ MOR: "Morocco"
+ MOR_DEF: "Morocco"
+ MOR_ADJ: "Spanish-Moroccan"
+ FRI: "Indochina"
+ FRI_DEF: "Indochina"
+ FRI_ADJ: "Indochinese"
+ VIC: "Vichy France"
+ VIC_DEF: "Vichy France"
+ VIC_ADJ: "Vichy French"
+ VIX: "Vichy France Colonies"
+ VIX_DEF: "Vichy France Colonies"
+ VIX_ADJ: "Vichy French"
+ CIV: "Civilian"
+ CIV_DEF: "Civilian"
+ CIV_ADJ: "Civilian"
+ HAT: "Hatay"
+ HAT_DEF: "Hatay"
+ HAT_ADJ: "Hatayan"
+ CHI: "China"
+ CHI_DEF: "China"
+ CHI_ADJ: "Chinese"
+ MAL: "Malaysia"
+ MAL_DEF: "Malaysia"
+ MAL_ADJ: "Malaysian"
+ RSI: "Italy"
+ RSI_DEF: "Italy"
+ RSI_ADJ: "Italian"
+ KOR: "Korea"
+ KOR_DEF: "Korea"
+ KOR_ADJ: "Korean"
+ PGR: "China"
+ PGR_DEF: "China"
+ PGR_ADJ: "Chinese"
+ EHA: "China"
+ EHA_DEF: "China"
+ EHA_ADJ: "Chinese"
+ RGR: "China"
+ RGR_DEF: "China"
+ RGR_ADJ: "Chinese"
+ YUT: "China"
+ YUT_DEF: "China"
+ YUT_ADJ: "Cantonese"
+ XIA: "China"
+ XIA_DEF: "China"
+ XIA_ADJ: "Hunanese"
+ SCC: "China"
+ SCC_DEF: "China"
+ SCC_ADJ: "Sichuanese"
+ ZXL: "China"
+ ZXL_DEF: "China"
+ ZXL_ADJ: "Fengtian"
+ SDC: "China"
+ SDC_DEF: "China"
+ SDC_ADJ: "Shandong"
+ SKC: "China"
+ SKC_DEF: "China"
+ SKC_ADJ: "Xikang"
+ SAP: "Saarland"
+ SAP_DEF: "Saarland"
+ SAP_ADJ: "Saarlander"
+ 
  ##############whenever you create new cosmetic tags, you'd wanna add them to common/scripted_effects/00_scripted_effects.txt
  ## EOF ## 

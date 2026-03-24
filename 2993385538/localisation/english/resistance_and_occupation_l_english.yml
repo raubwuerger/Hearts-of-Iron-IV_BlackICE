@@ -73,6 +73,7 @@
  foreign_civilian_oversight:1 "Civilian Oversight"
  secret_police_oversight:1 "Secret Police"
  local_police_force_garrison:1 "Local Police Force"
+ local_police_force_garrison_eng: "$local_police_force_garrison$"
  liberate_workers_occupation:1 "Liberated Workers"
  military_governor_occupation:1 "Military Governor"
  martial_law_occupation:1 "Martial Law"
