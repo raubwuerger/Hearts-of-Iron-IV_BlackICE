@@ -1,8 +1,13 @@
 ﻿l_german:
+
+ ## Soviet Union ## ""
+ ##NATION TECH## ""
  soviet_tech_a:0 "Sowjetunion"
  soviet_tech_b:0 "Sowjetunion"
  soviet_tech_c:0 "Sowjetunion"
  soviet_tech_d:0 "Sowjetunion"
+
+  ## Equipment versions ## ""
  SOV_EQUIPMENT_VERSION_0:0 "A"
  SOV_EQUIPMENT_VERSION_1:0 "A-1"
  SOV_EQUIPMENT_VERSION_2:0 "A-2"
@@ -19,6 +24,25 @@
  SOV_EQUIPMENT_VERSION_13:0 "D-1"
  SOV_EQUIPMENT_VERSION_14:0 "D-2"
  SOV_EQUIPMENT_VERSION_15:0 "DM"
+
+ #SOV_EQUIPMENT_VERSION_1:0 "1 goda"
+ #SOV_EQUIPMENT_VERSION_2:0 "2 goda"
+ #SOV_EQUIPMENT_VERSION_3:0 "3 Gotta"
+ #SOV_EQUIPMENT_VERSION_4:0 "4 Gotta"
+ #SOV_EQUIPMENT_VERSION_5:0 "5 Gotta"
+ #SOV_EQUIPMENT_VERSION_6:0 "6 Gala"
+ #SOV_EQUIPMENT_VERSION_7:0 "7 Gotta"
+ #SOV_EQUIPMENT_VERSION_8:0 "8 Gotta"
+ #SOV_EQUIPMENT_VERSION_9:0 "9 Gotta"
+ #SOV_EQUIPMENT_VERSION_10:0 "10 goda"
+ #SOV_EQUIPMENT_VERSION_11:0 "11 goda"
+ #SOV_EQUIPMENT_VERSION_12:0 "12 goda"
+ #SOV_EQUIPMENT_VERSION_13:0 "13 goda"
+ #SOV_EQUIPMENT_VERSION_14:0 "14 goda"
+ #SOV_EQUIPMENT_VERSION_15:0 "15 goda"
+
+ ## Soviet Army ## ""
+ ## Immersive Equipment Names ## ""
  SOV_infantry_uniforms_1:0 "M35"
  SOV_infantry_uniforms_1_short:0 "M35"
  SOV_infantry_uniforms_1_desc:0 "Uniformen, Helme, Stiefel und Ausrüstung für die Truppe"
@@ -28,6 +52,7 @@
  SOV_infantry_uniforms_3:0 "M40 Gymnastyorka"
  SOV_infantry_uniforms_3_short:0 "M43 Gymnastyorka"
  SOV_infantry_uniforms_3_desc:0 "Uniformen, Helme, Stiefel und Ausrüstungsgegenstände für die Truppe"
+
  SOV_artillery_equipment_0:0 "76mm Divisionsgeschütz M1902/30"
  SOV_artillery_equipment_0_short:0 "76mm M1902/30"
  SOV_artillery_equipment_0_desc:0 "Artillerie des Ersten Weltkriegs bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
@@ -43,6 +68,7 @@
  SOV_artillery_equipment_4:0 "85mm Divisionsgeschütz D-44"
  SOV_artillery_equipment_4_short:0 "85mm D-44"
  SOV_artillery_equipment_4_desc:0 "Leichte, für den Transport zerlegbare Artillerie, die es ermöglicht, Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
+
  SOV_medartillery_equipment_0:0 "122mm Haubitze M1910/30"
  SOV_medartillery_equipment_0_short:0 "122mm M1910/30"
  SOV_medartillery_equipment_0_desc:0 "Neue Haubitzenkonstruktionen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
@@ -58,6 +84,7 @@
  SOV_medartillery_equipment_4:0 "152mm Haubitze M1943 (D-1)"
  SOV_medartillery_equipment_4_short:0 "152mm M1943 (D-1)"
  SOV_medartillery_equipment_4_desc:0 "Neue Haubitzenkonstruktionen, die neue hydraulische Rückstoßvorrichtungen und längere Läufe nutzen."
+
  SOV_Hvartillery_equipment_0:0 "152mm Geschütz M1910/30"
  SOV_Hvartillery_equipment_0_short:0 "152mm M1910/30"
  SOV_Hvartillery_equipment_0_desc:0 "Schwere Artillerie bezieht sich auf Waffen schweren Kalibers wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
@@ -73,12 +100,14 @@
  SOV_Hvartillery_equipment_4:0 "280mm Mörser M1939 (Br-5)"
  SOV_Hvartillery_equipment_4_short:0 "280mm M1939 (Br-5)"
  SOV_Hvartillery_equipment_4_desc:0 "Neue Haubitzenkonstruktionen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
+
  SOV_infantrygun_equipment_0:0 "76-mm-Infanteriegeschütz M1927"
  SOV_infantrygun_equipment_0_short:0 "76mm M1927"
  SOV_infantrygun_equipment_0_desc:0 ""
  SOV_infantrygun_equipment_1:0 "76-mm-Infanteriegeschütz M1943 (OB-25)"
  SOV_infantrygun_equipment_1_short:0 "76mm M1943 (OB-25)"
  SOV_infantrygun_equipment_1_desc:0 ""
+
  SOV_infantry_radio_equipment_0:0 "Funkgerät A-7-A"
  SOV_infantry_radio_equipment_0_desc:0 "Tragbares Zwei-Wege-Funkgerät für Infanterieeinheiten"
  SOV_infantry_radio_equipment_0_short:0 "Funkgerät A-7-A"
@@ -97,6 +126,7 @@
  SOV_HQ_radio_equipment_0:0 "R-4 HQ-Funk"
  SOV_HQ_radio_equipment_0_desc:0 "Tragbares Zwei-Wege-Funkgerät für Gefechtsstände"
  SOV_HQ_radio_equipment_0_short:0 "R-4"
+
  SOV_anti_air_equipment_1:0 "7,62mm Luftabwehr"
  SOV_anti_air_equipment_1_short:0 "7,62mm AA-Maschinengewehr"
  SOV_anti_air_equipment_1_desc:0 "Die Luftabwehrartillerie ist in erster Linie für den Abschuss feindlicher Flugzeuge gedacht, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können."
@@ -124,12 +154,17 @@
  SOV_HVanti_tank_equipment_1_short:0 "85mm D-44"
  SOV_HVanti_tank_equipment_2:0 "100mm Feldgeschütz M1944 (BS-3)"
  SOV_HVanti_tank_equipment_2_short:0 "100mm M1944 (BS-3)"
+ #SOV_HVanti_air_equipment_3:0 "100mm KS-19"
+ #SOV_HVanti_air_equipment_3_short:0 "100mm KS-19"
+ #SOV_HVanti_air_equipment_3_desc:0 "Durch die Kombination verschiedener neuer Munitionstechnologien mit Geschützen mit höherer Mündungsgeschwindigkeit sind diese Panzerabwehrkanonen auf jede neue Panzerung unserer Feinde vorbereitet."
+
  SOV_rocket_artillery_equipment_1:0 "Raketenwerfer"
  SOV_rocket_artillery_equipment_1_short:0 "M-30"
  SOV_rocket_artillery_equipment_1_desc:0 "Raketenartillerie ist weniger genau und hat eine viel geringere Dauerfeuerrate als Batterien herkömmlicher Artilleriegeschütze. Sie sind jedoch in der Lage, ein Ziel gleichzeitig mit mehreren Raketen mit verheerender Wirkung zu treffen."
  SOV_rocket_artillery_equipment_2:0 "RPU-14 Abgeschleppter Raketenwerfer"
  SOV_rocket_artillery_equipment_2_short:0 "RPU-14 Rck Art"
  SOV_rocket_artillery_equipment_2_desc:0 "Drehstabilisierte Raketen, die die Reichweite leichterer Artilleriebatterien erhöhen."
+
  SOV_medium_tank_aa_equipment_axis_1:0 "4M GAZ SPAA"
  SOV_medium_tank_aa_equipment_axis_1_short:0 "4M GAZ SPAA"
  SOV_medium_tank_aa_equipment_axis_1_desc:0 "Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
@@ -139,6 +174,8 @@
  SOV_medium_tank_aa_equipment_axis_3:0 "Medium Luftabwehrgeschütz auf Selbstfahrlafette III"
  SOV_medium_tank_aa_equipment_axis_3_short:0 "Med. SPAA III"
  SOV_medium_tank_aa_equipment_axis_3_desc:0 "Mobile Luftabwehrartillerie auf einem mittleren Panzerfahrgestell."
+
+ ##BlackICE ## ""
  SOV_motorized_lia_equipment_01:0 "GAZ M1"
  SOV_motorized_lia_equipment_01_short:0 "GAZ M1"
  SOV_motorized_lia_equipment_01_desc:0 "Kleinfahrzeuge und andere Fahrzeuge, die als Verbindungs- und Transportfahrzeuge im Feld eingesetzt werden."
@@ -190,6 +227,8 @@
  SOV_mortar_equipment_3:0 "120mm HM Modell 1938"
  SOV_mortar_equipment_3_desc:0 "Eigene Mörserteams innerhalb des Bataillons"
  SOV_mortar_equipment_3_short:0 "120-HM-38"
+
+ ############ Soviet tankettes ""
  SOV_tankette_equipment_0:0 "T-18 Panzerkampfwagen"
  SOV_tankette_equipment_0_short:0 "T-18"
  SOV_tankette_equipment_0_desc:0 ""
@@ -199,6 +238,8 @@
  SOV_tankette_equipment_2:0 "T-20 Komsomolets Tankette"
  SOV_tankette_equipment_2_short:0 "T-20 Komsomolets"
  SOV_tankette_equipment_2_desc:0 ""
+
+ ############## Soviet Artillery ""
  SOV_artytruck_equipment_0:0 "YaG-6 6-Tonnen-Lastwagen"
  SOV_artytruck_equipment_0_short:0 "YaG-6 6-Tonner"
  SOV_artytruck_equipment_0_desc:0 "Große, leistungsstarke Lastkraftwagen für den Transport schwerer Waffen wie großer Artilleriegeschütze und Nachschub"
@@ -219,6 +260,7 @@
  SOV_superartillery_equipment_0_desc:0 ""
  SOV_railartillery_equipment_0_short:0 "TMK-3-12 Schienen-Art"
  SOV_railartillery_equipment_0_desc:0 ""
+ ## Infantry weapons## ""
  SOV_handheld_at_equipment_1:0 "PTRS-41 Handgeführte Panzerabwehr"
  SOV_handheld_at_equipment_1_short:0 "PTRS-41 AT + Minen"
  SOV_handheld_at_equipment_1_desc:0 "Handgetragenes Panzerabwehrgewehr, das auf die Bekämpfung von leicht gepanzerten Zielen wie Panzern aus nächster Nähe spezialisiert ist und von der Infanterie eingesetzt wird; es feuert in der Regel panzerbrechende Geschosse ab."
@@ -263,10 +305,13 @@
  SOV_motorized_equipment_2_short:0 "GAZ-MM"
  SOV_mechanized_equipment_1:0 "BA-10E"
  SOV_mechanized_equipment_1_short:0 "BA-10E"
+ #SOV_mechanized_equipment_1_desc:0 "Panzerabwehr ist eine militärische Taktik, bei der Infanteriesoldaten, so genannte Panzerodesantniki, in einen Angriff auf Panzer reiten und dann absteigen, um in der letzten Phase des Angriffs zu Fuß zu kämpfen. Diese Taktik wurde von der sowjetischen Roten Armee während des Zweiten Weltkriegs eingesetzt. Panzerabwehrtruppen (tankodesantniki) waren Infanteristen, die in dieser Taktik ausgebildet wurden, um mit Handfeuerwaffen feindliche Panzerabwehrwaffen oder feindliche Infanterie mit Panzerabwehrgranaten zu bekämpfen."
  SOV_mechanized_equipment_2:0 "BA ISH"
  SOV_mechanized_equipment_2_short:0 "BA ISH"
+ #SOV_mechanized_equipment_2_desc:0 "Panzerabwehr ist eine militärische Taktik für kombinierte Waffen, bei der Infanteriesoldaten, so genannte Panzerodesantniki, in einen Angriff auf Panzer reiten und dann absteigen, um in der Endphase des Angriffs zu Fuß zu kämpfen. Diese Taktik wurde von der sowjetischen Roten Armee während des Zweiten Weltkriegs eingesetzt. Panzerabwehrtruppen (tankodesantniki) waren in dieser Taktik ausgebildete Infanteristen, die mit Handfeuerwaffen feindliche Panzerabwehrwaffen oder feindliche Infanterie mit Panzerabwehrgranaten abwehren sollten."
  SOV_mechanized_equipment_3:0 "BA-64E"
  SOV_mechanized_equipment_3_short:0 "BA-64E"
+ #SOV_mechanized_equipment_3_desc:0 "Panzerabwehr ist eine militärische Taktik für kombinierte Waffen, bei der Infanteriesoldaten, so genannte Panzerodesantniki, in einen Angriff auf Panzer reiten und dann absteigen, um in der Endphase des Angriffs zu Fuß zu kämpfen. Diese Taktik wurde von der sowjetischen Roten Armee während des Zweiten Weltkriegs eingesetzt. Panzerabwehrtruppen (tankodesantniki) waren in dieser Taktik ausgebildete Infanteristen, die mit Handfeuerwaffen feindliche Panzerabwehrwaffen oder feindliche Infanterie mit Panzerabwehrgranaten abwehren sollten."
  SOV_mechanized_at_0:0 "ZiS-42 Mechanisierte Panzerabwehr"
  SOV_mechanized_at_0_short:0 "ZiS-42"
  SOV_mechanized_at_0_desc:0 "Mechanisierte Panzerabwehr"
@@ -281,6 +326,7 @@
  SOV_mechanized_mortar_0_desc:0 "Mechanisierter Mörser"
  SOV_motorized_rocket_equipment_1:0 "BM-13 Katjuscha Raketenartillerie"
  SOV_motorized_rocket_equipment_1_short:0 "BM-13 Katjuscha"
+ ###Tanks### ""
  soviet_armor_tech:0 "Sowjetische Panzerung"
  soviet_armor_tech_desc:0 "Sowjetische Panzerung"
  SOV_amph_soviet_tank_equipment_1:0 "T-37"
@@ -487,6 +533,8 @@
  heavy_flame_soviet_tank_equipment_2:0 "Schwerer Flammenpanzer"
  heavy_flame_soviet_tank_equipment_2_short:0 "KV-8S"
  heavy_flame_soviet_tank_equipment_2_desc:0 "Einheitstyp: Schwerer Flammenpanzer. \nann umgerüstet werden von: KV-1S"
+
+ ## Archetypes ## ""
  amph_soviet_tank_equipment:0 "Amphibische Panzer"
  amph_soviet_tank_equipment_desc:0 "Amphibische Panzer sind gepanzerte Fahrzeuge, die für amphibische Landungen geeignet sind."
  light_soviet_tank_equipment:0 "Leichte Panzer"
@@ -526,6 +574,8 @@
  is_tank_td_desc:0 "Ein schwerer Panzer, bei dem der Turm entfernt wurde, um eine noch größere Kanone in einer festen Halterung zu tragen."
  is_tank_art:0 "ISU-152"
  is_tank_art_desc:0 "Eine große Artillerie, die auf einem schweren Fahrgestell montiert ist. Diese selbstfahrenden Geschütze haben eine große Feuerkraft."
+
+ ###Aircraft### ""
  sov_dogfighter:0 "Luftüberlegenheit"
  sov_dogfighter_desc:0 "Dog Fighter, kann aber auch Bodenangriffe durchführen"
  sov_multirole:0 "Mehrzweckkampfflugzeug"
@@ -597,6 +647,7 @@
  i_153_equipment_1_desc:0 "Die Polikarpov I-153 ist eine stark verbesserte Version der I-15bis. Sie ist ein Doppeldecker-Jagdflugzeug."
  tech_i_153_equipment_1:0 "Polikarpow I-153"
  tech_i_153_equipment_1_desc:0 "Die Polikarpov I-153 ist eine stark verbesserte Version der I-15bis. Sie ist ein Doppeldecker-Jagdflugzeug."
+
  i_16_equipment_1:0 "Polikarpow I-16 Typ 4"
  i_16_equipment_1_short:0 "I-16 Typ 4 Jagdflugzeug"
  i_16_equipment_1_desc:0 "Das früheste Produktionsmodell der I-16. Der Typ 4 wird vom M-22-Motor angetrieben und trägt 2 ShKAS 7,62 mm Maschinengewehre."
@@ -622,6 +673,7 @@
  tech_i_16_equipment_4_desc:0 "Ein spätes Modell der I-16. Der Typ 24 wird von einem M-63-Motor angetrieben und trägt 4 ShKAS 7,62 mm Maschinengewehre."
  tech_i_16_equipment_5:0 "Polikarpow I-16 Typ 29"
  tech_i_16_equipment_5_desc:0 "Das letzte Modell der I-16. Der Typ 29 trägt 1 UBS 12,7 mm und 2 ShKAS 7,62 mm Maschinengewehre, sowie Gestelle für Bomben und Raketen."
+
  i_180_equipment:0 "I-180"
  i_180_equipment_desc:0 "Die Polikarpov I-180 ist ein aus der I-16 entwickeltes Eindecker-Jagdflugzeug."
  i_180_equipment_1:0 "Polikarpow I-180S"
@@ -639,6 +691,7 @@
  i_185_equipment_1_desc:0 "Die Polikarpov I-185 ist ein aus der I-180 entwickelter Eindecker-Jäger."
  tech_i_185_equipment_1:0 "Polikarpow I-185"
  tech_i_185_equipment_1_desc:0 "Die Polikarpov I-185 ist ein aus der I-180 entwickelter Eindecker."
+
  yak_1_equipment:0 "Jak-1"
  yak_1_equipment_desc:0 "Die Yakovlev 1 ist ein leichtes Kampfflugzeug. Sie ist die Serienversion der I-26-Prototypen."
  yak_1_equipment_1:0 "Jakowlew 1"
@@ -939,6 +992,7 @@
  ar_2_engine_upgrade:0 "Zelle"
  ar_2_engine_upgrade_desc:0 "Verbesserungen an der Zelle der SB-2 verliehen der Ar-2 eine höhere Leistung."
  tb_3_bomber_equipment:0 "TB-3"
+
  tb_3_weight_upgrade:0 "Gewichtsreduzierung"
  tb_3_weight_upgrade_desc:0 "Die frühen TB-3 waren oft viel schwerer als geplant. Strengere Toleranzen und die Beseitigung von Übergewicht trugen dazu bei, dieses Problem zu lösen."
  tb_3_airframe_upgrade:0 "Flugwerk"
@@ -980,6 +1034,7 @@
  po_2_tech:0 "Belagerung von Odessa"
  tech_po_2_bomber_equipment_1:0 "U-2"
  tech_po_2_bomber_equipment_1_desc:0 "Die U-2 (später als Po-2 bekannt) war ursprünglich als Schulflugzeug konzipiert. Nach dem deutschen Überfall auf die Sowjetunion fand die U-2 eine ungewollte Nische als leichter Bomber, bei dem ihre langsame Geschwindigkeit von Vorteil war."
+ ### Heavy bombers ""
  tb_1_bomber_equipment_desc:0 "Die TB-1 ist ein früher zweimotoriger schwerer Bomber."
  tech_tb_1_bomber_equipment_1:0 "Tupolew TB-1"
  tech_tb_1_bomber_equipment_1_desc:0 "Die TB-1 ist ein früher zweimotoriger schwerer Bomber."
@@ -1006,6 +1061,7 @@
  tb_3_bomber_equipment_5:0 "Tupolew TB-3"
  tb_3_bomber_equipment_5_short:0 "TB-3 4M-34FRN/FRNV"
  tb_3_bomber_equipment_5_desc:0 "Die TB-3 ist ein früher viermotoriger schwerer Bomber. AM-34FRN/FRNV-Motoren mit erhöhter Leistung und Vierblatt-Propellern, aerodynamische Verbesserungen einschließlich stromlinienförmiger Türme, 2 Meter lange Haupträder mit Bremsen, Höchstgeschwindigkeit über 300 km/h (160 kn; 190 mph)."
+
  tech_r_5_bomber_equipment_1:0 "Polikarpow R-5"
  tech_r_5_bomber_equipment_1_desc:0 "Die als Aufklärungsflugzeug konzipierte Polikarpov R-5 wurde auch als Bodenangriffsflugzeug eingesetzt."
  tech_r_5_bomber_equipment_2:0 "Polikarpow R-5 SSS"
@@ -1021,6 +1077,7 @@
  r_5_bomber_equipment_3:0 "Polikarpow R-Z Sh"
  r_5_bomber_equipment_3_short:0 "R-Z Sturzkampfbomber"
  r_5_bomber_equipment_3_desc:0 "Die als Aufklärungsflugzeug konzipierte Polikarpov R-5 wurde als Bodenangriffsflugzeug eingesetzt.\nDie R-Z war eine Neukonstruktion der R-5, die als Bodenangriffsflugzeug eingesetzt werden sollte. Sie tauschte die Flugleistung gegen schwerere Waffen ein."
+
  tb_1_naval_bomber_equipment:0 "TB-1P"
  tb_1_naval_bomber_equipment_desc:0 "Die Tupolev TB-1P war eine Variante der TB-1, die einen 800 kg schweren Torpedo tragen konnte."
  tb_1_naval_bomber_equipment_1:0 "Tupolew TB-1P"
@@ -1369,6 +1426,7 @@
  soviet_cvnav_equipment_2_desc:0 "Russland hat während des 2. Weltkriegs keine Trägerflugzeuge entwickelt."
  SOV_transport_plane_equipment_1:0 "Lisunow Li-2 Transport"
  SOV_transport_plane_equipment_1_short:0 "Li-2 Transport"
+
  tech_tb_1_transport_equipment_1:0 "Tupolew ANT-4"
  tb_1_transport_equipment_1:0 "Tupolew ANT-4"
  tb_1_transport_equipment_1_short:0 "ANT-4 Transport"
@@ -1393,6 +1451,7 @@
  il_12_transport_equipment_1:0 "Iljuschin Il-12"
  il_12_transport_equipment_1_short:0 "Il-12 Transport"
  il_12_transport_equipment_1_desc:0 "Transportflugzeuge, die für Fallschirmjäger und Versorgungsabwürfe verwendet werden. Stellt mehrere Flugzeuge dar."
+
  tech_r_6_scout_equipment_1:0 "Polikarpow R-6"
  r_6_scout_equipment_1:0 "Tupolev R-6 (Aufklärer)"
  r_6_scout_equipment_1_short:0 "R-6 Aufklärer"
@@ -1421,6 +1480,11 @@
  tu_2_scout_equipment_2:0 "Tupolew Tu-2R"
  tu_2_scout_equipment_2_short:0 "Tu-2R Aufklärer"
  tu_2_scout_equipment_2_desc:0 "Ein speziell für die Fotoaufklärung entwickeltes Flugzeug. Verlässt sich in erster Linie auf Geschwindigkeit und Tarnkappe, um zu überleben, und wird im Allgemeinen in jedem Nahkampf verlieren."
+
+ ### SOVIET NAVY ### ""
+
+ ### SUBS ### ""
+
  tech_sn_sub:0 "Sowjetische U-Boot-Flotte"
  tech_sn_sub_desc:0 "U-Boot-Abteilung der Roten Marine. Die U-Boot-Abteilung war im Vergleich zu den U-Boot-Flotten anderer Marinen eine der größten der Welt. Der Aufbau einer sowjetischen Flotte war eine nationale Priorität."
  sn_coastal_submarine_0b:0 "AG Klasse"
@@ -1459,12 +1523,16 @@
  sn_patrol_submarine_10_desc:0 "Die ersten kleineren Verbesserungen wurden an der IX-bis Klasse vorgenommen. Die U-Boote der S Klasse oder Srednja (russisch: Средняя, \"mittel\") waren Teil der Unterwasserflotte der sowjetischen Marine während des Zweiten Weltkriegs. Inoffiziell tragen sie den Spitznamen Stalinets (russ: Cталинец, \"Anhänger von Stalin\". Die Geschichte der S Klasse stellt eine interessante Wendung in der Entwicklung von Kriegsschiffen dar. Sie war das Ergebnis einer internationalen Zusammenarbeit zwischen sowjetischen und deutschen Ingenieuren, die zwei unterschiedliche (aber dennoch verwandte) U-Boot Klassen hervorbrachte, die im Krieg oft gegeneinander antraten. Die Klasse zeichnete sich durch eine hohe Höchstgeschwindigkeit von etwa 19 Knoten an der Oberfläche und eine Verdrängung von 1050 Tonnen unter Wasser aus und verfügte über sechs 533-mm-Torpedorohre mit 12 Nachladevorrichtungen, ein 100-mm-Marinegeschütz für den Überwassereinsatz und ein 45-mm-Flugabwehrgeschütz. Die S Klasse wurde in drei Unterklassen unterteilt, die einander sehr ähnlich waren und nur geringfügige Verbesserungen aufwiesen."
  sn_patrol_submarine_11:0 "Srednjaja Klasse (Serie IX-bis-2)"
  sn_patrol_submarine_11_desc:0 "Die letzte Version der S Klasse, die zum Einsatz kam, ist die IX-bis-2-Version mit geringfügigen Verbesserungen. Die U-Boote der S Klasse oder Srednja (russisch: Средняя, \"mittel\") waren Teil der Unterwasserflotte der sowjetischen Marine während des Zweiten Weltkriegs. Inoffiziell tragen sie den Spitznamen Stalinets (russ: Cталинец, \"Anhänger von Stalin\". Die Geschichte der S Klasse stellt eine interessante Wendung in der Entwicklung von Kriegsschiffen dar. Sie war das Ergebnis einer internationalen Zusammenarbeit zwischen sowjetischen und deutschen Ingenieuren, die zwei unterschiedliche (aber dennoch verwandte) U-Boot Klassen hervorbrachte, die im Krieg oft gegeneinander antraten. Die Klasse zeichnete sich durch eine hohe Höchstgeschwindigkeit von etwa 19 Knoten an der Oberfläche und eine Verdrängung von 1050 Tonnen unter Wasser aus und verfügte über sechs 533-mm-Torpedorohre mit 12 Nachladevorrichtungen, ein 100-mm-Marinegeschütz für den Überwassereinsatz und ein 45-mm-Flugabwehrgeschütz. Die S Klasse wurde in drei Unterklassen unterteilt, die einander sehr ähnlich waren und nur geringfügige Verbesserungen aufwiesen."
+ #sn_patrol_submarine_11b:0 "Srednjaja Klasse (Serie XVI)"
+ #sn_patrol_submarine_11b_desc:0 "Die letzte Version der S Klasse, die XVI-Version mit geringfügigen Verbesserungen. 6 Boote waren im Bau, und alle sechs wurden versenkt.  Sie kam nie zum Einsatz. Die U-Boote der S Klasse oder Srednja (russisch: Средняя, \"mittel") waren Teil der Unterwasserflotte der sowjetischen Marine während des Zweiten Weltkriegs. Inoffiziell tragen sie den Spitznamen Stalinets (russ: Cталинец, \"Anhänger von Stalin\". Die Geschichte der S Klasse stellt eine interessante Wendung in der Entwicklung von Kriegsschiffen dar. Sie war das Ergebnis einer internationalen Zusammenarbeit zwischen sowjetischen und deutschen Ingenieuren, die zwei unterschiedliche (aber dennoch verwandte) U-Boot Klassen hervorbrachte, die im Krieg oft gegeneinander antraten. Die Klasse zeichnete sich durch eine hohe Höchstgeschwindigkeit von etwa 19 Knoten an der Oberfläche und eine Verdrängung von 1050 Tonnen unter Wasser aus und verfügte über sechs 533-mm-Torpedorohre mit 12 Nachladevorrichtungen, ein 100-mm-Marinegeschütz für den Überwassereinsatz und ein 45-mm-Flugabwehrgeschütz. Die S Klasse wurde in drei Unterklassen unterteilt, die einander sehr ähnlich waren und nur geringfügige Verbesserungen aufwiesen."
  sn_patrol_submarine_12:0 "Projekt 613 (Whiskey) Klasse"
  sn_patrol_submarine_12_desc:0 "Projekt 613 wurde kurz nach dem Zweiten Weltkrieg entwickelt und war ein Entwurf, der für die Sowjetunion in Serie produziert wurde. Der Entwurf des Projekts 613 wurde zwischen Oktober 1947 und August 1948 entwickelt. Die Sormovo-Werft in Gorkiy wurde mit der Massenproduktion dieser U-Boote beauftragt. Der Entwurf war stark von der deutschen U-Boot Klasse XXI beeinflusst und verdrängte 1350 Langtonnen unter Wasser. Die Hauptbewaffnung besteht aus sechs 533-mm-Torpedoro-Rohren mit 12 Nachladungen und einer mäßigen Flugabwehrbewaffnung. Seine kriegsbedingten Verbesserungen machten es zu einem tödlichen Nachfolger der mittleren Angriffs-U-Boote der Sowjetunion-Marine."
  sn_lr_patrol_submarine_1:0 "Kreyserskaya Klasse (Serie XIV)"
  sn_lr_patrol_submarine_1_desc:0 "Die K Klasse (Kreyserskaya bedeutet auf Russisch "Kreuzfahrt") war das größte U-Boot, das während des Zweiten Weltkriegs für die sowjetische Marine gebaut wurde. Der Entwurf wurde 1936 als "Kreuzer-U-Boot" mit großer Reichweite und schwerer Torpedo- und Geschützbewaffnung genehmigt. Die Boote konnten als "Flotten-U-Boote" in der Schlachtflotte oder als Langstrecken-Handelsplünderer eingesetzt werden. Sie erreichten eine Höchstgeschwindigkeit von 22,5 Knoten an der Oberfläche und 10 Knoten unter Wasser und hatten eine sehr hohe Reichweite, da sie insgesamt 10 533-mm-Torpedorohre mit 24 Nachladungen mitführten. Die K Klasse galt als die erfolgreichste U-Boot Klasse der sowjetischen Marine."
  sn_lr_patrol_submarine_2:0 "Projekt 611 (Zulu) Klasse"
  sn_lr_patrol_submarine_2_desc:0 "Das Projekt 611 der sowjetischen Marine (NATO-Berichtsname: Zulu Klasse) war eines der ersten sowjetischen Angriffs-U-Boote der Nachkriegszeit. Wie die meisten konventionellen U-Boote, die zwischen 1946 und 1960 entworfen wurden, war ihr Design vom deutschen U-Boot Typ XXI aus dem Zweiten Weltkrieg beeinflusst. Insgesamt wurden sechsundzwanzig Boote gebaut, die zwischen 1952 und 1957 in Dienst gestellt wurden. Sie verfügten über eine große Reichweite und zehn 533-mm-Torpedorohre mit 22 Nachladevorrichtungen, was sie zu einem sehr tödlichen Gegner machte."
+
+ ### DD ### ""
  SOV_destroyer_0a:0 "DD der Wolodarskij Klasse"
  SOV_destroyer_0b:0 "Uritskiy Klasse DD"
  SOV_destroyer_0c:0 "Engels & Artyom Klasse DD"
@@ -1489,7 +1557,7 @@
  SOV_destroyer_3_desc:0 "Die Soobrazitelnyi (Projekt 7U) Zerstörer waren eine verbesserte Version der vorherigen Gnevny Klasse. Ihre Motoren wurden überarbeitet und sie hatten eine stärkere Flakbewaffnung. Sie verdrängten zwischen 1.900 und 2.400 Tonnen, und ihre Geschwindigkeit und Reichweite waren ähnlich wie bei der Gnevny Klasse."
  SOV_destroyer_3b:0 "DD der Taschkent Klasse"
  SOV_destroyer_3b_desc:0 "Die Tashkent Klasse (Projekt 20) war eine Gruppe von Zerstörern, die in Italien entworfen und kurz vor dem Zweiten Weltkrieg für die sowjetische Marine gebaut wurden. Die Bewaffnung bestand aus drei 130-mm-Zwillingstürmen des Typs B-2LM, die nur für den Oberflächenbeschuss vorgesehen waren. Ursprünglich waren 45 mm-Flugabwehrkanonen geplant, die jedoch durch automatische 37 mm-Flugabwehrkanonen ersetzt wurden. Später wurden zwei 76 mm (3,0 Zoll) Flakgeschütze eingebaut. Die Torpedobewaffnung bestand aus drei dreifachen 533-mm-Torpedoro-Rohren."
- SOV_destroyer_3c:0 "Kiev Class DD" 
+ SOV_destroyer_3c:0 "Kiev Class DD" #nicht Kyiv, da es wahrscheinlich russisch und nicht ukrainisch ist
  SOV_destroyer_3c_desc:0 ""
  SOV_destroyer_3d:0 "Ognevoy Klasse DD"
  SOV_destroyer_3d_desc:0 "Die Zerstörer der Ognevoy Klasse waren eine Serie von elf Zerstörern, die für die sowjetische Marine gebaut wurden und über eine höhere Reichweite, mehr Wasserbombenwerfer und bessere Flugabwehrbatterien verfügten."
@@ -1499,6 +1567,8 @@
  SOV_destroyer_5_desc:0 "Projekt 40 war ein hypothetischer Zerstörer der sowjetischen Marine und der Nachfolger des Zerstörerentwurfs Projekt 47 mit verdoppelter Flugzeugabwehrbewaffnung gegen die zunehmende Bedrohung durch die Marinefliegerei."
  SOV_destroyer_6:0 "Modifizierter DD der Ognevoy Klasse"
  SOV_destroyer_6_desc:0 "Hierbei handelte es sich um ein Nachfolgeprojekt des Zerstörers der Ogneynov Klasse mit leicht verbesserter Hülle und Flugzeugabwehrbewaffnung."
+
+ ### CL ### ""
  SOV_light_cruiser_1:0 "Bogatyr Klasse CL"
  SOV_light_cruiser_1b:0 "Svetlana CL"
  SOV_light_cruiser_1c:0 "Tscherwona-Ukraina Klasse CL"
@@ -1518,16 +1588,22 @@
  SOV_light_cruiser_4_desc:0 "Der Kreuzer der Krasnyy Krym Klasse war im Vergleich zu seinem Vorgänger ein kleinerer Entwurf mit geringerer Geschwindigkeit und geringerem Panzerschutz, aber schneller zu bauen."
  SOV_light_cruiser_5:0 "Projekt 65 CL"
  SOV_light_cruiser_5_desc:0 "Projekt 65 war ein hypothetischer Kreuzerentwurf der sowjetischen Marine, der sich durch überlegenen Schutz gegen Flugzeuge, Geschwindigkeit und Torpedobewaffnung für Nahkämpfe in der Schlachtlinie auszeichnete."
+
+ ### CA ### ""
  SOV_heavy_cruiser_1:0 "Projekt X CA"
  SOV_heavy_cruiser_1_desc:0 "Projekt X war eine hypothetische Designstudie der sowjetischen Marine, die den Bedarf an einem schweren Kreuzer untersuchte, der zwischen den größeren Schlachtschiffen und den leichten Kreuzern angesiedelt werden konnte. Der Kreuzer der Projekt-X Klasse war vielversprechend: Er hatte eine Höchstgeschwindigkeit von 34 Knoten und eine schwere Torpedo- und Hauptbewaffnung bei relativ niedrigen Produktionskosten."
  SOV_heavy_cruiser_2:0 "Projekt 83 CA"
  SOV_heavy_cruiser_2_desc:0 "Projekt 83 basierte auf dem Entwurf von Projekt X, wies jedoch eine wesentlich schwerere Torpedobewaffnung in Doppel- und Dreifachtürmen auf und ging Kompromisse bei Geschwindigkeit und Rumpfstruktur ein. Die Gesamtproduktionskosten wurden ebenfalls erhöht und lagen nun nahe an den Schlachtkreuzerentwürfen der sowjetischen Marine."
+
+ ### BC ### ""
  SOV_battle_cruiser_1:0 "Projekt 25 BC"
  SOV_battle_cruiser_1_desc:0 "Projekt 25 war ein sowjetischer Schlachtkreuzerentwurf und der erste seiner Klasse. Er zeichnete sich durch typische Bewaffnung und Schutz aus, gepaart mit einer hohen Geschwindigkeit im Vergleich zu anderen Schlachtkreuzerentwürfen jener Zeit."
  SOV_battle_cruiser_2:0 "Kronstadt Klasse BC"
  SOV_battle_cruiser_2_desc:0 "Die Schlachtkreuzer der Kronstadt Klasse (Projekt 69) wurden im Rahmen des Schiffbauprogramms 1938-43 genehmigt und sollten in den 1940er Jahren fertiggestellt werden. Der ursprüngliche Entwurf sah einen großen schweren Kreuzer von 23.000 Tonnen vor, aber nachdem Informationen über deutsche Scharnhorst-Schlachtkreuzer eintrafen, wurden die Schiffe auf 35.000 Tonnen umkonstruiert. Als die Feindseligkeiten zwischen Deutschland und der Sowjetunion ausbrachen, wurde der Bau der Schiffe gestoppt und schließlich eingestellt. Alternativpläne sahen vor, die unvollständigen Rümpfe als Flugzeugträger im Rahmen des Projekts 69AV fertigzustellen."
  SOV_battle_cruiser_2b:0 "Kronstadt Ger.38 Klasse BC"
  SOV_battle_cruiser_2b_desc:0 "Hierbei handelte es sich um eine angepasste Version der Kronstadt Klasse mit deutschen 380-mm-Geschütztürmen und einem Feuerleitsystem von Krupp. Diese Klasse war aufgrund der deutschen Geschütze nicht unbedingt leistungsfähiger."
+
+ ### BB ### ""
  SOV_battleship_1:0 "Oktjabrskaja Revoljutsija Klasse BB"
  SOV_battleship_1_desc:0 "Die Schlachtschiffe der Oktjabrskaja Revoljutsija Klasse (ursprünglich Gangut Klasse) waren Schlachtschiffe des Ersten Weltkriegs und die ersten Dreadnoughts, die in der kaiserlichen russischen Marine eingesetzt wurden. Ihr Design und die Anordnung der Türme dienten als Grundlage für alle nachfolgenden Schlachtschiff- und Schlachtkreuzer Klassen. Nur drei Schiffe überlebten die Wirren der russischen Revolution. Sie wurden in den 1930er Jahren modernisiert und umgerüstet, wodurch sie hohe, fast pagodenartige Aufbauten erhielten. Sie verfügten über moderne Elektronik und eine starke Flakausrüstung."
  SOV_battleship_1b:0 "Marat Klasse BB"
@@ -1541,17 +1617,23 @@
  SOV_battleship_4_desc:0 "Das Schlachtschiff der Sovetskiy Soyuz Klasse war ein überlegenes Design und ein echter Schritt nach vorn in der Entwicklung der sowjetischen Schlachtschiffe. Es zeichnete sich durch einen höheren Panzerschutz und eine noch höhere Geschwindigkeit aus. Dieses Schlachtschiff sollte als Flaggschiff für die Schwarzmeer- und Ostseeflotte eingesetzt werden."
  SOV_battleship_5:0 "Überarbeitete Sovetsky Soyouz Klasse BB"
  SOV_battleship_5_desc:0 "Ein angepasster Entwurf im Vergleich zu den ursprünglichen Plänen für die Sovetskiy Soyuz Klasse mit dem Ziel, billiger und schneller zu bauen, um die Verfügbarkeit von Schlachtschiffen kurzfristig zu erhöhen. Leider haben die empfohlenen Änderungen die Schiffskosten noch weiter erhöht."
+
+ ### BBV ### ""
  SOV_hybrid_battleship_1:0 "Projekt 1058.1 BB-CV"
  SOV_hybrid_battleship_1_desc:0 "Hybrider Schlachtschiff-Träger-Entwurf, der schwere Bewaffnung und Panzerung mit einem angemessenen Platzangebot für Marineflugzeuge und der hohen Geschwindigkeit eines Trägers kombiniert. Während diese Entwürfe erfolgreich zu sein scheinen, waren die Produktionskosten gigantisch, so dass es fast unmöglich war, die Schiffe während des Zweiten Weltkriegs rechtzeitig in Dienst zu stellen."
  SOV_hybrid_battleship_2:0 "Projekt 1058.2 BB-CV"
  SOV_hybrid_battleship_2_desc:0 "Hybrider Schlachtschiff-Träger-Entwurf, der schwere Bewaffnung und Panzerung mit angemessenem Platz für Marineflugzeuge und der hohen Geschwindigkeit eines Trägers kombiniert. Während diese Entwürfe erfolgreich zu sein scheinen, waren die Produktionskosten gigantisch, so dass es fast unmöglich war, die Schiffe während des Zweiten Weltkriegs rechtzeitig in Dienst zu stellen."
  SOV_hybrid_battleship_3:0 "Projekt 1058.3 BB-CV"
  SOV_hybrid_battleship_3_desc:0 "Hybrider Schlachtschiff-Träger-Entwurf, der schwere Bewaffnung und Panzerung mit angemessenem Deckraum für Marineflugzeuge und der hohen Geschwindigkeit eines Trägers kombiniert und die Kosten im Vergleich zu den vorherigen Entwürfen senkt. Während diese Entwürfe erfolgreich zu sein scheinen, waren die Produktionskosten gigantisch, so dass es fast unmöglich war, während des Zweiten Weltkriegs rechtzeitig Schiffe zu bauen."
+
+ ### CV ### ""
  SOV_carrier_1:0 "Projekt 71B CV"
  SOV_carrier_1_desc:0 "Die Träger des Projekts 71B wurden Mitte bis Ende der 1930er Jahre entworfen. Sie sollten den neuen Überwasserflotten, die Stalin in seinem Plan anordnete, Luftschutz bieten. Geplant waren zwei Schiffe mit einer Verdrängung von etwa 30.000 Tonnen, einer starken Flakbewaffnung, guter Panzerung und einer angemessenen Luftflotte. Die deutsche Invasion führte dazu, dass der Bau dieser Schiffe eingestellt wurde."
  SOV_carrier_2:0 "Projekt 72 CV"
  SOV_carrier_2_desc:0 "Bei den Flugzeugträgern des Projekts 72 handelte es sich um die verbesserten Versionen der vorherigen Schiffe des Projekts 71. Die Konstruktionsstudien wurden Anfang der 1940er Jahre abgeschlossen und führten zu einem größeren Schiff mit dünnerer Panzerung. Der zusätzliche Platz wurde genutzt, um eine stärkere Flak-Bewaffnung zu installieren und eine größere Luftwaffengruppe zu befördern."
  SOV_carrier_3:0 "Projekt 69AV CV"
  SOV_carrier_3_desc:0 "Das Projekt 69AV sollte die erste Klasse der modernen sowjetischen Flugzeugträger darstellen und ebenso leistungsfähig sein wie westliche Flugzeugträger. Der Träger konnte eine Fluggruppe von 76 Flugzeugen tragen und verfügte über eine schwere Flugabwehrbewaffnung und eine hohe Manövriergeschwindigkeit."
+
+ ### CVL ### ""
  SOV_light_carrier_1:0 "Projekt 71A CVL"
  SOV_light_carrier_1_desc:0 "Projekt 71A CVL"

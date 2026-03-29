@@ -1,8 +1,13 @@
 ﻿l_german:
+
+ ### EQUIPMENT MODULE ROLE PERMISSIONS ### ""
  MODULE_ALLOW_ROLE:1 "§GErlaubt§! die Rolle $ROLE|H$"
  MODULE_ALLOW_ROLE_BUT_OTHER_FORBID:0 "§GErlaubt§! die Rolle $ROLE|H$, aber $FORBIDDING_MODULE|H$ §Rverbietet§! sie"
  MODULE_FORBID_ROLE:1 "§RVerbietet§! die Rolle $ROLE|H$"
+
  MODULE_ALLOWED_ROLE_IS_FORBIDDEN_BY_ANOTHER_MODULE:0 "Die Rolle $ROLE|H$ ist £trigger_yes£ durch das Modul $ALLOWING_MODULE|H$, aber ist £trigger_no£ durch das Modul $FORBIDDING_MODULE|H$.\n\n"
+
+ ### EQUIPMENT MODULE CATEGORIES ### ""
  EQ_MOD_CAT_tank_engine_type_TITLE:0 "Motor Typ"
  EQ_MOD_CAT_tank_armor_type_TITLE:0 "Panzerungsart"
  EQ_MOD_CAT_tank_suspension_type_TITLE:1 "Raupenaufhängung"
@@ -20,6 +25,8 @@
  EQ_MOD_CAT_tank_radio_module_TITLE:0 "Funkgerät"
  EQ_MOD_CAT_tank_secondary_turret_TITLE:0 "Sekundärer Geschützturm"
  EQ_MOD_CAT_tank_non_tracked_suspension_type_TITLE:0 "Keine raupengebundene Aufhängung"
+
+ ### EQUIPMENT MODULE SLOTS ### ""
  EQ_MOD_SLOT_main_armament_slot_TITLE:0 "Hauptbewaffnung"
  EQ_MOD_SLOT_turret_type_slot_TITLE:0 "Geschützturm"
  EQ_MOD_SLOT_suspension_type_slot_TITLE:0 "Aufhängung"
@@ -29,6 +36,9 @@
  EQ_MOD_SLOT_special_type_slot_2_TITLE:0 "Besondere Merkmale"
  EQ_MOD_SLOT_special_type_slot_3_TITLE:0 "Besondere Merkmale"
  EQ_MOD_SLOT_special_type_slot_4_TITLE:0 "Besondere Merkmale"
+
+ ### EQUIPMENT MODULES ### ""
+
  tank_gasoline_engine:0 "Benzinmotor"
  tank_gasoline_engine_desc:0 "Ein Motor, der mit Benzin betrieben wird, ist bei einer bestimmten Motorgröße schneller, aber der Kraftstoff ist viel anfälliger für Brände."
  tank_diesel_engine:0 "Dieselmotor"
@@ -357,6 +367,7 @@
  easy_maintenance_desc:0 "Luken rund um das Fahrzeug ermöglichen den Zugang zu vielen verschiedenen Komponenten des Fahrzeugs und erlauben es der Besatzung, selbst komplexe Wartungsarbeiten relativ einfach durchzuführen."
  additional_machine_guns:0 "Zusätzliche Maschinengewehre"
  additional_machine_guns_desc:0 "Eine Reihe von Maschinengewehren in Sponsons und spezielle Zapfenhalterungen verleihen dem Fahrzeug eine verbesserte Verteidigung gegen Infanterieangriffe im Nahbereich."
+
  GER_light_tank_flame_equipment_0:0 "Versuchsflammpanzer"
  GER_medium_tank_flame_equipment_0:0 "Versuchsflammpanzer (Mittelschwer)"
  GER_heavy_tank_flame_equipment_0:0 "Versuchsflammpanzer (schwer)"
@@ -381,6 +392,9 @@
  GER_heavy_tank_amphibious_equipment_1:0 "Schwimmpanzer (Schwer)"
  GER_heavy_tank_amphibious_equipment_2:0 "Schwimmpanzer Tiger"
  GER_heavy_tank_amphibious_equipment_3:0 "Schwimmpanzer Tiger II"
+ #light_tank_equipment_0:0 "IW Leichter Panzer"
+ #medium_tank_equipment_0:0 "IW Mittlerer Panzer"
+ #heavy_tank_equipment_0:0 "IW Schwerer Panzer"
  light_tank_flame_equipment_0:0 "IW Leichter Flammenpanzer"
  medium_tank_flame_equipment_0:0 "IW Mittlerer Flammpanzer"
  heavy_tank_flame_equipment_0:0 "IW Schwerer Flammenpanzer"
@@ -393,16 +407,22 @@
  light_tank_artillery_equipment_0:0 "IW Leichte SP Artillerie"
  medium_tank_artillery_equipment_0:0 "IW Mittlere SP Artillerie"
  heavy_tank_artillery_equipment_0:0 "IW Schwere SP Artillerie"
+
+
  GER_heavy_tank_equipment_0:0 "Versuchspanzerkampfwagen (schwer)"
  GER_light_tank_equipment_0:0 "Leichttraktor"
  GER_medium_tank_equipment_0:0 "Versuchspanzerkampfwagen (mittel)"
+
  EQUIPMENT_AMPHIBIOUS:0 "Amphibischer Panzer"
+
  light_flame_tank:0 "Leichte Flammenpanzerkompanie"
  light_flame_tank_desc:0 "Eine Kompanie von leichten Fahrzeugen mit Flammenwerfern zur Unterstützung bei Angriffen auf Städte und Festungen."
  medium_flame_tank:0 "Mittlere Flammenpanzerkompanie"
  medium_flame_tank_desc:0 "Eine Kompanie mittelgroßer, mit Flammenwerfern ausgerüsteter Fahrzeuge zur Unterstützung bei Angriffen auf Städte und Festungen."
  heavy_flame_tank:0 "Schwere Flammenpanzerkompanie"
  heavy_flame_tank_desc:0 "Eine Kompanie schwerer, mit Flammenwerfern ausgerüsteter Fahrzeuge zur Unterstützung bei Angriffen auf Städte und Festungen."
+
+
  light_tank_amphibious_chassis_desc:0 "Leichter Panzer, der mit Schwimmkörpern und einem Propeller ausgestattet ist."
  medium_tank_amphibious_chassis_desc:0 "Mittlerer Panzer mit Schwimmern und Propeller."
  heavy_tank_amphibious_chassis_desc:0 "Schwerer Panzer mit Schwimmkörpern und Propeller."

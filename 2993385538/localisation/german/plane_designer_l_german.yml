@@ -28,11 +28,13 @@
  EQ_MOD_CAT_plane_special_module_radio_navigation_TITLE:0 "Funknavigation"
  EQ_MOD_CAT_plane_special_module_air_ground_radar_TITLE:0 "Luft-Boden-Radar"
  EQ_MOD_CAT_plane_special_module_air_air_radar_TITLE:0 "Luft-Luft-Radar"
+
  EQ_MOD_SLOT_fixed_main_weapon_slot_TITLE:0 "Hauptbewaffnung"
  EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE:0 "Sekundärwaffen"
  EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_2_TITLE:0 "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$"
  EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_3_TITLE:0 "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$"
  EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_4_TITLE:0 "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$"
+
  bba_air_techs_folder:0 "$air_techs_folder$"
  bba_air_techs_folder_desc:0 "$air_techs_folder_desc$"
  engine_1_1x:0 "1x Triebwerk I"
@@ -91,6 +93,7 @@
  rocket_engine_2_desc:0 "Verbesserungen in der Brennkammer und geringfügige Änderungen des Treibstoffgemischs ermöglichen eine noch höhere Leistung, wobei die Reichweite entsprechend geringer ausfällt."
  rocket_engine_3:0 "Raketentriebwerk III"
  rocket_engine_3_desc:0 ""
+
  light_mg_2x:0 "2x Leichtes Maschinengewehr"
  light_mg_2x_desc:0 "Ein Satz von zwei Maschinengewehren im Gewehrkaliber bietet zusätzliche Feuerkraft gegen Luftziele zu einem sehr moderaten Preis."
  light_mg_4x:0 "4x Leichtes Maschinengewehr"
@@ -195,6 +198,7 @@
  airdropped_mines_desc:0 "Eine Reihe von Seeminen, die mit einem Fallschirm ausgestattet sind und aus einem Flugzeug abgeworfen werden können."
  demining_coil:0 "Entminungsspule"
  demining_coil_desc:0 "Eine große, an der Flugzeugzelle angebrachte Spule ermöglicht es dem Flugzeug, ein starkes Magnetfeld zu erzeugen, das magnetische Minen in seiner Flugbahn zur Explosion bringt."
+
  small_plane_airframe_0:0 "Zwischenkriegszeit Kleinflugzeugzelle"
  small_plane_airframe_0_desc:0 "Seit den Anfängen des Ersten Weltkriegs hat die Luftfahrt sprunghafte Fortschritte gemacht. Diese Flugzeugzelle stellt den Höhepunkt dieser Entwicklungen dar, aber es ist klar, dass ihr Wachstumspotenzial begrenzt ist."
  small_plane_airframe_1:0 "Grundlegende Kleinflugzeugzelle"
@@ -411,6 +415,9 @@
  engines_4_desc:0 "$engine_4_1x_desc$"
  range_improvements:0 "Verbesserungen der Reichweite"
  range_improvements_desc:0 "Es liegt zwar auf der Hand, dass eine größere Treibstoffkapazität die Reichweite eines Flugzeugs erhöht, doch ist es alles andere als trivial, diese Kapazität in ein Flugzeug einzubauen, ohne die Flugleistung zu stark zu beeinträchtigen."
+
+
+
  AIR_TITLE_AIRFRAME:0 "Flugzeugzellen"
  AIR_TITLE_WEAPONS:0 "Bewaffnung"
  AIR_TITLE_ENGINES:0 "Triebwerke"

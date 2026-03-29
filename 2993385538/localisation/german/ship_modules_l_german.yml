@@ -1,4 +1,5 @@
 ﻿l_german:
+ ### EQUIPMENT MODULE CATEGORIES ### ""
  EQ_MOD_CAT_ship_light_battery_TITLE:0 "Schnellfeuerwaffen"
  EQ_MOD_CAT_ship_sub_snorkel_TITLE:0 "Schnorchel"
  EQ_MOD_CAT_ship_torpedo_TITLE:0 "Torpedo-Werfer"
@@ -28,6 +29,7 @@
  EQ_MOD_CAT_ship_deck_space_TITLE:0 "Hangarraum"
  EQ_MOD_CAT_ship_extra_fuel_tank_TITLE:0 "Treibstofftank"
  EQ_MOD_CAT_ship_mine_layer_TITLE:1 "Minenlegerausrüstung"
+ ### EQUIPMENT MODULE SLOTS ### ""
  EQ_MOD_SLOT_fixed_ship_battery_slot_TITLE:0 "Hauptbatterie"
  EQ_MOD_SLOT_fixed_ship_internal_slot_TITLE:0 "Innenraum"
  EQ_MOD_SLOT_fixed_ship_secondaries_slot_TITLE:0 "Sekundärbatterie"
@@ -46,6 +48,7 @@
  EQ_MOD_SLOT_mid_3_custom_slot_TITLE:0 "Mitte 3 Benutzerdefiniert"
  EQ_MOD_SLOT_rear_1_custom_slot_TITLE:0 "Hinten 1 Benutzerdefiniert"
  EQ_MOD_SLOT_rear_2_custom_slot_TITLE:0 "Hinten 2 Benutzerdefiniert"
+ #BICE ""
  EQ_MOD_CAT_cruiser_hull_single_turrets_TITLE:0 "Einzelturm"
  EQ_MOD_CAT_cruiser_hull_twin_turrets_TITLE:0 "Zwillingstürme"
  EQ_MOD_CAT_cruiser_hull_triple_turrets_TITLE:0 "Drillingstürme"
@@ -53,22 +56,29 @@
  EQ_MOD_CAT_light_hull_twin_turrets_TITLE:0 "Zwillingstürme"
  EQ_MOD_CAT_light_hull_triple_turrets_TITLE:0 "Drillingstürme"
  EQ_MOD_CAT_ship_crew_quarters_TITLE:0 "Innenbereich"
+
  crew_quarters:0 "Crew-Quartiere"
+
  cruiser_hull_experimental_single_turret:0 "Experimenteller Einzelturm"
  cruiser_hull_standard_single_turret:0 "Standard Einzelturm"
  cruiser_hull_improved_single_turret:0 "Fortgeschrittener Einzelturm"
+
  cruiser_hull_experimental_twin_turret:0 "Experimenteller Zwillingsturm"
  cruiser_hull_standard_twin_turret:0 "Standard Zwillingsturm"
  cruiser_hull_improved_twin_turret:0 "Fortgeschrittener Zwillingsturm"
+
  cruiser_hull_experimental_triple_turret:0 "Experimenteller Drillingsturm"
  cruiser_hull_standard_triple_turret:0 "Standard Drillingsturm"
  cruiser_hull_improved_triple_turret:0 "Fortgeschrittener Drillingsturm"
+
  light_hull_experimental_single_turret:0 "Experimenteller Einzelturm"
  light_hull_standard_single_turret:0 "Standard Einzelturm"
  light_hull_improved_single_turret:0 "Fortgeschrittener Einzelturm"
+
  light_hull_experimental_twin_turret:0 "Experimenteller Zwillingsturm"
  light_hull_standard_twin_turret:0 "Standard Zwillingsturm"
  light_hull_improved_twin_turret:0 "Fortgeschrittener Zwillingsturm"
+
  light_hull_unarmoured_mounts:0 "Ungepanzerte Lafetten"
  light_hull_unarmoured_mounts_desc:0 "Einfache, ungepanzerte Lafetten für kleinkalibrige Geschütze hielten die Kosten niedrig, machten den Matrosen aber anfällig für Granatfeuer und Splitter."
  light_hull_twin_unarmoured_mounts:0 "Ungepanzerte Zwillingslafetten"
@@ -78,6 +88,8 @@
  twin_splinter_screen:0 "Zwillingssplitterschutz"
  casemates:0 "Kasematten"
  casemates_desc:0 "Die Kasematten waren eine einfache und zuverlässige Alternative zu den Geschütztürmen, aber aufgrund des engen Schussfelds waren sie gewichtsmäßig ineffizient und konnten nicht zur Flugabwehr eingesetzt werden."
+
+ ### EQUIPMENT MODULES ### ""
  ship_light_battery_1:0 "85 mm RF. Kanone"
  ship_light_battery_1_short:0 "Leichte Batterie I"
  ship_light_battery_1_desc:0 "Eine relativ kleine für den Einsatz auf Zerstörern und kleineren Schiffen."
@@ -332,6 +344,7 @@
  ship_armor_carrier_deck_short:0 "Flugdeck-Panzerung"
  ship_armor_carrier_deck_desc:0 "Schwere Panzerplatten schützen die Hangarräume vor Treffern durch feindliche Bomber auf Kosten von weniger Arbeitsraum."
  SHIP_DESIGNER_MODULE_SELECTION:0 "Modul auswählen"
+ ### Nation Specific Modules ""
  ENG_ship_light_battery_1:0 "4 in QF Mk V"
  ENG_ship_light_battery_2:0 "4.7 in QF Mk IX"
  ENG_ship_light_battery_3:0 "4.7 in QF Mk XI"
@@ -405,6 +418,7 @@
  ENG_carrier_ship_engine_2:0 "Parsons 102.000 PS"
  ENG_carrier_ship_engine_3:0 "Parsons 148.000 PS"
  ENG_carrier_ship_engine_4:0 "Parsons 200.000 PS"
+
  FRA_ship_light_battery_1:0 "130mm/40 Modell 1919"
  FRA_ship_light_battery_2:0 "138,6mm/40 Modell 1927"
  FRA_ship_light_battery_3:0 "138,6mm/50 Modell 1934"
@@ -471,6 +485,7 @@
  FRA_ship_armor_cruiser_2:0 "60mm Gürtel/30mm Deck"
  FRA_ship_armor_cruiser_3:0 "110mm Gürtel/80mm Deck"
  FRA_ship_armor_cruiser_4:0 "140mm Gürtel/85mm Deck"
+
  ITA_ship_light_battery_1:0 "102mm/45 S-A"
  ITA_ship_light_battery_2:0 "120mm/50 OTO"
  ITA_ship_light_battery_3:0 "120mm/50 Ansaldo"
@@ -529,6 +544,7 @@
  ITA_carrier_ship_engine_2:0 "Beluzzo 120.000 PS"
  ITA_carrier_ship_engine_3:0 "Beluzzo 151.000 PS"
  ITA_carrier_ship_engine_4:0 "Beluzzo 200.000 PS"
+
  USA_ship_light_battery_1:0 "4in/50 Mk 9"
  USA_ship_light_battery_2:0 "5in/38 Mk 12, Mk 21 mt"
  USA_ship_light_battery_3:0 "5in/38 Mk 12, Mk 30 mt"
@@ -599,6 +615,7 @@
  USA_carrier_ship_engine_2:0 "Westinghouse 120.000 PS"
  USA_carrier_ship_engine_3:0 "Westinghouse 150.000 PS"
  USA_carrier_ship_engine_4:0 "Westinghouse 212.000 PS"
+
  JAP_ship_light_battery_1:0 "12cm/45 11. Jg. Typ"
  JAP_ship_light_battery_2:0 "12,7cm/50 3. Yr. Typ"
  JAP_ship_light_battery_3:0 "10cm/65 Typ 98"
@@ -673,6 +690,7 @@
  JAP_ship_armor_cruiser_3:0 "127mm Gürtel/60mm Deck"
  JAP_ship_armor_cruiser_4:0 "145mm Gürtel/65mm Deck"
  JAP_ship_armor_carrier_deck:0 "79mm Flugdeck"
+
  ENG_ship_armor_bb_1:0 "13 Zoll Gürtel/3 Zoll Deck"
  ENG_ship_armor_bc_1:0 "6 Zoll Gürtel/2,5 Zoll Deck"
  ENG_ship_armor_bb_2:0 "14,5 Zoll Gürtel/5,5 Zoll Deck"
@@ -690,6 +708,7 @@
  ITA_ship_armor_bc_2:0 "305mm Gurt/100mm Deck"
  ITA_ship_armor_bb_3:0 "295mm Gürtel/162mm Deck"
  ITA_ship_armor_bc_3:0 "330mm Gürtel/130mm Deck"
+ #ITA_ship_armor_cruiser_2:0 "24mm Gürtel/20mm Deck"
  ITA_ship_armor_cruiser_1:0 "70mm Gürtel/50mm Deck"
  ITA_ship_armor_cruiser_2:0 "100mm Gürtel/50mm Deck"
  ITA_ship_armor_cruiser_3:0 "150mm Gürtel/70mm Deck"
@@ -704,6 +723,7 @@
  USA_ship_armor_cruiser_3:0 "5 Zoll Gürtel/2,25 Zoll Deck"
  USA_ship_armor_cruiser_4:0 "6 Zoll Gürtel/3,75 Zoll Deck"
  USA_ship_armor_carrier_deck:0 "3,5-Zoll-Flugdeck"
+
  GER_ship_light_battery_1:0 "10,5cm/45 SK C/32"
  GER_ship_light_battery_2:0 "12,7cm/45 SK C/34"
  GER_ship_light_battery_3:0 "12,7cm/45 SK C/41"
@@ -773,6 +793,7 @@
  GER_ship_armor_cruiser_2:0 "80mm Gürtel/60mm Deck"
  GER_ship_armor_cruiser_3:0 "100mm Gürtel/88mm Deck"
  GER_ship_armor_cruiser_4:0 "150mm Gürtel/90mm Deck"
+
  SOV_ship_light_battery_1:0 "102mm/60 Muster 1911"
  SOV_ship_light_battery_2:0 "130mm/50 B13 Ptn 1936"
  SOV_ship_light_battery_3:0 "130mm/50 B13 RPC"
@@ -843,6 +864,7 @@
  SOV_ship_armor_cruiser_3:0 "70mm Gürtel/50mm Deck"
  SOV_ship_armor_cruiser_4:0 "100mm Gurt/50mm Deck"
  SOV_ship_armor_carrier_deck:0 "50mm Flugdeck"
+
  ARG_ship_light_battery_1:0 "120mm/45 Vickers Mk E"
  ARG_ship_light_battery_2:0 "120mm/45 QF Mk IX"
  ARG_ship_heavy_battery_1:0 "30,5 cm/50 Bethlehem"
@@ -870,6 +892,7 @@
  ARG_heavy_ship_engine_1:0 "Curtiss 39.500 PS"
  ARG_ship_armor_bb_1:0 "280mm Gürtel/76mm Deck"
  ARG_ship_armor_cruiser_1:0 "70mm Gürtel/25mm Deck"
+
  BRA_ship_light_battery_1:0 "102mm/40 QF Mk IV"
  BRA_ship_light_battery_2:0 "127mm/38 Mk 12"
  BRA_ship_light_battery_3:0 "127mm/38 Mk 12 RPC"
@@ -893,6 +916,7 @@
  BRA_heavy_ship_engine_1:0 "Vickers 30.000 PS"
  BRA_ship_armor_bb_1:0 "229mm Gürtel/51mm Deck"
  BRA_ship_armor_cruiser_1:0 "31mm Gürtel/19mm Deck"
+
  CHI_ship_light_battery_1:0 "100mm/44 S-M1898"
  CHI_ship_light_medium_battery_1:0 "14,9cm/37 SK L/40 C/97"
  CHI_ship_light_medium_battery_2:0 "14cm/50 3rd Yr. Typ"
@@ -903,6 +927,7 @@
  CHI_ship_secondaries_1:0 "120mm/45 Armstrong Y"
  CHI_ship_torpedo_1:0 "2x 356mm Torpedorohre"
  CHI_ship_armor_cruiser_1:0 "76mm Gürtel/25mm Deck"
+
  CHL_ship_light_battery_1:0 "120 mm/45 QF Vickers E"
  CHL_ship_heavy_battery_1:0 "35,6 cm/45 Armstrong A"
  CHL_ship_heavy_battery_2:0 "35,6 cm/50 Kanone"
@@ -927,6 +952,7 @@
  CHL_sub_ship_engine_4:0 "5.000 Shp Motor"
  CHL_heavy_ship_engine_1:0 "Brown-Curtis 37.000Shp"
  CHL_ship_armor_bb_1:0 "229mm Gürtel/37mm Deck"
+
  DEN_ship_heavy_battery_1:0 "24 cm/42 K/43 M1906"
  DEN_ship_light_medium_battery_1:0 "14,9 cm/45 PK L/45"
  DEN_ship_secondaries_1:0 "150mm/49 L/50 M.06"
@@ -935,11 +961,13 @@
  DEN_ship_anti_air_2:0 "20mm/60 RK Madsen M41"
  DEN_sub_ship_engine_1:0 "Burm. & Wain 900 Shp"
  DEN_sub_ship_engine_2:0 "Burm. & Wain 1.200 Shp"
+
  EST_ship_torpedo_sub_1:0 "4x 533mm Torpedorohre"
  EST_ship_torpedo_sub_2:0 "6x 533mm Torp. Rohre"
  EST_ship_torpedo_sub_3:0 "6x 533mm mit L-Kolben"
  EST_ship_torpedo_sub_4:0 "6x 533mm m/P.Ladung"
  EST_sub_ship_engine_1:0 "Vickers 1.000 Shp"
+
  FIN_ship_light_battery_1:0 "102 mm/60 Muster 1911"
  FIN_ship_heavy_battery_1:0 "25,4 cm/45 Bofors"
  FIN_ship_secondaries_1:0 "105mm/50 Bofors M1932"
@@ -951,6 +979,7 @@
  FIN_ship_anti_air_2:0 "25mm AA"
  FIN_sub_ship_engine_1:0 "Atlas 1,160 Shp Motor"
  FIN_ship_armor_cruiser_1:0 "55mm Gürtel/20mm Deck"
+
  GRE_ship_light_battery_1:0 "102 mm/50 Armstrong P"
  GRE_ship_light_battery_2:0 "128 mm/42 SK C/34"
  GRE_ship_light_medium_battery_1:0 "15,2cm/45 Armstrong NN"
@@ -975,6 +1004,7 @@
  GRE_sub_ship_engine_1:0 "Sulzer 1.420 PS"
  GRE_ship_armor_cruiser_1:0 "51mm Gürtel/25mm Deck"
  GRE_ship_armor_cruiser_2:0 "100mm Gürtel/50mm Deck"
+
  HOL_ship_light_battery_1:0 "120mm/50 W-Fijenoord 5"
  HOL_ship_light_battery_2:0 "120mm/50 W-Fijenoord 8"
  HOL_ship_light_battery_3:0 "120mm/50 W-Fijen'd 10"
@@ -1011,11 +1041,13 @@
  HOL_ship_armor_bc_1:0 "225mm Gürtel/100mm Deck"
  HOL_ship_armor_bc_2:0 "305mm Gürtel/110mm Deck"
  HOL_ship_armor_cruiser_1:0 "50mm Gürtel/30mm Deck"
+
  LAT_ship_torpedo_sub_1:0 "6x 450mm Torpedorohre"
  LAT_ship_torpedo_sub_2:0 "4x 533mm Torpedorohre"
  LAT_ship_torpedo_sub_3:0 "6x 533mm Torpedorohre"
  LAT_ship_torpedo_sub_4:0 "6x 533mm m/P.Ladung"
  LAT_sub_ship_engine_1:0 "Sulzer 1.300 Shp"
+
  NOR_ship_light_battery_1:0 "76 mm/40 Armstrong EOC"
  NOR_ship_light_battery_2:0 "120 mm/44 Bofors"
  NOR_ship_medium_battery_1:0 "20,9 cm/44 EOC 1899"
@@ -1032,6 +1064,7 @@
  NOR_ship_torpedo_sub_2:0 "4x 450mm Torpedorohre"
  NOR_light_ship_engine_1:0 "De Laval 30.000 Shp"
  NOR_sub_ship_engine_1:0 "Sulzer 900 PS"
+
  POL_ship_light_battery_1:0 "130mm/40 Modell 1924"
  POL_ship_light_battery_2:0 "120mm/50 Bofors M34/36"
  POL_ship_torpedo_1:0 "3x 533mm Torpedorohre"
@@ -1053,6 +1086,7 @@
  POL_sub_ship_engine_2:0 "Sulzer 4.740 PS"
  POL_sub_ship_engine_3:0 "Sulzer 5.400 PS"
  POL_sub_ship_engine_4:0 "6,500 Shp Motor"
+
  POR_ship_light_battery_1:0 "100 mm/41 Armstrong N"
  POR_ship_light_battery_2:0 "120 mm/50 Vickers G"
  POR_ship_torpedo_1:0 "2x 450mm Torpedorohre"
@@ -1070,6 +1104,7 @@
  POR_sub_ship_engine_1:0 "Vickers 2.300 PS"
  POR_sub_ship_engine_2:0 "2,800 Shp Motor"
  POR_sub_ship_engine_3:0 "3,500 Shp Motor"
+
  PRU_ship_light_battery_1:0 "102 mm/60 Muster 1911"
  PRU_ship_light_medium_battery_1:0 "15,2 cm/50 Vickers J"
  PRU_ship_light_medium_battery_2:0 "15,5 cm/50 Kanone"
@@ -1085,6 +1120,7 @@
  PRU_light_ship_engine_1:0 "Brown-Boveri 32,700Shp"
  PRU_sub_ship_engine_1:0 "Nelseco 800 Shp Motor"
  PRU_ship_armor_cruiser_1:0 "38mm Gürtel/38mm Deck"
+
  ROM_ship_light_battery_1:0 "120 mm/45 SCA M1918-19"
  ROM_ship_light_battery_2:0 "120 mm/50 Bofors Mk 4"
  ROM_ship_torpedo_1:0 "2x 450mm Torpedorohre"
@@ -1100,6 +1136,7 @@
  ROM_light_ship_engine_3:0 "57,000 Shp Motor"
  ROM_light_ship_engine_4:0 "60,000 Shp Motor"
  ROM_sub_ship_engine_1:0 "Sulzer 800 PS"
+
  SIA_ship_light_battery_1:0 "102 mm/40 QF Mk IV"
  SIA_ship_medium_battery_2:0 "20 cm/50 3. Jg. Nr. 2"
  SIA_ship_medium_battery_3:0 "20,3 cm/50 mit RPC"
@@ -1115,6 +1152,7 @@
  SIA_ship_torpedo_sub_4:0 "6x 533mm m/P.Ladung"
  SIA_light_ship_engine_1:0 "Brown-Curtis 27.000Shp"
  SIA_ship_armor_cruiser_1:0 "63mm Gürtel/38mm Deck"
+
  SPR_ship_light_battery_1:0 "102 mm/45 Vickers Mk L"
  SPR_ship_light_battery_2:0 "120 mm/45 Vickers Mk F"
  SPR_ship_heavy_battery_1:0 "30,5 cm/50 Vickers H"
@@ -1151,6 +1189,7 @@
  SPR_ship_armor_bb_1:0 "230mm Gürtel/40mm Deck"
  SPR_ship_armor_cruiser_1:0 "50mm Gürtel/38mm Deck"
  SPR_ship_armor_cruiser_2:0 "102mm Gürtel/37mm Deck"
+
  SWE_ship_light_battery_1:0 "12cm/45 Bofors M24"
  SWE_ship_light_battery_2:0 "12cm/45 Bofors M24C"
  SWE_ship_light_battery_3:0 "12cm/50 Bofors M36"
@@ -1198,6 +1237,7 @@
  SWE_ship_armor_bb_1:0 "200mm Band/45mm Deck"
  SWE_ship_armor_cruiser_1:0 "24mm Gürtel/25mm Deck"
  SWE_ship_armor_cruiser_2:0 "70 mm Gürtel/30 mm Deck"
+
  TUR_ship_light_battery_1:0 "105 mm/37 SK L/40 C/97"
  TUR_ship_light_battery_2:0 "120 mm/50 Ansaldo 1926"
  TUR_ship_heavy_battery_1:0 "28 cm/50 SK L/50"
@@ -1223,9 +1263,11 @@
  TUR_heavy_ship_engine_1:0 "Parsons 52.000 PS"
  TUR_ship_armor_bc_1:0 "270mm Gürtel/50mm Deck"
  TUR_ship_armor_cruiser_1:0 "70 mm Gürtel/38 mm Deck"
+
  URG_ship_light_battery_1:0 "120 mm/45 Krupp QF"
  URG_ship_light_battery_2:0 "120 mm/50 Kanone"
  URG_ship_torpedo_1:0 "2x 450mm Torpedowerfer"
+
  YUG_ship_light_battery_1:0 "120 mm/46 Skoda"
  YUG_ship_light_battery_2:0 "120 mm/56 Skoda"
  YUG_ship_secondaries_1:0 "83 mm/52 Skoda"

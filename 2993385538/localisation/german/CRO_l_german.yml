@@ -1,8 +1,10 @@
 ﻿l_german:
+# make focus about Lorković–Vokić plot to make coalition peasant party - moderate ustasha, join the allies and fight the communists ""
  CRO_fascism_party:0 "Ustaša"
  CRO_fascism_party_long:0 "Ustaša - Hrvatski revolucionarni pokret"
  CRO_democratic_party:0 "HSS"
  CRO_democratic_party_long:0 "Hrvatska seljačka stranka"
+
  CRO_ivan_orsanic:0 "Ivan Orsanic"
  CRO_milan_budak:0 "Milan Budak"
  CRO_vladimir_nazor:0 "Vladimir Nazor"
@@ -17,6 +19,7 @@
  CRO_djuro_jakcin3:0 "Đuro Jakčin"
  CRO_vjekoslav_vrancic:0 "Vjekoslav Vrančić"
  CRO_franjo_dzal:0 "Franjo Džal"
+ #waiting for a better real theorist ""
  CRO_ivan_tomasevic:0 "Ivan Tomašević"
  CRO_rafael_boban:0 "Rafael Boban"
  CRO_tomislav_II_desc:0 "Der Prinz Aimone von Savoyen, Cousin des italienischen Königs Victor-Emmanuele III, hat die Krone Kroatiens angenommen. Um dieses Ereignis als Neugründung der kroatischen Monarchie zu kennzeichnen, wählte er den Namen Tomislav II, Nachfolger von Tomislav, dem Gründer von Kroatien."
@@ -25,6 +28,7 @@
  CRO_idea_license_production:0 "Lizenzproduktion"
  CRO_idea_trained_mechanics:0 "Ausgebildete Mechaniker"
  CRO_diplomacy_focus:0 "Kroatische Diplomatie"
+ #croatia semi generic ""
  CRO_home_guard:0 "Hrvatsko Domobranstvo"
  CRO_home_guard_desc:0 "Um die Sicherheit der Nation zu gewährleisten, müssen wir ein stehendes Heer zum Schutz unseres Territoriums aufstellen: die kroatische Nationalgarde."
  CRO_small_arms:0 "Verbesserung der Praktikabilität von Kleinwaffen"
@@ -57,6 +61,8 @@
  CRO_tank_conversions_desc:1 "Während wir jetzt noch Panzer benötigen, werden wir im nächsten Monat vielleicht schon Panzerartillerie oder Panzerjäger auf demselben Fahrgestell benötigen. Unsere gepanzerte Ausrüstung muss flexibel bleiben und an unsere aktuellen Bedürfnisse angepasst werden können."
  CRO_modern_tanks:0 "Moderne Panzer"
  CRO_modern_tanks_desc:1 "Durch die Hinzunahme großkalibriger Hauptwaffen hat sich die Panzertechnologie weit über den einfachen Zweck des sicheren Transports von Truppen von Punkt A nach Punkt B hinaus entwickelt."
+
+
  CRO_equipment_effort_2:0 "Ausrüstung Anstrengung II"
  CRO_equipment_effort_2_desc:0 "Wir werden unsere Bemühungen fortsetzen, um sicherzustellen, dass unsere Infanterie- und Unterstützungstruppen mit der bestmöglichen Ausrüstung unserer Zeit ausgestattet sind."
  CRO_mechanization_effort:0 "Mechanisierungsbestrebungen"
@@ -88,6 +94,8 @@
  CRO_rocket_effort_desc:0 "Raketen- und Düsentriebwerke ermöglichen sowohl für unbemannte als auch für bemannte Schiffe nie dagewesene Geschwindigkeiten. Die Vorreiterrolle bei diesen Technologien wird es uns ermöglichen, den Feind zu überrumpeln."
  CRO_NAV_effort:0 "NAV-Anstrengungen"
  CRO_NAV_effort_desc:0 "So wie sich die neue Seekriegsführung zum Teil unter der Wasseroberfläche abspielt, findet sie zum Teil in der Luft über dem Wasser statt."
+
+ ######################NAVY################### ""
  CRO_expand_the_split_shipyards:0 "Die Schiffswerften von Split erweitern"
  CRO_expand_the_split_shipyards_desc:0 "Unsere bereits bestehende Schiffbauindustrie in Dalmatien ist ein erstklassiger Kandidat für einen Ausbau und verfügt über ausreichende Anlagen für größere Kriegsschiffe."
  CRO_coastal_defense:0 "Dalmatinische Verteidigung"
@@ -102,6 +110,7 @@
  CRO_heavy_cruiser_project_desc:1 "Um feindlichen Seestreitkräften angemessen entgegentreten zu können, benötigen wir eine größere Tonnage und schwerere Bewaffnung. Schwere Kreuzer wären ein guter Fortschritt gegenüber den leichten Kreuzern, die wir bisher als Hauptstützen unserer Flotte eingesetzt haben."
  CRO_modern_destroyers:0 "Moderne Zerstörer"
  CRO_modern_destroyers_desc:1 "Zerstörer sind das Rückgrat jeder Marine, und wir müssen sicherstellen, dass unsere Zerstörer den gegnerischen nicht unterlegen sind."
+
  CRO_build_the_nation:0 "Formen der Nation"
  CRO_build_the_nation_desc:0 "Konzentrieren Sie all Ihre politischen Bemühungen auf den Aufbau der zivilen Industrie in einem großen Sprung nach vorn."
  CRO_research_collaboration:0 "Jugoslawische Forschungszusammenarbeit"
@@ -184,6 +193,8 @@
  CRO_internationalism_focus_desc:0 "Ideologie kennt keine Grenzen. Eine andere Nation mag sich als souverän bezeichnen, aber unsere Überzeugungen stehen über solchen Ansprüchen."
  CRO_nationalism_focus:0 "Nationale Wiedergeburt"
  CRO_nationalism_focus_desc:0 "Jahrhundertelang wurden wir von fremden Fürsten als Teil ihrer Domäne regiert. Diese Ära ist vorbei, denn Kroatien wird den wahren Geist von Tomislav I. wiedererlangen und den Balkan beherrschen."
+
+
  CRO_ideological_fanaticism_communism:0 "Ideologischer Fanatismus"
  CRO_ideological_fanaticism_desc:0 "Unsere politisch festgelegten Werte und Ziele sind es ebenso wert, dafür zu sterben wie jeder alte Glaube. Jeder Anhänger sollte bereit sein, dem Tod ins Auge zu sehen, und diejenigen, die abtrünnig werden, sollten besser auf den Tod vorbereitet sein."
  CRO_ideological_fanaticism_ustasha:0 "Ideologischer Fanatismus"
@@ -205,6 +216,7 @@
  CRO_deny_citizenship_to_muslims_focus_desc:0 "Der Katholizismus ist das Kernelement der kroatischen Identität, und Muslime, die vorgeben, Kroaten zu sein, haben es nicht verdient, unter uns zu sein."
  CRO_integrate_religious_minorities_focus:0 "Religiöse Minderheiten integrieren"
  CRO_integrate_religious_minorities_focus_desc:0 "Unser Land ist die Heimat religiöser Minderheiten, und sie sollten in ihren Eigenheiten respektiert werden."
+
  CRO_a_king_for_our_people_focus:0 "Ein König für unser Volk"
  CRO_a_king_for_our_people_focus_desc:0 "Um die Größe des freien kroatischen Königreichs der Vergangenheit wiederherzustellen, müssen wir einen König wählen, der das erneuerte kroatische Volk führen wird."
  CRO_enforce_pavelic_rule:0 "Durchsetzung der Pavelic-Herrschaft"
@@ -215,6 +227,7 @@
  CRO_italo_croat_legion_desc:0 "Wir müssen unseren Verbündeten unbedingt auf jede erdenkliche Weise helfen. Die Italiener haben versprochen, eine motorisierte Division auszurüsten, wenn wir die Freiwilligen rekrutieren können."
  CRO_dalmatian_question_focus:0 "Die dalmatinische Frage"
  CRO_dalmatian_question_focus_desc:0 "Während viele dachten, dass die Wahl eines italienischen Königs die Beziehungen zu Italien verbessern würde, hat Tomislav II. den italienischen Einfluss auf sein Königreich nicht begrüßt. Der neue König hat in Frage gestellt, dass die dalmatinische Küste italienisiert werden könnte. Vielmehr scheint er Italien dazu zwingen zu wollen, seinen Anspruch auf die Region aufzugeben und die gesamte Küste zu kontrollieren."
+
  CRO_zagreb_investments_focus:0 "Investitionen für Zagreb"
  CRO_zagreb_investments_focus_desc:0 "Zagreb ist unsere Hauptstadt und ein wichtiges Industriezentrum, es muss im Mittelpunkt unserer Industriepolitik stehen."
  CRO_trading_infrastructures:0 "Handelsinfrastrukturen"
@@ -225,7 +238,9 @@
  CRO_economic_optimization_desc:0 "Einige Sektoren unserer Militärindustrie werden schlecht verwaltet und wir müssen sie reformieren, um ihre Produktivität zu erhöhen."
  CRO_research_grants:0 "Zuschüsse für die Forschung"
  CRO_research_grants_desc:0 "Durch die Finanzierung von Ingenieurbüros könnten wir schneller neue Ausrüstung für unsere Streitkräfte entwickeln."
+
  CRO_yugoslav_scientific_cooperation:0 "Yugoslav Scientific Cooperation"
+
  CRO_form_peasant_councils:0 "Bildung eines Bauernrats"
  CRO_form_peasant_councils_desc:0 "Die Bauern werden seit Jahren überall im Land unterdrückt. Wenn wir sie ermutigen, sich unter unserer ideologischen Führung zu vereinigen und zu organisieren, würden wir eine große Anzahl neuer Unterstützer gewinnen."
  CRO_join_yugoslavia:0 "Jugoslawien beitreten"
@@ -238,6 +253,8 @@
  CRO_local_steel_production_desc:0 "Es ist unerlässlich, unsere Kriegsindustrie durch lokale Stahlproduktion zu unterstützen. Dieser Beschluss des politischen Zentralkomitees der kommunistischen Partei muss auf jede erdenkliche Weise umgesetzt werden."
  CRO_local_militias:0 "Lokale Milizen"
  CRO_local_militias_desc:0 "Die Kämpfer der Bauernräte müssen mobilisiert und bewaffnet werden, um das Rückgrat einer ideologisch loyalen Armee zu bilden."
+
+
  CRO_religious_minorities:0 "Integrierte religiöse Minderheiten"
  CRO_religious_minorities_happy:0 "Kroatische Muslime Ausgegrenzte"
  CRO_croat_muslims_angry:0 "Integrierte kroatische Muslime"
@@ -259,8 +276,10 @@
  CRO_elektra:0 "Končar Elektroindustrija"
  CRO_koncar_elektroindustrija:0 "TŽV Gredelj"
  tzv_gredelj:0 ""
+
  yugoslav_research_name:0 "Yugoslavische Forschung"
  yugoslav_research_desc:0 "Es ist nur logisch, dass die autonome Regierung Kroatiens in wissenschaftlichen Angelegenheiten mit der zentralen jugoslawischen Regierung zusammenarbeitet."
+
  CRO_YUG_neutrality_autonomy_dominion:0 "Banovinat Kroatien"
  CRO_YUG_neutrality_autonomy_colony:0 "Banovinat Kroatien"
  CRO_YUG_neutrality_autonomy_puppet:1 "Banovinat von Kroatien"
@@ -269,6 +288,7 @@
  CRO_YUG_neutrality_autonomy_colony_DEF:0 "das Banovinat von Kroatien"
  CRO_YUG_neutrality_autonomy_puppet_DEF:1 "das Banovinat von Kroatien"
  CRO_YUG_neutrality_autonomy_integrated_puppet_DEF:0 "the Banovinate of Croatia"
+
  axis_minors_croatia_home_guard_tooltip:0 "Erstelle zwei Einheiten der Ustascha-Miliz. Diese Einheiten der leichten Infanterie sind gnadenlos im Umgang mit den Partisanen."
  axis_minors_croatia_ustashe_militia_tooltip:0 "Geben Sie die motorisierte kroatische Italo-Legion an Italien ab. "
  axis_minors_croatia_italo_croat_tooltip:0 "Grant the motorized italo-croat legion to Italy. "

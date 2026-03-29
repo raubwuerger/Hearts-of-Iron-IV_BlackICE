@@ -72,6 +72,8 @@
  GRE_debt_paid_804:0 "§G8.4%§!"
  GRE_debt_0:0 "§Y0%§!"
  GRE_no_debt_paid:0 "§YNKeine Schulden wurden bezahlt§!."
+
+
  GRE_small_installment_payment_ENG:0 "Kleine Schuldentilgung an die [FROM.GetAdjective]"
  GRE_small_installment_payment_FRA:0 "Kleine Schuldentilgung Zahlung an die [FROM.GetAdjective]"
  GRE_small_installment_payment_ITA:0 "Geringe Rückzahlung an die [FROM.GetAdjective]s"
@@ -169,6 +171,7 @@
  rename_gjirokaster:0 "Umbenennung von Gjirokastër"
  GRE_appoint_aristotle_onassis_as_prime_minister:0 "Ernennung von Aristoteles Onassis zum Premierminister"
  GRE_appoint_aristotle_onassis_as_prime_minister_desc:0 "Aristoteles Onassis hat wesentlich dazu beigetragen, dass die venezolanischen Träume von der Megali Idea in Erfüllung gingen. Als [ROOT.GetAdjective]-Bürger, der in [339.GetName] geboren wurde, ist der junge charismatische Magnat vielleicht der richtige Mann, um uns als Nation zu vereinen."
+
  form_macedonian_empire_category:0 "Das Makedonische Reich reformieren"
  form_macedonian_empire_category_desc:0 "Manche würden es für verrückt halten, an die Tage des Reiches von Alexander dem Großen anzuknüpfen, aber um die dritte hellenische Zivilisation wirklich zu festigen, müssen wir ganz zu der ersten zurückkehren, aus der wir hervorgegangen sind."
  form_macedonian_empire:0 "Das Erbe der Argeaden ehren"
@@ -177,6 +180,8 @@
  form_country_southern_central_asia_required_states_tt:0 "Kontrolliert §Y[742.GetName]§!, §Y[732.GetName]§!, und §Y[405.GetName]§!."
  form_country_british_levant_required_states_tt:0 "Kontrolliert §Y[454.GetName]§!, §Y[455.GetName]§!, und §Y[656.GetName]§!"
  form_country_punjab_required_states_tt:0 "Kontrolliert alle §YPakistani§!-Staaten."
+
+
  TUR_the_constitutional_arrows_category:0 "Gesetz Nr. 3115"
  TUR_the_constitutional_arrows_category_desc:0 "Die sechs Leitprinzipien von [ROOT.GetNameDef] sind in unserer Verfassung kodifiziert worden, und solange wir sie ehren, müssen wir glauben, dass unsere Nation niemals von innen heraus zerrissen werden wird."
  TUR_republicanism_decision:0 "Republikanismus"
@@ -380,6 +385,7 @@
  form_rumelia_greece_coring_states_tt:0 "Kontrolliert alle §YGriechischen§! Staaten nördlich von §Y[186.GetName]§!"
  form_rumelia_bulgaria_coring_states_tt:0 "Kontrolliert alle §YBulgarischen§!"
  form_rumelia_yugoslavia_coring_states_tt:0 "Umfasst alle §YSerbischen§!, §YMazedonischen§! und §YMontenegrinischen§!"
+
  TUR_the_fading_father_category:0 "Der verblassende Vater"
  TUR_the_fading_father_category_desc:0 "Der Vater der Türken, Mustafa Kemal Atatürk, wird immer häufiger krank. Wir müssen uns der bedauerlichen Tatsache stellen, dass der messianische Gründervater unserer Nation vielleicht nicht mehr erleben wird, dass [ROOT.GetNameDef] das Ende der gegenwärtigen Krise in der Welt übersteht. \n\nAtatürks aktueller Gesundheitszustand ist: [ROOT.GetAtaturkHealthBar].\n"
  TUR_ataturk_health_worsening_crisis:0 "Atatürks sich verschlechternder Zustand"
@@ -394,10 +400,12 @@
  TUR_ataturk_health_stable:0 "§YStabil§!"
  TUR_ataturk_health_poor:0 "§YSchlecht§!"
  TUR_ataturk_health_terminal:0 "§RTerminal§!"
+
  the_national_oath_category:0 "Der nationale Schwur"
  the_national_oath_category_desc:0 "Das Osmanische Reich musste fallen; es war ebenso unvermeidlich wie notwendig. Wir haben jedoch mehr verloren, als wir riskiert haben, als wir 1923 den Vertrag von Lausanne unterzeichnen mussten, und es ist an der Zeit, dass wir zurückfordern, was uns gestohlen wurde."
  restore_the_borders_of_1920:0 "Stellt die Grenzen von 1920 wieder her"
  restore_the_borders_of_1920_desc:0 "Mit dieser Proklamation wird der Vertrag von Lausanne endlich rückgängig gemacht und wir sind wirklich frei vom imperialistischen Joch."
+
  form_turan_category:0 "Errichtet das Turanische Reich"
  form_turan_category_desc:0 "Lange Zeit schien Turan eher ein Hirngespinst als eine Realität zu sein, doch nun haben wir die Möglichkeit, alle Turkvölker der Welt unter einer Flagge zu vereinen. Wie könnten wir das ablehnen?"
  form_turan:0 "Turan bilden"
@@ -416,6 +424,7 @@
  form_country_turan_kuban_crimea_required_states_tt:0 "Steuert §Y[233.GetName]§!, §Y[232.GetName]§!, §Y[235.GetName]§!, §Y[234.GetName]§!, §Y[237.GetName]§!, §Y[238.GetName]§!, §Y[236.GetName]§!, §Y[407.GetName]§!, §Y[406.GetName]§!, §Y[218.GetName]§!, §Y[227.GetName]§!, §Y[228.GetName]§!, §Y[200.GetName]§!, §Y[196.GetName]§!, und §Y[137.GetName]§!."
  form_country_turan_urals_central_asia_required_states_tt:0 "Kontrolliert §Y[582.GetName]§!, §Y[402.GetName]§!, §Y[583.GetName]§!, §Y[587.GetName]§!, §Y[585.GetName]§!, §Y[584.GetName]§!, §Y[405.GetName]§!, §Y[404.GetName]§!, §Y[586.GetName]§!, §Y[732.GetName]§!, §Y[742.GetName]§!, §Y[589.GetName]§!, §Y[588.GetName]§!, §Y[590.GetName]§!, §Y[570.GetName]§! und §Y[571.GetName]§!."
  form_country_turan_siberia_required_states_tt:0 "Controls §Y[654.GetName]§!, §Y[40.GetName]§!, §Y[569.GetName]§!, §Y[568.GetName]§!, §Y[329.GetName]§!, §Y[567.GetName]§!, §Y[566.GetName]§!, §Y[564.GetName]§!, §Y[563.GetName]§!, §Y[565.GetName]§!, §Y[561.GetName]§!, §Y[574.GetName]§!, §Y[562.GetName]§!, §Y[644.GetName]§!, und §Y[637.GetName]§!."
+
  kurdish_agitation:1 "£faction_tur_kurdish Kurdische Agitation"
  kurdish_separatism:1 "£faction_tur_kurdish Kurdish Separatism (Kurdischer Separatismus)"
  kurdish_rebellion:1 "£faction_tur_kurdish Kurdische Rebellion"
@@ -430,6 +439,7 @@
  conscription_exemptions_granted:0 "Befreiung von der Wehrpflicht bewilligt"
  turanist_assimilation:0 "Turanische Assimilierung"
  IRQ_nationalise_the_oil:0 "Verstaatlichung des Öls"
+
  BUL_internal_factions:0 "Fraktionsmanagement"
  BUL_internal_factions_desc:0 "Die bulgarische Gesellschaft und Politik ist in mehrere Fraktionen gespalten, mit denen sich die Regierung auseinandersetzen muss. Zu den wichtigsten gehören die [GetZvenoName], eine von Armeeoffizieren gegründete nationalistische Organisation, die [GetBsName], Sozialdemokraten, die breite Klassenbündnisse unterstützen, die [GetBznsName], die sich mit Fragen der Landwirtschaft befasst, und die [GetNsmName], eine rechtsextreme Organisation. [GetZvenoValues] [GetBsValues] [GetBznsValues] [GetNsmValues]"
  BUL_zveno_values:0 "\n§YLoyalität§! des [GetZvenoName]: [?BUL.BUL_zveno_loyalty|+0]\n§YPopularität§! der [GetZvenoName]: [?BUL.BUL_zveno_popularity|+0]"
@@ -635,6 +645,7 @@
  BUL_nsm_media_banned_flag:0 "Hat die Verbreitung von Medien der Fraktion £faction_bul_nsm §YNational Social Movement§! verboten."
  BUL_impending_zveno_coup:0 "[GetZvenoCoupTitle]"
  BUL_impending_zveno_coup_desc:0 "[GetZvenoCoupDesc]"
+
  BUL_macedonian_revolutionary_organizations:0 "Makedonische Revolutionäre Organisationen"
  BUL_macedonian_revolutionary_organizations_desc:0 "[GetImroDecisionCategoryDesc]"
  BUL_macedonian_revolutionary_organizations_cooperation_desc:0 "Wir müssen die mazedonische Zusammenarbeit während einer möglichen bulgarischen Besetzung in naher Zukunft suchen. Die IMRO kann zum perfekten Instrument werden, um die bulgarische Stimmung in der Region zu fördern und langfristig die Annektierung Mazedoniens zu erleichtern."
@@ -676,7 +687,9 @@
  BUL_destroy_imro_divisions_central_macedonia_foreign_tt:0 "Hat weniger als §Y9 Infanterie§! Divisionen in §YZentralmazedonien§!"
  BUL_destroy_imro_divisions_thrace_foreign_tt:0 "Hat weniger als §Y4 Infanterie§!-Divisionen in §YThrakien§!"
  BUL_destroy_imro_foreign_tt:0 "Entfernt bulgarische Kerne in mazedonischen Staaten. [ROOT.GetAdjective] Kerne werden wiederhergestellt."
+
  BUL_not_justifying_wargoals_tt:0 "Bulgarien rechtfertigt keine Kriegsziele."
+
  BUL_the_fatherland_front_dec_cat:0 "Die Vaterländische Front"
  BUL_the_fatherland_front_dec_cat_desc:0 "[GetFfDecisionCategoryDesc]"
  BUL_the_fatherland_front_desc_planning:0 "Die Anführer der §YVaterlandsfront§! bereiten einen Staatsstreich vor.\nEventuell werden sie Unterstützung von der [GetZvenoName], der [GetBsName] und der [GetBznsName] suchen.\nWir können mehrere Maßnahmen ergreifen, um ihre Vorbereitungen zu behindern und ihren Versuch, die Regierung zu stürzen, zu schwächen:\n-Such nach Sympathisanten und Anführern der §YVaterlandsfront§! und verhafte sie. Sympathisanten und Anführer ausfindig machen und verhaften.\n-Zerstören oder integrieren Sie alle Fraktionen, denen sie sich nähern könnten.\n-Wenn wir weniger als 1 §YCommunist Support§! haben, können wir der §YFatherland Front§! den endgültigen Schlag versetzen."
@@ -696,6 +709,7 @@
  BUL_ff_destroyed_flag:0 "Die Vaterländische Front ist zerstört"
  BUL_ff_civil_war_flag:0 "Die Vaterländische Front hat einen Bürgerkrieg begonnen"
  BUL_fatherland_front_formed_flag:0 "Die Vaterländische Front hat sich gebildet"
+
  BUL_ff_impending_coup_mission:0 "Drohender Putsch der §YVaterlandsfront§!"
  BUL_ff_impending_coup_mission_desc:0 "Die Führer der §YVaterlandsfront§! bereiten einen Staatsstreich vor."
  BUL_ff_approaching_zveno_mission:0 "§YVaterländische Front§! nähert sich dem [GetZvenoName]"
@@ -722,6 +736,7 @@
  BUL_ff_deal_the_final_blow_zveno_destroyed_tt:0 "Die [GetZvenoName]-Fraktion ist zerstört."
  BUL_ff_deal_the_final_blow_bs_destroyed_tt:0 "Die [GetBsName]-Fraktion ist zerstört."
  BUL_ff_deal_the_final_blow_bzns_destroyed_tt:0 "Die [GetBznsName]-Fraktion ist zerstört."
+
  BUL_rearmament:0 "Bulgarische Wiederaufrüstung"
  BUL_rearmament_desc:0 "Nach unserer Niederlage im Großen Krieg und der Auferlegung des Vertrages von Neuilly ist unsere Armee enormen Einschränkungen unterworfen worden. Wenn wir die territoriale Integrität Bulgariens und die Freiheit seines Volkes bewahren wollen, müssen wir einen Weg finden, diese Einschränkungen hinter uns zu lassen und mit dem Wiederaufbau unserer Armee zu beginnen."
  BUL_demonstrate_our_policies_of_peace:0 "Unsere Politik des Friedens demonstrieren"
@@ -733,6 +748,7 @@
  BUL_refuse_army_restrictions_faction_name:0 "die [ROOT.GetFactionName]"
  BUL_refuse_army_restrictions_no_faction:1 "unsere Verbündeten"
  BUL_rearmament_negotiations_ongoing_flag:0 "verhandelt derzeit über die militärische Aufrüstung"
+
  BUL_purchase_equipment:0 "Kauf ausländischer Ausrüstung"
  BUL_purchase_equipment_desc:0 "Die [ROOT.GetAdjective] Industrie ist unterentwickelt und kann moderne Waffen nicht in einem akzeptablen Tempo herstellen. Wir müssen uns im Ausland nach industrialisierten Ländern umsehen, die uns mit der benötigten militärischen Ausrüstung versorgen können."
  BUL_purchase_artillery:0 "Kauf [FROM.GetAdjective] Artillerie"
@@ -772,6 +788,7 @@
  BUL_purchase_ships_destroyers_tt:0 "Wir werden §Y3 Zerstörer§! erhalten."
  BUL_purchase_ships_light_cruiser_tt:0 "Wir werden einen §YLight Cruiser§! erhalten."
  BUL_purchase_ships_undetermined_tt:0 "Wenn unser Vorschlag angenommen wird, werden wir zwischen dem Kauf von §Y3 Unterseebooten§!, §Y2 Zerstörern§! oder einem §YLeichten Kreuzer§! wählen."
+
  BUL_foreign_agreements:0 "Ausländische Abkommen"
  BUL_foreign_agreements_desc:0 "Wir müssen uns darauf konzentrieren, vorteilhafte Abkommen mit führenden ausländischen Unternehmen zu schließen, die bereit sind, Tochtergesellschaften in Bulgarien zu gründen oder in die Entwicklung unserer heimischen Industrie zu investieren."
  BUL_german_industrial_agreements_category_value:0 "[?BUL.BUL_german_industrial_investments|Y0]"
@@ -803,8 +820,10 @@
  BUL_british_aeronautical_agreements_flag:0 "hat ein Abkommen über die Zusammenarbeit in der Luftfahrt mit den Briten unterzeichnet"
  BUL_soviet_aeronautical_agreements_flag:0 "hat ein Abkommen über die Zusammenarbeit in der Luftfahrt mit den Sowjets unterzeichnet"
  BUL_italian_aeronautical_agreements_flag:0 "hat ein Abkommen über die Zusammenarbeit in der Luftfahrt mit den Italienern unterzeichnet"
+
  BUL_uranium_concession_agreement:0 "Uran-Konzessionsvereinbarungen mit [FROM.GetNameDef]"
  BUL_uranium_concession_agreement_desc:0 "Wir können die Uranvorkommen in unserem Boden nicht optimal nutzen, und es wäre nicht nur für uns, sondern auch für unsere [FROM.GetAdjective] Verbündeten vorteilhafter, einen Vertrag zu unterzeichnen, der ihnen Nutzungsrechte im Austausch gegen nützliche Materialien und Produkte für unsere heimische Industrie und Landwirtschaft gewährt."
+
  BUL_negotiate_claims_in_the_balkans:0 "Unsere Ansprüche auf dem Balkan verhandeln"
  BUL_negotiate_claims_in_the_balkans_desc:0 "Bevor wir uns mit einer Großmacht verbünden, müssen wir mit Deutschland über unsere territorialen Ansprüche verhandeln. Die internationalen Spannungen nehmen zu, und Bulgarien wird nur die Nation unterstützen, die das beste territoriale Angebot macht."
  BUL_demand_our_historical_claims:0 "Fordern Sie unsere historischen Ansprüche"
@@ -814,6 +833,7 @@
  BUL_bulgarisation_campaing:0 "Bulgarisierungskampagne in [FROM.GetName]"
  bulgarian_territorial_expansion_arranged:0 "Vorab vereinbarte bulgarische Gebietserweiterung"
  BUL_bulgarian_territorial_expansion_arranged_tt:0 "Staaten mit dem Modifikator §YVorarrangierte Bulgarische Gebietserweiterung§! Modifikator wird auf Bulgarien übertragen, sobald ein Verbündeter der Fraktion den Staat kontrolliert und Bulgarien der gleichen Fraktion wie Deutschland beigetreten ist"
+
  BUL_align_bulgaria:0 "Bulgarien verbünden"
  BUL_align_bulgaria_desc:0 "Unsere diplomatischen Beziehungen zu Bulgarien sind seit Jahrzehnten freundschaftlich und dank unserer Finanzhilfe konnte die bulgarische Regierung ihre lähmenden Schulden in den Griff bekommen. Jetzt ist es an der Zeit, sie dazu zu bewegen, offiziell [GER.GetNameDef] Verbündete zu werden."
  BUL_germany_donate_fighters:0 "Spende von Kampfflugzeugen an Bulgarien"
@@ -823,6 +843,7 @@
  BUL_germany_demand_replacement_of_bulgarian_prime_minister:0 "Forderung nach Ablösung des bulgarischen Premierministers"
  BUL_germany_demand_replacement_of_bulgarian_prime_minister_desc:0 "Der bulgarische Premierminister Georgi Kyoseivanov hat sich als unfähiger Politiker erwiesen. Wir sollten [BUL.GetLeader] vorschlagen, dass dieser Mann durch jemanden ersetzt wird, der fähiger ist und unseren Idealen näher steht, wie zum Beispiel Bogdan Filov."
  BUL_donate_aircraft_tt:0 "Wenn [BUL.GetNameDef] unsere Spende annimmt, werden wir ihre Meinung über uns stärken und die Zusammenarbeit zwischen unseren Ländern erleichtern."
+
  BUL_the_balkan_federation_dream:0 "Der Traum der Balkanföderation"
  BUL_the_balkan_federation_dream_desc:0 "[ROOT.GetNameDefCap] muss sich für die Bildung einer starken Balkanföderation einsetzen, um den vielen Feinden des Proletariats die Stirn zu bieten und den Balkannationen klar zu machen, dass der einzige Weg, um in unserem Kampf zu siegen, darin besteht, Zusammenarbeit und Solidarität zwischen unseren Völkern zu entwickeln, was letztendlich zur Vereinigung des Balkans führen wird..."
  BUL_develop_balkan_federation_project:0 "Projekt Balkanföderation"
@@ -843,6 +864,7 @@
  BUL_balkan_federation_project_ready_flag:0 "Das Projekt Balkanföderation ist bereit."
  BUL_balkan_federation_demand_turkish_territory:0 "Fordern Sie türkische Territorien"
  BUL_balkan_federation_demand_turkish_territory_desc:0 "Wir werden eine diplomatische Delegation entsenden, um mit [TUR.GetLeader] über die Abtretung der [TUR.GetAdjective] Balkan-Territorien an [BUL.GetNameDef] zu verhandeln."
+
  BUL_plot_against_boris_dec_cat:0 "Verschwörung gegen Boris"
  BUL_plot_against_boris_dec_cat_desc:0 "[GetPlotAgainstBorisFocusLoc]"
  BUL_brainwash_political_prisoners:0 "Politische Gefangene einer Gehirnwäsche unterziehen"
@@ -866,6 +888,7 @@
  BUL_seek_foreign_support_variable_reduction_tt:0 "Verringert die Zeit, die benötigt wird, um den Mord an Zar Boris auszuführen."
  BUL_seek_foreign_support_reduced_stability_penalty_tt:0 "Reduziert die Stabilitätsstrafe beim Tod des Zaren."
  BUL_assassin_persuaded_flag:0 "Hat einen politischen Gefangenen einer Gehirnwäsche unterzogen oder ein Mitglied einer integrierten internen Fraktion überredet"
+
  BUL_the_fate_of_the_balkans_dec_cat:0 "Das Schicksal des Balkans"
  BUL_the_fate_of_the_balkans_dec_cat_desc:0 "Bulgarien war lange Zeit den Interessen und Launen ausländischer Mächte unterworfen... \nAber die Zeiten haben sich geändert, unser Land ist stärker geworden und [ROOT.GetNameDef] ist nun in der Lage, seine Vormachtstellung auf dem Balkan zu behaupten."
  BUL_fate_of_the_balkans_influence_government:0 "Einflussnahme auf [FROM.GetAdjective] Regierung"

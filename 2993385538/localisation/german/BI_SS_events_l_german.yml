@@ -1,4 +1,5 @@
 ﻿l_german:
+ ##### SS ##### ""
  ss_event.500.b:0 "Kein Bedarf"
  ss_event.590.t:0 ""
  ss_event.591.t:0 ""
@@ -13,13 +14,16 @@
  ss_event.641.t:0 "Aufstellung der SS-Division 'Reich'"
  ss_event.641.d:0 "Die SS-Division "Reich" wurde am 21. Dezember 1940 durch die Umbenennung der SS-VT-Division als motorisierte Division aufgestellt. Gleichzeitig erhielt die Division ein SS-Sturmgeschütz Abt. und ein SS-Kradschützen Btl. Ende März 1941 wurde die Division schließlich alarmiert und zur Vorbereitung des Balkanfeldzuges über Donaueschingen in den Raum Braunau am Inn und dann nach Ungarn verlegt."
  ss_event.641.a:0 "Aufstellung der SS-Division(mot.) 'Reich'."
+
  ss_event.643.t:0 "Aufstellung der SS-Panzergrenadier-Division 'Das Reich'."
  ss_event.643.d:0 "Die SS-Panzergrenadier-Division \"Das Reich\" wurde am 9. November 1942 im Raum St. Lô in Frankreich durch Umbenennung der SS-Division \"Reich\" aufgestellt. Im Zuge der Besetzung Südfrankreichs nahm die Division am 27. November 1942 an der Besetzung von Toulon teil. Anfang Dezember 1942 folgte die Verlegung in den Raum südlich von Rennes."
  ss_event.643.a:0 "Mechanisierung und Aufstellung der SS-Pzgren-Division 'Das Reich'."
+
  ss_event.645.t:0 "Aufstellung der SS-Pz-Division 'Das Reich'"
  ss_event.645.d:0 "Die 2. SS-Panzer-Division "Das Reich" wurde am 22. Oktober 1943 durch die Umbenennung der SS-Panzer-Division "Das Reich" gebildet. Zu diesem Zeitpunkt befand sich die Division in Russland im Raum Kanew. Nach dem russischen Durchbruch bei Kiew wurde die Division am 6. November 1943 in den Raum Fastow verlegt. Ab dem 21. November 1943 wurde die Division erneut von der Front abgezogen und in den Raum östlich von Zhytomyr verlegt, wo sie im Rahmen des XXXXVIII. Panzerkorps den Feind bis nach Kiew zurückdrängte. Aufgrund schwerer Verluste nach Ost-Preußen verlegt, um neu ausgerüstet zu werden."
  ss_event.645.d_LOCALNAMES:0 "Die 2. SS-Panzer-Division "Das Reich" wurde am 22. Oktober 1943 durch die Umbenennung der SS-Panzer-Division "Das Reich" gebildet. Zu diesem Zeitpunkt befand sich die Division in Russland im Raum Kanew. Nach dem russischen Durchbruch bei Kiew wurde die Division am 6. November 1943 in den Raum Fastow verlegt. Ab dem 21. November 1943 wurde die Division erneut von der Front abgezogen und in den Raum östlich von Zhytomyr verlegt, wo sie im Rahmen des XXXXVIII. Panzerkorps den Feind bis nach Kiew zurückdrängte. Aufgrund schwerer Verluste nach Ost-Preußen verlegt, um neu ausgerüstet zu werden."
  ss_event.645.a:0 "Umstellung auf Panzer und Aufstellung der 2. SS Pz-Division 'Das Reich'."
+
  ss_event.671.t:0 "Aufstellung der Regimenter Westland und Nordland"
  ss_event.671.desc:0 "Nach dem Überfall auf Polen im Jahr 1939 versuchte Reichsführer-SS Heinrich Himmler, die Waffen-SS mit ausländischen Freiwilligen für den "Kreuzzug gegen den Bolschewismus" zu erweitern. Die Rekrutierung begann im April 1940 mit der Aufstellung von zwei Regimentern: dem Waffen-SS-Regiment Nordland (für dänische, norwegische und schwedische Freiwillige) und dem Waffen-SS-Regiment Westland (für niederländische und flämische Freiwillige). Die nordische Formation, die ursprünglich als Nordische Division (Nr. 5) organisiert war, sollte aus nordischen Freiwilligen gemischt mit deutschen Waffen-SS-Angehörigen bestehen. Das SS-Infanterieregiment Germania der SS-Verfügungs-Division, das hauptsächlich aus ethnischen Deutschen bestand, wurde verlegt, um den Kern der neuen Division Ende 1940 zu bilden. Im Dezember 1940 sollte die neue motorisierte SS-Formation als SS-Division Germania bezeichnet werden, aber nach ihrer Aufbauphase wurde der Name im Januar 1941 in SS-Division Wiking geändert: Germania, Westland und Nordland; hinzu kam ein Artillerieregiment. Das Kommando über die neu gebildete Division erhielt Brigadeführer Felix Steiner, der ehemalige Kommandeur der Verfügungstruppe SS-Regiment Deutschland.\n\nDamit beginnt die Ereigniskette für die SS-Division Wiking von der Aufstellung der Regimenter bis zur Umrüstung zur Pz-Div."
  ss_event.671.d:0 "Von den Regimentern"
@@ -75,6 +79,7 @@
  ss_event.688.d:0 "Die Waffen-SS ist endlich in der Lage, den Pz VI Tiger I einzusetzen."
  ss_event.688.a:0 "Gut"
  ss_event.688.b:0 "Gut"
+
  ss_event.691.t:0 "SS Sturmgeschütz Stug III"
  ss_event.691.d:0 "Ok"
  ss_event.691.a:0 "Ok"
@@ -85,6 +90,7 @@
  ss_event.694.t:0 "SS Panzerjäger Lt-TD"
  ss_event.694.d:0 "Ab sofort können Sie SS Panzerjäger Lt-TD für die SS bauen."
  ss_event.694.a:0 "Ok"
+
  ss_event.696.t:0 "1.SS-Infantrie.Brigade"
  ss_event.696.d:0 "Ok"
  ss_event.696.a:0 "Ok"
@@ -229,7 +235,10 @@
  ss_event.743.t:0 "SS-Division 'Das Reich'"
  ss_event.743.d:0 "Die 2. SS-Division "Das Reich" war eine Division der nationalsozialistischen Waffen-SS während des Zweiten Weltkriegs. Sie war eine der achtunddreißig Divisionen, die von der Waffen-SS aufgestellt wurden. Das Reich diente während der Invasion Frankreichs und nahm an mehreren großen Schlachten an der Ostfront teil, unter anderem an der Schlacht von Prochorowka gegen die 5. Panzerarmee in der Schlacht von Kursk. Anschließend wurde sie in den Westen verlegt und nahm an den Kämpfen in der Normandie und der Ardennenoffensive teil, die den Krieg in Ungarn und Österreich beendete."
  ss_event.743.a:0 "Aufstellung SS-Division 'Das Reich'"
+
+ ### news-events "### news-events"
  ss_poppup.1.t:0 "Die folgenden Waffen-SS-Einheiten sind in diesem Monat für den Einsatz verfügbar:§R[month.GetDateStringShortMonth]§!"
+ ### news_event descriptions "### news_event descriptions"
  ss_poppup.1.d:0 "\n\nVerfügbar ab:\n§B5 Januar 1936: SS-Verfügungstruppe Regiment 'GERMANIA'.\n5 Januar 1936: SS-Verfügungstruppe Regiment 'DEUTSCHLAND'.§!\n\nÜberprüfen Sie das §RWaffen-SS Fenster§!"
  ss_poppup.2.d:0 "\n\nVerfügbar ab:\n§B5 Februar 1936: SS-Verfügungstruppe Brigade§!\n\nKontrollieren Sie den §RWaffen-SS Fenster§!"
  ss_poppup.3.d:0 "\n\nVerfügbar ab:\n§BAnschluss: SS-Standarte 'Der Führer'§!\n§B4. SS Totenkopf Standarte 'Ostmark'§!\n\nKontrollieren Sie den §RWaffen-SS Fenster§!"
@@ -272,3 +281,8 @@
  ss_poppup.40.d:0 "\n\nVerfügbar ab:\n§B5 Oktober 1944: 31. SS-Freiwilligen-Grenadier-Division§!\n§B5 September 1944: 25. Waffen-SS-Grenadier-Division 'Hunyadi'§!\n\nÜberprüfen Sie das §RWaffen-SS Fenster§!"
  ss_poppup.41.d:0 "\n\nVerfügbar ab:\n§B5 November 1944: 26. Waffen-Grenadier-Division der SS 'Hunyadi'§!\n\nÜberprüfen Sie das §RWaffen-SS Fenster§!"
  ss_poppup.42.d:0 "\n\nVerfügbar ab:\n§B5 Januar 1945: 29. Waffen-Grenadier-Division der SS§!\n§B5 Januar 1945: 32. SS-Freiwilligen-Grenadier-Division '30.Januar'§!\n§B5 Januar 1945: 33. Waffen-SS-Grenadier-Division 'Charlemagne'§!\n§B10 Januar 1945: 34. SS Freiwilligen-Grenadier-Division 'Landstorm Nederland'§!\n§B10 Januar 1945: 35. SS Polizei-Grenadier-Division§!\n§B10 Januar 1945: 36. Waffen-SS-Grenadier-Division§!\n§B12 Januar 1945: 37. SS Freiwilligen-Kavallerie-Division 'Lützow' §! \n\nPrüfen Sie den §RWaffen-SS Fenster§!Kein Bedarf"
+
+
+
+
+ ## EOF ## ""
