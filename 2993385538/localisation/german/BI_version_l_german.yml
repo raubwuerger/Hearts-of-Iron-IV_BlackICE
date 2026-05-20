@@ -5,7 +5,7 @@
 #-Also adjust GetVersion in common/scripted_localisation/ 
  BICE_mod_type: "§YHauptversion§!"
  BICE_version:0 "v10.0.12.1"
- BICE_checksum:0 "7d24"
+ BICE_checksum:0 "7d24" #don't forget to remove the git stuff before uploading
 #--------------------------------- 
 
 

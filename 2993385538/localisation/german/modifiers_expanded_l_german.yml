@@ -1579,7 +1579,7 @@ trait_naval_liason_xp_gain_factor:0	"Marine Verbindungsmann Eigenschaft XP gewin
 trait_naval_lineage_xp_gain_factor:0	"Marine Abstammung Eigenschaft XP Gewinn"
 trait_navy_career_officer_xp_gain_factor:0	"Marine Karriereoffizier Eigenschaft XP Gewinn"
 trait_navy_media_personality_xp_gain_factor:0	"Eigenschaft Medienpersönlichkeit der Marine XP gewinnen"
-trait_offensive_doctrine_xp_gain_factor:0	"Offensiv-Doktrin Eigenschaft XP Gewinn"
+trait_offensive_doctrine_xp_gain_factor:0	"Offensivdoktrin Eigenschaft XP Gewinn"
 trait_old_guard_navy_xp_gain_factor:0	"Alte Garde Marine Eigenschaft XP Gewinn"
 trait_old_guard_xp_gain_factor:0	"Erfahrungsgewinn der Eigenschaft Alte Garde"
 trait_operative_commando_xp_gain_factor:0	"Eigenschaft Operatives Kommando XP gewinnen"

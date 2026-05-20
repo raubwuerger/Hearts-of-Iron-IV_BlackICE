@@ -296,7 +296,7 @@
 
  EAI_config_ARMY_land_category_headline:0 "Bodentruppen"
 
- EAI_config_ARMY_L1_text:0 "Land-Doktrin"
+ EAI_config_ARMY_L1_text:0 "Landdoktrin"
  EAI_config_ARMY_L1_tt:0 "§YDie Landdoktrin kann nicht mehr geändert werden, sobald das Land mit der Forschung daran begonnen hat.§!"
  EAI_config_ARMY_L1_tt2:0 "§RMassenangriffsdoktrin ist unvereinbar mit der 26er Breite der Infanterie.§!"
  EAI_config_ARMY_L1_dropdown_text:0 "[EAI_GetLandDoctrine]"
