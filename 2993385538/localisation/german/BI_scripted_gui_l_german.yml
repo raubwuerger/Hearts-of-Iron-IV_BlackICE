@@ -162,7 +162,7 @@ ROOT_MANPOWER_QUEUE:0	"§Y[?amount_manpower_in_deployment_queue]§! £manpower_i
  
 TOTAL_FAC_TT:0	"§YFabriken§!\nZivilfabriken: [?num_of_civilian_factories|Y0]\n §LVerfügbare Fabriken für Projekte: [?num_of_civilian_factories_available_for_projects]§!\nMilitärische Fabriken: [?num_of_military_factories|Y0]\nMarinewerften: [?num_of_naval_factories|Y0] \n \nLuftmontagewerke: [?num_air_assembly|Y0]\nPanzermontagewerke: [?num_tank_assembly|Y0]\nMotormontagewerke: [?num_engine_assembly|Y0]\nArtilleriemontagewerke: [?num_artillery_assembly|Y0]"
  
-STORAGE_TOPBAR_TEXT:0	"§Y[?v.GetTokenLocalizedKey] Lagerbestand§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n – Tägliche Aufstockung: [GetStorageInput] \n – Tägliche Ausgabe: [?storage_output@var:v|0-] ([?global.resource_cost@var:v|Y0] pro Speicher)\n\nMaximale Lagerkapazität: [?max_storage@var:v|Y0]\n Kapital: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivilefabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n Ressourcenproduktion: [?max_storage_resource@var:v|Y0]\n\n[GetStorageEstimate]"
+STORAGE_TOPBAR_TEXT:0	"§Y[?v.GetTokenLocalizedKey] Lagerbestand§!\n\nAktueller Lagerbestand: [?storage@var:v|Y0][GetStorageIcon] \n – Tägliche Aufstockung: [GetStorageInput] \n – Tägliche Ausgabe: [?storage_output@var:v|0-] ([?global.resource_cost@var:v|Y0] pro Speicher)\n\nMaximale Lagerkapazität: [?max_storage@var:v|Y0]\n Basislagerkapazität: [?storage_base|Y0]\n [?num_owned_civilian_factories|0] Zivilefabriken: [GetStorageCivilian]\n [?num_storage@var:v] Lagergebäude: [GetStorageBuildingMax]\n Ressourcenproduktion: [?max_storage_resource@var:v|Y0]\n\n[GetStorageEstimate]"
 STORAGE_TOPBAR_TOOLTIP_DELAYED:0	"[GetStorageSettingTT]"
   
 STORAGE_ESTIMATE_EMPTY_TEXT:0	"Wir gehen davon aus, dass unsere Lagerbestände in [?m|R0] Tagen aufgebraucht sein werden"
@@ -1742,7 +1742,7 @@ ALUMINIUM_ENERGY_COST_DEFICIT_TOOLTIP:0	"\n§RErfordert [?energy_deficit_@alumin
 ALUMINIUM_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0	"§RRaffinerien: [?deficit_ratio|%]§!"
 ALUMINIUM_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0	"£resources_strip|2 §RProduktion bei voller Energie: [?deficit_flat]§!"
 
-ASSIGNED_ALUMINIUM_REFINERIES_TOOLTIP:0	"§YRaffinerien§!\nWir haben insgesamt [?num_refinery@aluminium|Y0]£resources_strip|2 Raffinerien, von denen [?num_refinery_assigned@aluminium|Y0] zugewiesen sind.\n\n[?num_active_refinery@aluminium|Y1] Raffinerien sind §OAktive§!\n[?num_refinery_inactive@aluminium|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@aluminium|Y1] Raffinerien sind §Rbeschädigt§!"
+ASSIGNED_ALUMINIUM_REFINERIES_TOOLTIP:0	"§YRaffinerien§!\nWir haben insgesamt [?num_refinery@aluminium|Y0]£resources_strip|2 Aluminiumhütten, von denen [?num_refinery_assigned@aluminium|Y0] zugewiesen sind.\n\n[?num_active_refinery@aluminium|Y1] Aluminiumhütten sind §Oin Verwendung§!\n[?num_refinery_inactive@aluminium|Y1] Aluminiumhütten sind §Cnicht in Verwendung§!\n[?num_refinery_damaged@aluminium|Y1] Aluminiumhütten sind §Rbeschädigt§!"
 
 ALUMINIUM_REFINERY_ENTRY_TOOLTIP:0	"[!assign_aluminium_refinery_tooltip_click]"
 
@@ -1759,7 +1759,7 @@ STEEL_ENERGY_COST_DEFICIT_TOOLTIP:0	"\n§RErfordert [?energy_deficit_@steel] zus
 STEEL_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0	"§RAktuelle Effizienz: [?deficit_ratio|%]§!"
 STEEL_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0	"£resources_strip|5 §RAusstoß bei voller Energie: [?deficit_flat]§!"
 
-ASSIGNED_STEEL_REFINERIES_TOOLTIP:0	"§YRaffinerien§!\nWir haben insgesamt [?num_refinery@steel|Y0]£resources_strip|5 Raffinerien, von denen [?num_refinery_assigned@steel|Y0] zugewiesen sind.\n\n[?num_active_refinery@steel|Y1] Raffinerien sind §OAktive§!\n[?num_refinery_inactive@steel|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@steel|Y1] Raffinerien sind §Rbeschädigt§!"
+ASSIGNED_STEEL_REFINERIES_TOOLTIP:0	"§YStahlwerke§!\nWir haben insgesamt [?num_refinery@steel|Y0]£resources_strip|5 Stahlwerke, von denen [?num_refinery_assigned@steel|Y0] in Verwendug sind.\n\n[?num_active_refinery@steel|Y1] Stahlwerke sind §Oin Verwendung§!\n[?num_refinery_inactive@steel|Y1] Stahlwerke sind §Cnicht in Verwendung§!\n[?num_refinery_damaged@steel|Y1] Stahlwerke sind §Rbeschädigt§!"
 ALERT_STEEL_REFINERY_TOOLTIP:	"§YKlick§! um die Anzeige von §Ynicht zugewiesenen Raffinierien§! auf der Registerkarte Handel umzuschalten "
 
 STEEL_REFINERY_ENTRY_TOOLTIP:0	"[!assign_steel_refinery_tooltip_click]"
@@ -1776,7 +1776,7 @@ RUBBER_ENERGY_COST_DEFICIT_TOOLTIP:0	"\n§RErfordert [?energy_deficit_@rubber] z
 RUBBER_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0	"§RAktuelle Effizienz: [?deficit_ratio|%]§!"
 RUBBER_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0	"£resources_strip|2 §RAusstoß bei voller Energie: [?deficit_flat]§!"
 
-ASSIGNED_RUBBER_REFINERIES_TOOLTIP:0	"§YRaffinerien§!\nWir haben insgesamt [?num_refinery@rubber|Y0]£resources_strip|3 Raffinerien, von denen [?num_refinery_assigned@rubber|Y0] zugewiesen sind.\n\n[?num_active_refinery@rubber|Y1] Raffinerien sind §OAktive§!\n[?num_refinery_inactive@rubber|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@rubber|Y1] Raffinerien sind §Rbeschädigt§!"
+ASSIGNED_RUBBER_REFINERIES_TOOLTIP:0	"§YKautschukraffinerien§!\nWir haben insgesamt [?num_refinery@rubber|Y0]£resources_strip|3 Kautschukraffinerien, von denen [?num_refinery_assigned@rubber|Y0] zugewiesen sind.\n\n[?num_active_refinery@rubber|Y1] Kautschukraffinerien sind §Oin Verwendung§!\n[?num_refinery_inactive@rubber|Y1] Kautschukraffinerien sind §Cnicht in Verwendung§!\n[?num_refinery_damaged@rubber|Y1] Kautschukraffinerien sind §Rbeschädigt§!"
 
 RUBBER_REFINERY_ENTRY_TOOLTIP:0	"[!assign_rubber_refinery_tooltip_click]"
 
@@ -1793,7 +1793,7 @@ FUEL_ENERGY_COST_DEFICIT_TOOLTIP:0	"\n§RErfordert [?energy_deficit_@fuel] zusä
 FUEL_ENERGY_COST_DEFICIT_RATIO_TOOLTIP:0	"§RAktuelle Effizienz: [?deficit_ratio|%]§!"
 FUEL_ENERGY_COST_DEFICIT_FLAT_TOOLTIP:0	"£resources_strip|2 §RAusstoß bei voller Energie: [?deficit_flat]§!"
 
-ASSIGNED_FUEL_REFINERIES_TOOLTIP:0	"§YRaffinerien§!\nWir haben insgesamt [?num_refinery@fuel|Y0]£fuel_state Raffinerien, von denen [?num_refinery_assigned@fuel|Y0] für Umwandlung zugewiesen sind.\n\n[?num_active_refinery@fuel|Y1] Raffinerien sind §OAktive§!\n[?num_refinery_inactive@fuel|Y1] Raffinerien sind §Cinactive§!\n[?num_refinery_damaged@fuel|Y1] Raffinerien sind §Rbeschädigt§!"
+ASSIGNED_FUEL_REFINERIES_TOOLTIP:0	"§YRaffinerien§!\nWir haben insgesamt [?num_refinery@fuel|Y0]£fuel_state Raffinerien, von denen [?num_refinery_assigned@fuel|Y0] für Umwandlung zugewiesen sind.\n\n[?num_active_refinery@fuel|Y1] Raffinerien sind §Oin Verwendung§!\n[?num_refinery_inactive@fuel|Y1] Raffinerien sind §Cnicht in Verwendung§!\n[?num_refinery_damaged@fuel|Y1] Raffinerien sind §Rbeschädigt§!"
 
 FUEL_REFINERY_ENTRY_TOOLTIP:0	"[!assign_fuel_refinery_tooltip_click]"
 
@@ -1899,8 +1899,8 @@ CIVILIAN_ENERGY_TOOLTIP:	""
  ## FOOD
 TOPBAR_FOOD_TOOLTIP:	"[!text_click][dirty]"
 RATIONS_TITLE:	"§YLebensmittel§!\n\n[GetFoodDecayLoc]\n§YZiviler Verbrauch ([?modifier@food_need_civilian|=-%1g]) §!\n Eigene Bevölkerung: [?food_need_pop|Y0]\n Fremde Bevölkerung: [?food_need_pop_occ|Y0]\n§YMilitärer Verbrauch ([?modifier@food_need_military|=-%1g])§!\n Streitkräfte: [?food_need_army|Y0]\n Garnison: [?food_need_garrison|Y0]\n Ausbildung: [?food_need_deployment|Y0]\n\n"
-FOOD_DECAY:	"Aktuelle Lebensmittel: [?food|Y1]§YK§!\nMaximale Lagerkapazität: §Y[?food_max|1]K§!\n\nAktuelle tägliche Änderung: [?food_balance|+=0]\n - Aktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\n -Aktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\n - Jeden Tag [?decay|%R1] ([?decay_flat|Y0]) unserer Rationen verfallen.\n\nMit unserem aktuellen Lagerbestand schätzen wir, dass wir unseren §YLebensmittelvorrat§! bis zu [?food_fill_target|%1Y] füllen können\n"
-FOOD_MITIGATION:	"Aktuelle §YStrafe aufgrund Lebensmittelmangel:§! [?lack_of_food|%R1]\n\nAktuelle tägliche Änderung: [?food_balance|+=0]\n -Aktueller täglicher Gewinn: [?income|0Y] ([? amount_food]£resources_strip|10))\n -Aktueller täglicher Verbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\n -Notfallrationierung reduziert den Verbrauch um: [?mitigation_flat|Y0]. \n\nMit unserem aktuellen Lagerbestand gehen wir davon aus, dass wir einer Strafe wegen §YLebensmittelmangel§! von [?mangel_of_food_max|%1-] tendieren werden\n"
+FOOD_DECAY:	"Aktuelle Lebensmittel: [?food|Y1]§YK§!\nMaximale Lagerkapazität: §Y[?food_max|1]K§!\n\nAktuelle tägliche Änderung: [?food_balance|+=0]\n - Aktueller Tagesgewinn: [?income|0Y] ([?amount_food]£resources_strip|10))\n -Aktueller Tagesverbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\n - Jeden Tag verfallen [?decay|%R1] ([?decay_flat|Y0]) unserer Rationen.\n\nMit unserem aktuellen Lagerbestand schätzen wir, dass wir unseren §YLebensmittelvorrat§! bis zu [?food_fill_target|%1Y] füllen können\n"
+FOOD_MITIGATION:	"Aktuelle §YStrafe aufgrund Lebensmittelmangel:§! [?lack_of_food|%R1]\n\nAktuelle tägliche Änderung: [?food_balance|+=0]\n - Aktueller täglicher Gewinn: [?income|0Y] ([? amount_food]£resources_strip|10))\n -Aktueller täglicher Verbrauch: [?food_usage|Y0] ([?modifier@food_need_total|=-%1])\n -Notfallrationierung reduziert den Verbrauch um: [?mitigation_flat|Y0]. \n\nMit unserem aktuellen Lagerbestand gehen wir davon aus, dass wir einer Strafe wegen §YLebensmittelmangel§! von [?mangel_of_food_max|%1-] tendieren werden\n"
 RATIONS_INCREASE:	"§G[?food_days|1%]§!"
 RATIONS_DECREASE:	"§Y[?food_days|1%]§!"
 RATIONS_INSUFFICIENT:	"§R[?food_days|1%]§!"

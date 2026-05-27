@@ -256,7 +256,7 @@ EFFECT_UNLOCK_DECISION_TIMED_HEADER:0	"£decision_icon_small Entfernt nach $DAYS
 EFFECT_UNLOCK_DECISION_REMOVE_HEADER:0	"£decision_icon_small Wenn die Entscheidung entfernt wird:"
 EFFECT_UNLOCK_DECISION:0	"£decision_icon_small Entsperrt Entscheidung: $NAME|H$$EFFECT$"
 EFFECT_UNLOCK_DECISION_CATEGORY:0	"£decision_icon_small Entriegelt $NAME|H$$Entscheidungen."
-EFFECT_MODIFY_BUILDING_RESOURCES:0	"Ändern Sie $BUILDING|H$ Ressourcenausgabe um: $AMOUNT|+=$£resources_strip|$FRAME$."
+EFFECT_MODIFY_BUILDING_RESOURCES:0	"Ändert die $BUILDING|H$ Ressourcenausgabe um: $AMOUNT|+=$£resources_strip|$FRAME$."
 EFFECT_ADD_MAX_TRAIT:0	"Fügt $NUM|G$ leeren zuweisbaren Eigenschaftsplatz hinzu."
 EFFECT_START_BORDER_WAR:0	"Beginnt einen Grenzkrieg zwischen $STATE1|H$ und $STATE2|H$."
 EFFECT_CANCEL_BORDER_WAR:0	"Bricht den Grenzkrieg zwischen $STATE1|H$ und $STATE2|H$ ab."
