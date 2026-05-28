@@ -240,7 +240,7 @@ OCCUPATION_STATE_OCCUPATION_INFO_NO_RESISTANCE:0	""
 
  #OCCUPATION_STATE_OCCUPATION_INFO:0 "Der Staat hat einen Widerstand von $COUNTRY|H$"
  #OCCUPATION_STATE_OCCUPATION_INFO_NO_RESISTANCE:0 "Es gibt keinen Widerstand in dem Staat"
-non_core_controller:0	"Fremdländisch Besetzt"
+non_core_controller:0	"Besetzt"
 non_core_controller_desc:0	"Eine Provinz, die von einer fremden Macht kontrolliert wird"
 recent_state_change:	"Hat kürzlich den Besitzer gewechselt"
 

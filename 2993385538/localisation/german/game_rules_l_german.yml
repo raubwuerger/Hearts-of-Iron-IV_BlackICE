@@ -411,7 +411,7 @@ RULE_OPTION_DISABLE_ai_foreign_ministers_DESC:	"Keine KI-Auslandsminster erhalte
 RULE_OPTION_ALLOW_ai_major_foreign_ministers:	"Große KIs"
 RULE_OPTION_ALLOW_ai_major_foreign_ministers_DESC:	"Nur Major AI's Foreign Minsters erhalten Missionen"
 RULE_ALLOW_SCORCHED_EARTH:0	"Verbrannte Erde"
-RULE_ALLOW_SCORCHED_EARTH_ALLOWED_DESC:0	"Länder können „Verbrannte Erde“ frei verwenden."
+RULE_ALLOW_SCORCHED_EARTH_ALLOWED_DESC:0	"Länder können \"Verbrannte Erde\" frei verwenden."
 RULE_ALLOW_SCORCHED_EARTH_BLOCKED_DESC:0	"Länder dürfen Verbrannte Erde unter keinen Umständen verwenden."
 RULE_ALLOW_SCORCHED_EARTH_BLOCKED:0	"Verbrannte Erde ist in den benutzerdefinierten Spielregeln deaktiviert.\n\n"
 RULE_OPTION_DISABLE_all_foreign_ministers:	"Deaktiviert"

@@ -778,7 +778,7 @@ ARMY_LEADER_EXPEDITIONARY_FORCE_ICON:0	"Dieses Heer ist ein leeres Heer, das fü
 ARMY_LEADER_CREATE_EXPEDITIONARY_FORCE_GROUP:0	"Klicken Sie, um ein leeres Heer für die Anforderung von Expeditionskräften zu erstellen."
 UNITS_VIEW_BTN_EXECUTION_STOP:0	"Anhalten"
 UNITS_VIEW_BTN_EXECUTE:0	"Ausführen von"
-UNITS_VIEW_BTN_EXECUTE_TOOLTIP:1	"§GKlicken§! um die Ausführung des gesamten Plans zu $ACTION$ und dann §YKlicken Sie auf den gewünschten Befehl§! um die Ausführung umzuschalten§GStrg + Klicken§! um die Ausführung aller zugewiesenen Divisionen und Armeen umzuschalten"
+UNITS_VIEW_BTN_EXECUTE_TOOLTIP:1	"§GKlick§! auf $ACTION$, um den §Ygesamten Plan§! auszuführen.\n§GUmschalt + Klick§! und dann §YKlick auf den gewünschten Befehl§!, um die Ausführung umzuschalten\n§GStrg + Klick§!, um die Ausführung aller zugewiesenen Divisionen und Armeen umzuschalten"
 UNITS_VIEW_BTN_EXECUTE_TOOLTIP_PLAY:0	"§YAKTIVIEREN§!"
 UNITS_VIEW_BTN_EXECUTE_TOOLTIP_STOP:0	"§YSTOP§!"
 UNITS_VIEW_BTN_EXECUTE_NONE_SET_TOOLTIP:1	"Diese Armee hat keine Befehle zum Ausführen. Um sie zu aktivieren, müssen Sie einen Plan erstellen."

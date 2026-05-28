@@ -1255,7 +1255,7 @@ SAF_HVanti_air_equipment_3_desc:0 "Durch die Kombination verschiedener neuer Mun
  RAJ_cruiser_tank_equipment_2:0 "Kreuzer Mk.II"
  cruiser_tank_equipment_2:0 "Kreuzer Panzer"
  cruiser_tank_equipment_2_short:0 "Kreuzer Mk.II (A10)"
- cruiser_tank_equipment_2_desc:0 "Einheitstyp: Cruiser Tank\n\n Der Cruiser Mk. II wurde parallel zum Cruiser Mk. I entwickelt und sollte ein schwerer Infanteriepanzer sein, wurde aber für eine solche Rolle als nicht geeignet erachtet. Die Panzerstärke wurde von 14 mm auf 25 mm erhöht, er verfügte über eine QF-2-Pfünder-Kanone und den gleichen Motor wie der Cruiser Mk I, war aber zwei Tonnen schwerer. Obwohl die Mk II in Frankreich eingesetzt wurde, gingen etwa 90 Prozent durch mechanische Defekte verloren."
+ cruiser_tank_equipment_2_desc:0 "Einheitstyp: Kreuzerpanzer\n\n Der Cruiser Mk. II wurde parallel zum Cruiser Mk. I entwickelt und sollte ein schwerer Infanteriepanzer sein, wurde aber für eine solche Rolle als nicht geeignet erachtet. Die Panzerstärke wurde von 14 mm auf 25 mm erhöht, er verfügte über eine QF-2-Pfünder-Kanone und den gleichen Motor wie der Cruiser Mk I, war aber zwei Tonnen schwerer. Obwohl die Mk II in Frankreich eingesetzt wurde, gingen etwa 90 Prozent durch mechanische Defekte verloren."
  ENG_cruiser_tank_equipment_3:0 "Kreuzer Mk.IV"
  CAN_cruiser_tank_equipment_3:0 "Kreuzer Mk.IV"
  AST_cruiser_tank_equipment_3:0 "Kreuzer Mk.IV"

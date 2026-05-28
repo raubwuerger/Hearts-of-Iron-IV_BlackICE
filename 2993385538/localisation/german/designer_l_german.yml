@@ -248,7 +248,6 @@ plane_designer_maritime_patrol_plane:1	"Marine-Patrouillenbomber"
 plane_designer_heavy_fighter:0	"Schweres Jagdflugzeug"
 
 ### name list themes ""
-#l_german: ""
 # name list themes -- updated to include country-specific and other new list names ""
 NAME_THEME_RIVERS:0	"Flüsse"
 NAME_THEME_FISH:0	"Fische"

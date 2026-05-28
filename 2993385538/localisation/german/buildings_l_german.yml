@@ -43,8 +43,8 @@ shipyard_capital_building_plural:0	"Große Schiffswerften"
 shipyard_capital_building_desc:0	"Eine große Schiffswerft stellt §YGroßkampfschiffensbau Kapazität§! zur Verfügung, die für den Bau von §YGroßkampfschiffen§! und §YTrägern§! $shipyard_capital_building_effect$ erforderlich ist"
  
 research_centre:0	"Forschungszentrum"
-research_centre_desc:0	"Forschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YNationale Focuse§! und §YEreignisse§! gewonnen werden. Der Verlust eines Staates mit einem §YForschungszentrum§! führt zum Verlust eines £tech_mod §YForschungsplatz§!. \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
-research_centre_overlay:0	"§YForschungszentrum§!\n\nForschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YNationale Focuse§! und §YEreignisse§! gewonnen werden. Verlust eines Staates mit einem §YForschungszentrum§! führt zum Verlust eines £tech_mod §YForschungsbereichs§!. \n\n£trigger_no Dieses Gebäude ist §Rnicht baubar.§!"
+research_centre_desc:0	"Forschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YNationale Focuse§! und §YEreignisse§! gewonnen werden. Der Verlust einer Provinz mit einem §YForschungszentrum§! führt zum Verlust eines £tech_mod §YForschungsplatz§!. \n\n£trigger_no Dieses Gebäude kann §Rnicht gebaut werden.§!"
+research_centre_overlay:0	"§YForschungszentrum§!\n\nForschungszentren stellen Ihrer Nation £tech_mod §YForschungsplätze§! zur Verfügung. Sie können durch §YNationale Focuse§! und §YEreignisse§! gewonnen werden. Verlust einer Provinz mit einem §YForschungszentrum§! führt zum Verlust eines £tech_mod §YForschungsbereichs§!. \n\n£trigger_no Dieses Gebäude kann §Rnicht gebaut werden.§!"
  
 industrial_complex:0	"Zivilfabrik"
 industrial_complex_plural:0	"Zivilfabriken"
